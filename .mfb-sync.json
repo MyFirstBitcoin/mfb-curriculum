@@ -1,10 +1,11 @@
 {
-  "rendererVersion": 5,
-  "syncedAt": "2026-09-03T21:51:15.177Z",
+  "rendererVersion": 8,
+  "syncedAt": "2026-10-07T21:17:49.555Z",
   "programs": [
     "bitcoin-diploma",
     "bitcoin-for-juniors",
     "bitcoin-for-organizations",
+    "education-network",
     "educator-guide",
     "educator-training-program",
     "introduction-to-bitcoin"
