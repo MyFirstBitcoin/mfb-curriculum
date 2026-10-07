@@ -1,0 +1,5 @@
+# 3.15 Evaluación de competencias prácticas supervisada por un educador
+
+Antes de la evaluación, practicarás con acompañamiento y conocerás la tarea y los límites de seguridad. Tu docente —no una aplicación, un registro de asistencia ni una autoevaluación— te observará mientras usas un entorno aprobado, previamente preparado, simulado o de bajo riesgo.
+
+Demostrarás que puedes abrir la billetera preparada o navegar por ella, completar un procedimiento aprobado de acceso inicial, localizar y verificar la información para recibir fondos, y recibir bitcoin o simular su recepción de forma segura. También completarás o simularás de forma segura un proceso de recepción o envío y demostrarás que sabes cómo recuperar el acceso con materiales preparados, sin revelar ningún dato secreto. Podrás practicar cómo responder de forma segura ante una discrepancia o una estafa mediante situaciones guiadas. Si aún no tienes la preparación necesaria, deberías recibir retroalimentación, más práctica y otra oportunidad para demostrar la habilidad.
