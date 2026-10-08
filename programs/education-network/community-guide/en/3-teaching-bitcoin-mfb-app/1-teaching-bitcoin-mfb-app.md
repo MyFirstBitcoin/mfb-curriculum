@@ -1,3 +1,3 @@
-# 4.1 Teaching Bitcoin: MFB App
+# 2.1 Teaching Bitcoin: MFB App
 
 Coming soon: this section is being written.

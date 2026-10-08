@@ -1,4 +1,4 @@
-# 5.1 Visibility & Reach
+# 8.1 Visibility & Reach
 
 Making your project visible is essential to reaching new students, collaborators, and supporters. The Education Network provides several open tools to help your classes and community be discovered globally.
 

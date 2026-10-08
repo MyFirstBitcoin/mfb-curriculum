@@ -31,7 +31,7 @@ You can find past and upcoming agendas in the shared GA folder.
 
 ## Your First General Assembly
 
-As a new Community, your first General Assembly is special. You’ll be:
+Your Community is invited to its first General Assembly once it reaches a reputation score of 500 on the Education Network Leaderboard. That first General Assembly is special. You’ll be:
 
 * Welcomed by the network
 * Given time to introduce yourself and your project

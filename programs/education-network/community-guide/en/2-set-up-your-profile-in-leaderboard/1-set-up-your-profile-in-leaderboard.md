@@ -1,4 +1,4 @@
-# 2.1 Set up your Profile in Leaderboard
+# 7.1 Set up your Profile in Leaderboard
 
 The [**Education Network Leaderboard**](https://leaderboard.myfirstbitcoin.org/) is a public record of the local communities teaching Bitcoin in the My First Bitcoin Education Network, and of the work each of them has done.
 

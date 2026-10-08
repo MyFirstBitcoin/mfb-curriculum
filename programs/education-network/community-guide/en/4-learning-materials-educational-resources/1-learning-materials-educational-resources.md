@@ -1,4 +1,4 @@
-# 3.1 Learning Materials: Educational Resources
+# 1.1 Learning Materials: Educational Resources
 
 **Start with the Educator Guide.** The _Bitcoin Diploma Educator Guide_ is the most complete guide to teaching with My First Bitcoin materials: your role as an educator, planning the course, facilitation methods, a companion for every module, adapting to your language and context, closing the Diploma well, and what comes after. Read it before you teach your first class: [https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/en/educator-guide/](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/en/educator-guide/)
 

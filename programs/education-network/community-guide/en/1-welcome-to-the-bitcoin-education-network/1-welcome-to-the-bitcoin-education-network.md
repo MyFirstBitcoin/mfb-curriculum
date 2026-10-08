@@ -1,4 +1,4 @@
-# 1.1 Welcome to the Bitcoin Education Network
+# 6.1 Welcome to the Bitcoin Education Network
 
 Welcome to the **My First Bitcoin Education Network**. You are now part of a global, decentralized movement focused on independent, impartial, and community-led Bitcoin Education. We’re glad you’re here!
 
