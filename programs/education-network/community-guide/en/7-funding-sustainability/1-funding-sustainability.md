@@ -61,6 +61,16 @@ To get started, follow the [Geyser guide](https://guide.geyser.fund/geyser-docs)
 * My First Bitcoin’s BTCPay Server for Education Network members
 * Self-hosted BTCPay instances for maximum independence
 
+## A Bitcoin-Only Policy
+
+Living what you teach builds trust. My First Bitcoin's own policy is to hold its savings in Bitcoin, pay in Bitcoin wherever possible, and document every exception and the reason for it.
+
+* Start where it is easy: receive donations and hold savings in Bitcoin.
+* Keep a list of payments that still need traditional money, and look for Bitcoin alternatives with your community.
+* Review the list every month, and share what you learn about the risks and challenges.
+
+**Template:** our [Bitcoin-Only Policy](https://drive.google.com/file/d/1NUthCz-WVTdDaCA4jx4uokyqIWrjVODc/view). Adapt it to your situation and adopt it gradually.
+
 ## Building a Strong Foundation
 
 Sustainable funding follows strong foundations. Projects with:
@@ -74,7 +84,7 @@ build trust and reduce the risk of mission drift.
 
 ## Open Source Everything Repository
 
-To support projects in building responsibly from the start, My First Bitcoin maintains the [Open Source Everything](https://github.com/MyFirstBitcoin/Open-Source-Everything) repository.
+To support projects in building responsibly from the start, My First Bitcoin maintains the [Open Source Everything](https://drive.google.com/drive/folders/1W0W-q-f3v4hoI3PitB2PYOmAHnTOVKAb) repository.
 
 This repository contains the operational tools, templates, and frameworks used by My First Bitcoin itself, shared openly with the Education Network.
 
@@ -113,6 +123,8 @@ A simple and sustainable practice is to publish regular updates that combine:
 
 * A brief financial overview
 * A short impact summary
+
+**Templates:** a [Financial Report](https://drive.google.com/file/d/1K9Ypm0ISzdkW4BKg6BAwF9ip7f4X1Nwt/view), a [Financial Forecast](https://drive.google.com/file/d/1ejyYteHi5rProQOfhSfdk1Arnnvo6Yzz/view) and a [Monthly Bitcoin Transactions Overview](https://drive.google.com/file/d/14wXuPuooDjmza9kzeud1LngmdSHQPswS/view). For the impact summary, see _Measuring Impact_.
 
 ## Institutional and Grant-Based Funding
 

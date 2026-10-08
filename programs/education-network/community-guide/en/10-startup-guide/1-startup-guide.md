@@ -39,11 +39,13 @@ For what to teach and how, see _Learning Materials_ and the Educator Training Pr
 * A good second team member is a generalist who knows how to operate. We look for mission alignment first, then systems thinking, digital literacy, clear written and verbal communication, and the ability to follow through.
 * Our best contributors have found us. When we do recruit, we use [Bitcoiner Jobs](https://bitcoinerjobs.com/).
 * **Action:** write each role down with a scope of work, KPIs and how you will evaluate it.
+* **Templates:** our [Scope of Work guide](https://drive.google.com/drive/folders/1bIvr1O4CLWTD3a9maBNMmnNxZa9pBhgA) and the [Team Evaluations Tracker](https://drive.google.com/file/d/1QG1XWsiwGibNFY8SViOMJCcUolL7xK2-/view).
 
 ## 5. Draw your organisational chart
 
 * Show your structure, who reports to whom, and the key responsibilities.
 * **Action:** start from one of [Miro's organisational chart templates](https://miro.com/templates/organizational-charts/).
+* See also our [Accountability Chart guide](https://drive.google.com/drive/folders/1W1CykeFk6Ykir_OJQFlfP8MiQqiEaeW0): one owner for every responsibility.
 
 ## 6. Your one-pager
 
@@ -60,12 +62,14 @@ For what to teach and how, see _Learning Materials_ and the Educator Training Pr
 
 * Write a proposal that says clearly how funds will be used and what difference they make.
 * Keep a simple follow-up system for sponsors and donors. A spreadsheet is fine to start; move to a CRM as your list grows.
+* **Template:** a simple [Fundraising Dashboard](https://drive.google.com/file/d/1yAmhZD_MQ1clNGABGS-6P5jsnzcUA9fr/view) to start with.
 
 For which funding to accept, which to refuse, and the grant facilities aligned with our work, see _Funding & Sustainability_ (unlocks at a reputation score of 500).
 
 ## 9. Stay compliant
 
 * Review and update your legal documents regularly.
+* **Template:** a [Non-Disclosure Agreement](https://drive.google.com/file/d/1XuUVvp5KP8-vnORnlsVFpt_aBWkWalIl/view) for advisory board members. Have it checked for your country.
 * Keep good records, and review them with your CPA or tax professional.
 * Compliance rules are regional. If you find a lawyer in your region who understands Bitcoin, tell us so we can share it with other Communities.
 
@@ -73,6 +77,6 @@ For which funding to accept, which to refuse, and the grant facilities aligned w
 
 * Set quarterly and monthly goals, and review them.
 * Use feedback and data to decide what to change.
-* **Resource:** My First Bitcoin's [introduction to Objectives and Key Results (OKRs)](https://docs.google.com/document/d/1YYsUSyKpNX73m1B15Opi1dRs6Isnzgy0XIUncWilLsk/edit).
+* **Resource:** see _Measuring Impact_ for objectives and key results (OKRs) and a weekly scorecard, and My First Bitcoin's [Operating System](https://drive.google.com/drive/folders/1uleXQj3yIZbSsMRC2uit-pXHVt90W3NU) (ten steps, from an annual vision plan to standard operating procedures).
 
 For how to measure and report what your Community does, see _Measuring Impact_.
