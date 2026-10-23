@@ -1,0 +1,5 @@
+# Übernehmen Sie den Staffelstab
+
+Diese Neugestaltung gibt Lehrenden mehr Struktur, wo Einheitlichkeit wichtig ist, und mehr Freiraum, wo lokales Wissen zählt. Ihre sorgfältige Moderation macht aus dem Bitcoin Diploma statt eines Buches eine gemeinsame Lernerfahrung, die Menschen hilft, klar über Geld, Bitcoin, Verantwortung und ihre eigene Gemeinschaft nachzudenken.
+
+Wenn Sie über das Bitcoin Diploma hinaus optional weiterlernen möchten, erkunden Sie das [Educator Training Program](https://etp.myfirstbitcoin.org/) oder vernetzen Sie sich über das [Bitcoin Education Network](https://leaderboard.myfirstbitcoin.org). Sie können außerdem [Feedback geben](https://forms.myfirstbitcoin.org/feedback), [Korrekturen oder Verbesserungen von Übersetzungen einreichen](https://forms.myfirstbitcoin.org/proofread), lokale Lernmaterialien über das [offizielle Beitragsformular](https://forms.myfirstbitcoin.org/) teilen oder das Open-Source-[Lehrplan-Repository](https://github.com/MyFirstBitcoin/mfb-curriculum) nutzen, um aktuelle Ausgaben zu prüfen und sich an der Verbesserung des Werks zu beteiligen. Keiner dieser Links ist für den Abschluss des Bitcoin Diploma erforderlich.

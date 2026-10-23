@@ -1,0 +1,5 @@
+# Preuzmite odgovornost
+
+Ova prerada pruža nastavnicima jasniju strukturu ondje gdje je važna dosljednost i više prostora ondje gdje je važno lokalno znanje. Vašim pažljivim vođenjem Bitcoin Diploma iz knjige prerasta u zajedničko iskustvo učenja: iskustvo koje ljudima pomaže jasno razmišljati o novcu, Bitcoinu, odgovornosti i vlastitoj zajednici.
+
+Za neobavezno daljnje učenje izvan programa Bitcoin Diploma istražite [Program osposobljavanja nastavnika](https://etp.myfirstbitcoin.org/) ili se povežite putem [Mreže za obrazovanje o Bitcoinu](https://leaderboard.myfirstbitcoin.org). Možete i [podijeliti povratne informacije](https://forms.myfirstbitcoin.org/feedback), [poslati ispravke ili poboljšanja prijevoda](https://forms.myfirstbitcoin.org/proofread), podijeliti lokalne materijale za učenje putem [službenog obrasca za doprinose](https://forms.myfirstbitcoin.org/), ili upotrijebiti otvoreni [repozitorij nastavnog programa](https://github.com/MyFirstBitcoin/mfb-curriculum) kako biste provjerili aktualna izdanja i sudjelovali u poboljšanju sadržaja. Nijedna od ovih poveznica nije obavezna za završetak programa Bitcoin Diploma.

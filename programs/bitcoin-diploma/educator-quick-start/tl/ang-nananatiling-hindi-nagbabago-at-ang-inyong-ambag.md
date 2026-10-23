@@ -1,0 +1,7 @@
+# Ang Nananatiling Hindi Nagbabago—at ang Inyong Ambag
+
+**Panatilihing hindi nagbabago:** ang pagkakasunod-sunod ng apat na modyul; mga pangunahing layunin; pagtutok sa Bitcoin lamang; mga hangganan para sa kaligtasan; ang pagtatasa na may dalawang bahagi; at ang pinakamababang pamantayan sa pagkumpleto.
+
+**Iangkop nang maingat:** ang mga halimbawa, wika, gawain, bilis ng pagtuturo, pagpapangkat, suporta sa aksesibilidad, mga lokal na kasangkapan, at mga **Modyul 4** na senaryo. Ituro ang open-source na software ng wallet bilang mas mainam na opsiyon sa ilang kondisyon dahil ang code na maaaring siyasatin ay makapagpapahusay ng transparency, habang tinutulungan ang mga mag-aaral na ihambing ang pag-iingat at pagkontrol sa pondo, pagbawi ng akses, pagiging tugma, pagkapribado, pagpapanatili, gastos, at suporta. Ituring ang mga pinangalanang wallet, palitan, mangangalakal, mapa, at serbisyo bilang mga lokal na halimbawang angkop sa isang takdang panahon—hindi bilang mga pandaigdigang rekomendasyon. Beripikahin ang mga kasalukuyang pahayag at lokal na tuntunin gamit ang mga mapagkakatiwalaang sanggunian; kung hindi ninyo alam, sabihin ito at alamin.
+
+Ituro sa mga mag-aaral **kung paano mag-isip, hindi kung ano ang dapat isipin**. Tanggapin ang magalang na hindi pagsang-ayon. Hindi kailangang sumang-ayon ang isang mag-aaral sa isang pahayag upang matugunan ang pamantayan; kailangan niyang mangatwiran, ipaliwanag ang mga kaugnay na pakinabang at kapalit na limitasyon, at ligtas na ipamalas ang mga kinakailangang kasanayan.

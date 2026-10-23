@@ -1,0 +1,14 @@
+# 13.2 Değerlendirme Etkinlikleri Eşleştirme Tablosu
+
+Aşağıda bağlantısı verilen etkinlikleri, belirtilen yeterlilik için olası öğrenme veya bireysel kanıt bağlamları olarak kullanın. Bir etkinlik, eğitmene ilgili öğrenci yanıtını veya eylemini fark etmesi için adil bir fırsat sunmadığı sürece biçimlendirici olarak kalır. Gerektiğinde etkinliği uyarlayın ve sonucu Değerlendirme Tablosu'na kaydedin.
+
+
+| Değerlendirme Tablosu yeterliliği | Protokol görevi | Görevi destekleyebilecek etkinlikler | Gerekli ekleme veya sınırlama |
+| --- | --- | --- | --- |
+| C1 Para ve modern paranın artıları ile eksileri | T1 | Yinelemeli Takas Oyunu, Neden Paraya İhtiyacımız Var?, Takas Oyunu | Bireysel bir karşılaştırma ve doğrulanmış yerel ya da gerçekçi bir modern para senaryosu ekleyin; etkinliğe katılım tek başına üç gözlem ölçütünün tamamını karşılamaz. |
+| C2 Bitcoin'in temelleri ve kuralları | T2 | Mutabakat, Uygulamada İşlemler, Bitcoin Sağlam Para mı?, Doğrulama | Kopyalama/doğrulamaya ilişkin bireysel bir açıklama, Bitcoin'in ortak kuralları ve katılımcı rollerine ilişkin başlangıç düzeyinde bir açıklama ve Bitcoin'e ait bir özelliğin onun para olarak kullanımına nasıl yardımcı olabileceğine veya bu kullanımı nasıl sınırlayabileceğine dair bir açıklama ekleyin. |
+| C3 Rehberli dijital varlık karşılaştırması | T2 | Mevcut etkinliklerin hiçbiri değerlendirme kanıtı olarak uygun değildir. | Protokoldeki rehberli, tanıtım amacı taşımayan karşılaştırmayı kullanın ve öğrenme ya da sorumlu kullanımı alım satım, tanıtım veya spekülasyondan ayırt edin. |
+| C4 Cüzdanlar, saklama ve güvenlik | T3 | Bitcoin Cüzdanlarını Değerlendirin, İlk Bitcoin Cüzdanınızı Oluşturma | Saklama ve gizli bilgilere ilişkin bireysel bir açıklama, cüzdan türleri arasındaki ayrımın yapılmasını ve bir dolandırıcılık ya da hata senaryosuna güvenli bir yanıt verilmesini zorunlu tutun. |
+| C5 Ödeme ve erişim yolları | T3 | Mempool'u Keşfetmek, Lightning Bayrak Yarışı | Zincir üstü ve Lightning arasında bireysel bir karşılaştırma ile tavsiye niteliği taşımayan bir yol kararı verilmesini zorunlu tutun. Bayrak Yarışı, kullanılmadan önce güvenlik değişikliklerinin uygulanmasını gerektirir. |
+| C6 Güvenli erişim ve kurtarmaya hazırlık | P6a ve P6b | Lightning Bayrak Yarışı, İlk Bitcoin Cüzdanınızı Oluşturma | Tek bir sonuç kaydetmeden önce hazırlanmış bir ilk erişim/alma görevini ve ayrı bir kurtarmaya hazırlık simülasyonunu gözlemleyin. Bir öğrencinin gerçek gizli bilgisini veya bakiyesini asla toplamayın, görüntülemeyin ya da kaydetmeyin. |
+| C7 Bağlantı Kurun: yerel Bitcoin'in para olarak kullanımı görevi | P7 | Mevcut etkinliklerin hiçbiri değerlendirme kanıtı olarak uygun değildir. | Uygulamadan önce protokol kapsamında yerel bir Bağlantı Kurun görevi seçin ve onaylayın. Bu görev doğrudan gözlem, güvenli doğrulama, gerçekçi bir alternatif ve bireysel açıklama içermelidir. |

@@ -1,0 +1,7 @@
+# 2.7 Digitalni potpisi
+
+[Digitalni potpisi](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) jedan su od ključnih dijelova dizajna Bitcoina opisanog u bijeloj knjizi. U Bitcoinu novčanik koristi [privatni ključ](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) za izradu [digitalnog potpisa](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) kojim se odobrava [transakcija](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction). Novčanik je obično aplikacija koja upravlja ključevima i izrađuje te potpise za korisnika. Samo vlasnik potrebnog [privatnog ključa](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) može odobriti trošenje; mreža može provjeriti potpis bez poznavanja [privatnog ključa](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) kao takvog.
+
+To osobi omogućuje da upravlja bitcoinom bez traženja dopuštenja od banke ili drugog središnjeg operatera. To također znači da je kontrola nad [privatnim ključem](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) presudna: svatko tko ga pribavi obično može odobriti trošenje, dok gubitak ključa može učiniti bitcoin nepovratno nedostupnim.
+
+To je temelj [samostalnog skrbništva](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody): sami upravljate ključevima umjesto da se oslanjate na pružatelja usluge koji njima upravlja. **Modul 3** objašnjava praktične odgovornosti povezane sa sigurnošću ključeva, sigurnosnim kopijama i oporavkom.

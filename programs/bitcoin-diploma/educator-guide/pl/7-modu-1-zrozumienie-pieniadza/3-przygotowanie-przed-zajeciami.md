@@ -1,0 +1,13 @@
+# 7.3 Przygotowanie przed zajęciami
+
+* Proszę przeczytać sekcje **Modułu 1** w podręczniku dla uczestników i określić, które definicje wymagają objaśnień w lokalnym języku.
+* Proszę przygotować pięć pytań otwierających dyskusję w grupie.
+* Proszę wybrać jedno ćwiczenie dotyczące właściwości pieniądza i jedno dotyczące współczesnego pieniądza; proszę przejrzeć [Bibliotekę ćwiczeń](https://curriculum.myfirstbitcoin.org/activities/en/) w poszukiwaniu propozycji do dostosowania.
+* Proszę przygotować znane lokalnie przykłady [środka wymiany](https://curriculum.myfirstbitcoin.org/lexicon/en/#medium-of-exchange), [jednostki rozrachunkowej](https://curriculum.myfirstbitcoin.org/lexicon/en/#unit-of-account), a także [środka przechowywania wartości](https://curriculum.myfirstbitcoin.org/lexicon/en/#store-of-value).
+* Proszę wykorzystywać lokalne przykłady wyłącznie do zilustrowania wspólnych, neutralnych pojęć; weryfikować zmieniające się lokalne fakty, unikać rekomendacji i zachować ten sam standard kompetencji oraz dowodów ich opanowania.
+* Proszę zapoznać się z [walutami](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) i metodami płatności, z którymi uczestnicy spotykają się lokalnie.
+* Proszę przygotować się do poprowadzenia scenariusza dotyczącego lokalnego systemu pieniądza fiducjarnego. Proszę zidentyfikować właściwy bank centralny, banki komercyjne, dostawców usług płatniczych, role instytucji państwowych oraz zasady rozrachunku.
+* Proszę zweryfikować aktualne lokalne przepisy bankowe istotne dla dyskusji, w tym zasady dotyczące rezerw lub [płynności](https://curriculum.myfirstbitcoin.org/lexicon/en/#liquidity), wymogi [kapitałowe](https://curriculum.myfirstbitcoin.org/lexicon/en/#capital) objęte nadzorem, ochronę depozytów, zasady wypłat, zasady dostępu do rachunków oraz ochronę konsumentów. Proszę wyjaśniać wyłącznie zweryfikowane informacje i nie udzielać porad prawnych ani finansowych.
+* Proszę odszukać oficjalny wskaźnik [inflacji](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation), aktualną datę publikacji, opis koszyka oraz metodologię. Proszę przygotować przykład jednego lokalnego produktu z opatrzonym datami porównaniem [cen](https://curriculum.myfirstbitcoin.org/lexicon/en/#price).
+* Proszę sprawdzić, czy lokalna [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) istnieje, jest proponowana, czy pozostaje jedynie hipotetyczna. Proszę nie przedstawiać ogólnej cechy [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) jako potwierdzonego lokalnego faktu.
+* Proszę przygotować mapę ról do wykorzystania bez dostępu do internetu, szkic bilansu, przykład koszyka cenowego oraz zapasowy wariant ćwiczenia.

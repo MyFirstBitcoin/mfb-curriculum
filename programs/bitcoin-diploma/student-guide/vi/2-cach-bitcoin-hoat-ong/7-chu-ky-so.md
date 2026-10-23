@@ -1,0 +1,7 @@
+# 2.7 Chữ ký số
+
+[Chữ ký số](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) là một trong những thành phần then chốt trong thiết kế của Bitcoin được mô tả trong sách trắng. Trong Bitcoin, ví sử dụng một [khóa riêng tư](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) để tạo một [chữ ký số](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) nhằm cho phép thực hiện một [giao dịch](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction). Ví thường là một ứng dụng quản lý các khóa và tạo những chữ ký này cho người dùng. Chỉ người nắm giữ [khóa riêng tư](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) cần thiết mới có thể cho phép chi tiêu; mạng lưới có thể xác minh chữ ký mà không cần biết chính [khóa riêng tư](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) đó.
+
+Điều này cho phép một người kiểm soát bitcoin mà không cần xin phép ngân hàng hay một đơn vị vận hành tập trung nào khác. Điều này cũng có nghĩa là việc kiểm soát [khóa riêng tư](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) là vô cùng quan trọng: bất kỳ ai có được khóa này thường đều có thể cho phép chi tiêu, trong khi việc mất khóa có thể khiến số bitcoin không thể lấy lại được.
+
+Đây là cơ sở của việc [tự lưu ký](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody): quý vị tự kiểm soát các khóa thay vì dựa vào một dịch vụ để kiểm soát chúng. **Học phần 3** giải thích những trách nhiệm thực tế về bảo mật liên quan đến khóa, bản sao lưu và việc khôi phục.

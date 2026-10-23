@@ -1,0 +1,14 @@
+# 9.2 Houd trainingswallets gescheiden van persoonlijke wallets
+
+Het Bitcoin Diploma is bedoeld om te leren en te oefenen. Daarbij kunt u een wallet aanmaken, met voorbereide herstelwoorden werken of een gesimuleerd ontvangst- of herstelproces doorlopen. In een klas kunnen een scherm, apparaat, herstelzin of walletgegevens echter per ongeluk worden gezien, gekopieerd, gedeeld of gecompromitteerd. Trainingswallets zijn de standaard; het zijn geen persoonlijke wallets om substantiële tegoeden te beveiligen.
+
+Hanteer dit onderscheid consequent:
+
+* Een **trainingswallet** is normaal gesproken leeg, gesimuleerd of bevindt zich in een testomgeving. Deze wordt gebruikt om een proces te leren, is duidelijk gelabeld en wordt niet gebruikt om substantiële tegoeden te beveiligen. Laat de herstelgegevens ervan later nooit substantiële tegoeden beschermen.
+* Een **persoonlijke wallet** wordt aangemaakt voor een cursist die er zelfstandig voor kiest om na het Bitcoin Diploma substantiële tegoeden te ontvangen of aan te houden. Hiervoor zijn een nieuwe wallet, nieuwe herstelgegevens, een privé-installatie en meer zorgvuldige aandacht voor privacy en beveiliging nodig.
+
+Plan om trainingswallets waar mogelijk aan het einde van het Bitcoin Diploma buiten gebruik te stellen: wis of reset het tijdelijke apparaat, lever gedeelde apparatuur in en vernietig voorbereide herstelmaterialen of lever deze veilig in. Bewaar nooit materiaal waarmee later toegang tot de tegoeden van een cursist kan worden verkregen.
+
+Een docent kan kiezen voor een live activiteit met weinig risico wanneer dit past bij de lokale context en de cursisten. Leg voordat deze begint het verschil met een trainingswallet uit: echte tegoeden kunnen verloren gaan, een live wallet en transactiegeschiedenis kunnen persoonlijke informatie prijsgeven, en herstelgegevens vereisen een strengere vertrouwelijke omgang. Licht de specifieke route, het bedrag en de stopvoorwaarden toe; maak deelname vrijwillig; en bied een gelijkwaardig alternatief zonder tegoeden aan waarmee het leerdoel behouden blijft.
+
+Een docent kan ervoor kiezen om optionele ondersteuning te bieden aan een cursist die een persoonlijke wallet wil aanmaken voor gebruik na het Bitcoin Diploma. Houd dit gescheiden van de oefeningen in de klas en de certificering: het moet vrijwillig zijn, mag geen voorwaarde zijn om te slagen en moet beginnen met een nieuwe wallet en nieuwe herstelgegevens. Geef de cursist zelf de volledige controle over het apparaat en de geheime gegevens. Bekijk, verzamel, kopieer, fotografeer, verstuur, bewaar of behoud nooit een persoonlijke herstelzin, privé sleutel, wachtwoord, saldo of walletgeschiedenis. Onderbreek het proces of verwijs de cursist door naar passende lokale ondersteuning als een privé-installatie niet kan worden gewaarborgd of als de docent het proces niet veilig kan uitleggen.

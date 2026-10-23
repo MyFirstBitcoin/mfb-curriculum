@@ -1,0 +1,14 @@
+# 13.2 Tabela de correspondência das atividades de avaliação
+
+Use as atividades vinculadas abaixo como possíveis contextos de aprendizagem ou de evidência individual para a competência indicada. Uma atividade permanece formativa, a menos que ofereça ao educador uma oportunidade justa de observar a resposta ou ação relevante do aluno. Adapte a atividade quando necessário e registre o resultado na Grade de Avaliação.
+
+
+| Competência da Grade de Avaliação | Tarefa do protocolo | Atividades que podem apoiar a tarefa | Acréscimo ou limite necessário |
+| --- | --- | --- | --- |
+| C1 Dinheiro e prós e contras do dinheiro moderno | T1 | Jogo de Escambo Iterativo, Por Que Precisamos de Dinheiro?, Jogo de Escambo | Acrescente uma comparação individual e um cenário verificado, local ou realista, de dinheiro moderno; a participação na atividade, por si só, não cobre os três pontos a observar. |
+| C2 Fundamentos e regras do Bitcoin | T2 | Consenso, Transações em Ação, O Bitcoin É Dinheiro Sólido?, Verificação | Acrescente uma explicação individual sobre cópia/verificação, uma explicação em nível iniciante das regras compartilhadas do Bitcoin e dos papéis dos participantes, e uma explicação de como uma propriedade do Bitcoin poderia favorecer ou limitar seu uso como dinheiro. |
+| C3 Comparação guiada de ativos digitais | T2 | Nenhuma atividade atual é adequada como evidência de avaliação. | Use a comparação guiada e não promocional do protocolo e diferencie a aprendizagem ou o uso responsável de negociação, promoção ou especulação. |
+| C4 Carteiras, custódia e segurança | T3 | Avaliando Carteiras Bitcoin, Criando Sua Primeira Carteira Bitcoin | Exija uma explicação individual sobre custódia e segredos, a distinção entre tipos de carteira e uma resposta segura a um cenário de golpe ou de erro. |
+| C5 Caminhos de pagamento e de acesso | T3 | Explorando a Mempool, Corrida de Revezamento Lightning | Exija uma comparação individual entre on-chain e Lightning, além de uma decisão sobre o caminho a seguir que não seja uma recomendação. A Corrida de Revezamento precisa das devidas adaptações de segurança antes do uso. |
+| C6 Acesso seguro e preparação para recuperação | P6a e P6b | Corrida de Revezamento Lightning, Criando Sua Primeira Carteira Bitcoin | Observe uma tarefa preparada de primeiro acesso/recebimento e uma simulação separada de preparação para recuperação antes de registrar um único resultado. Nunca colete, visualize ou registre o segredo ou o saldo reais de um aluno. |
+| C7 Conectar: tarefa local de Bitcoin como dinheiro | P7 | Nenhuma atividade atual é adequada como evidência de avaliação. | Selecione e aprove uma tarefa local de Conexão conforme o protocolo antes da aplicação. Ela deve incluir observação direta, verificação segura, uma alternativa realista e explicação individual. |

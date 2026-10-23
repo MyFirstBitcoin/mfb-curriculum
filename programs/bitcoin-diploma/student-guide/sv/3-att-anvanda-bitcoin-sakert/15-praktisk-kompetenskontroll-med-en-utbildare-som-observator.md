@@ -1,0 +1,5 @@
+# 3.15 Praktisk kompetenskontroll med en utbildare som observatör
+
+Före bedömningen får Ni öva med stöd och blir informerad om uppgiften och säkerhetsramarna. Er lärare – inte närvaro eller självrapportering – kommer att observera Er när Ni använder en godkänd miljö som är förberedd, simulerad eller innebär låg risk.
+
+Ni ska visa att Ni kan öppna eller navigera i den förberedda plånboken, genomföra ett godkänt förfarande för första åtkomst, hitta och kontrollera mottagningsuppgifter samt ta emot bitcoin eller simulera mottagandet på ett säkert sätt. Ni ska också genomföra eller på ett säkert sätt simulera ett flöde för att ta emot eller skicka och visa att Ni är redo för återställning med hjälp av förberett material, samtidigt som Ni håller alla hemliga uppgifter privata. Ni kan få öva på att hantera avvikande uppgifter eller bedrägerier på ett säkert sätt genom vägledda scenarier. Om Ni ännu inte är redo bör Ni få återkoppling, mer övning och ytterligare en möjlighet att visa färdigheten.

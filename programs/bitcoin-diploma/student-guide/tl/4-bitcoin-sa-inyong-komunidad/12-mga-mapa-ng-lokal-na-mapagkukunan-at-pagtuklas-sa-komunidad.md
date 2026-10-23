@@ -1,0 +1,7 @@
+# 4.12 Mga mapa ng lokal na mapagkukunan at pagtuklas sa komunidad
+
+Ang mga detalyadong aktibidad tungkol sa mga lokal na mapagkukunan, mga talahanayan ng tala, at mga listahang maaaring magbago ay dapat ilagay sa [Sentro ng mga Mapagkukunan](https://curriculum.myfirstbitcoin.org/resources/?search=map). Makakatulong ang mga mapa at direktoryo ng komunidad upang makahanap kayo ng mga mangangalakal, tagapagturo, pagtitipon, at mga sirkular na ekonomiya, ngunit maaaring hindi kumpleto o hindi na napapanahon ang mga listahan.
+
+Bago kayo umasa sa isang nakalista, tingnan kung kailan ito beripikado, kumpirmahin ang impormasyon mula sa hiwalay na mapagkukunan, at maghanda ng alternatibong paraan ng pagbabayad o pakikilahok. Makapagbibigay ng praktikal na suporta ang isang lokal na komunidad, ngunit ang pagiging miyembro ay hindi patunay ng pagiging mapagkakatiwalaan. Huwag ninyong ibunyag ang mga [seed phrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), balanse, adres ng tirahan, o mga hakbang sa seguridad sa isang pagtitipon. Mag-ingat kayo kapag ang isang bagong kakilala ay nag-aalok ng pamamahala ng pamumuhunan, pribadong palitan, garantisadong kita, o agarang tulong.
+
+![Pinangungunahan ng tagapagturo ang isang talakayan kasama ang baguhan, mas nakatatandang mag-aaral, at may-ari ng negosyo, gamit ang mga gabay, isang telepono, at mga pang-araw-araw na kalakal.](https://cdn.sanity.io/images/vje9ehw2/production/6866adfa529a6842290879660b1af8fde358cc09-1055x1491.png)

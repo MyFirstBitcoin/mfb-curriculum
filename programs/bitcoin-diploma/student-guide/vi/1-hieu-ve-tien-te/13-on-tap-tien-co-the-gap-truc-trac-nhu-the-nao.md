@@ -1,0 +1,20 @@
+# 1.13 Ôn tập: Tiền có thể gặp trục trặc như thế nào?
+
+Hãy dừng lại và suy ngẫm về đồng tiền quý vị đang sử dụng: điều gì khiến nó hữu ích trong cuộc sống hằng ngày, và những quy tắc nào của nó phụ thuộc vào các tổ chức mà quý vị phải tin tưởng? [Trao đổi hàng hóa trực tiếp](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) gặp khó khăn vì việc tìm người có nhu cầu phù hợp với nhau không hiệu quả. [Tiền pháp định](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) giúp việc trao đổi dễ dàng hơn, nhưng nguồn cung thay đổi, sự kiểm soát của các tổ chức, khả năng tiếp cận bị hạn chế và sự suy giảm [sức mua](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) của nó có thể tạo ra những bất cập nghiêm trọng cho những người phụ thuộc vào nó. Mọi người có thể bất đồng về mức độ nghiêm trọng của từng bất cập hoặc cách giải quyết. Đây là lý do một số người tìm kiếm các phương án tiền tệ thay thế với những [đánh đổi](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) khác nhau về nguồn cung, quyền kiểm soát, khả năng tiếp cận và lòng tin.
+
+#### Những điểm chính cần ghi nhớ
+
+* Tiền giúp mọi người trao đổi, so sánh [giá cả](https://curriculum.myfirstbitcoin.org/lexicon/en/#price), ghi nhận [giá trị](https://curriculum.myfirstbitcoin.org/lexicon/en/#value), và chuyển [giá trị](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) từ hiện tại sang tương lai.
+* Các chức năng chính của tiền là [phương tiện trao đổi](https://curriculum.myfirstbitcoin.org/lexicon/en/#medium-of-exchange), [đơn vị tính toán](https://curriculum.myfirstbitcoin.org/lexicon/en/#unit-of-account), và [phương tiện lưu trữ giá trị](https://curriculum.myfirstbitcoin.org/lexicon/en/#store-of-value).
+* Các thuộc tính của tiền như [tính bền vững](https://curriculum.myfirstbitcoin.org/lexicon/en/#durability), [tính dễ mang theo](https://curriculum.myfirstbitcoin.org/lexicon/en/#portability), [khả năng chia nhỏ](https://curriculum.myfirstbitcoin.org/lexicon/en/#divisibility), [tính khan hiếm](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity), [khả năng được chấp nhận](https://curriculum.myfirstbitcoin.org/lexicon/en/#acceptability), và [khả năng xác minh](https://curriculum.myfirstbitcoin.org/lexicon/en/#verifiability) giúp chúng ta so sánh các hình thức tiền khác nhau.
+* [Trao đổi hàng hóa trực tiếp](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) khó thực hiện trên quy mô lớn vì cả hai người phải cùng lúc muốn thứ mà người kia cung cấp, với số lượng phù hợp.
+* Tiền đã phát triển theo những cách khác nhau trong các xã hội, thường làm tăng sự thuận tiện đồng thời tạo ra những [đánh đổi](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) mới về lòng tin, quyền kiểm soát và khả năng tiếp cận.
+* [Tiền pháp định](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) có thể hỗ trợ việc thanh toán thuận tiện và tín dụng linh hoạt, nhưng nguồn cung và các quy tắc của nó phụ thuộc vào các tổ chức.
+* [Lạm phát](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation), [hoạt động ngân hàng dự trữ một phần](https://curriculum.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking), và [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) với thiết kế của nó có thể ảnh hưởng đến [sức mua](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power), khả năng tiếp cận, [quyền riêng tư](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy), và sự cần thiết phải tin tưởng vào các tổ chức.
+* Một số người tìm đến các lựa chọn thay thế như kim loại quý khi họ muốn có những [sự đánh đổi](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) khác về [sức mua](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power), nguồn cung hoặc quyền kiểm soát; mọi lựa chọn thay thế đều có giới hạn và rủi ro.
+
+#### Một phút suy ngẫm
+
+Hiện giờ, quý vị đặt ra câu hỏi nào về tiền mà trước đây quý vị chưa từng đặt ra?
+
+Học phần tiếp theo xem xét nỗ lực của Bitcoin nhằm tạo ra một bộ quy tắc tiền tệ khác.

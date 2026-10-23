@@ -1,0 +1,15 @@
+{
+  "release": "26.10",
+  "rendererVersion": 9,
+  "syncedAt": "2026-10-23T17:15:09.760Z",
+  "programs": [
+    "advanced-modules",
+    "bitcoin-diploma",
+    "bitcoin-for-juniors",
+    "education-network",
+    "educator-training-program",
+    "introduction-to-bitcoin"
+  ],
+  "dataset": "production",
+  "tool": "mfb promote (curriculum mirror)"
+}

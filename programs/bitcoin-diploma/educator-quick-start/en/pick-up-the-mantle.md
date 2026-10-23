@@ -1,0 +1,5 @@
+# Pick up the mantle
+
+This redesign gives educators more structure where consistency matters and more room where local wisdom matters. Your careful facilitation turns the Bitcoin Diploma from a book into a shared learning experience: one that helps people think clearly about money, Bitcoin, responsibility, and their own community.
+
+For optional further learning beyond the Bitcoin Diploma, explore the [Educator Training Program](https://etp.myfirstbitcoin.org/) or connect through the [Bitcoin Education Network](https://leaderboard.myfirstbitcoin.org). You can also [share feedback](https://forms.myfirstbitcoin.org/feedback), [submit corrections or translation improvements](https://forms.myfirstbitcoin.org/proofread), share local learning resources through the [official contribution form](https://forms.myfirstbitcoin.org/), or use the open-source [curriculum repository](https://github.com/MyFirstBitcoin/mfb-curriculum) to check current editions and participate in improving the work. None of these links is required for Bitcoin Diploma completion.

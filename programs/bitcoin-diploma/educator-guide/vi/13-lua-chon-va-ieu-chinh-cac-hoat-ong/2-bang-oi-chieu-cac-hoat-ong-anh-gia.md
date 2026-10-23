@@ -1,0 +1,14 @@
+# 13.2 Bảng đối chiếu các hoạt động đánh giá
+
+Sử dụng các hoạt động được liên kết bên dưới làm bối cảnh học tập hoặc thu thập minh chứng cá nhân cho năng lực đã nêu. Một hoạt động vẫn chỉ phục vụ đánh giá quá trình, trừ khi hoạt động đó tạo cơ hội thích đáng để nhà giáo dục quan sát phản hồi hoặc hành động có liên quan của người học. Điều chỉnh hoạt động khi cần và ghi kết quả vào Bảng đánh giá.
+
+
+| Năng lực trong Bảng đánh giá | Nhiệm vụ theo quy trình | Các hoạt động có thể hỗ trợ nhiệm vụ | Nội dung cần bổ sung hoặc giới hạn cần áp dụng |
+| --- | --- | --- | --- |
+| C1 Tiền và những đánh đổi của tiền hiện đại | T1 | Trò chơi hàng đổi hàng nhiều vòng, Tại sao chúng ta cần tiền?, Trò chơi hàng đổi hàng | Bổ sung phần so sánh cá nhân và một tình huống sử dụng tiền hiện đại tại địa phương đã được xác minh hoặc một tình huống sát thực tế; chỉ tham gia hoạt động thôi thì chưa đáp ứng đủ cả ba tiêu chí quan sát. |
+| C2 Nền tảng và quy tắc của Bitcoin | T2 | Đồng thuận, Giao dịch trong thực tế, Bitcoin có phải là tiền lành mạnh không?, Xác minh | Bổ sung phần giải thích cá nhân về sao chép/xác minh, phần giải thích ở mức cơ bản về các quy tắc chung của Bitcoin và vai trò của các bên tham gia, cùng phần giải thích về cách một đặc tính của Bitcoin có thể hỗ trợ hoặc hạn chế việc sử dụng Bitcoin làm tiền. |
+| C3 So sánh tài sản số có hướng dẫn | T2 | Hiện chưa có hoạt động nào phù hợp để dùng làm minh chứng đánh giá. | Sử dụng phần so sánh có hướng dẫn, không mang tính quảng bá trong quy trình và phân biệt việc học tập hoặc sử dụng có trách nhiệm với giao dịch, quảng bá hoặc đầu cơ. |
+| C4 Ví, lưu ký và an toàn | T3 | Đánh giá ví Bitcoin, Tạo ví Bitcoin đầu tiên của quý vị | Yêu cầu từng cá nhân giải thích về lưu ký và thông tin bí mật, phân biệt các loại ví và đưa ra cách ứng phó an toàn trước một tình huống lừa đảo hoặc sai sót. |
+| C5 Các phương thức thanh toán và tiếp cận | T3 | Khám phá Mempool, Cuộc đua tiếp sức Lightning | Yêu cầu từng cá nhân so sánh giao dịch trên chuỗi với giao dịch Lightning và quyết định phương thức tiếp cận mà không mang tính khuyến nghị. Cần thực hiện các điều chỉnh về an toàn cho Cuộc đua tiếp sức trước khi sử dụng. |
+| C6 Tiếp cận an toàn và sẵn sàng khôi phục | P6a và P6b | Cuộc đua tiếp sức Lightning, Tạo ví Bitcoin đầu tiên của quý vị | Quan sát một nhiệm vụ tiếp cận/nhận tiền lần đầu đã được chuẩn bị và một bài mô phỏng riêng về mức độ sẵn sàng khôi phục trước khi ghi nhận một kết quả. Không bao giờ thu thập, xem hoặc ghi lại thông tin bí mật hay số dư thực của người học. |
+| C7 Kết nối: nhiệm vụ sử dụng Bitcoin làm tiền tại địa phương | P7 | Hiện chưa có hoạt động nào phù hợp để dùng làm minh chứng đánh giá. | Lựa chọn và phê duyệt một nhiệm vụ Kết nối tại địa phương theo quy trình trước khi triển khai. Nhiệm vụ phải bao gồm quan sát trực tiếp, xác minh an toàn, một phương án thay thế sát thực tế và phần giải thích cá nhân. |

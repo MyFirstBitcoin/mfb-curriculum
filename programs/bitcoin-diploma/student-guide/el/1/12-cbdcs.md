@@ -1,0 +1,31 @@
+# 1.12 Ψηφιακά Νομίσματα Κεντρικών Τραπεζών (CBDCs)
+
+> **Definition – Ψηφιακό νόμισμα κεντρικής τράπεζας (CBDC)**
+>
+> Ένα [ψηφιακό νόμισμα κεντρικής τράπεζας](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), ή [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), είναι μια ψηφιακή μορφή [παραστατικού χρήματος](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) που εκδίδεται ως [υποχρέωση](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability) μιας [κεντρικής τράπεζας](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank): αποτελεί απαίτηση του κατόχου του έναντι της [κεντρικής τράπεζας](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) την οποία εκείνη οφείλει να ικανοποιήσει. Διαφέρει από τα μετρητά σε φυσική μορφή και από μια συνηθισμένη κατάθεση σε εμπορική τράπεζα, αν και η εμπειρία χρήσης μπορεί να μοιάζει παρόμοια.
+
+
+[Τα CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) διαφέρουν ως προς τον σχεδιασμό τους. Ορισμένα προορίζονται κυρίως για χρηματοπιστωτικά ιδρύματα, ενώ άλλα προτείνονται για χρήση από το ευρύ κοινό. Πρώτα ρωτήστε ποιος είναι ο [εκδότης](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer): με ένα [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), η [κεντρική τράπεζα](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) παραμένει ο [εκδότης](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer) και εξακολουθεί να μπορεί να ασκεί νομισματική πολιτική. Επομένως, ένα [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) δεν δημιουργεί σταθερή προσφορά χρήματος ούτε καταργεί τον κεντρικό έλεγχο· απλώς αλλάζει την τεχνολογία και τη διανομή του [παραστατικού χρήματος](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money).
+
+Στη συνέχεια, ρωτήστε τι επιτρέπει ο σχεδιασμός του. Ανάλογα με τους κανόνες, ένα [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) μπορεί να επιτρέπει ταχύτερο διακανονισμό, ευρύτερη πρόσβαση ή νέες λειτουργίες πληρωμών. Μπορεί επίσης να δίνει στα ιδρύματα μεγαλύτερη δυνατότητα να παρακολουθούν [συναλλαγές](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), να εφαρμόζουν κανόνες, να περιορίζουν τη χρήση ή να συνδέουν άμεσα την ταυτότητα με τις πληρωμές. Αυτό είναι κεντρικός έλεγχος: ένα ίδρυμα, και όχι οι απλοί χρήστες ανεξάρτητα, καθορίζει ή αλλάζει τους σχετικούς κανόνες.
+
+![](https://cdn.sanity.io/images/vje9ehw2/production/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
+
+
+<!-- micrographic: cbdc-comparison-table-01 -->
+
+
+Το ότι κάτι είναι ψηφιακό δεν σημαίνει αυτομάτως ότι είναι αποκεντρωμένο, σπάνιο, ότι διασφαλίζει την ιδιωτικότητα ή ότι επιδέχεται ανεξάρτητη επαλήθευση. Ένα [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) μπορεί να χρησιμοποιεί ψηφιακή τεχνολογία, αλλά παραμένει [παραστατικό χρήμα](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) εφόσον ο [εκδότης](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer), οι κανόνες προσφοράς, οι κανόνες πρόσβασης και οι άδειες πληρωμών του εξακολουθούν να υπόκεινται σε κεντρική διαχείριση.
+
+Όταν συζητάτε για ένα [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), ρωτήστε:
+
+* Ποιος εκδίδει το χρήμα;
+* Ποιος μπορεί να το κατέχει ή να το χρησιμοποιεί;
+* Ποιες πληροφορίες συλλέγονται;
+* Μπορεί μια πληρωμή να μπλοκαριστεί, να περιοριστεί ή να αντιστραφεί;
+* Μπορούν να αλλάξουν οι κανόνες;
+* Μπορούν οι απλοί χρήστες να επαληθεύσουν ανεξάρτητα τους κανόνες;
+* Τι συμβαίνει χωρίς ηλεκτρικό ρεύμα ή πρόσβαση στο διαδίκτυο;
+* Ποιες νομικές διασφαλίσεις υπάρχουν;
+
+Μη θεωρείτε ότι κάθε προτεινόμενο [ΨΝΚΤ](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) έχει τον ίδιο σχεδιασμό. Χρησιμοποιείτε επίκαιρες, τοπικές και αξιόπιστες πληροφορίες.

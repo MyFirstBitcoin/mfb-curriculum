@@ -1,0 +1,5 @@
+# 3.15 Sprawdzian umiejętności praktycznych pod nadzorem nauczyciela
+
+Przed oceną będą Państwo ćwiczyć ze wsparciem oraz poznają zadanie i zasady bezpieczeństwa. Państwa edukator będzie obserwować Państwa pracę w zatwierdzonym, przygotowanym środowisku — symulowanym lub o niskim ryzyku; sama obecność ani Państwa deklaracje nie zastąpią tej obserwacji.
+
+Wykażą Państwo, że potrafią otworzyć przygotowany portfel lub się po nim poruszać, przejść zatwierdzoną procedurę uzyskania pierwszego dostępu, znaleźć i sprawdzić dane do odbioru oraz otrzymać bitcoiny lub bezpiecznie zasymulować ich odbiór. Przeprowadzą Państwo również proces odbioru lub wysyłania albo bezpiecznie go zasymulują, a także wykażą gotowość do odzyskania dostępu przy użyciu przygotowanych materiałów, zachowując wszystkie poufne dane w tajemnicy. Mogą Państwo przećwiczyć bezpieczne reagowanie na niezgodność danych lub oszustwo, korzystając ze scenariuszy realizowanych pod kierunkiem edukatora. Jeśli nie będą Państwo jeszcze gotowi, powinni Państwo otrzymać informację zwrotną, możliwość dalszych ćwiczeń i kolejną okazję do wykazania się tą umiejętnością.

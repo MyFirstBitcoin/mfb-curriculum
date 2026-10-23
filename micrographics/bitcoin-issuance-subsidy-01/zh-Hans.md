@@ -1,0 +1,19 @@
+# BD-V-028-01 Bitcoin issuance and halvings: block subsidy by halving (slide deck split)
+
+## Alt text
+
+区块补贴从50比特币开始，每210,000个区块减半一次，而比特币累计发行总量逐步趋近2100万枚的上限。交易手续费另行支付，并非新发行的比特币；本图不含任何价格预测。
+
+## Texts
+
+### subsidy
+
+每个区块新增的比特币
+
+### era
+
+每210,000个区块减半一次（约每四年）
+
+### fees
+
+交易手续费另行支付，并非新发行的比特币。

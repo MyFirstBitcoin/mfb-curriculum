@@ -1,0 +1,20 @@
+# 1.13 Bita: Ta yaya kuɗi za su iya lalacewa?
+
+Ku ɗan dakata ku yi tunani a kan kuɗin da kuke amfani da su: me ya sa suke da amfani a rayuwar yau da kullum, kuma waɗanne ƙa'idojinsu ne suka dogara ga cibiyoyin da dole ne ku amince da su? [Ciniki na ba-ni-gishiri-in-ba-ka-manda](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) yana da wahala domin daidaita buƙatun ɓangarorin biyu ba ya gudana cikin sauƙi. [Kuɗin fiat](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) suna sauƙaƙa musaya, amma sauye-sauyen adadinsu, sarrafa su da cibiyoyi ke yi, ƙuntataccen damar samun su, da raguwar [ikon sayayya](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) na iya haifar da manyan matsaloli ga mutanen da suka dogara da su. Mutane na iya saɓani kan girman kowace matsala ko yadda za a magance ta. Wannan ne ya sa wasu mutane ke neman wasu hanyoyin kuɗi masu bambancin [daidaitawa tsakanin fa'ida da rashin fa'ida](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) dangane da adadin kuɗi, sarrafawa, damar samun su, da amincewa.
+
+#### Muhimman abubuwan da aka koya
+
+* Kuɗi suna taimaka wa mutane wajen yin musaya, kwatanta [farashi](https://curriculum.myfirstbitcoin.org/lexicon/en/#price), rubuta [ƙima](https://curriculum.myfirstbitcoin.org/lexicon/en/#value), da kuma adana [ƙima](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) daga wani lokaci zuwa wani.
+* Manyan ayyukan kuɗi su ne zama [hanyar musaya](https://curriculum.myfirstbitcoin.org/lexicon/en/#medium-of-exchange), [ma'aunin lissafi](https://curriculum.myfirstbitcoin.org/lexicon/en/#unit-of-account), da [ma'ajiyar ƙima](https://curriculum.myfirstbitcoin.org/lexicon/en/#store-of-value).
+* Halayen kuɗi kamar [ɗorewa](https://curriculum.myfirstbitcoin.org/lexicon/en/#durability), [sauƙin ɗauka](https://curriculum.myfirstbitcoin.org/lexicon/en/#portability), [iya rarrabawa zuwa ƙananan sassa](https://curriculum.myfirstbitcoin.org/lexicon/en/#divisibility), [ƙaranci](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity), [karɓuwa](https://curriculum.myfirstbitcoin.org/lexicon/en/#acceptability), da [iya tabbatar da sahihanci](https://curriculum.myfirstbitcoin.org/lexicon/en/#verifiability) suna taimaka mana wajen kwatanta nau'o'in kuɗi daban-daban.
+* [Ciniki na ba-ni-gishiri-in-ba-ka-manda](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) yana da wahala idan ya faɗaɗa domin dole ne kowane mutum daga cikin biyun ya buƙaci abin da ɗayan yake bayarwa a lokaci guda kuma a adadin da ya dace.
+* Kuɗi sun bunƙasa ta hanyoyi daban-daban a al'ummomi, sau da yawa suna ƙara sauƙi tare da haifar da sabbin [daidaitawa tsakanin fa'ida da rashin fa'ida](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) a fannonin amincewa, sarrafawa, da damar samun su.
+* [Kuɗin fiat](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) na iya tallafa wa biyan kuɗi cikin sauƙi da rance mai sassauci, amma adadinsu da ƙa'idojinsu sun dogara ga cibiyoyi.
+* [Hauhawar farashi](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation), [tsarin banki na riƙe wani kaso na ajiya](https://curriculum.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking), da [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) bisa yadda aka tsara shi na iya shafar [ƙarfin saye](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power), damar samun hidima, [sirri](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy), da buƙatar amincewa da hukumomi.
+* Wasu mutane kan nemi wasu hanyoyi kamar ƙarafa masu daraja idan suna son wasu [zaɓuɓɓukan musayar fa'ida da illa](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) dangane da [ƙarfin saye](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power), yawan abin da ake da shi, ko iko; kowace hanya tana da iyakoki da haɗari.
+
+#### Lokacin yin tunani
+
+Wace tambaya guda ɗaya kuke yi yanzu game da kuɗi wadda ba ku taɓa yi a baya ba?
+
+Darasi na gaba zai nazarci ƙoƙarin Bitcoin na ƙirƙirar wasu ƙa'idojin kuɗi na daban.

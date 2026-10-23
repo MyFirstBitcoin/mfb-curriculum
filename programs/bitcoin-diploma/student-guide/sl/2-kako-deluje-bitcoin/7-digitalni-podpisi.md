@@ -1,0 +1,7 @@
+# 2.7 Digitalni podpisi
+
+[Digitalni podpisi](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) so eden ključnih delov zasnove Bitcoina, opisane v beli knjigi. V Bitcoinu denarnica uporablja [zasebni ključ](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) za ustvarjanje [digitalnega podpisa](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature), ki odobri [transakcijo](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction). Denarnica je običajno aplikacija, ki upravlja ključe in ustvarja te podpise za uporabnika. Samo imetnik ustreznega [zasebnega ključa](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) lahko odobri porabo; omrežje lahko preveri podpis brez poznavanja [zasebnega ključa](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) samega.
+
+To posamezniku omogoča nadzor nad bitcoinom, ne da bi moral banko ali drugega osrednjega upravljavca prositi za dovoljenje. To pomeni tudi, da je nadzor nad [zasebnim ključem](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) ključnega pomena: vsakdo, ki ga pridobi, lahko običajno odobri porabo, izgubljeni ključ pa lahko onemogoči ponovno pridobitev bitcoina.
+
+To je osnova [samostojne hrambe](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody): ključe nadzorujete sami, namesto da bi se za njihov nadzor zanašali na ponudnika storitev. **Modul 3** pojasnjuje praktične odgovornosti za varno ravnanje s ključi, izdelavo varnostnih kopij in obnovitev.

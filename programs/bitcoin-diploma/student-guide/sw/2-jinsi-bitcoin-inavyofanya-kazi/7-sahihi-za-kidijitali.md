@@ -1,0 +1,7 @@
+# 2.7 Sahihi za Kidijitali
+
+[Saini za kidijitali](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) ni mojawapo ya sehemu muhimu za muundo wa Bitcoin zilizoelezwa katika karatasi nyeupe. Katika Bitcoin, pochi hutumia [ufunguo wa kibinafsi](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) kuunda [saini ya kidijitali](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) inayoidhinisha [muamala](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction). Kwa kawaida pochi ni programu inayosimamia funguo na kuunda saini hizi kwa niaba ya mtumiaji. Ni mmiliki tu wa [ufunguo wa kibinafsi](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) unaohitajika anayeweza kuidhinisha matumizi; mtandao unaweza kuthibitisha saini bila kujua [ufunguo wa kibinafsi](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) wenyewe.
+
+Hii humwezesha mtu kudhibiti bitcoin bila kuomba ruhusa kutoka kwa benki au mwendeshaji mwingine mkuu. Pia inamaanisha kwamba udhibiti wa [ufunguo wa kibinafsi](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) ni muhimu sana: yeyote atakayeupata kwa kawaida anaweza kuidhinisha matumizi, na ufunguo uliopotea unaweza kufanya bitcoin isiweze kurejeshwa.
+
+Huu ndio msingi wa [kujitunzia mali](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody): kudhibiti funguo wewe mwenyewe badala ya kutegemea huduma fulani kuzidhibiti. **Moduli ya 3** inaeleza majukumu ya kiusalama ya kivitendo yanayohusu funguo, nakala rudufu na urejeshaji.

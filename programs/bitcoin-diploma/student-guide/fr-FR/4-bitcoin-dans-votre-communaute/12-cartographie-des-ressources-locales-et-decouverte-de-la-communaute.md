@@ -1,0 +1,7 @@
+# 4.12 Cartographie des ressources locales et découverte de la communauté
+
+Les activités détaillées sur les ressources locales, les tableaux de suivi et les listes susceptibles d’évoluer ont leur place sur le [Portail de ressources](https://curriculum.myfirstbitcoin.org/resources/?search=map). Les cartes et les annuaires communautaires peuvent vous aider à trouver des commerçants, des formateurs, des rencontres et des économies circulaires, mais les informations répertoriées peuvent être incomplètes ou obsolètes.
+
+Avant de vous fier à une entrée d’annuaire, vérifiez la date de sa dernière vérification, confirmez les informations de manière indépendante et prévoyez un autre moyen de payer ou de participer. Une communauté locale peut vous apporter un soutien pratique, mais en faire partie n’est pas un gage de fiabilité. Ne révélez pas vos [phrases de récupération](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), vos soldes, votre adresse personnelle ou vos dispositifs de sécurité lors d’une rencontre. Faites preuve de prudence lorsqu’un nouveau contact vous propose de gérer vos investissements, d’effectuer un échange privé, de vous garantir des rendements ou de vous apporter une aide urgente.
+
+![Le formateur anime une discussion avec une personne débutante, une personne plus âgée en formation et un propriétaire d’entreprise, autour de guides, d’un téléphone et de produits du quotidien.](https://cdn.sanity.io/images/vje9ehw2/production/6866adfa529a6842290879660b1af8fde358cc09-1055x1491.png)

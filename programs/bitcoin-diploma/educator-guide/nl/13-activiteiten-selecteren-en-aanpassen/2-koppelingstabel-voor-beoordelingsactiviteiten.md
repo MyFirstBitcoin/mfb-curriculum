@@ -1,0 +1,14 @@
+# 13.2 Koppelingstabel voor beoordelingsactiviteiten
+
+Gebruik de hieronder gekoppelde activiteiten als mogelijke contexten voor leren of voor individueel bewijs voor de genoemde competentie. Een activiteit blijft formatief, tenzij deze de docent een eerlijke kans biedt om de relevante reactie of handeling van de lerende waar te nemen. Pas de activiteit zo nodig aan en noteer het resultaat in het Beoordelingsraster.
+
+
+| Competentie in het Beoordelingsraster | Protocoltaak | Activiteiten die de taak kunnen ondersteunen | Vereiste aanvulling of beperking |
+| --- | --- | --- | --- |
+| C1 Geld en afwegingen bij modern geld | T1 | Iteratief ruilspel, Waarom hebben we geld nodig?, Ruilspel | Voeg een individuele vergelijking toe en een geverifieerd lokaal of realistisch scenario met modern geld; deelname aan de activiteit alleen dekt niet alle drie de observatiepunten. |
+| C2 Grondslagen en regels van Bitcoin | T2 | Consensus, Transacties in actie, Is Bitcoin gezond geld?, Verificatie | Voeg een individuele uitleg over kopiëren/verificatie toe, een uitleg op beginnersniveau van de gedeelde regels van Bitcoin en de rollen van deelnemers, en een uitleg van hoe een eigenschap van Bitcoin het gebruik ervan als geld kan helpen of beperken. |
+| C3 Begeleide vergelijking van digitaal bezit | T2 | Geen enkele huidige activiteit is geschikt als beoordelingsbewijs. | Gebruik de begeleide, niet-promotionele vergelijking uit het protocol en maak onderscheid tussen leren of verantwoord gebruik enerzijds en handelen, promotie of speculatie anderzijds. |
+| C4 Wallets, bewaring en veiligheid | T3 | Bitcoin-wallets beoordelen, Uw eerste Bitcoin-wallet aanmaken | Vereis een individuele uitleg over bewaring en geheimen, onderscheid tussen soorten wallets en een veilige reactie op een scenario met oplichting of een fout. |
+| C5 Betaal- en toegangsroutes | T3 | De Mempool verkennen, Lightning-estafette | Vereis een individuele vergelijking tussen on-chain en Lightning, plus een niet-adviserende keuze voor een route. De estafette moet vóór gebruik de bijbehorende veiligheidsaanpassingen krijgen. |
+| C6 Veilige toegang en gereedheid voor herstel | P6a en P6b | Lightning-estafette, Uw eerste Bitcoin-wallet aanmaken | Observeer een voorbereide taak voor eerste toegang/ontvangst en een afzonderlijke simulatie van gereedheid voor herstel voordat u één resultaat noteert. Verzamel, bekijk of noteer nooit het echte geheim of saldo van een lerende. |
+| C7 Connect: lokale taak rond Bitcoin als geld | P7 | Geen enkele huidige activiteit is geschikt als beoordelingsbewijs. | Selecteer en keur vóór de uitvoering een lokale Connect-taak goed volgens het protocol. Deze moet directe observatie, veilige verificatie, een realistisch alternatief en een individuele uitleg omvatten. |

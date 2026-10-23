@@ -1,0 +1,5 @@
+# 3.15 Kiểm tra năng lực thực hành dưới sự quan sát của giáo viên
+
+Trước khi được đánh giá, quý vị sẽ được thực hành có hỗ trợ và được biết rõ nhiệm vụ cũng như các giới hạn an toàn. Giảng viên sẽ trực tiếp quan sát quý vị thao tác trong một môi trường đã được chuẩn bị, mô phỏng hoặc có mức rủi ro thấp và đã được phê duyệt, thay vì dựa vào việc tham dự hay tự báo cáo của quý vị.
+
+Quý vị sẽ thể hiện khả năng mở hoặc thao tác trong ví đã được chuẩn bị, hoàn thành một quy trình truy cập lần đầu đã được phê duyệt, tìm và kiểm tra thông tin nhận, đồng thời nhận bitcoin hoặc mô phỏng việc nhận một cách an toàn. Quý vị cũng sẽ hoàn thành hoặc mô phỏng an toàn một quy trình nhận hoặc gửi và thể hiện sự sẵn sàng khôi phục bằng các tài liệu đã được chuẩn bị, đồng thời giữ kín mọi thông tin bí mật. Quý vị có thể thực hành cách ứng phó an toàn khi thông tin không khớp hoặc khi gặp hành vi lừa đảo thông qua các tình huống có hướng dẫn. Nếu chưa sẵn sàng, quý vị cần được nhận phản hồi, thực hành thêm và có một cơ hội khác để thể hiện kỹ năng.

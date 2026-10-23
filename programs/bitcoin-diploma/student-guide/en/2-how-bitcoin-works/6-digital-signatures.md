@@ -1,0 +1,7 @@
+# 2.7 Digital signatures
+
+[Digital signatures](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) are one of the key parts of Bitcoin's design described in the whitepaper. In Bitcoin, a wallet uses a [private key](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) to create a [digital signature](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) that authorizes a [transaction](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction). A wallet is usually an application that manages the keys and creates these signatures for the user. Only the holder of the required [private key](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) can authorize the spend; the network can verify the signature without learning the [private key](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) itself.
+
+This allows a person to control bitcoin without asking a bank or other central operator for permission. It also means that control of the [private key](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) is critical: anyone who obtains it can usually authorize a spend, while a lost key may make the bitcoin irretrievable.
+
+This is the basis of [self-custody](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody): controlling the keys yourself rather than relying on a service to control them. **Module 3** explains the practical safety responsibilities of keys, backups, and recovery.

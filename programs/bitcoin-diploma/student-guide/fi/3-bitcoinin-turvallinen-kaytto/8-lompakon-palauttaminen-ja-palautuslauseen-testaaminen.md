@@ -1,0 +1,17 @@
+# 3.8 Lompakon palauttaminen ja palautuslauseen testaaminen
+
+Mitä tekisitte, jos alkuperäinen laite lakkaisi toimimasta? Palautussuunnitelman tulisi mahdollistaa tarkoitetun lompakon palauttaminen paljastamatta palautustietoja. Harjoitelkaa vain opettajan valmistelemilla, tyhjillä tai simuloiduilla materiaaleilla. Noudattakaa lompakon virallista palautusmenetelmää yksityisesti, varmistakaa, että palautettu lompakko on tarkoitettu harjoituslompakko, ja nollatkaa tai palauttakaa väliaikainen materiaali turvallisesti.
+
+Opettaja voi seurata toimintaanne näkemättä mitään [palautussanoja](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase). Älkää koskaan syöttäkö todellista [palautuslausetta](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) verkkosivustolle, viestiin tai tavalliseen tietokoneella täytettävään lomakkeeseen.
+
+Turvallinen palautusvalmiuden harjoittelu on yksinkertaista:
+
+
+<!-- micrographic: practice-wallet-recovery-01 -->
+
+
+Älkää käyttäkö harjoituslompakkoa tai sen palautustietoja merkittävien varojen turvaamiseen diplomikoulutuksen jälkeen. Jos päätätte myöhemmin luoda henkilökohtaisen lompakon, se on otettava käyttöön alusta asti yksityisesti ja sille on luotava uudet palautustiedot.
+
+Tarkoituksena ei ole saada palauttamista tuntumaan helpolta. Tarkoituksena on ymmärtää prosessi ennen kuin laitteen rikkoutuminen luo paineita.
+
+![](https://cdn.sanity.io/images/vje9ehw2/production/424d932ace1728a75636a76182ae9a42621ed91c-1536x1024.svg)

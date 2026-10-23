@@ -1,0 +1,14 @@
+# 9.2 Tách biệt ví dùng cho đào tạo với ví cá nhân
+
+Chương trình Bitcoin Diploma dành cho việc học tập và thực hành. Chương trình có thể bao gồm việc tạo ví, thao tác với các từ khôi phục đã được chuẩn bị sẵn, hoặc hoàn thành quy trình mô phỏng nhận tiền hay khôi phục ví. Tuy nhiên, trong lớp học, màn hình, thiết bị, cụm từ khôi phục hoặc thông tin chi tiết về ví có thể vô tình bị người khác nhìn thấy, sao chép, chia sẻ hoặc bị xâm phạm. Ví thực hành là lựa chọn mặc định; chúng không phải là ví cá nhân để bảo vệ những khoản tiền có giá trị đáng kể.
+
+Hãy áp dụng nhất quán sự phân biệt sau:
+
+* Một **ví thực hành** thường không có tiền, là ví mô phỏng hoặc nằm trong môi trường thử nghiệm. Ví này được dùng để học một quy trình, được ghi nhãn rõ ràng và không được dùng để bảo vệ những khoản tiền có giá trị đáng kể. Không để thông tin khôi phục của ví này được dùng để bảo vệ những khoản tiền có giá trị đáng kể về sau.
+* Một **ví cá nhân** được tạo cho học viên tự mình quyết định nhận hoặc nắm giữ những khoản tiền có giá trị đáng kể sau chương trình Bitcoin Diploma. Việc này đòi hỏi một ví mới, thông tin khôi phục mới, quá trình thiết lập riêng tư và sự chú ý kỹ lưỡng hơn đến quyền riêng tư và bảo mật.
+
+Hãy lên kế hoạch ngừng sử dụng các ví thực hành khi kết thúc chương trình Bitcoin Diploma bất cứ khi nào khả thi: xóa dữ liệu hoặc đặt lại thiết bị dùng tạm, trả lại thiết bị dùng chung, đồng thời tiêu hủy hoặc hoàn trả một cách an toàn các tài liệu khôi phục đã chuẩn bị sẵn. Tuyệt đối không giữ lại tài liệu có thể cho phép truy cập vào tiền của học viên về sau.
+
+Giảng viên có thể chọn một hoạt động dùng tiền thật với số tiền nhỏ khi phù hợp với bối cảnh địa phương và học viên. Trước khi bắt đầu, hãy giải thích sự khác biệt so với ví thực hành: tiền thật có thể bị mất, ví dùng tiền thật và lịch sử giao dịch có thể tiết lộ thông tin cá nhân, và thông tin khôi phục cần được xử lý với mức độ bảo đảm tính riêng tư cao hơn. Hãy giải thích cách thức thực hiện cụ thể, số tiền và các điều kiện dừng; bảo đảm việc tham gia là tự nguyện; đồng thời đưa ra một hoạt động tương đương không dùng tiền nhưng vẫn đạt được kết quả học tập.
+
+Giảng viên có thể lựa chọn cung cấp hỗ trợ tùy chọn cho học viên muốn tạo ví cá nhân để sử dụng sau chương trình Bitcoin Diploma. Hãy tách biệt việc này với hoạt động thực hành trên lớp và việc cấp chứng nhận: việc này phải mang tính tự nguyện, không được là điều kiện bắt buộc để đạt yêu cầu và phải bắt đầu bằng một ví mới cùng thông tin khôi phục mới. Hãy để học viên tự kiểm soát thiết bị và thông tin bí mật của mình một cách riêng tư. Không quan sát, thu thập, sao chép, chụp ảnh, gửi qua tin nhắn, lưu trữ hoặc giữ lại cụm từ khôi phục cá nhân, khóa riêng tư, mật khẩu, số dư hoặc lịch sử ví. Hãy tạm dừng hoặc giới thiệu học viên đến nguồn hỗ trợ phù hợp tại địa phương nếu không thể bảo đảm tính riêng tư trong quá trình thiết lập hoặc nếu giảng viên không thể giải thích quy trình một cách an toàn.

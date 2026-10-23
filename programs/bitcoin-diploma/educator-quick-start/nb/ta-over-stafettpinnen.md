@@ -1,0 +1,5 @@
+# Ta over stafettpinnen
+
+Denne omarbeidingen gir undervisere mer struktur der ensartethet er viktig, og større handlingsrom der lokalkunnskap er viktig. Deres grundige tilrettelegging gjør Bitcoin Diploma til mer enn en bok – det blir en felles læringsopplevelse som hjelper folk å tenke klart om penger, Bitcoin, ansvar og sitt eget lokalsamfunn.
+
+For valgfri videre læring utover Bitcoin Diploma kan De utforske [opplæringsprogrammet for undervisere](https://etp.myfirstbitcoin.org/) eller knytte kontakter gjennom [nettverket for Bitcoin-utdanning](https://leaderboard.myfirstbitcoin.org). De kan også [gi tilbakemeldinger](https://forms.myfirstbitcoin.org/feedback), [sende inn rettelser eller forbedringer av oversettelser](https://forms.myfirstbitcoin.org/proofread), dele lokale læringsressurser gjennom det [offisielle bidragsskjemaet](https://forms.myfirstbitcoin.org/), eller bruke det åpne [læreplanarkivet](https://github.com/MyFirstBitcoin/mfb-curriculum) til å se gjeldende utgaver og delta i arbeidet med å forbedre materialet. Det er ikke nødvendig å bruke noen av disse lenkene for å fullføre Bitcoin Diploma.

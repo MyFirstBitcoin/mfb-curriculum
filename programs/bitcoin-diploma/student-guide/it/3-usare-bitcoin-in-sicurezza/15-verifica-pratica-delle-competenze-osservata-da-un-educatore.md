@@ -1,0 +1,5 @@
+# 3.15 Verifica pratica delle competenze osservata da un educatore
+
+Prima della valutazione, Lei svolgerà esercitazioni guidate e conoscerà il compito e i limiti di sicurezza. Sarà il Suo educatore, e non la frequenza o un'autovalutazione, a osservarLa mentre utilizza un ambiente approvato, predisposto, simulato o a basso rischio.
+
+Lei dimostrerà di saper aprire il wallet predisposto o di sapervi navigare, completare un percorso di primo accesso approvato, individuare e verificare le informazioni di ricezione, e ricevere bitcoin o simularne la ricezione in modo sicuro. Completerà inoltre, o simulerà in modo sicuro, un flusso di ricezione o di invio e dimostrerà di essere pronto per il recupero con i materiali predisposti, mantenendo private tutte le informazioni segrete. Potrà esercitarsi a reagire in modo sicuro a una mancata corrispondenza o a una truffa attraverso scenari guidati. Se non è ancora pronto, dovrebbe ricevere un riscontro, ulteriore esercitazione e un'altra opportunità per dimostrare la competenza.

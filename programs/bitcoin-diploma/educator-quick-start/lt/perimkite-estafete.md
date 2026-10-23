@@ -1,0 +1,5 @@
+# Perimkite estafetę
+
+Šis atnaujinimas suteikia pedagogams daugiau struktūros ten, kur svarbus nuoseklumas, ir daugiau laisvės ten, kur svarbi vietos išmintis. Jūsų dėmesingas vadovavimas mokymosi procesui paverčia „Bitcoin“ diplomą iš knygos bendra mokymosi patirtimi, padedančia žmonėms aiškiai mąstyti apie pinigus, „Bitcoin“, atsakomybę ir savo bendruomenę.
+
+Jei norite papildomai mokytis už „Bitcoin“ diplomo ribų, susipažinkite su [pedagogų mokymo programa](https://etp.myfirstbitcoin.org/) arba užmegzkite ryšius per [„Bitcoin“ švietimo tinklą](https://leaderboard.myfirstbitcoin.org). Taip pat galite [pateikti atsiliepimų](https://forms.myfirstbitcoin.org/feedback), [siūlyti pataisas ar vertimo patobulinimus](https://forms.myfirstbitcoin.org/proofread), dalytis vietos mokymosi ištekliais naudodamiesi [oficialia indėlio pateikimo forma](https://forms.myfirstbitcoin.org/) arba naudotis atvirojo kodo [mokymo programos saugykla](https://github.com/MyFirstBitcoin/mfb-curriculum), kad peržiūrėtumėte naujausius leidimus ir prisidėtumėte prie šio darbo tobulinimo. Norint baigti „Bitcoin“ diplomo programą, neprivaloma naudotis nė viena iš šių nuorodų.

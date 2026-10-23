@@ -1,0 +1,5 @@
+# 3.15 Praktische Kompetenzprüfung unter Beobachtung einer Lehrkraft
+
+Vor der Bewertung erhalten Sie begleitete Übungsmöglichkeiten und kennen die Aufgabe sowie die Sicherheitsgrenzen. Ihre Lehrkraft – nicht Ihre Anwesenheit oder Ihre Selbsteinschätzung – wird Sie dabei beobachten, wie Sie eine genehmigte vorbereitete, simulierte oder risikoarme Umgebung nutzen.
+
+Sie zeigen, dass Sie die vorbereitete Wallet öffnen oder darin navigieren, einen genehmigten Ablauf für den Erstzugang durchführen, Empfangsinformationen finden und überprüfen sowie bitcoin empfangen oder den Empfang sicher simulieren können. Außerdem führen Sie einen Empfangs- oder Sendevorgang durch oder simulieren ihn sicher und zeigen Ihre Bereitschaft zur Wiederherstellung anhand vorbereiteter Materialien, wobei Sie alle Geheimnisse für sich behalten. In angeleiteten Szenarien können Sie üben, sicher auf eine Unstimmigkeit oder einen Betrugsversuch zu reagieren. Wenn Sie noch nicht so weit sind, sollten Sie Rückmeldung, weitere Übung und eine erneute Gelegenheit erhalten, die Fähigkeit nachzuweisen.

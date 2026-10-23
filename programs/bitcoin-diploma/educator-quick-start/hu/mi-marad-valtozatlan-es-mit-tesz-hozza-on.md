@@ -1,0 +1,7 @@
+# Mi marad változatlan – és mit tesz hozzá Ön
+
+**Maradjon változatlan:** a négy modul sorrendje; az alapvető célkitűzések; a kizárólag a Bitcoinra összpontosító szemlélet; a biztonsági korlátok; a kétrészes értékelés; és a teljesítés minimumkövetelménye.
+
+**Körültekintően alakítsa át:** a példákat, a nyelvezetet, a tevékenységeket, a haladási ütemet, a csoportbeosztást, az akadálymentességet segítő támogatást, a helyi eszközöket és a **4. modul** helyzetgyakorlatait. A nyílt forráskódú tárcaszoftverek előnyben részesítését feltételekhez kötve tanítsa, mivel az ellenőrizhető kód javíthatja az átláthatóságot; közben segítsen a tanulóknak összehasonlítani a letétkezelést, a helyreállítást, a kompatibilitást, az adatvédelmet, a karbantartást, a költségeket és a támogatást. A megnevezett tárcákat, tőzsdéket, kereskedőket, térképeket és szolgáltatásokat adott időponthoz kötött helyi példákként kezelje, ne általános érvényű ajánlásokként. Az aktuális állításokat és a helyi szabályokat hiteles források alapján ellenőrizze; ha valamit nem tud, mondja meg, és nézzen utána.
+
+Tanítsa meg a tanulóknak, **hogyan gondolkodjanak, ne azt, hogy mit gondoljanak**. Fogadja nyitottan a tiszteletteljes véleménykülönbségeket. A tanulónak nem kell egyetértenie egy állítással ahhoz, hogy teljesítse a követelményt; érvelnie kell, el kell magyaráznia a lényeges kompromisszumokat, és biztonságosan be kell mutatnia az előírt készségeket.

@@ -1,0 +1,5 @@
+# 3.15 Gwajin ƙwarewar aikace-aikace da malami ke lura da shi
+
+Kafin tantancewa, za ku sami atisaye tare da tallafi, kuma za ku san aikin da iyakokin kiyaye aminci. Malaminku zai lura da yadda kuke amfani da wani muhalli da aka amince da shi, wanda aka riga aka shirya, ko na kwaikwayo, ko kuma mai ƙaramin haɗari—ba za a dogara da halartar aji ko bayanin da kuka bayar game da kanku ba.
+
+Za ku nuna cewa za ku iya buɗe walat ɗin da aka shirya ko ku bi sassan da ke cikinsa, ku kammala hanyar samun dama a karon farko da aka amince da ita, ku nemo ku kuma bincika bayanan karɓa, sannan ku karɓi bitcoin ko ku kwaikwayi karɓarsa cikin aminci. Haka kuma za ku kammala matakan karɓa ko aikawa, ko ku kwaikwayi su cikin aminci, sannan ku nuna shirinku na maido da damar shiga walat ta amfani da kayan da aka shirya, tare da kiyaye duk bayanan sirri. Za ku iya yin atisayen mayar da martani cikin aminci ga rashin daidaiton bayanai ko zamba ta hanyar yanayin kwaikwayo da aka ba ku jagora a kai. Idan har yanzu ba ku shirya ba, ya kamata a ba ku ra'ayi kan yadda kuka yi, da ƙarin atisaye, da kuma wata damar nuna ƙwarewar.

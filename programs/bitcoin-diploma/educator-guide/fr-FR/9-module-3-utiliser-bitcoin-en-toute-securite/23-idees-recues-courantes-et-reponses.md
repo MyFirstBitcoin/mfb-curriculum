@@ -1,0 +1,17 @@
+# 9.23 Idées reçues courantes et réponses
+
+| Idée reçue | Correction adaptée aux débutants | Question de vérification |
+| --- | --- | --- |
+| Bitcoin est stocké dans l’application de portefeuille. | Bitcoin est enregistré dans le registre partagé ; le portefeuille gère les clés et les informations sur les transactions. | Que resterait-il si le téléphone tombait en panne ? |
+| Une adresse est un mot de passe secret. | Une adresse est une information publique permettant de recevoir des paiements, mais l’associer à une identité peut réduire la confidentialité. | Quelle information autorise les dépenses ? |
+| Tout code QR est sûr puisque le portefeuille le scanne. | Un code QR peut encoder une destination ou une demande erronée. Vérifiez le destinataire, le circuit de paiement, le montant et l’écran final. | Que compareriez-vous après avoir scanné le code ? |
+| Partager une adresse permet à quelqu’un de dépenser les fonds. | Dépenser les fonds nécessite normalement la clé privée. Partager une adresse peut néanmoins révéler des liens entre les transactions. | Quel risque pour la confidentialité subsiste ? |
+| Une phrase de récupération est un mot de passe ordinaire. | Pour de nombreux portefeuilles, elle donne un accès complet à la récupération. Toute personne qui la possède peut recréer les clés. | Un service d’assistance légitime en aurait-il jamais besoin ? |
+| L’enseignant devrait vérifier la sauvegarde de ma phrase de récupération. | Un enseignant peut observer le bon déroulement du processus sécurisé sans voir les mots. | Comment pouvez-vous prouver que vous êtes prêt tout en la gardant confidentielle ? |
+| Tous les portefeuilles sont en garde autonome. | Certaines applications appelées portefeuilles détiennent les clés pour le compte de l’utilisateur. | Qui approuve les retraits et contrôle la récupération ? |
+| Un portefeuille matériel élimine les risques liés à la sauvegarde. | L’appareil isole les clés, mais la récupération dépend toujours d’une sauvegarde protégée et d’une utilisation correcte. | Que se passe-t-il si l’appareil tombe en panne ? |
+| Une seule confirmation rend tous les paiements sûrs. | Les confirmations renforcent l’historique de règlement ; elles ne corrigent ni une destination erronée ni une escroquerie. | Quelles vérifications doivent être effectuées avant l’approbation ? |
+| Un explorateur de blocs, c’est Bitcoin. | C’est une interface tierce donnant accès à des données publiques. | Quelle vérification plus rigoureuse un nœud peut-il fournir ? |
+| Les frais dépendent principalement de la quantité de bitcoin envoyée. | Les frais sur la blockchain dépendent principalement des données de la transaction et de la demande d’espace dans les blocs. | Un paiement de faible valeur peut-il malgré tout entraîner des frais élevés ? |
+| Lightning implique toujours la garde autonome et l’absence de frais. | Les portefeuilles Lightning peuvent être en garde par un tiers ou en garde autonome, et les conditions de routage, de service ou de liquidité peuvent entraîner des frais et des échecs. | Quelles sont les deux questions distinctes que vous devriez poser ? |
+| Le KYC est toujours sûr, ou l’absence de KYC est toujours sûre. | Chaque option implique des compromis entre les risques liés à l’identité, à l’assistance, à la contrepartie, à la fraude, à la légalité et à la confidentialité. | Quel risque est réduit et quel risque est ajouté ? |

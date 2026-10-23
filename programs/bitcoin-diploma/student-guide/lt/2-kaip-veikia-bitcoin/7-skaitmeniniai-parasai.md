@@ -1,0 +1,7 @@
+# 2.7 Skaitmeniniai parašai
+
+[Skaitmeniniai parašai](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) yra vieni pagrindinių baltojoje knygoje aprašytų Bitcoin architektūros elementų. Bitcoin tinkle piniginė naudoja [privatųjį raktą](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), kad sukurtų [skaitmeninį parašą](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature), kuriuo patvirtinamas [sandoris](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction). Piniginė paprastai yra programėlė, kuri tvarko raktus ir kuria šiuos parašus naudotojui. Tik reikiamo [privatiojo rakto](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) turėtojas gali leisti išleisti lėšas; tinklas gali patikrinti parašą nežinodamas [privatiojo rakto](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) reikšmės.
+
+Tai leidžia žmogui valdyti bitkoinus neprašant banko ar kito centrinio valdytojo leidimo. Tai taip pat reiškia, kad [privatiojo rakto](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) kontrolė yra itin svarbi: kiekvienas, kuris jį gauna, paprastai gali leisti išleisti lėšas, o praradus raktą bitkoinai gali tapti nebeatgaunami.
+
+Tai yra pagrindas [savarankiškam saugojimui](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody): kai raktus valdote patys, o ne patikite juos valdyti paslaugų teikėjui. **3 modulis** paaiškina praktines pareigas, susijusias su raktų, atsarginių kopijų ir atkūrimo saugumu.
