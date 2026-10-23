@@ -1,3 +1,0 @@
-# 6.5 No confíes, verifica
-
-Hagas lo que hagas en Bitcoin, recuerda esto: “No confíes, verifica.” En Bitcoin no hay gobernantes. Nunca debes seguir ciegamente las afirmaciones de alguien; más bien, siempre debes cuestionar lo que te dicen y verificarlo por ti mismo. Al seguir este mantra, te protegerás de perder tus bitcoin. Esto aplica tanto para afirmaciones como “el próximo Bitcoin” como para “oportunidades de inversión” o promesas de “ganancias rápidas y fáciles.” Por eso se deben preferir los proyectos de código abierto. Si no puedes verificar el código tú mismo, tendrás que confiar en la comunidad que lo hará por ti; pero es mejor confiar en un grupo descentralizado e independiente de verificadores que en el líder o grupo detrás del proyecto.
