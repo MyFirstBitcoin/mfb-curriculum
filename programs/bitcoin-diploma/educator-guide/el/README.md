@@ -11,13 +11,13 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [Σχετικά με αυτόν τον οδηγό](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/0-front-matter/untitled.md) |
-|  |  | [Αξιολόγηση με μια ματιά](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/0-front-matter/untitled.md) |
-|  |  | [Πρωτόκολλο επιχειρησιακής αξιολόγησης](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/0-front-matter/untitled.md) |
-|  |  | [Ξεκινήστε εδώ: η πρώτη σας διδακτική διαδρομή](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/0-front-matter/untitled.md) |
-|  |  | [Σκοπός](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/0-front-matter/untitled.md) |
-|  |  | [Πώς να χρησιμοποιήσετε αυτόν τον οδηγό](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/0-front-matter/untitled.md) |
-|  |  | [Γρήγορη εκκίνηση: δέκα αδιαπραγμάτευτες αρχές](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/0-front-matter/untitled.md) |
+|  |  | [Σχετικά με αυτόν τον οδηγό](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/0-front-matter/section-1.md) |
+|  |  | [Αξιολόγηση με μια ματιά](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/0-front-matter/section-2.md) |
+|  |  | [Πρωτόκολλο επιχειρησιακής αξιολόγησης](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/0-front-matter/section-3.md) |
+|  |  | [Ξεκινήστε εδώ: η πρώτη σας διδακτική διαδρομή](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/0-front-matter/section-4.md) |
+|  |  | [Σκοπός](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/0-front-matter/section-5.md) |
+|  |  | [Πώς να χρησιμοποιήσετε αυτόν τον οδηγό](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/0-front-matter/section-6.md) |
+|  |  | [Γρήγορη εκκίνηση: δέκα αδιαπραγμάτευτες αρχές](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/0-front-matter/section-7.md) |
 |  |  | [Το Δίπλωμα Bitcoin με μια ματιά](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/0-front-matter/bitcoin.md) |
 | **[Ο ρόλος του εκπαιδευτικού](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/educator-guide/el/1)** | 1.1 | [Πέρα από την παρουσίαση πληροφοριών](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/1/1.md) |
 |  | 1.2 | [Ο σκοπός του Διπλώματος Bitcoin και η ευθύνη σας](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/1/2-bitcoin.md) |
@@ -175,13 +175,13 @@ introduction, learning objectives, or notes for educators.
 |  | 16.4 | [Μοιραστείτε μια μαρτυρία εκπαιδευτικού](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/16/4.md) |
 |  | 16.5 | [Διατήρηση τοπικού περιεχομένου](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/16/5.md) |
 | **[Συνοπτική ορολογία και διακρίσεις για την αποφυγή παρανοήσεων](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/educator-guide/el/17)** | 17.1 | [Συνοπτική ορολογία και διακρίσεις για την αποφυγή παρανοήσεων](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/17/1.md) |
-|  |  | [Παράρτημα Α: Μονοσέλιδος κατάλογος ελέγχου προετοιμασίας του μαθήματος](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/18-back-matter/untitled.md) |
-|  |  | [Παράρτημα Β: πρότυπο σχεδίου μαθήματος ενότητας](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/18-back-matter/untitled.md) |
+|  |  | [Παράρτημα Α: Μονοσέλιδος κατάλογος ελέγχου προετοιμασίας του μαθήματος](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/18-back-matter/section-1.md) |
+|  |  | [Παράρτημα Β: πρότυπο σχεδίου μαθήματος ενότητας](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/18-back-matter/section-2.md) |
 |  |  | [Παράρτημα C: σχέδιο ασφάλειας πρακτικής επίδειξης](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/18-back-matter/c.md) |
 |  |  | [Παράρτημα D: Ενημέρωση από τοπικό εμπειρογνώμονα](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/18-back-matter/d.md) |
-|  |  | [Παράρτημα Ε: κάρτα καθοδήγησης συζήτησης](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/18-back-matter/untitled.md) |
+|  |  | [Παράρτημα Ε: κάρτα καθοδήγησης συζήτησης](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/18-back-matter/section-5.md) |
 |  |  | [Παράρτημα F: Ενδεικτικά πλάνα διδασκαλίας](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/18-back-matter/f.md) |
-|  |  | [Αρχή λειτουργίας](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/18-back-matter/untitled.md) |
-|  |  | [Συνεχίστε να μαθαίνετε](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/18-back-matter/untitled.md) |
-|  |  | [Βοηθήστε να βελτιωθεί αυτός ο Οδηγός Εκπαιδευτικού](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/18-back-matter/untitled.md) |
+|  |  | [Αρχή λειτουργίας](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/18-back-matter/section-7.md) |
+|  |  | [Συνεχίστε να μαθαίνετε](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/18-back-matter/section-8.md) |
+|  |  | [Βοηθήστε να βελτιωθεί αυτός ο Οδηγός Εκπαιδευτικού](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/el/18-back-matter/section-9.md) |
 <!-- mfb:structure:end -->

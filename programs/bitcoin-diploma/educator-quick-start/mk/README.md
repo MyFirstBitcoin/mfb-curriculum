@@ -11,11 +11,11 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [Започнете тука](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/mk/untitled.md) |
-|  |  | [Патеката на учење](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/mk/untitled.md) |
-|  |  | [Што останува непроменето — и што внесувате вие](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/mk/untitled.md) |
-|  |  | [Создадете безбедна и активна училница](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/mk/untitled.md) |
-|  |  | [Правично оценувајте го учењето](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/mk/untitled.md) |
-|  |  | [Вашата контролна листа за првиот курс](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/mk/untitled.md) |
-|  |  | [Преземете ја одговорноста](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/mk/untitled.md) |
+|  |  | [Започнете тука](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/mk/section-1.md) |
+|  |  | [Патеката на учење](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/mk/section-2.md) |
+|  |  | [Што останува непроменето — и што внесувате вие](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/mk/section-3.md) |
+|  |  | [Создадете безбедна и активна училница](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/mk/section-4.md) |
+|  |  | [Правично оценувајте го учењето](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/mk/section-5.md) |
+|  |  | [Вашата контролна листа за првиот курс](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/mk/section-6.md) |
+|  |  | [Преземете ја одговорноста](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/mk/section-7.md) |
 <!-- mfb:structure:end -->

@@ -11,8 +11,8 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [欢迎来到比特币文凭课程](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hans/0-front-matter/untitled.md) |
-|  |  | [比特币文凭如何运作](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hans/0-front-matter/untitled.md) |
+|  |  | [欢迎来到比特币文凭课程](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hans/0-front-matter/section-1.md) |
+|  |  | [比特币文凭如何运作](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hans/0-front-matter/section-2.md) |
 | **[理解货币](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/zh-Hans/1)** | 1.1 | [关于货币的开篇问题](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hans/1/1.md) |
 |  | 1.2 | [货币为何存在](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hans/1/2.md) |
 |  | 1.3 | [货币的职能与属性](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hans/1/3.md) |
@@ -76,7 +76,7 @@ introduction, learning objectives, or notes for educators.
 |  | 4.11 | [商家或社区应用场景](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hans/4/11.md) |
 |  | 4.12 | [本地资源地图与社区探索](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hans/4/12.md) |
 |  | 4.13 | [复习：将所学与您的社区联系起来](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hans/4/13.md) |
-|  |  | [可选的后续步骤](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hans/5-back-matter/untitled.md) |
+|  |  | [可选的后续步骤](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hans/5-back-matter/section-1.md) |
 
 **Quizzes** (`_quiz.md`, one per module): the question, the choices and the
 explanation are text, and corrections are welcome. The ticked box is the answer

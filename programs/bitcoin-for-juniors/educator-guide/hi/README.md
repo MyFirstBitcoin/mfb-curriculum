@@ -11,10 +11,10 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [प्राक्कथन](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/hi/0-front-matter/untitled.md) |
-|  |  | [अक्सर पूछे जाने वाले प्रश्न](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/hi/0-front-matter/untitled.md) |
-|  |  | [परिचय](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/hi/0-front-matter/untitled.md) |
-|  |  | [जूनियर्स के लिए बिटकॉइन: अभिभावकों की मार्गदर्शिका](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/hi/0-front-matter/untitled.md) |
+|  |  | [प्राक्कथन](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/hi/0-front-matter/section-1.md) |
+|  |  | [अक्सर पूछे जाने वाले प्रश्न](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/hi/0-front-matter/section-2.md) |
+|  |  | [परिचय](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/hi/0-front-matter/section-3.md) |
+|  |  | [जूनियर्स के लिए बिटकॉइन: अभिभावकों की मार्गदर्शिका](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/hi/0-front-matter/section-4.md) |
 | **[विनिमय, मूल्य और कीमत](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-for-juniors/educator-guide/hi/1)** | 1.1 | [अवलोकन](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/hi/1/1.md) |
 |  | 1.2 | [एक बार, दो बार, बिक गया!](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/hi/1/2-going-going-gone.md) |
 |  | 1.3 | [मूल्य क्या है?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/hi/1/3-what-is-value.md) |

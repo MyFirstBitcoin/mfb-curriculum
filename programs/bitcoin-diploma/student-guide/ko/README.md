@@ -11,8 +11,8 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [비트코인 디플로마에 오신 것을 환영해요](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ko/0-front-matter/untitled.md) |
-|  |  | [비트코인 디플로마는 이렇게 진행돼요](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ko/0-front-matter/untitled.md) |
+|  |  | [비트코인 디플로마에 오신 것을 환영해요](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ko/0-front-matter/section-1.md) |
+|  |  | [비트코인 디플로마는 이렇게 진행돼요](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ko/0-front-matter/section-2.md) |
 | **[돈 이해하기](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/ko/1)** | 1.1 | [돈에 관한 도입 질문](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ko/1/1.md) |
 |  | 1.2 | [돈이 존재하는 이유](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ko/1/2.md) |
 |  | 1.3 | [화폐의 기능과 특성](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ko/1/3.md) |
@@ -76,7 +76,7 @@ introduction, learning objectives, or notes for educators.
 |  | 4.11 | [상점 또는 커뮤니티 활용 사례](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ko/4/11.md) |
 |  | 4.12 | [지역 자원 지도와 커뮤니티 탐색](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ko/4/12.md) |
 |  | 4.13 | [복습: 이 내용을 여러분의 지역사회와 연결해 보세요](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ko/4/13.md) |
-|  |  | [선택 가능한 다음 단계](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ko/5-back-matter/untitled.md) |
+|  |  | [선택 가능한 다음 단계](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ko/5-back-matter/section-1.md) |
 
 **Quizzes** (`_quiz.md`, one per module): the question, the choices and the
 explanation are text, and corrections are welcome. The ticked box is the answer

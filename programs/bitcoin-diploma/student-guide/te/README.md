@@ -11,8 +11,8 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [బిట్‌కాయిన్ డిప్లొమాకు స్వాగతం](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/te/0-front-matter/untitled.md) |
-|  |  | [బిట్‌కాయిన్ డిప్లొమా ఎలా పనిచేస్తుంది](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/te/0-front-matter/untitled.md) |
+|  |  | [బిట్‌కాయిన్ డిప్లొమాకు స్వాగతం](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/te/0-front-matter/section-1.md) |
+|  |  | [బిట్‌కాయిన్ డిప్లొమా ఎలా పనిచేస్తుంది](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/te/0-front-matter/section-2.md) |
 | **[డబ్బును అర్థం చేసుకోవడం](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/te/1)** | 1.1 | [డబ్బు గురించి ప్రారంభ ప్రశ్నలు](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/te/1/1.md) |
 |  | 1.2 | [డబ్బు ఎందుకు ఉనికిలో ఉంది](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/te/1/2.md) |
 |  | 1.3 | [డబ్బు విధులు మరియు లక్షణాలు](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/te/1/3.md) |
@@ -76,7 +76,7 @@ introduction, learning objectives, or notes for educators.
 |  | 4.11 | [వ్యాపారులు లేదా సముదాయంలో వినియోగ సందర్భాలు](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/te/4/11.md) |
 |  | 4.12 | [స్థానిక వనరుల పటాలు మరియు సముదాయ అన్వేషణ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/te/4/12.md) |
 |  | 4.13 | [సమీక్ష: దీన్ని మీ సమాజంతో అనుసంధానించండి](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/te/4/13.md) |
-|  |  | [ఐచ్ఛిక తదుపరి దశలు](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/te/5-back-matter/untitled.md) |
+|  |  | [ఐచ్ఛిక తదుపరి దశలు](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/te/5-back-matter/section-1.md) |
 
 **Quizzes** (`_quiz.md`, one per module): the question, the choices and the
 explanation are text, and corrections are welcome. The ticked box is the answer

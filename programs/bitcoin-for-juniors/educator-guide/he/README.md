@@ -11,10 +11,10 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [פתח דבר](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/he/0-front-matter/untitled.md) |
-|  |  | [שאלות נפוצות](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/he/0-front-matter/untitled.md) |
-|  |  | [מבוא](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/he/0-front-matter/untitled.md) |
-|  |  | [מדריך להורים לביטקוין לצעירים](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/he/0-front-matter/untitled.md) |
+|  |  | [פתח דבר](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/he/0-front-matter/section-1.md) |
+|  |  | [שאלות נפוצות](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/he/0-front-matter/section-2.md) |
+|  |  | [מבוא](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/he/0-front-matter/section-3.md) |
+|  |  | [מדריך להורים לביטקוין לצעירים](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/he/0-front-matter/section-4.md) |
 | **[חליפין, ערך ומחיר](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-for-juniors/educator-guide/he/1)** | 1.1 | [סקירה כללית](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/he/1/1.md) |
 |  | 1.2 | [פעם ראשונה, פעם שנייה, נמכר!](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/he/1/2-going-going-gone.md) |
 |  | 1.3 | [מהו ערך?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/he/1/3-what-is-value.md) |

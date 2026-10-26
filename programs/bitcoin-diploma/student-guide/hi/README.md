@@ -11,8 +11,8 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [बिटकॉइन डिप्लोमा में आपका स्वागत है](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hi/0-front-matter/untitled.md) |
-|  |  | [बिटकॉइन डिप्लोमा कैसे काम करता है](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hi/0-front-matter/untitled.md) |
+|  |  | [बिटकॉइन डिप्लोमा में आपका स्वागत है](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hi/0-front-matter/section-1.md) |
+|  |  | [बिटकॉइन डिप्लोमा कैसे काम करता है](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hi/0-front-matter/section-2.md) |
 | **[पैसे को समझना](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/hi/1)** | 1.1 | [पैसे के बारे में शुरुआती प्रश्न](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hi/1/1.md) |
 |  | 1.2 | [पैसा क्यों अस्तित्व में है](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hi/1/2.md) |
 |  | 1.3 | [धन के कार्य और गुण](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hi/1/3.md) |
@@ -76,7 +76,7 @@ introduction, learning objectives, or notes for educators.
 |  | 4.11 | [व्यापारियों या समुदाय के लिए उपयोग के उदाहरण](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hi/4/11.md) |
 |  | 4.12 | [स्थानीय संसाधनों के मानचित्र और समुदाय की खोज](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hi/4/12.md) |
 |  | 4.13 | [पुनरावलोकन: इसे अपने समुदाय से जोड़ें](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hi/4/13.md) |
-|  |  | [वैकल्पिक अगले कदम](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hi/5-back-matter/untitled.md) |
+|  |  | [वैकल्पिक अगले कदम](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hi/5-back-matter/section-1.md) |
 
 **Quizzes** (`_quiz.md`, one per module): the question, the choices and the
 explanation are text, and corrections are welcome. The ticked box is the answer

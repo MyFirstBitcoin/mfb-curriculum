@@ -11,10 +11,10 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [はじめに](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ja/0-front-matter/untitled.md) |
-|  |  | [よくある質問](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ja/0-front-matter/untitled.md) |
-|  |  | [はじめに](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ja/0-front-matter/untitled.md) |
-|  |  | [保護者のための「ジュニアのためのビットコイン」ガイド](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ja/0-front-matter/untitled.md) |
+|  |  | [はじめに](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ja/0-front-matter/section-1.md) |
+|  |  | [よくある質問](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ja/0-front-matter/section-2.md) |
+|  |  | [はじめに](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ja/0-front-matter/section-3.md) |
+|  |  | [保護者のための「ジュニアのためのビットコイン」ガイド](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ja/0-front-matter/section-4.md) |
 | **[交換、価値、そして価格](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-for-juniors/educator-guide/ja/1)** | 1.1 | [概要](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ja/1/1.md) |
 |  | 1.2 | [ほかにいませんか？　はい、落札です！](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ja/1/2-going-going-gone.md) |
 |  | 1.3 | [価値とは何でしょうか？](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ja/1/3-what-is-value.md) |

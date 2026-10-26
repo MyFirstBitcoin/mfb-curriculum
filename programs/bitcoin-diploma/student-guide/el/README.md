@@ -12,7 +12,7 @@ introduction, learning objectives, or notes for educators.
 | Module | Number | Section |
 |--------|--------|---------|
 |  |  | [Καλώς ήρθατε στο Δίπλωμα Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/0-front-matter/bitcoin.md) |
-|  |  | [Πώς λειτουργεί το Δίπλωμα Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/0-front-matter/bitcoin.md) |
+|  |  | [Πώς λειτουργεί το Δίπλωμα Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/0-front-matter/bitcoin-2.md) |
 | **[Κατανοώντας το χρήμα](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/el/1)** | 1.1 | [Εισαγωγικές ερωτήσεις για το χρήμα](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/1/1.md) |
 |  | 1.2 | [Γιατί υπάρχει το χρήμα](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/1/2.md) |
 |  | 1.3 | [Λειτουργίες και ιδιότητες του χρήματος](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/1/3.md) |
@@ -76,7 +76,7 @@ introduction, learning objectives, or notes for educators.
 |  | 4.11 | [Περιπτώσεις χρήσης για εμπόρους ή κοινότητες](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/4-bitcoin/11.md) |
 |  | 4.12 | [Χάρτες τοπικών πόρων και γνωριμία με την κοινότητα](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/4-bitcoin/12.md) |
 |  | 4.13 | [Ανασκόπηση: Συνδέστε το με την κοινότητά σας](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/4-bitcoin/13.md) |
-|  |  | [Προαιρετικά επόμενα βήματα](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/5-back-matter/untitled.md) |
+|  |  | [Προαιρετικά επόμενα βήματα](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/5-back-matter/section-1.md) |
 
 **Quizzes** (`_quiz.md`, one per module): the question, the choices and the
 explanation are text, and corrections are welcome. The ticked box is the answer

@@ -11,11 +11,11 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [Սկսեք այստեղ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/hy/untitled.md) |
-|  |  | [Ուսումնառության ուղին](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/hy/untitled.md) |
-|  |  | [Ինչն է մնում անփոփոխ, և ինչ եք բերում դուք](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/hy/untitled.md) |
-|  |  | [Ստեղծեք անվտանգ և ակտիվ ուսումնական միջավայր](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/hy/untitled.md) |
-|  |  | [Արդարացիորեն գնահատեք ուսումնառությունը](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/hy/untitled.md) |
-|  |  | [Ձեր առաջին դասընթացի ստուգաթերթը](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/hy/untitled.md) |
-|  |  | [Ստանձնեք պատասխանատվությունը](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/hy/untitled.md) |
+|  |  | [Սկսեք այստեղ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/hy/section-1.md) |
+|  |  | [Ուսումնառության ուղին](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/hy/section-2.md) |
+|  |  | [Ինչն է մնում անփոփոխ, և ինչ եք բերում դուք](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/hy/section-3.md) |
+|  |  | [Ստեղծեք անվտանգ և ակտիվ ուսումնական միջավայր](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/hy/section-4.md) |
+|  |  | [Արդարացիորեն գնահատեք ուսումնառությունը](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/hy/section-5.md) |
+|  |  | [Ձեր առաջին դասընթացի ստուգաթերթը](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/hy/section-6.md) |
+|  |  | [Ստանձնեք պատասխանատվությունը](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/hy/section-7.md) |
 <!-- mfb:structure:end -->

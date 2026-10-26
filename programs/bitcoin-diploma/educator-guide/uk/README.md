@@ -11,14 +11,14 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [Про цей посібник](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/uk/0-front-matter/untitled.md) |
-|  |  | [Короткий огляд оцінювання](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/uk/0-front-matter/untitled.md) |
-|  |  | [Протокол оперативного оцінювання](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/uk/0-front-matter/untitled.md) |
-|  |  | [Почніть тут: ваш перший викладацький маршрут](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/uk/0-front-matter/untitled.md) |
-|  |  | [Мета](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/uk/0-front-matter/untitled.md) |
-|  |  | [Як користуватися цим посібником](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/uk/0-front-matter/untitled.md) |
-|  |  | [Швидкий старт: десять обов’язкових принципів](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/uk/0-front-matter/untitled.md) |
-|  |  | [Диплом із Біткоїна: короткий огляд](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/uk/0-front-matter/untitled.md) |
+|  |  | [Про цей посібник](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/uk/0-front-matter/section-1.md) |
+|  |  | [Короткий огляд оцінювання](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/uk/0-front-matter/section-2.md) |
+|  |  | [Протокол оперативного оцінювання](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/uk/0-front-matter/section-3.md) |
+|  |  | [Почніть тут: ваш перший викладацький маршрут](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/uk/0-front-matter/section-4.md) |
+|  |  | [Мета](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/uk/0-front-matter/section-5.md) |
+|  |  | [Як користуватися цим посібником](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/uk/0-front-matter/section-6.md) |
+|  |  | [Швидкий старт: десять обов’язкових принципів](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/uk/0-front-matter/section-7.md) |
+|  |  | [Диплом із Біткоїна: короткий огляд](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/uk/0-front-matter/section-8.md) |
 | **[Роль викладача](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/educator-guide/uk/1)** | 1.1 | [Більше, ніж просто подання інформації](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/uk/1/1.md) |
 |  | 1.2 | [Мета програми «Біткоїн-диплом» і Ваша відповідальність](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/uk/1/2.md) |
 |  | 1.3 | [Ролі в курсі](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/uk/1/3.md) |
@@ -181,7 +181,7 @@ introduction, learning objectives, or notes for educators.
 |  |  | [Додаток D: інструктаж для місцевого експерта](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/uk/18-back-matter/d.md) |
 |  |  | [Додаток E: картка-підказка для обговорення](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/uk/18-back-matter/e.md) |
 |  |  | [Додаток F: зразки планів викладання](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/uk/18-back-matter/f.md) |
-|  |  | [Принцип роботи](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/uk/18-back-matter/untitled.md) |
-|  |  | [Продовжуйте навчання](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/uk/18-back-matter/untitled.md) |
-|  |  | [Допоможіть покращити цей посібник для викладачів](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/uk/18-back-matter/untitled.md) |
+|  |  | [Принцип роботи](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/uk/18-back-matter/section-7.md) |
+|  |  | [Продовжуйте навчання](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/uk/18-back-matter/section-8.md) |
+|  |  | [Допоможіть покращити цей посібник для викладачів](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/uk/18-back-matter/section-9.md) |
 <!-- mfb:structure:end -->

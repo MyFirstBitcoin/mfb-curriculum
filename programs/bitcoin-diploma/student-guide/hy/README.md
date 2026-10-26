@@ -11,8 +11,8 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [Բարի գալուստ «Բիթքոյնի դիպլոմ»](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hy/0-front-matter/untitled.md) |
-|  |  | [Ինչպես է գործում Բիթքոյնի դիպլոմը](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hy/0-front-matter/untitled.md) |
+|  |  | [Բարի գալուստ «Բիթքոյնի դիպլոմ»](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hy/0-front-matter/section-1.md) |
+|  |  | [Ինչպես է գործում Բիթքոյնի դիպլոմը](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hy/0-front-matter/section-2.md) |
 | **[Հասկանալ փողը](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/hy/1)** | 1.1 | [Նախնական հարցեր փողի մասին](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hy/1/1.md) |
 |  | 1.2 | [Ինչու է փողը գոյություն ունենում](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hy/1/2.md) |
 |  | 1.3 | [Փողի գործառույթներն ու հատկությունները](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hy/1/3.md) |
@@ -76,7 +76,7 @@ introduction, learning objectives, or notes for educators.
 |  | 4.11 | [Առևտրականների կամ համայնքի համար կիրառման օրինակներ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hy/4/11.md) |
 |  | 4.12 | [Տեղական ռեսուրսների քարտեզներ և համայնքի բացահայտում](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hy/4/12.md) |
 |  | 4.13 | [Ամփոփում․ կապեք սա Ձեր համայնքի հետ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hy/4/13.md) |
-|  |  | [Հետագա կամընտիր քայլեր](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hy/5-back-matter/untitled.md) |
+|  |  | [Հետագա կամընտիր քայլեր](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hy/5-back-matter/section-1.md) |
 
 **Quizzes** (`_quiz.md`, one per module): the question, the choices and the
 explanation are text, and corrections are welcome. The ticked box is the answer

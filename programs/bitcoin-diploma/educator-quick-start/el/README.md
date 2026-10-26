@@ -11,11 +11,11 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [Ξεκινήστε εδώ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/el/untitled.md) |
-|  |  | [Η μαθησιακή διαδρομή](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/el/untitled.md) |
-|  |  | [Τι παραμένει σταθερό — και τι προσφέρετε εσείς](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/el/untitled.md) |
-|  |  | [Δημιουργήστε μια ασφαλή τάξη με ενεργή συμμετοχή](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/el/untitled.md) |
-|  |  | [Αξιολογήστε τη μάθηση δίκαια](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/el/untitled.md) |
-|  |  | [Λίστα ελέγχου για το πρώτο σας μάθημα](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/el/untitled.md) |
-|  |  | [Πάρτε τη σκυτάλη](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/el/untitled.md) |
+|  |  | [Ξεκινήστε εδώ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/el/section-1.md) |
+|  |  | [Η μαθησιακή διαδρομή](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/el/section-2.md) |
+|  |  | [Τι παραμένει σταθερό — και τι προσφέρετε εσείς](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/el/section-3.md) |
+|  |  | [Δημιουργήστε μια ασφαλή τάξη με ενεργή συμμετοχή](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/el/section-4.md) |
+|  |  | [Αξιολογήστε τη μάθηση δίκαια](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/el/section-5.md) |
+|  |  | [Λίστα ελέγχου για το πρώτο σας μάθημα](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/el/section-6.md) |
+|  |  | [Πάρτε τη σκυτάλη](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/el/section-7.md) |
 <!-- mfb:structure:end -->

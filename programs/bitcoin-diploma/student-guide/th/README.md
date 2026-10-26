@@ -11,7 +11,7 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [ยินดีต้อนรับสู่หลักสูตรประกาศนียบัตรบิตคอยน์](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/th/0-front-matter/untitled.md) |
+|  |  | [ยินดีต้อนรับสู่หลักสูตรประกาศนียบัตรบิตคอยน์](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/th/0-front-matter/section-1.md) |
 |  |  | [หลักสูตร Bitcoin Diploma ดำเนินการอย่างไร](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/th/0-front-matter/bitcoin-diploma.md) |
 | **[ทำความเข้าใจเรื่องเงิน](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/th/1)** | 1.1 | [คำถามเปิดบทเรียนเกี่ยวกับเงิน](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/th/1/1.md) |
 |  | 1.2 | [เหตุใดจึงมีเงิน](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/th/1/2.md) |
@@ -76,7 +76,7 @@ introduction, learning objectives, or notes for educators.
 |  | 4.11 | [กรณีการใช้งานสำหรับร้านค้าหรือชุมชน](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/th/4/11.md) |
 |  | 4.12 | [แผนที่ทรัพยากรในท้องถิ่นและการสำรวจชุมชน](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/th/4/12.md) |
 |  | 4.13 | [ทบทวน: เชื่อมโยงสิ่งนี้กับชุมชนของคุณ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/th/4/13.md) |
-|  |  | [ขั้นตอนถัดไปตามความสมัครใจ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/th/5-back-matter/untitled.md) |
+|  |  | [ขั้นตอนถัดไปตามความสมัครใจ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/th/5-back-matter/section-1.md) |
 
 **Quizzes** (`_quiz.md`, one per module): the question, the choices and the
 explanation are text, and corrections are welcome. The ticked box is the answer

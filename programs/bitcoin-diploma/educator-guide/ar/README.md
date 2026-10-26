@@ -11,14 +11,14 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [حول هذا الدليل](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ar/0-front-matter/untitled.md) |
-|  |  | [التقييم في لمحة](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ar/0-front-matter/untitled.md) |
-|  |  | [بروتوكول التقييم التشغيلي](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ar/0-front-matter/untitled.md) |
-|  |  | [ابدؤوا من هنا: مساركم الأول للتدريس](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ar/0-front-matter/untitled.md) |
-|  |  | [الغرض](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ar/0-front-matter/untitled.md) |
-|  |  | [كيفية استخدام هذا الدليل](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ar/0-front-matter/untitled.md) |
-|  |  | [البدء السريع: عشرة أمور غير قابلة للتفاوض](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ar/0-front-matter/untitled.md) |
-|  |  | [دبلوم بيتكوين في لمحة](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ar/0-front-matter/untitled.md) |
+|  |  | [حول هذا الدليل](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ar/0-front-matter/section-1.md) |
+|  |  | [التقييم في لمحة](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ar/0-front-matter/section-2.md) |
+|  |  | [بروتوكول التقييم التشغيلي](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ar/0-front-matter/section-3.md) |
+|  |  | [ابدؤوا من هنا: مساركم الأول للتدريس](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ar/0-front-matter/section-4.md) |
+|  |  | [الغرض](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ar/0-front-matter/section-5.md) |
+|  |  | [كيفية استخدام هذا الدليل](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ar/0-front-matter/section-6.md) |
+|  |  | [البدء السريع: عشرة أمور غير قابلة للتفاوض](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ar/0-front-matter/section-7.md) |
+|  |  | [دبلوم بيتكوين في لمحة](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ar/0-front-matter/section-8.md) |
 | **[دور المعلّم](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/educator-guide/ar/1)** | 1.1 | [أكثر من مجرد عرض المعلومات](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ar/1/1.md) |
 |  | 1.2 | [هدف دبلوم بيتكوين ومسؤوليتكم](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ar/1/2.md) |
 |  | 1.3 | [الأدوار في الدورة التدريبية](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ar/1/3.md) |
@@ -181,7 +181,7 @@ introduction, learning objectives, or notes for educators.
 |  |  | [الملحق D: إحاطة الخبير المحلي](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ar/18-back-matter/d.md) |
 |  |  | [الملحق E: بطاقة إرشادية للنقاش](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ar/18-back-matter/e.md) |
 |  |  | [الملحق F: نماذج لخرائط التدريس](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ar/18-back-matter/f.md) |
-|  |  | [مبدأ العمل](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ar/18-back-matter/untitled.md) |
-|  |  | [واصلوا التعلّم](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ar/18-back-matter/untitled.md) |
-|  |  | [ساعدوا في تحسين دليل المعلّم هذا](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ar/18-back-matter/untitled.md) |
+|  |  | [مبدأ العمل](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ar/18-back-matter/section-7.md) |
+|  |  | [واصلوا التعلّم](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ar/18-back-matter/section-8.md) |
+|  |  | [ساعدوا في تحسين دليل المعلّم هذا](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ar/18-back-matter/section-9.md) |
 <!-- mfb:structure:end -->

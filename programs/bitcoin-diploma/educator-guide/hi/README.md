@@ -11,14 +11,14 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [इस मार्गदर्शिका के बारे में](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/hi/0-front-matter/untitled.md) |
-|  |  | [मूल्यांकन एक नज़र में](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/hi/0-front-matter/untitled.md) |
-|  |  | [संचालन संबंधी मूल्यांकन प्रोटोकॉल](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/hi/0-front-matter/untitled.md) |
-|  |  | [यहाँ से शुरू करें: आपका पहला शिक्षण मार्ग](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/hi/0-front-matter/untitled.md) |
-|  |  | [उद्देश्य](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/hi/0-front-matter/untitled.md) |
-|  |  | [इस मार्गदर्शिका का उपयोग कैसे करें](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/hi/0-front-matter/untitled.md) |
-|  |  | [त्वरित शुरुआत: दस अनिवार्य बातें](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/hi/0-front-matter/untitled.md) |
-|  |  | [बिटकॉइन डिप्लोमा एक नज़र में](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/hi/0-front-matter/untitled.md) |
+|  |  | [इस मार्गदर्शिका के बारे में](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/hi/0-front-matter/section-1.md) |
+|  |  | [मूल्यांकन एक नज़र में](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/hi/0-front-matter/section-2.md) |
+|  |  | [संचालन संबंधी मूल्यांकन प्रोटोकॉल](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/hi/0-front-matter/section-3.md) |
+|  |  | [यहाँ से शुरू करें: आपका पहला शिक्षण मार्ग](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/hi/0-front-matter/section-4.md) |
+|  |  | [उद्देश्य](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/hi/0-front-matter/section-5.md) |
+|  |  | [इस मार्गदर्शिका का उपयोग कैसे करें](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/hi/0-front-matter/section-6.md) |
+|  |  | [त्वरित शुरुआत: दस अनिवार्य बातें](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/hi/0-front-matter/section-7.md) |
+|  |  | [बिटकॉइन डिप्लोमा एक नज़र में](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/hi/0-front-matter/section-8.md) |
 | **[शिक्षक की भूमिका](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/educator-guide/hi/1)** | 1.1 | [केवल जानकारी प्रस्तुत करने से बढ़कर](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/hi/1/1.md) |
 |  | 1.2 | [बिटकॉइन डिप्लोमा का उद्देश्य और आपकी ज़िम्मेदारी](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/hi/1/2.md) |
 |  | 1.3 | [पाठ्यक्रम में भूमिकाएँ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/hi/1/3.md) |
@@ -181,7 +181,7 @@ introduction, learning objectives, or notes for educators.
 |  |  | [परिशिष्ट D: स्थानीय विशेषज्ञ का संक्षिप्त विवरण](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/hi/18-back-matter/d.md) |
 |  |  | [परिशिष्ट E: चर्चा के संकेतों वाला कार्ड](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/hi/18-back-matter/e.md) |
 |  |  | [परिशिष्ट F: पाठ्यक्रम संचालन के नमूना मानचित्र](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/hi/18-back-matter/f.md) |
-|  |  | [कार्य सिद्धांत](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/hi/18-back-matter/untitled.md) |
-|  |  | [सीखना जारी रखें](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/hi/18-back-matter/untitled.md) |
-|  |  | [इस शिक्षक मार्गदर्शिका को बेहतर बनाने में सहायता करें](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/hi/18-back-matter/untitled.md) |
+|  |  | [कार्य सिद्धांत](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/hi/18-back-matter/section-7.md) |
+|  |  | [सीखना जारी रखें](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/hi/18-back-matter/section-8.md) |
+|  |  | [इस शिक्षक मार्गदर्शिका को बेहतर बनाने में सहायता करें](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/hi/18-back-matter/section-9.md) |
 <!-- mfb:structure:end -->

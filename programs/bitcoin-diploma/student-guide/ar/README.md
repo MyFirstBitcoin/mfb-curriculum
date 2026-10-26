@@ -11,8 +11,8 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [مرحبًا بكم في دبلوم بيتكوين](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/0-front-matter/untitled.md) |
-|  |  | [كيف يعمل دبلوم بيتكوين](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/0-front-matter/untitled.md) |
+|  |  | [مرحبًا بكم في دبلوم بيتكوين](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/0-front-matter/section-1.md) |
+|  |  | [كيف يعمل دبلوم بيتكوين](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/0-front-matter/section-2.md) |
 | **[فهم النقود](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/ar/1)** | 1.1 | [أسئلة تمهيدية حول المال](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/1/1.md) |
 |  | 1.2 | [لماذا يوجد المال](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/1/2.md) |
 |  | 1.3 | [وظائف النقود وخصائصها](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/1/3.md) |
@@ -76,7 +76,7 @@ introduction, learning objectives, or notes for educators.
 |  | 4.11 | [حالات الاستخدام لدى التجار أو في المجتمع](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/4/11.md) |
 |  | 4.12 | [خرائط الموارد المحلية واستكشاف المجتمع المحلي](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/4/12.md) |
 |  | 4.13 | [مراجعة: اربطوا هذا بمجتمعكم](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/4/13.md) |
-|  |  | [الخطوات التالية الاختيارية](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/5-back-matter/untitled.md) |
+|  |  | [الخطوات التالية الاختيارية](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/5-back-matter/section-1.md) |
 
 **Quizzes** (`_quiz.md`, one per module): the question, the choices and the
 explanation are text, and corrections are welcome. The ticked box is the answer

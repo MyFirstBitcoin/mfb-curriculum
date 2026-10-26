@@ -11,11 +11,11 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [เริ่มต้นที่นี่](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/th/untitled.md) |
-|  |  | [เส้นทางการเรียนรู้](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/th/untitled.md) |
-|  |  | [สิ่งที่คงเดิม—และสิ่งที่คุณนำมาเสริม](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/th/untitled.md) |
-|  |  | [สร้างห้องเรียนที่ปลอดภัยและส่งเสริมการมีส่วนร่วม](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/th/untitled.md) |
-|  |  | [ประเมินการเรียนรู้อย่างเป็นธรรม](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/th/untitled.md) |
-|  |  | [รายการตรวจสอบสำหรับหลักสูตรแรกของคุณ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/th/untitled.md) |
-|  |  | [สานต่อภารกิจ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/th/untitled.md) |
+|  |  | [เริ่มต้นที่นี่](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/th/section-1.md) |
+|  |  | [เส้นทางการเรียนรู้](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/th/section-2.md) |
+|  |  | [สิ่งที่คงเดิม—และสิ่งที่คุณนำมาเสริม](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/th/section-3.md) |
+|  |  | [สร้างห้องเรียนที่ปลอดภัยและส่งเสริมการมีส่วนร่วม](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/th/section-4.md) |
+|  |  | [ประเมินการเรียนรู้อย่างเป็นธรรม](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/th/section-5.md) |
+|  |  | [รายการตรวจสอบสำหรับหลักสูตรแรกของคุณ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/th/section-6.md) |
+|  |  | [สานต่อภารกิจ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/th/section-7.md) |
 <!-- mfb:structure:end -->

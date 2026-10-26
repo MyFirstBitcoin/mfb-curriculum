@@ -11,8 +11,8 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [பிட்காயின் டிப்ளோமாவிற்கு உங்களை வரவேற்கிறோம்](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/0-front-matter/untitled.md) |
-|  |  | [பிட்காயின் பட்டயப் படிப்பு எவ்வாறு செயல்படுகிறது](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/0-front-matter/untitled.md) |
+|  |  | [பிட்காயின் டிப்ளோமாவிற்கு உங்களை வரவேற்கிறோம்](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/0-front-matter/section-1.md) |
+|  |  | [பிட்காயின் பட்டயப் படிப்பு எவ்வாறு செயல்படுகிறது](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/0-front-matter/section-2.md) |
 | **[பணத்தைப் புரிந்துகொள்ளுதல்](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/ta/1)** | 1.1 | [பணம் பற்றிய தொடக்கக் கேள்விகள்](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/1/1.md) |
 |  | 1.2 | [பணம் ஏன் உள்ளது](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/1/2.md) |
 |  | 1.3 | [பணத்தின் செயல்பாடுகளும் பண்புகளும்](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/1/3.md) |
@@ -76,7 +76,7 @@ introduction, learning objectives, or notes for educators.
 |  | 4.11 | [வணிகர் அல்லது சமூகப் பயன்பாட்டு நிகழ்வுகள்](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/4/11.md) |
 |  | 4.12 | [உள்ளூர் வள வரைபடங்கள் மற்றும் சமூகத்தைக் கண்டறிதல்](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/4/12.md) |
 |  | 4.13 | [மீள்பார்வை: இதை உங்கள் சமூகத்துடன் தொடர்புபடுத்துங்கள்](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/4/13.md) |
-|  |  | [விருப்பத்திற்குரிய அடுத்த படிகள்](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/5-back-matter/untitled.md) |
+|  |  | [விருப்பத்திற்குரிய அடுத்த படிகள்](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/5-back-matter/section-1.md) |
 
 **Quizzes** (`_quiz.md`, one per module): the question, the choices and the
 explanation are text, and corrections are welcome. The ticked box is the answer

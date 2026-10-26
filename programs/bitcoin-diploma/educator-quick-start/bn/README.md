@@ -11,11 +11,11 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [এখানে শুরু করুন](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/bn/untitled.md) |
-|  |  | [শেখার পথ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/bn/untitled.md) |
-|  |  | [যা অপরিবর্তিত থাকে—আর আপনি যা যোগ করেন](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/bn/untitled.md) |
-|  |  | [নিরাপদ ও সক্রিয় শ্রেণিকক্ষ তৈরি করুন](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/bn/untitled.md) |
-|  |  | [শিখনের ন্যায্য মূল্যায়ন করুন](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/bn/untitled.md) |
-|  |  | [আপনার প্রথম কোর্সের চেকলিস্ট](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/bn/untitled.md) |
-|  |  | [দায়িত্ব গ্রহণ করুন](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/bn/untitled.md) |
+|  |  | [এখানে শুরু করুন](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/bn/section-1.md) |
+|  |  | [শেখার পথ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/bn/section-2.md) |
+|  |  | [যা অপরিবর্তিত থাকে—আর আপনি যা যোগ করেন](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/bn/section-3.md) |
+|  |  | [নিরাপদ ও সক্রিয় শ্রেণিকক্ষ তৈরি করুন](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/bn/section-4.md) |
+|  |  | [শিখনের ন্যায্য মূল্যায়ন করুন](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/bn/section-5.md) |
+|  |  | [আপনার প্রথম কোর্সের চেকলিস্ট](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/bn/section-6.md) |
+|  |  | [দায়িত্ব গ্রহণ করুন](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/bn/section-7.md) |
 <!-- mfb:structure:end -->

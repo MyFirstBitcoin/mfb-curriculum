@@ -11,14 +11,14 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [על מדריך זה](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/0-front-matter/untitled.md) |
-|  |  | [הערכה במבט חטוף](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/0-front-matter/untitled.md) |
-|  |  | [פרוטוקול הערכה תפעולית](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/0-front-matter/untitled.md) |
-|  |  | [התחילו כאן: מסלול ההוראה הראשון שלכם](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/0-front-matter/untitled.md) |
-|  |  | [מטרה](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/0-front-matter/untitled.md) |
-|  |  | [כיצד להשתמש במדריך זה](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/0-front-matter/untitled.md) |
-|  |  | [התחלה מהירה: עשרה עקרונות שאין להתפשר עליהם](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/0-front-matter/untitled.md) |
-|  |  | [הדיפלומה בביטקוין במבט חטוף](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/0-front-matter/untitled.md) |
+|  |  | [על מדריך זה](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/0-front-matter/section-1.md) |
+|  |  | [הערכה במבט חטוף](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/0-front-matter/section-2.md) |
+|  |  | [פרוטוקול הערכה תפעולית](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/0-front-matter/section-3.md) |
+|  |  | [התחילו כאן: מסלול ההוראה הראשון שלכם](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/0-front-matter/section-4.md) |
+|  |  | [מטרה](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/0-front-matter/section-5.md) |
+|  |  | [כיצד להשתמש במדריך זה](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/0-front-matter/section-6.md) |
+|  |  | [התחלה מהירה: עשרה עקרונות שאין להתפשר עליהם](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/0-front-matter/section-7.md) |
+|  |  | [הדיפלומה בביטקוין במבט חטוף](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/0-front-matter/section-8.md) |
 | **[תפקיד המחנך](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/educator-guide/he/1)** | 1.1 | [יותר מהצגת מידע](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/1/1.md) |
 |  | 1.2 | [מטרת דיפלומת הביטקוין ואחריותכם](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/1/2.md) |
 |  | 1.3 | [תפקידים בקורס](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/1/3.md) |
@@ -175,13 +175,13 @@ introduction, learning objectives, or notes for educators.
 |  | 16.4 | [שתפו עדות אישית של איש חינוך](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/16/4.md) |
 |  | 16.5 | [שמירה על תוכן מקומי](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/16/5.md) |
 | **[מונחים בקצרה והבחנות למניעת תפיסות שגויות](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/educator-guide/he/17)** | 17.1 | [מונחים בקצרה והבחנות למניעת תפיסות שגויות](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/17/1.md) |
-|  |  | [נספח א׳: רשימת תיוג להכנה לקורס בעמוד אחד](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/18-back-matter/untitled.md) |
-|  |  | [נספח ב׳: תבנית מערך שיעור למודול](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/18-back-matter/untitled.md) |
+|  |  | [נספח א׳: רשימת תיוג להכנה לקורס בעמוד אחד](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/18-back-matter/section-1.md) |
+|  |  | [נספח ב׳: תבנית מערך שיעור למודול](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/18-back-matter/section-2.md) |
 |  |  | [נספח C: תוכנית בטיחות להדגמה מעשית](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/18-back-matter/c.md) |
-|  |  | [נספח ד׳: תדרוך מומחה מקומי](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/18-back-matter/untitled.md) |
-|  |  | [נספח ה׳: כרטיס הנחיה לדיון](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/18-back-matter/untitled.md) |
-|  |  | [נספח ו׳: מפות הוראה לדוגמה](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/18-back-matter/untitled.md) |
-|  |  | [עקרון הפעולה](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/18-back-matter/untitled.md) |
-|  |  | [המשיכו ללמוד](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/18-back-matter/untitled.md) |
-|  |  | [סייעו בשיפור מדריך זה למחנכים](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/18-back-matter/untitled.md) |
+|  |  | [נספח ד׳: תדרוך מומחה מקומי](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/18-back-matter/section-4.md) |
+|  |  | [נספח ה׳: כרטיס הנחיה לדיון](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/18-back-matter/section-5.md) |
+|  |  | [נספח ו׳: מפות הוראה לדוגמה](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/18-back-matter/section-6.md) |
+|  |  | [עקרון הפעולה](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/18-back-matter/section-7.md) |
+|  |  | [המשיכו ללמוד](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/18-back-matter/section-8.md) |
+|  |  | [סייעו בשיפור מדריך זה למחנכים](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/he/18-back-matter/section-9.md) |
 <!-- mfb:structure:end -->

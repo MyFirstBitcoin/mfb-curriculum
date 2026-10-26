@@ -11,10 +11,10 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [Предисловие](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ru/0-front-matter/untitled.md) |
-|  |  | [Часто задаваемые вопросы](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ru/0-front-matter/untitled.md) |
-|  |  | [Введение](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ru/0-front-matter/untitled.md) |
-|  |  | [Биткоин для детей: руководство для родителей](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ru/0-front-matter/untitled.md) |
+|  |  | [Предисловие](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ru/0-front-matter/section-1.md) |
+|  |  | [Часто задаваемые вопросы](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ru/0-front-matter/section-2.md) |
+|  |  | [Введение](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ru/0-front-matter/section-3.md) |
+|  |  | [Биткоин для детей: руководство для родителей](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ru/0-front-matter/section-4.md) |
 | **[Обмен, ценность и цена](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-for-juniors/educator-guide/ru/1)** | 1.1 | [Обзор](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ru/1/1.md) |
 |  | 1.2 | [Раз, два — продано!](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ru/1/2-going-going-gone.md) |
 |  | 1.3 | [Что такое ценность?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ru/1/3-what-is-value.md) |

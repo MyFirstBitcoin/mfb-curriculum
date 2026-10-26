@@ -11,14 +11,14 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [Об этом руководстве](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ru/0-front-matter/untitled.md) |
-|  |  | [Краткий обзор оценивания](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ru/0-front-matter/untitled.md) |
-|  |  | [Протокол оперативной оценки](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ru/0-front-matter/untitled.md) |
-|  |  | [Начните здесь: ваш первый маршрут преподавания](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ru/0-front-matter/untitled.md) |
-|  |  | [Цель](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ru/0-front-matter/untitled.md) |
-|  |  | [Как пользоваться этим руководством](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ru/0-front-matter/untitled.md) |
-|  |  | [Быстрый старт: десять обязательных правил](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ru/0-front-matter/untitled.md) |
-|  |  | [Биткоин-диплом: краткий обзор](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ru/0-front-matter/untitled.md) |
+|  |  | [Об этом руководстве](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ru/0-front-matter/section-1.md) |
+|  |  | [Краткий обзор оценивания](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ru/0-front-matter/section-2.md) |
+|  |  | [Протокол оперативной оценки](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ru/0-front-matter/section-3.md) |
+|  |  | [Начните здесь: ваш первый маршрут преподавания](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ru/0-front-matter/section-4.md) |
+|  |  | [Цель](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ru/0-front-matter/section-5.md) |
+|  |  | [Как пользоваться этим руководством](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ru/0-front-matter/section-6.md) |
+|  |  | [Быстрый старт: десять обязательных правил](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ru/0-front-matter/section-7.md) |
+|  |  | [Биткоин-диплом: краткий обзор](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ru/0-front-matter/section-8.md) |
 | **[Роль преподавателя](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/educator-guide/ru/1)** | 1.1 | [Больше, чем просто изложение информации](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ru/1/1.md) |
 |  | 1.2 | [Цель курса «Диплом по биткоину» и ваша ответственность](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ru/1/2.md) |
 |  | 1.3 | [Роли в курсе](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ru/1/3.md) |
@@ -181,7 +181,7 @@ introduction, learning objectives, or notes for educators.
 |  |  | [Приложение D: инструктаж местного эксперта](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ru/18-back-matter/d.md) |
 |  |  | [Приложение E: карточка-подсказка для обсуждения](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ru/18-back-matter/e.md) |
 |  |  | [Приложение F: примеры планов проведения занятий](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ru/18-back-matter/f.md) |
-|  |  | [Принцип работы](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ru/18-back-matter/untitled.md) |
-|  |  | [Продолжайте учиться](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ru/18-back-matter/untitled.md) |
-|  |  | [Помогите улучшить это руководство для преподавателей](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ru/18-back-matter/untitled.md) |
+|  |  | [Принцип работы](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ru/18-back-matter/section-7.md) |
+|  |  | [Продолжайте учиться](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ru/18-back-matter/section-8.md) |
+|  |  | [Помогите улучшить это руководство для преподавателей](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ru/18-back-matter/section-9.md) |
 <!-- mfb:structure:end -->

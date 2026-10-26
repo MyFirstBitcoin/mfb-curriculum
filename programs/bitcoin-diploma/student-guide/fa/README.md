@@ -11,8 +11,8 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [به دورهٔ دیپلم بیت‌کوین خوش آمدید](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/0-front-matter/untitled.md) |
-|  |  | [نحوهٔ برگزاری دورهٔ دیپلم بیت‌کوین](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/0-front-matter/untitled.md) |
+|  |  | [به دورهٔ دیپلم بیت‌کوین خوش آمدید](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/0-front-matter/section-1.md) |
+|  |  | [نحوهٔ برگزاری دورهٔ دیپلم بیت‌کوین](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/0-front-matter/section-2.md) |
 | **[درک پول](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/fa/1)** | 1.1 | [پرسش‌های آغازین دربارهٔ پول](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/1/1.md) |
 |  | 1.2 | [چرا پول وجود دارد](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/1/2.md) |
 |  | 1.3 | [کارکردها و ویژگی‌های پول](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/1/3.md) |
@@ -76,7 +76,7 @@ introduction, learning objectives, or notes for educators.
 |  | 4.11 | [موارد کاربرد برای کسب‌وکارها یا جامعه](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/4/11.md) |
 |  | 4.12 | [نقشه‌های منابع محلی و شناخت جامعهٔ محلی](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/4/12.md) |
 |  | 4.13 | [مرور: این موضوع را به جامعهٔ خود پیوند دهید](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/4/13.md) |
-|  |  | [گام‌های بعدی اختیاری](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/5-back-matter/untitled.md) |
+|  |  | [گام‌های بعدی اختیاری](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/5-back-matter/section-1.md) |
 
 **Quizzes** (`_quiz.md`, one per module): the question, the choices and the
 explanation are text, and corrections are welcome. The ticked box is the answer

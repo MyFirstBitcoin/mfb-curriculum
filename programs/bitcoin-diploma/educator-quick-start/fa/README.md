@@ -11,11 +11,11 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [از اینجا شروع کنید](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/fa/untitled.md) |
-|  |  | [مسیر یادگیری](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/fa/untitled.md) |
-|  |  | [آنچه ثابت می‌ماند—و آنچه شما به آن می‌افزایید](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/fa/untitled.md) |
-|  |  | [محیط کلاسی امن و پویا ایجاد کنید](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/fa/untitled.md) |
-|  |  | [ارزیابی منصفانهٔ یادگیری](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/fa/untitled.md) |
-|  |  | [چک‌لیست نخستین دورهٔ شما](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/fa/untitled.md) |
-|  |  | [مسئولیت را بر عهده بگیرید](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/fa/untitled.md) |
+|  |  | [از اینجا شروع کنید](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/fa/section-1.md) |
+|  |  | [مسیر یادگیری](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/fa/section-2.md) |
+|  |  | [آنچه ثابت می‌ماند—و آنچه شما به آن می‌افزایید](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/fa/section-3.md) |
+|  |  | [محیط کلاسی امن و پویا ایجاد کنید](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/fa/section-4.md) |
+|  |  | [ارزیابی منصفانهٔ یادگیری](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/fa/section-5.md) |
+|  |  | [چک‌لیست نخستین دورهٔ شما](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/fa/section-6.md) |
+|  |  | [مسئولیت را بر عهده بگیرید](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/fa/section-7.md) |
 <!-- mfb:structure:end -->

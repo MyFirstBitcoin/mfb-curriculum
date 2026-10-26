@@ -11,11 +11,11 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [Почніть тут](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/uk/untitled.md) |
-|  |  | [Навчальний шлях](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/uk/untitled.md) |
-|  |  | [Що залишається незмінним — і що додаєте ви](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/uk/untitled.md) |
-|  |  | [Створіть безпечне навчальне середовище, що заохочує активну участь](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/uk/untitled.md) |
-|  |  | [Справедливо оцінюйте результати навчання](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/uk/untitled.md) |
-|  |  | [Контрольний список для вашого першого курсу](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/uk/untitled.md) |
-|  |  | [Візьміть на себе відповідальність](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/uk/untitled.md) |
+|  |  | [Почніть тут](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/uk/section-1.md) |
+|  |  | [Навчальний шлях](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/uk/section-2.md) |
+|  |  | [Що залишається незмінним — і що додаєте ви](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/uk/section-3.md) |
+|  |  | [Створіть безпечне навчальне середовище, що заохочує активну участь](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/uk/section-4.md) |
+|  |  | [Справедливо оцінюйте результати навчання](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/uk/section-5.md) |
+|  |  | [Контрольний список для вашого першого курсу](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/uk/section-6.md) |
+|  |  | [Візьміть на себе відповідальність](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/uk/section-7.md) |
 <!-- mfb:structure:end -->

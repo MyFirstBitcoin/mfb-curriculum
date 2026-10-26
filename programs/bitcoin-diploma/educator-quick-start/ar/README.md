@@ -11,11 +11,11 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [ابدؤوا هنا](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ar/untitled.md) |
-|  |  | [مسار التعلّم](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ar/untitled.md) |
-|  |  | [ما يبقى ثابتًا—وما تضيفونه](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ar/untitled.md) |
-|  |  | [تهيئة بيئة صفية آمنة ونشطة](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ar/untitled.md) |
-|  |  | [قيّموا التعلّم بإنصاف](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ar/untitled.md) |
-|  |  | [قائمة التحقق لدورتكم الأولى](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ar/untitled.md) |
-|  |  | [تولّوا المسؤولية](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ar/untitled.md) |
+|  |  | [ابدؤوا هنا](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ar/section-1.md) |
+|  |  | [مسار التعلّم](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ar/section-2.md) |
+|  |  | [ما يبقى ثابتًا—وما تضيفونه](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ar/section-3.md) |
+|  |  | [تهيئة بيئة صفية آمنة ونشطة](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ar/section-4.md) |
+|  |  | [قيّموا التعلّم بإنصاف](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ar/section-5.md) |
+|  |  | [قائمة التحقق لدورتكم الأولى](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ar/section-6.md) |
+|  |  | [تولّوا المسؤولية](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ar/section-7.md) |
 <!-- mfb:structure:end -->

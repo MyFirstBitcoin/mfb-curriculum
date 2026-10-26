@@ -11,14 +11,14 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [关于本指南](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/zh-Hans/0-front-matter/untitled.md) |
-|  |  | [评估概览](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/zh-Hans/0-front-matter/untitled.md) |
-|  |  | [评估操作规程](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/zh-Hans/0-front-matter/untitled.md) |
-|  |  | [从这里开始：您的第一条教学路线](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/zh-Hans/0-front-matter/untitled.md) |
-|  |  | [目的](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/zh-Hans/0-front-matter/untitled.md) |
-|  |  | [如何使用本指南](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/zh-Hans/0-front-matter/untitled.md) |
-|  |  | [快速入门：十条必守原则](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/zh-Hans/0-front-matter/untitled.md) |
-|  |  | [比特币文凭概览](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/zh-Hans/0-front-matter/untitled.md) |
+|  |  | [关于本指南](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/zh-Hans/0-front-matter/section-1.md) |
+|  |  | [评估概览](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/zh-Hans/0-front-matter/section-2.md) |
+|  |  | [评估操作规程](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/zh-Hans/0-front-matter/section-3.md) |
+|  |  | [从这里开始：您的第一条教学路线](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/zh-Hans/0-front-matter/section-4.md) |
+|  |  | [目的](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/zh-Hans/0-front-matter/section-5.md) |
+|  |  | [如何使用本指南](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/zh-Hans/0-front-matter/section-6.md) |
+|  |  | [快速入门：十条必守原则](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/zh-Hans/0-front-matter/section-7.md) |
+|  |  | [比特币文凭概览](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/zh-Hans/0-front-matter/section-8.md) |
 | **[教育者的角色](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/educator-guide/zh-Hans/1)** | 1.1 | [不只是呈现信息](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/zh-Hans/1/1.md) |
 |  | 1.2 | [比特币文凭的宗旨与您的责任](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/zh-Hans/1/2.md) |
 |  | 1.3 | [课程角色](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/zh-Hans/1/3.md) |
@@ -181,7 +181,7 @@ introduction, learning objectives, or notes for educators.
 |  |  | [附录D：本地专家简报](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/zh-Hans/18-back-matter/d.md) |
 |  |  | [附录E：讨论提示卡](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/zh-Hans/18-back-matter/e.md) |
 |  |  | [附录F：课程实施路线图示例](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/zh-Hans/18-back-matter/f.md) |
-|  |  | [工作原则](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/zh-Hans/18-back-matter/untitled.md) |
-|  |  | [继续学习](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/zh-Hans/18-back-matter/untitled.md) |
-|  |  | [帮助完善本教育者指南](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/zh-Hans/18-back-matter/untitled.md) |
+|  |  | [工作原则](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/zh-Hans/18-back-matter/section-7.md) |
+|  |  | [继续学习](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/zh-Hans/18-back-matter/section-8.md) |
+|  |  | [帮助完善本教育者指南](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/zh-Hans/18-back-matter/section-9.md) |
 <!-- mfb:structure:end -->

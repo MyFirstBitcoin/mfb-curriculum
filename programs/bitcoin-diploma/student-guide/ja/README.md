@@ -11,8 +11,8 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [ビットコイン・ディプロマへようこそ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ja/0-front-matter/untitled.md) |
-|  |  | [ビットコイン・ディプロマの仕組み](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ja/0-front-matter/untitled.md) |
+|  |  | [ビットコイン・ディプロマへようこそ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ja/0-front-matter/section-1.md) |
+|  |  | [ビットコイン・ディプロマの仕組み](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ja/0-front-matter/section-2.md) |
 | **[お金を理解する](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/ja/1)** | 1.1 | [お金に関する導入の質問](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ja/1/1.md) |
 |  | 1.2 | [お金はなぜ存在するのか](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ja/1/2.md) |
 |  | 1.3 | [お金の機能と特性](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ja/1/3.md) |
@@ -76,7 +76,7 @@ introduction, learning objectives, or notes for educators.
 |  | 4.11 | [店舗またはコミュニティでの活用事例](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ja/4/11.md) |
 |  | 4.12 | [地域のリソースマップとコミュニティの発見](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ja/4/12.md) |
 |  | 4.13 | [復習：学んだことをあなたのコミュニティに結びつけましょう](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ja/4/13.md) |
-|  |  | [任意の次のステップ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ja/5-back-matter/untitled.md) |
+|  |  | [任意の次のステップ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ja/5-back-matter/section-1.md) |
 
 **Quizzes** (`_quiz.md`, one per module): the question, the choices and the
 explanation are text, and corrections are welcome. The ticked box is the answer

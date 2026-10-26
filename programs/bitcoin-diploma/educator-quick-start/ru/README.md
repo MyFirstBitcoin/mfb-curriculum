@@ -11,11 +11,11 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [Начните здесь](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ru/untitled.md) |
-|  |  | [Путь обучения](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ru/untitled.md) |
-|  |  | [Что остаётся неизменным — и что привносите вы](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ru/untitled.md) |
-|  |  | [Создайте безопасную учебную среду с активным участием учеников](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ru/untitled.md) |
-|  |  | [Оценивайте результаты обучения справедливо](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ru/untitled.md) |
-|  |  | [Ваш чек-лист для первого курса](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ru/untitled.md) |
-|  |  | [Примите эстафету](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ru/untitled.md) |
+|  |  | [Начните здесь](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ru/section-1.md) |
+|  |  | [Путь обучения](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ru/section-2.md) |
+|  |  | [Что остаётся неизменным — и что привносите вы](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ru/section-3.md) |
+|  |  | [Создайте безопасную учебную среду с активным участием учеников](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ru/section-4.md) |
+|  |  | [Оценивайте результаты обучения справедливо](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ru/section-5.md) |
+|  |  | [Ваш чек-лист для первого курса](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ru/section-6.md) |
+|  |  | [Примите эстафету](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ru/section-7.md) |
 <!-- mfb:structure:end -->

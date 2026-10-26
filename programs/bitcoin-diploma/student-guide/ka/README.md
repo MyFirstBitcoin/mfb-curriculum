@@ -11,8 +11,8 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [კეთილი იყოს თქვენი მობრძანება ბიტკოინის დიპლომის კურსზე](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/0-front-matter/untitled.md) |
-|  |  | [როგორ მუშაობს ბიტკოინის დიპლომი](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/0-front-matter/untitled.md) |
+|  |  | [კეთილი იყოს თქვენი მობრძანება ბიტკოინის დიპლომის კურსზე](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/0-front-matter/section-1.md) |
+|  |  | [როგორ მუშაობს ბიტკოინის დიპლომი](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/0-front-matter/section-2.md) |
 | **[ფულის გაგება](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/ka/1)** | 1.1 | [საწყისი კითხვები ფულის შესახებ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/1/1.md) |
 |  | 1.2 | [რატომ არსებობს ფული](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/1/2.md) |
 |  | 1.3 | [ფულის ფუნქციები და თვისებები](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/1/3.md) |
@@ -76,7 +76,7 @@ introduction, learning objectives, or notes for educators.
 |  | 4.11 | [გამოყენების მაგალითები მოვაჭრეებისთვის ან თემისთვის](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/4/11.md) |
 |  | 4.12 | [ადგილობრივი რესურსების რუკები და თემის შესწავლა](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/4/12.md) |
 |  | 4.13 | [მიმოხილვა: დაუკავშირეთ ეს თქვენს თემს](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/4/13.md) |
-|  |  | [არასავალდებულო შემდგომი ნაბიჯები](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/5-back-matter/untitled.md) |
+|  |  | [არასავალდებულო შემდგომი ნაბიჯები](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/5-back-matter/section-1.md) |
 
 **Quizzes** (`_quiz.md`, one per module): the question, the choices and the
 explanation are text, and corrections are welcome. The ticked box is the answer

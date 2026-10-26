@@ -11,11 +11,11 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [यहाँबाट सुरु गर्नुहोस्](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ne/untitled.md) |
-|  |  | [सिकाइको मार्ग](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ne/untitled.md) |
-|  |  | [के अपरिवर्तित रहन्छ—र तपाईंले के थप्नुहुन्छ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ne/untitled.md) |
-|  |  | [सुरक्षित र सक्रिय कक्षाकोठा सिर्जना गर्नुहोस्](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ne/untitled.md) |
-|  |  | [सिकाइको निष्पक्ष मूल्याङ्कन गर्नुहोस्](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ne/untitled.md) |
-|  |  | [तपाईंको पहिलो पाठ्यक्रमको जाँचसूची](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ne/untitled.md) |
-|  |  | [जिम्मेवारी सम्हाल्नुहोस्](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ne/untitled.md) |
+|  |  | [यहाँबाट सुरु गर्नुहोस्](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ne/section-1.md) |
+|  |  | [सिकाइको मार्ग](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ne/section-2.md) |
+|  |  | [के अपरिवर्तित रहन्छ—र तपाईंले के थप्नुहुन्छ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ne/section-3.md) |
+|  |  | [सुरक्षित र सक्रिय कक्षाकोठा सिर्जना गर्नुहोस्](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ne/section-4.md) |
+|  |  | [सिकाइको निष्पक्ष मूल्याङ्कन गर्नुहोस्](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ne/section-5.md) |
+|  |  | [तपाईंको पहिलो पाठ्यक्रमको जाँचसूची](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ne/section-6.md) |
+|  |  | [जिम्मेवारी सम्हाल्नुहोस्](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ne/section-7.md) |
 <!-- mfb:structure:end -->

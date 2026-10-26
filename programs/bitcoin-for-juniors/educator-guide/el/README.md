@@ -11,9 +11,9 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [Πρόλογος](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/el/0-front-matter/untitled.md) |
-|  |  | [Συχνές ερωτήσεις](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/el/0-front-matter/untitled.md) |
-|  |  | [Εισαγωγή](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/el/0-front-matter/untitled.md) |
+|  |  | [Πρόλογος](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/el/0-front-matter/section-1.md) |
+|  |  | [Συχνές ερωτήσεις](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/el/0-front-matter/section-2.md) |
+|  |  | [Εισαγωγή](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/el/0-front-matter/section-3.md) |
 |  |  | [Οδηγός γονέων για το «Bitcoin για παιδιά»](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/el/0-front-matter/bitcoin.md) |
 | **[Ανταλλαγή, αξία και τιμή](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-for-juniors/educator-guide/el/1)** | 1.1 | [Επισκόπηση](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/el/1/1.md) |
 |  | 1.2 | [Πρώτη, δεύτερη, πουλήθηκε!](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/el/1/2-going-going-gone.md) |

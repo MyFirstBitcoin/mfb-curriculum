@@ -11,10 +11,10 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [Передмова](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/uk/0-front-matter/untitled.md) |
-|  |  | [Поширені запитання](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/uk/0-front-matter/untitled.md) |
-|  |  | [Вступ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/uk/0-front-matter/untitled.md) |
-|  |  | [Біткоїн для дітей: посібник для батьків](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/uk/0-front-matter/untitled.md) |
+|  |  | [Передмова](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/uk/0-front-matter/section-1.md) |
+|  |  | [Поширені запитання](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/uk/0-front-matter/section-2.md) |
+|  |  | [Вступ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/uk/0-front-matter/section-3.md) |
+|  |  | [Біткоїн для дітей: посібник для батьків](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/uk/0-front-matter/section-4.md) |
 | **[Обмін, цінність і ціна](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-for-juniors/educator-guide/uk/1)** | 1.1 | [Огляд](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/uk/1/1.md) |
 |  | 1.2 | [Раз, два — продано!](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/uk/1/2-going-going-gone.md) |
 |  | 1.3 | [Що таке цінність?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/uk/1/3-what-is-value.md) |

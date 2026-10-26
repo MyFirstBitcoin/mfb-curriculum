@@ -11,14 +11,14 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [本ガイドについて](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ja/0-front-matter/untitled.md) |
-|  |  | [一目でわかる評価](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ja/0-front-matter/untitled.md) |
-|  |  | [運用評価プロトコル](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ja/0-front-matter/untitled.md) |
-|  |  | [ここから始めましょう：最初の授業ルート](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ja/0-front-matter/untitled.md) |
-|  |  | [目的](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ja/0-front-matter/untitled.md) |
-|  |  | [本ガイドの使い方](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ja/0-front-matter/untitled.md) |
+|  |  | [本ガイドについて](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ja/0-front-matter/section-1.md) |
+|  |  | [一目でわかる評価](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ja/0-front-matter/section-2.md) |
+|  |  | [運用評価プロトコル](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ja/0-front-matter/section-3.md) |
+|  |  | [ここから始めましょう：最初の授業ルート](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ja/0-front-matter/section-4.md) |
+|  |  | [目的](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ja/0-front-matter/section-5.md) |
+|  |  | [本ガイドの使い方](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ja/0-front-matter/section-6.md) |
 |  |  | [クイックスタート:譲れない10の原則](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ja/0-front-matter/10.md) |
-|  |  | [ひと目でわかるビットコイン・ディプロマ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ja/0-front-matter/untitled.md) |
+|  |  | [ひと目でわかるビットコイン・ディプロマ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ja/0-front-matter/section-8.md) |
 | **[教育者の役割](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/educator-guide/ja/1)** | 1.1 | [情報を伝える以上の役割](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ja/1/1.md) |
 |  | 1.2 | [ビットコイン・ディプロマの目的とあなたの責任](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ja/1/2.md) |
 |  | 1.3 | [コースにおける役割](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ja/1/3.md) |
@@ -181,7 +181,7 @@ introduction, learning objectives, or notes for educators.
 |  |  | [付録D：地元の専門家向けブリーフィング](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ja/18-back-matter/d.md) |
 |  |  | [付録E：ディスカッション用キューカード](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ja/18-back-matter/e.md) |
 |  |  | [付録F：実施マップの例](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ja/18-back-matter/f.md) |
-|  |  | [作業原則](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ja/18-back-matter/untitled.md) |
-|  |  | [学びを続けましょう](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ja/18-back-matter/untitled.md) |
-|  |  | [この教育者ガイドの改善にご協力ください](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ja/18-back-matter/untitled.md) |
+|  |  | [作業原則](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ja/18-back-matter/section-7.md) |
+|  |  | [学びを続けましょう](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ja/18-back-matter/section-8.md) |
+|  |  | [この教育者ガイドの改善にご協力ください](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ja/18-back-matter/section-9.md) |
 <!-- mfb:structure:end -->

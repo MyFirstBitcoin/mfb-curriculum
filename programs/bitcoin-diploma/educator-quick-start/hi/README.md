@@ -11,11 +11,11 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [यहाँ से शुरू करें](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/hi/untitled.md) |
-|  |  | [सीखने का मार्ग](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/hi/untitled.md) |
-|  |  | [क्या तय रहता है—और आप क्या योगदान देते हैं](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/hi/untitled.md) |
-|  |  | [एक सुरक्षित और सक्रिय कक्षा बनाएँ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/hi/untitled.md) |
-|  |  | [सीखने का निष्पक्ष मूल्यांकन करें](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/hi/untitled.md) |
-|  |  | [आपके पहले पाठ्यक्रम की जाँच-सूची](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/hi/untitled.md) |
-|  |  | [ज़िम्मेदारी संभालें](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/hi/untitled.md) |
+|  |  | [यहाँ से शुरू करें](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/hi/section-1.md) |
+|  |  | [सीखने का मार्ग](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/hi/section-2.md) |
+|  |  | [क्या तय रहता है—और आप क्या योगदान देते हैं](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/hi/section-3.md) |
+|  |  | [एक सुरक्षित और सक्रिय कक्षा बनाएँ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/hi/section-4.md) |
+|  |  | [सीखने का निष्पक्ष मूल्यांकन करें](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/hi/section-5.md) |
+|  |  | [आपके पहले पाठ्यक्रम की जाँच-सूची](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/hi/section-6.md) |
+|  |  | [ज़िम्मेदारी संभालें](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/hi/section-7.md) |
 <!-- mfb:structure:end -->

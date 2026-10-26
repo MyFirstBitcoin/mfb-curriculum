@@ -11,11 +11,11 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [ఇక్కడ ప్రారంభించండి](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/te/untitled.md) |
-|  |  | [అభ్యసన మార్గం](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/te/untitled.md) |
-|  |  | [మారకుండా ఉండేవి—మీరు అందించేవి](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/te/untitled.md) |
-|  |  | [సురక్షితమైన, చురుకైన తరగతి గదిని సృష్టించండి](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/te/untitled.md) |
-|  |  | [అభ్యసనాన్ని నిష్పాక్షికంగా మూల్యాంకనం చేయండి](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/te/untitled.md) |
-|  |  | [మీ తొలి కోర్సు తనిఖీ జాబితా](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/te/untitled.md) |
-|  |  | [బాధ్యతను స్వీకరించండి](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/te/untitled.md) |
+|  |  | [ఇక్కడ ప్రారంభించండి](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/te/section-1.md) |
+|  |  | [అభ్యసన మార్గం](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/te/section-2.md) |
+|  |  | [మారకుండా ఉండేవి—మీరు అందించేవి](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/te/section-3.md) |
+|  |  | [సురక్షితమైన, చురుకైన తరగతి గదిని సృష్టించండి](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/te/section-4.md) |
+|  |  | [అభ్యసనాన్ని నిష్పాక్షికంగా మూల్యాంకనం చేయండి](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/te/section-5.md) |
+|  |  | [మీ తొలి కోర్సు తనిఖీ జాబితా](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/te/section-6.md) |
+|  |  | [బాధ్యతను స్వీకరించండి](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/te/section-7.md) |
 <!-- mfb:structure:end -->

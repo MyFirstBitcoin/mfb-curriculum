@@ -11,10 +11,10 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [前言](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/zh-Hans/0-front-matter/untitled.md) |
-|  |  | [常见问题](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/zh-Hans/0-front-matter/untitled.md) |
-|  |  | [引言](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/zh-Hans/0-front-matter/untitled.md) |
-|  |  | [青少年比特币家长指南](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/zh-Hans/0-front-matter/untitled.md) |
+|  |  | [前言](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/zh-Hans/0-front-matter/section-1.md) |
+|  |  | [常见问题](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/zh-Hans/0-front-matter/section-2.md) |
+|  |  | [引言](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/zh-Hans/0-front-matter/section-3.md) |
+|  |  | [青少年比特币家长指南](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/zh-Hans/0-front-matter/section-4.md) |
 | **[交换、价值与价格](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-for-juniors/educator-guide/zh-Hans/1)** | 1.1 | [概述](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/zh-Hans/1/1.md) |
 |  | 1.2 | [一次，两次，成交！](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/zh-Hans/1/2-going-going-gone.md) |
 |  | 1.3 | [什么是价值？](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/zh-Hans/1/3-what-is-value.md) |

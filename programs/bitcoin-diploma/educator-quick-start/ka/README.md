@@ -11,11 +11,11 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [დაიწყეთ აქ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ka/untitled.md) |
-|  |  | [სწავლის გზა](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ka/untitled.md) |
-|  |  | [რა რჩება უცვლელი — და რა შემოგაქვთ თქვენ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ka/untitled.md) |
-|  |  | [შექმენით უსაფრთხო, აქტიური საკლასო გარემო](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ka/untitled.md) |
-|  |  | [სწავლის შედეგები სამართლიანად შეაფასეთ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ka/untitled.md) |
-|  |  | [თქვენი პირველი კურსის საკონტროლო სია](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ka/untitled.md) |
-|  |  | [იკისრეთ პასუხისმგებლობა](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ka/untitled.md) |
+|  |  | [დაიწყეთ აქ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ka/section-1.md) |
+|  |  | [სწავლის გზა](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ka/section-2.md) |
+|  |  | [რა რჩება უცვლელი — და რა შემოგაქვთ თქვენ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ka/section-3.md) |
+|  |  | [შექმენით უსაფრთხო, აქტიური საკლასო გარემო](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ka/section-4.md) |
+|  |  | [სწავლის შედეგები სამართლიანად შეაფასეთ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ka/section-5.md) |
+|  |  | [თქვენი პირველი კურსის საკონტროლო სია](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ka/section-6.md) |
+|  |  | [იკისრეთ პასუხისმგებლობა](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/ka/section-7.md) |
 <!-- mfb:structure:end -->

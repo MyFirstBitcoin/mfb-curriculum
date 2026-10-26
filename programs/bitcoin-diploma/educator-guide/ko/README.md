@@ -11,14 +11,14 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [이 가이드에 대하여](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ko/0-front-matter/untitled.md) |
-|  |  | [한눈에 보는 평가](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ko/0-front-matter/untitled.md) |
-|  |  | [운영 평가 프로토콜](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ko/0-front-matter/untitled.md) |
-|  |  | [여기서 시작하세요: 첫 번째 수업 경로](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ko/0-front-matter/untitled.md) |
-|  |  | [목적](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ko/0-front-matter/untitled.md) |
-|  |  | [이 가이드 활용 방법](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ko/0-front-matter/untitled.md) |
-|  |  | [빠른 시작: 반드시 지켜야 할 열 가지](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ko/0-front-matter/untitled.md) |
-|  |  | [한눈에 보는 비트코인 디플로마](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ko/0-front-matter/untitled.md) |
+|  |  | [이 가이드에 대하여](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ko/0-front-matter/section-1.md) |
+|  |  | [한눈에 보는 평가](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ko/0-front-matter/section-2.md) |
+|  |  | [운영 평가 프로토콜](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ko/0-front-matter/section-3.md) |
+|  |  | [여기서 시작하세요: 첫 번째 수업 경로](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ko/0-front-matter/section-4.md) |
+|  |  | [목적](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ko/0-front-matter/section-5.md) |
+|  |  | [이 가이드 활용 방법](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ko/0-front-matter/section-6.md) |
+|  |  | [빠른 시작: 반드시 지켜야 할 열 가지](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ko/0-front-matter/section-7.md) |
+|  |  | [한눈에 보는 비트코인 디플로마](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ko/0-front-matter/section-8.md) |
 | **[교육자의 역할](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/educator-guide/ko/1)** | 1.1 | [정보 전달 그 이상](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ko/1/1.md) |
 |  | 1.2 | [비트코인 디플로마의 목적과 여러분의 책임](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ko/1/2.md) |
 |  | 1.3 | [과정 내 역할](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ko/1/3.md) |
@@ -181,7 +181,7 @@ introduction, learning objectives, or notes for educators.
 |  |  | [부록 D: 현지 전문가 브리핑](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ko/18-back-matter/d.md) |
 |  |  | [부록 E: 토론 큐 카드](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ko/18-back-matter/e.md) |
 |  |  | [부록 F: 수업 운영 계획 예시](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ko/18-back-matter/f.md) |
-|  |  | [작동 원리](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ko/18-back-matter/untitled.md) |
-|  |  | [계속 배우기](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ko/18-back-matter/untitled.md) |
-|  |  | [이 교육자 가이드 개선에 도움을 주세요](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ko/18-back-matter/untitled.md) |
+|  |  | [작동 원리](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ko/18-back-matter/section-7.md) |
+|  |  | [계속 배우기](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ko/18-back-matter/section-8.md) |
+|  |  | [이 교육자 가이드 개선에 도움을 주세요](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-guide/ko/18-back-matter/section-9.md) |
 <!-- mfb:structure:end -->

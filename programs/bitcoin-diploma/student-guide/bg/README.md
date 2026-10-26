@@ -11,8 +11,8 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [Добре дошли в Биткойн дипломата](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bg/0-front-matter/untitled.md) |
-|  |  | [Как функционира Биткойн дипломата](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bg/0-front-matter/untitled.md) |
+|  |  | [Добре дошли в Биткойн дипломата](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bg/0-front-matter/section-1.md) |
+|  |  | [Как функционира Биткойн дипломата](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bg/0-front-matter/section-2.md) |
 | **[Разбиране на парите](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/bg/1)** | 1.1 | [Въвеждащи въпроси за парите](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bg/1/1.md) |
 |  | 1.2 | [Защо съществуват парите](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bg/1/2.md) |
 |  | 1.3 | [Функции и свойства на парите](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bg/1/3.md) |
@@ -76,7 +76,7 @@ introduction, learning objectives, or notes for educators.
 |  | 4.11 | [Примери за използване от търговци или общности](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bg/4/11.md) |
 |  | 4.12 | [Карти на местните ресурси и опознаване на общността](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bg/4/12.md) |
 |  | 4.13 | [Преговор: Свържете това с вашата общност](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bg/4/13.md) |
-|  |  | [Незадължителни следващи стъпки](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bg/5-back-matter/untitled.md) |
+|  |  | [Незадължителни следващи стъпки](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bg/5-back-matter/section-1.md) |
 
 **Quizzes** (`_quiz.md`, one per module): the question, the choices and the
 explanation are text, and corrections are welcome. The ticked box is the answer

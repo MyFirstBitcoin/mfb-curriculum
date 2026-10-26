@@ -11,10 +11,10 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [머리말](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ko/0-front-matter/untitled.md) |
-|  |  | [자주 묻는 질문](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ko/0-front-matter/untitled.md) |
-|  |  | [소개](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ko/0-front-matter/untitled.md) |
-|  |  | [주니어를 위한 비트코인: 학부모 가이드](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ko/0-front-matter/untitled.md) |
+|  |  | [머리말](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ko/0-front-matter/section-1.md) |
+|  |  | [자주 묻는 질문](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ko/0-front-matter/section-2.md) |
+|  |  | [소개](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ko/0-front-matter/section-3.md) |
+|  |  | [주니어를 위한 비트코인: 학부모 가이드](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ko/0-front-matter/section-4.md) |
 | **[교환, 가치, 그리고 가격](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-for-juniors/educator-guide/ko/1)** | 1.1 | [개요](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ko/1/1.md) |
 |  | 1.2 | [하나, 둘, 셋, 낙찰!](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ko/1/2-going-going-gone.md) |
 |  | 1.3 | [가치란 무엇일까요?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ko/1/3-what-is-value.md) |

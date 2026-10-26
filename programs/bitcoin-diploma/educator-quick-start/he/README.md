@@ -11,11 +11,11 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [התחילו כאן](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/he/untitled.md) |
-|  |  | [מסלול הלמידה](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/he/untitled.md) |
-|  |  | [מה נשאר קבוע — ומה אתם מביאים](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/he/untitled.md) |
-|  |  | [צרו כיתה בטוחה ופעילה](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/he/untitled.md) |
-|  |  | [העריכו את הלמידה בהוגנות](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/he/untitled.md) |
-|  |  | [רשימת בדיקה לקורס הראשון שלכם](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/he/untitled.md) |
-|  |  | [קבלו על עצמכם את האחריות](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/he/untitled.md) |
+|  |  | [התחילו כאן](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/he/section-1.md) |
+|  |  | [מסלול הלמידה](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/he/section-2.md) |
+|  |  | [מה נשאר קבוע — ומה אתם מביאים](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/he/section-3.md) |
+|  |  | [צרו כיתה בטוחה ופעילה](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/he/section-4.md) |
+|  |  | [העריכו את הלמידה בהוגנות](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/he/section-5.md) |
+|  |  | [רשימת בדיקה לקורס הראשון שלכם](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/he/section-6.md) |
+|  |  | [קבלו על עצמכם את האחריות](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/he/section-7.md) |
 <!-- mfb:structure:end -->

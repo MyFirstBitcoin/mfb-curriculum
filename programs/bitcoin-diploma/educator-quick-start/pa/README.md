@@ -11,11 +11,11 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [ਇੱਥੋਂ ਸ਼ੁਰੂ ਕਰੋ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/pa/untitled.md) |
-|  |  | [ਸਿੱਖਣ ਦਾ ਮਾਰਗ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/pa/untitled.md) |
-|  |  | [ਕੀ ਸਥਿਰ ਰਹਿੰਦਾ ਹੈ—ਅਤੇ ਤੁਸੀਂ ਕੀ ਲੈ ਕੇ ਆਉਂਦੇ ਹੋ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/pa/untitled.md) |
-|  |  | [ਇੱਕ ਸੁਰੱਖਿਅਤ, ਸਰਗਰਮ ਕਲਾਸਰੂਮ ਬਣਾਓ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/pa/untitled.md) |
-|  |  | [ਸਿੱਖਣ ਦਾ ਨਿਰਪੱਖ ਮੁਲਾਂਕਣ ਕਰੋ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/pa/untitled.md) |
-|  |  | [ਤੁਹਾਡੇ ਪਹਿਲੇ ਕੋਰਸ ਦੀ ਜਾਂਚ-ਸੂਚੀ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/pa/untitled.md) |
-|  |  | [ਜ਼ਿੰਮੇਵਾਰੀ ਸੰਭਾਲੋ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/pa/untitled.md) |
+|  |  | [ਇੱਥੋਂ ਸ਼ੁਰੂ ਕਰੋ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/pa/section-1.md) |
+|  |  | [ਸਿੱਖਣ ਦਾ ਮਾਰਗ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/pa/section-2.md) |
+|  |  | [ਕੀ ਸਥਿਰ ਰਹਿੰਦਾ ਹੈ—ਅਤੇ ਤੁਸੀਂ ਕੀ ਲੈ ਕੇ ਆਉਂਦੇ ਹੋ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/pa/section-3.md) |
+|  |  | [ਇੱਕ ਸੁਰੱਖਿਅਤ, ਸਰਗਰਮ ਕਲਾਸਰੂਮ ਬਣਾਓ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/pa/section-4.md) |
+|  |  | [ਸਿੱਖਣ ਦਾ ਨਿਰਪੱਖ ਮੁਲਾਂਕਣ ਕਰੋ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/pa/section-5.md) |
+|  |  | [ਤੁਹਾਡੇ ਪਹਿਲੇ ਕੋਰਸ ਦੀ ਜਾਂਚ-ਸੂਚੀ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/pa/section-6.md) |
+|  |  | [ਜ਼ਿੰਮੇਵਾਰੀ ਸੰਭਾਲੋ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/educator-quick-start/pa/section-7.md) |
 <!-- mfb:structure:end -->

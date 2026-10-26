@@ -11,8 +11,8 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [歡迎來到比特幣文憑](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/0-front-matter/untitled.md) |
-|  |  | [比特幣文憑的運作方式](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/0-front-matter/untitled.md) |
+|  |  | [歡迎來到比特幣文憑](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/0-front-matter/section-1.md) |
+|  |  | [比特幣文憑的運作方式](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/0-front-matter/section-2.md) |
 | **[認識貨幣](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/zh-Hant/1)** | 1.1 | [關於貨幣的開場問題](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/1/1.md) |
 |  | 1.2 | [貨幣為何存在](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/1/2.md) |
 |  | 1.3 | [貨幣的功能與特性](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/1/3.md) |
@@ -76,7 +76,7 @@ introduction, learning objectives, or notes for educators.
 |  | 4.11 | [商家或社群的使用案例](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/4/11.md) |
 |  | 4.12 | [在地資源地圖與社群探索](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/4/12.md) |
 |  | 4.13 | [複習：將所學與您的社群連結](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/4/13.md) |
-|  |  | [選擇性的後續步驟](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/5-back-matter/untitled.md) |
+|  |  | [選擇性的後續步驟](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/5-back-matter/section-1.md) |
 
 **Quizzes** (`_quiz.md`, one per module): the question, the choices and the
 explanation are text, and corrections are welcome. The ticked box is the answer

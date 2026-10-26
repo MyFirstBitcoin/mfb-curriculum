@@ -11,10 +11,10 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [تقديم](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ar/0-front-matter/untitled.md) |
-|  |  | [الأسئلة الشائعة](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ar/0-front-matter/untitled.md) |
-|  |  | [مقدمة](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ar/0-front-matter/untitled.md) |
-|  |  | [دليل أولياء الأمور إلى بيتكوين للصغار](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ar/0-front-matter/untitled.md) |
+|  |  | [تقديم](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ar/0-front-matter/section-1.md) |
+|  |  | [الأسئلة الشائعة](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ar/0-front-matter/section-2.md) |
+|  |  | [مقدمة](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ar/0-front-matter/section-3.md) |
+|  |  | [دليل أولياء الأمور إلى بيتكوين للصغار](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ar/0-front-matter/section-4.md) |
 | **[التبادل والقيمة والسعر](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-for-juniors/educator-guide/ar/1)** | 1.1 | [نظرة عامة](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ar/1/1.md) |
 |  | 1.2 | [للمرة الأولى، للمرة الثانية، تم البيع!](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ar/1/2-going-going-gone.md) |
 |  | 1.3 | [ما هي القيمة؟](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/ar/1/3-what-is-value.md) |

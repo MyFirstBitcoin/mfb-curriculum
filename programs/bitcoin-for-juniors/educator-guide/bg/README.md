@@ -11,10 +11,10 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [Предговор](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/bg/0-front-matter/untitled.md) |
-|  |  | [Често задавани въпроси](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/bg/0-front-matter/untitled.md) |
-|  |  | [Въведение](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/bg/0-front-matter/untitled.md) |
-|  |  | [Ръководство за родители към „Биткойн за деца“](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/bg/0-front-matter/untitled.md) |
+|  |  | [Предговор](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/bg/0-front-matter/section-1.md) |
+|  |  | [Често задавани въпроси](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/bg/0-front-matter/section-2.md) |
+|  |  | [Въведение](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/bg/0-front-matter/section-3.md) |
+|  |  | [Ръководство за родители към „Биткойн за деца“](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/bg/0-front-matter/section-4.md) |
 | **[Размяна, стойност и цена](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-for-juniors/educator-guide/bg/1)** | 1.1 | [Общ преглед](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/bg/1/1.md) |
 |  | 1.2 | [Първи път, втори път, продадено!](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/bg/1/2-going-going-gone.md) |
 |  | 1.3 | [Какво е стойност?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-for-juniors/educator-guide/bg/1/3-what-is-value.md) |

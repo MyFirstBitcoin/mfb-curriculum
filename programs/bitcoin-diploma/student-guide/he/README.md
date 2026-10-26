@@ -11,8 +11,8 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [ברוכים הבאים לדיפלומת ביטקוין](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/0-front-matter/untitled.md) |
-|  |  | [כיצד פועלת תוכנית הדיפלומה בביטקוין](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/0-front-matter/untitled.md) |
+|  |  | [ברוכים הבאים לדיפלומת ביטקוין](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/0-front-matter/section-1.md) |
+|  |  | [כיצד פועלת תוכנית הדיפלומה בביטקוין](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/0-front-matter/section-2.md) |
 | **[להבין כסף](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/he/1)** | 1.1 | [שאלות פתיחה על כסף](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/1/1.md) |
 |  | 1.2 | [מדוע קיים כסף](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/1/2.md) |
 |  | 1.3 | [תפקידי הכסף ותכונותיו](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/1/3.md) |
@@ -76,7 +76,7 @@ introduction, learning objectives, or notes for educators.
 |  | 4.11 | [מקרי שימוש בבתי עסק או בקהילה](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/4/11.md) |
 |  | 4.12 | [מפות משאבים מקומיים והיכרות עם הקהילה](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/4/12.md) |
 |  | 4.13 | [חזרה: קשרו זאת לקהילה שלכם](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/4/13.md) |
-|  |  | [צעדים אפשריים להמשך](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/5-back-matter/untitled.md) |
+|  |  | [צעדים אפשריים להמשך](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/5-back-matter/section-1.md) |
 
 **Quizzes** (`_quiz.md`, one per module): the question, the choices and the
 explanation are text, and corrections are welcome. The ticked box is the answer
