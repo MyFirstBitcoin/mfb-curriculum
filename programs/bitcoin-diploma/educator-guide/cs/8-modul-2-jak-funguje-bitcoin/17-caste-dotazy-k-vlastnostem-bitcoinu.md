@@ -1,0 +1,15 @@
+# 8.17 Časté dotazy k vlastnostem Bitcoinu
+
+| Vlastnost | Otázka studujícího | Odpověď vhodná pro začátečníky |
+| --- | --- | --- |
+| Vzácnost | „Nemůže někdo prostě vytvořit více než 21 milionů bitcoinů?“ | Někdo může napsat jiný software, ale účastníci ho nemusí používat. Uzly dodržující pravidla Bitcoinu odmítají emisi nad stanovený limit. Široké přijetí nekompatibilních pravidel by mohlo vést ke vzniku samostatné sítě; žádný zakladatel, těžař, vývojář, firma ani vláda nemůže potají vytvořit další bitcoiny, které by byly platné pro všechny. |
+| Vzácnost | „Znamená omezená nabídka, že cena musí růst?“ | Ne. Cena závisí na poptávce i nabídce a poptávka může klesat. Konečná nabídka je peněžní vlastnost, nikoli záruka výnosu. |
+| Dělitelnost | „Pokud jich je jen 21 milionů, bude jich dost pro všechny?“ | Jeden bitcoin se dělí na 100 000 000 satoshi. Menší jednotky umožňují lidem vyjadřovat malé částky bez navýšení celkové nabídky. |
+| Dělitelnost | „Musím si koupit celý bitcoin?“ | Ne. Studující může vysvětlit nebo používat satoshi, aniž by vlastnil celý bitcoin, a vlastnictví není podmínkou účasti v kurzu Bitcoin Diploma. |
+| Trvanlivost | „Co když se mi rozbije telefon?“ | Bitcoin není uložen uvnitř telefonu. Záznam v síti přetrvává, ale přístup závisí na bezpečném uchování klíčů a možnosti obnovy. Při ztrátě zařízení může být možné přístup obnovit; ztráta nebo vyzrazení údajů pro obnovu může způsobit trvalou ztrátu prostředků. |
+| Přenositelnost | „Mohu ho poslat kamkoli bez jakýchkoli podmínek?“ | Platný převod nepotřebuje schválení od centrálního provozovatele Bitcoinu, ale přesto vyžaduje vhodnou peněženku, komunikační spojení, správné platební údaje, poplatky a příjemce, který ho dokáže přijmout. Místní zákony a služby mohou přidávat další omezení. |
+| Zaměnitelnost | „Je každý satoshi úplně stejný?“ | Na stejné částky se vztahují stejná pravidla protokolu pro utrácení, ale veřejná historie transakcí může ovlivnit, jak některé služby nebo lidé zacházejí s konkrétními prostředky. |
+| Ověřitelnost | „Musím důvěřovat nějakému webu?“ | Průzkumník je pohodlné rozhraní poskytované třetí stranou. Uzel umožňuje důkladnější nezávislé ověřování, zatímco začátečníci se stále mohou spoléhat na informace z peněženky nebo služby a měli by si tuto závislost uvědomovat. |
+| Přijatelnost | „Pokud je Bitcoin užitečný, proč jím nemohu platit všude?“ | Technické možnosti samy o sobě nezajišťují všeobecné přijímání. Používání ovlivňují místní zvyklosti, nástroje, náklady, regulace, volatilita, vzdělávání a poptávka ze strany obchodníků. |
+| Decentralizace | „Je Bitcoin zcela decentralizovaný?“ | Vliv a infrastruktura nejsou rozloženy rovnoměrně. Přesnější tvrzení je, že žádný jednotlivý účastník nemůže jednostranně měnit platné zůstatky nebo pravidla pro všechny. |
+| Důvěryhodná vzácnost | „Proč nezkopírovat kód a nevytvořit jinou minci?“ | Zkopírovat kód nebo do něj zapsat limit nabídky je možné. Důvěryhodné vynucování pravidel, nezávislé ověřování, bezpečnost, historie, přijetí sítě a odolnost vůči jednostranným změnám jsou samostatné otázky. |

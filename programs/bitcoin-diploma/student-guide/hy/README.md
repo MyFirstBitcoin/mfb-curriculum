@@ -11,55 +11,75 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [The Bitcoin Diploma-ի պատմությունը](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/0-front-matter/1-the-bitcoin-diploma.md) |
-|  |  | [Նախաբան](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/0-front-matter/2.md) |
-| **[Ի՞նչ է փողը:](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/hy/1)** | 1.0 | [Ներածություն](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/1/0.md) |
-|  | 1.1 | [Քննարկումներ փողի մասին](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/1/1.md) |
-|  | 1.2 | [Փողի սահմանումը](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/1/2.md) |
-|  | 1.3 | [Փողի ֆունկցիաները](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/1/3.md) |
-|  | 1.4 | [Փողի հատկությունները](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/1/4.md) |
-|  | 1.5 | [Փողի տեսակները](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/1/5.md) |
-|  | 1.6 | [Փողի հոգեբանությունը](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/1/6.md) |
-| **[Փողի պատմությունը](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/hy/2)** | 2.0 | [Ներածություն](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/2/0.md) |
-|  | 2.1 | [Փոխանակումից մինչև ժամանակակից արժույթ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/2/1.md) |
-|  | 2.2 | [Թվային արժույթ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/2/2.md) |
-| **[Ի՞նչ է ֆիատ փողը:](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/hy/3)** | 3.0 | [Ներածություն](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/3/0.md) |
-|  | 3.1 | [Ֆիատ փողի համառոտ պատմություն](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/3/1.md) |
-|  | 3.2 | [Ֆիատային համակարգ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/3/2.md) |
-|  | 3.3 | [Կենտրոնական բանկի թվային արժույթներ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/3/3.md) |
-| **[Ինչպես խնդիրները հանգեցնում են լուծումների](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/hy/4)** | 4.0 | [Ներածություն](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/4/0.md) |
-|  | 4.1 | [Փողը ավելի քիչ բան է գնում](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/4/1.md) |
-|  | 4.2 | [Համաշխարհային պարտքային բեռը և սոցիալական անհավասարությունը](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/4/2.md) |
-|  | 4.3 | [Դեցենտրալացված արժույթի որոնումը](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/4/3.md) |
-| **[Ի՞նչ է Bitcoin-ը:](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/hy/5-bitcoin)** | 5.0 | [Bitcoin-ի ստեղծումը](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/5-bitcoin/0-bitcoin.md) |
-|  | 5.1 | [Ինչպե՞ս է աշխատում Bitcoin-ը:](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/5-bitcoin/1-bitcoin.md) |
-|  | 5.2 | [Բիթքոյնը՝ որպես հուսալի թվային փող](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/5-bitcoin/2.md) |
-| **[Ինչպես օգտագործել Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/hy/6-bitcoin)** | 6.0 | [Ներածություն](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/6-bitcoin/0.md) |
-|  | 6.1 | [Bitcoin-ի ձեռքբերում](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/6-bitcoin/1-bitcoin.md) |
-|  | 6.2 | [Դրամապանակների ներածություն](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/6-bitcoin/2.md) |
-|  | 6.3 | [Բջջային դրամապանակի կարգավորում](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/6-bitcoin/3.md) |
-|  | 6.4 | [Ստանալը և ուղարկելը գործարքներ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/6-bitcoin/4.md) |
-|  | 6.5 | [Մի՛ վստահիր, ստուգիր](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/6-bitcoin/5.md) |
-| **[Bitcoin-ի օգտագործումը առօրյա կյանքում](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/hy/7-bitcoin)** | 7.0 | [Ներածություն](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/7-bitcoin/0.md) |
-|  | 7.1 | [Lightning ցանց](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/7-bitcoin/1-lightning.md) |
-|  | 7.2 | [Lightning դրամապանակների տեսակները](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/7-bitcoin/2-lightning.md) |
-|  | 7.3 | [Bitcoin Lightning դրամապանակի կարգավորում](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/7-bitcoin/3-bitcoin-lightning.md) |
-|  | 7.4 | [Lightning գործարքների ուղարկում և ստացում](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/7-bitcoin/4-lightning.md) |
-|  | 7.5 | [Սուրճ և մթերք գնել Bitcoin-ով](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/7-bitcoin/5-bitcoin.md) |
-| **[Ինչպես է աշխատում Bitcoin-ը](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/hy/8-bitcoin)** | 8.0 | [Ներածություն](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/8-bitcoin/0.md) |
-|  | 8.1 | [Անվտանգություն կրիպտոգրաֆիայի միջոցով](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/8-bitcoin/1.md) |
-|  | 8.2 | [UTXO մոդել](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/8-bitcoin/2-utxo.md) |
-| **[Ինչպե՞ս է աշխատում Bitcoin-ի մայնինգը:](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/hy/9-bitcoin)** | 9.0 | [Ներածություն](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/9-bitcoin/0.md) |
-|  | 9.1 | [Bitcoin հանգույցներ և մայներներ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/9-bitcoin/1-bitcoin.md) |
-|  | 9.2 | [Ի՞նչ է Mempool-ը:](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/9-bitcoin/2-mempool.md) |
-|  | 9.3 | [Ինչպես են աշխատում գործարքները](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/9-bitcoin/3.md) |
-| **[Ի՞նչ ապագա կարող է կառուցել Bitcoin-ը:](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/hy/10-bitcoin)** | 10.0 | [Ներածություն](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/10-bitcoin/0.md) |
-|  | 10.1 | [Ի՞նչ են Կենտրոնական բանկի թվային արժույթները (CBDC-ները):  Կենտրոնական բանկի թվային արժույթները (CBDC-ները) պետական կառույցների կողմից թողարկվող թվային փողեր են, որոնք ներկայացնում են տվյալ երկրի ազգային արժույթի թվային տարբերակը։ Դրանք տարբերվում են կրիպտոարժույթներից, քանի որ թողարկվում և վերահսկվում են կենտրոնական բանկի կողմից, և ունեն նույն արժեքն ու վստահությունը, ինչ ավանդական թղթադրամներն ու մետաղադրամները։ CBDC-ները կարող են օգտագործվել առցանց վճարումների, փոխանցումների և այլ ֆինանսական գործարքների համար՝ ապահովելով ավելի արագ և արդյունավետ վճարային համակարգ։](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/10-bitcoin/1-cbdc-cbdc-cbdc.md) |
-|  | 10.2 | [Bitcoin-ի փիլիսոփայությունը](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/10-bitcoin/2-bitcoin.md) |
-|  | 10.3 | [Bitcoin-ի առավելությունները](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/10-bitcoin/3-bitcoin.md) |
-|  | 10.4 | [Հզորացված ապագա](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/10-bitcoin/4.md) |
-|  |  | [Իրական կյանքի դեպքերի ուսումնասիրություններ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/11-back-matter/1.md) |
-|  |  | [Լրացուցիչ ռեսուրսներ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/11-back-matter/2.md) |
-|  |  | [Հիմնական հասկացություններ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/11-back-matter/3.md) |
-|  |  | [Բառարան](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/11-back-matter/4.md) |
+|  |  | [Բարի գալուստ «Բիթքոյնի դիպլոմ»](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/0-front-matter/section-1.md) |
+|  |  | [Ինչպես է գործում Բիթքոյնի դիպլոմը](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/0-front-matter/section-2.md) |
+| **[Հասկանալ փողը](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/hy/1)** | 1.1 | [Նախնական հարցեր փողի մասին](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/1/1.md) |
+|  | 1.2 | [Ինչու է փողը գոյություն ունենում](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/1/2.md) |
+|  | 1.3 | [Փողի գործառույթներն ու հատկությունները](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/1/3.md) |
+|  | 1.4 | [Բնաիրային փոխանակումը և պահանջմունքների կրկնակի համընկնումը](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/1/4.md) |
+|  | 1.5 | [Սակավություն, արժեք և փոխանակում](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/1/5.md) |
+|  | 1.6 | [Դրամի պատմությունը սկսնակների համար՝ ապրանքափոխանակությունից մինչև թվային փող](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/1/6.md) |
+|  | 1.7 | [Ֆիատ փող](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/1/7.md) |
+|  | 1.8 | [Մասնակի պահուստավորմամբ բանկային համակարգ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/1/8.md) |
+|  | 1.9 | [Գնաճ և գնողունակություն](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/1/9.md) |
+|  | 1.10 | [Ինչո՞ւ է ԱՄՆ դոլարը համաշխարհային պահուստային արժույթ։](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/1/10.md) |
+|  | 1.11 | [Խնայողության և արժեքի պահպանման այլընտրանքներ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/1/11.md) |
+|  | 1.12 | [Կենտրոնական բանկերի թվային արժույթներ (CBDCs)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/1/12-cbdcs.md) |
+|  | 1.13 | [Ամփոփում․ ինչպե՞ս կարող է փողը խափանվել](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/1/13.md) |
+|  |  | [Հասկանալ փողը. արագ ստուգում](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/1/_quiz.md) |
+| **[Ինչպես է աշխատում Բիթքոյնը](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/hy/2)** | 2.1 | [Ինչու ստեղծվեց Բիթքոյնը](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/2/1.md) |
+|  | 2.2 | [Թվային և ապակենտրոնացված փողի որոնումը](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/2/2.md) |
+|  | 2.3 | [Թվային փող ստեղծելու վաղ փորձերը և կրկնակի ծախսման խնդիրը](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/2/3.md) |
+|  | 2.4 | [Թվային սակավություն և անկախ կերպով ստուգելի առաջարկ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/2/4.md) |
+|  | 2.5 | [Բլոկչեյնը՝ Բիթքոյնի հանրային հաշվեմատյան](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/2/5.md) |
+|  | 2.6 | [Ապակենտրոնացում](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/2/6.md) |
+|  | 2.7 | [Թվային ստորագրություններ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/2/7.md) |
+|  | 2.8 | [Հավասարից հավասարին փոխանցում](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/2/8.md) |
+|  | 2.9 | [Օգտատերեր, հանգույցներ և մայներներ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/2/9.md) |
+|  | 2.10 | [Աշխատանքի ապացույց](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/2/10.md) |
+|  | 2.11 | [Սահմանափակ առաջարկ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/2/11.md) |
+|  | 2.12 | [Սատոշիները և միավորի նկատմամբ կողմնակալությունը](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/2/12.md) |
+|  | 2.13 | [Բիթքոյնը՝ որպես հուսալի թվային փող](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/2/13.md) |
+|  | 2.14 | [Բիթքոյնը, սթեյբլքոյնները և այլ կրիպտոակտիվներ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/2/14.md) |
+|  | 2.15 | [Ուսումնառությունն ու պատասխանատու օգտագործումը առևտուր կամ գովազդ չեն](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/2/15.md) |
+|  | 2.16 | [Բիթքոյնի ծագման ժամանակագրությունը](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/2/16.md) |
+|  | 2.17 | [Հզորացում, ռիսկ և պատասխանատվություն](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/2/17.md) |
+|  | 2.18 | [Ամփոփում․ ինչպե՞ս է Բիթքոյնը շտկում դրամական համակարգի թերությունները](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/2/18.md) |
+|  |  | [Ինչպես է աշխատում Բիթքոյնը. արագ ստուգում](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/2/_quiz.md) |
+| **[Բիթքոյնի անվտանգ օգտագործումը](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/hy/3)** | 3.1 | [Բիթքոյնի անվտանգ օգտագործումը](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/3/1.md) |
+|  | 3.2 | [Դրամապանակներ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/3/2.md) |
+|  | 3.3 | [Հասցեներ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/3/3.md) |
+|  | 3.4 | [Բանալիներ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/3/4.md) |
+|  | 3.5 | [Վերականգնման արտահայտություններ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/3/5.md) |
+|  | 3.6 | [Պահառուական և ոչ պահառուական օգտագործում](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/3/6.md) |
+|  | 3.7 | [Տաք և սառը դրամապանակներ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/3/7.md) |
+|  | 3.8 | [Դրամապանակի վերականգնում և վերականգնման արտահայտության ստուգում](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/3/8.md) |
+|  | 3.9 | [բիթքոյնի ստացում](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/3/9.md) |
+|  | 3.10 | [բիթքոյնի ուղարկում](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/3/10.md) |
+|  | 3.11 | [Ստուգում, բլոկների դիտարկիչներ և անշրջելի գործարքներ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/3/11.md) |
+|  | 3.12 | [Անվտանգության ստուգաթերթ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/3/12.md) |
+|  | 3.13 | [Բիթքոյնի ձեռքբերում և փոխանակում](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/3/13.md) |
+|  | 3.14 | [Ներշղթայական և Լայթնինգ վճարումներ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/3/14.md) |
+|  | 3.15 | [Գործնական հմտությունների ստուգում՝ դասավանդողի դիտարկմամբ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/3/15.md) |
+|  | 3.16 | [Կրկնություն․ ի՞նչ է նշանակում ինքնուրույն պահառության պատասխանատվությունը։](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/3/16.md) |
+|  |  | [Բիթքոյնի անվտանգ օգտագործում. արագ ստուգում](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/3/_quiz.md) |
+| **[Բիթքոյնը Ձեր համայնքում](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/hy/4)** | 4.1 | [Բիթքոյնը Ձեր համայնքում](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/4/1.md) |
+|  | 4.2 | [Ձեր տեղական մոդուլ 4-ը](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/4/2-4.md) |
+|  | 4.3 | [Գործնական աշխատաժողովներ և ցուցադրություններ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/4/3.md) |
+|  | 4.4 | [Բիթքոյնի տեղական գործիքներ և ռեսուրսներ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/4/4.md) |
+|  | 4.5 | [Լայթնինգ վճարումներ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/4/5.md) |
+|  | 4.6 | [Բիթքոյնի օգտագործումն առօրյա կյանքում](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/4/6.md) |
+|  | 4.7 | [Տեղում ծախսելու և ստանալու սցենարներ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/4/7.md) |
+|  | 4.8 | [Մուտքի և ելքի տեղական ուղիներ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/4/8.md) |
+|  | 4.9 | [KYC-ով և առանց KYC-ի տարբերակների առավելություններն ու թերությունները](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/4/9-kyc-kyc.md) |
+|  | 4.10 | [Շրջանաձև տնտեսություններ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/4/10.md) |
+|  | 4.11 | [Առևտրականների կամ համայնքի համար կիրառման օրինակներ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/4/11.md) |
+|  | 4.12 | [Տեղական ռեսուրսների քարտեզներ և համայնքի բացահայտում](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/4/12.md) |
+|  | 4.13 | [Ամփոփում․ կապեք սա Ձեր համայնքի հետ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/4/13.md) |
+|  |  | [Հետագա կամընտիր քայլեր](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hy/5-back-matter/section-1.md) |
+
+**Quizzes** (`_quiz.md`, one per module): the question, the choices and the
+explanation are text, and corrections are welcome. The ticked box is the answer
+key, shared by every language, so it is not changed from a pull request; nor is
+the number of questions or of choices.
 <!-- mfb:structure:end -->

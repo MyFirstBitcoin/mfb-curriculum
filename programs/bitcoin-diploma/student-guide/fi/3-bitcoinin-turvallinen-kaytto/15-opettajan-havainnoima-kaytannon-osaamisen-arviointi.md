@@ -1,0 +1,5 @@
+# 3.15 Opettajan havainnoima käytännön osaamisen arviointi
+
+Ennen arviointia saatte ohjattua harjoitusta sekä tiedon tehtävästä ja turvallisuusrajoista. Opettajanne havainnoi toimintaanne hyväksytyssä, ennalta valmistellussa ympäristössä, simulaatioympäristössä tai ympäristössä, jossa taloudellinen riski on pieni — arviointi ei perustu läsnäoloon tai omaan ilmoitukseenne.
+
+Osoitatte, että osaatte avata ennalta valmistellun lompakon tai liikkua siinä, suorittaa hyväksytyn ensikäyttöprosessin, löytää ja tarkistaa vastaanottotiedot sekä vastaanottaa bitcoinia tai simuloida vastaanottamista turvallisesti. Suoritatte myös vastaanotto- tai lähetysprosessin tai simuloitte sen turvallisesti ja osoitatte ennalta valmisteltujen materiaalien avulla valmiutenne lompakon palauttamiseen pitäen samalla kaikki salaiset tiedot yksityisinä. Voitte harjoitella turvallista reagointia ristiriitaisiin tietoihin tai huijaukseen ohjattujen esimerkkitilanteiden avulla. Jos ette ole vielä valmis, Teidän tulisi saada palautetta, lisää harjoitusta ja uusi tilaisuus osoittaa taitonne.

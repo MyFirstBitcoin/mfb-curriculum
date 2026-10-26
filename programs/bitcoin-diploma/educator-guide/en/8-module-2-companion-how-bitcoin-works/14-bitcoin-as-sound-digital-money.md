@@ -1,6 +1,6 @@
 # 8.14 Bitcoin as sound digital money
 
-Return to the exact money properties used in Module 1. Require evidence and qualification.
+Return to the exact money properties used in **Module 1**. Require evidence and qualification.
 
 
 | Property | Useful educator question | Important qualification |
@@ -14,11 +14,11 @@ Return to the exact money properties used in Module 1. Require evidence and qual
 | Acceptability | Where can bitcoin actually be used? | Acceptance varies greatly by community. |
 
 
-Treat **sound money** as a conclusion based on criteria. A learner may conclude that Bitcoin meets some criteria strongly and others weakly in their context.
+Treat [**sound money**](https://curriculum.myfirstbitcoin.org/lexicon/en/#sound-money) as a conclusion based on criteria. A learner may conclude that Bitcoin meets some criteria strongly and others weakly in their context.
 
 Separate:
 
-* observed market price;
-* local usefulness or acceptance;
-* a person's subjective value; and
+* observed market [price](https://curriculum.myfirstbitcoin.org/lexicon/en/#price)
+* local usefulness or acceptance
+* a person's [subjective value](https://curriculum.myfirstbitcoin.org/lexicon/en/#subjective-value); and
 * personal approval.

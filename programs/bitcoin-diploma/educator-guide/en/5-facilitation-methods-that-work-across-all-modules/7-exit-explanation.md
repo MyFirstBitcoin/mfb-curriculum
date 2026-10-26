@@ -8,4 +8,4 @@ At the end of a section, ask learners to complete one of these:
 * “I would stop and verify if ___.”
 * “This connects to the next module because ___.”
 
-An exit response is usually formative feedback. It may contribute to the educator-led share of theoretical assessment when it is an approved objective-aligned touchpoint with a rubric, individual evidence, and a recorded result. It may contribute to practical evidence only when it is an observable criterion embedded in an approved practical task and rubric.
+An exit response is usually formative feedback. It may also help establish theoretical evidence when it gives the educator a clear view of the relevant competency. A practical activity may provide evidence when the educator can observe the learner's relevant action safely and individually.

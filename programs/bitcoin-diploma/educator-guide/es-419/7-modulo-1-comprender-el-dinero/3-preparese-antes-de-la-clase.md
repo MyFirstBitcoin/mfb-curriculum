@@ -1,0 +1,13 @@
+# 7.3 Prepárese antes de la clase
+
+* Lea las secciones del **Módulo 1** de la Guía del estudiante e identifique qué definiciones necesitan apoyo en el idioma local.
+* Prepare las cinco preguntas iniciales para la discusión del grupo.
+* Seleccione una actividad sobre las propiedades del dinero y una sobre el dinero moderno; explore la [Biblioteca de actividades](https://curriculum.myfirstbitcoin.org/activities/en/) para encontrar opciones que pueda adaptar.
+* Prepare ejemplos conocidos en el contexto local de un [medio de intercambio](https://curriculum.myfirstbitcoin.org/lexicon/en/#medium-of-exchange), [unidad de cuenta](https://curriculum.myfirstbitcoin.org/lexicon/en/#unit-of-account), y [reserva de valor](https://curriculum.myfirstbitcoin.org/lexicon/en/#store-of-value).
+* Use ejemplos locales únicamente para ilustrar los conceptos comunes y neutrales; verifique los datos locales que puedan cambiar, evite dar recomendaciones y mantenga el mismo estándar de competencia y evidencia.
+* Revise las [monedas](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) y los métodos de pago que los estudiantes encuentran en su entorno local.
+* Prepárese para facilitar el escenario del sistema local de dinero fíat. Identifique el banco central correspondiente, los bancos comerciales, los proveedores de servicios de pago, las funciones del gobierno y los mecanismos de liquidación.
+* Verifique las normas bancarias locales vigentes que sean pertinentes para la discusión, incluidas las disposiciones sobre reservas o [liquidez](https://curriculum.myfirstbitcoin.org/lexicon/en/#liquidity), la supervisión del [capital](https://curriculum.myfirstbitcoin.org/lexicon/en/#capital), la protección de los depósitos, las normas sobre retiros, las normas de acceso a cuentas y la protección del consumidor. Explique únicamente lo que haya verificado y no brinde asesoría legal ni financiera.
+* Localice la medida oficial de [inflación](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation), la fecha de la publicación actual, la descripción de la canasta y la metodología. Prepare un artículo local con una comparación de [precios](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) que incluya las fechas.
+* Verifique si una [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) local existe, se ha propuesto o es solo hipotética. No enseñe una característica genérica de una [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) como si fuera un hecho local confirmado.
+* Prepare un mapa de funciones que pueda usarse sin conexión, un esquema de balance general, un ejemplo de canasta de precios y una actividad alternativa de respaldo.

@@ -2,10 +2,12 @@
 
 Every activity should state whether it is:
 
-* learning and practice;
-* formative theory checking or feedback;
-* an approved educator-led theoretical touchpoint;
-* an approved practical assessment for certification; or
+* learning and practice
+* formative theory checking or feedback
+* a competency-aligned educator-led theoretical touchpoint
+* a practical activity that may also provide assessment evidence; or
 * an approved combination of formative learning and practical assessment.
 
-Activities in the Resources Hub may supply approved educator-led theoretical touchpoints and practical assessment tasks. This does not make every activity an assessment. Do not score an engaging activity unless it is objective-aligned and has individual evidence, observable criteria, a passing standard, prompting rules, evidence recording, and—where practical—safety conditions and an approved equivalent-variant policy.
+Activities in the [Activity Library](https://curriculum.myfirstbitcoin.org/activities/en/) may support learning, practice, and assessment. Their use does not make every activity an assessment. When you use an activity as evidence, make sure it gives each learner a fair opportunity to show the competency, keeps the safety boundary clear, and allows you to record **Yes** or **Not yet**. You do not need to create lengthy evidence records or a separate test.
+
+![The educator guides the business owner and young learner as they compare blank teaching cards at a table.](https://cdn.sanity.io/images/vje9ehw2/staging/c7d2456d121e7dfd1f41cb2d3925208ba19bc52c-1054x1493.png)

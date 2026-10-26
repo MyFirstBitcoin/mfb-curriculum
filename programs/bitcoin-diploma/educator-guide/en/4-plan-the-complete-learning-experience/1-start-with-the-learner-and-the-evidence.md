@@ -13,6 +13,6 @@ Before choosing activities, answer:
 * Which practical competencies must be observed?
 * How many learners can one educator observe carefully in the available time?
 * When will learners practise before assessment?
-* When and how will **Not yet** learners be supported and reassessed?
+* When and how will learners with a **Not yet** result be supported and reassessed as they build competency?
 
 Do not build the schedule around content coverage alone. Build it around explanation, formative practice, educator-led theoretical evidence, directly observed practical evidence, and safe completion.

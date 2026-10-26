@@ -1,12 +1,12 @@
-# 4.6 Suggested preparation timeline
+# 4.5 Suggested preparation timeline
 
 #### One to two weeks before
 
 * Confirm the cohort, language, accessibility, safeguarding, venue, and schedule.
-* Read the relevant Student Guide sections and objective map.
-* Select the Module 4 module and any local expert.
-* Verify local banking, inflation, payment, legal, tax, privacy, and tool information that will be used.
-* Select activities and assessment tasks.
+* Read the relevant Student Guide sections and competency map.
+* Select the **Module 4** activity and any local expert.
+* Verify local banking, [inflation](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation), payment, legal, tax, privacy, and tool information that will be used.
+* Browse the [Activity Library](https://curriculum.myfirstbitcoin.org/activities/en/) for classroom ideas, then select activities and assessment tasks that fit the competencies and your cohort.
 * Plan practical environments, amounts, roles, stop conditions, and reset procedures.
 * Prepare offline alternatives and print materials.
 * Confirm how evidence, consent, and results will be recorded.
@@ -24,6 +24,6 @@
 
 * Reset training devices and confirm that no earlier learner data remain.
 * Check the network and the offline path.
-* Display the session objective and safety rule.
+* Display the session competency and safety rule.
 * Place private assessment records out of public view.
 * Confirm the escalation contact and what you will do if a tool, payment, or device behaves unexpectedly.

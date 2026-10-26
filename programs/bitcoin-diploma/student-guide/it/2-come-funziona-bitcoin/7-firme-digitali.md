@@ -1,0 +1,7 @@
+# 2.7 Firme digitali
+
+[Le firme digitali](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) sono uno degli elementi chiave del design di Bitcoin descritti nel whitepaper. In Bitcoin, un wallet utilizza una [chiave privata](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) per creare una [firma digitale](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) che autorizza una [transazione](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction). Un wallet è di solito un'applicazione che gestisce le chiavi e crea queste firme per l'utente. Solo chi detiene la [chiave privata](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) necessaria può autorizzare la spesa; la rete può verificare la firma senza conoscere la [chiave privata](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) stessa.
+
+Questo permette a una persona di controllare bitcoin senza chiedere il permesso a una banca o a un altro operatore centrale. Significa anche che il controllo della [chiave privata](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) è fondamentale: chiunque la ottenga può di solito autorizzare una spesa, mentre una chiave persa può rendere i bitcoin irrecuperabili.
+
+Questo è il fondamento della [autocustodia](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody): controllare personalmente le chiavi invece di affidarsi a un servizio che le controlli. **Il Modulo 3** spiega le responsabilità pratiche di sicurezza relative a chiavi, backup e recupero.

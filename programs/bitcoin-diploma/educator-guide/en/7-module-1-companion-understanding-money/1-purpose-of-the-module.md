@@ -1,8 +1,8 @@
 # 7.1 Purpose of the module
 
-Module 1 gives learners the language and criteria needed to examine money. It should not become a long argument against every fiat system. Its job is to help learners understand why money exists, how different arrangements work, what trade-offs they create, and which problems Bitcoin later attempts to address.
+**Module 1** gives learners the language and criteria needed to examine money. It should not become a long argument against every fiat system. Its job is to help learners explain why money exists, how different arrangements work, what trade-offs they create, and which problems Bitcoin later attempts to address.
 
-Core question:
+Guiding question:
 
 > How can money break?
 

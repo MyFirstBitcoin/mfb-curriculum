@@ -4,12 +4,12 @@
 
 **Learner decisions:**
 
-* Is the obligation priced in local currency, bitcoin, or sats?
+* Is the obligation priced in local [currency](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency), bitcoin, or [sats](https://curriculum.myfirstbitcoin.org/lexicon/en/#satoshi)?
 * When is the exchange rate fixed?
 * Who pays fees and spreads?
-* Does the recipient want bitcoin or local currency?
+* Does the recipient want bitcoin or local [currency](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency)?
 * Who controls keys at each stage?
-* Which path provides liquidity or conversion?
+* Which path provides [liquidity](https://curriculum.myfirstbitcoin.org/lexicon/en/#liquidity) or conversion?
 * Is either fiat payment reversible?
 * What records or tax treatment may apply?
 * What happens if a service delays or prevents withdrawal?

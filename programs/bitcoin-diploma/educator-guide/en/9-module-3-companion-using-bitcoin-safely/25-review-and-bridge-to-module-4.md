@@ -2,11 +2,11 @@
 
 Use an integrated scenario. A learner or pair must:
 
-1. identify the custody model of a prepared wallet;
-1. locate receiving information;
-1. distinguish on-chain from Lightning;
-1. prepare a send and detect a changed destination;
-1. read a prepared payment status;
+1. identify the [custody](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) model of a prepared wallet.
+1. locate receiving information.
+1. distinguish on-chain from Lightning.
+1. prepare a send and detect a changed destination.
+1. read a prepared payment status.
 1. respond to a fake support request; and
 1. explain recovery readiness without revealing words.
 
@@ -14,9 +14,8 @@ Ask:
 
 > What does direct control require from the user, and which risks remain even after following a safe process?
 
+Then use the **Module 3** Student Guide closing question. Keep the response private or optional, following the light module-closing reflection guidance above.
+
 Bridge:
 
-> Module 4 asks whether these tools and responsibilities solve a real need in this community. The answer may be yes, no, or only under particular conditions.
-
-
----
+> **Module 4** asks whether these tools and responsibilities solve a real need in this community. The answer may be yes, no, or only under particular conditions.

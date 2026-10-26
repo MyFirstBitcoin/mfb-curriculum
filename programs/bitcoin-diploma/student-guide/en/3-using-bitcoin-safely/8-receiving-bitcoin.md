@@ -10,4 +10,11 @@ Receiving does not authorize funds to leave your wallet, but it still needs care
 1. If an amount is shown, check it with the sender.
 1. Check the amount and status in your own wallet.
 
-A message or screenshot that says “sent” is not proof. What evidence can you see yourself? Check the receiving wallet or approved transaction view. For on-chain payments, a wallet may first show the transaction as pending. Confirmation status adds settlement confidence; it does not repair a wrong address or scam. A wallet may offer a fresh address for a new receipt; older addresses may still work, but fresh addresses can reduce easy links between payments.
+
+<!-- micrographic: check-what-you-receive-01 -->
+
+
+A message or screenshot that says “sent” is not proof. What evidence can you see yourself? Check the receiving wallet or approved [transaction](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) view. For [on-chain payments](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), a wallet may first show the [transaction](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) as pending. [Confirmation](https://curriculum.myfirstbitcoin.org/lexicon/en/#confirmation) status adds settlement confidence; it does not repair a wrong address or scam. A wallet may offer a fresh address for a new receipt; older addresses may still work, but reusing one address can make separate payments easier to link. A fresh address reduces that easy link; it does not make a payment anonymous.
+
+
+---

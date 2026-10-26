@@ -1,0 +1,5 @@
+# 3.15 Ověření praktických dovedností pod dohledem vyučujícího
+
+Před hodnocením budete mít možnost procvičovat s podporou a seznámíte se s úkolem i bezpečnostními omezeními. Vyučující bude vaše dovednosti ověřovat přímým pozorováním při práci ve schváleném připraveném, simulovaném nebo nízkorizikovém prostředí, nikoli na základě docházky či vašeho vlastního prohlášení.
+
+Prokážete, že dokážete otevřít připravenou peněženku nebo se v ní orientovat, projít schváleným postupem prvního přístupu, najít a zkontrolovat údaje pro příjem a přijmout bitcoin nebo jeho přijetí bezpečně simulovat. Také provedete nebo bezpečně nasimulujete postup přijetí či odeslání a s využitím připravených materiálů prokážete připravenost na obnovu peněženky, přičemž veškeré tajné údaje uchováte v soukromí. Pomocí řízených scénářů si můžete procvičit bezpečnou reakci na nesrovnalost nebo podvod. Pokud ještě nebudete dostatečně připraveni, měli byste dostat zpětnou vazbu, více prostoru k procvičování a další příležitost danou dovednost prokázat.

@@ -1,0 +1,5 @@
+# 3.15 Provera praktičnih kompetencija pod nadzorom nastavnika
+
+Pre procene, imaćete priliku da vežbate uz podršku i bićete upoznati sa zadatkom i bezbednosnim ograničenjima. Vaš edukator će vas posmatrati dok radite u odobrenom pripremljenom ili simuliranom okruženju, ili u okruženju sa malim rizikom — procena se neće zasnivati na prisustvu ili vašem sopstvenom izveštaju.
+
+Pokazaćete da umete da otvorite pripremljeni novčanik ili da se snađete u njemu, prođete kroz odobreni postupak prvog pristupa, pronađete i proverite podatke za prijem i primite bitcoin ili bezbedno simulirate prijem. Takođe ćete sprovesti ili bezbedno simulirati postupak prijema ili slanja i pomoću pripremljenih materijala pokazati da ste spremni za oporavak novčanika, pri čemu ćete sve tajne podatke zadržati za sebe. Kroz vođene scenarije možete vežbati bezbedno reagovanje na nepodudaranje podataka ili prevaru. Ako još niste spremni, trebalo bi da dobijete povratne informacije, dodatnu priliku za vežbanje i još jednu priliku da pokažete tu veštinu.

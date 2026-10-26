@@ -1,8 +1,29 @@
-# 9.24 Module 3 evidence panel
+# 9.19 Acquiring and exchanging: awareness, not financial advice
 
-Collect the practical evidence through at least two approved observations:
+The learner should compare possible routes, not receive a recommendation.
 
-1. **Safe first access and transaction check:** the learner opens or enters the prepared environment, locates receiving information, completes or safely simulates receipt or sending, and checks the relevant status. This may cover `B3.5`, `B3.6`, and `B3.11` when the approved task says so.
-1. **Recovery readiness and safe response:** the learner protects prepared recovery information and responds safely to an exposure, mismatch, or scam scenario. This must never involve a real learner secret.
+Compare:
 
-Record each objective separately, even when one task covers several objectives. A spoken description may prepare the learner, but it does not replace direct observation where the objective requires performance.
+* earning bitcoin
+* direct peer-to-peer exchange
+* a centralized exchange or broker
+* an ATM or kiosk
+* receiving through a merchant, donation, refund, or remittance; and
+* a service that converts between bitcoin and fiat.
+
+For every route, ask:
+
+* What total amount is received after [price](https://curriculum.myfirstbitcoin.org/lexicon/en/#price), spread, and fees?
+* Who controls the bitcoin before and after the exchange?
+* What identity data are collected?
+* Can the fiat side be reversed?
+* Can the bitcoin be withdrawn to [self-custody](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody)?
+* What counterparty and fraud risk exists?
+* What physical-safety risk exists?
+* Which local law, tax, or reporting rule may apply?
+
+
+<!-- micrographic: ways-to-receive-bitcoin-01 -->
+
+
+Use [**no-KYC**](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) consistently for a path collecting less or no standard identity information. Do not imply that [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) removes fraud, legal, counterparty, or physical risk. Do not advise evasion of local law.

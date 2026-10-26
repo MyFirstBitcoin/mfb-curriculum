@@ -1,28 +1,7 @@
 # 4.12 Local resource maps and community discovery
 
-[Maps and community directories](https://programs.myfirstbitcoin.org/resources/?search=map) can help learners find merchants, educators, meetups, and circular economies. Listings can be incomplete or outdated. A place shown on a map may have stopped accepting Bitcoin, changed its wallet, or closed.
+Detailed local-resource activities, record tables, and changeable listings belong on the [Resources Hub](https://curriculum.myfirstbitcoin.org/resources/?search=map). Maps and community directories can help you find merchants, educators, meetups, and circular economies, but listings can be incomplete or outdated.
 
-Use a resource map safely:
+Before relying on a listing, check when it was verified, confirm the information independently, and bring an alternative way to pay or participate. A local community can provide practical support, but membership is not proof of trustworthiness. Do not reveal [seed phrases](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), balances, home addresses, or security arrangements at a meetup. Be cautious when a new contact offers investment management, private exchange, guaranteed returns, or urgent help.
 
-1. Check when the listing was last verified.
-1. Contact the merchant or organizer before making a special journey.
-1. Ask which payment method is accepted.
-1. Bring an alternative way to pay.
-1. Do not publish another person's location or details without permission.
-1. Submit corrections only when the information has been checked.
-
-A local community can provide practical support, but membership is not proof of trustworthiness. Do not reveal seed phrases, balances, home addresses, or security arrangements at a meetup. Be cautious when a new contact offers investment management, private exchange, guaranteed returns, or urgent help.
-
-Record your local resources:
-
-
-| Resource | Purpose | Date verified | Contact or location | Safety note |
-| --- | --- | --- | --- | --- |
-| Education group |  |  |  |  |
-| Merchant directory |  |  |  |  |
-| Technical support |  |  |  |  |
-| Local exchange information |  |  |  |  |
-| Legal or tax information |  |  |  |  |
-
-
-Good community discovery helps you find people who explain, verify, and respect your choices. It should not make you dependent on one leader.
+![The educator facilitates a discussion with the beginner, older learner, and business owner around guides, a phone, and everyday goods.](https://cdn.sanity.io/images/vje9ehw2/staging/6866adfa529a6842290879660b1af8fde358cc09-1055x1491.png)

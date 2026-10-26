@@ -1,0 +1,14 @@
+# Démarrage rapide : dix points non négociables
+
+Il s’agit de garde-fous, pas d’un test. Gardez cette liste ouverte pendant votre préparation. Vous n’avez pas besoin de mémoriser le programme avant d’enseigner ; vous devez en revanche respecter ces limites à chaque fois.
+
+1. Enseignez la séquence en quatre modules **Problème → Solution → Action → Connexion** : Problème—Comprendre la monnaie ; Solution—Comment fonctionne Bitcoin ; Action—Utiliser Bitcoin en toute sécurité ; et Connexion—Bitcoin dans votre communauté.
+1. Considérez **les modules 1–4** comme le parcours obligatoire du Diplôme Bitcoin. **Les modules 1–2** développent les compétences théoriques par l’explication, la comparaison et le raisonnement ; **le module 3** développe la mise en pratique en toute sécurité ; et l’étape obligatoire du **module 4** Connexion, dont le contenu est sélectionné par l’enseignant, relie les apprentissages communs à un besoin local, à une alternative réaliste, à une tâche sûre et à une prochaine étape responsable.
+1. Préservez les compétences requises, les exigences en matière de preuves, les limites de sécurité et le seuil de réussite dans toutes les langues et toutes les modalités d’enseignement.
+1. Menez des échanges théoriques animés par l’enseignant et alignés sur les compétences, ainsi qu’une observation directe de la pratique. Distinguez clairement toute récapitulation facultative ou révision autonome des preuves utilisées pour l’évaluation.
+1. Proposez une pratique accompagnée avant l’évaluation. Pour l’apprentissage pratique, utilisez Présentation → Pratique → Production.
+1. Ne demandez jamais à voir, manipuler, photographier, copier, enregistrer ou conserver les données réelles suivantes d’un apprenant : [phrase de récupération](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), [clé privée](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), identifiants, solde ou informations de transaction non nécessaires.
+1. Utilisez des portefeuilles préparés, des simulations, des environnements de test, des captures d’écran imprimées ou des exercices pratiques présentant un niveau de risque suffisamment faible. Prévoyez toujours une solution de repli sans fonds ou hors ligne.
+1. Ne donnez pas de conseils financiers, d’investissement, juridiques, fiscaux, comptables, de conformité ou de trading. Ne faites pas pression sur les apprenants pour qu’ils acquièrent ou utilisent du bitcoin.
+1. Considérez les portefeuilles, plateformes d’échange, services, cartes, commerçants et ressources communautaires nommés comme des exemples locaux datés, et non comme des recommandations universelles.
+1. Ne délivrez pas de certification sur la seule base de la présence, de l’achèvement d’une activité, d’un échange avec un enseignant sans preuves valides ou d’une seule des deux composantes de l’évaluation. La certification exige des preuves théoriques et pratiques consignées.

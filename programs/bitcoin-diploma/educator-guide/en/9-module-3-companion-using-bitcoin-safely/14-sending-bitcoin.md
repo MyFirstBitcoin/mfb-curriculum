@@ -1,4 +1,4 @@
-# 9.14 Sending bitcoin
+# 9.15 Sending bitcoin
 
 Use a pause-and-check sequence:
 
@@ -12,6 +12,10 @@ Use a pause-and-check sequence:
 1. Use a small test when the process or amount is unfamiliar.
 1. Approve only after all information matches.
 1. Verify the result in the appropriate wallet or transaction view.
+
+
+<!-- micrographic: pre-send-checklist-01 -->
+
 
 Teach learners to stop if the recipient changes the destination unexpectedly, discourages verification, creates urgency, or asks for recovery information.
 

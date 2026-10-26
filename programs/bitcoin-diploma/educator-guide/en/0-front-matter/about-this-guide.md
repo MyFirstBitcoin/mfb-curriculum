@@ -1,8 +1,14 @@
 # About this guide
 
-This guide is the teacher's companion to the 2026.10 Bitcoin Diploma. Use it with the [Student Guide](https://programs.myfirstbitcoin.org/programs/bitcoin-diploma/), the linked activities in the Resources Hub, and the approved assessment materials. For a concise first-teaching route, begin with the Educator Quick Start Guide. The My First Bitcoin app may be offered as an optional self-check, recap, and discovery resource.
+The Educator Guide supports teaching the 26.10 Bitcoin Diploma. Linked terms open their definitions in the Lexicon. Use it with the [Student Guide](https://curriculum.myfirstbitcoin.org/programs/bitcoin-diploma/en/student-guide/), [Educator Quick Start](https://curriculum.myfirstbitcoin.org/programs/educator-quick-start/), [Educator Assessment Grid](https://cdn.sanity.io/files/vje9ehw2/staging/056d842fdf0602501c3ae7b5915277b0b7f857d4.pdf), the learning activities supplied for your course, and the [Activity Library](https://curriculum.myfirstbitcoin.org/activities/en/) for additional classroom activities.
 
-The Student Guide gives learners the essential path. This companion helps a teacher turn that path into a complete learning experience through interaction, discussion, local context, guided practice, feedback, and assessment. You can teach directly from it: read the short preparation notes before a session, use the suggested words and questions during the session, and return to the evidence and safety notes afterwards.
+The Student Guide gives learners the essential path. This Educator Guide helps a teacher turn that path into a complete learning experience through interaction, discussion, local context, guided practice, feedback, and assessment. You can teach directly from it: read the short preparation notes before a session, use the suggested words and questions during the session, and return to the evidence and safety notes afterwards.
+
+### Invite learners to register
+
+Before or during the first session, invite learners to [register for the Bitcoin Diploma](https://forms.myfirstbitcoin.org/register-student/bd). Registration helps My First Bitcoin offer learner support and future learning opportunities, and improve the Bitcoin Diploma for future cohorts. It is voluntary and does not affect learning, assessment, certification, or access to the course.
+
+**Release status:** The 26.10 curriculum is published as a framework-first teaching package. Publication of this guide, the assessment protocol, and the [Assessment Grid](https://cdn.sanity.io/files/vje9ehw2/staging/056d842fdf0602501c3ae7b5915277b0b7f857d4.pdf) does not by itself declare your local route ready for certificated delivery. Before issuing completion certificates, prepare and check the selected tasks and local variants, observation capacity, accessibility routes, Assessment Grid, and proportionate local privacy, correction, and appeals arrangements.
 
 
 ---

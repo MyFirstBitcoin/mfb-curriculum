@@ -1,0 +1,19 @@
+# 13.7 Adaptar uma atividade prática para avaliação
+
+Os educadores podem adaptar uma atividade prática para atender aos alunos e ao contexto. Não transforme uma atividade em evidência de uma competência que ela não revela. Preserve:
+
+* a competência e o verbo mensurável
+* o tipo de evidência
+* a dificuldade e o grau de autonomia
+* a sequência exigida e a verificação
+* o padrão mínimo
+* os erros críticos de segurança; e
+* as observações opcionais e o caminho de reavaliação.
+
+Se a equivalência for incerta, use a adaptação para praticar e selecione uma tarefa de avaliação cuja evidência e cujo padrão correspondam claramente à competência.
+
+
+<!-- micrographic: adapt-practice-or-assessment-01 -->
+
+
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8444d4c2c23ce8cb5b0103bb646ce8c50c4594c3-1536x1024.svg)

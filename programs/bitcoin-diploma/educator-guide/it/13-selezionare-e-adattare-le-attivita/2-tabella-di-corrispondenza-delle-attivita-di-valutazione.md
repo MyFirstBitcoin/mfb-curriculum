@@ -1,0 +1,14 @@
+# 13.2 Tabella di corrispondenza delle attività di valutazione
+
+Utilizzi le attività collegate qui sotto come possibili contesti di apprendimento o di raccolta di evidenze individuali per la competenza indicata. Un'attività rimane formativa a meno che non offra all'educatore un'occasione adeguata per notare la risposta o l'azione pertinente del discente. Adatti l'attività quando necessario e registri il risultato nella [Griglia di valutazione](https://cdn.sanity.io/files/vje9ehw2/staging/dd05771bc22e102c1913f48bcae55e7b7f619c72.pdf).
+
+
+| Competenza della Griglia di valutazione | Compito del protocollo | Attività che possono supportare il compito | Integrazione o limite richiesti |
+| --- | --- | --- | --- |
+| C1 Il denaro e i compromessi del denaro moderno | T1 | Gioco del baratto iterativo, Perché abbiamo bisogno del denaro?, Gioco del baratto | Aggiunga un confronto individuale e uno scenario di denaro moderno locale verificato o realistico; la sola partecipazione all'attività non copre tutti e tre gli indicatori osservabili. |
+| C2 Fondamenti e regole di Bitcoin | T2 | Consenso, Transazioni in azione, Bitcoin è moneta sana?, Verifica | Aggiunga una spiegazione individuale su copia/verifica, una spiegazione di livello base delle regole condivise di Bitcoin e dei ruoli dei partecipanti, e una spiegazione di come una proprietà di Bitcoin possa favorirne o limitarne l'uso come denaro. |
+| C3 Confronto guidato tra asset digitali | T2 | Nessuna attività attuale è idonea come evidenza di valutazione. | Utilizzi il confronto guidato e non promozionale previsto dal protocollo e distingua l'apprendimento o l'uso responsabile dal trading, dalla promozione o dalla speculazione. |
+| C4 Wallet, custodia e sicurezza | T3 | Valutare i wallet Bitcoin, Creare il Suo primo wallet Bitcoin | Richieda una spiegazione individuale su custodia e segreti, la distinzione tra tipi di wallet e una risposta sicura a uno scenario di truffa o di errore. |
+| C5 Percorsi di pagamento e di accesso | T3 | Esplorare la mempool, Staffetta Lightning | Richieda un confronto individuale tra on-chain e Lightning, più una decisione sul percorso che non costituisca una raccomandazione. La Staffetta richiede le relative modifiche di sicurezza prima dell'uso. |
+| C6 Accesso sicuro e preparazione al recupero | P6a e P6b | Staffetta Lightning, Creare il Suo primo wallet Bitcoin | Osservi un compito predisposto di primo accesso/ricezione e una simulazione separata di preparazione al recupero prima di registrare un unico risultato. Non raccolga, visualizzi o registri mai il segreto reale o il saldo reale di un discente. |
+| C7 Connect: compito locale su Bitcoin come denaro | P7 | Nessuna attività attuale è idonea come evidenza di valutazione. | Selezioni e approvi un compito Connect locale secondo il protocollo prima dello svolgimento. Deve includere osservazione diretta, verifica sicura, un'alternativa realistica e una spiegazione individuale. |

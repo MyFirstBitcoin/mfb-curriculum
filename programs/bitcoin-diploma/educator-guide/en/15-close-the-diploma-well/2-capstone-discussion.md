@@ -1,4 +1,4 @@
-# 15.2 Capstone discussion
+# 15.1 Capstone discussion
 
 Use think–pair–share before whole-group discussion:
 
@@ -12,3 +12,5 @@ Use think–pair–share before whole-group discussion:
 * What requires further learning?
 
 Ask learners to support answers with a course concept and an example, not a slogan.
+
+![The educator invites a final explanation from the older learner while the beginner and business owner listen with their guides.](https://cdn.sanity.io/images/vje9ehw2/staging/294a2f8e8e831a2a0da998cfbc42a40102d4cc74-1054x1493.png)

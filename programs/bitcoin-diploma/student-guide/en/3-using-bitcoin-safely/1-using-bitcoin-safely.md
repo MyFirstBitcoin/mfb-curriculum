@@ -1,16 +1,22 @@
 # 3.1 Using Bitcoin Safely
 
-This module is about safe first actions, not becoming an expert or taking financial risk. You will practise with a prepared simulation, test funds, or an amount approved by your educator. You never need to buy bitcoin to complete the Diploma.
+This module is about safe first actions, not becoming an expert or taking financial risk. You will practice with prepared simulations, test environments, training wallets, or, where your educator judges it appropriate, a low-stakes live activity.
+
+
+> **Dark**
+>
+> You do not need to buy or otherwise acquire bitcoin, or use personal funds, to complete the Bitcoin Diploma.
+
 
 What information can you share safely? What information could give another person control? How would you notice that a payment request has changed? These questions matter before any wallet, payment, or backup becomes important.
 
 Use these three rules throughout the module:
 
-1. **Share receiving information, never secrets.** An address or payment request can receive bitcoin. A private key or recovery phrase can control it.
+1. **Share receiving information, never secrets.** An address or payment request can receive bitcoin. A [private key](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) or [recovery phrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) can control it.
 1. **Pause before approving a send.** Check the person, payment method, destination, amount, and final screen.
 1. **Keep mistakes small.** Stop and ask for help when a request is unclear, rushed, or asks for secret information.
 
-By the end, you should be able to explain who controls the keys, complete a supported receive or send practice, respond safely to a scam or mismatch, and show recovery readiness without exposing any real secret. The goal is not speed. It is knowing when to pause.
+By the end, you should be able to explain who controls the keys, complete a supported receive or send practice task, respond safely to a scam or mismatch, and show recovery readiness without exposing any real secret. The goal is not speed. It is knowing when to pause.
 
 The module follows three practical questions:
 

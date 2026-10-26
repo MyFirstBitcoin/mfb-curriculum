@@ -1,8 +1,8 @@
 # 8.6 Earlier digital-money context
 
-Keep DigiCash, Hashcash, Bit Gold, B-money, reusable proof of work, and peer-to-peer systems brief. Their role is to show that Bitcoin emerged from earlier work on privacy, digital cash, costly computation, distributed networks, and scarcity.
+Keep [DigiCash](https://curriculum.myfirstbitcoin.org/lexicon/en/#digicash), [Hashcash](https://curriculum.myfirstbitcoin.org/lexicon/en/#hashcash), [Bit Gold](https://curriculum.myfirstbitcoin.org/lexicon/en/#bit-gold), [B-money](https://curriculum.myfirstbitcoin.org/lexicon/en/#b-money), [reusable proof of work](https://curriculum.myfirstbitcoin.org/lexicon/en/#reusable-proof-of-work), and peer-to-peer systems brief. Their role is to show that Bitcoin emerged from earlier work on [privacy](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy), digital cash, costly computation, distributed networks, and [scarcity](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity).
 
-Do not imply that every predecessor contributed code directly to Bitcoin. Do not turn the Core module into a technical timeline quiz.
+Do not imply that every predecessor contributed code directly to Bitcoin. Do not turn **Module 2** into a technical timeline quiz.
 
 Ask:
 

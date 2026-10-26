@@ -1,4 +1,4 @@
-# 4.8 Local verification record
+# 4.7 Local verification record
 
 Complete one row for each changing fact, service, or resource used in class.
 
@@ -18,4 +18,4 @@ Complete one row for each changing fact, service, or resource used in class.
 Prefer authoritative primary sources for current rules. If the evidence is incomplete, say so. Do not convert uncertain local information into a universal claim.
 
 
----
+<!-- micrographic: local-verification-cycle-01 -->

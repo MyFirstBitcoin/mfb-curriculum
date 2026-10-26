@@ -1,0 +1,5 @@
+# 3.15 Gyakorlati kompetenciafelmérés oktatói megfigyelés mellett
+
+Az értékelés előtt támogatott gyakorlásban részesül, és megismeri a feladatot, valamint a biztonsági korlátokat. Oktatója egy jóváhagyott, előkészített, szimulált vagy alacsony kockázatú környezet használata közben figyeli majd meg Önt – az értékelés nem a jelenléten vagy az Ön beszámolóján alapul.
+
+Bemutatja, hogy képes megnyitni az előkészített tárcát vagy eligazodni benne, végigvinni az első hozzáférés jóváhagyott lépéseit, megkeresni és ellenőrizni a fogadási adatokat, valamint bitcoint fogadni vagy biztonságosan szimulálni a fogadást. Emellett végrehajt vagy biztonságosan szimulál egy fogadási vagy küldési folyamatot, és előkészített anyagok segítségével bemutatja, hogy felkészült a helyreállításra, miközben minden titkos adatot bizalmasan kezel. Irányított helyzetgyakorlatok során gyakorolhatja, hogyan reagáljon biztonságosan egy eltérésre vagy csalásra. Ha még nem áll készen, visszajelzést, további gyakorlási lehetőséget és újabb alkalmat kell kapnia a készség bemutatására.

@@ -2,7 +2,7 @@
 
 Financial experience can be sensitive. Offer three routes for local reflection:
 
-* a personal example the learner freely chooses to share;
+* a personal example the learner freely chooses to share
 * an observed public or community example; or
 * a realistic invented scenario.
 

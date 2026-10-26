@@ -1,4 +1,4 @@
-# 9.21 Integrated Module 3 practice circuit
+# 9.22 Integrated Module 3 practice circuit
 
 Use stations after learners have seen each process.
 
@@ -16,3 +16,6 @@ Use stations after learners have seen each process.
 
 
 Do not use the stations as formal assessment unless the exact tasks, variants, criteria, and records are approved.
+
+
+<!-- micrographic: practice-circuit-stations-01 -->

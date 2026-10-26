@@ -1,0 +1,5 @@
+# 3.15 Eğitmen gözetiminde uygulamalı yeterlilik kontrolü
+
+Değerlendirmeden önce destekli uygulama yapma fırsatı bulacak, görevi ve güvenlik sınırlarını öğreneceksiniz. Sizi, onaylanmış, önceden hazırlanmış, simüle edilmiş veya riski düşük bir ortamı kullanırken gözlemleyecek olan kişi eğitmeninizdir; katılım veya öz beyan bu gözlemin yerini tutmaz.
+
+Hazırlanmış cüzdanı açabildiğinizi veya cüzdanda gezinebildiğinizi, onaylanmış bir ilk erişim adımını tamamlayabildiğinizi, alım bilgilerini bulup kontrol edebildiğinizi ve bitcoin alabildiğinizi ya da alımı güvenli bir şekilde simüle edebildiğinizi göstereceksiniz. Ayrıca bir alma veya gönderme işlemini tamamlayacak ya da güvenli bir şekilde simüle edecek, tüm gizli bilgileri saklı tutarken hazırlanmış materyallerle kurtarmaya hazır olduğunuzu göstereceksiniz. Rehberli senaryolar aracılığıyla bir uyuşmazlığa veya dolandırıcılığa güvenli bir şekilde karşılık vermeyi de deneyimleyebilirsiniz. Henüz hazır değilseniz geri bildirim almanız, daha fazla uygulama yapmanız ve beceriyi göstermek için size yeni bir fırsat tanınması gerekir.

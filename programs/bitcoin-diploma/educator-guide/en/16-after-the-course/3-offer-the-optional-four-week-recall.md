@@ -1,3 +1,3 @@
-# 16.3 Offer the optional four-week recall
+# 16.4 Share an educator testimonial
 
-Before the course ends, show learners the printed four-week recall in the Student Guide and agree on a suggested date. It requires no app or connection and does not affect certification. If participation is recorded, keep only an optional follow-up status separate from assessment and certificate records.
+You can [share an educator testimonial](https://forms.myfirstbitcoin.org/testimonial-educator) about your experience teaching the Bitcoin Diploma. Describe your teaching context, what worked, and what you learned as an educator. Sharing your story is optional.

@@ -1,6 +1,6 @@
-# 1.2 Course roles
+# 1.3 Course roles
 
-* A **learner** studies, discusses, practises, and provides evidence of understanding.
-* An **educator** facilitates, protects the learning environment, adds checked local context, conducts approved theoretical touchpoints, and directly reviews approved practical competency against the agreed criteria when authorized. Where local delivery separates teaching and evidence review, another approved educator may review either component. An educator who does not conduct that review still prepares learners and records formative observations according to local procedures.
+* A **learner** studies, discusses, practises, and demonstrates competency through observable explanation, comparison, reasoning, or action.
+* An **educator** facilitates, protects the learning environment, adds checked local context, conducts competency-aligned theoretical touchpoints, provides practical-learning feedback, and directly assesses practical competency against the stated criteria. Where teaching and assessment are divided between educators, both should follow the same task conditions, criteria, and record-keeping process.
 * A **cohort** is the group learning together. Smaller teams may complete activities, but individual certification evidence must remain identifiable where required.
-* The **Diploma** is the complete learning and assessment program, not only the Student Guide or app.
+* The **Bitcoin Diploma** is the complete learning and assessment program, not only the Student Guide.

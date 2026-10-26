@@ -1,0 +1,20 @@
+# 1.13 Révision : Comment la monnaie peut-elle dysfonctionner ?
+
+Prenez un moment pour réfléchir à la monnaie que vous utilisez : qu’est-ce qui la rend utile au quotidien, et lesquelles de ses règles dépendent d’institutions auxquelles vous devez faire confiance ? [Le troc](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) est difficile car faire coïncider les besoins est peu efficace. [La monnaie fiduciaire](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) facilite les échanges, mais l’évolution de son offre, le contrôle institutionnel, l’accès restreint et la baisse du [pouvoir d’achat](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) peuvent constituer de graves défauts pour les personnes qui en dépendent. Les avis peuvent diverger sur la gravité de chaque défaut ou sur la manière d’y remédier. C’est pourquoi certaines personnes recherchent des solutions monétaires alternatives présentant différents [compromis](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) en matière d’offre, de contrôle, d’accès et de confiance.
+
+#### Points clés à retenir
+
+* La monnaie aide les personnes à échanger, à comparer les [prix](https://curriculum.myfirstbitcoin.org/lexicon/en/#price), à consigner la [valeur](https://curriculum.myfirstbitcoin.org/lexicon/en/#value), et à transférer la [valeur](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) dans le temps.
+* Les principales fonctions de la monnaie sont celles d’un [moyen d’échange](https://curriculum.myfirstbitcoin.org/lexicon/en/#medium-of-exchange), d’une [unité de compte](https://curriculum.myfirstbitcoin.org/lexicon/en/#unit-of-account), et d’une [réserve de valeur](https://curriculum.myfirstbitcoin.org/lexicon/en/#store-of-value).
+* Les propriétés monétaires telles que [la durabilité](https://curriculum.myfirstbitcoin.org/lexicon/en/#durability), [la portabilité](https://curriculum.myfirstbitcoin.org/lexicon/en/#portability), [la divisibilité](https://curriculum.myfirstbitcoin.org/lexicon/en/#divisibility), [la rareté](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity), [l’acceptabilité](https://curriculum.myfirstbitcoin.org/lexicon/en/#acceptability), et [la vérifiabilité](https://curriculum.myfirstbitcoin.org/lexicon/en/#verifiability) nous aident à comparer différentes formes de monnaie.
+* [Le troc](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) est difficile à grande échelle car les deux personnes doivent vouloir ce que l’autre propose au même moment et dans des quantités adaptées.
+* La monnaie s’est développée de différentes manières selon les sociétés, simplifiant souvent les échanges tout en créant de nouveaux [compromis](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) en matière de confiance, de contrôle et d’accès.
+* [La monnaie fiduciaire](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) peut permettre des paiements pratiques et un crédit souple, mais son offre et ses règles dépendent d’institutions.
+* [L’inflation](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation), [le système bancaire à réserves fractionnaires](https://curriculum.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking), et les [MNBC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) telles qu’elles sont conçues peuvent affecter [le pouvoir d’achat](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power), l’accès, [la vie privée](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy), et la nécessité de faire confiance aux institutions.
+* Certaines personnes se tournent vers des alternatives comme les métaux précieux lorsqu’elles recherchent d’autres [compromis](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) en matière de [pouvoir d’achat](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power), d’offre ou de contrôle ; chaque alternative présente des limites et des risques.
+
+#### Un moment de réflexion
+
+Quelle question vous posez-vous désormais sur la monnaie que vous ne vous posiez pas auparavant ?
+
+Le module suivant examine la tentative de Bitcoin de créer un ensemble différent de règles monétaires.

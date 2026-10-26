@@ -1,0 +1,31 @@
+# 1.12 Կենտրոնական բանկերի թվային արժույթներ (CBDCs)
+
+> **Definition – Կենտրոնական բանկի թվային արժույթ (CBDC)**
+>
+> Մի [կենտրոնական բանկի թվային արժույթ](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), կամ [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), թվային ձևն է [ֆիատ փողի](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money)՝ թողարկված որպես [պարտավորություն](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability)՝ որևէ [կենտրոնական բանկի կողմից](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank)․ դա պահանջ է, որը [կենտրոնական բանկը](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) պարտք է դրա տիրապետողին։ Այն տարբերվում է ֆիզիկական կանխիկ փողից և առևտրային բանկի սովորական ավանդից, թեև օգտագործողի փորձառությունը կարող է նման լինել։
+
+
+[CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc)-ների նախագծերը տարբերվում են։ Որոշները նախատեսված են հիմնականում ֆինանսական հաստատությունների համար, իսկ մյուսներն առաջարկվում են հանրային օգտագործման համար։ Նախ հարցրեք, թե ով է [թողարկողը](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer)․ երբ խոսքը վերաբերում է [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc)-ին, [կենտրոնական բանկը](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) մնում է [թողարկողը](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer) և շարունակում է դրամավարկային քաղաքականություն իրականացնելու հնարավորություն ունենալ։ Իսկ [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc)-ն, հետևաբար, չի ստեղծում փողի ֆիքսված առաջարկ և չի վերացնում կենտրոնական վերահսկողությունը․ այն պարզապես փոխում է տեխնոլոգիան և բաշխման եղանակը՝ [ֆիատ փողի](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money)։
+
+Այնուհետև հարցրեք, թե ինչ հնարավորություններ է տալիս նախագիծը։ Կախված կանոններից՝ [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc)-ն կարող է հնարավորություն տալ ավելի արագ վերջնահաշվարկի, ավելի լայն հասանելիության կամ վճարումների նոր գործառույթների համար։ Այն կարող է նաև հաստատություններին ավելի մեծ հնարավորություն տալ վերահսկելու [գործարքները](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), կիրառելու կանոններ, սահմանափակելու օգտագործումը կամ անձի ինքնությունն անմիջապես վճարումներին կապելու։ Սա կենտրոնացված վերահսկողություն է․ համապատասխան կանոնները սահմանում կամ փոխում է հաստատությունը, այլ ոչ թե սովորական օգտագործողներն՝ ինքնուրույն։
+
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
+
+
+<!-- micrographic: cbdc-comparison-table-01 -->
+
+
+Թվային լինելն ինքնաբերաբար չի նշանակում լինել ապակենտրոնացված, սակավ, գաղտնի կամ անկախ ստուգման համար բաց։ [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc)-ն կարող է օգտագործել թվային տեխնոլոգիա, բայց այն միևնույն է [ֆիատ փող է](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money), եթե դրա [թողարկողը](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer), առաջարկի կանոնները, հասանելիության կանոնները և վճարումների թույլտվությունները շարունակում են կենտրոնացված կերպով կառավարվել։
+
+Երբ քննարկում եք [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc)-ն, հարցրեք․
+
+* Ո՞վ է թողարկում փողը։
+* Ո՞վ կարող է այն պահել կամ օգտագործել։
+* Ի՞նչ տեղեկություններ են հավաքվում։
+* Հնարավո՞ր է արգելափակել, սահմանափակել կամ հետ շրջել վճարումը։
+* Կարո՞ղ են կանոնները փոխվել։
+* Կարո՞ղ են սովորական օգտագործողներն ինքնուրույն ստուգել կանոնները։
+* Ի՞նչ է տեղի ունենում էլեկտրականության կամ համացանցի հասանելիության բացակայության դեպքում։
+* Իրավական պաշտպանության ի՞նչ միջոցներ կան։
+
+Մի՛ ենթադրեք, որ առաջարկվող յուրաքանչյուր [ԿԲԹԱ](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) ունի նույն կառուցվածքը։ Օգտվեք արդիական, տեղական և հավաստի տեղեկություններից։

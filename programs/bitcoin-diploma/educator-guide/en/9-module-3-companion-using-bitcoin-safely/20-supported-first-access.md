@@ -1,6 +1,6 @@
-# 9.20 Supported first access
+# 9.21 Supported first access
 
-`B3.11` requires a learner to gain access to bitcoin in an approved low-stakes or simulated environment, receive it, and check the relevant information.
+`C6.1` is a competency criterion within `C6`. The learner gains access to bitcoin in an approved low-stakes or simulated environment, receives it or safely simulates receipt, and checks the relevant information as part of the observed wallet, payment, and verification performance.
 
 Plan the route carefully:
 
@@ -13,4 +13,4 @@ Plan the route carefully:
 1. Have the learner verify balance or payment status and explain what that evidence means.
 1. Have the learner identify the recovery path and stop conditions.
 
-Do not require learners to purchase bitcoin. A prepared training balance, educator-provided low-stakes receipt, test environment, or approved simulation may satisfy the objective when the assessment variant permits it.
+Do not require learners to purchase bitcoin. A prepared training balance, educator-provided low-stakes receipt, test environment, or approved simulation may satisfy the competency when the assessment variant permits it.

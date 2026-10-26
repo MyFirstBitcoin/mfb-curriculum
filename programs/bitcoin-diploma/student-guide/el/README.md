@@ -11,55 +11,75 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [Η ιστορία του Διπλώματος Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/0-front-matter/1-bitcoin.md) |
-|  |  | [Πρόλογος](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/0-front-matter/2.md) |
-| **[Τι είναι το χρήμα;](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/el/1)** | 1.0 | [Εισαγωγή](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/1/0.md) |
-|  | 1.1 | [Συζητήσεις για τα χρήματα](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/1/1.md) |
-|  | 1.2 | [Ορισμός του χρήματος](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/1/2.md) |
-|  | 1.3 | [Λειτουργίες του χρήματος](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/1/3.md) |
-|  | 1.4 | [Ιδιότητες του χρήματος](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/1/4.md) |
-|  | 1.5 | [Τύποι Χρήματος](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/1/5.md) |
-|  | 1.6 | [Η Ψυχολογία του Χρήματος](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/1/6.md) |
-| **[Η Ιστορία του Χρήματος](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/el/2)** | 2.0 | [Εισαγωγή](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/2/0.md) |
-|  | 2.1 | [Από την ανταλλαγή αγαθών στο σύγχρονο νόμισμα](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/2/1.md) |
-|  | 2.2 | [Ψηφιακό νόμισμα](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/2/2.md) |
-| **[Τι είναι το χρήμα fiat;](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/el/3-fiat)** | 3.0 | [Εισαγωγή](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/3-fiat/0.md) |
-|  | 3.1 | [Σύντομη Ιστορία του Χαρτονομίσματος Fiat](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/3-fiat/1-fiat.md) |
-|  | 3.2 | [Το σύστημα Fiat](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/3-fiat/2-fiat.md) |
-|  | 3.3 | [Ψηφιακά Νομίσματα Κεντρικής Τράπεζας](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/3-fiat/3.md) |
-| **[Πώς τα προβλήματα οδηγούν σε λύσεις](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/el/4)** | 4.0 | [Εισαγωγή](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/4/0.md) |
-|  | 4.1 | [Τα χρήματα αγοράζουν λιγότερα](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/4/1.md) |
-|  | 4.2 | [Το Παγκόσμιο Χρέος και η Κοινωνική Ανισότητα](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/4/2.md) |
-|  | 4.3 | [Η αναζήτηση για ένα αποκεντρωμένο νόμισμα](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/4/3.md) |
-| **[Τι είναι το Bitcoin;](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/el/5-bitcoin)** | 5.0 | [Η Δημιουργία του Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/5-bitcoin/0-bitcoin.md) |
-|  | 5.1 | [Πώς λειτουργεί το Bitcoin;](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/5-bitcoin/1-bitcoin.md) |
-|  | 5.2 | [Το Bitcoin ως υγιές ψηφιακό χρήμα](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/5-bitcoin/2-bitcoin.md) |
-| **[Πώς να χρησιμοποιήσετε το Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/el/6-bitcoin)** | 6.0 | [Εισαγωγή](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/6-bitcoin/0.md) |
-|  | 6.1 | [Απόκτηση Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/6-bitcoin/1-bitcoin.md) |
-|  | 6.2 | [Εισαγωγή στα Πορτοφόλια](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/6-bitcoin/2.md) |
-|  | 6.3 | [Ρύθμιση ενός κινητού πορτοφολιού](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/6-bitcoin/3.md) |
-|  | 6.4 | [Λήψη και αποστολή συναλλαγών](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/6-bitcoin/4.md) |
-|  | 6.5 | [Μην Εμπιστεύεσαι, Επαλήθευσε](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/6-bitcoin/5.md) |
-| **[Χρήση του Bitcoin στην καθημερινή ζωή](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/el/7-bitcoin)** | 7.0 | [Εισαγωγή](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/7-bitcoin/0.md) |
-|  | 7.1 | [Το Lightning Network](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/7-bitcoin/1-lightning-network.md) |
-|  | 7.2 | [Τύποι Lightning Πορτοφολιών](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/7-bitcoin/2-lightning.md) |
-|  | 7.3 | [Ρύθμιση ενός πορτοφολιού Bitcoin Lightning](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/7-bitcoin/3-bitcoin-lightning.md) |
-|  | 7.4 | [Αποστολή και λήψη συναλλαγών Lightning](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/7-bitcoin/4-lightning.md) |
-|  | 7.5 | [Αγορά καφέ και ειδών παντοπωλείου με Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/7-bitcoin/5-bitcoin.md) |
-| **[Πώς λειτουργεί το Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/el/8-bitcoin)** | 8.0 | [Εισαγωγή](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/8-bitcoin/0.md) |
-|  | 8.1 | [Ασφάλεια μέσω Κρυπτογραφίας](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/8-bitcoin/1.md) |
-|  | 8.2 | [Το μοντέλο UTXO](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/8-bitcoin/2-utxo.md) |
-| **[Πώς λειτουργεί η εξόρυξη Bitcoin;](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/el/9-bitcoin)** | 9.0 | [Εισαγωγή](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/9-bitcoin/0.md) |
-|  | 9.1 | [Κόμβοι και εξορύκτες Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/9-bitcoin/1-bitcoin.md) |
-|  | 9.2 | [Τι είναι το Mempool;](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/9-bitcoin/2-mempool.md) |
-|  | 9.3 | [Πώς λειτουργούν οι συναλλαγές](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/9-bitcoin/3.md) |
-| **[Τι μέλλον μπορεί να χτίσει το Bitcoin;](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/el/10-bitcoin)** | 10.0 | [Εισαγωγή](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/10-bitcoin/0.md) |
-|  | 10.1 | [Τι είναι τα Ψηφιακά Νομίσματα Κεντρικής Τράπεζας (CBDCs);  Τα Ψηφιακά Νομίσματα Κεντρικής Τράπεζας (CBDCs) είναι ψηφιακές μορφές χρήματος που εκδίδονται και ελέγχονται από την κεντρική τράπεζα μιας χώρας. Σε αντίθεση με τα κρυπτονομίσματα όπως το Bitcoin, τα CBDCs είναι κεντρικά διαχειριζόμενα και αντιπροσωπεύουν το επίσημο νόμισμα της χώρας σε ψηφιακή μορφή. Στόχος τους είναι να προσφέρουν έναν πιο αποτελεσματικό, ασφαλή και σύγχρονο τρόπο πληρωμών, διατηρώντας παράλληλα τον έλεγχο του νομισματικού συστήματος από την κεντρική τράπεζα.](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/10-bitcoin/1-cbdcs-cbdcs-bitcoin-cbdcs.md) |
-|  | 10.2 | [Η φιλοσοφία του Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/10-bitcoin/2-bitcoin.md) |
-|  | 10.3 | [Τα οφέλη του Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/10-bitcoin/3-bitcoin.md) |
-|  | 10.4 | [Ένα ενδυναμωμένο μέλλον](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/10-bitcoin/4.md) |
-|  |  | [Μελέτες περιπτώσεων από τον πραγματικό κόσμο](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/11-back-matter/1.md) |
-|  |  | [Πρόσθετοι Πόροι](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/11-back-matter/2.md) |
-|  |  | [Βασικές Έννοιες](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/11-back-matter/3.md) |
-|  |  | [Γλωσσάριο](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/11-back-matter/4.md) |
+|  |  | [Καλώς ήρθατε στο Δίπλωμα Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/0-front-matter/bitcoin.md) |
+|  |  | [Πώς λειτουργεί το Δίπλωμα Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/0-front-matter/bitcoin-2.md) |
+| **[Κατανοώντας το χρήμα](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/el/1)** | 1.1 | [Εισαγωγικές ερωτήσεις για το χρήμα](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/1/1.md) |
+|  | 1.2 | [Γιατί υπάρχει το χρήμα](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/1/2.md) |
+|  | 1.3 | [Λειτουργίες και ιδιότητες του χρήματος](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/1/3.md) |
+|  | 1.4 | [Ο αντιπραγματισμός και η διπλή σύμπτωση των αναγκών](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/1/4.md) |
+|  | 1.5 | [Σπανιότητα, αξία και ανταλλαγή](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/1/5.md) |
+|  | 1.6 | [Εισαγωγή στη νομισματική ιστορία από τον αντιπραγματισμό στο ψηφιακό χρήμα](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/1/6.md) |
+|  | 1.7 | [Παραστατικό χρήμα](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/1/7.md) |
+|  | 1.8 | [Τραπεζικό σύστημα κλασματικών αποθεματικών](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/1/8.md) |
+|  | 1.9 | [Πληθωρισμός και αγοραστική δύναμη](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/1/9.md) |
+|  | 1.10 | [Γιατί το δολάριο ΗΠΑ είναι παγκόσμιο αποθεματικό νόμισμα;](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/1/10.md) |
+|  | 1.11 | [Εναλλακτικές για αποταμίευση και διατήρηση της αξίας](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/1/11.md) |
+|  | 1.12 | [Ψηφιακά Νομίσματα Κεντρικών Τραπεζών (CBDCs)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/1/12-cbdcs.md) |
+|  | 1.13 | [Ανασκόπηση: Πώς μπορεί να χαλάσει το χρήμα;](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/1/13.md) |
+|  |  | [Κατανοώντας το χρήμα: σύντομος έλεγχος γνώσεων](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/1/_quiz.md) |
+| **[Πώς λειτουργεί το Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/el/2-bitcoin)** | 2.1 | [Γιατί δημιουργήθηκε το Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/2-bitcoin/1-bitcoin.md) |
+|  | 2.2 | [Η αναζήτηση ψηφιακού και αποκεντρωμένου χρήματος](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/2-bitcoin/2.md) |
+|  | 2.3 | [Πρώιμες προσπάθειες δημιουργίας ψηφιακού χρήματος και το πρόβλημα της διπλής δαπάνης](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/2-bitcoin/3.md) |
+|  | 2.4 | [Ψηφιακή σπανιότητα και ανεξάρτητα επαληθεύσιμη προσφορά](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/2-bitcoin/4.md) |
+|  | 2.5 | [Το Blockchain: Το δημόσιο καθολικό του Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/2-bitcoin/5-blockchain-bitcoin.md) |
+|  | 2.6 | [Αποκέντρωση](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/2-bitcoin/6.md) |
+|  | 2.7 | [Ψηφιακές υπογραφές](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/2-bitcoin/7.md) |
+|  | 2.8 | [Μεταφορά από ομότιμο σε ομότιμο](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/2-bitcoin/8.md) |
+|  | 2.9 | [Χρήστες, κόμβοι και εξορύκτες](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/2-bitcoin/9.md) |
+|  | 2.10 | [Απόδειξη εργασίας](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/2-bitcoin/10.md) |
+|  | 2.11 | [Πεπερασμένη προσφορά](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/2-bitcoin/11.md) |
+|  | 2.12 | [Σατόσι και μεροληψία μονάδας](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/2-bitcoin/12.md) |
+|  | 2.13 | [Το Bitcoin ως υγιές ψηφιακό χρήμα](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/2-bitcoin/13-bitcoin.md) |
+|  | 2.14 | [Bitcoin, σταθερά κρυπτονομίσματα και άλλα κρυπτοστοιχεία](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/2-bitcoin/14-bitcoin.md) |
+|  | 2.15 | [Η μάθηση και η υπεύθυνη χρήση δεν συνιστούν συναλλαγές ή προώθηση](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/2-bitcoin/15.md) |
+|  | 2.16 | [Χρονολόγιο της δημιουργίας του Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/2-bitcoin/16-bitcoin.md) |
+|  | 2.17 | [Ενδυνάμωση, κίνδυνος και ευθύνη](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/2-bitcoin/17.md) |
+|  | 2.18 | [Ανασκόπηση: Πώς αντιμετωπίζει το Bitcoin τις αδυναμίες του νομισματικού συστήματος;](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/2-bitcoin/18-bitcoin.md) |
+|  |  | [Πώς λειτουργεί το Bitcoin: σύντομος έλεγχος γνώσεων](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/2-bitcoin/_quiz.md) |
+| **[Ασφαλής χρήση του Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/el/3-bitcoin)** | 3.1 | [Ασφαλής χρήση του Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/3-bitcoin/1-bitcoin.md) |
+|  | 3.2 | [Πορτοφόλια](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/3-bitcoin/2.md) |
+|  | 3.3 | [Διευθύνσεις](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/3-bitcoin/3.md) |
+|  | 3.4 | [Κλειδιά](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/3-bitcoin/4.md) |
+|  | 3.5 | [Φράσεις ανάκτησης](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/3-bitcoin/5.md) |
+|  | 3.6 | [Χρήση με και χωρίς θεματοφυλακή](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/3-bitcoin/6.md) |
+|  | 3.7 | [Θερμά και ψυχρά πορτοφόλια](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/3-bitcoin/7.md) |
+|  | 3.8 | [Ανάκτηση πορτοφολιού και έλεγχος φράσης ανάκτησης](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/3-bitcoin/8.md) |
+|  | 3.9 | [Λήψη bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/3-bitcoin/9-bitcoin.md) |
+|  | 3.10 | [Αποστολή bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/3-bitcoin/10-bitcoin.md) |
+|  | 3.11 | [Επαλήθευση, εξερευνητές μπλοκ και μη αναστρέψιμες συναλλαγές](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/3-bitcoin/11.md) |
+|  | 3.12 | [Λίστα ελέγχου ασφαλείας](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/3-bitcoin/12.md) |
+|  | 3.13 | [Απόκτηση και ανταλλαγή bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/3-bitcoin/13-bitcoin.md) |
+|  | 3.14 | [Πληρωμές εντός αλυσίδας και μέσω Lightning](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/3-bitcoin/14-lightning.md) |
+|  | 3.15 | [Έλεγχος πρακτικών δεξιοτήτων υπό την επίβλεψη εκπαιδευτικού](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/3-bitcoin/15.md) |
+|  | 3.16 | [Επανάληψη: Τι σημαίνει η ευθύνη της αυτοθεματοφυλακής;](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/3-bitcoin/16.md) |
+|  |  | [Ασφαλής χρήση του Bitcoin: σύντομος έλεγχος γνώσεων](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/3-bitcoin/_quiz.md) |
+| **[Το Bitcoin στην κοινότητά σας](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/el/4-bitcoin)** | 4.1 | [Το Bitcoin στην κοινότητά σας](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/4-bitcoin/1-bitcoin.md) |
+|  | 4.2 | [Η τοπική σας Ενότητα 4](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/4-bitcoin/2-4.md) |
+|  | 4.3 | [Πρακτικά εργαστήρια και επιδείξεις](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/4-bitcoin/3.md) |
+|  | 4.4 | [Τοπικά εργαλεία και πόροι για το Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/4-bitcoin/4-bitcoin.md) |
+|  | 4.5 | [Πληρωμές μέσω Lightning](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/4-bitcoin/5-lightning.md) |
+|  | 4.6 | [Χρήση του Bitcoin στην καθημερινή ζωή](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/4-bitcoin/6-bitcoin.md) |
+|  | 4.7 | [Σενάρια δαπανών και εισπράξεων σε τοπικό επίπεδο](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/4-bitcoin/7.md) |
+|  | 4.8 | [Τοπικοί δίαυλοι εισόδου και εξόδου](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/4-bitcoin/8.md) |
+|  | 4.9 | [Πλεονεκτήματα και μειονεκτήματα με και χωρίς KYC](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/4-bitcoin/9-kyc.md) |
+|  | 4.10 | [Κυκλικές οικονομίες](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/4-bitcoin/10.md) |
+|  | 4.11 | [Περιπτώσεις χρήσης για εμπόρους ή κοινότητες](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/4-bitcoin/11.md) |
+|  | 4.12 | [Χάρτες τοπικών πόρων και γνωριμία με την κοινότητα](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/4-bitcoin/12.md) |
+|  | 4.13 | [Ανασκόπηση: Συνδέστε το με την κοινότητά σας](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/4-bitcoin/13.md) |
+|  |  | [Προαιρετικά επόμενα βήματα](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/el/5-back-matter/section-1.md) |
+
+**Quizzes** (`_quiz.md`, one per module): the question, the choices and the
+explanation are text, and corrections are welcome. The ticked box is the answer
+key, shared by every language, so it is not changed from a pull request; nor is
+the number of questions or of choices.
 <!-- mfb:structure:end -->

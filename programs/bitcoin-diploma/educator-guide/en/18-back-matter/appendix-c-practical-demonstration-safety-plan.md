@@ -2,7 +2,7 @@
 
 | Field | Plan |
 | --- | --- |
-| Demonstration purpose and objective |  |
+| Demonstration purpose and competency |  |
 | Tool, version, source, and date checked |  |
 | Network and payment path |  |
 | Custody and recovery model |  |

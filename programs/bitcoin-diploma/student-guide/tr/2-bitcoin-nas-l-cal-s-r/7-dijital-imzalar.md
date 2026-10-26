@@ -1,0 +1,7 @@
+# 2.7 Dijital imzalar
+
+[Dijital imzalar](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature), teknik raporda (whitepaper) açıklanan Bitcoin tasarımının temel parçalarından biridir. Bitcoin'de bir cüzdan, bir [özel anahtar](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) ile bir [dijital imza](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) oluşturur ve bu imza bir [işlemi](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) yetkilendirir. Cüzdan genellikle anahtarları yöneten ve bu imzaları kullanıcı adına oluşturan bir uygulamadır. Harcamayı yalnızca gerekli [özel anahtarın](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) sahibi yetkilendirebilir; ağ ise imzayı, [özel anahtarın](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) kendisini öğrenmeden doğrulayabilir.
+
+Bu, bir kişinin bir bankadan veya başka bir merkezi işletmeciden izin istemeden bitcoin'i kontrol etmesini sağlar. Aynı zamanda [özel anahtarın](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) kontrolünün kritik önem taşıdığı anlamına gelir: onu ele geçiren herkes genellikle bir harcamayı yetkilendirebilir, kaybedilen bir anahtar ise bitcoin'i geri alınamaz hâle getirebilir.
+
+Bu, [öz saklamanın](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) temelidir: anahtarları kontrol etmesi için bir hizmete güvenmek yerine onları kendiniz kontrol etmek. **Modül 3**, anahtarlar, yedeklemeler ve kurtarma ile ilgili pratik güvenlik sorumluluklarını açıklar.

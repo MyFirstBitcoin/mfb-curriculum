@@ -11,55 +11,75 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [قصة دبلومة البيتكوين](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/0-front-matter/1.md) |
-|  |  | [المقدمة](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/0-front-matter/2.md) |
-| **[ما هو المال؟](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/ar/1)** | 1.0 | [مقدمة](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/1/0.md) |
-|  | 1.1 | [مناقشات حول المال](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/1/1.md) |
-|  | 1.2 | [تعريف المال](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/1/2.md) |
-|  | 1.3 | [وظائف النقود](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/1/3.md) |
-|  | 1.4 | [خصائص النقود](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/1/4.md) |
-|  | 1.5 | [أنواع النقود](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/1/5.md) |
-|  | 1.6 | [علم نفس المال](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/1/6.md) |
-| **[تاريخ المال](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/ar/2)** | 2.0 | [مقدمة](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/2/0.md) |
-|  | 2.1 | [من المقايضة إلى العملة الحديثة](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/2/1.md) |
-|  | 2.2 | [العملة الرقمية](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/2/2.md) |
-| **[ما هو المال الورقي؟](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/ar/3)** | 3.0 | [مقدمة](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/3/0.md) |
-|  | 3.1 | [تاريخ موجز للنقود الورقية](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/3/1.md) |
-|  | 3.2 | [النظام النقدي الورقي](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/3/2.md) |
-|  | 3.3 | [العملات الرقمية للبنوك المركزية](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/3/3.md) |
-| **[كيف تؤدي المشكلات إلى حلول](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/ar/4)** | 4.0 | [مقدمة](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/4/0.md) |
-|  | 4.1 | [المال يشتري أقل](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/4/1.md) |
-|  | 4.2 | [عبء الديون العالمي وعدم المساواة الاجتماعية](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/4/2.md) |
-|  | 4.3 | [السعي نحو عملة لامركزية](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/4/3.md) |
-| **[ما هو البيتكوين؟](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/ar/5)** | 5.0 | [إنشاء البيتكوين](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/5/0.md) |
-|  | 5.1 | [كيف يعمل البيتكوين؟](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/5/1.md) |
-|  | 5.2 | [البيتكوين كأموال رقمية قوية](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/5/2.md) |
-| **[كيفية استخدام البيتكوين](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/ar/6)** | 6.0 | [مقدمة](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/6/0.md) |
-|  | 6.1 | [اقتناء البيتكوين](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/6/1.md) |
-|  | 6.2 | [مقدمة في المحافظ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/6/2.md) |
-|  | 6.3 | [إعداد محفظة إلكترونية على الهاتف المحمول](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/6/3.md) |
-|  | 6.4 | [استلام وإرسال المعاملات](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/6/4.md) |
-|  | 6.5 | [لا تثق، تحقق](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/6/5.md) |
-| **[استخدام البيتكوين في الحياة اليومية](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/ar/7)** | 7.0 | [مقدمة](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/7/0.md) |
-|  | 7.1 | [شبكة البرق](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/7/1.md) |
-|  | 7.2 | [أنواع محافظ لايتنينغ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/7/2.md) |
-|  | 7.3 | [إعداد محفظة بيتكوين لايتنينغ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/7/3.md) |
-|  | 7.4 | [إرسال واستقبال معاملات لايتنينغ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/7/4.md) |
-|  | 7.5 | [شراء القهوة والبقالة باستخدام البيتكوين](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/7/5.md) |
-| **[كيف يعمل البيتكوين](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/ar/8)** | 8.0 | [مقدمة](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/8/0.md) |
-|  | 8.1 | [الأمان من خلال التشفير](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/8/1.md) |
-|  | 8.2 | [نموذج UTXO](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/8/2-utxo.md) |
-| **[كيف يعمل تعدين البيتكوين؟](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/ar/9)** | 9.0 | [مقدمة](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/9/0.md) |
-|  | 9.1 | [العُقَد وعمال التعدين في البيتكوين](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/9/1.md) |
-|  | 9.2 | [ما هي الميمبول؟](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/9/2.md) |
-|  | 9.3 | [كيف تعمل المعاملات](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/9/3.md) |
-| **[ما هو المستقبل الذي يمكن أن يبنيه البيتكوين؟](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/ar/10)** | 10.0 | [مقدمة](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/10/0.md) |
-|  | 10.1 | [ما هي العملات الرقمية للبنوك المركزية (CBDCs)؟](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/10/1-cbdcs.md) |
-|  | 10.2 | [فلسفة البيتكوين](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/10/2.md) |
-|  | 10.3 | [فوائد البيتكوين](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/10/3.md) |
-|  | 10.4 | [مستقبل مُمكَّن](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/10/4.md) |
-|  |  | [دراسات حالة من الواقع](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/11-back-matter/1.md) |
-|  |  | [موارد إضافية](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/11-back-matter/2.md) |
-|  |  | [المفاهيم الرئيسية](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/11-back-matter/3.md) |
-|  |  | [مسرد المصطلحات](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/11-back-matter/4.md) |
+|  |  | [مرحبًا بكم في دبلوم بيتكوين](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/0-front-matter/section-1.md) |
+|  |  | [كيف يعمل دبلوم بيتكوين](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/0-front-matter/section-2.md) |
+| **[فهم النقود](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/ar/1)** | 1.1 | [أسئلة تمهيدية حول المال](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/1/1.md) |
+|  | 1.2 | [لماذا يوجد المال](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/1/2.md) |
+|  | 1.3 | [وظائف النقود وخصائصها](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/1/3.md) |
+|  | 1.4 | [المقايضة والتوافق المزدوج للرغبات](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/1/4.md) |
+|  | 1.5 | [الندرة والقيمة والتبادل](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/1/5.md) |
+|  | 1.6 | [تاريخ النقود للمبتدئين: من المقايضة إلى النقود الرقمية](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/1/6.md) |
+|  | 1.7 | [النقود الإلزامية](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/1/7.md) |
+|  | 1.8 | [النظام المصرفي القائم على الاحتياطي الجزئي](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/1/8.md) |
+|  | 1.9 | [التضخم والقوة الشرائية](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/1/9.md) |
+|  | 1.10 | [لماذا يُعدّ الدولار الأمريكي عملة احتياطية عالمية؟](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/1/10.md) |
+|  | 1.11 | [بدائل للادخار وحفظ القيمة](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/1/11.md) |
+|  | 1.12 | [العملات الرقمية للبنوك المركزية (CBDCs)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/1/12-cbdcs.md) |
+|  | 1.13 | [مراجعة: كيف يمكن أن يختلّ عمل النقود؟](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/1/13.md) |
+|  |  | [فهم النقود: اختبار سريع](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/1/_quiz.md) |
+| **[كيف تعمل بيتكوين](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/ar/2)** | 2.1 | [لماذا أُنشئت بيتكوين](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/2/1.md) |
+|  | 2.2 | [البحث عن نقود رقمية لامركزية](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/2/2.md) |
+|  | 2.3 | [المحاولات المبكرة للنقود الرقمية ومشكلة الإنفاق المزدوج](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/2/3.md) |
+|  | 2.4 | [الندرة الرقمية والمعروض القابل للتحقق منه بشكل مستقل](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/2/4.md) |
+|  | 2.5 | [سلسلة الكتل: سجل بيتكوين العام](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/2/5.md) |
+|  | 2.6 | [اللامركزية](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/2/6.md) |
+|  | 2.7 | [التوقيعات الرقمية](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/2/7.md) |
+|  | 2.8 | [التحويل من نظير إلى نظير](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/2/8.md) |
+|  | 2.9 | [المستخدمون والعُقَد والمُعدِّنون](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/2/9.md) |
+|  | 2.10 | [إثبات العمل](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/2/10.md) |
+|  | 2.11 | [المعروض المحدود](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/2/11.md) |
+|  | 2.12 | [الساتوشي والتحيز للوحدة](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/2/12.md) |
+|  | 2.13 | [بيتكوين بوصفها نقودًا رقمية سليمة](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/2/13.md) |
+|  | 2.14 | [بيتكوين والعملات المستقرة والأصول المشفرة الأخرى](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/2/14.md) |
+|  | 2.15 | [التعلّم والاستخدام المسؤول ليسا تداولًا أو ترويجًا](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/2/15.md) |
+|  | 2.16 | [الخط الزمني لنشأة بيتكوين](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/2/16.md) |
+|  | 2.17 | [التمكين والمخاطر والمسؤولية](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/2/17.md) |
+|  | 2.18 | [مراجعة: كيف تعالج بيتكوين عيوب النظام النقدي؟](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/2/18.md) |
+|  |  | [كيف تعمل بيتكوين: اختبار سريع](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/2/_quiz.md) |
+| **[استخدام بيتكوين بأمان](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/ar/3)** | 3.1 | [استخدام بيتكوين بأمان](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/3/1.md) |
+|  | 3.2 | [المحافظ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/3/2.md) |
+|  | 3.3 | [العناوين](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/3/3.md) |
+|  | 3.4 | [المفاتيح](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/3/4.md) |
+|  | 3.5 | [عبارات الاسترداد](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/3/5.md) |
+|  | 3.6 | [الاستخدام الوصائي وغير الوصائي](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/3/6.md) |
+|  | 3.7 | [المحافظ الساخنة والباردة](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/3/7.md) |
+|  | 3.8 | [استعادة المحفظة واختبار عبارة الاسترداد](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/3/8.md) |
+|  | 3.9 | [استلام بيتكوين](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/3/9.md) |
+|  | 3.10 | [إرسال بيتكوين](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/3/10.md) |
+|  | 3.11 | [التحقق، ومستكشفات الكتل، والمعاملات غير القابلة للعكس](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/3/11.md) |
+|  | 3.12 | [قائمة التحقق من الأمان](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/3/12.md) |
+|  | 3.13 | [اقتناء بيتكوين وتبادلها](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/3/13.md) |
+|  | 3.14 | [المدفوعات على السلسلة وعبر شبكة لايتنينغ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/3/14.md) |
+|  | 3.15 | [تقييم عملي للكفاءة تحت إشراف أحد المعلّمين](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/3/15.md) |
+|  | 3.16 | [مراجعة: ماذا تعني مسؤولية الحفظ الذاتي؟](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/3/16.md) |
+|  |  | [استخدام بيتكوين بأمان: اختبار سريع](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/3/_quiz.md) |
+| **[بيتكوين في مجتمعكم](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/ar/4)** | 4.1 | [بيتكوين في مجتمعكم](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/4/1.md) |
+|  | 4.2 | [وحدتكم المحلية 4](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/4/2-4.md) |
+|  | 4.3 | [ورش عمل وعروض توضيحية عملية](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/4/3.md) |
+|  | 4.4 | [أدوات وموارد بيتكوين المحلية](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/4/4.md) |
+|  | 4.5 | [مدفوعات شبكة لايتنينغ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/4/5.md) |
+|  | 4.6 | [استخدام بيتكوين في الحياة اليومية](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/4/6.md) |
+|  | 4.7 | [سيناريوهات الإنفاق وتلقي المدفوعات محليًا](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/4/7.md) |
+|  | 4.8 | [المسارات المحلية للتحويل من العملات التقليدية إلى بيتكوين وبالعكس](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/4/8.md) |
+|  | 4.9 | [المفاضلات بين تطبيق متطلبات معرفة العميل وعدم تطبيقها](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/4/9.md) |
+|  | 4.10 | [الاقتصادات الدائرية](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/4/10.md) |
+|  | 4.11 | [حالات الاستخدام لدى التجار أو في المجتمع](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/4/11.md) |
+|  | 4.12 | [خرائط الموارد المحلية واستكشاف المجتمع المحلي](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/4/12.md) |
+|  | 4.13 | [مراجعة: اربطوا هذا بمجتمعكم](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/4/13.md) |
+|  |  | [الخطوات التالية الاختيارية](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/5-back-matter/section-1.md) |
+
+**Quizzes** (`_quiz.md`, one per module): the question, the choices and the
+explanation are text, and corrections are welcome. The ticked box is the answer
+key, shared by every language, so it is not changed from a pull request; nor is
+the number of questions or of choices.
 <!-- mfb:structure:end -->

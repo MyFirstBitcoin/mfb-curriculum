@@ -1,0 +1,7 @@
+# Co pozostaje niezmienne — a co wnoszą Państwo
+
+**Proszę zachować bez zmian:** kolejność czterech modułów; podstawowe cele; skupienie wyłącznie na Bitcoinie; granice bezpieczeństwa; dwuczęściową ocenę; oraz minimalne wymagania ukończenia kursu.
+
+**Proszę rozważnie dostosowywać:** przykłady, język, ćwiczenia, tempo, podział na grupy, wsparcie w zakresie dostępności, lokalne narzędzia oraz **modułu 4** scenariusze. Proszę przedstawiać oprogramowanie portfeli o otwartym kodzie źródłowym jako preferowane pod pewnymi warunkami, ponieważ możliwość sprawdzenia kodu może zwiększać przejrzystość, a jednocześnie pomagać osobom uczącym się porównywać sposoby przechowywania środków, odzyskiwanie dostępu, kompatybilność, prywatność, utrzymanie oprogramowania, koszty i wsparcie. Proszę traktować wymienione z nazwy portfele, giełdy, sprzedawców, mapy i usługi jako lokalne przykłady aktualne w określonym czasie — nie jako ogólnoświatowe rekomendacje. Proszę weryfikować aktualne twierdzenia i lokalne przepisy w miarodajnych źródłach; w razie niewiedzy proszę otwarcie to przyznać i sprawdzić.
+
+Proszę uczyć osoby uczestniczące w kursie **jak myśleć, a nie co myśleć**. Proszę zachęcać do wyrażania odmiennych opinii z szacunkiem. Aby spełnić wymagania, osoba ucząca się nie musi zgadzać się z danym twierdzeniem; musi natomiast rozumować, wyjaśniać istotne kompromisy i bezpiecznie demonstrować wymagane umiejętności.

@@ -1,0 +1,5 @@
+# Overtag stafetten
+
+Denne omarbejdning giver undervisere mere struktur, hvor ensartethed er vigtig, og mere spillerum, hvor lokal viden er vigtig. Deres omhyggelige facilitering forvandler Bitcoin-diplomet fra en bog til en fælles læringsoplevelse: en oplevelse, der hjælper folk med at tænke klart om penge, Bitcoin, ansvar og deres eget lokalsamfund.
+
+Hvis De ønsker at lære mere ud over Bitcoin-diplomet, kan De udforske [uddannelsesprogrammet for undervisere](https://etp.myfirstbitcoin.org/) eller knytte kontakter gennem [Bitcoin-uddannelsesnetværket](https://leaderboard.myfirstbitcoin.org). De kan også [dele feedback](https://forms.myfirstbitcoin.org/feedback), [indsende rettelser eller oversættelsesforbedringer](https://forms.myfirstbitcoin.org/proofread), dele lokale læringsressourcer via den [officielle bidragsformular](https://forms.myfirstbitcoin.org/), eller bruge det open source-baserede [læseplansarkiv](https://github.com/MyFirstBitcoin/mfb-curriculum) til at se de aktuelle udgaver og deltage i at forbedre materialet. Det er ikke nødvendigt at bruge nogen af disse links for at gennemføre Bitcoin-diplomet.

@@ -1,0 +1,5 @@
+# Kubeba Jukumu
+
+Muundo huu mpya unawapa waelimishaji mpangilio zaidi pale ambapo uthabiti ni muhimu, na nafasi zaidi pale ambapo hekima ya wenyeji ni muhimu. Uwezeshaji wenu makini hugeuza Bitcoin Diploma kutoka kuwa kitabu hadi kuwa uzoefu wa kujifunza kwa pamoja: unaowasaidia watu kufikiri kwa uwazi kuhusu pesa, Bitcoin, uwajibikaji, na jamii yao wenyewe.
+
+Kwa mafunzo ya ziada ya hiari zaidi ya Bitcoin Diploma, chunguzeni [Programu ya Mafunzo kwa Waelimishaji](https://etp.myfirstbitcoin.org/) au jiungeni kupitia [Mtandao wa Elimu ya Bitcoin](https://leaderboard.myfirstbitcoin.org). Mnaweza pia [kutoa maoni](https://forms.myfirstbitcoin.org/feedback), [kuwasilisha masahihisho au maboresho ya tafsiri](https://forms.myfirstbitcoin.org/proofread), kushiriki rasilimali za kujifunzia za wenyeji kupitia [fomu rasmi ya michango](https://forms.myfirstbitcoin.org/), au kutumia [hazina ya mtaala](https://github.com/MyFirstBitcoin/mfb-curriculum) ya chanzo huria ili kuangalia matoleo ya sasa na kushiriki katika kuboresha kazi hii. Hakuna kiungo chochote kati ya hivi kinachohitajika ili kukamilisha Bitcoin Diploma.

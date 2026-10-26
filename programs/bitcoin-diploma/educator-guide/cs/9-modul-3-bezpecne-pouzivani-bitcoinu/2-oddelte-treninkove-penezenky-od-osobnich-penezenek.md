@@ -1,0 +1,14 @@
+# 9.2 Oddělte tréninkové peněženky od osobních peněženek
+
+Program Bitcoin Diploma slouží k učení a procvičování. Může zahrnovat vytvoření peněženky, práci s předem připravenými slovy pro obnovu nebo simulovaný postup přijetí platby či obnovy peněženky. Během výuky však může někdo neúmyslně zahlédnout, zkopírovat, sdílet nebo kompromitovat obrazovku, zařízení, frázi pro obnovu či údaje o peněžence. Standardně se používají cvičné peněženky; nejde o osobní peněženky určené k zabezpečení nezanedbatelných finančních prostředků.
+
+Důsledně dodržujte toto rozlišení:
+
+* Taková **cvičná peněženka** je obvykle prázdná, simulovaná nebo funguje v testovacím prostředí. Slouží k osvojení postupu, je jasně označená a nepoužívá se k zabezpečení nezanedbatelných finančních prostředků. Nedopusťte, aby její údaje pro obnovu později chránily nezanedbatelné finanční prostředky.
+* Taková **osobní peněženka** se vytváří pro studujícího, který se samostatně rozhodne po absolvování programu Bitcoin Diploma přijímat nebo držet nezanedbatelné finanční prostředky. K tomu je zapotřebí nová peněženka, nové údaje pro obnovu, nastavení v soukromí a větší důraz na soukromí a bezpečnost.
+
+Naplánujte vyřazení cvičných peněženek nejpozději do konce programu Bitcoin Diploma všude, kde je to proveditelné: vymažte nebo resetujte dočasně používané zařízení, vraťte sdílené vybavení a zničte nebo bezpečně vraťte předem připravené materiály pro obnovu. Nikdy si neponechávejte materiály, které by později mohly umožnit přístup k finančním prostředkům studujícího.
+
+Vyučující může zvolit aktivitu se skutečnými prostředky v malé výši, pokud je to vhodné vzhledem k místním podmínkám a studujícím. Před jejím zahájením vysvětlete rozdíl oproti cvičné peněžence: o skutečné prostředky lze přijít, peněženka se skutečnými prostředky a historie transakcí mohou odhalit osobní údaje a s údaji pro obnovu je třeba zacházet s větším důrazem na soukromí. Vysvětlete konkrétní postup, částku a podmínky pro zastavení aktivity; zajistěte dobrovolnou účast a nabídněte rovnocennou variantu bez finančních prostředků, která zachová stejný vzdělávací výsledek.
+
+Vyučující se může rozhodnout nabídnout nepovinnou podporu studujícímu, který si chce vytvořit osobní peněženku pro používání po absolvování programu Bitcoin Diploma. Oddělte tuto podporu od procvičování ve výuce a certifikace: musí být dobrovolná, nesmí být podmínkou úspěšného absolvování a musí začínat novou peněženkou a novými údaji pro obnovu. Umožněte studujícímu, aby měl své zařízení a tajné údaje pod vlastní kontrolou v soukromí. Nenahlížejte do osobní fráze pro obnovu, soukromého klíče, hesla, zůstatku ani historie peněženky, neshromažďujte je, nekopírujte, nefotografujte, neposílejte ve zprávách, neukládejte ani si je neponechávejte. Pokud nelze zajistit nastavení v soukromí nebo vyučující nedokáže postup bezpečně vysvětlit, činnost přerušte nebo studujícího odkažte na vhodnou místní podporu.

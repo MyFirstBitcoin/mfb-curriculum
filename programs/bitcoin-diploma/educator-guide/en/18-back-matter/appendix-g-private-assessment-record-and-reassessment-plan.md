@@ -1,27 +1,3 @@
-# Appendix G: private assessment record and reassessment plan
+# Continue learning
 
-Use one row for each formal result. Keep records private and store only the minimum approved information. Never record a seed phrase, private key, password, unnecessary address, balance, personal transaction history, or a subjective opinion about the learner.
-
-
-| Field | Record |
-| --- | --- |
-| Course edition, date, and cohort |  |
-| Learner identifier |  |
-| Educator or approved assessor |  |
-| Objective ID |  |
-| Assessment component | Theoretical understanding / practical competency |
-| Task and approved variant |  |
-| Individual evidence observed |  |
-| Permitted support used |  |
-| Safety-critical issue, if any |  |
-| Result | Meets standard / Not yet |
-| Focused feedback |  |
-| Practice or reassessment plan |  |
-| Reassessment date and result |  |
-| Assessor initials |  |
-
-
-At course close, confirm privately that every required objective in the approved blueprint has a recorded result in its assigned component. Do not issue a certificate until both component statuses are complete.
-
-
----
+Explore the [Bitcoin Diploma AI assistant](https://ai.myfirstbitcoin.org) for optional help reviewing concepts or developing explanations for a lesson. Check its responses against the course materials before using them with learners. Educators remain responsible for teaching and assessment; never enter learner records, seed phrases, or private keys.

@@ -1,4 +1,4 @@
-# 9.5 Recommended delivery sequence
+# 9.6 Recommended delivery sequence
 
 When possible, use two learning parts and a separate assessment window.
 

@@ -1,0 +1,13 @@
+# 7.3 Chuẩn bị trước giờ học
+
+* Đọc các phần của **Mô-đun 1** trong Hướng dẫn dành cho học viên và xác định những định nghĩa cần được hỗ trợ bằng ngôn ngữ địa phương.
+* Chuẩn bị năm câu hỏi mở đầu để thảo luận với nhóm học viên.
+* Chọn một hoạt động về các thuộc tính của tiền và một hoạt động về tiền hiện đại; tham khảo [Thư viện hoạt động](https://curriculum.myfirstbitcoin.org/activities/en/) để tìm các phương án có thể điều chỉnh cho phù hợp.
+* Chuẩn bị các ví dụ quen thuộc tại địa phương về [phương tiện trao đổi](https://curriculum.myfirstbitcoin.org/lexicon/en/#medium-of-exchange), [đơn vị tính toán](https://curriculum.myfirstbitcoin.org/lexicon/en/#unit-of-account), và [phương tiện lưu trữ giá trị](https://curriculum.myfirstbitcoin.org/lexicon/en/#store-of-value).
+* Chỉ sử dụng các ví dụ địa phương để minh họa những khái niệm chung, trung lập; kiểm chứng những thông tin thực tế tại địa phương có thể thay đổi, tránh đưa ra khuyến nghị và duy trì cùng một tiêu chuẩn về năng lực và minh chứng.
+* Rà soát các [loại tiền tệ](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) và phương thức thanh toán mà học viên gặp tại địa phương.
+* Sẵn sàng hướng dẫn hoạt động tình huống về hệ thống tiền pháp định tại địa phương. Xác định ngân hàng trung ương, các ngân hàng thương mại, các nhà cung cấp dịch vụ thanh toán có liên quan, vai trò của chính phủ và các cơ chế quyết toán.
+* Kiểm chứng các quy định ngân hàng hiện hành tại địa phương có liên quan đến nội dung thảo luận, bao gồm các cơ chế dự trữ hoặc [thanh khoản](https://curriculum.myfirstbitcoin.org/lexicon/en/#liquidity), [vốn](https://curriculum.myfirstbitcoin.org/lexicon/en/#capital) cùng các yêu cầu giám sát, bảo vệ tiền gửi, quy định rút tiền, quy định tiếp cận tài khoản và bảo vệ người tiêu dùng. Chỉ giải thích những gì quý vị đã kiểm chứng và không đưa ra lời khuyên pháp lý hoặc tài chính.
+* Tìm thước đo chính thức về [lạm phát](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation), ngày công bố hiện tại, mô tả rổ hàng hóa và phương pháp tính. Chuẩn bị một mặt hàng tại địa phương kèm phần so sánh [giá](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) có ghi rõ thời điểm.
+* Kiểm tra xem tại địa phương có [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) đang tồn tại, đang được đề xuất hay chỉ là giả định. Không giảng dạy một đặc điểm chung của [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) như thể đó là một thực tế đã được xác nhận tại địa phương.
+* Chuẩn bị sơ đồ vai trò không cần kết nối mạng, bản phác thảo bảng cân đối kế toán, ví dụ về rổ hàng hóa dùng để theo dõi giá và phương án hoạt động dự phòng.

@@ -1,0 +1,5 @@
+# 3.15 Praktisk kompetencetest under observation af en underviser
+
+Inden vurderingen får De mulighed for at øve Dem med støtte og bliver gjort bekendt med opgaven og de sikkerhedsmæssige rammer. Deres underviser – ikke fremmøde eller egenrapportering – vil observere Dem, mens De bruger et godkendt miljø, der er klargjort, simuleret eller indebærer lav risiko.
+
+De skal vise, at De kan åbne eller navigere i den klargjorte wallet, gennemføre en godkendt procedure for første adgang, finde og kontrollere modtagelsesoplysninger og modtage bitcoin eller simulere modtagelsen på en sikker måde. De skal også gennemføre eller på sikker vis simulere et modtagelses- eller afsendelsesforløb og med klargjorte materialer vise, at De er klar til at foretage en gendannelse, samtidig med at De holder alle hemmelige oplysninger private. De kan øve Dem i at reagere sikkert på en uoverensstemmelse eller svindel gennem vejledte scenarier. Hvis De endnu ikke er klar, bør De få feedback, mere øvelse og endnu en mulighed for at demonstrere færdigheden.

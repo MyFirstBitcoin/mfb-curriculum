@@ -1,0 +1,14 @@
+# 9.2 Separe as carteiras de treinamento das carteiras pessoais
+
+O Bitcoin Diploma é voltado para aprendizagem e prática. Ele pode envolver a criação de uma carteira, o manuseio de palavras de recuperação preparadas ou a realização de um processo simulado de recebimento ou de recuperação. Em sala de aula, porém, uma tela, um dispositivo, uma frase de recuperação ou um dado da carteira pode ser visto, copiado, compartilhado ou comprometido acidentalmente. As carteiras de treinamento são o padrão; elas não são carteiras pessoais para proteger fundos significativos.
+
+Aplique esta distinção de forma consistente:
+
+* Uma **carteira de treinamento** normalmente está vazia, é simulada ou fica em um ambiente de teste. Ela é usada para aprender um processo, é claramente identificada e não é usada para proteger fundos significativos. Não permita que suas informações de recuperação venham a proteger fundos significativos depois.
+* Uma **carteira pessoal** é criada para um aluno que decide, por conta própria, receber ou guardar fundos significativos após o Bitcoin Diploma. Ela exige uma nova carteira, novas informações de recuperação, uma configuração feita em privado e atenção mais cuidadosa à privacidade e à segurança.
+
+Planeje desativar as carteiras de treinamento até o final do Bitcoin Diploma sempre que possível: apague ou redefina o dispositivo temporário, devolva os equipamentos compartilhados e destrua ou devolva com segurança os materiais de recuperação preparados. Nunca guarde materiais que possam, no futuro, dar acesso aos fundos de um aluno.
+
+Um educador pode escolher uma atividade real de baixo risco quando ela for adequada ao contexto local e aos alunos. Antes de começar, explique a diferença em relação a uma carteira de treinamento: fundos reais podem ser perdidos, uma carteira real e seu histórico de transações podem revelar informações pessoais, e as informações de recuperação exigem um manuseio privado mais rigoroso. Explique o percurso específico, o valor e as condições de interrupção; torne a participação voluntária; e ofereça uma alternativa equivalente sem fundos que preserve o resultado de aprendizagem.
+
+Um educador pode optar por oferecer apoio opcional a um aluno que queira criar uma carteira pessoal para usar após o Bitcoin Diploma. Mantenha isso separado da prática em sala e da certificação: deve ser voluntário, não pode ser exigido para a aprovação e deve começar com uma nova carteira e novas informações de recuperação. Deixe o aluno ter controle privado sobre seu dispositivo e suas informações secretas. Não observe, colete, copie, fotografe, envie por mensagem, armazene nem guarde uma frase de recuperação pessoal, chave privada, senha, saldo ou histórico da carteira. Interrompa o processo ou encaminhe o aluno a um apoio local adequado se não for possível manter a configuração em privado ou se o educador não conseguir explicar o processo com segurança.

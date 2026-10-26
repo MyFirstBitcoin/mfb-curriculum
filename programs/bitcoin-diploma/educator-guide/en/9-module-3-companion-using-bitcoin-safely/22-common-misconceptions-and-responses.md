@@ -1,4 +1,4 @@
-# 9.22 Common misconceptions and responses
+# 9.23 Common misconceptions and responses
 
 | Misconception | Beginner-safe correction | Check question |
 | --- | --- | --- |

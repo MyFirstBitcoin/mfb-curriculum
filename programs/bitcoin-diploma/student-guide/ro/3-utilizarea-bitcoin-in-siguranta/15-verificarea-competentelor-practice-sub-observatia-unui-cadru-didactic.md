@@ -1,0 +1,5 @@
+# 3.15 Verificarea competențelor practice sub observația unui cadru didactic
+
+Înainte de evaluare, veți exersa cu sprijin și veți cunoaște sarcina și limitele de siguranță. Cadrul didactic vă va observa în timp ce utilizați un mediu aprobat, pregătit în prealabil, simulat sau cu riscuri reduse — evaluarea nu se va baza pe prezență sau pe propria declarație.
+
+Veți demonstra că puteți deschide sau utiliza Portofelul pregătit, parcurge o procedură aprobată de acces inițial, găsi și verifica informațiile de primire și primi bitcoin sau simula primirea în siguranță. De asemenea, veți parcurge sau simula în siguranță un flux de primire sau de trimitere și veți demonstra că sunteți pregătit(ă) pentru recuperare folosind materiale pregătite în prealabil, păstrând confidențialitatea tuturor informațiilor secrete. Puteți exersa reacții sigure la o neconcordanță sau la o înșelătorie prin scenarii ghidate. Dacă nu sunteți încă pregătit(ă), ar trebui să primiți feedback, mai multe ocazii de a exersa și o nouă oportunitate de a demonstra această abilitate.

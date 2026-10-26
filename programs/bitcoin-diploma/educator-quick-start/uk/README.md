@@ -1,0 +1,21 @@
+# Bitcoin Diploma
+
+The uk edition of My First Bitcoin's **Bitcoin Diploma** program.
+
+This file is generated from the Sanity content by `mfb curriculum push`.
+Text outside the generated block below is preserved — feel free to add an
+introduction, learning objectives, or notes for educators.
+
+<!-- mfb:structure:start -->
+## 📚 Curriculum structure
+
+| Module | Number | Section |
+|--------|--------|---------|
+|  |  | [Почніть тут](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/educator-quick-start/uk/section-1.md) |
+|  |  | [Навчальний шлях](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/educator-quick-start/uk/section-2.md) |
+|  |  | [Що залишається незмінним — і що додаєте ви](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/educator-quick-start/uk/section-3.md) |
+|  |  | [Створіть безпечне навчальне середовище, що заохочує активну участь](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/educator-quick-start/uk/section-4.md) |
+|  |  | [Справедливо оцінюйте результати навчання](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/educator-quick-start/uk/section-5.md) |
+|  |  | [Контрольний список для вашого першого курсу](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/educator-quick-start/uk/section-6.md) |
+|  |  | [Візьміть на себе відповідальність](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/educator-quick-start/uk/section-7.md) |
+<!-- mfb:structure:end -->

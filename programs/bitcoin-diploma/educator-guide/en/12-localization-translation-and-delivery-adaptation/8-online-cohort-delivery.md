@@ -6,4 +6,4 @@
 * Do not ask learners to screen-share a real wallet, balance, address history, or recovery process.
 * Use prepared interfaces for teaching.
 * Conduct formal remote practical assessment only under approved direct-observation and privacy conditions.
-* Have a phone or low-bandwidth fallback that preserves the objective.
+* Have a phone or low-bandwidth fallback that preserves the competency.

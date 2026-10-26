@@ -1,6 +1,6 @@
-# 9.19 On-chain and Lightning payments
+# 9.20 On-chain and Lightning payments
 
-Use a comparison that separates payment path from custody.
+Use a comparison that separates payment path from [custody](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody).
 
 
 | Question | On-chain | Lightning |
@@ -14,4 +14,7 @@ Use a comparison that separates payment path from custody.
 | Main beginner check | Correct address, network, amount, fee, and confirmation | Correct invoice or destination, amount, expiry, fee, and payment result |
 
 
-Lightning is not a separate coin. A successful Lightning payment does not prove the wallet is safe for a larger balance. Channel operation, routing infrastructure, and liquidity management belong outside Core unless selected as Advanced learning.
+Lightning is not a separate coin. A successful Lightning payment does not prove the wallet is safe for a larger balance. Channel operation, routing infrastructure, and [liquidity](https://curriculum.myfirstbitcoin.org/lexicon/en/#lightning-liquidity) management are [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) outside the Bitcoin Diploma.
+
+
+<!-- micrographic: on-chain-and-lightning-01 -->

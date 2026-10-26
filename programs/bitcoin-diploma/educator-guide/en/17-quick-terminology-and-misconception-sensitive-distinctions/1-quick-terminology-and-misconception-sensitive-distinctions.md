@@ -1,6 +1,6 @@
 # 17.1 Quick terminology and misconception-sensitive distinctions
 
-Use the [Beginner Lexicon](https://programs.myfirstbitcoin.org/lexicon/en/) for full definitions. Keep these distinctions consistent in speech, slides, activities, and assessment.
+Use the Lexicon for full definitions. Keep these distinctions consistent in speech, slides, activities, and assessment.
 
 
 | Terms | Educator distinction |
@@ -31,7 +31,3 @@ Use the [Beginner Lexicon](https://programs.myfirstbitcoin.org/lexicon/en/) for 
 | Privacy / secrecy | Privacy is control over information; it does not mean an activity has no public data or legal obligations. |
 | KYC / no-KYC | These paths collect different identity information and create different support, privacy, counterparty, fraud, and legal trade-offs. Use no-KYC throughout. |
 | Local example / recommendation | A checked local example supports learning; it is not a universal endorsement. |
-
-
-
----

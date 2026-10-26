@@ -11,55 +11,75 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [The Bitcoin Diploma Story](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/0-front-matter/1-the-bitcoin-diploma-story.md) |
-|  |  | [પૂર્વકથન](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/0-front-matter/2.md) |
-| **[પૈસા શું છે?](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/gu/1)** | 1.0 | [પરિચય](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/1/0.md) |
-|  | 1.1 | [પૈસાની ચર્ચાઓ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/1/1.md) |
-|  | 1.2 | [પૈસાની વ્યાખ્યા](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/1/2.md) |
-|  | 1.3 | [પૈસાના કાર્ય](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/1/3.md) |
-|  | 1.4 | [પૈસાની વિશેષતાઓ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/1/4.md) |
-|  | 1.5 | [પૈસાના પ્રકારો](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/1/5.md) |
-|  | 1.6 | [પૈસાની માનસિકતા](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/1/6.md) |
-| **[પૈસાની ઇતિહાસ](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/gu/2)** | 2.0 | [પરિચય](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/2/0.md) |
-|  | 2.1 | [વિનિમયથી આધુનિક ચલણ સુધી](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/2/1.md) |
-|  | 2.2 | [ડિજિટલ કરન્સી](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/2/2.md) |
-| **[ફિયાટ મની શું છે?](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/gu/3)** | 3.0 | [પરિચય](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/3/0.md) |
-|  | 3.1 | [ફિયાટ મનીનો સંક્ષિપ્ત ઇતિહાસ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/3/1.md) |
-|  | 3.2 | [ફિયાટ સિસ્ટમ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/3/2.md) |
-|  | 3.3 | [સેન્ટ્રલ બેંક ડિજિટલ કરન્સી](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/3/3.md) |
-| **[સમસ્યાઓ કેવી રીતે ઉકેલ તરફ દોરી જાય છે](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/gu/4)** | 4.0 | [પરિચય](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/4/0.md) |
-|  | 4.1 | [પૈસા ઓછું ખરીદી શકે છે](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/4/1.md) |
-|  | 4.2 | [વિશ્વવ્યાપી દેવાની ભારણ અને સામાજિક અસમાનતા](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/4/2.md) |
-|  | 4.3 | [એક વિકેન્દ્રિત કરન્સી માટેની શોધ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/4/3.md) |
-| **[Bitcoin શું છે?](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/gu/5-bitcoin)** | 5.0 | [બિટકોઇનનું સર્જન](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/5-bitcoin/0.md) |
-|  | 5.1 | [બિટકોઇન કેવી રીતે કાર્ય કરે છે?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/5-bitcoin/1.md) |
-|  | 5.2 | [સાઉન્ડ ડિજિટલ મની તરીકે બિટકોઇન](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/5-bitcoin/2.md) |
-| **[બિટકોઇન કેવી રીતે ઉપયોગ કરવો](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/gu/6)** | 6.0 | [પરિચય](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/6/0.md) |
-|  | 6.1 | [બિટકોઇન મેળવવું](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/6/1.md) |
-|  | 6.2 | [વૉલેટ્સનો પરિચય](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/6/2.md) |
-|  | 6.3 | [મોબાઇલ વૉલેટ સેટ અપ કરવું](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/6/3.md) |
-|  | 6.4 | [ટ્રાન્ઝેક્શન પ્રાપ્ત કરવી અને મોકલવી](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/6/4.md) |
-|  | 6.5 | [વિશ્વાસ ન કરો, ચકાસો](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/6/5.md) |
-| **[દૈનિક જીવનમાં Bitcoin નો ઉપયોગ](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/gu/7-bitcoin)** | 7.0 | [પરિચય](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/7-bitcoin/0.md) |
-|  | 7.1 | [લાઇટનિંગ નેટવર્ક](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/7-bitcoin/1.md) |
-|  | 7.2 | [લાઇટનિંગ વૉલેટના પ્રકારો](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/7-bitcoin/2.md) |
-|  | 7.3 | [બિટકોઇન લાઇટનિંગ વૉલેટ સેટ અપ કરવું](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/7-bitcoin/3.md) |
-|  | 7.4 | [લાઇટનિંગ ટ્રાન્ઝેક્શન્સ મોકલવું અને પ્રાપ્ત કરવું](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/7-bitcoin/4.md) |
-|  | 7.5 | [બિટકોઇનથી કૉફી અને કરિયાણું ખરીદવું](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/7-bitcoin/5.md) |
-| **[બિટકોઇન કેવી રીતે કાર્ય કરે છે](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/gu/8)** | 8.0 | [પરિચય](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/8/0.md) |
-|  | 8.1 | [ક્રિપ્ટોગ્રાફી દ્વારા સુરક્ષા](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/8/1.md) |
-|  | 8.2 | [UTXO મોડેલ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/8/2-utxo.md) |
-| **[બિટકોઇન માઇનિંગ કેવી રીતે કાર્ય કરે છે?](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/gu/9)** | 9.0 | [પરિચય](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/9/0.md) |
-|  | 9.1 | [બિટકોઇન નોડ્સ અને માઇનર્સ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/9/1.md) |
-|  | 9.2 | [મેમપૂલ શું છે?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/9/2.md) |
-|  | 9.3 | [ટ્રાન્ઝેક્શન્સ કેવી રીતે કાર્ય કરે છે](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/9/3.md) |
-| **[બિટકોઇન કયો ભવિષ્ય બનાવી શકે?](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/gu/10)** | 10.0 | [પરિચય](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/10/0.md) |
-|  | 10.1 | [સેન્ટ્રલ બેંક ડિજિટલ કરન્સી (CBDCs) એ દેશની કે કેન્દ્રિય બેંક દ્વારા જારી કરવામાં આવતી ડિજિટલ કરન્સી છે. તે પરંપરાગત નોટ અને સિક્કાની જેમ જ છે, પણ સંપૂર્ણપણે ડિજિટલ સ્વરૂપમાં હોય છે. CBDCsનો હેતુ છે કે નાગરિકો અને વ્યવસાયોને વધુ સુરક્ષિત, ઝડપી અને સરળ પેમેન્ટ સિસ્ટમ ઉપલબ્ધ કરાવવી. CBDCsને સરકાર નિયંત્રિત કરે છે અને તે દેશની અધિકૃત ચલણ હોય છે.](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/10/1-cbdcs-cbdcs-cbdcs.md) |
-|  | 10.2 | [બિટકોઇનનું તત્વજ્ઞાન](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/10/2.md) |
-|  | 10.3 | [બિટકોઇનના લાભો](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/10/3.md) |
-|  | 10.4 | [સશક્ત ભવિષ્ય](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/10/4.md) |
-|  |  | [વાસ્તવિક જીવનના કેસ સ્ટડીઝ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/11-back-matter/1.md) |
-|  |  | [વધુ સંસાધનો](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/11-back-matter/2.md) |
-|  |  | [મુખ્ય સંકલ્પનાઓ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/11-back-matter/3.md) |
-|  |  | [શબ્દકોશ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/11-back-matter/4.md) |
+|  |  | [બિટકોઇન ડિપ્લોમામાં આપનું સ્વાગત છે](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/0-front-matter/section-1.md) |
+|  |  | [બિટકોઇન ડિપ્લોમા કેવી રીતે કાર્ય કરે છે](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/0-front-matter/section-2.md) |
+| **[નાણાંની સમજ](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/gu/1)** | 1.1 | [પૈસા વિશેના પ્રારંભિક પ્રશ્નો](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/1/1.md) |
+|  | 1.2 | [પૈસા શા માટે અસ્તિત્વમાં છે](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/1/2.md) |
+|  | 1.3 | [નાણાંનાં કાર્યો અને ગુણધર્મો](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/1/3.md) |
+|  | 1.4 | [વસ્તુવિનિમય અને જરૂરિયાતોનો બેવડો સંયોગ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/1/4.md) |
+|  | 1.5 | [અછત, મૂલ્ય અને વિનિમય](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/1/5.md) |
+|  | 1.6 | [નવા શીખનારાઓ માટે વિનિમય પ્રથાથી ડિજિટલ નાણાં સુધીનો નાણાકીય ઇતિહાસ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/1/6.md) |
+|  | 1.7 | [ફિયાટ નાણાં](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/1/7.md) |
+|  | 1.8 | [આંશિક અનામત બેંકિંગ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/1/8.md) |
+|  | 1.9 | [ફુગાવો અને ખરીદશક્તિ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/1/9.md) |
+|  | 1.10 | [યુએસ ડૉલર વિશ્વનું અનામત ચલણ શા માટે છે?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/1/10.md) |
+|  | 1.11 | [બચત કરવા અને મૂલ્ય જાળવી રાખવા માટેના વિકલ્પો](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/1/11.md) |
+|  | 1.12 | [કેન્દ્રીય બેંક ડિજિટલ ચલણો (CBDCs)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/1/12-cbdcs.md) |
+|  | 1.13 | [સમીક્ષા: નાણાં કેવી રીતે નિષ્ફળ થઈ શકે?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/1/13.md) |
+|  |  | [નાણાંને સમજીએ: ઝડપી ચકાસણી](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/1/_quiz.md) |
+| **[બિટકોઇન કેવી રીતે કાર્ય કરે છે](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/gu/2)** | 2.1 | [બિટકોઇન શા માટે બનાવવામાં આવ્યું હતું](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/2/1.md) |
+|  | 2.2 | [ડિજિટલ અને વિકેન્દ્રિત નાણાંની શોધ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/2/2.md) |
+|  | 2.3 | [ડિજિટલ નાણાંના પ્રારંભિક પ્રયાસો અને બેવડા ખર્ચની સમસ્યા](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/2/3.md) |
+|  | 2.4 | [ડિજિટલ દુર્લભતા અને સ્વતંત્ર રીતે ચકાસી શકાય એવો પુરવઠો](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/2/4.md) |
+|  | 2.5 | [બ્લોકચેઇન: બિટકોઇનનું જાહેર ખાતાવહી](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/2/5.md) |
+|  | 2.6 | [વિકેન્દ્રીકરણ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/2/6.md) |
+|  | 2.7 | [ડિજિટલ હસ્તાક્ષરો](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/2/7.md) |
+|  | 2.8 | [પીઅર-ટુ-પીઅર ટ્રાન્સફર](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/2/8.md) |
+|  | 2.9 | [વપરાશકર્તાઓ, નોડ્સ અને માઇનર્સ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/2/9.md) |
+|  | 2.10 | [કાર્યનો પુરાવો](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/2/10.md) |
+|  | 2.11 | [મર્યાદિત પુરવઠો](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/2/11.md) |
+|  | 2.12 | [સતોશી અને એકમ પૂર્વગ્રહ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/2/12.md) |
+|  | 2.13 | [સુદૃઢ ડિજિટલ નાણાં તરીકે બિટકોઇન](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/2/13.md) |
+|  | 2.14 | [બિટકોઇન, સ્ટેબલકોઇન્સ અને અન્ય ક્રિપ્ટો-અસ્કયામતો](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/2/14.md) |
+|  | 2.15 | [શિક્ષણ અને જવાબદારીપૂર્વકનો ઉપયોગ એ ટ્રેડિંગ કે પ્રચાર નથી](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/2/15.md) |
+|  | 2.16 | [બિટકોઇનની ઉત્પત્તિની સમયરેખા](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/2/16.md) |
+|  | 2.17 | [સશક્તિકરણ, જોખમ અને જવાબદારી](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/2/17.md) |
+|  | 2.18 | [પુનરાવલોકન: બિટકોઇન નાણાકીય ખામીઓને કેવી રીતે દૂર કરે છે?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/2/18.md) |
+|  |  | [બિટકોઇન કેવી રીતે કાર્ય કરે છે: ઝડપી ચકાસણી](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/2/_quiz.md) |
+| **[બિટકોઇનનો સુરક્ષિત રીતે ઉપયોગ](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/gu/3)** | 3.1 | [બિટકોઇનનો સુરક્ષિત રીતે ઉપયોગ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/3/1.md) |
+|  | 3.2 | [વૉલેટ્સ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/3/2.md) |
+|  | 3.3 | [સરનામાં](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/3/3.md) |
+|  | 3.4 | [કીઓ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/3/4.md) |
+|  | 3.5 | [સીડ શબ્દસમૂહો](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/3/5.md) |
+|  | 3.6 | [કસ્ટોડિયલ અને નોન-કસ્ટોડિયલ ઉપયોગ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/3/6.md) |
+|  | 3.7 | [હોટ અને કોલ્ડ વૉલેટ્સ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/3/7.md) |
+|  | 3.8 | [વૉલેટની પુનઃપ્રાપ્તિ અને સીડ ફ્રેઝનું પરીક્ષણ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/3/8.md) |
+|  | 3.9 | [બિટકોઇન મેળવવું](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/3/9.md) |
+|  | 3.10 | [બિટકોઇન મોકલવું](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/3/10.md) |
+|  | 3.11 | [ચકાસણી, બ્લોક એક્સપ્લોરર્સ અને ઉલટાવી ન શકાય તેવા વ્યવહારો](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/3/11.md) |
+|  | 3.12 | [સુરક્ષા ચકાસણી યાદી](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/3/12.md) |
+|  | 3.13 | [બિટકોઇન મેળવવું અને તેની આપ-લે કરવી](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/3/13.md) |
+|  | 3.14 | [ઑન-ચેઇન અને લાઇટનિંગ ચુકવણીઓ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/3/14.md) |
+|  | 3.15 | [શિક્ષકના નિરીક્ષણ હેઠળ વ્યવહારુ કૌશલ્યની ચકાસણી](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/3/15.md) |
+|  | 3.16 | [સમીક્ષા: સ્વ-કસ્ટડીની જવાબદારીનો અર્થ શું છે?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/3/16.md) |
+|  |  | [બિટકોઇનનો સુરક્ષિત ઉપયોગ: ટૂંકી કસોટી](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/3/_quiz.md) |
+| **[તમારા સમુદાયમાં બિટકોઇન](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/gu/4)** | 4.1 | [તમારા સમુદાયમાં બિટકોઇન](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/4/1.md) |
+|  | 4.2 | [આપનું સ્થાનિક મોડ્યુલ 4](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/4/2-4.md) |
+|  | 4.3 | [વ્યવહારુ કાર્યશાળાઓ અને પ્રદર્શનો](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/4/3.md) |
+|  | 4.4 | [સ્થાનિક બિટકોઇન સાધનો અને સંસાધનો](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/4/4.md) |
+|  | 4.5 | [લાઇટનિંગ ચુકવણીઓ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/4/5.md) |
+|  | 4.6 | [રોજિંદા જીવનમાં બિટકોઇનનો ઉપયોગ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/4/6.md) |
+|  | 4.7 | [સ્થાનિક સ્તરે ખર્ચ કરવા અને ચુકવણી મેળવવાનાં પરિદૃશ્યો](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/4/7.md) |
+|  | 4.8 | [સ્થાનિક ઑન-રેમ્પ અને ઑફ-રેમ્પ માર્ગો](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/4/8.md) |
+|  | 4.9 | [KYC અને બિન-KYCના ફાયદા-ગેરફાયદા](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/4/9-kyc-kyc.md) |
+|  | 4.10 | [ચક્રીય અર્થવ્યવસ્થાઓ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/4/10.md) |
+|  | 4.11 | [વેપારી અથવા સમુદાય માટે ઉપયોગનાં ઉદાહરણો](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/4/11.md) |
+|  | 4.12 | [સ્થાનિક સંસાધનોના નકશા અને સમુદાયની શોધખોળ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/4/12.md) |
+|  | 4.13 | [સમીક્ષા: આને આપના સમુદાય સાથે જોડો](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/4/13.md) |
+|  |  | [વૈકલ્પિક આગળનાં પગલાં](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/5-back-matter/section-1.md) |
+
+**Quizzes** (`_quiz.md`, one per module): the question, the choices and the
+explanation are text, and corrections are welcome. The ticked box is the answer
+key, shared by every language, so it is not changed from a pull request; nor is
+the number of questions or of choices.
 <!-- mfb:structure:end -->

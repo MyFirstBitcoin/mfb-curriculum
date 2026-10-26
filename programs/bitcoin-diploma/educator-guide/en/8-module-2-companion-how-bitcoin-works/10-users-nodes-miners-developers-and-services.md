@@ -12,16 +12,20 @@ Use these exact beginner boundaries:
 | Bitcoin service | Provides a wallet, exchange, explorer, payment, or other interface | Is the Bitcoin protocol itself |
 
 
+
+<!-- micrographic: bitcoin-participant-roles-01 -->
+
+
 #### Activity: invalid block
 
-Give one learner acting as a miner a candidate block that creates more subsidy than the node rule card allows. Learners acting as nodes check it and reject it.
+Give one learner acting as a [miner](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) a [candidate block](https://curriculum.myfirstbitcoin.org/lexicon/en/#candidate-block) that creates more subsidy than the [node](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) rule card allows. Learners acting as [nodes](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) check it and reject it.
 
 Debrief:
 
-* The miner did real work but still did not gain permission to break the rules.
-* Nodes independently apply rules, but the real network is software and communication, not a classroom vote.
+* The [miner](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) did real work but still did not gain permission to break the rules.
+* [Nodes](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) independently apply rules, but the real network is software and communication, not a classroom vote.
 * A developer can write other rules, but adoption is voluntary and incompatible rules may create a separate network.
 
 Ask:
 
-> Why does a node verify transactions? Name at least one rule it checks.
+> Why does a [node](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) verify transactions? Name at least one rule it checks.

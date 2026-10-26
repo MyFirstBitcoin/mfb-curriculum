@@ -1,4 +1,4 @@
-# 10.6 Custom-module planning record
+# 10.6 Module 4 planning record
 
 Complete this before delivery.
 
@@ -7,10 +7,11 @@ Complete this before delivery.
 | --- | --- |
 | Module title and variant ID |  |
 | Local need or opportunity |  |
+| Problem → Solution → Action concepts to connect |  |
 | Learner profile and access needs |  |
-| Core concepts connected |  |
-| B4.1 observable task |  |
-| B4.2 required explanation |  |
+| Modules 1–3 concepts connected |  |
+| C7 observable task |  |
+| C7.1 / C7.2 required verification and explanation |  |
 | Existing non-Bitcoin alternative |  |
 | Tool, version, source, and date checked |  |
 | Custody and recovery model |  |

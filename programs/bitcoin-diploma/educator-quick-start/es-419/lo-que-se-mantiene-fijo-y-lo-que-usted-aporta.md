@@ -1,0 +1,7 @@
+# Lo que se mantiene fijo—y lo que usted aporta
+
+**Mantenga sin cambios:** la secuencia de cuatro módulos; los objetivos centrales; el enfoque exclusivo en Bitcoin; los límites de seguridad; la evaluación en dos partes; y el estándar mínimo para completar el curso.
+
+**Adapte con criterio:** los ejemplos, el lenguaje, las actividades, el ritmo, la organización de grupos, el apoyo de accesibilidad, las herramientas locales y, para el **Módulo 4**, los escenarios. Enseñe el uso de software de billeteras de código abierto como una preferencia sujeta a ciertas condiciones, porque el código que se puede inspeccionar puede mejorar la transparencia, mientras ayuda a los estudiantes a comparar la custodia, la recuperación, la compatibilidad, la privacidad, el mantenimiento, el costo y el soporte. Trate las billeteras, las plataformas de intercambio, los comercios, los mapas y los servicios mencionados por nombre como ejemplos locales de un momento determinado, no como recomendaciones globales. Verifique las afirmaciones actuales y las normas locales con fuentes autorizadas; si no sabe algo, dígalo y verifíquelo.
+
+Enseñe a los estudiantes **cómo pensar, no qué pensar**. Acepte de buen grado el desacuerdo respetuoso. Un estudiante no necesita estar de acuerdo con una afirmación para cumplir el estándar; necesita razonar, explicar las ventajas y desventajas relevantes y demostrar las habilidades requeridas de forma segura.

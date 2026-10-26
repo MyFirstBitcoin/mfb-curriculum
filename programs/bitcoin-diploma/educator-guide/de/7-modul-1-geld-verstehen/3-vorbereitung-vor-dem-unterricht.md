@@ -1,0 +1,13 @@
+# 7.3 Vorbereitung vor dem Unterricht
+
+* Lesen Sie die Abschnitte zu **Modul 1** im Leitfaden für Lernende und ermitteln Sie, welche Definitionen Unterstützung in der Landessprache benötigen.
+* Bereiten Sie die fünf Einstiegsfragen für die Diskussion in der Gruppe vor.
+* Wählen Sie eine Aktivität zu den Eigenschaften von Geld und eine zu modernem Geld aus; durchsuchen Sie die [Aktivitätenbibliothek](https://curriculum.myfirstbitcoin.org/activities/en/) nach Optionen, die Sie anpassen können.
+* Bereiten Sie vor Ort vertraute Beispiele für ein [Tauschmittel](https://curriculum.myfirstbitcoin.org/lexicon/en/#medium-of-exchange), eine [Recheneinheit](https://curriculum.myfirstbitcoin.org/lexicon/en/#unit-of-account) und ein [Wertaufbewahrungsmittel](https://curriculum.myfirstbitcoin.org/lexicon/en/#store-of-value) vor.
+* Verwenden Sie lokale Beispiele nur, um die gemeinsamen, neutralen Konzepte zu veranschaulichen; überprüfen Sie sich ändernde lokale Fakten, vermeiden Sie Empfehlungen und wahren Sie denselben Kompetenz- und Nachweisstandard.
+* Prüfen Sie die [Währungen](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) und Zahlungsmethoden, denen die Lernenden vor Ort begegnen.
+* Seien Sie darauf vorbereitet, das Szenario zum lokalen Fiatgeldsystem zu moderieren. Benennen Sie die zuständige Zentralbank, die Geschäftsbanken, die Zahlungsdienstleister, die Rollen des Staates und die Abwicklungsvereinbarungen.
+* Überprüfen Sie die aktuellen lokalen Bankvorschriften, die für die Diskussion relevant sind, einschließlich Reserve- oder [Liquiditäts](https://curriculum.myfirstbitcoin.org/lexicon/en/#liquidity)regelungen, [Eigenkapital](https://curriculum.myfirstbitcoin.org/lexicon/en/#capital)aufsicht, Einlagensicherung, Abhebungsregeln, Regeln für den Kontozugang und Verbraucherschutz. Erläutern Sie nur, was Sie überprüft haben, und geben Sie keine Rechts- oder Finanzberatung.
+* Ermitteln Sie die offizielle Messgröße der [Inflation](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation), das aktuelle Veröffentlichungsdatum, die Beschreibung des Warenkorbs und die Methodik. Bereiten Sie einen lokalen Artikel mit einem datierten [Preis](https://curriculum.myfirstbitcoin.org/lexicon/en/#price)vergleich vor.
+* Prüfen Sie, ob eine lokale [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) existiert, geplant ist oder nur hypothetisch ist. Vermitteln Sie kein allgemeines [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc)-Merkmal als bestätigte lokale Tatsache.
+* Bereiten Sie eine Offline-Rollenübersicht, eine Bilanzskizze, ein Warenkorb-Beispiel und eine Ausweichlösung für die Aktivität vor.

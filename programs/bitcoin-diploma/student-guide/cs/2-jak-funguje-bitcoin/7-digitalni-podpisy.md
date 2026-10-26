@@ -1,0 +1,7 @@
+# 2.7 Digitální podpisy
+
+[Digitální podpisy](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) jsou jednou z klíčových součástí návrhu Bitcoin popsaných v bílé knize. V síti Bitcoin peněženka používá [soukromý klíč](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) k vytvoření [digitálního podpisu](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature), který autorizuje [transakci](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction). Peněženka je obvykle aplikace, která spravuje klíče a vytváří tyto podpisy pro uživatele. Pouze držitel potřebného [soukromého klíče](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) může autorizovat utracení prostředků; síť může ověřit podpis, aniž by zjistila samotný [soukromý klíč](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key).
+
+To člověku umožňuje mít kontrolu nad bitcoinem, aniž by musel žádat banku nebo jiného centrálního provozovatele o svolení. Zároveň to znamená, že kontrola nad [soukromým klíčem](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) je zásadní: kdokoli jej získá, může obvykle autorizovat utracení prostředků, zatímco ztráta klíče může vést k nenávratné ztrátě bitcoinů.
+
+To je základem [vlastní správy](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody): klíče máte pod kontrolou sami, místo abyste se spoléhali na službu, která je spravuje za vás. **Modul 3** vysvětluje praktické povinnosti spojené se zabezpečením klíčů, zálohami a obnovou.

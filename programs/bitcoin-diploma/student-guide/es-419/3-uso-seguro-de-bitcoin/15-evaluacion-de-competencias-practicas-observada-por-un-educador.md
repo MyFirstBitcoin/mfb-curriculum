@@ -1,0 +1,5 @@
+# 3.15 Evaluación de competencias prácticas observada por un educador
+
+Antes de la evaluación, usted tendrá práctica con apoyo y conocerá la tarea y los límites de seguridad. Su educador —sin basarse en la asistencia ni en lo que usted declare— observará cómo utiliza un entorno aprobado, ya sea preparado, simulado o de bajo riesgo.
+
+Usted demostrará que puede abrir la billetera preparada o navegar por ella, completar un procedimiento aprobado de acceso inicial, localizar y verificar la información para recibir fondos, y recibir bitcoin o simular su recepción de forma segura. También completará o simulará de forma segura un proceso de recepción o envío y demostrará que está preparado para recuperar el acceso con materiales preparados, sin revelar ningún dato secreto. Podrá practicar cómo responder de forma segura ante una discrepancia o una estafa mediante escenarios guiados. Si aún no está preparado, deberá recibir retroalimentación, más práctica y otra oportunidad para demostrar la habilidad.

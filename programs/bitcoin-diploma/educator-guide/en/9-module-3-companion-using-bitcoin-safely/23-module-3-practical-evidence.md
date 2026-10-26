@@ -1,18 +1,18 @@
-# 9.23 Module 3 practical evidence
+# 9.24 Module 3 practical evidence
 
-Formal assessment must use approved tasks and direct observation. Across the required tasks, observe whether the learner can:
+For practical assessment, observe whether the learner can complete the relevant activity safely and can:
 
-* open or safely access the prepared environment;
-* navigate without exposing unrelated information;
-* identify the custody model;
-* distinguish receiving information from secrets;
-* select the intended payment path and network;
-* locate and verify an address or invoice;
-* check recipient, amount, unit, fee, expiry, and final summary as relevant;
-* complete or safely simulate a receive or send flow;
-* interpret pending, confirmed, failed, or received status;
-* protect recovery information throughout a recovery-readiness task;
-* respond safely to exposure, mismatch, impersonation, urgency, or fraud;
+* open or safely access the prepared environment
+* navigate without exposing unrelated information
+* identify the [custody](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) model
+* distinguish receiving information from secrets
+* select the intended payment path and network
+* locate and verify an address or invoice
+* check recipient, amount, unit, fee, expiry, and final summary as relevant
+* complete or safely simulate a receive or send flow
+* interpret pending, confirmed, failed, or received status
+* protect recovery information throughout a recovery-readiness task
+* respond safely to exposure, mismatch, impersonation, urgency, or fraud
 * explain the reason for important checks; and
 * stop or seek help when the process exceeds their competence.
 

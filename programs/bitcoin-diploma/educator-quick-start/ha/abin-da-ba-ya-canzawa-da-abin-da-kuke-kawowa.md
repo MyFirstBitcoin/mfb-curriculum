@@ -1,0 +1,7 @@
+# Abin da ba ya canzawa—da abin da kuke kawowa
+
+**Ku bar waɗannan yadda suke:** jerin kashi huɗu a tsarinsu; muhimman manufofi; mayar da hankali kan Bitcoin kaɗai; iyakokin aminci; tantancewa mai ɓangare biyu; da mafi ƙarancin ma'aunin kammalawa.
+
+**Ku daidaita waɗannan cikin tunani mai zurfi:** misalai, harshe, ayyuka, saurin tafiyar da koyarwa, rarraba ɗalibai zuwa rukuni, tallafin sauƙaƙa samun dama, kayan aikin gida, da **Kashi na 4**—yanayoyin da ke cikinsa. Ku koyar da manhajar walat mai buɗaɗɗen lambar tushe a matsayin zaɓin da aka fi so bisa wasu sharuɗɗa, domin lambar da za a iya bincikawa na iya ƙara bayyana yadda manhajar ke aiki, tare da taimaka wa ɗalibai su kwatanta riƙon kuɗi, dawo da damar amfani, dacewa da sauran na'urori da manhajoji, sirri, kulawa, farashi, da tallafi. Ku ɗauki walat, wuraren musaya, 'yan kasuwa, taswirori, da ayyukan da aka ambata da sunayensu a matsayin misalan gida na wani lokaci—ba shawarwarin da suka dace da ko'ina a duniya ba. Ku tabbatar da iƙirarin da ake yi a yanzu da dokokin gida ta hanyar majiyoyi masu inganci; idan ba ku sani ba, ku faɗi haka sannan ku bincika.
+
+Ku koya wa ɗalibai **yadda za su yi tunani, ba abin da za su yi tunani ba**. Ku karɓi saɓanin ra'ayi da ake gabatarwa cikin girmamawa. Ba sai ɗalibi ya yarda da wani iƙirari ba kafin ya cika ma'aunin; yana buƙatar yin tunani mai ma'ana, bayyana ribobi da fursunonin zaɓuɓɓukan da suka dace, da nuna ƙwarewar da ake buƙata cikin aminci.

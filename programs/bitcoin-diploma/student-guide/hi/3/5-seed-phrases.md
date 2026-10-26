@@ -1,0 +1,35 @@
+# 3.5 Seed phrases
+
+> **Definition – सीड फ़्रेज़**
+>
+> एक [सीड फ़्रेज़](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), जिसे [रिकवरी फ़्रेज़](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) भी कहा जाता है, शब्दों की एक क्रमबद्ध सूची है, जिसका उपयोग करके कई वॉलेट बनाते और पुनः प्राप्त करते हैं [निजी कुंजियों का एक समूह](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key)। एक [निजी कुंजी](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) धन खर्च करने की अनुमति देती है; [सीड फ़्रेज़](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) आम तौर पर वह बैकअप होता है जिससे वॉलेट की कुंजियाँ दोबारा बनाई जा सकती हैं। इसमें आम तौर पर 12 या 24 शब्द होते हैं, हालाँकि वॉलेट की बनावट अलग-अलग होती है।
+
+
+शब्दों का क्रम और उनकी वर्तनी महत्वपूर्ण हैं। यदि किसी व्यक्ति के पास [सीड फ़्रेज़](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) है, तो वह अक्सर किसी अन्य संगत डिवाइस पर वॉलेट को पुनः स्थापित करके धन खर्च कर सकता है। इसलिए [सीड फ़्रेज़](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) केवल बैकअप नहीं है। यह पूर्ण पहुँच देता है।
+
+
+> **Callout – रिकवरी संबंधी जानकारी कभी साझा न करें**
+>
+> धन प्राप्त करने की सार्वजनिक जानकारी साझा की जा सकती है। एक [निजी कुंजी](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), [सीड फ़्रेज़](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), पासवर्ड या रिकवरी कोड गुप्त रहना चाहिए। किसी भी वैध शिक्षक, वॉलेट कंपनी, एक्सचेंज कर्मचारी, सहायता कर्मी या बिटकॉइन डेवलपर को इसकी आवश्यकता नहीं होती। यदि किसी [सीड फ़्रेज़](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) को किसी ने देखा या कॉपी किया हो सकता है, उसे ऑनलाइन दर्ज किया गया हो सकता है या किसी अविश्वसनीय डिवाइस पर सहेजा गया हो सकता है, तो उसे असुरक्षित मानें और उसे बताए बिना सहायता लें।
+
+
+
+<!-- micrographic: seed-phrase-on-paper-01 -->
+
+
+सुरक्षित रखें एक [सीड फ़्रेज़](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) को इन नियमों का पालन करके:
+
+* वॉलेट बनाते समय इसे एकांत में और सही-सही लिख लें
+* वॉलेट के आधिकारिक बैकअप निर्देशों का पालन करें
+* इसे ऑफ़लाइन रखें
+* कभी इसकी तस्वीर न लें, इसे क्लाउड नोट्स में न सहेजें, ईमेल न करें और न ही संदेश में भेजें
+* इसे कभी किसी वेबसाइट या सामान्य कंप्यूटर फ़ॉर्म में टाइप न करें
+* इसे कैमरों, माइक्रोफ़ोन, अन्य लोगों की नज़रों और ऐसी जगहों से दूर रखें जहाँ यह क्षतिग्रस्त हो सकता है, खो सकता है या किसी को मिल सकता है
+
+कुछ वॉलेट अतिरिक्त पासफ़्रेज़, एक से अधिक कुंजियों या अन्य बैकअप प्रणालियों का उपयोग करते हैं। ये विषय हैं [उन्नत अध्ययन](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/) के। ऐसी जटिलता न जोड़ें जिसे आप समझा न सकें और जिसमें गड़बड़ी होने पर सुरक्षित रूप से रिकवरी न कर सकें। यदि किसी [सीड फ़्रेज़](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) को किसी ने देखा या कॉपी किया हो सकता है, उसे ऑनलाइन दर्ज किया गया हो सकता है या किसी अविश्वसनीय डिवाइस पर सहेजा गया हो सकता है, तो उसे असुरक्षित मानें: उसे बताए बिना मार्गदर्शन लें और एक नई, विश्वसनीय रिकवरी प्रक्रिया का उपयोग करें।
+
+
+<!-- micrographic: seed-phrase-paper-backup-01 -->
+
+
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)

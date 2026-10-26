@@ -1,8 +1,14 @@
 # 4.7 Local spending and receiving scenarios
 
+![](https://cdn.sanity.io/images/vje9ehw2/staging/fa265ee4b78004e155781ac30066875cd39cc983-1536x1024.svg)
+
+
+<!-- micrographic: coffee-shop-payment-01 -->
+
+
 Use locally familiar goods and services. The exact item does not matter; the payment reasoning does.
 
-**Scenario 1: A small purchase**
+###### Scenario 1: A small purchase
 
 A customer wants to buy an everyday item. The merchant accepts Lightning and on-chain Bitcoin.
 
@@ -12,37 +18,37 @@ A customer wants to buy an everyday item. The merchant accepts Lightning and on-
 * How does the merchant know the payment succeeded?
 * What happens if the customer's wallet shows “sent” but the merchant does not see “received”?
 
-**Scenario 2: Payment for work**
+###### Scenario 2: Payment for work
 
 A worker agrees to receive part of a payment in bitcoin.
 
-* Is the price fixed in local currency, bitcoin, or sats?
-* At what time is the exchange rate determined?
+* Is the [price](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) fixed in local [currency](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency), bitcoin, or [sats](https://curriculum.myfirstbitcoin.org/lexicon/en/#satoshi)?
+* At what time is the [exchange rate](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate) determined?
 * Who pays any fee?
-* Is the receiver using self-custody?
+* Is the receiver using [self-custody](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody)?
 * What income or tax record is required?
 * Can the worker safely manage the amount?
 
-**Scenario 3: A transfer between family members**
+###### Scenario 3: A transfer between family members
 
-One person wants to send value to a family member in another place.
+One person wants to send [value](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) to a family member in another place.
 
 * What are the costs and delays of the current method?
 * How will each person obtain or use bitcoin?
-* Does the recipient want bitcoin or local currency?
-* Which exchange and custody risks appear at each step?
+* Does the recipient want bitcoin or local [currency](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency)?
+* Which exchange and [custody](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) risks appear at each step?
 * Does the full route save time or money after all fees are included?
 
-**Scenario 4: A refund**
+###### Scenario 4: A refund
 
-A merchant needs to return value after an on-chain payment.
+A merchant needs to return [value](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) after an [on-chain payment](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment).
 
 * Why should the merchant request a fresh refund address?
 * How can the merchant verify that the request really came from the customer?
-* Who pays the return transaction fee?
+* Who pays the return [transaction fee](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction-fee)?
 * What record should both parties keep?
 
-**Scenario 5: A community donation**
+###### Scenario 5: A community donation
 
 A local organization wants to receive support in bitcoin.
 

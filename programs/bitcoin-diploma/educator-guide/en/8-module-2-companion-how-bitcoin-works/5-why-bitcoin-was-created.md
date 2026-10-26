@@ -1,8 +1,12 @@
 # 8.5 Why Bitcoin was created
 
-Start with the goal: direct online payments without a central financial intermediary. Then ask what makes that difficult.
+Start with the goal: direct online payments without a central financial [intermediary](https://curriculum.myfirstbitcoin.org/lexicon/en/#intermediary). Then ask what makes that difficult.
 
-A central digital-payment system can keep one authoritative ledger and reject a second spend. A decentralized system needs independent participants to agree on a valid history without trusting one database owner.
+A central digital-payment system can keep one authoritative [ledger](https://curriculum.myfirstbitcoin.org/lexicon/en/#ledger) and reject a second spend. A decentralized system needs independent participants to agree on a valid history without trusting one database owner.
+
+
+<!-- micrographic: central-ledger-vs-bitcoin-01 -->
+
 
 Ask:
 

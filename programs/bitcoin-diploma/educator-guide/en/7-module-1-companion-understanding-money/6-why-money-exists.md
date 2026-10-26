@@ -2,11 +2,11 @@
 
 Keep the explanation grounded in coordination:
 
-* people specialize;
-* direct exchange requires matching wants;
-* commonly accepted money separates selling from buying;
+* people specialize
+* direct exchange requires matching wants
+* commonly accepted money separates selling from buying
 * a shared unit helps people compare and record value; and
-* money can move purchasing power across time.
+* money can move [purchasing power](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) across time.
 
 Ask:
 

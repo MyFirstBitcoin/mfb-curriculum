@@ -2,7 +2,7 @@
 
 Before a live tool demonstration:
 
-1. Confirm the exact tool, version, source, network, custody model, and recovery method.
+1. Confirm the exact tool, version, source, network, [custody](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) model, and recovery method.
 1. Run the full process privately on the same device and connection.
 1. Decide whether funds are required. Prefer no funds; otherwise use an amount whose complete loss would remain a lesson, not a crisis.
 1. Prepare the expected state and a recovery or reset process.

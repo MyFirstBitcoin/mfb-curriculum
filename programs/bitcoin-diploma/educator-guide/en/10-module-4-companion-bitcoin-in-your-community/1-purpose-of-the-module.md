@@ -1,10 +1,12 @@
 # 10.1 Purpose of the module
 
-Module 4 connects the shared Core to local daily life. It is not a free-choice bonus module and it is not globally defined as “spending.” Every certificated learner completes one approved locally relevant task, but educators select the context because currencies, tools, laws, risks, infrastructure, and community needs vary.
+**Module 4** applies learning from **Modules 1–3** to local daily life. It is a required part of the Bitcoin Diploma, not a free-choice bonus module, and it is not globally defined as “spending.” Every certificated learner completes one approved locally relevant task, but educators select the context because [currencies](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency), tools, laws, risks, infrastructure, and community needs vary.
 
-Core question:
+It is the **Connect** stage of Problem → Solution → Action → Connect. The learner must connect the earlier modules to a local need or opportunity and a realistic existing alternative before practising a safe task. The intended outcome is sound local reasoning and safe performance, not adoption or a favorable conclusion about Bitcoin.
 
-> How can Bitcoin function as money in this community?
+Guiding question:
+
+> How do the problem, solution, and safe action connect to this community?
 
 Learner promise:
 

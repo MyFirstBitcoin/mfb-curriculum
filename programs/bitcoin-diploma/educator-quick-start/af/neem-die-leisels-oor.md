@@ -1,0 +1,5 @@
+# Neem die leisels oor
+
+Hierdie herontwerp bied opvoeders meer struktuur waar konsekwentheid saak maak en meer ruimte waar plaaslike wysheid saak maak. U sorgvuldige fasilitering verander die Bitcoin-diploma van ’n boek in ’n gedeelde leerervaring: een wat mense help om helder te dink oor geld, Bitcoin, verantwoordelikheid en hul eie gemeenskap.
+
+Vir opsionele verdere leer buite die Bitcoin-diploma, verken die [Opleidingsprogram vir Opvoeders](https://etp.myfirstbitcoin.org/) of maak kontak deur die [Bitcoin Onderwys Netwerk](https://leaderboard.myfirstbitcoin.org). U kan ook [terugvoer gee](https://forms.myfirstbitcoin.org/feedback), [regstellings of vertaalverbeterings indien](https://forms.myfirstbitcoin.org/proofread), plaaslike leerhulpbronne deel deur die [amptelike bydraevorm](https://forms.myfirstbitcoin.org/), of die oopbron [kurrikulumbewaarplek](https://github.com/MyFirstBitcoin/mfb-curriculum) gebruik om huidige uitgawes na te gaan en aan die verbetering van die werk deel te neem. Nie een van hierdie skakels is nodig om die Bitcoin-diploma te voltooi nie.

@@ -3,8 +3,8 @@
 | Field | Plan |
 | --- | --- |
 | Module, date, and cohort |  |
-| Core question |  |
-| Required objective IDs |  |
+| Guiding question |  |
+| Required assessed competency and competency criterion IDs |  |
 | Learner starting point |  |
 | Key terms and translation notes |  |
 | Local facts and date checked |  |
@@ -15,7 +15,7 @@
 | Demonstration and stop conditions |  |
 | Supported practice |  |
 | Production or evidence task |  |
-| Optional recap or self-check connection (never assessment evidence) |  |
+| Optional learning-resource connection |  |
 | Accessibility adaptation |  |
 | Offline fallback |  |
 | Debrief questions |  |

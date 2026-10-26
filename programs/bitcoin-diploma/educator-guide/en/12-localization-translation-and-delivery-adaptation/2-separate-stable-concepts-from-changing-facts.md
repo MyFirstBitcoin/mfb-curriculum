@@ -11,4 +11,4 @@
 | Map listings can become stale | Whether a local merchant accepts Bitcoin today |
 
 
-Date changing facts and tell learners what may change.
+Date changing facts and tell learners what may change. When preparing a local example, you can ask the [Bitcoin Diploma AI assistant](https://ai.myfirstbitcoin.org) to suggest which claims need checking and what evidence to seek. Open the original sources yourself, confirm that they support each claim, and record the source and date; an AI response is not evidence that a fact is current.

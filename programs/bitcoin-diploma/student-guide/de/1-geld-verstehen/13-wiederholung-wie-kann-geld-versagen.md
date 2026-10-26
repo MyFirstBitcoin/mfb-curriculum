@@ -1,0 +1,20 @@
+# 1.13 Wiederholung: Wie kann Geld versagen?
+
+Halten Sie inne und denken Sie über das Geld nach, das Sie verwenden: Was macht es im Alltag nützlich, und welche seiner Regeln hängen von Institutionen ab, denen Sie vertrauen müssen? [Tauschhandel](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) ist schwierig, weil das Zusammenbringen passender Bedürfnisse ineffizient ist. [Fiatgeld](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) erleichtert den Austausch, doch seine veränderliche Geldmenge, die institutionelle Kontrolle, der eingeschränkte Zugang und die sinkende [Kaufkraft](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) können für Menschen, die darauf angewiesen sind, ernsthafte Schwächen mit sich bringen. Man kann unterschiedlicher Meinung darüber sein, wie gravierend jede einzelne Schwäche ist oder wie man ihr begegnen sollte. Deshalb suchen manche Menschen nach monetären Alternativen mit anderen [Kompromissen](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) in Bezug auf Geldmenge, Kontrolle, Zugang und Vertrauen.
+
+#### Das Wichtigste in Kürze
+
+* Geld hilft Menschen, zu tauschen, [Preise](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) zu vergleichen, [Werte](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) festzuhalten und [Werte](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) über die Zeit hinweg zu übertragen.
+* Die Hauptfunktionen des Geldes sind die eines [Tauschmittels](https://curriculum.myfirstbitcoin.org/lexicon/en/#medium-of-exchange), einer [Recheneinheit](https://curriculum.myfirstbitcoin.org/lexicon/en/#unit-of-account) und eines [Wertaufbewahrungsmittels](https://curriculum.myfirstbitcoin.org/lexicon/en/#store-of-value).
+* Geldeigenschaften wie [Haltbarkeit](https://curriculum.myfirstbitcoin.org/lexicon/en/#durability), [Transportierbarkeit](https://curriculum.myfirstbitcoin.org/lexicon/en/#portability), [Teilbarkeit](https://curriculum.myfirstbitcoin.org/lexicon/en/#divisibility), [Knappheit](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity), [Akzeptanz](https://curriculum.myfirstbitcoin.org/lexicon/en/#acceptability) und [Überprüfbarkeit](https://curriculum.myfirstbitcoin.org/lexicon/en/#verifiability) helfen uns, verschiedene Geldformen miteinander zu vergleichen.
+* [Tauschhandel](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) ist in großem Maßstab schwierig, weil beide Personen zur selben Zeit und in passenden Mengen das wollen müssen, was die jeweils andere anbietet.
+* Geld hat sich in verschiedenen Gesellschaften auf unterschiedliche Weise entwickelt und dabei oft die Bequemlichkeit verbessert, zugleich aber neue [Kompromisse](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) bei Vertrauen, Kontrolle und Zugang geschaffen.
+* [Fiatgeld](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) kann bequeme Zahlungen und flexible Kredite ermöglichen, doch seine Geldmenge und seine Regeln hängen von Institutionen ab.
+* [Inflation](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation), [Teilreservebanking](https://curriculum.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking) und die Gestaltung von [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) können sich auf [die Kaufkraft](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power), den Zugang, [die Privatsphäre](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy) und die Notwendigkeit, Institutionen zu vertrauen, auswirken.
+* Manche Menschen wenden sich Alternativen wie Edelmetallen zu, wenn sie andere [Kompromisse](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) in Bezug auf [Kaufkraft](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power), Angebot oder Kontrolle wünschen; jede Alternative hat Grenzen und Risiken.
+
+#### Ein Moment zum Nachdenken
+
+Welche Frage stellen Sie sich heute zum Thema Geld, die Sie sich früher nicht gestellt haben?
+
+Das nächste Modul untersucht den Versuch von Bitcoin, ein anderes Regelwerk für Geld zu schaffen.

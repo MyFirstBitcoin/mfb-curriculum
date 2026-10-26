@@ -1,6 +1,6 @@
-# 9.8 Address history and reuse lookup
+# 9.9 Address history and reuse lookup
 
-This activity makes public-ledger privacy visible.
+This activity makes public-ledger [privacy](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy) visible.
 
 **Purpose:** Show that address activity may be visible and that repeated address use can make transactions easier to link.
 
@@ -16,7 +16,7 @@ This activity makes public-ledger privacy visible.
 1. Ask whether the address appears to have received more than once.
 1. Discuss what an observer can infer and what they cannot know with certainty.
 1. Show that many wallets generate a fresh receiving address.
-1. Explain that old addresses may remain valid, but fresh addresses improve privacy by reducing easy linkage.
+1. Explain that old addresses may remain valid, but fresh addresses improve [privacy](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy) by reducing easy linkage.
 
 **Debrief:**
 
@@ -26,3 +26,6 @@ This activity makes public-ledger privacy visible.
 * Why should an educator avoid searching a learner's address on a public website?
 
 **Offline fallback:** Use a printed sequence showing one address used once and another reused across several receipts.
+
+
+<!-- micrographic: address-reuse-linkage-01 -->

@@ -8,9 +8,9 @@
 
 **Production:** The learner completes the approved payment role and explains:
 
-* why the selected rail fits the amount and timing;
-* who controls the wallet;
-* how receipt is confirmed;
+* why the selected rail fits the amount and timing
+* who controls the wallet
+* how receipt is confirmed
 * what happens if sender and merchant displays disagree; and
 * when to stop.
 

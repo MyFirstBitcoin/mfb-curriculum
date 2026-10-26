@@ -1,6 +1,10 @@
-# 5.10 Media and tool fallbacks
+# 5.12 Media and tool fallbacks
 
-No Core explanation, formative educator check, practice activity, or directly observed practical evidence should depend on a video, live website, named service, or learner-owned device when an approved equivalent path can preserve the objective.
+The Student Guide contains the definitions, comparisons, safety rules, and review questions needed for the Bitcoin Diploma. Supplementary learning links and QR codes used to access them are optional. They may provide updates, recap material, source files, or ways to connect. Learners can complete the course without using these supplementary resources.
+
+No required Bitcoin Diploma explanation, formative educator check, practice activity, or directly observed practical evidence should depend on a video, live website, named service, or learner-owned device when an approved equivalent path can preserve the competency.
+
+When a demonstration needs internet access, prepare an offline alternative where possible, such as printed wallet screens, a transaction scenario, a card exercise, or a step-by-step discussion. A failed connection should not stop teaching or preparation.
 
 
 | Live or online experience | Offline or low-tech equivalent |
@@ -16,7 +20,10 @@ No Core explanation, formative educator check, practice activity, or directly ob
 | Live transaction | Simulation, test environment, empty training wallet, or educator demonstration |
 
 
-Offline teaching and assessment are valid. Offer optional app self-checks only when learners can access them safely and voluntarily.
+Offline teaching and assessment are valid. Use offline knowledge checks, printed activities, role-play, and simulations when connectivity is limited. Optional formative review is not part of certification.
 
 
----
+<!-- micrographic: same-competency-any-route-01 -->
+
+
+The Student Guide explains lasting concepts. Verify current local details before presenting fees, laws, taxes, available services, wallet features, or merchant listings, and date the information you use.

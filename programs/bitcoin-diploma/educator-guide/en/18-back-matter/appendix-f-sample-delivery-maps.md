@@ -8,10 +8,10 @@
 | 1 | Understanding Money | Opening questions, money-properties comparison, local fiat and purchasing-power discussion | Educator-led Module 1 theoretical evidence |
 | 2 | How Bitcoin Works | Double-spend scenario, role map, supply and sound-money comparison | Educator-led Module 2 theoretical evidence |
 | 3 | Using Bitcoin Safely | Custody, public/secret, recovery, receive/send, explorer, scam, and pathway practice | Educator-led theory evidence and direct practical observation |
-| 4 | Bitcoin in Your Community | Approved local PPP module and final reflection | Educator-led theory evidence where mapped; educator-observed B4.1/B4.2; formative ALL.2 reflection; any reassessment |
+| 4 | Connect: Bitcoin in Your Community | Approved local PPP module, connection to the earlier learning, and final reflection | Educator-observed C7, including C7.1/C7.2; formative F2 reflection; any reassessment |
 
 
-This model may need more scheduled practical-assessment time. Include that time in the advertised course pathway.
+This model commonly needs extra practical assessment time.
 
 ### Eight-session course
 
@@ -24,8 +24,8 @@ This model may need more scheduled practical-assessment time. Include that time 
 | 4 | Proof of work, supply, sats, sound-money comparison, scope, and review |
 | 5 | Wallets, addresses, keys, seed phrases, custody, and recovery practice |
 | 6 | Receiving, sending, confirmations, explorers, privacy, scams, pathways, and practical assessment |
-| 7 | Local need, tool/path comparison, presentation, and supported Custom practice |
-| 8 | Custom production, assessment, final reflection, remediation, and next steps |
+| 7 | Local need, tool/path comparison, presentation, and supported Module 4 practice |
+| 8 | Module 4 production, assessment, final reflection, remediation, and next steps |
 
 
 ### One-day intensive
@@ -35,17 +35,17 @@ Use only when the cohort and setting support sustained learning. Protect breaks 
 
 | Period | Focus |
 | --- | --- |
-| Opening | Expectations, optional app and assessment explanation, money questions |
+| Opening | Expectations, assessment explanation, money questions |
 | Morning 1 | Money foundations and properties activity |
 | Morning 2 | Fiat, banking, purchasing power, and Module 1 review |
 | Midday 1 | Bitcoin problem, roles, proof of work, supply, and sats |
 | Midday 2 | Sound-money comparison and responsibility bridge |
 | Afternoon 1 | Custody, secrets, recovery, receiving, and sending practice |
-| Afternoon 2 | Verification, scams, local Custom task, final reflection, and scheduled individual evidence collection |
-| Closing assessment window | Feedback, records, Not yet support, reassessment where feasible, and certification review |
+| Afternoon 2 | Verification, scams, educator-curated Module 4 Connect task, and final reflection |
+| Follow-up | Any remaining educator assessment, individual practical observation, support for learners with Not yet, formative educator help, and certification review |
 
 
-If the scheduled day cannot contain required observation, feedback, and records, choose a longer or multi-session delivery model before the course begins.
+Do not describe a compressed day as complete if required observation or assessment remains outstanding.
 
 
 ---

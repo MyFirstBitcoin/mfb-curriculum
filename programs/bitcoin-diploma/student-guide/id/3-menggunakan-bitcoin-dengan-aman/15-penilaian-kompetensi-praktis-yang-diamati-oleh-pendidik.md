@@ -1,0 +1,5 @@
+# 3.15 Penilaian Kompetensi Praktis yang Diamati oleh Pendidik
+
+Sebelum penilaian, Anda akan mendapatkan latihan dengan pendampingan serta mengetahui tugas dan batasan keselamatan yang berlaku. Pendidik Anda akan mengamati Anda menggunakan lingkungan yang telah disetujui, baik yang telah disiapkan, berupa simulasi, maupun yang berisiko rendah—penilaian tidak didasarkan pada kehadiran atau laporan Anda sendiri.
+
+Anda akan menunjukkan bahwa Anda dapat membuka atau menavigasi dompet yang telah disiapkan, menyelesaikan prosedur akses awal yang telah disetujui, menemukan dan memeriksa informasi penerimaan, serta menerima bitcoin atau menyimulasikan penerimaannya dengan aman. Anda juga akan menyelesaikan atau menyimulasikan dengan aman alur penerimaan atau pengiriman, serta menunjukkan kesiapan pemulihan menggunakan materi yang telah disiapkan sambil tetap menjaga kerahasiaan semua informasi rahasia. Anda dapat berlatih menanggapi ketidaksesuaian atau penipuan dengan aman melalui skenario terpandu. Jika Anda belum siap, Anda seharusnya mendapatkan umpan balik, latihan tambahan, dan kesempatan lain untuk menunjukkan keterampilan tersebut.

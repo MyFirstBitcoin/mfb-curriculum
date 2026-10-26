@@ -5,7 +5,7 @@ This is a minimum pathway. Extend it when the cohort needs more economic backgro
 
 | Time | Learning move | Suggested method |
 | --- | --- | --- |
-| 0–12 min | Surface prior ideas | Individual opening questions, then pair comparison |
+| 0–12 min | Surface prior ideas | Opening questions in pairs, then cohort discussion |
 | 12–28 min | Why money exists | Exchange scenario and spot question |
 | 28–45 min | Functions and properties | Local examples plus money-properties comparison |
 | 45–58 min | Barter and choice | Short double-coincidence role scenario; scarcity and opportunity-cost debrief |

@@ -11,55 +11,75 @@ introduction, learning objectives, or notes for educators.
 
 | Module | Number | Section |
 |--------|--------|---------|
-|  |  | [The Bitcoin Diploma ਕਹਾਣੀ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/0-front-matter/1-the-bitcoin-diploma.md) |
-|  |  | [ਭੂਮਿਕਾ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/0-front-matter/2.md) |
-| **[ਪੈਸਾ ਕੀ ਹੈ?](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/pa/1)** | 1.0 | [ਪਰਿਚਯ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/1/0.md) |
-|  | 1.1 | [ਪੈਸੇ ਬਾਰੇ ਚਰਚਾਵਾਂ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/1/1.md) |
-|  | 1.2 | [ਪੈਸੇ ਦੀ ਪਰਿਭਾਸ਼ਾ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/1/2.md) |
-|  | 1.3 | [ਪੈਸੇ ਦੇ ਕੰਮ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/1/3.md) |
-|  | 1.4 | [ਪੈਸੇ ਦੀਆਂ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/1/4.md) |
-|  | 1.5 | [ਪੈਸੇ ਦੇ ਕਿਸਮਾਂ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/1/5.md) |
-|  | 1.6 | [ਪੈਸੇ ਦੀ ਮਨੋਵਿਗਿਆਨ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/1/6.md) |
-| **[ਪੈਸੇ ਦਾ ਇਤਿਹਾਸ](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/pa/2)** | 2.0 | [ਪ੍ਰਸਤਾਵਨਾ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/2/0.md) |
-|  | 2.1 | [ਬਾਰਟਰ ਤੋਂ ਆਧੁਨਿਕ ਮੁਦਰਾ ਤੱਕ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/2/1.md) |
-|  | 2.2 | [ਡਿਜਿਟਲ ਮੁਦਰਾ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/2/2.md) |
-| **[ਫਿਅਟ ਪੈਸਾ ਕੀ ਹੈ?](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/pa/3)** | 3.0 | [ਪ੍ਰਸਤਾਵਨਾ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/3/0.md) |
-|  | 3.1 | [ਫਿਅਟ ਪੈਸੇ ਦਾ ਸੰਖੇਪ ਇਤਿਹਾਸ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/3/1.md) |
-|  | 3.2 | [ਫਿਅਟ ਪ੍ਰਣਾਲੀ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/3/2.md) |
-|  | 3.3 | [ਕੇਂਦਰੀ ਬੈਂਕ ਡਿਜੀਟਲ ਮੁਦਰਾਵਾਂ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/3/3.md) |
-| **[ਮੁਸ਼ਕਲਾਂ ਕਿਵੇਂ ਹੱਲਾਂ ਵੱਲ ਲੈ ਜਾਂਦੀਆਂ ਹਨ](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/pa/4)** | 4.0 | [ਪਰਿਚਯ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/4/0.md) |
-|  | 4.1 | [ਪੈਸੇ ਨਾਲ ਘੱਟ ਚੀਜ਼ਾਂ ਖਰੀਦੀਆਂ ਜਾ ਸਕਦੀਆਂ ਹਨ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/4/1.md) |
-|  | 4.2 | [ਗਲੋਬਲ ਕਰਜ਼ਾ ਬੋਝ ਅਤੇ ਸਮਾਜਿਕ ਅਸਮਾਨਤਾ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/4/2.md) |
-|  | 4.3 | [ਇੱਕ ਵਿਖੰਡਿਤ ਮੁਦਰਾ ਦੀ ਖੋਜ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/4/3.md) |
-| **[Bitcoin ਕੀ ਹੈ?](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/pa/5-bitcoin)** | 5.0 | [ਬਿਟਕੋਇਨ ਦੀ ਰਚਨਾ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/5-bitcoin/0.md) |
-|  | 5.1 | [ਬਿਟਕੋਇਨ ਕਿਵੇਂ ਕੰਮ ਕਰਦਾ ਹੈ?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/5-bitcoin/1.md) |
-|  | 5.2 | [Bitcoin ਇੱਕ ਮਜ਼ਬੂਤ ਡਿਜ਼ੀਟਲ ਪੈਸਾ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/5-bitcoin/2-bitcoin.md) |
-| **[ਬਿਟਕੋਇਨ ਦੀ ਵਰਤੋਂ ਕਿਵੇਂ ਕਰੀਏ](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/pa/6)** | 6.0 | [ਪਰਿਚਯ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/6/0.md) |
-|  | 6.1 | [ਬਿਟਕੋਇਨ ਪ੍ਰਾਪਤ ਕਰਨਾ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/6/1.md) |
-|  | 6.2 | [ਵਾਲਿਟਾਂ ਦਾ ਪਰਚਿਆ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/6/2.md) |
-|  | 6.3 | [ਮੋਬਾਈਲ ਵਾਲਿਟ ਸੈੱਟ ਕਰਨਾ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/6/3.md) |
-|  | 6.4 | [ਲੈਣ ਅਤੇ ਭੇਜਣ ਲੈਣ-ਦੇਣ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/6/4.md) |
-|  | 6.5 | [ਭਰੋਸਾ ਨਾ ਕਰੋ, ਜਾਂਚੋ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/6/5.md) |
-| **[ਰੋਜ਼ਾਨਾ ਜੀਵਨ ਵਿੱਚ Bitcoin ਦੀ ਵਰਤੋਂ](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/pa/7-bitcoin)** | 7.0 | [ਪਰਿਚਯ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/7-bitcoin/0.md) |
-|  | 7.1 | [ਲਾਈਟਨਿੰਗ ਨੈੱਟਵਰਕ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/7-bitcoin/1.md) |
-|  | 7.2 | [ਲਾਈਟਨਿੰਗ ਵਾਲਿਟਾਂ ਦੇ ਕਿਸਮਾਂ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/7-bitcoin/2.md) |
-|  | 7.3 | [ਬਿਟਕੋਇਨ ਲਾਈਟਨਿੰਗ ਵਾਲਿਟ ਸੈੱਟ ਅੱਪ ਕਰਨਾ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/7-bitcoin/3.md) |
-|  | 7.4 | [ਲਾਈਟਨਿੰਗ ਟ੍ਰਾਂਜ਼ੈਕਸ਼ਨ ਭੇਜਣ ਅਤੇ ਪ੍ਰਾਪਤ ਕਰਨ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/7-bitcoin/4.md) |
-|  | 7.5 | [ਬਿਟਕੋਇਨ ਨਾਲ ਕੌਫੀ ਅਤੇ ਕਰਿਆਨੇ ਦੀਆਂ ਚੀਜ਼ਾਂ ਖਰੀਦਣਾ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/7-bitcoin/5.md) |
-| **[ਬਿਟਕੋਇਨ ਕਿਵੇਂ ਕੰਮ ਕਰਦਾ ਹੈ](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/pa/8)** | 8.0 | [ਪ੍ਰਸਤਾਵਨਾ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/8/0.md) |
-|  | 8.1 | [ਕ੍ਰਿਪਟੋਗ੍ਰਾਫੀ ਰਾਹੀਂ ਸੁਰੱਖਿਆ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/8/1.md) |
-|  | 8.2 | [UTXO ਮਾਡਲ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/8/2-utxo.md) |
-| **[ਬਿਟਕੋਇਨ ਮਾਈਨਿੰਗ ਕਿਵੇਂ ਕੰਮ ਕਰਦੀ ਹੈ?](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/pa/9)** | 9.0 | [ਪ੍ਰਸਤਾਵਨਾ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/9/0.md) |
-|  | 9.1 | [ਬਿਟਕੋਇਨ ਨੋਡ ਅਤੇ ਮਾਈਨਰ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/9/1.md) |
-|  | 9.2 | [ਮੈਮਪੂਲ ਕੀ ਹੈ?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/9/2.md) |
-|  | 9.3 | [ਲੈਣ-ਦੇਣ ਕਿਵੇਂ ਕੰਮ ਕਰਦੇ ਹਨ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/9/3.md) |
-| **[Bitcoin ਕਿਹੋ ਜਿਹਾ ਭਵਿੱਖ ਤਿਆਰ ਕਰ ਸਕਦਾ ਹੈ?](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/pa/10-bitcoin)** | 10.0 | [ਪਰਿਚਯ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/10-bitcoin/0.md) |
-|  | 10.1 | [ਸੈਂਟਰਲ ਬੈਂਕ ਡਿਜੀਟਲ ਕਰੰਸੀਜ਼ (CBDCs) ਕੇਂਦਰੀ ਬੈਂਕਾਂ ਵੱਲੋਂ ਜਾਰੀ ਕੀਤੀਆਂ ਡਿਜੀਟਲ ਮੁਦਰਾਵਾਂ ਹਨ। ਇਹ ਮੁਦਰਾ ਪੂਰੀ ਤਰ੍ਹਾਂ ਡਿਜੀਟਲ ਹੁੰਦੀ ਹੈ ਅਤੇ ਇਸਨੂੰ ਸਰਕਾਰੀ ਤੌਰ 'ਤੇ ਮੰਨਤਾ ਮਿਲੀ ਹੁੰਦੀ ਹੈ। CBDCs ਦਾ ਮਕਸਦ ਰਾਸ਼ਟਰੀ ਮੁਦਰਾ ਨੂੰ ਡਿਜੀਟਲ ਰੂਪ ਵਿੱਚ ਉਪਲਬਧ ਕਰਵਾਉਣਾ ਹੈ, ਤਾਂ ਜੋ ਲੋਕਾਂ ਨੂੰ ਤੇਜ਼, ਸੁਰੱਖਿਅਤ ਅਤੇ ਆਸਾਨ ਲੈਣ-ਦੇਣ ਦੀ ਸਹੂਲਤ ਮਿਲ ਸਕੇ। CBDCs ਕਾਗਜ਼ੀ ਨੋਟਾਂ ਜਾਂ ਸਿੱਕਿਆਂ ਦੀ ਥਾਂ ਲੈ ਸਕਦੀਆਂ ਹਨ, ਪਰ ਇਹਨਾਂ ਨੂੰ ਕੇਵਲ ਕੇਂਦਰੀ ਬੈਂਕ ਹੀ ਜਾਰੀ ਕਰ ਸਕਦੇ ਹਨ।](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/10-bitcoin/1-cbdcs-cbdcs-cbdcs.md) |
-|  | 10.2 | [ਬਿਟਕੋਇਨ ਦਾ ਫਲਸਫਾ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/10-bitcoin/2.md) |
-|  | 10.3 | [ਬਿਟਕੋਇਨ ਦੇ ਫਾਇਦੇ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/10-bitcoin/3.md) |
-|  | 10.4 | [ਇੱਕ ਸਸ਼ਕਤ ਭਵਿੱਖ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/10-bitcoin/4.md) |
-|  |  | [ਅਸਲੀ ਦੁਨੀਆ ਦੇ ਕੇਸ ਅਧਿਐਨ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/11-back-matter/1.md) |
-|  |  | [ਵਧੀਕ ਸਰੋਤ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/11-back-matter/2.md) |
-|  |  | [ਮੁੱਖ ਸੰਕਲਪ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/11-back-matter/3.md) |
-|  |  | [ਸ਼ਬਦਾਵਲੀ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/11-back-matter/4.md) |
+|  |  | [ਬਿਟਕੋਇਨ ਡਿਪਲੋਮਾ ਵਿੱਚ ਤੁਹਾਡਾ ਸੁਆਗਤ ਹੈ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/0-front-matter/section-1.md) |
+|  |  | [ਬਿਟਕੋਇਨ ਡਿਪਲੋਮਾ ਕਿਵੇਂ ਕੰਮ ਕਰਦਾ ਹੈ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/0-front-matter/section-2.md) |
+| **[ਪੈਸੇ ਨੂੰ ਸਮਝਣਾ](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/pa/1)** | 1.1 | [ਪੈਸੇ ਬਾਰੇ ਸ਼ੁਰੂਆਤੀ ਸਵਾਲ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/1/1.md) |
+|  | 1.2 | [ਪੈਸਾ ਕਿਉਂ ਮੌਜੂਦ ਹੈ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/1/2.md) |
+|  | 1.3 | [ਪੈਸੇ ਦੇ ਕਾਰਜ ਅਤੇ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/1/3.md) |
+|  | 1.4 | [ਵਸਤੂ ਵਟਾਂਦਰਾ ਅਤੇ ਲੋੜਾਂ ਦਾ ਦੋਹਰਾ ਸੰਜੋਗ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/1/4.md) |
+|  | 1.5 | [ਘਾਟ, ਮੁੱਲ ਅਤੇ ਵਟਾਂਦਰਾ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/1/5.md) |
+|  | 1.6 | [ਵਸਤੂ-ਵਟਾਂਦਰੇ ਤੋਂ ਡਿਜੀਟਲ ਮੁਦਰਾ ਤੱਕ: ਨਵੇਂ ਸਿਖਿਆਰਥੀਆਂ ਲਈ ਮੁਦਰਾ ਦਾ ਇਤਿਹਾਸ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/1/6.md) |
+|  | 1.7 | [ਫ਼ਿਏਟ ਮੁਦਰਾ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/1/7.md) |
+|  | 1.8 | [ਅੰਸ਼ਕ ਰਿਜ਼ਰਵ ਬੈਂਕਿੰਗ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/1/8.md) |
+|  | 1.9 | [ਮਹਿੰਗਾਈ ਅਤੇ ਖਰੀਦ ਸ਼ਕਤੀ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/1/9.md) |
+|  | 1.10 | [ਅਮਰੀਕੀ ਡਾਲਰ ਵਿਸ਼ਵ ਦੀ ਇੱਕ ਰਿਜ਼ਰਵ ਮੁਦਰਾ ਕਿਉਂ ਹੈ?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/1/10.md) |
+|  | 1.11 | [ਬੱਚਤ ਕਰਨ ਅਤੇ ਮੁੱਲ ਸੰਭਾਲਣ ਦੇ ਵਿਕਲਪ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/1/11.md) |
+|  | 1.12 | [ਕੇਂਦਰੀ ਬੈਂਕ ਡਿਜੀਟਲ ਮੁਦਰਾਵਾਂ (CBDCs)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/1/12-cbdcs.md) |
+|  | 1.13 | [ਸਮੀਖਿਆ: ਪੈਸਾ ਕਿਵੇਂ ਨਾਕਾਮ ਹੋ ਸਕਦਾ ਹੈ?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/1/13.md) |
+|  |  | [ਪੈਸੇ ਨੂੰ ਸਮਝਣਾ: ਸੰਖੇਪ ਪਰਖ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/1/_quiz.md) |
+| **[ਬਿਟਕੋਇਨ ਕਿਵੇਂ ਕੰਮ ਕਰਦਾ ਹੈ](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/pa/2)** | 2.1 | [ਬਿਟਕੋਇਨ ਕਿਉਂ ਬਣਾਇਆ ਗਿਆ ਸੀ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/2/1.md) |
+|  | 2.2 | [ਡਿਜੀਟਲ ਅਤੇ ਵਿਕੇਂਦਰੀਕ੍ਰਿਤ ਪੈਸੇ ਦੀ ਖੋਜ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/2/2.md) |
+|  | 2.3 | [ਡਿਜੀਟਲ ਪੈਸੇ ਦੇ ਸ਼ੁਰੂਆਤੀ ਯਤਨ ਅਤੇ ਦੋਹਰੇ ਖਰਚ ਦੀ ਸਮੱਸਿਆ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/2/3.md) |
+|  | 2.4 | [ਡਿਜੀਟਲ ਦੁਰਲੱਭਤਾ ਅਤੇ ਸੁਤੰਤਰ ਤੌਰ ’ਤੇ ਤਸਦੀਕਯੋਗ ਸਪਲਾਈ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/2/4.md) |
+|  | 2.5 | [ਬਲਾਕਚੇਨ: ਬਿਟਕੋਇਨ ਦਾ ਜਨਤਕ ਬਹੀ-ਖਾਤਾ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/2/5.md) |
+|  | 2.6 | [ਵਿਕੇਂਦਰੀਕਰਨ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/2/6.md) |
+|  | 2.7 | [ਡਿਜੀਟਲ ਦਸਤਖ਼ਤ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/2/7.md) |
+|  | 2.8 | [ਪੀਅਰ-ਟੂ-ਪੀਅਰ ਟ੍ਰਾਂਸਫਰ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/2/8.md) |
+|  | 2.9 | [ਵਰਤੋਂਕਾਰ, ਨੋਡ ਅਤੇ ਮਾਈਨਰ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/2/9.md) |
+|  | 2.10 | [ਕੰਮ ਦਾ ਸਬੂਤ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/2/10.md) |
+|  | 2.11 | [ਸੀਮਤ ਸਪਲਾਈ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/2/11.md) |
+|  | 2.12 | [ਸਤੋਸ਼ੀ ਅਤੇ ਇਕਾਈ ਪੱਖਪਾਤ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/2/12.md) |
+|  | 2.13 | [ਮਜ਼ਬੂਤ ਡਿਜੀਟਲ ਮੁਦਰਾ ਵਜੋਂ ਬਿਟਕੋਇਨ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/2/13.md) |
+|  | 2.14 | [ਬਿਟਕੋਇਨ, ਸਟੇਬਲਕੋਇਨ ਅਤੇ ਹੋਰ ਕ੍ਰਿਪਟੋ-ਸੰਪਤੀਆਂ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/2/14.md) |
+|  | 2.15 | [ਸਿੱਖਣਾ ਅਤੇ ਜ਼ਿੰਮੇਵਾਰੀ ਨਾਲ ਵਰਤੋਂ ਕਰਨਾ ਟ੍ਰੇਡਿੰਗ ਜਾਂ ਪ੍ਰਚਾਰ ਨਹੀਂ ਹਨ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/2/15.md) |
+|  | 2.16 | [ਬਿਟਕੋਇਨ ਦੀ ਉਤਪੱਤੀ ਦੀ ਸਮਾਂਰੇਖਾ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/2/16.md) |
+|  | 2.17 | [ਸਸ਼ਕਤੀਕਰਨ, ਜੋਖਮ ਅਤੇ ਜ਼ਿੰਮੇਵਾਰੀ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/2/17.md) |
+|  | 2.18 | [ਸਮੀਖਿਆ: ਬਿਟਕੋਇਨ ਮੁਦਰਾ ਪ੍ਰਣਾਲੀ ਦੀਆਂ ਖਾਮੀਆਂ ਨੂੰ ਕਿਵੇਂ ਦੂਰ ਕਰਦਾ ਹੈ?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/2/18.md) |
+|  |  | [ਬਿਟਕੋਇਨ ਕਿਵੇਂ ਕੰਮ ਕਰਦਾ ਹੈ: ਸੰਖੇਪ ਪਰਖ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/2/_quiz.md) |
+| **[ਬਿਟਕੋਇਨ ਦੀ ਸੁਰੱਖਿਅਤ ਵਰਤੋਂ](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/pa/3)** | 3.1 | [ਬਿਟਕੋਇਨ ਦੀ ਸੁਰੱਖਿਅਤ ਵਰਤੋਂ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/3/1.md) |
+|  | 3.2 | [ਵਾਲਿਟਾਂ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/3/2.md) |
+|  | 3.3 | [ਪਤੇ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/3/3.md) |
+|  | 3.4 | [ਕੁੰਜੀਆਂ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/3/4.md) |
+|  | 3.5 | [ਸੀਡ ਵਾਕਾਂਸ਼](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/3/5.md) |
+|  | 3.6 | [ਕਸਟੋਡੀਅਲ ਅਤੇ ਗੈਰ-ਕਸਟੋਡੀਅਲ ਵਰਤੋਂ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/3/6.md) |
+|  | 3.7 | [ਹੌਟ ਅਤੇ ਕੋਲਡ ਵਾਲਿਟ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/3/7.md) |
+|  | 3.8 | [ਵਾਲਿਟ ਦੀ ਰਿਕਵਰੀ ਅਤੇ ਸੀਡ ਫ੍ਰੇਜ਼ ਦੀ ਜਾਂਚ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/3/8.md) |
+|  | 3.9 | [ਬਿਟਕੋਇਨ ਪ੍ਰਾਪਤ ਕਰਨਾ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/3/9.md) |
+|  | 3.10 | [ਬਿਟਕੋਇਨ ਭੇਜਣਾ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/3/10.md) |
+|  | 3.11 | [ਤਸਦੀਕ, ਬਲਾਕ ਐਕਸਪਲੋਰਰ ਅਤੇ ਨਾ-ਵਾਪਸੀਯੋਗ ਲੈਣ-ਦੇਣ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/3/11.md) |
+|  | 3.12 | [ਸੁਰੱਖਿਆ ਜਾਂਚ-ਸੂਚੀ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/3/12.md) |
+|  | 3.13 | [ਬਿਟਕੋਇਨ ਪ੍ਰਾਪਤ ਕਰਨਾ ਅਤੇ ਵਟਾਂਦਰਾ ਕਰਨਾ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/3/13.md) |
+|  | 3.14 | [ਆਨ-ਚੇਨ ਅਤੇ ਲਾਈਟਨਿੰਗ ਭੁਗਤਾਨ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/3/14.md) |
+|  | 3.15 | [ਅਧਿਆਪਕ ਦੀ ਨਿਗਰਾਨੀ ਹੇਠ ਵਿਹਾਰਕ ਯੋਗਤਾ ਦੀ ਜਾਂਚ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/3/15.md) |
+|  | 3.16 | [ਸਮੀਖਿਆ: ਸਵੈ-ਹਿਰਾਸਤ ਦੀ ਜ਼ਿੰਮੇਵਾਰੀ ਦਾ ਕੀ ਅਰਥ ਹੈ?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/3/16.md) |
+|  |  | [ਬਿਟਕੋਇਨ ਦੀ ਸੁਰੱਖਿਅਤ ਵਰਤੋਂ: ਛੋਟੀ ਜਾਂਚ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/3/_quiz.md) |
+| **[ਤੁਹਾਡੇ ਭਾਈਚਾਰੇ ਵਿੱਚ ਬਿਟਕੋਇਨ](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/pa/4)** | 4.1 | [ਤੁਹਾਡੇ ਭਾਈਚਾਰੇ ਵਿੱਚ ਬਿਟਕੋਇਨ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/4/1.md) |
+|  | 4.2 | [ਤੁਹਾਡਾ ਸਥਾਨਕ ਮੋਡੀਊਲ 4](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/4/2-4.md) |
+|  | 4.3 | [ਵਿਹਾਰਕ ਵਰਕਸ਼ਾਪਾਂ ਅਤੇ ਪ੍ਰਦਰਸ਼ਨ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/4/3.md) |
+|  | 4.4 | [ਸਥਾਨਕ ਬਿਟਕੋਇਨ ਸਾਧਨ ਅਤੇ ਸਰੋਤ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/4/4.md) |
+|  | 4.5 | [ਲਾਈਟਨਿੰਗ ਭੁਗਤਾਨ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/4/5.md) |
+|  | 4.6 | [ਰੋਜ਼ਾਨਾ ਜੀਵਨ ਵਿੱਚ ਬਿਟਕੋਇਨ ਦੀ ਵਰਤੋਂ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/4/6.md) |
+|  | 4.7 | [ਸਥਾਨਕ ਪੱਧਰ 'ਤੇ ਖਰਚ ਕਰਨ ਅਤੇ ਪ੍ਰਾਪਤ ਕਰਨ ਦੇ ਦ੍ਰਿਸ਼](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/4/7.md) |
+|  | 4.8 | [ਸਥਾਨਕ ਆਨ-ਰੈਂਪ ਅਤੇ ਆਫ਼-ਰੈਂਪ ਦੇ ਤਰੀਕੇ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/4/8.md) |
+|  | 4.9 | [KYC ਅਤੇ ਗੈਰ-KYC ਦੇ ਫ਼ਾਇਦੇ-ਨੁਕਸਾਨ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/4/9-kyc-kyc.md) |
+|  | 4.10 | [ਚੱਕਰੀ ਅਰਥਵਿਵਸਥਾਵਾਂ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/4/10.md) |
+|  | 4.11 | [ਵਪਾਰੀਆਂ ਜਾਂ ਭਾਈਚਾਰੇ ਲਈ ਵਰਤੋਂ ਦੇ ਮਾਮਲੇ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/4/11.md) |
+|  | 4.12 | [ਸਥਾਨਕ ਸਰੋਤਾਂ ਦੇ ਨਕਸ਼ੇ ਅਤੇ ਭਾਈਚਾਰੇ ਦੀ ਖੋਜ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/4/12.md) |
+|  | 4.13 | [ਸਮੀਖਿਆ: ਇਸ ਨੂੰ ਆਪਣੇ ਭਾਈਚਾਰੇ ਨਾਲ ਜੋੜੋ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/4/13.md) |
+|  |  | [ਵਿਕਲਪਿਕ ਅਗਲੇ ਕਦਮ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/pa/5-back-matter/section-1.md) |
+
+**Quizzes** (`_quiz.md`, one per module): the question, the choices and the
+explanation are text, and corrections are welcome. The ticked box is the answer
+key, shared by every language, so it is not changed from a pull request; nor is
+the number of questions or of choices.
 <!-- mfb:structure:end -->

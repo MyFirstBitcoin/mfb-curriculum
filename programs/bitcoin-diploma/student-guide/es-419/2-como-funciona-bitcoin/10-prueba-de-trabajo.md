@@ -1,18 +1,30 @@
 # 2.10 Prueba de trabajo
 
-**La prueba de trabajo** es el proceso que usan los mineros para competir por el derecho a proponer el siguiente bloque.
+![](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
-Un minero modifica repetidamente los datos de un bloque candidato y los procesa mediante una función hash matemática. El resultado es impredecible. El minero busca un resultado inferior a un valor objetivo establecido por la regla de dificultad de la red. No hay atajos; los mineros deben realizar muchos intentos.
 
-Cuando un minero encuentra un resultado válido, difunde el bloque. Los nodos pueden verificar la prueba rápidamente, aunque encontrarla haya requerido una cantidad considerable de cómputo y energía. Si el bloque incluye una transacción, esa transacción recibe su primera **confirmación**. Cada bloque válido que se agrega después añade otra confirmación, lo que hace más costoso alterar la posición de la transacción en la cadena de bloques. Esta diferencia es importante: realizar el trabajo es costoso y verificarlo es fácil.
+> **Definition – Prueba de trabajo**
+>
+> [La prueba de trabajo](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) es el proceso que los [mineros](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) utilizan para competir por el derecho a proponer el siguiente bloque.
 
-La prueba de trabajo cumple varios propósitos:
 
-* les permite a los mineros independientes competir sin un coordinador central;
-* hace que alterar el orden de las transacciones sea costoso;
-* vincula la seguridad de la red con equipos físicos y energía;
-* sustenta un método público para elegir entre historiales válidos que compiten entre sí: la cadena con más trabajo acumulado.
+Una [función hash](https://curriculum.myfirstbitcoin.org/lexicon/en/#hash-function) transforma datos en un resultado de longitud fija. Un pequeño cambio en los datos de entrada produce un nuevo resultado impredecible. Un [minero](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) cambia una pequeña parte de los datos de un bloque propuesto y le aplica la función hash repetidamente. Un resultado es válido solo cuando su número está por debajo del [objetivo](https://curriculum.myfirstbitcoin.org/lexicon/en/#target) de la red, un umbral establecido por las reglas; un menor [objetivo](https://curriculum.myfirstbitcoin.org/lexicon/en/#target) significa menos [resultados válidos](https://curriculum.myfirstbitcoin.org/lexicon/en/#valid-result) y más intentos. No hay atajos, por lo que los [mineros](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) pueden necesitar muchos intentos.
 
-La minería no resuelve ecuaciones útiles para un propósito externo. Su propósito es proteger el orden de las transacciones de Bitcoin. La red ajusta la dificultad de minería para que los bloques sigan generándose aproximadamente cada diez minutos en promedio, a medida que cambia la potencia de cómputo.
+Cuando un [minero](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) encuentra un [resultado válido](https://curriculum.myfirstbitcoin.org/lexicon/en/#valid-result), [difunde](https://curriculum.myfirstbitcoin.org/lexicon/en/#broadcast) el bloque. [Los nodos](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) pueden verificar la prueba rápidamente, aunque encontrarla haya requerido una cantidad considerable de cómputo y energía. Si el bloque incluye una [transacción](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), esa [transacción](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) recibe su [primera confirmación](https://curriculum.myfirstbitcoin.org/lexicon/en/#first-confirmation): su registro se ha incluido en un bloque válido. Cada bloque válido que se agrega después añade otra [confirmación](https://curriculum.myfirstbitcoin.org/lexicon/en/#confirmation), lo que hace que reescribir la posición de la [transacción](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) en la [cadena de bloques](https://curriculum.myfirstbitcoin.org/lexicon/en/#blockchain) sea más costoso. Esta diferencia es importante: el trabajo es costoso de producir y fácil de verificar.
 
-La prueba de trabajo implica un costo energético real. Sus defensores sostienen que este costo es lo que sustenta la seguridad de Bitcoin y que puede generar demanda de energía de suministro flexible o que, de otro modo, no se aprovecharía. Sus críticos cuestionan la cantidad y el origen de la energía utilizada. Una evaluación responsable examina qué energía se utiliza, de dónde proviene, qué seguridad brinda y qué alternativas se están comparando.
+
+<!-- micrographic: proof-of-work-process-01 -->
+
+
+[La prueba de trabajo](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) cumple varias funciones:
+
+* les da a los [mineros](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) independientes una forma de competir sin un coordinador central
+* hace que el orden de las [transacciones](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) sea costoso de reescribir
+* vincula la seguridad de la red con equipos y energía del mundo real
+* ofrece un método público para elegir entre historiales válidos en competencia: la cadena con más [trabajo acumulado](https://curriculum.myfirstbitcoin.org/lexicon/en/#accumulated-work)
+
+[La minería](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) no resuelve ecuaciones útiles para un fin externo. Su propósito es garantizar en Bitcoin el orden de las [transacciones](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction). La red ajusta periódicamente el valor objetivo: cuando los bloques llegan demasiado rápido, lo reduce, y cuando llegan demasiado lento, lo aumenta, buscando mantener un promedio aproximado de un bloque cada diez minutos a medida que cambia la potencia de cómputo.
+
+[La prueba de trabajo](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) implica un costo energético real. Sus defensores argumentan que este costo es lo que sustenta la seguridad de Bitcoin y puede generar demanda de energía de uso flexible o que de otro modo no se aprovecharía. Sus críticos cuestionan la cantidad y la procedencia de la energía utilizada. Una evaluación responsable examina qué energía se utiliza, de dónde proviene, qué seguridad proporciona y qué alternativas se están comparando.
+
+![El educador, el estudiante principiante y el estudiante con conocimientos técnicos conversan sobre una unidad de minería de sobremesa con un ventilador y una fuente de alimentación independiente.](https://cdn.sanity.io/images/vje9ehw2/staging/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)

@@ -1,0 +1,7 @@
+# Ce qui reste fixe — et ce que vous apportez
+
+**À conserver sans modification :** l’ordre des quatre modules ; les objectifs fondamentaux ; l’approche centrée exclusivement sur Bitcoin ; les limites en matière de sécurité ; l’évaluation en deux parties ; et les critères minimaux de réussite.
+
+**À adapter avec discernement :** les exemples, la langue, les activités, le rythme, la constitution des groupes, les mesures d’accessibilité, les outils locaux et, pour le **module 4** — les mises en situation. Présentez les logiciels de portefeuille open source comme une préférence à nuancer, car un code que l’on peut examiner peut améliorer la transparence, tout en aidant les apprenants à comparer la garde des fonds, la récupération, la compatibilité, la confidentialité, la maintenance, le coût et l’assistance. Considérez les portefeuilles, plateformes d’échange, commerçants, cartes et services nommément cités comme des exemples locaux datés, et non comme des recommandations universelles. Vérifiez les affirmations actuelles et les règles locales auprès de sources faisant autorité ; si vous ne savez pas, dites-le et vérifiez.
+
+Apprenez aux apprenants **comment réfléchir, et non quoi penser**. Accueillez les désaccords respectueux. Un apprenant n’a pas besoin d’être d’accord avec une affirmation pour satisfaire aux critères de réussite ; il doit savoir raisonner, expliquer les compromis pertinents et démontrer les compétences requises en toute sécurité.

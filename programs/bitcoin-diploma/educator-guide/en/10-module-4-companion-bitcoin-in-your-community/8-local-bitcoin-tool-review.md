@@ -18,6 +18,7 @@ Do not demonstrate a tool simply because it is popular locally. Use this compari
 | Alternative | What can learners use if the tool fails or is unavailable? |
 
 
-Say explicitly:
 
+> **Dark – Local examples are not global recommendations**
+>
 > This tool is a dated local example for learning. Its use in class is not a global recommendation by My First Bitcoin or a promise that it will remain suitable.

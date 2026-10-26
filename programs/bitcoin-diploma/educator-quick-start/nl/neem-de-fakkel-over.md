@@ -1,0 +1,5 @@
+# Neem de fakkel over
+
+Dit herontwerp biedt educatoren meer structuur waar consistentie belangrijk is en meer ruimte waar lokale wijsheid belangrijk is. Door uw zorgvuldige begeleiding wordt het Bitcoin Diploma van een boek een gedeelde leerervaring: een ervaring die mensen helpt helder na te denken over geld, Bitcoin, verantwoordelijkheid en hun eigen gemeenschap.
+
+Wilt u, naast het Bitcoin Diploma, optioneel verder leren? Verken dan het [Educator Training Program](https://etp.myfirstbitcoin.org/) of maak contact via het [Bitcoin Education Network](https://leaderboard.myfirstbitcoin.org). U kunt ook [feedback geven](https://forms.myfirstbitcoin.org/feedback), [correcties of verbeteringen van vertalingen indienen](https://forms.myfirstbitcoin.org/proofread), lokale leermiddelen delen via het [officiële bijdrageformulier](https://forms.myfirstbitcoin.org/), of de Open-source [curriculumrepository](https://github.com/MyFirstBitcoin/mfb-curriculum) gebruiken om de huidige edities te bekijken en mee te werken aan het verbeteren van het materiaal. Geen van deze links is vereist om het Bitcoin Diploma af te ronden.

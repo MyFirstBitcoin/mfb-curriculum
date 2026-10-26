@@ -1,0 +1,7 @@
+# 2.7 Assinaturas digitais
+
+[As assinaturas digitais](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) são uma das partes fundamentais do design do Bitcoin descritas no whitepaper. No Bitcoin, uma carteira usa uma [chave privada](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) para criar uma [assinatura digital](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) que autoriza uma [transação](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction). Uma carteira geralmente é um aplicativo que gerencia as chaves e cria essas assinaturas para o usuário. Somente quem detém a [chave privada](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) necessária pode autorizar o gasto; a rede pode verificar a assinatura sem conhecer a própria [chave privada](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key).
+
+Isso permite que uma pessoa controle bitcoin sem pedir permissão a um banco ou a outro operador central. Também significa que o controle da [chave privada](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) é crítico: qualquer pessoa que a obtenha geralmente pode autorizar um gasto, enquanto uma chave perdida pode tornar o bitcoin irrecuperável.
+
+Essa é a base da [autocustódia](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody): você mesmo controlar as chaves, em vez de depender de um serviço para controlá-las. **O Módulo 3** explica as responsabilidades práticas de segurança relacionadas a chaves, backups e recuperação.
