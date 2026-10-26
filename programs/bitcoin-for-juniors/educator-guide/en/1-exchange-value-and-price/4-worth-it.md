@@ -1,4 +1,4 @@
-# 1.3 Worth It
+# 1.5 Worth It
 
 _Sorting, Discussion · Whole class, Individual · 45 min_
 
@@ -6,87 +6,75 @@ Students explore the meaning of price by cutting out everyday items and placing 
 
 #### Objectives
 
+**Learning Outcomes**
+
 By the end of this activity, learners will:
 
-* Understand that price means how much something costs in money
+* Understand that [price](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) means how much something costs in money
 * Recognize the difference between cheap and expensive items
 * Compare prices across different types of goods
 * Participate in group discussion and justification
+
+**Objective In Student’s Words**
+
+*  “Learn how much things cost and tell the difference between cheap and expensive.”
 
 #### Materials
 
 * Old catalogues, magazines, or printed product sheets
 * Glue sticks or tape
 * Markers
-* Sticky notes or voting stickers (nice to have)
 * Child-safe scissors
-* Projector, Visual Aides (See Appendix A) (Appendix A, nice to have)
+* Whiteboard, wall space, or chart paper for the price line
+* Painter's tape or string to make the Low Price–High Price line
+* Nice-to-have: Sticky notes or voting stickers
+* Nice-to-have: Projector, Visual Aids (See Appendix A)
+
+#### Setup
+
+* Check that catalogue items are age-appropriate, hide their printed prices, and pre-cut a few examples if helpful.
 
 #### Procedure
 
-##### OPENING
+##### Step 1: Set up the lesson
 
-_10 minutes_
+**5 minutes**
 
-1. Optional: Pre-select and cut out items for modelling the activity
-1. Ensure all contents of the catalog are age appropriate.
-1. If possible, attempt to hide the retail price of the items using a marker pen.
+1. Ask what _price_ means, then write: **Price = how much money something costs.**
+1. Compare two familiar items, such as an apple and a bicycle.
 
-##### PRE-ACTIVITY
+##### Step 2: Activity
 
-_5 minutes_
+**25 minutes**
 
-1. Ask students: “Who knows what the word _price_ means?”
-1. Write clearly on the board:
-  1. **Price = how much money something costs**
-1. Show two contrasting examples (e.g., apple vs bicycle) and ask which costs more.
+###### Setup
 
-**Objective In Student’s Words**
+1. Draw a Low Price–High Price line on the wall or board (_Appendix B_).
 
-*  “Learn how much things cost and tell the difference between cheap and expensive.”
+###### Model
 
-##### ACTIVITY
+1. Place one item on the line, explain why, and invite agreement or disagreement.
 
-_25 minutes_
+###### Carry Out
 
-**Setup**
+1. Students place items on the line. Ask whether each costs more or less than the last; let them move items when opinions change.
 
-1. Create a long horizontal line on the wall or board using tape or a dry-wipe pen. (_See Appendix B_)
-1. Label:
-  1. Left: “Low Price”
-  1. Right: “High Price”
+###### Reflection
 
-**Model**
+* Review the line, then reveal or estimate a few real prices.
+* Highlight that size does not determine price.
 
-1. If not already done, select and cut out and item from the materials
-1. Place one item yourself on the horizontal line and explain your thinking aloud:
-  1. “This goes here because it has a low price - it usually costs less money.”
-1. Ask students if they agree or disagree.
+##### Step 3: Wrap up
 
-**Carry Out**
+1. Tidy materials; keep or display the line if useful.
 
-1. Students take turns coming to the front and placing their items on the price line.
-1. Teacher prompts:
-  1. “Is this price lower or higher than the last one?” ir “Does it cost more money to buy?”
-  1. “Should it go more to the left or right?”
-1. Encourage movement and adjustment as opinions change.
+#### Key points
 
-**Reflection**
+* Compare prices to distinguish cheap and expensive goods.
 
-* Walk along the price line as a group.
-* Ask:
-  * “Do you think this item should move?”
-  * “Which item surprised you?”
-* Reveal or estimate real prices for a few items and compare them to student guesses.
-* Highlight:
-  * Small items can be expensive
-  * Big items can sometimes be cheap
+#### Discussion questions
 
-##### FOLLOW-UP
-
-_2 minutes_
-
-
+**2 minutes**
 
 Summarize:
 
@@ -94,34 +82,27 @@ Summarize:
 * Prices are different for different things
 * We can disagree, but money helps us decide
 
-##### CLOSE
-
-1. Congratulate students for their participation.
-1. Take a moment for gratitude for the objects in their life.
-1. Ask students to return all materials and equipment.
-1. The project can be displayed or stored and can be added to later by the students.
-
 #### Notes
 
-##### **Classroom management**
+###### Classroom management
 
 * Call students up one at a time
 * Encourage respectful disagreement
 
-##### **Extensions & Sponge Activities**
+###### Extensions & Sponge Activities
 
 * Add price categories (Under $10, $10–$50, Over $100, Over $1000)
 * Redo the line using food, experiences, or services
 * Compare guessed prices vs real prices
 * Higher or Lower game
-* Introduce scarcity by asking why some items cost so much
+* Introduce [scarcity](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) by asking why some items cost so much
 
-##### **Differentiation**
+###### Differentiation
 
 * **Younger students:** pre-cut items
 * **ELL/Accessibility:** allow pointing instead of speaking
 * **Safety:** supervise scissor use
 
-#### Additional resources
+###### Suggested assignment
 
-* Appendix B: High Price / Low Price Visual
+Pick two familiar items at home and say which one you think costs more. Ask a parent or caregiver whether price and value always mean the same thing.

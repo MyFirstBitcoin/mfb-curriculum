@@ -1,10 +1,12 @@
-# 3.3 Invent The Future
+# 3.4 Invent The Future
 
-_Craft, Presentation, Discussion · Small groups, Individual · 45–60 min_
+_Creative writing, Presentation, Discussion · Small groups, Individual · 45–60 min_
 
 Students imagine the future of technology by inventing a new product or system and pitching it in a “Dragons’ Den” format. Learners reflect on how technology evolves, identify real problems to solve, and practice explaining ideas clearly. The activity encourages creativity, critical thinking, and communication while reinforcing the idea that innovation responds to needs over time.
 
 #### Objectives
+
+**Learning Outcomes**
 
 By the end of this activity, learners will:
 
@@ -13,98 +15,95 @@ By the end of this activity, learners will:
 * Explain how and why their invention works
 * Practice presenting and defending an idea.
 
-#### Materials
-
-* Blank paper for sketches and notes
-* Pencils, crayons, or markers
-* Pitch Template (See Appendix A) (Appendix A, nice to have)
-* Whiteboard or poster space
-* Timer for pitches (nice to have)
-
-#### Procedure
-
-##### OPENING
-
-1. Arrange seating so teams can work together and later present to the front.
-1. Prepare board space to list examples of past, present, and emerging technologies.
-1. Decide how pitches will be timed and assessed.
-
-##### PRE-ACTIVITY
-
-_5-10 minutes_
-
-1. Show or describe examples of inventions that succeeded and inventions that failed.
-1. Discuss briefly why some technologies worked and others did not.
-1. Introduce a few emerging technologies and ask students what they think might happen next.
-1. Explain that today students will become inventors predicting the future.
-
 **Objective In Student’s Words**
 
 *  “Invent a new technology and convince others that it’s a good idea.”
 
-##### ACTIVITY
+#### Materials
 
-_30-40 minutes_
+* Blank paper for sketches and notes
+* Pencils, crayons, or markers
+* Whiteboard or poster space
+* Nice-to-have: Pitch Template (See Appendix A)
+* Nice-to-have: Images or prompt cards showing inventions that succeeded, failed, or are still emerging
+* Nice-to-have: Timer for pitches
 
-**Setup**
+#### Setup
 
-1. Explain the Dragons’ Den format: students invent, then pitch.
-1. Explain expectations for the pitch: what it is, what problem it solves, and why it matters.
-1. Assign students to work individually or in small teams.
+* Arrange team workspaces facing a presentation area.
+* Divide the board into past, present, and emerging technologies; set a pitch timer.
 
-**Model**
+#### Procedure
 
-1. Give a simple example invention such as a backpack that charges devices using movement.
-1. Model a short pitch explaining the problem, solution, and benefit.
+##### Step 1: Set up the lesson
 
-**Carry Out**
+**5-10 minutes**
 
-1. Students brainstorm problems they want to solve.
-1. Students design an invention that addresses the problem.
-1. Students sketch the invention and write key points for their pitch.
-1. Teams rehearse how they will explain their idea.
-1. Students present their invention to the teacher or class in short pitches.
+1. Show or describe inventions that succeeded and failed, and discuss briefly why.
+1. Introduce a few emerging technologies, ask students what might happen next, and explain that they will become inventors predicting the future.
 
-**Checkpoint**
+##### Step 2: Activity
+
+**30-40 minutes**
+
+###### Setup
+
+1. Explain the Dragons’ Den format: students will invent, then pitch what it is, the problem it solves, and why it matters. Assign them to work individually or in small teams.
+
+###### Model
+
+1. Give a simple example, such as a backpack that charges devices using movement, then model a short pitch explaining its problem, solution, and benefit.
+
+###### Carry Out
+
+1. Students brainstorm a problem, design an invention that addresses it, then sketch it and note key points for their pitch.
+1. Teams rehearse their explanation and present a short pitch to the teacher or class.
+
+###### Checkpoint
 
 1. Circulate during planning to ensure ideas are clear and realistic.
 1. Ask guiding questions such as “Who would use this?” and “Why is this better than what exists now?”
 
-**Reflection**
+###### Reflection
 
 * After presentations, ask students what inventions they found most interesting.
 * Ask what problems appeared most important to solve.
 * Ask what made a pitch convincing.
 
-##### FOLLOW-UP
+##### Step 3: Wrap up
 
-_5-10 minutes_
+1. Collect sketches and materials, reset the room, and thank students for their creativity and effort. Reinforce: “Every invention starts as an idea someone was brave enough to share.”
+
+#### Key points
+
+* Design and present an invention that solves a problem.
+
+#### Discussion questions
+
+**5-10 minutes**
 
 1. Review that technology evolves to solve problems.
 1. Discuss how predictions can be right or wrong over time.
 1. Connect to real-world innovation and how ideas improve through feedback.
 
-##### CLOSE
-
-1. Collect sketches and materials.
-1. Reset the classroom.
-1. Thank students for their creativity and effort.
-1. Final message: “Every invention starts as an idea someone was brave enough to share.”
-
 #### Notes
 
-##### **Classroom management**
+###### Classroom management
 
 * Keep pitch timing consistent.
 * Encourage respectful listening and questions.
 
-##### **Extensions & Sponge Activities**
+###### Extensions & Sponge Activities
 
 * Turn the pitch into a written assignment.
 * Add voting categories such as most useful, most creative, or most realistic.
 
-##### **Differentiation**
+###### Differentiation
 
 * Younger students: focus on drawing and simple explanations.
 * ELL/Accessibility: visual support, partner pitching.
 * Safety: seated activity, no physical construction required.
+
+###### Suggested assignment
+
+Show your invention to a parent or caregiver. Explain the problem it solves and ask what they would invent.

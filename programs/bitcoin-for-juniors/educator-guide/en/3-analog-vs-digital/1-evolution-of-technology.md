@@ -1,10 +1,12 @@
-# 3.1 Back In My Day
+# 3.2 Back In My Day
 
 _Matching, Craft, Discussion · Whole class, Pairs, Individual · 20 min_
 
 Students match older analogue technologies with their modern digital equivalents. Through visual matching, colouring, and discussion, learners explore how tools evolve over time and how innovation changes the way people live, work, and communicate. The activity builds early awareness of technological progress and time-based change.
 
 #### Objectives
+
+**Learning Outcomes**
 
 By the end of this activity, learners will:
 
@@ -13,68 +15,63 @@ By the end of this activity, learners will:
 * Recognize innovation as a process of improvement and adaptation
 * Reflect on how technology affects daily life
 
-#### Materials
-
-* Printed matching worksheet (See Appendix A) (Appendix A, Analog to digital matching pairs)
-* Coloured pencils or crayons
-* Visual Aids (See Appendix B) (Appendix B, nice to have)
-* Whiteboard or chalkboard
-* Visual aid or slideshow
-* Timer (nice to have)
-
-#### Procedure
-
-##### OPENING
-
-1. Ensure every student has a clear surface to work on.
-1. Prepare the board or visual display with images of older technologies.
-1. Distribute colouring materials in advance.
-1. Introduce the activity by saying: “Today we’re going to look at how technology has changed from the past to today.”
-1. Show examples such as a typewriter, Walkman, oil lamp, or VHS tape.
-1. Ask: “Have you seen this before?” “What do we use instead today?”
-
-##### PRE-ACTIVITY
-
-_2-3 minutes_
-
-1. Explain that students will act as technology detectives.
-1. Introduce vocabulary: analogue, digital, technology, innovation, evolution.
-1. Clarify meanings using simple explanations or images.
-1. Explain that the goal is to match old tools with modern ones.
-
 **Objective In Student’s Words**
 
 *  “Match old technology with new technology and see how things have changed.”
 
-##### ACTIVITY
+#### Materials
 
-_10 minutes_
+* Printed matching worksheet (See Appendix A)
+* Coloured pencils or crayons
+* One analogue object or large picture to open the discussion (for example, a typewriter, VHS tape, or rotary phone)
+* Whiteboard or chalkboard
+* Visual aid or slideshow
+* Nice-to-have: Visual Aids (See Appendix B)
+* Nice-to-have: Timer
 
-**Setup**
+#### Setup
 
-1. Distribute one matching worksheet to each student (_See Appendix A_)
-1. Write simple instructions on the board.
+* Display the older-technology images and place a worksheet and colouring materials at each workspace.
 
-**Model**
+#### Procedure
 
-1. Demonstrate one example match on the board.
-1. Explain why the two items belong together.
+##### Step 1: Set up the lesson
 
-**Carry Out**
+**2–3 minutes**
 
-1. Students match each analogue item on the left with its digital version on the right.
-1. Students colour the items they have used before.
-1. Students circle items they have at home.
-1. Teacher circulates to support students who do not recognize certain technologies.
+1. Show an old tool, such as a typewriter or VHS tape, and ask what people use instead today. Introduce analogue, digital, technology, innovation, and evolution; explain that students will match old tools with modern ones.
 
-**Checkpoint**
+##### Step 2: Activity
 
-1. Observe whether students can correctly match most pairs.
-1. Pause briefly if several students struggle and clarify with visuals.
+**10 minutes**
 
-##### FOLLOW-UP
+###### Setup
 
-_3-5 minutes_
+1. Give each student a matching worksheet (_Appendix A_).
+
+###### Model
+
+1. Complete one match and explain it.
+
+###### Carry Out
+
+1. Students match pairs, colour tools they have used, and circle tools they have at home. Support unfamiliar items.
+
+###### Checkpoint
+
+1. Check matches; clarify any common confusion with visuals.
+
+##### Step 3: Wrap up
+
+1. Collect work and reinforce that technologies change as people solve problems.
+
+#### Key points
+
+* Compare analogue and digital technologies to see how technology changes over time.
+
+#### Discussion questions
+
+**3-5 minutes**
 
 1. Bring the class together for discussion.
 1. Ask: “Which old technology did you find most interesting?”
@@ -82,31 +79,25 @@ _3-5 minutes_
 1. Ask: “Are newer technologies always better?”
 1. Optional pair-share: students tell a neighbour one surprising match they learned.
 
-##### CLOSE
-
-1. Collect worksheets and materials.
-1. Thank students for their focus and effort.
-1. Final message: “Technology changes over time, but every tool helps people solve problems in their own time.”
-
 #### Notes
 
-##### **Classroom management**
+###### Classroom management
 
 * Prepare materials in advance to avoid interruptions
 * Encourage early finishers to colour carefully and reflect
 
-##### **Extensions & Sponge Activities**
+###### Extensions & Sponge Activities
 
 * Home interview with parents or grandparents about old technology
 * Invent and draw a future version of one tool
 * Watch short demonstration videos of older technologies
 
-##### **Differentiation**
+###### Differentiation
 
 * Younger students: guided matching with board visuals
 * ELL/Accessibility: images, simplified language, peer support
 * Safety: seated activity, minimal movement
 
-#### Additional resources
+###### Suggested assignment
 
-* Appendix C: Have you Ever used...?
+Ask a parent or caregiver about a technology they used when they were young. Compare it with the version people use today.

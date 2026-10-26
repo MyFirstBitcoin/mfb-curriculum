@@ -1,134 +1,128 @@
-# 4.4 Nostr
+# 4.5 Nostr
 
-_Simulation, Craft, Game · Small groups · 50–60 min_
+_Simulation, Game, Craft · Small groups · 50–60 min_
 
-A partir de actividades anteriores sobre confianza, transmisión de mensajes e interceptación, los estudiantes ahora comparan la transferencia abierta de información con la comunicación codificada. Primero, experimentan cómo transmitir información requiere confiar en intermediarios y cómo los mensajes pueden ser escuchados o alterados. Luego, introducen ruedas de cifrado para proteger los mensajes, descubriendo que la información puede permanecer privada incluso cuando pasa por canales públicos o no confiables. Prerrequisitos 4.2 - Teléfono 4.3 - Los cypherpunks escriben código
+A partir de las actividades anteriores sobre la confianza, la transmisión de mensajes y la interceptación, los estudiantes ahora comparan la transmisión abierta de información con la comunicación codificada. Primero, los estudiantes experimentan cómo transmitir información requiere confiar en intermediarios y cómo los mensajes pueden ser escuchados por otras personas o alterados. Luego, incorporan ruedas de cifrado para proteger los mensajes y descubren que la información puede mantenerse privada incluso cuando pasa por canales públicos o no confiables. ### Requisitos previos
 
 #### Objectives
+
+**Resultados de aprendizaje**
 
 Al finalizar esta actividad, los estudiantes podrán:
 
 * Repasar cómo la transmisión de información requiere confiar en intermediarios
-* Reconocer cómo los mensajes pueden filtrarse o modificarse cuando se transmiten abiertamente;
-* Comprender que la codificación protege la información incluso cuando no se confía en los intermediarios
-* Codificar y decodificar vocabulario correctamente usando una rueda de cifrado.
-
-#### Materials
-
-* Tarjetas preparadas con palabras u oraciones para transmitir
-* Plantillas de ruedas de cifrado para cada estudiante (ver Apéndice A) (Appendix A, Plantilla de rueda de cifrado)
-* Hojas de trabajo o papel en blanco para la transcripción
-* Lápices o marcadores
-* Ejemplos de mensajes simples y complejos (ver Apéndice B) (Appendix B, nice to have)
-* Tijeras
-* Broches de dos patas o encuadernadores para ruedas de cifrado
-* Espacio abierto en el aula para moverse
-* Temporizador (nice to have)
-
-#### Procedure
-
-##### APERTURA
-
-1. Organiza el salón con dos mesas por equipo colocadas bien separadas para crear distancia.
-1. Coloca tarjetas de mensaje abiertas en cada mesa del emisor.
-1. Prepara los materiales de la rueda de cifrado, pero mantenlos ocultos hasta la Fase 2.
-
-##### ANTES DE LA ACTIVIDAD
-
-_5 minutos_
-
-1. Pide a los estudiantes que recuerden la actividad anterior, en la que los mensajes se susurraban o se transmitían de una persona a otra.
-1. Pregunta qué problemas notaron relacionados con la confianza, los errores o que otros pudieran escuchar.
-1. Recuerda a los estudiantes que la vez pasada no podían mantener privados los mensajes.
-1. Explica que hoy pondrán a prueba si ese problema se puede resolver.
+* Reconocer cómo los mensajes pueden filtrarse o cambiar cuando se transmiten abiertamente
+* Comprender que la codificación protege la información incluso cuando los intermediarios no son confiables
+* Codificar y decodificar correctamente palabras de vocabulario mediante una rueda de cifrado.
 
 **Objetivo en palabras del estudiante**
 
-*  “Encontrar una mejor manera de enviar mensajes sin que todos tengan que ser de confianza.”
+*  “Encontrar una mejor manera de enviar mensajes sin tener que confiar en todas las personas.”
 
-##### ACTIVIDAD
+#### Materials
 
-_40–45 minutos_
+* Tarjetas preparadas con mensajes sin codificar para transmitir (al menos una por equipo)
+* Plantillas de ruedas de cifrado para cada estudiante (consulte el Apéndice A)
+* Hojas de trabajo o papel en blanco para transcribir
+* Lápices o marcadores
+* Tijeras
+* Broches de dos patas o sujetadores tipo mariposa para las ruedas de cifrado
+* Espacio libre en el aula para desplazarse
+* Dos mesas o estaciones de trabajo por equipo, identificadas como emisor y receptor
+* Opcional: Ejemplos de mensajes simples y complejos (consulte el Apéndice B)
+* Opcional: Tarjetas de roles para el emisor, el mensajero y el receptor; una tabla de puntuación o calcomanías para registrar los puntos
+* Opcional: Temporizador
 
-**Preparación**
+#### Setup
 
-1. Divide a los estudiantes en equipos de tres.
-1. Asigna roles: el Jugador 1 es el Emisor, el Jugador 2 es el Mensajero, el Jugador 3 es el Receptor.
-1. Explica que los roles se mantendrán igual durante toda la actividad.
+* Coloque dos mesas alejadas entre sí para cada equipo y ponga las tarjetas con mensajes sin codificar en cada mesa del emisor.
+* Prepare los materiales para las ruedas de cifrado, pero manténgalos ocultos hasta la fase 2.
 
-**Modelo**
+#### Procedure
 
-1. Demuestra una ronda breve de dictado con mensajero usando un mensaje abierto.
-1. Señala que el mensajero debe recordar y repetir el mensaje exactamente.
-1. Recuerda a los estudiantes que cualquiera que esté cerca puede escuchar el mensaje.
+##### Paso 1: Prepare la lección
 
-**Fase 1 – Transmisión abierta (requiere confianza)**
+**5 minutos**
 
-1. El Jugador 1 lee en silencio el mensaje en la mesa del emisor.
-1. El Jugador 1 lee el mensaje en voz baja al Jugador 2 en la mesa del emisor.
-1. El Jugador 2 corre hacia el Jugador 3 y transmite el mensaje verbalmente.
-1. El Jugador 3 escribe lo que escucha.
-1. El Jugador 2 puede ir y venir corriendo según sea necesario.
-1. Gana el primer equipo que transmita el mensaje correctamente.
+1. Pida a los estudiantes que recuerden la actividad anterior de mensajes susurrados o transmitidos por intermediarios y los problemas que observaron relacionados con la confianza, los errores o la posibilidad de que otras personas escucharan los mensajes. Recuérdeles que los mensajes no podían mantenerse privados y luego explique que pondrán a prueba si ese problema puede resolverse.
 
-**Discusión de control**
+##### Paso 2: Actividad
 
-* Pregunta si el mensaje final coincidió con el original.
-* Pregunta si los mensajeros escucharon a otros equipos.
-* Pregunta si el mensajero tenía el poder de cambiar el mensaje.
-* Refuerza que el sistema solo funcionaba si se confiaba en el mensajero.
+**40–45 minutos**
 
-**Fase 2 – Transmisión codificada (confianza reducida)**
+###### Organización
 
-1. Distribuye los materiales de la rueda de cifrado y permite que los estudiantes los ensamblen.
-1. El Emisor y el Receptor acuerdan en privado un desplazamiento de letras usando la rueda.
-1. El Jugador 1 codifica un nuevo mensaje usando el cifrado acordado.
-1. El Jugador 2 transmite solo el mensaje codificado sin conocer su significado.
-1. El Jugador 3 transcribe y decodifica el mensaje usando la rueda de cifrado.
+1. Divida a los estudiantes en equipos de tres y asigne roles fijos: el jugador 1 es el emisor, el jugador 2 es el mensajero y el jugador 3 es el receptor.
 
-**Reglas de la competencia**
+###### Demostración
+
+1. Demuestre una ronda breve de dictado con desplazamientos usando un mensaje sin codificar. Señale que el mensajero debe repetirlo exactamente y que cualquier persona cercana puede escucharlo.
+
+###### Fase 1 – Transmisión abierta (se requiere confianza)
+
+1. El jugador 1 lee el mensaje en silencio y luego se lo lee en voz baja al jugador 2. El jugador 2 lo transmite verbalmente al jugador 3, quien lo escribe; el jugador 2 puede ir y venir corriendo según sea necesario. Gana el primer equipo que logre transmitirlo correctamente.
+
+###### Conversación de seguimiento
+
+* Pregunte si el mensaje final coincidió con el original.
+* Pregunte si los mensajeros escucharon los mensajes de otros equipos.
+* Pregunte si el mensajero tenía la capacidad de cambiar el mensaje.
+* Recalque que el sistema solo funcionaba si el mensajero era confiable.
+
+###### Fase 2 – Transmisión codificada (se reduce la necesidad de confiar)
+
+1. Distribuya y arme las ruedas de cifrado. El emisor y el receptor acuerdan en privado un desplazamiento de letras; el jugador 1 codifica un mensaje nuevo, el jugador 2 transmite únicamente el texto codificado sin conocer su significado y el jugador 3 lo transcribe y lo decodifica.
+
+###### Reglas de la competencia
 
 * Los equipos ganan puntos por decodificar correctamente.
-* Tanto la velocidad como la precisión importan.
-* Los mensajeros no pueden aprender el cifrado.
+* Tanto la rapidez como la precisión son importantes.
+* Los mensajeros no pueden conocer la clave de cifrado.
 
-**Reflexión**
+###### Reflexión
 
-1. Pregunta qué cambió entre la transmisión abierta y la codificada.
-1. Pregunta si la confianza en el mensajero seguía siendo necesaria.
-1. Pregunta quién controlaba el acceso al mensaje en cada fase.
+1. Pregunte qué cambió entre la transmisión abierta y la codificada, si todavía era necesario confiar en el mensajero y quién controlaba el acceso al mensaje en cada fase.
 
-##### SEGUIMIENTO
+##### Paso 3: Cierre
 
-_5-10 minutos_
+**5 minutos**
 
-1. Repase que las actividades anteriores mostraron cómo los mensajes pueden ser interceptados o alterados.
-1. Repase que la codificación permite que los mensajes viajen por el espacio público de forma segura.
-1. Conecte esto con la idea de elegir qué información es pública o privada.
+1. Recoja los materiales compartidos y vuelva a organizar el aula, pero permita que los estudiantes conserven sus ruedas de cifrado. Recalque: “Usted no necesita confiar en todas las personas cuando su mensaje está protegido.”
 
-##### CIERRE
+#### Key points
 
-5 minutos
+* Use la codificación para explorar formas más seguras de transmitir mensajes sin confiar en intermediarios.
 
-1. Recoja los materiales compartidos y reorganice el salón.
-1. Permita que los estudiantes conserven sus ruedas de cifrado.
-1. Mensaje final para los estudiantes: “No necesitas confiar en todos cuando tu mensaje está protegido.”
+#### Discussion questions
+
+**5-10 minutos**
+
+1. Repase cómo las actividades anteriores mostraron que los mensajes pueden ser interceptados o alterados.
+1. Repase cómo la codificación permite que los mensajes viajen de forma segura por espacios públicos.
+1. Relacione esto con la idea de elegir qué información es pública o privada.
 
 #### Notes
 
-##### **Manejo del aula**
+* 4.3 - Teléfono descompuesto
+* 4.4 - Los cypherpunks escriben código
+
+###### Manejo del aula
 
 * Los estudiantes mayores pueden elegir su rol en el relevo
-* Controle las rutas para correr y exija caminar si es necesario.
-* Enfatice que los errores son esperados y forman parte del aprendizaje.
+* Supervise los recorridos y exija que caminen si es necesario.
+* Enfatice que los errores son parte del aprendizaje y es normal cometerlos.
 
-##### **Actividades de extensión y de relleno**
+###### Actividades de ampliación y para aprovechar el tiempo libre
 
-* Rote los roles y repita con un nuevo cifrado.
+* Rote los roles y repita la actividad con un nuevo cifrado.
 * Aumente la longitud del mensaje o agregue mensajes señuelo.
 
-##### **Diferenciación**
+###### Enseñanza diferenciada
 
-* Estudiantes más jóvenes: palabras sueltas y desplazamiento fijo de letras.
-* ELL/Accesibilidad: cuadros del alfabeto y ritmo más lento.
-* Seguridad: reglas claras de movimiento y uso supervisado de herramientas.
+* Estudiantes menores: palabras sueltas y un desplazamiento fijo de letras.
+* Estudiantes que aprenden inglés/Accesibilidad: tablas del alfabeto y un ritmo más lento.
+* Seguridad: reglas claras de desplazamiento y uso supervisado de herramientas.
+
+###### Tarea sugerida
+
+Explique a un padre, una madre o una persona cuidadora cómo un código puede ayudar a mantener un mensaje privado, incluso cuando viaja por un lugar público.

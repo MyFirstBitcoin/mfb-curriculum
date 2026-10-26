@@ -1,4 +1,4 @@
-# 6.1 From Problem to Protocol
+# 6.2 From Problem to Protocol
 
 _Story time, Discussion, Reflection · Whole class, Pairs, Individual · 45–60 min_
 
@@ -6,114 +6,116 @@ Students listen to the story of Satoshi and the Genesis of Bitcoin. Through guid
 
 #### Objectives
 
+**Learning Outcomes**
+
 By the end of this activity, learners will:
 
 * Explain who Satoshi is in simple terms.
 * Describe what a white paper is.
-* Identify the Genesis Block as the beginning of Bitcoin.
+* Identify the [Genesis Block](https://curriculum.myfirstbitcoin.org/lexicon/en/#genesis-block) as the beginning of Bitcoin.
 * Explain why Bitcoin requires time, energy, and shared rules.
 * Recognize that networks stay alive when people participate.
-
-#### Materials
-
-* Printed copy of the story (See Appendix A) (Appendix A, Mina and the Lemonade Stand (Example Story))
-* Printed “White Paper” prop (See Appendix B) (Appendix B, Simplified White Paper Prop)
-* Three keyword cards: VALUE - TIME & ENERGY - TRUST & PRIVACY (See Appendix C) (Appendix C)
-* Whiteboard and markers
-* Exit slips or small paper
-* Printed image of a chain of blocks, Small envelope labeled ‘BTC’ (nice to have)
-* Whiteboard or Projector (optional) (nice to have)
-
-#### Procedure
-
-##### OPENING
-
-* Print the story and place the “White Paper” prop inside an envelope labeled BTC for a dramatic reveal.
-* Write on the board: What happens when money systems fail?
-* Prepare three keyword cards: VALUE • TIME & ENERGY • TRUST & PRIVACY.
-* Draw a simple “BANK – CLOSED” sign on the board to spark curiosity.
-* Pre-select and mark 3–4 pause points in the story for guided discussion.
-
-##### PRE-ACTIVITY
-
-_5 minutes_
-
-1.  Ask students: “What would happen if a bank closed and people couldn’t get their money?”
-1. Write responses on the board. Connect briefly to previous chapters (Value, Scarcity, Trust)
-1. Do not explain Bitcoin yet. Build curiosity.
-1. Show students the sealed envelope labeled BTC.
-1. Say: “Inside this envelope is an idea that changed money forever.”
 
 **Objective In Student’s Words**
 
 *  “We are going to learn how Bitcoin started and why people choose to keep it alive.”
 
-##### ACTIVITY
+#### Materials
 
-_20–25 minutes_
+* Printed story (See Appendix A; one teacher read-aloud copy, plus student copies if they will follow along)
+* Printed “White Paper” prop (See Appendix B)
+* Three keyword cards: VALUE - TIME & ENERGY - TRUST & PRIVACY (See Appendix C)
+* Whiteboard and markers
+* Exit slips or small paper
+* Reflection sheets, if used separately from the exit slips
+* Nice-to-have: Small envelope labeled ‘BTC’
+* Nice-to-have: Projector for the story, chain-of-blocks image, or discussion prompts
 
-**Setup**
+#### Setup
 
-1. Students sit in a circle or attentive listening formation.
-1. Holds the printed story and white paper prop.
+* Put the printed story and “White Paper” prop in a BTC-labelled envelope; mark three or four discussion pauses in the story.
+* Write “What happens when money systems fail?” and “BANK—CLOSED” on the board; set out the three keyword cards.
 
-**Carry Out**
+#### Procedure
 
-1. Read the story aloud with natural pacing.
-1. Pause briefly at key moments:
-  * When the bank closes – What is the problem?
-  * When Satoshi works late – Why is effort important?
-  * When the white paper is presented – What does it mean to share an idea with the world?
-  * When Genesis Block is mentioned – What does beginning mean?
-  * When the network must stay alive – Who keeps it alive?
+##### Step 1: Set up the lesson
+
+**5 minutes**
+
+1. Ask: “What would happen if a bank closed and people couldn’t get their money?” Record responses and briefly connect them to Value, Scarcity, and Trust, without explaining Bitcoin yet.
+1. Show the sealed BTC envelope and say: “Inside this envelope is an idea that changed money forever.”
+
+##### Step 2: Activity
+
+**20–25 minutes**
+
+###### Setup
+
+1. Have students sit in a circle or attentive listening formation, with the printed story and white-paper prop ready.
+
+###### Carry Out
+
+1. Read the story aloud with natural pacing, pausing briefly at key moments:
+
+* When the bank closes – What is the problem?
+* When Satoshi works late – Why is effort important?
+* When the white paper is presented – What does it mean to share an idea with the world?
+* When the Genesis Block is mentioned – What does beginning mean?
+* When the network must stay alive – Who keeps it alive?
+
 1. Keep pauses short to preserve immersion.
 
-**Reflection**
+###### Reflection
 
 * Whole class discussion:
   * Why does Bitcoin need participants?
   * What happens if people stop caring about the rules?
 * Connect to prior chapters:
   * Value – Why must Bitcoin be scarce?
-  * Time & Energy – Why does Proof of Work matter?
+  * Time & Energy – Why does [Proof of Work](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) matter?
   * Analogue vs Digital – How is Bitcoin different from paper money?
   * Safety & Privacy – Why must we protect keys?
 
-##### FOLLOW-UP
+##### Step 3: Wrap up
 
-_2 minutes_
+* Collect exit slips and reflection sheets; have students return story copies, prompt cards, and materials to the designated area.
+* Reset the seating layout, store the white-paper prop and appendix materials safely, and prepare the room for the next class or transition.
+
+#### Key points
+
+* Explain how Bitcoin began and why it uses time, energy, and shared rules.
+
+#### Discussion questions
+
+**2 minutes**
 
 *  Students complete one exit sentence:
   * Bitcoin began when ______.
   * Satoshi presented ______ to the world.
   * The network stays alive when ______.
 * Collect responses.
-* Set-up the next activity by mentioning that we will explore where Satoshi disappeared to.
-
-##### CLOSE
-
-* Collect exit slips and any reflection sheets.
-* Ask students to return printed story copies, prompt cards, and materials to the designated area.
-* Have students neatly stack chairs or reset the seating layout if it was changed for storytelling.
-* Ensure the white paper prop and appendix materials are stored safely for future use.
-* Prepare the room for the next class or transition students calmly to the next scheduled activity.
+* Set up the next activity by mentioning that we will explore where Satoshi disappeared to.
 
 #### Notes
 
-##### **Classroom management**
+###### Classroom management
 
 * Set clear listening expectations.
 * Use call-back signals for transitions.
 * Keep discussion focused and time-bound.
 
-##### **Extensions & Sponge Activities**
+###### Extensions & Sponge Activities
 
 * Write a letter to Satoshi explaining how you would protect the future of money.
 * Draw the Genesis Block using three symbols: chain, clock, lock.
 * Roleplay Satoshi presenting the white paper.
 
-##### **Differentiation**
+###### Differentiation
 
 * Younger students: Shorten reading segments and focus on problem–idea–solution structure.
 * ELL/Accessibility: Pre-teach vocabulary: proposal, genesis, network, effort, participant.
 * Safety: Provide sentence starters for exit tasks.
+
+###### Suggested assignment
+
+Tell a parent or caregiver that Bitcoin began as an idea called a proposal. Share one thing the idea was meant to help people do.
