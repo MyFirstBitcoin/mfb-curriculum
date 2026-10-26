@@ -3,7 +3,7 @@
 ## 51% Attack
 <!-- term: 51-attack -->
 
-A situation in which a single miner or group of miners controls more than half of the network’s total hash rate, allowing them to reorganize recent blocks and potentially double spend transactions.
+A situation in which one miner or group controls more than half of the network’s hash rate and may be able to reorganize recent blocks or attempt double spending.
 
 ## Acceptability
 <!-- term: acceptability -->
@@ -23,7 +23,7 @@ The total proof-of-work effort represented by a chain.
 ## Address Reuse
 <!-- term: address-reuse -->
 
-The practice of using the same Bitcoin address multiple times. It is discouraged because it reduces privacy.
+Using the same Bitcoin address more than once. It is discouraged because it can reduce privacy.
 
 ## Address type
 <!-- term: address-type -->
@@ -38,12 +38,12 @@ Something a person or institution owns that may provide use, income, or future v
 ## Atomic Swap
 <!-- term: atomic-swap -->
 
-A peer to peer exchange mechanism that allows bitcoin to be exchanged directly for another asset without an intermediary.
+A mechanism for directly exchanging bitcoin for another asset without an intermediary, so either both parts of the exchange happen or neither does.
 
 ## Auction
 <!-- term: auction -->
 
-A process by which goods or assets are sold to the highest bidder.
+A process in which goods or assets are sold to the highest bidder.
 
 ## B-money
 <!-- term: b-money -->
@@ -58,7 +58,7 @@ Rules requiring banks to fund risks with capital that can absorb losses.
 ## Bank deposit
 <!-- term: bank-deposit -->
 
-Money recorded as a claim on a commercial bank, rather than physical cash held separately for the customer.
+Deposit money is money recorded in a commercial-bank account. A bank deposit is a customer's claim on the bank for that recorded amount, rather than physical cash held separately for that customer.
 
 ## Bank money creation
 <!-- term: bank-money-creation -->
@@ -120,7 +120,7 @@ A decentralized digital form of money that allows people to send value directly 
 ## Bitcoin Address
 <!-- term: bitcoin-address -->
 
-A string of letters and numbers used to receive bitcoin. It functions like an inbox for payments, not like a bank account.
+Receiving information for an on-chain Bitcoin payment.
 
 ## Bitcoin block
 <!-- term: bitcoin-block -->
@@ -142,14 +142,14 @@ A widely used Bitcoin software implementation that can run a full node.
 
 **Acronym:** BIP
 
-A formal process used to propose, discuss, and implement changes or improvements to the Bitcoin protocol.
+A formal process for proposing, discussing, and documenting improvements to Bitcoin.
 
 ## Bitcoin Improvement Proposal 39
 <!-- term: bitcoin-improvement-proposal-39 -->
 
 **Acronym:** BIP39
 
-A standard that defines how a random cryptographic seed can be represented as a list of human readable words, typically 12 or 24. These words, commonly known as a seed phrase or recovery phrase, can be used to deterministically generate and restore a Bitcoin wallet’s private keys.
+A standard for representing a wallet seed as an ordered list of words, commonly called a seed phrase or recovery phrase.
 
 ## Bitcoin network
 <!-- term: bitcoin-network -->
@@ -184,7 +184,7 @@ A tool that manages keys and helps receive, authorize, and track Bitcoin transac
 ## Bitcoin whitepaper
 <!-- term: bitcoin-whitepaper -->
 
-The original paper, *Bitcoin: A Peer-to-Peer Electronic Cash System*, which described Bitcoin’s design and purpose.
+The original paper, Bitcoin: A Peer-to-Peer Electronic Cash System, which described Bitcoin’s design and purpose.
 
 ## BitTorrent
 <!-- term: bittorrent -->
@@ -204,7 +204,7 @@ The number of blocks added after the block containing a transaction.
 ## Block Explorer
 <!-- term: block-explorer -->
 
-A public tool that allows anyone to view transactions, addresses, and blocks on the Bitcoin blockchain.
+A tool for viewing public Bitcoin data such as transactions, addresses, blocks, fees, and confirmations.
 
 ## Block-explorer privacy
 <!-- term: block-explorer-privacy -->
@@ -214,27 +214,27 @@ The privacy implications of using a public tool to inspect addresses or transact
 ## Block Height
 <!-- term: block-height -->
 
-The number of blocks that precede a given block in the blockchain, indicating its position in the chain.
+The number of blocks that come before a given block, showing its position in the chain.
 
 ## Block Reward
 <!-- term: block-reward -->
 
-The bitcoin earned by miners for successfully adding a new block to the blockchain. It consists of the block subsidy and the transaction fees included in that block.
+The bitcoin paid to a miner for a valid block: the block subsidy plus the transaction fees in that block.
 
 ## Block Space
 <!-- term: block-space -->
 
-The limited capacity available in each block for transactions. Users compete for block space by attaching transaction fees.
+The limited data capacity available in each Bitcoin block.
 
 ## Block Subsidy
 <!-- term: block-subsidy -->
 
-The portion of the block reward that consists of newly created bitcoin. It decreases every halving until issuance reaches zero.
+New bitcoin created by the rules and paid to the miner of a valid block.
 
 ## Blockchain
 <!-- term: blockchain -->
 
-A public, distributed ledger that records all Bitcoin transactions in chronological order. Once data is added and confirmed, it becomes extremely difficult to change.
+The blockchain is Bitcoin's public, ordered history of blocks. A block groups accepted transactions. Timechain is another name sometimes used for Bitcoin's blockchain, emphasizing that blocks are ordered and time-stamped.
 
 ## Bond
 <!-- term: bond -->
@@ -284,7 +284,7 @@ A bank's loss-absorbing funding, such as owner funding and retained earnings.
 ## Capital Controls
 <!-- term: capital-controls -->
 
-Restrictions on the movement of money across borders.
+Restrictions on moving money across borders.
 
 ## CBDC
 <!-- term: cbdc -->
@@ -294,22 +294,22 @@ A digital form of fiat money issued as a liability of a central bank.
 ## Censorship Resistance
 <!-- term: censorship-resistance -->
 
-The ability of the Bitcoin network to allow transactions without being blocked or controlled by governments, banks, or corporations.
+The ability to use Bitcoin without a government, bank, or corporation being able to decide which valid transactions may be sent.
 
 ## Central Bank (Fed)
 <!-- term: central-bank -->
 
-A government-owned institution that manages a country’s monetary policy.
+A public institution that manages a country’s monetary policy. The U.S. central bank is commonly called the Federal Reserve, or Fed.
 
 ## Centralization
 <!-- term: centralization -->
 
-The concentration of power or control in a single entity.
+The concentration of power or control in one person, organization, or institution.
 
 ## Centralized System
 <!-- term: centralized-system -->
 
-A system in which power or control is concentrated in a single entity.
+A system in which power or control is concentrated in one entity.
 
 ## Cold Storage
 <!-- term: cold-storage -->
@@ -319,12 +319,12 @@ Keeping private keys offline to reduce the risk of theft or hacking.
 ## Cold wallet
 <!-- term: cold-wallet -->
 
-A wallet that keeps signing keys offline.
+A wallet or storage arrangement that keeps signing keys offline.
 
 ## Commodity money
 <!-- term: commodity-money -->
 
-Objects that have value in and of themselves and are used as a medium of exchange, such as gold or silver.
+Money made from or represented by a good that has use or value beyond an issuer’s promise.
 
 ## Community custody
 <!-- term: community-custody -->
@@ -334,12 +334,12 @@ A person or group controls bitcoin for others.
 ## Confirmation
 <!-- term: confirmation -->
 
-The process of a transaction being processed by the network and highly unlikely to be reversed. The method “miners” verify the authenticity of transactions with their computer hardware and software. It is recommended to wait for at least 6 confirmations to prevent double spending.
+A count showing how many valid blocks include or follow the block containing a transaction; more confirmations make its place in the blockchain more costly to rewrite.
 
 ## Consensus
 <!-- term: consensus -->
 
-The process by which Bitcoin nodes agree on the valid state of the blockchain by following the same set of rules.
+Agreement among Bitcoin nodes about which transactions and blocks follow the shared rules.
 
 ## Convertibility
 <!-- term: convertibility -->
@@ -354,7 +354,7 @@ The risk that a borrower will not repay what is owed.
 ## Cryptography
 <!-- term: cryptography -->
 
-The use of mathematics to secure information. Bitcoin uses cryptography to secure transactions and ownership.
+Mathematical methods used to protect information and prove authenticity.
 
 ## Currency
 <!-- term: currency -->
@@ -384,7 +384,7 @@ A person who uses or advocates cryptography and open technology to protect priva
 ## Debasement
 <!-- term: debasement -->
 
-The reduction in the value of a currency, often by reducing the amount of precious metal in a coin.
+Reducing a coin’s valuable-metal content while keeping its stated value the same.
 
 ## Debt
 <!-- term: debt -->
@@ -394,12 +394,12 @@ Money that is owed to someone else.
 ## Decentralization
 <!-- term: decentralization -->
 
-The absence of a central authority. No single person, company, or government controls Bitcoin.
+The distribution of control and verification across many independent participants.
 
 ## Decentralized System
 <!-- term: decentralized-system -->
 
-A system in which power or control is distributed among multiple entities.
+A system in which power or control is distributed among multiple independent entities.
 
 ## Deposit insurance
 <!-- term: deposit-insurance -->
@@ -424,7 +424,7 @@ A measure of how hard it is to find a proof-of-work result that satisfies the ta
 ## Difficulty Adjustment
 <!-- term: difficulty-adjustment -->
 
-An automatic adjustment to mining difficulty that occurs every 2016 blocks, approximately every two weeks, to maintain an average block time of 10 minutes.
+Bitcoin’s regular change to the proof-of-work target that aims to keep block production near its intended average pace.
 
 ## DigiCash
 <!-- term: digicash -->
@@ -434,7 +434,7 @@ An early private-digital-payment system that depended on a central company.
 ## Digital Asset
 <!-- term: digital-asset -->
 
-A digital representation of value that can be traded or used as a store of value, such as Bitcoin.
+A digital representation of value that can be transferred or used as a store of value.
 
 ## Digital signature
 <!-- term: digital-signature -->
@@ -444,7 +444,7 @@ A mathematical proof created with a private key that authorizes a message or tra
 ## Distributed Ledger
 <!-- term: distributed-ledger -->
 
-A database that is spread across a network of computers, rather than being stored in a central location.
+A record of transactions that is shared across multiple computers instead of being kept in one central location.
 
 ## Divisibility
 <!-- term: divisibility -->
@@ -454,7 +454,7 @@ The ability to divide money into smaller units for different-sized payments.
 ## Double coincidence of wants
 <!-- term: double-coincidence-of-wants -->
 
-The phenomenon where two parties in a barter economy both have what the other party wants and wants what the other party has.
+The barter problem in which each person must want what the other offers at the same time.
 
 ## Double Spend
 <!-- term: double-spend -->
@@ -469,7 +469,7 @@ The challenge of preventing a digital unit from being spent more than once.
 ## Double spending
 <!-- term: double-spending -->
 
-Trying to use the same digital unit in more than one payment.
+Double spending is attempting to use the same digital unit in more than one payment. The double-spend problem is the challenge of preventing this; Bitcoin addresses it through shared rules, verification, and proof of work.
 
 ## Durability
 <!-- term: durability -->
@@ -479,7 +479,7 @@ The ability of money to remain usable over time.
 ## Dust Transaction
 <!-- term: dust-transaction -->
 
-A transaction that sends a very small amount of Bitcoin that is too small to be economically viable.
+A transaction output with such a small bitcoin amount that spending it may cost more in fees than it is worth.
 
 ## Ecash
 <!-- term: ecash -->
@@ -524,7 +524,7 @@ A wallet’s attempt to choose an appropriate transaction fee.
 ## Fee rate
 <!-- term: fee-rate -->
 
-The transaction fee offered per unit of transaction data, commonly measured in sats per virtual byte (sat/vB).
+The transaction fee is the bitcoin a sender offers to have an on-chain payment included in a block. The fee rate is the amount offered per unit of transaction data, usually measured in Satoshis per vByte (sat/vB). A virtual byte is a unit for measuring transaction data; sat/b is an older byte-based way of stating a fee rate.
 
 ## Fiat money
 <!-- term: fiat-money -->
@@ -534,12 +534,12 @@ Money issued under state authority whose value is not fixed to redemption in a s
 ## Final Settlement
 <!-- term: final-settlement -->
 
-The point at which a transaction becomes practically irreversible after multiple confirmations.
+The point at which a transaction is treated as practically irreversible after sufficient confirmations.
 
 ## First confirmation
 <!-- term: first-confirmation -->
 
-The initial inclusion of a transaction in a valid block.
+The inclusion of a transaction in its first valid block.
 
 ## Fractional reserve banking
 <!-- term: fractional-reserve-banking -->
@@ -549,7 +549,7 @@ Banking in which only part of deposit obligations is kept immediately available 
 ## Full Node
 <!-- term: full-node -->
 
-A computer running Bitcoin software that independently verifies all transactions and blocks according to the consensus rules.
+A full node, also called a validating node here, independently checks whether Bitcoin transactions and blocks follow Bitcoin's rules. It does not need to trust a miner, wallet provider, or other node to decide what is valid.
 
 ## Funding cost
 <!-- term: funding-cost -->
@@ -559,12 +559,12 @@ What a bank pays to obtain money.
 ## Fungibility
 <!-- term: fungibility -->
 
-The property of money in which each unit is interchangeable with any other unit of equal value.
+The property that equal units are normally interchangeable.
 
 ## GDP
 <!-- term: gdp -->
 
-Gross domestic product, the total value of goods and services produced in a country in a given period of time.
+The total value of goods and services produced in a country during a given period.
 
 ## Gearing
 <!-- term: gearing -->
@@ -574,7 +574,7 @@ Using borrowed money or obligations to increase the size of assets or financial 
 ## Genesis Block
 <!-- term: genesis-block -->
 
-The first block of the Bitcoin blockchain, mined in January 2009 by Satoshi Nakamoto.
+The first block in Bitcoin’s blockchain, created when the network began.
 
 ## Gold
 <!-- term: gold -->
@@ -594,7 +594,7 @@ The recipient of the first recorded person-to-person Bitcoin transaction.
 ## Halving
 <!-- term: halving -->
 
-An event that occurs every 210,000 blocks, approximately every four years, cutting the block subsidy in half and reducing the rate of new bitcoin issuance.
+The event that cuts Bitcoin’s block subsidy in half after every 210,000 blocks.
 
 ## Hard Cap
 <!-- term: hard-cap -->
@@ -604,27 +604,27 @@ The maximum number of bitcoin that will ever exist: 21 million.
 ## Hard Fork
 <!-- term: hard-fork -->
 
-A change to the Bitcoin protocol that creates a new version of the blockchain, which is not compatible with the previous version. (ie. Bitcoin Cash)
+A rule change that is not compatible with older rules.
 
 ## Hardware Wallet
 <!-- term: hardware-wallet -->
 
-A physical device used for storing private keys and managing cryptocurrency, providing enhanced security over software wallets.
+A dedicated device for holding signing keys.
 
 ## Hash
 <!-- term: hash -->
 
-The output of a cryptographic hash function that converts data into a fixed length string of characters.
+The fixed-length result produced by a hash function.
 
 ## Hash Function
 <!-- term: hash-function -->
 
-A mathematical function that transforms input data into a fixed length output. It is fundamental to Bitcoin mining and security.
+A mathematical process that turns data into a fixed-length digital result.
 
 ## Hash Rate
 <!-- term: hash-rate -->
 
-The total computational power being used to secure the Bitcoin network.
+A measure of how many hash attempts are made over a period of time.
 
 ## Hashcash
 <!-- term: hashcash -->
@@ -634,17 +634,17 @@ An early proof-of-work system designed to make unwanted email computationally co
 ## HODL
 <!-- term: hodl -->
 
-A term used in the cryptocurrency community to describe holding onto cryptocurrency longterm, rather than selling or trading it.
+Informal Bitcoin-community slang for holding bitcoin rather than selling or trading it.
 
 ## Hot Wallet
 <!-- term: hot-wallet -->
 
-A Bitcoin wallet connected to the internet, typically used for frequent transactions.
+A wallet using an online device.
 
 ## Immutability
 <!-- term: immutability -->
 
-The property of the blockchain that makes confirmed transactions extremely difficult to alter.
+The practical difficulty of changing confirmed Bitcoin history because doing so would require replacing later proof of work.
 
 ## Imports
 <!-- term: imports -->
@@ -654,12 +654,12 @@ Goods and services produced in another country and sold in the domestic market.
 ## Inflation
 <!-- term: inflation -->
 
-An increase in the general price level of goods and services in an economy.
+Inflation commonly means price inflation: a sustained increase in the general price level of goods and services. When prices rise faster than income, a unit of money has less purchasing power, meaning it buys fewer goods and services.
 
 ## Inflation basket
 <!-- term: inflation-basket -->
 
-A selected group of goods and services used to measure average price changes.
+A basket of goods is a selected collection of goods and services. An inflation basket is a basket used to track average price changes and estimate changes in the cost of living.
 
 ## Intermediary
 <!-- term: intermediary -->
@@ -679,7 +679,7 @@ The authority, institution, or system that creates and puts money or claims into
 ## Key Pair
 <!-- term: key-pair -->
 
-A pair consisting of a private key and a corresponding public key used to control bitcoin.
+A matching private key and public key used to authorize and verify Bitcoin transactions.
 
 ## KYC
 <!-- term: kyc -->
@@ -689,17 +689,17 @@ Identity checks required by a financial service.
 ## Layer 1
 <!-- term: layer-1 -->
 
-The base Bitcoin protocol responsible for transaction validation, consensus, and block production.
+The base Bitcoin protocol that validates transactions, reaches consensus, and produces blocks.
 
 ## Layer 2
 <!-- term: layer-2 -->
 
-Technologies built on top of Bitcoin that improve scalability and transaction speed without modifying the base layer.
+A system built on a base network to add capacity or features.
 
 ## Ledger
 <!-- term: ledger -->
 
-A record of financial transactions.
+A record of transactions; Bitcoin’s ledger is copied and checked across many nodes.
 
 ## Liability
 <!-- term: liability -->
@@ -726,7 +726,7 @@ Channel capacity available to move a Lightning payment.
 
 **Acronym:** LN
 
-A Layer 2 payment system that enables fast, low cost Bitcoin transactions through off chain payment channels.
+A payment network built above Bitcoin.
 
 ## Lightning offer
 <!-- term: lightning-offer -->
@@ -746,7 +746,7 @@ A fee a Lightning node may charge for forwarding a payment through a channel.
 ## Lightweight Node
 <!-- term: lightweight-node -->
 
-A Bitcoin client that only stores a limited amount of data from the blockchain, rather than the full chain.
+A Bitcoin client that checks less data than a full node and relies on other nodes for some information.
 
 ## Liquid
 <!-- term: liquid -->
@@ -761,12 +761,12 @@ Assets, such as cash or reserves, that can be used or converted to cash quickly.
 ## Liquidity
 <!-- term: liquidity -->
 
-Access to funds that can be used quickly.
+The ability to meet payments or withdrawals promptly using cash or liquid assets.
 
 ## Liquidity risk
 <!-- term: liquidity-risk -->
 
-The danger that funds will not be available when needed.
+The danger that a person or institution will not have enough readily available funds when needed.
 
 ## Maximum supply
 <!-- term: maximum-supply -->
@@ -786,12 +786,12 @@ Objects or systems that are widely accepted in exchange for goods and services.
 ## Mempool
 <!-- term: mempool -->
 
-The collection of valid but unconfirmed transactions waiting to be included in a block.
+A node’s temporary collection of valid, unconfirmed transactions it has received. Mempools can differ from one node to another.
 
 ## Merkle Tree
 <!-- term: merkle-tree -->
 
-A tree-like data structure used in the Bitcoin blockchain to efficiently verify the integrity of large sets of data.
+A tree-like structure that summarizes transaction data so it can be checked efficiently.
 
 ## Miner
 <!-- term: miner -->
@@ -806,12 +806,12 @@ The process by which miners use computational power and energy to validate trans
 ## Mining Pool
 <!-- term: mining-pool -->
 
-A group of miners who work together to increase their chances of finding new blocks and earning bitcoin.
+A group of miners that combines work and shares rewards according to its rules.
 
 ## Monetary and Fiscal Policy
 <!-- term: monetary-and-fiscal-policy -->
 
-The policies of a central bank and government, respectively, that influence the money supply and interest rates in an economy.
+Central-bank and government policies, respectively, that can influence money, taxation, spending, and interest rates.
 
 ## Monetary expansion
 <!-- term: monetary-expansion -->
@@ -821,12 +821,12 @@ An increase in the amount of money or credit in circulation.
 ## Monetary inflation
 <!-- term: monetary-inflation -->
 
-An increase in the money supply. It is distinct from price inflation, which is a sustained increase in the general price level.
+Monetary inflation is an increase in the money supply. Monetary expansion is broader: it can include an increase in money or credit in circulation. These can affect prices, but they are not the same thing as price inflation.
 
 ## Money supply
 <!-- term: money-supply -->
 
-The total amount of money in circulation in an economy.
+The total amount of money or money-like balances counted within a stated economy or measure.
 
 ## Moral hazard
 <!-- term: moral-hazard -->
@@ -843,7 +843,7 @@ The good that people are most willing to accept in exchange because they expect 
 
 **Acronym:** Multisig
 
-A wallet setup that requires more than one private key to authorize a Bitcoin transaction.
+A spending arrangement requiring more than one key or approval.
 
 ## Nakamoto consensus
 <!-- term: nakamoto-consensus -->
@@ -873,12 +873,12 @@ The 1971 U.S. decision that ended international dollar-to-gold convertibility.
 ## No-KYC
 <!-- term: no-kyc -->
 
-A path collecting less or no standard KYC information. Also called non-KYC.
+A path collecting less or no standard KYC information. Use no-KYC throughout this curriculum; non-KYC is an alternative term.
 
 ## Node
 <!-- term: node -->
 
-A computer running Bitcoin software that verifies and relays transactions and blocks.
+Software or a computer running Bitcoin software and checking the network’s rules.
 
 ## Node Network
 <!-- term: node-network -->
@@ -888,7 +888,7 @@ A network of connected computers or devices that support and maintain the Bitcoi
 ## Nonce
 <!-- term: nonce -->
 
-A number that miners repeatedly change in the block header to produce a hash that meets the required difficulty target.
+A number that miners can change in a block header while searching for a hash that satisfies the target.
 
 ## Off-ramp
 <!-- term: off-ramp -->
@@ -928,7 +928,7 @@ The best alternative given up when a choice is made.
 ## Orphan Block
 <!-- term: orphan-block -->
 
-A block that is not included in the main chain of the blockchain due to being invalidated by a longer competing chain.
+A historical term for a valid block that is not part of the active chain because another valid chain has more accumulated work.
 
 ## Paper Cash
 <!-- term: paper-cash -->
@@ -943,7 +943,7 @@ A paper record representing a claim on an issuer for a stated asset or amount.
 ## Paper Wallet
 <!-- term: paper-wallet -->
 
-A printed copy of a user’s private and public keys used for storing and managing cryptocurrency offline.
+A printed record of Bitcoin key material. It is easy to lose or expose and is generally not a recommended storage method.
 
 ## Payment channel
 <!-- term: payment-channel -->
@@ -970,12 +970,12 @@ A network in which independent computers communicate directly rather than throug
 ## Peg
 <!-- term: peg -->
 
-A fixed exchange rate between two currencies, where one is pegged to the value of another.
+A fixed or targeted exchange relationship between two currencies or assets.
 
 ## Permissionless
 <!-- term: permissionless -->
 
-A system that anyone can access and use without needing approval.
+Open to anyone who can use the rules without needing approval from a central gatekeeper.
 
 ## Person-to-person transaction
 <!-- term: person-to-person-transaction -->
@@ -1000,12 +1000,12 @@ A sustained increase in the general price level of goods and services.
 ## Privacy
 <!-- term: privacy -->
 
-The ability to limit who can collect, see, use, or share information about you, such as your name, contact details, location, and financial activity. When using Bitcoin, this includes limiting how your identity is linked to addresses, balances, and payments. Bitcoin’s public transaction history means privacy is not automatic, and privacy does not mean that all activity is invisible.
+Privacy is the ability to limit who can collect, see, use, or share information about a person. Bitcoin privacy applies this to Bitcoin activity, including links among identity, addresses, balances, and payments. Because Bitcoin's transaction history is public, privacy is not automatic and does not mean activity is invisible.
 
 ## Private Key
 <!-- term: private-key -->
 
-A secret piece of information that allows a user to sign transactions and control their bitcoin.
+Secret information that lets a wallet authorize spending; anyone who obtains it may control the funds.
 
 ## Project continuity
 <!-- term: project-continuity -->
@@ -1017,12 +1017,12 @@ The likelihood that wallet software will remain maintained and usable.
 
 **Acronym:** PoW
 
-The consensus mechanism used by Bitcoin that requires miners to expend real world energy to secure the network and produce blocks.
+Proof of work is Bitcoin's security mechanism: proposing a block requires costly computation, making confirmed history expensive to change. Mining is proof of work applied to Bitcoin. Miners perform this computation, compete to propose valid blocks, and may receive a block reward when a valid block is accepted.
 
 ## Public Key
 <!-- term: public-key -->
 
-A cryptographic key derived from a private key and used to generate Bitcoin addresses.
+Information derived from a private key that helps verify signatures without revealing the private key.
 
 ## Public Ledger
 <!-- term: public-ledger -->
@@ -1032,7 +1032,7 @@ A decentralized database that keeps a public record of all transactions on the B
 ## Purchasing Power
 <!-- term: purchasing-power -->
 
-The ability of money to buy goods and services.
+The amount of goods and services a unit of money can buy.
 
 ## Qualified borrower
 <!-- term: qualified-borrower -->
@@ -1047,7 +1047,7 @@ How easily people can identify a form of money and recognize authentic or equiva
 ## Recovery Phrase (Seed Phrase)
 <!-- term: recovery-phrase -->
 
-A list of 12 or 24 words that can restore access to a Bitcoin wallet. It must be kept private and secure.
+An ordered list of secret words that many wallets use to restore keys.
 
 ## Representative paper
 <!-- term: representative-paper -->
@@ -1057,7 +1057,7 @@ Paper that can be redeemed for a stated amount of an asset, historically often m
 ## Reserve Ratio
 <!-- term: reserve-ratio -->
 
-The proportion of deposits that a bank must hold as reserves.
+The share of deposits a bank keeps as reserves rather than lending or investing.
 
 ## Restrictive banking
 <!-- term: restrictive-banking -->
@@ -1084,12 +1084,12 @@ Whether equal sats are treated as equivalent in use; it is an application of fun
 
 **Acronym:** sat
 
-The smallest unit of bitcoin, equal to one hundred millionth of a bitcoin.
+The smallest named unit of bitcoin; 100,000,000 sats equal one bitcoin.
 
 ## Satoshi Nakamoto
 <!-- term: satoshi-nakamoto -->
 
-The pseudonym used by the creator or creators of Bitcoin.
+The name used by Bitcoin’s creator or creators; the real-world identity is unknown.
 
 ## Satoshis per byte (sat/b)
 <!-- term: satoshis-per-byte -->
@@ -1099,7 +1099,7 @@ A unit used to measure the amount of bitcoin transaction fee paid per byte of tr
 ## Scarcity
 <!-- term: scarcity -->
 
-Limited supply. Bitcoin’s scarcity is enforced by code and capped at 21 million.
+A limited supply: using or obtaining more is constrained rather than unlimited.
 
 ## Secondary effects
 <!-- term: secondary-effects -->
@@ -1109,12 +1109,12 @@ Later indirect effects caused by an initial economic change.
 ## SegWit (Segregated Witness)
 <!-- term: segwit -->
 
-A Bitcoin protocol upgrade that changes the way data is stored on the blockchain, allowing for increased capacity and lower transaction fees.
+A Bitcoin protocol upgrade that changed how some transaction data is stored, increasing effective block capacity.
 
 ## Self Custody
 <!-- term: self-custody -->
 
-Holding and controlling your own private keys rather than relying on a third party.
+Control of your own Bitcoin keys rather than leaving them with a service.
 
 ## SHA-256
 <!-- term: sha-256 -->
@@ -1134,7 +1134,7 @@ A spending arrangement in which one key authorizes a transaction.
 ## Soft Fork
 <!-- term: soft-fork -->
 
-A change to the Bitcoin protocol that is backward-compatible with older versions of the software.
+A rule change that remains compatible with older rules.
 
 ## Solvency
 <!-- term: solvency -->
@@ -1154,7 +1154,7 @@ A judgment for money whose supply is difficult to expand and whose properties su
 ## Sovereignty
 <!-- term: sovereignty -->
 
-The ability of an individual to fully control their money without dependence on intermediaries.
+The ability to control one’s money without depending on an intermediary.
 
 ## Standard coins
 <!-- term: standard-coins -->
@@ -1174,7 +1174,7 @@ The idea that value depends on a person’s needs, preferences, information, and
 ## Supply and Demand
 <!-- term: supply-and-demand -->
 
-The economic principle that the price of a good or service is determined by the interaction of the quantity of the good or service that is supplied and the quantity that is demanded.
+The relationship between how much of something is available and how much people want it, which can influence its price.
 
 ## Target
 <!-- term: target -->
@@ -1189,7 +1189,7 @@ How strongly someone prefers value now rather than later.
 ## Time Value of Money
 <!-- term: time-value-of-money -->
 
-The principle that money is worth more in the present than in the future.
+The idea that receiving money now and receiving the same amount later can have different value.
 
 ## Timechain
 <!-- term: timechain -->
@@ -1199,7 +1199,7 @@ A term sometimes used for Bitcoin’s blockchain to emphasize its ordered, time-
 ## Timestamp
 <!-- term: timestamp -->
 
-A record embedded in each block that shows when it was created.
+Data in a block that records its claimed creation time.
 
 ## Too big to fail
 <!-- term: too-big-to-fail -->
@@ -1216,17 +1216,17 @@ A choice that gains one benefit while accepting a cost or giving up another bene
 
 **Acronym:** Tx
 
-The transfer of bitcoin from one address to another on the Bitcoin network.
+A record that transfers bitcoin under Bitcoin’s rules.
 
 ## Transaction Fee
 <!-- term: transaction-fee -->
 
-A small amount of bitcoin paid to miners to include a transaction in a block.
+A fee paid for an on-chain transaction to be included in a block.
 
 ## Transaction ID
 <!-- term: transaction-id -->
 
-a string of numbers and letters that shows the details of a bitcoin transfer (such as the amount sent, the addresses of the sender and recipient, and the date of the transfer) on the Bitcoin blockchain.
+A unique identifier used to find and discuss an on-chain Bitcoin transaction.
 
 ## Transaction input / output
 <!-- term: transaction-input-output -->
@@ -1236,7 +1236,7 @@ An input identifies bitcoin being spent; an output states where bitcoin is assig
 ## Trust Minimization
 <!-- term: trust-minimization -->
 
-Reducing reliance on third parties by enabling independent verification of rules and transactions.
+Trust minimization means reducing reliance on third parties by enabling people to verify rules and transactions themselves. Trustless describes a system designed for this purpose; it does not mean that users face no risk or need no judgment.
 
 ## Trustless
 <!-- term: trustless -->
@@ -1246,12 +1246,12 @@ A system or transaction that does not require trust in any third party or interm
 ## Two-Factor Authentication (2FA)
 <!-- term: two-factor-authentication -->
 
-A security measure that requires two methods of authentication, typically a password and a separate code or device, to access an account or complete a transaction.
+An account-security method requiring two different forms of proof, such as a password and a separate code or device.
 
 ## Unbanked
 <!-- term: unbanked -->
 
-Individuals or communities without access to traditional banking services.
+People or communities without access to traditional banking services.
 
 ## Uniformity
 <!-- term: uniformity -->
@@ -1261,14 +1261,14 @@ The degree to which equal units of money are consistent in form and value.
 ## Unit of Account
 <!-- term: unit-of-account -->
 
-A standard unit of measurement used to express the value of goods and services.
+A shared unit used to state and compare prices, debts, income, and costs.
 
 ## Unspent Transaction Output
 <!-- term: utxo -->
 
 **Acronym:** UTXO
 
-A unit of bitcoin that has been received but not yet spent, representing spendable balance within the Bitcoin system.
+A transaction output that is available to be spent under Bitcoin’s rules.
 
 ## Valid chain
 <!-- term: valid-chain -->
@@ -1298,7 +1298,7 @@ The ability to check that money is genuine or that a transaction follows the rul
 ## Verification
 <!-- term: verification -->
 
-The process of independently checking that transactions and blocks follow Bitcoin’s consensus rules.
+Independently checking that transactions and blocks follow Bitcoin’s rules.
 
 ## Virtual byte
 <!-- term: virtual-byte -->
@@ -1310,7 +1310,7 @@ A unit used to express the weight of Bitcoin transaction data. Fee rates are oft
 ## Volatility
 <!-- term: volatility -->
 
-The degree of variation in the price of an asset over time.
+The degree to which an asset’s price varies over time.
 
 ## Wallet
 <!-- term: wallet -->
@@ -1325,7 +1325,7 @@ A unique identifier used to send and receive bitcoin on the Bitcoin network, typ
 ## Wallet Backup
 <!-- term: wallet-backup -->
 
-A copy of the private keys and recovery phrase/seed keywords of a Bitcoin wallet, which can be used to restore access to the wallet in case the original is lost or stolen.
+A secure copy of the information needed to restore a wallet, such as its seed phrase where the wallet uses one.
 
 ## Wallet compatibility
 <!-- term: wallet-compatibility -->
