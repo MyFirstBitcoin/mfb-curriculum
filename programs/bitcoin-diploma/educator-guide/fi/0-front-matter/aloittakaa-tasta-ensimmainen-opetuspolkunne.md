@@ -10,7 +10,7 @@ Kun opetatte ensimmäistä kertaa, edetkää näin:
 1. Valitkaa yksi päätehtävä ja yksi varatehtävä hyödyntäen [Tehtäväpankkia](https://curriculum.myfirstbitcoin.org/activities/en/) ideoiden lähteenä tarvittaessa. Älkää yrittäkö käyttää kaikkia vaihtoehtoja.
 1. Kirjoittakaa opetuskerran osaamistavoite ja turvallisuussääntö taululle tai aloitusdiaan.
 1. Opettakaa järjestyksessä **selittäkää → kysykää → harjoitelkaa → purkakaa kokemukset → tarkistakaa**.
-1. Käyttäkää arviointitaulukkoa ja käytännön arviointimenettelyä, kun olette valmiita keräämään näyttöä osaamisesta; tavallinen keskustelu ei automaattisesti ole arviointia.
+1. Käyttäkää [arviointitaulukkoa](https://cdn.sanity.io/files/vje9ehw2/staging/8b86111c1d34909e36b6c5533f229980ff54a47d.pdf) ja käytännön arviointimenettelyä, kun olette valmiita keräämään näyttöä osaamisesta; tavallinen keskustelu ei automaattisesti ole arviointia.
 1. Kirjatkaa opetuskerran jälkeen, mitä oppijat ymmärsivät, mikä heitä hämmensi, mikä vaatii tarkistamista ja mitä muutatte seuraavalla kerralla.
 
 Jos teillä on vain kymmenen minuuttia aikaa valmistautua, lukekaa moduulin tarkoitus, oppijalle annettu lupaus, ehdotettu eteneminen, todennäköiset ongelmakohdat, turvallisuushuomiot ja tarkistuspiste. Tämä riittää turvallisen ensimmäisen opetuskerran pitämiseen samalla, kun jatkatte itse oppimista.

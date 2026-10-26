@@ -1,7 +1,7 @@
 # 16.1 Registros completos e reavaliação
 
 * Combine os resultados teóricos conduzidos pelo educador com os registros práticos observados pelo educador.
-* Confirme que cada competência avaliada obrigatória na Grade de Avaliação, incluindo seus critérios de competência obrigatórios, tenha evidências provenientes do componente atribuído a ela.
+* Confirme que cada competência avaliada obrigatória na [Grade de Avaliação](https://cdn.sanity.io/files/vje9ehw2/staging/a7ee3c856abf3e101d236a4edac470a259342547.pdf), incluindo seus critérios de competência obrigatórios, tenha evidências provenientes do componente atribuído a ela.
 * Entre em contato com os alunos de forma privada sobre tarefas incompletas.
 * Ofereça recuperação direcionada e uma reavaliação justa.
 * Ofereça um certificado de participação quando o aluno tiver participado, mas tiver **Ainda não** em uma ou mais competências; emita um certificado de conclusão somente quando todas as competências indicarem **Sim**.

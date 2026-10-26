@@ -1,7 +1,7 @@
 # 16.1 Dokončení záznamů a opětovné hodnocení
 
 * Spojte výsledky teoretického hodnocení vedeného vyučujícím se záznamy z praktického hodnocení pozorovaného vyučujícím.
-* Ověřte, že ke každé požadované hodnocené kompetenci v hodnoticí tabulce, včetně jejích požadovaných kritérií, existují doklady z příslušné části hodnocení.
+* Ověřte, že ke každé požadované hodnocené kompetenci v [hodnoticí tabulce](https://cdn.sanity.io/files/vje9ehw2/staging/0123fbb7a38839c098d336645238952b7e57580e.pdf), včetně jejích požadovaných kritérií, existují doklady z příslušné části hodnocení.
 * Ohledně nedokončených úkolů kontaktujte studující soukromě.
 * Poskytněte cílenou podporu k doplnění nedostatků a spravedlivé opakované hodnocení.
 * Nabídněte osvědčení o účasti, pokud se studující účastnil výuky, ale má hodnocení **Zatím ne** u jedné nebo více kompetencí; osvědčení o absolvování vydejte pouze tehdy, když jsou všechny kompetence hodnoceny jako **Ano**.

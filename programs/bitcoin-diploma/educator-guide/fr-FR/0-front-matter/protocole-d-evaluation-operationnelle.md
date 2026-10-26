@@ -2,7 +2,7 @@
 
 ### Une démarche d’évaluation bienveillante
 
-Ce protocole fait référence pour les sept compétences évaluées du Bitcoin Diploma et les critères observables requis pour chacune. Utilisez-le avec la grille d’évaluation. La théorie évaluée par l’enseignant correspond à `C1`–`C5` ; la pratique observée directement correspond à `C6`–`C7`. La langue locale, les exemples, les méthodes de communication, les choix d’activités et les modalités d’enseignement peuvent varier. Veillez à ce que la compétence et les limites de sécurité restent clairement définies.
+Ce protocole fait référence pour les sept compétences évaluées du Bitcoin Diploma et les critères observables requis pour chacune. Utilisez-le avec la [grille d’évaluation](https://cdn.sanity.io/files/vje9ehw2/staging/7f4a5b7e8c46631c2526d1c38eabd1c63376f0a6.pdf). La théorie évaluée par l’enseignant correspond à `C1`–`C5` ; la pratique observée directement correspond à `C6`–`C7`. La langue locale, les exemples, les méthodes de communication, les choix d’activités et les modalités d’enseignement peuvent varier. Veillez à ce que la compétence et les limites de sécurité restent clairement définies.
 
 
 | Compétence | Critères observables requis | Éléments probants |
@@ -75,13 +75,13 @@ Choisissez un parcours pratique que les apprenants jugent sûr et à leur porté
 
 **Accessibilité et équivalence sans outils numériques :** Utilisez le mode de communication, la consigne traduite, le support en gros caractères ou tactile, la réponse orale, la réponse décrite, les écrans de portefeuille préparés sur papier, le jeu de rôle ou la simulation hors ligne qui convient à l’apprenant, tout en préservant l’action requise. Une modalité équivalente doit rendre la compétence accessible ; elle ne doit pas la réduire à la reconnaissance, à la participation en groupe ou à une simple déclaration de l’apprenant.
 
-**Notes facultatives :** La grille d’évaluation exige uniquement un résultat final **Compétence démontrée : Oui** ou **Compétence démontrée : Pas encore** par compétence et par apprenant. De brèves notes peuvent vous aider à vous souvenir de ce que vous avez observé, à prévoir un suivi ou à étayer une réévaluation, mais la grille n’exige ni identifiants de tâches ni relevés détaillés des éléments probants. Ne consignez que le minimum nécessaire d’informations sur l’apprenant et préservez leur confidentialité.
+**Notes facultatives :** La [grille d’évaluation](https://cdn.sanity.io/files/vje9ehw2/staging/7f4a5b7e8c46631c2526d1c38eabd1c63376f0a6.pdf) exige uniquement un résultat final **Compétence démontrée : Oui** ou **Compétence démontrée : Pas encore** par compétence et par apprenant. De brèves notes peuvent vous aider à vous souvenir de ce que vous avez observé, à prévoir un suivi ou à étayer une réévaluation, mais la grille n’exige ni identifiants de tâches ni relevés détaillés des éléments probants. Ne consignez que le minimum nécessaire d’informations sur l’apprenant et préservez leur confidentialité.
 
 ### Exemples d’interactions théoriques
 
 Ces interactions peuvent être intégrées à l’enseignement habituel du module. Ce sont des exemples, et non une épreuve écrite unique ni la seule modalité valable. Donnez à chaque apprenant la possibilité de répondre, puis consignez chaque compétence séparément.
 
-**Compréhension et action :** `T1`–`T3` vérifient la compréhension : l’éducateur écoute l’apprenant expliquer ou comparer une idée. `P6a`, `P6b` et `P7` vérifient la capacité à agir en toute sécurité : l’éducateur observe l’apprenant réaliser une tâche pratique. Il s’agit de suggestions pour recueillir des éléments probants, et non d’épreuves ou de notes supplémentaires. Consignez un résultat final pour chaque compétence dans la grille d’évaluation.
+**Compréhension et action :** `T1`–`T3` vérifient la compréhension : l’éducateur écoute l’apprenant expliquer ou comparer une idée. `P6a`, `P6b` et `P7` vérifient la capacité à agir en toute sécurité : l’éducateur observe l’apprenant réaliser une tâche pratique. Il s’agit de suggestions pour recueillir des éléments probants, et non d’épreuves ou de notes supplémentaires. Consignez un résultat final pour chaque compétence dans la [grille d’évaluation](https://cdn.sanity.io/files/vje9ehw2/staging/7f4a5b7e8c46631c2526d1c38eabd1c63376f0a6.pdf).
 
 #### `T1` — Comparaison de monnaies et scénario local (`C1`)
 
@@ -157,7 +157,7 @@ Ces interactions peuvent être intégrées à l’enseignement habituel du modul
 
 ### Réévaluation et soutien facultatif à la qualité
 
-**Réévaluation :** **Pas encore** signifie que l’apprenant développe sa compétence et a besoin de poursuivre son apprentissage, de s’exercer davantage ou de bénéficier d’une autre occasion — et non « jamais ». Les éducateurs peuvent procéder à une réévaluation à tout moment, notamment pendant le cours, lors d’une pause, au cours d’un appel supplémentaire ou lors d’une séance de suivi. Déterminez en privé les besoins de l’apprenant, proposez des exercices ciblés et utilisez la même activité ou une activité équivalente adaptée. N’abaissez pas le niveau d’exigence, ne considérez pas la présence comme un substitut à la compétence et ne contraignez pas l’apprenant à divulguer des informations personnelles. Mettez à jour la grille d’évaluation lorsque les nouveaux éléments probants sont suffisants.
+**Réévaluation :** **Pas encore** signifie que l’apprenant développe sa compétence et a besoin de poursuivre son apprentissage, de s’exercer davantage ou de bénéficier d’une autre occasion — et non « jamais ». Les éducateurs peuvent procéder à une réévaluation à tout moment, notamment pendant le cours, lors d’une pause, au cours d’un appel supplémentaire ou lors d’une séance de suivi. Déterminez en privé les besoins de l’apprenant, proposez des exercices ciblés et utilisez la même activité ou une activité équivalente adaptée. N’abaissez pas le niveau d’exigence, ne considérez pas la présence comme un substitut à la compétence et ne contraignez pas l’apprenant à divulguer des informations personnelles. Mettez à jour la [grille d’évaluation](https://cdn.sanity.io/files/vje9ehw2/staging/7f4a5b7e8c46631c2526d1c38eabd1c63376f0a6.pdf) lorsque les nouveaux éléments probants sont suffisants.
 
 **Soutien facultatif aux éducateurs :** Si les éducateurs travaillent ensemble ou ont des doutes, ils peuvent comparer un cas évalué **Oui** et un cas évalué **Pas encore** donnés en exemple, discuter du niveau d’exigence ou suivre le programme de formation des éducateurs recommandé. Ce soutien peut renforcer la confiance, mais n’est pas une condition préalable à la délivrance des certificats.
 
@@ -175,7 +175,7 @@ Utilisez ces exemples pour comparer les jugements avant la mise en œuvre. Il s�
 | P7 — Exemple de variante : simulation de comparaison des parcours de paiement locaux | L’apprenant réalise la séquence de paiement simulée en toute sécurité, vérifie le destinataire et le montant, et explique individuellement l’objectif local, une solution de remplacement réaliste, les compromis, les points de défaillance possibles, la limite de sécurité et la prochaine étape. Jugement : Oui. | L’apprenant ne réalise la séquence qu’en suivant les instructions de l’éducateur, omet une vérification obligatoire ou ne parvient pas à expliquer la solution de remplacement réaliste et la conduite à tenir pour assurer la sécurité après l’aide autorisée. Jugement : Pas encore ; proposez des exercices ciblés et réévaluez à l’aide de la même variante ou d’une variante équivalente. |
 
 
-Ces exemples ne remplacent ni l’observation directe, ni la grille d’évaluation, ni l’approbation locale de la modalité choisie pour `P7`. Ne consignez pas de données secrètes réelles, de clés privées, de mots de passe, de soldes ou d’informations personnelles superflues lors de l’harmonisation.
+Ces exemples ne remplacent ni l’observation directe, ni la [grille d’évaluation](https://cdn.sanity.io/files/vje9ehw2/staging/7f4a5b7e8c46631c2526d1c38eabd1c63376f0a6.pdf), ni l’approbation locale de la modalité choisie pour `P7`. Ne consignez pas de données secrètes réelles, de clés privées, de mots de passe, de soldes ou d’informations personnelles superflues lors de l’harmonisation.
 
 Utilisez les exemples et les supports d’activité adaptés à votre groupe. Vérifiez les outils locaux, les faits actuels, la traduction, l’accessibilité et la sécurité pratique avant la mise en œuvre. Lorsque vous adaptez une activité, veillez à ce que la compétence visée et l’objectif de sécurité restent clairs.
 

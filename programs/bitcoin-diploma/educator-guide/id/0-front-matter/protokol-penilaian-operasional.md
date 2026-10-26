@@ -2,7 +2,7 @@
 
 ### Jalur penilaian yang mendukung pembelajaran
 
-Protokol ini merupakan acuan utama untuk tujuh kompetensi yang dinilai dalam Bitcoin Diploma beserta indikator wajib yang harus diamati. Gunakan protokol ini bersama Kisi-Kisi Penilaian. Teori yang dinilai oleh pendidik mencakup `C1`–`C5`; praktik yang diamati secara langsung mencakup `C6`–`C7`. Bahasa setempat, contoh, metode komunikasi, pilihan kegiatan, dan jalur penyampaian pembelajaran dapat berubah. Pastikan kompetensi dan batasan keselamatan tetap jelas.
+Protokol ini merupakan acuan utama untuk tujuh kompetensi yang dinilai dalam Bitcoin Diploma beserta indikator wajib yang harus diamati. Gunakan protokol ini bersama [Kisi-Kisi Penilaian](https://cdn.sanity.io/files/vje9ehw2/staging/7a5637c64126170a2b46927550b2e60b6f903e0b.pdf). Teori yang dinilai oleh pendidik mencakup `C1`–`C5`; praktik yang diamati secara langsung mencakup `C6`–`C7`. Bahasa setempat, contoh, metode komunikasi, pilihan kegiatan, dan jalur penyampaian pembelajaran dapat berubah. Pastikan kompetensi dan batasan keselamatan tetap jelas.
 
 
 | Kompetensi | Indikator wajib yang harus diamati | Bukti |
@@ -75,13 +75,13 @@ Pilih alur praktik yang dirasa aman dan dapat dijalani oleh peserta didik. Catat
 
 **Aksesibilitas dan kesetaraan dengan teknologi sederhana:** Gunakan metode komunikasi, instruksi terjemahan, bahan berhuruf besar atau bahan taktil, tanggapan lisan, tanggapan berupa deskripsi, tampilan dompet dalam bentuk cetakan kertas yang telah disiapkan, permainan peran, atau simulasi luring yang sesuai bagi peserta didik tanpa mengubah tindakan yang diwajibkan. Jalur yang setara harus memungkinkan kompetensi dicapai; jalur tersebut tidak boleh menurunkannya menjadi sekadar pengenalan, partisipasi kelompok, atau laporan diri.
 
-**Catatan opsional:** Kisi Penilaian hanya memerlukan satu hasil akhir **Menunjukkan kompetensi: Ya** atau **Menunjukkan kompetensi: Belum** untuk setiap kompetensi dan peserta didik. Catatan singkat dapat membantu Anda mengingat apa yang Anda amati, merencanakan tindak lanjut, atau mendukung penilaian ulang, tetapi kisi tersebut tidak mewajibkan ID tugas dan catatan bukti yang panjang. Catat hanya informasi minimum peserta didik yang diperlukan dan jaga kerahasiaannya.
+**Catatan opsional:** [Kisi Penilaian](https://cdn.sanity.io/files/vje9ehw2/staging/7a5637c64126170a2b46927550b2e60b6f903e0b.pdf) hanya memerlukan satu hasil akhir **Menunjukkan kompetensi: Ya** atau **Menunjukkan kompetensi: Belum** untuk setiap kompetensi dan peserta didik. Catatan singkat dapat membantu Anda mengingat apa yang Anda amati, merencanakan tindak lanjut, atau mendukung penilaian ulang, tetapi kisi tersebut tidak mewajibkan ID tugas dan catatan bukti yang panjang. Catat hanya informasi minimum peserta didik yang diperlukan dan jaga kerahasiaannya.
 
 ### Contoh interaksi teoretis
 
 Interaksi ini dapat dipadukan ke dalam pengajaran modul seperti biasa. Interaksi ini merupakan contoh, bukan satu ujian tertulis atau satu-satunya jalur yang sah. Berikan kesempatan kepada setiap peserta didik untuk menanggapi, lalu catat setiap kompetensi secara terpisah.
 
-**Pemahaman dan tindakan:** `T1`–`T3` memeriksa pemahaman: pendidik menyimak saat peserta didik menjelaskan atau membandingkan suatu gagasan. `P6a`, `P6b`, dan `P7` memeriksa tindakan yang aman: pendidik mengamati peserta didik menyelesaikan tugas praktik. Ini adalah cara yang disarankan untuk mengumpulkan bukti, bukan tes atau nilai tambahan. Catat satu hasil akhir untuk setiap kompetensi dalam Kisi Penilaian.
+**Pemahaman dan tindakan:** `T1`–`T3` memeriksa pemahaman: pendidik menyimak saat peserta didik menjelaskan atau membandingkan suatu gagasan. `P6a`, `P6b`, dan `P7` memeriksa tindakan yang aman: pendidik mengamati peserta didik menyelesaikan tugas praktik. Ini adalah cara yang disarankan untuk mengumpulkan bukti, bukan tes atau nilai tambahan. Catat satu hasil akhir untuk setiap kompetensi dalam [Kisi Penilaian](https://cdn.sanity.io/files/vje9ehw2/staging/7a5637c64126170a2b46927550b2e60b6f903e0b.pdf).
 
 #### `T1` — Perbandingan uang dan skenario lokal (`C1`)
 
@@ -157,7 +157,7 @@ Interaksi ini dapat dipadukan ke dalam pengajaran modul seperti biasa. Interaksi
 
 ### Penilaian ulang dan dukungan mutu opsional
 
-**Penilaian ulang:** **Belum** berarti peserta didik sedang membangun kompetensi dan memerlukan pembelajaran, latihan, atau kesempatan tambahan—bukan “tidak akan pernah.” Pendidik dapat melakukan penilaian ulang kapan saja, termasuk saat pembelajaran berlangsung, saat istirahat, dalam panggilan tambahan, atau dalam sesi tindak lanjut. Identifikasi kebutuhan peserta didik secara pribadi, berikan latihan yang terarah, dan gunakan kegiatan yang sama atau kegiatan setara yang sesuai. Jangan menurunkan standar, menggunakan kehadiran sebagai pengganti, atau memaksa peserta didik mengungkapkan informasi pribadi. Perbarui Kisi Penilaian ketika bukti baru sudah memadai.
+**Penilaian ulang:** **Belum** berarti peserta didik sedang membangun kompetensi dan memerlukan pembelajaran, latihan, atau kesempatan tambahan—bukan “tidak akan pernah.” Pendidik dapat melakukan penilaian ulang kapan saja, termasuk saat pembelajaran berlangsung, saat istirahat, dalam panggilan tambahan, atau dalam sesi tindak lanjut. Identifikasi kebutuhan peserta didik secara pribadi, berikan latihan yang terarah, dan gunakan kegiatan yang sama atau kegiatan setara yang sesuai. Jangan menurunkan standar, menggunakan kehadiran sebagai pengganti, atau memaksa peserta didik mengungkapkan informasi pribadi. Perbarui [Kisi Penilaian](https://cdn.sanity.io/files/vje9ehw2/staging/7a5637c64126170a2b46927550b2e60b6f903e0b.pdf) ketika bukti baru sudah memadai.
 
 **Dukungan opsional bagi pendidik:** Jika para pendidik bekerja bersama atau merasa ragu, mereka dapat membandingkan contoh **Ya** dan **Belum**, membahas standar, atau menyelesaikan Program Pelatihan Pendidik yang direkomendasikan. Dukungan ini dapat membangun kepercayaan diri, tetapi bukan prasyarat untuk menerbitkan sertifikat.
 
@@ -175,7 +175,7 @@ Gunakan contoh-contoh ini untuk membandingkan hasil penilaian sebelum pelaksanaa
 | P7 — Contoh varian: simulasi perbandingan jalur pembayaran setempat | Peserta didik menyelesaikan urutan langkah pembayaran dalam simulasi dengan aman, memeriksa penerima dan jumlah, serta secara individu menjelaskan tujuan dalam konteks setempat, alternatif yang realistis, kompromi, kemungkinan titik kegagalan, batas keselamatan, dan langkah selanjutnya. Hasil penilaian: Ya. | Peserta didik hanya dapat menyelesaikan urutan langkah melalui arahan pendidik, melewatkan pemeriksaan yang diwajibkan, atau tidak dapat menjelaskan alternatif yang realistis dan tindakan untuk menjaga keselamatan setelah mendapat dukungan yang diizinkan. Hasil penilaian: Belum; berikan latihan yang terarah dan lakukan penilaian ulang dengan varian yang sama atau setara. |
 
 
-Contoh-contoh ini tidak menggantikan pengamatan langsung, Kisi Penilaian, atau persetujuan setempat untuk `P7` yang dipilih. Jangan mencatat informasi rahasia yang sebenarnya, kunci privat, kata sandi, saldo, atau informasi pribadi yang tidak diperlukan selama kalibrasi.
+Contoh-contoh ini tidak menggantikan pengamatan langsung, [Kisi Penilaian](https://cdn.sanity.io/files/vje9ehw2/staging/7a5637c64126170a2b46927550b2e60b6f903e0b.pdf), atau persetujuan setempat untuk `P7` yang dipilih. Jangan mencatat informasi rahasia yang sebenarnya, kunci privat, kata sandi, saldo, atau informasi pribadi yang tidak diperlukan selama kalibrasi.
 
 Gunakan contoh dan materi kegiatan yang sesuai dengan kelompok belajar Anda. Tinjau perangkat setempat, fakta terkini, terjemahan, aksesibilitas, dan keselamatan praktik sebelum pelaksanaan pembelajaran. Saat Anda menyesuaikan kegiatan, pastikan kompetensi dan tujuan keselamatannya tetap jelas.
 

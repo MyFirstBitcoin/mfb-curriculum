@@ -2,7 +2,7 @@
 
 ### Wspierająca ścieżka oceny
 
-Niniejszy protokół stanowi wiążące źródło informacji o siedmiu kompetencjach ocenianych w programie Bitcoin Diploma oraz wymaganych wskaźnikach ich opanowania. Należy stosować go wraz z siatką oceny. Teoria oceniana przez osobę prowadzącą obejmuje `C1`–`C5`; praktyka oceniana na podstawie bezpośredniej obserwacji obejmuje `C6`–`C7`. Lokalny język, przykłady, metody komunikacji, dobór aktywności i sposoby prowadzenia zajęć mogą się zmieniać. Należy jasno określać zakres kompetencji i granice bezpieczeństwa.
+Niniejszy protokół stanowi wiążące źródło informacji o siedmiu kompetencjach ocenianych w programie Bitcoin Diploma oraz wymaganych wskaźnikach ich opanowania. Należy stosować go wraz z [siatką oceny](https://cdn.sanity.io/files/vje9ehw2/staging/a9beb6a0735010a890448f4bc57c12d50a673868.pdf). Teoria oceniana przez osobę prowadzącą obejmuje `C1`–`C5`; praktyka oceniana na podstawie bezpośredniej obserwacji obejmuje `C6`–`C7`. Lokalny język, przykłady, metody komunikacji, dobór aktywności i sposoby prowadzenia zajęć mogą się zmieniać. Należy jasno określać zakres kompetencji i granice bezpieczeństwa.
 
 
 | Kompetencja | Wymagane wskaźniki opanowania | Dowody opanowania |
@@ -75,13 +75,13 @@ Proszę wybrać praktyczny sposób realizacji, który osoby uczące się uznają
 
 **Dostępność i równoważne rozwiązania niewymagające zaawansowanej technologii:** Proszę zastosować metodę komunikacji, przetłumaczone polecenie, materiał z dużym drukiem lub materiał dotykowy, odpowiedź ustną, odpowiedź w formie opisu, przygotowane papierowe makiety ekranów portfela, odgrywanie ról lub symulację offline, które odpowiadają potrzebom osoby uczącej się, przy zachowaniu wymaganego działania. Równoważna ścieżka powinna umożliwiać wykazanie kompetencji; nie powinna sprowadzać jej do rozpoznawania, udziału w pracy grupowej ani deklaracji własnych umiejętności.
 
-**Opcjonalne notatki:** Arkusz oceny wymaga tylko jednego końcowego wyniku **Wykazuje kompetencję: Tak** lub **Wykazuje kompetencję: Jeszcze nie** dla każdej kompetencji i każdej osoby uczącej się. Krótkie notatki mogą pomóc Państwu zapamiętać zaobserwowane działania, zaplanować dalsze kroki lub ułatwić ponowną ocenę, ale arkusz nie wymaga identyfikatorów zadań ani obszernych zapisów dowodów. Proszę zapisywać tylko niezbędne minimum informacji o osobie uczącej się i zachować ich poufność.
+**Opcjonalne notatki:** [Arkusz oceny](https://cdn.sanity.io/files/vje9ehw2/staging/a9beb6a0735010a890448f4bc57c12d50a673868.pdf) wymaga tylko jednego końcowego wyniku **Wykazuje kompetencję: Tak** lub **Wykazuje kompetencję: Jeszcze nie** dla każdej kompetencji i każdej osoby uczącej się. Krótkie notatki mogą pomóc Państwu zapamiętać zaobserwowane działania, zaplanować dalsze kroki lub ułatwić ponowną ocenę, ale arkusz nie wymaga identyfikatorów zadań ani obszernych zapisów dowodów. Proszę zapisywać tylko niezbędne minimum informacji o osobie uczącej się i zachować ich poufność.
 
 ### Przykładowe interakcje dotyczące teorii
 
 Te interakcje można wpleść w zwykłe zajęcia w ramach modułu. Są to przykłady, a nie jeden egzamin pisemny ani jedyna dopuszczalna ścieżka. Proszę dać każdej osobie uczącej się możliwość odpowiedzi, a następnie odnotować każdą kompetencję osobno.
 
-**Rozumienie i działanie:** `T1`–`T3` sprawdzają rozumienie: osoba prowadząca słucha, jak osoba ucząca się wyjaśnia lub porównuje daną koncepcję. `P6a`, `P6b` i `P7` sprawdzają bezpieczne działanie: osoba prowadząca obserwuje, jak osoba ucząca się wykonuje zadanie praktyczne. Są to proponowane sposoby zbierania dowodów, a nie dodatkowe testy lub oceny. Proszę zapisać w Arkuszu oceny jeden końcowy wynik dla każdej kompetencji.
+**Rozumienie i działanie:** `T1`–`T3` sprawdzają rozumienie: osoba prowadząca słucha, jak osoba ucząca się wyjaśnia lub porównuje daną koncepcję. `P6a`, `P6b` i `P7` sprawdzają bezpieczne działanie: osoba prowadząca obserwuje, jak osoba ucząca się wykonuje zadanie praktyczne. Są to proponowane sposoby zbierania dowodów, a nie dodatkowe testy lub oceny. Proszę zapisać w [Arkuszu oceny](https://cdn.sanity.io/files/vje9ehw2/staging/a9beb6a0735010a890448f4bc57c12d50a673868.pdf) jeden końcowy wynik dla każdej kompetencji.
 
 #### `T1` — Porównanie form pieniądza i scenariusz lokalny (`C1`)
 
@@ -157,7 +157,7 @@ Te interakcje można wpleść w zwykłe zajęcia w ramach modułu. Są to przyk�
 
 ### Ponowna ocena i opcjonalne wsparcie jakości
 
-**Ponowna ocena:** **Jeszcze nie** oznacza, że osoba ucząca się rozwija kompetencję i potrzebuje dalszej nauki, ćwiczeń lub kolejnej okazji — nie oznacza „nigdy”. Osoby prowadzące mogą wrócić do ponownej oceny w dowolnym momencie, w tym podczas zajęć, w przerwie, podczas dodatkowej rozmowy lub na kolejnym spotkaniu. Proszę ustalić na osobności, czego potrzebuje osoba ucząca się, zapewnić ukierunkowane ćwiczenia i wykorzystać to samo ćwiczenie lub odpowiednie ćwiczenie równoważne. Proszę nie obniżać standardu, nie traktować obecności jako zamiennika wykazania kompetencji ani nie zmuszać osoby uczącej się do ujawniania danych osobowych. Proszę zaktualizować arkusz oceny, gdy nowe dowody będą wystarczające.
+**Ponowna ocena:** **Jeszcze nie** oznacza, że osoba ucząca się rozwija kompetencję i potrzebuje dalszej nauki, ćwiczeń lub kolejnej okazji — nie oznacza „nigdy”. Osoby prowadzące mogą wrócić do ponownej oceny w dowolnym momencie, w tym podczas zajęć, w przerwie, podczas dodatkowej rozmowy lub na kolejnym spotkaniu. Proszę ustalić na osobności, czego potrzebuje osoba ucząca się, zapewnić ukierunkowane ćwiczenia i wykorzystać to samo ćwiczenie lub odpowiednie ćwiczenie równoważne. Proszę nie obniżać standardu, nie traktować obecności jako zamiennika wykazania kompetencji ani nie zmuszać osoby uczącej się do ujawniania danych osobowych. Proszę zaktualizować [arkusz oceny](https://cdn.sanity.io/files/vje9ehw2/staging/a9beb6a0735010a890448f4bc57c12d50a673868.pdf), gdy nowe dowody będą wystarczające.
 
 **Opcjonalne wsparcie dla osób prowadzących:** Jeśli osoby prowadzące pracują wspólnie lub odczuwają niepewność, mogą porównać przykłady ocenione jako **Tak** i **Jeszcze nie**, omówić standard lub ukończyć zalecany program szkoleniowy dla osób prowadzących. Takie wsparcie może zwiększyć pewność w ocenianiu, ale nie jest warunkiem wydawania certyfikatów.
 
@@ -175,7 +175,7 @@ Proszę wykorzystać te przykłady do porównania ocen przed rozpoczęciem zaję
 | P7 — Przykładowy wariant: symulacja porównania lokalnych ścieżek płatności | Osoba ucząca się bezpiecznie wykonuje symulowaną sekwencję płatności, sprawdza odbiorcę i kwotę oraz samodzielnie wyjaśnia cel w lokalnym kontekście, realistyczną alternatywę, kompromisy, możliwe punkty niepowodzenia, granicę bezpieczeństwa i kolejny krok. Ocena: Tak. | Osoba ucząca się wykonuje sekwencję wyłącznie dzięki wskazówkom osoby prowadzącej, pomija wymaganą kontrolę lub po otrzymaniu dopuszczalnego wsparcia nie potrafi wyjaśnić realistycznej alternatywy i bezpiecznej reakcji. Ocena: Jeszcze nie; należy zapewnić ukierunkowane ćwiczenia i ponownie ocenić ten sam lub równoważny wariant. |
 
 
-Te przykłady nie zastępują bezpośredniej obserwacji, arkusza oceny ani zatwierdzenia wybranego lokalnego wariantu `P7`. Podczas kalibracji proszę nie zapisywać rzeczywistych poufnych danych, kluczy prywatnych, haseł, sald ani zbędnych danych osobowych.
+Te przykłady nie zastępują bezpośredniej obserwacji, [arkusza oceny](https://cdn.sanity.io/files/vje9ehw2/staging/a9beb6a0735010a890448f4bc57c12d50a673868.pdf) ani zatwierdzenia wybranego lokalnego wariantu `P7`. Podczas kalibracji proszę nie zapisywać rzeczywistych poufnych danych, kluczy prywatnych, haseł, sald ani zbędnych danych osobowych.
 
 Proszę korzystać z przykładów i materiałów do ćwiczeń dopasowanych do grupy. Przed rozpoczęciem zajęć proszę sprawdzić lokalne narzędzia, aktualność informacji, tłumaczenie, dostępność oraz bezpieczeństwo w praktyce. Przy dostosowywaniu ćwiczenia proszę zachować jasność co do rozwijanej kompetencji i celu związanego z bezpieczeństwem.
 

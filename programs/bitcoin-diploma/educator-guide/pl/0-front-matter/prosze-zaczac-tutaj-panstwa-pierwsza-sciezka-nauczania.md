@@ -10,7 +10,7 @@ Podczas pierwszego prowadzenia zajęć proszę skorzystać z następującej ści
 1. Proszę wybrać jedno ćwiczenie główne i jedno zapasowe, korzystając z [Biblioteki ćwiczeń](https://curriculum.myfirstbitcoin.org/activities/en/) jako źródła pomysłów, gdy będzie to pomocne. Proszę nie próbować wykorzystywać wszystkich opcji.
 1. Proszę zapisać na tablicy lub slajdzie otwierającym kompetencję rozwijaną podczas zajęć oraz zasadę bezpieczeństwa.
 1. Proszę prowadzić zajęcia w kolejności **wyjaśnienie → pytanie → ćwiczenie → omówienie → sprawdzenie**.
-1. Gdy będą Państwo gotowi zbierać dowody osiągnięć, proszę skorzystać z Siatki oceniania i procedury przeprowadzania oceny; zwykła dyskusja nie jest automatycznie ocenianiem.
+1. Gdy będą Państwo gotowi zbierać dowody osiągnięć, proszę skorzystać z [Siatki oceniania](https://cdn.sanity.io/files/vje9ehw2/staging/a9beb6a0735010a890448f4bc57c12d50a673868.pdf) i procedury przeprowadzania oceny; zwykła dyskusja nie jest automatycznie ocenianiem.
 1. Po zajęciach proszę zapisać, co osoby uczące się zrozumiały, co sprawiło im trudność, co wymaga sprawdzenia i co zmienią Państwo następnym razem.
 
 Jeśli mają Państwo tylko dziesięć minut na przygotowanie, proszę przeczytać cel modułu, obietnicę dla osoby uczącej się, proponowany przebieg, prawdopodobne trudności, uwagi dotyczące bezpieczeństwa i punkt podsumowania. To wystarczy, aby bezpiecznie przeprowadzić pierwsze zajęcia, a jednocześnie kontynuować własną naukę.

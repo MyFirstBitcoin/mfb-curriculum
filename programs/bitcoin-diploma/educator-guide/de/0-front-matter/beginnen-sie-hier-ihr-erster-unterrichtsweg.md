@@ -10,7 +10,7 @@ Gehen Sie bei Ihrer ersten Durchführung so vor:
 1. Wählen Sie eine Hauptaktivität und eine Ersatzaktivität aus und nutzen Sie dabei bei Bedarf die [Aktivitätensammlung](https://curriculum.myfirstbitcoin.org/activities/en/) als Ideenquelle. Versuchen Sie nicht, jede Option einzusetzen.
 1. Schreiben Sie die Kompetenz der Einheit und die Sicherheitsregel an Ihre Tafel oder auf Ihre Eröffnungsfolie.
 1. Unterrichten Sie in der Reihenfolge **erklären → fragen → üben → nachbesprechen → überprüfen**.
-1. Verwenden Sie das Bewertungsraster und das operative Bewertungsprotokoll, wenn Sie bereit sind, Nachweise zu sammeln; eine gewöhnliche Diskussion ist nicht automatisch eine Bewertung.
+1. Verwenden Sie das [Bewertungsraster](https://cdn.sanity.io/files/vje9ehw2/staging/1dc78f09f7b336ce2798e4667e42f04293e00749.pdf) und das operative Bewertungsprotokoll, wenn Sie bereit sind, Nachweise zu sammeln; eine gewöhnliche Diskussion ist nicht automatisch eine Bewertung.
 1. Notieren Sie nach dem Unterricht, was die Lernenden verstanden haben, was sie verwirrt hat, was überprüft werden muss und was Sie beim nächsten Mal ändern werden.
 
 Wenn Sie nur zehn Minuten zur Vorbereitung haben, lesen Sie Zweck des Moduls, Versprechen an die Lernenden, vorgeschlagenen Ablauf, wahrscheinliche Schwierigkeiten, Sicherheitshinweise und Reflexionspunkt. Das genügt, um eine sichere erste Einheit durchzuführen, während Sie selbst weiterlernen.

@@ -2,7 +2,7 @@
 
 ### Ein unterstützender Bewertungsweg
 
-Dieses Protokoll ist die maßgebliche Grundlage für die sieben bewerteten Kompetenzen des Bitcoin Diploma und die jeweils erforderlichen Prüfkriterien. Verwenden Sie es zusammen mit dem Bewertungsraster. Die von der Lehrkraft bewertete Theorie umfasst `C1`–`C5`; die direkt beobachtete Praxis umfasst `C6`–`C7`. Sprache, Beispiele, Kommunikationsformen, Aktivitäten und Vermittlungswege können an den lokalen Kontext angepasst werden. Halten Sie die Kompetenz und die Sicherheitsgrenzen dabei klar ein.
+Dieses Protokoll ist die maßgebliche Grundlage für die sieben bewerteten Kompetenzen des Bitcoin Diploma und die jeweils erforderlichen Prüfkriterien. Verwenden Sie es zusammen mit dem [Bewertungsraster](https://cdn.sanity.io/files/vje9ehw2/staging/1dc78f09f7b336ce2798e4667e42f04293e00749.pdf). Die von der Lehrkraft bewertete Theorie umfasst `C1`–`C5`; die direkt beobachtete Praxis umfasst `C6`–`C7`. Sprache, Beispiele, Kommunikationsformen, Aktivitäten und Vermittlungswege können an den lokalen Kontext angepasst werden. Halten Sie die Kompetenz und die Sicherheitsgrenzen dabei klar ein.
 
 
 | Kompetenz | Erforderliche Prüfkriterien | Nachweis |
@@ -75,13 +75,13 @@ Wählen Sie einen praktischen Ablauf, der sich für die Lernenden sicher und bew
 
 **Barrierefreiheit und gleichwertige Low-Tech-Alternativen:** Verwenden Sie die Kommunikationsform, die übersetzte Aufgabenstellung, Großdruck- oder taktiles Material, mündliche Antwort, beschriebene Antwort, vorbereitete Ansichten einer Paper Wallet, Rollenspiel oder Offline-Simulation, die für die lernende Person geeignet ist, während die geforderte Handlung erhalten bleibt. Ein gleichwertiger Weg soll die Kompetenz erreichbar machen; er darf sie nicht auf bloßes Wiedererkennen, Gruppenbeteiligung oder Selbstauskunft reduzieren.
 
-**Optionale Notizen:** Das Bewertungsraster verlangt nur ein abschließendes Ergebnis **Kompetenz gezeigt: Ja** oder **Kompetenz gezeigt: Noch nicht** pro Kompetenz und lernender Person. Kurze Notizen können Ihnen helfen, sich an das Beobachtete zu erinnern, Folgemaßnahmen zu planen oder eine erneute Bewertung zu unterstützen, doch Aufgaben-IDs und ausführliche Nachweisprotokolle werden vom Raster nicht verlangt. Halten Sie nur die unbedingt notwendigen Informationen über die lernende Person fest und behandeln Sie sie vertraulich.
+**Optionale Notizen:** Das [Bewertungsraster](https://cdn.sanity.io/files/vje9ehw2/staging/1dc78f09f7b336ce2798e4667e42f04293e00749.pdf) verlangt nur ein abschließendes Ergebnis **Kompetenz gezeigt: Ja** oder **Kompetenz gezeigt: Noch nicht** pro Kompetenz und lernender Person. Kurze Notizen können Ihnen helfen, sich an das Beobachtete zu erinnern, Folgemaßnahmen zu planen oder eine erneute Bewertung zu unterstützen, doch Aufgaben-IDs und ausführliche Nachweisprotokolle werden vom Raster nicht verlangt. Halten Sie nur die unbedingt notwendigen Informationen über die lernende Person fest und behandeln Sie sie vertraulich.
 
 ### Beispiele für theoretische Interaktionen
 
 Diese Interaktionen können in den regulären Unterricht des Moduls eingebunden werden. Sie sind Beispiele, keine einzelne schriftliche Prüfung und nicht der einzig gültige Weg. Geben Sie jeder lernenden Person die Gelegenheit zu antworten und halten Sie dann jede Kompetenz gesondert fest.
 
-**Verständnis und Handlung:** `T1`–`T3` prüfen das Verständnis: Die Lehrkraft hört zu, während die lernende Person eine Idee erklärt oder vergleicht. `P6a`, `P6b` und `P7` prüfen sicheres Handeln: Die Lehrkraft beobachtet, wie die lernende Person eine praktische Aufgabe ausführt. Dies sind Vorschläge zur Erhebung von Nachweisen, keine zusätzlichen Tests oder Noten. Tragen Sie für jede Kompetenz ein abschließendes Ergebnis in das Bewertungsraster ein.
+**Verständnis und Handlung:** `T1`–`T3` prüfen das Verständnis: Die Lehrkraft hört zu, während die lernende Person eine Idee erklärt oder vergleicht. `P6a`, `P6b` und `P7` prüfen sicheres Handeln: Die Lehrkraft beobachtet, wie die lernende Person eine praktische Aufgabe ausführt. Dies sind Vorschläge zur Erhebung von Nachweisen, keine zusätzlichen Tests oder Noten. Tragen Sie für jede Kompetenz ein abschließendes Ergebnis in das [Bewertungsraster](https://cdn.sanity.io/files/vje9ehw2/staging/1dc78f09f7b336ce2798e4667e42f04293e00749.pdf) ein.
 
 #### `T1` — Geldvergleich und lokales Szenario (`C1`)
 
@@ -157,7 +157,7 @@ Diese Interaktionen können in den regulären Unterricht des Moduls eingebunden 
 
 ### Erneute Bewertung und optionale Qualitätsunterstützung
 
-**Erneute Bewertung:** **Noch nicht** bedeutet, dass die lernende Person Kompetenz aufbaut und mehr Lernen, Übung oder eine weitere Gelegenheit benötigt – nicht „nie“. Lehrkräfte können jederzeit zu einer erneuten Bewertung zurückkehren, etwa während des Unterrichts, in einer Pause, in einem zusätzlichen Gespräch oder in einer Folgesitzung. Klären Sie vertraulich, was die lernende Person braucht, bieten Sie gezielte Übung an und verwenden Sie dieselbe Aktivität oder eine geeignete Entsprechung. Senken Sie den Standard nicht, verwenden Sie die Anwesenheit nicht als Ersatz und zwingen Sie die lernende Person nicht, persönliche Informationen preiszugeben. Aktualisieren Sie das Bewertungsraster, sobald die neuen Nachweise ausreichen.
+**Erneute Bewertung:** **Noch nicht** bedeutet, dass die lernende Person Kompetenz aufbaut und mehr Lernen, Übung oder eine weitere Gelegenheit benötigt – nicht „nie“. Lehrkräfte können jederzeit zu einer erneuten Bewertung zurückkehren, etwa während des Unterrichts, in einer Pause, in einem zusätzlichen Gespräch oder in einer Folgesitzung. Klären Sie vertraulich, was die lernende Person braucht, bieten Sie gezielte Übung an und verwenden Sie dieselbe Aktivität oder eine geeignete Entsprechung. Senken Sie den Standard nicht, verwenden Sie die Anwesenheit nicht als Ersatz und zwingen Sie die lernende Person nicht, persönliche Informationen preiszugeben. Aktualisieren Sie das [Bewertungsraster](https://cdn.sanity.io/files/vje9ehw2/staging/1dc78f09f7b336ce2798e4667e42f04293e00749.pdf), sobald die neuen Nachweise ausreichen.
 
 **Optionale Unterstützung für Lehrkräfte:** Wenn Lehrkräfte zusammenarbeiten oder unsicher sind, können sie ein Beispiel für **Ja** und eines für **Noch nicht** vergleichen, den Standard besprechen oder das empfohlene Educator Training Program absolvieren. Diese Unterstützung kann Sicherheit geben, ist aber keine Voraussetzung für die Ausstellung von Zertifikaten.
 
@@ -175,7 +175,7 @@ Nutzen Sie diese Beispiele, um Urteile vor der Durchführung abzugleichen. Sie s
 | P7 — Beispielvariante: Simulation zum Vergleich lokaler Zahlungswege | Die lernende Person führt die simulierte Zahlungsabfolge sicher durch, prüft Empfänger und Betrag und erklärt individuell den lokalen Zweck, eine realistische Alternative, Abwägungen, mögliche Fehlerquellen, die Sicherheitsgrenze und den nächsten Schritt. Bewertung: Ja. | Die lernende Person schließt die Abfolge nur unter Anleitung der Lehrkraft ab, überspringt eine erforderliche Prüfung oder kann die realistische Alternative und die Sicherheitsreaktion nach zulässiger Unterstützung nicht erklären. Bewertung: Noch nicht; gezielte Übung anbieten und dieselbe oder eine gleichwertige Variante erneut bewerten. |
 
 
-Diese Beispiele ersetzen weder die direkte Beobachtung noch das Bewertungsraster oder die gewählte lokale `P7`-Freigabe. Erfassen Sie während der Kalibrierung keine echten Geheimnisse, privaten Schlüssel, Passwörter, Guthaben oder unnötigen persönlichen Informationen.
+Diese Beispiele ersetzen weder die direkte Beobachtung noch das [Bewertungsraster](https://cdn.sanity.io/files/vje9ehw2/staging/1dc78f09f7b336ce2798e4667e42f04293e00749.pdf) oder die gewählte lokale `P7`-Freigabe. Erfassen Sie während der Kalibrierung keine echten Geheimnisse, privaten Schlüssel, Passwörter, Guthaben oder unnötigen persönlichen Informationen.
 
 Verwenden Sie die Beispiele und Aktivitätsmaterialien, die zu Ihrer Gruppe passen. Überprüfen Sie vor der Durchführung lokale Werkzeuge, aktuelle Fakten, Übersetzung, Barrierefreiheit und praktische Sicherheit. Wenn Sie eine Aktivität anpassen, halten Sie den Kompetenz- und Sicherheitszweck klar.
 

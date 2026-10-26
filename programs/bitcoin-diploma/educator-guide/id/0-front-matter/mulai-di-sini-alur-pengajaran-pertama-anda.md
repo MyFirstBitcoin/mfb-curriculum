@@ -10,7 +10,7 @@ Untuk pertama kali mengajar, ikuti langkah-langkah berikut:
 1. Pilih satu kegiatan utama dan satu kegiatan cadangan, dengan menggunakan [Kumpulan Kegiatan](https://curriculum.myfirstbitcoin.org/activities/en/) sebagai sumber ide bila diperlukan. Jangan mencoba menggunakan semua pilihan.
 1. Salin kompetensi sesi dan aturan keselamatan ke papan tulis atau salindia pembuka Anda.
 1. Mengajarlah dengan urutan **jelaskan → tanyakan → praktikkan → bahas kembali → periksa**.
-1. Gunakan Kisi-Kisi Penilaian dan protokol operasional penilaian saat Anda siap mengumpulkan bukti; diskusi biasa tidak otomatis menjadi penilaian.
+1. Gunakan [Kisi-Kisi Penilaian](https://cdn.sanity.io/files/vje9ehw2/staging/7a5637c64126170a2b46927550b2e60b6f903e0b.pdf) dan protokol operasional penilaian saat Anda siap mengumpulkan bukti; diskusi biasa tidak otomatis menjadi penilaian.
 1. Setelah kelas, catat apa yang dipahami peserta didik, apa yang membingungkan mereka, apa yang perlu diperiksa, dan apa yang akan Anda ubah pada kesempatan berikutnya.
 
 Jika Anda hanya memiliki waktu sepuluh menit untuk bersiap, baca tujuan modul, hasil belajar yang dijanjikan kepada peserta didik, alur yang disarankan, potensi kendala, catatan keselamatan, dan poin tinjauan. Itu cukup untuk menjalankan sesi pertama dengan aman sambil Anda terus belajar.

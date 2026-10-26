@@ -1,6 +1,6 @@
 # 13.2 Değerlendirme Etkinlikleri Eşleştirme Tablosu
 
-Aşağıda bağlantısı verilen etkinlikleri, belirtilen yeterlilik için olası öğrenme veya bireysel kanıt bağlamları olarak kullanın. Bir etkinlik, eğitmene ilgili öğrenci yanıtını veya eylemini fark etmesi için adil bir fırsat sunmadığı sürece biçimlendirici olarak kalır. Gerektiğinde etkinliği uyarlayın ve sonucu Değerlendirme Tablosu'na kaydedin.
+Aşağıda bağlantısı verilen etkinlikleri, belirtilen yeterlilik için olası öğrenme veya bireysel kanıt bağlamları olarak kullanın. Bir etkinlik, eğitmene ilgili öğrenci yanıtını veya eylemini fark etmesi için adil bir fırsat sunmadığı sürece biçimlendirici olarak kalır. Gerektiğinde etkinliği uyarlayın ve sonucu [Değerlendirme Tablosu'na](https://cdn.sanity.io/files/vje9ehw2/staging/f9336980ae62d96bf223d9b9503aed99fce18154.pdf) kaydedin.
 
 
 | Değerlendirme Tablosu yeterliliği | Protokol görevi | Görevi destekleyebilecek etkinlikler | Gerekli ekleme veya sınırlama |

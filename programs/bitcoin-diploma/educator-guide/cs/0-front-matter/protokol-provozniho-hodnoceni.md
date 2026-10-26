@@ -2,7 +2,7 @@
 
 ### Podpůrný přístup k hodnocení
 
-Tento protokol je závazným podkladem pro sedm hodnocených kompetencí programu Bitcoin Diploma a jejich požadované ukazatele. Používejte jej společně s hodnoticí tabulkou. Teoretické znalosti hodnocené vyučujícím zahrnují `C1`–`C5`; přímo pozorované praktické dovednosti zahrnují `C6`–`C7`. Místní jazyk, příklady, způsoby komunikace, výběr aktivit a formy výuky se mohou lišit. Zachovejte jasné vymezení kompetencí a bezpečnostních hranic.
+Tento protokol je závazným podkladem pro sedm hodnocených kompetencí programu Bitcoin Diploma a jejich požadované ukazatele. Používejte jej společně s [hodnoticí tabulkou](https://cdn.sanity.io/files/vje9ehw2/staging/0123fbb7a38839c098d336645238952b7e57580e.pdf). Teoretické znalosti hodnocené vyučujícím zahrnují `C1`–`C5`; přímo pozorované praktické dovednosti zahrnují `C6`–`C7`. Místní jazyk, příklady, způsoby komunikace, výběr aktivit a formy výuky se mohou lišit. Zachovejte jasné vymezení kompetencí a bezpečnostních hranic.
 
 
 | Kompetence | Požadované ukazatele | Doklady |
@@ -75,13 +75,13 @@ Zvolte praktický postup, který studující vnímají jako bezpečný a zvládn
 
 **Přístupnost a rovnocenné varianty bez náročné techniky:** Použijte způsob komunikace, přeložené zadání, materiál s velkým písmem či hmatový materiál, ústní odpověď, popisnou odpověď, připravené papírové náhledy obrazovek peněženky, hraní rolí nebo offline simulaci, které studujícímu vyhovují a zároveň zachovávají požadovaný úkon. Rovnocenný postup má umožnit dosažení kompetence; nemá ji omezit na rozpoznávání, účast ve skupině nebo vlastní prohlášení studujícího.
 
-**Nepovinné poznámky:** Hodnoticí tabulka vyžaduje pro každou kompetenci a každého studujícího pouze jeden konečný výsledek **Prokázání kompetence: Ano** nebo **Prokázání kompetence: Zatím ne**. Stručné poznámky vám mohou pomoci zapamatovat si, co jste pozorovali, naplánovat další postup nebo podpořit opakované hodnocení, ale tabulka nevyžaduje identifikátory úkolů ani obsáhlé záznamy podkladů pro hodnocení. Zaznamenávejte pouze nezbytné minimum údajů o studujících a zachovávejte jejich důvěrnost.
+**Nepovinné poznámky:** [Hodnoticí tabulka](https://cdn.sanity.io/files/vje9ehw2/staging/0123fbb7a38839c098d336645238952b7e57580e.pdf) vyžaduje pro každou kompetenci a každého studujícího pouze jeden konečný výsledek **Prokázání kompetence: Ano** nebo **Prokázání kompetence: Zatím ne**. Stručné poznámky vám mohou pomoci zapamatovat si, co jste pozorovali, naplánovat další postup nebo podpořit opakované hodnocení, ale tabulka nevyžaduje identifikátory úkolů ani obsáhlé záznamy podkladů pro hodnocení. Zaznamenávejte pouze nezbytné minimum údajů o studujících a zachovávejte jejich důvěrnost.
 
 ### Příklady teoretických interakcí
 
 Tyto interakce lze začlenit do běžné výuky modulu. Jde o příklady, nikoli o jedinou písemnou zkoušku nebo jediný platný postup. Dejte každému studujícímu příležitost odpovědět a poté zaznamenejte každou kompetenci zvlášť.
 
-**Porozumění a jednání:** `T1`–`T3` ověřují porozumění: vyučující naslouchá, jak studující vysvětluje nebo porovnává určitou myšlenku. `P6a`, `P6b` a `P7` ověřují bezpečné jednání: vyučující sleduje, jak studující plní praktický úkol. Jde o navrhované způsoby shromažďování podkladů pro hodnocení, nikoli o další testy nebo známky. Do hodnoticí tabulky zaznamenejte jeden konečný výsledek pro každou kompetenci.
+**Porozumění a jednání:** `T1`–`T3` ověřují porozumění: vyučující naslouchá, jak studující vysvětluje nebo porovnává určitou myšlenku. `P6a`, `P6b` a `P7` ověřují bezpečné jednání: vyučující sleduje, jak studující plní praktický úkol. Jde o navrhované způsoby shromažďování podkladů pro hodnocení, nikoli o další testy nebo známky. Do [hodnoticí tabulky](https://cdn.sanity.io/files/vje9ehw2/staging/0123fbb7a38839c098d336645238952b7e57580e.pdf) zaznamenejte jeden konečný výsledek pro každou kompetenci.
 
 #### `T1` — Porovnání forem peněz a scénář z místního prostředí (`C1`)
 
@@ -157,7 +157,7 @@ Tyto interakce lze začlenit do běžné výuky modulu. Jde o příklady, nikoli
 
 ### Opakované hodnocení a volitelná podpora kvality
 
-**Opakované hodnocení:** **Zatím ne** znamená, že studující si kompetenci teprve osvojuje a potřebuje další učení, procvičování nebo další příležitost — nikoli „nikdy“. Lektoři se mohou k opakovanému hodnocení vrátit kdykoli, například během výuky, o přestávce, při dodatečném hovoru nebo na navazujícím setkání. V soukromí zjistěte, co studující potřebuje, poskytněte cílené procvičování a použijte stejnou aktivitu nebo vhodnou obdobu. Nesnižujte požadovanou úroveň, nenahrazujte prokázání kompetence docházkou ani nenuťte studující sdělovat osobní údaje. Jakmile budou nové důkazy dostatečné, aktualizujte hodnoticí tabulku.
+**Opakované hodnocení:** **Zatím ne** znamená, že studující si kompetenci teprve osvojuje a potřebuje další učení, procvičování nebo další příležitost — nikoli „nikdy“. Lektoři se mohou k opakovanému hodnocení vrátit kdykoli, například během výuky, o přestávce, při dodatečném hovoru nebo na navazujícím setkání. V soukromí zjistěte, co studující potřebuje, poskytněte cílené procvičování a použijte stejnou aktivitu nebo vhodnou obdobu. Nesnižujte požadovanou úroveň, nenahrazujte prokázání kompetence docházkou ani nenuťte studující sdělovat osobní údaje. Jakmile budou nové důkazy dostatečné, aktualizujte [hodnoticí tabulku](https://cdn.sanity.io/files/vje9ehw2/staging/0123fbb7a38839c098d336645238952b7e57580e.pdf).
 
 **Volitelná podpora lektorů:** Pokud lektoři spolupracují nebo si nejsou jistí, mohou porovnat příklady hodnocení **Ano** a **Zatím ne**, prodiskutovat požadovanou úroveň nebo absolvovat doporučený vzdělávací program pro lektory. Tato podpora může posílit jistotu, ale není podmínkou pro vydávání certifikátů.
 
@@ -175,7 +175,7 @@ Pomocí těchto příkladů porovnejte své úsudky před zahájením výuky. Jd
 | P7 — Příklad varianty: simulace porovnání místních platebních cest | Studující bezpečně dokončí simulovaný sled platebních kroků, zkontroluje příjemce a částku a samostatně vysvětlí účel v místních podmínkách, realistickou alternativu, kompromisy, místa možného selhání, bezpečnostní hranici a další krok. Hodnocení: Ano. | Studující dokončí sled kroků pouze pod vedením lektora, vynechá požadovanou kontrolu nebo ani po povolené podpoře nedokáže vysvětlit realistickou alternativu a bezpečnou reakci. Hodnocení: Zatím ne; poskytněte cílené procvičování a znovu vyhodnoťte stejnou nebo rovnocennou variantu. |
 
 
-Tyto příklady nenahrazují přímé pozorování, hodnoticí tabulku ani schválení vybrané místní varianty `P7`. Během kalibrace nezaznamenávejte skutečné tajné údaje, soukromé klíče, hesla, zůstatky ani zbytečné osobní údaje.
+Tyto příklady nenahrazují přímé pozorování, [hodnoticí tabulku](https://cdn.sanity.io/files/vje9ehw2/staging/0123fbb7a38839c098d336645238952b7e57580e.pdf) ani schválení vybrané místní varianty `P7`. Během kalibrace nezaznamenávejte skutečné tajné údaje, soukromé klíče, hesla, zůstatky ani zbytečné osobní údaje.
 
 Používejte příklady a materiály k aktivitám, které odpovídají vaší skupině studujících. Před zahájením výuky prověřte místní nástroje, aktuálnost faktů, překlad, přístupnost a bezpečnost při praktických činnostech. Při úpravě aktivity zachovejte jasné zaměření na kompetenci a bezpečnostní účel.
 

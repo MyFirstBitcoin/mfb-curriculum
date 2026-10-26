@@ -10,7 +10,7 @@ Pour votre première intervention, suivez ce parcours :
 1. Choisissez une activité principale et une activité de secours, en consultant la [Bibliothèque d’activités](https://curriculum.myfirstbitcoin.org/activities/en/) pour trouver des idées si nécessaire. N’essayez pas d’utiliser toutes les options.
 1. Recopiez la compétence visée pour la séance et la règle de sécurité sur votre tableau ou votre diapositive d’ouverture.
 1. Enseignez en suivant cet ordre : **expliquer → questionner → pratiquer → faire le bilan → vérifier**.
-1. Utilisez la Grille d’évaluation et le protocole opérationnel d’évaluation lorsque vous êtes prêt à recueillir des éléments probants ; une simple discussion ne constitue pas automatiquement une évaluation.
+1. Utilisez la [Grille d’évaluation](https://cdn.sanity.io/files/vje9ehw2/staging/7f4a5b7e8c46631c2526d1c38eabd1c63376f0a6.pdf) et le protocole opérationnel d’évaluation lorsque vous êtes prêt à recueillir des éléments probants ; une simple discussion ne constitue pas automatiquement une évaluation.
 1. Après le cours, notez ce que les apprenants ont compris, ce qui les a déroutés, ce qui doit être vérifié et ce que vous changerez la prochaine fois.
 
 Si vous ne disposez que de dix minutes pour vous préparer, lisez l’objectif du module, la promesse faite aux apprenants, le déroulement proposé, les difficultés probables, les consignes de sécurité et le point de bilan. Cela suffit pour mener une première séance en toute sécurité tout en continuant à apprendre.

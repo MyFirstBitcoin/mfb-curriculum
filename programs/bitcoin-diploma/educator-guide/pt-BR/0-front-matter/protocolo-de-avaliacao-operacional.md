@@ -2,7 +2,7 @@
 
 ### Um percurso de avaliação que apoia o aprendizado
 
-Este protocolo é a fonte de referência para as sete competências avaliadas do Bitcoin Diploma e seus indicadores obrigatórios. Use-o junto com a Grade de Avaliação. A teoria avaliada pelo educador corresponde a `C1`–`C5`; a prática observada diretamente corresponde a `C6`–`C7`. O idioma local, os exemplos, os métodos de comunicação, a escolha de atividades e as formas de aplicação podem variar. Mantenha claros a competência e os limites de segurança.
+Este protocolo é a fonte de referência para as sete competências avaliadas do Bitcoin Diploma e seus indicadores obrigatórios. Use-o junto com a [Grade de Avaliação](https://cdn.sanity.io/files/vje9ehw2/staging/a7ee3c856abf3e101d236a4edac470a259342547.pdf). A teoria avaliada pelo educador corresponde a `C1`–`C5`; a prática observada diretamente corresponde a `C6`–`C7`. O idioma local, os exemplos, os métodos de comunicação, a escolha de atividades e as formas de aplicação podem variar. Mantenha claros a competência e os limites de segurança.
 
 
 | Competência | Indicadores obrigatórios | Evidências |
@@ -75,13 +75,13 @@ Escolha um percurso prático que pareça seguro e viável para os alunos. Regist
 
 **Acessibilidade e equivalência de baixa tecnologia:** Use o método de comunicação, o enunciado traduzido, o material em letras ampliadas ou tátil, a resposta oral, a resposta descrita, as telas preparadas de Carteira de Papel, a dramatização ou a simulação offline que funcione para o aluno, preservando a ação exigida. Um caminho equivalente deve tornar a competência alcançável; não deve reduzi-la a reconhecimento, participação em grupo ou autoavaliação.
 
-**Anotações opcionais:** A Grade de Avaliação exige apenas um resultado final **Demonstra a competência: Sim** ou **Demonstra a competência: Ainda não** por competência e por aluno. Anotações breves podem ajudar você a lembrar o que observou, planejar o acompanhamento ou apoiar uma reavaliação, mas a grade não exige identificadores de tarefas nem registros extensos de evidências. Registre apenas as informações mínimas necessárias sobre o aluno e mantenha-as em sigilo.
+**Anotações opcionais:** A [Grade de Avaliação](https://cdn.sanity.io/files/vje9ehw2/staging/a7ee3c856abf3e101d236a4edac470a259342547.pdf) exige apenas um resultado final **Demonstra a competência: Sim** ou **Demonstra a competência: Ainda não** por competência e por aluno. Anotações breves podem ajudar você a lembrar o que observou, planejar o acompanhamento ou apoiar uma reavaliação, mas a grade não exige identificadores de tarefas nem registros extensos de evidências. Registre apenas as informações mínimas necessárias sobre o aluno e mantenha-as em sigilo.
 
 ### Exemplos de interações teóricas
 
 Essas interações podem ser integradas ao ensino normal do módulo. São exemplos, e não uma prova escrita única nem o único caminho válido. Dê a cada aluno a oportunidade de responder e, em seguida, registre cada competência separadamente.
 
-**Compreensão e ação:** `T1`–`T3` verificam a compreensão: o educador escuta enquanto o aluno explica ou compara uma ideia. `P6a`, `P6b` e `P7` verificam a ação segura: o educador observa o aluno concluir uma tarefa prática. Estas são formas sugeridas de coletar evidências, e não testes ou notas adicionais. Registre um resultado final para cada competência na Grade de Avaliação.
+**Compreensão e ação:** `T1`–`T3` verificam a compreensão: o educador escuta enquanto o aluno explica ou compara uma ideia. `P6a`, `P6b` e `P7` verificam a ação segura: o educador observa o aluno concluir uma tarefa prática. Estas são formas sugeridas de coletar evidências, e não testes ou notas adicionais. Registre um resultado final para cada competência na [Grade de Avaliação](https://cdn.sanity.io/files/vje9ehw2/staging/a7ee3c856abf3e101d236a4edac470a259342547.pdf).
 
 #### `T1` — Comparação de dinheiro e cenário local (`C1`)
 
@@ -157,7 +157,7 @@ Essas interações podem ser integradas ao ensino normal do módulo. São exempl
 
 ### Reavaliação e apoio opcional à qualidade
 
-**Reavaliação:** **Ainda não** significa que o aluno está desenvolvendo a competência e precisa de mais aprendizagem, prática ou outra oportunidade — não “nunca”. Os educadores podem voltar a avaliar a qualquer momento, inclusive durante a aula, em um intervalo, em uma chamada adicional ou em uma sessão de acompanhamento. Identifique em particular do que o aluno precisa, ofereça prática direcionada e use a mesma atividade ou uma equivalente adequada. Não rebaixe o padrão, não use a frequência como substituto nem obrigue o aluno a revelar informações pessoais. Atualize a Grade de Avaliação quando as novas evidências forem suficientes.
+**Reavaliação:** **Ainda não** significa que o aluno está desenvolvendo a competência e precisa de mais aprendizagem, prática ou outra oportunidade — não “nunca”. Os educadores podem voltar a avaliar a qualquer momento, inclusive durante a aula, em um intervalo, em uma chamada adicional ou em uma sessão de acompanhamento. Identifique em particular do que o aluno precisa, ofereça prática direcionada e use a mesma atividade ou uma equivalente adequada. Não rebaixe o padrão, não use a frequência como substituto nem obrigue o aluno a revelar informações pessoais. Atualize a [Grade de Avaliação](https://cdn.sanity.io/files/vje9ehw2/staging/a7ee3c856abf3e101d236a4edac470a259342547.pdf) quando as novas evidências forem suficientes.
 
 **Apoio opcional ao educador:** Se os educadores estiverem trabalhando juntos ou se sentirem inseguros, podem comparar um exemplo de **Sim** e um de **Ainda não**, discutir o padrão ou concluir o Programa de Formação de Educadores recomendado. Esse apoio pode aumentar a confiança, mas não é pré-requisito para a emissão de certificados.
 
@@ -175,7 +175,7 @@ Use estes exemplos para comparar julgamentos antes da aplicação. Eles são evi
 | P7 — Variante de exemplo: simulação de comparação de meios de pagamento locais | O aluno conclui com segurança a sequência de pagamento simulada, verifica o destinatário e o valor e explica individualmente o propósito local, uma alternativa realista, as vantagens e desvantagens, os possíveis pontos de falha, o limite de segurança e o próximo passo. Julgamento: Sim. | O aluno conclui a sequência apenas sob orientação do educador, pula uma verificação obrigatória ou não consegue explicar a alternativa realista e a resposta de segurança após o apoio permitido. Julgamento: Ainda não; oferecer prática direcionada e reavaliar com a mesma variante ou uma equivalente. |
 
 
-Estes exemplos não substituem a observação direta, a Grade de Avaliação nem a aprovação local da `P7` selecionada. Não registre segredos reais, chaves privadas, senhas, saldos ou informações pessoais desnecessárias durante a calibração.
+Estes exemplos não substituem a observação direta, a [Grade de Avaliação](https://cdn.sanity.io/files/vje9ehw2/staging/a7ee3c856abf3e101d236a4edac470a259342547.pdf) nem a aprovação local da `P7` selecionada. Não registre segredos reais, chaves privadas, senhas, saldos ou informações pessoais desnecessárias durante a calibração.
 
 Use os exemplos e os materiais de atividade adequados à sua turma. Revise as ferramentas locais, os fatos atuais, a tradução, a acessibilidade e a segurança prática antes da aplicação. Ao adaptar uma atividade, mantenha claros o propósito de competência e o de segurança.
 

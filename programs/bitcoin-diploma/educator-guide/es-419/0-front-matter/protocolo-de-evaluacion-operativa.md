@@ -2,7 +2,7 @@
 
 ### Una ruta de evaluación que brinda apoyo
 
-Este protocolo es la referencia oficial para las siete competencias evaluadas del Diplomado en Bitcoin y sus indicadores requeridos. Úselo junto con la Matriz de evaluación. La teoría evaluada por el educador corresponde a `C1`–`C5`; la práctica observada directamente corresponde a `C6`–`C7`. El idioma local, los ejemplos, los métodos de comunicación, las actividades elegidas y las modalidades de enseñanza pueden variar. Mantenga claros los límites de la competencia y de la seguridad.
+Este protocolo es la referencia oficial para las siete competencias evaluadas del Diplomado en Bitcoin y sus indicadores requeridos. Úselo junto con la [Matriz de evaluación](https://cdn.sanity.io/files/vje9ehw2/staging/d36336345e4a6ff6c5352365b7e48576e343dd07.pdf). La teoría evaluada por el educador corresponde a `C1`–`C5`; la práctica observada directamente corresponde a `C6`–`C7`. El idioma local, los ejemplos, los métodos de comunicación, las actividades elegidas y las modalidades de enseñanza pueden variar. Mantenga claros los límites de la competencia y de la seguridad.
 
 
 | Competencia | Indicadores requeridos | Evidencia |
@@ -75,13 +75,13 @@ Elija un recorrido práctico que resulte seguro y manejable para los estudiantes
 
 **Accesibilidad y equivalencia con recursos de baja tecnología:** Utilice el método de comunicación, la consigna traducida, el material en letra grande o táctil, la respuesta oral, la respuesta mediante una descripción, las pantallas de billetera preparadas en papel, la dramatización o la simulación sin conexión que le resulte útil al estudiante, manteniendo la acción requerida. Una vía equivalente debe hacer que la competencia sea alcanzable; no debe reducirla al reconocimiento, la participación grupal o la autoevaluación.
 
-**Notas opcionales:** La tabla de evaluación solo requiere un resultado final de **Demuestra la competencia: Sí** o **Demuestra la competencia: Aún no** por competencia y estudiante. Las notas breves pueden ayudarle a recordar lo que observó, planificar el seguimiento o respaldar una reevaluación, pero la tabla no exige identificadores de tareas ni registros extensos de evidencias. Registre únicamente la información mínima necesaria del estudiante y manténgala privada.
+**Notas opcionales:** La [tabla de evaluación](https://cdn.sanity.io/files/vje9ehw2/staging/d36336345e4a6ff6c5352365b7e48576e343dd07.pdf) solo requiere un resultado final de **Demuestra la competencia: Sí** o **Demuestra la competencia: Aún no** por competencia y estudiante. Las notas breves pueden ayudarle a recordar lo que observó, planificar el seguimiento o respaldar una reevaluación, pero la tabla no exige identificadores de tareas ni registros extensos de evidencias. Registre únicamente la información mínima necesaria del estudiante y manténgala privada.
 
 ### Ejemplos de interacciones teóricas
 
 Estas interacciones pueden integrarse en la enseñanza habitual del módulo. Son ejemplos, no un único examen escrito ni la única vía válida. Dé a cada estudiante la oportunidad de responder y luego registre cada competencia por separado.
 
-**Comprensión y acción:** `T1`–`T3` verifican la comprensión: el educador escucha mientras el estudiante explica o compara una idea. `P6a`, `P6b` y `P7` verifican la acción segura: el educador observa al estudiante completar una tarea práctica. Estas son formas sugeridas de recopilar evidencias, no pruebas ni calificaciones adicionales. Registre un resultado final para cada competencia en la tabla de evaluación.
+**Comprensión y acción:** `T1`–`T3` verifican la comprensión: el educador escucha mientras el estudiante explica o compara una idea. `P6a`, `P6b` y `P7` verifican la acción segura: el educador observa al estudiante completar una tarea práctica. Estas son formas sugeridas de recopilar evidencias, no pruebas ni calificaciones adicionales. Registre un resultado final para cada competencia en la [tabla de evaluación](https://cdn.sanity.io/files/vje9ehw2/staging/d36336345e4a6ff6c5352365b7e48576e343dd07.pdf).
 
 #### `T1` — Comparación de formas de dinero y escenario local (`C1`)
 
@@ -157,7 +157,7 @@ Estas interacciones pueden integrarse en la enseñanza habitual del módulo. Son
 
 ### Reevaluación y apoyo opcional para la calidad
 
-**Reevaluación:** **Todavía no** significa que el estudiante está desarrollando la competencia y necesita más aprendizaje, práctica u otra oportunidad; no significa “nunca”. Los educadores pueden volver a evaluar en cualquier momento, incluso durante la clase, en un descanso, en una llamada adicional o en una sesión de seguimiento. Identifique en privado lo que necesita el estudiante, proporcione práctica enfocada y utilice la misma actividad o una equivalente adecuada. No reduzca el nivel exigido, no utilice la asistencia como sustituto ni obligue al estudiante a revelar información personal. Actualice la Matriz de evaluación cuando la nueva evidencia sea suficiente.
+**Reevaluación:** **Todavía no** significa que el estudiante está desarrollando la competencia y necesita más aprendizaje, práctica u otra oportunidad; no significa “nunca”. Los educadores pueden volver a evaluar en cualquier momento, incluso durante la clase, en un descanso, en una llamada adicional o en una sesión de seguimiento. Identifique en privado lo que necesita el estudiante, proporcione práctica enfocada y utilice la misma actividad o una equivalente adecuada. No reduzca el nivel exigido, no utilice la asistencia como sustituto ni obligue al estudiante a revelar información personal. Actualice la [Matriz de evaluación](https://cdn.sanity.io/files/vje9ehw2/staging/d36336345e4a6ff6c5352365b7e48576e343dd07.pdf) cuando la nueva evidencia sea suficiente.
 
 **Apoyo opcional para educadores:** Si los educadores trabajan juntos o tienen dudas, pueden comparar un ejemplo de **Sí** y **Todavía no**, analizar el nivel exigido o completar el Programa de Formación para Educadores recomendado. Este apoyo puede fortalecer la confianza, pero no es un requisito previo para emitir certificados.
 
@@ -175,7 +175,7 @@ Utilice estos ejemplos para comparar criterios de evaluación antes de impartir 
 | P7 — Variante de ejemplo: simulación de comparación de vías de pago locales | El estudiante completa de forma segura la secuencia de pago simulada, verifica el destinatario y el monto, y explica de manera individual el propósito local, una alternativa realista, las ventajas y desventajas, los posibles puntos de falla, el límite de seguridad y el próximo paso. Evaluación: Sí. | El estudiante completa la secuencia únicamente mediante las indicaciones del educador, omite una verificación obligatoria o no puede explicar la alternativa realista y la respuesta de seguridad después de recibir el apoyo permitido. Evaluación: Todavía no; proporcione práctica enfocada y vuelva a evaluar con la misma variante o una equivalente. |
 
 
-Estos ejemplos no sustituyen la observación directa, la Matriz de evaluación ni la aprobación local de la variante seleccionada de `P7`. No registre información secreta real, claves privadas, contraseñas, saldos ni información personal innecesaria durante la calibración.
+Estos ejemplos no sustituyen la observación directa, la [Matriz de evaluación](https://cdn.sanity.io/files/vje9ehw2/staging/d36336345e4a6ff6c5352365b7e48576e343dd07.pdf) ni la aprobación local de la variante seleccionada de `P7`. No registre información secreta real, claves privadas, contraseñas, saldos ni información personal innecesaria durante la calibración.
 
 Utilice los ejemplos y materiales de las actividades que se ajusten a su grupo. Revise las herramientas locales, los datos actuales, la traducción, la accesibilidad y la seguridad práctica antes de impartir el curso. Cuando adapte una actividad, mantenga claros la competencia y el propósito de seguridad.
 

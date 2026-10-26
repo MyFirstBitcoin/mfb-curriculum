@@ -10,7 +10,7 @@ Per il Suo primo corso, segua questo percorso:
 1. Scelga un'attività principale e un'attività di riserva, consultando la [Raccolta di attività](https://curriculum.myfirstbitcoin.org/activities/en/) per trovare idee quando utile. Non cerchi di utilizzare tutte le opzioni.
 1. Riporti la competenza della sessione e la regola di sicurezza sulla lavagna o sulla diapositiva di apertura.
 1. Insegni seguendo l'ordine **spiegare → domandare → esercitarsi → fare il punto → verificare**.
-1. Utilizzi la Griglia di valutazione e il protocollo operativo di valutazione quando è pronto a raccogliere evidenze; una normale discussione non costituisce automaticamente una valutazione.
+1. Utilizzi la [Griglia di valutazione](https://cdn.sanity.io/files/vje9ehw2/staging/dd05771bc22e102c1913f48bcae55e7b7f619c72.pdf) e il protocollo operativo di valutazione quando è pronto a raccogliere evidenze; una normale discussione non costituisce automaticamente una valutazione.
 1. Dopo la lezione, annoti ciò che gli studenti hanno capito, ciò che li ha confusi, ciò che va verificato e ciò che cambierà la prossima volta.
 
 Se ha soltanto dieci minuti per prepararsi, legga lo scopo del modulo, l'impegno verso lo studente, lo svolgimento suggerito, i probabili punti critici, le note sulla sicurezza e il punto di revisione. È sufficiente per condurre una prima sessione sicura mentre continua ad apprendere.

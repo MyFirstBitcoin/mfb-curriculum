@@ -1,6 +1,6 @@
 # 13.2 Srovnávací tabulka hodnoticích aktivit
 
-Níže uvedené aktivity s odkazy využijte jako možné příležitosti k učení nebo k získání individuálních dokladů o zvládnutí uvedené kompetence. Aktivita zůstává formativní, pokud vyučujícímu neposkytuje dostatečnou příležitost zaznamenat příslušnou reakci nebo jednání studujícího. V případě potřeby aktivitu upravte a výsledek zaznamenejte do hodnoticí tabulky.
+Níže uvedené aktivity s odkazy využijte jako možné příležitosti k učení nebo k získání individuálních dokladů o zvládnutí uvedené kompetence. Aktivita zůstává formativní, pokud vyučujícímu neposkytuje dostatečnou příležitost zaznamenat příslušnou reakci nebo jednání studujícího. V případě potřeby aktivitu upravte a výsledek zaznamenejte do [hodnoticí tabulky](https://cdn.sanity.io/files/vje9ehw2/staging/0123fbb7a38839c098d336645238952b7e57580e.pdf).
 
 
 | Kompetence v hodnoticí tabulce | Úkol podle protokolu | Aktivity, které mohou podpořit splnění úkolu | Požadované doplnění nebo omezení |

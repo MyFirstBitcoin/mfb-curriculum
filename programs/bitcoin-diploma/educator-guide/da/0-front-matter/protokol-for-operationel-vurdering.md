@@ -2,7 +2,7 @@
 
 ### En understøttende vurderingsproces
 
-Denne protokol er det autoritative grundlag for Bitcoin Diploma-forløbets syv kompetencer, der skal vurderes, og de tilhørende obligatoriske observationskriterier. Brug den sammen med vurderingsskemaet. Teori, der vurderes af underviseren, er `C1`–`C5`; direkte observeret praksis er `C6`–`C7`. Lokalt sprog, eksempler, kommunikationsmetoder, valg af aktiviteter og undervisningsformer kan variere. Hold kompetencen og sikkerhedsgrænsen klart defineret.
+Denne protokol er det autoritative grundlag for Bitcoin Diploma-forløbets syv kompetencer, der skal vurderes, og de tilhørende obligatoriske observationskriterier. Brug den sammen med [vurderingsskemaet](https://cdn.sanity.io/files/vje9ehw2/staging/c04953b5b9cc1c395498401affce85b5041815a7.pdf). Teori, der vurderes af underviseren, er `C1`–`C5`; direkte observeret praksis er `C6`–`C7`. Lokalt sprog, eksempler, kommunikationsmetoder, valg af aktiviteter og undervisningsformer kan variere. Hold kompetencen og sikkerhedsgrænsen klart defineret.
 
 
 | Kompetence | Obligatoriske observationskriterier | Dokumentation |
@@ -75,13 +75,13 @@ Vælg et praktisk forløb, som føles trygt og overskueligt for kursisterne. Not
 
 **Tilgængelighed og tilsvarende lavteknologiske løsninger:** Brug den kommunikationsmetode, oversatte opgaveformulering, det materiale med stor skrift eller taktile materiale, det mundtlige eller beskrivende svar, de forberedte wallet-skærmbilleder på papir, det rollespil eller den offlinesimulation, der fungerer for kursisten, samtidig med at den påkrævede handling bevares. En tilsvarende fremgangsmåde skal gøre det muligt at opnå kompetencen; den må ikke reducere den til genkendelse, gruppedeltagelse eller egenrapportering.
 
-**Valgfrie noter:** Vurderingsskemaet kræver kun ét endeligt **Viser kompetence: Ja** eller **Viser kompetence: Ikke endnu** som resultat pr. kompetence og kursist. Korte noter kan hjælpe Dem med at huske, hvad De så, planlægge opfølgning eller understøtte en ny vurdering, men skemaet kræver ikke opgave-id'er eller omfattende dokumentation. Registrér kun de mest nødvendige oplysninger om kursisten, og hold dem fortrolige.
+**Valgfrie noter:** [Vurderingsskemaet](https://cdn.sanity.io/files/vje9ehw2/staging/c04953b5b9cc1c395498401affce85b5041815a7.pdf) kræver kun ét endeligt **Viser kompetence: Ja** eller **Viser kompetence: Ikke endnu** som resultat pr. kompetence og kursist. Korte noter kan hjælpe Dem med at huske, hvad De så, planlægge opfølgning eller understøtte en ny vurdering, men skemaet kræver ikke opgave-id'er eller omfattende dokumentation. Registrér kun de mest nødvendige oplysninger om kursisten, og hold dem fortrolige.
 
 ### Eksempler på teoretiske samtaler
 
 Disse samtaler kan indgå i den almindelige undervisning i modulet. De er eksempler, ikke én samlet skriftlig prøve eller den eneste gyldige fremgangsmåde. Giv hver kursist mulighed for at svare, og registrér derefter hver kompetence særskilt.
 
-**Forståelse og handling:** `T1`–`T3` undersøger forståelsen: Underviseren lytter, mens kursisten forklarer eller sammenligner en idé. `P6a`, `P6b` og `P7` undersøger sikker handling: Underviseren ser kursisten udføre en praktisk opgave. Dette er forslag til, hvordan dokumentation kan indsamles, ikke ekstra prøver eller karakterer. Registrér ét endeligt resultat for hver kompetence i vurderingsskemaet.
+**Forståelse og handling:** `T1`–`T3` undersøger forståelsen: Underviseren lytter, mens kursisten forklarer eller sammenligner en idé. `P6a`, `P6b` og `P7` undersøger sikker handling: Underviseren ser kursisten udføre en praktisk opgave. Dette er forslag til, hvordan dokumentation kan indsamles, ikke ekstra prøver eller karakterer. Registrér ét endeligt resultat for hver kompetence i [vurderingsskemaet](https://cdn.sanity.io/files/vje9ehw2/staging/c04953b5b9cc1c395498401affce85b5041815a7.pdf).
 
 #### `T1` — Sammenligning af penge og et lokalt scenarie (`C1`)
 
@@ -157,7 +157,7 @@ Disse samtaler kan indgå i den almindelige undervisning i modulet. De er eksemp
 
 ### Revurdering og valgfri kvalitetsstøtte
 
-**Revurdering:** **Ikke endnu** betyder, at kursisten er ved at opbygge kompetencen og har brug for mere læring, øvelse eller en ny mulighed – ikke »aldrig«. Undervisere kan vende tilbage til en revurdering når som helst, herunder i undervisningen, i en pause, under en ekstra samtale eller i en opfølgende session. Afklar under fire øjne, hvad kursisten har brug for, tilbyd målrettet øvelse, og brug den samme aktivitet eller en egnet, tilsvarende aktivitet. Sænk ikke standarden, brug ikke fremmøde som erstatning, og tving ikke kursisten til at videregive personlige oplysninger. Opdater bedømmelsesskemaet, når det nye bedømmelsesgrundlag er tilstrækkeligt.
+**Revurdering:** **Ikke endnu** betyder, at kursisten er ved at opbygge kompetencen og har brug for mere læring, øvelse eller en ny mulighed – ikke »aldrig«. Undervisere kan vende tilbage til en revurdering når som helst, herunder i undervisningen, i en pause, under en ekstra samtale eller i en opfølgende session. Afklar under fire øjne, hvad kursisten har brug for, tilbyd målrettet øvelse, og brug den samme aktivitet eller en egnet, tilsvarende aktivitet. Sænk ikke standarden, brug ikke fremmøde som erstatning, og tving ikke kursisten til at videregive personlige oplysninger. Opdater [bedømmelsesskemaet](https://cdn.sanity.io/files/vje9ehw2/staging/c04953b5b9cc1c395498401affce85b5041815a7.pdf), når det nye bedømmelsesgrundlag er tilstrækkeligt.
 
 **Valgfri støtte til undervisere:** Hvis undervisere samarbejder eller føler sig usikre, kan de sammenligne et eksempel med bedømmelsen **Ja** og **Ikke endnu** som bedømmelse i et andet eksempel, drøfte standarden eller gennemføre det anbefalede underviseruddannelsesprogram. Denne støtte kan skabe større sikkerhed, men er ikke en forudsætning for at udstede certifikater.
 
@@ -175,7 +175,7 @@ Brug disse eksempler til at sammenligne vurderinger før undervisningen. De er e
 | P7 — Eksempel på en variant: simulering med sammenligning af lokale betalingsveje | Kursisten gennemfører det simulerede betalingsforløb sikkert, kontrollerer modtageren og beløbet og forklarer individuelt det lokale formål, et realistisk alternativ, afvejninger, mulige fejlpunkter, sikkerhedsgrænsen og det næste skridt. Vurdering: Ja. | Kursisten gennemfører kun forløbet ved hjælp af underviserens anvisninger, springer en påkrævet kontrol over eller kan efter tilladt støtte ikke forklare det realistiske alternativ og den sikkerhedsmæssige reaktion. Vurdering: Ikke endnu; tilbyd målrettet øvelse, og foretag en revurdering med den samme eller en tilsvarende variant. |
 
 
-Disse eksempler erstatter ikke direkte observation, bedømmelsesskemaet eller den valgte lokale godkendelse af `P7` . Registrer ikke reelle hemmelige oplysninger, private nøgler, adgangskoder, saldi eller unødvendige personlige oplysninger under kalibreringen.
+Disse eksempler erstatter ikke direkte observation, [bedømmelsesskemaet](https://cdn.sanity.io/files/vje9ehw2/staging/c04953b5b9cc1c395498401affce85b5041815a7.pdf) eller den valgte lokale godkendelse af `P7` . Registrer ikke reelle hemmelige oplysninger, private nøgler, adgangskoder, saldi eller unødvendige personlige oplysninger under kalibreringen.
 
 Brug de eksempler og aktivitetsmaterialer, der passer til Deres kursistgruppe. Gennemgå lokale værktøjer, aktuelle fakta, oversættelse, tilgængelighed og praktisk sikkerhed før undervisningen. Når De tilpasser en aktivitet, skal kompetencen og sikkerhedsformålet fortsat være tydelige.
 

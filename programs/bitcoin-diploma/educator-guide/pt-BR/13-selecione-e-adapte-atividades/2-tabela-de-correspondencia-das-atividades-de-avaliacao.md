@@ -1,6 +1,6 @@
 # 13.2 Tabela de correspondência das atividades de avaliação
 
-Use as atividades vinculadas abaixo como possíveis contextos de aprendizagem ou de evidência individual para a competência indicada. Uma atividade permanece formativa, a menos que ofereça ao educador uma oportunidade justa de observar a resposta ou ação relevante do aluno. Adapte a atividade quando necessário e registre o resultado na Grade de Avaliação.
+Use as atividades vinculadas abaixo como possíveis contextos de aprendizagem ou de evidência individual para a competência indicada. Uma atividade permanece formativa, a menos que ofereça ao educador uma oportunidade justa de observar a resposta ou ação relevante do aluno. Adapte a atividade quando necessário e registre o resultado na [Grade de Avaliação](https://cdn.sanity.io/files/vje9ehw2/staging/a7ee3c856abf3e101d236a4edac470a259342547.pdf).
 
 
 | Competência da Grade de Avaliação | Tarefa do protocolo | Atividades que podem apoiar a tarefa | Acréscimo ou limite necessário |

@@ -1,6 +1,6 @@
 # 13.2 Koppelingstabel voor beoordelingsactiviteiten
 
-Gebruik de hieronder gekoppelde activiteiten als mogelijke contexten voor leren of voor individueel bewijs voor de genoemde competentie. Een activiteit blijft formatief, tenzij deze de docent een eerlijke kans biedt om de relevante reactie of handeling van de lerende waar te nemen. Pas de activiteit zo nodig aan en noteer het resultaat in het Beoordelingsraster.
+Gebruik de hieronder gekoppelde activiteiten als mogelijke contexten voor leren of voor individueel bewijs voor de genoemde competentie. Een activiteit blijft formatief, tenzij deze de docent een eerlijke kans biedt om de relevante reactie of handeling van de lerende waar te nemen. Pas de activiteit zo nodig aan en noteer het resultaat in het [Beoordelingsraster](https://cdn.sanity.io/files/vje9ehw2/staging/24fb3d1470d0f3c65703f4401bd70a0d82be9fb9.pdf).
 
 
 | Competentie in het Beoordelingsraster | Protocoltaak | Activiteiten die de taak kunnen ondersteunen | Vereiste aanvulling of beperking |

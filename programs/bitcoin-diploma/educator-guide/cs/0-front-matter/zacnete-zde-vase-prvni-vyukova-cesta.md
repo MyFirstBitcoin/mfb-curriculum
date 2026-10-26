@@ -10,7 +10,7 @@ Při první výuce postupujte takto:
 1. Vyberte jednu hlavní aktivitu a jednu záložní aktivitu a využijte [Knihovnu aktivit](https://curriculum.myfirstbitcoin.org/activities/en/) jako zdroj nápadů, pokud se vám to bude hodit. Nesnažte se využít všechny možnosti.
 1. Napište kompetenci rozvíjenou v dané lekci a bezpečnostní pravidlo na tabuli nebo na úvodní snímek prezentace.
 1. Vyučujte v pořadí **vysvětlení → otázky → procvičení → společný rozbor → ověření**.
-1. Až budete připraveni shromažďovat doklady o učení, použijte Hodnoticí mřížku a postup hodnocení v praxi; běžná diskuse není automaticky hodnocením.
+1. Až budete připraveni shromažďovat doklady o učení, použijte [Hodnoticí mřížku](https://cdn.sanity.io/files/vje9ehw2/staging/0123fbb7a38839c098d336645238952b7e57580e.pdf) a postup hodnocení v praxi; běžná diskuse není automaticky hodnocením.
 1. Po výuce si zapište, čemu účastníci porozuměli, co je zmátlo, co je třeba ověřit a co příště změníte.
 
 Pokud máte na přípravu jen deset minut, přečtěte si účel modulu, příslib účastníkům, navržený průběh, pravděpodobná úskalí, bezpečnostní poznámky a bod pro zhodnocení. To stačí k bezpečnému vedení první lekce, zatímco se sami dále učíte.

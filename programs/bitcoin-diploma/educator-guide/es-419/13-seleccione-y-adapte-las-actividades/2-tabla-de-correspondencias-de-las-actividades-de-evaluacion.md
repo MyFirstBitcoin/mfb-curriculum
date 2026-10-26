@@ -1,6 +1,6 @@
 # 13.2 Tabla de correspondencias de las actividades de evaluación
 
-Utilice las actividades enlazadas a continuación como posibles contextos de aprendizaje o de obtención de evidencia individual para la competencia indicada. Una actividad sigue siendo formativa a menos que ofrezca al educador una oportunidad adecuada para observar la respuesta o acción pertinente del estudiante. Adapte la actividad cuando sea necesario y registre el resultado en la Matriz de evaluación.
+Utilice las actividades enlazadas a continuación como posibles contextos de aprendizaje o de obtención de evidencia individual para la competencia indicada. Una actividad sigue siendo formativa a menos que ofrezca al educador una oportunidad adecuada para observar la respuesta o acción pertinente del estudiante. Adapte la actividad cuando sea necesario y registre el resultado en la [Matriz de evaluación](https://cdn.sanity.io/files/vje9ehw2/staging/d36336345e4a6ff6c5352365b7e48576e343dd07.pdf).
 
 
 | Competencia de la Matriz de evaluación | Tarea del protocolo | Actividades que pueden apoyar la tarea | Adición o límite requerido |

@@ -2,7 +2,7 @@
 
 ### Destekleyici bir değerlendirme yolu
 
-Bu protokol, Bitcoin Diploması'nın değerlendirilen yedi yeterliliği ve bunlara ait aranan zorunlu göstergeler için esas kaynaktır. Bunu Değerlendirme Tablosu ile birlikte kullanın. Eğitimci tarafından değerlendirilen teori kısmı şunları kapsar: `C1`–`C5`; doğrudan gözlemlenen uygulama kısmı ise şunları kapsar: `C6`–`C7`. Yerel dil, örnekler, iletişim yöntemleri, etkinlik seçimleri ve uygulama yolları değişebilir. Yeterlilik ve güvenlik sınırını net tutun.
+Bu protokol, Bitcoin Diploması'nın değerlendirilen yedi yeterliliği ve bunlara ait aranan zorunlu göstergeler için esas kaynaktır. Bunu [Değerlendirme Tablosu](https://cdn.sanity.io/files/vje9ehw2/staging/f9336980ae62d96bf223d9b9503aed99fce18154.pdf) ile birlikte kullanın. Eğitimci tarafından değerlendirilen teori kısmı şunları kapsar: `C1`–`C5`; doğrudan gözlemlenen uygulama kısmı ise şunları kapsar: `C6`–`C7`. Yerel dil, örnekler, iletişim yöntemleri, etkinlik seçimleri ve uygulama yolları değişebilir. Yeterlilik ve güvenlik sınırını net tutun.
 
 
 | Yeterlilik | Aranan zorunlu göstergeler | Kanıt |
@@ -75,13 +75,13 @@ Hazırlık, sorun giderme, geri bildirim, erişilebilirlik düzenlemeleri ve yen
 
 **Erişilebilirlik ve düşük teknolojili eşdeğerlik:** Gerekli eylemi koruyarak öğrenciye uygun olan iletişim yöntemini, çevrilmiş yönergeyi, büyük puntolu veya dokunsal materyali, sözlü yanıtı, betimlenmiş yanıtı, hazırlanmış kâğıt cüzdan ekranlarını, canlandırmayı veya çevrimdışı simülasyonu kullanın. Eşdeğer bir yol, yetkinliği ulaşılabilir kılmalıdır; onu tanımaya, grup katılımına veya öz bildirime indirgememelidir.
 
-**İsteğe bağlı notlar:** Değerlendirme Tablosu, her yetkinlik ve öğrenci için yalnızca bir nihai **Yetkinlik gösteriyor: Evet** veya **Yetkinlik gösteriyor: Henüz değil** sonucu gerektirir. Kısa notlar, gördüklerinizi hatırlamanıza, takip planlamanıza veya yeniden değerlendirmeyi desteklemenize yardımcı olabilir; ancak görev kimlikleri ve uzun kanıt kayıtları tablo tarafından zorunlu tutulmaz. Yalnızca gerekli olan asgari öğrenci bilgilerini kaydedin ve bunları gizli tutun.
+**İsteğe bağlı notlar:** [Değerlendirme Tablosu](https://cdn.sanity.io/files/vje9ehw2/staging/f9336980ae62d96bf223d9b9503aed99fce18154.pdf), her yetkinlik ve öğrenci için yalnızca bir nihai **Yetkinlik gösteriyor: Evet** veya **Yetkinlik gösteriyor: Henüz değil** sonucu gerektirir. Kısa notlar, gördüklerinizi hatırlamanıza, takip planlamanıza veya yeniden değerlendirmeyi desteklemenize yardımcı olabilir; ancak görev kimlikleri ve uzun kanıt kayıtları tablo tarafından zorunlu tutulmaz. Yalnızca gerekli olan asgari öğrenci bilgilerini kaydedin ve bunları gizli tutun.
 
 ### Örnek kuramsal etkileşimler
 
 Bu etkileşimler olağan modül öğretimine yerleştirilebilir. Bunlar örnektir; tek bir yazılı sınav veya tek geçerli yol değildir. Her öğrenciye yanıt verme fırsatı tanıyın, ardından her yetkinliği ayrı ayrı kaydedin.
 
-**Anlama ve eylem:** `T1`–`T3` anlamayı kontrol eder: eğitmen, öğrenci bir fikri açıklarken veya karşılaştırırken dinler. `P6a`, `P6b` ve `P7` güvenli eylemi kontrol eder: eğitmen, öğrencinin uygulamalı bir görevi tamamlamasını gözlemler. Bunlar kanıt toplamak için önerilen yollardır; ek sınavlar veya notlar değildir. Değerlendirme Tablosu'na her yetkinlik için tek bir nihai sonuç kaydedin.
+**Anlama ve eylem:** `T1`–`T3` anlamayı kontrol eder: eğitmen, öğrenci bir fikri açıklarken veya karşılaştırırken dinler. `P6a`, `P6b` ve `P7` güvenli eylemi kontrol eder: eğitmen, öğrencinin uygulamalı bir görevi tamamlamasını gözlemler. Bunlar kanıt toplamak için önerilen yollardır; ek sınavlar veya notlar değildir. [Değerlendirme Tablosu'na](https://cdn.sanity.io/files/vje9ehw2/staging/f9336980ae62d96bf223d9b9503aed99fce18154.pdf) her yetkinlik için tek bir nihai sonuç kaydedin.
 
 #### `T1` — Para karşılaştırması ve yerel senaryo (`C1`)
 
@@ -157,7 +157,7 @@ Bu etkileşimler olağan modül öğretimine yerleştirilebilir. Bunlar örnekti
 
 ### Yeniden değerlendirme ve isteğe bağlı kalite desteği
 
-**Yeniden değerlendirme:** **Henüz değil** ifadesi, öğrencinin yetkinlik geliştirmekte olduğu ve daha fazla öğrenmeye, uygulamaya veya başka bir fırsata ihtiyaç duyduğu anlamına gelir; “asla” anlamına gelmez. Eğitmenler ders sırasında, bir arada, ek bir görüşmede veya takip oturumunda dahil olmak üzere herhangi bir zamanda yeniden değerlendirmeye dönebilir. Öğrencinin neye ihtiyaç duyduğunu özel olarak belirleyin, odaklı uygulama sağlayın ve aynı etkinliği veya uygun bir eşdeğerini kullanın. Standardı düşürmeyin, katılımı bunun yerine geçecek bir ölçüt olarak kullanmayın veya öğrenciyi kişisel bilgilerini açıklamaya zorlamayın. Yeni kanıt yeterli olduğunda Değerlendirme Tablosu'nu güncelleyin.
+**Yeniden değerlendirme:** **Henüz değil** ifadesi, öğrencinin yetkinlik geliştirmekte olduğu ve daha fazla öğrenmeye, uygulamaya veya başka bir fırsata ihtiyaç duyduğu anlamına gelir; “asla” anlamına gelmez. Eğitmenler ders sırasında, bir arada, ek bir görüşmede veya takip oturumunda dahil olmak üzere herhangi bir zamanda yeniden değerlendirmeye dönebilir. Öğrencinin neye ihtiyaç duyduğunu özel olarak belirleyin, odaklı uygulama sağlayın ve aynı etkinliği veya uygun bir eşdeğerini kullanın. Standardı düşürmeyin, katılımı bunun yerine geçecek bir ölçüt olarak kullanmayın veya öğrenciyi kişisel bilgilerini açıklamaya zorlamayın. Yeni kanıt yeterli olduğunda [Değerlendirme Tablosu'nu](https://cdn.sanity.io/files/vje9ehw2/staging/f9336980ae62d96bf223d9b9503aed99fce18154.pdf) güncelleyin.
 
 **İsteğe bağlı eğitmen desteği:** Eğitmenler birlikte çalışıyorsa veya emin değillerse bir **Evet** ve bir **Henüz değil** örneğini karşılaştırabilir, standardı tartışabilir veya önerilen Eğitmen Eğitim Programı'nı tamamlayabilirler. Bu destek özgüveni artırabilir ancak sertifika vermek için bir ön koşul değildir.
 
@@ -175,7 +175,7 @@ Bu örnekleri uygulamadan önce yargıları karşılaştırmak için kullanın. 
 | P7 — Örnek varyant: yerel ödeme yolu karşılaştırma simülasyonu | Öğrenci, simüle edilmiş ödeme adım dizisini güvenli bir şekilde tamamlar, alıcıyı ve tutarı kontrol eder ve yerel amacı, gerçekçi bir alternatifi, ödünleşimleri, olası başarısızlık noktalarını, güvenlik sınırını ve sonraki adımı bireysel olarak açıklar. Yargı: Evet. | Öğrenci adım dizisini yalnızca eğitmenin yönlendirmesiyle tamamlar, gerekli bir kontrolü atlar veya izin verilen destekten sonra gerçekçi alternatifi ve güvenlik tepkisini açıklayamaz. Yargı: Henüz değil; odaklı uygulama sağlayın ve aynı veya eşdeğer bir varyantla yeniden değerlendirin. |
 
 
-Bu örnekler doğrudan gözlemin, Değerlendirme Tablosu'nun veya seçilen yerel `P7` onayının yerini almaz. Kalibrasyon sırasında gerçek gizli bilgileri, özel anahtarları, parolaları, bakiyeleri veya gereksiz kişisel bilgileri kaydetmeyin.
+Bu örnekler doğrudan gözlemin, [Değerlendirme Tablosu'nun](https://cdn.sanity.io/files/vje9ehw2/staging/f9336980ae62d96bf223d9b9503aed99fce18154.pdf) veya seçilen yerel `P7` onayının yerini almaz. Kalibrasyon sırasında gerçek gizli bilgileri, özel anahtarları, parolaları, bakiyeleri veya gereksiz kişisel bilgileri kaydetmeyin.
 
 Grubunuza uyan örnekleri ve etkinlik materyallerini kullanın. Uygulamadan önce yerel araçları, güncel bilgileri, çeviriyi, erişilebilirliği ve uygulamalı güvenliği gözden geçirin. Bir etkinliği uyarladığınızda yetkinlik ve güvenlik amacını açık tutun.
 

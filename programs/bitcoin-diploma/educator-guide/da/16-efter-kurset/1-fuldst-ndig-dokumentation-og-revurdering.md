@@ -1,7 +1,7 @@
 # 16.1 Fuldstændig dokumentation og revurdering
 
 * Saml resultaterne fra den underviserstyrede teoretiske del og dokumentationen fra den praktiske del, som underviseren har observeret.
-* Bekræft, at der for hver påkrævet kompetence, der vurderes i vurderingsskemaet, herunder de tilhørende obligatoriske kompetencekriterier, foreligger dokumentation fra den del, som kompetencen er knyttet til.
+* Bekræft, at der for hver påkrævet kompetence, der vurderes i [vurderingsskemaet](https://cdn.sanity.io/files/vje9ehw2/staging/c04953b5b9cc1c395498401affce85b5041815a7.pdf), herunder de tilhørende obligatoriske kompetencekriterier, foreligger dokumentation fra den del, som kompetencen er knyttet til.
 * Kontakt kursisterne privat om ufuldførte opgaver.
 * Tilbyd målrettet supplerende undervisning og en retfærdig revurdering.
 * Tilbyd et deltagerbevis, når kursisten har deltaget, men har fået **Endnu ikke** for en eller flere kompetencer; udsted kun et gennemførelsesbevis, når alle kompetencer er markeret med **Ja**.

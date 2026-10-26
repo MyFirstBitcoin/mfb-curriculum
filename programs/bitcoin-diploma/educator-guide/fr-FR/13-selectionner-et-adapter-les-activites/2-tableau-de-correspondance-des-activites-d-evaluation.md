@@ -1,6 +1,6 @@
 # 13.2 Tableau de correspondance des activités d’évaluation
 
-Utilisez les activités accessibles via les liens ci-dessous comme contextes possibles d’apprentissage ou de recueil de preuves individuelles pour la compétence indiquée. Une activité reste formative à moins qu’elle ne donne à l’enseignant une réelle possibilité d’observer la réponse ou l’action pertinente de l’apprenant. Adaptez l’activité si nécessaire et consignez le résultat dans la grille d’évaluation.
+Utilisez les activités accessibles via les liens ci-dessous comme contextes possibles d’apprentissage ou de recueil de preuves individuelles pour la compétence indiquée. Une activité reste formative à moins qu’elle ne donne à l’enseignant une réelle possibilité d’observer la réponse ou l’action pertinente de l’apprenant. Adaptez l’activité si nécessaire et consignez le résultat dans la [grille d’évaluation](https://cdn.sanity.io/files/vje9ehw2/staging/7f4a5b7e8c46631c2526d1c38eabd1c63376f0a6.pdf).
 
 
 | Compétence de la grille d’évaluation | Tâche du protocole | Activités pouvant servir de support à la tâche | Ajout requis ou limite |

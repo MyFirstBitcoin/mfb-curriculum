@@ -1,6 +1,6 @@
 # 13.2 Pemetaan Silang Kegiatan Asesmen
 
-Gunakan aktivitas yang ditautkan di bawah ini sebagai konteks pembelajaran atau konteks untuk memperoleh bukti individual bagi kompetensi yang disebutkan. Suatu aktivitas tetap bersifat formatif kecuali aktivitas tersebut memberi pendidik kesempatan yang memadai untuk mengamati respons atau tindakan peserta didik yang relevan. Sesuaikan aktivitas bila diperlukan dan catat hasilnya dalam Matriks Penilaian.
+Gunakan aktivitas yang ditautkan di bawah ini sebagai konteks pembelajaran atau konteks untuk memperoleh bukti individual bagi kompetensi yang disebutkan. Suatu aktivitas tetap bersifat formatif kecuali aktivitas tersebut memberi pendidik kesempatan yang memadai untuk mengamati respons atau tindakan peserta didik yang relevan. Sesuaikan aktivitas bila diperlukan dan catat hasilnya dalam [Matriks Penilaian](https://cdn.sanity.io/files/vje9ehw2/staging/7a5637c64126170a2b46927550b2e60b6f903e0b.pdf).
 
 
 | Kompetensi dalam Matriks Penilaian | Tugas dalam protokol | Aktivitas yang dapat mendukung tugas | Tambahan atau batasan yang diperlukan |

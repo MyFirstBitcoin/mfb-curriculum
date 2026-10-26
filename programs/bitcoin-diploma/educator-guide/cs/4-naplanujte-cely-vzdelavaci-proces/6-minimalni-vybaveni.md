@@ -9,7 +9,7 @@ Podle složení skupiny a vybraných úkolů připravte:
 * připravené obrazovky peněženek nebo prázdné cvičné peněženky
 * ukázkové adresy, platební požadavky, *[txid](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction-id)* a snímky obrazovky z průzkumníku bloků
 * viditelné označení **VZOR — NEPLAŤTE** pro fiktivní platební údaje
-* hodnoticí tabulku a případné poznámky
+* [hodnoticí tabulku](https://cdn.sanity.io/files/vje9ehw2/staging/0123fbb7a38839c098d336645238952b7e57580e.pdf) a případné poznámky
 * časovač a plán lekce
 * pomůcky pro zajištění přístupnosti; a
 * záložní sadu materiálů pro práci bez připojení k internetu.

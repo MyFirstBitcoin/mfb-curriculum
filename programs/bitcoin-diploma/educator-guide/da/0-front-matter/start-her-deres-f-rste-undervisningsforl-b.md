@@ -10,7 +10,7 @@ Følg denne fremgangsmåde, første gang De underviser:
 1. Vælg én hovedaktivitet og én reserveaktivitet, og brug [Aktivitetsbiblioteket](https://curriculum.myfirstbitcoin.org/activities/en/) som inspiration, når det er nyttigt. Forsøg ikke at bruge alle mulighederne.
 1. Skriv undervisningsgangens kompetencemål og sikkerhedsregel på tavlen eller på det indledende dias.
 1. Undervis i rækkefølgen **forklar → spørg → øv → saml op → kontrollér**.
-1. Brug vurderingsskemaet og den praktiske vurderingsprotokol, når De er klar til at indsamle dokumentation for læring; almindelig diskussion er ikke automatisk en vurdering.
+1. Brug [vurderingsskemaet](https://cdn.sanity.io/files/vje9ehw2/staging/c04953b5b9cc1c395498401affce85b5041815a7.pdf) og den praktiske vurderingsprotokol, når De er klar til at indsamle dokumentation for læring; almindelig diskussion er ikke automatisk en vurdering.
 1. Notér efter undervisningen, hvad deltagerne forstod, hvad der forvirrede dem, hvad der skal undersøges nærmere, og hvad De vil ændre næste gang.
 
 Hvis De kun har ti minutter til at forberede Dem, så læs modulets formål, løftet til deltagerne, det foreslåede forløb, de sandsynlige udfordringer, sikkerhedsbemærkningerne og evalueringspunktet. Det er nok til at gennemføre en sikker første undervisningsgang, mens De selv fortsat lærer.

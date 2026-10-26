@@ -10,7 +10,7 @@ Trong lần giảng dạy đầu tiên, hãy làm theo lộ trình sau:
 1. Chọn một hoạt động chính và một hoạt động dự phòng, tham khảo [Thư viện hoạt động](https://curriculum.myfirstbitcoin.org/activities/en/) để lấy ý tưởng khi cần. Đừng cố sử dụng tất cả các lựa chọn.
 1. Ghi năng lực cần đạt và quy tắc an toàn của buổi học lên bảng hoặc trang chiếu mở đầu.
 1. Giảng dạy theo trình tự **giải thích → đặt câu hỏi → thực hành → tổng kết → kiểm tra**.
-1. Sử dụng Bảng tiêu chí đánh giá và quy trình triển khai đánh giá khi quý vị sẵn sàng thu thập minh chứng; thảo luận thông thường không mặc nhiên được coi là đánh giá.
+1. Sử dụng [Bảng tiêu chí đánh giá](https://cdn.sanity.io/files/vje9ehw2/staging/d3c76453c8b38b1c4df3bc7165958fd6377d4db4.pdf) và quy trình triển khai đánh giá khi quý vị sẵn sàng thu thập minh chứng; thảo luận thông thường không mặc nhiên được coi là đánh giá.
 1. Sau giờ học, hãy ghi lại những gì người học đã hiểu, những gì khiến họ bối rối, những gì cần kiểm chứng và những gì quý vị sẽ thay đổi vào lần sau.
 
 Nếu chỉ có mười phút để chuẩn bị, hãy đọc mục đích của mô-đun, cam kết dành cho người học, tiến trình đề xuất, những điểm có thể gây khó khăn, các lưu ý an toàn và mục ôn tập. Như vậy là đủ để tổ chức buổi học đầu tiên một cách an toàn trong khi quý vị tiếp tục học hỏi.

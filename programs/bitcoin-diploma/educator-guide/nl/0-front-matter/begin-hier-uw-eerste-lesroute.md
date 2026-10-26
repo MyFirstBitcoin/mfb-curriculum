@@ -10,7 +10,7 @@ Volg voor uw eerste les deze route:
 1. Kies één hoofdactiviteit en één reserveactiviteit, en gebruik daarbij de [Activiteitenbibliotheek](https://curriculum.myfirstbitcoin.org/activities/en/) voor ideeën wanneer dat helpt. Probeer niet elke optie te gebruiken.
 1. Schrijf de competentie en de veiligheidsregel van de sessie op uw bord of openingsdia.
 1. Geef les in de volgorde **uitleggen → vragen → oefenen → nabespreken → controleren**.
-1. Gebruik het Beoordelingsraster en het operationele beoordelingsprotocol wanneer u klaar bent om bewijs te verzamelen; een gewone discussie is niet automatisch een beoordeling.
+1. Gebruik het [Beoordelingsraster](https://cdn.sanity.io/files/vje9ehw2/staging/24fb3d1470d0f3c65703f4401bd70a0d82be9fb9.pdf) en het operationele beoordelingsprotocol wanneer u klaar bent om bewijs te verzamelen; een gewone discussie is niet automatisch een beoordeling.
 1. Noteer na de les wat de deelnemers begrepen, wat hen in verwarring bracht, wat gecontroleerd moet worden en wat u de volgende keer anders gaat doen.
 
 Als u maar tien minuten hebt om u voor te bereiden, lees dan het doel van de module, de belofte aan de deelnemer, het voorgestelde verloop, de waarschijnlijke struikelpunten, de veiligheidsnotities en het evaluatiepunt. Dat is genoeg om een veilige eerste sessie te geven terwijl u zelf blijft leren.

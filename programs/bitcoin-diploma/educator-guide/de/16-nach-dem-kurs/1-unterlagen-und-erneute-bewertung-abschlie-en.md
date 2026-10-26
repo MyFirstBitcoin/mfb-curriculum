@@ -1,7 +1,7 @@
 # 16.1 Unterlagen und erneute Bewertung abschließen
 
 * Führen Sie die Ergebnisse der von Lehrenden geleiteten theoretischen Bewertung mit den Aufzeichnungen der von Lehrenden beobachteten praktischen Aufgaben zusammen.
-* Vergewissern Sie sich, dass für jede erforderliche bewertete Kompetenz im Bewertungsraster, einschließlich ihrer erforderlichen Kompetenzkriterien, Nachweise aus der zugewiesenen Komponente vorliegen.
+* Vergewissern Sie sich, dass für jede erforderliche bewertete Kompetenz im [Bewertungsraster](https://cdn.sanity.io/files/vje9ehw2/staging/1dc78f09f7b336ce2798e4667e42f04293e00749.pdf), einschließlich ihrer erforderlichen Kompetenzkriterien, Nachweise aus der zugewiesenen Komponente vorliegen.
 * Kontaktieren Sie Lernende wegen unvollständiger Aufgaben persönlich und vertraulich.
 * Bieten Sie gezielte Nachförderung und eine faire Wiederholungsbewertung an.
 * Stellen Sie eine Teilnahmebescheinigung aus, wenn die lernende Person teilgenommen hat, aber bei einer oder mehreren Kompetenzen **„Noch nicht“** erhalten hat; stellen Sie ein Abschlusszertifikat nur aus, wenn bei allen Kompetenzen **„Ja“** vermerkt ist.

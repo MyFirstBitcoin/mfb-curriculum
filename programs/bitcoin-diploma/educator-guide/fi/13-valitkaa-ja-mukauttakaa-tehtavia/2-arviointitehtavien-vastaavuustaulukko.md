@@ -1,6 +1,6 @@
 # 13.2 Arviointitehtävien vastaavuustaulukko
 
-Käyttäkää alla linkitettyjä tehtäviä mahdollisina oppimistilanteina tai yksilöllisen osaamisen näyttötilanteina mainitun osaamisen osalta. Tehtävä on edelleen formatiivinen, ellei se anna opettajalle asianmukaista mahdollisuutta havaita oppijan olennaista vastausta tai toimintaa. Mukauttakaa tehtävää tarvittaessa ja kirjatkaa tulos arviointitaulukkoon.
+Käyttäkää alla linkitettyjä tehtäviä mahdollisina oppimistilanteina tai yksilöllisen osaamisen näyttötilanteina mainitun osaamisen osalta. Tehtävä on edelleen formatiivinen, ellei se anna opettajalle asianmukaista mahdollisuutta havaita oppijan olennaista vastausta tai toimintaa. Mukauttakaa tehtävää tarvittaessa ja kirjatkaa tulos [arviointitaulukkoon](https://cdn.sanity.io/files/vje9ehw2/staging/8b86111c1d34909e36b6c5533f229980ff54a47d.pdf).
 
 
 | Arviointitaulukon osaamisalue | Arviointimenettelyn tehtävä | Tehtävää tukevat harjoitukset | Vaadittu lisäys tai rajaus |

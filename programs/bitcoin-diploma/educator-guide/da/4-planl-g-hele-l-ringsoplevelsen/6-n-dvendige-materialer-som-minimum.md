@@ -9,7 +9,7 @@ Forbered følgende ud fra deltagerholdet og de valgte opgaver:
 * klargjorte walletskærme eller tomme træningswallets
 * eksempler på adresser, fakturaer, *[txid](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction-id)*'er og skærmbilleder fra en blokudforsker
 * en synlig etiket med teksten **EKSEMPEL — BETAL IKKE** til fiktive betalingsoplysninger
-* vurderingsskemaet og eventuelle noter
+* [vurderingsskemaet](https://cdn.sanity.io/files/vje9ehw2/staging/c04953b5b9cc1c395498401affce85b5041815a7.pdf) og eventuelle noter
 * et stopur og en lektionsplan
 * tilgængelighedshjælpemidler; og
 * en pakke med reservematerialer til brug uden internet.

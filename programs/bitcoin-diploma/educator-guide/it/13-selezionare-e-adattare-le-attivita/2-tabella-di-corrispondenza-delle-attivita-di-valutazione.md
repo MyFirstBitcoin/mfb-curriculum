@@ -1,6 +1,6 @@
 # 13.2 Tabella di corrispondenza delle attività di valutazione
 
-Utilizzi le attività collegate qui sotto come possibili contesti di apprendimento o di raccolta di evidenze individuali per la competenza indicata. Un'attività rimane formativa a meno che non offra all'educatore un'occasione adeguata per notare la risposta o l'azione pertinente del discente. Adatti l'attività quando necessario e registri il risultato nella Griglia di valutazione.
+Utilizzi le attività collegate qui sotto come possibili contesti di apprendimento o di raccolta di evidenze individuali per la competenza indicata. Un'attività rimane formativa a meno che non offra all'educatore un'occasione adeguata per notare la risposta o l'azione pertinente del discente. Adatti l'attività quando necessario e registri il risultato nella [Griglia di valutazione](https://cdn.sanity.io/files/vje9ehw2/staging/dd05771bc22e102c1913f48bcae55e7b7f619c72.pdf).
 
 
 | Competenza della Griglia di valutazione | Compito del protocollo | Attività che possono supportare il compito | Integrazione o limite richiesti |

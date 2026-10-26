@@ -10,7 +10,7 @@ Başlamak için Bitcoin uzmanı ya da deneyimli bir öğretmen olmanız gerekmez
 1. Gerektiğinde fikir almak için [Etkinlik Kütüphanesi](https://curriculum.myfirstbitcoin.org/activities/en/)'nden yararlanarak bir ana etkinlik ve bir yedek etkinlik seçin. Her seçeneği kullanmaya çalışmayın.
 1. Oturumun yetkinliğini ve güvenlik kuralını tahtanıza veya açılış slaydınıza yazın.
 1. Dersi şu sırayla işleyin: **açıklayın → sorun → uygulatın → değerlendirme sohbeti yapın → kontrol edin**.
-1. Kanıt toplamaya hazır olduğunuzda Değerlendirme Tablosu'nu ve uygulamalı değerlendirme protokolünü kullanın; sıradan bir tartışma kendiliğinden değerlendirme sayılmaz.
+1. Kanıt toplamaya hazır olduğunuzda [Değerlendirme Tablosu'nu](https://cdn.sanity.io/files/vje9ehw2/staging/f9336980ae62d96bf223d9b9503aed99fce18154.pdf) ve uygulamalı değerlendirme protokolünü kullanın; sıradan bir tartışma kendiliğinden değerlendirme sayılmaz.
 1. Dersten sonra öğrencilerin neyi anladığını, neyin kafalarını karıştırdığını, neyin doğrulanması gerektiğini ve bir dahaki sefere neyi değiştireceğinizi not edin.
 
 Hazırlık için yalnızca on dakikanız varsa modülün amacını, öğrenciye verilen sözü, önerilen akışı, olası sorunlu noktaları, güvenlik notlarını ve gözden geçirme noktasını okuyun. Öğrenmeye devam ederken güvenli bir ilk oturum yürütmek için bu yeterlidir.

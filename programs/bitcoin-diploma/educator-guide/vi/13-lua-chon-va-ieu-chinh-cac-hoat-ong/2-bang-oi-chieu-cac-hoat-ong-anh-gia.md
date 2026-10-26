@@ -1,6 +1,6 @@
 # 13.2 Bảng đối chiếu các hoạt động đánh giá
 
-Sử dụng các hoạt động được liên kết bên dưới làm bối cảnh học tập hoặc thu thập minh chứng cá nhân cho năng lực đã nêu. Một hoạt động vẫn chỉ phục vụ đánh giá quá trình, trừ khi hoạt động đó tạo cơ hội thích đáng để nhà giáo dục quan sát phản hồi hoặc hành động có liên quan của người học. Điều chỉnh hoạt động khi cần và ghi kết quả vào Bảng đánh giá.
+Sử dụng các hoạt động được liên kết bên dưới làm bối cảnh học tập hoặc thu thập minh chứng cá nhân cho năng lực đã nêu. Một hoạt động vẫn chỉ phục vụ đánh giá quá trình, trừ khi hoạt động đó tạo cơ hội thích đáng để nhà giáo dục quan sát phản hồi hoặc hành động có liên quan của người học. Điều chỉnh hoạt động khi cần và ghi kết quả vào [Bảng đánh giá](https://cdn.sanity.io/files/vje9ehw2/staging/d3c76453c8b38b1c4df3bc7165958fd6377d4db4.pdf).
 
 
 | Năng lực trong Bảng đánh giá | Nhiệm vụ theo quy trình | Các hoạt động có thể hỗ trợ nhiệm vụ | Nội dung cần bổ sung hoặc giới hạn cần áp dụng |

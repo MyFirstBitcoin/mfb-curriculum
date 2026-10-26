@@ -2,7 +2,7 @@
 
 ### Oppimista tukeva arviointipolku
 
-Tämä ohjeistus määrittää Bitcoin Diploman seitsemän arvioitavaa osaamisaluetta ja niiden pakolliset arviointikriteerit. Käyttäkää sitä yhdessä arviointitaulukon kanssa. Opettajan arvioima teoria kattaa osaamisalueet `C1`–`C5`; suoraan havainnoitava käytännön osaaminen kattaa osaamisalueet `C6`–`C7`. Paikallinen kieli, esimerkit, viestintätavat, tehtävävalinnat ja toteutustavat voivat vaihdella. Pitäkää osaamisvaatimukset ja turvallisuuden rajat selkeinä.
+Tämä ohjeistus määrittää Bitcoin Diploman seitsemän arvioitavaa osaamisaluetta ja niiden pakolliset arviointikriteerit. Käyttäkää sitä yhdessä [arviointitaulukon](https://cdn.sanity.io/files/vje9ehw2/staging/8b86111c1d34909e36b6c5533f229980ff54a47d.pdf) kanssa. Opettajan arvioima teoria kattaa osaamisalueet `C1`–`C5`; suoraan havainnoitava käytännön osaaminen kattaa osaamisalueet `C6`–`C7`. Paikallinen kieli, esimerkit, viestintätavat, tehtävävalinnat ja toteutustavat voivat vaihdella. Pitäkää osaamisvaatimukset ja turvallisuuden rajat selkeinä.
 
 
 | Osaamisalue | Pakolliset arviointikriteerit | Näyttö |
@@ -75,13 +75,13 @@ Valitkaa käytännön toteutustapa, joka tuntuu oppijoista turvalliselta ja hall
 
 **Saavutettavuus ja vastaavat vähätekniset vaihtoehdot:** Käyttäkää oppijalle sopivaa viestintätapaa, käännettyä tehtävänantoa, isotekstistä tai tunnusteltavaa materiaalia, suullista vastausta, kuvailtua vastausta, valmiita paperisia lompakkonäkymiä, roolipeliä tai ilman verkkoyhteyttä toimivaa simulaatiota siten, että vaadittu toiminta säilyy. Vastaavan suoritustavan tulee mahdollistaa osaamisen osoittaminen; se ei saa kaventaa sitä pelkäksi tunnistamiseksi, ryhmään osallistumiseksi tai itsearvioksi.
 
-**Vapaaehtoiset muistiinpanot:** Arviointitaulukkoon tarvitaan vain yksi lopullinen **Osaaminen osoitettu: Kyllä** tai **Osaaminen osoitettu: Ei vielä** -tulos kutakin osaamista ja oppijaa kohden. Lyhyet muistiinpanot voivat auttaa muistamaan havaintonne, suunnittelemaan jatkotoimia tai tukemaan uudelleenarviointia, mutta taulukko ei edellytä tehtävätunnuksia eikä pitkiä näyttökirjauksia. Kirjatkaa oppijasta vain välttämättömät tiedot ja pitäkää ne yksityisinä.
+**Vapaaehtoiset muistiinpanot:** [Arviointitaulukkoon](https://cdn.sanity.io/files/vje9ehw2/staging/8b86111c1d34909e36b6c5533f229980ff54a47d.pdf) tarvitaan vain yksi lopullinen **Osaaminen osoitettu: Kyllä** tai **Osaaminen osoitettu: Ei vielä** -tulos kutakin osaamista ja oppijaa kohden. Lyhyet muistiinpanot voivat auttaa muistamaan havaintonne, suunnittelemaan jatkotoimia tai tukemaan uudelleenarviointia, mutta taulukko ei edellytä tehtävätunnuksia eikä pitkiä näyttökirjauksia. Kirjatkaa oppijasta vain välttämättömät tiedot ja pitäkää ne yksityisinä.
 
 ### Esimerkkejä teoriaa käsittelevistä vuorovaikutustilanteista
 
 Nämä vuorovaikutustilanteet voidaan sisällyttää moduulin tavalliseen opetukseen. Ne ovat esimerkkejä, eivät yksi kirjallinen koe tai ainoa hyväksyttävä suoritustapa. Antakaa jokaiselle oppijalle mahdollisuus vastata ja kirjatkaa sitten kukin osaaminen erikseen.
 
-**Ymmärtäminen ja toiminta:** `T1`–`T3` tarkistavat ymmärtämistä: kouluttaja kuuntelee, kun oppija selittää tai vertailee jotakin ajatusta. `P6a`, `P6b` ja `P7` tarkistavat turvallista toimintaa: kouluttaja seuraa, kun oppija suorittaa käytännön tehtävän. Nämä ovat ehdotuksia näyttöjen keräämiseen, eivät ylimääräisiä kokeita tai arvosanoja. Kirjatkaa arviointitaulukkoon yksi lopullinen tulos kustakin osaamisesta.
+**Ymmärtäminen ja toiminta:** `T1`–`T3` tarkistavat ymmärtämistä: kouluttaja kuuntelee, kun oppija selittää tai vertailee jotakin ajatusta. `P6a`, `P6b` ja `P7` tarkistavat turvallista toimintaa: kouluttaja seuraa, kun oppija suorittaa käytännön tehtävän. Nämä ovat ehdotuksia näyttöjen keräämiseen, eivät ylimääräisiä kokeita tai arvosanoja. Kirjatkaa [arviointitaulukkoon](https://cdn.sanity.io/files/vje9ehw2/staging/8b86111c1d34909e36b6c5533f229980ff54a47d.pdf) yksi lopullinen tulos kustakin osaamisesta.
 
 #### `T1` — Rahan vertailu ja paikallinen esimerkkitilanne (`C1`)
 
@@ -157,7 +157,7 @@ Nämä vuorovaikutustilanteet voidaan sisällyttää moduulin tavalliseen opetuk
 
 ### Uudelleenarviointi ja valinnainen laadun tuki
 
-**Uudelleenarviointi:** **Ei vielä** tarkoittaa, että oppija kehittää osaamistaan ja tarvitsee lisää oppimista, harjoittelua tai uuden tilaisuuden – ei ”ei koskaan”. Opettajat voivat palata arvioimaan osaamista uudelleen milloin tahansa, myös oppitunnin aikana, tauolla, ylimääräisessä puhelussa tai seurantatapaamisessa. Selvittäkää oppijan tarpeet kahden kesken, tarjotkaa kohdennettua harjoittelua ja käyttäkää samaa tehtävää tai sopivaa vastaavaa tehtävää. Älkää alentako vaatimustasoa, käyttäkö läsnäoloa osaamisen korvikkeena tai pakottako oppijaa paljastamaan henkilötietojaan. Päivittäkää arviointitaulukko, kun uusi näyttö on riittävä.
+**Uudelleenarviointi:** **Ei vielä** tarkoittaa, että oppija kehittää osaamistaan ja tarvitsee lisää oppimista, harjoittelua tai uuden tilaisuuden – ei ”ei koskaan”. Opettajat voivat palata arvioimaan osaamista uudelleen milloin tahansa, myös oppitunnin aikana, tauolla, ylimääräisessä puhelussa tai seurantatapaamisessa. Selvittäkää oppijan tarpeet kahden kesken, tarjotkaa kohdennettua harjoittelua ja käyttäkää samaa tehtävää tai sopivaa vastaavaa tehtävää. Älkää alentako vaatimustasoa, käyttäkö läsnäoloa osaamisen korvikkeena tai pakottako oppijaa paljastamaan henkilötietojaan. Päivittäkää [arviointitaulukko](https://cdn.sanity.io/files/vje9ehw2/staging/8b86111c1d34909e36b6c5533f229980ff54a47d.pdf), kun uusi näyttö on riittävä.
 
 **Valinnainen tuki opettajille:** Jos opettajat työskentelevät yhdessä tai tuntevat epävarmuutta, he voivat vertailla **Kyllä** ja **Ei vielä** -esimerkkejä, keskustella vaatimustasosta tai suorittaa suositellun opettajien koulutusohjelman. Tämä tuki voi vahvistaa varmuutta, mutta se ei ole todistusten myöntämisen edellytys.
 
@@ -175,7 +175,7 @@ Käyttäkää näitä esimerkkejä arviointipäätösten vertailuun ennen opetuk
 | P7 — Esimerkkitoteutus: paikallisten maksutapojen vertailusimulaatio | Oppija suorittaa simuloidun maksuketjun turvallisesti, tarkistaa vastaanottajan ja summan sekä selittää yksilöllisesti paikallisen tarkoituksen, realistisen vaihtoehdon, kompromissit, mahdolliset ongelmakohdat, turvallisen toiminnan rajan ja seuraavan askeleen. Arvio: Kyllä. | Oppija suorittaa toimintaketjun vain opettajan ohjauksessa, jättää vaaditun tarkistuksen tekemättä tai ei sallitun tuen jälkeenkään osaa selittää realistista vaihtoehtoa ja turvallista toimintatapaa ongelmatilanteessa. Arvio: Ei vielä; tarjotkaa kohdennettua harjoittelua ja arvioikaa uudelleen samalla tai vastaavalla toteutusvaihtoehdolla. |
 
 
-Nämä esimerkit eivät korvaa suoraa havainnointia, arviointitaulukkoa tai valitun paikallisen `P7`-toteutuksen hyväksyntää. Älkää kirjatko kalibroinnin aikana todellisia salaisia tietoja, yksityisiä avaimia, salasanoja, saldoja tai tarpeettomia henkilötietoja.
+Nämä esimerkit eivät korvaa suoraa havainnointia, [arviointitaulukkoa](https://cdn.sanity.io/files/vje9ehw2/staging/8b86111c1d34909e36b6c5533f229980ff54a47d.pdf) tai valitun paikallisen `P7`-toteutuksen hyväksyntää. Älkää kirjatko kalibroinnin aikana todellisia salaisia tietoja, yksityisiä avaimia, salasanoja, saldoja tai tarpeettomia henkilötietoja.
 
 Käyttäkää oppijaryhmällenne sopivia esimerkkejä ja tehtävämateriaaleja. Tarkistakaa paikalliset työkalut, ajantasaiset faktat, käännös, saavutettavuus ja käytännön turvallisuus ennen opetuksen toteuttamista. Kun mukautatte tehtävää, pitäkää osaamistavoite ja turvallisuuteen liittyvä tarkoitus selkeinä.
 

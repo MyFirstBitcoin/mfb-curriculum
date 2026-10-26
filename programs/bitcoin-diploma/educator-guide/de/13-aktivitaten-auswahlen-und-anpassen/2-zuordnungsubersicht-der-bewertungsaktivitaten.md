@@ -1,6 +1,6 @@
 # 13.2 Zuordnungsübersicht der Bewertungsaktivitäten
 
-Nutzen Sie die unten verknüpften Aktivitäten als mögliche Lernkontexte oder Kontexte für individuelle Nachweise zur jeweils genannten Kompetenz. Eine Aktivität bleibt formativ, sofern sie der Lehrkraft nicht eine faire Gelegenheit bietet, die relevante Antwort oder Handlung der Lernenden wahrzunehmen. Passen Sie die Aktivität bei Bedarf an und halten Sie das Ergebnis im Bewertungsraster fest.
+Nutzen Sie die unten verknüpften Aktivitäten als mögliche Lernkontexte oder Kontexte für individuelle Nachweise zur jeweils genannten Kompetenz. Eine Aktivität bleibt formativ, sofern sie der Lehrkraft nicht eine faire Gelegenheit bietet, die relevante Antwort oder Handlung der Lernenden wahrzunehmen. Passen Sie die Aktivität bei Bedarf an und halten Sie das Ergebnis im [Bewertungsraster](https://cdn.sanity.io/files/vje9ehw2/staging/1dc78f09f7b336ce2798e4667e42f04293e00749.pdf) fest.
 
 
 | Kompetenz im Bewertungsraster | Protokollaufgabe | Aktivitäten, die die Aufgabe unterstützen können | Erforderliche Ergänzung oder Einschränkung |

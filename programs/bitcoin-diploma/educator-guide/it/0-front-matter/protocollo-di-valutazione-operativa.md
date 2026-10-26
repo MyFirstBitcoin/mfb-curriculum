@@ -2,7 +2,7 @@
 
 ### Un percorso di valutazione di supporto
 
-Questo protocollo è il riferimento ufficiale per le sette competenze valutate del Bitcoin Diploma e per i relativi indicatori richiesti. Lo utilizzi insieme alla Griglia di valutazione. La teoria valutata dall'educatore comprende `C1`–`C5`; la pratica osservata direttamente comprende `C6`–`C7`. La lingua locale, gli esempi, le modalità di comunicazione, la scelta delle attività e le modalità di erogazione possono variare. Mantenga chiari i confini della competenza e della sicurezza.
+Questo protocollo è il riferimento ufficiale per le sette competenze valutate del Bitcoin Diploma e per i relativi indicatori richiesti. Lo utilizzi insieme alla [Griglia di valutazione](https://cdn.sanity.io/files/vje9ehw2/staging/dd05771bc22e102c1913f48bcae55e7b7f619c72.pdf). La teoria valutata dall'educatore comprende `C1`–`C5`; la pratica osservata direttamente comprende `C6`–`C7`. La lingua locale, gli esempi, le modalità di comunicazione, la scelta delle attività e le modalità di erogazione possono variare. Mantenga chiari i confini della competenza e della sicurezza.
 
 
 | Competenza | Indicatori richiesti | Evidenze |
@@ -75,13 +75,13 @@ Scelga un percorso pratico che risulti sicuro e gestibile per i discenti. Annoti
 
 **Accessibilità ed equivalenza low-tech:** Utilizzi il metodo di comunicazione, la consegna tradotta, il materiale a caratteri grandi o tattile, la risposta orale, la risposta descritta, le schermate di Paper Wallet predisposte, il gioco di ruolo o la simulazione offline più adatti al discente, preservando l'azione richiesta. Un percorso equivalente deve rendere la competenza raggiungibile; non deve ridurla al semplice riconoscimento, alla partecipazione di gruppo o all'autovalutazione.
 
-**Note facoltative:** La Griglia di valutazione richiede soltanto un esito finale **Dimostra la competenza: Sì** o **Dimostra la competenza: Non ancora** per ciascuna competenza e ciascun discente. Brevi note possono aiutarLa a ricordare ciò che ha osservato, a pianificare il seguito o a supportare una nuova valutazione, ma la griglia non richiede codici delle attività né lunghi registri delle evidenze. Registri solo le informazioni minime necessarie sul discente e le mantenga riservate.
+**Note facoltative:** La [Griglia di valutazione](https://cdn.sanity.io/files/vje9ehw2/staging/dd05771bc22e102c1913f48bcae55e7b7f619c72.pdf) richiede soltanto un esito finale **Dimostra la competenza: Sì** o **Dimostra la competenza: Non ancora** per ciascuna competenza e ciascun discente. Brevi note possono aiutarLa a ricordare ciò che ha osservato, a pianificare il seguito o a supportare una nuova valutazione, ma la griglia non richiede codici delle attività né lunghi registri delle evidenze. Registri solo le informazioni minime necessarie sul discente e le mantenga riservate.
 
 ### Esempi di interazioni teoriche
 
 Queste interazioni possono essere integrate nel normale insegnamento del modulo. Sono esempi, non un unico esame scritto né l'unico percorso valido. Dia a ciascun discente la possibilità di rispondere, quindi registri ogni competenza separatamente.
 
-**Comprensione e azione:** `T1`–`T3` verificano la comprensione: l'educatore ascolta mentre il discente spiega o confronta un'idea. `P6a`, `P6b` e `P7` verificano l'azione sicura: l'educatore osserva il discente mentre completa un'attività pratica. Si tratta di modalità suggerite per raccogliere evidenze, non di prove o voti aggiuntivi. Registri un esito finale per ciascuna competenza nella Griglia di valutazione.
+**Comprensione e azione:** `T1`–`T3` verificano la comprensione: l'educatore ascolta mentre il discente spiega o confronta un'idea. `P6a`, `P6b` e `P7` verificano l'azione sicura: l'educatore osserva il discente mentre completa un'attività pratica. Si tratta di modalità suggerite per raccogliere evidenze, non di prove o voti aggiuntivi. Registri un esito finale per ciascuna competenza nella [Griglia di valutazione](https://cdn.sanity.io/files/vje9ehw2/staging/dd05771bc22e102c1913f48bcae55e7b7f619c72.pdf).
 
 #### `T1` — Confronto tra forme di denaro e scenario locale (`C1`)
 
@@ -157,7 +157,7 @@ Queste interazioni possono essere integrate nel normale insegnamento del modulo.
 
 ### Rivalutazione e supporto facoltativo alla qualità
 
-**Rivalutazione:** **Non ancora** significa che il discente sta sviluppando la competenza e ha bisogno di ulteriore apprendimento, pratica o di un'altra opportunità, non «mai». Gli educatori possono tornare a rivalutare in qualsiasi momento, anche durante la lezione, in una pausa, in una chiamata aggiuntiva o in una sessione successiva. Individui in privato ciò di cui il discente ha bisogno, offra una pratica mirata e utilizzi la stessa attività o un'alternativa equivalente adeguata. Non abbassi lo standard, non usi la frequenza come sostituto e non costringa il discente a rivelare informazioni personali. Aggiorni la Griglia di valutazione quando le nuove evidenze sono sufficienti.
+**Rivalutazione:** **Non ancora** significa che il discente sta sviluppando la competenza e ha bisogno di ulteriore apprendimento, pratica o di un'altra opportunità, non «mai». Gli educatori possono tornare a rivalutare in qualsiasi momento, anche durante la lezione, in una pausa, in una chiamata aggiuntiva o in una sessione successiva. Individui in privato ciò di cui il discente ha bisogno, offra una pratica mirata e utilizzi la stessa attività o un'alternativa equivalente adeguata. Non abbassi lo standard, non usi la frequenza come sostituto e non costringa il discente a rivelare informazioni personali. Aggiorni la [Griglia di valutazione](https://cdn.sanity.io/files/vje9ehw2/staging/dd05771bc22e102c1913f48bcae55e7b7f619c72.pdf) quando le nuove evidenze sono sufficienti.
 
 **Supporto facoltativo per gli educatori:** Se gli educatori lavorano insieme o si sentono incerti, possono confrontare un esempio di **Sì** e uno di **Non ancora**, discutere lo standard o completare il Programma di formazione per educatori consigliato. Questo supporto può rafforzare la sicurezza, ma non è un prerequisito per il rilascio dei certificati.
 
@@ -175,7 +175,7 @@ Utilizzi questi esempi per confrontare i giudizi prima dell'erogazione. Sono evi
 | P7 — Variante di esempio: simulazione di confronto tra modalità di pagamento locali | Il discente completa in sicurezza la sequenza di pagamento simulata, verifica destinatario e importo e spiega individualmente lo scopo locale, un'alternativa realistica, i compromessi, i possibili punti di fallimento, il limite di sicurezza e il passo successivo. Giudizio: Sì. | Il discente completa la sequenza solo seguendo le indicazioni dell'educatore, salta un controllo obbligatorio oppure non riesce a spiegare l'alternativa realistica e la risposta di sicurezza dopo il supporto consentito. Giudizio: Non ancora; offrire una pratica mirata e rivalutare con la stessa variante o con una equivalente. |
 
 
-Questi esempi non sostituiscono l'osservazione diretta, la Griglia di valutazione né l'approvazione locale della variante `P7` selezionata. Durante la calibrazione non registri segreti reali, chiavi private, password, saldi o informazioni personali non necessarie.
+Questi esempi non sostituiscono l'osservazione diretta, la [Griglia di valutazione](https://cdn.sanity.io/files/vje9ehw2/staging/dd05771bc22e102c1913f48bcae55e7b7f619c72.pdf) né l'approvazione locale della variante `P7` selezionata. Durante la calibrazione non registri segreti reali, chiavi private, password, saldi o informazioni personali non necessarie.
 
 Utilizzi gli esempi e i materiali delle attività adatti al Suo gruppo. Prima dell'erogazione, verifichi gli strumenti locali, i dati aggiornati, la traduzione, l'accessibilità e la sicurezza pratica. Quando adatta un'attività, mantenga chiari lo scopo di competenza e quello di sicurezza.
 

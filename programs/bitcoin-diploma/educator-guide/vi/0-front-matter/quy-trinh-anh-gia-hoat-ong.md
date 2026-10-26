@@ -2,7 +2,7 @@
 
 ### Một lộ trình đánh giá mang tính hỗ trợ
 
-Quy trình này là căn cứ chuẩn cho bảy năng lực được đánh giá trong chương trình Bitcoin Diploma và các biểu hiện bắt buộc cần quan sát của từng năng lực. Hãy sử dụng quy trình này cùng với Bảng đánh giá. Phần lý thuyết do nhà giáo dục đánh giá là `C1`–`C5`; phần thực hành được quan sát trực tiếp là `C6`–`C7`. Ngôn ngữ địa phương, ví dụ, phương thức giao tiếp, lựa chọn hoạt động và hình thức triển khai có thể thay đổi. Hãy giữ rõ yêu cầu năng lực và giới hạn an toàn.
+Quy trình này là căn cứ chuẩn cho bảy năng lực được đánh giá trong chương trình Bitcoin Diploma và các biểu hiện bắt buộc cần quan sát của từng năng lực. Hãy sử dụng quy trình này cùng với [Bảng đánh giá](https://cdn.sanity.io/files/vje9ehw2/staging/d3c76453c8b38b1c4df3bc7165958fd6377d4db4.pdf). Phần lý thuyết do nhà giáo dục đánh giá là `C1`–`C5`; phần thực hành được quan sát trực tiếp là `C6`–`C7`. Ngôn ngữ địa phương, ví dụ, phương thức giao tiếp, lựa chọn hoạt động và hình thức triển khai có thể thay đổi. Hãy giữ rõ yêu cầu năng lực và giới hạn an toàn.
 
 
 | Năng lực | Các biểu hiện bắt buộc cần quan sát | Minh chứng |
@@ -75,13 +75,13 @@ Chọn một lộ trình thực hành mà người học cảm thấy an toàn v
 
 **Khả năng tiếp cận và phương án tương đương ít dùng công nghệ:** Sử dụng phương thức giao tiếp, yêu cầu đã dịch, tài liệu chữ lớn hoặc tài liệu xúc giác, câu trả lời bằng lời nói, câu trả lời bằng cách mô tả, các màn hình ví in trên giấy đã chuẩn bị, hoạt động đóng vai hoặc mô phỏng ngoại tuyến phù hợp với người học, đồng thời vẫn giữ nguyên hành động bắt buộc. Phương án tương đương cần giúp người học có thể đạt được năng lực; không được giản lược năng lực đó thành việc nhận biết, tham gia nhóm hoặc tự báo cáo.
 
-**Ghi chú tùy chọn:** Bảng đánh giá chỉ yêu cầu một kết quả cuối cùng là **Thể hiện năng lực: Có** hoặc **Thể hiện năng lực: Chưa** cho mỗi năng lực của mỗi người học. Ghi chú ngắn có thể giúp quý vị nhớ những gì đã quan sát, lên kế hoạch hỗ trợ tiếp theo hoặc hỗ trợ việc đánh giá lại, nhưng bảng không yêu cầu mã nhiệm vụ hay hồ sơ minh chứng dài dòng. Chỉ ghi lại thông tin tối thiểu cần thiết về người học và giữ kín thông tin đó.
+**Ghi chú tùy chọn:** [Bảng đánh giá](https://cdn.sanity.io/files/vje9ehw2/staging/d3c76453c8b38b1c4df3bc7165958fd6377d4db4.pdf) chỉ yêu cầu một kết quả cuối cùng là **Thể hiện năng lực: Có** hoặc **Thể hiện năng lực: Chưa** cho mỗi năng lực của mỗi người học. Ghi chú ngắn có thể giúp quý vị nhớ những gì đã quan sát, lên kế hoạch hỗ trợ tiếp theo hoặc hỗ trợ việc đánh giá lại, nhưng bảng không yêu cầu mã nhiệm vụ hay hồ sơ minh chứng dài dòng. Chỉ ghi lại thông tin tối thiểu cần thiết về người học và giữ kín thông tin đó.
 
 ### Ví dụ về tương tác lý thuyết
 
 Có thể lồng ghép những tương tác này vào quá trình giảng dạy thông thường của mô-đun. Đây là các ví dụ, không phải một bài thi viết duy nhất hay phương án hợp lệ duy nhất. Hãy tạo cơ hội trả lời cho từng người học, sau đó ghi nhận riêng từng năng lực.
 
-**Hiểu biết và hành động:** `T1`–`T3` kiểm tra mức độ hiểu biết: nhà giáo dục lắng nghe khi người học giải thích hoặc so sánh một ý tưởng. `P6a`, `P6b` và `P7` kiểm tra hành động an toàn: nhà giáo dục quan sát người học hoàn thành một nhiệm vụ thực hành. Đây là những cách thu thập minh chứng được đề xuất, không phải các bài kiểm tra hay điểm số bổ sung. Ghi một kết quả cuối cùng cho mỗi năng lực trong Bảng đánh giá.
+**Hiểu biết và hành động:** `T1`–`T3` kiểm tra mức độ hiểu biết: nhà giáo dục lắng nghe khi người học giải thích hoặc so sánh một ý tưởng. `P6a`, `P6b` và `P7` kiểm tra hành động an toàn: nhà giáo dục quan sát người học hoàn thành một nhiệm vụ thực hành. Đây là những cách thu thập minh chứng được đề xuất, không phải các bài kiểm tra hay điểm số bổ sung. Ghi một kết quả cuối cùng cho mỗi năng lực trong [Bảng đánh giá](https://cdn.sanity.io/files/vje9ehw2/staging/d3c76453c8b38b1c4df3bc7165958fd6377d4db4.pdf).
 
 #### `T1` — So sánh tiền tệ và tình huống tại địa phương (`C1`)
 
@@ -157,7 +157,7 @@ Có thể lồng ghép những tương tác này vào quá trình giảng dạy 
 
 ### Đánh giá lại và hỗ trợ chất lượng tùy chọn
 
-**Đánh giá lại:** **Chưa đạt** có nghĩa là học viên đang phát triển năng lực và cần học thêm, thực hành thêm hoặc có một cơ hội khác — chứ không phải “không bao giờ đạt”. Giảng viên có thể đánh giá lại vào bất kỳ thời điểm nào, kể cả trong giờ học, giờ giải lao, trong một cuộc gọi bổ sung hoặc buổi học tiếp nối. Trao đổi riêng để xác định nhu cầu của học viên, tổ chức thực hành có trọng tâm và sử dụng lại hoạt động đó hoặc một hoạt động tương đương phù hợp. Không hạ thấp tiêu chuẩn, không dùng việc có mặt thay cho bằng chứng năng lực, hoặc buộc học viên tiết lộ thông tin cá nhân. Cập nhật Bảng đánh giá khi đã có đủ bằng chứng mới.
+**Đánh giá lại:** **Chưa đạt** có nghĩa là học viên đang phát triển năng lực và cần học thêm, thực hành thêm hoặc có một cơ hội khác — chứ không phải “không bao giờ đạt”. Giảng viên có thể đánh giá lại vào bất kỳ thời điểm nào, kể cả trong giờ học, giờ giải lao, trong một cuộc gọi bổ sung hoặc buổi học tiếp nối. Trao đổi riêng để xác định nhu cầu của học viên, tổ chức thực hành có trọng tâm và sử dụng lại hoạt động đó hoặc một hoạt động tương đương phù hợp. Không hạ thấp tiêu chuẩn, không dùng việc có mặt thay cho bằng chứng năng lực, hoặc buộc học viên tiết lộ thông tin cá nhân. Cập nhật [Bảng đánh giá](https://cdn.sanity.io/files/vje9ehw2/staging/d3c76453c8b38b1c4df3bc7165958fd6377d4db4.pdf) khi đã có đủ bằng chứng mới.
 
 **Hỗ trợ tùy chọn dành cho giảng viên:** Nếu các giảng viên đang làm việc cùng nhau hoặc cảm thấy chưa chắc chắn, họ có thể so sánh một ví dụ **Đạt** và **Chưa đạt**, thảo luận về tiêu chuẩn hoặc hoàn thành Chương trình đào tạo giảng viên được khuyến nghị. Sự hỗ trợ này có thể giúp tăng sự tự tin nhưng không phải là điều kiện tiên quyết để cấp chứng chỉ.
 
@@ -175,7 +175,7 @@ Sử dụng các ví dụ này để đối chiếu các nhận định trước
 | P7 — Biến thể minh họa: mô phỏng so sánh các phương thức thanh toán tại địa phương | Học viên hoàn thành trình tự thanh toán mô phỏng một cách an toàn, kiểm tra người nhận và số tiền, đồng thời tự giải thích mục đích trong bối cảnh địa phương, một phương án thay thế thực tế, những đánh đổi, các điểm có thể xảy ra sự cố, giới hạn an toàn và bước tiếp theo. Nhận định: Đạt. | Học viên chỉ hoàn thành trình tự khi có sự chỉ dẫn của giảng viên, bỏ qua một bước kiểm tra bắt buộc hoặc không thể giải thích phương án thay thế thực tế và cách ứng phó an toàn sau khi nhận được hỗ trợ trong phạm vi cho phép. Nhận định: Chưa đạt; tổ chức thực hành có trọng tâm và đánh giá lại bằng cùng biến thể hoặc một biến thể tương đương. |
 
 
-Những ví dụ này không thay thế việc quan sát trực tiếp, Bảng đánh giá hoặc việc phê duyệt tại địa phương đối với phương án `P7` đã chọn. Không ghi lại thông tin bí mật thực tế, khóa riêng tư, mật khẩu, số dư hoặc thông tin cá nhân không cần thiết trong quá trình thống nhất cách đánh giá.
+Những ví dụ này không thay thế việc quan sát trực tiếp, [Bảng đánh giá](https://cdn.sanity.io/files/vje9ehw2/staging/d3c76453c8b38b1c4df3bc7165958fd6377d4db4.pdf) hoặc việc phê duyệt tại địa phương đối với phương án `P7` đã chọn. Không ghi lại thông tin bí mật thực tế, khóa riêng tư, mật khẩu, số dư hoặc thông tin cá nhân không cần thiết trong quá trình thống nhất cách đánh giá.
 
 Sử dụng các ví dụ và tài liệu hoạt động phù hợp với nhóm học viên của quý vị. Rà soát các công cụ tại địa phương, thông tin thực tế hiện hành, bản dịch, khả năng tiếp cận và sự an toàn khi thực hành trước khi giảng dạy. Khi điều chỉnh một hoạt động, hãy giữ rõ năng lực cần đạt và mục đích an toàn.
 

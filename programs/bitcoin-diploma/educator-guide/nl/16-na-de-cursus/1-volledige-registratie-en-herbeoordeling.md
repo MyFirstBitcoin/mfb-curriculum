@@ -1,7 +1,7 @@
 # 16.1 Volledige registratie en herbeoordeling
 
 * Combineer de theoretische resultaten onder leiding van de docent met de praktijkverslagen op basis van observaties door de docent.
-* Controleer of er voor elke vereiste beoordeelde competentie in het beoordelingsraster, inclusief de bijbehorende vereiste competentiecriteria, bewijs is vanuit het toegewezen onderdeel.
+* Controleer of er voor elke vereiste beoordeelde competentie in het [beoordelingsraster](https://cdn.sanity.io/files/vje9ehw2/staging/24fb3d1470d0f3c65703f4401bd70a0d82be9fb9.pdf), inclusief de bijbehorende vereiste competentiecriteria, bewijs is vanuit het toegewezen onderdeel.
 * Neem persoonlijk contact op met lerenden over onvoltooide taken.
 * Bied gerichte remediëring en een eerlijke herbeoordeling.
 * Bied een deelnamecertificaat aan wanneer de lerende heeft deelgenomen maar **Nog niet** scoort voor een of meer competenties; reik alleen een voltooiingscertificaat uit wanneer alle competenties op **Ja** staan.

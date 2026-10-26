@@ -1,6 +1,6 @@
 # 13.2 Tabela powiązań aktywności służących ocenianiu
 
-Proszę wykorzystać poniższe ćwiczenia, do których prowadzą odnośniki, jako możliwe konteksty uczenia się lub gromadzenia indywidualnych dowodów opanowania wskazanej kompetencji. Ćwiczenie pozostaje elementem oceniania kształtującego, chyba że daje osobie prowadzącej rzetelną możliwość zaobserwowania odpowiedniej odpowiedzi lub działania osoby uczącej się. W razie potrzeby proszę dostosować ćwiczenie i zapisać wynik w Arkuszu oceny.
+Proszę wykorzystać poniższe ćwiczenia, do których prowadzą odnośniki, jako możliwe konteksty uczenia się lub gromadzenia indywidualnych dowodów opanowania wskazanej kompetencji. Ćwiczenie pozostaje elementem oceniania kształtującego, chyba że daje osobie prowadzącej rzetelną możliwość zaobserwowania odpowiedniej odpowiedzi lub działania osoby uczącej się. W razie potrzeby proszę dostosować ćwiczenie i zapisać wynik w [Arkuszu oceny](https://cdn.sanity.io/files/vje9ehw2/staging/a9beb6a0735010a890448f4bc57c12d50a673868.pdf).
 
 
 | Kompetencja w Arkuszu oceny | Zadanie z protokołu | Ćwiczenia, które mogą wspierać realizację zadania | Wymagane uzupełnienie lub ograniczenie |

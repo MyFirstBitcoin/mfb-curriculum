@@ -9,7 +9,7 @@ Prepare los materiales según el grupo y las tareas seleccionadas:
 * pantallas de billeteras preparadas o billeteras de práctica vacías
 * direcciones de ejemplo, facturas, *[txid](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction-id)* y capturas de pantalla del explorador
 * una etiqueta visible de **EJEMPLO — NO PAGAR** para la información de pago ficticia
-* la Matriz de evaluación y notas opcionales
+* la [Matriz de evaluación](https://cdn.sanity.io/files/vje9ehw2/staging/d36336345e4a6ff6c5352365b7e48576e343dd07.pdf) y notas opcionales
 * un temporizador y un plan de sesión
 * recursos de accesibilidad; y
 * un paquete de respaldo para trabajar sin conexión.

@@ -1,6 +1,6 @@
 # 13.2 Sammenstilling af evalueringsaktiviteter
 
-Brug aktiviteterne med links nedenfor som mulige rammer for læring eller individuel dokumentation af den angivne kompetence. En aktivitet forbliver formativ, medmindre den giver underviseren en reel mulighed for at iagttage den relevante reaktion eller handling hos kursisten. Tilpas aktiviteten efter behov, og registrer resultatet i vurderingsskemaet.
+Brug aktiviteterne med links nedenfor som mulige rammer for læring eller individuel dokumentation af den angivne kompetence. En aktivitet forbliver formativ, medmindre den giver underviseren en reel mulighed for at iagttage den relevante reaktion eller handling hos kursisten. Tilpas aktiviteten efter behov, og registrer resultatet i [vurderingsskemaet](https://cdn.sanity.io/files/vje9ehw2/staging/c04953b5b9cc1c395498401affce85b5041815a7.pdf).
 
 
 | Kompetence i vurderingsskemaet | Opgave i protokollen | Aktiviteter, der kan understøtte opgaven | Påkrævet tilføjelse eller begrænsning |

@@ -10,7 +10,7 @@ Para impartir el curso por primera vez, siga esta ruta:
 1. Elija una actividad principal y una de respaldo, y use la [Biblioteca de actividades](https://curriculum.myfirstbitcoin.org/activities/en/) para obtener ideas cuando le resulte útil. No intente usar todas las opciones.
 1. Copie la competencia de la sesión y la regla de seguridad en la pizarra o en la diapositiva de apertura.
 1. Enseñe siguiendo este orden: **explicar → preguntar → practicar → reflexionar sobre la práctica → verificar**.
-1. Use la Matriz de evaluación y el protocolo operativo de evaluación cuando esté listo para recopilar evidencias; una discusión habitual no constituye automáticamente una evaluación.
+1. Use la [Matriz de evaluación](https://cdn.sanity.io/files/vje9ehw2/staging/d36336345e4a6ff6c5352365b7e48576e343dd07.pdf) y el protocolo operativo de evaluación cuando esté listo para recopilar evidencias; una discusión habitual no constituye automáticamente una evaluación.
 1. Después de clase, anote qué comprendieron los estudiantes, qué les causó confusión, qué necesita verificar y qué cambiará la próxima vez.
 
 Si solo tiene diez minutos para prepararse, lea el propósito del módulo, la promesa para el estudiante, la secuencia sugerida, las posibles dificultades, las notas de seguridad y el punto de revisión. Eso basta para llevar a cabo una primera sesión segura mientras continúa aprendiendo.

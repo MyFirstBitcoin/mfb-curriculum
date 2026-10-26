@@ -2,7 +2,7 @@
 
 ### Een ondersteunende beoordelingsroute
 
-Dit protocol is de leidende bron voor de zeven beoordeelde competenties van het Bitcoin Diploma en de bijbehorende vereiste observatiepunten. Gebruik het samen met het beoordelingsraster. Door de docent beoordeelde theorie omvat `C1`–`C5`; rechtstreeks geobserveerde praktijk omvat `C6`–`C7`. Lokale taal, voorbeelden, communicatiemethoden, activiteitkeuzes en uitvoeringsroutes mogen worden aangepast. Houd de grenzen van de competentie en de veiligheid duidelijk.
+Dit protocol is de leidende bron voor de zeven beoordeelde competenties van het Bitcoin Diploma en de bijbehorende vereiste observatiepunten. Gebruik het samen met het [beoordelingsraster](https://cdn.sanity.io/files/vje9ehw2/staging/24fb3d1470d0f3c65703f4401bd70a0d82be9fb9.pdf). Door de docent beoordeelde theorie omvat `C1`–`C5`; rechtstreeks geobserveerde praktijk omvat `C6`–`C7`. Lokale taal, voorbeelden, communicatiemethoden, activiteitkeuzes en uitvoeringsroutes mogen worden aangepast. Houd de grenzen van de competentie en de veiligheid duidelijk.
 
 
 | Competentie | Vereiste observatiepunten | Bewijs |
@@ -75,13 +75,13 @@ Kies een praktische route die voor de cursisten veilig en haalbaar aanvoelt. Not
 
 **Toegankelijkheid en low-tech gelijkwaardigheid:** Gebruik de communicatiemethode, vertaalde opdracht, materiaal in grote letters of tastbaar materiaal, mondelinge reactie, beschreven reactie, voorbereide schermen van een paper wallet, rollenspel of offline simulatie die voor de lerende werkt, terwijl de vereiste handeling behouden blijft. Een gelijkwaardige route moet de competentie bereikbaar maken; ze mag deze niet terugbrengen tot herkenning, groepsdeelname of zelfrapportage.
 
-**Optionele notities:** Het Beoordelingsraster vereist slechts één eindresultaat **Toont competentie: Ja** of **Toont competentie: Nog niet** per competentie en per lerende. Korte notities kunnen u helpen te onthouden wat u hebt gezien, een vervolg te plannen of een herbeoordeling te ondersteunen, maar taak-ID's en uitgebreide bewijsverslagen zijn niet vereist voor het raster. Noteer alleen de minimaal noodzakelijke informatie over de lerende en houd deze vertrouwelijk.
+**Optionele notities:** Het [Beoordelingsraster](https://cdn.sanity.io/files/vje9ehw2/staging/24fb3d1470d0f3c65703f4401bd70a0d82be9fb9.pdf) vereist slechts één eindresultaat **Toont competentie: Ja** of **Toont competentie: Nog niet** per competentie en per lerende. Korte notities kunnen u helpen te onthouden wat u hebt gezien, een vervolg te plannen of een herbeoordeling te ondersteunen, maar taak-ID's en uitgebreide bewijsverslagen zijn niet vereist voor het raster. Noteer alleen de minimaal noodzakelijke informatie over de lerende en houd deze vertrouwelijk.
 
 ### Voorbeelden van theoretische interacties
 
 Deze interacties kunnen worden verweven in het normale onderwijs van de modules. Het zijn voorbeelden, geen enkel schriftelijk examen of de enige geldige route. Geef elke lerende de kans om te reageren en noteer vervolgens elke competentie afzonderlijk.
 
-**Begrip en handeling:** `T1`–`T3` toetsen begrip: de docent luistert terwijl de lerende een idee uitlegt of vergelijkt. `P6a`, `P6b` en `P7` toetsen veilig handelen: de docent observeert hoe de lerende een praktische taak uitvoert. Dit zijn voorgestelde manieren om bewijs te verzamelen, geen extra toetsen of cijfers. Noteer één eindresultaat per competentie in het Beoordelingsraster.
+**Begrip en handeling:** `T1`–`T3` toetsen begrip: de docent luistert terwijl de lerende een idee uitlegt of vergelijkt. `P6a`, `P6b` en `P7` toetsen veilig handelen: de docent observeert hoe de lerende een praktische taak uitvoert. Dit zijn voorgestelde manieren om bewijs te verzamelen, geen extra toetsen of cijfers. Noteer één eindresultaat per competentie in het [Beoordelingsraster](https://cdn.sanity.io/files/vje9ehw2/staging/24fb3d1470d0f3c65703f4401bd70a0d82be9fb9.pdf).
 
 #### `T1` — Geldvergelijking en lokaal scenario (`C1`)
 
@@ -157,7 +157,7 @@ Deze interacties kunnen worden verweven in het normale onderwijs van de modules.
 
 ### Herbeoordeling en optionele kwaliteitsondersteuning
 
-**Herbeoordeling:** **Nog niet** betekent dat de cursist de competentie aan het opbouwen is en meer leerstof, oefening of een nieuwe kans nodig heeft – niet „nooit”. Docenten kunnen op elk moment terugkomen om opnieuw te beoordelen, bijvoorbeeld tijdens de les, in een pauze, in een extra gesprek of in een vervolgsessie. Stel privé vast wat de cursist nodig heeft, bied gerichte oefening en gebruik dezelfde activiteit of een geschikt equivalent. Verlaag de norm niet, gebruik aanwezigheid niet als vervanging en dwing de cursist niet om persoonlijke informatie te delen. Werk het Beoordelingsraster bij wanneer het nieuwe bewijs voldoende is.
+**Herbeoordeling:** **Nog niet** betekent dat de cursist de competentie aan het opbouwen is en meer leerstof, oefening of een nieuwe kans nodig heeft – niet „nooit”. Docenten kunnen op elk moment terugkomen om opnieuw te beoordelen, bijvoorbeeld tijdens de les, in een pauze, in een extra gesprek of in een vervolgsessie. Stel privé vast wat de cursist nodig heeft, bied gerichte oefening en gebruik dezelfde activiteit of een geschikt equivalent. Verlaag de norm niet, gebruik aanwezigheid niet als vervanging en dwing de cursist niet om persoonlijke informatie te delen. Werk het [Beoordelingsraster](https://cdn.sanity.io/files/vje9ehw2/staging/24fb3d1470d0f3c65703f4401bd70a0d82be9fb9.pdf) bij wanneer het nieuwe bewijs voldoende is.
 
 **Optionele ondersteuning voor docenten:** Als docenten samenwerken of zich onzeker voelen, kunnen zij een voorbeeld van **Ja** en **Nog niet** vergelijken, de norm bespreken of het aanbevolen opleidingsprogramma voor docenten volgen. Deze ondersteuning kan het zelfvertrouwen vergroten, maar is geen voorwaarde voor het uitreiken van certificaten.
 
@@ -175,7 +175,7 @@ Gebruik deze voorbeelden om oordelen vóór de uitvoering te vergelijken. Het zi
 | P7 — Voorbeeldvariant: simulatie van een vergelijking van lokale betaalroutes | De cursist voert de gesimuleerde betaalstappen veilig uit, controleert de ontvanger en het bedrag, en legt individueel het lokale doel uit, een realistisch alternatief, afwegingen, mogelijke knelpunten, de veiligheidsgrens en de volgende stap. Oordeel: Ja. | De cursist voert de stappen alleen uit op aanwijzing van de docent, slaat een vereiste controle over, of kan na toegestane ondersteuning het realistische alternatief en de veiligheidsreactie niet uitleggen. Oordeel: Nog niet; bied gerichte oefening en beoordeel opnieuw met dezelfde of een gelijkwaardige variant. |
 
 
-Deze voorbeelden vervangen niet de directe observatie, het Beoordelingsraster of de goedkeuring van de gekozen lokale `P7`-variant. Leg tijdens de kalibratie geen echte geheimen, private keys, wachtwoorden, saldi of onnodige persoonlijke informatie vast.
+Deze voorbeelden vervangen niet de directe observatie, het [Beoordelingsraster](https://cdn.sanity.io/files/vje9ehw2/staging/24fb3d1470d0f3c65703f4401bd70a0d82be9fb9.pdf) of de goedkeuring van de gekozen lokale `P7`-variant. Leg tijdens de kalibratie geen echte geheimen, private keys, wachtwoorden, saldi of onnodige persoonlijke informatie vast.
 
 Gebruik de voorbeelden en het activiteitenmateriaal die bij uw groep passen. Controleer vóór de uitvoering lokale hulpmiddelen, actuele feiten, de vertaling, de toegankelijkheid en de praktische veiligheid. Wanneer u een activiteit aanpast, houd dan het doel van de competentie en de veiligheid duidelijk voor ogen.
 

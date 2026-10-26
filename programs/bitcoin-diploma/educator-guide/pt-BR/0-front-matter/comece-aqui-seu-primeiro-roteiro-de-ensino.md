@@ -10,7 +10,7 @@ Para a sua primeira aplicação do curso, siga este roteiro:
 1. Escolha uma atividade principal e uma atividade reserva, consultando a [Biblioteca de Atividades](https://curriculum.myfirstbitcoin.org/activities/en/) para obter ideias quando for útil. Não tente usar todas as opções.
 1. Copie a competência da sessão e a regra de segurança no quadro ou no slide de abertura.
 1. Ensine nesta ordem: **explicar → perguntar → praticar → discutir → verificar**.
-1. Use a Grade de Avaliação e o protocolo operacional de avaliação quando estiver pronto para coletar evidências; uma discussão comum não é automaticamente uma avaliação.
+1. Use a [Grade de Avaliação](https://cdn.sanity.io/files/vje9ehw2/staging/a7ee3c856abf3e101d236a4edac470a259342547.pdf) e o protocolo operacional de avaliação quando estiver pronto para coletar evidências; uma discussão comum não é automaticamente uma avaliação.
 1. Depois da aula, anote o que os alunos entenderam, o que os confundiu, o que precisa ser verificado e o que você vai mudar na próxima vez.
 
 Se você tiver apenas dez minutos para se preparar, leia o objetivo do módulo, a promessa ao aluno, o fluxo sugerido, os prováveis pontos de dificuldade, as notas de segurança e o ponto de revisão. Isso é suficiente para conduzir uma primeira sessão segura enquanto você continua aprendendo.
