@@ -26,6 +26,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.11 | [بچت اور قدر محفوظ رکھنے کے متبادل طریقے](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ur/1/11.md) |
 |  | 1.12 | [مرکزی بینک کی ڈیجیٹل کرنسیاں (CBDCs)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ur/1/12-cbdcs.md) |
 |  | 1.13 | [دہرائی: پیسہ کیسے ناکام ہو سکتا ہے؟](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ur/1/13.md) |
+|  |  | [پیسے کی سمجھ: مختصر جائزہ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ur/1/_quiz.md) |
 | **[بٹ کوائن کیسے کام کرتا ہے](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/ur/2)** | 2.1 | [بٹ کوائن کیوں تخلیق کیا گیا](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ur/2/1.md) |
 |  | 2.2 | [ڈیجیٹل اور غیر مرکزی زر کی تلاش](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ur/2/2.md) |
 |  | 2.3 | [ڈیجیٹل رقم کی ابتدائی کوششیں اور دوہرے خرچ کا مسئلہ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ur/2/3.md) |
@@ -44,6 +45,7 @@ introduction, learning objectives, or notes for educators.
 |  | 2.16 | [بٹ کوائن کے آغاز کی زمانی ترتیب](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ur/2/16.md) |
 |  | 2.17 | [بااختیار بننا، خطرہ اور ذمہ داری](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ur/2/17.md) |
 |  | 2.18 | [جائزہ: بٹ کوائن زری نظام کی خامیوں کو کیسے دور کرتا ہے؟](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ur/2/18.md) |
+|  |  | [بٹ کوائن کیسے کام کرتا ہے: مختصر جائزہ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ur/2/_quiz.md) |
 | **[بٹ کوائن کا محفوظ استعمال](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/ur/3)** | 3.1 | [بٹ کوائن کا محفوظ استعمال](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ur/3/1.md) |
 |  | 3.2 | [والیٹس](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ur/3/2.md) |
 |  | 3.3 | [پتے](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ur/3/3.md) |
@@ -60,6 +62,7 @@ introduction, learning objectives, or notes for educators.
 |  | 3.14 | [آن چین اور لائٹننگ ادائیگیاں](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ur/3/14.md) |
 |  | 3.15 | [معلم کی نگرانی میں عملی قابلیت کی جانچ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ur/3/15.md) |
 |  | 3.16 | [دہرائی: خود تحویلی کی ذمہ داری سے کیا مراد ہے؟](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ur/3/16.md) |
+|  |  | [بٹ کوائن کا محفوظ استعمال: مختصر جائزہ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ur/3/_quiz.md) |
 | **[آپ کی کمیونٹی میں بٹ کوائن](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/ur/4)** | 4.1 | [آپ کی کمیونٹی میں بٹ کوائن](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ur/4/1.md) |
 |  | 4.2 | [آپ کا مقامی ماڈیول 4](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ur/4/2-4.md) |
 |  | 4.3 | [عملی ورکشاپس اور مظاہرے](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ur/4/3.md) |
@@ -74,4 +77,9 @@ introduction, learning objectives, or notes for educators.
 |  | 4.12 | [مقامی وسائل کے نقشے اور کمیونٹی کی دریافت](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ur/4/12.md) |
 |  | 4.13 | [جائزہ: اسے اپنی کمیونٹی سے جوڑیے](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ur/4/13.md) |
 |  |  | [اختیاری اگلے اقدامات](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ur/5-back-matter/untitled.md) |
+
+**Quizzes** (`_quiz.md`, one per module): the question, the choices and the
+explanation are text, and corrections are welcome. The ticked box is the answer
+key, shared by every language, so it is not changed from a pull request; nor is
+the number of questions or of choices.
 <!-- mfb:structure:end -->

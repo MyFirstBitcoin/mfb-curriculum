@@ -26,6 +26,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.11 | [Alternative per risparmiare e conservare valore](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/it/1-comprendere-il-denaro/11-alternative-per-risparmiare-e-conservare-valore.md) |
 |  | 1.12 | [Valute digitali delle banche centrali (CBDC)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/it/1-comprendere-il-denaro/12-valute-digitali-delle-banche-centrali-cbdc.md) |
 |  | 1.13 | [Ripasso: come può rompersi il denaro?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/it/1-comprendere-il-denaro/13-ripasso-come-puo-rompersi-il-denaro.md) |
+|  |  | [Comprendere il denaro: verifica rapida](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/it/1-comprendere-il-denaro/_quiz.md) |
 | **[Come funziona Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/it/2-come-funziona-bitcoin)** | 2.1 | [Perché è stato creato Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/it/2-come-funziona-bitcoin/1-perche-e-stato-creato-bitcoin.md) |
 |  | 2.2 | [La ricerca di una moneta digitale e decentralizzata](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/it/2-come-funziona-bitcoin/2-la-ricerca-di-una-moneta-digitale-e-decentralizzata.md) |
 |  | 2.3 | [I primi tentativi di moneta digitale e il problema della doppia spesa](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/it/2-come-funziona-bitcoin/3-i-primi-tentativi-di-moneta-digitale-e-il-problema-della-doppia-spesa.md) |
@@ -44,6 +45,7 @@ introduction, learning objectives, or notes for educators.
 |  | 2.16 | [Cronologia delle origini di Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/it/2-come-funziona-bitcoin/16-cronologia-delle-origini-di-bitcoin.md) |
 |  | 2.17 | [Emancipazione, rischio e responsabilità](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/it/2-come-funziona-bitcoin/17-emancipazione-rischio-e-responsabilita.md) |
 |  | 2.18 | [Ripasso: in che modo Bitcoin affronta i difetti monetari?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/it/2-come-funziona-bitcoin/18-ripasso-in-che-modo-bitcoin-affronta-i-difetti-monetari.md) |
+|  |  | [Come funziona Bitcoin: verifica rapida](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/it/2-come-funziona-bitcoin/_quiz.md) |
 | **[Usare Bitcoin in sicurezza](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/it/3-usare-bitcoin-in-sicurezza)** | 3.1 | [Usare Bitcoin in sicurezza](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/it/3-usare-bitcoin-in-sicurezza/1-usare-bitcoin-in-sicurezza.md) |
 |  | 3.2 | [Wallet](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/it/3-usare-bitcoin-in-sicurezza/2-wallet.md) |
 |  | 3.3 | [Indirizzi](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/it/3-usare-bitcoin-in-sicurezza/3-indirizzi.md) |
@@ -60,6 +62,7 @@ introduction, learning objectives, or notes for educators.
 |  | 3.14 | [Pagamenti on-chain e Lightning](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/it/3-usare-bitcoin-in-sicurezza/14-pagamenti-on-chain-e-lightning.md) |
 |  | 3.15 | [Verifica pratica delle competenze osservata da un educatore](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/it/3-usare-bitcoin-in-sicurezza/15-verifica-pratica-delle-competenze-osservata-da-un-educatore.md) |
 |  | 3.16 | [Ripasso: che cosa significa la responsabilità dell'autocustodia?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/it/3-usare-bitcoin-in-sicurezza/16-ripasso-che-cosa-significa-la-responsabilita-dell-autocustodia.md) |
+|  |  | [Usare Bitcoin in sicurezza: verifica rapida](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/it/3-usare-bitcoin-in-sicurezza/_quiz.md) |
 | **[Bitcoin nella Sua comunità](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/it/4-bitcoin-nella-sua-comunita)** | 4.1 | [Bitcoin nella Sua comunità](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/it/4-bitcoin-nella-sua-comunita/1-bitcoin-nella-sua-comunita.md) |
 |  | 4.2 | [Il Suo Modulo 4 locale](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/it/4-bitcoin-nella-sua-comunita/2-il-suo-modulo-4-locale.md) |
 |  | 4.3 | [Laboratori pratici e dimostrazioni](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/it/4-bitcoin-nella-sua-comunita/3-laboratori-pratici-e-dimostrazioni.md) |
@@ -74,4 +77,9 @@ introduction, learning objectives, or notes for educators.
 |  | 4.12 | [Mappe delle risorse locali e scoperta della comunità](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/it/4-bitcoin-nella-sua-comunita/12-mappe-delle-risorse-locali-e-scoperta-della-comunita.md) |
 |  | 4.13 | [Ripasso: colleghi questi concetti alla Sua comunità](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/it/4-bitcoin-nella-sua-comunita/13-ripasso-colleghi-questi-concetti-alla-sua-comunita.md) |
 |  |  | [Prossimi passi facoltativi](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/it/5-back-matter/prossimi-passi-facoltativi.md) |
+
+**Quizzes** (`_quiz.md`, one per module): the question, the choices and the
+explanation are text, and corrections are welcome. The ticked box is the answer
+key, shared by every language, so it is not changed from a pull request; nor is
+the number of questions or of choices.
 <!-- mfb:structure:end -->

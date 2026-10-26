@@ -26,6 +26,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.11 | [ทางเลือกในการออมและการเก็บรักษามูลค่า](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/th/1/11.md) |
 |  | 1.12 | [สกุลเงินดิจิทัลของธนาคารกลาง (CBDCs)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/th/1/12-cbdcs.md) |
 |  | 1.13 | [ทบทวน: เงินล้มเหลวได้อย่างไร?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/th/1/13.md) |
+|  |  | [ทำความเข้าใจเรื่องเงิน: แบบทดสอบสั้น](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/th/1/_quiz.md) |
 | **[บิตคอยน์ทำงานอย่างไร](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/th/2)** | 2.1 | [เหตุใดบิตคอยน์จึงถูกสร้างขึ้น](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/th/2/1.md) |
 |  | 2.2 | [การแสวงหาเงินดิจิทัลแบบกระจายศูนย์](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/th/2/2.md) |
 |  | 2.3 | [ความพยายามสร้างเงินดิจิทัลในยุคแรกและปัญหาการใช้จ่ายซ้ำ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/th/2/3.md) |
@@ -44,6 +45,7 @@ introduction, learning objectives, or notes for educators.
 |  | 2.16 | [ลำดับเวลาเกี่ยวกับจุดกำเนิดของบิตคอยน์](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/th/2/16.md) |
 |  | 2.17 | [การเสริมพลัง ความเสี่ยง และความรับผิดชอบ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/th/2/17.md) |
 |  | 2.18 | [ทบทวน: บิตคอยน์แก้ไขข้อบกพร่องของระบบการเงินอย่างไร?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/th/2/18.md) |
+|  |  | [บิตคอยน์ทำงานอย่างไร: แบบทดสอบสั้น](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/th/2/_quiz.md) |
 | **[การใช้บิตคอยน์อย่างปลอดภัย](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/th/3)** | 3.1 | [การใช้บิตคอยน์อย่างปลอดภัย](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/th/3/1.md) |
 |  | 3.2 | [กระเป๋าเงิน](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/th/3/2.md) |
 |  | 3.3 | [ที่อยู่](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/th/3/3.md) |
@@ -60,6 +62,7 @@ introduction, learning objectives, or notes for educators.
 |  | 3.14 | [การชำระเงินแบบออนเชนและผ่านไลท์นิง](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/th/3/14.md) |
 |  | 3.15 | [การตรวจสอบสมรรถนะภาคปฏิบัติโดยมีผู้สอนสังเกตการณ์](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/th/3/15.md) |
 |  | 3.16 | [ทบทวน: ความรับผิดชอบในการดูแลสินทรัพย์ด้วยตนเองหมายถึงอะไร?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/th/3/16.md) |
+|  |  | [การใช้บิตคอยน์อย่างปลอดภัย: แบบทดสอบสั้น](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/th/3/_quiz.md) |
 | **[บิตคอยน์ในชุมชนของคุณ](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/th/4)** | 4.1 | [บิตคอยน์ในชุมชนของคุณ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/th/4/1.md) |
 |  | 4.2 | [โมดูล 4 ในท้องถิ่นของคุณ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/th/4/2-4.md) |
 |  | 4.3 | [เวิร์กช็อปเชิงปฏิบัติและการสาธิต](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/th/4/3.md) |
@@ -74,4 +77,9 @@ introduction, learning objectives, or notes for educators.
 |  | 4.12 | [แผนที่ทรัพยากรในท้องถิ่นและการสำรวจชุมชน](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/th/4/12.md) |
 |  | 4.13 | [ทบทวน: เชื่อมโยงสิ่งนี้กับชุมชนของคุณ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/th/4/13.md) |
 |  |  | [ขั้นตอนถัดไปตามความสมัครใจ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/th/5-back-matter/untitled.md) |
+
+**Quizzes** (`_quiz.md`, one per module): the question, the choices and the
+explanation are text, and corrections are welcome. The ticked box is the answer
+key, shared by every language, so it is not changed from a pull request; nor is
+the number of questions or of choices.
 <!-- mfb:structure:end -->

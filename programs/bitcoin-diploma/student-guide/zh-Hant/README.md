@@ -26,6 +26,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.11 | [儲蓄與保值的替代方案](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/1/11.md) |
 |  | 1.12 | [央行數位貨幣（CBDC）](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/1/12-cbdc.md) |
 |  | 1.13 | [複習：貨幣如何崩壞？](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/1/13.md) |
+|  |  | [認識貨幣：小測驗](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/1/_quiz.md) |
 | **[比特幣如何運作](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/zh-Hant/2)** | 2.1 | [為何創造比特幣](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/2/1.md) |
 |  | 2.2 | [追尋數位化與去中心化的貨幣](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/2/2.md) |
 |  | 2.3 | [早期數位貨幣的嘗試與雙重支付問題](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/2/3.md) |
@@ -44,6 +45,7 @@ introduction, learning objectives, or notes for educators.
 |  | 2.16 | [比特幣起源時間軸](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/2/16.md) |
 |  | 2.17 | [賦權、風險與責任](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/2/17.md) |
 |  | 2.18 | [複習：比特幣如何解決貨幣的缺陷？](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/2/18.md) |
+|  |  | [比特幣如何運作：小測驗](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/2/_quiz.md) |
 | **[安全使用比特幣](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/zh-Hant/3)** | 3.1 | [安全使用比特幣](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/3/1.md) |
 |  | 3.2 | [錢包](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/3/2.md) |
 |  | 3.3 | [地址](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/3/3.md) |
@@ -60,6 +62,7 @@ introduction, learning objectives, or notes for educators.
 |  | 3.14 | [鏈上支付與閃電網路支付](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/3/14.md) |
 |  | 3.15 | [由教育工作者觀察的實作能力檢核](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/3/15.md) |
 |  | 3.16 | [複習：自行保管的責任代表什麼？](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/3/16.md) |
+|  |  | [安全使用比特幣：快速測驗](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/3/_quiz.md) |
 | **[比特幣在您的社區](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/zh-Hant/4)** | 4.1 | [比特幣在您的社區](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/4/1.md) |
 |  | 4.2 | [您的在地第 4 單元](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/4/2-4.md) |
 |  | 4.3 | [實作工作坊與示範](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/4/3.md) |
@@ -74,4 +77,9 @@ introduction, learning objectives, or notes for educators.
 |  | 4.12 | [在地資源地圖與社群探索](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/4/12.md) |
 |  | 4.13 | [複習：將所學與您的社群連結](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/4/13.md) |
 |  |  | [選擇性的後續步驟](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/5-back-matter/untitled.md) |
+
+**Quizzes** (`_quiz.md`, one per module): the question, the choices and the
+explanation are text, and corrections are welcome. The ticked box is the answer
+key, shared by every language, so it is not changed from a pull request; nor is
+the number of questions or of choices.
 <!-- mfb:structure:end -->

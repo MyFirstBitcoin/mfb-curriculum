@@ -26,6 +26,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.11 | [Εναλλακτικές για αποταμίευση και διατήρηση της αξίας](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/1/11.md) |
 |  | 1.12 | [Ψηφιακά Νομίσματα Κεντρικών Τραπεζών (CBDCs)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/1/12-cbdcs.md) |
 |  | 1.13 | [Ανασκόπηση: Πώς μπορεί να χαλάσει το χρήμα;](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/1/13.md) |
+|  |  | [Κατανοώντας το χρήμα: σύντομος έλεγχος γνώσεων](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/1/_quiz.md) |
 | **[Πώς λειτουργεί το Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/el/2-bitcoin)** | 2.1 | [Γιατί δημιουργήθηκε το Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/2-bitcoin/1-bitcoin.md) |
 |  | 2.2 | [Η αναζήτηση ψηφιακού και αποκεντρωμένου χρήματος](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/2-bitcoin/2.md) |
 |  | 2.3 | [Πρώιμες προσπάθειες δημιουργίας ψηφιακού χρήματος και το πρόβλημα της διπλής δαπάνης](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/2-bitcoin/3.md) |
@@ -44,6 +45,7 @@ introduction, learning objectives, or notes for educators.
 |  | 2.16 | [Χρονολόγιο της δημιουργίας του Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/2-bitcoin/16-bitcoin.md) |
 |  | 2.17 | [Ενδυνάμωση, κίνδυνος και ευθύνη](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/2-bitcoin/17.md) |
 |  | 2.18 | [Ανασκόπηση: Πώς αντιμετωπίζει το Bitcoin τις αδυναμίες του νομισματικού συστήματος;](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/2-bitcoin/18-bitcoin.md) |
+|  |  | [Πώς λειτουργεί το Bitcoin: σύντομος έλεγχος γνώσεων](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/2-bitcoin/_quiz.md) |
 | **[Ασφαλής χρήση του Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/el/3-bitcoin)** | 3.1 | [Ασφαλής χρήση του Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/3-bitcoin/1-bitcoin.md) |
 |  | 3.2 | [Πορτοφόλια](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/3-bitcoin/2.md) |
 |  | 3.3 | [Διευθύνσεις](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/3-bitcoin/3.md) |
@@ -60,6 +62,7 @@ introduction, learning objectives, or notes for educators.
 |  | 3.14 | [Πληρωμές εντός αλυσίδας και μέσω Lightning](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/3-bitcoin/14-lightning.md) |
 |  | 3.15 | [Έλεγχος πρακτικών δεξιοτήτων υπό την επίβλεψη εκπαιδευτικού](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/3-bitcoin/15.md) |
 |  | 3.16 | [Επανάληψη: Τι σημαίνει η ευθύνη της αυτοθεματοφυλακής;](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/3-bitcoin/16.md) |
+|  |  | [Ασφαλής χρήση του Bitcoin: σύντομος έλεγχος γνώσεων](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/3-bitcoin/_quiz.md) |
 | **[Το Bitcoin στην κοινότητά σας](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/el/4-bitcoin)** | 4.1 | [Το Bitcoin στην κοινότητά σας](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/4-bitcoin/1-bitcoin.md) |
 |  | 4.2 | [Η τοπική σας Ενότητα 4](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/4-bitcoin/2-4.md) |
 |  | 4.3 | [Πρακτικά εργαστήρια και επιδείξεις](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/4-bitcoin/3.md) |
@@ -74,4 +77,9 @@ introduction, learning objectives, or notes for educators.
 |  | 4.12 | [Χάρτες τοπικών πόρων και γνωριμία με την κοινότητα](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/4-bitcoin/12.md) |
 |  | 4.13 | [Ανασκόπηση: Συνδέστε το με την κοινότητά σας](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/4-bitcoin/13.md) |
 |  |  | [Προαιρετικά επόμενα βήματα](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/5-back-matter/untitled.md) |
+
+**Quizzes** (`_quiz.md`, one per module): the question, the choices and the
+explanation are text, and corrections are welcome. The ticked box is the answer
+key, shared by every language, so it is not changed from a pull request; nor is
+the number of questions or of choices.
 <!-- mfb:structure:end -->

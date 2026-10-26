@@ -26,6 +26,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.11 | [Tasarruf etme ve değer saklama alternatifleri](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/tr/1-paray-anlamak/11-tasarruf-etme-ve-deger-saklama-alternatifleri.md) |
 |  | 1.12 | [Merkez Bankası Dijital Paraları (CBDC'ler)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/tr/1-paray-anlamak/12-merkez-bankas-dijital-paralar-cbdc-ler.md) |
 |  | 1.13 | [Gözden Geçirme: Para nasıl bozulabilir?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/tr/1-paray-anlamak/13-gozden-gecirme-para-nas-l-bozulabilir.md) |
+|  |  | [Parayı Anlamak: kısa değerlendirme](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/tr/1-paray-anlamak/_quiz.md) |
 | **[Bitcoin Nasıl Çalışır?](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/tr/2-bitcoin-nas-l-cal-s-r)** | 2.1 | [Bitcoin Neden Yaratıldı](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/tr/2-bitcoin-nas-l-cal-s-r/1-bitcoin-neden-yarat-ld.md) |
 |  | 2.2 | [Dijital ve merkeziyetsiz para arayışı](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/tr/2-bitcoin-nas-l-cal-s-r/2-dijital-ve-merkeziyetsiz-para-aray-s.md) |
 |  | 2.3 | [Erken dijital para girişimleri ve çifte harcama sorunu](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/tr/2-bitcoin-nas-l-cal-s-r/3-erken-dijital-para-girisimleri-ve-cifte-harcama-sorunu.md) |
@@ -44,6 +45,7 @@ introduction, learning objectives, or notes for educators.
 |  | 2.16 | [Bitcoin'in doğuşunun zaman çizelgesi](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/tr/2-bitcoin-nas-l-cal-s-r/16-bitcoin-in-dogusunun-zaman-cizelgesi.md) |
 |  | 2.17 | [Güçlenme, risk ve sorumluluk](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/tr/2-bitcoin-nas-l-cal-s-r/17-guclenme-risk-ve-sorumluluk.md) |
 |  | 2.18 | [Gözden Geçirme: Bitcoin Parasal Kusurlara Nasıl Çözüm Getiriyor?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/tr/2-bitcoin-nas-l-cal-s-r/18-gozden-gecirme-bitcoin-parasal-kusurlara-nas-l-cozum-getiriyor.md) |
+|  |  | [Bitcoin Nasıl Çalışır: kısa değerlendirme](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/tr/2-bitcoin-nas-l-cal-s-r/_quiz.md) |
 | **[Bitcoin'i Güvenli Bir Şekilde Kullanmak](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/tr/3-bitcoin-i-guvenli-bir-sekilde-kullanmak)** | 3.1 | [Bitcoin'i Güvenli Bir Şekilde Kullanmak](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/tr/3-bitcoin-i-guvenli-bir-sekilde-kullanmak/1-bitcoin-i-guvenli-bir-sekilde-kullanmak.md) |
 |  | 3.2 | [Cüzdanlar](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/tr/3-bitcoin-i-guvenli-bir-sekilde-kullanmak/2-cuzdanlar.md) |
 |  | 3.3 | [Adresler](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/tr/3-bitcoin-i-guvenli-bir-sekilde-kullanmak/3-adresler.md) |
@@ -60,6 +62,7 @@ introduction, learning objectives, or notes for educators.
 |  | 3.14 | [Zincir üstü ve Lightning ödemeleri](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/tr/3-bitcoin-i-guvenli-bir-sekilde-kullanmak/14-zincir-ustu-ve-lightning-odemeleri.md) |
 |  | 3.15 | [Eğitmen gözetiminde uygulamalı yeterlilik kontrolü](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/tr/3-bitcoin-i-guvenli-bir-sekilde-kullanmak/15-egitmen-gozetiminde-uygulamal-yeterlilik-kontrolu.md) |
 |  | 3.16 | [Gözden Geçirme: Öz saklama sorumluluğu ne anlama gelir?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/tr/3-bitcoin-i-guvenli-bir-sekilde-kullanmak/16-gozden-gecirme-oz-saklama-sorumlulugu-ne-anlama-gelir.md) |
+|  |  | [Bitcoin'i Güvenle Kullanmak: kısa kontrol](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/tr/3-bitcoin-i-guvenli-bir-sekilde-kullanmak/_quiz.md) |
 | **[Topluluğunuzda Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/tr/4-toplulugunuzda-bitcoin)** | 4.1 | [Topluluğunuzda Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/tr/4-toplulugunuzda-bitcoin/1-toplulugunuzda-bitcoin.md) |
 |  | 4.2 | [Yerel Modül 4'ünüz](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/tr/4-toplulugunuzda-bitcoin/2-yerel-modul-4-unuz.md) |
 |  | 4.3 | [Uygulamalı atölyeler ve gösterimler](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/tr/4-toplulugunuzda-bitcoin/3-uygulamal-atolyeler-ve-gosterimler.md) |
@@ -74,4 +77,9 @@ introduction, learning objectives, or notes for educators.
 |  | 4.12 | [Yerel kaynak haritaları ve topluluk keşfi](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/tr/4-toplulugunuzda-bitcoin/12-yerel-kaynak-haritalar-ve-topluluk-kesfi.md) |
 |  | 4.13 | [Gözden Geçirme: Bunu Topluluğunuzla İlişkilendirin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/tr/4-toplulugunuzda-bitcoin/13-gozden-gecirme-bunu-toplulugunuzla-iliskilendirin.md) |
 |  |  | [İsteğe Bağlı Sonraki Adımlar](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/tr/5-back-matter/istege-bagl-sonraki-ad-mlar.md) |
+
+**Quizzes** (`_quiz.md`, one per module): the question, the choices and the
+explanation are text, and corrections are welcome. The ticked box is the answer
+key, shared by every language, so it is not changed from a pull request; nor is
+the number of questions or of choices.
 <!-- mfb:structure:end -->

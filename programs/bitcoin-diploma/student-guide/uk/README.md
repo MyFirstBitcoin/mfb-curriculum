@@ -26,6 +26,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.11 | [Альтернативні способи заощадження та збереження вартості](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/uk/1/11.md) |
 |  | 1.12 | [Цифрові валюти центральних банків (CBDC)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/uk/1/12-cbdc.md) |
 |  | 1.13 | [Повторення: як гроші можуть зламатися?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/uk/1/13.md) |
+|  |  | [Розуміння грошей: коротка перевірка знань](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/uk/1/_quiz.md) |
 | **[Як працює Біткоїн](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/uk/2)** | 2.1 | [Чому було створено Біткоїн](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/uk/2/1.md) |
 |  | 2.2 | [Пошук цифрових і децентралізованих грошей](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/uk/2/2.md) |
 |  | 2.3 | [Ранні спроби створення цифрових грошей і проблема подвійного витрачання](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/uk/2/3.md) |
@@ -44,6 +45,7 @@ introduction, learning objectives, or notes for educators.
 |  | 2.16 | [Хронологія виникнення Біткоїна](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/uk/2/16.md) |
 |  | 2.17 | [Розширення можливостей, ризик і відповідальність](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/uk/2/17.md) |
 |  | 2.18 | [Повторення: як Біткоїн усуває недоліки грошової системи?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/uk/2/18.md) |
+|  |  | [Як працює Біткоїн: коротка перевірка знань](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/uk/2/_quiz.md) |
 | **[Безпечне використання Біткоїна](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/uk/3)** | 3.1 | [Безпечне використання Біткоїна](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/uk/3/1.md) |
 |  | 3.2 | [Гаманці](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/uk/3/2.md) |
 |  | 3.3 | [Адреси](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/uk/3/3.md) |
@@ -60,6 +62,7 @@ introduction, learning objectives, or notes for educators.
 |  | 3.14 | [Ончейн-платежі та платежі Lightning](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/uk/3/14-lightning.md) |
 |  | 3.15 | [Перевірка практичних навичок під наглядом викладача](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/uk/3/15.md) |
 |  | 3.16 | [Повторення: що означає відповідальність за самостійне зберігання?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/uk/3/16.md) |
+|  |  | [Безпечне використання Біткоїна: коротка перевірка](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/uk/3/_quiz.md) |
 | **[Біткоїн у Вашій громаді](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/uk/4)** | 4.1 | [Біткоїн у Вашій громаді](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/uk/4/1.md) |
 |  | 4.2 | [Ваш локальний модуль 4](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/uk/4/2-4.md) |
 |  | 4.3 | [Практичні майстер-класи та демонстрації](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/uk/4/3.md) |
@@ -74,4 +77,9 @@ introduction, learning objectives, or notes for educators.
 |  | 4.12 | [Карти місцевих ресурсів і знайомство з громадою](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/uk/4/12.md) |
 |  | 4.13 | [Повторення: пов’яжіть це з вашою громадою](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/uk/4/13.md) |
 |  |  | [Необов’язкові подальші кроки](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/uk/5-back-matter/untitled.md) |
+
+**Quizzes** (`_quiz.md`, one per module): the question, the choices and the
+explanation are text, and corrections are welcome. The ticked box is the answer
+key, shared by every language, so it is not changed from a pull request; nor is
+the number of questions or of choices.
 <!-- mfb:structure:end -->

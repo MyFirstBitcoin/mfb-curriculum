@@ -26,6 +26,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.11 | [সঞ্চয় ও মূল্য সংরক্ষণের বিকল্পসমূহ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bn/1/11.md) |
 |  | 1.12 | [কেন্দ্রীয় ব্যাংকের ডিজিটাল মুদ্রা (CBDCs)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bn/1/12-cbdcs.md) |
 |  | 1.13 | [পর্যালোচনা: অর্থ কীভাবে অকার্যকর হয়ে পড়তে পারে?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bn/1/13.md) |
+|  |  | [অর্থকে বোঝা: সংক্ষিপ্ত যাচাই](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bn/1/_quiz.md) |
 | **[বিটকয়েন কীভাবে কাজ করে](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/bn/2)** | 2.1 | [বিটকয়েন কেন তৈরি করা হয়েছিল](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bn/2/1.md) |
 |  | 2.2 | [ডিজিটাল ও বিকেন্দ্রীভূত অর্থের সন্ধান](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bn/2/2.md) |
 |  | 2.3 | [ডিজিটাল অর্থের প্রাথমিক প্রচেষ্টা ও দ্বৈত ব্যয়ের সমস্যা](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bn/2/3.md) |
@@ -44,6 +45,7 @@ introduction, learning objectives, or notes for educators.
 |  | 2.16 | [বিটকয়েনের উৎপত্তির সময়রেখা](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bn/2/16.md) |
 |  | 2.17 | [ক্ষমতায়ন, ঝুঁকি ও দায়িত্ব](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bn/2/17.md) |
 |  | 2.18 | [পর্যালোচনা: বিটকয়েন কীভাবে মুদ্রাব্যবস্থার ত্রুটিগুলোর মোকাবিলা করে?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bn/2/18.md) |
+|  |  | [বিটকয়েন যেভাবে কাজ করে: সংক্ষিপ্ত যাচাই](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bn/2/_quiz.md) |
 | **[নিরাপদে বিটকয়েন ব্যবহার](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/bn/3)** | 3.1 | [নিরাপদে বিটকয়েন ব্যবহার](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bn/3/1.md) |
 |  | 3.2 | [ওয়ালেটসমূহ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bn/3/2.md) |
 |  | 3.3 | [ঠিকানা](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bn/3/3.md) |
@@ -60,6 +62,7 @@ introduction, learning objectives, or notes for educators.
 |  | 3.14 | [অন-চেইন ও লাইটনিং পেমেন্ট](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bn/3/14.md) |
 |  | 3.15 | [একজন শিক্ষকের পর্যবেক্ষণে ব্যবহারিক দক্ষতা যাচাই](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bn/3/15.md) |
 |  | 3.16 | [পুনরালোচনা: নিজ হেফাজতে রাখার দায়িত্ব বলতে কী বোঝায়?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bn/3/16.md) |
+|  |  | [নিরাপদে বিটকয়েন ব্যবহার: সংক্ষিপ্ত যাচাই](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bn/3/_quiz.md) |
 | **[আপনার কমিউনিটিতে বিটকয়েন](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/bn/4)** | 4.1 | [আপনার কমিউনিটিতে বিটকয়েন](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bn/4/1.md) |
 |  | 4.2 | [আপনার স্থানীয় মডিউল 4](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bn/4/2-4.md) |
 |  | 4.3 | [ব্যবহারিক কর্মশালা ও প্রদর্শনী](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bn/4/3.md) |
@@ -74,4 +77,9 @@ introduction, learning objectives, or notes for educators.
 |  | 4.12 | [স্থানীয় সম্পদের মানচিত্র ও কমিউনিটি অন্বেষণ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bn/4/12.md) |
 |  | 4.13 | [পর্যালোচনা: এটিকে আপনার সম্প্রদায়ের সঙ্গে যুক্ত করুন](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bn/4/13.md) |
 |  |  | [ঐচ্ছিক পরবর্তী পদক্ষেপসমূহ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bn/5-back-matter/untitled.md) |
+
+**Quizzes** (`_quiz.md`, one per module): the question, the choices and the
+explanation are text, and corrections are welcome. The ticked box is the answer
+key, shared by every language, so it is not changed from a pull request; nor is
+the number of questions or of choices.
 <!-- mfb:structure:end -->

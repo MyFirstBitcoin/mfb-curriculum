@@ -26,6 +26,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.11 | [Alternativy spoření a uchovávání hodnoty](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/cs/1-porozumeni-penezum/11-alternativy-sporeni-a-uchovavani-hodnoty.md) |
 |  | 1.12 | [Digitální měny centrálních bank (CBDC)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/cs/1-porozumeni-penezum/12-digitalni-meny-centralnich-bank-cbdc.md) |
 |  | 1.13 | [Opakování: Jak mohou peníze selhat?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/cs/1-porozumeni-penezum/13-opakovani-jak-mohou-penize-selhat.md) |
+|  |  | [Porozumění penězům: rychlé ověření znalostí](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/cs/1-porozumeni-penezum/_quiz.md) |
 | **[Jak funguje Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/cs/2-jak-funguje-bitcoin)** | 2.1 | [Proč byl Bitcoin vytvořen](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/cs/2-jak-funguje-bitcoin/1-proc-byl-bitcoin-vytvoren.md) |
 |  | 2.2 | [Hledání digitálních a decentralizovaných peněz](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/cs/2-jak-funguje-bitcoin/2-hledani-digitalnich-a-decentralizovanych-penez.md) |
 |  | 2.3 | [Rané pokusy o digitální peníze a problém dvojího utrácení](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/cs/2-jak-funguje-bitcoin/3-rane-pokusy-o-digitalni-penize-a-problem-dvojiho-utraceni.md) |
@@ -44,6 +45,7 @@ introduction, learning objectives, or notes for educators.
 |  | 2.16 | [Časová osa vzniku Bitcoinu](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/cs/2-jak-funguje-bitcoin/16-casova-osa-vzniku-bitcoinu.md) |
 |  | 2.17 | [Posílení postavení, riziko a odpovědnost](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/cs/2-jak-funguje-bitcoin/17-posileni-postaveni-riziko-a-odpovednost.md) |
 |  | 2.18 | [Opakování: Jak Bitcoin řeší nedostatky peněžního systému?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/cs/2-jak-funguje-bitcoin/18-opakovani-jak-bitcoin-resi-nedostatky-penezniho-systemu.md) |
+|  |  | [Jak funguje Bitcoin: rychlé ověření znalostí](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/cs/2-jak-funguje-bitcoin/_quiz.md) |
 | **[Bezpečné používání Bitcoinu](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/cs/3-bezpecne-pouzivani-bitcoinu)** | 3.1 | [Bezpečné používání Bitcoinu](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/cs/3-bezpecne-pouzivani-bitcoinu/1-bezpecne-pouzivani-bitcoinu.md) |
 |  | 3.2 | [Peněženky](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/cs/3-bezpecne-pouzivani-bitcoinu/2-penezenky.md) |
 |  | 3.3 | [Adresy](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/cs/3-bezpecne-pouzivani-bitcoinu/3-adresy.md) |
@@ -60,6 +62,7 @@ introduction, learning objectives, or notes for educators.
 |  | 3.14 | [On-chain platby a platby přes Lightning](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/cs/3-bezpecne-pouzivani-bitcoinu/14-on-chain-platby-a-platby-pres-lightning.md) |
 |  | 3.15 | [Ověření praktických dovedností pod dohledem vyučujícího](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/cs/3-bezpecne-pouzivani-bitcoinu/15-overeni-praktickych-dovednosti-pod-dohledem-vyucujiciho.md) |
 |  | 3.16 | [Opakování: Co znamená odpovědnost spojená s vlastní úschovou?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/cs/3-bezpecne-pouzivani-bitcoinu/16-opakovani-co-znamena-odpovednost-spojena-s-vlastni-uschovou.md) |
+|  |  | [Bezpečné používání Bitcoinu: krátký test](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/cs/3-bezpecne-pouzivani-bitcoinu/_quiz.md) |
 | **[Bitcoin ve vaší komunitě](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/cs/4-bitcoin-ve-vasi-komunite)** | 4.1 | [Bitcoin ve vaší komunitě](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/cs/4-bitcoin-ve-vasi-komunite/1-bitcoin-ve-vasi-komunite.md) |
 |  | 4.2 | [Váš místní modul 4](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/cs/4-bitcoin-ve-vasi-komunite/2-vas-mistni-modul-4.md) |
 |  | 4.3 | [Praktické workshopy a ukázky](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/cs/4-bitcoin-ve-vasi-komunite/3-prakticke-workshopy-a-ukazky.md) |
@@ -74,4 +77,9 @@ introduction, learning objectives, or notes for educators.
 |  | 4.12 | [Mapy místních zdrojů a poznávání komunity](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/cs/4-bitcoin-ve-vasi-komunite/12-mapy-mistnich-zdroju-a-poznavani-komunity.md) |
 |  | 4.13 | [Opakování: Propojte toto téma se svou komunitou](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/cs/4-bitcoin-ve-vasi-komunite/13-opakovani-propojte-toto-tema-se-svou-komunitou.md) |
 |  |  | [Volitelné další kroky](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/cs/5-back-matter/volitelne-dalsi-kroky.md) |
+
+**Quizzes** (`_quiz.md`, one per module): the question, the choices and the
+explanation are text, and corrections are welcome. The ticked box is the answer
+key, shared by every language, so it is not changed from a pull request; nor is
+the number of questions or of choices.
 <!-- mfb:structure:end -->

@@ -26,6 +26,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.11 | [Vaihtoehtoja säästämiseen ja arvon säilyttämiseen](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fi/1-rahan-ymmartaminen/11-vaihtoehtoja-saastamiseen-ja-arvon-sailyttamiseen.md) |
 |  | 1.12 | [Keskuspankkien digitaaliset valuutat (CBDC:t)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fi/1-rahan-ymmartaminen/12-keskuspankkien-digitaaliset-valuutat-cbdc-t.md) |
 |  | 1.13 | [Kertaus: Miten raha voi mennä rikki?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fi/1-rahan-ymmartaminen/13-kertaus-miten-raha-voi-menna-rikki.md) |
+|  |  | [Rahan ymmärtäminen: pikatesti](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fi/1-rahan-ymmartaminen/_quiz.md) |
 | **[Miten Bitcoin toimii](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/fi/2-miten-bitcoin-toimii)** | 2.1 | [Miksi Bitcoin luotiin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fi/2-miten-bitcoin-toimii/1-miksi-bitcoin-luotiin.md) |
 |  | 2.2 | [Digitaalisen ja hajautetun rahan etsintä](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fi/2-miten-bitcoin-toimii/2-digitaalisen-ja-hajautetun-rahan-etsinta.md) |
 |  | 2.3 | [Varhaiset digitaalisen rahan kokeilut ja kaksoiskulutuksen ongelma](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fi/2-miten-bitcoin-toimii/3-varhaiset-digitaalisen-rahan-kokeilut-ja-kaksoiskulutuksen-ongelma.md) |
@@ -44,6 +45,7 @@ introduction, learning objectives, or notes for educators.
 |  | 2.16 | [Bitcoinin synnyn aikajana](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fi/2-miten-bitcoin-toimii/16-bitcoinin-synnyn-aikajana.md) |
 |  | 2.17 | [Voimaantuminen, riski ja vastuu](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fi/2-miten-bitcoin-toimii/17-voimaantuminen-riski-ja-vastuu.md) |
 |  | 2.18 | [Kertaus: Miten Bitcoin korjaa rahajärjestelmän puutteita?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fi/2-miten-bitcoin-toimii/18-kertaus-miten-bitcoin-korjaa-rahajarjestelman-puutteita.md) |
+|  |  | [Miten Bitcoin toimii: pikatesti](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fi/2-miten-bitcoin-toimii/_quiz.md) |
 | **[Bitcoinin turvallinen käyttö](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/fi/3-bitcoinin-turvallinen-kaytto)** | 3.1 | [Bitcoinin turvallinen käyttö](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fi/3-bitcoinin-turvallinen-kaytto/1-bitcoinin-turvallinen-kaytto.md) |
 |  | 3.2 | [Lompakot](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fi/3-bitcoinin-turvallinen-kaytto/2-lompakot.md) |
 |  | 3.3 | [Osoitteet](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fi/3-bitcoinin-turvallinen-kaytto/3-osoitteet.md) |
@@ -60,6 +62,7 @@ introduction, learning objectives, or notes for educators.
 |  | 3.14 | [Lohkoketju- ja Lightning-maksut](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fi/3-bitcoinin-turvallinen-kaytto/14-lohkoketju-ja-lightning-maksut.md) |
 |  | 3.15 | [Opettajan havainnoima käytännön osaamisen arviointi](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fi/3-bitcoinin-turvallinen-kaytto/15-opettajan-havainnoima-kaytannon-osaamisen-arviointi.md) |
 |  | 3.16 | [Kertaus: Mitä omasäilytykseen liittyvä vastuu tarkoittaa?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fi/3-bitcoinin-turvallinen-kaytto/16-kertaus-mita-omasailytykseen-liittyva-vastuu-tarkoittaa.md) |
+|  |  | [Bitcoinin turvallinen käyttö: pikatesti](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fi/3-bitcoinin-turvallinen-kaytto/_quiz.md) |
 | **[Bitcoin yhteisössänne](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/fi/4-bitcoin-yhteisossanne)** | 4.1 | [Bitcoin yhteisössänne](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fi/4-bitcoin-yhteisossanne/1-bitcoin-yhteisossanne.md) |
 |  | 4.2 | [Paikallinen moduulinne 4](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fi/4-bitcoin-yhteisossanne/2-paikallinen-moduulinne-4.md) |
 |  | 4.3 | [Käytännön työpajat ja esittelyt](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fi/4-bitcoin-yhteisossanne/3-kaytannon-tyopajat-ja-esittelyt.md) |
@@ -74,4 +77,9 @@ introduction, learning objectives, or notes for educators.
 |  | 4.12 | [Paikalliset resurssikartat ja yhteisöön tutustuminen](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fi/4-bitcoin-yhteisossanne/12-paikalliset-resurssikartat-ja-yhteisoon-tutustuminen.md) |
 |  | 4.13 | [Kertaus: Yhdistäkää tämä omaan yhteisöönne](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fi/4-bitcoin-yhteisossanne/13-kertaus-yhdistakaa-tama-omaan-yhteisoonne.md) |
 |  |  | [Valinnaiset seuraavat vaiheet](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fi/5-back-matter/valinnaiset-seuraavat-vaiheet.md) |
+
+**Quizzes** (`_quiz.md`, one per module): the question, the choices and the
+explanation are text, and corrections are welcome. The ticked box is the answer
+key, shared by every language, so it is not changed from a pull request; nor is
+the number of questions or of choices.
 <!-- mfb:structure:end -->

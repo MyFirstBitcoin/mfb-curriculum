@@ -26,6 +26,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.11 | [Alternativer for sparing og verdibevaring](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nb/1-a-forsta-penger/11-alternativer-for-sparing-og-verdibevaring.md) |
 |  | 1.12 | [Digitale sentralbankpenger (CBDC)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nb/1-a-forsta-penger/12-digitale-sentralbankpenger-cbdc.md) |
 |  | 1.13 | [Repetisjon: Hvordan kan penger svikte?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nb/1-a-forsta-penger/13-repetisjon-hvordan-kan-penger-svikte.md) |
+|  |  | [Forstå penger: rask kunnskapssjekk](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nb/1-a-forsta-penger/_quiz.md) |
 | **[Hvordan Bitcoin fungerer](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/nb/2-hvordan-bitcoin-fungerer)** | 2.1 | [Hvorfor Bitcoin ble skapt](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nb/2-hvordan-bitcoin-fungerer/1-hvorfor-bitcoin-ble-skapt.md) |
 |  | 2.2 | [Jakten på digitale og desentraliserte penger](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nb/2-hvordan-bitcoin-fungerer/2-jakten-pa-digitale-og-desentraliserte-penger.md) |
 |  | 2.3 | [Tidlige forsøk på digitale penger og problemet med dobbeltbruk](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nb/2-hvordan-bitcoin-fungerer/3-tidlige-fors-k-pa-digitale-penger-og-problemet-med-dobbeltbruk.md) |
@@ -44,6 +45,7 @@ introduction, learning objectives, or notes for educators.
 |  | 2.16 | [Tidslinje for Bitcoins opprinnelse](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nb/2-hvordan-bitcoin-fungerer/16-tidslinje-for-bitcoins-opprinnelse.md) |
 |  | 2.17 | [Myndiggjøring, risiko og ansvar](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nb/2-hvordan-bitcoin-fungerer/17-myndiggj-ring-risiko-og-ansvar.md) |
 |  | 2.18 | [Repetisjon: Hvordan løser Bitcoin svakheter ved pengesystemet?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nb/2-hvordan-bitcoin-fungerer/18-repetisjon-hvordan-l-ser-bitcoin-svakheter-ved-pengesystemet.md) |
+|  |  | [Slik fungerer Bitcoin: rask kunnskapssjekk](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nb/2-hvordan-bitcoin-fungerer/_quiz.md) |
 | **[Trygg bruk av Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/nb/3-trygg-bruk-av-bitcoin)** | 3.1 | [Trygg bruk av Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nb/3-trygg-bruk-av-bitcoin/1-trygg-bruk-av-bitcoin.md) |
 |  | 3.2 | [Lommebøker](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nb/3-trygg-bruk-av-bitcoin/2-lommeb-ker.md) |
 |  | 3.3 | [Adresser](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nb/3-trygg-bruk-av-bitcoin/3-adresser.md) |
@@ -60,6 +62,7 @@ introduction, learning objectives, or notes for educators.
 |  | 3.14 | [On-chain- og Lightning-betalinger](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nb/3-trygg-bruk-av-bitcoin/14-on-chain-og-lightning-betalinger.md) |
 |  | 3.15 | [Praktisk kompetansevurdering observert av en lærer](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nb/3-trygg-bruk-av-bitcoin/15-praktisk-kompetansevurdering-observert-av-en-l-rer.md) |
 |  | 3.16 | [Repetisjon: Hva innebærer ansvaret ved egenforvaring?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nb/3-trygg-bruk-av-bitcoin/16-repetisjon-hva-inneb-rer-ansvaret-ved-egenforvaring.md) |
+|  |  | [Trygg bruk av Bitcoin: rask kunnskapssjekk](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nb/3-trygg-bruk-av-bitcoin/_quiz.md) |
 | **[Bitcoin i Deres lokalsamfunn](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/nb/4-bitcoin-i-deres-lokalsamfunn)** | 4.1 | [Bitcoin i Deres lokalsamfunn](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nb/4-bitcoin-i-deres-lokalsamfunn/1-bitcoin-i-deres-lokalsamfunn.md) |
 |  | 4.2 | [Deres lokale modul 4](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nb/4-bitcoin-i-deres-lokalsamfunn/2-deres-lokale-modul-4.md) |
 |  | 4.3 | [Praktiske verksteder og demonstrasjoner](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nb/4-bitcoin-i-deres-lokalsamfunn/3-praktiske-verksteder-og-demonstrasjoner.md) |
@@ -74,4 +77,9 @@ introduction, learning objectives, or notes for educators.
 |  | 4.12 | [Kart over lokale ressurser og utforsking av lokalsamfunnet](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nb/4-bitcoin-i-deres-lokalsamfunn/12-kart-over-lokale-ressurser-og-utforsking-av-lokalsamfunnet.md) |
 |  | 4.13 | [Repetisjon: Knytt dette til Deres lokalsamfunn](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nb/4-bitcoin-i-deres-lokalsamfunn/13-repetisjon-knytt-dette-til-deres-lokalsamfunn.md) |
 |  |  | [Valgfrie neste steg](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nb/5-back-matter/valgfrie-neste-steg.md) |
+
+**Quizzes** (`_quiz.md`, one per module): the question, the choices and the
+explanation are text, and corrections are welcome. The ticked box is the answer
+key, shared by every language, so it is not changed from a pull request; nor is
+the number of questions or of choices.
 <!-- mfb:structure:end -->

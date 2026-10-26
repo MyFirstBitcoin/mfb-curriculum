@@ -26,6 +26,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.11 | [Alternative pentru economisire și păstrarea valorii](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ro/1-intelegerea-banilor/11-alternative-pentru-economisire-si-pastrarea-valorii.md) |
 |  | 1.12 | [Monede digitale ale băncilor centrale (CBDC)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ro/1-intelegerea-banilor/12-monede-digitale-ale-bancilor-centrale-cbdc.md) |
 |  | 1.13 | [Recapitulare: Cum pot înceta banii să funcționeze?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ro/1-intelegerea-banilor/13-recapitulare-cum-pot-inceta-banii-sa-functioneze.md) |
+|  |  | [Înțelegerea banilor: verificare rapidă](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ro/1-intelegerea-banilor/_quiz.md) |
 | **[Cum funcționează Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/ro/2-cum-functioneaza-bitcoin)** | 2.1 | [De ce a fost creat Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ro/2-cum-functioneaza-bitcoin/1-de-ce-a-fost-creat-bitcoin.md) |
 |  | 2.2 | [Căutarea unor bani digitali și descentralizați](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ro/2-cum-functioneaza-bitcoin/2-cautarea-unor-bani-digitali-si-descentralizati.md) |
 |  | 2.3 | [Primele încercări de creare a banilor digitali și problema dublei cheltuieli](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ro/2-cum-functioneaza-bitcoin/3-primele-incercari-de-creare-a-banilor-digitali-si-problema-dublei-cheltuieli.md) |
@@ -44,6 +45,7 @@ introduction, learning objectives, or notes for educators.
 |  | 2.16 | [Cronologia originilor Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ro/2-cum-functioneaza-bitcoin/16-cronologia-originilor-bitcoin.md) |
 |  | 2.17 | [Împuternicire, risc și responsabilitate](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ro/2-cum-functioneaza-bitcoin/17-imputernicire-risc-si-responsabilitate.md) |
 |  | 2.18 | [Recapitulare: Cum abordează Bitcoin deficiențele sistemului monetar?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ro/2-cum-functioneaza-bitcoin/18-recapitulare-cum-abordeaza-bitcoin-deficientele-sistemului-monetar.md) |
+|  |  | [Cum funcționează Bitcoin: verificare rapidă](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ro/2-cum-functioneaza-bitcoin/_quiz.md) |
 | **[Utilizarea Bitcoin în siguranță](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/ro/3-utilizarea-bitcoin-in-siguranta)** | 3.1 | [Utilizarea Bitcoin în siguranță](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ro/3-utilizarea-bitcoin-in-siguranta/1-utilizarea-bitcoin-in-siguranta.md) |
 |  | 3.2 | [Portofele](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ro/3-utilizarea-bitcoin-in-siguranta/2-portofele.md) |
 |  | 3.3 | [Adrese](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ro/3-utilizarea-bitcoin-in-siguranta/3-adrese.md) |
@@ -60,6 +62,7 @@ introduction, learning objectives, or notes for educators.
 |  | 3.14 | [Plăți on-chain și prin Lightning](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ro/3-utilizarea-bitcoin-in-siguranta/14-plati-on-chain-si-prin-lightning.md) |
 |  | 3.15 | [Verificarea competențelor practice sub observația unui cadru didactic](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ro/3-utilizarea-bitcoin-in-siguranta/15-verificarea-competentelor-practice-sub-observatia-unui-cadru-didactic.md) |
 |  | 3.16 | [Recapitulare: Ce înseamnă responsabilitatea autocustodiei?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ro/3-utilizarea-bitcoin-in-siguranta/16-recapitulare-ce-inseamna-responsabilitatea-autocustodiei.md) |
+|  |  | [Utilizarea Bitcoin în siguranță: verificare rapidă](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ro/3-utilizarea-bitcoin-in-siguranta/_quiz.md) |
 | **[Bitcoin în comunitatea dumneavoastră](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/ro/4-bitcoin-in-comunitatea-dumneavoastra)** | 4.1 | [Bitcoin în comunitatea dumneavoastră](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ro/4-bitcoin-in-comunitatea-dumneavoastra/1-bitcoin-in-comunitatea-dumneavoastra.md) |
 |  | 4.2 | [Modulul 4 local al dumneavoastră](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ro/4-bitcoin-in-comunitatea-dumneavoastra/2-modulul-4-local-al-dumneavoastra.md) |
 |  | 4.3 | [Ateliere practice și demonstrații](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ro/4-bitcoin-in-comunitatea-dumneavoastra/3-ateliere-practice-si-demonstratii.md) |
@@ -74,4 +77,9 @@ introduction, learning objectives, or notes for educators.
 |  | 4.12 | [Hărți ale resurselor locale și descoperirea comunității](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ro/4-bitcoin-in-comunitatea-dumneavoastra/12-harti-ale-resurselor-locale-si-descoperirea-comunitatii.md) |
 |  | 4.13 | [Recapitulare: Raportați acest lucru la comunitatea dumneavoastră](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ro/4-bitcoin-in-comunitatea-dumneavoastra/13-recapitulare-raportati-acest-lucru-la-comunitatea-dumneavoastra.md) |
 |  |  | [Pași următori opționali](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ro/5-back-matter/pasi-urmatori-optionali.md) |
+
+**Quizzes** (`_quiz.md`, one per module): the question, the choices and the
+explanation are text, and corrections are welcome. The ticked box is the answer
+key, shared by every language, so it is not changed from a pull request; nor is
+the number of questions or of choices.
 <!-- mfb:structure:end -->

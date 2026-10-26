@@ -26,6 +26,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.11 | [Các lựa chọn thay thế để tiết kiệm và lưu giữ giá trị](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/vi/1-hieu-ve-tien-te/11-cac-lua-chon-thay-the-e-tiet-kiem-va-luu-giu-gia-tri.md) |
 |  | 1.12 | [Tiền kỹ thuật số của ngân hàng trung ương (CBDCs)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/vi/1-hieu-ve-tien-te/12-tien-ky-thuat-so-cua-ngan-hang-trung-uong-cbdcs.md) |
 |  | 1.13 | [Ôn tập: Tiền có thể gặp trục trặc như thế nào?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/vi/1-hieu-ve-tien-te/13-on-tap-tien-co-the-gap-truc-trac-nhu-the-nao.md) |
+|  |  | [Tìm hiểu về tiền: kiểm tra nhanh](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/vi/1-hieu-ve-tien-te/_quiz.md) |
 | **[Cách Bitcoin hoạt động](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/vi/2-cach-bitcoin-hoat-ong)** | 2.1 | [Tại sao Bitcoin được tạo ra](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/vi/2-cach-bitcoin-hoat-ong/1-tai-sao-bitcoin-uoc-tao-ra.md) |
 |  | 2.2 | [Hành trình tìm kiếm tiền kỹ thuật số phi tập trung](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/vi/2-cach-bitcoin-hoat-ong/2-hanh-trinh-tim-kiem-tien-ky-thuat-so-phi-tap-trung.md) |
 |  | 2.3 | [Những nỗ lực ban đầu về tiền kỹ thuật số và vấn đề chi tiêu hai lần](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/vi/2-cach-bitcoin-hoat-ong/3-nhung-no-luc-ban-au-ve-tien-ky-thuat-so-va-van-e-chi-tieu-hai-lan.md) |
@@ -44,6 +45,7 @@ introduction, learning objectives, or notes for educators.
 |  | 2.16 | [Dòng thời gian về nguồn gốc của Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/vi/2-cach-bitcoin-hoat-ong/16-dong-thoi-gian-ve-nguon-goc-cua-bitcoin.md) |
 |  | 2.17 | [Trao quyền, rủi ro và trách nhiệm](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/vi/2-cach-bitcoin-hoat-ong/17-trao-quyen-rui-ro-va-trach-nhiem.md) |
 |  | 2.18 | [Ôn tập: Bitcoin khắc phục những khiếm khuyết của tiền tệ như thế nào?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/vi/2-cach-bitcoin-hoat-ong/18-on-tap-bitcoin-khac-phuc-nhung-khiem-khuyet-cua-tien-te-nhu-the-nao.md) |
+|  |  | [Cách Bitcoin hoạt động: kiểm tra nhanh](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/vi/2-cach-bitcoin-hoat-ong/_quiz.md) |
 | **[Sử dụng Bitcoin an toàn](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/vi/3-su-dung-bitcoin-an-toan)** | 3.1 | [Sử dụng Bitcoin an toàn](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/vi/3-su-dung-bitcoin-an-toan/1-su-dung-bitcoin-an-toan.md) |
 |  | 3.2 | [Ví](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/vi/3-su-dung-bitcoin-an-toan/2-vi.md) |
 |  | 3.3 | [Địa chỉ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/vi/3-su-dung-bitcoin-an-toan/3-ia-chi.md) |
@@ -60,6 +62,7 @@ introduction, learning objectives, or notes for educators.
 |  | 3.14 | [Thanh toán trên chuỗi và qua Lightning](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/vi/3-su-dung-bitcoin-an-toan/14-thanh-toan-tren-chuoi-va-qua-lightning.md) |
 |  | 3.15 | [Kiểm tra năng lực thực hành dưới sự quan sát của giáo viên](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/vi/3-su-dung-bitcoin-an-toan/15-kiem-tra-nang-luc-thuc-hanh-duoi-su-quan-sat-cua-giao-vien.md) |
 |  | 3.16 | [Ôn tập: Trách nhiệm tự lưu ký có nghĩa là gì?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/vi/3-su-dung-bitcoin-an-toan/16-on-tap-trach-nhiem-tu-luu-ky-co-nghia-la-gi.md) |
+|  |  | [Sử dụng Bitcoin an toàn: kiểm tra nhanh](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/vi/3-su-dung-bitcoin-an-toan/_quiz.md) |
 | **[Bitcoin trong cộng đồng của quý vị](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/vi/4-bitcoin-trong-cong-ong-cua-quy-vi)** | 4.1 | [Bitcoin trong cộng đồng của quý vị](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/vi/4-bitcoin-trong-cong-ong-cua-quy-vi/1-bitcoin-trong-cong-ong-cua-quy-vi.md) |
 |  | 4.2 | [Mô-đun 4 tại địa phương của quý vị](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/vi/4-bitcoin-trong-cong-ong-cua-quy-vi/2-mo-un-4-tai-ia-phuong-cua-quy-vi.md) |
 |  | 4.3 | [Các buổi thực hành và trình diễn](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/vi/4-bitcoin-trong-cong-ong-cua-quy-vi/3-cac-buoi-thuc-hanh-va-trinh-dien.md) |
@@ -74,4 +77,9 @@ introduction, learning objectives, or notes for educators.
 |  | 4.12 | [Bản đồ nguồn lực địa phương và khám phá cộng đồng](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/vi/4-bitcoin-trong-cong-ong-cua-quy-vi/12-ban-o-nguon-luc-ia-phuong-va-kham-pha-cong-ong.md) |
 |  | 4.13 | [Ôn tập: Liên hệ nội dung này với cộng đồng của quý vị](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/vi/4-bitcoin-trong-cong-ong-cua-quy-vi/13-on-tap-lien-he-noi-dung-nay-voi-cong-ong-cua-quy-vi.md) |
 |  |  | [Các bước tiếp theo tùy chọn](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/vi/5-back-matter/cac-buoc-tiep-theo-tuy-chon.md) |
+
+**Quizzes** (`_quiz.md`, one per module): the question, the choices and the
+explanation are text, and corrections are welcome. The ticked box is the answer
+key, shared by every language, so it is not changed from a pull request; nor is
+the number of questions or of choices.
 <!-- mfb:structure:end -->

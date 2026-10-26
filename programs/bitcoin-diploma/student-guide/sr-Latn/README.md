@@ -26,6 +26,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.11 | [Alternative za štednju i očuvanje vrednosti](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sr-Latn/1-razumevanje-novca/11-alternative-za-stednju-i-ocuvanje-vrednosti.md) |
 |  | 1.12 | [Digitalne valute centralnih banaka (CBDC)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sr-Latn/1-razumevanje-novca/12-digitalne-valute-centralnih-banaka-cbdc.md) |
 |  | 1.13 | [Pregled: Kako novac može da prestane da funkcioniše?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sr-Latn/1-razumevanje-novca/13-pregled-kako-novac-moze-da-prestane-da-funkcionise.md) |
+|  |  | [Razumevanje novca: kratka provera](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sr-Latn/1-razumevanje-novca/_quiz.md) |
 | **[Kako Bitcoin funkcioniše](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/sr-Latn/2-kako-bitcoin-funkcionise)** | 2.1 | [Zašto je Bitcoin stvoren](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sr-Latn/2-kako-bitcoin-funkcionise/1-zasto-je-bitcoin-stvoren.md) |
 |  | 2.2 | [Potraga za digitalnim i decentralizovanim novcem](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sr-Latn/2-kako-bitcoin-funkcionise/2-potraga-za-digitalnim-i-decentralizovanim-novcem.md) |
 |  | 2.3 | [Rani pokušaji stvaranja digitalnog novca i problem dvostruke potrošnje](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sr-Latn/2-kako-bitcoin-funkcionise/3-rani-pokusaji-stvaranja-digitalnog-novca-i-problem-dvostruke-potrosnje.md) |
@@ -44,6 +45,7 @@ introduction, learning objectives, or notes for educators.
 |  | 2.16 | [Vremenska linija nastanka Bitcoin-a](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sr-Latn/2-kako-bitcoin-funkcionise/16-vremenska-linija-nastanka-bitcoin-a.md) |
 |  | 2.17 | [Osnaživanje, rizik i odgovornost](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sr-Latn/2-kako-bitcoin-funkcionise/17-osnazivanje-rizik-i-odgovornost.md) |
 |  | 2.18 | [Pregled: Kako Bitcoin rešava nedostatke monetarnog sistema?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sr-Latn/2-kako-bitcoin-funkcionise/18-pregled-kako-bitcoin-resava-nedostatke-monetarnog-sistema.md) |
+|  |  | [Kako Bitcoin funkcioniše: kratka provera](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sr-Latn/2-kako-bitcoin-funkcionise/_quiz.md) |
 | **[Bezbedno korišćenje Bitcoina](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/sr-Latn/3-bezbedno-koriscenje-bitcoina)** | 3.1 | [Bezbedno korišćenje Bitcoina](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sr-Latn/3-bezbedno-koriscenje-bitcoina/1-bezbedno-koriscenje-bitcoina.md) |
 |  | 3.2 | [Novčanici](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sr-Latn/3-bezbedno-koriscenje-bitcoina/2-novcanici.md) |
 |  | 3.3 | [Adrese](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sr-Latn/3-bezbedno-koriscenje-bitcoina/3-adrese.md) |
@@ -60,6 +62,7 @@ introduction, learning objectives, or notes for educators.
 |  | 3.14 | [Plaćanja na lancu i putem Lightning mreže](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sr-Latn/3-bezbedno-koriscenje-bitcoina/14-placanja-na-lancu-i-putem-lightning-mreze.md) |
 |  | 3.15 | [Provera praktičnih kompetencija pod nadzorom nastavnika](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sr-Latn/3-bezbedno-koriscenje-bitcoina/15-provera-prakticnih-kompetencija-pod-nadzorom-nastavnika.md) |
 |  | 3.16 | [Pregled: Šta znači odgovornost za samostalno čuvanje sredstava?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sr-Latn/3-bezbedno-koriscenje-bitcoina/16-pregled-sta-znaci-odgovornost-za-samostalno-cuvanje-sredstava.md) |
+|  |  | [Bezbedno korišćenje Bitcoin-a: kratka provera znanja](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sr-Latn/3-bezbedno-koriscenje-bitcoina/_quiz.md) |
 | **[Bitcoin u vašoj zajednici](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/sr-Latn/4-bitcoin-u-vasoj-zajednici)** | 4.1 | [Bitcoin u vašoj zajednici](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sr-Latn/4-bitcoin-u-vasoj-zajednici/1-bitcoin-u-vasoj-zajednici.md) |
 |  | 4.2 | [Vaš lokalni modul 4](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sr-Latn/4-bitcoin-u-vasoj-zajednici/2-vas-lokalni-modul-4.md) |
 |  | 4.3 | [Praktične radionice i demonstracije](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sr-Latn/4-bitcoin-u-vasoj-zajednici/3-prakticne-radionice-i-demonstracije.md) |
@@ -74,4 +77,9 @@ introduction, learning objectives, or notes for educators.
 |  | 4.12 | [Mape lokalnih resursa i upoznavanje zajednice](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sr-Latn/4-bitcoin-u-vasoj-zajednici/12-mape-lokalnih-resursa-i-upoznavanje-zajednice.md) |
 |  | 4.13 | [Pregled: Povežite ovo sa svojom zajednicom](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sr-Latn/4-bitcoin-u-vasoj-zajednici/13-pregled-povezite-ovo-sa-svojom-zajednicom.md) |
 |  |  | [Opcioni naredni koraci](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sr-Latn/5-back-matter/opcioni-naredni-koraci.md) |
+
+**Quizzes** (`_quiz.md`, one per module): the question, the choices and the
+explanation are text, and corrections are welcome. The ticked box is the answer
+key, shared by every language, so it is not changed from a pull request; nor is
+the number of questions or of choices.
 <!-- mfb:structure:end -->

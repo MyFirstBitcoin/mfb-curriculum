@@ -26,6 +26,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.11 | [Alternatywne sposoby oszczędzania i przechowywania wartości](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/pl/1-zrozumienie-pieniadza/11-alternatywne-sposoby-oszczedzania-i-przechowywania-wartosci.md) |
 |  | 1.12 | [Cyfrowe waluty banków centralnych (CBDC)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/pl/1-zrozumienie-pieniadza/12-cyfrowe-waluty-bankow-centralnych-cbdc.md) |
 |  | 1.13 | [Powtórzenie: Jak pieniądz może się zepsuć?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/pl/1-zrozumienie-pieniadza/13-powtorzenie-jak-pieniadz-moze-sie-zepsuc.md) |
+|  |  | [Zrozumieć pieniądz: krótki sprawdzian](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/pl/1-zrozumienie-pieniadza/_quiz.md) |
 | **[Jak działa Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/pl/2-jak-dzia-a-bitcoin)** | 2.1 | [Dlaczego powstał Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/pl/2-jak-dzia-a-bitcoin/1-dlaczego-powsta-bitcoin.md) |
 |  | 2.2 | [Poszukiwanie cyfrowego i zdecentralizowanego pieniądza](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/pl/2-jak-dzia-a-bitcoin/2-poszukiwanie-cyfrowego-i-zdecentralizowanego-pieniadza.md) |
 |  | 2.3 | [Wczesne próby stworzenia pieniądza cyfrowego i problem podwójnego wydatkowania](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/pl/2-jak-dzia-a-bitcoin/3-wczesne-proby-stworzenia-pieniadza-cyfrowego-i-problem-podwojnego-wydatkowania.md) |
@@ -44,6 +45,7 @@ introduction, learning objectives, or notes for educators.
 |  | 2.16 | [Kalendarium powstania Bitcoina](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/pl/2-jak-dzia-a-bitcoin/16-kalendarium-powstania-bitcoina.md) |
 |  | 2.17 | [Sprawczość, ryzyko i odpowiedzialność](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/pl/2-jak-dzia-a-bitcoin/17-sprawczosc-ryzyko-i-odpowiedzialnosc.md) |
 |  | 2.18 | [Powtórzenie: jak Bitcoin rozwiązuje problemy systemu pieniężnego?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/pl/2-jak-dzia-a-bitcoin/18-powtorzenie-jak-bitcoin-rozwiazuje-problemy-systemu-pienieznego.md) |
+|  |  | [Jak działa Bitcoin: krótki sprawdzian](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/pl/2-jak-dzia-a-bitcoin/_quiz.md) |
 | **[Bezpieczne korzystanie z Bitcoina](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/pl/3-bezpieczne-korzystanie-z-bitcoina)** | 3.1 | [Bezpieczne korzystanie z Bitcoina](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/pl/3-bezpieczne-korzystanie-z-bitcoina/1-bezpieczne-korzystanie-z-bitcoina.md) |
 |  | 3.2 | [Portfele](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/pl/3-bezpieczne-korzystanie-z-bitcoina/2-portfele.md) |
 |  | 3.3 | [Adresy](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/pl/3-bezpieczne-korzystanie-z-bitcoina/3-adresy.md) |
@@ -60,6 +62,7 @@ introduction, learning objectives, or notes for educators.
 |  | 3.14 | [Płatności on-chain i Lightning](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/pl/3-bezpieczne-korzystanie-z-bitcoina/14-p-atnosci-on-chain-i-lightning.md) |
 |  | 3.15 | [Sprawdzian umiejętności praktycznych pod nadzorem nauczyciela](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/pl/3-bezpieczne-korzystanie-z-bitcoina/15-sprawdzian-umiejetnosci-praktycznych-pod-nadzorem-nauczyciela.md) |
 |  | 3.16 | [Powtórzenie: Co oznacza odpowiedzialność związana z samodzielnym przechowywaniem środków?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/pl/3-bezpieczne-korzystanie-z-bitcoina/16-powtorzenie-co-oznacza-odpowiedzialnosc-zwiazana-z-samodzielnym-przechowywaniem-srodkow.md) |
+|  |  | [Bezpieczne korzystanie z Bitcoina: krótki sprawdzian](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/pl/3-bezpieczne-korzystanie-z-bitcoina/_quiz.md) |
 | **[Bitcoin w Państwa społeczności](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/pl/4-bitcoin-w-panstwa-spo-ecznosci)** | 4.1 | [Bitcoin w Państwa społeczności](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/pl/4-bitcoin-w-panstwa-spo-ecznosci/1-bitcoin-w-panstwa-spo-ecznosci.md) |
 |  | 4.2 | [Państwa lokalny moduł 4](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/pl/4-bitcoin-w-panstwa-spo-ecznosci/2-panstwa-lokalny-modu-4.md) |
 |  | 4.3 | [Warsztaty praktyczne i demonstracje](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/pl/4-bitcoin-w-panstwa-spo-ecznosci/3-warsztaty-praktyczne-i-demonstracje.md) |
@@ -74,4 +77,9 @@ introduction, learning objectives, or notes for educators.
 |  | 4.12 | [Mapy lokalnych zasobów i poznawanie społeczności](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/pl/4-bitcoin-w-panstwa-spo-ecznosci/12-mapy-lokalnych-zasobow-i-poznawanie-spo-ecznosci.md) |
 |  | 4.13 | [Powtórka: proszę odnieść to do swojej społeczności](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/pl/4-bitcoin-w-panstwa-spo-ecznosci/13-powtorka-prosze-odniesc-to-do-swojej-spo-ecznosci.md) |
 |  |  | [Opcjonalne dalsze kroki](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/pl/5-back-matter/opcjonalne-dalsze-kroki.md) |
+
+**Quizzes** (`_quiz.md`, one per module): the question, the choices and the
+explanation are text, and corrections are welcome. The ticked box is the answer
+key, shared by every language, so it is not changed from a pull request; nor is
+the number of questions or of choices.
 <!-- mfb:structure:end -->

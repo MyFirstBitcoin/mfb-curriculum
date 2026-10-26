@@ -26,6 +26,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.11 | [சேமிப்பதற்கும் மதிப்பைத் தக்கவைப்பதற்குமான மாற்று வழிகள்](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/1/11.md) |
 |  | 1.12 | [மத்திய வங்கி டிஜிட்டல் நாணயங்கள் (CBDCs)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/1/12-cbdcs.md) |
 |  | 1.13 | [மீளாய்வு: பணம் எவ்வாறு செயலிழக்கக்கூடும்?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/1/13.md) |
+|  |  | [பணத்தைப் புரிந்துகொள்ளுதல்: விரைவுச் சோதனை](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/1/_quiz.md) |
 | **[பிட்காயின் எவ்வாறு செயல்படுகிறது](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/ta/2)** | 2.1 | [பிட்காயின் ஏன் உருவாக்கப்பட்டது](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/2/1.md) |
 |  | 2.2 | [டிஜிட்டல் மற்றும் பரவலாக்கப்பட்ட பணத்திற்கான தேடல்](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/2/2.md) |
 |  | 2.3 | [தொடக்ககால டிஜிட்டல் பண முயற்சிகளும் இரட்டைச் செலவுச் சிக்கலும்](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/2/3.md) |
@@ -44,6 +45,7 @@ introduction, learning objectives, or notes for educators.
 |  | 2.16 | [பிட்காயின் தோற்றக் காலவரிசை](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/2/16.md) |
 |  | 2.17 | [அதிகாரமளித்தல், இடர் மற்றும் பொறுப்பு](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/2/17.md) |
 |  | 2.18 | [மீளாய்வு: பணவியல் குறைபாடுகளை பிட்காயின் எவ்வாறு தீர்க்கிறது?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/2/18.md) |
+|  |  | [பிட்காயின் எவ்வாறு செயல்படுகிறது: விரைவுச் சோதனை](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/2/_quiz.md) |
 | **[பிட்காயினைப் பாதுகாப்பாகப் பயன்படுத்துதல்](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/ta/3)** | 3.1 | [பிட்காயினைப் பாதுகாப்பாகப் பயன்படுத்துதல்](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/3/1.md) |
 |  | 3.2 | [பணப்பைகள்](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/3/2.md) |
 |  | 3.3 | [முகவரிகள்](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/3/3.md) |
@@ -60,6 +62,7 @@ introduction, learning objectives, or notes for educators.
 |  | 3.14 | [ஆன்-செயின் மற்றும் லைட்னிங் பணப்பரிவர்த்தனைகள்](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/3/14.md) |
 |  | 3.15 | [கல்வியாளர் மேற்பார்வையில் நடைமுறைத் திறன் மதிப்பீடு](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/3/15.md) |
 |  | 3.16 | [மீளாய்வு: சுயக் காப்புப் பொறுப்பு என்றால் என்ன?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/3/16.md) |
+|  |  | [பிட்காயினைப் பாதுகாப்பாகப் பயன்படுத்துதல்: விரைவுச் சோதனை](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/3/_quiz.md) |
 | **[உங்கள் சமூகத்தில் பிட்காயின்](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/ta/4)** | 4.1 | [உங்கள் சமூகத்தில் பிட்காயின்](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/4/1.md) |
 |  | 4.2 | [உங்கள் உள்ளூர் பாடத்தொகுதி 4](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/4/2-4.md) |
 |  | 4.3 | [செய்முறைப் பயிலரங்குகள் மற்றும் செயல்முறை விளக்கங்கள்](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/4/3.md) |
@@ -74,4 +77,9 @@ introduction, learning objectives, or notes for educators.
 |  | 4.12 | [உள்ளூர் வள வரைபடங்கள் மற்றும் சமூகத்தைக் கண்டறிதல்](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/4/12.md) |
 |  | 4.13 | [மீள்பார்வை: இதை உங்கள் சமூகத்துடன் தொடர்புபடுத்துங்கள்](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/4/13.md) |
 |  |  | [விருப்பத்திற்குரிய அடுத்த படிகள்](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/5-back-matter/untitled.md) |
+
+**Quizzes** (`_quiz.md`, one per module): the question, the choices and the
+explanation are text, and corrections are welcome. The ticked box is the answer
+key, shared by every language, so it is not changed from a pull request; nor is
+the number of questions or of choices.
 <!-- mfb:structure:end -->

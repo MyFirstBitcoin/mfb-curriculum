@@ -26,6 +26,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.11 | [بدائل للادخار وحفظ القيمة](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/1/11.md) |
 |  | 1.12 | [العملات الرقمية للبنوك المركزية (CBDCs)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/1/12-cbdcs.md) |
 |  | 1.13 | [مراجعة: كيف يمكن أن يختلّ عمل النقود؟](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/1/13.md) |
+|  |  | [فهم النقود: اختبار سريع](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/1/_quiz.md) |
 | **[كيف تعمل بيتكوين](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/ar/2)** | 2.1 | [لماذا أُنشئت بيتكوين](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/2/1.md) |
 |  | 2.2 | [البحث عن نقود رقمية لامركزية](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/2/2.md) |
 |  | 2.3 | [المحاولات المبكرة للنقود الرقمية ومشكلة الإنفاق المزدوج](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/2/3.md) |
@@ -44,6 +45,7 @@ introduction, learning objectives, or notes for educators.
 |  | 2.16 | [الخط الزمني لنشأة بيتكوين](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/2/16.md) |
 |  | 2.17 | [التمكين والمخاطر والمسؤولية](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/2/17.md) |
 |  | 2.18 | [مراجعة: كيف تعالج بيتكوين عيوب النظام النقدي؟](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/2/18.md) |
+|  |  | [كيف تعمل بيتكوين: اختبار سريع](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/2/_quiz.md) |
 | **[استخدام بيتكوين بأمان](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/ar/3)** | 3.1 | [استخدام بيتكوين بأمان](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/3/1.md) |
 |  | 3.2 | [المحافظ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/3/2.md) |
 |  | 3.3 | [العناوين](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/3/3.md) |
@@ -60,6 +62,7 @@ introduction, learning objectives, or notes for educators.
 |  | 3.14 | [المدفوعات على السلسلة وعبر شبكة لايتنينغ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/3/14.md) |
 |  | 3.15 | [تقييم عملي للكفاءة تحت إشراف أحد المعلّمين](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/3/15.md) |
 |  | 3.16 | [مراجعة: ماذا تعني مسؤولية الحفظ الذاتي؟](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/3/16.md) |
+|  |  | [استخدام بيتكوين بأمان: اختبار سريع](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/3/_quiz.md) |
 | **[بيتكوين في مجتمعكم](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/ar/4)** | 4.1 | [بيتكوين في مجتمعكم](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/4/1.md) |
 |  | 4.2 | [وحدتكم المحلية 4](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/4/2-4.md) |
 |  | 4.3 | [ورش عمل وعروض توضيحية عملية](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/4/3.md) |
@@ -74,4 +77,9 @@ introduction, learning objectives, or notes for educators.
 |  | 4.12 | [خرائط الموارد المحلية واستكشاف المجتمع المحلي](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/4/12.md) |
 |  | 4.13 | [مراجعة: اربطوا هذا بمجتمعكم](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/4/13.md) |
 |  |  | [الخطوات التالية الاختيارية](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ar/5-back-matter/untitled.md) |
+
+**Quizzes** (`_quiz.md`, one per module): the question, the choices and the
+explanation are text, and corrections are welcome. The ticked box is the answer
+key, shared by every language, so it is not changed from a pull request; nor is
+the number of questions or of choices.
 <!-- mfb:structure:end -->

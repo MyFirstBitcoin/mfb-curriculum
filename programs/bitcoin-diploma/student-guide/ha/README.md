@@ -26,6 +26,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.11 | [Hanyoyin madadin yin tanadi da adana ƙima](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ha/1-fahimtar-ku-i/11-hanyoyin-madadin-yin-tanadi-da-adana-ima.md) |
 |  | 1.12 | [Kuɗaɗen Dijital na Babban Banki (CBDCs)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ha/1-fahimtar-ku-i/12-ku-a-en-dijital-na-babban-banki-cbdcs.md) |
 |  | 1.13 | [Bita: Ta yaya kuɗi za su iya lalacewa?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ha/1-fahimtar-ku-i/13-bita-ta-yaya-ku-i-za-su-iya-lalacewa.md) |
+|  |  | [Fahimtar Kuɗi: ɗan gwajin fahimta](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ha/1-fahimtar-ku-i/_quiz.md) |
 | **[Yadda Bitcoin Ke Aiki](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/ha/2-yadda-bitcoin-ke-aiki)** | 2.1 | [Dalilin Ƙirƙirar Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ha/2-yadda-bitcoin-ke-aiki/1-dalilin-ir-irar-bitcoin.md) |
 |  | 2.2 | [Neman kuɗin dijital marasa cibiyar iko](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ha/2-yadda-bitcoin-ke-aiki/2-neman-ku-in-dijital-marasa-cibiyar-iko.md) |
 |  | 2.3 | [Ƙoƙarin farko na kuɗin dijital da matsalar kashe kuɗi ɗaya sau biyu](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ha/2-yadda-bitcoin-ke-aiki/3-o-arin-farko-na-ku-in-dijital-da-matsalar-kashe-ku-i-aya-sau-biyu.md) |
@@ -44,6 +45,7 @@ introduction, learning objectives, or notes for educators.
 |  | 2.16 | [Jadawalin tarihin asalin Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ha/2-yadda-bitcoin-ke-aiki/16-jadawalin-tarihin-asalin-bitcoin.md) |
 |  | 2.17 | [Ƙarfafawa, haɗari, da alhaki](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ha/2-yadda-bitcoin-ke-aiki/17-arfafawa-ha-ari-da-alhaki.md) |
 |  | 2.18 | [Bita: Ta Yaya Bitcoin Ke Magance Gazawar Tsarin Kuɗi?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ha/2-yadda-bitcoin-ke-aiki/18-bita-ta-yaya-bitcoin-ke-magance-gazawar-tsarin-ku-i.md) |
+|  |  | [Yadda Bitcoin Yake Aiki: ɗan gwajin fahimta](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ha/2-yadda-bitcoin-ke-aiki/_quiz.md) |
 | **[Amfani da Bitcoin Cikin Aminci](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/ha/3-amfani-da-bitcoin-cikin-aminci)** | 3.1 | [Amfani da Bitcoin Cikin Aminci](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ha/3-amfani-da-bitcoin-cikin-aminci/1-amfani-da-bitcoin-cikin-aminci.md) |
 |  | 3.2 | [Jakunkunan Kuɗi](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ha/3-amfani-da-bitcoin-cikin-aminci/2-jakunkunan-ku-i.md) |
 |  | 3.3 | [Adireshoshi](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ha/3-amfani-da-bitcoin-cikin-aminci/3-adireshoshi.md) |
@@ -60,6 +62,7 @@ introduction, learning objectives, or notes for educators.
 |  | 3.14 | [Biyan kuɗi a kan sarka da na Lightning](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ha/3-amfani-da-bitcoin-cikin-aminci/14-biyan-ku-i-a-kan-sarka-da-na-lightning.md) |
 |  | 3.15 | [Gwajin ƙwarewar aikace-aikace da malami ke lura da shi](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ha/3-amfani-da-bitcoin-cikin-aminci/15-gwajin-warewar-aikace-aikace-da-malami-ke-lura-da-shi.md) |
 |  | 3.16 | [Bita: Mene ne ma’anar alhakin riƙe kadarori da kanku?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ha/3-amfani-da-bitcoin-cikin-aminci/16-bita-mene-ne-ma-anar-alhakin-ri-e-kadarori-da-kanku.md) |
+|  |  | [Amfani da Bitcoin Cikin Aminci: taƙaitaccen gwaji](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ha/3-amfani-da-bitcoin-cikin-aminci/_quiz.md) |
 | **[Bitcoin a Cikin Al’ummarku](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/ha/4-bitcoin-a-cikin-al-ummarku)** | 4.1 | [Bitcoin a Cikin Al’ummarku](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ha/4-bitcoin-a-cikin-al-ummarku/1-bitcoin-a-cikin-al-ummarku.md) |
 |  | 4.2 | [Sashe na 4 na yankinku](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ha/4-bitcoin-a-cikin-al-ummarku/2-sashe-na-4-na-yankinku.md) |
 |  | 4.3 | [Tarukan bita na aikace-aikace da nune-nunen yadda ake yi](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ha/4-bitcoin-a-cikin-al-ummarku/3-tarukan-bita-na-aikace-aikace-da-nune-nunen-yadda-ake-yi.md) |
@@ -74,4 +77,9 @@ introduction, learning objectives, or notes for educators.
 |  | 4.12 | [Taswirorin albarkatun yankin da gano al’umma](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ha/4-bitcoin-a-cikin-al-ummarku/12-taswirorin-albarkatun-yankin-da-gano-al-umma.md) |
 |  | 4.13 | [Bita: Haɗa wannan da al'ummarku](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ha/4-bitcoin-a-cikin-al-ummarku/13-bita-ha-a-wannan-da-al-ummarku.md) |
 |  |  | [Matakai na gaba na zaɓi](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ha/5-back-matter/matakai-na-gaba-na-za-i.md) |
+
+**Quizzes** (`_quiz.md`, one per module): the question, the choices and the
+explanation are text, and corrections are welcome. The ticked box is the answer
+key, shared by every language, so it is not changed from a pull request; nor is
+the number of questions or of choices.
 <!-- mfb:structure:end -->

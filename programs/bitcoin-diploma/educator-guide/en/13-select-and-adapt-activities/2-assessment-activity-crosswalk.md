@@ -1,6 +1,6 @@
 # 13.2 Assessment activity crosswalk
 
-Use the linked activities below as possible learning or individual-evidence contexts for the stated competency. An activity remains formative unless it gives the educator a fair opportunity to notice the relevant learner response or action. Adapt the activity when needed and record the result in the Assessment Grid.
+Use the linked activities below as possible learning or individual-evidence contexts for the stated competency. An activity remains formative unless it gives the educator a fair opportunity to notice the relevant learner response or action. Adapt the activity when needed and record the result in the [Assessment Grid](https://cdn.sanity.io/files/vje9ehw2/staging/056d842fdf0602501c3ae7b5915277b0b7f857d4.pdf).
 
 
 | Assessment Grid competency | Protocol task | Activities that can support the task | Required addition or limit |

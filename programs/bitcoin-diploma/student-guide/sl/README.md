@@ -26,6 +26,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.11 | [Alternativne možnosti za varčevanje in ohranjanje vrednosti](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sl/1-razumevanje-denarja/11-alternativne-moznosti-za-varcevanje-in-ohranjanje-vrednosti.md) |
 |  | 1.12 | [Centralnobančne digitalne valute (CBDC)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sl/1-razumevanje-denarja/12-centralnobancne-digitalne-valute-cbdc.md) |
 |  | 1.13 | [Ponovitev: Kako lahko denar odpove?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sl/1-razumevanje-denarja/13-ponovitev-kako-lahko-denar-odpove.md) |
+|  |  | [Razumevanje denarja: kratko preverjanje](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sl/1-razumevanje-denarja/_quiz.md) |
 | **[Kako deluje Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/sl/2-kako-deluje-bitcoin)** | 2.1 | [Zakaj je bil Bitcoin ustvarjen](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sl/2-kako-deluje-bitcoin/1-zakaj-je-bil-bitcoin-ustvarjen.md) |
 |  | 2.2 | [Iskanje digitalnega in decentraliziranega denarja](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sl/2-kako-deluje-bitcoin/2-iskanje-digitalnega-in-decentraliziranega-denarja.md) |
 |  | 2.3 | [Zgodnji poskusi digitalnega denarja in problem dvojne porabe](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sl/2-kako-deluje-bitcoin/3-zgodnji-poskusi-digitalnega-denarja-in-problem-dvojne-porabe.md) |
@@ -44,6 +45,7 @@ introduction, learning objectives, or notes for educators.
 |  | 2.16 | [Časovnica nastanka Bitcoina](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sl/2-kako-deluje-bitcoin/16-casovnica-nastanka-bitcoina.md) |
 |  | 2.17 | [Opolnomočenje, tveganje in odgovornost](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sl/2-kako-deluje-bitcoin/17-opolnomocenje-tveganje-in-odgovornost.md) |
 |  | 2.18 | [Ponovitev: Kako Bitcoin odpravlja pomanjkljivosti denarnega sistema?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sl/2-kako-deluje-bitcoin/18-ponovitev-kako-bitcoin-odpravlja-pomanjkljivosti-denarnega-sistema.md) |
+|  |  | [Kako deluje Bitcoin: kratko preverjanje](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sl/2-kako-deluje-bitcoin/_quiz.md) |
 | **[Varna uporaba Bitcoina](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/sl/3-varna-uporaba-bitcoina)** | 3.1 | [Varna uporaba Bitcoina](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sl/3-varna-uporaba-bitcoina/1-varna-uporaba-bitcoina.md) |
 |  | 3.2 | [Denarnice](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sl/3-varna-uporaba-bitcoina/2-denarnice.md) |
 |  | 3.3 | [Naslovi](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sl/3-varna-uporaba-bitcoina/3-naslovi.md) |
@@ -60,6 +62,7 @@ introduction, learning objectives, or notes for educators.
 |  | 3.14 | [Plačila v verigi blokov in prek omrežja Lightning](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sl/3-varna-uporaba-bitcoina/14-placila-v-verigi-blokov-in-prek-omrezja-lightning.md) |
 |  | 3.15 | [Preverjanje praktične usposobljenosti pod nadzorom izobraževalca](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sl/3-varna-uporaba-bitcoina/15-preverjanje-prakticne-usposobljenosti-pod-nadzorom-izobrazevalca.md) |
 |  | 3.16 | [Ponovitev: Kaj pomeni odgovornost pri samostojnem skrbništvu?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sl/3-varna-uporaba-bitcoina/16-ponovitev-kaj-pomeni-odgovornost-pri-samostojnem-skrbnistvu.md) |
+|  |  | [Varna uporaba Bitcoina: kratko preverjanje](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sl/3-varna-uporaba-bitcoina/_quiz.md) |
 | **[Bitcoin v vaši skupnosti](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/sl/4-bitcoin-v-vasi-skupnosti)** | 4.1 | [Bitcoin v vaši skupnosti](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sl/4-bitcoin-v-vasi-skupnosti/1-bitcoin-v-vasi-skupnosti.md) |
 |  | 4.2 | [Vaš lokalni modul 4](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sl/4-bitcoin-v-vasi-skupnosti/2-vas-lokalni-modul-4.md) |
 |  | 4.3 | [Praktične delavnice in predstavitve](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sl/4-bitcoin-v-vasi-skupnosti/3-prakticne-delavnice-in-predstavitve.md) |
@@ -74,4 +77,9 @@ introduction, learning objectives, or notes for educators.
 |  | 4.12 | [Zemljevidi lokalnih virov in spoznavanje skupnosti](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sl/4-bitcoin-v-vasi-skupnosti/12-zemljevidi-lokalnih-virov-in-spoznavanje-skupnosti.md) |
 |  | 4.13 | [Ponovitev: Povežite to s svojo skupnostjo](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sl/4-bitcoin-v-vasi-skupnosti/13-ponovitev-povezite-to-s-svojo-skupnostjo.md) |
 |  |  | [Izbirni naslednji koraki](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/sl/5-back-matter/izbirni-naslednji-koraki.md) |
+
+**Quizzes** (`_quiz.md`, one per module): the question, the choices and the
+explanation are text, and corrections are welcome. The ticked box is the answer
+key, shared by every language, so it is not changed from a pull request; nor is
+the number of questions or of choices.
 <!-- mfb:structure:end -->

@@ -26,6 +26,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.11 | [დაზოგვისა და ღირებულების შენარჩუნების ალტერნატივები](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/1/11.md) |
 |  | 1.12 | [ცენტრალური ბანკების ციფრული ვალუტები (CBDC-ები)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/1/12-cbdc.md) |
 |  | 1.13 | [გამეორება: როგორ შეიძლება ფული გამოვიდეს მწყობრიდან?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/1/13.md) |
+|  |  | [ფულის გააზრება: ცოდნის მოკლე შემოწმება](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/1/_quiz.md) |
 | **[როგორ მუშაობს ბიტკოინი](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/ka/2)** | 2.1 | [რატომ შეიქმნა ბიტკოინი](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/2/1.md) |
 |  | 2.2 | [ციფრული და დეცენტრალიზებული ფულის ძიება](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/2/2.md) |
 |  | 2.3 | [ციფრული ფულის შექმნის ადრეული მცდელობები და ორმაგი ხარჯვის პრობლემა](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/2/3.md) |
@@ -44,6 +45,7 @@ introduction, learning objectives, or notes for educators.
 |  | 2.16 | [ბიტკოინის წარმოშობის ქრონოლოგია](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/2/16.md) |
 |  | 2.17 | [გაძლიერება, რისკი და პასუხისმგებლობა](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/2/17.md) |
 |  | 2.18 | [მიმოხილვა: როგორ აგვარებს ბიტკოინი მონეტარული სისტემის ხარვეზებს?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/2/18.md) |
+|  |  | [როგორ მუშაობს ბიტკოინი: ცოდნის მოკლე შემოწმება](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/2/_quiz.md) |
 | **[ბიტკოინის უსაფრთხოდ გამოყენება](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/ka/3)** | 3.1 | [ბიტკოინის უსაფრთხოდ გამოყენება](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/3/1.md) |
 |  | 3.2 | [საფულეები](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/3/2.md) |
 |  | 3.3 | [მისამართები](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/3/3.md) |
@@ -60,6 +62,7 @@ introduction, learning objectives, or notes for educators.
 |  | 3.14 | [ონჩეინ და ლაითნინგ გადახდები](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/3/14.md) |
 |  | 3.15 | [პრაქტიკული კომპეტენციის შემოწმება პედაგოგის დაკვირვებით](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/3/15.md) |
 |  | 3.16 | [გამეორება: რას ნიშნავს აქტივების დამოუკიდებლად შენახვაზე პასუხისმგებლობა?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/3/16.md) |
+|  |  | [ბიტკოინის უსაფრთხოდ გამოყენება: მოკლე შემოწმება](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/3/_quiz.md) |
 | **[ბიტკოინი თქვენს თემში](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/ka/4)** | 4.1 | [ბიტკოინი თქვენს თემში](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/4/1.md) |
 |  | 4.2 | [თქვენი ადგილობრივი მოდული 4](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/4/2-4.md) |
 |  | 4.3 | [პრაქტიკული სემინარები და დემონსტრაციები](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/4/3.md) |
@@ -74,4 +77,9 @@ introduction, learning objectives, or notes for educators.
 |  | 4.12 | [ადგილობრივი რესურსების რუკები და თემის შესწავლა](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/4/12.md) |
 |  | 4.13 | [მიმოხილვა: დაუკავშირეთ ეს თქვენს თემს](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/4/13.md) |
 |  |  | [არასავალდებულო შემდგომი ნაბიჯები](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/5-back-matter/untitled.md) |
+
+**Quizzes** (`_quiz.md`, one per module): the question, the choices and the
+explanation are text, and corrections are welcome. The ticked box is the answer
+key, shared by every language, so it is not changed from a pull request; nor is
+the number of questions or of choices.
 <!-- mfb:structure:end -->

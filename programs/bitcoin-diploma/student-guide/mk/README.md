@@ -26,6 +26,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.11 | [Алтернативи за штедење и зачувување на вредноста](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/mk/1/11.md) |
 |  | 1.12 | [Дигитални валути на централните банки (CBDCs)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/mk/1/12-cbdcs.md) |
 |  | 1.13 | [Повторување: Како можат парите да се расипат?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/mk/1/13.md) |
+|  |  | [Разбирање на парите: кратка проверка](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/mk/1/_quiz.md) |
 | **[Како функционира Биткоин](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/mk/2)** | 2.1 | [Зошто е создаден Биткоин](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/mk/2/1.md) |
 |  | 2.2 | [Потрагата по дигитални и децентрализирани пари](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/mk/2/2.md) |
 |  | 2.3 | [Раните обиди за дигитални пари и проблемот со двојното трошење](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/mk/2/3.md) |
@@ -44,6 +45,7 @@ introduction, learning objectives, or notes for educators.
 |  | 2.16 | [Временска линија на настанувањето на Биткоин](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/mk/2/16.md) |
 |  | 2.17 | [Зајакнување, ризик и одговорност](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/mk/2/17.md) |
 |  | 2.18 | [Повторување: Како Биткоин ги решава недостатоците на монетарниот систем?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/mk/2/18.md) |
+|  |  | [Како функционира Биткоин: кратка проверка](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/mk/2/_quiz.md) |
 | **[Безбедно користење на Биткоин](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/mk/3)** | 3.1 | [Безбедно користење на Биткоин](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/mk/3/1.md) |
 |  | 3.2 | [Паричници](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/mk/3/2.md) |
 |  | 3.3 | [Адреси](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/mk/3/3.md) |
@@ -60,6 +62,7 @@ introduction, learning objectives, or notes for educators.
 |  | 3.14 | [Плаќања на блокчејнот и преку Лајтнинг](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/mk/3/14.md) |
 |  | 3.15 | [Проверка на практичните вештини набљудувана од едукатор](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/mk/3/15.md) |
 |  | 3.16 | [Повторување: Што значи одговорноста за самостојно чување?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/mk/3/16.md) |
+|  |  | [Безбедно користење на Биткоин: кратка проверка](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/mk/3/_quiz.md) |
 | **[Биткоин во Вашата заедница](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/mk/4)** | 4.1 | [Биткоин во Вашата заедница](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/mk/4/1.md) |
 |  | 4.2 | [Вашиот локален модул 4](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/mk/4/2-4.md) |
 |  | 4.3 | [Практични работилници и демонстрации](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/mk/4/3.md) |
@@ -74,4 +77,9 @@ introduction, learning objectives, or notes for educators.
 |  | 4.12 | [Мапи на локални ресурси и запознавање со заедницата](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/mk/4/12.md) |
 |  | 4.13 | [Преглед: Поврзете го ова со Вашата заедница](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/mk/4/13.md) |
 |  |  | [Изборни следни чекори](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/mk/5-back-matter/untitled.md) |
+
+**Quizzes** (`_quiz.md`, one per module): the question, the choices and the
+explanation are text, and corrections are welcome. The ticked box is the answer
+key, shared by every language, so it is not changed from a pull request; nor is
+the number of questions or of choices.
 <!-- mfb:structure:end -->

@@ -26,6 +26,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.11 | [חלופות לחיסכון ולשמירת ערך](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/1/11.md) |
 |  | 1.12 | [מטבעות דיגיטליים של בנקים מרכזיים (CBDCs)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/1/12-cbdcs.md) |
 |  | 1.13 | [חזרה: כיצד כסף עלול להתקלקל?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/1/13.md) |
+|  |  | [להבין כסף: בדיקת ידע קצרה](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/1/_quiz.md) |
 | **[כיצד ביטקוין פועל](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/he/2)** | 2.1 | [מדוע נוצר ביטקוין](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/2/1.md) |
 |  | 2.2 | [החיפוש אחר כסף דיגיטלי ומבוזר](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/2/2.md) |
 |  | 2.3 | [ניסיונות מוקדמים ליצירת כסף דיגיטלי ובעיית ההוצאה הכפולה](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/2/3.md) |
@@ -44,6 +45,7 @@ introduction, learning objectives, or notes for educators.
 |  | 2.16 | [ציר הזמן של ראשית הביטקוין](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/2/16.md) |
 |  | 2.17 | [העצמה, סיכון ואחריות](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/2/17.md) |
 |  | 2.18 | [סקירה: כיצד ביטקוין נותן מענה לכשלים מוניטריים?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/2/18.md) |
+|  |  | [איך ביטקוין עובד: בדיקת ידע קצרה](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/2/_quiz.md) |
 | **[שימוש בטוח בביטקוין](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/he/3)** | 3.1 | [שימוש בטוח בביטקוין](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/3/1.md) |
 |  | 3.2 | [ארנקים](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/3/2.md) |
 |  | 3.3 | [כתובות](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/3/3.md) |
@@ -60,6 +62,7 @@ introduction, learning objectives, or notes for educators.
 |  | 3.14 | [תשלומים על גבי הבלוקצ'יין וברשת לייטנינג](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/3/14.md) |
 |  | 3.15 | [בדיקת כשירות מעשית בהשגחת איש חינוך](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/3/15.md) |
 |  | 3.16 | [חזרה: מה משמעות האחריות למשמורת עצמית?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/3/16.md) |
+|  |  | [שימוש בטוח בביטקוין: בדיקת ידע קצרה](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/3/_quiz.md) |
 | **[ביטקוין בקהילה שלכם](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/he/4)** | 4.1 | [ביטקוין בקהילה שלכם](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/4/1.md) |
 |  | 4.2 | [מודול 4 המקומי שלכם](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/4/2-4.md) |
 |  | 4.3 | [סדנאות מעשיות והדגמות](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/4/3.md) |
@@ -74,4 +77,9 @@ introduction, learning objectives, or notes for educators.
 |  | 4.12 | [מפות משאבים מקומיים והיכרות עם הקהילה](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/4/12.md) |
 |  | 4.13 | [חזרה: קשרו זאת לקהילה שלכם](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/4/13.md) |
 |  |  | [צעדים אפשריים להמשך](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/he/5-back-matter/untitled.md) |
+
+**Quizzes** (`_quiz.md`, one per module): the question, the choices and the
+explanation are text, and corrections are welcome. The ticked box is the answer
+key, shared by every language, so it is not changed from a pull request; nor is
+the number of questions or of choices.
 <!-- mfb:structure:end -->

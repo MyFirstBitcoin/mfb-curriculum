@@ -26,6 +26,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.11 | [બચત કરવા અને મૂલ્ય જાળવી રાખવા માટેના વિકલ્પો](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/gu/1/11.md) |
 |  | 1.12 | [કેન્દ્રીય બેંક ડિજિટલ ચલણો (CBDCs)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/gu/1/12-cbdcs.md) |
 |  | 1.13 | [સમીક્ષા: નાણાં કેવી રીતે નિષ્ફળ થઈ શકે?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/gu/1/13.md) |
+|  |  | [નાણાંને સમજીએ: ઝડપી ચકાસણી](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/gu/1/_quiz.md) |
 | **[બિટકોઇન કેવી રીતે કાર્ય કરે છે](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/gu/2)** | 2.1 | [બિટકોઇન શા માટે બનાવવામાં આવ્યું હતું](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/gu/2/1.md) |
 |  | 2.2 | [ડિજિટલ અને વિકેન્દ્રિત નાણાંની શોધ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/gu/2/2.md) |
 |  | 2.3 | [ડિજિટલ નાણાંના પ્રારંભિક પ્રયાસો અને બેવડા ખર્ચની સમસ્યા](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/gu/2/3.md) |
@@ -44,6 +45,7 @@ introduction, learning objectives, or notes for educators.
 |  | 2.16 | [બિટકોઇનની ઉત્પત્તિની સમયરેખા](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/gu/2/16.md) |
 |  | 2.17 | [સશક્તિકરણ, જોખમ અને જવાબદારી](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/gu/2/17.md) |
 |  | 2.18 | [પુનરાવલોકન: બિટકોઇન નાણાકીય ખામીઓને કેવી રીતે દૂર કરે છે?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/gu/2/18.md) |
+|  |  | [બિટકોઇન કેવી રીતે કાર્ય કરે છે: ઝડપી ચકાસણી](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/gu/2/_quiz.md) |
 | **[બિટકોઇનનો સુરક્ષિત રીતે ઉપયોગ](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/gu/3)** | 3.1 | [બિટકોઇનનો સુરક્ષિત રીતે ઉપયોગ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/gu/3/1.md) |
 |  | 3.2 | [વૉલેટ્સ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/gu/3/2.md) |
 |  | 3.3 | [સરનામાં](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/gu/3/3.md) |
@@ -60,6 +62,7 @@ introduction, learning objectives, or notes for educators.
 |  | 3.14 | [ઑન-ચેઇન અને લાઇટનિંગ ચુકવણીઓ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/gu/3/14.md) |
 |  | 3.15 | [શિક્ષકના નિરીક્ષણ હેઠળ વ્યવહારુ કૌશલ્યની ચકાસણી](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/gu/3/15.md) |
 |  | 3.16 | [સમીક્ષા: સ્વ-કસ્ટડીની જવાબદારીનો અર્થ શું છે?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/gu/3/16.md) |
+|  |  | [બિટકોઇનનો સુરક્ષિત ઉપયોગ: ટૂંકી કસોટી](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/gu/3/_quiz.md) |
 | **[તમારા સમુદાયમાં બિટકોઇન](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/gu/4)** | 4.1 | [તમારા સમુદાયમાં બિટકોઇન](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/gu/4/1.md) |
 |  | 4.2 | [આપનું સ્થાનિક મોડ્યુલ 4](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/gu/4/2-4.md) |
 |  | 4.3 | [વ્યવહારુ કાર્યશાળાઓ અને પ્રદર્શનો](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/gu/4/3.md) |
@@ -74,4 +77,9 @@ introduction, learning objectives, or notes for educators.
 |  | 4.12 | [સ્થાનિક સંસાધનોના નકશા અને સમુદાયની શોધખોળ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/gu/4/12.md) |
 |  | 4.13 | [સમીક્ષા: આને આપના સમુદાય સાથે જોડો](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/gu/4/13.md) |
 |  |  | [વૈકલ્પિક આગળનાં પગલાં](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/gu/5-back-matter/untitled.md) |
+
+**Quizzes** (`_quiz.md`, one per module): the question, the choices and the
+explanation are text, and corrections are welcome. The ticked box is the answer
+key, shared by every language, so it is not changed from a pull request; nor is
+the number of questions or of choices.
 <!-- mfb:structure:end -->

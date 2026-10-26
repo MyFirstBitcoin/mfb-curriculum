@@ -26,6 +26,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.11 | [A megtakarítás és az értékmegőrzés alternatívái](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hu/1-a-penz-megertese/11-a-megtakaritas-es-az-ertekmegorzes-alternativai.md) |
 |  | 1.12 | [Digitális jegybankpénzek (CBDC-k)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hu/1-a-penz-megertese/12-digitalis-jegybankpenzek-cbdc-k.md) |
 |  | 1.13 | [Ismétlés: Hogyan romolhat el a pénz?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hu/1-a-penz-megertese/13-ismetles-hogyan-romolhat-el-a-penz.md) |
+|  |  | [A pénz megértése: gyors ellenőrzés](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hu/1-a-penz-megertese/_quiz.md) |
 | **[Hogyan működik a Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/hu/2-hogyan-mukodik-a-bitcoin)** | 2.1 | [Miért jött létre a Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hu/2-hogyan-mukodik-a-bitcoin/1-miert-jott-letre-a-bitcoin.md) |
 |  | 2.2 | [A digitális és decentralizált pénz keresése](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hu/2-hogyan-mukodik-a-bitcoin/2-a-digitalis-es-decentralizalt-penz-keresese.md) |
 |  | 2.3 | [A digitális pénz korai kísérletei és a kettős költés problémája](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hu/2-hogyan-mukodik-a-bitcoin/3-a-digitalis-penz-korai-kiserletei-es-a-kettos-koltes-problemaja.md) |
@@ -44,6 +45,7 @@ introduction, learning objectives, or notes for educators.
 |  | 2.16 | [A Bitcoin eredetének idővonala](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hu/2-hogyan-mukodik-a-bitcoin/16-a-bitcoin-eredetenek-idovonala.md) |
 |  | 2.17 | [Önrendelkezés, kockázat és felelősség](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hu/2-hogyan-mukodik-a-bitcoin/17-onrendelkezes-kockazat-es-felelosseg.md) |
 |  | 2.18 | [Áttekintés: Hogyan orvosolja a Bitcoin a monetáris rendszer hibáit?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hu/2-hogyan-mukodik-a-bitcoin/18-attekintes-hogyan-orvosolja-a-bitcoin-a-monetaris-rendszer-hibait.md) |
+|  |  | [A Bitcoin működése: gyors ellenőrzés](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hu/2-hogyan-mukodik-a-bitcoin/_quiz.md) |
 | **[A Bitcoin biztonságos használata](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/hu/3-a-bitcoin-biztonsagos-hasznalata)** | 3.1 | [A Bitcoin biztonságos használata](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hu/3-a-bitcoin-biztonsagos-hasznalata/1-a-bitcoin-biztonsagos-hasznalata.md) |
 |  | 3.2 | [Tárcák](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hu/3-a-bitcoin-biztonsagos-hasznalata/2-tarcak.md) |
 |  | 3.3 | [Címek](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hu/3-a-bitcoin-biztonsagos-hasznalata/3-cimek.md) |
@@ -60,6 +62,7 @@ introduction, learning objectives, or notes for educators.
 |  | 3.14 | [Láncon belüli és Lightning-fizetések](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hu/3-a-bitcoin-biztonsagos-hasznalata/14-lancon-beluli-es-lightning-fizetesek.md) |
 |  | 3.15 | [Gyakorlati kompetenciafelmérés oktatói megfigyelés mellett](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hu/3-a-bitcoin-biztonsagos-hasznalata/15-gyakorlati-kompetenciafelmeres-oktatoi-megfigyeles-mellett.md) |
 |  | 3.16 | [Ismétlés: Mit jelent az önálló letétkezeléssel járó felelősség?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hu/3-a-bitcoin-biztonsagos-hasznalata/16-ismetles-mit-jelent-az-onallo-letetkezelessel-jaro-felelosseg.md) |
+|  |  | [A Bitcoin biztonságos használata: gyors ellenőrzés](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hu/3-a-bitcoin-biztonsagos-hasznalata/_quiz.md) |
 | **[Bitcoin az Ön közösségében](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/hu/4-bitcoin-az-on-kozossegeben)** | 4.1 | [Bitcoin az Ön közösségében](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hu/4-bitcoin-az-on-kozossegeben/1-bitcoin-az-on-kozossegeben.md) |
 |  | 4.2 | [Az Ön helyi 4. modulja](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hu/4-bitcoin-az-on-kozossegeben/2-az-on-helyi-4-modulja.md) |
 |  | 4.3 | [Gyakorlati műhelyfoglalkozások és bemutatók](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hu/4-bitcoin-az-on-kozossegeben/3-gyakorlati-muhelyfoglalkozasok-es-bemutatok.md) |
@@ -74,4 +77,9 @@ introduction, learning objectives, or notes for educators.
 |  | 4.12 | [Helyi erőforrástérképek és a közösség felfedezése](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hu/4-bitcoin-az-on-kozossegeben/12-helyi-eroforrasterkepek-es-a-kozosseg-felfedezese.md) |
 |  | 4.13 | [Ismétlés: Kapcsolja össze ezt a saját közösségével](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hu/4-bitcoin-az-on-kozossegeben/13-ismetles-kapcsolja-ossze-ezt-a-sajat-kozossegevel.md) |
 |  |  | [Választható következő lépések](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hu/5-back-matter/valaszthato-kovetkezo-lepesek.md) |
+
+**Quizzes** (`_quiz.md`, one per module): the question, the choices and the
+explanation are text, and corrections are welcome. The ticked box is the answer
+key, shared by every language, so it is not changed from a pull request; nor is
+the number of questions or of choices.
 <!-- mfb:structure:end -->

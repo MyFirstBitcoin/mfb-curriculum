@@ -36,7 +36,7 @@ Halten Sie Kameras und Beobachter von dem geheimen Material fern.
 
 ### s4-title
 
-Verwenden Sie die freigegebene Methode
+Freigegebene Methode nutzen
 
 ### s4-text
 

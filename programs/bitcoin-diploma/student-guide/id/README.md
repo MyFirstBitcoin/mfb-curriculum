@@ -26,6 +26,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.11 | [Alternatif untuk Menabung dan Menyimpan Nilai](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/id/1-memahami-uang/11-alternatif-untuk-menabung-dan-menyimpan-nilai.md) |
 |  | 1.12 | [Mata Uang Digital Bank Sentral (CBDCs)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/id/1-memahami-uang/12-mata-uang-digital-bank-sentral-cbdcs.md) |
 |  | 1.13 | [Tinjauan: Bagaimana Uang Dapat Gagal Berfungsi?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/id/1-memahami-uang/13-tinjauan-bagaimana-uang-dapat-gagal-berfungsi.md) |
+|  |  | [Memahami Uang: kuis singkat](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/id/1-memahami-uang/_quiz.md) |
 | **[Cara Kerja Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/id/2-cara-kerja-bitcoin)** | 2.1 | [Mengapa Bitcoin Diciptakan](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/id/2-cara-kerja-bitcoin/1-mengapa-bitcoin-diciptakan.md) |
 |  | 2.2 | [Pencarian Uang Digital dan Terdesentralisasi](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/id/2-cara-kerja-bitcoin/2-pencarian-uang-digital-dan-terdesentralisasi.md) |
 |  | 2.3 | [Upaya Awal Uang Digital dan Masalah Pembelanjaan Ganda](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/id/2-cara-kerja-bitcoin/3-upaya-awal-uang-digital-dan-masalah-pembelanjaan-ganda.md) |
@@ -44,6 +45,7 @@ introduction, learning objectives, or notes for educators.
 |  | 2.16 | [Linimasa Asal-Usul Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/id/2-cara-kerja-bitcoin/16-linimasa-asal-usul-bitcoin.md) |
 |  | 2.17 | [Pemberdayaan, Risiko, dan Tanggung Jawab](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/id/2-cara-kerja-bitcoin/17-pemberdayaan-risiko-dan-tanggung-jawab.md) |
 |  | 2.18 | [Tinjauan: Bagaimana Bitcoin Mengatasi Kelemahan Moneter?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/id/2-cara-kerja-bitcoin/18-tinjauan-bagaimana-bitcoin-mengatasi-kelemahan-moneter.md) |
+|  |  | [Cara Kerja Bitcoin: kuis singkat](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/id/2-cara-kerja-bitcoin/_quiz.md) |
 | **[Menggunakan Bitcoin dengan Aman](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/id/3-menggunakan-bitcoin-dengan-aman)** | 3.1 | [Menggunakan Bitcoin dengan Aman](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/id/3-menggunakan-bitcoin-dengan-aman/1-menggunakan-bitcoin-dengan-aman.md) |
 |  | 3.2 | [Dompet](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/id/3-menggunakan-bitcoin-dengan-aman/2-dompet.md) |
 |  | 3.3 | [Alamat](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/id/3-menggunakan-bitcoin-dengan-aman/3-alamat.md) |
@@ -60,6 +62,7 @@ introduction, learning objectives, or notes for educators.
 |  | 3.14 | [Pembayaran On-chain dan Lightning](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/id/3-menggunakan-bitcoin-dengan-aman/14-pembayaran-on-chain-dan-lightning.md) |
 |  | 3.15 | [Penilaian Kompetensi Praktis yang Diamati oleh Pendidik](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/id/3-menggunakan-bitcoin-dengan-aman/15-penilaian-kompetensi-praktis-yang-diamati-oleh-pendidik.md) |
 |  | 3.16 | [Tinjauan: Apa Arti Tanggung Jawab atas Penyimpanan Mandiri?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/id/3-menggunakan-bitcoin-dengan-aman/16-tinjauan-apa-arti-tanggung-jawab-atas-penyimpanan-mandiri.md) |
+|  |  | [Menggunakan Bitcoin dengan Aman: kuis singkat](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/id/3-menggunakan-bitcoin-dengan-aman/_quiz.md) |
 | **[Bitcoin di Komunitas Anda](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/id/4-bitcoin-di-komunitas-anda)** | 4.1 | [Bitcoin di Komunitas Anda](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/id/4-bitcoin-di-komunitas-anda/1-bitcoin-di-komunitas-anda.md) |
 |  | 4.2 | [Modul 4 Lokal Anda](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/id/4-bitcoin-di-komunitas-anda/2-modul-4-lokal-anda.md) |
 |  | 4.3 | [Lokakarya dan Demonstrasi Praktis](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/id/4-bitcoin-di-komunitas-anda/3-lokakarya-dan-demonstrasi-praktis.md) |
@@ -74,4 +77,9 @@ introduction, learning objectives, or notes for educators.
 |  | 4.12 | [Peta Sumber Daya Lokal dan Penelusuran Komunitas](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/id/4-bitcoin-di-komunitas-anda/12-peta-sumber-daya-lokal-dan-penelusuran-komunitas.md) |
 |  | 4.13 | [Tinjauan: Hubungkan Ini dengan Komunitas Anda](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/id/4-bitcoin-di-komunitas-anda/13-tinjauan-hubungkan-ini-dengan-komunitas-anda.md) |
 |  |  | [Langkah Lanjutan Opsional](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/id/5-back-matter/langkah-lanjutan-opsional.md) |
+
+**Quizzes** (`_quiz.md`, one per module): the question, the choices and the
+explanation are text, and corrections are welcome. The ticked box is the answer
+key, shared by every language, so it is not changed from a pull request; nor is
+the number of questions or of choices.
 <!-- mfb:structure:end -->

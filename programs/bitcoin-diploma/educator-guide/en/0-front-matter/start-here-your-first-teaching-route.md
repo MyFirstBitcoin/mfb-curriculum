@@ -10,7 +10,7 @@ For your first delivery, use this route:
 1. Choose one main activity and one backup activity, using the [Activity Library](https://curriculum.myfirstbitcoin.org/activities/en/) for ideas when helpful. Do not try to use every option.
 1. Copy the session competency and safety rule onto your board or opening slide.
 1. Teach in the order **explain → ask → practise → debrief → check**.
-1. Use the Assessment Grid and the operational assessment protocol when you are ready to collect evidence; ordinary discussion is not automatically assessment.
+1. Use the [Assessment Grid](https://cdn.sanity.io/files/vje9ehw2/staging/056d842fdf0602501c3ae7b5915277b0b7f857d4.pdf) and the operational assessment protocol when you are ready to collect evidence; ordinary discussion is not automatically assessment.
 1. After class, write down what learners understood, what confused them, what needs checking, and what you will change next time.
 
 If you have only ten minutes to prepare, read the module's purpose, learner promise, suggested flow, likely trouble spots, safety notes, and review point. That is enough to run a safe first session while you continue learning.

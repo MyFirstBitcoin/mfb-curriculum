@@ -26,6 +26,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.11 | [Alternatieven om te sparen en waarde te bewaren](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nl/1-geld-begrijpen/11-alternatieven-om-te-sparen-en-waarde-te-bewaren.md) |
 |  | 1.12 | [Digitale centralebankvaluta's (CBDC's)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nl/1-geld-begrijpen/12-digitale-centralebankvaluta-s-cbdc-s.md) |
 |  | 1.13 | [Herhaling: hoe kan geld kapotgaan?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nl/1-geld-begrijpen/13-herhaling-hoe-kan-geld-kapotgaan.md) |
+|  |  | [Geld begrijpen: korte toets](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nl/1-geld-begrijpen/_quiz.md) |
 | **[Hoe Bitcoin werkt](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/nl/2-hoe-bitcoin-werkt)** | 2.1 | [Waarom Bitcoin werd gecreëerd](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nl/2-hoe-bitcoin-werkt/1-waarom-bitcoin-werd-gecreeerd.md) |
 |  | 2.2 | [De zoektocht naar digitaal en gedecentraliseerd geld](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nl/2-hoe-bitcoin-werkt/2-de-zoektocht-naar-digitaal-en-gedecentraliseerd-geld.md) |
 |  | 2.3 | [Vroege pogingen tot digitaal geld en het probleem van dubbele uitgaven](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nl/2-hoe-bitcoin-werkt/3-vroege-pogingen-tot-digitaal-geld-en-het-probleem-van-dubbele-uitgaven.md) |
@@ -44,6 +45,7 @@ introduction, learning objectives, or notes for educators.
 |  | 2.16 | [Tijdlijn van het ontstaan van Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nl/2-hoe-bitcoin-werkt/16-tijdlijn-van-het-ontstaan-van-bitcoin.md) |
 |  | 2.17 | [Empowerment, risico en verantwoordelijkheid](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nl/2-hoe-bitcoin-werkt/17-empowerment-risico-en-verantwoordelijkheid.md) |
 |  | 2.18 | [Herhaling: hoe pakt Bitcoin monetaire tekortkomingen aan?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nl/2-hoe-bitcoin-werkt/18-herhaling-hoe-pakt-bitcoin-monetaire-tekortkomingen-aan.md) |
+|  |  | [Hoe Bitcoin werkt: korte toets](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nl/2-hoe-bitcoin-werkt/_quiz.md) |
 | **[Bitcoin veilig gebruiken](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/nl/3-bitcoin-veilig-gebruiken)** | 3.1 | [Bitcoin veilig gebruiken](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nl/3-bitcoin-veilig-gebruiken/1-bitcoin-veilig-gebruiken.md) |
 |  | 3.2 | [Wallets](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nl/3-bitcoin-veilig-gebruiken/2-wallets.md) |
 |  | 3.3 | [Adressen](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nl/3-bitcoin-veilig-gebruiken/3-adressen.md) |
@@ -60,6 +62,7 @@ introduction, learning objectives, or notes for educators.
 |  | 3.14 | [On-chain- en Lightning-betalingen](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nl/3-bitcoin-veilig-gebruiken/14-on-chain-en-lightning-betalingen.md) |
 |  | 3.15 | [Praktische vaardigheidstoets onder observatie van een docent](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nl/3-bitcoin-veilig-gebruiken/15-praktische-vaardigheidstoets-onder-observatie-van-een-docent.md) |
 |  | 3.16 | [Herhaling: wat betekent de verantwoordelijkheid van zelfbewaring?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nl/3-bitcoin-veilig-gebruiken/16-herhaling-wat-betekent-de-verantwoordelijkheid-van-zelfbewaring.md) |
+|  |  | [Bitcoin veilig gebruiken: korte check](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nl/3-bitcoin-veilig-gebruiken/_quiz.md) |
 | **[Bitcoin in uw gemeenschap](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/nl/4-bitcoin-in-uw-gemeenschap)** | 4.1 | [Bitcoin in uw gemeenschap](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nl/4-bitcoin-in-uw-gemeenschap/1-bitcoin-in-uw-gemeenschap.md) |
 |  | 4.2 | [Uw lokale Module 4](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nl/4-bitcoin-in-uw-gemeenschap/2-uw-lokale-module-4.md) |
 |  | 4.3 | [Praktische workshops en demonstraties](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nl/4-bitcoin-in-uw-gemeenschap/3-praktische-workshops-en-demonstraties.md) |
@@ -74,4 +77,9 @@ introduction, learning objectives, or notes for educators.
 |  | 4.12 | [Lokale bronnenkaarten en het ontdekken van uw gemeenschap](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nl/4-bitcoin-in-uw-gemeenschap/12-lokale-bronnenkaarten-en-het-ontdekken-van-uw-gemeenschap.md) |
 |  | 4.13 | [Herhaling: verbind dit met uw gemeenschap](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nl/4-bitcoin-in-uw-gemeenschap/13-herhaling-verbind-dit-met-uw-gemeenschap.md) |
 |  |  | [Optionele vervolgstappen](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/nl/5-back-matter/optionele-vervolgstappen.md) |
+
+**Quizzes** (`_quiz.md`, one per module): the question, the choices and the
+explanation are text, and corrections are welcome. The ticked box is the answer
+key, shared by every language, so it is not changed from a pull request; nor is
+the number of questions or of choices.
 <!-- mfb:structure:end -->

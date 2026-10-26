@@ -26,6 +26,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.11 | [Taupymo ir vertės išsaugojimo alternatyvos](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/lt/1-pinigu-supratimas/11-taupymo-ir-vertes-issaugojimo-alternatyvos.md) |
 |  | 1.12 | [Centrinių bankų skaitmeninės valiutos (CBSV)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/lt/1-pinigu-supratimas/12-centriniu-banku-skaitmenines-valiutos-cbsv.md) |
 |  | 1.13 | [Pakartojimas: kaip pinigai gali nustoti veikti?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/lt/1-pinigu-supratimas/13-pakartojimas-kaip-pinigai-gali-nustoti-veikti.md) |
+|  |  | [Pinigų supratimas: trumpa žinių patikra](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/lt/1-pinigu-supratimas/_quiz.md) |
 | **[Kaip veikia Bitcoin](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/lt/2-kaip-veikia-bitcoin)** | 2.1 | [Kodėl buvo sukurtas „Bitcoin“](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/lt/2-kaip-veikia-bitcoin/1-kodel-buvo-sukurtas-bitcoin.md) |
 |  | 2.2 | [Skaitmeninių ir decentralizuotų pinigų paieškos](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/lt/2-kaip-veikia-bitcoin/2-skaitmeniniu-ir-decentralizuotu-pinigu-paieskos.md) |
 |  | 2.3 | [Ankstyvieji bandymai sukurti skaitmeninius pinigus ir dvigubo išleidimo problema](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/lt/2-kaip-veikia-bitcoin/3-ankstyvieji-bandymai-sukurti-skaitmeninius-pinigus-ir-dvigubo-isleidimo-problema.md) |
@@ -44,6 +45,7 @@ introduction, learning objectives, or notes for educators.
 |  | 2.16 | [Bitkoino atsiradimo chronologija](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/lt/2-kaip-veikia-bitcoin/16-bitkoino-atsiradimo-chronologija.md) |
 |  | 2.17 | [Įgalinimas, rizika ir atsakomybė](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/lt/2-kaip-veikia-bitcoin/17-igalinimas-rizika-ir-atsakomybe.md) |
 |  | 2.18 | [Apžvalga: kaip „Bitcoin“ sprendžia pinigų sistemos trūkumus?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/lt/2-kaip-veikia-bitcoin/18-apzvalga-kaip-bitcoin-sprendzia-pinigu-sistemos-trukumus.md) |
+|  |  | [Kaip veikia Bitcoin: trumpa žinių patikra](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/lt/2-kaip-veikia-bitcoin/_quiz.md) |
 | **[Saugus naudojimasis „Bitcoin“](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/lt/3-saugus-naudojimasis-bitcoin)** | 3.1 | [Saugus naudojimasis „Bitcoin“](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/lt/3-saugus-naudojimasis-bitcoin/1-saugus-naudojimasis-bitcoin.md) |
 |  | 3.2 | [Piniginės](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/lt/3-saugus-naudojimasis-bitcoin/2-pinigines.md) |
 |  | 3.3 | [Adresai](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/lt/3-saugus-naudojimasis-bitcoin/3-adresai.md) |
@@ -60,6 +62,7 @@ introduction, learning objectives, or notes for educators.
 |  | 3.14 | [Mokėjimai blokų grandinėje ir „Lightning“ tinkle](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/lt/3-saugus-naudojimasis-bitcoin/14-mokejimai-bloku-grandineje-ir-lightning-tinkle.md) |
 |  | 3.15 | [Pedagogo stebimas praktinių įgūdžių patikrinimas](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/lt/3-saugus-naudojimasis-bitcoin/15-pedagogo-stebimas-praktiniu-igudziu-patikrinimas.md) |
 |  | 3.16 | [Pakartojimas: ką reiškia atsakomybė už savarankišką lėšų saugojimą?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/lt/3-saugus-naudojimasis-bitcoin/16-pakartojimas-ka-reiskia-atsakomybe-uz-savarankiska-lesu-saugojima.md) |
+|  |  | [Saugus naudojimasis Bitcoin: trumpa žinių patikra](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/lt/3-saugus-naudojimasis-bitcoin/_quiz.md) |
 | **[Bitkoinas jūsų bendruomenėje](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/lt/4-bitkoinas-jusu-bendruomeneje)** | 4.1 | [Bitkoinas jūsų bendruomenėje](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/lt/4-bitkoinas-jusu-bendruomeneje/1-bitkoinas-jusu-bendruomeneje.md) |
 |  | 4.2 | [Jūsų vietinis 4 modulis](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/lt/4-bitkoinas-jusu-bendruomeneje/2-jusu-vietinis-4-modulis.md) |
 |  | 4.3 | [Praktiniai užsiėmimai ir demonstracijos](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/lt/4-bitkoinas-jusu-bendruomeneje/3-praktiniai-uzsiemimai-ir-demonstracijos.md) |
@@ -74,4 +77,9 @@ introduction, learning objectives, or notes for educators.
 |  | 4.12 | [Vietinių išteklių žemėlapiai ir bendruomenės pažinimas](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/lt/4-bitkoinas-jusu-bendruomeneje/12-vietiniu-istekliu-zemelapiai-ir-bendruomenes-pazinimas.md) |
 |  | 4.13 | [Apžvalga: susiekite tai su savo bendruomene](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/lt/4-bitkoinas-jusu-bendruomeneje/13-apzvalga-susiekite-tai-su-savo-bendruomene.md) |
 |  |  | [Neprivalomi tolesni žingsniai](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/lt/5-back-matter/neprivalomi-tolesni-zingsniai.md) |
+
+**Quizzes** (`_quiz.md`, one per module): the question, the choices and the
+explanation are text, and corrections are welcome. The ticked box is the answer
+key, shared by every language, so it is not changed from a pull request; nor is
+the number of questions or of choices.
 <!-- mfb:structure:end -->

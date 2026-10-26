@@ -2,7 +2,7 @@
 
 ### A supportive assessment route
 
-This protocol is the source of truth for the Bitcoin Diploma's seven assessed competencies and their required look-fors. Use it with the Assessment Grid. Educator-evaluated theory is `C1`–`C5`; directly observed practice is `C6`–`C7`. Local language, examples, communication methods, activity choices, and delivery routes may change. Keep the competency and safety boundary clear.
+This protocol is the source of truth for the Bitcoin Diploma's seven assessed competencies and their required look-fors. Use it with the [Assessment Grid](https://cdn.sanity.io/files/vje9ehw2/staging/056d842fdf0602501c3ae7b5915277b0b7f857d4.pdf). Educator-evaluated theory is `C1`–`C5`; directly observed practice is `C6`–`C7`. Local language, examples, communication methods, activity choices, and delivery routes may change. Keep the competency and safety boundary clear.
 
 
 | Competency | Required look-fors | Evidence |
@@ -75,13 +75,13 @@ Choose a practical route that feels safe and manageable for the learners. Record
 
 **Accessibility and low-tech equivalence:** Use the communication method, translated prompt, large-print or tactile material, oral response, described response, prepared paper wallet screens, role-play, or offline simulation that works for the learner while preserving the required action. An equivalent route should make the competency reachable; it should not reduce it to recognition, group participation, or self-report.
 
-**Optional notes:** The Assessment Grid only requires one final **Showing competency: Yes** or **Showing competency: Not yet** result per competency and learner. Brief notes can help you remember what you saw, plan follow-up, or support a reassessment, but task IDs and lengthy evidence records are not required by the grid. Record only the minimum necessary learner information and keep it private.
+**Optional notes:** The [Assessment Grid](https://cdn.sanity.io/files/vje9ehw2/staging/056d842fdf0602501c3ae7b5915277b0b7f857d4.pdf) only requires one final **Showing competency: Yes** or **Showing competency: Not yet** result per competency and learner. Brief notes can help you remember what you saw, plan follow-up, or support a reassessment, but task IDs and lengthy evidence records are not required by the grid. Record only the minimum necessary learner information and keep it private.
 
 ### Example theoretical interactions
 
 These interactions may be woven into normal module teaching. They are examples, not a single written exam or the only valid route. Give each learner a chance to respond, then record each competency separately.
 
-**Understanding and action:** `T1`–`T3` check understanding: the educator listens as the learner explains or compares an idea. `P6a`, `P6b`, and `P7` check safe action: the educator watches the learner complete a practical task. These are suggested ways to gather evidence, not extra tests or grades. Record one final result for each competency in the Assessment Grid.
+**Understanding and action:** `T1`–`T3` check understanding: the educator listens as the learner explains or compares an idea. `P6a`, `P6b`, and `P7` check safe action: the educator watches the learner complete a practical task. These are suggested ways to gather evidence, not extra tests or grades. Record one final result for each competency in the [Assessment Grid](https://cdn.sanity.io/files/vje9ehw2/staging/056d842fdf0602501c3ae7b5915277b0b7f857d4.pdf).
 
 #### `T1` — Money comparison and local scenario (`C1`)
 
@@ -157,7 +157,7 @@ These interactions may be woven into normal module teaching. They are examples, 
 
 ### Reassessment and optional quality support
 
-**Reassessment:** **Not yet** means the learner is building competency and needs more learning, practice, or another opportunity—not “never.” Educators may return to reassess at any point, including during class, at a break, in an additional call, or in a follow-up session. Identify what the learner needs privately, provide focused practice, and use the same activity or a suitable equivalent. Do not lower the standard, use attendance as a substitute, or force the learner to disclose personal information. Update the Assessment Grid when the new evidence is sufficient.
+**Reassessment:** **Not yet** means the learner is building competency and needs more learning, practice, or another opportunity—not “never.” Educators may return to reassess at any point, including during class, at a break, in an additional call, or in a follow-up session. Identify what the learner needs privately, provide focused practice, and use the same activity or a suitable equivalent. Do not lower the standard, use attendance as a substitute, or force the learner to disclose personal information. Update the [Assessment Grid](https://cdn.sanity.io/files/vje9ehw2/staging/056d842fdf0602501c3ae7b5915277b0b7f857d4.pdf) when the new evidence is sufficient.
 
 **Optional educator support:** If educators are working together or feel uncertain, they can compare a **Yes** and **Not yet** example, discuss the standard, or complete the recommended Educator Training Program. This support can build confidence but is not a prerequisite for issuing certificates.
 
@@ -175,7 +175,7 @@ Use these examples to compare judgements before delivery. They are model evidenc
 | P7 — Example variant: local payment-path comparison simulation | The learner completes the simulated payment sequence safely, checks the recipient and amount, and individually explains the local purpose, a realistic alternative, trade-offs, possible failure points, safety boundary, and next step. Judgement: Yes. | The learner completes the sequence only through educator direction, skips a required check, or cannot explain the realistic alternative and safety response after permitted support. Judgement: Not yet; provide focused practice and reassess the same or an equivalent variant. |
 
 
-These examples do not replace direct observation, the Assessment Grid, or the selected local `P7` approval. Do not record real secrets, private keys, passwords, balances, or unnecessary personal information during calibration.
+These examples do not replace direct observation, the [Assessment Grid](https://cdn.sanity.io/files/vje9ehw2/staging/056d842fdf0602501c3ae7b5915277b0b7f857d4.pdf), or the selected local `P7` approval. Do not record real secrets, private keys, passwords, balances, or unnecessary personal information during calibration.
 
 Use the examples and activity materials that fit your cohort. Review local tools, current facts, translation, accessibility, and practical safety before delivery. When you adapt an activity, keep the competency and safety purpose clear.
 

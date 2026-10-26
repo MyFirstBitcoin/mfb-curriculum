@@ -26,6 +26,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.11 | [گزینه‌های جایگزین برای پس‌انداز و حفظ ارزش](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/1/11.md) |
 |  | 1.12 | [ارزهای دیجیتال بانک مرکزی (CBDCs)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/1/12-cbdcs.md) |
 |  | 1.13 | [مرور: پول چگونه می‌تواند از کار بیفتد؟](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/1/13.md) |
+|  |  | [درک پول: ارزیابی کوتاه](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/1/_quiz.md) |
 | **[بیت‌کوین چگونه کار می‌کند](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/fa/2)** | 2.1 | [چرا بیت‌کوین ایجاد شد](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/2/1.md) |
 |  | 2.2 | [جست‌وجو برای پول دیجیتال و غیرمتمرکز](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/2/2.md) |
 |  | 2.3 | [تلاش‌های اولیه برای ایجاد پول دیجیتال و مشکل دوباره‌خرج‌کردن](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/2/3.md) |
@@ -44,6 +45,7 @@ introduction, learning objectives, or notes for educators.
 |  | 2.16 | [خط زمانی پیدایش بیت‌کوین](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/2/16.md) |
 |  | 2.17 | [توانمندی، ریسک و مسئولیت](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/2/17.md) |
 |  | 2.18 | [مرور: بیت‌کوین چگونه کاستی‌های پولی را برطرف می‌کند؟](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/2/18.md) |
+|  |  | [بیت‌کوین چگونه کار می‌کند: ارزیابی کوتاه](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/2/_quiz.md) |
 | **[استفادهٔ ایمن از بیت‌کوین](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/fa/3)** | 3.1 | [استفادهٔ ایمن از بیت‌کوین](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/3/1.md) |
 |  | 3.2 | [کیف‌پول‌ها](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/3/2.md) |
 |  | 3.3 | [آدرس‌ها](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/3/3.md) |
@@ -60,6 +62,7 @@ introduction, learning objectives, or notes for educators.
 |  | 3.14 | [پرداخت‌های درون‌زنجیره‌ای و لایتنینگ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/3/14.md) |
 |  | 3.15 | [ارزیابی مهارت عملی با نظارت مربی](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/3/15.md) |
 |  | 3.16 | [مرور: مسئولیت خودامانی به چه معناست؟](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/3/16.md) |
+|  |  | [استفادهٔ ایمن از بیت‌کوین: ارزیابی سریع](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/3/_quiz.md) |
 | **[بیت‌کوین در جامعهٔ شما](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/fa/4)** | 4.1 | [بیت‌کوین در جامعهٔ شما](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/4/1.md) |
 |  | 4.2 | [ماژول ۴ محلی شما](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/4/2.md) |
 |  | 4.3 | [کارگاه‌های عملی و نمایش‌های آموزشی](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/4/3.md) |
@@ -74,4 +77,9 @@ introduction, learning objectives, or notes for educators.
 |  | 4.12 | [نقشه‌های منابع محلی و شناخت جامعهٔ محلی](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/4/12.md) |
 |  | 4.13 | [مرور: این موضوع را به جامعهٔ خود پیوند دهید](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/4/13.md) |
 |  |  | [گام‌های بعدی اختیاری](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/5-back-matter/untitled.md) |
+
+**Quizzes** (`_quiz.md`, one per module): the question, the choices and the
+explanation are text, and corrections are welcome. The ticked box is the answer
+key, shared by every language, so it is not changed from a pull request; nor is
+the number of questions or of choices.
 <!-- mfb:structure:end -->
