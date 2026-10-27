@@ -40,7 +40,8 @@ Onu kazanmak ya da harcamak değil; ne olduğunu ve nasıl çalıştığını d�
 * Paranızla eskisi kadar şey satın alabiliyor musunuz?
 
 
-> **Callout – Cevaplarınızı saklayın**
+<!-- card: callout -->
+> **Cevaplarınızı saklayın**
 >
 > Her soruya kısa bir cevap yazın. Sonunda bu cevaplara geri döneceksiniz.
 
@@ -85,6 +86,7 @@ Her iki kişi de aynı anda ve uygun miktarlarda, diğerinin sahip olduğu şeyi
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina'nın elinde pirinç var ve ayakkabı istiyor, Luis'in elinde ayakkabı var ve yemeklik yağ istiyor, Mei'nin elinde ise yemeklik yağ var ve tamir işi istiyor. Hiçbir ikili doğrudan takas yapamıyor, çünkü her ikilide kişilerden hiçbiri diğerinin sunduğu şeyi istemiyor.](/micrographics/barter-mismatch-01/tr.md)
 
 <!-- notes: Rehberdeki örneği kullanın: Siz pirinç yetiştiriyorsunuz ve ayakkabıya ihtiyacınız var, ancak ayakkabıcı pirinç değil, yemeklik yağ istiyor. İktisatçılar buna ihtiyaçların çifte çakışması der. -->
 
@@ -151,6 +153,7 @@ Kurallar yere ve döneme göre farklılık gösteriyordu.
 ## Enflasyon ve Satın Alma Gücü
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Aynı 100 birimlik para, temel ürünlerden oluşan sepetin fiyatı 100 olduğunda sepetin tamamını satın almaya yeter, ancak aynı sepetin fiyatı 110 olduğunda yetmez. Fiyat düzeyi yükselmiş, paranın satın alma gücü ise düşmüştür.](/micrographics/same-money-smaller-basket-01/tr.md)
 
 <!-- notes: Fiyat enflasyonu, genel fiyat düzeyinde sürekli bir artıştır. Bunun öbür yüzü ise satın alma gücüdür: bir para biriminin ne kadar şey satın alabildiği. Temel mallardan oluşan bir sepet 100 para biriminden 110'a yükselirse, aynı 100 birim artık sepetin tamamını satın almaya yetmez. -->
 
@@ -213,8 +216,7 @@ Banka bakiyesi, elinizdeki nakitten farklıdır: bankanın size ödeme yapma sö
 * Ancak arzı ve kuralları değişebilir ve onu kullanan insanların bu konuda pek söz hakkı yoktur
 
 
-> **Callout**
->
+<!-- card: callout -->
 > İnsanların alternatif arayışına girmesinin ve Bitcoin'in yaratılmasının nedeni budur.
 
 ---
@@ -233,6 +235,7 @@ Merkeziyetsiz, arzı sınırlı ve bir bankanın iznine gerek kalmadan eşten e�
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Bir ödeme şirketinde defteri tek bir kuruluş tutar ve her transferi o onaylar. Bitcoin'de ise gönderen bir işlemi imzalar, bağımsız düğümler işlemi kontrol eder ve madenciler onu tek bir ortak deftere ekler; böylece alıcı merkezi bir otoriteye daha az bağımlı olur.](/micrographics/central-ledger-vs-bitcoin-01/tr.md)
 
 <!-- notes: Bitcoin'den önce, internet üzerinden para göndermek her zaman güvenilen bir kuruluşa bağlıydı: kayıt defterini tutan, hesapları onaylayan ve bir ödemeyi geciktirebilen, engelleyebilen veya geri alabilen bir banka ya da ödeme şirketi. Dijital bilgiyi kopyalamak kolaydır: dijital bir para iki kez harcanabilseydi, para olarak işlev göremezdi. Bu, çifte harcama sorunudur. Satoshi Nakamoto, bu adı kullanan bir kişi ya da gruptur. -->
 
@@ -253,6 +256,7 @@ Kendi kontrolünüzdeki bitcoin'i hiçbir şirket donduramaz. Bu özgürlüğün
 ## Herkesin Doğrulayabileceği Bir Sınır
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Bir web sitesinde veya bir ihraççının veritabanında yazılı bir arz sınırı, o ihraççı tarafından sessizce değiştirilebilir. Bitcoin'in arz kuralı herkese açıktır; imzalar, herkese açık bir geçmiş, iş ispatı ve düğüm doğrulaması birlikte yeni coinlerin uydurulmasını veya aynı bitcoinin iki kez harcanmasını engeller.](/micrographics/claimed-or-verified-supply-01/tr.md)
 
 <!-- notes: Yeni bitcoin'ler herkese açık bir takvime göre dolaşıma girer ve düğüm (node) adı verilen bağımsız bilgisayarlar bu kuralı ihlal eden her bloğu reddeder. Bu sınır güvenilirdir, çünkü herkes onu doğrulayabilir. Ancak bu bir doğa yasası değildir: Katılımcılar onu uygulamaya devam ettiği için geçerliliğini korur. Sınırlı arz, fiyatın yükseleceğini garanti etmez; fiyat, arzın yanı sıra talebe de bağlıdır. -->
 
@@ -264,6 +268,7 @@ Bir bitcoin, satoshi veya sats adı verilen 100.000.000 küçük birime bölün�
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[İki sütunlu bir tablo: 1 BTC 100.000.000 sat, 0,1 BTC 10.000.000 sat, 0,01 BTC 1.000.000 sat, 0,001 BTC 100.000 sat ve 0,00000001 BTC 1 sat eder.](/micrographics/bitcoin-and-sats-01/tr.md)
 
 <!-- notes: 100.000 sat'a sahip olmak ile 0,001 bitcoin'e sahip olmak aynı miktarı ifade eder. Bir bitcoin pahalı olduğu için Bitcoin'in erişilemez olduğu yanılgısını ele alın. -->
 
@@ -272,6 +277,7 @@ Bir bitcoin, satoshi veya sats adı verilen 100.000.000 küçük birime bölün�
 ## Bitcoin'in Çalışmasını Kim Sağlıyor?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Bitcoin'deki dört rol: kullanıcılar bitcoin alır, saklar ve gönderir; düğümler kuralları bağımsız olarak doğrular; madenciler iş ispatıyla aday bloklar oluşturur; geliştiriciler ise yazılım önerir. Hiçbir rol tek başına ağı kontrol etmez.](/micrographics/bitcoin-participant-roles-01/tr.md)
 
 <!-- notes: Kullanıcılar bitcoin gönderir, alır ve saklar; düğümler her işlemi ve bloğu kurallara göre denetler; madenciler yaklaşık her on dakikada bir kayda yeni bir blok eklemek için yarışır. Bu kayıt, yani blok zinciri, herkese açıktır ve yeniden yazılması çok maliyetlidir. Yazımla ilgili bir not: Büyük B ile yazılan Bitcoin genellikle ağı ya da sistemi ifade eder; küçük b ile yazılan bitcoin ise paranın kendisini ifade eder. -->
 
@@ -307,6 +313,7 @@ Herhangi bir cüzdanla ilgili ilk soru şudur: Anahtarları kim kontrol ediyor?
 ## Cüzdan Anahtarları Yönetir
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Bir cüzdan anahtarları tutar. Bu anahtarlarla bitcoin alabilir ve gönderebilirsiniz; bitcoin'in kendisi ise telefonun veya cihazın içinde değil, ortak defterde kayıtlı kalır.](/micrographics/wallet-manages-keys-01/tr.md)
 
 <!-- notes: Bitcoin cüzdanı, bitcoin almanızı, bakiyenizi kontrol etmenizi ve bitcoin göndermenizi sağlayan, genellikle bir uygulama biçimindeki bir araçtır. Bitcoin'iniz telefonunuzda saklanmaz: blok zincirine kaydedilir. Cüzdan, bitcoin'in size ait olduğunu kanıtlamanızı ve bir ödemeyi onaylamanızı sağlayan anahtarları yönetir. -->
 
@@ -331,6 +338,7 @@ Anahtarlarınızı yeniden oluşturabilen, genellikle 12 veya 24 kelimeden oluş
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Kurtarma ifadesi (seed phrase), sıralı bir kelime listesidir; burada kâğıda yazılmış, numaralandırılmış on iki örnek kelime görülmektedir. Doğru kelimeler doğru sırayla girildiğinde uyumlu bir cüzdanda kontrol yeniden sağlanabilir; bu nedenle gizli ve çevrimdışı tutulmalıdır.](/micrographics/seed-phrase-on-paper-01/tr.md)
 
 <!-- notes: Kurtarma ifadesi yalnızca bir yedek değildir: cüzdanınıza tam erişim sağlar. Cüzdanı oluşturduğunuzda ifadeyi kâğıda eksiksiz ve doğru bir şekilde yazın; çevrimdışı, gizli ve kaybolmayacağı ya da zarar görmeyeceği bir yerde saklayın. Kurtarma ifadenizin asla fotoğrafını çekmeyin, e-postayla göndermeyin, bulut not uygulamalarında saklamayın, mesajla iletmeyin veya herhangi bir web sitesine yazmayın. Gösterilen kelimeler yalnızca örnektir; gerçek bir kurtarma ifadesini asla göstermeyin veya toplamayın. -->
 
@@ -365,6 +373,7 @@ Anahtarlarınızı yeniden oluşturabilen, genellikle 12 veya 24 kelimeden oluş
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Zincir üstü ödemeler doğrudan Bitcoin'in blok zincirine kaydedilir; Lightning ise hızlı ve sık ödemeler için Bitcoin üzerine kurulu, ancak ödemelerin başarısız da olabildiği bir ödeme ağıdır. Her iki yol da emanetçili veya kendi kendine saklamalı olabilir.](/micrographics/on-chain-and-lightning-01/tr.md)
 
 ---
 
@@ -375,7 +384,8 @@ Anahtarlarınızı yeniden oluşturabilen, genellikle 12 veya 24 kelimeden oluş
 * **Güvenmeyin, Doğrulayın.** Kişiyi, ödeme yöntemini, adresi ve miktarı kontrol edin.
 
 
-> **Callout – Alım bilgilerinizi paylaşın, sırlarınızı asla**
+<!-- card: callout -->
+> **Alım bilgilerinizi paylaşın, sırlarınızı asla**
 >
 > Bir adres veya ödeme talebi paylaşılabilir. Kurtarma ifadesi (seed phrase) veya özel anahtar asla paylaşılmamalıdır. Hiçbir meşru eğitmen, cüzdan şirketi veya destek çalışanı bunu sizden asla istemez.
 
@@ -389,6 +399,7 @@ Biri aciliyet ya da gizlilik havası yaratıyorsa, garantili getiri vaat ediyors
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Beş dolandırıcılık uyarı işareti: aciliyet, kimliğe bürünme, değiştirilmiş hedef adres, garantili getiri ve gizli bilgi talepleri.](/micrographics/scam-red-flags-01/tr.md)
 
 ---
 
@@ -408,7 +419,8 @@ Bu daha sadece başlangıç.
 * **Bu yalnızca bir başlangıç.** Güvenli bir sonraki adım yeterlidir.
 
 
-> **Callout – Düşünme zamanı**
+<!-- card: callout -->
+> **Düşünme zamanı**
 >
 > Başlangıçtaki beş soruya geri dönün. Şimdi nasıl yanıt verirdiniz?
 

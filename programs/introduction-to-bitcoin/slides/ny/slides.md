@@ -40,7 +40,8 @@ Osati kuipeza, osati kuigwiritsa ntchito, koma kuganizira kuti ndi chiyani koman
 * Kodi ndalama zanu zimagulabe zinthu zochuluka mofanana ndi kale?
 
 
-> **Callout – Sungani mayankho anu**
+<!-- card: callout -->
+> **Sungani mayankho anu**
 >
 > Lembani yankho lalifupi pa funso lililonse. Mudzabwereranso ku mayankhowo pamapeto pake.
 
@@ -85,6 +86,7 @@ Anthu onse awiri ayenera kufuna zimene winayo ali nazo, pa nthawi yomweyo komans
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina ali ndi mpunga ndipo akufuna nsapato, Luis ali ndi nsapato ndipo akufuna mafuta ophikira, ndipo Mei ali ndi mafuta ophikira ndipo akufuna ntchito yokonza zinthu. Palibe awiri amene angasinthane zinthu mwachindunji, chifukwa pa awiri aliwonse palibe amene akufuna zimene winayo akupereka.](/micrographics/barter-mismatch-01/ny.md)
 
 <!-- notes: Gwiritsani ntchito chitsanzo cha m’bukhu lophunzitsira: mumalima mpunga ndipo mukufuna nsapato, koma wopanga nsapato akufuna mafuta ophikira, osati mpunga. Akatswiri a zachuma amatcha zimenezi kugwirizana kwa zofuna za anthu awiri, pamene aliyense akufuna chimene mnzakeyo ali nacho. -->
 
@@ -151,6 +153,7 @@ Anthu akamva mawu akuti kukwera kwa mitengo, nthawi zambiri amaganiza za mitengo
 ## Kukwera kwa Mitengo ndi Mphamvu Yogulira
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Mayunitsi 100 omwewo a ndalama amatha kugula zonse zomwe zili m’dengu la katundu wofunika pa moyo pamene dengulo likuwononga 100, koma osati pamene dengu lomwelo likuwononga 110. Mulingo wa mitengo wakwera ndipo mphamvu yogulira ya ndalamazo yachepa.](/micrographics/same-money-smaller-basket-01/ny.md)
 
 <!-- notes: Kukwera kwa mitengo ndi kuwonjezeka kosalekeza kwa mitengo ya katundu ndi ntchito pa mlingo wamba. Mbali yake ina ndi mphamvu yogulira: kuchuluka kwa zinthu zimene gawo limodzi la ndalama lingagule. Ngati mtengo wa dengu la zinthu zofunika pa moyo ukwera kuchokera pa magawo 100 a ndalama kufika pa 110, magawo 100 omwewo sangathenso kugula zonse za m’dengulo. -->
 
@@ -213,8 +216,7 @@ Ndalama zimene zili mu akaunti yanu ya kubanki n'zosiyana ndi ndalama zimene mul
 * Koma kuchuluka kwake ndi malamulo ake zingasinthe, ndipo anthu amene amaigwiritsa ntchito alibe mphamvu zambiri pa zisankho zake
 
 
-> **Callout**
->
+<!-- card: callout -->
 > N’chifukwa chake anthu amafunafuna njira zina, komanso chifukwa chake Bitcoin inapangidwa.
 
 ---
@@ -233,6 +235,7 @@ Ndalama za digito zomwe sizilamulidwa ndi bungwe limodzi, zili ndi malire pa kuc
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Pogwiritsa ntchito kampani yolipirira, bungwe limodzi limasunga kaundula wa zochitika zandalama ndi kuvomereza kutumiza kulikonse. Pogwiritsa ntchito Bitcoin, wotumiza amasainira chochitika chandalama, makompyuta odziyimira pawokha a pa netiweki amachitsimikizira ndipo okumba bitcoin amachionjezera ku kaundula mmodzi wa zochitika zandalama wogawana, motero wolandira sadalira kwambiri bungwe limodzi lolamulira.](/micrographics/central-ledger-vs-bitcoin-01/ny.md)
 
 <!-- notes: Bitcoin isanabwere, kutumiza ndalama pa intaneti nthawi zonse kunkadalira bungwe lodalirika: banki kapena kampani yoyendetsa malipiro imene inkasunga buku la zolemba za ndalama, kuvomereza maakaunti, ndipo inkatha kuchedwetsa, kuletsa, kapena kubweza malipiro. Uthenga wa digito ndi wosavuta kukopera: ngati khobidi la digito likanatha kugwiritsidwa ntchito kawiri, silikanatha kugwira ntchito ngati ndalama. Ili ndi vuto la kugwiritsa ntchito ndalama zomwezo kawiri. Satoshi Nakamoto ndi munthu kapena gulu limene limagwiritsa ntchito dzinali. -->
 
@@ -253,6 +256,7 @@ Palibe kampani imene ingaletse kugwiritsa ntchito bitcoin zimene mukuzilamulira 
 ## Malire Omwe Aliyense Angathe Kutsimikizira
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Malire a kuchuluka kwa ndalama olembedwa pa webusaiti kapena m'nkhokwe ya deta ya wotulutsa ndalamazo akhoza kusinthidwa mwakachetechete ndi wotulutsayo. Lamulo la kuchuluka kwa ndalama za Bitcoin ndi lapoyera, ndipo masiginecha, mbiri yapoyera, umboni wa ntchito ndi kutsimikizira kochitidwa ndi manodi zimagwirira ntchito limodzi poletsa kupanga ndalama zatsopano zosaloledwa kapena kugwiritsa ntchito bitcoin yomweyo kawiri.](/micrographics/claimed-or-verified-supply-01/ny.md)
 
 <!-- notes: Ma bitcoin atsopano amatulutsidwa motsatira ndondomeko yodziwika kwa anthu onse, ndipo makompyuta odziyimira pawokha otchedwa ma node amakana buloko iliyonse yophwanya lamulolo. Malirewa ndi odalirika chifukwa aliyense akhoza kuwatsimikizira. Si lamulo la chilengedwe: amatsatiridwa chifukwa otenga nawo mbali amapitiriza kuonetsetsa kuti akutsatiridwa. Kuchuluka kochepa kwa bitcoin sikutsimikizira kuti mtengo udzakwera; mtengo umadalira kuchuluka kwa zimene anthu akufuna kugula komanso kuchuluka kwa zimene zilipo. -->
 
@@ -264,6 +268,7 @@ bitcoin imodzi imagawika m'magawo ang'onoang'ono 100,000,000 otchedwa satoshis, 
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Tebulo la mizati iwiri: 1 BTC ndi 100,000,000 sats, 0.1 BTC ndi 10,000,000 sats, 0.01 BTC ndi 1,000,000 sats, 0.001 BTC ndi 100,000 sats, ndipo 0.00000001 BTC ndi 1 sat.](/micrographics/bitcoin-and-sats-01/ny.md)
 
 <!-- notes: Kukhala ndi 100,000 sats ndi kukhala ndi 0.001 bitcoin kumatanthauza kukhala ndi ndalama zofanana. Fotokozani kuti maganizo akuti Bitcoin ndi yosatheka kuipeza chifukwa bitcoin imodzi ndi yokwera mtengo ndi olakwika. -->
 
@@ -272,6 +277,7 @@ bitcoin imodzi imagawika m'magawo ang'onoang'ono 100,000,000 otchedwa satoshis, 
 ## Ndani Amaonetsetsa Kuti Bitcoin Ikugwira Ntchito?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Maudindo anayi mu Bitcoin: ogwiritsa ntchito amalandira, kusunga ndi kutumiza bitcoin, nodi zimatsimikizira paokha ngati malamulo akutsatiridwa, okumba amapanga mabuloko oti avomerezedwe pogwiritsa ntchito umboni wa ntchito, ndipo opanga mapulogalamu amapereka malingaliro a mapulogalamu. Palibe udindo umodzi umene umalamulira netiweki.](/micrographics/bitcoin-participant-roles-01/ny.md)
 
 <!-- notes: Ogwiritsa ntchito amatumiza, kulandira ndi kusunga bitcoin; ma node amaonetsetsa kuti kutumizirana kulikonse ndi buloko lililonse zikutsatira malamulo; okumba amapikisana kuti awonjezere buloko latsopano pa mbiri pafupifupi mphindi khumi zilizonse. Mbiri imeneyo, yotchedwa blockchain, ndi yoonekera kwa aliyense ndipo kuilembanso kumawononga ndalama zambiri. Mfundo yokhudza kalembedwe: Bitcoin yokhala ndi B wamkulu nthawi zambiri imatanthauza netiweki kapena dongosolo; bitcoin yokhala ndi b wamng’ono imatanthauza ndalamazo zokha. -->
 
@@ -307,6 +313,7 @@ Funso loyamba lokhudza waleti iliyonse: ndani amalamulira makiyi?
 ## Chikwama Chimasamalira Makiyi
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Chikwama chimasunga makiyi. Ndi makiyiwo mungathe kulandira ndi kutumiza bitcoin, pamene bitcoin yeniyeniyo imakhalabe yolembedwa pa leja yogawana, osati mkati mwa foni kapena chipangizo.](/micrographics/wallet-manages-keys-01/ny.md)
 
 <!-- notes: Chikwama cha Bitcoin ndi chida, nthawi zambiri pulogalamu, chomwe chimakulolani kulandira, kuona kuchuluka kwa bitcoin yanu, ndi kutumiza bitcoin. Bitcoin yanu sisungidwa mkati mwa foni yanu: imalembedwa pa blockchain. Chikwamacho chimasamalira makiyi omwe amakuthandizani kutsimikizira kuti bitcoin ndi yanu komanso kuvomereza kuti malipiro achitike. -->
 
@@ -331,6 +338,7 @@ Mndandanda wa mawu otsatizana mwadongosolo, nthawi zambiri 12 kapena 24, womwe u
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Mawu obwezeretsera chikwama ndi mndandanda wa mawu otsatizana mwadongosolo; pano pali mawu khumi ndi awiri achitsanzo olembedwa papepala ndi kuikidwa manambala. Mawu olondola otsatizana moyenera angabwezeretse ulamuliro wa chikwama chogwirizana nawo, choncho amasungidwa mwachinsinsi komanso popanda kulumikizidwa ndi intaneti.](/micrographics/seed-phrase-on-paper-01/ny.md)
 
 <!-- notes: Mawu obwezeretsera chikwama si ongokuthandizani kubwezeretsa chikwama chokha: amapereka mwayi wonse wochigwiritsa ntchito. Mukamapanga chikwama, lembani mawuwo molondola papepala; asungeni popanda intaneti, mwachinsinsi, ndiponso pamalo amene sangatayike kapena kuwonongeka. Musawajambule chithunzi, kuwatumiza pa imelo, kuwasunga m’zolemba za pa mtambo, kuwatumiza mu uthenga, kapena kuwalemba pa webusaiti. Mawu amene asonyezedwa ndi chitsanzo chokha; musasonyeze kapena kusonkhanitsa mawu enieni obwezeretsera chikwama. -->
 
@@ -365,6 +373,7 @@ Mndandanda wa mawu otsatizana mwadongosolo, nthawi zambiri 12 kapena 24, womwe u
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Malipiro a pa unyolo wa mabuloko amalembedwa mwachindunji mu unyolo wa mabuloko wa Bitcoin, pamene Lightning ndi netiweki yolipirira yomangidwa pa Bitcoin kuti malipiro azichitika mofulumira komanso pafupipafupi, ngakhale malipirowo akhozanso kulephereka. Pa njira iliyonse mwa ziwirizi, ndalama zanu zingasamalidwe ndi munthu wina kapena ndi inu nokha.](/micrographics/on-chain-and-lightning-01/ny.md)
 
 ---
 
@@ -375,7 +384,8 @@ Mndandanda wa mawu otsatizana mwadongosolo, nthawi zambiri 12 kapena 24, womwe u
 * **Musangokhulupirira, Tsimikizirani.** Yang'anani munthuyo, njira yolipirira, adiresi, ndi kuchuluka kwa ndalama.
 
 
-> **Callout – Gawani uthenga wolandirira ndalama, osagawana zinsinsi**
+<!-- card: callout -->
+> **Gawani uthenga wolandirira ndalama, osagawana zinsinsi**
 >
 > Adiresi kapena pempho lolipira zingagawidwe. Mawu obwezeretsera chikwama kapena kiyi wachinsinsi siziyenera kugawidwa konse. Palibe mphunzitsi wovomerezeka, kampani ya zikwama zadijito, kapena wothandiza makasitomala amene angakufunseni zimenezi.
 
@@ -389,6 +399,7 @@ Imani ngati wina akukukakamizani kuchita zinthu mwachangu kapena mwachinsinsi, a
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Zizindikiro zisanu zochenjeza za chinyengo: kukupanikizani kuti muchitepo kanthu mwachangu, kudzinamizira kuti ndi munthu wina, kusintha kumene ndalama zikutumizidwa, kulonjeza phindu lotsimikizika ndi kupempha zinsinsi.](/micrographics/scam-red-flags-01/ny.md)
 
 ---
 
@@ -408,7 +419,8 @@ Ichi ndi chiyambi chabe.
 * **Ichi ndi chiyambi chabe.** Sitepe imodzi yotsatira yotetezeka ndi yokwanira.
 
 
-> **Callout – Nthawi yosinkhasinkha**
+<!-- card: callout -->
+> **Nthawi yosinkhasinkha**
 >
 > Bwererani ku mafunso asanu oyambirira aja. Kodi mungayankhe bwanji tsopano?
 

@@ -40,7 +40,8 @@ Si kuipata, si kuitumia, bali kutafakari ni nini na jinsi inavyofanya kazi.
 * Je, pesa zenu zinanunua kiasi kilekile kama hapo awali?
 
 
-> **Callout – Hifadhini majibu yenu**
+<!-- card: callout -->
+> **Hifadhini majibu yenu**
 >
 > Andikeni jibu fupi kwa kila swali. Mtayarudia mwishoni.
 
@@ -85,6 +86,7 @@ Watu wote wawili lazima watake kile ambacho mwenzake anacho, kwa wakati mmoja na
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina ana mchele na anataka viatu, Luis ana viatu na anataka mafuta ya kupikia, na Mei ana mafuta ya kupikia na anataka kazi ya matengenezo. Hakuna jozi inayoweza kubadilishana moja kwa moja, kwa sababu katika kila jozi hakuna mtu anayetaka kile ambacho mwenzake anatoa.](/micrographics/barter-mismatch-01/sw.md)
 
 <!-- notes: Tumia mfano wa mwongozo: unalima mpunga na unahitaji viatu, lakini fundi viatu anataka mafuta ya kupikia, si mpunga. Wanauchumi huita hali hii sadfa maradufu ya mahitaji. -->
 
@@ -151,6 +153,7 @@ Watu wanaposikia neno mfumuko wa bei, kwa kawaida hufikiria kupanda kwa bei.
 ## Mfumuko wa Bei na Uwezo wa Kununua
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Vipimo 100 vilevile vya sarafu vinanunua kapu lote la bidhaa za msingi linapogharimu 100, lakini si pale kapu lilelile linapogharimu 110. Kiwango cha bei kimepanda na uwezo wa pesa wa kununua umeshuka.](/micrographics/same-money-smaller-basket-01/sw.md)
 
 <!-- notes: Mfumuko wa bei ni ongezeko endelevu la kiwango cha jumla cha bei. Upande wake mwingine ni uwezo wa kununua: kiasi ambacho kipimo kimoja cha pesa kinaweza kununua. Ikiwa kikapu cha bidhaa za msingi kinapanda kutoka vipimo 100 vya sarafu hadi 110, vipimo vile vile 100 havinunui tena kikapu kizima. -->
 
@@ -213,8 +216,7 @@ Salio la benki ni tofauti na pesa taslimu iliyo mkononi mwako: ni ahadi ya benki
 * Lakini ugavi wake na kanuni zake zinaweza kubadilika, na watu wanaoitumia hawana sauti kubwa
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Hii ndiyo sababu watu hutafuta njia mbadala, na ndiyo sababu Bitcoin iliundwa.
 
 ---
@@ -233,6 +235,7 @@ Pesa ya kidijitali isiyodhibitiwa na mamlaka kuu, yenye kiasi kilichowekewa kiko
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Kwa kampuni ya malipo, shirika moja linatunza leja na kuidhinisha kila uhamisho. Kwa Bitcoin, mtumaji anatia sahihi muamala, nodi huru zinaukagua na wachimbaji wanauongeza kwenye leja moja ya pamoja, hivyo mpokeaji anategemea kidogo mamlaka kuu.](/micrographics/central-ledger-vs-bitcoin-01/sw.md)
 
 <!-- notes: Kabla ya Bitcoin, kutuma pesa mtandaoni kulitegemea daima taasisi inayoaminika: benki au kampuni ya malipo iliyotunza leja, iliyoidhinisha akaunti, na iliyoweza kuchelewesha, kuzuia, au kubatilisha malipo. Taarifa za kidijitali ni rahisi kunakiliwa: ikiwa sarafu ya kidijitali ingeweza kutumika mara mbili, isingeweza kufanya kazi kama pesa. Hili ndilo tatizo la matumizi mara mbili. Satoshi Nakamoto ni mtu au kikundi kinachotumia jina hilo. -->
 
@@ -253,6 +256,7 @@ Hakuna kampuni inayoweza kuzuia bitcoin ambazo mnazidhibiti wenyewe. Upande mwin
 ## Kikomo Ambacho Mtu Yeyote Anaweza Kukihakiki
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Kikomo cha ugavi kilichoandikwa kwenye tovuti au katika hifadhidata ya mtoaji kinaweza kubadilishwa kimyakimya na mtoaji huyo. Kanuni ya ugavi ya Bitcoin iko wazi kwa umma, na sahihi, historia iliyo wazi kwa umma, uthibitisho wa kazi na uhakiki wa nodi kwa pamoja huzuia sarafu mpya kubuniwa au bitcoin ileile kutumiwa mara mbili.](/micrographics/claimed-or-verified-supply-01/sw.md)
 
 <!-- notes: Bitcoin mpya hutolewa kwa ratiba iliyo wazi kwa umma, na kompyuta huru zinazoitwa nodi hukataa bloku yoyote inayokiuka kanuni hiyo. Kikomo hiki kinaaminika kwa sababu mtu yeyote anaweza kukihakiki. Si sheria ya asili: kinadumu kwa sababu washiriki wanaendelea kukisimamia. Ugavi wenye kikomo hauhakikishi kwamba bei itapanda; bei hutegemea mahitaji pamoja na ugavi. -->
 
@@ -264,6 +268,7 @@ Kila bitcoin moja hugawanyika katika vipimo vidogo 100,000,000 vinavyoitwa satos
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Jedwali lenye safu mbili: BTC 1 ni sats 100,000,000, BTC 0.1 ni sats 10,000,000, BTC 0.01 ni sats 1,000,000, BTC 0.001 ni sats 100,000, na BTC 0.00000001 ni sat 1.](/micrographics/bitcoin-and-sats-01/sw.md)
 
 <!-- notes: Kumiliki sats 100,000 na kumiliki bitcoin 0.001 kunaelezea kiasi kilekile. Rekebisha dhana potofu kwamba Bitcoin haifikiki kwa sababu bitcoin moja ni ghali. -->
 
@@ -272,6 +277,7 @@ Kila bitcoin moja hugawanyika katika vipimo vidogo 100,000,000 vinavyoitwa satos
 ## Nani Huendesha Bitcoin?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Majukumu manne katika Bitcoin: watumiaji hupokea, huhifadhi na kutuma bitcoin, nodi huthibitisha kanuni kwa kujitegemea, wachimbaji huunda bloku pendekezwa kwa uthibitisho wa kazi, na wasanidi programu hupendekeza programu. Hakuna jukumu moja linalodhibiti mtandao.](/micrographics/bitcoin-participant-roles-01/sw.md)
 
 <!-- notes: Watumiaji hutuma, hupokea na kuhifadhi bitcoin; nodi hukagua kila muamala na kila bloku dhidi ya kanuni; wachimbaji hushindana kuongeza bloku mpya kwenye rekodi takriban kila dakika kumi. Rekodi hiyo, yaani blockchain, ni ya umma na ni ghali sana kuiandika upya. Dokezo kuhusu tahajia: Bitcoin yenye herufi kubwa B kwa kawaida humaanisha mtandao au mfumo; bitcoin yenye herufi ndogo b humaanisha pesa yenyewe. -->
 
@@ -307,6 +313,7 @@ Swali la kwanza kuhusu pochi yoyote: nani anadhibiti funguo?
 ## Pochi Husimamia Funguo
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Pochi inahifadhi funguo. Kwa funguo hizo unaweza kupokea na kutuma bitcoin, huku bitcoin yenyewe ikibaki imerekodiwa kwenye leja ya pamoja, si ndani ya simu au kifaa.](/micrographics/wallet-manages-keys-01/sw.md)
 
 <!-- notes: Pochi ya Bitcoin ni chombo, kwa kawaida programu, kinachokuwezesha kupokea, kukagua na kutuma bitcoin. Bitcoin yako haihifadhiwi ndani ya simu yako: imerekodiwa kwenye blockchain. Pochi husimamia funguo zinazokuwezesha kuthibitisha kwamba ni yako na kuidhinisha malipo. -->
 
@@ -331,6 +338,7 @@ Orodha ya maneno yaliyopangwa kwa mfuatano, mara nyingi 12 au 24, inayoweza kuun
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Kifungu cha maneno ya urejeshaji (seed phrase) ni orodha ya maneno yaliyopangwa kwa mpangilio maalum; hapa ni maneno kumi na mawili ya mfano yenye namba, yaliyoandikwa kwenye karatasi. Maneno sahihi kwa mpangilio sahihi yanaweza kurejesha udhibiti katika pochi inayooana, kwa hivyo kifungu hiki hutunzwa kwa siri na nje ya mtandao.](/micrographics/seed-phrase-on-paper-01/sw.md)
 
 <!-- notes: Kifungu cha maneno ya urejeshaji (seed phrase) si nakala ya akiba tu: kinatoa ufikiaji kamili. Kiandike kwa usahihi kwenye karatasi unapounda pochi; kihifadhi nje ya mtandao, kwa siri, na mahali ambapo hakitapotea wala kuharibika. Kamwe usikipige picha, usikitume kwa barua pepe, usikihifadhi katika madokezo ya wingu, usikitume kwa ujumbe, wala usikiandike kwenye tovuti yoyote. Maneno yanayoonyeshwa ni mfano tu; kamwe usionyeshe wala usikusanye kifungu halisi cha maneno ya urejeshaji. -->
 
@@ -365,6 +373,7 @@ Orodha ya maneno yaliyopangwa kwa mfuatano, mara nyingi 12 au 24, inayoweza kuun
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Malipo ya on-chain hurekodiwa moja kwa moja katika blockchain ya Bitcoin, ilhali Lightning ni mtandao wa malipo uliojengwa juu ya Bitcoin kwa ajili ya malipo ya haraka na ya mara kwa mara, ambayo pia yanaweza kushindwa. Njia yoyote kati ya hizi inaweza kuwa ya uhifadhi na mtu mwingine (custodial) au ya kujihifadhi mwenyewe (self-custodial).](/micrographics/on-chain-and-lightning-01/sw.md)
 
 ---
 
@@ -375,7 +384,8 @@ Orodha ya maneno yaliyopangwa kwa mfuatano, mara nyingi 12 au 24, inayoweza kuun
 * **Usiamini, Thibitisha.** Hakikisheni mtu, njia ya malipo, anwani, na kiasi.
 
 
-> **Callout – Shirikini taarifa za kupokea, kamwe si siri**
+<!-- card: callout -->
+> **Shirikini taarifa za kupokea, kamwe si siri**
 >
 > Anwani au ombi la malipo linaweza kushirikiwa. Maneno ya mbegu (seed phrase) au ufunguo wa kibinafsi havipaswi kamwe kushirikiwa. Hakuna mwalimu halali, kampuni ya pochi, au mhudumu wa msaada atakayewahi kuviomba.
 
@@ -389,6 +399,7 @@ Simameni mtu akileta haraka au usiri, akiahidi faida zilizohakikishwa, akiwaomba
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Ishara tano za tahadhari za utapeli: shinikizo la haraka, kujifanya mtu mwingine, mahali pa kutuma palipobadilishwa, faida zilizohakikishwa na maombi ya siri.](/micrographics/scam-red-flags-01/sw.md)
 
 ---
 
@@ -408,7 +419,8 @@ Huu ni mwanzo tu.
 * **Huu ni mwanzo tu.** Hatua moja salama inayofuata inatosha.
 
 
-> **Callout – Muda wa kutafakari**
+<!-- card: callout -->
+> **Muda wa kutafakari**
 >
 > Rudini kwenye maswali matano ya mwanzoni. Mngejibu nini sasa?
 

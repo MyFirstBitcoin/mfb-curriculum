@@ -40,7 +40,8 @@ Ikke at tjene dem, ikke at bruge dem, men at tænke over, hvad penge er, og hvor
 * Kan De købe lige så meget for Deres penge som før?
 
 
-> **Callout – Gem Deres svar**
+<!-- card: callout -->
+> **Gem Deres svar**
 >
 > Skriv et kort svar på hvert spørgsmål. De vender tilbage til dem til sidst.
 
@@ -85,6 +86,7 @@ Begge personer skal ønske det, den anden har, på samme tid og i passende mæng
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina har ris og ønsker sko, Luis har sko og ønsker madolie, og Mei har madolie og ønsker reparationsarbejde. Ingen af parrene kan handle direkte med hinanden, fordi ingen af personerne i et par ønsker det, den anden tilbyder.](/micrographics/barter-mismatch-01/da.md)
 
 <!-- notes: Brug vejledningens eksempel: De dyrker ris og har brug for sko, men skomageren vil have madolie, ikke ris. Økonomer kalder dette det dobbelte sammenfald af behov. -->
 
@@ -151,6 +153,7 @@ Når folk hører ordet inflation, tænker de som regel på stigende priser.
 ## Inflation og købekraft
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[De samme 100 valutaenheder kan købe hele varekurven med basale varer, når den koster 100, men ikke når den samme varekurv koster 110. Prisniveauet er steget, og pengenes købekraft er faldet.](/micrographics/same-money-smaller-basket-01/da.md)
 
 <!-- notes: Prisinflation er en vedvarende stigning i det generelle prisniveau. Bagsiden er købekraften: hvor meget man kan købe for en pengeenhed. Hvis prisen på en kurv med basale varer stiger fra 100 valutaenheder til 110, kan man ikke længere købe hele kurven for de samme 100 enheder. -->
 
@@ -213,8 +216,7 @@ Et indestående i banken er noget andet end kontanter i Deres hånd: Det er bank
 * Men udbuddet og reglerne kan ændre sig, og de mennesker, der bruger det, har kun ringe indflydelse
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Derfor søger folk efter alternativer, og derfor blev Bitcoin skabt.
 
 ---
@@ -233,6 +235,7 @@ Digitale penge, der er decentraliserede, findes i en begrænset mængde og kan s
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Hos en betalingsvirksomhed fører én organisation regnskabet og godkender hver overførsel. Med Bitcoin underskriver afsenderen en transaktion, uafhængige noder kontrollerer den, og minere føjer den til ét fælles regnskab, så modtageren er mindre afhængig af en central myndighed.](/micrographics/central-ledger-vs-bitcoin-01/da.md)
 
 <!-- notes: Før Bitcoin var det altid nødvendigt at stole på en organisation for at sende penge online: en bank eller et betalingsfirma, som førte regnskabet, godkendte konti og kunne forsinke, blokere eller tilbageføre en betaling. Digital information er nem at kopiere: Hvis en digital mønt kunne bruges to gange, kunne den ikke fungere som penge. Dette er problemet med dobbeltforbrug. Satoshi Nakamoto er en person eller gruppe, der bruger dette navn. -->
 
@@ -253,6 +256,7 @@ Ingen virksomhed kan indefryse bitcoin, som De selv kontrollerer. Bagsiden af de
 ## En grænse, alle kan kontrollere
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[En grænse for pengemængden, der er angivet på en hjemmeside eller i en udsteders database, kan ændres i det skjulte af udstederen. Bitcoins regel for pengemængden er offentlig, og signaturer, en offentlig historik, arbejdsbevis og nodernes kontrol forhindrer tilsammen, at nye mønter opfindes, eller at den samme bitcoin bruges to gange.](/micrographics/claimed-or-verified-supply-01/da.md)
 
 <!-- notes: Nye bitcoin udstedes efter en offentligt kendt tidsplan, og uafhængige computere, kaldet noder, afviser enhver blok, der bryder denne regel. Grænsen er troværdig, fordi alle kan kontrollere den. Den er ikke en naturlov: Den gælder, fordi deltagerne bliver ved med at håndhæve den. Et begrænset udbud garanterer ikke, at prisen vil stige; prisen afhænger af både efterspørgsel og udbud. -->
 
@@ -264,6 +268,7 @@ Ingen virksomhed kan indefryse bitcoin, som De selv kontrollerer. Bagsiden af de
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[En tabel med to kolonner: 1 BTC er 100.000.000 sats, 0,1 BTC er 10.000.000 sats, 0,01 BTC er 1.000.000 sats, 0,001 BTC er 100.000 sats, og 0,00000001 BTC er 1 sat.](/micrographics/bitcoin-and-sats-01/da.md)
 
 <!-- notes: At eje 100.000 sats og at eje 0,001 bitcoin er det samme beløb. Gør op med misforståelsen om, at Bitcoin er uden for rækkevidde, fordi én bitcoin er dyr. -->
 
@@ -272,6 +277,7 @@ Ingen virksomhed kan indefryse bitcoin, som De selv kontrollerer. Bagsiden af de
 ## Hvem holder Bitcoin kørende?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Fire roller i Bitcoin: Brugere modtager, opbevarer og sender bitcoin, noder verificerer uafhængigt reglerne, minere opbygger kandidatblokke med proof of work, og udviklere foreslår software. Ingen enkelt rolle kontrollerer netværket.](/micrographics/bitcoin-participant-roles-01/da.md)
 
 <!-- notes: Brugere sender, modtager og opbevarer bitcoin; noder kontrollerer, at hver transaktion og hver blok overholder reglerne; minere konkurrerer om at føje en ny blok til registret cirka hvert tiende minut. Dette register, blockchainen, er offentligt og meget dyrt at omskrive. En bemærkning om stavemåden: Bitcoin med stort B betyder normalt netværket eller systemet; bitcoin med lille b betyder selve pengene. -->
 
@@ -307,6 +313,7 @@ Det første spørgsmål om enhver wallet: Hvem kontrollerer nøglerne?
 ## En wallet administrerer nøgler
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[En wallet opbevarer nøglerne. Med dem kan De modtage og sende bitcoin, mens selve bitcoinene forbliver registreret i den fælles hovedbog, ikke i telefonen eller enheden.](/micrographics/wallet-manages-keys-01/da.md)
 
 <!-- notes: En Bitcoin-tegnebog er et værktøj, som regel en app, der giver Dem mulighed for at modtage, se Deres saldo og sende bitcoin. Deres bitcoin opbevares ikke på Deres telefon: De er registreret på blockchainen. Tegnebogen håndterer de nøgler, der gør det muligt for Dem at bevise, at Deres bitcoin tilhører Dem, og godkende en betaling. -->
 
@@ -331,6 +338,7 @@ En ordnet liste over ord, ofte 12 eller 24, som kan genskabe Deres nøgler. Enhv
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[En seed phrase er en ordnet liste af ord, her tolv nummererede eksempelord skrevet på papir. De rigtige ord i den rigtige rækkefølge kan genoprette kontrollen i en kompatibel wallet, så listen holdes hemmelig og offline.](/micrographics/seed-phrase-on-paper-01/da.md)
 
 <!-- notes: Seedfrasen er ikke kun en sikkerhedskopi: den giver fuld adgang. Skriv den nøjagtigt ned på papir, når De opretter tegnebogen; opbevar den offline, utilgængeligt for andre og et sted, hvor den ikke bliver væk eller beskadiget. Tag aldrig et billede af den, send den aldrig via e-mail eller i en besked, gem den aldrig i noter i skyen, og indtast den aldrig på et websted. De viste ord er kun et eksempel; vis eller indsaml aldrig en rigtig seedfrase. -->
 
@@ -365,6 +373,7 @@ En ordnet liste over ord, ofte 12 eller 24, som kan genskabe Deres nøgler. Enhv
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[On-chain-betalinger registreres direkte i Bitcoins blockchain, mens Lightning er et betalingsnetværk bygget på Bitcoin til hurtige, hyppige betalinger, som også kan mislykkes. Begge løsninger kan være med tredjepartsopbevaring eller egen opbevaring.](/micrographics/on-chain-and-lightning-01/da.md)
 
 ---
 
@@ -375,7 +384,8 @@ En ordnet liste over ord, ofte 12 eller 24, som kan genskabe Deres nøgler. Enhv
 * **Stol ikke på noget, verificér det.** Kontrollér personen, betalingsmetoden, adressen og beløbet.
 
 
-> **Callout – Del modtagelsesoplysninger, aldrig hemmeligheder**
+<!-- card: callout -->
+> **Del modtagelsesoplysninger, aldrig hemmeligheder**
 >
 > En adresse eller en betalingsanmodning kan deles. En seedfrase eller en privat nøgle må aldrig deles. Ingen legitim underviser, walletudbyder eller supportmedarbejder vil nogensinde bede Dem om den.
 
@@ -389,6 +399,7 @@ Stop, hvis nogen presser Dem til at handle hurtigt eller holde noget hemmeligt, 
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Fem advarselstegn på svindel: tidspres, identitetssvindel, en ændret destination, garanteret afkast og anmodninger om hemmelige oplysninger.](/micrographics/scam-red-flags-01/da.md)
 
 ---
 
@@ -408,7 +419,8 @@ Dette er kun begyndelsen.
 * **Dette er kun begyndelsen.** Ét sikkert skridt videre er nok.
 
 
-> **Callout – Et øjeblik til eftertanke**
+<!-- card: callout -->
+> **Et øjeblik til eftertanke**
 >
 > Vend tilbage til de fem spørgsmål i begyndelsen. Hvad ville De svare nu?
 

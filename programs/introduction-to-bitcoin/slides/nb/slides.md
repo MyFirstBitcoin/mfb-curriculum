@@ -40,7 +40,8 @@ Ikke å tjene dem, ikke å bruke dem, men å tenke på hva penger er og hvordan 
 * Kan De kjøpe like mye for pengene Deres som før?
 
 
-> **Callout – Ta vare på svarene Deres**
+<!-- card: callout -->
+> **Ta vare på svarene Deres**
 >
 > Skriv et kort svar på hvert spørsmål. De vil komme tilbake til dem til slutt.
 
@@ -85,6 +86,7 @@ Begge personene må ønske det den andre har, på samme tidspunkt og i passende 
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina har ris og ønsker sko, Luis har sko og ønsker matolje, og Mei har matolje og ønsker reparasjonsarbeid. Ingen av parene kan bytte direkte, fordi ingen av personene i et par ønsker det den andre tilbyr.](/micrographics/barter-mismatch-01/nb.md)
 
 <!-- notes: Bruk eksempelet i veiledningen: De dyrker ris og trenger sko, men skomakeren vil ha matolje, ikke ris. Økonomer kaller dette dobbelt sammenfall av behov. -->
 
@@ -151,6 +153,7 @@ Når folk hører ordet inflasjon, tenker de vanligvis på at prisene stiger.
 ## Inflasjon og kjøpekraft
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[De samme 100 valutaenhetene er nok til å kjøpe hele varekurven med basisvarer når den koster 100, men ikke når den samme varekurven koster 110. Prisnivået har steget, og pengenes kjøpekraft har falt.](/micrographics/same-money-smaller-basket-01/nb.md)
 
 <!-- notes: Prisinflasjon er en vedvarende økning i det generelle prisnivået. Den andre siden av dette er kjøpekraft: hvor mye én pengeenhet kan kjøpe. Hvis prisen på en kurv med basisvarer stiger fra 100 pengeenheter til 110, vil de samme 100 pengeenhetene ikke lenger være nok til å kjøpe hele kurven. -->
 
@@ -213,8 +216,7 @@ En banksaldo er noe annet enn kontanter De har i hånden: Den er bankens løfte 
 * Men pengemengden og reglene kan endres, og de som bruker pengene, har liten innflytelse
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Det er derfor folk ser etter alternativer, og derfor Bitcoin ble skapt.
 
 ---
@@ -233,6 +235,7 @@ Digitale penger som er desentraliserte, har en begrenset mengde og kan sendes di
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Hos et betalingsselskap fører én organisasjon regnskapet og godkjenner hver overføring. Med Bitcoin signerer avsenderen en transaksjon, uavhengige noder kontrollerer den, og utvinnere legger den til i ett felles regnskap, slik at mottakeren er mindre avhengig av en sentral myndighet.](/micrographics/central-ledger-vs-bitcoin-01/nb.md)
 
 <!-- notes: Før Bitcoin var det å sende penger på nettet alltid avhengig av en betrodd organisasjon: en bank eller et betalingsselskap som førte regnskapet, godkjente kontoer og kunne forsinke, blokkere eller reversere en betaling. Digital informasjon er lett å kopiere: Hvis en digital mynt kunne brukes to ganger, kunne den ikke fungere som penger. Dette er problemet med dobbeltbruk. Satoshi Nakamoto er en person eller gruppe som bruker dette navnet. -->
 
@@ -253,6 +256,7 @@ Ingen bedrift kan fryse bitcoin som De selv kontrollerer. Den andre siden av den
 ## En grense alle kan kontrollere
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[En grense for pengemengden som er skrevet på et nettsted eller i en utsteders database, kan endres i det stille av utstederen. Bitcoins regel for pengemengden er offentlig, og signaturer, en offentlig historikk, arbeidsbevis og verifisering i nodene hindrer sammen at nye mynter blir skapt uten grunnlag, eller at samme bitcoin blir brukt to ganger.](/micrographics/claimed-or-verified-supply-01/nb.md)
 
 <!-- notes: Nye bitcoin utstedes etter en offentlig tidsplan, og uavhengige datamaskiner kalt noder avviser enhver blokk som bryter denne regelen. Grensen er troverdig fordi hvem som helst kan kontrollere den. Den er ingen naturlov: Den opprettholdes fordi deltakerne fortsetter å håndheve den. Et begrenset tilbud garanterer ikke at prisen vil stige; prisen avhenger av både etterspørsel og tilbud. -->
 
@@ -264,6 +268,7 @@ Ingen bedrift kan fryse bitcoin som De selv kontrollerer. Den andre siden av den
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[En tabell med to kolonner: 1 BTC er 100 000 000 sats, 0,1 BTC er 10 000 000 sats, 0,01 BTC er 1 000 000 sats, 0,001 BTC er 100 000 sats, og 0,00000001 BTC er 1 sat.](/micrographics/bitcoin-and-sats-01/nb.md)
 
 <!-- notes: Å eie 100 000 sats og å eie 0,001 bitcoin er to måter å beskrive det samme beløpet på. Ta opp misoppfatningen om at Bitcoin er utenfor økonomisk rekkevidde fordi én bitcoin er dyr. -->
 
@@ -272,6 +277,7 @@ Ingen bedrift kan fryse bitcoin som De selv kontrollerer. Den andre siden av den
 ## Hvem holder Bitcoin i gang?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Fire roller i Bitcoin: Brukere mottar, oppbevarer og sender bitcoin, noder kontrollerer uavhengig at reglene følges, utvinnere bygger kandidatblokker med arbeidsbevis, og utviklere foreslår programvare. Ingen enkeltrolle kontrollerer nettverket.](/micrographics/bitcoin-participant-roles-01/nb.md)
 
 <!-- notes: Brukere sender, mottar og oppbevarer bitcoin; noder kontrollerer hver transaksjon og hver blokk opp mot reglene; utvinnere konkurrerer om å legge til en ny blokk i registeret omtrent hvert tiende minutt. Dette registeret, blokkjeden, er offentlig og svært kostbart å skrive om. En merknad om skrivemåten: Bitcoin med stor B betyr vanligvis nettverket eller systemet; bitcoin med liten b betyr selve pengene. -->
 
@@ -307,6 +313,7 @@ Det første spørsmålet om enhver lommebok: Hvem kontrollerer nøklene?
 ## En lommebok håndterer nøkler
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[En lommebok inneholder nøklene. Med dem kan De motta og sende bitcoin, mens selve bitcoinen forblir registrert i den felles hovedboken, ikke inne i telefonen eller enheten.](/micrographics/wallet-manages-keys-01/nb.md)
 
 <!-- notes: En Bitcoin-lommebok er et verktøy, vanligvis en app, som lar Dem motta, kontrollere og sende bitcoin. Deres bitcoin lagres ikke på telefonen Deres, men er registrert på blokkjeden. Lommeboken håndterer nøklene som lar Dem bevise eierskapet og godkjenne en betaling. -->
 
@@ -331,6 +338,7 @@ En ordnet liste med ord, ofte 12 eller 24, som kan gjenskape nøklene Deres. All
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[En gjenopprettingsfrase er en ordnet liste med ord, her tolv nummererte eksempelord skrevet på papir. De riktige ordene i riktig rekkefølge kan gjenopprette kontrollen i en kompatibel lommebok, så frasen holdes hemmelig og frakoblet.](/micrographics/seed-phrase-on-paper-01/nb.md)
 
 <!-- notes: Gjenopprettingsfrasen er ikke bare en sikkerhetskopi: den gir full tilgang. Skriv den nøyaktig ned på papir når De oppretter lommeboken; oppbevar den uten nettilkobling, utilgjengelig for andre og på et sted der den ikke blir borte eller skadet. Ta aldri bilde av den, send den aldri via e-post eller i en melding, lagre den aldri i skybaserte notater, og skriv den aldri inn på et nettsted. Ordene som vises, er bare et eksempel; vis aldri frem eller samle inn en ekte gjenopprettingsfrase. -->
 
@@ -365,6 +373,7 @@ En ordnet liste med ord, ofte 12 eller 24, som kan gjenskape nøklene Deres. All
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Betalinger på blokkjeden registreres direkte i Bitcoins blokkjede, mens Lightning er et betalingsnettverk bygget på Bitcoin for raske, hyppige betalinger som også kan mislykkes. Med begge alternativene kan midlene oppbevares enten av en tredjepart eller av brukeren selv.](/micrographics/on-chain-and-lightning-01/nb.md)
 
 ---
 
@@ -375,7 +384,8 @@ En ordnet liste med ord, ofte 12 eller 24, som kan gjenskape nøklene Deres. All
 * **Ikke stol på, verifiser.** Kontroller personen, betalingsmåten, adressen og beløpet.
 
 
-> **Callout – Del mottaksinformasjon, aldri hemmeligheter**
+<!-- card: callout -->
+> **Del mottaksinformasjon, aldri hemmeligheter**
 >
 > En adresse eller en betalingsforespørsel kan deles. En gjenopprettingsfrase eller privat nøkkel må aldri deles. Ingen seriøs underviser, lommebokleverandør eller kundestøttemedarbeider vil noen gang be om dette.
 
@@ -389,6 +399,7 @@ Stopp hvis noen skaper tidspress eller krever hemmelighold, lover garantert avka
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Fem faresignaler for svindel: tidspress, identitetsforfalskning, en endret mottakeradresse, garantert avkastning og forespørsler om hemmelige opplysninger.](/micrographics/scam-red-flags-01/nb.md)
 
 ---
 
@@ -408,7 +419,8 @@ Dette er bare begynnelsen.
 * **Dette er bare begynnelsen.** Ett trygt neste steg er nok.
 
 
-> **Callout – Et øyeblikk til ettertanke**
+<!-- card: callout -->
+> **Et øyeblikk til ettertanke**
 >
 > Gå tilbake til de fem spørsmålene i starten. Hva ville De svare nå?
 

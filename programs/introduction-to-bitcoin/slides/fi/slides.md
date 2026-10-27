@@ -40,7 +40,8 @@ Ei sen ansaitsemista eikä kuluttamista, vaan sen pohtimista, mitä se on ja mit
 * Saako rahoillanne yhtä paljon kuin ennen?
 
 
-> **Callout – Säilyttäkää vastauksenne**
+<!-- card: callout -->
+> **Säilyttäkää vastauksenne**
 >
 > Kirjoittakaa lyhyt vastaus jokaiseen kysymykseen. Palaatte vastauksiinne lopuksi.
 
@@ -85,6 +86,7 @@ Molempien on haluttava sitä, mitä toisella on, samaan aikaan ja sopivissa mä�
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina omistaa riisiä ja haluaa kengät, Luis omistaa kengät ja haluaa ruokaöljyä, ja Mei omistaa ruokaöljyä ja haluaa korjaustöitä. Mikään pari ei voi käydä suoraa vaihtokauppaa, koska parin kumpikaan osapuoli ei halua sitä, mitä toinen tarjoaa.](/micrographics/barter-mismatch-01/fi.md)
 
 <!-- notes: Käyttäkää oppaan esimerkkiä: kasvatatte riisiä ja tarvitsette kengät, mutta suutari haluaa ruokaöljyä, ei riisiä. Taloustieteilijät kutsuvat tätä tarpeiden kaksinkertaiseksi yhteensattumaksi. -->
 
@@ -151,6 +153,7 @@ Kun ihmiset kuulevat sanan inflaatio, he ajattelevat yleensä hintojen nousua.
 ## Inflaatio ja ostovoima
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Samoilla 100 rahayksiköllä saa ostettua koko perushyödykkeistä koostuvan ostoskorin, kun se maksaa 100, mutta ei enää silloin, kun sama ostoskori maksaa 110. Hintataso on noussut ja rahan ostovoima on heikentynyt.](/micrographics/same-money-smaller-basket-01/fi.md)
 
 <!-- notes: Hintainflaatio tarkoittaa yleisen hintatason jatkuvaa nousua. Sen kääntöpuoli on ostovoima: kuinka paljon yhdellä rahayksiköllä voi ostaa. Jos perushyödykekorin hinta nousee 100 rahayksiköstä 110 rahayksikköön, samalla 100 rahayksiköllä ei enää saa koko koria. -->
 
@@ -213,8 +216,7 @@ Pankkitilin saldo on eri asia kuin kädessänne oleva käteinen: se on pankin lu
 * Mutta sen tarjonta ja säännöt voivat muuttua, ja sen käyttäjillä on vain vähän sananvaltaa
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Siksi ihmiset etsivät vaihtoehtoja, ja siksi Bitcoin luotiin.
 
 ---
@@ -233,6 +235,7 @@ Digitaalista rahaa, joka on hajautettua, jonka tarjonta on rajallinen ja jota vo
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Maksuyhtiötä käytettäessä yksi organisaatio ylläpitää tilikirjaa ja hyväksyy jokaisen siirron. Bitcoinia käytettäessä lähettäjä allekirjoittaa tapahtuman, riippumattomat solmut tarkistavat sen ja louhijat lisäävät sen yhteen yhteiseen tilikirjaan, joten vastaanottaja on vähemmän riippuvainen keskitetystä tahosta.](/micrographics/central-ledger-vs-bitcoin-01/fi.md)
 
 <!-- notes: Ennen Bitcoinia rahan lähettäminen verkossa oli aina riippuvaista luotetusta organisaatiosta: pankista tai maksuyhtiöstä, joka ylläpiti tilikirjaa, hyväksyi tilit ja saattoi viivyttää, estää tai perua maksun. Digitaalista tietoa on helppo kopioida: jos digitaalisen kolikon voisi käyttää kahdesti, se ei voisi toimia rahana. Tätä kutsutaan kaksoiskulutusongelmaksi. Satoshi Nakamoto on tätä nimeä käyttävä henkilö tai ryhmä. -->
 
@@ -253,6 +256,7 @@ Mikään yritys ei voi jäädyttää bitcoineja, joita hallitsette itse. Tämän
 ## Raja, jonka kuka tahansa voi tarkistaa
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Liikkeeseenlaskija voi muuttaa verkkosivustolle tai omaan tietokantaansa kirjattua tarjonnan enimmäismäärää huomaamatta. Bitcoinin tarjontasääntö on julkinen, ja allekirjoitukset, julkinen historia, työntodiste ja solmujen tekemä tarkistus estävät yhdessä uusien kolikoiden luomisen tyhjästä tai saman bitcoinin käyttämisen kahdesti.](/micrographics/claimed-or-verified-supply-01/fi.md)
 
 <!-- notes: Uusia bitcoineja lasketaan liikkeeseen julkisen aikataulun mukaisesti, ja solmuiksi kutsutut itsenäiset tietokoneet hylkäävät kaikki lohkot, jotka rikkovat tätä sääntöä. Enimmäismäärä on uskottava, koska kuka tahansa voi tarkistaa sen. Se ei ole luonnonlaki: se pysyy voimassa, koska osallistujat valvovat jatkuvasti sen noudattamista. Rajallinen tarjonta ei takaa hinnan nousua, sillä hinta riippuu sekä kysynnästä että tarjonnasta. -->
 
@@ -264,6 +268,7 @@ Yksi bitcoin jakautuu 100 000 000 pienempään yksikköön, joita kutsutaan sato
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Kaksisarakkeinen taulukko: 1 BTC on 100 000 000 satoshia, 0,1 BTC on 10 000 000 satoshia, 0,01 BTC on 1 000 000 satoshia, 0,001 BTC on 100 000 satoshia ja 0,00000001 BTC on 1 satoshi.](/micrographics/bitcoin-and-sats-01/fi.md)
 
 <!-- notes: 100 000 satsin omistaminen ja 0,001 bitcoinin omistaminen tarkoittavat samaa määrää. Oikaiskaa väärinkäsitys, jonka mukaan Bitcoin on saavuttamattomissa, koska yksi bitcoin on kallis. -->
 
@@ -272,6 +277,7 @@ Yksi bitcoin jakautuu 100 000 000 pienempään yksikköön, joita kutsutaan sato
 ## Kuka pitää Bitcoinin toiminnassa?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Bitcoinin neljä roolia: käyttäjät vastaanottavat, säilyttävät ja lähettävät bitcoinia, solmut tarkistavat sääntöjen noudattamisen itsenäisesti, louhijat rakentavat lohkoehdokkaita työntodistuksen avulla ja kehittäjät ehdottavat ohjelmistoja. Mikään yksittäinen rooli ei hallitse verkkoa.](/micrographics/bitcoin-participant-roles-01/fi.md)
 
 <!-- notes: Käyttäjät lähettävät, vastaanottavat ja säilyttävät bitcoinia; solmut tarkistavat, että jokainen siirto ja lohko noudattaa sääntöjä; louhijat kilpailevat uuden lohkon lisäämisestä tapahtumakirjanpitoon noin kymmenen minuutin välein. Tämä kirjanpito eli lohkoketju on julkinen, ja sen uudelleenkirjoittaminen on erittäin kallista. Huomautus kirjoitusasusta: isolla B-kirjaimella kirjoitettu Bitcoin tarkoittaa yleensä verkkoa tai järjestelmää; pienellä b-kirjaimella kirjoitettu bitcoin tarkoittaa itse rahaa. -->
 
@@ -307,6 +313,7 @@ Ensimmäinen kysymys mistä tahansa lompakosta: kuka hallitsee avaimia?
 ## Lompakko hallinnoi avaimia
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Lompakko sisältää avaimet. Niiden avulla voitte vastaanottaa ja lähettää bitcoinia, mutta itse bitcoinit pysyvät kirjattuina yhteiseen tilikirjaan, eivät puhelimen tai laitteen sisälle.](/micrographics/wallet-manages-keys-01/fi.md)
 
 <!-- notes: Bitcoin-lompakko on työkalu, yleensä sovellus, jonka avulla voitte vastaanottaa bitcoinia, tarkistaa saldonne ja lähettää bitcoinia. Omistamanne bitcoinit eivät ole tallennettuina puhelimeenne, vaan ne on kirjattu lohkoketjuun. Lompakko hallinnoi avaimia, joiden avulla voitte todistaa bitcoinien kuuluvan teille ja valtuuttaa maksun. -->
 
@@ -331,6 +338,7 @@ Järjestetty sanalista, jossa on usein 12 tai 24 sanaa ja jonka avulla voitte pa
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Palautuslause on järjestetty sanalista, tässä kaksitoista numeroitua esimerkkisanaa paperille kirjoitettuina. Oikeilla sanoilla oikeassa järjestyksessä voi palauttaa hallinnan yhteensopivassa lompakossa, joten palautuslause pidetään salassa ja verkon ulkopuolella.](/micrographics/seed-phrase-on-paper-01/fi.md)
 
 <!-- notes: Palautuslause ei ole pelkkä varmuuskopio: se antaa täyden pääsyn lompakkoon. Kirjoittakaa se huolellisesti paperille, kun luotte lompakon. Säilyttäkää se verkon ulkopuolella, salassa ja paikassa, jossa se ei katoa tai vahingoitu. Älkää koskaan valokuvatko sitä, lähettäkö sitä sähköpostitse, tallentako sitä pilvipalvelun muistiinpanoihin, lähettäkö sitä viestissä tai kirjoittako sitä verkkosivustolle. Esitetyt sanat ovat vain esimerkki. Älkää koskaan näyttäkö tai kerätkö aitoa palautuslausetta. -->
 
@@ -365,6 +373,7 @@ Järjestetty sanalista, jossa on usein 12 tai 24 sanaa ja jonka avulla voitte pa
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Lohkoketjumaksut kirjataan suoraan Bitcoinin lohkoketjuun, kun taas Lightning on Bitcoinin päälle rakennettu maksuverkko nopeisiin, toistuviin maksuihin, jotka voivat myös epäonnistua. Kumpikin vaihtoehto voi perustua ulkopuoliseen säilytyspalveluun tai omatoimiseen säilytykseen.](/micrographics/on-chain-and-lightning-01/fi.md)
 
 ---
 
@@ -375,7 +384,8 @@ Järjestetty sanalista, jossa on usein 12 tai 24 sanaa ja jonka avulla voitte pa
 * **Älkää luottako, vaan varmistakaa.** Tarkistakaa henkilö, maksutapa, osoite ja summa.
 
 
-> **Callout – Jakakaa vastaanottotietoja, älkää koskaan salaisuuksia**
+<!-- card: callout -->
+> **Jakakaa vastaanottotietoja, älkää koskaan salaisuuksia**
 >
 > Osoitteen tai maksupyynnön voi jakaa. Palautuslausetta tai yksityistä avainta ei saa koskaan jakaa. Yksikään luotettava kouluttaja, lompakkoyritys tai tukihenkilö ei koskaan pyydä niitä.
 
@@ -389,6 +399,7 @@ Pysähtykää, jos joku luo kiireen tuntua tai vaatii salailua, lupaa varmaa tuo
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Viisi huijauksen varoitusmerkkiä: kiireellisyys, toisena esiintyminen, muuttunut maksukohde, taatut tuotot ja salaisia tietoja koskevat pyynnöt.](/micrographics/scam-red-flags-01/fi.md)
 
 ---
 
@@ -408,7 +419,8 @@ Tämä on vasta alkua.
 * **Tämä on vasta alkua.** Yksi turvallinen seuraava askel riittää.
 
 
-> **Callout – Hetki pohdinnalle**
+<!-- card: callout -->
+> **Hetki pohdinnalle**
 >
 > Palatkaa alun viiteen kysymykseen. Mitä vastaisitte nyt?
 

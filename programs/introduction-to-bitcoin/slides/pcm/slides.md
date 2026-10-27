@@ -40,7 +40,8 @@ No be to dey earn am, no be to dey spend am, but to dey think about wetin e be a
 * Your money still fit buy the same quantity of things as before?
 
 
-> **Callout – Keep your answers**
+<!-- card: callout -->
+> **Keep your answers**
 >
 > Write short answer for each question. You go come back to dem for the end.
 
@@ -85,6 +86,7 @@ Di two people must want wetin di other person get, for di same time and for di r
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina get rice and want shoes, Luis get shoes and want cooking oil, and Mei get cooking oil and want repair work. No two of dem fit exchange wetin dem get directly, because for each pair, none of dem want wetin the other person dey offer.](/micrographics/barter-mismatch-01/pcm.md)
 
 <!-- notes: Use di example wey dey di guide: una dey plant rice and una need shoes, but di shoemaker want cooking oil, no be rice. Economists dey call dis di way wetin two people want must match wetin each one get. -->
 
@@ -151,6 +153,7 @@ When people hear the word inflation, wetin dem dey usually think na say price of
 ## As Prices Dey Rise and Wetin Money Fit Buy
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[The same 100 unit of money fit buy everything for the basket of basic things wey person need when e cost 100, but e no fit when the same basket cost 110. Price level don rise and wetin the money fit buy don reduce.](/micrographics/same-money-smaller-basket-01/pcm.md)
 
 <!-- notes: Price inflation na when the general price level of goods and services dey continue to rise. The other side na purchasing power: how much goods and services one unit of money fit buy. If the price of one basket of basic goods rise from 100 units of currency to 110, the same 100 units no go fit buy the full basket again. -->
 
@@ -213,8 +216,7 @@ Money wey dey your bank account different from cash wey dey your hand: na promis
 * But the amount wey dey available and the rules fit change, and people wey dey use am no get much say
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Na why people dey look for other options, and na why dem create Bitcoin.
 
 ---
@@ -233,6 +235,7 @@ Digital money wey no get one central body wey dey control am, wey get limit for 
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[For payment kompani, na one organization dey keep di rekod buk and approve every moni transfer. For Bitcoin, di person wey dey send moni dey sign di transakshon, independent node dem dey check am and miner dem dey add am to one rekod buk wey all of dem dey share, so di person wey dey receive moni no need to depend too much on one central authority.](/micrographics/central-ledger-vs-bitcoin-01/pcm.md)
 
 <!-- notes: Before Bitcoin come, to send money online always depend on organization wey people trust: bank or payment company wey dey keep record of transactions, approve accounts, and fit delay, block, or reverse payment. Digital information easy to copy: if person fit spend one digital coin twice, e no go fit work as money. Na this be the problem of spending the same money twice. Satoshi Nakamoto na one person or group wey dey use that name. -->
 
@@ -253,6 +256,7 @@ No company fit freeze bitcoin wey una dey control by unaself. The other side of 
 ## Limit Wey Anybody Fit Check
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Supply limit wey dem write for website or inside di database of di body wey dey issue am fit change without anybody knowing, if di body decide to change am. Bitcoin supply rule dey open to everybody, and signature dem, history wey everybody fit see, proof say work don happen and checking by node dem dey work together to stop anybody from creating new coin anyhow or spending di same bitcoin twice.](/micrographics/claimed-or-verified-supply-01/pcm.md)
 
 <!-- notes: Dem dey release new bitcoin according to timetable wey everybody fit see, and independent computers wey dem dey call nodes dey reject any block wey break that rule. Anybody fit trust the limit because anybody fit check am. E no be law of nature: e dey hold because people wey dey take part continue to enforce am. Supply wey get limit no guarantee say price go rise; price depend on demand as well as supply. -->
 
@@ -264,6 +268,7 @@ One bitcoin fit divide into 100,000,000 smaller units wey dem dey call satoshis,
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Table wey get two column: 1 BTC na 100,000,000 sats, 0.1 BTC na 10,000,000 sats, 0.01 BTC na 1,000,000 sats, 0.001 BTC na 100,000 sats, and 0.00000001 BTC na 1 sat.](/micrographics/bitcoin-and-sats-01/pcm.md)
 
 <!-- notes: To get 100,000 sats and to get 0.001 bitcoin na the same amount. Make una explain why e no correct to think say ordinary person no fit afford Bitcoin just because one bitcoin cost plenty. -->
 
@@ -272,6 +277,7 @@ One bitcoin fit divide into 100,000,000 smaller units wey dem dey call satoshis,
 ## Who Dey Make Bitcoin Dey Work?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Four roles for Bitcoin: people wey dey use am dey receive, keep and send bitcoin, nodes dey check di rules by demself, people wey dey mine dey build blocks wey dem fit add to di blockchain with proof of work, and people wey dey develop software dey suggest software. No single role dey control di network.](/micrographics/bitcoin-participant-roles-01/pcm.md)
 
 <!-- notes: People wey dey use bitcoin dey send am, receive am, and keep am; nodes dey check every transaction and block to make sure say dem follow the rules; miners dey compete to add new block to the record about every ten minutes. That record, wey dem dey call blockchain, dey open for everybody to see, and to rewrite am go cost plenty well-well. Small note about spelling: Bitcoin wey start with capital B usually mean the network or the system; bitcoin wey start with small b mean the money itself. -->
 
@@ -307,6 +313,7 @@ Di first question about any wallet na: who dey control di keys?
 ## Wallet Dey Manage Key Dem
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Wallet dey hold di keys. With dem, una fit receive and send bitcoin, while di bitcoin itself dey recorded for di ledger wey everybody dey share, no be inside di phone or device.](/micrographics/wallet-manages-keys-01/pcm.md)
 
 <!-- notes: Bitcoin wallet na tool, wey most times be app, wey dey allow una receive, check, and send bitcoin. Una bitcoin no dey stored inside una phone: na for blockchain dem record am. Di wallet dey manage di keys wey una fit use prove say di bitcoin na una own and give permission for payment. -->
 
@@ -331,6 +338,7 @@ List of words wey dey arranged in order, wey often be 12 or 24 words, wey fit re
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Seed phrase na list of words wey follow correct order; for here, na twelve sample words wey dem number and write for paper. The correct words for the correct order fit restore control for wallet wey support am, so e dey stay secret and offline.](/micrographics/seed-phrase-on-paper-01/pcm.md)
 
 <!-- notes: Seed phrase no be only backup: na wetin dey give full access. Abeg, write am correctly for paper when una create di wallet; keep am offline, keep am private, and put am for where e no go lost or spoil. No ever snap am, send am by email, save am for cloud notes, send am for message, or type am inside any website. Di words wey dem show na only example; no ever show or collect anybody real seed phrase. -->
 
@@ -365,6 +373,7 @@ List of words wey dey arranged in order, wey often be 12 or 24 words, wey fit re
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Dem dey record payments wey happen on-chain straight for Bitcoin blockchain, while Lightning na payment network wey dem build on top Bitcoin for quick payments wey person fit make often, but wey fit still fail. For any of the two ways, na either another person dey keep the money for the owner, or the owner dey keep am by themself.](/micrographics/on-chain-and-lightning-01/pcm.md)
 
 ---
 
@@ -375,7 +384,8 @@ List of words wey dey arranged in order, wey often be 12 or 24 words, wey fit re
 * **No Just Trust, Verify.** Check the person, the payment method, the address, and the amount.
 
 
-> **Callout – Share information for receiving payment, no ever share secrets**
+<!-- card: callout -->
+> **Share information for receiving payment, no ever share secrets**
 >
 > Una fit share address or payment request. Una no suppose ever share seed phrase or private key. No genuine teacher, wallet company, or support worker go ever ask una for am.
 
@@ -389,6 +399,7 @@ Make una stop if person dey rush una or tell una to keep am secret, promise say 
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Five warning signs of scam: rush-rush, to pretend say na another person, destination wey dem don change, profit wey dem guarantee and to ask for secret information.](/micrographics/scam-red-flags-01/pcm.md)
 
 ---
 
@@ -408,7 +419,8 @@ Na just the beginning be this.
 * **Na just the beginning be this.** Just one safe next step don do.
 
 
-> **Callout – Small time to think am well**
+<!-- card: callout -->
+> **Small time to think am well**
 >
 > Make una go back to the five questions for the beginning. Wetin una go answer now?
 

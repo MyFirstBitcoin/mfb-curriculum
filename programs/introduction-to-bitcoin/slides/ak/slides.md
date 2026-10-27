@@ -40,7 +40,8 @@ Yɛde sika di dwuma da biara, nanso yɛntaa mmisa sɛdeɛ ɛyɛ adwuma.
 * Mo sika tumi tɔ nneɛma dodow koro no ara sɛ kane no anaa?
 
 
-> **Callout – Monkora mo mmuaeɛ no so**
+<!-- card: callout -->
+> **Monkora mo mmuaeɛ no so**
 >
 > Montwerɛ asɛmmisa biara ho mmuaeɛ tiawa. Mobɛsan ahwɛ mu wɔ awieeɛ no.
 
@@ -85,6 +86,7 @@ Sika yɛ adwinnadeɛ a wɔde sesa nneɛma.
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina wɔ ɛmo na ɔpɛ mpaboa, Luis wɔ mpaboa na ɔpɛ aduannoa ngo, na Mei wɔ aduannoa ngo na ɔpɛ nsiesie adwuma. Nnipa baanu biara ntumi ne wɔn ho nni dwa tẽẽ, ɛfiri sɛ wɔn mu biara mpɛ deɛ ɔfoforɔ no de ma.](/micrographics/barter-mismatch-01/ak.md)
 
 <!-- notes: Momfa akwankyerɛ nhoma no mu nhwɛsoɔ no nni dwuma: modua ɛmo na mohia mpaboa, nanso nea ɔyɛ mpaboa no pɛ aduannoa ngo, na ɛnyɛ ɛmo. Sikasɛm ho animdefoɔ frɛ wei ahiadeɛ mmienu a ɛhyia. -->
 
@@ -151,6 +153,7 @@ Sɛ nkurɔfoɔ te asɛmfua nneɛma boɔ mmasoɔ a, wɔtaa dwene nneɛma boɔ a �
 ## Nneɛma Boɔ a Ɛkɔ Soro ne Adetɔ Tumi
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Sika susudua 100 koro no ara tumi tɔ ahiade a ɛwɔ kɛntɛn no mu nyinaa berɛ a ne bo yɛ 100, nanso ɛntumi ntɔ ne nyinaa berɛ a kɛntɛn koro no ara bo yɛ 110. Nneɛma bo gyinabea akɔ soro na sika no tɔ tumi so ate.](/micrographics/same-money-smaller-basket-01/ak.md)
 
 <!-- notes: Nneɛma boɔ kɔsorɔ yɛ nneɛma boɔ nyinaa a ɛkɔ soro na ɛtoa so saa. N’afa foforɔ ne adetɔ tumi: nneɛma dodoɔ a sika susudua baako bɛtumi atɔ. Sɛ nneɛma atitire a ɛwɔ kɛntɛn bi mu boɔ kɔ soro firi sika susudua 100 kɔ 110 a, saa sika susudua 100 no ara rentumi ntɔ nneɛma a ɛwɔ kɛntɛn no mu nyinaa bio. -->
 
@@ -213,8 +216,7 @@ Sika a ɛwɔ mo sikakorabea akonta mu yɛ soronko wɔ sika a ɛhyɛ mo nsam ho: 
 * Nanso ne dodoɔ a ɛwɔ hɔ ne ɛho mmara tumi sesa, na nnipa a wɔde di dwuma no nni ɛho gyinaesi mu kyɛfa pii
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Wei nti na nnipa hwehwɛ akwan foforɔ, na ɛno nti nso na wɔbɔɔ Bitcoin.
 
 ---
@@ -233,6 +235,7 @@ Dijitaal sika a ɛnhyɛ tumi baako ase, ne dodoɔ wɔ ano, na wɔtumi de firi ob
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Sikatua adwumakuo fam no, ahyehyɛdeɛ baako na ɛkora akontaabu nwoma no so na ɛma kwan ansa na wɔde sika biara amena. Bitcoin fam no, sika menafoɔ no hyɛ sika a ɔde remena no nsɔano, nɛtwɛke no so kɔmputa ahodoɔ a ɛde ne ho hwɛ mu, na atufoɔ de ka akontaabu nwoma baako a wɔn nyinaa de di dwuma no ho, enti ɛho nhia sɛ sika gyefoɔ no de ne ho to tumi baako a ɛdi ne nyinaa so so pii.](/micrographics/central-ledger-vs-bitcoin-01/ak.md)
 
 <!-- notes: Ansa na Bitcoin reba no, na sika a wɔde fa intanɛt so mena no gyina ahyehyɛdeɛ bi a wɔwɔ mu ahotosoɔ so bere nyinaa: sikakorabea anaa sikatua adwumakuo a ɛhwɛ sikasɛm ho nwoma so, ɛpene akonta so, na ɛtumi to sikatua bi twɛn, si ano kwan, anaa ɛdan no san akyi. Ɛnyɛ den sɛ wɔbɛyɛ dijitaal nsɛm ho mfonini foforɔ: sɛ wɔtumi de dijitaal sika baako tua ka mprenu a, anka ɛrentumi nyɛ adwuma sɛ sika. Yei ne ɔhaw a ɛfa sika korɔ no ara a wɔde tua ka mprenu ho. Satoshi Nakamoto yɛ obi anaa nnipa kuo bi a wɔde saa din no di dwuma. -->
 
@@ -253,6 +256,7 @@ Adwumakuo biara ntumi nsi bitcoin a mo ankasa modi so no ano. Saa ahofadie no de
 ## Anohyetoɔ a Obiara Betumi Ahwɛ Mu
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Sika no yifoɔ bɛtumi asesa sika dodoɔ a ɛrensene so a wɔatwerɛ wɔ wɛbsaet anaa ne nsɛm siebea no a obiara renhunu. Bitcoin sika dodoɔ ho mmara no da adi ma obiara, na nsaano nkyerɛwee, abakɔsɛm a obiara bɛtumi ahwɛ mu, adwumayɛ ho adanseɛ ne nokorɛ a kɔmputa a ɛwɔ nkitahodie nhyehyɛeɛ no mu hwehwɛ no bom si sika foforɔ a obi bɛbɔ anaa bitcoin korɔ no ara a wɔde bɛdi dwuma mprenu no kwan.](/micrographics/claimed-or-verified-supply-01/ak.md)
 
 <!-- notes: Wɔde bitcoin foforɔ ba sɛnea bere nhyehyɛe a obiara betumi ahu kyerɛ no, na kɔmputa ahorow a emu biara yɛ adwuma wɔ ne ho so, a wɔfrɛ no nodes no, pow blɔk biara a ɛbu saa mmara no so. Wobetumi de ho ato saa dodow ho hye no so efisɛ obiara betumi ahwɛ sɛ wɔredi so anaa. Ɛnyɛ abɔde mmara: ɛkɔ so yɛ adwuma efisɛ wɔn a wɔde wɔn ho hyɛ mu no kɔ so hwɛ ma wɔdi so. Bitcoin dodow a ano wɔ hye no nkyerɛ sɛ ne bo bɛkɔ soro ɔkwan biara so; ne bo gyina dodow a nkurɔfo pɛ sɛ wɔtɔ ne dodow a ɛwɔ hɔ nyinaa so. -->
 
@@ -264,6 +268,7 @@ Wɔtumi kyɛ bitcoin baako mu afã nketewa 100,000,000 a wɔfrɛ no satoshis, an
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Pon a ɛwɔ afã mmienu: 1 BTC yɛ 100,000,000 sats, 0.1 BTC yɛ 10,000,000 sats, 0.01 BTC yɛ 1,000,000 sats, 0.001 BTC yɛ 100,000 sats, na 0.00000001 BTC yɛ 1 sat.](/micrographics/bitcoin-and-sats-01/ak.md)
 
 <!-- notes: Sɛ mowɔ 100,000 sats a, ɛne sɛ mowɔ 0.001 bitcoin no kyerɛ sika dodow koro no ara. Monteɛ adwene a ɛnteɛ a ɛne sɛ, esiane sɛ bitcoin baako bo yɛ den nti, obi ntumi ntɔ Bitcoin no. -->
 
@@ -272,6 +277,7 @@ Wɔtumi kyɛ bitcoin baako mu afã nketewa 100,000,000 a wɔfrɛ no satoshis, an
 ## Hwan na ɔma Bitcoin kɔ so yɛ adwuma?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Dwumadie ahodoɔ nnan wɔ Bitcoin mu: wɔn a wɔde di dwuma no gye bitcoin, sie, na wɔsane de kɔma afoforɔ; nkitahodie afiri biara hwɛ sɛ wɔadi mmara no so a ɛmfa ne ho nto afiri foforɔ so; bitcoin tutufoɔ de adwumayɛ ho adanseɛ yɛ blɔk a wɔbɛsɔ ahwɛ; na kɔmputa so dwumadie yɛfoɔ de kɔmputa so dwumadie to dwa. Saa dwumadie yi mu baako mpo nni nkitahodie no so tumi.](/micrographics/bitcoin-participant-roles-01/ak.md)
 
 <!-- notes: Wɔn a wɔde bitcoin di dwuma no de mena, wɔgye, na wɔkora so; node ahodoɔ no hwɛ sɛ nkitahodie ne blɔk biara di mmara no so; wɔn a wɔtu bitcoin no si akan sɛ wɔde blɔk foforɔ bɛka abakɔsɛm a wɔakora so no ho bɛyɛ simma du biara. Saa abakɔsɛm a wɔakora so no, a wɔfrɛ no blɔkkyɛn no, obiara tumi hwɛ mu, na ɛho ka yɛ kɛseɛ paa sɛ wɔbɛsan atwerɛ no. Nkyerɛkyerɛmu fa atwerɛ ho: Bitcoin a wɔde B kɛseɛ na ɛhyɛ aseɛ no taa kyerɛ nkitahodie nhyehyɛeɛ no anaa nhyehyɛeɛ no nyinaa; bitcoin a wɔde b ketewa na ɛhyɛ aseɛ no kyerɛ sika no ankasa. -->
 
@@ -307,6 +313,7 @@ Asɛmmisa a ɛdi kan fa sika kotoku biara ho: hwan na nsafoa no hyɛ ne nsa?
 ## Sika Kotoku Hwɛ Nsafeɛ So
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Sika kotoku na ɛkura nsafe no. Mode saa nsafe no tumi gye bitcoin na mosoma bi, nanso bitcoin no ankasa kɔ so wɔ akontaabu nwoma a wɔbom de di dwuma no mu, na ɛnyɛ telefon anaa afidie no mu.](/micrographics/wallet-manages-keys-01/ak.md)
 
 <!-- notes: Bitcoin sika kotoku yɛ adwinnadeɛ bi, a mpɛn pii no ɛyɛ app, a ɛma motumi gye bitcoin, hwɛ mo bitcoin sika dodoɔ, na mosoma bitcoin. Wɔnkora mo bitcoin wɔ mo telefon mu: wɔatwerɛ ho nsɛm wɔ blockchain no so. Sika kotoku no hwɛ safe ahodoɔ a ɛma motumi di adanseɛ sɛ bitcoin no yɛ mo dea na moma kwan ma wɔde tua sika no so. -->
 
@@ -331,6 +338,7 @@ Nsɛmfua a wɔahyehyɛ no nnidiso nnidiso, a ɛtaa yɛ 12 anaa 24, a wɔtumi de 
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Seed phrase yɛ nsɛmfua a wɔahyehyɛ no nnidisoɔ nnidisoɔ; ɛha no, ɛyɛ nsɛmfua dumienu a wɔde nɔma ahyehyɛ no sɛ nhwɛsoɔ wɔ krataa so. Sɛ nsɛmfua no yɛ papa na ɛwɔ nnidisoɔ a ɛfata mu a, ɛbɛtumi ama wɔasan anya sika kotoku a ɛne no hyia no so tumi, enti wɔkora no so kokoam na wɔmfa nto intanɛt so.](/micrographics/seed-phrase-on-paper-01/ak.md)
 
 <!-- notes: Nsɛmfua a wɔde san nya sika kotoku no nyɛ nea wɔde sie sɛ biribi sɛe a wɔde bɛsan anya kotoku no nko ara: ɛma obi tumi hyɛn kotoku no mu na ɔde emu biribiara yɛ nea ɔpɛ. Sɛ morebue sika kotoku no a, monkyerɛw nsɛmfua no pɛpɛɛpɛ wɔ krataa so; momfa nsie wɔ baabi a ɛnni intanɛt so, ɛhɔ yɛ kokoam, na ɛrenyera anaa ɛrensɛe. Monntwa ho mfonini da, mommfa email so nnsoma, mommfa nsie wɔ mununkum so nkyerɛwtohɔ mu, mommfa nkrasɛm mu nnsoma, na monnkyerɛw wɔ wɛbsaet biara so. Nsɛmfua a wɔakyerɛ no yɛ nhwɛsoɔ kɛkɛ; monnkyerɛ anaa monnboaboa nsɛmfua a wɔde san nya sika kotoku ankasa bi ano da. -->
 
@@ -365,6 +373,7 @@ Nsɛmfua a wɔahyehyɛ no nnidiso nnidiso, a ɛtaa yɛ 12 anaa 24, a wɔtumi de 
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Wɔtwerɛ sika a wɔtua wɔ blɔk ahoma no so no tẽẽ wɔ Bitcoin blɔk ahoma no mu, na Lightning yɛ sika tua nhyehyɛeɛ a wɔasi wɔ Bitcoin so ma sika a wɔtua no ntɛmntɛm ne mpɛn pii, nanso saa sika tua no nso tumi di nkoguo. Saa akwan mmienu yi mu biara mu no, onipa foforɔ bɛtumi ahwɛ sika no so ama ne wura, anaa sika no wura ankasa bɛtumi ahwɛ so.](/micrographics/on-chain-and-lightning-01/ak.md)
 
 ---
 
@@ -375,7 +384,8 @@ Nsɛmfua a wɔahyehyɛ no nnidiso nnidiso, a ɛtaa yɛ 12 anaa 24, a wɔtumi de 
 * **Monnnya ahotoso kɛkɛ, monhwehwɛ mu nhwɛ.** Monhwehwɛ onipa no, ɔkwan a wɔfa so tua sika no, adrɛse no ne sika dodoɔ no mu nhwɛ.
 
 
-> **Callout – Momfa sika a mobɛgye ho nsɛm nkyɛ, nanso mommfa ahintasɛm nkyɛ da**
+<!-- card: callout -->
+> **Momfa sika a mobɛgye ho nsɛm nkyɛ, nanso mommfa ahintasɛm nkyɛ da**
 >
 > Mobɛtumi de adrɛse anaa sika a wɔsrɛ sɛ wɔntua ho nsɛm akyɛ. Ɛnsɛ sɛ mode nsɛmfua a wɔde san nya sika kotoku no anaa kokoam safoa kyɛ da. Ɔkyerɛkyerɛfoɔ, sika kotoku adwumakuo anaa mmoa adwumayɛni a ɔyɛ adwuma wɔ nokorɛ mu biara remmisa mo saa nsɛm no da.
 
@@ -389,6 +399,7 @@ Monnyae sɛ obi hyɛ mo sɛ monyɛ biribi ntɛm anaa monyɛ no kokoam, ɔbɔ mo 
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Nnaadaa ho kɔkɔbɔ nsɛnkyerɛnne num: ntɛmpɛ, obi foforɔ a wɔyɛ wɔn ho sɛ ɔno, beaeɛ a ɛrekɔ no a wɔasesa, mfasoɔ a wɔhyɛ ho bɔ ne ahintasɛm a wɔsrɛ.](/micrographics/scam-red-flags-01/ak.md)
 
 ---
 
@@ -408,7 +419,8 @@ Wei yɛ mfitiaseɛ ara kwa.
 * **Wei yɛ ahyɛaseɛ ara kwa.** Anammɔn baako a ahobanbɔ wom a mobɛtu adi hɔ no ara dɔɔso.
 
 
-> **Callout – Berɛ tiawa a mode bɛdwene ho**
+<!-- card: callout -->
+> **Berɛ tiawa a mode bɛdwene ho**
 >
 > Monsan nkɔ nsɛmmisa nnum a ɛwɔ mfitiaseɛ no so. Mmuaeɛ bɛn na anka mobɛma seesei?
 

@@ -40,7 +40,8 @@ Hu si u i hola, hu si u i shumisa, fhedzi u humbula nga ha uri ndi mini na uri i
 * Naa tshelede yaṋu i kha ḓi renga zwithu zwi linganaho na zwe ya vha i tshi zwi renga kale?
 
 
-> **Callout – Vhulungani phindulo dzaṋu**
+<!-- card: callout -->
+> **Vhulungani phindulo dzaṋu**
 >
 > Ṅwalani phindulo pfufhi ya mbudziso iṅwe na iṅwe. Ni ḓo dovha na vhuya kha dzo mafheloni.
 
@@ -85,6 +86,7 @@ Vhathu vhoṱhe vhavhili vha tea u ṱoḓa zwine muṅwe a vha nazwo, nga tshif
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina u na raisi nahone u ṱoḓa zwienda, Luis u na zwienda nahone u ṱoḓa mapfura a u bika, ngeno Mei e na mapfura a u bika nahone a tshi ṱoḓa u lugiselwa. A hu na vhavhili vhane vha nga tshintshana thundu nga ho livhaho, ngauri kha vhavhili vhenevho a hu na ane a ṱoḓa zwine muṅwe a ṋekedza.](/micrographics/barter-mismatch-01/ve.md)
 
 <!-- notes: Shumisani tsumbo i re kha nyendedzi: ni lima raḽisi nahone ni ṱoḓa zwienda, fhedzi muiti wa zwienda u ṱoḓa mapfura a u bika, hu si raḽisi. Vhaḓivhi vha ikonomi vha vhidza hezwi u anana ha ṱhoḓea dza vhathu vhavhili. -->
 
@@ -151,6 +153,7 @@ Musi vhathu vha tshi pfa ipfi infḽeisheni, kanzhi vha humbula nga ha u gonya h
 ## U Gonya ha Mitengo na Maanḓa a u Renga
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Yunithi dzenedzo dza 100 dza tshelede dzi renga bhasikete yoṱhe ya thundu dza mutheo musi i tshi ḓura 100, fhedzi a dzi koni musi bhasikete yeneyo i tshi ḓura 110. Vhuimo ha mitengo ho gonya nahone maanḓa a u renga a tshelede o fhungudzea.](/micrographics/same-money-smaller-basket-01/ve.md)
 
 <!-- notes: Infuleisheni ya mitengo ndi u gonya hu bvelaho phanḓa ha mitengo nga u angaredza. Ḽiṅwe sia ḽayo ndi maanḓa a u renga: uri yuniti nthihi ya tshelede i nga renga zwithu zwingafhani. Arali mutengo wa baskete ya thundu dza ndeme wa gonya u bva kha yuniti dza tshelede dza 100 wa ya kha 110, yuniti dzenedzo dza 100 a dzi tsha kona u renga baskete yoṱhe. -->
 
@@ -213,8 +216,7 @@ Tshelede i re banngani yo fhambana na tshelede ya kheshe i re zwanḓani zwaṋu
 * Fhedzi mphakelo yayo na milayo yayo zwi nga shanduka, ngeno vhathu vhane vha i shumisa vha na ipfi ḽiṱuku kha zwenezwo
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Ndi ngazwo vhathu vha tshi ṱoḓa dziṅwe nḓila, nahone ndi ngazwo Bitcoin yo sikwaho.
 
 ---
@@ -233,6 +235,7 @@ Tshelede ya didzhithala ine ya sa langiwe nga tshiimiswa tshithihi, ine tshivhal
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Kha khamphani ya mbadelo, dzangano ḽithihi ḽi vhulunga bugu ya rekhodo nahone ḽa tendela u rumelwa huṅwe na huṅwe ha tshelede. Kha Bitcoin, murumeli u saina thengiselano, khomphyutha dza netiweke dzi ḓilawulaho dzi a i ṱola nahone vagodi vha i engedza kha bugu nthihi ya rekhodo i kovhekanywaho, zwenezwo zwa fhungudza u ḓitika ha muṱanganedzi nga maanḓalanga a vhukati.](/micrographics/central-ledger-vs-bitcoin-01/ve.md)
 
 <!-- notes: Hu sa athu vha na Bitcoin, u rumela tshelede kha inthanethe zwo vha zwi tshi dzulela u ḓitika nga dzangano ḽi fulufhelwaho: bannga kana khamphani ya mbadelo ye ya vha i tshi vhulunga bugu ya rekhodo dza mbadelo, ya ṱanganedza akhaundu, nahone ya kona u lenga, u thivhela kana u humisela murahu mbadelo. Mafhungo a didzhithala a a leluwa u kopa: arali khoini ya didzhithala yo vha i tshi nga shumiswa kavhili, yo vha i sa ḓo kona u shuma sa tshelede. Iyi ndi thaidzo ya u shumisa tshelede nthihi kavhili. Satoshi Nakamoto ndi muthu kana tshigwada tsha vhathu tshine tsha shumisa dzina ḽeneḽo. -->
 
@@ -253,6 +256,7 @@ A hu na khamphani ine ya nga thivhela bitcoin ine na i langa nga inwi vhane. Lu�
 ## Mukano une muṅwe na muṅwe a nga u ṱola
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Mukano wa mphakelo wo ṅwalwaho kha webusaithi kana kha dathabeisi ya mubvisi u nga shandulwa nga mubvisi onoyo hu si na ane a zwi ḓivha. Mulayo wa mphakelo wa Bitcoin u vhonwa nga vhoṱhe, nahone tsaino, ḓivhazwakale ine ya vhonwa nga vhoṱhe, vhuṱanzi ha mushumo na u khwaṱhisedzwa nga nodi zwi shuma zwoṱhe u thivhela u sikwa ha mangwende maswa kana u shumiswa ha bitcoin nthihi kavhili.](/micrographics/claimed-or-verified-supply-01/ve.md)
 
 <!-- notes: bitcoin ntswa dzi bviswa hu tshi tevhedzwa mbekanyamushumo ine ya ḓivhiwa nga vhoṱhe, nahone khomphyutha dzi ḓiimisaho dzine dza pfi nodes dzi hana buloko iṅwe na iṅwe ine ya pfuka wonoyo mulayo. Wonoyu mukano u a fulufhelea ngauri muthu muṅwe na muṅwe a nga u ṱola. A si mulayo wa mupo: u dzula u tshi tevhedzwa ngauri vhashelamulenzhe vha bvela phanḓa vha tshi u kombetshedza. U vha na mbalo yo pimiwaho a zwi khwaṱhisedzi uri mutengo u ḓo gonya; mutengo u ḓitika nga ṱhoḓea khathihi na mbalo ine ya vha hone. -->
 
@@ -264,6 +268,7 @@ bitcoin nthihi i khethekanywa ya vha zwipiḓa zwiṱuku zwa 100 000 000 zwine z
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Thebulu ya kholomo mbili: 1 BTC ndi 100 000 000 sats, 0,1 BTC ndi 10 000 000 sats, 0,01 BTC ndi 1 000 000 sats, 0,001 BTC ndi 100 000 sats, nahone 0,00000001 BTC ndi 1 sat.](/micrographics/bitcoin-and-sats-01/ve.md)
 
 <!-- notes: U vha muṋe wa 100 000 sats na u vha muṋe wa 0,001 bitcoin zwi amba tshivhalo tshi fanaho. Lulamisani muhumbulo wo khakheaho wa uri Bitcoin a i swikelelei ngauri bitcoin nthihi i a ḓura. -->
 
@@ -272,6 +277,7 @@ bitcoin nthihi i khethekanywa ya vha zwipiḓa zwiṱuku zwa 100 000 000 zwine z
 ## Ndi nnyi ane a ita uri Bitcoin i dzule i tshi shuma?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Mishumo miṋa kha Bitcoin: vhashumisi vha ṱanganedza, vha fara na u rumela bitcoin, noudi dzi khwaṱhisedza milayo nga dzoṱhe, vhagodi vha fhaṱa buloko dzine dza kha ḓi dzinginywa nga vhuṱanzi ha mushumo, nahone vhabveledzi vha dzinginya sofuthiwee. A hu na mushumo muthihi une wa langa netiweke.](/micrographics/bitcoin-participant-roles-01/ve.md)
 
 <!-- notes: Vhashumisi vha rumela, vha ṱanganedza na u vhulunga bitcoin; dzi-node dzi ṱola thengiselano iṅwe na iṅwe na buloko iṅwe na iṅwe uri zwi tevhela milayo; vhagodi vha a ṱaṱisana u engedza buloko ntswa kha rekhodo hu ṱoḓaho u vha minete miṅwe na miṅwe ya fumi. Rekhodo iyo, ine ya vhidzwa blockchain, i vhonwa nga muṅwe na muṅwe nahone zwi ḓura vhukuma u i ṅwala hafhu. Ṱhalutshedzo nga ha mapeleṱele: Bitcoin ine ya thoma nga B khulwane kanzhi i amba netiweke kana sisṱeme; bitcoin ine ya thoma nga b ṱhukhu i amba tshelede yone iṋe. -->
 
@@ -307,6 +313,7 @@ Mbudziso ya u thoma nga ha tshikwama tshiṅwe na tshiṅwe: ndi nnyi ane a lang
 ## Tshipatshi tshi langa dzikhii
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Tshikwama tshi fara khii. Ngadzo vha nga ṱanganedza na u rumela bitcoin, ngeno bitcoin yone i tshi dzula yo ṅwalwa kha bugu ya rekhodo ine ya shumiswa nga vhoṱhe, hu si ngomu ha founu kana tshishumiswa.](/micrographics/wallet-manages-keys-01/ve.md)
 
 <!-- notes: Tshikwama tsha Bitcoin ndi tshishumiswa, tshine kanzhi tsha vha apu, tshi ni tendelaho u ṱanganedza, u ṱola na u rumela bitcoin. Bitcoin yaṋu a i vhulungwi ngomu ha luṱingothendeleki lwaṋu: i ṅwalwa kha blockchain. Tshikwama tshi langula khii dzine dza ni tendela u khwaṱhisedza uri ndi yaṋu na u tendela mbadelo. -->
 
@@ -331,6 +338,7 @@ Mutevhe wo dzudzanywaho wa maipfi, ane kanzhi a vha 12 kana 24, une wa nga dovha
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Mubulo wa mbeu ndi mutevhe wa maipfi o tevhekanywaho, afha hu na maipfi a tsumbo a fumi na mavhili o nomboriwaho o ṅwalwaho kha bammbiri. Maipfi o teaho nga thevhekano yo teaho a nga vhuyedzedza ndangulo kha tshipatshi tshi tshimbilelanaho nawo, nga zwenezwo mubulo u dzula u tshidzumbe nahone u sa vheiwi kha inthanethe.](/micrographics/seed-phrase-on-paper-01/ve.md)
 
 <!-- notes: Mutevhe wa maipfi a u vusulusa a si khophi ya u vhulunga fhedzi: u ṋea thendelo yo fhelelaho ya u shumisa tshipatshi. Vha u ṅwale nga vhuronwane kha bammbiri musi vha tshi sika tshipatshi; vha u vhulunge u si kha inthanethe, tshiphirini, na fhethu hune u nga si xele kana wa tshinyala. Vha songo vhuya vha u foda, vha u rumela nga imeili, vha u vhulunga kha notsi dza cloud, vha u rumela nga mulaedza, kana vha u thaipha kha webusaithi. Maipfi o sumbedzwaho ndi tsumbo fhedzi; vha songo vhuya vha sumbedza kana vha kuvhanganya mutevhe wa vhukuma wa maipfi a u vusulusa. -->
 
@@ -365,6 +373,7 @@ Mutevhe wo dzudzanywaho wa maipfi, ane kanzhi a vha 12 kana 24, une wa nga dovha
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Mbadelo dza kha buḽokotsheini dzi rekhodiwa thwii kha buḽokotsheini ya Bitcoin, ngeno Lightning i netiweke ya mbadelo yo fhaṱwaho kha Bitcoin u itela mbadelo dzi ṱavhanyaho, dzi itwaho lunzhi, dzine dza nga dovha dza kundelwa. Nḓila iṅwe na iṅwe i nga vha ya vhulondi ha muṅwe kana ya u ḓilondela.](/micrographics/on-chain-and-lightning-01/ve.md)
 
 ---
 
@@ -375,7 +384,8 @@ Mutevhe wo dzudzanywaho wa maipfi, ane kanzhi a vha 12 kana 24, une wa nga dovha
 * **Ni Songo Fulufhela, Khwaṱhisedzani.** Ṱolani muthu, nḓila ya u badela, ḓiresi na tshivhalo tsha tshelede.
 
 
-> **Callout – Kovhelani mafhungo a u ṱanganedza mbadelo, ni songo vhuya na kovhelana zwiphiri**
+<!-- card: callout -->
+> **Kovhelani mafhungo a u ṱanganedza mbadelo, ni songo vhuya na kovhelana zwiphiri**
 >
 > Ḓiresi kana khumbelo ya mbadelo zwi nga kovhelwa vhaṅwe. Mutevhe wa maipfi a u vusulusa kana khii ya tshiphiri a zwo ngo fanela u vhuya zwa kovhelwa vhaṅwe. A hu na mugudisi wa vhukuma, khamphani ya tshiṅwama kana mushumi wa thuso ane a ḓo vhuya a zwi humbela.
 
@@ -389,6 +399,7 @@ Imani arali muṅwe muthu a tshi ita uri ni ṱavhanye kana ni ite zwithu nga ts
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Tswayo ṱhanu dza khombo ya vhufhura: shishi, u ḓiita muṅwe muthu, fhethu ha u rumela ho shandukaho, mbuelo dzo khwaṱhisedzwaho na khumbelo dza zwiphiri.](/micrographics/scam-red-flags-01/ve.md)
 
 ---
 
@@ -408,7 +419,8 @@ Hezwi ndi mathomo fhedzi.
 * **Hezwi ndi mathomo fhedzi.** Ḽiga ḽithihi ḽi tevhelaho ḽo tsireledzeaho ḽo lingana.
 
 
-> **Callout – Tshifhinga tsha u elekanya**
+<!-- card: callout -->
+> **Tshifhinga tsha u elekanya**
 >
 > Kha vha humele kha mbudziso ṱhanu dza mathomoni. Vha nga fhindula mini zwino?
 
