@@ -13,6 +13,7 @@ Peer-to-peer betyder ikke, at kun to computere kommunikerer direkte, eller at de
 
 
 <!-- micrographic: powers-and-limits-01 -->
+[Brugere, noder, minere, udviklere og tjenester har hver især en vis indflydelse på Bitcoins fælles regler og offentlige hovedbog, men ingen kan alene ændre hovedbogen eller reglerne for alle.](/micrographics/powers-and-limits-01/da.md)
 
 
 ![Underviseren bruger en pegepind til at forklare et netværk på en præsentationstavle for begynderen og de teknisk kyndige kursister.](https://cdn.sanity.io/images/vje9ehw2/staging/3999e88f5f80f010b5cd6238a4fe41d1aed8bdb2-1054x1492.png)

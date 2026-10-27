@@ -3,6 +3,7 @@
 A digitális információ általában könnyen másolható.
 
 
+<!-- card: definition -->
 > **Definition – Digitális szűkösség**
 >
 > Digitális [szűkösség](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) alatt azt értjük, hogy egy rendszer képes megkülönböztetni egy érvényes egységet egy érvénytelen másolattól, és megakadályozni ugyanazon egység kétszeri elköltését.
@@ -14,6 +15,7 @@ A Bitcoin megteremti a digitális [szűkösséget](https://curriculum.myfirstbit
 
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[A weboldalon vagy a kibocsátó adatbázisában rögzített kínálati korlátot a kibocsátó észrevétlenül megváltoztathatja. A Bitcoin kínálati szabálya nyilvános, és az aláírások, a nyilvános tranzakciótörténet, a munkabizonyíték és a csomópontok általi ellenőrzés együttesen megakadályozzák, hogy új érméket hozzanak létre önkényesen, vagy ugyanazt a bitcoint kétszer költsék el.](/micrographics/claimed-or-verified-supply-01/hu.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)

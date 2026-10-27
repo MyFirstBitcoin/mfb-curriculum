@@ -5,6 +5,7 @@ Ludzie mają różne umiejętności, zasoby, potrzeby i plany. Wymiana pozwala i
 Wymiana bezpośrednia jest często trudna. Osoba, która ma to, czego Państwo potrzebują, może nie chcieć tego, co Państwo oferują. Pieniądz rozwiązuje ten problem koordynacji.
 
 
+<!-- card: definition -->
 > **Definition – Pieniądz**
 >
 > Pieniądz jest [aktywem](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) akceptowanym przez ludzi, ponieważ oczekują oni, że inni również zaakceptują je w przyszłości. Pomaga nieznajomym koordynować wymianę, zapisywać [ceny](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) i [długi](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt) oraz przenosić [wartość](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) w czasie i przestrzeni.

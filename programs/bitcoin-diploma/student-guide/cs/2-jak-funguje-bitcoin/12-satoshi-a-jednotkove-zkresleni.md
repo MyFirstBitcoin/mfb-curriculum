@@ -14,6 +14,7 @@ Při porovnávání [cen](https://curriculum.myfirstbitcoin.org/lexicon/en/#pric
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Tabulka se dvěma sloupci: 1 BTC je 100 000 000 sats, 0,1 BTC je 10 000 000 sats, 0,01 BTC je 1 000 000 sats, 0,001 BTC je 100 000 sats a 0,00000001 BTC je 1 sat.](/micrographics/bitcoin-and-sats-01/cs.md)
 
 
 **Ukažte, že tématu rozumíte:** Kolik [satů](https://curriculum.myfirstbitcoin.org/lexicon/en/#satoshi) je v 0,01 BTC? Proč [cena](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) jednoho celého bitcoinu nebrání člověku používat menší částku?

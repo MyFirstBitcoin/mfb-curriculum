@@ -1,6 +1,6 @@
 # Quiz – Bitcoinin turvallinen käyttö: pikatesti
 
-## Question 1
+## Kysymys 1
 
 Bitcoin-lompakko:
 
@@ -9,11 +9,11 @@ Bitcoin-lompakko:
 * [ ] Poistaa salaisten tietojen suojauksen
 * [ ] Peruuttaa siirtoja
 
-### Explanation
+### Selitys
 
 Bitcoin kirjataan yhteiseen tilikirjaan; lompakko hallinnoi tietoja, joita tarvitaan sen käyttöön. Kerratkaa opiskelijan oppaan moduulin 3 kohta ”Lompakot”.
 
-## Question 2
+## Kysymys 2
 
 Minkä tiedon voitte jakaa bitcoinin vastaanottamista varten?
 
@@ -22,11 +22,11 @@ Minkä tiedon voitte jakaa bitcoinin vastaanottamista varten?
 * [x] Vastaanotto-osoite
 * [ ] Salasana
 
-### Explanation
+### Selitys
 
 Vastaanotto-osoitteen voi jakaa maksua varten. Palautuslauseet, yksityiset avaimet ja salasanat on pidettävä salassa. Kerratkaa opiskelijan oppaan moduulin 3 kohdat ”Osoitteet” ja ”Avaimet”.
 
-## Question 3
+## Kysymys 3
 
 Palautuslause on syötetty verkkoon. Mikä on turvallisin seuraava toimenpide?
 
@@ -35,11 +35,11 @@ Palautuslause on syötetty verkkoon. Mikä on turvallisin seuraava toimenpide?
 * [x] Luokaa uusi palautuslause ja siirtäkää sitten varat
 * [ ] Käyttäkää samaa palautuslausetta uudelleen
 
-### Explanation
+### Selitys
 
 Pitäkää verkkoon syötettyä palautuslausetta paljastuneena. Luokaa uusi lompakko, jolla on uusi palautuslause, ja siirtäkää varat vasta varmistettuanne kohdeosoitteen. Kerratkaa opiskelijan oppaan moduulin 3 kohta ”Palautuslauseet”.
 
-## Question 4
+## Kysymys 4
 
 Miten säilytystavat eroavat toisistaan?
 
@@ -48,6 +48,6 @@ Miten säilytystavat eroavat toisistaan?
 * [ ] Enimmäismäärä
 * [ ] Vastuu
 
-### Explanation
+### Selitys
 
 Säilytyspalvelun käyttö ja itsesäilytys eroavat siinä, kuka hallitsee avaimia ja kantaa niihin liittyvän vastuun. Kumpikaan ei takaa turvallisuutta tai siirtojen peruutettavuutta. Kerratkaa opiskelijan oppaan moduulin 3 kohta ”Säilytyspalvelun käyttö ja itsesäilytys”.

@@ -16,6 +16,7 @@ Erklären Sie, dass eine Nachricht oder ein Screenshot mit dem Hinweis „gesend
 
 
 <!-- micrographic: check-what-you-receive-01 -->
+[Ein beispielhafter Empfangsbildschirm auf einem Smartphone zeigt die Zahlungsmethode, die zu teilende Zahlungsanforderung, den Betrag und einen ausstehenden Status. Eine Nachricht oder ein Screenshot mit „gesendet“ ist kein Beweis: Prüfen Sie den Status in Ihrer eigenen Wallet.](/micrographics/check-what-you-receive-01/de.md)
 
 
 #### Übung: Durchgang durch den Empfangsbildschirm

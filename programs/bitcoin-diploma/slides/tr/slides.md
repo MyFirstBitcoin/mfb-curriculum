@@ -75,7 +75,8 @@ Para, insanların daha sonra başkalarının da kabul edeceğini bekledikleri i�
 * Zaman ve mesafe boyunca değer
 
 
-> **Callout – Anlık soru**
+<!-- card: callout -->
+> **Anlık soru**
 >
 > Para, hangi değişim veya koordinasyon sorununu çözmeye yardımcı olur?
 
@@ -108,7 +109,8 @@ Bir biçim, bir işlevi diğerinden daha iyi yerine getirebilir. Her biçim sat�
 Hiçbir biçim kusursuz puan almaz. “**Sağlam para**” bir değerlendirmedir: ölçütlerinizi belirtin ve tutarlı biçimde karşılaştırın.
 
 
-> **Callout – Eleştirel düşünün**
+<!-- card: callout -->
+> **Eleştirel düşünün**
 >
 > Bir para veya varlık türünü diğerine tercih ettiğinizde hangi özellikler sizin için önemliydi?
 
@@ -152,6 +154,7 @@ Kıtlık tek başına değeri garanti etmez; talep de önemlidir.
 ---
 
 <!-- micrographic: same-water-different-value-01 -->
+[Aynı şişe temiz su, suyun kolayca bulunabildiği bir mağazanın buzdolabında ucuzdur; kıtlık sırasında sıcak bir çölde ise çok daha değerlidir. Bulunabilirlik, ihtiyaç ve koşullar değeri ve fiyatı değiştirir.](/micrographics/same-water-different-value-01/tr.md)
 
 ---
 
@@ -162,6 +165,7 @@ Kıtlık tek başına değeri garanti etmez; talep de önemlidir.
 ---
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Parası kısıtlı bir alışverişçi önündeki seçeneklere bakıyor: bugün için yiyecek, ulaşım ya da sonrası için birikim. Birini seçmek diğerlerinden vazgeçmek anlamına gelir; bu da fırsat maliyetidir. Hiçbir seçenek doğru seçenek olarak işaretlenmemiştir.](/micrographics/one-choice-two-uses-01/tr.md)
 
 ---
 
@@ -195,6 +199,7 @@ Kolay ödemeler ve esnek kredi, kurumlara bağımlılığı da beraberinde getir
 ---
 
 <!-- micrographic: fiat-system-flows-01 -->
+[İtibari para sistemindeki aktörler ve aralarındaki akışlar: merkez bankası politikayı belirler ve bankalar arası takası sağlar, ticari bankalar müşterilerine karşı yükümlülükleri olan mevduatları tutar, ödeme hizmetleri talimatları iletir, devlet vergi toplar ve harcama yapar, vatandaşlar ve işletmeler ise ödeme yapar ve ödeme alır.](/micrographics/fiat-system-flows-01/tr.md)
 
 ---
 
@@ -230,10 +235,12 @@ Banka hücumları paraya erişimi zorlaştırabilir. Mevduat sigortası ve merke
 ---
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Basitleştirilmiş bir banka kredisi: borçlu başvuru yapar, banka krediyi onaylar ve borçlunun hesabına yeni bir mevduat tutarı aktarır; borçlu daha sonra anaparayı faiziyle birlikte bankaya geri öder.](/micrographics/bank-loan-deposit-01/tr.md)
 
 ---
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Likidite riski: birçok mevduat sahibi bugün para çekmek için sıraya giriyor ve verdiği krediler ileride geri ödenebilecek olsa da bankanın şu anda yeterli nakdi yok. Ödeme gücü riski: borçlular konut kredilerini ödeyemiyor ve bankanın varlıklarının değeri, borçlarından daha az hâle geliyor.](/micrographics/liquidity-vs-solvency-01/tr.md)
 
 ---
 
@@ -255,6 +262,7 @@ Para ve kredi genişlemesi; arz, talep, döviz kuru, vergi, düzenleme ve maliye
 ---
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Aynı 100 birimlik para, temel ürünlerden oluşan sepetin fiyatı 100 olduğunda sepetin tamamını satın almaya yeter, ancak aynı sepetin fiyatı 110 olduğunda yetmez. Fiyat düzeyi yükselmiş, paranın satın alma gücü ise düşmüştür.](/micrographics/same-money-smaller-basket-01/tr.md)
 
 ---
 
@@ -308,7 +316,8 @@ CBDC, merkez bankası yükümlülüğü olarak ihraç edilen dijital itibari par
 Tasarımlar farklılık gösterir. Dijital olması, otomatik olarak merkeziyetsiz, kıt, gizli veya bağımsız olarak doğrulanabilir olduğu anlamına gelmez.
 
 
-> **Callout – Kontrol edin**
+<!-- card: callout -->
+> **Kontrol edin**
 >
 > Onu kim ihraç ediyor, kim kullanabiliyor, hangi veriler toplanıyor ve ödemeleri kim engelleyebiliyor ya da kuralları kim değiştirebiliyor? Çevrimdışıyken ne oluyor ve hangi yasal korumalar mevcut?
 
@@ -327,7 +336,8 @@ Tasarımlar farklılık gösterir. Dijital olması, otomatik olarak merkeziyetsi
 Paranızı kullanışlı kılan nedir ve hangi kurallar güvendiğiniz kurumlara bağlıdır?
 
 
-> **Callout – Düşünmek için bir an**
+<!-- card: callout -->
+> **Düşünmek için bir an**
 >
 > Daha önce sormadığınız, ancak artık para hakkında sorduğunuz bir soru nedir?
 
@@ -357,6 +367,7 @@ Bitcoin, para ihracında ve ödemelerin kesinleşmesinde merkezi bir otoriteye d
 ---
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Bir ödeme şirketinde defteri tek bir kuruluş tutar ve her transferi o onaylar. Bitcoin'de ise gönderen bir işlemi imzalar, bağımsız düğümler işlemi kontrol eder ve madenciler onu tek bir ortak deftere ekler; böylece alıcı merkezi bir otoriteye daha az bağımlı olur.](/micrographics/central-ledger-vs-bitcoin-01/tr.md)
 
 ---
 
@@ -393,6 +404,7 @@ Bitcoin, para ihracında ve ödemelerin kesinleşmesinde merkezi bir otoriteye d
 ---
 
 <!-- micrographic: five-part-response-01 -->
+[Beş unsur bir araya gelerek çifte harcama sorununa yanıt verir: eşler arası ağ, dijital imzalar, bloklar ve madencilik, bağımsız doğrulama ve en fazla birikmiş iş ispatına sahip ortak geçmiş. Bu unsurlar birlikte, ağın merkezi bir otorite olmadan ikinci bir harcamayı reddetmesini sağlar.](/micrographics/five-part-response-01/tr.md)
 
 ---
 
@@ -411,6 +423,7 @@ Yazılı bir arz iddiası yeterli değildir: Bunu kim doğrulayabilir ve kim de�
 ---
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Bir web sitesinde veya bir ihraççının veritabanında yazılı bir arz sınırı, o ihraççı tarafından sessizce değiştirilebilir. Bitcoin'in arz kuralı herkese açıktır; imzalar, herkese açık bir geçmiş, iş ispatı ve düğüm doğrulaması birlikte yeni coinlerin uydurulmasını veya aynı bitcoinin iki kez harcanmasını engeller.](/micrographics/claimed-or-verified-supply-01/tr.md)
 
 ---
 
@@ -452,12 +465,14 @@ Aracı hizmetler isteğe bağlıdır; birini seçmek, o hizmetin saklama kuralla
 ---
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[Bir gönderen, bir işlemi imzalar ve ağdaki birçok düğüme yayınlar; bu düğümler işlemi alıcıya ulaşana kadar birbirine aktarır. Gönderenin veya alıcının, merkezi bir Bitcoin işletmecisi tarafından onaylanması gerekmez.](/micrographics/peer-to-peer-route-01/tr.md)
 
 ---
 
 ![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Bitcoin'deki dört rol: kullanıcılar bitcoin alır, saklar ve gönderir; düğümler kuralları bağımsız olarak doğrular; madenciler iş ispatıyla aday bloklar oluşturur; geliştiriciler ise yazılım önerir. Hiçbir rol tek başına ağı kontrol etmez.](/micrographics/bitcoin-participant-roles-01/tr.md)
 
 ---
 
@@ -466,7 +481,8 @@ Aracı hizmetler isteğe bağlıdır; birini seçmek, o hizmetin saklama kuralla
 Madenciler, geçersiz blokları dürüst düğümlere kabul ettiremez. Geliştiriciler, yazılımın benimsenmesini zorla dayatamaz. Bir kişi birden fazla rol üstlenebilir.
 
 
-> **Callout – Hızlı soru**
+<!-- card: callout -->
+> **Hızlı soru**
 >
 > Bir düğüm işlemleri neden doğrular? Kontrol ettiği kurallardan birini söyleyiniz.
 
@@ -489,6 +505,7 @@ Madencilik, işlemlerin sıralamasını güvence altına alır; dışarıdaki de
 ![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Bir madenci, önerilen bir bloğun hash'ini sonuçlardan biri ağın hedefinin altına düşene kadar tekrar tekrar hesaplar, ardından bloğu yayınlar. Blok, blok zincirine eklenmeden önce düğümler kanıtı ve tüm kuralları hızlıca kontrol eder: iş, üretmesi maliyetli ve doğrulaması kolaydır.](/micrographics/proof-of-work-process-01/tr.md)
 
 ---
 
@@ -509,10 +526,12 @@ Düğümler fazla ihracı reddeder; katılımcılar bu sınırı uyguladıkça s
 ---
 
 <!-- micrographic: bitcoin-issuance-supply-01 -->
+[Blok sübvansiyonu 50 bitcoin ile başlar ve her 210.000 blokta bir yarıya iner; bu sırada toplam çıkarılan bitcoin miktarı 21 milyon sınırına doğru yükselir. İşlem ücretleri bunun üzerine ödenir ve yeni bitcoin değildir; herhangi bir fiyat tahmini ima edilmemektedir.](/micrographics/bitcoin-issuance-supply-01/tr.md)
 
 ---
 
 <!-- micrographic: bitcoin-issuance-subsidy-01 -->
+[Blok sübvansiyonu 50 bitcoin ile başlar ve her 210.000 blokta bir yarıya iner; bu sırada toplam çıkarılan bitcoin miktarı 21 milyon sınırına doğru yükselir. İşlem ücretleri bunun üzerine ödenir ve yeni bitcoin değildir; herhangi bir fiyat tahmini ima edilmemektedir.](/micrographics/bitcoin-issuance-subsidy-01/tr.md)
 
 ---
 
@@ -528,7 +547,8 @@ Düğümler fazla ihracı reddeder; katılımcılar bu sınırı uyguladıkça s
 **Birim yanılgısı:** bütün bir birimin fiyatının düşük olması, daha iyi bir değer olduğunu kanıtlamaz. Arzdaki payı, söz konusu değeri ve riskleri karşılaştırın.
 
 
-> **Callout – Anladığınızı gösterin**
+<!-- card: callout -->
+> **Anladığınızı gösterin**
 >
 > 0,01 BTC'de kaç sat vardır? Bir kişi neden bütün bir bitcoin'den daha azını kullanabilir?
 
@@ -586,7 +606,8 @@ Tanıdık bir sembol, istikrarlı görünen bir fiyat veya özenle tasarlanmış
 * Alma, satma veya elde tutma talimatı yoktur
 
 
-> **Callout – Yerel değer kontrolü**
+<!-- card: callout -->
+> **Yerel değer kontrolü**
 >
 > Piyasa fiyatını, yerel kabulü ve kişisel tercih ya da önyargıyı birbirinden ayırın.
 
@@ -601,6 +622,7 @@ Ağın köken hikâyesinin yanı sıra tasarımını ve işleyişini de değerle
 ---
 
 <!-- micrographic: bitcoin-origin-timeline-01 -->
+[Tarihli dört olayla Bitcoin'in kökeni: 31 Ekim 2008'de Satoshi Nakamoto, bir finansal aracı olmadan doğrudan çevrimiçi ödemeleri anlatan teknik makaleyi yayımladı; 3 Ocak 2009'da Genesis Bloğu, banka kurtarma paketleriyle ilgili bir gazete manşetiyle Bitcoin ağını başlattı; 12 Ocak 2009'da Satoshi, kayıtlara geçen ilk kişiden kişiye işlemle Hal Finney'ye bitcoin gönderdi; 22 Mayıs 2010'da bir kullanıcı iki pizza için 10.000 BTC ödedi ve bu gün bugün Bitcoin Pizza Günü olarak anılıyor.](/micrographics/bitcoin-origin-timeline-01/tr.md)
 
 ---
 
@@ -629,7 +651,8 @@ Kişisel sorumluluk; eğitim, akran incelemesi, prosedürler ve küçük testler
 * İşlem sıralaması → iş ispatı; ekipman ve enerji maliyetleri
 
 
-> **Callout – Düşünmek için bir an**
+<!-- card: callout -->
+> **Düşünmek için bir an**
 >
 > Bitcoin'in tasarımının hangi bölümünü artık farklı bir şekilde açıklardınız ve neden?
 
@@ -674,6 +697,7 @@ Eğitim cüzdanları önemli miktarda fonu korumak için kullanılmamalıdır. D
 ---
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Bir cüzdan anahtarları tutar. Bu anahtarlarla bitcoin alabilir ve gönderebilirsiniz; bitcoin'in kendisi ise telefonun veya cihazın içinde değil, ortak defterde kayıtlı kalır.](/micrographics/wallet-manages-keys-01/tr.md)
 
 ---
 
@@ -699,13 +723,15 @@ Kötü amaçlı yazılımlar kopyalanan hedefleri değiştirebilir. Tanıdık g�
 Özel anahtarlarınızı, kurtarma ifadelerinizi (seed phrase), parolalarınızı veya kurtarma kodlarınızı asla paylaşmayın. Hiçbir meşru eğitmen, destek görevlisi, cüzdan şirketi, borsa çalışanı veya geliştirici bunlara ihtiyaç duymaz.
 
 
-> **Callout – Deneyin**
+<!-- card: callout -->
+> **Deneyin**
 >
 > Hazırlanmış örnekleri alıcı bilgisi, gizli bilgiler ve bir kişiyle ilişkilendirildiğinde hassas hâle gelen açık bilgiler olarak sınıflandırın.
 
 ---
 
 <!-- micrographic: private-key-public-info-01 -->
+[Asla paylaşılmaması gereken gizli bir özel anahtar, paylaşılabilen açık bilgilere yol açar: ondan türetilen bir açık anahtar ve bu açık anahtardan oluşturulan bir alıcı adresi. Aynı özel anahtar, düğümlerin özel anahtarı hiçbir zaman öğrenmeden doğruladığı imzalar oluşturur.](/micrographics/private-key-public-info-01/tr.md)
 
 ---
 
@@ -738,7 +764,8 @@ Kurtarma ifadesi görülmüş, kopyalanmış, çevrimiçi bir yere girilmiş vey
 Herkese açık bir blokzincir, bir hizmet sağlayıcının belirli bir müşteriye ne borçlu olduğunu kanıtlayamaz. Kendi kendine saklama da yazılım, donanım, sunucu ve ağ bağımlılıkları içerebilir.
 
 
-> **Callout – Deneyin**
+<!-- card: callout -->
+> **Deneyin**
 >
 > Hazırlanmış iki açıklamayı karşılaştırın: Anahtarları kim kontrol ediyor, erişimi kim geri sağlıyor ve hangi riskin kontrol edilmesi gerekiyor?
 
@@ -749,6 +776,7 @@ Herkese açık bir blokzincir, bir hizmet sağlayıcının belirli bir müşteri
 ---
 
 <!-- micrographic: who-controls-keys-01 -->
+[Emanetçi kullanımda anahtarları bir hizmet kontrol eder ve harcamaları onaylar; dolayısıyla bakiye, o hizmetin verdiği bir sözdür. Kendi kendine saklamada ise anahtarları ve yedekleri kullanıcı kontrol eder; her iki yolun da bağımlılıkları ve başarısızlık riskleri vardır.](/micrographics/who-controls-keys-01/tr.md)
 
 ---
 
@@ -776,6 +804,7 @@ Yalnızca önceden hazırlanmış, boş veya simüle edilmiş materyaller kullan
 ---
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[Bir eğitim cüzdanını kurtarmak için altı adımlı bir uygulama: resmi talimatları izleyin, uyumluluğu kontrol edin, gizli bir ortamda çalışın, onaylanmış kurtarma yöntemini kullanın, beklenen cüzdanı doğrulayın, ardından sıfırlayın. Yalnızca hazırlanmış, boş veya simüle edilmiş materyaller kullanın; eğitmen kurtarma kelimelerini asla görmez.](/micrographics/practice-wallet-recovery-01/tr.md)
 
 ---
 
@@ -804,6 +833,7 @@ Yalnızca tüm kontroller birbiriyle eşleştiğinde onaylayın. Bilgiler deği�
 ---
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Gönderen, bir ödemeyi onaylamadan önce alıcıyı ve amacı, ödeme yöntemini, hedefi ve tutarı, birimi, ücreti veya geçerlilik süresini kontrol eder; işleme aşina değilse küçük bir test yapar. Herhangi bir şey farklıysa durup doğrular; yalnızca her şey eşleştiğinde onaylar, ardından sonucu kontrol eder.](/micrographics/pre-send-checklist-01/tr.md)
 
 ---
 
@@ -823,6 +853,7 @@ Bir gezgin kimliği, dürüstlüğü veya ödemenin amacını kanıtlayamaz. Her
 ---
 
 <!-- micrographic: confirmation-timeline-01 -->
+[Bir işlem, bekleyen havuzda onaylanmamış olarak bekler, ardından ilk onayı olarak Blok N'ye dahil edilir ve sonraki her blok bir onay daha ekler.](/micrographics/confirmation-timeline-01/tr.md)
 
 ---
 
@@ -835,7 +866,8 @@ Bir gezgin kimliği, dürüstlüğü veya ödemenin amacını kanıtlayamaz. Her
 **Durun. Hiçbir şey paylaşmayın. Hiçbir şey göndermeyin. Kanalı kapatın. Bağımsız olarak doğrulayın. Sırlarınızı açıklamadan yardım isteyin.**
 
 
-> **Callout – Deneyin**
+<!-- card: callout -->
+> **Deneyin**
 >
 > Hazırlanmış bir mesajdaki uyarı işaretini, olası kaybı ve ilk güvenli adımı belirleyin.
 
@@ -844,6 +876,7 @@ Bir gezgin kimliği, dürüstlüğü veya ödemenin amacını kanıtlayamaz. Her
 ---
 
 <!-- micrographic: scam-red-flags-01 -->
+[Beş dolandırıcılık uyarı işareti: aciliyet, kimliğe bürünme, değiştirilmiş hedef adres, garantili getiri ve gizli bilgi talepleri.](/micrographics/scam-red-flags-01/tr.md)
 
 ---
 
@@ -860,10 +893,12 @@ Hiçbir yöntem veya sağlayıcı kendiliğinden en iyisi değildir. **KYC** kim
 ---
 
 <!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Bir kişi bitcoin'i dört farklı yolla edinebilir: iş veya satış yoluyla kazanarak, yerel nakdi başka bir kişiyle takas ederek, bir borsa veya aracı kurum kullanarak ya da bir ATM kullanarak. Her yol kendi kendine saklama veya emanetçi bakiyesiyle sonuçlanır ve hiçbiri diğerlerine tercih edilmek üzere önerilmez.](/micrographics/ways-to-receive-bitcoin-01/tr.md)
 
 ---
 
 <!-- micrographic: exchange-risk-questions-01 -->
+[Bitcoin edinmeden veya takas etmeden önce kontrol edilmesi gereken, her biri sorulacak bir soruyla birlikte altı risk alanı: maliyetler, saklama, kimlik ve gizlilik, çekim ve mutabakat, karşı taraf ve güvenlik ile yerel bağlam.](/micrographics/exchange-risk-questions-01/tr.md)
 
 ---
 
@@ -909,7 +944,8 @@ Bazı uygulamalar her iki yolu da ek ücretler veya bağımlılıklarla destekle
 Bir arkadaşınız size bir talep gönderiyor, bu sırada tanımadığınız bir destek ekibi hemen harekete geçmenizi istiyor. Herhangi bir şey yapmadan önce neleri kontrol edebilirsiniz?
 
 
-> **Callout – Düşünmek için bir an**
+<!-- card: callout -->
+> **Düşünmek için bir an**
 >
 > Harekete geçmeden önce durup hangi güvenlik kontrolünü yapacaksınız?
 
@@ -928,6 +964,7 @@ Bir arkadaşınız size bir talep gönderiyor, bu sırada tanımadığınız bir
 ## Yerel Modülünüz 4
 
 <!-- micrographic: local-module-four-actions-01 -->
+[Yerel Modül 4'te öğrenci dört eylemden geçer: Modül 1 ile 3 arasındaki bir fikri yerel bir ihtiyaçla ilişkilendirir, Bitcoin'i mevcut gerçekçi bir seçenekle karşılaştırır, rehberlik eşliğinde güvenle pratik yapar ve öğrendiklerini ile sorumlu bir sonraki adımı açıklar. Eğitmeni, bazen de yerel bir uzman, süreç boyunca ona rehberlik eder.](/micrographics/local-module-four-actions-01/tr.md)
 
 
 Yerel odağınızı kaydedin: sorun veya fırsat, alternatif, güvenli senaryo, temel fayda ve risk ile güvenli bir sonraki adım.
@@ -979,10 +1016,12 @@ Küçük bir ödemenin başarılı olması, daha büyük bakiyeler için güvenl
 ---
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[Alıcı, telefonunda tutarı içeren bir Lightning ödeme talebi oluşturur, gönderen bunu tarayıp öder ve ödeme kısa bir süre sonra alıcının telefonuna ulaşır.](/micrographics/lightning-phone-payment-01/tr.md)
 
 ---
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Altı adımda bir Lightning ödemesi: alıcı bir talep oluşturur, gönderen talebi tarar, alıcıyı, tutarı, birimi, son geçerlilik süresini ve ücreti kontrol eder, onaylar, ödeme yönlendirilir ve her iki cüzdan da sonucu gösterir. Her cüzdan emanetçi veya kendi kendine saklama türünde olabilir; başarısız olan veya süresi dolan bir ödeme yeni bir taleple yeniden başlar.](/micrographics/lightning-payment-sequence-01/tr.md)
 
 ---
 
@@ -1034,6 +1073,7 @@ Rehberdeki senaryoları yerel göreve göre seçin veya uyarlayın. Yönergeleri
 ---
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[Dört adımda bir kafede ödeme: müşteri sipariş verir, garson bir fatura gönderir, müşteri telefonundan bitcoin ile öder ve garson kahveyi teslim eder.](/micrographics/coffee-shop-payment-01/tr.md)
 
 ---
 
@@ -1094,6 +1134,7 @@ Benimseme rakamları tek başına faydayı kanıtlamaz. Zayıf talep, araçlar, 
 ---
 
 <!-- micrographic: local-circular-economy-01 -->
+[Bir Bitcoin döngüsel ekonomisinde bitcoin; mallar, hizmetler ve zaman karşılığında kişiden kişiye geçer. Bir müşteri bir satıcıya ödeme yapar, satıcı bir hizmet sağlayıcıya ödeme yapar, hizmet sağlayıcı bir çalışana ödeme yapar ve çalışan da bu bitcoin'i bir müşteri olarak yeniden harcar.](/micrographics/local-circular-economy-01/tr.md)
 
 ---
 
@@ -1151,6 +1192,7 @@ Bir buluşmada kurtarma kelimelerinizi, bakiyelerinizi, ev adresinizi veya güve
 * Faydalı topluluk katılımı gönüllüdür ve insanları korur
 
 
-> **Callout – Düşünmek için bir an**
+<!-- card: callout -->
+> **Düşünmek için bir an**
 >
 > Bir Bitcoin yolunun yerel bir ihtiyaca uygun olup olmadığına karar vermeden önce hangi soruyu sorardınız?

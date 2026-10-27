@@ -12,6 +12,7 @@ Brug et på forhånd udvalgt [_txid_](https://curriculum.myfirstbitcoin.org/lexi
 
 
 <!-- micrographic: confirmation-timeline-01 -->
+[En transaktion venter ubekræftet i puljen med afventende transaktioner og inkluderes derefter i blok N, hvilket giver den første bekræftelse. Hver efterfølgende blok tilføjer endnu en bekræftelse.](/micrographics/confirmation-timeline-01/da.md)
 
 
 Spørg derefter:

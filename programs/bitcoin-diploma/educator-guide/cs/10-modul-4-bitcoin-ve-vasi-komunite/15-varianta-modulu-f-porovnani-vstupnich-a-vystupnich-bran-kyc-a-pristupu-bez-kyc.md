@@ -17,6 +17,7 @@ Ptejte se:
 
 
 <!-- micrographic: bitcoin-atm-off-ramp-01 -->
+[Osoba u bitcoinového bankomatu odesílá bitcoiny ze svého telefonu a dostává hotovost v místní měně: jeden z příkladů směny bitcoinů za místní peníze. Jde o ilustraci, nikoli o doporučení.](/micrographics/bitcoin-atm-off-ramp-01/cs.md)
 
 
 **Výstup:** Studující si pro smyšlený případ zvolí cestu, seřadí bezpečnostní kontroly a vysvětlí, které riziko se snižuje a které přibývá.

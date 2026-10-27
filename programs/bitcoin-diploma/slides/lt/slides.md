@@ -75,7 +75,8 @@ Pinigai yra turtas, kurį žmonės priima, nes tikisi, kad vėliau jį priims ir
 * Vertė laike ir erdvėje
 
 
-> **Callout – Trumpas klausimas**
+<!-- card: callout -->
+> **Trumpas klausimas**
 >
 > Kokią mainų ar veiksmų derinimo problemą padeda išspręsti pinigai?
 
@@ -108,7 +109,8 @@ Viena forma gali geriau atlikti tam tikrą funkciją nei kita. Kiekviena forma s
 Nė viena pinigų forma nėra tobula visais atžvilgiais. „**Patikimi pinigai**“ – tai vertinimas: įvardykite kriterijus ir nuosekliai lyginkite.
 
 
-> **Callout – Mąstykite kritiškai**
+<!-- card: callout -->
+> **Mąstykite kritiškai**
 >
 > Kurios savybės buvo svarbios, kai rinkotės vieną pinigų ar turto rūšį vietoj kitos?
 
@@ -152,6 +154,7 @@ Vien ribotumas negarantuoja vertės; paklausa taip pat svarbi.
 ---
 
 <!-- micrographic: same-water-different-value-01 -->
+[Tas pats švaraus vandens butelis yra pigus parduotuvės šaldytuve, kur vandens lengva rasti, ir daug vertingesnis karštoje dykumoje, kai vandens trūksta. Prieinamumas, poreikis ir aplinkybės keičia vertę ir kainą.](/micrographics/same-water-different-value-01/lt.md)
 
 ---
 
@@ -162,6 +165,7 @@ Vien ribotumas negarantuoja vertės; paklausa taip pat svarbi.
 ---
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Pirkėjas, turintis ribotą pinigų sumą, svarsto galimybes: maistas šiandienai, transportas arba taupymas vėlesniam laikui. Pasirinkus vieną, atsisakoma kitų – tai ir yra alternatyvieji kaštai. Nė viena galimybė nepažymėta kaip teisinga.](/micrographics/one-choice-two-uses-01/lt.md)
 
 ---
 
@@ -195,6 +199,7 @@ Patogūs mokėjimai ir lankstus kreditavimas lemia priklausomybę nuo institucij
 ---
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Dekretinių pinigų sistemos dalyviai ir tai, kas tarp jų perduodama: centrinis bankas nustato pinigų politiką ir vykdo tarpbankinius atsiskaitymus, komerciniai bankai laiko indėlius, kurie yra jų įsipareigojimai klientams, mokėjimo paslaugų teikėjai perduoda nurodymus, valdžia renka mokesčius ir leidžia lėšas, o gyventojai ir įmonės moka ir gauna mokėjimus.](/micrographics/fiat-system-flows-01/lt.md)
 
 ---
 
@@ -230,10 +235,12 @@ Masinis indėlių atsiėmimas gali apsunkinti prieigą prie lėšų. Indėlių d
 ---
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Supaprastinta banko paskolos schema: paskolos gavėjas pateikia paraišką, bankas patvirtina paskolą ir į paskolos gavėjo sąskaitą įskaito naują indėlį, o vėliau paskolos gavėjas grąžina bankui pagrindinę paskolos sumą ir sumoka palūkanas.](/micrographics/bank-loan-deposit-01/lt.md)
 
 ---
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Likvidumo rizika: daug indėlininkų šiandien stoja į eilę atsiimti pinigų, o bankui dabar nepakanka grynųjų pinigų, nors jo suteiktos paskolos gali būti grąžintos vėliau. Mokumo rizika: paskolų gavėjai nebevykdo būsto paskolų įsipareigojimų, o banko turto vertė tampa mažesnė už jo įsipareigojimus.](/micrographics/liquidity-vs-solvency-01/lt.md)
 
 ---
 
@@ -255,6 +262,7 @@ Pinigų ir kredito pasiūlos plėtra gali prisidėti prie infliacijos kartu su p
 ---
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Už tuos pačius 100 valiutos vienetų galima nusipirkti visą būtiniausių prekių krepšelį, kai jis kainuoja 100, bet ne tada, kai tas pats krepšelis kainuoja 110. Kainų lygis pakilo, o pinigų perkamoji galia sumažėjo.](/micrographics/same-money-smaller-basket-01/lt.md)
 
 ---
 
@@ -308,7 +316,8 @@ CBDC – tai skaitmeniniai dekretiniai pinigai, išleidžiami kaip centrinio ban
 Sprendimai skiriasi. Skaitmeninė forma savaime nereiškia decentralizacijos, ribotos pasiūlos, privatumo ar galimybės nepriklausomai patikrinti.
 
 
-> **Callout – Patikrinkite**
+<!-- card: callout -->
+> **Patikrinkite**
 >
 > Kas juos išleidžia, kas gali jais naudotis, kokie duomenys renkami ir kas gali blokuoti mokėjimus ar keisti taisykles? Kas vyksta neprisijungus prie interneto ir kokios teisinės apsaugos priemonės taikomos?
 
@@ -327,7 +336,8 @@ Sprendimai skiriasi. Skaitmeninė forma savaime nereiškia decentralizacijos, ri
 Kas daro jūsų pinigus naudingus ir kurios taisyklės priklauso nuo institucijų, kuriomis pasitikite?
 
 
-> **Callout – Akimirka apmąstymams**
+<!-- card: callout -->
+> **Akimirka apmąstymams**
 >
 > Kokį vieną klausimą apie pinigus dabar keliate, kurio anksčiau nekėlėte?
 
@@ -357,6 +367,7 @@ Bitkoinas mažina poreikį pasitikėti centriniu subjektu emisijos ir atsiskaity
 ---
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Naudojantis mokėjimų bendrove, viena organizacija tvarko apskaitos žurnalą ir patvirtina kiekvieną pervedimą. Naudojantis Bitkoinu, siuntėjas pasirašo sandorį, nepriklausomi mazgai jį patikrina, o kasėjai įtraukia į vieną bendrą apskaitos žurnalą, todėl gavėjas mažiau priklauso nuo centrinės institucijos.](/micrographics/central-ledger-vs-bitcoin-01/lt.md)
 
 ---
 
@@ -393,6 +404,7 @@ Dvigubas išleidimas – tai bandymas išsiųsti tą patį skaitmeninį vienetą
 ---
 
 <!-- micrographic: five-part-response-01 -->
+[Penkios dalys kartu išsprendžia dvigubo lėšų panaudojimo problemą: lygiarangių tinklas, skaitmeniniai parašai, blokai ir kasimas, nepriklausomas tikrinimas ir bendra istorija, kurioje sukaupta daugiausia darbo įrodymų. Kartu jos leidžia tinklui atmesti pakartotinį tų pačių lėšų panaudojimą be centrinės institucijos.](/micrographics/five-part-response-01/lt.md)
 
 ---
 
@@ -411,6 +423,7 @@ Vien rašytinio teiginio apie pasiūlą nepakanka: kas gali jį patikrinti ir ka
 ---
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Svetainėje ar emitento duomenų bazėje nurodytą pasiūlos ribą emitentas gali nepastebimai pakeisti. „Bitcoin“ pasiūlos taisyklė yra vieša, o parašai, vieša istorija, darbo įrodymas ir mazgų atliekama patikra kartu neleidžia savavališkai kurti naujų monetų ar to paties bitkoino išleisti du kartus.](/micrographics/claimed-or-verified-supply-01/lt.md)
 
 ---
 
@@ -452,12 +465,14 @@ Naudotis tarpininkų paslaugomis neprivaloma; pasirinkus tokį paslaugų teikėj
 ---
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[Siuntėjas pasirašo sandorį ir išplatina jį daugeliui tinklo mazgų, kurie jį persiunčia toliau, kol jis pasiekia gavėją. Siuntėjui ar gavėjui nereikia jokio centrinio „Bitcoin“ tinklo operatoriaus patvirtinimo.](/micrographics/peer-to-peer-route-01/lt.md)
 
 ---
 
 ![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Keturi vaidmenys „Bitcoin“ tinkle: naudotojai gauna, laiko ir siunčia bitkoinus, mazgai savarankiškai tikrina, ar laikomasi taisyklių, kasėjai kuria blokus kandidatus atlikdami darbo įrodymo skaičiavimus, o programuotojai siūlo programinę įrangą. Nė vienas vaidmuo atskirai nekontroliuoja tinklo.](/micrographics/bitcoin-participant-roles-01/lt.md)
 
 ---
 
@@ -466,7 +481,8 @@ Naudotis tarpininkų paslaugomis neprivaloma; pasirinkus tokį paslaugų teikėj
 Kasėjai negali padaryti taip, kad sąžiningi mazgai priimtų negaliojančius blokus. Kūrėjai negali priversti naudoti programinės įrangos. Vienas asmuo gali atlikti kelis vaidmenis.
 
 
-> **Callout – Trumpas klausimas**
+<!-- card: callout -->
+> **Trumpas klausimas**
 >
 > Kodėl mazgas tikrina sandorius? Įvardykite vieną taisyklę, kurios laikymąsi jis tikrina.
 
@@ -489,6 +505,7 @@ Kasimas užtikrina operacijų eiliškumą; juo nesprendžiamos su tuo nesusijusi
 ![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Kasėjas vėl ir vėl skaičiuoja siūlomo bloko maišos reikšmę, kol vienas rezultatas tampa mažesnis už tinklo nustatytą tikslinę reikšmę, tada išplatina bloką. Prieš įtraukiant bloką į blokų grandinę, mazgai greitai patikrina įrodymą ir kiekvienos taisyklės laikymąsi: darbui atlikti reikia daug išteklių, o jį patikrinti lengva.](/micrographics/proof-of-work-process-01/lt.md)
 
 ---
 
@@ -509,10 +526,12 @@ Mazgai atmeta perteklinę emisiją; riba galioja tol, kol dalyviai užtikrina jo
 ---
 
 <!-- micrographic: bitcoin-issuance-supply-01 -->
+[Bloko subsidija iš pradžių sudaro 50 bitkoinų ir kas 210 000 blokų sumažėja perpus, o bendras išleistų bitkoinų kiekis artėja prie 21 milijono ribos. Sandorių mokesčiai mokami papildomai ir nėra naujai išleisti bitkoinai; jokia kainos prognozė nenumatoma.](/micrographics/bitcoin-issuance-supply-01/lt.md)
 
 ---
 
 <!-- micrographic: bitcoin-issuance-subsidy-01 -->
+[Bloko subsidija iš pradžių sudaro 50 bitkoinų ir kas 210 000 blokų sumažėja perpus, o bendras išleistų bitkoinų kiekis artėja prie 21 milijono ribos. Sandorių mokesčiai mokami papildomai ir nėra naujai išleisti bitkoinai; jokia kainos prognozė nenumatoma.](/micrographics/bitcoin-issuance-subsidy-01/lt.md)
 
 ---
 
@@ -528,7 +547,8 @@ Mazgai atmeta perteklinę emisiją; riba galioja tol, kol dalyviai užtikrina jo
 **Vieneto šališkumas:** maža viso vieneto kaina nereiškia geresnės vertės. Palyginkite pasiūlos dalį, atitinkamą vertę ir riziką.
 
 
-> **Callout – Parodykite, kaip supratote**
+<!-- card: callout -->
+> **Parodykite, kaip supratote**
 >
 > Kiek satošių yra 0,01 BTC? Kodėl galima naudoti mažiau nei vieną visą bitkoiną?
 
@@ -586,7 +606,8 @@ Pažįstamas prekybos simbolis, iš pažiūros stabili kaina ar išdailinta prog
 * Nenurodoma pirkti, parduoti ar laikyti
 
 
-> **Callout – Vertės vietos kontekste patikra**
+<!-- card: callout -->
+> **Vertės vietos kontekste patikra**
 >
 > Atskirkite rinkos kainą, vietinį priimtinumą ir asmeninį pasirinkimą ar šališkumą.
 
@@ -601,6 +622,7 @@ Satoshi Nakamoto yra pseudonimas; kūrėjas ar kūrėjai lieka nežinomi. Kiti t
 ---
 
 <!-- micrographic: bitcoin-origin-timeline-01 -->
+[„Bitcoin“ ištakos – keturi įvykiai su datomis: 2008 m. spalio 31 d. Satoshi Nakamoto paskelbė baltąją knygą, kurioje aprašė tiesioginius mokėjimus internetu be finansų tarpininko; 2009 m. sausio 3 d. pradinis blokas, kuriame buvo antraštė apie bankų gelbėjimą, davė pradžią „Bitcoin“ tinklui; 2009 m. sausio 12 d. Satoshi išsiuntė bitkoinų gavėjui Hal Finney – tai buvo pirmasis užfiksuotas sandoris tarp dviejų žmonių; 2010 m. gegužės 22 d. vienas naudotojas už dvi picas sumokėjo 10 000 BTC, o ši diena dabar vadinama „Bitcoin“ picos diena.](/micrographics/bitcoin-origin-timeline-01/lt.md)
 
 ---
 
@@ -629,7 +651,8 @@ Asmeninė atsakomybė gali apimti mokymąsi, tarpusavio patikrą, procedūras ir
 * Operacijų eiliškumo nustatymas → darbo įrodymas; įrangos ir energijos sąnaudos
 
 
-> **Callout – Akimirka apmąstymams**
+<!-- card: callout -->
+> **Akimirka apmąstymams**
 >
 > Kurią „Bitcoin“ sandaros dalį dabar paaiškintumėte kitaip ir kodėl?
 
@@ -674,6 +697,7 @@ Mokomosiose piniginėse negalima laikyti reikšmingų lėšų sumų. Vėliau nau
 ---
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Piniginėje saugomi raktai. Jais naudodamiesi galite gauti ir siųsti bitkoinus, o patys bitkoinai lieka įrašyti bendrojoje apskaitos knygoje, o ne telefone ar įrenginyje.](/micrographics/wallet-manages-keys-01/lt.md)
 
 ---
 
@@ -699,13 +723,15 @@ Kenkėjiška programinė įranga gali pakeisti nukopijuotus gavėjų adresus. Vi
 Niekada nesidalykite privačiaisiais raktais, atkūrimo frazėmis, slaptažodžiais ar atkūrimo kodais. Jų nereikia jokiam teisėtai veikiančiam pedagogui, pagalbos specialistui, piniginės paslaugų teikėjui, keityklos darbuotojui ar kūrėjui.
 
 
-> **Callout – Išbandykite**
+<!-- card: callout -->
+> **Išbandykite**
 >
 > Suskirstykite paruoštus pavyzdžius į lėšoms gauti skirtą informaciją, slaptą informaciją ir viešą informaciją, kuri tampa jautri susiejus ją su asmeniu.
 
 ---
 
 <!-- micrographic: private-key-public-info-01 -->
+[Iš slapto privačiojo rakto, kuriuo niekada negalima dalytis, gaunama vieša informacija, kuria galima dalytis: iš jo išvestas viešasis raktas ir iš šio rakto sukurtas gavimo adresas. Tuo pačiu privačiuoju raktu sukuriami parašai, kuriuos mazgai patikrina niekada nesužinodami privačiojo rakto.](/micrographics/private-key-public-info-01/lt.md)
 
 ---
 
@@ -738,7 +764,8 @@ Jei atkūrimo frazė galėjo būti pamatyta, nukopijuota, įvesta internete ar i
 Vieša blokų grandinė negali įrodyti, kiek paslaugos teikėjas skolingas konkrečiam klientui. Net ir savarankiškai saugant lėšas gali išlikti priklausomybė nuo programinės ir aparatinės įrangos, serverių bei tinklo.
 
 
-> **Callout – Išbandykite**
+<!-- card: callout -->
+> **Išbandykite**
 >
 > Palyginkite du parengtus aprašymus: kas valdo raktus, kas atkuria prieigą ir kokią riziką reikia patikrinti?
 
@@ -749,6 +776,7 @@ Vieša blokų grandinė negali įrodyti, kiek paslaugos teikėjas skolingas konk
 ---
 
 <!-- micrographic: who-controls-keys-01 -->
+[Kai saugoma per tarpininką, paslaugos teikėjas valdo raktus ir patvirtina lėšų išleidimą, todėl likutis yra jo pažadas. Kai saugoma savarankiškai, naudotojas valdo raktus ir atsargines kopijas; abu būdai turi priklausomybių ir sutrikimų rizikų.](/micrographics/who-controls-keys-01/lt.md)
 
 ---
 
@@ -776,6 +804,7 @@ Naudokite tik iš anksto paruoštą, tuščią arba imitacinę medžiagą. Nieka
 ---
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[Šešių žingsnių mokomosios piniginės atkūrimo praktika: laikykitės oficialių instrukcijų, patikrinkite suderinamumą, dirbkite privačiai, naudokite patvirtintą atkūrimo būdą, patikrinkite, ar piniginė yra ta, kurios tikėjotės, tada nustatykite iš naujo. Naudokite tik paruoštą, tuščią arba imituotą medžiagą, o mokytojas niekada nemato atkūrimo frazės žodžių.](/micrographics/practice-wallet-recovery-01/lt.md)
 
 ---
 
@@ -804,6 +833,7 @@ Patvirtinkite tik tada, kai visi patikros duomenys sutampa. Jei duomenys pasikei
 ---
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Prieš patvirtindamas mokėjimą, siuntėjas patikrina gavėją ir tikslą, mokėjimo būdą, paskirties adresą bei sumą, vienetą, mokestį arba galiojimo laiką, o jei procesas nepažįstamas, atlieka nedidelį bandomąjį mokėjimą. Jei kas nors nesutampa, siuntėjas sustoja ir patikrina; patvirtina tik tada, kai viskas sutampa, o tada patikrina rezultatą.](/micrographics/pre-send-checklist-01/lt.md)
 
 ---
 
@@ -823,6 +853,7 @@ Naudokite paruoštus pavyzdžius; neieškokite besimokančiojo asmeninio adreso 
 ---
 
 <!-- micrographic: confirmation-timeline-01 -->
+[Nepatvirtinta operacija laukia laukiančių operacijų telkinyje, tada įtraukiama į bloką N ir taip gauna pirmąjį patvirtinimą, o kiekvienas vėlesnis blokas prideda dar vieną.](/micrographics/confirmation-timeline-01/lt.md)
 
 ---
 
@@ -835,7 +866,8 @@ Naudokite paruoštus pavyzdžius; neieškokite besimokančiojo asmeninio adreso 
 **Sustokite. Niekuo nesidalykite. Nieko nesiųskite. Nutraukite ryšį. Patikrinkite nepriklausomai. Prašykite pagalbos neatskleisdami paslapčių.**
 
 
-> **Callout – Išbandykite**
+<!-- card: callout -->
+> **Išbandykite**
 >
 > Nurodykite parengtos žinutės įspėjamąjį požymį, galimą nuostolį ir pirmąjį saugų veiksmą.
 
@@ -844,6 +876,7 @@ Naudokite paruoštus pavyzdžius; neieškokite besimokančiojo asmeninio adreso 
 ---
 
 <!-- micrographic: scam-red-flags-01 -->
+[Penki sukčiavimo požymiai: skubinimas, apsimetimas kitu asmeniu, pakeistas gavėjo adresas, garantuota grąža ir prašymai atskleisti slaptą informaciją.](/micrographics/scam-red-flags-01/lt.md)
 
 ---
 
@@ -860,10 +893,12 @@ Nė vienas būdas ar paslaugų teikėjas savaime nėra geriausias. **KYC** reiš
 ---
 
 <!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Vienas asmuo gali gauti bitkoinų keturiais skirtingais būdais: uždirbdamas jų iš darbo ar pardavimo, keisdamas vietinius grynuosius pinigus su kitu asmeniu, naudodamasis keitykla ar brokerio paslaugomis arba bankomatu. Kiekvienu atveju bitkoinai galiausiai saugomi savarankiškai arba kaip pas saugotoją laikomas likutis, ir nė vienam iš šių būdų neteikiama pirmenybė.](/micrographics/ways-to-receive-bitcoin-01/lt.md)
 
 ---
 
 <!-- micrographic: exchange-risk-questions-01 -->
+[Šešios rizikos sritys, kurias reikia patikrinti prieš įsigyjant ar keičiant bitkoinus, kiekviena su klausimu, kurį reikėtų užduoti: išlaidos, saugojimas, tapatybė ir privatumas, lėšų išėmimas ir atsiskaitymas, sandorio šalis ir saugumas bei vietos aplinkybės.](/micrographics/exchange-risk-questions-01/lt.md)
 
 ---
 
@@ -909,7 +944,8 @@ Naudokite sutartą mokymosi aplinką. Pastebėję neatitikimą, sustokite; prire
 Draugas atsiunčia prašymą, o nepažįstamas pagalbos tarnybos atstovas reikalauja veikti nedelsiant. Ką galėtumėte patikrinti prieš imdamiesi bet kokių veiksmų?
 
 
-> **Callout – Akimirka apmąstymams**
+<!-- card: callout -->
+> **Akimirka apmąstymams**
 >
 > Kokį saugumo patikrinimą stabtelėsite atlikti prieš imdamiesi veiksmų?
 
@@ -928,6 +964,7 @@ Draugas atsiunčia prašymą, o nepažįstamas pagalbos tarnybos atstovas reikal
 ## Jūsų vietinis 4 modulis
 
 <!-- micrographic: local-module-four-actions-01 -->
+[Vietos kontekstui pritaikytame 4 modulyje besimokantis asmuo atlieka keturis veiksmus: susieja 1–3 modulių idėją su vietos poreikiu, palygina Bitcoin su realistiška esama alternatyva, saugiai praktikuojasi vadovaujamas mokytojo ir paaiškina, ką išmoko ir koks būtų atsakingas kitas žingsnis. Visą laiką jam padeda mokytojas, o kartais ir vietos ekspertas.](/micrographics/local-module-four-actions-01/lt.md)
 
 
 Užrašykite, į ką sutelksite dėmesį vietos kontekste: problemą ar galimybę, alternatyvą, saugų scenarijų, pagrindinę naudą ir riziką bei saugų tolesnį žingsnį.
@@ -979,10 +1016,12 @@ Sėkmingas nedidelis mokėjimas neįrodo, kad saugu laikyti didesnes lėšų sum
 ---
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[Gavėjas savo telefone sukuria „Lightning“ tinklo mokėjimo prašymą su nurodyta suma, siuntėjas jį nuskenuoja ir sumoka, o po akimirkos mokėjimas gaunamas gavėjo telefone.](/micrographics/lightning-phone-payment-01/lt.md)
 
 ---
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[„Lightning“ mokėjimas šešiais žingsniais: gavėjas sukuria užklausą, siuntėjas ją nuskaito, patikrina gavėją, sumą, vienetą, galiojimo laiką ir mokestį, patvirtina mokėjimą, šis nukreipiamas tinklu, o abi piniginės parodo rezultatą. Kiekviena piniginė gali būti valdoma saugotojo arba savarankiškai, o jei mokėjimas nepavyksta arba baigiasi galiojimo laikas, procesas pradedamas iš naujo sukuriant naują užklausą.](/micrographics/lightning-payment-sequence-01/lt.md)
 
 ---
 
@@ -1034,6 +1073,7 @@ Pasirinkite arba pritaikykite vadove pateiktus scenarijus pagal vietos užduotį
 ---
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[Mokėjimas kavinėje keturiais žingsniais: klientas užsisako, padavėjas išsiunčia sąskaitą, klientas sumoka bitkoinais telefonu, o padavėjas paduoda kavą.](/micrographics/coffee-shop-payment-01/lt.md)
 
 ---
 
@@ -1094,6 +1134,7 @@ Vien naudojimo masto rodikliai neįrodo naudingumo. Menka paklausa, netinkamos p
 ---
 
 <!-- micrographic: local-circular-economy-01 -->
+[Bitcoin žiedinėje ekonomikoje bitkoinai keliauja iš vieno žmogaus kitam mainais už prekes, paslaugas ir laiką. Klientas sumoka prekybininkui, prekybininkas sumoka paslaugų teikėjui, paslaugų teikėjas sumoka darbuotojui, o darbuotojas vėl juos išleidžia kaip klientas.](/micrographics/local-circular-economy-01/lt.md)
 
 ---
 
@@ -1151,6 +1192,7 @@ Atlikite individualiai, tada palyginkite savo argumentus su grupės narių argum
 * Naudingas dalyvavimas bendruomenės veikloje yra savanoriškas ir saugo žmones
 
 
-> **Callout – Akimirka apmąstymams**
+<!-- card: callout -->
+> **Akimirka apmąstymams**
 >
 > Kokį klausimą užduotumėte prieš nuspręsdami, ar „Bitcoin“ naudojimas tinka vietos poreikiui patenkinti?

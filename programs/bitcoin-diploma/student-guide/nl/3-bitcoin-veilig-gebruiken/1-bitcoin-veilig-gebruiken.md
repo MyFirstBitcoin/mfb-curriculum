@@ -3,8 +3,7 @@
 Deze module gaat over veilige eerste stappen, niet over expert worden of financiële risico's nemen. U oefent met voorbereide simulaties, testomgevingen, oefenwallets of, waar uw docent dat passend acht, een live activiteit met weinig op het spel.
 
 
-> **Dark**
->
+<!-- card: dark -->
 > U hoeft geen bitcoin te kopen of op een andere manier te verkrijgen, en ook geen eigen geld te gebruiken, om het Bitcoin Diploma te behalen.
 
 

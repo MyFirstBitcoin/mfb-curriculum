@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: local-circular-economy-01 -->
+[In 'n Bitcoin-kringloopekonomie gaan bitcoin van persoon tot persoon in ruil vir goedere, dienste en tyd. 'n Klant betaal 'n handelaar, die handelaar betaal 'n diensverskaffer, die diensverskaffer betaal 'n werker, en die werker bestee dit weer as 'n klant.](/micrographics/local-circular-economy-01/af.md)
 
 
 My First Bitcoin ondersteun [Bitcoin-kringloopekonomieë](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-circular-economy), en baie daarvan is deel van die Bitcoin-onderwysnetwerk. Verken hierdie gemeenskappe op die [Netwerk-kontrolepaneel](https://network.myfirstbitcoin.org/?min10merchants=1).

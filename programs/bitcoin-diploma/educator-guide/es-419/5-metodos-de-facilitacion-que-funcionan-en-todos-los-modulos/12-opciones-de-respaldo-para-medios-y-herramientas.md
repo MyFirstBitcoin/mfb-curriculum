@@ -24,6 +24,7 @@ La enseñanza y la evaluación sin conexión son válidas. Utilice verificacione
 
 
 <!-- micrographic: same-competency-any-route-01 -->
+[Las herramientas en vivo, las simulaciones en papel y las rutas accesibles aprobadas pueden servir para desarrollar la misma competencia siempre que el estudiante siga tomando las decisiones requeridas y el educador pueda evaluar evidencias equivalentes. Si no hay equivalencia, prepare otra ruta antes de la certificación.](/micrographics/same-competency-any-route-01/es-419.md)
 
 
 La Guía del estudiante explica conceptos duraderos. Verifique los detalles locales vigentes antes de presentar comisiones, leyes, impuestos, servicios disponibles, funciones de las billeteras o listados de comercios, e indique la fecha de la información que utilice.

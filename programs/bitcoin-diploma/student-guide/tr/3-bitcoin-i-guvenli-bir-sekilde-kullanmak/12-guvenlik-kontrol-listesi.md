@@ -6,6 +6,7 @@ Bir ödeme veya kurulum öncesinde sizi ne durdururdu? Şunları tehlike işaret
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Beş dolandırıcılık uyarı işareti: aciliyet, kimliğe bürünme, değiştirilmiş hedef adres, garantili getiri ve gizli bilgi talepleri.](/micrographics/scam-red-flags-01/tr.md)
 
 
 Güvenli tepki her zaman şudur: **Durun. Hiçbir şey paylaşmayın. Hiçbir şey göndermeyin. İletişim kanalını kapatın. Bilinen bir kaynak üzerinden bağımsız olarak doğrulayın. Gizli bilgilerinizi açıklamadan yardım isteyin.** Bilinen kaynak; bir reklam, doğrudan mesaj veya beklenmedik bir bağlantı aracılığıyla değil, sizin bağımsız olarak ulaştığınız resmi bir site, uygulama sayfası veya iletişim yoludur. Yayıncıyı ve web adresini kontrol edin, resmi belgelerle karşılaştırın ve iletişim bilgilerini ayrıca kendiniz bulun. Kaynak, talimatlar veya ödeme bilgileri gösterilen süreçten farklıysa durun ve eğitmeninizden ya da güvendiğiniz yerel destekten yardım isteyin; bunu yaparken [tohum ifadenizi](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) veya [özel anahtarınızı](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) asla açıklamayın. Gerçek bir fırsat dikkatli bir kontrolden sağ çıkabilir; dolandırıcılık ise çoğu zaman bu kontrolü engellemeye dayanır.

@@ -1,5 +1,6 @@
 # 1.4 A cserekereskedelem és a szükségletek kettős egybeesése
 
+<!-- card: definition -->
 > **Definition – Cserekereskedelem**
 >
 > [A cserekereskedelem](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) egy áru vagy szolgáltatás közvetlen cseréje egy másikra. Kis léptékben jól működhet, de nehézkessé válik, ha sok ember és termék vesz részt benne.
@@ -11,6 +12,7 @@ Képzelje el, hogy **Amina** rendelkezik rizzsel, és cipőt szeretne. **Luis** 
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina rizzsel rendelkezik, és cipőt szeretne, Luis cipővel rendelkezik, és étolajat szeretne, Mei pedig étolajjal rendelkezik, és javítási munkát szeretne. Egyik páros sem tud közvetlenül cserélni, mert egyikük sem azt szeretné, amit a másik kínál.](/micrographics/barter-mismatch-01/hu.md)
 
 
 Ahhoz, hogy a [cserekereskedelem](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) közvetlenül működjön, mindkét félnek ugyanabban az időben és megfelelő mennyiségben kell igényelnie azt, amit a másik kínál. A közgazdászok által használt elnevezés erre a [**szükségletek kettős egybeesése**](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-coincidence-of-wants).
@@ -31,3 +33,4 @@ Egy általánosan elfogadott pénz elválasztja az eladást a vásárlástól. A
 
 
 <!-- micrographic: sell-then-buy-01 -->
+[Amina általánosan elfogadott pénzért eladja a rizsét valakinek, majd később ebből a pénzből cipőt vesz valaki mástól. Az eladás és a vásárlás különálló cselekvéssé válik.](/micrographics/sell-then-buy-01/hu.md)

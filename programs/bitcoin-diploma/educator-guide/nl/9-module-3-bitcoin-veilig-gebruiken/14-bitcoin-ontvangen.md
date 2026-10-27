@@ -16,6 +16,7 @@ Leg uit dat een bericht of screenshot met „verzonden” geen bewijs van ontvan
 
 
 <!-- micrographic: check-what-you-receive-01 -->
+[Een voorbeeld van een ontvangstscherm op een telefoon toont de betaalmethode, het betaalverzoek om te delen, het bedrag en de status 'in afwachting'. Een bericht of screenshot met "verzonden" is geen bewijs: controleer de status in uw eigen Wallet.](/micrographics/check-what-you-receive-01/nl.md)
 
 
 #### Oefening: het ontvangstscherm doorlopen

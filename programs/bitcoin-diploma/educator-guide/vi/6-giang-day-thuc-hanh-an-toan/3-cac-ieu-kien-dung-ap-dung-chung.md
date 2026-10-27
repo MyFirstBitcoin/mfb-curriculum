@@ -1,6 +1,7 @@
 # 6.3 Các điều kiện dừng áp dụng chung
 
-> **Callout – Dừng ngay khi một bước kiểm tra an toàn không đạt yêu cầu**
+<!-- card: callout -->
+> **Dừng ngay khi một bước kiểm tra an toàn không đạt yêu cầu**
 >
 > Dừng lại là một hành vi bảo đảm an toàn đúng đắn. Hãy bảo vệ mọi người và thông tin bí mật, xác minh vấn đề, rồi sử dụng phương án an toàn đã chuẩn bị sẵn hoặc hoãn hoạt động. Đừng làm người học cảm thấy xấu hổ vì đã phát hiện vấn đề.
 
@@ -20,6 +21,7 @@ Dừng hoạt động ngay lập tức nếu:
 
 
 <!-- micrographic: stop-when-check-fails-01 -->
+[Một tình huống không an toàn hoặc không thể giải thích được khiến hoạt động phải dừng lại. Người dạy bảo vệ mọi người, giữ kín thông tin bí mật và xác minh vấn đề; lỗi trong phần đánh giá có ảnh hưởng nghiêm trọng đến an toàn được ghi nhận là Chưa đạt, và người học thiết lập lại môi trường, thực hành và được đánh giá lại sau.](/micrographics/stop-when-check-fails-01/vi.md)
 
 
 ![Nhà giáo giơ bàn tay mở để tạm dừng hoạt động, trong khi người mới bắt đầu hạ điện thoại xuống và người học am hiểu kỹ thuật khép bớt màn hình máy tính xách tay.](https://cdn.sanity.io/images/vje9ehw2/staging/adb5c936fe5622b3c0b62f060349af1097eee5b0-1055x1491.png)

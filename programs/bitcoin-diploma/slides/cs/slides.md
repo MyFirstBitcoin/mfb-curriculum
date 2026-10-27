@@ -75,7 +75,8 @@ Peníze jsou aktivum, které lidé přijímají, protože očekávají, že je p
 * Hodnota napříč časem a vzdáleností
 
 
-> **Callout – Rychlá otázka**
+<!-- card: callout -->
+> **Rychlá otázka**
 >
 > Jaký problém při směně nebo koordinaci pomáhají peníze řešit?
 
@@ -108,7 +109,8 @@ Jedna forma peněz může plnit určitou funkci lépe než jiná. Každá forma 
 Žádná forma peněz není ve všech ohledech dokonalá. „**Zdravé peníze**“ jsou výsledkem hodnocení: stanovte kritéria a porovnávejte důsledně podle nich.
 
 
-> **Callout – Přemýšlejte kriticky**
+<!-- card: callout -->
+> **Přemýšlejte kriticky**
 >
 > Které vlastnosti pro vás byly důležité, když jste dávali přednost jednomu druhu peněz nebo aktiv před jiným?
 
@@ -152,6 +154,7 @@ Samotná vzácnost nezaručuje hodnotu; záleží také na poptávce.
 ---
 
 <!-- micrographic: same-water-different-value-01 -->
+[Stejná láhev čisté vody je levná v lednici v obchodě, kde je voda snadno dostupná, a mnohem cennější v horké poušti při jejím nedostatku. Dostupnost, potřeba a okolnosti mění hodnotu i cenu.](/micrographics/same-water-different-value-01/cs.md)
 
 ---
 
@@ -162,6 +165,7 @@ Samotná vzácnost nezaručuje hodnotu; záleží také na poptávce.
 ---
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Nakupující s omezeným rozpočtem zvažuje možnosti, které má před sebou: jídlo na dnešek, dopravu nebo spoření na později. Vybrat si jednu možnost znamená vzdát se ostatních, což představuje náklady obětované příležitosti. Žádná možnost není označena jako správná.](/micrographics/one-choice-two-uses-01/cs.md)
 
 ---
 
@@ -195,6 +199,7 @@ Pohodlné platby a flexibilní úvěry přinášejí závislost na institucích.
 ---
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Účastníci systému nekrytých peněz a to, co mezi nimi proudí: centrální banka určuje měnovou politiku a vypořádává platby mezi bankami, komerční banky vedou vklady, které jsou jejich závazkem vůči klientům, platební služby přenášejí příkazy, stát vybírá daně a vynakládá prostředky a občané a podniky platí a přijímají platby.](/micrographics/fiat-system-flows-01/cs.md)
 
 ---
 
@@ -230,10 +235,12 @@ Hromadné výběry vkladů mohou ztížit přístup k penězům. Pojištění vk
 ---
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Zjednodušené znázornění bankovního úvěru: dlužník podá žádost, banka úvěr schválí a připíše na účet dlužníka nový vklad a dlužník později splatí bance jistinu spolu s úroky.](/micrographics/bank-loan-deposit-01/cs.md)
 
 ---
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Riziko likvidity: mnoho vkladatelů dnes stojí ve frontě na výběr peněz a banka nyní nemá dostatek hotovosti, přestože její úvěry mohou být splaceny později. Riziko platební neschopnosti: dlužníci nesplácejí úvěry na bydlení a hodnota aktiv banky klesá pod výši jejích závazků.](/micrographics/liquidity-vs-solvency-01/cs.md)
 
 ---
 
@@ -255,6 +262,7 @@ K inflaci může přispívat růst objemu peněz a úvěrů spolu s nabídkou, p
 ---
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Za stejných 100 jednotek měny si můžete koupit celý koš základního zboží, když stojí 100, ale ne tehdy, když stejný koš stojí 110. Cenová hladina vzrostla a kupní síla peněz klesla.](/micrographics/same-money-smaller-basket-01/cs.md)
 
 ---
 
@@ -308,7 +316,8 @@ CBDC jsou digitální fiat peníze vydávané jako závazek centrální banky: p
 Jednotlivá řešení se liší. Digitální neznamená automaticky decentralizované, vzácné, soukromé ani nezávisle ověřitelné.
 
 
-> **Callout – Ověřte si**
+<!-- card: callout -->
+> **Ověřte si**
 >
 > Kdo je vydává, kdo je může používat, jaké údaje se shromažďují a kdo může blokovat platby nebo měnit pravidla? Co se děje bez připojení k internetu a jaká právní ochrana existuje?
 
@@ -327,7 +336,8 @@ Jednotlivá řešení se liší. Digitální neznamená automaticky decentralizo
 Co činí vaše peníze užitečnými a která pravidla závisejí na institucích, jimž důvěřujete?
 
 
-> **Callout – Chvilka k zamyšlení**
+<!-- card: callout -->
+> **Chvilka k zamyšlení**
 >
 > Jakou jednu otázku si nyní kladete o penězích, kterou jste si dříve nekladli?
 
@@ -357,6 +367,7 @@ Bitcoin snižuje potřebu důvěry v centrální autoritu při emisi a vypořád
 ---
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[U platební společnosti vede účetní knihu a schvaluje každý převod jedna organizace. V síti Bitcoin odesílatel podepisuje transakci, nezávislé uzly ji ověřují a těžaři ji přidávají do jedné sdílené účetní knihy, takže příjemce méně závisí na centrální autoritě.](/micrographics/central-ledger-vs-bitcoin-01/cs.md)
 
 ---
 
@@ -393,6 +404,7 @@ Dvojí útrata je pokus o odeslání téže digitální jednotky dvěma příjem
 ---
 
 <!-- micrographic: five-part-response-01 -->
+[Pět prvků společně řeší problém dvojího utracení: síť typu peer-to-peer, digitální podpisy, bloky a těžba, nezávislé ověřování a sdílená historie s největším množstvím nahromaděné práce doložené důkazem prací. Společně umožňují síti odmítnout opětovné utracení stejných prostředků bez centrální autority.](/micrographics/five-part-response-01/cs.md)
 
 ---
 
@@ -411,6 +423,7 @@ Písemné tvrzení o nabídce nestačí: kdo ho může ověřit a kdo by ho mohl
 ---
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Limit množství v oběhu uvedený na webu nebo v databázi vydavatele může tento vydavatel potají změnit. Pravidlo Bitcoinu pro množství v oběhu je veřejné a podpisy, veřejná historie, důkaz prací a ověřování uzly společně brání svévolnému vytváření nových mincí i tomu, aby byl tentýž bitcoin utracen dvakrát.](/micrographics/claimed-or-verified-supply-01/cs.md)
 
 ---
 
@@ -452,12 +465,14 @@ Využívání zprostředkovatelských služeb zůstává dobrovolné; pokud si n
 ---
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[Odesílatel podepíše transakci a rozešle ji mnoha uzlům sítě, které ji předávají dál, dokud nedorazí k příjemci. Odesílatele ani příjemce nemusí schvalovat žádný centrální provozovatel sítě Bitcoin.](/micrographics/peer-to-peer-route-01/cs.md)
 
 ---
 
 ![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Čtyři role v síti Bitcoin: uživatelé přijímají, drží a odesílají bitcoin, uzly nezávisle ověřují dodržování pravidel, těžaři sestavují kandidátní bloky s důkazem prací a vývojáři navrhují software. Žádná jednotlivá role síť neovládá.](/micrographics/bitcoin-participant-roles-01/cs.md)
 
 ---
 
@@ -466,7 +481,8 @@ Využívání zprostředkovatelských služeb zůstává dobrovolné; pokud si n
 Těžaři nemohou přimět poctivé uzly, aby přijímaly neplatné bloky. Vývojáři nemohou vynutit přijetí softwaru. Jedna osoba může zastávat několik rolí.
 
 
-> **Callout – Kontrolní otázka**
+<!-- card: callout -->
+> **Kontrolní otázka**
 >
 > Proč uzel ověřuje transakce? Uveďte jedno pravidlo, jehož dodržení kontroluje.
 
@@ -489,6 +505,7 @@ Těžba zabezpečuje pořadí transakcí; neřeší rovnice nesouvisející s t�
 ![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Těžař opakovaně počítá hash navrženého bloku, dokud jeden výsledek není nižší než cílová hodnota sítě, a poté blok rozešle. Než se blok připojí k blockchainu, uzly rychle ověří důkaz a dodržení všech pravidel: vykonat práci je nákladné, ale ověřit ji je snadné.](/micrographics/proof-of-work-process-01/cs.md)
 
 ---
 
@@ -509,10 +526,12 @@ Uzly odmítají nadměrnou emisi; limit platí, dokud jej účastníci vynucují
 ---
 
 <!-- micrographic: bitcoin-issuance-supply-01 -->
+[Bloková dotace začíná na 50 bitcoinech a každých 210 000 bloků se půlí, zatímco celkové množství vydaných bitcoinů roste směrem k limitu 21 milionů. Transakční poplatky se vyplácejí navíc a nepředstavují nové bitcoiny; nejde o předpověď ceny.](/micrographics/bitcoin-issuance-supply-01/cs.md)
 
 ---
 
 <!-- micrographic: bitcoin-issuance-subsidy-01 -->
+[Bloková dotace začíná na 50 bitcoinech a každých 210 000 bloků se půlí, zatímco celkové množství vydaných bitcoinů roste směrem k limitu 21 milionů. Transakční poplatky se vyplácejí navíc a nepředstavují nové bitcoiny; nejde o předpověď ceny.](/micrographics/bitcoin-issuance-subsidy-01/cs.md)
 
 ---
 
@@ -528,7 +547,8 @@ Uzly odmítají nadměrnou emisi; limit platí, dokud jej účastníci vynucují
 **Jednotkové zkreslení:** nízká cena za celou jednotku neznamená výhodnější nákup. Porovnejte podíl na celkové nabídce, příslušnou hodnotu a rizika.
 
 
-> **Callout – Ukažte, že rozumíte**
+<!-- card: callout -->
+> **Ukažte, že rozumíte**
 >
 > Kolik satů je v 0,01 BTC? Proč lze používat i méně než celý bitcoin?
 
@@ -586,7 +606,8 @@ Známý burzovní symbol, zdánlivě stabilní cena ani propracovaná aplikace n
 * Žádné pokyny k nákupu, prodeji ani držení
 
 
-> **Callout – Ověření místní hodnoty**
+<!-- card: callout -->
+> **Ověření místní hodnoty**
 >
 > Rozlišujte mezi tržní cenou, místní akceptací a osobními preferencemi či předsudky.
 
@@ -601,6 +622,7 @@ Zhodnoťte návrh a fungování sítě i příběh jejího vzniku.
 ---
 
 <!-- micrographic: bitcoin-origin-timeline-01 -->
+[Počátky Bitcoinu ve čtyřech datovaných událostech: 31. října 2008 Satoshi Nakamoto zveřejnil bílou knihu popisující přímé online platby bez finančního zprostředkovatele; 3. ledna 2009 byla blokem Genesis spuštěna síť Bitcoin, přičemž blok obsahoval novinový titulek o záchraně bank; 12. ledna 2009 Satoshi poslal bitcoin uživateli Hal Finney v první zaznamenané transakci mezi dvěma lidmi; 22. května 2010 zaplatil jeden uživatel 10 000 BTC za dvě pizzy a tento den se dnes slaví jako Bitcoin Pizza Day.](/micrographics/bitcoin-origin-timeline-01/cs.md)
 
 ---
 
@@ -629,7 +651,8 @@ Osobní odpovědnost může zahrnovat vzdělávání, vzájemnou kontrolu, postu
 * Určování pořadí transakcí → důkaz prací; náklady na vybavení a energii
 
 
-> **Callout – Chvíle k zamyšlení**
+<!-- card: callout -->
+> **Chvíle k zamyšlení**
 >
 > Kterou část návrhu Bitcoinu byste nyní vysvětlili jinak a proč?
 
@@ -674,6 +697,7 @@ Výukové peněženky nesmějí sloužit k zabezpečení významných finanční
 ---
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Peněženka uchovává klíče. Pomocí nich můžete přijímat a odesílat bitcoin, zatímco samotný bitcoin zůstává zaznamenán ve sdílené účetní knize, nikoli uvnitř telefonu nebo zařízení.](/micrographics/wallet-manages-keys-01/cs.md)
 
 ---
 
@@ -699,13 +723,15 @@ Malware může nahradit zkopírované cílové údaje. Známý vzhled nestačí.
 Nikdy nesdílejte soukromé klíče, seedové fráze, hesla ani kódy pro obnovení. Žádný důvěryhodný vyučující, pracovník podpory, poskytovatel peněženky, zaměstnanec burzy ani vývojář je nepotřebuje.
 
 
-> **Callout – Vyzkoušejte si to**
+<!-- card: callout -->
+> **Vyzkoušejte si to**
 >
 > Roztřiďte připravené příklady na údaje pro příjem plateb, tajné údaje a veřejné údaje, které se při propojení s konkrétní osobou stávají citlivými.
 
 ---
 
 <!-- micrographic: private-key-public-info-01 -->
+[Z tajného soukromého klíče, který se nikdy nesmí sdílet, se odvozují veřejné informace, které sdílet lze: veřejný klíč odvozený ze soukromého klíče a přijímací adresa vytvořená z veřejného klíče. Tentýž soukromý klíč vytváří podpisy, které uzly ověřují, aniž by kdy zjistily soukromý klíč.](/micrographics/private-key-public-info-01/cs.md)
 
 ---
 
@@ -738,7 +764,8 @@ Pokud existuje možnost, že někdo seed frázi viděl či zkopíroval, že byla
 Veřejný blockchain nemůže prokázat, co poskytovatel dluží konkrétnímu zákazníkovi. I vlastní úschova může zahrnovat závislost na softwaru, hardwaru, serverech a síti.
 
 
-> **Callout – Vyzkoušejte si to**
+<!-- card: callout -->
+> **Vyzkoušejte si to**
 >
 > Porovnejte dva připravené popisy: kdo spravuje klíče, kdo obnovuje přístup a jaké riziko je třeba prověřit?
 
@@ -749,6 +776,7 @@ Veřejný blockchain nemůže prokázat, co poskytovatel dluží konkrétnímu z
 ---
 
 <!-- micrographic: who-controls-keys-01 -->
+[Při úschově u poskytovatele má poskytovatel kontrolu nad klíči a schvaluje platby, takže zůstatek je jeho příslibem. Při vlastní úschově má uživatel kontrolu nad klíči a zálohami; oba způsoby mají své závislosti a rizika selhání.](/micrographics/who-controls-keys-01/cs.md)
 
 ---
 
@@ -776,6 +804,7 @@ Používejte pouze předem připravené, prázdné nebo simulované materiály. 
 ---
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[Šestikrokové cvičení obnovení cvičné peněženky: postupujte podle oficiálních pokynů, ověřte kompatibilitu, pracujte v soukromí, použijte schválenou metodu obnovení, ověřte, že jde o očekávanou peněženku, a poté resetujte prostředí. Používejte pouze připravené, prázdné nebo simulované materiály. Vyučující nikdy neuvidí slova pro obnovení.](/micrographics/practice-wallet-recovery-01/cs.md)
 
 ---
 
@@ -804,6 +833,7 @@ Odeslání schvalte pouze tehdy, když jsou všechny kontroly v pořádku. Pokud
 ---
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Před schválením platby odesílatel kontroluje příjemce a účel, způsob platby, cíl platby a částku, jednotku, poplatek nebo dobu platnosti. Pokud postup nezná, provede malou zkušební platbu. Jestliže se cokoli liší, zastaví se a vše ověří; platbu schválí, pouze pokud vše souhlasí, a poté zkontroluje výsledek.](/micrographics/pre-send-checklist-01/cs.md)
 
 ---
 
@@ -823,6 +853,7 @@ Používejte připravené příklady; nevyhledávejte osobní adresu ani transak
 ---
 
 <!-- micrographic: confirmation-timeline-01 -->
+[Transakce čeká nepotvrzená ve fondu čekajících transakcí, poté je zahrnuta do bloku N, čímž získá první potvrzení, a každý další blok přidává jedno další.](/micrographics/confirmation-timeline-01/cs.md)
 
 ---
 
@@ -835,7 +866,8 @@ Používejte připravené příklady; nevyhledávejte osobní adresu ani transak
 **Zastavte se. Nic nesdílejte. Nic neposílejte. Ukončete komunikaci. Ověřte si informace nezávisle. Požádejte o pomoc, aniž byste prozradili tajné údaje.**
 
 
-> **Callout – Vyzkoušejte si to**
+<!-- card: callout -->
+> **Vyzkoušejte si to**
 >
 > V připravené zprávě určete varovný signál, možnou ztrátu a první bezpečný krok.
 
@@ -844,6 +876,7 @@ Používejte připravené příklady; nevyhledávejte osobní adresu ani transak
 ---
 
 <!-- micrographic: scam-red-flags-01 -->
+[Pět varovných signálů podvodu: naléhavost, vydávání se za někoho jiného, změněný cíl platby, zaručené výnosy a žádosti o tajné údaje.](/micrographics/scam-red-flags-01/cs.md)
 
 ---
 
@@ -860,10 +893,12 @@ Porovnejte celkovou cenu a spread, poplatky za služby a výběry, kontrolu nad 
 ---
 
 <!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Jedna osoba může získat bitcoin čtyřmi různými způsoby: vydělat si ho prací nebo prodejem, směnit místní hotovost s jinou osobou, využít směnárnu či zprostředkovatele nebo použít bankomat. Každá cesta končí vlastní správou nebo zůstatkem u správce a žádná z nich není doporučována více než ostatní.](/micrographics/ways-to-receive-bitcoin-01/cs.md)
 
 ---
 
 <!-- micrographic: exchange-risk-questions-01 -->
+[Šest oblastí rizik, které je třeba prověřit před získáním nebo směnou bitcoinů, každá s otázkou k zamyšlení: náklady, úschova, identita a soukromí, výběr a vypořádání, protistrana a bezpečnost a místní podmínky.](/micrographics/exchange-risk-questions-01/cs.md)
 
 ---
 
@@ -909,7 +944,8 @@ Používejte dohodnuté výukové prostředí. Při nesrovnalostech se zastavte;
 Přítel vám posílá žádost, zatímco neznámá podpora požaduje okamžitou akci. Co byste mohli zkontrolovat, než cokoli uděláte?
 
 
-> **Callout – Chvíle k zamyšlení**
+<!-- card: callout -->
+> **Chvíle k zamyšlení**
 >
 > Kterou bezpečnostní kontrolu se zastavíte provést, než začnete jednat?
 
@@ -928,6 +964,7 @@ Přítel vám posílá žádost, zatímco neznámá podpora požaduje okamžitou
 ## Váš místní modul 4
 
 <!-- micrographic: local-module-four-actions-01 -->
+[V místně zaměřeném modulu 4 prochází studující čtyřmi činnostmi: propojí myšlenku z modulů 1 až 3 s místní potřebou, porovná Bitcoin s reálnou stávající alternativou, bezpečně si vše procvičí pod vedením a vysvětlí, co se naučil a jaký je další zodpovědný krok. Po celou dobu jej vede vyučující a někdy také místní odborník.](/micrographics/local-module-four-actions-01/cs.md)
 
 
 Zaznamenejte, na co se zaměřujete ve svém místním prostředí: problém nebo příležitost, alternativu, bezpečný scénář, hlavní přínos a riziko a bezpečný další krok.
@@ -979,10 +1016,12 @@ Lightningová adresa není e-mailový účet; závisí na poskytovateli nebo dom
 ---
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[Příjemce na svém telefonu vytvoří žádost o platbu přes Lightning s uvedenou částkou, odesílatel ji naskenuje a zaplatí a platba o chvíli později dorazí na telefon příjemce.](/micrographics/lightning-phone-payment-01/cs.md)
 
 ---
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Platba přes Lightning v šesti krocích: příjemce vytvoří žádost, odesílatel ji naskenuje, zkontroluje příjemce, částku, jednotku, dobu platnosti a poplatek, schválí platbu, platba se směruje sítí a obě peněženky zobrazí výsledek. U každé peněženky může správu klíčů zajišťovat třetí strana, nebo sám uživatel. Pokud platba selže nebo vyprší její platnost, postup začíná znovu novou žádostí.](/micrographics/lightning-payment-sequence-01/cs.md)
 
 ---
 
@@ -1034,6 +1073,7 @@ Vyberte nebo upravte scénáře z příručky podle místního zadání. Formulu
 ---
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[Platba v kavárně ve čtyřech krocích: zákazník si objedná, obsluha mu pošle účet, zákazník zaplatí v bitcoinech ze svého telefonu a obsluha mu předá kávu.](/micrographics/coffee-shop-payment-01/cs.md)
 
 ---
 
@@ -1094,6 +1134,7 @@ Samotné počty uživatelů nedokazují užitečnost. Slabá poptávka, nedostat
 ---
 
 <!-- micrographic: local-circular-economy-01 -->
+[V oběhové ekonomice Bitcoinu přechází bitcoin od člověka k člověku výměnou za zboží, služby a čas. Zákazník platí obchodníkovi, obchodník platí poskytovateli služeb, poskytovatel služeb platí pracovníkovi a pracovník jej znovu utrácí jako zákazník.](/micrographics/local-circular-economy-01/cs.md)
 
 ---
 
@@ -1151,6 +1192,7 @@ Vypracujte samostatně, poté porovnejte své úvahy ve skupině.
 * Přínosné zapojení do komunity je dobrovolné a chrání lidi
 
 
-> **Callout – Chvíle k zamyšlení**
+<!-- card: callout -->
+> **Chvíle k zamyšlení**
 >
 > Jakou otázku byste položili, než se rozhodnete, zda řešení využívající Bitcoin odpovídá místní potřebě?

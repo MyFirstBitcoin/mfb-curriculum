@@ -1,6 +1,6 @@
 # Quiz – Kutumia Bitcoin kwa Usalama: jaribio fupi
 
-## Question 1
+## Swali 1
 
 Pochi ya Bitcoin:
 
@@ -9,11 +9,11 @@ Pochi ya Bitcoin:
 * [ ] Huondoa ulinzi wa siri
 * [ ] Hubatilisha miamala
 
-### Explanation
+### Maelezo
 
 Bitcoin hurekodiwa kwenye leja ya pamoja; pochi husimamia taarifa zinazotumika kuifikia na kuitumia. Pitia Mwongozo wa Mwanafunzi, Moduli 3, “Pochi.”
 
-## Question 2
+## Swali 2
 
 Shiriki ili kupokea bitcoin:
 
@@ -22,11 +22,11 @@ Shiriki ili kupokea bitcoin:
 * [x] Anwani ya kupokea
 * [ ] Nenosiri
 
-### Explanation
+### Maelezo
 
 Anwani ya kupokea inaweza kushirikiwa kwa ajili ya malipo. Kirai cha mbegu, funguo binafsi na manenosiri lazima vibaki siri. Pitia Mwongozo wa Mwanafunzi, Moduli 3, “Anwani” na “Funguo.”
 
-## Question 3
+## Swali 3
 
 Kirai cha mbegu kimeingizwa mtandaoni. Hatua inayofuata iliyo salama zaidi?
 
@@ -35,11 +35,11 @@ Kirai cha mbegu kimeingizwa mtandaoni. Hatua inayofuata iliyo salama zaidi?
 * [x] Kirai kipya cha mbegu, kisha hamisha fedha
 * [ ] Tumia tena kirai hicho
 
-### Explanation
+### Maelezo
 
 Chukulieni kirai cha mbegu kilichoingizwa mtandaoni kuwa kimeathiriwa. Undeni pochi mpya yenye kirai kipya cha mbegu, kisha hamisheni fedha baada tu ya kuthibitisha mahali zinapokwenda. Pitia Mwongozo wa Mwanafunzi, Moduli 3, “Virai vya mbegu.”
 
-## Question 4
+## Swali 4
 
 Tofauti katika uhifadhi?
 
@@ -48,6 +48,6 @@ Tofauti katika uhifadhi?
 * [ ] Kikomo cha ugavi
 * [ ] Jukumu
 
-### Explanation
+### Maelezo
 
 Uhifadhi kupitia mtunzaji na kujihifadhi mwenyewe hutofautiana katika nani anadhibiti funguo na kubeba jukumu linalohusiana. Hakuna kati ya hivyo kinachohakikisha usalama au uwezekano wa kubatilisha malipo. Pitia Mwongozo wa Mwanafunzi, Moduli 3, “Matumizi kupitia mtunzaji na bila mtunzaji.”

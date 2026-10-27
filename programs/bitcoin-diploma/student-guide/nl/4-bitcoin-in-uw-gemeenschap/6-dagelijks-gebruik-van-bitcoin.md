@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: daily-bitcoin-uses-01 -->
+[Zeven verschillende manieren waarop Bitcoin in het dagelijks leven kan worden gebruikt: verdienen, sparen, ontvangen, versturen, uitgeven, doneren, en prijzen en boekhouding. Elk daarvan is een mogelijke toepassing, geen verplichte stap.](/micrographics/daily-bitcoin-uses-01/nl.md)
 
 
 Bitcoin kan op verschillende manieren als geld functioneren. Uitgeven is daar slechts één van.

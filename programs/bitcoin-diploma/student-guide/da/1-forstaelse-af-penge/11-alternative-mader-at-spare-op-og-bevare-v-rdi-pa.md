@@ -4,6 +4,7 @@ Folk søger ofte alternativer til at holde kontanter, når de tror, at de vil mi
 
 
 <!-- micrographic: saving-alternatives-table-01 -->
+[En tabel med tre alternativer til at holde kontanter (ædelmetaller, fast ejendom og aktier), som for hvert alternativ viser, hvorfor folk kan vælge det, og hvilke vigtige afvejninger det indebærer. Ingen rangeres højere end de andre.](/micrographics/saving-alternatives-table-01/da.md)
 
 
 Et [aktiv](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) er noget, en person kan eje eller have krav på, som kan have [værdi](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); det opfylder ikke automatisk alle penges funktioner. En bolig kan bevare [værdi](https://curriculum.myfirstbitcoin.org/lexicon/en/#value), men er ikke praktisk at bruge til at købe mad. En aktie kan være let at sælge i ét land, men utilgængelig for en person uden et værdipapirdepot. [Guld](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) har fungeret som penge gennem lange perioder af historien, men kan være vanskeligt at ægthedsbestemme eller opdele ved en mindre handel.

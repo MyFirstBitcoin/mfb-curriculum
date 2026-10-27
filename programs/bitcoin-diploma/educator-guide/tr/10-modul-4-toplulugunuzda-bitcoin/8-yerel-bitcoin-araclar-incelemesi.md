@@ -19,6 +19,7 @@ Bir aracı yalnızca yerelde popüler olduğu için tanıtmayın. Şu karşıla�
 
 
 
-> **Dark – Yerel örnekler küresel öneriler değildir**
+<!-- card: dark -->
+> **Yerel örnekler küresel öneriler değildir**
 >
 > Bu araç, öğrenme amaçlı ve belirli bir tarihe ait yerel bir örnektir. Sınıfta kullanılması, My First Bitcoin tarafından yapılmış küresel bir öneri ya da aracın uygun kalmaya devam edeceğine dair bir taahhüt değildir.

@@ -11,6 +11,7 @@ Lightning-lompakko voi olla palveluntarjoajan hallinnoima tai itsehallinnoitu. M
 
 
 <!-- micrographic: hot-and-cold-wallets-01 -->
+[Kuuma lompakko säilyttää allekirjoitusavaimet internetiin yhdistetyssä laitteessa, kuten puhelimessa; kylmäsäilytyksessä ne pidetään erillään kaikista internetiin yhdistetyistä laitteista. Se, kuka hallitsee avaimia, on erillinen kysymys.](/micrographics/hot-and-cold-wallets-01/fi.md)
 
 
 Pyytäkää oppijoita valitsemaan työkalu kuvitteelliseen käyttötarkoitukseen ja vaatikaa heitä sitten nimeämään sen hyöty ja uusi riski. Älkää pyytäkö heitä tekemään valintaa todellisia varojaan varten.

@@ -14,6 +14,7 @@ Wanneer u [pryse](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) verge
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[’n Tabel met twee kolomme: 1 BTC is 100 000 000 sats, 0,1 BTC is 10 000 000 sats, 0,01 BTC is 1 000 000 sats, 0,001 BTC is 100 000 sats, en 0,00000001 BTC is 1 sat.](/micrographics/bitcoin-and-sats-01/af.md)
 
 
 **Toon u begrip:** Hoeveel [sats](https://curriculum.myfirstbitcoin.org/lexicon/en/#satoshi) is daar in 0,01 BTC? Waarom verhoed die [prys](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) van een hele bitcoin nie dat iemand 'n kleiner bedrag gebruik nie?

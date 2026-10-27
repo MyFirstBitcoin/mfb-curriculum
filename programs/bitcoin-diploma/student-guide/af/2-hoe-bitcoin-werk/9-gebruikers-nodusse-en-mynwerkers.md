@@ -9,6 +9,7 @@ Bitcoin werk omdat verskillende deelnemers verskillende rolle vervul.
 
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Vier rolle in Bitcoin: gebruikers ontvang, hou en stuur bitcoin, nodusse verifieer die reëls onafhanklik, myners bou kandidaatblokke met bewys van werk, en ontwikkelaars stel sagteware voor. Geen enkele rol beheer die netwerk nie.](/micrographics/bitcoin-participant-roles-01/af.md)
 
 
 Hierdie rolle beperk mekaar:

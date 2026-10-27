@@ -14,6 +14,7 @@ Wang yang berguna juga lazimnya mempunyai beberapa ciri:
 
 
 <!-- micrographic: money-property-questions-01 -->
+[Tujuh sifat wang yang berguna, masing-masing disertai soalan untuk ditanyakan semasa membandingkan bentuk wang: ketahanan, kebolehalihan, kebolehbahagian, kebolehgantian, kelangkaan, kebolehterimaan dan kebolehtentusahan.](/micrographics/money-property-questions-01/ms.md)
 
 
 Tiada bentuk wang yang mendapat markah sempurna.
@@ -22,6 +23,7 @@ Orang ramai juga membandingkan wang berdasarkan [**kekukuhannya**](https://curri
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Dua lapisan: tiga fungsi wang (alat pertukaran, unit akaun, penyimpan nilai) berasaskan tujuh ciri (ketahanan, kemudahalihan, kebolehbahagian, kebolehtukargantian, keterhadan bekalan, kebolehterimaan dan kebolehsahan).](/micrographics/functions-and-properties-01/ms.md)
 
 
 [Emas](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) tahan lama dan terhad bekalannya, tetapi sukar dibahagikan dan diangkut untuk pembayaran kecil. [Wang tunai kertas](https://curriculum.myfirstbitcoin.org/lexicon/en/#paper-cash) mudah dibawa dan diterima setempat, tetapi boleh rosak dan bekalannya boleh bertambah. Perbandingan terbaik bergantung pada tujuan, tempat dan masa.

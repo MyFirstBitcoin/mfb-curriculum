@@ -5,6 +5,7 @@ Le persone hanno competenze, risorse, bisogni e progetti diversi. Lo scambio con
 Lo scambio diretto è spesso difficile. La persona che ha ciò di cui Lei ha bisogno potrebbe non volere ciò che Lei offre. Il denaro risolve questo problema di coordinamento.
 
 
+<!-- card: definition -->
 > **Definition – Denaro**
 >
 > Il denaro è un [bene](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) che le persone accettano perché si aspettano che altre persone lo accetteranno in seguito. Aiuta persone che non si conoscono a coordinare gli scambi, a registrare [prezzi](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) e [debiti](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt) e a trasferire [valore](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) nel tempo e nello spazio.

@@ -3,6 +3,7 @@
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
+<!-- card: definition -->
 > **Definition – İş kanıtı**
 >
 > [İş kanıtı](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work), [madencilerin](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) bir sonraki bloğu önerme hakkı için yarışırken kullandığı süreçtir.
@@ -14,6 +15,7 @@ Bir [madenci](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner), [geçerl
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Bir madenci, önerilen bir bloğun hash'ini sonuçlardan biri ağın hedefinin altına düşene kadar tekrar tekrar hesaplar, ardından bloğu yayınlar. Blok, blok zincirine eklenmeden önce düğümler kanıtı ve tüm kuralları hızlıca kontrol eder: iş, üretmesi maliyetli ve doğrulaması kolaydır.](/micrographics/proof-of-work-process-01/tr.md)
 
 
 [İş kanıtı](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) birkaç amaca hizmet eder:

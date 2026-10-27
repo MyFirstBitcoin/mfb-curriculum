@@ -1,6 +1,6 @@
 # Quiz – Cara Bitcoin Berfungsi: semakan ringkas
 
-## Question 1
+## Soalan 1
 
 Satu unit digital digunakan untuk membayar dua kali. Sistem mesti:
 
@@ -9,11 +9,11 @@ Satu unit digital digunakan untuk membayar dua kali. Sistem mesti:
 * [ ] Menaikkan harganya
 * [ ] Menghapuskan yuran
 
-### Explanation
+### Penjelasan
 
 Maklumat digital boleh disalin, jadi sistem wang mesti menghalang unit yang sama daripada dibelanjakan dua kali dan menentukan transaksi yang sah. Rujuk Panduan Pelajar, Modul 2, “Percubaan awal wang digital dan masalah perbelanjaan berganda.”
 
-## Question 2
+## Soalan 2
 
 Desentralisasi Bitcoin bermaksud:
 
@@ -22,11 +22,11 @@ Desentralisasi Bitcoin bermaksud:
 * [ ] Pelombong mengubah peraturan sesuka hati
 * [ ] Pengaruh yang sama untuk semua orang
 
-### Explanation
+### Penjelasan
 
 Bitcoin mengagihkan pengesahan dan penguatkuasaan peraturan dalam kalangan peserta bebas. Desentralisasi tidak bermaksud satu syarikat mengawal rangkaian atau semua orang mempunyai pengaruh yang sama. Rujuk Panduan Pelajar, Modul 2, “Desentralisasi.”
 
-## Question 3
+## Soalan 3
 
 Nod Bitcoin:
 
@@ -35,11 +35,11 @@ Nod Bitcoin:
 * [ ] Menyimpan bitcoin
 * [ ] Menjamin bayaran
 
-### Explanation
+### Penjelasan
 
 Nod menyemak pematuhan terhadap peraturan Bitcoin secara bebas dan menolak data yang tidak sah. Nod tidak mencipta bitcoin atas permintaan atau menyimpan bitcoin di dalam telefon. Rujuk Panduan Pelajar, Modul 2, “Pengguna, nod dan pelombong.”
 
-## Question 4
+## Soalan 4
 
 Mengapakah Bitcoin dianggap sebagai wang yang kukuh?
 
@@ -48,6 +48,6 @@ Mengapakah Bitcoin dianggap sebagai wang yang kukuh?
 * [ ] Satu syarikat mengawalnya
 * [ ] Bayaran bersifat peribadi
 
-### Explanation
+### Penjelasan
 
 Sesetengah orang menyifatkan Bitcoin sebagai wang yang kukuh kerana peraturan bekalannya terbuka kepada umum dan pengeluarannya terhad. Ini ialah penilaian berasaskan alasan, bukannya janji tentang harga atau privasi. Rujuk Panduan Pelajar, Modul 2, “Bitcoin sebagai wang digital yang kukuh.”

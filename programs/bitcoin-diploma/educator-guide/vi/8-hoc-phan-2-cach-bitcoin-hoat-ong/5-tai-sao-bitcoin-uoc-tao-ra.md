@@ -6,6 +6,7 @@ Một hệ thống thanh toán số tập trung có thể duy trì một bản c
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Với công ty thanh toán, một tổ chức lưu giữ sổ cái và phê duyệt từng giao dịch chuyển tiền. Với Bitcoin, người gửi ký một giao dịch, các nút độc lập kiểm tra giao dịch đó và thợ đào thêm giao dịch vào một sổ cái dùng chung, nhờ đó người nhận ít phụ thuộc hơn vào một cơ quan trung ương.](/micrographics/central-ledger-vs-bitcoin-01/vi.md)
 
 
 Hãy hỏi:

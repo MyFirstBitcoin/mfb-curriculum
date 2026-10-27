@@ -19,3 +19,4 @@ Kesin görevler, varyantlar, ölçütler ve kayıtlar onaylanmadıkça istasyonl
 
 
 <!-- micrographic: practice-circuit-stations-01 -->
+[Öğrenciler sekiz uygulama istasyonunu sırayla dolaşır: saklama, açık mı gizli mi, alma, gönderme, kurtarma, blok gezgini, dolandırıcılık ve öğrenme yolu. Ayrı bir gözlem şeridi onaylanmış bir rotayı izler; böylece grup uygulaması hiçbir zaman resmî değerlendirmeyle karıştırılmaz.](/micrographics/practice-circuit-stations-01/tr.md)

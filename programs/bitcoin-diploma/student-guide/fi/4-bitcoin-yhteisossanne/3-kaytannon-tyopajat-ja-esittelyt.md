@@ -4,6 +4,7 @@ Etenette kolmen vaiheen kautta: **Esittely**, jossa opettajanne näyttää prose
 
 
 <!-- micrographic: presentation-practice-production-01 -->
+[Käytännön taito opitaan kolmessa vaiheessa vasemmalta oikealle: Esittely, jossa opettaja näyttää prosessin ja sen riskit, sitten Harjoittelu eli ohjattu harjoittelu turvallisilla harjoitusmateriaaleilla ja lopuksi Tuottaminen, jossa oppija suorittaa tehtävän tai perustelee päätöksen itsenäisesti.](/micrographics/presentation-practice-production-01/fi.md)
 
 
 Työpajassanne voidaan esimerkiksi:

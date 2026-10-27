@@ -18,6 +18,7 @@ Behandel:
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[Een handelaar die Bitcoin accepteert, werkt op vier gebieden: marketing, training, boekhouding en verkoop.](/micrographics/merchant-payment-operations-01/nl.md)
 
 
 **Uitvoering:** De cursist voert een betalings- en terugbetalingsscenario uit of leidt dit. De cursist moet de klant authenticeren, om nieuwe retourgegevens vragen, de bestemming en het bedrag controleren, vaststellen wie eventuele kosten betaalt en het resultaat vastleggen zonder onnodige gegevens prijs te geven.

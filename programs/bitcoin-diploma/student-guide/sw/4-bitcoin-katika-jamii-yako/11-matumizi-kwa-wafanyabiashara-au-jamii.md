@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[Mfanyabiashara anayekubali Bitcoin hufanya kazi katika maeneo manne: masoko, mafunzo, uhasibu na mauzo.](/micrographics/merchant-payment-operations-01/sw.md)
 
 
 Mfanyabiashara anahitaji zaidi ya kitufe cha kupokea malipo. Mchakato kamili wa malipo unaweza kujumuisha upangaji wa bei, mafunzo ya wafanyakazi, risiti, urejeshaji wa pesa, [uhifadhi](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), ubadilishaji wa fedha, uhasibu, kodi, usalama wa vifaa, na huduma kwa wateja.

@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: daily-bitcoin-uses-01 -->
+[Sedm různých způsobů, jak lze Bitcoin používat v každodenním životě: vydělávání, spoření, přijímání, odesílání, utrácení, darování a stanovování cen a účetnictví. Každý z nich představuje možné využití, nikoli povinný krok.](/micrographics/daily-bitcoin-uses-01/cs.md)
 
 
 Bitcoin může fungovat jako peníze několika způsoby. Utrácení je jen jedním z nich.

@@ -17,3 +17,4 @@ Nenhum educador legítimo, empresa de carteiras, funcionário de corretora, dese
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[Uma chave privada secreta, que nunca deve ser compartilhada, dá origem a informações públicas que podem ser compartilhadas: uma chave pública derivada dela e um endereço de recebimento criado a partir dessa chave pública. A mesma chave privada cria assinaturas que os nós verificam sem nunca conhecer a chave privada.](/micrographics/private-key-public-info-01/pt-BR.md)

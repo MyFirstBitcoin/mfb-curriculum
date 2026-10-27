@@ -3,7 +3,8 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc)與[無 KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc)途徑各有不同的[取捨](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off)。無論哪一種標籤，都無法省去審慎評估的必要。
 
 
-> **Callout – 隱私並不能消除法律或人身安全風險**
+<!-- card: callout -->
+> **隱私並不能消除法律或人身安全風險**
 >
 > 無論是[KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc)還是[無 KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc)，都不會自動成為最佳選擇。請比較實際的途徑，在規則不明確時參考當地最新的指引，並且不要為了追求[隱私](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy)而違反當地法律，或讓自己暴露於人身危險之中。
 

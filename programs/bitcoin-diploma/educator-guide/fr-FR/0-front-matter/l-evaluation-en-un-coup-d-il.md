@@ -21,6 +21,7 @@ Il ne s’agit pas de notes chiffrées. Les deux volets doivent être validés, 
 
 
 <!-- micrographic: two-completion-gates-01 -->
+[Les compétences théoriques C1 à C5 et les compétences pratiques C6 et C7 doivent chacune obtenir un Oui avant la délivrance du certificat de fin de formation. Pas encore signifie qu’il faut davantage de pratique et une nouvelle évaluation ; la présence et la réflexion ne remplacent aucune des deux étapes de validation.](/micrographics/two-completion-gates-01/fr-FR.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/2783871f5851cf80c2e6e2a93eeb911607939507-1536x1024.svg)

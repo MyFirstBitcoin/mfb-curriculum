@@ -1,6 +1,7 @@
 # 6.4 Ei oikeita salaisuuksia oppitunnilla
 
-> **Callout – Ei oikeita salaisuuksia oppitunnilla**
+<!-- card: callout -->
+> **Ei oikeita salaisuuksia oppitunnilla**
 >
 > Käyttäkää palautusharjoittelussa ennalta laadittuja palautussanoja, selkeästi merkittyä harjoitusmateriaalia tai tyhjää kertakäyttöistä lompakkoa. Älkää koskaan käyttäkö oppijan henkilökohtaista tai varoja sisältävää lompakkoa älkääkä luoko menettelyä, jossa joku voi nähdä pysyviä palautustietoja.
 >

@@ -3,7 +3,8 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) dan [tanpa KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) merupakan laluan yang melibatkan [timbal balik yang berbeza](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Kedua-dua label ini tidak menghapuskan keperluan untuk penilaian yang teliti.
 
 
-> **Callout – Privasi tidak menghapuskan risiko undang-undang atau risiko terhadap keselamatan fizikal**
+<!-- card: callout -->
+> **Privasi tidak menghapuskan risiko undang-undang atau risiko terhadap keselamatan fizikal**
 >
 > Baik [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) mahupun [tanpa KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) tidak semestinya pilihan terbaik. Bandingkan laluan sebenar, gunakan panduan tempatan terkini apabila peraturan tidak jelas, dan jangan melanggar undang-undang tempatan atau mendedahkan diri anda kepada bahaya fizikal demi [privasi](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 

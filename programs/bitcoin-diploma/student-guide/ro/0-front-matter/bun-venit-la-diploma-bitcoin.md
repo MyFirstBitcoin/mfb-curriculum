@@ -28,6 +28,7 @@ Această abordare contează deoarece banii influențează viața fiecărei perso
 
 
 <!-- micrographic: critical-thinking-loop-01 -->
+[Un ciclu de gândire critică ce poate fi repetat: identificați afirmația, separați faptele de preferințe, examinați dovezile și sursa, comparați alternativele, identificați un compromis sau o incertitudine și formulați o concluzie provizorie sau o întrebare.](/micrographics/critical-thinking-loop-01/ro.md)
 
 
 **Comunitatea** înseamnă că educația devine mai utilă atunci când oamenii discută idei și le raportează la viața locală. Cadrul didactic și colegii dumneavoastră pot avea experiențe pe care nicio carte cu acoperire globală nu le poate cuprinde. Ascultați cu atenție, puneți întrebări și explicați-vă raționamentul cu respect.
@@ -75,7 +76,8 @@ Puteți folosi cursul pentru a:
 * vă pregăti pentru studii mai avansate
 
 
-> **Callout – Cunoașterea precedă acțiunea**
+<!-- card: callout -->
+> **Cunoașterea precedă acțiunea**
 >
 > Nu este necesar să cumpărați sau să dobândiți în alt mod bitcoin pentru a finaliza Diploma Bitcoin. De asemenea, nu este necesar să instalați un [Portofel Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet) sau să folosiți fonduri personale. Competențele practice necesare pot fi evaluate folosind un Portofel pregătit pentru instruire, o simulare, un mediu de testare, un model fizic sau o activitate cu miză redusă, aprobată de un cadru didactic.
 
@@ -84,3 +86,4 @@ Dacă aveți timp limitat sau doriți o primă introducere în Bitcoin, începe�
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[Un parcurs de învățare opțional începe cu Introducere în Bitcoin, continuă cu Diploma în Bitcoin, apoi cu Programul de formare pentru cadre didactice, pentru a deveni cadru didactic care predă pe baza programei My First Bitcoin și a vă alătura Rețelei de educație Bitcoin. Fiecare pas următor este o alegere, nu o cerință.](/micrographics/learner-journey-pathway-01/ro.md)

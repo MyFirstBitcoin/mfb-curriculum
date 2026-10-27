@@ -6,11 +6,13 @@ Når en forretningsbank godkender et lån, opretter den normalt et nyt indeståe
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Et forenklet banklån: Låntageren ansøger, banken godkender lånet og krediterer låntagerens konto med et nyt indskud, og låntageren tilbagebetaler senere hovedstolen plus renter til banken.](/micrographics/bank-loan-deposit-01/da.md)
 
 
 Banker søger generelt at opnå [overskud](https://curriculum.myfirstbitcoin.org/lexicon/en/#bank-profit) ved at tjene renter og gebyrer på lån og investeringer, samtidig med at de betaler deres drifts- og finansieringsomkostninger samt omkostninger til overholdelse af lovkrav og bærer tab, når låntagere ikke betaler tilbage. Disse aktiviteter og begrænsninger varierer fra bank til bank og fra jurisdiktion til jurisdiktion.
 
 
+<!-- card: definition -->
 > **Definition – Bankvirksomhed med brøkreserver**
 >
 > [Bankvirksomhed med brøkreserver](https://curriculum.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking) beskriver bankvirksomhed, hvor bankerne kun holder en brøkdel af deres indlånsforpligtelser som umiddelbart tilgængelige reserver, samtidig med at de yder lån og besidder andre [aktiver](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset). Det krævede reserveniveau og andre begrænsninger varierer mellem lande og kan ændre sig over tid.
@@ -23,6 +25,7 @@ Dette skaber to væsentlige risici:
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Likviditetsrisiko: mange indskydere står i kø for at hæve penge i dag, og banken mangler kontanter lige nu, selv om dens udlån kan blive tilbagebetalt senere. Solvensrisiko: låntagere misligholder deres boliglån, og bankens aktiver bliver mindre værd end dens gæld.](/micrographics/liquidity-vs-solvency-01/da.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)

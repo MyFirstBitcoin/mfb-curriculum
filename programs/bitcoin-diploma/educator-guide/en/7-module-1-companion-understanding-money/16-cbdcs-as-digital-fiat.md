@@ -12,6 +12,7 @@ Explain that a [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) is
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[A table comparing cash, bank deposits, a retail CBDC and Bitcoin on who issues them, their form, access, visibility, supply rules and verification. Digital is not the same as decentralized: a CBDC is still issued by the central bank, and its access, visibility and verification depend on its design.](/micrographics/cbdc-comparison-table-01/en.md)
 
 
 [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) designs differ. Do not claim that every [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) has or lacks a feature. Separate confirmed local design, published proposal, commentary, and speculation.

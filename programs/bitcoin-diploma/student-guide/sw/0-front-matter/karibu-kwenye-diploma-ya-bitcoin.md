@@ -28,6 +28,7 @@ Mtazamo huu ni muhimu kwa sababu pesa humgusa kila mtu. Watu wanapaswa kuweza ku
 
 
 <!-- micrographic: critical-thinking-loop-01 -->
+[Mzunguko wa fikra tunduizi unaoweza kurudiwa: tambua dai, tenganisha ukweli na mapendeleo, chunguza ushahidi na chanzo, linganisha njia mbadala, taja faida na hasara au jambo lisilo na uhakika, kisha fikia hitimisho la muda au swali.](/micrographics/critical-thinking-loop-01/sw.md)
 
 
 **Jamii** ina maana kwamba elimu huwa na manufaa zaidi watu wanapojadili mawazo na kuyahusisha na maisha ya mahali walipo. Mwelimishaji wako na wanafunzi wenzako wanaweza kuwa na uzoefu ambao hakuna kitabu cha kimataifa kinachoweza kuubeba. Sikiliza kwa makini, uliza maswali, na eleza hoja zako kwa heshima.
@@ -75,7 +76,8 @@ Unaweza kutumia kozi hii ili:
 * kujiandaa kwa masomo ya juu zaidi
 
 
-> **Callout – Maarifa hutangulia vitendo**
+<!-- card: callout -->
+> **Maarifa hutangulia vitendo**
 >
 > Huhitaji kununua au kupata bitcoin kwa njia nyingine yoyote ili kukamilisha Diploma ya Bitcoin. Pia huhitaji kusakinisha [pochi ya Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet) au kutumia fedha zako binafsi. Ujuzi wa vitendo unaohitajika unaweza kupimwa kwa kutumia pochi ya mafunzo iliyoandaliwa, uigaji, mazingira ya majaribio, kielelezo halisi, au shughuli isiyo na hatari kubwa iliyoidhinishwa na mwelimishaji.
 
@@ -84,3 +86,4 @@ Ikiwa una muda mfupi au ungependa kupata utangulizi wa kwanza kuhusu Bitcoin, an
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[Safari ya hiari ya kujifunza inaanzia Utangulizi wa Bitcoin hadi Diploma ya Bitcoin, kisha Programu ya Mafunzo ya Waelimishaji, hadi kuwa mwelimishaji anayefundisha kwa kutumia mtaala wa My First Bitcoin, na kujiunga na Mtandao wa Elimu ya Bitcoin. Kila hatua inayofuata ni chaguo, si sharti.](/micrographics/learner-journey-pathway-01/sw.md)

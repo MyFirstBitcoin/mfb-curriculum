@@ -12,3 +12,4 @@ Muistuttakaa oppijoita:
 
 
 <!-- micrographic: final-safety-check-01 -->
+[Viimeinen turvallisuuden tarkistuslista, jonka kohdat on merkitty tehdyiksi: suojatkaa salaisuutenne, tarkistakaa maksutiedot, tehkää pieniä testisiirtoja ja pysähtykää painostuksen alla. Jos jokin on epäselvää, pysähtykää ja hankkikaa lisätietoa ennen kuin toimitte.](/micrographics/final-safety-check-01/fi.md)

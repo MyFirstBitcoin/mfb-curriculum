@@ -11,6 +11,7 @@ Bitcoin, dijital paraya yönelik ilk girişim değildi. Kırk yıllık deneyleri
 Bu deneyler birlikte, yapbozun işe yarar parçalarını ortaya koydu. Aynı zamanda geriye kalan sorunu da netleştirdiler.
 
 
+<!-- card: definition -->
 > **Definition – Çifte harcama**
 >
 > [Çifte harcama](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending), aynı dijital birimi iki farklı alıcıya gönderme girişimidir. Dijital veriler kusursuz biçimde kopyalanabildiğinden, bir dijital para sisteminin hangi [işlemin](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) geçerli olduğunu belirlemenin bir yoluna ihtiyacı vardır.
@@ -28,6 +29,7 @@ Makale, bu yaklaşım için gereken özellikleri bir araya getirdi:
 
 
 <!-- micrographic: five-part-response-01 -->
+[Beş unsur bir araya gelerek çifte harcama sorununa yanıt verir: eşler arası ağ, dijital imzalar, bloklar ve madencilik, bağımsız doğrulama ve en fazla birikmiş iş ispatına sahip ortak geçmiş. Bu unsurlar birlikte, ağın merkezi bir otorite olmadan ikinci bir harcamayı reddetmesini sağlar.](/micrographics/five-part-response-01/tr.md)
 
 
 Bu modül bu kavramları daha ayrıntılı açıklamaktadır. Bunlar bir arada, [çifte harcama sorununa](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending) pratik bir yanıt getirdi: ağ, merkezi bir otoriteye dayanmadan aynı bitcoin'i ikinci kez harcama girişimini reddedebilir. Bitcoin, onlarca yıldır süren dijital para deneylerinin aradığı eksik bileşimi sundu.

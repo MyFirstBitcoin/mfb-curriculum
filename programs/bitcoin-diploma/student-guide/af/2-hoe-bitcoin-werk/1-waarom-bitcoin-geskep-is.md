@@ -10,6 +10,7 @@ Bitcoin is geskep om hierdie probleem met ’n [Eweknie (P2P)-Netwerk](https://c
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[By ’n betaalmaatskappy hou een organisasie die grootboek by en keur elke oordrag goed. Met Bitcoin onderteken die sender ’n transaksie, onafhanklike nodusse kontroleer dit en mynwerkers voeg dit by een gedeelde grootboek, sodat die ontvanger minder op ’n sentrale gesag staatmaak.](/micrographics/central-ledger-vs-bitcoin-01/af.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)

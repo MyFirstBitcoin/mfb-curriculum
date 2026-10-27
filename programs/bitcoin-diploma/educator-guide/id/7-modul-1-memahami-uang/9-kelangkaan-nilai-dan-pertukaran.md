@@ -9,6 +9,7 @@ Gunakan satu sumber daya lokal yang terbatas untuk membedakan empat gagasan:
 
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Seorang pembeli dengan uang terbatas melihat pilihan di hadapannya: makanan untuk hari ini, transportasi, atau menabung untuk nanti. Memilih satu berarti mengorbankan pilihan lainnya, yang merupakan biaya peluang, dan tidak ada pilihan yang ditandai sebagai pilihan yang benar.](/micrographics/one-choice-two-uses-01/id.md)
 
 
 Mintalah peserta didik menjelaskan mengapa kelangkaan semata tidak menciptakan [nilai](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Barang langka yang tidak memiliki kegunaan atau permintaan mungkin tetap tidak diminati.

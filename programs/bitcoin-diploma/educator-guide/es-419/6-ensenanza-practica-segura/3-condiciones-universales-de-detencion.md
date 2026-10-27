@@ -1,6 +1,7 @@
 # 6.3 Condiciones universales de detención
 
-> **Callout – Deténgase de inmediato cuando falle una verificación de seguridad**
+<!-- card: callout -->
+> **Deténgase de inmediato cuando falle una verificación de seguridad**
 >
 > Detenerse es una conducta de seguridad acertada. Proteja a las personas y la información secreta, verifique el problema y utilice una alternativa segura preparada de antemano o posponga la actividad. No avergüence al estudiante que detecte un problema.
 
@@ -20,6 +21,7 @@ Detenga la actividad de inmediato si:
 
 
 <!-- micrographic: stop-when-check-fails-01 -->
+[Una condición insegura o sin explicación detiene la actividad. El educador protege a las personas y la información secreta y verifica el problema; un error de evaluación que compromete la seguridad se registra como Aún no, y el estudiante restablece las condiciones, practica y vuelve a ser evaluado más adelante.](/micrographics/stop-when-check-fails-01/es-419.md)
 
 
 ![El educador levanta la mano con la palma abierta para pausar una actividad mientras el principiante baja un celular y el estudiante con conocimientos técnicos cierra parcialmente una computadora portátil.](https://cdn.sanity.io/images/vje9ehw2/staging/adb5c936fe5622b3c0b62f060349af1097eee5b0-1055x1491.png)

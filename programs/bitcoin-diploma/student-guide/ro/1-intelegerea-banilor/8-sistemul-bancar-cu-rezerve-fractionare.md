@@ -6,11 +6,13 @@ Când o bancă comercială aprobă un credit, de obicei creează un nou depozit 
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Un împrumut bancar simplificat: împrumutatul depune cererea, banca aprobă împrumutul și creditează contul împrumutatului cu un nou depozit, iar împrumutatul rambursează ulterior băncii principalul plus dobânda.](/micrographics/bank-loan-deposit-01/ro.md)
 
 
 În general, băncile urmăresc să obțină [profit](https://curriculum.myfirstbitcoin.org/lexicon/en/#bank-profit) încasând dobânzi și comisioane din credite și investiții, acoperindu-și totodată costurile de funcționare, de finanțare și de conformare cu reglementările și absorbind pierderile atunci când debitorii nu rambursează creditele. Aceste activități și constrângeri diferă în funcție de bancă și de jurisdicție.
 
 
+<!-- card: definition -->
 > **Definition – Sistemul bancar cu rezerve fracționare**
 >
 > [Sistemul bancar cu rezerve fracționare](https://curriculum.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking) descrie un sistem în care băncile păstrează doar o fracțiune din obligațiile aferente depozitelor sub formă de rezerve imediat accesibile, acordând în același timp credite și deținând alte [active](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset). Nivelul rezervelor obligatorii și celelalte limite diferă de la o țară la alta și se pot modifica în timp.
@@ -23,6 +25,7 @@ Acest lucru creează două riscuri importante:
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Riscul de lichiditate: mulți deponenți stau la coadă pentru a retrage bani astăzi, iar banca nu dispune de suficient numerar în prezent, deși creditele acordate de aceasta pot fi rambursate mai târziu. Riscul de insolvabilitate: debitorii nu își mai plătesc creditele ipotecare, iar valoarea activelor băncii scade sub nivelul datoriilor sale.](/micrographics/liquidity-vs-solvency-01/ro.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)

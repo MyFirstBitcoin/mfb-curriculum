@@ -3,7 +3,8 @@
 [কেওয়াইসি](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) এবং [কেওয়াইসি-বিহীন](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) পথে থাকে ভিন্ন ভিন্ন [সুবিধা-অসুবিধার সমন্বয়](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off)। কোনো পরিচিতিই সতর্ক মূল্যায়নের প্রয়োজন দূর করে না।
 
 
-> **Callout – গোপনীয়তা আইনি বা শারীরিক নিরাপত্তার ঝুঁকি দূর করে না**
+<!-- card: callout -->
+> **গোপনীয়তা আইনি বা শারীরিক নিরাপত্তার ঝুঁকি দূর করে না**
 >
 > শুধু পরিচিতির ভিত্তিতে [কেওয়াইসি](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) বা [কেওয়াইসি-বিহীন](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) কোনো পথই সেরা নয়। প্রকৃত পথটির তুলনা করুন, নিয়ম অস্পষ্ট হলে হালনাগাদ স্থানীয় নির্দেশনা অনুসরণ করুন এবং স্থানীয় আইন ভাঙবেন না বা নিজেকে শারীরিক বিপদে ফেলবেন না—এমনকি উদ্দেশ্য যদি হয় [গোপনীয়তা রক্ষা](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy)।
 

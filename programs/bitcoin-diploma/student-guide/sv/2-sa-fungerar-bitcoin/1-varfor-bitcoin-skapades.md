@@ -10,6 +10,7 @@ Bitcoin skapades för att lösa detta problem med ett [icke-hierarkiskt nätverk
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Med ett betalningsföretag för en enda organisation huvudboken och godkänner varje överföring. Med Bitcoin signerar avsändaren en transaktion, oberoende noder kontrollerar den och utvinnare lägger till den i en gemensam huvudbok, så att mottagaren är mindre beroende av en central instans.](/micrographics/central-ledger-vs-bitcoin-01/sv.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)

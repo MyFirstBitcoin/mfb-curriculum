@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[Biyan kuɗi a shagon kofi cikin matakai huɗu: abokin ciniki ya yi oda, mai hidima ya aika da daftarin kuɗi, abokin ciniki ya biya da bitcoin daga wayarsa, sannan mai hidima ya miƙa kofin.](/micrographics/coffee-shop-payment-01/ha.md)
 
 
 Ku yi amfani da kayayyaki da ayyukan da aka saba da su a yankinku. Takamaiman abin da za a saya ba shi ne muhimmi ba; tunanin da ke bayan zaɓin hanyar biyan kuɗi shi ne muhimmi.

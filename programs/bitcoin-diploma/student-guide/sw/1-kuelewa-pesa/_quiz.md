@@ -1,6 +1,6 @@
 # Quiz – Kuelewa Pesa: jaribio fupi
 
-## Question 1
+## Swali 1
 
 Kwa nini pesa inakubalika?
 
@@ -9,11 +9,11 @@ Kwa nini pesa inakubalika?
 * [ ] Inaondoa kanuni zote
 * [ ] Inageuza huduma kuwa bidhaa
 
-### Explanation
+### Maelezo
 
 Pesa huwasaidia watu wasiojuana kuratibu mabadilishano kwa muda kwa sababu watu wanatarajia wengine kuikubali baadaye. Bado inategemea uaminifu, kanuni na kukubalika katika jamii. Tafadhali pitia Mwongozo wa Mwanafunzi, Moduli ya 1, “Kwa nini pesa ipo.”
 
-## Question 2
+## Swali 2
 
 Kupangiwa bei, kulipwa, kuwekwa akiba: ni majukumu gani?
 
@@ -22,11 +22,11 @@ Kupangiwa bei, kulipwa, kuwekwa akiba: ni majukumu gani?
 * [ ] Njia; hifadhi; kipimo
 * [ ] Uhaba; uhaba; uhaba
 
-### Explanation
+### Maelezo
 
 Kipimo cha thamani huonyesha bei, njia ya mabadilishano hukubaliwa katika malipo, na hifadhi ya thamani huhamisha thamani kwenda siku zijazo. Tafadhali pitia Mwongozo wa Mwanafunzi, Moduli ya 1, “Kazi na sifa za pesa.”
 
-## Question 3
+## Swali 3
 
 Mchele kwa viatu haufanikiwi: kwa nini?
 
@@ -35,11 +35,11 @@ Mchele kwa viatu haufanikiwi: kwa nini?
 * [ ] Hakuna idhini ya benki
 * [ ] Mchele hauwezi kubadilishwa
 
-### Explanation
+### Maelezo
 
 Kubadilishana bidhaa moja kwa moja ni vigumu pale ambapo kila mtu hataki kile ambacho mwingine anatoa kwa wakati mmoja. Hii ndiyo hali ya kuwiana kwa mahitaji pande zote mbili. Tafadhali pitia Mwongozo wa Mwanafunzi, Moduli ya 1, “Kubadilishana bidhaa na kuwiana kwa mahitaji pande zote mbili.”
 
-## Question 4
+## Swali 4
 
 Bei +10%, kipato +5%: uwezo wa kununua?
 
@@ -48,6 +48,6 @@ Bei +10%, kipato +5%: uwezo wa kununua?
 * [x] Unapungua
 * [ ] Haiwezekani kujua
 
-### Explanation
+### Maelezo
 
 Uwezo wa kununua ni kile ambacho pesa inaweza kununua. Ikiwa bei zinapanda kwa kasi kuliko kipato, kipato hicho hununua kidogo zaidi. Tafadhali pitia Mwongozo wa Mwanafunzi, Moduli ya 1, “Mfumuko wa bei na uwezo wa kununua.”

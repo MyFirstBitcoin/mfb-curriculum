@@ -10,6 +10,7 @@ Vysvětlete:
 
 
 <!-- micrographic: bitcoin-issuance-schedule-01 -->
+[Bloková dotace začíná na 50 bitcoinech a každých 210 000 bloků se půlí, zatímco celkové množství vydaných bitcoinů roste směrem k limitu 21 milionů. Transakční poplatky se vyplácejí navíc a nepředstavují nové bitcoiny; nejde o předpověď ceny.](/micrographics/bitcoin-issuance-schedule-01/cs.md)
 
 
 Limit je veřejným pravidlem sítě, nikoli fyzikálním zákonem. Kdokoli může napsat jiný software, ale nemůže stávající účastníky přinutit, aby jej přijali. Přijetí nekompatibilního softwaru může vytvořit jinou síť, nikoli nepozorovaně změnit Bitcoin pro všechny.

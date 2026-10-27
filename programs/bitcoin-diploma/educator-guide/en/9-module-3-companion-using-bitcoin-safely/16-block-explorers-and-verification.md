@@ -12,6 +12,7 @@ Using a prepared [_txid_](https://curriculum.myfirstbitcoin.org/lexicon/en/#tran
 
 
 <!-- micrographic: confirmation-timeline-01 -->
+[A transaction waits unconfirmed in the pending pool, then is included in Block N as its first confirmation, and each later block adds one more.](/micrographics/confirmation-timeline-01/en.md)
 
 
 Then ask:

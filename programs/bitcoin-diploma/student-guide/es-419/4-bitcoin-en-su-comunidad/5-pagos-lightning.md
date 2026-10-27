@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[El receptor crea una solicitud de pago de Lightning con el monto en su celular, el remitente la escanea y paga, y el pago llega al celular del receptor un momento después.](/micrographics/lightning-phone-payment-01/es-419.md)
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Un pago Lightning en seis pasos: el destinatario crea una solicitud, el remitente la escanea, revisa el destinatario, el monto, la unidad, el vencimiento y la comisión, aprueba el pago, el pago se enruta y ambas billeteras muestran el resultado. Cada billetera puede ser de custodia o de autocustodia, y un pago fallido o vencido se inicia de nuevo con una nueva solicitud.](/micrographics/lightning-payment-sequence-01/es-419.md)
 
 
 Lightning puede hacer prácticos los pagos rápidos de pequeñas cantidades en Bitcoin. Puede ser adecuado para el punto de cobro de un comercio, pagos locales recurrentes, servicios en línea o transferencias en las que una comisión en cadena sería demasiado alta en relación con el pago.

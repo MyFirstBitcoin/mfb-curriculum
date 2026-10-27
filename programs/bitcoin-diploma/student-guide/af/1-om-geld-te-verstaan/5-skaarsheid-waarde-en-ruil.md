@@ -3,6 +3,7 @@
 Hulpbronne is beperk, terwyl menslike begeertes nie beperk is nie.
 
 
+<!-- card: definition -->
 > **Definition – Skaarsheid**
 >
 > [Skaarsheid](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) beteken dat die keuse van een gebruik van 'n hulpbron 'n ander gebruik uitsluit. Tyd, grond, energie, goeie gesondheid, gereedskap en [gesonde geld](https://curriculum.myfirstbitcoin.org/lexicon/en/#sound-money) is almal skaars.
@@ -14,6 +15,7 @@ Die [waarde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) van 'n goe
 
 
 <!-- micrographic: same-water-different-value-01 -->
+[Dieselfde bottel skoon water is goedkoop in 'n winkel se yskas waar water maklik te vind is, en baie meer werd in 'n warm woestyn tydens 'n tekort. Beskikbaarheid, behoefte en omstandighede verander waarde en prys.](/micrographics/same-water-different-value-01/af.md)
 
 
 Ruil vind plaas wanneer albei partye dit wat hulle ontvang, verkies bo dit wat hulle prysgee. Hulle hoef nie saam te stem dat die twee items dieselfde persoonlike [waarde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) het nie. Hulle hoef slegs oor die voorwaardes saam te stem.
@@ -26,6 +28,7 @@ Drie idees help om alledaagse keuses te verduidelik:
 
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[’n Koper met beperkte geld kyk na die beskikbare opsies: kos vir vandag, vervoer, of om vir later te spaar. Om een te kies, beteken dat die ander prysgegee word, wat die geleentheidskoste is, en geen opsie word as die regte een aangedui nie.](/micrographics/one-choice-two-uses-01/af.md)
 
 
 [Skaarsheid](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) alleen waarborg nie [waarde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) nie. 'n Item kan seldsaam wees sonder dat daar enige vraag daarna is. 'n Nuttige monetêre [bate](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) kombineer 'n beperkte aanbod met eienskappe en vraag wat mense bereid maak om dit te hou of te verruil.

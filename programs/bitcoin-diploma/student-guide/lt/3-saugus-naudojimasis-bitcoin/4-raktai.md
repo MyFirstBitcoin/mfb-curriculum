@@ -3,6 +3,7 @@
 Bitcoin nuosavybė užtikrinama kriptografiniais raktais.
 
 
+<!-- card: definition -->
 > **Definition – Privatusis raktas**
 >
 > Toks [privatusis raktas](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) yra slapta informacija, leidžianti piniginei sukurti galiojančius [skaitmeninius parašus](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature). Parašas suteikia leidimą išleisti atitinkamu raktu valdomus bitkoinus. Bet kas, gavęs [privatųjį raktą](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), paprastai gali išleisti tas lėšas.
@@ -21,10 +22,10 @@ Dauguma pradedantiesiems skirtų piniginių naudoja [vieno parašo schemą](http
 Jokiam sąžiningai veikiančiam pedagogui, piniginės paslaugų įmonei, keityklos darbuotojui, techninės pagalbos specialistui ar Bitcoin kūrėjui nereikia jūsų [privačiojo rakto](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) ar [atkūrimo frazės](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase). Bet ką, kas prašo šios informacijos, reikėtų laikyti grėsme.
 
 
-> **Light**
->
+<!-- card: light -->
 > **Išbandykite:** Suskirstykite parengtus pavyzdžius į tris grupes: informacija, kuria saugu dalytis norint gauti lėšų, slapta informacija, skirta lėšoms išleisti, ir informacija, kuri gali būti vieša, bet susieta su asmeniu vis tiek turėtų būti laikoma privačia.
 
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[Iš slapto privačiojo rakto, kuriuo niekada negalima dalytis, gaunama vieša informacija, kuria galima dalytis: iš jo išvestas viešasis raktas ir iš šio rakto sukurtas gavimo adresas. Tuo pačiu privačiuoju raktu sukuriami parašai, kuriuos mazgai patikrina niekada nesužinodami privačiojo rakto.](/micrographics/private-key-public-info-01/lt.md)

@@ -29,3 +29,4 @@ Esta actividad hace visible en el registro contable público la [privacidad](htt
 
 
 <!-- micrographic: address-reuse-linkage-01 -->
+[Varios recibos ficticios comparten una misma dirección reutilizada y se pueden vincular fácilmente. Usar direcciones de recepción nuevas reduce ese vínculo directo, pero la información externa y las búsquedas en exploradores aún pueden revelar relaciones, y los datos públicos no demuestran por sí solos la identidad de una persona.](/micrographics/address-reuse-linkage-01/es-419.md)

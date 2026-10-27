@@ -13,10 +13,12 @@ Před workshopem o Lightningu ověřte a vysvětlete:
 * simulaci bez připojení k internetu.
 
 
-> **Dark – Jedna úspěšná platba přes Lightning dokazuje pouze to, že tato trasa jednou fungovala**
+<!-- card: dark -->
+> **Jedna úspěšná platba přes Lightning dokazuje pouze to, že tato trasa jednou fungovala**
 >
 > Neprokazuje, že je peněženka bezpečná pro vyšší zůstatky ani že stejná cesta bude fungovat všude.
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Platba přes Lightning v šesti krocích: příjemce vytvoří žádost, odesílatel ji naskenuje, zkontroluje příjemce, částku, jednotku, dobu platnosti a poplatek, schválí platbu, platba se směruje sítí a obě peněženky zobrazí výsledek. U každé peněženky může správu klíčů zajišťovat třetí strana, nebo sám uživatel. Pokud platba selže nebo vyprší její platnost, postup začíná znovu novou žádostí.](/micrographics/lightning-payment-sequence-01/cs.md)

@@ -5,7 +5,8 @@
 Enviar requiere más cuidado porque, si es válida, en Bitcoin una [transacción](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) suele ser difícil o imposible de revertir. Antes de tocar el botón de aprobación, ¿puede explicar quién recibirá el pago y por qué?
 
 
-> **Callout – Deténgase y verifique antes de enviar**
+<!-- card: callout -->
+> **Deténgase y verifique antes de enviar**
 >
 > Confirme el destinatario, el método de pago, el destino, el monto y la unidad, la comisión o el vencimiento y la pantalla final. Si algo no coincide con la solicitud de confianza, o si alguien lo presiona para que actúe con urgencia o le pide información de recuperación, deténgase y verifique por su cuenta. Haga una prueba con un monto pequeño cuando no esté familiarizado con el proceso.
 
@@ -21,6 +22,7 @@ Enviar requiere más cuidado porque, si es válida, en Bitcoin una [transacción
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Antes de aprobar un pago, la persona que envía verifica el destinatario y el propósito, el método de pago, el destino y el monto, la unidad, la comisión o el vencimiento, y hace una prueba con un monto pequeño si no conoce el proceso. Si algo es diferente, se detiene y verifica; aprueba solo cuando todo coincide y luego revisa el resultado.](/micrographics/pre-send-checklist-01/es-419.md)
 
 
 En un [pago en cadena](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), la **comisión de red** se paga por incluir la [transacción](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) en un bloque. Depende principalmente de la [transacción](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) en cuanto a sus datos y de la demanda de [espacio en los bloques](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-space), no simplemente del monto que se envía. Las estimaciones de las comisiones y los tiempos pueden cambiar, así que lea el resumen final en lugar de suponer que un pago de poco valor tiene una comisión baja.

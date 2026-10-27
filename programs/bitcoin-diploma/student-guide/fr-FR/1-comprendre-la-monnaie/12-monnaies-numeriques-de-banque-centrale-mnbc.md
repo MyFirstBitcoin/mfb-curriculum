@@ -1,5 +1,6 @@
 # 1.12 Monnaies numériques de banque centrale (MNBC)
 
+<!-- card: definition -->
 > **Definition – Monnaie numérique de banque centrale (MNBC)**
 >
 > Une [monnaie numérique de banque centrale](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), ou [MNBC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), est une forme numérique de [monnaie fiduciaire](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) émise comme un [élément du passif](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability) d’une [banque centrale](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) : il s’agit d’une créance que la [banque centrale](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) doit honorer envers son détenteur. Elle se distingue des espèces et d’un dépôt classique auprès d’une banque commerciale, même si l’expérience utilisateur peut sembler similaire.
@@ -13,6 +14,7 @@ Demandez-vous ensuite ce que permet le modèle retenu. Selon les règles, une [M
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[Un tableau comparant les espèces, les dépôts bancaires, une MNBC de détail et Bitcoin selon leur émetteur, leur forme, leur accès, la visibilité des paiements, leurs règles d’émission et leur vérification. Numérique ne signifie pas décentralisé : une MNBC reste émise par la banque centrale, et son accès, la visibilité des paiements et sa vérification dépendent de sa conception.](/micrographics/cbdc-comparison-table-01/fr-FR.md)
 
 
 Numérique ne signifie pas automatiquement décentralisé, rare, confidentiel ou vérifiable de manière indépendante. Une [MNBC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) peut utiliser la technologie numérique, mais elle reste de la [monnaie fiduciaire](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) si son [émetteur](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer), les règles régissant sa quantité en circulation, ses règles d’accès et ses autorisations de paiement restent gérés de manière centralisée.

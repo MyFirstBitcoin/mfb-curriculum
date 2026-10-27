@@ -1,6 +1,6 @@
 # Quiz – Kako Bitcoin funkcioniše: kratka provera
 
-## Question 1
+## Pitanje 1
 
 Ista digitalna jedinica koristi se za dva plaćanja. Sistem mora da:
 
@@ -9,11 +9,11 @@ Ista digitalna jedinica koristi se za dva plaćanja. Sistem mora da:
 * [ ] Poveća njenu cenu
 * [ ] Ukine naknade
 
-### Explanation
+### Objašnjenje
 
 Digitalne informacije mogu se kopirati, pa novčani sistem mora da spreči da se ista jedinica potroši dva puta i da utvrdi koja je transakcija važeća. Pogledajte Vodič za učenike, Modul 2, „Rani pokušaji stvaranja digitalnog novca i problem dvostruke potrošnje“.
 
-## Question 2
+## Pitanje 2
 
 Decentralizacija Bitcoin mreže znači:
 
@@ -22,11 +22,11 @@ Decentralizacija Bitcoin mreže znači:
 * [ ] Rudari slobodno menjaju pravila
 * [ ] Jednak uticaj za sve
 
-### Explanation
+### Objašnjenje
 
 Bitcoin raspoređuje proveru i sprovođenje pravila među nezavisnim učesnicima. Decentralizacija ne znači da jedna kompanija kontroliše mrežu niti da svi imaju jednak uticaj. Pogledajte Vodič za učenike, Modul 2, „Decentralizacija“.
 
-## Question 3
+## Pitanje 3
 
 Čvor Bitcoin mreže:
 
@@ -35,11 +35,11 @@ Bitcoin raspoređuje proveru i sprovođenje pravila među nezavisnim učesnicima
 * [ ] Čuva bitcoin
 * [ ] Garantuje plaćanje
 
-### Explanation
+### Objašnjenje
 
 Čvorovi nezavisno proveravaju poštovanje pravila Bitcoin mreže i odbacuju nevažeće podatke. Oni ne stvaraju bitcoin na zahtev niti čuvaju bitcoin u telefonu. Pogledajte Vodič za učenike, Modul 2, „Korisnici, čvorovi i rudari“.
 
-## Question 4
+## Pitanje 4
 
 Zašto se Bitcoin naziva zdravim novcem?
 
@@ -48,6 +48,6 @@ Zašto se Bitcoin naziva zdravim novcem?
 * [ ] Jedna kompanija ga kontroliše
 * [ ] Plaćanja su privatna
 
-### Explanation
+### Objašnjenje
 
 Neki ljudi opisuju Bitcoin kao zdrav novac jer su pravila njegove ponude javna, a njegovo izdavanje ograničeno. To je obrazložena procena, a ne obećanje u pogledu cene ili privatnosti. Pogledajte Vodič za učenike, Modul 2, „Bitcoin kao zdrav digitalni novac“.

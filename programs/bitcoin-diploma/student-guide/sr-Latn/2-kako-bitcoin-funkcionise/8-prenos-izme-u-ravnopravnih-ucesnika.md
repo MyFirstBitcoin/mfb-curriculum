@@ -8,6 +8,7 @@ Povezivanje ravnopravnih učesnika ne znači uvek da samo dva računara komunici
 
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[Pošiljalac potpisuje transakciju i emituje je brojnim mrežnim čvorovima, koji je prosleđuju dok ne stigne do primaoca. Nijedan centralni operater mreže Bitcoin ne mora da odobri pošiljaoca ili primaoca.](/micrographics/peer-to-peer-route-01/sr-Latn.md)
 
 
 Korisnici i dalje mogu da biraju [posrednike](https://curriculum.myfirstbitcoin.org/lexicon/en/#intermediary). Menjačnica može da čuva bitcoin za klijente. Servis za plaćanje može da pojednostavi rad sa fakturama. Novčanik kojim upravlja pružalac usluge može da upravlja ključevima. Ove usluge mogu biti praktične, ali korisnik tada zavisi od pravila i bezbednosti pružaoca usluge.

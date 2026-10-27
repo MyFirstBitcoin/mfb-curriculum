@@ -16,6 +16,7 @@ Explique que un mensaje o una captura de pantalla que diga “enviado” no es p
 
 
 <!-- micrographic: check-what-you-receive-01 -->
+[Una pantalla de muestra para recibir pagos en un celular muestra el método de pago, la solicitud de pago para compartir, el monto y un estado pendiente. Un mensaje o una captura de pantalla que diga "enviado" no es una prueba: verifique el estado en su propia billetera.](/micrographics/check-what-you-receive-01/es-419.md)
 
 
 #### Práctica: recorrido por la pantalla de recepción

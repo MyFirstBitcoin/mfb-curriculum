@@ -4,6 +4,7 @@ Opettakaa [hintainflaatio](https://curriculum.myfirstbitcoin.org/lexicon/en/#inf
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Samoilla 100 rahayksiköllä saa ostettua koko perushyödykkeistä koostuvan ostoskorin, kun se maksaa 100, mutta ei enää silloin, kun sama ostoskori maksaa 110. Hintataso on noussut ja rahan ostovoima on heikentynyt.](/micrographics/same-money-smaller-basket-01/fi.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)

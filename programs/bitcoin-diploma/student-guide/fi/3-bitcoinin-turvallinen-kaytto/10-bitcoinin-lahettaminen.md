@@ -5,7 +5,8 @@
 Lähettäminen vaatii erityistä huolellisuutta, koska kelvollisen Bitcoin-verkon [siirron](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) peruuttaminen on yleensä vaikeaa tai mahdotonta. Osaatteko kertoa ennen hyväksymispainikkeen painamista, kuka saa maksun ja miksi?
 
 
-> **Callout – Pysähtykää ja varmistakaa tiedot ennen lähettämistä**
+<!-- card: callout -->
+> **Pysähtykää ja varmistakaa tiedot ennen lähettämistä**
 >
 > Varmistakaa vastaanottaja, maksutapa, kohde, summa ja yksikkö, siirtomaksu tai vanhenemisaika sekä viimeisen näkymän tiedot. Jos jokin poikkeaa luotettavasta maksupyynnöstä tai joku luo kiireen tuntua tai pyytää palautustietoja, pysähtykää ja varmistakaa tiedot riippumattomasti. Tehkää ensin pieni testimaksu, jos toimintatapa on vieras.
 
@@ -21,6 +22,7 @@ Lähettäminen vaatii erityistä huolellisuutta, koska kelvollisen Bitcoin-verko
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Ennen maksun hyväksymistä lähettäjä tarkistaa vastaanottajan ja maksun tarkoituksen, maksutavan, kohteen sekä summan, yksikön, siirtomaksun tai vanhenemisajan ja tekee pienen testimaksun, jos menettely on vieras. Jos jokin poikkeaa, hän pysähtyy ja varmistaa tiedot. Hän hyväksyy maksun vasta, kun kaikki tiedot täsmäävät, ja tarkistaa sitten tuloksen.](/micrographics/pre-send-checklist-01/fi.md)
 
 
 Kun kyseessä on [lohkoketjumaksu](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), **verkkomaksu** maksetaan siitä, että [siirto](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) sisällytetään lohkoon. Se riippuu pääasiassa [siirron](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) tiedoista ja kysynnästä, joka kohdistuu [lohkotilaan](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-space), ei pelkästään lähetettävästä summasta. Maksuarviot ja ajoitus voivat muuttua, joten lukekaa lopullinen yhteenveto sen sijaan, että olettaisitte pienen maksusumman tarkoittavan pientä siirtomaksua.

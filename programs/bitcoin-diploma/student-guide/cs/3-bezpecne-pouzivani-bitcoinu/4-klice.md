@@ -3,6 +3,7 @@
 Vlastnictví v síti Bitcoin je zajištěno kryptografickými klíči.
 
 
+<!-- card: definition -->
 > **Definition – Soukromý klíč**
 >
 > Každý [soukromý klíč](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) je tajná informace, která peněžence umožňuje vytvářet platné [digitální podpisy](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature). Podpis opravňuje k utrácení bitcoinů ovládaných příslušným klíčem. Kdokoli získá [soukromý klíč](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), může tyto prostředky obvykle utratit.
@@ -21,10 +22,10 @@ Většina peněženek pro začátečníky používá [jeden podpis](https://curr
 Žádný důvěryhodný vzdělavatel, společnost vyvíjející peněženku, zaměstnanec burzy, pracovník technické podpory ani vývojář Bitcoinu nepotřebuje váš [soukromý klíč](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) ani [obnovovací frázi](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase). Každého, kdo tyto údaje požaduje, byste měli považovat za hrozbu.
 
 
-> **Light**
->
+<!-- card: light -->
 > **Vyzkoušejte si to:** Roztřiďte připravené příklady do tří skupin: údaje pro příjem, které lze bezpečně sdílet, tajné údaje pro utrácení a údaje, které mohou být veřejné, ale pokud jsou spojeny s konkrétní osobou, měly by přesto zůstat soukromé.
 
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[Z tajného soukromého klíče, který se nikdy nesmí sdílet, se odvozují veřejné informace, které sdílet lze: veřejný klíč odvozený ze soukromého klíče a přijímací adresa vytvořená z veřejného klíče. Tentýž soukromý klíč vytváří podpisy, které uzly ověřují, aniž by kdy zjistily soukromý klíč.](/micrographics/private-key-public-info-01/cs.md)

@@ -14,6 +14,7 @@ If equivalence is uncertain, use the adaptation for practice and select an asses
 
 
 <!-- micrographic: adapt-practice-or-assessment-01 -->
+[Practice activities can be adapted to the learners and setting. An activity used for assessment must keep the competency, evidence, independence, safety and minimum standard; if equivalence is uncertain, use the adaptation for practice and choose a clearer assessment task.](/micrographics/adapt-practice-or-assessment-01/en.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/8444d4c2c23ce8cb5b0103bb646ce8c50c4594c3-1536x1024.svg)

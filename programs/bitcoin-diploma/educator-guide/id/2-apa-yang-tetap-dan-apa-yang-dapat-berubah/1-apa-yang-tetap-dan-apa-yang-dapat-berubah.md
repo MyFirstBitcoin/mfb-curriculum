@@ -32,3 +32,4 @@ Anda tidak boleh:
 
 
 <!-- micrographic: fixed-adaptable-flexible-01 -->
+[Contoh setempat dan metode pengajaran dapat diubah dalam batasan kompetensi, bukti, keselamatan, dan penyelesaian yang tetap. Perubahan yang memengaruhi penilaian memerlukan jalur setara yang telah disetujui, yang tetap mempertahankan tindakan peserta didik dan tujuan keselamatan yang sama.](/micrographics/fixed-adaptable-flexible-01/id.md)

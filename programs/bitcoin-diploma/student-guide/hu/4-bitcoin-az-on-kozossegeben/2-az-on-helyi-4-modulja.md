@@ -10,6 +10,7 @@ A helyi **4. modul** feladata a következőkben segíti Önt:
 
 
 <!-- micrographic: local-module-four-actions-01 -->
+[A helyi környezetre szabott 4. modulban a tanuló négy tevékenységet végez: összekapcsol egy, az 1–3. modulban megismert gondolatot egy helyi igénnyel, összehasonlítja a Bitcoint egy reális, már létező lehetőséggel, biztonságosan gyakorol útmutatás mellett, majd elmagyarázza, mit tanult, és mi lehet a következő felelős lépés. Az oktatója, és esetenként egy helyi szakértő is, végig segíti őt.](/micrographics/local-module-four-actions-01/hu.md)
 
 
 A feladat során többek között a következő kérdéseket vizsgálhatja meg:

@@ -12,6 +12,7 @@ Selittäkää, että [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cb
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[Taulukko, jossa verrataan käteistä, pankkitalletuksia, yleisön käyttöön tarkoitettua digitaalista keskuspankkirahaa ja Bitcoinia liikkeeseenlaskijan, muodon, käyttömahdollisuuksien, maksujen näkyvyyden, rahan määrää koskevien sääntöjen ja varmentamisen osalta. Digitaalinen ei tarkoita samaa kuin hajautettu: digitaalinen keskuspankkiraha on edelleen keskuspankin liikkeeseen laskemaa, ja sen käyttömahdollisuudet, maksujen näkyvyys ja varmentaminen riippuvat sen toteutustavasta.](/micrographics/cbdc-comparison-table-01/fi.md)
 
 
 [CBDC:n](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) toteutusratkaisut eroavat toisistaan. Älkää väittäkö, että jokaisessa [CBDC:ssä](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) on jokin ominaisuus tai että se puuttuu jokaisesta. Erottakaa toisistaan vahvistettu paikallinen toteutusratkaisu, julkaistu ehdotus, kommentointi ja spekulaatio.

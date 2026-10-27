@@ -4,6 +4,7 @@ A [**Bitcoin-körforgásos gazdaság**](https://curriculum.myfirstbitcoin.org/le
 
 
 <!-- micrographic: local-circular-economy-01 -->
+[A Bitcoin körforgásos gazdaságában a bitcoin személyről személyre vándorol árukért, szolgáltatásokért és időért cserébe. A vásárló fizet a kereskedőnek, a kereskedő fizet a szolgáltatónak, a szolgáltató fizet a dolgozónak, a dolgozó pedig vásárlóként újra elkölti a bitcoint.](/micrographics/local-circular-economy-01/hu.md)
 
 
 A My First Bitcoin támogatja a [Bitcoin-körforgásos gazdaságokat](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-circular-economy), és közülük sok a Bitcoin Education Network része. Fedezze fel ezeket a közösségeket a [hálózati irányítópulton](https://network.myfirstbitcoin.org/?min10merchants=1).

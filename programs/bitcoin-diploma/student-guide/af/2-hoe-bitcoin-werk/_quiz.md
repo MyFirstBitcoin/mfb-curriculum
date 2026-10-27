@@ -1,6 +1,6 @@
 # Quiz – Hoe Bitcoin werk: kort toets
 
-## Question 1
+## Vraag 1
 
 Een digitale eenheid word twee keer vir betaling gebruik. Die stelsel moet:
 
@@ -9,11 +9,11 @@ Een digitale eenheid word twee keer vir betaling gebruik. Die stelsel moet:
 * [ ] Die prys daarvan verhoog
 * [ ] Fooie afskaf
 
-### Explanation
+### Verduideliking
 
 Digitale inligting kan gekopieer word, dus moet 'n geldstelsel verhoed dat dieselfde eenheid twee keer bestee word en bepaal watter transaksie geldig is. Hersien die Studentehandleiding, Module 2, “Vroeë pogings met digitale geld en die probleem van dubbele besteding.”
 
-## Question 2
+## Vraag 2
 
 Bitcoin se desentralisasie beteken:
 
@@ -22,11 +22,11 @@ Bitcoin se desentralisasie beteken:
 * [ ] Myners verander reëls na willekeur
 * [ ] Gelyke invloed vir almal
 
-### Explanation
+### Verduideliking
 
 Bitcoin versprei verifikasie en die afdwinging van reëls onder onafhanklike deelnemers. Desentralisasie beteken nie dat een maatskappy die netwerk beheer of dat almal ewe veel invloed het nie. Hersien die Studentehandleiding, Module 2, “Desentralisasie.”
 
-## Question 3
+## Vraag 3
 
 'n Bitcoin-knooppunt:
 
@@ -35,11 +35,11 @@ Bitcoin versprei verifikasie en die afdwinging van reëls onder onafhanklike dee
 * [ ] Stoor bitcoin
 * [ ] Waarborg betaling
 
-### Explanation
+### Verduideliking
 
 Knooppunte kontroleer onafhanklik of Bitcoin se reëls nagekom word en verwerp ongeldige data. Hulle skep nie bitcoin op versoek of stoor bitcoin binne 'n foon nie. Hersien die Studentehandleiding, Module 2, “Gebruikers, knooppunte en myners.”
 
-## Question 4
+## Vraag 4
 
 Waarom word Bitcoin gesonde geld genoem?
 
@@ -48,6 +48,6 @@ Waarom word Bitcoin gesonde geld genoem?
 * [ ] Een maatskappy beheer dit
 * [ ] Betalings is privaat
 
-### Explanation
+### Verduideliking
 
 Sommige mense beskryf Bitcoin as gesonde geld omdat die reëls oor die aanbod daarvan openbaar is en die uitreiking daarvan beperk is. Dit is 'n beredeneerde oordeel, nie 'n belofte oor prys of privaatheid nie. Hersien die Studentehandleiding, Module 2, “Bitcoin as gesonde digitale geld.”

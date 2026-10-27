@@ -8,6 +8,7 @@ Rika-kwa-Rika (P2P) haimaanishi kila mara kwamba kompyuta mbili pekee ndizo huwa
 
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[Mtumaji anatia sahihi muamala na kuutangaza kwa nodi nyingi za mtandao, ambazo zinaupitisha hadi unamfikia mpokeaji. Hakuna mwendeshaji mkuu wa Bitcoin anayepaswa kumwidhinisha mtumaji au mpokeaji.](/micrographics/peer-to-peer-route-01/sw.md)
 
 
 Watumiaji bado wanaweza kuchagua [wapatanishi](https://curriculum.myfirstbitcoin.org/lexicon/en/#intermediary). Soko la kubadilishia fedha linaweza kuhifadhi bitcoin kwa niaba ya wateja. Huduma ya malipo inaweza kurahisisha ankara. Pochi inayosimamiwa na mtoa huduma inaweza kudhibiti funguo. Huduma hizi zinaweza kuwa rahisi kutumia, lakini hapo mtumiaji hutegemea sheria na usalama wa huduma hiyo.

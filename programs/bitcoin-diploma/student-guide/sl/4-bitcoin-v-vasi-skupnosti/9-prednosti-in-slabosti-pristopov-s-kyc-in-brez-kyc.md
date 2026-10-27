@@ -3,7 +3,8 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) in [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) poti vključujejo različne [kompromise](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Nobena oznaka ne odpravi potrebe po skrbni presoji.
 
 
-> **Callout – Zasebnost ne odpravi pravnih tveganj ali tveganj za telesno varnost**
+<!-- card: callout -->
+> **Zasebnost ne odpravi pravnih tveganj ali tveganj za telesno varnost**
 >
 > Niti [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) niti [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) ni samodejno najboljša izbira. Primerjajte dejansko pot, kadar pravila niso jasna, upoštevajte aktualne lokalne smernice ter ne kršite lokalne zakonodaje in se ne izpostavljajte telesni nevarnosti zaradi prizadevanja za [zasebnost](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 

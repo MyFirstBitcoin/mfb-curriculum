@@ -15,6 +15,7 @@ Bitten Sie die Lernenden, Folgendes zu bestimmen:
 
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Die Akteure in einem Fiat-Geldsystem und was zwischen ihnen fließt: Die Zentralbank legt die Geldpolitik fest und wickelt Zahlungen zwischen Banken ab, Geschäftsbanken halten Einlagen, die ihre Verbindlichkeiten gegenüber den Kunden sind, Zahlungsdienste übermitteln Anweisungen, der Staat erhebt Steuern und tätigt Ausgaben, und Bürger und Unternehmen zahlen und erhalten Zahlungen.](/micrographics/fiat-system-flows-01/de.md)
 
 
 Seien Sie bereit, das lokale System zu erklären. Benennen Sie, welche Details allgemein gelten und welche für die jeweilige Rechtsordnung spezifisch sind. Laden Sie zu unterschiedlichen Erfahrungen ein, auch aus bargeldbasierten Lebenswirklichkeiten und von Menschen mit eingeschränktem Zugang zu Bankdienstleistungen, ohne die Diskussion in eine politische Schlussfolgerung münden zu lassen.

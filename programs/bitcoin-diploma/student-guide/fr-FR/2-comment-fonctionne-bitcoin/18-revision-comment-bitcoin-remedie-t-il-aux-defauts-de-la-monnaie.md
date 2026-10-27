@@ -4,6 +4,7 @@ Prenez un moment pour réfléchir à la manière dont les règles publiques, l�
 
 
 <!-- micrographic: bitcoin-responses-tradeoffs-01 -->
+[Un tableau associant cinq failles possibles des systèmes monétaires modernes à la réponse de Bitcoin et à la nouvelle responsabilité ou au compromis qu’entraîne chaque réponse. Bitcoin remplace une partie de la confiance accordée aux institutions par la vérification et la responsabilité individuelle, mais ne supprime pas les risques.](/micrographics/bitcoin-responses-tradeoffs-01/fr-FR.md)
 
 
 **Question clé :** D’après ce que vous avez appris sur Bitcoin dans ce module, a-t-il de la [valeur](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) à vos yeux ? Le [prix](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) actuel du bitcoin représente-t-il sa [valeur](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) ?

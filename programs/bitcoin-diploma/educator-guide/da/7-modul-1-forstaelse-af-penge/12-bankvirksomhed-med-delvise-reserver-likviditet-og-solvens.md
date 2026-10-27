@@ -10,6 +10,7 @@ Tegn en forenklet balance:
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Et forenklet banklån: Låntageren ansøger, banken godkender lånet og krediterer låntagerens konto med et nyt indskud, og låntageren tilbagebetaler senere hovedstolen plus renter til banken.](/micrographics/bank-loan-deposit-01/da.md)
 
 
 Brug ikke en fortælling om en »pengemultiplikator« baseret på gentagne fysiske indskud, som om den beskriver ethvert moderne banksystem mekanisk.
@@ -21,6 +22,7 @@ Skeln mellem:
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Likviditetsrisiko: mange indskydere står i kø for at hæve penge i dag, og banken mangler kontanter lige nu, selv om dens udlån kan blive tilbagebetalt senere. Solvensrisiko: låntagere misligholder deres boliglån, og bankens aktiver bliver mindre værd end dens gæld.](/micrographics/liquidity-vs-solvency-01/da.md)
 
 
 Spørg:

@@ -6,6 +6,7 @@ Apakah yang akan membuat anda berhenti sebelum membuat pembayaran atau pemasanga
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Lima tanda amaran penipuan: desakan untuk bertindak segera, penyamaran, destinasi yang diubah, pulangan terjamin dan permintaan maklumat rahsia.](/micrographics/scam-red-flags-01/ms.md)
 
 
 Tindakan yang selamat sentiasa ialah: **Berhenti seketika. Jangan kongsi apa-apa. Jangan hantar apa-apa. Tutup saluran komunikasi itu. Sahkan secara bebas melalui sumber yang diketahui. Minta bantuan tanpa mendedahkan rahsia.** Sumber yang diketahui ialah laman rasmi, penyenaraian aplikasi, atau kaedah perhubungan yang anda temui sendiri, bukan melalui iklan, mesej langsung, atau pautan yang tidak dijangka. Semak penerbit dan alamat web, bandingkannya dengan dokumentasi rasmi, dan cari maklumat hubungan secara berasingan. Jika sumber, arahan, atau butiran pembayaran berbeza daripada proses yang ditunjukkan, berhenti seketika dan dapatkan bantuan daripada pendidik anda atau sokongan tempatan yang dipercayai tanpa mendedahkan [frasa benih](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) atau [kunci peribadi](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key). Peluang sebenar tetap ada walaupun diperiksa dengan teliti; penipuan sering bergantung pada usaha menghalang pemeriksaan sedemikian.

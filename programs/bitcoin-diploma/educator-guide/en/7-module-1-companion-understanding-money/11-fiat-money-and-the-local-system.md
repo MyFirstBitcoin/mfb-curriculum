@@ -15,6 +15,7 @@ Ask learners to identify:
 
 
 <!-- micrographic: fiat-system-flows-01 -->
+[The actors in a fiat system and what passes between them: the central bank sets policy and settles banks, commercial banks hold deposits that are their liability to customers, payment services carry instructions, the government taxes and spends, and citizens and businesses pay and get paid.](/micrographics/fiat-system-flows-01/en.md)
 
 
 Be ready to explain the local system. Name which details are general and which are specific to the jurisdiction. Invite multiple experiences, including cash-based and underbanked realities, without turning the discussion into a political conclusion.

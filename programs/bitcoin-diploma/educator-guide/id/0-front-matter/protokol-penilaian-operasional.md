@@ -35,6 +35,7 @@ Pilih alur praktik yang dirasa aman dan dapat dijalani oleh peserta didik. Catat
 
 
 <!-- micrographic: cohort-capacity-check-01 -->
+[Untuk merencanakan kegiatan kelompok, kalikan jumlah peserta didik dengan perkiraan waktu pendampingan dan pengamatan, lalu tambahkan waktu untuk persiapan, umpan balik, kebutuhan akses, dan penilaian ulang. Jika para pendidik tidak memiliki cukup waktu, ubah rencana: kurangi jumlah peserta didik, tambah jumlah pendidik, atau tambah waktu.](/micrographics/cohort-capacity-check-01/id.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
@@ -57,6 +58,7 @@ Pilih alur praktik yang dirasa aman dan dapat dijalani oleh peserta didik. Catat
 
 
 <!-- micrographic: task-competency-map-01 -->
+[Interaksi teori T1 hingga T3 memberikan bukti untuk kompetensi C1 hingga C5, dan jalur praktik P6a, P6b dan P7 memberikan bukti untuk C6 dan C7. Setiap kompetensi kemudian memperoleh satu hasil Ya atau Belum.](/micrographics/task-competency-map-01/id.md)
 
 
 ### Aturan umum tentang dukungan, keamanan, dan pencatatan
@@ -65,10 +67,12 @@ Pilih alur praktik yang dirasa aman dan dapat dijalani oleh peserta didik. Catat
 
 
 <!-- micrographic: support-boundary-01 -->
+[Pendidik boleh menyediakan persiapan dan dukungan akses yang diizinkan serta menghentikan tindakan yang tidak aman. Peserta didik tetap harus memberikan penjelasan yang dinilai, memilih detail yang relevan, dan mengambil atau mengarahkan pengambilan keputusan yang diwajibkan.](/micrographics/support-boundary-01/id.md)
 
 
 
-> **Callout – Kesalahan praktik yang membahayakan keselamatan**
+<!-- card: callout -->
+> **Kesalahan praktik yang membahayakan keselamatan**
 >
 > Catat dan hentikan sementara tugas jika peserta didik mengungkapkan atau mencoba membagikan [frasa pemulihan](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), [kunci privat](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), kata sandi, atau informasi pribadi yang tidak diperlukan; tetap melanjutkan setelah mengetahui adanya ketidaksesuaian alamat, tagihan, jumlah, atau penerima; menerima penipuan yang jelas atau permintaan mendesak untuk merahasiakan sesuatu; atau melewati langkah verifikasi yang diwajibkan. Jelaskan alasannya dengan ramah, kembalikan ke lingkungan yang aman, lakukan latihan, dan nilai kembali di lain waktu. Peserta didik sedang membangun kompetensi. Bahan pelatihan yang telah disiapkan menjadi pilihan standar; jika pendidik memilih aktivitas nyata yang berisiko rendah, jelaskan risikonya dan sediakan aktivitas setara yang tidak melibatkan dana.
 
@@ -181,3 +185,4 @@ Gunakan contoh dan materi kegiatan yang sesuai dengan kelompok belajar Anda. Tin
 
 
 <!-- micrographic: reassessment-calibration-moderation-01 -->
+[Tiga proses terpisah berjalan berdampingan. Peserta didik dengan hasil Belum menerima umpan balik secara pribadi, berlatih, dan memberikan bukti baru; penilai melakukan kalibrasi dengan memberi skor pada contoh secara mandiri dan menyepakati interpretasi; pendidik dapat meminta peninjauan kedua, yang tidak pernah menggantikan kinerja yang diamati.](/micrographics/reassessment-calibration-moderation-01/id.md)

@@ -36,7 +36,8 @@ The same message produces the same hash; small changes produce a very different 
 
 #### Notes
 
-> **Callout – Use fictional, non-sensitive text only**
+<!-- card: callout -->
+> **Use fictional, non-sensitive text only**
 >
 > Never paste a seed phrase, private key, password, recovery code, personal information, or a real financial record into an online hash tool.
 

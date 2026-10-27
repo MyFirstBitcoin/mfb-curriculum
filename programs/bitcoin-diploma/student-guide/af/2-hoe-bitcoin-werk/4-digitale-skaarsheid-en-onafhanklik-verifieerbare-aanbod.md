@@ -3,6 +3,7 @@
 Digitale inligting is gewoonlik maklik om te kopieer.
 
 
+<!-- card: definition -->
 > **Definition – Digitale skaarsheid**
 >
 > Digitale [skaarsheid](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) beteken dat 'n stelsel 'n geldige eenheid van 'n ongeldige kopie kan onderskei en kan voorkom dat dieselfde eenheid twee keer bestee word.
@@ -14,6 +15,7 @@ Bitcoin skep digitale [skaarsheid](https://curriculum.myfirstbitcoin.org/lexicon
 
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+['n Aanbodlimiet wat op 'n webwerf of in 'n uitreiker se databasis geskryf is, kan ongemerk deur daardie uitreiker verander word. Bitcoin se aanbodreël is openbaar, en handtekeninge, 'n openbare geskiedenis, bewys van werk en nodusverifikasie verhoed saam dat nuwe munte uitgedink word of dieselfde bitcoin twee keer bestee word.](/micrographics/claimed-or-verified-supply-01/af.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)

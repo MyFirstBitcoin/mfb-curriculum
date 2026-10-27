@@ -3,7 +3,8 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) आणि [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) मार्गांमध्ये वेगवेगळ्या प्रकारच्या [तडजोडी कराव्या लागतात](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). यांपैकी कोणतेही नाव असले तरी काळजीपूर्वक मूल्यमापन करण्याची गरज संपत नाही.
 
 
-> **Callout – गोपनीयतेमुळे कायदेशीर किंवा शारीरिक सुरक्षिततेशी संबंधित जोखीम नाहीशी होत नाही**
+<!-- card: callout -->
+> **गोपनीयतेमुळे कायदेशीर किंवा शारीरिक सुरक्षिततेशी संबंधित जोखीम नाहीशी होत नाही**
 >
 > केवळ [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) किंवा [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) असल्याने कोणताही मार्ग आपोआप सर्वोत्तम ठरत नाही. प्रत्यक्ष मार्गांची तुलना करा, नियम अस्पष्ट असतील तेव्हा अद्ययावत स्थानिक मार्गदर्शन घ्या, आणि स्थानिक कायदा मोडण्याचा किंवा स्वतःला शारीरिक धोक्यात घालण्याचा मार्ग स्वीकारू नका, जरी आपले ध्येय असेल [गोपनीयता](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 

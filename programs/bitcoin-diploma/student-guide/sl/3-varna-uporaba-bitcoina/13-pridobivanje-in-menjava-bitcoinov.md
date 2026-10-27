@@ -5,7 +5,8 @@
 Ljudje lahko bitcoin prejmejo za delo, s plačilom v skupnosti, z medsebojno menjavo, na bankomatu ali prek ponudnika storitev. Vsaka pot ima različne stroške ter glede [skrbništva](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), zasebnosti, goljufij ter pravnih in operativnih vidikov različne [prednosti in slabosti](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Diploma o Bitcoinu ne priporoča nobenega ponudnika in vam ne narekuje, katero pot izbrati.
 
 
-> **Light – Primerjajte lokalno plačilno pot**
+<!-- card: light -->
+> **Primerjajte lokalno plačilno pot**
 >
 > V pripravljenem lokalnem ali izmišljenem scenariju primerjajte [skrbništvo](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), skupne stroške, podatke o identiteti, omejitve dvigov, tveganja nasprotne stranke in fizično varnost ter veljavna lokalna pravila. Nobena pot ni samodejno najboljša povsod. Ta tečaj ponuja vprašanja za primerjavo, ne pa priporočil ponudnikov ali osebnih finančnih nasvetov.
 
@@ -20,15 +21,18 @@ Preden primerjate posamezno pot, se vprašajte:
 
 
 <!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Oseba lahko pridobi bitcoin na štiri različne načine: z delom ali prodajo, z menjavo lokalne gotovine z drugo osebo, prek menjalnice ali posrednika ali z uporabo bankomata. Vsaka pot se konča s samostojno hrambo ali stanjem pri skrbniku, pri čemer nobena ni priporočena bolj kot druge.](/micrographics/ways-to-receive-bitcoin-01/sl.md)
 
 
 
 <!-- micrographic: exchange-risk-questions-01 -->
+[Šest področij tveganja, ki jih preverite pred pridobitvijo ali menjavo bitcoinov, vsako z vprašanjem, ki si ga zastavite: stroški, skrbništvo, identiteta in zasebnost, dvig in poravnava, nasprotna stranka in varnost ter lokalne okoliščine.](/micrographics/exchange-risk-questions-01/sl.md)
 
 
 Nobena pot ni samodejno najboljša povsod. Lokalni primeri in smernice za posamezne ponudnike sodijo v **modul 4**.
 
 
+<!-- card: definition -->
 > **Definition – Poznavanje stranke (KYC)**
 >
 > [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) označuje preverjanje identitete, ki ga lahko zahteva regulirani ponudnik storitev. Pomaga lahko pri obnovitvi dostopa do računa ali zagotavljanju skladnosti z zakonodajo, hkrati pa ustvari zapis, ki povezuje identiteto s finančno dejavnostjo. Poti, pri katerih se zbira manj podatkov o identiteti, lahko vključujejo drugačna tveganja, povezana z nasprotno stranko, zakonodajo, varnostjo, stroški ali zapletenostjo.

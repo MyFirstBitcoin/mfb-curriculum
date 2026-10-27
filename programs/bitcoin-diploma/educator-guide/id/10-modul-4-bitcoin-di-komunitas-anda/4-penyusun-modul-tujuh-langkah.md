@@ -1,6 +1,7 @@
 # 10.4 Penyusun Modul Tujuh Langkah
 
 <!-- micrographic: seven-step-module-builder-01 -->
+[Tujuh langkah perencanaan mengarahkan proses dari konteks dan kebutuhan setempat menuju tugas yang terfokus dan terverifikasi, urutan pengajaran yang aman, penilaian yang jelas, serta refleksi. Alternatif yang sudah ada tetap dipertimbangkan, dan pilihan yang tidak sesuai dikembalikan ke tahap perencanaan.](/micrographics/seven-step-module-builder-01/id.md)
 
 
 #### 1. Pelajari konteks setempat

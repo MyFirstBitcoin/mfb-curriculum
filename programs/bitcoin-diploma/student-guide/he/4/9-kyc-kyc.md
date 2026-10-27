@@ -3,7 +3,8 @@
 [הכרת הלקוח](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) ו[היעדר הכרת הלקוח](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) הם מסלולים הכרוכים ב[פשרות שונות](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). אף אחת מהתוויות אינה מבטלת את הצורך בבחינה מעמיקה.
 
 
-> **Callout – פרטיות אינה מבטלת סיכונים משפטיים או סיכונים לביטחון הפיזי**
+<!-- card: callout -->
+> **פרטיות אינה מבטלת סיכונים משפטיים או סיכונים לביטחון הפיזי**
 >
 > לא [הכרת הלקוח](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) ולא [היעדר הכרת הלקוח](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) הם בהכרח האפשרות הטובה ביותר. השוו את המסלול בפועל, היעזרו בהנחיות מקומיות עדכניות כאשר הכללים אינם ברורים, ואל תפרו את החוק המקומי או תחשפו את עצמכם לסכנה פיזית בניסיון לשמור על [פרטיות](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 

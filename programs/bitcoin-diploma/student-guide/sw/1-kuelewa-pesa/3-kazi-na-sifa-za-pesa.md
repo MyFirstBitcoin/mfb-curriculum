@@ -14,6 +14,7 @@ Pesa yenye manufaa pia huwa na sifa kadhaa:
 
 
 <!-- micrographic: money-property-questions-01 -->
+[Sifa saba za pesa yenye manufaa, kila moja ikiwa na swali la kuuliza unapolinganisha aina za pesa: uimara, ubebekaji, ugawanyikaji, ubadilishanaji, uhaba, ukubalikaji na uthibitikaji.](/micrographics/money-property-questions-01/sw.md)
 
 
 Hakuna aina ya pesa inayopata alama kamili.
@@ -22,6 +23,7 @@ Watu pia hulinganisha pesa kwa [**uimara wake**](https://curriculum.myfirstbitco
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Tabaka mbili: kazi tatu za pesa (njia ya kubadilishana, kipimo cha thamani, hifadhi ya thamani) zinategemea sifa saba (uimara, urahisi wa kubebeka, uwezo wa kugawanyika, ubadilishanaji kwa usawa, uadimu, ukubalikaji na uwezo wa kuthibitishwa).](/micrographics/functions-and-properties-01/sw.md)
 
 
 [Dhahabu](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) ni ya kudumu na adimu, lakini ni vigumu kuigawanya na kuisafirisha kwa malipo madogo. [Pesa taslimu za karatasi](https://curriculum.myfirstbitcoin.org/lexicon/en/#paper-cash) zinabebeka kwa urahisi na zinakubalika ndani ya nchi, lakini zinaweza kuharibika na ugavi wake unaweza kuongezeka. Ulinganisho bora hutegemea lengo, mahali, na wakati.

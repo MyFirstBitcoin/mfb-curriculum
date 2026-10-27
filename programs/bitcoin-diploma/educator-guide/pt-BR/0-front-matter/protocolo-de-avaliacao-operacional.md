@@ -35,6 +35,7 @@ Escolha um percurso prático que pareça seguro e viável para os alunos. Regist
 
 
 <!-- micrographic: cohort-capacity-check-01 -->
+[Para planejar uma turma, multiplique o número de alunos pelo tempo provável de suporte e observação e, em seguida, acrescente tempo para preparação, feedback, necessidades de acessibilidade e reavaliação. Se os educadores não tiverem tempo suficiente, mude o plano: menos alunos, mais educadores ou mais tempo.](/micrographics/cohort-capacity-check-01/pt-BR.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
@@ -57,6 +58,7 @@ Escolha um percurso prático que pareça seguro e viável para os alunos. Regist
 
 
 <!-- micrographic: task-competency-map-01 -->
+[As interações teóricas T1 a T3 fornecem evidências para as competências C1 a C5, e as atividades práticas P6a, P6b e P7 fornecem evidências para C6 e C7. Cada competência recebe então um resultado Sim ou Ainda não.](/micrographics/task-competency-map-01/pt-BR.md)
 
 
 ### Regras comuns de apoio, segurança e registro
@@ -65,10 +67,12 @@ Escolha um percurso prático que pareça seguro e viável para os alunos. Regist
 
 
 <!-- micrographic: support-boundary-01 -->
+[Um educador pode oferecer a preparação e o apoio de acesso permitidos e interromper uma ação insegura. O aluno ainda deve fornecer a explicação avaliada, selecionar os dados relevantes e executar ou orientar as decisões exigidas.](/micrographics/support-boundary-01/pt-BR.md)
 
 
 
-> **Callout – Erros práticos críticos de segurança**
+<!-- card: callout -->
+> **Erros práticos críticos de segurança**
 >
 > Registre e interrompa a tarefa se o aluno revelar ou tentar compartilhar uma [frase-semente](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), [Chave Privada](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), senha ou informação pessoal desnecessária; prosseguir após uma divergência conhecida de endereço, fatura, valor ou destinatário; aceitar um golpe evidente ou um pedido urgente e secreto; ou ignorar uma etapa de verificação obrigatória. Explique o motivo com gentileza, volte a um ambiente seguro, pratique e reavalie mais tarde. O aluno está desenvolvendo a competência. Os materiais de treinamento preparados são o padrão; se um educador escolher uma atividade real de baixo risco, deixe claros os seus riscos e ofereça um equivalente sem fundos.
 
@@ -181,3 +185,4 @@ Use os exemplos e os materiais de atividade adequados à sua turma. Revise as fe
 
 
 <!-- micrographic: reassessment-calibration-moderation-01 -->
+[Três processos distintos ocorrem lado a lado. Alunos com "Ainda não" recebem feedback individual, praticam e apresentam novas evidências; os avaliadores se calibram pontuando exemplos de forma independente e chegando a uma interpretação comum; os educadores podem solicitar uma segunda revisão, que nunca substitui o desempenho observado.](/micrographics/reassessment-calibration-moderation-01/pt-BR.md)

@@ -6,6 +6,7 @@ Bitcoin combineert eigenschappen die voorheen niet samen in één [activum](http
 
 
 <!-- micrographic: bitcoin-money-properties-01 -->
+[Bitcoin combineert zeven eigenschappen van geld in één bezit: duurzaamheid, draagbaarheid, deelbaarheid, vervangbaarheid, schaarste, verifieerbaarheid en aanvaardbaarheid. Elke eigenschap heeft praktische beperkingen, zoals het veilig bewaren van sleutels en de acceptatie die in veel gemeenschappen nog laag is.](/micrographics/bitcoin-money-properties-01/nl.md)
 
 
 

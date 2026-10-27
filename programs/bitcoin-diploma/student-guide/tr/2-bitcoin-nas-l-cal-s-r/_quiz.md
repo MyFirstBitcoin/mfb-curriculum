@@ -1,6 +1,6 @@
 # Quiz – Bitcoin Nasıl Çalışır: kısa değerlendirme
 
-## Question 1
+## Soru 1
 
 Tek bir dijital birim iki kez ödemede kullanılıyor. Sistem ne yapmalıdır?
 
@@ -9,11 +9,11 @@ Tek bir dijital birim iki kez ödemede kullanılıyor. Sistem ne yapmalıdır?
 * [ ] Fiyatını yükseltmeli
 * [ ] Ücretleri kaldırmalı
 
-### Explanation
+### Açıklama
 
 Dijital bilgi kopyalanabilir; bu nedenle bir para sistemi aynı birimin iki kez harcanmasını engellemeli ve hangi işlemin geçerli olduğunu belirlemelidir. Öğrenci Rehberi, Modül 2, “İlk dijital para girişimleri ve çifte harcama sorunu” bölümünü gözden geçirin.
 
-## Question 2
+## Soru 2
 
 Bitcoin'de merkeziyetsizlik şu anlama gelir:
 
@@ -22,11 +22,11 @@ Bitcoin'de merkeziyetsizlik şu anlama gelir:
 * [ ] Madenciler kuralları serbestçe değiştirir
 * [ ] Herkes için eşit etki
 
-### Explanation
+### Açıklama
 
 Bitcoin, doğrulamayı ve kuralların uygulanmasını bağımsız katılımcılar arasında dağıtır. Merkeziyetsizlik, ağı tek bir şirketin kontrol ettiği ya da herkesin eşit etkiye sahip olduğu anlamına gelmez. Öğrenci Rehberi, Modül 2, “Merkeziyetsizlik” bölümünü gözden geçirin.
 
-## Question 3
+## Soru 3
 
 Bir Bitcoin düğümü:
 
@@ -35,11 +35,11 @@ Bir Bitcoin düğümü:
 * [ ] Bitcoin saklar
 * [ ] Ödemeyi garanti eder
 
-### Explanation
+### Açıklama
 
 Düğümler Bitcoin'in kurallarını bağımsız olarak denetler ve geçersiz verileri reddeder. İstek üzerine bitcoin oluşturmaz veya bitcoin'i bir telefonun içinde saklamaz. Öğrenci Rehberi, Modül 2, “Kullanıcılar, düğümler ve madenciler” bölümünü gözden geçirin.
 
-## Question 4
+## Soru 4
 
 Bitcoin'e neden sağlam para denir?
 
@@ -48,6 +48,6 @@ Bitcoin'e neden sağlam para denir?
 * [ ] Tek bir şirket kontrol eder
 * [ ] Ödemeler gizlidir
 
-### Explanation
+### Açıklama
 
 Bazı kişiler Bitcoin'i sağlam para olarak tanımlar; çünkü arz kuralları herkese açıktır ve ihracı sınırlıdır. Bu, fiyat ya da gizlilik konusunda bir vaat değil, gerekçeli bir değerlendirmedir. Öğrenci Rehberi, Modül 2, “Sağlam dijital para olarak Bitcoin” bölümünü gözden geçirin.

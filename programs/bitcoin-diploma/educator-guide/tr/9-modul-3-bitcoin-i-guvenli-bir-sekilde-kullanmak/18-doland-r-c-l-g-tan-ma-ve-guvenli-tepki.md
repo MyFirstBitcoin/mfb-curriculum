@@ -19,6 +19,7 @@ Varsayılan yanıtı kullanın:
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Beş dolandırıcılık uyarı işareti: aciliyet, kimliğe bürünme, değiştirilmiş hedef adres, garantili getiri ve gizli bilgi talepleri.](/micrographics/scam-red-flags-01/tr.md)
 
 
 #### Etkinlik: dolandırıcılık istasyonları

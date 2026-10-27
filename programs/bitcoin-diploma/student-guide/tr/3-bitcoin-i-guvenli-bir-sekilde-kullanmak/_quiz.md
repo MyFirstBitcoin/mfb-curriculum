@@ -1,6 +1,6 @@
 # Quiz – Bitcoin'i Güvenle Kullanmak: kısa kontrol
 
-## Question 1
+## Soru 1
 
 Bir Bitcoin cüzdanı:
 
@@ -9,11 +9,11 @@ Bir Bitcoin cüzdanı:
 * [ ] Gizli bilgilerin korumasını kaldırır
 * [ ] İşlemleri geri alır
 
-### Explanation
+### Açıklama
 
 Bitcoin ortak defterde kayıtlıdır; cüzdan ise ona erişmek ve onu kullanmak için gereken bilgileri yönetir. Öğrenci Rehberi, Modül 3, “Cüzdanlar” bölümünü gözden geçirin.
 
-## Question 2
+## Soru 2
 
 bitcoin almak için paylaşabileceğiniz bilgi:
 
@@ -22,11 +22,11 @@ bitcoin almak için paylaşabileceğiniz bilgi:
 * [x] Alım adresi
 * [ ] Parola
 
-### Explanation
+### Açıklama
 
 Ödeme almak için alım adresi paylaşılabilir. Tohum ifadeleri, özel anahtarlar ve parolalar gizli kalmalıdır. Öğrenci Rehberi, Modül 3, “Adresler” ve “Anahtarlar” bölümlerini gözden geçirin.
 
-## Question 3
+## Soru 3
 
 Tohum ifadesi çevrimiçi bir yere girildi. En güvenli sonraki adım nedir?
 
@@ -35,11 +35,11 @@ Tohum ifadesi çevrimiçi bir yere girildi. En güvenli sonraki adım nedir?
 * [x] Yeni tohum, ardından fonları taşımak
 * [ ] Tohumu yeniden kullanmak
 
-### Explanation
+### Açıklama
 
 Çevrimiçi bir yere girilmiş tohum ifadesini ele geçirilmiş kabul edin. Yeni bir tohum ifadesiyle yeni bir cüzdan oluşturun, ardından fonları yalnızca hedef adresi doğruladıktan sonra taşıyın. Öğrenci Rehberi, Modül 3, “Tohum ifadeleri” bölümünü gözden geçirin.
 
-## Question 4
+## Soru 4
 
 Saklama yöntemleri arasındaki fark nedir?
 
@@ -48,6 +48,6 @@ Saklama yöntemleri arasındaki fark nedir?
 * [ ] Arz sınırı
 * [ ] Sorumluluk
 
-### Explanation
+### Açıklama
 
 Emanetli kullanım ile kendi kendine saklama, anahtarları kimin kontrol ettiği ve buna bağlı sorumluluğu kimin taşıdığı bakımından farklılık gösterir. Hiçbiri güvenliği veya geri alınabilirliği garanti etmez. Öğrenci Rehberi, Modül 3, “Emanetli ve emanetsiz kullanım” bölümünü gözden geçirin.

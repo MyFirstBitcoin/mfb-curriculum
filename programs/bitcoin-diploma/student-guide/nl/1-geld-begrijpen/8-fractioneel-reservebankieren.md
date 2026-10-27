@@ -6,11 +6,13 @@ Wanneer een commerciële bank een lening goedkeurt, creëert zij doorgaans een n
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Een vereenvoudigde banklening: de lener vraagt de lening aan, de bank keurt de lening goed en schrijft een nieuw tegoed bij op de rekening van de lener, en de lener betaalt de bank later de hoofdsom plus rente terug.](/micrographics/bank-loan-deposit-01/nl.md)
 
 
 Banken streven doorgaans naar [winst](https://curriculum.myfirstbitcoin.org/lexicon/en/#bank-profit) door rente en vergoedingen te verdienen op leningen en investeringen, terwijl zij hun bedrijfs-, financierings- en toezichtskosten betalen en verliezen opvangen wanneer leners niet terugbetalen. Deze activiteiten en beperkingen verschillen per bank en per rechtsgebied.
 
 
+<!-- card: definition -->
 > **Definition – Bankieren met fractionele reserves**
 >
 > [Bankieren met fractionele reserves](https://curriculum.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking) beschrijft een vorm van bankieren waarbij banken slechts een fractie van hun verplichtingen uit deposito's aanhouden als direct beschikbare reserves, terwijl zij leningen verstrekken en andere [activa](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) aanhouden. Het vereiste reserveniveau en andere limieten verschillen per land en kunnen in de loop van de tijd veranderen.
@@ -23,6 +25,7 @@ Dit brengt twee belangrijke risico's met zich mee:
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Liquiditeitsrisico: veel spaarders staan vandaag in de rij om geld op te nemen, en de bank heeft nu onvoldoende contant geld, ook al kunnen haar leningen later worden terugbetaald. Solvabiliteitsrisico: leners lossen hun hypotheek niet meer af, en de activa van de bank worden minder waard dan wat zij verschuldigd is.](/micrographics/liquidity-vs-solvency-01/nl.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)

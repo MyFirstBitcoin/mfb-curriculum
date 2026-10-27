@@ -10,6 +10,7 @@ Draw a simplified balance sheet:
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[A simplified bank loan: the borrower applies, the bank approves the loan and credits the borrower's account with a new deposit, and the borrower later repays the bank the principal plus interest.](/micrographics/bank-loan-deposit-01/en.md)
 
 
 Do not use a repeated-physical-deposit “money multiplier” story as if it describes every modern banking system mechanically.
@@ -21,6 +22,7 @@ Distinguish:
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Liquidity risk: many depositors queue to withdraw today, and the bank lacks enough cash now even though its loans may be repaid later. Solvency risk: borrowers default on home loans, and the bank's assets become worth less than what it owes.](/micrographics/liquidity-vs-solvency-01/en.md)
 
 
 Ask:

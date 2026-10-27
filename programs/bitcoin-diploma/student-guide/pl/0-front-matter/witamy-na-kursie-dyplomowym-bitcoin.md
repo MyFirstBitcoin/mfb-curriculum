@@ -28,6 +28,7 @@ To podejście jest ważne, ponieważ pieniądz wpływa na każdego człowieka. L
 
 
 <!-- micrographic: critical-thinking-loop-01 -->
+[Powtarzalny cykl krytycznego myślenia: identyfikacja twierdzenia, oddzielenie faktów od preferencji, zbadanie dowodów i źródła, porównanie alternatyw, wskazanie kompromisu lub niepewności oraz sformułowanie wstępnego wniosku lub pytania.](/micrographics/critical-thinking-loop-01/pl.md)
 
 
 **Społeczność** oznacza, że edukacja staje się bardziej użyteczna, gdy ludzie dyskutują o ideach i odnoszą je do lokalnego życia. Państwa edukator i pozostali uczestnicy zajęć mogą mieć doświadczenia, których nie opisuje żaden podręcznik o globalnym zasięgu. Proszę uważnie słuchać, zadawać pytania i wyjaśniać swój tok rozumowania z szacunkiem dla innych.
@@ -75,7 +76,8 @@ Kurs może pomóc Państwu:
 * przygotować się do nauki na bardziej zaawansowanym poziomie
 
 
-> **Callout – Najpierw wiedza, potem działanie**
+<!-- card: callout -->
+> **Najpierw wiedza, potem działanie**
 >
 > Nie muszą Państwo kupować ani w żaden inny sposób nabywać bitcoinów, aby ukończyć kurs Dyplom Bitcoin. Nie muszą też Państwo instalować [portfela Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet) ani korzystać z własnych środków. Wymagane umiejętności praktyczne można ocenić za pomocą przygotowanego portfela szkoleniowego, symulacji, środowiska testowego, modelu fizycznego lub zatwierdzonego przez osobę prowadzącą ćwiczenia o niskim poziomie ryzyka.
 
@@ -84,3 +86,4 @@ Jeśli mają Państwo mało czasu lub chcieliby Państwo wstępnie zapoznać si�
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[Opcjonalna ścieżka edukacyjna prowadzi od Wprowadzenia do Bitcoina przez Dyplom z wiedzy o Bitcoinie i Program szkoleniowy dla edukatorów do roli edukatora nauczającego według programu My First Bitcoin oraz dołączenia do Sieci Edukacji o Bitcoinie. Każdy kolejny krok jest wyborem, a nie wymogiem.](/micrographics/learner-journey-pathway-01/pl.md)

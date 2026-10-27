@@ -14,6 +14,7 @@ Gunakan urutan berikut:
 
 
 <!-- micrographic: translation-workflow-01 -->
+[Penerjemahan adalah proses peninjauan dan pengujian: siapkan teks bahasa Inggris yang jelas, terjemahkan maknanya, tinjau bersama seorang ahli bahasa dan seorang pendidik, uji petunjuk keselamatan bersama peserta didik, lalu pastikan standarnya setara. Jika petunjuk keselamatan kurang jelas, perbaiki kembali redaksinya.](/micrographics/translation-workflow-01/id.md)
 
 
 Hindari idiom dan metafora yang maknanya sulit tersampaikan dengan baik dalam bahasa lain. Jika menggunakan analogi, selalu nyatakan apa yang dijelaskan oleh analogi tersebut dan apa yang tidak.

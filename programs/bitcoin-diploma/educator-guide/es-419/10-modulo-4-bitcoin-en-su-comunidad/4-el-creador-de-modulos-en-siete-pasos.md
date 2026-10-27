@@ -1,6 +1,7 @@
 # 10.4 El creador de módulos en siete pasos
 
 <!-- micrographic: seven-step-module-builder-01 -->
+[Siete pasos de planificación llevan del contexto y la necesidad locales a una tarea concreta y verificada, una secuencia didáctica segura, una evaluación clara y una reflexión final. La alternativa existente se mantiene presente, y una opción inadecuada lleva de vuelta a la planificación.](/micrographics/seven-step-module-builder-01/es-419.md)
 
 
 #### 1. Conozca el contexto local

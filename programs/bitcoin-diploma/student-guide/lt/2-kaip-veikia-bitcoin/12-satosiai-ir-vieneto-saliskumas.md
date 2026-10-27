@@ -14,6 +14,7 @@ Lygindami [kainas](https://curriculum.myfirstbitcoin.org/lexicon/en/#price), atk
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Dviejų stulpelių lentelė: 1 BTC yra 100 000 000 sats, 0,1 BTC yra 10 000 000 sats, 0,01 BTC yra 1 000 000 sats, 0,001 BTC yra 100 000 sats, o 0,00000001 BTC yra 1 sat.](/micrographics/bitcoin-and-sats-01/lt.md)
 
 
 **Parodykite, kaip supratote:** Kiek [satošių](https://curriculum.myfirstbitcoin.org/lexicon/en/#satoshi) sudaro 0,01 BTC? Kodėl [kaina](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) už vieną visą bitkoiną netrukdo žmogui naudoti mažesnio kiekio?

@@ -3,6 +3,7 @@
 Sumber adalah terhad, sedangkan kehendak manusia tidak terbatas.
 
 
+<!-- card: definition -->
 > **Definition – Kekurangan**
 >
 > [Kekurangan](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) bermaksud bahawa memilih satu kegunaan bagi sesuatu sumber menghalang kegunaan yang lain. Masa, tanah, tenaga, kesihatan yang baik, peralatan, dan [wang kukuh](https://curriculum.myfirstbitcoin.org/lexicon/en/#sound-money) semuanya terhad.
@@ -14,6 +15,7 @@ Adapun [nilai](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) sesuatu 
 
 
 <!-- micrographic: same-water-different-value-01 -->
+[Botol air bersih yang sama berharga murah di dalam peti sejuk kedai yang airnya mudah didapati, dan jauh lebih bernilai di padang pasir yang panas semasa kekurangan bekalan. Ketersediaan, keperluan dan keadaan mengubah nilai dan harga.](/micrographics/same-water-different-value-01/ms.md)
 
 
 Pertukaran berlaku apabila kedua-dua pihak lebih menginginkan apa yang diterima berbanding apa yang dilepaskan. Mereka tidak perlu bersetuju bahawa kedua-dua barang itu sama bagi diri masing-masing dari segi [nilai](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Mereka hanya perlu bersetuju dengan syarat pertukaran.
@@ -26,6 +28,7 @@ Tiga idea membantu menjelaskan pilihan harian:
 
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Seorang pembeli dengan wang yang terhad melihat pilihan di hadapannya: makanan untuk hari ini, pengangkutan, atau menyimpan untuk kemudian hari. Memilih satu bermakna melepaskan pilihan lain, iaitu kos lepas, dan tiada pilihan yang ditandakan sebagai pilihan yang betul.](/micrographics/one-choice-two-uses-01/ms.md)
 
 
 [Kekurangan](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) semata-mata tidak menjamin [nilai](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Sesuatu barang mungkin sukar didapati tetapi masih tiada permintaan. Dalam konteks kewangan, sesuatu [aset](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) yang berguna menggabungkan bekalan terhad dengan ciri-ciri serta permintaan yang membuatkan orang ramai sanggup menyimpan atau menukarkannya.

@@ -12,6 +12,7 @@ Należy omówić konsekwencje:
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Fraza odzyskiwania to uporządkowana lista słów — tutaj dwanaście ponumerowanych przykładowych słów zapisanych na papierze. Właściwe słowa we właściwej kolejności pozwalają odzyskać kontrolę w kompatybilnym portfelu, dlatego fraza musi pozostać tajna i być przechowywana offline.](/micrographics/seed-phrase-on-paper-01/pl.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
@@ -43,10 +44,12 @@ Należy omówić konsekwencje:
 
 
 <!-- micrographic: recovery-practice-lanes-01 -->
+[Osoba ucząca się wykonuje kolejne kroki ćwiczenia z odzyskiwania w miejscu zapewniającym prywatność, sprawdza, czy wynik jest zgodny z oczekiwaniami, usuwa dane z urządzenia oraz zwraca lub niszczy fikcyjne materiały. Edukator obserwuje podejmowane decyzje i bezpieczne postępowanie, ale nigdy nie widzi tajnych słów odzyskiwania.](/micrographics/recovery-practice-lanes-01/pl.md)
 
 
 
-> **Callout – Ujawnioną frazę seed należy uznać za skompromitowaną**
+<!-- card: callout -->
+> **Ujawnioną frazę seed należy uznać za skompromitowaną**
 >
 > Jeśli prawdziwa fraza seed mogła zostać ujawniona, należy przestać traktować ją jako bezpieczną kopię zapasową, utworzyć nowy, zaufany portfel z nowymi danymi odzyskiwania i przenieść środki po dokładnym sprawdzeniu miejsca docelowego. Osoba ucząca się powinna szukać pomocy bez ujawniania którejkolwiek z fraz.
 

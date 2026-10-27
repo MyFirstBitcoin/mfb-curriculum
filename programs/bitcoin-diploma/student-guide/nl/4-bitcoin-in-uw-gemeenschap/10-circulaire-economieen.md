@@ -4,6 +4,7 @@ Een [**circulaire Bitcoin-economie**](https://curriculum.myfirstbitcoin.org/lexi
 
 
 <!-- micrographic: local-circular-economy-01 -->
+[In een circulaire Bitcoin-economie gaat bitcoin van persoon tot persoon in ruil voor goederen, diensten en tijd. Een klant betaalt een handelaar, de handelaar betaalt een dienstverlener, de dienstverlener betaalt een werknemer en de werknemer geeft het als klant weer uit.](/micrographics/local-circular-economy-01/nl.md)
 
 
 My First Bitcoin ondersteunt [circulaire Bitcoin-economieën](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-circular-economy), en veel daarvan maken deel uit van het Bitcoin Education Network. Ontdek deze gemeenschappen op het [Network Dashboard](https://network.myfirstbitcoin.org/?min10merchants=1).

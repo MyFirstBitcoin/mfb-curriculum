@@ -75,7 +75,8 @@ Banii sunt un activ pe care oamenii îl acceptă deoarece se așteaptă ca și a
 * Valoare în timp și la distanță
 
 
-> **Callout – Întrebare rapidă**
+<!-- card: callout -->
+> **Întrebare rapidă**
 >
 > Ce problemă de schimb sau de coordonare ajută banii să rezolve?
 
@@ -108,7 +109,8 @@ O formă poate îndeplini o anumită funcție mai bine decât alta. Fiecare form
 Nicio formă de bani nu obține un scor perfect. „**Moneda solidă**” este o apreciere: precizați criteriile și comparați în mod consecvent.
 
 
-> **Callout – Gândiți critic**
+<!-- card: callout -->
+> **Gândiți critic**
 >
 > Ce proprietăți au contat când ați ales un tip de bani sau de activ în detrimentul altuia?
 
@@ -152,6 +154,7 @@ Raritatea singură nu garantează valoarea; contează și cererea.
 ---
 
 <!-- micrographic: same-water-different-value-01 -->
+[Aceeași sticlă de apă curată este ieftină în frigiderul unui magazin unde apa se găsește ușor și mult mai valoroasă într-un deșert fierbinte, în timpul unei penurii. Disponibilitatea, nevoia și circumstanțele schimbă valoarea și prețul.](/micrographics/same-water-different-value-01/ro.md)
 
 ---
 
@@ -162,6 +165,7 @@ Raritatea singură nu garantează valoarea; contează și cererea.
 ---
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[O persoană cu bani limitați analizează opțiunile din fața sa: mâncare pentru astăzi, transport sau economisire pentru mai târziu. Alegerea unei opțiuni presupune renunțarea la celelalte, ceea ce reprezintă costul de oportunitate, iar nicio opțiune nu este marcată drept cea corectă.](/micrographics/one-choice-two-uses-01/ro.md)
 
 ---
 
@@ -195,6 +199,7 @@ Plățile comode și creditarea flexibilă aduc dependență de instituții. Ofe
 ---
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Actorii dintr-un sistem monetar fiat și ceea ce circulă între ei: banca centrală stabilește politica monetară și decontează plățile dintre bănci, băncile comerciale dețin depozite care reprezintă datorii față de clienți, serviciile de plată transmit instrucțiuni, guvernul colectează impozite și efectuează cheltuieli, iar cetățenii și întreprinderile efectuează și încasează plăți.](/micrographics/fiat-system-flows-01/ro.md)
 
 ---
 
@@ -230,10 +235,12 @@ Retragerile masive de depozite pot îngreuna accesul la fonduri. Garantarea depo
 ---
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Un împrumut bancar simplificat: împrumutatul depune cererea, banca aprobă împrumutul și creditează contul împrumutatului cu un nou depozit, iar împrumutatul rambursează ulterior băncii principalul plus dobânda.](/micrographics/bank-loan-deposit-01/ro.md)
 
 ---
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Riscul de lichiditate: mulți deponenți stau la coadă pentru a retrage bani astăzi, iar banca nu dispune de suficient numerar în prezent, deși creditele acordate de aceasta pot fi rambursate mai târziu. Riscul de insolvabilitate: debitorii nu își mai plătesc creditele ipotecare, iar valoarea activelor băncii scade sub nivelul datoriilor sale.](/micrographics/liquidity-vs-solvency-01/ro.md)
 
 ---
 
@@ -255,6 +262,7 @@ Expansiunea monetară și a creditului poate contribui la inflație, alături de
 ---
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Cu aceleași 100 de unități monetare puteți cumpăra întregul coș de bunuri de bază când acesta costă 100, dar nu și când același coș costă 110. Nivelul prețurilor a crescut, iar puterea de cumpărare a banilor a scăzut.](/micrographics/same-money-smaller-basket-01/ro.md)
 
 ---
 
@@ -308,7 +316,8 @@ O CBDC reprezintă bani fiat digitali emiși ca pasiv al băncii centrale: o cre
 Modelele diferă. Caracterul digital nu implică automat descentralizare, raritate, confidențialitate sau posibilitatea verificării independente.
 
 
-> **Callout – Verificați**
+<!-- card: callout -->
+> **Verificați**
 >
 > Cine o emite, cine o poate folosi, ce date sunt colectate și cine poate bloca plățile sau modifica regulile? Ce se întâmplă în lipsa unei conexiuni la internet și ce protecții legale există?
 
@@ -327,7 +336,8 @@ Modelele diferă. Caracterul digital nu implică automat descentralizare, rarita
 Ce face ca banii dumneavoastră să fie utili și ce reguli depind de instituțiile în care aveți încredere?
 
 
-> **Callout – Un moment de reflecție**
+<!-- card: callout -->
+> **Un moment de reflecție**
 >
 > Care este o întrebare despre bani pe care v-o puneți acum, dar pe care nu v-ați pus-o înainte?
 
@@ -357,6 +367,7 @@ Bitcoin reduce încrederea necesară într-o autoritate centrală pentru emitere
 ---
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[În cazul unei companii de plăți, o singură organizație ține registrul și aprobă fiecare transfer. În cazul Bitcoin, expeditorul semnează o tranzacție, nodurile independente o verifică, iar minerii o adaugă într-un registru comun, astfel încât destinatarul depinde mai puțin de o autoritate centrală.](/micrographics/central-ledger-vs-bitcoin-01/ro.md)
 
 ---
 
@@ -393,6 +404,7 @@ Dubla cheltuire este o încercare de a trimite aceeași unitate digitală către
 ---
 
 <!-- micrographic: five-part-response-01 -->
+[Cinci componente se îmbină pentru a rezolva problema dublei cheltuiri: o rețea peer-to-peer, semnături digitale, blocuri și minerit, verificare independentă și un istoric comun cu cea mai mare cantitate de muncă acumulată demonstrată prin dovada muncii. Împreună, acestea permit rețelei să respingă o a doua cheltuire fără o autoritate centrală.](/micrographics/five-part-response-01/ro.md)
 
 ---
 
@@ -411,6 +423,7 @@ O afirmație scrisă privind oferta monetară nu este suficientă: cine o poate 
 ---
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[O limită a ofertei monetare înscrisă pe un site sau în baza de date a unui emitent poate fi modificată de acesta fără ca nimeni să observe. Regula privind oferta monetară a Bitcoin este publică, iar semnăturile, istoricul public, dovada muncii și verificarea de către noduri împiedică împreună crearea neautorizată de monede noi sau cheltuirea aceluiași bitcoin de două ori.](/micrographics/claimed-or-verified-supply-01/ro.md)
 
 ---
 
@@ -452,12 +465,14 @@ Serviciile intermediarilor rămân opționale; alegerea unui astfel de serviciu 
 ---
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[Un expeditor semnează o tranzacție și o difuzează către numeroase noduri ale rețelei, care o retransmit până când ajunge la destinatar. Nu este necesar ca un operator central al rețelei Bitcoin să aprobe expeditorul sau destinatarul.](/micrographics/peer-to-peer-route-01/ro.md)
 
 ---
 
 ![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Patru roluri în Bitcoin: utilizatorii primesc, dețin și trimit bitcoin, nodurile verifică în mod independent respectarea regulilor, minerii construiesc blocuri candidate folosind dovada muncii, iar dezvoltatorii propun software. Niciun rol nu controlează singur rețeaua.](/micrographics/bitcoin-participant-roles-01/ro.md)
 
 ---
 
@@ -466,7 +481,8 @@ Serviciile intermediarilor rămân opționale; alegerea unui astfel de serviciu 
 Minerii nu pot face ca blocurile nevalide să fie acceptate de nodurile oneste. Dezvoltatorii nu pot impune adoptarea software-ului. O persoană poate îndeplini mai multe roluri.
 
 
-> **Callout – Întrebare de verificare**
+<!-- card: callout -->
+> **Întrebare de verificare**
 >
 > De ce verifică un nod tranzacțiile? Numiți o regulă pe care o verifică.
 
@@ -489,6 +505,7 @@ Mineritul securizează ordonarea tranzacțiilor; nu rezolvă ecuații externe. E
 ![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Un miner calculează în mod repetat hashul unui bloc propus până când un rezultat este sub ținta rețelei, apoi difuzează blocul. Nodurile verifică rapid dovada și respectarea fiecărei reguli înainte ca blocul să fie inclus în blockchain: munca este costisitoare de realizat și ușor de verificat.](/micrographics/proof-of-work-process-01/ro.md)
 
 ---
 
@@ -509,10 +526,12 @@ Nodurile resping emisiunea în exces; limita se menține atât timp cât partici
 ---
 
 <!-- micrographic: bitcoin-issuance-supply-01 -->
+[Subvenția per bloc începe de la 50 bitcoin și se înjumătățește la fiecare 210.000 de blocuri, în timp ce totalul de bitcoin emiși crește spre limita de 21 de milioane. Comisioanele de tranzacție se plătesc suplimentar și nu reprezintă bitcoin noi; nu este sugerată nicio prognoză de preț.](/micrographics/bitcoin-issuance-supply-01/ro.md)
 
 ---
 
 <!-- micrographic: bitcoin-issuance-subsidy-01 -->
+[Subvenția per bloc începe de la 50 bitcoin și se înjumătățește la fiecare 210.000 de blocuri, în timp ce totalul de bitcoin emiși crește spre limita de 21 de milioane. Comisioanele de tranzacție se plătesc suplimentar și nu reprezintă bitcoin noi; nu este sugerată nicio prognoză de preț.](/micrographics/bitcoin-issuance-subsidy-01/ro.md)
 
 ---
 
@@ -528,7 +547,8 @@ Nodurile resping emisiunea în exces; limita se menține atât timp cât partici
 **Biasul de unitate:** un preț mic pe unitate întreagă nu dovedește o valoare mai bună. Comparați ponderea în oferta totală, valoarea implicată și riscurile.
 
 
-> **Callout – Demonstrați că ați înțeles**
+<!-- card: callout -->
+> **Demonstrați că ați înțeles**
 >
 > Câți sats sunt în 0,01 BTC? De ce poate cineva să folosească mai puțin de un bitcoin întreg?
 
@@ -586,7 +606,8 @@ Un simbol bursier familiar, un preț aparent stabil sau o aplicație bine finisa
 * Nicio recomandare de a cumpăra, a vinde sau a păstra
 
 
-> **Callout – Verificarea valorii locale**
+<!-- card: callout -->
+> **Verificarea valorii locale**
 >
 > Distingeți între prețul de piață, acceptarea la nivel local și preferințele sau prejudecățile personale.
 
@@ -601,6 +622,7 @@ Evaluați modul în care este concepută și funcționează rețeaua, precum și
 ---
 
 <!-- micrographic: bitcoin-origin-timeline-01 -->
+[Originea Bitcoin în patru evenimente datate: pe 31 octombrie 2008, Satoshi Nakamoto a publicat cartea albă, descriind plăți online directe, fără un intermediar financiar; pe 3 ianuarie 2009, blocul de geneză a lansat rețeaua Bitcoin, incluzând un titlu de presă despre salvarea băncilor; pe 12 ianuarie 2009, Satoshi i-a trimis bitcoin lui Hal Finney în prima tranzacție înregistrată de la persoană la persoană; pe 22 mai 2010, un utilizator a plătit 10.000 BTC pentru două pizza, eveniment sărbătorit astăzi ca Ziua Bitcoin Pizza.](/micrographics/bitcoin-origin-timeline-01/ro.md)
 
 ---
 
@@ -629,7 +651,8 @@ Responsabilitatea personală poate include educație, evaluare de către colegi,
 * Ordonarea tranzacțiilor → Dovada Muncii; costuri cu echipamentele și energia
 
 
-> **Callout – Un moment de reflecție**
+<!-- card: callout -->
+> **Un moment de reflecție**
 >
 > Ce aspect al modului în care este conceput Bitcoin ați explica diferit acum și de ce?
 
@@ -674,6 +697,7 @@ Portofelele de instruire nu trebuie folosite pentru păstrarea unor sume semnifi
 ---
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Un portofel păstrează cheile. Cu ajutorul lor puteți primi și trimite bitcoin, în timp ce monedele bitcoin în sine rămân înregistrate în registrul comun, nu în telefon sau pe dispozitiv.](/micrographics/wallet-manages-keys-01/ro.md)
 
 ---
 
@@ -699,13 +723,15 @@ Programele malware pot înlocui destinațiile copiate. Aspectul familiar nu este
 Nu divulgați niciodată chei private, fraze de recuperare, parole sau coduri de recuperare. Niciun cadru didactic, angajat de asistență, furnizor de portofele, angajat al unei platforme de schimb sau dezvoltator care acționează în mod legitim nu are nevoie de ele.
 
 
-> **Callout – Încercați**
+<!-- card: callout -->
+> **Încercați**
 >
 > Clasificați exemplele pregătite în informații pentru primirea fondurilor, secrete și informații publice care devin sensibile atunci când sunt asociate cu o persoană.
 
 ---
 
 <!-- micrographic: private-key-public-info-01 -->
+[Dintr-o cheie privată secretă, care nu trebuie divulgată niciodată, se obțin informații publice care pot fi partajate: o cheie publică derivată din aceasta și o adresă de primire creată pe baza cheii publice. Aceeași cheie privată creează semnături pe care nodurile le verifică fără a afla vreodată cheia privată.](/micrographics/private-key-public-info-01/ro.md)
 
 ---
 
@@ -738,7 +764,8 @@ Dacă este posibil ca fraza seed să fi fost văzută, copiată, introdusă onli
 Un blockchain public nu poate dovedi ce îi datorează un furnizor de servicii unui anumit client. Autocustodia poate implica în continuare dependențe de software, hardware, servere și rețele.
 
 
-> **Callout – Încercați**
+<!-- card: callout -->
+> **Încercați**
 >
 > Comparați două descrieri pregătite în prealabil: cine controlează cheile, cine restabilește accesul și ce risc trebuie verificat?
 
@@ -749,6 +776,7 @@ Un blockchain public nu poate dovedi ce îi datorează un furnizor de servicii u
 ---
 
 <!-- micrographic: who-controls-keys-01 -->
+[În cazul custodiei, un serviciu controlează cheile și aprobă cheltuirea fondurilor, astfel încât soldul reprezintă promisiunea sa. În cazul autocustodiei, utilizatorul controlează cheile și copiile de siguranță; ambele variante implică dependențe și riscuri de eșec.](/micrographics/who-controls-keys-01/ro.md)
 
 ---
 
@@ -776,6 +804,7 @@ Folosiți numai materiale pregătite, goale sau simulate. Nu dezvăluiți niciod
 ---
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[Un exercițiu în șase pași pentru recuperarea unui portofel de antrenament: urmați instrucțiunile oficiale, verificați compatibilitatea, lucrați în privat, folosiți metoda de recuperare aprobată, confirmați portofelul așteptat, apoi resetați. Folosiți doar materiale pregătite, goale sau simulate, iar cadrul didactic nu vede niciodată cuvintele de recuperare.](/micrographics/practice-wallet-recovery-01/ro.md)
 
 ---
 
@@ -804,6 +833,7 @@ Aprobați numai dacă toate verificările confirmă că datele corespund. Dacă 
 ---
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Înainte de a aproba o plată, expeditorul verifică destinatarul și scopul, metoda de plată, destinația, precum și suma, unitatea, comisionul sau termenul de expirare, efectuând un test cu o sumă mică atunci când procesul îi este necunoscut. Dacă ceva diferă, se oprește și verifică; aprobă numai când toate datele corespund, apoi verifică rezultatul.](/micrographics/pre-send-checklist-01/ro.md)
 
 ---
 
@@ -823,6 +853,7 @@ Folosiți exemple pregătite în prealabil; nu căutați adresa personală sau t
 ---
 
 <!-- micrographic: confirmation-timeline-01 -->
+[O tranzacție așteaptă neconfirmată în grupul de tranzacții în așteptare, apoi este inclusă în Blocul N, primind astfel prima confirmare, iar fiecare bloc ulterior adaugă încă una.](/micrographics/confirmation-timeline-01/ro.md)
 
 ---
 
@@ -835,7 +866,8 @@ Folosiți exemple pregătite în prealabil; nu căutați adresa personală sau t
 **Opriți-vă. Nu divulgați nimic. Nu trimiteți nimic. Închideți canalul de comunicare. Verificați independent. Cereți ajutor fără a dezvălui secrete.**
 
 
-> **Callout – Încercați**
+<!-- card: callout -->
+> **Încercați**
 >
 > Identificați semnalul de alarmă dintr-un mesaj pregătit în prealabil, posibila pierdere și prima acțiune sigură.
 
@@ -844,6 +876,7 @@ Folosiți exemple pregătite în prealabil; nu căutați adresa personală sau t
 ---
 
 <!-- micrographic: scam-red-flags-01 -->
+[Cinci semnale de alarmă ale unei escrocherii: urgență, uzurparea identității, o destinație modificată, câștiguri garantate și solicitări de informații secrete.](/micrographics/scam-red-flags-01/ro.md)
 
 ---
 
@@ -860,10 +893,12 @@ Nicio metodă sau niciun furnizor nu reprezintă automat cea mai bună alegere. 
 ---
 
 <!-- micrographic: ways-to-receive-bitcoin-01 -->
+[O persoană poate primi bitcoin în patru moduri diferite: câștigând bitcoin prin muncă sau vânzări, schimbând numerar în moneda locală cu o altă persoană, folosind o platformă de schimb sau un broker ori folosind un bancomat. Fiecare cale duce la autocustodie sau la un sold în custodie și niciuna nu este recomandată în detrimentul celorlalte.](/micrographics/ways-to-receive-bitcoin-01/ro.md)
 
 ---
 
 <!-- micrographic: exchange-risk-questions-01 -->
+[Șase domenii de risc de verificat înainte de a achiziționa sau a schimba bitcoin, fiecare însoțit de o întrebare de pus: costuri, custodie, identitate și confidențialitate, retragere și decontare, contraparte și siguranță și context local.](/micrographics/exchange-risk-questions-01/ro.md)
 
 ---
 
@@ -909,7 +944,8 @@ Utilizați mediul de instruire convenit. Opriți-vă dacă apare o neconcordanț
 Un prieten trimite o solicitare, în timp ce un serviciu de asistență necunoscut vă cere să acționați imediat. Ce ați putea verifica înainte de a face ceva?
 
 
-> **Callout – Un moment de reflecție**
+<!-- card: callout -->
+> **Un moment de reflecție**
 >
 > Ce verificare de siguranță vă veți opri să faceți înainte de a acționa?
 
@@ -928,6 +964,7 @@ Un prieten trimite o solicitare, în timp ce un serviciu de asistență necunosc
 ## Modulul dumneavoastră local 4
 
 <!-- micrographic: local-module-four-actions-01 -->
+[În modulul 4, adaptat contextului local, cursantul parcurge patru acțiuni: corelează o idee din modulele 1–3 cu o nevoie locală, compară Bitcoin cu o alternativă existentă realistă, exersează în siguranță sub îndrumare și explică ce a învățat și care ar fi un pas următor responsabil. Cadrul didactic și, uneori, un expert local îl îndrumă pe tot parcursul.](/micrographics/local-module-four-actions-01/ro.md)
 
 
 Notați aspectele locale pe care vă concentrați: problema sau oportunitatea, alternativa, scenariul sigur, principalul beneficiu și principalul risc, precum și următorul pas sigur.
@@ -979,10 +1016,12 @@ O plată mică efectuată cu succes nu dovedește siguranța în cazul unor sold
 ---
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[Beneficiarul creează pe telefonul său o cerere de plată Lightning cu suma inclusă, expeditorul o scanează și plătește, iar plata ajunge pe telefonul beneficiarului câteva clipe mai târziu.](/micrographics/lightning-phone-payment-01/ro.md)
 
 ---
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[O plată Lightning în șase pași: destinatarul creează o cerere, expeditorul o scanează, verifică destinatarul, suma, unitatea, termenul de expirare și comisionul, apoi aprobă plata, plata este direcționată, iar ambele portofele afișează rezultatul. Fiecare portofel poate fi cu custodie sau cu autocustodie, iar o plată eșuată sau expirată se reia cu o nouă cerere.](/micrographics/lightning-payment-sequence-01/ro.md)
 
 ---
 
@@ -1034,6 +1073,7 @@ Selectați sau adaptați scenariile din ghid la sarcina locală. Formulați ceri
 ---
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[O plată într-o cafenea în patru pași: clientul comandă, ospătarul trimite o factură, clientul plătește în bitcoin de pe telefon, iar ospătarul îi servește cafeaua.](/micrographics/coffee-shop-payment-01/ro.md)
 
 ---
 
@@ -1094,6 +1134,7 @@ Cifrele privind adopția nu dovedesc, prin ele însele, utilitatea. Cererea scă
 ---
 
 <!-- micrographic: local-circular-economy-01 -->
+[Într-o economie circulară Bitcoin, bitcoin trece de la o persoană la alta în schimbul bunurilor, serviciilor și timpului. Un client plătește un comerciant, comerciantul plătește un prestator de servicii, prestatorul de servicii plătește un lucrător, iar lucrătorul cheltuiește din nou acei bitcoin în calitate de client.](/micrographics/local-circular-economy-01/ro.md)
 
 ---
 
@@ -1151,6 +1192,7 @@ Completați individual, apoi comparați raționamentul cu cel al grupului dumnea
 * Participarea utilă în comunitate este voluntară și protejează oamenii
 
 
-> **Callout – Un moment de reflecție**
+<!-- card: callout -->
+> **Un moment de reflecție**
 >
 > Ce întrebare ați pune înainte de a decide dacă o soluție bazată pe Bitcoin răspunde unei nevoi locale?

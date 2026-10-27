@@ -14,3 +14,4 @@ Po pierwszej odpowiedzi proszę zmienić jeden warunek. Na przykład: przestaje 
 
 
 <!-- micrographic: scenario-analysis-path-01 -->
+[Fikcyjny scenariusz prowadzi od celu danej osoby i zweryfikowanych faktów do ustalenia, kto sprawuje kontrolę, jakie są możliwości, co może pójść nie tak i jaki jest najmniejszy bezpieczny następny krok. Zmiana jednego warunku kieruje tok rozumowania z powrotem do decyzji, na którą ten warunek wpływa.](/micrographics/scenario-analysis-path-01/pl.md)

@@ -35,6 +35,7 @@ Scelga un percorso pratico che risulti sicuro e gestibile per i discenti. Annoti
 
 
 <!-- micrographic: cohort-capacity-check-01 -->
+[Per pianificare un gruppo, moltiplichi il numero di partecipanti per il tempo di supporto e osservazione previsto, poi aggiunga tempo per la preparazione, il feedback, le esigenze di accessibilità e le rivalutazioni. Se gli educatori non hanno tempo a sufficienza, modifichi il piano: meno partecipanti, più educatori o più tempo.](/micrographics/cohort-capacity-check-01/it.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
@@ -57,6 +58,7 @@ Scelga un percorso pratico che risulti sicuro e gestibile per i discenti. Annoti
 
 
 <!-- micrographic: task-competency-map-01 -->
+[Le interazioni teoriche da T1 a T3 forniscono evidenze per le competenze da C1 a C5, mentre i percorsi pratici P6a, P6b e P7 forniscono evidenze per C6 e C7. Ciascuna competenza riceve poi un unico risultato: Sì o Non ancora.](/micrographics/task-competency-map-01/it.md)
 
 
 ### Regole comuni su supporto, sicurezza e registrazione
@@ -65,10 +67,12 @@ Scelga un percorso pratico che risulti sicuro e gestibile per i discenti. Annoti
 
 
 <!-- micrographic: support-boundary-01 -->
+[Un educatore può fornire la preparazione e il supporto all'accesso consentiti e interrompere azioni non sicure. Il discente deve comunque fornire la spiegazione oggetto di valutazione, selezionare i dettagli pertinenti ed eseguire o indicare le decisioni richieste.](/micrographics/support-boundary-01/it.md)
 
 
 
-> **Callout – Errori pratici critici per la sicurezza**
+<!-- card: callout -->
+> **Errori pratici critici per la sicurezza**
 >
 > Registri e sospenda l'attività se il discente rivela o tenta di condividere una [seed phrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), [chiave privata](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), password o informazioni personali non necessarie; procede nonostante una discrepanza nota di indirizzo, fattura, importo o destinatario; accetta una truffa evidente o una richiesta urgente e segreta; oppure salta un passaggio di verifica obbligatorio. Spieghi il motivo con gentilezza, torni a un ambiente sicuro, faccia esercitare il discente e rivaluti in seguito. Il discente sta sviluppando la competenza. I materiali formativi predisposti sono la scelta predefinita; se un educatore sceglie un'attività reale a basso rischio, ne chiarisca i rischi e fornisca un equivalente senza fondi.
 
@@ -181,3 +185,4 @@ Utilizzi gli esempi e i materiali delle attività adatti al Suo gruppo. Prima de
 
 
 <!-- micrographic: reassessment-calibration-moderation-01 -->
+[Tre processi distinti si svolgono in parallelo. Gli studenti con «Non ancora» ricevono un feedback privato, si esercitano e forniscono nuove evidenze; i valutatori si calibrano valutando gli esempi in modo indipendente e concordando un'interpretazione; gli educatori possono richiedere una seconda revisione, che non sostituisce mai la prestazione osservata.](/micrographics/reassessment-calibration-moderation-01/it.md)

@@ -3,6 +3,7 @@
 Kiekviena [centralizuota sistema](https://curriculum.myfirstbitcoin.org/lexicon/en/#centralized-system) turi valdymo centrą. Bankas kontroliuoja savo klientų [apskaitos registrą](https://curriculum.myfirstbitcoin.org/lexicon/en/#ledger). Mokėjimų bendrovė kontroliuoja savo tinklą. Valdžia kontroliuoja emisijos taisykles, taikomas jos [valiutai](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency).
 
 
+<!-- card: definition -->
 > **Definition – Decentralizacija**
 >
 > Kiekviena [decentralizuota sistema](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralized-system) paskirsto vaidmenis ir sprendimų vykdymą daugeliui nepriklausomų dalyvių. Bitcoin neturi centrinės įstaigos, kuri galėtų kurti paskyras, keisti sąskaitų likučius ar tvirtinti narystę.
@@ -22,6 +23,7 @@ Bitcoin [decentralizaciją](https://curriculum.myfirstbitcoin.org/lexicon/en/#de
 
 
 <!-- micrographic: powers-and-limits-01 -->
+[Naudotojai, mazgai, kasėjai, programuotojai ir paslaugos turi tam tikrą įtaką bendroms „Bitcoin“ taisyklėms ir viešajam registrui, tačiau nė vieni negali vieni patys pakeisti registro ar visiems galiojančių taisyklių.](/micrographics/powers-and-limits-01/lt.md)
 
 
 [Decentralizacija](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) taip pat turi savo kainą. Veiksmų derinimas gali užtrukti ilgiau. Naudotojai turi tikrinti informaciją ir prisiimti daugiau atsakomybės. Nėra centrinės pagalbos tarnybos, skirtos [Bitcoin tinklui](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). Šie [kompromisai](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) yra sistemos sandaros dalis, o ne atsitiktiniai trūkumai, kuriuos galima pašalinti nepakeitus pačios sistemos.

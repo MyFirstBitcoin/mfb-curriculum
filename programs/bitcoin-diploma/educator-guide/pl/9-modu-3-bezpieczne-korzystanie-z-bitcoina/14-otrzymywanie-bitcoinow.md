@@ -16,6 +16,7 @@ Proszę wyjaśnić, że wiadomość lub zrzut ekranu z napisem „wysłano” ni
 
 
 <!-- micrographic: check-what-you-receive-01 -->
+[Przykładowy ekran odbierania płatności na telefonie pokazuje metodę płatności, żądanie płatności do udostępnienia, kwotę i status oczekujący. Wiadomość lub zrzut ekranu z napisem "wysłano" nie jest dowodem: proszę sprawdzić status we własnym portfelu.](/micrographics/check-what-you-receive-01/pl.md)
 
 
 #### Ćwiczenie: omówienie ekranu odbierania krok po kroku

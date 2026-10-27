@@ -3,6 +3,7 @@
 A Bitcoin szabályai kiszámítható [kibocsátási ütemtervet](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuance-schedule) és [maximális készletet](https://curriculum.myfirstbitcoin.org/lexicon/en/#maximum-supply) határoznak meg: 21 millió bitcoin (21 000 000 BTC). Az új bitcoinok a [blokktámogatás](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-subsidy) révén kerülnek forgalomba, amelyet a [bányászoknak](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) fizetnek az érvényes blokkok létrehozásáért.
 
 
+<!-- card: definition -->
 > **Definition – Felezés**
 >
 > A támogatás 210 000 blokkonként a felére csökken. Ennek az eseménynek a neve: [felezés](https://curriculum.myfirstbitcoin.org/lexicon/en/#halving). Mivel átlagosan körülbelül tízpercenként jön létre egy blokk, a [felezés](https://curriculum.myfirstbitcoin.org/lexicon/en/#halving) nagyjából négyévente következik be. A pontos naptári dátum nincs előre rögzítve.
@@ -22,12 +23,14 @@ A támogatás kezdetben blokkonként 50 BTC volt. Újra és újra a felére csö
 
 
 <!-- micrographic: bitcoin-issuance-schedule-01 -->
+[A blokktámogatás kezdetben 50 bitcoin, és 210 000 blokkonként feleződik, miközben az összes kibocsátott bitcoin mennyisége a 21 milliós korlát felé közelít. A tranzakciós díjakat ezen felül fizetik, és ezek nem új bitcoinok; az ábra nem sugall árfolyam-előrejelzést.](/micrographics/bitcoin-issuance-schedule-01/hu.md)
 
 
 A 21 milliós korlát betartását biztosítják a [csomópontok](https://curriculum.myfirstbitcoin.org/lexicon/en/#node). Ha egy [bányász](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) több bitcoint hoz létre, mint amennyit a szabályok megengednek, az [ellenőrző csomópontok](https://curriculum.myfirstbitcoin.org/lexicon/en/#full-node) elutasítják a blokkot. Egy szoftverfejlesztő írhat eltérő kódot, de nem kényszeríthet másokat annak futtatására.
 
 
-> **Dark – A rögzített kínálat hálózati szabály, nem árfolyamígéret**
+<!-- card: dark -->
+> **A rögzített kínálat hálózati szabály, nem árfolyamígéret**
 >
 > A Bitcoin kínálati szabálya nyilvános, függetlenül ellenőrizhető, és egyetlen szereplő nehezen tudja megváltoztatni, mert [az érvényesítő csomópontok](https://curriculum.myfirstbitcoin.org/lexicon/en/#full-node) érvényesítik. Ez nem fizikai törvény: addig marad érvényben, amíg a résztvevők továbbra is érvényesítik. A korlátozott kínálat nem garantál emelkedő piaci [árat](https://curriculum.myfirstbitcoin.org/lexicon/en/#price); [az ár](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) a kereslettől is függ.
 >
@@ -37,8 +40,7 @@ A 21 milliós korlát betartását biztosítják a [csomópontok](https://curric
 **Ellenőrző kérdés:** Milyen előnyei vannak annak, hogy a Bitcoin kínálata korlátozott? Milyen hatással lenne a Bitcoin kínálatának növelése a [vásárlóerőre](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power)? Ki utasítaná el a kínálat növelését?
 
 
-> **Light**
->
+<!-- card: light -->
 > A véges kínálat azt sem jelenti, hogy minden bitcoin eladó; egyes bitcoinokat hosszú távon tarthatnak, mások pedig hozzáférhetetlenné válhatnak az elveszett kulcsok miatt.
 
 

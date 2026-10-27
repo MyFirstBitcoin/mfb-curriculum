@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: self-custody-responsibilities-01 -->
+[Kontrol over nøglerne står i centrum for otte ansvarsområder: sikkerhedskopiering, gendannelse, modtagelse, afsendelse, valg af værktøj, anskaffelsesmetode, privatliv og kontrol for svindel. Hvert område beskytter noget, og svigt på et hvilket som helst af dem kan koste adgang, penge eller privatliv.](/micrographics/self-custody-responsibilities-01/da.md)
 
 
 
 <!-- micrographic: responsibility-checks-01 -->
+[En tabel med seks opgaver ved selvopbevaring, hvad der skal beskyttes eller kontrolleres for hver af dem, og hvad der kan ske, hvis det går galt: sikkerhedskopi, modtagelse, afsendelse, opbevaring, valg af værktøj og anskaffelse.](/micrographics/responsibility-checks-01/da.md)
 
 
 Forestil Dem, at en ven sender Dem en betalingsanmodning, mens en ukendt supportkonto siger, at De skal handle med det samme. Hvad kunne De kontrollere, før De gør noget? Kan De beskytte en gendannelsesplan, skelne mellem modtagelsesoplysninger og hemmeligheder og kontrollere personen, betalingsmetoden, destinationen, beløbet og det sidste skærmbillede, før De sender? Uanset om en tjeneste eller De selv har kontrollen over nøglerne, er den praktiske opsummering den samme: Beskyt hemmeligheder, kontrollér før godkendelse, genkend tegn på svindel, og begræns konsekvenserne af fejl, mens De lærer.

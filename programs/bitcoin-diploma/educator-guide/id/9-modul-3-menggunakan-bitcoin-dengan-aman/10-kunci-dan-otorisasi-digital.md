@@ -17,3 +17,4 @@ Tidak ada pendidik, perusahaan dompet, karyawan bursa, pengembang, petugas dukun
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[Kunci privat rahasia, yang tidak boleh pernah dibagikan, menghasilkan informasi publik yang dapat dibagikan: kunci publik yang diturunkan darinya dan alamat penerimaan yang dibuat dari kunci publik tersebut. Kunci privat yang sama membuat tanda tangan yang diverifikasi oleh simpul tanpa pernah mengetahui kunci privat tersebut.](/micrographics/private-key-public-info-01/id.md)

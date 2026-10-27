@@ -13,10 +13,12 @@ Varmistakaa ja selittäkää ennen Lightning-työpajaa:
 * ilman verkkoyhteyttä tehtävä simulaatio.
 
 
-> **Dark – Yksi onnistunut Lightning-maksu osoittaa vain, että tämä reitti toimi kerran**
+<!-- card: dark -->
+> **Yksi onnistunut Lightning-maksu osoittaa vain, että tämä reitti toimi kerran**
 >
 > Se ei osoita, että lompakko soveltuu turvallisesti suurempien saldojen säilyttämiseen tai että sama reitti toimii kaikkialla.
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Lightning-maksu kuudessa vaiheessa: vastaanottaja luo maksupyynnön, lähettäjä skannaa sen, tarkistaa vastaanottajan, summan, yksikön, voimassaoloajan ja siirtomaksun sekä hyväksyy maksun, maksu reititetään ja molemmat lompakot näyttävät tuloksen. Kumpikin lompakko voi olla säilytyspalvelun hallinnoima tai itsehallinnoitu, ja epäonnistuneen tai vanhentuneen maksun jälkeen aloitetaan alusta uudella maksupyynnöllä.](/micrographics/lightning-payment-sequence-01/fi.md)

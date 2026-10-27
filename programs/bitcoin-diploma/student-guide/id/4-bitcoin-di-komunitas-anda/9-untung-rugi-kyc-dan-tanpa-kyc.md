@@ -3,7 +3,8 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) dan [non-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) merupakan jalur dengan berbagai [kelebihan dan kekurangan yang berbeda](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Kedua label tersebut tidak menghilangkan perlunya evaluasi yang cermat.
 
 
-> **Callout – Privasi tidak menghilangkan risiko hukum atau risiko terhadap keselamatan fisik**
+<!-- card: callout -->
+> **Privasi tidak menghilangkan risiko hukum atau risiko terhadap keselamatan fisik**
 >
 > Baik [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) maupun [non-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) tidak serta-merta menjadi pilihan terbaik. Bandingkan jalur yang sebenarnya, gunakan panduan setempat yang terkini ketika aturannya tidak jelas, dan jangan melanggar hukum setempat atau membahayakan keselamatan fisik Anda demi memperoleh [privasi](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 

@@ -7,8 +7,7 @@ Saat membandingkan [aset digital](https://curriculum.myfirstbitcoin.org/lexicon/
 Perbandingan di bawah ini membedakan kategori dan pilihan desain. Perbandingan ini bukan bentuk dukungan, rekomendasi, atau klaim bahwa suatu [aset](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) aman, andal, atau sesuai untuk Anda.
 
 
-> **Dark**
->
+<!-- card: dark -->
 > Penipuan, klaim yang menyesatkan, dan layanan yang tidak aman dapat memengaruhi [aset digital](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-asset) atau jalur pembayaran apa pun. Periksa secara spesifik [aset](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset), layanan, dan [kustodi](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) yang diterapkan, alih-alih menganggap bahwa suatu kategori dengan sendirinya aman atau tidak aman.
 
 

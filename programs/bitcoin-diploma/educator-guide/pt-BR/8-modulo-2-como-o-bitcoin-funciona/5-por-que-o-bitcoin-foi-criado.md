@@ -6,6 +6,7 @@ Um sistema central de pagamentos digitais pode manter um único [livro-razão](h
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Com uma empresa de pagamentos, uma única organização mantém o registro e aprova cada transferência. Com o Bitcoin, o remetente assina uma transação, nós independentes a verificam e mineradores a adicionam a um único registro compartilhado, de modo que o destinatário depende menos de uma autoridade central.](/micrographics/central-ledger-vs-bitcoin-01/pt-BR.md)
 
 
 Pergunte:

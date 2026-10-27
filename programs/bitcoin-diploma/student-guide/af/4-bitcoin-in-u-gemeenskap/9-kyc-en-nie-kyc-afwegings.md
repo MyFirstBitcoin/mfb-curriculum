@@ -3,7 +3,8 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) en [geen-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) benaderings behels verskillende [afwegings](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Nie een van hierdie etikette skakel die behoefte aan noukeurige evaluering uit nie.
 
 
-> **Callout – Privaatheid skakel nie regsrisiko’s of risiko’s vir fisieke veiligheid uit nie**
+<!-- card: callout -->
+> **Privaatheid skakel nie regsrisiko’s of risiko’s vir fisieke veiligheid uit nie**
 >
 > Nóg [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) nóg [geen-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) is outomaties die beste opsie. Vergelyk die werklike benadering, gebruik bygewerkte plaaslike riglyne wanneer die reëls onduidelik is, en vermy die oortreding van plaaslike wetgewing of blootstelling aan fisieke gevaar ter wille van [privaatheid](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 

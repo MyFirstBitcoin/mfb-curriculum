@@ -14,6 +14,7 @@ Als de gelijkwaardigheid onzeker is, gebruik de aanpassing dan om te oefenen en 
 
 
 <!-- micrographic: adapt-practice-or-assessment-01 -->
+[Oefenactiviteiten kunnen worden aangepast aan de lerenden en de context. Een activiteit die voor beoordeling wordt gebruikt, moet de competentie, het bewijs, de zelfstandigheid, de veiligheid en de minimumnorm behouden; als de gelijkwaardigheid onzeker is, gebruik de aanpassing dan voor oefening en kies een duidelijkere beoordelingstaak.](/micrographics/adapt-practice-or-assessment-01/nl.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/8444d4c2c23ce8cb5b0103bb646ce8c50c4594c3-1536x1024.svg)

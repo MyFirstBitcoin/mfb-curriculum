@@ -12,6 +12,7 @@ Undervis i konsekvenserne:
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[En seed phrase er en ordnet liste af ord, her tolv nummererede eksempelord skrevet på papir. De rigtige ord i den rigtige rækkefølge kan genoprette kontrollen i en kompatibel wallet, så listen holdes hemmelig og offline.](/micrographics/seed-phrase-on-paper-01/da.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
@@ -43,10 +44,12 @@ Undervis i konsekvenserne:
 
 
 <!-- micrographic: recovery-practice-lanes-01 -->
+[Kursisten følger trinnene i gendannelsesøvelsen i et privat område, kontrollerer det forventede resultat, rydder enheden og afleverer eller destruerer det fiktive materiale. Underviseren observerer beslutningerne og den sikre håndtering, men ser aldrig de hemmelige gendannelsesord.](/micrographics/recovery-practice-lanes-01/da.md)
 
 
 
-> **Callout – Betragt en afsløret seedfrase som kompromitteret**
+<!-- card: callout -->
+> **Betragt en afsløret seedfrase som kompromitteret**
 >
 > Hvis en rigtig seedfrase kan være blevet afsløret, skal De holde op med at bruge den som en sikker sikkerhedskopi, oprette en ny, betroet wallet med nye gendannelsesoplysninger og flytte midlerne efter omhyggeligt at have verificeret destinationen. Kursisten bør søge hjælp uden at afsløre nogen af fraserne.
 

@@ -28,6 +28,7 @@ My First Bitcoin은 2021년 John Dennehy가 설립한 비영리 교육 단체예
 
 
 <!-- micrographic: critical-thinking-loop-01 -->
+[반복해서 사용할 수 있는 비판적 사고의 순환 과정: 주장을 파악하고, 사실과 선호를 구분하고, 증거와 출처를 살펴보고, 대안을 비교하고, 트레이드오프나 불확실성을 짚어 본 뒤, 잠정적인 결론을 내리거나 질문을 세워요.](/micrographics/critical-thinking-loop-01/ko.md)
 
 
 **공동체**는 사람들이 아이디어를 함께 토론하고 이를 지역의 삶과 연결할 때 교육이 더 유용해진다는 것을 의미해요. 교육자와 동료 학습자들은 어떤 세계적인 책에도 담을 수 없는 경험을 가지고 있을 수 있어요. 주의 깊게 듣고, 질문하고, 존중하는 태도로 자신의 생각을 설명해 주세요.
@@ -75,7 +76,8 @@ My First Bitcoin은 2021년 John Dennehy가 설립한 비영리 교육 단체예
 * 더 심화된 학습 준비하기
 
 
-> **Callout – 행동보다 지식이 먼저예요**
+<!-- card: callout -->
+> **행동보다 지식이 먼저예요**
 >
 > 비트코인 디플로마를 이수하기 위해 비트코인을 구매하거나 다른 방법으로 얻을 필요는 없어요. 또한 [비트코인 지갑](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet)을 설치하거나 개인 자금을 사용할 필요도 없어요. 필요한 실무 능력은 미리 준비된 교육용 지갑, 시뮬레이션, 테스트 환경, 실물 모형 또는 교육자가 승인한 부담이 적은 활동으로 평가할 수 있어요.
 
@@ -84,3 +86,4 @@ My First Bitcoin은 2021년 John Dennehy가 설립한 비영리 교육 단체예
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[선택형 학습 여정은 비트코인 입문에서 시작해 비트코인 디플로마, 교육자 양성 프로그램을 거쳐 My First Bitcoin 커리큘럼으로 가르치는 교육자가 되고, 비트코인 교육 네트워크에 합류하는 것으로 이어져요. 각 다음 단계는 필수가 아니라 선택이에요.](/micrographics/learner-journey-pathway-01/ko.md)

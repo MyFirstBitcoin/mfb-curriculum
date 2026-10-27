@@ -6,11 +6,13 @@ Ko poslovna banka odobri posojilo, običajno ustvari novo vlogo na računu posoj
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Poenostavljen prikaz bančnega posojila: posojilojemalec zaprosi za posojilo, banka ga odobri in na njegov račun knjiži nov depozit, posojilojemalec pa pozneje banki odplača glavnico skupaj z obrestmi.](/micrographics/bank-loan-deposit-01/sl.md)
 
 
 Banke si na splošno prizadevajo za [dobiček](https://curriculum.myfirstbitcoin.org/lexicon/en/#bank-profit) s prihodki od obresti in provizij za posojila in naložbe, pri čemer pokrivajo stroške poslovanja, financiranja in izpolnjevanja regulativnih zahtev ter prevzemajo izgube, kadar posojilojemalci ne odplačajo posojil. Te dejavnosti in omejitve se razlikujejo glede na banko in jurisdikcijo.
 
 
+<!-- card: definition -->
 > **Definition – Bančništvo z delnimi rezervami**
 >
 > [Bančništvo z delnimi rezervami](https://curriculum.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking) opisuje bančništvo, pri katerem banke hranijo le del svojih obveznosti iz naslova vlog kot takoj dostopne rezerve, hkrati pa odobravajo posojila in imajo v lasti druga [sredstva](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset). Zahtevana raven rezerv in druge omejitve se med državami razlikujejo in se lahko sčasoma spremenijo.
@@ -23,6 +25,7 @@ To ustvarja dve pomembni tveganji:
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Likvidnostno tveganje: številni vlagatelji danes čakajo v vrsti za dvig denarja, banka pa trenutno nima dovolj gotovine, čeprav bodo njena posojila morda odplačana pozneje. Tveganje plačilne nesposobnosti: posojilojemalci ne odplačujejo stanovanjskih posojil, vrednost sredstev banke pa pade pod višino njenih obveznosti.](/micrographics/liquidity-vs-solvency-01/sl.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)

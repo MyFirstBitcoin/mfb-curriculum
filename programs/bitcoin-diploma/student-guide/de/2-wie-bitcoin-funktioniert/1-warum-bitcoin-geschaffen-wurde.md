@@ -10,6 +10,7 @@ Bitcoin wurde geschaffen, um dieses Problem mit einem [Peer-to-Peer (P2P)-Netzwe
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Bei einem Zahlungsdienstleister führt eine einzige Organisation das Kontobuch und genehmigt jede Überweisung. Bei Bitcoin signiert der Sender eine Transaktion, unabhängige Nodes prüfen sie und Miner fügen sie einem gemeinsamen Kontobuch hinzu, sodass der Empfänger weniger von einer zentralen Instanz abhängt.](/micrographics/central-ledger-vs-bitcoin-01/de.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)

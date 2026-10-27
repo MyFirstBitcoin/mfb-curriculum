@@ -10,6 +10,7 @@ Bitcoin vznikl, aby tento problém vyřešil pomocí [sítě typu peer-to-peer](
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[U platební společnosti vede účetní knihu a schvaluje každý převod jedna organizace. V síti Bitcoin odesílatel podepisuje transakci, nezávislé uzly ji ověřují a těžaři ji přidávají do jedné sdílené účetní knihy, takže příjemce méně závisí na centrální autoritě.](/micrographics/central-ledger-vs-bitcoin-01/cs.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)

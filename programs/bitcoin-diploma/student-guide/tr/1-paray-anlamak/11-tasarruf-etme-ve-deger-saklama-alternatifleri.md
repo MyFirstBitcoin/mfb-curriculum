@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: saving-alternatives-table-01 -->
+[Nakit tutmaya yönelik üç alternatifin (değerli metaller, gayrimenkul ve hisse senetleri) her birinin neden tercih edilebileceğini ve önemli ödünleşimlerini gösteren bir tablo. Hiçbiri diğerlerinden üstün tutulmamıştır.](/micrographics/saving-alternatives-table-01/tr.md)
 
 
 Bir [varlık](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset), bir kişinin sahip olabileceği veya üzerinde hak iddia edebileceği ve [değeri](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) olabilecek bir şeydir; paranın her işlevini kendiliğinden yerine getirmez. Bir ev [değer](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) saklayabilir, ancak yiyecek satın almak için pratik değildir. Bir hisse senedi bir ülkede kolayca satılabilir, ancak aracı kurum hesabı olmayan biri için erişilemez olabilir. [Altın](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) tarihin uzun dönemleri boyunca para işlevi görmüştür, ancak küçük bir alışverişte doğrulanması veya bölünmesi zor olabilir.

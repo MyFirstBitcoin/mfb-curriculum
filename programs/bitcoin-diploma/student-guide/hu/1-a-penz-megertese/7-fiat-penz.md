@@ -1,5 +1,6 @@
 # 1.7 Fiat pénz
 
+<!-- card: definition -->
 > **Definition – Fiat pénz**
 >
 > [A fiat pénz](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) olyan [pénz](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency), amelyet kormányzati felhatalmazás alapján, általában egy [központi bank](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) útján bocsátanak ki, és amely nem váltható be meghatározott mennyiségű árucikkre, például [aranyra](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold). A kormányok azzal támogatják — és bizonyos helyzetekben kötelezővé is teszik — a használatát, hogy az adókat ebben kell megfizetni, és szabályozzák a törvényes fizetőeszközként való elfogadását. A fizetések elfogadására és az [adósságok](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt) rendezésére vonatkozó pontos szabályok joghatóságonként eltérnek.
@@ -11,12 +12,14 @@ A fiat pénzrendszernek több fő szereplője van:
 
 
 <!-- micrographic: fiat-system-flows-01 -->
+[A fiatpénzrendszer szereplői és a köztük zajló folyamatok: a központi bank meghatározza a monetáris politikát és elszámolja a bankok közötti fizetéseket, a kereskedelmi bankok betéteket tartanak, amelyek az ügyfeleikkel szembeni kötelezettségeik, a pénzforgalmi szolgáltatások megbízásokat továbbítanak, az állam adókat szed be és kiadásokat teljesít, az állampolgárok és a vállalkozások pedig fizetnek és kifizetéseket kapnak.](/micrographics/fiat-system-flows-01/hu.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
-> **Light – Vizsgáljon meg egy helyi fizetést**
+<!-- card: light -->
+> **Vizsgáljon meg egy helyi fizetést**
 >
 > Válasszon egy hétköznapi fizetést a saját közösségéből, például utazás, élelmiszer vagy telefonegyenleg vásárlását, munkabér átvételét vagy egy számla kifizetését. Ha szeretné, egy életszerű, kitalált helyzetet is használhat. Három vagy négy mondatban fejtse ki:
 >

@@ -8,6 +8,7 @@ Peer-to-peer does not always mean that only two computers communicate directly. 
 
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[A sender signs a transaction and broadcasts it to many network nodes, which pass it along until it reaches the recipient. No central Bitcoin operator must approve the sender or the recipient.](/micrographics/peer-to-peer-route-01/en.md)
 
 
 Users can still choose [intermediaries](https://curriculum.myfirstbitcoin.org/lexicon/en/#intermediary). An exchange may hold bitcoin for customers. A payment service may simplify an invoice. A hosted wallet may manage keys. These services can be convenient, but the user then depends on the service's rules and security.

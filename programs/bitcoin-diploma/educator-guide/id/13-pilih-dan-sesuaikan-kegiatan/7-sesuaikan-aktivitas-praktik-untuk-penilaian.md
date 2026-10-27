@@ -14,6 +14,7 @@ Jika kesetaraannya belum dapat dipastikan, gunakan kegiatan yang telah disesuaik
 
 
 <!-- micrographic: adapt-practice-or-assessment-01 -->
+[Kegiatan latihan dapat disesuaikan dengan peserta didik dan konteksnya. Kegiatan yang digunakan untuk penilaian harus tetap mempertahankan kompetensi, bukti, kemandirian, keselamatan, dan standar minimum; jika kesetaraannya belum pasti, gunakan hasil penyesuaian tersebut untuk latihan dan pilih tugas penilaian yang lebih jelas.](/micrographics/adapt-practice-or-assessment-01/id.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/8444d4c2c23ce8cb5b0103bb646ce8c50c4594c3-1536x1024.svg)

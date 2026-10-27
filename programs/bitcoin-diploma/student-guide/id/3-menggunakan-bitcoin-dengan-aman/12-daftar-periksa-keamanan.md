@@ -6,6 +6,7 @@ Apa yang akan membuat Anda berhenti sebelum melakukan pembayaran atau instalasi?
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Lima tanda bahaya penipuan: desakan untuk segera bertindak, penyamaran identitas, perubahan tujuan pengiriman, jaminan imbal hasil, dan permintaan informasi rahasia.](/micrographics/scam-red-flags-01/id.md)
 
 
 Respons yang aman selalu sama: **Berhenti sejenak. Jangan bagikan apa pun. Jangan kirim apa pun. Tutup saluran komunikasi. Lakukan verifikasi secara mandiri melalui sumber yang dikenal. Mintalah bantuan tanpa mengungkapkan informasi rahasia.** Sumber yang dikenal adalah situs resmi, halaman aplikasi di toko aplikasi, atau metode kontak yang Anda temukan secara mandiri, bukan melalui iklan, pesan langsung, atau tautan yang tidak Anda duga. Periksa penerbit dan alamat situs web, bandingkan dengan dokumentasi resmi, dan cari detail kontak secara terpisah. Jika sumber, petunjuk, atau detail pembayaran berbeda dari proses yang telah diperagakan, berhentilah sejenak dan mintalah bantuan kepada pendidik Anda atau layanan dukungan setempat yang tepercaya tanpa mengungkapkan [frasa pemulihan](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) atau [kunci privat](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key). Peluang yang nyata tetap ada setelah pemeriksaan yang cermat; penipuan sering kali bergantung pada upaya mencegah pemeriksaan tersebut.

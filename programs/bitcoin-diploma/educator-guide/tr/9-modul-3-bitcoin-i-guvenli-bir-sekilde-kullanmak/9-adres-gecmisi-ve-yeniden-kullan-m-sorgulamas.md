@@ -29,3 +29,4 @@ Bu etkinlik, herkese açık defterdeki [gizliliği](https://curriculum.myfirstbi
 
 
 <!-- micrographic: address-reuse-linkage-01 -->
+[Birkaç kurgusal ödeme, yeniden kullanılan tek bir adresi paylaşır ve kolayca ilişkilendirilir. Yeni alıcı adresleri bu doğrudan bağlantıyı azaltır; ancak dış bilgiler ve blok gezgini aramaları yine de ilişkileri ortaya çıkarabilir. Herkese açık veriler ise tek başına bir kişinin kimliğini kanıtlamaz.](/micrographics/address-reuse-linkage-01/tr.md)

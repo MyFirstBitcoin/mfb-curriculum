@@ -75,7 +75,8 @@ Uang adalah aset yang diterima orang karena mereka berharap orang lain akan mene
 * Nilai lintas waktu dan jarak
 
 
-> **Callout – Pertanyaan singkat**
+<!-- card: callout -->
+> **Pertanyaan singkat**
 >
 > Masalah pertukaran atau koordinasi apa yang dapat dibantu penyelesaiannya oleh uang?
 
@@ -108,7 +109,8 @@ Satu bentuk uang mungkin menjalankan suatu fungsi lebih baik daripada bentuk lai
 Tidak ada bentuk uang yang mendapat nilai sempurna. “**Uang yang sehat**” merupakan suatu penilaian: nyatakan kriterianya dan bandingkan secara konsisten.
 
 
-> **Callout – Berpikirlah kritis**
+<!-- card: callout -->
+> **Berpikirlah kritis**
 >
 > Karakteristik apa yang penting ketika Anda memilih satu jenis uang atau aset dibandingkan yang lain?
 
@@ -152,6 +154,7 @@ Kelangkaan saja tidak menjamin nilai; permintaan juga penting.
 ---
 
 <!-- micrographic: same-water-different-value-01 -->
+[Sebotol air bersih yang sama berharga murah di lemari pendingin toko, tempat air mudah ditemukan, dan jauh lebih bernilai di gurun yang panas saat terjadi kelangkaan. Ketersediaan, kebutuhan, dan keadaan mengubah nilai dan harga.](/micrographics/same-water-different-value-01/id.md)
 
 ---
 
@@ -162,6 +165,7 @@ Kelangkaan saja tidak menjamin nilai; permintaan juga penting.
 ---
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Seorang pembeli dengan uang terbatas melihat pilihan di hadapannya: makanan untuk hari ini, transportasi, atau menabung untuk nanti. Memilih satu berarti mengorbankan pilihan lainnya, yang merupakan biaya peluang, dan tidak ada pilihan yang ditandai sebagai pilihan yang benar.](/micrographics/one-choice-two-uses-01/id.md)
 
 ---
 
@@ -195,6 +199,7 @@ Kemudahan pembayaran dan kredit yang fleksibel menimbulkan ketergantungan pada l
 ---
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Para pelaku dalam sistem fiat dan aliran di antara mereka: bank sentral menetapkan kebijakan dan menyelesaikan transaksi antarbank, bank umum menyimpan dana yang menjadi kewajiban mereka kepada nasabah, layanan pembayaran meneruskan instruksi, pemerintah memungut pajak dan membelanjakan dana, serta warga dan pelaku usaha melakukan dan menerima pembayaran.](/micrographics/fiat-system-flows-01/id.md)
 
 ---
 
@@ -230,10 +235,12 @@ Penarikan dana besar-besaran secara serentak dapat menghambat akses ke dana. Pen
 ---
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Proses pinjaman bank yang disederhanakan: peminjam mengajukan pinjaman, bank menyetujui pinjaman dan mengkreditkan simpanan baru ke rekening peminjam, lalu peminjam membayar kembali pokok pinjaman beserta bunga kepada bank.](/micrographics/bank-loan-deposit-01/id.md)
 
 ---
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Risiko likuiditas: banyak nasabah mengantre untuk menarik simpanan hari ini, dan bank tidak memiliki cukup uang tunai saat ini meskipun pinjaman yang diberikannya mungkin akan dilunasi nanti. Risiko solvabilitas: peminjam gagal membayar kredit rumah, dan nilai aset bank menjadi lebih rendah daripada kewajibannya.](/micrographics/liquidity-vs-solvency-01/id.md)
 
 ---
 
@@ -255,6 +262,7 @@ Ekspansi uang dan kredit dapat berkontribusi, bersama dengan faktor penawaran, p
 ---
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Dengan 100 unit uang yang sama, Anda dapat membeli seluruh isi keranjang kebutuhan pokok saat harganya 100, tetapi tidak saat harga keranjang yang sama menjadi 110. Tingkat harga telah naik dan daya beli uang telah turun.](/micrographics/same-money-smaller-basket-01/id.md)
 
 ---
 
@@ -308,7 +316,8 @@ CBDC adalah uang fiat digital yang diterbitkan sebagai kewajiban bank sentral: h
 Desainnya beragam. Digital tidak otomatis berarti terdesentralisasi, langka, privat, atau dapat diverifikasi secara independen.
 
 
-> **Callout – Periksa**
+<!-- card: callout -->
+> **Periksa**
 >
 > Siapa yang menerbitkannya, siapa yang dapat menggunakannya, data apa yang dikumpulkan, dan siapa yang dapat memblokir pembayaran atau mengubah aturan? Apa yang terjadi saat tidak terhubung ke internet, dan perlindungan hukum apa yang tersedia?
 
@@ -327,7 +336,8 @@ Desainnya beragam. Digital tidak otomatis berarti terdesentralisasi, langka, pri
 Apa yang membuat uang Anda berguna, dan aturan mana yang bergantung pada lembaga yang Anda percayai?
 
 
-> **Callout – Saat untuk merenung**
+<!-- card: callout -->
+> **Saat untuk merenung**
 >
 > Apa satu pertanyaan tentang uang yang kini Anda ajukan, tetapi belum pernah Anda ajukan sebelumnya?
 
@@ -357,6 +367,7 @@ Bitcoin mengurangi ketergantungan pada kepercayaan terhadap pihak terpusat dalam
 ---
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Pada perusahaan pembayaran, satu organisasi mengelola buku besar dan menyetujui setiap transfer. Pada Bitcoin, pengirim menandatangani transaksi, simpul-simpul independen memeriksanya, dan penambang menambahkannya ke satu buku besar bersama, sehingga penerima tidak terlalu bergantung pada otoritas pusat.](/micrographics/central-ledger-vs-bitcoin-01/id.md)
 
 ---
 
@@ -393,6 +404,7 @@ Pembelanjaan ganda adalah upaya untuk mengirim unit digital yang sama kepada dua
 ---
 
 <!-- micrographic: five-part-response-01 -->
+[Lima bagian berpadu untuk mengatasi masalah pembelanjaan ganda: jaringan antarrekan, tanda tangan digital, blok dan penambangan, verifikasi independen, serta riwayat bersama dengan akumulasi bukti kerja terbanyak. Bersama-sama, kelimanya memungkinkan jaringan menolak pembelanjaan kedua atas dana yang sama tanpa otoritas pusat.](/micrographics/five-part-response-01/id.md)
 
 ---
 
@@ -411,6 +423,7 @@ Klaim tertulis tentang pasokan saja tidak cukup: siapa yang dapat memverifikasin
 ---
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Batas pasokan yang tertulis di situs web atau dalam basis data penerbit dapat diubah secara diam-diam oleh penerbit tersebut. Aturan pasokan Bitcoin terbuka untuk umum, dan tanda tangan, riwayat yang terbuka untuk umum, bukti kerja, serta verifikasi oleh simpul bersama-sama mencegah penciptaan koin baru atau pembelanjaan bitcoin yang sama dua kali.](/micrographics/claimed-or-verified-supply-01/id.md)
 
 ---
 
@@ -452,12 +465,14 @@ Layanan perantara tetap bersifat opsional; memilih salah satunya berarti juga me
 ---
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[Pengirim menandatangani transaksi dan menyiarkannya ke banyak node jaringan, yang meneruskannya hingga sampai kepada penerima. Tidak ada operator pusat Bitcoin yang harus memberikan persetujuan kepada pengirim atau penerima.](/micrographics/peer-to-peer-route-01/id.md)
 
 ---
 
 ![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Empat peran dalam Bitcoin: pengguna menerima, menyimpan, dan mengirim bitcoin, simpul memverifikasi aturan secara mandiri, penambang menyusun calon blok dengan bukti kerja, dan pengembang mengusulkan perangkat lunak. Tidak ada satu peran pun yang mengendalikan jaringan.](/micrographics/bitcoin-participant-roles-01/id.md)
 
 ---
 
@@ -466,7 +481,8 @@ Layanan perantara tetap bersifat opsional; memilih salah satunya berarti juga me
 Penambang tidak dapat membuat blok yang tidak valid diterima oleh simpul yang jujur. Pengembang tidak dapat memaksakan adopsi perangkat lunak. Satu orang dapat menjalankan beberapa peran.
 
 
-> **Callout – Pertanyaan singkat**
+<!-- card: callout -->
+> **Pertanyaan singkat**
 >
 > Mengapa simpul memverifikasi transaksi? Sebutkan satu aturan yang diperiksanya.
 
@@ -489,6 +505,7 @@ Penambangan mengamankan urutan transaksi; bukan memecahkan persamaan di luar pro
 ![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Penambang menghitung hash dari blok yang diusulkan berulang kali hingga salah satu hasilnya berada di bawah target jaringan, lalu menyiarkan blok tersebut. Simpul memeriksa bukti dan kepatuhan terhadap setiap aturan dengan cepat sebelum blok masuk ke blockchain: menghasilkan bukti kerja membutuhkan biaya besar, tetapi memverifikasinya mudah.](/micrographics/proof-of-work-process-01/id.md)
 
 ---
 
@@ -509,10 +526,12 @@ Simpul menolak penerbitan berlebih; batas tersebut tetap berlaku selama para pes
 ---
 
 <!-- micrographic: bitcoin-issuance-supply-01 -->
+[Subsidi blok dimulai dari 50 bitcoin dan berkurang setengah setiap 210.000 blok, sementara total bitcoin yang diterbitkan terus meningkat mendekati batas 21 juta. Biaya transaksi dibayarkan sebagai tambahan dan bukan merupakan bitcoin baru; tidak ada prediksi harga yang tersirat.](/micrographics/bitcoin-issuance-supply-01/id.md)
 
 ---
 
 <!-- micrographic: bitcoin-issuance-subsidy-01 -->
+[Subsidi blok dimulai dari 50 bitcoin dan berkurang setengah setiap 210.000 blok, sementara total bitcoin yang diterbitkan terus meningkat mendekati batas 21 juta. Biaya transaksi dibayarkan sebagai tambahan dan bukan merupakan bitcoin baru; tidak ada prediksi harga yang tersirat.](/micrographics/bitcoin-issuance-subsidy-01/id.md)
 
 ---
 
@@ -528,7 +547,8 @@ Simpul menolak penerbitan berlebih; batas tersebut tetap berlaku selama para pes
 **Bias unit:** harga yang rendah per unit utuh tidak membuktikan nilai yang lebih baik. Bandingkan proporsi pasokan, nilai yang terlibat, dan risikonya.
 
 
-> **Callout – Tunjukkan pemahaman Anda**
+<!-- card: callout -->
+> **Tunjukkan pemahaman Anda**
 >
 > Berapa sats dalam 0,01 BTC? Mengapa seseorang dapat menggunakan kurang dari satu bitcoin utuh?
 
@@ -586,7 +606,8 @@ Simbol aset yang familier, harga yang tampak stabil, atau aplikasi yang dirancan
 * Tidak ada instruksi untuk membeli, menjual, atau menyimpan
 
 
-> **Callout – Pemeriksaan nilai lokal**
+<!-- card: callout -->
+> **Pemeriksaan nilai lokal**
 >
 > Bedakan harga pasar, penerimaan lokal, dan preferensi atau bias pribadi.
 
@@ -601,6 +622,7 @@ Evaluasilah desain dan cara kerjanya serta kisah asal-usulnya.
 ---
 
 <!-- micrographic: bitcoin-origin-timeline-01 -->
+[Asal-usul Bitcoin dalam empat peristiwa bertanggal: pada 31 Oktober 2008 Satoshi Nakamoto menerbitkan buku putih yang menjelaskan pembayaran daring langsung tanpa perantara keuangan; pada 3 Januari 2009 Blok Genesis memulai jaringan Bitcoin, dengan sebuah tajuk berita tentang dana talangan bank; pada 12 Januari 2009 Satoshi mengirim bitcoin kepada Hal Finney dalam transaksi antarindividu pertama yang tercatat; pada 22 Mei 2010 seorang pengguna membayar 10.000 BTC untuk dua piza, yang kini diperingati sebagai Hari Piza Bitcoin.](/micrographics/bitcoin-origin-timeline-01/id.md)
 
 ---
 
@@ -629,7 +651,8 @@ Tanggung jawab pribadi dapat mencakup edukasi, peninjauan oleh rekan, prosedur, 
 * Pengurutan transaksi → bukti kerja; biaya peralatan dan energi
 
 
-> **Callout – Saatnya merenung**
+<!-- card: callout -->
+> **Saatnya merenung**
 >
 > Bagian mana dari rancangan Bitcoin yang kini akan Anda jelaskan secara berbeda, dan mengapa?
 
@@ -674,6 +697,7 @@ Dompet latihan tidak boleh digunakan untuk menyimpan dana dalam jumlah yang bera
 ---
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Dompet menyimpan kunci. Dengan kunci tersebut, Anda dapat menerima dan mengirim bitcoin, sementara bitcoin itu sendiri tetap tercatat di buku besar bersama, bukan di dalam ponsel atau perangkat.](/micrographics/wallet-manages-keys-01/id.md)
 
 ---
 
@@ -699,13 +723,15 @@ Perangkat lunak berbahaya dapat mengganti tujuan pembayaran yang disalin. Tampil
 Jangan pernah membagikan kunci privat, frasa pemulihan, kata sandi, atau kode pemulihan. Tidak ada pendidik, petugas dukungan, perusahaan dompet, pegawai bursa, atau pengembang yang sah yang memerlukan informasi tersebut.
 
 
-> **Callout – Cobalah**
+<!-- card: callout -->
+> **Cobalah**
 >
 > Kelompokkan contoh-contoh yang telah disiapkan ke dalam kategori informasi untuk menerima pembayaran, rahasia, dan informasi publik yang menjadi sensitif ketika dikaitkan dengan seseorang.
 
 ---
 
 <!-- micrographic: private-key-public-info-01 -->
+[Kunci privat rahasia, yang tidak boleh pernah dibagikan, menghasilkan informasi publik yang dapat dibagikan: kunci publik yang diturunkan darinya dan alamat penerimaan yang dibuat dari kunci publik tersebut. Kunci privat yang sama membuat tanda tangan yang diverifikasi oleh simpul tanpa pernah mengetahui kunci privat tersebut.](/micrographics/private-key-public-info-01/id.md)
 
 ---
 
@@ -738,7 +764,8 @@ Jika frasa pemulihan mungkin telah dilihat, disalin, dimasukkan secara daring, a
 Blockchain publik tidak dapat membuktikan jumlah yang terutang oleh penyedia layanan kepada pelanggan tertentu. Kustodi mandiri tetap dapat melibatkan ketergantungan pada perangkat lunak, perangkat keras, server, dan jaringan.
 
 
-> **Callout – Cobalah**
+<!-- card: callout -->
+> **Cobalah**
 >
 > Bandingkan dua deskripsi yang telah disiapkan: siapa yang mengendalikan kunci, siapa yang memulihkan akses, dan risiko apa yang perlu diperiksa?
 
@@ -749,6 +776,7 @@ Blockchain publik tidak dapat membuktikan jumlah yang terutang oleh penyedia lay
 ---
 
 <!-- micrographic: who-controls-keys-01 -->
+[Dalam penggunaan kustodial, penyedia layanan mengendalikan kunci dan menyetujui pengeluaran, sehingga saldo merupakan janji dari penyedia layanan. Dalam penggunaan kustodi mandiri, pengguna mengendalikan kunci dan cadangan; kedua cara ini memiliki ketergantungan dan risiko kegagalan.](/micrographics/who-controls-keys-01/id.md)
 
 ---
 
@@ -776,6 +804,7 @@ Gunakan hanya materi yang telah disiapkan, kosong, atau berupa simulasi. Jangan 
 ---
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[Latihan enam langkah untuk memulihkan dompet latihan: ikuti petunjuk resmi, periksa kompatibilitas, bekerjalah secara privat, gunakan metode pemulihan yang disetujui, konfirmasikan dompet yang diharapkan, lalu atur ulang. Hanya gunakan materi yang telah disiapkan, kosong, atau berupa simulasi, dan pengajar tidak boleh melihat kata-kata pemulihan.](/micrographics/practice-wallet-recovery-01/id.md)
 
 ---
 
@@ -804,6 +833,7 @@ Setujui hanya jika semua hasil pemeriksaan sesuai. Jika detail berubah, muncul d
 ---
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Sebelum menyetujui pembayaran, pengirim memeriksa penerima dan tujuan pembayaran, metode pembayaran, tujuan pengiriman, serta jumlah, satuan, biaya atau batas waktu kedaluwarsa, dengan melakukan uji coba kecil jika belum terbiasa. Jika ada yang berbeda, pengirim berhenti dan melakukan verifikasi; pengirim hanya menyetujui jika semuanya sesuai, lalu memeriksa hasilnya.](/micrographics/pre-send-checklist-01/id.md)
 
 ---
 
@@ -823,6 +853,7 @@ Gunakan contoh yang telah disiapkan; jangan mencari alamat atau transaksi pribad
 ---
 
 <!-- micrographic: confirmation-timeline-01 -->
+[Sebuah transaksi menunggu tanpa konfirmasi di kumpulan transaksi tertunda, lalu dimasukkan ke dalam Blok N sebagai konfirmasi pertamanya, dan setiap blok berikutnya menambahkan satu konfirmasi lagi.](/micrographics/confirmation-timeline-01/id.md)
 
 ---
 
@@ -835,7 +866,8 @@ Gunakan contoh yang telah disiapkan; jangan mencari alamat atau transaksi pribad
 **Berhenti sejenak. Jangan bagikan apa pun. Jangan kirim apa pun. Tutup saluran komunikasi. Lakukan verifikasi secara mandiri. Mintalah bantuan tanpa mengungkapkan rahasia.**
 
 
-> **Callout – Cobalah**
+<!-- card: callout -->
+> **Cobalah**
 >
 > Identifikasi tanda peringatan, potensi kerugian, dan tindakan aman pertama dari pesan yang telah disiapkan.
 
@@ -844,6 +876,7 @@ Gunakan contoh yang telah disiapkan; jangan mencari alamat atau transaksi pribad
 ---
 
 <!-- micrographic: scam-red-flags-01 -->
+[Lima tanda bahaya penipuan: desakan untuk segera bertindak, penyamaran identitas, perubahan tujuan pengiriman, jaminan imbal hasil, dan permintaan informasi rahasia.](/micrographics/scam-red-flags-01/id.md)
 
 ---
 
@@ -860,10 +893,12 @@ Tidak ada jalur atau penyedia yang otomatis menjadi pilihan terbaik. **KYC** ber
 ---
 
 <!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Seseorang dapat menerima bitcoin melalui empat cara berbeda: memperolehnya dari pekerjaan atau penjualan, menukarkan uang tunai lokal dengan orang lain, menggunakan bursa atau pialang, atau menggunakan ATM. Setiap cara berakhir pada penyimpanan mandiri atau saldo kustodial, dan tidak ada cara yang lebih direkomendasikan daripada yang lain.](/micrographics/ways-to-receive-bitcoin-01/id.md)
 
 ---
 
 <!-- micrographic: exchange-risk-questions-01 -->
+[Enam aspek risiko yang perlu diperiksa sebelum memperoleh atau menukarkan bitcoin, masing-masing disertai pertanyaan yang perlu diajukan: biaya, kustodi, identitas dan privasi, penarikan dan penyelesaian transaksi, pihak lawan transaksi dan keamanan, serta konteks setempat.](/micrographics/exchange-risk-questions-01/id.md)
 
 ---
 
@@ -909,7 +944,8 @@ Gunakan lingkungan pelatihan yang telah disepakati. Hentikan sementara jika ada 
 Seorang teman mengirimkan permintaan sementara pihak dukungan yang tidak Anda kenal menuntut tindakan segera. Apa yang dapat Anda periksa sebelum melakukan apa pun?
 
 
-> **Callout – Saatnya merenung**
+<!-- card: callout -->
+> **Saatnya merenung**
 >
 > Pemeriksaan keamanan apa yang akan Anda lakukan dengan berhenti sejenak sebelum bertindak?
 
@@ -928,6 +964,7 @@ Seorang teman mengirimkan permintaan sementara pihak dukungan yang tidak Anda ke
 ## Modul Lokal 4 Anda
 
 <!-- micrographic: local-module-four-actions-01 -->
+[Dalam Modul 4 yang disesuaikan dengan konteks setempat, peserta didik menjalani empat tindakan: menghubungkan gagasan dari Modul 1 hingga 3 dengan kebutuhan setempat, membandingkan Bitcoin dengan pilihan realistis yang sudah tersedia, berlatih dengan aman melalui bimbingan, serta menjelaskan apa yang telah dipelajari dan langkah selanjutnya yang bertanggung jawab. Pendidik mereka, dan terkadang seorang ahli setempat, membimbing mereka sepanjang proses ini.](/micrographics/local-module-four-actions-01/id.md)
 
 
 Catat fokus Anda dalam konteks lokal: masalah atau peluang, alternatif, skenario yang aman, manfaat dan risiko utama, serta langkah selanjutnya yang aman.
@@ -979,10 +1016,12 @@ Keberhasilan pembayaran dalam jumlah kecil tidak membuktikan keamanan saldo yang
 ---
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[Penerima membuat permintaan pembayaran Lightning yang mencantumkan jumlahnya di ponselnya, pengirim memindainya lalu membayar, dan pembayaran diterima di ponsel penerima sesaat kemudian.](/micrographics/lightning-phone-payment-01/id.md)
 
 ---
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Pembayaran Lightning dalam enam langkah: penerima membuat permintaan, pengirim memindainya, memeriksa penerima, jumlah, satuan, waktu kedaluwarsa, dan biaya, lalu menyetujuinya, pembayaran dirutekan, dan kedua dompet menunjukkan hasilnya. Setiap dompet dapat bersifat kustodial atau kustodi mandiri, dan pembayaran yang gagal atau kedaluwarsa dimulai kembali dengan permintaan baru.](/micrographics/lightning-payment-sequence-01/id.md)
 
 ---
 
@@ -1034,6 +1073,7 @@ Pilih atau sesuaikan skenario dalam panduan dengan tugas setempat. Pastikan inst
 ---
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[Pembayaran di kedai kopi dalam empat langkah: pelanggan memesan, pelayan mengirimkan tagihan, pelanggan membayar dengan bitcoin melalui ponselnya, dan pelayan menyerahkan kopi.](/micrographics/coffee-shop-payment-01/id.md)
 
 ---
 
@@ -1094,6 +1134,7 @@ Angka adopsi saja tidak membuktikan kegunaan. Lemahnya permintaan, perangkat, ed
 ---
 
 <!-- micrographic: local-circular-economy-01 -->
+[Dalam ekonomi sirkular Bitcoin, bitcoin berpindah dari satu orang ke orang lain sebagai imbalan atas barang, jasa, dan waktu. Pelanggan membayar pedagang, pedagang membayar penyedia jasa, penyedia jasa membayar pekerja, dan pekerja membelanjakannya kembali sebagai pelanggan.](/micrographics/local-circular-economy-01/id.md)
 
 ---
 
@@ -1151,6 +1192,7 @@ Kerjakan secara individu, lalu bandingkan penalaran Anda dengan kelompok Anda.
 * Partisipasi komunitas yang bermanfaat bersifat sukarela dan melindungi semua orang
 
 
-> **Callout – Saatnya berefleksi**
+<!-- card: callout -->
+> **Saatnya berefleksi**
 >
 > Pertanyaan apa yang akan Anda ajukan sebelum memutuskan apakah solusi berbasis Bitcoin sesuai dengan kebutuhan lokal?

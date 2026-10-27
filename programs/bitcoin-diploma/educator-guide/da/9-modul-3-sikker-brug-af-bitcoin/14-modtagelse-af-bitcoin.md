@@ -16,6 +16,7 @@ Forklar, at en besked eller et skærmbillede, hvor der står »sendt«, ikke er 
 
 
 <!-- micrographic: check-what-you-receive-01 -->
+[Et eksempel på en modtagelsesskærm på en telefon viser betalingsmetoden, betalingsanmodningen til deling, beløbet og statussen Afventer. En besked eller et skærmbillede med teksten "sendt" er ikke bevis: Kontrollér status i Deres egen wallet.](/micrographics/check-what-you-receive-01/da.md)
 
 
 #### Øvelse: gennemgang af modtagelsesskærmen

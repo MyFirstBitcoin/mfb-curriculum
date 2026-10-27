@@ -1,5 +1,6 @@
 # 1.4 Barter i podwójna zbieżność potrzeb
 
+<!-- card: definition -->
 > **Definition – Barter**
 >
 > [Barter](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) to bezpośrednia wymiana jednego dobra lub usługi na inne dobro lub usługę. Może się dobrze sprawdzać przy wymianie na małą skalę, ale staje się trudny, gdy uczestniczy w nim wiele osób i wymienianych jest wiele produktów.
@@ -11,6 +12,7 @@ Proszę sobie wyobrazić, że **Amina** ma ryż i chce zdobyć buty. **Luis** ma
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina ma ryż i chce buty, Luis ma buty i chce olej spożywczy, a Mei ma olej spożywczy i chce skorzystać z usług naprawczych. Żadna para nie może dokonać bezpośredniej wymiany, ponieważ żadna z osób w parze nie chce tego, co oferuje druga.](/micrographics/barter-mismatch-01/pl.md)
 
 
 Aby [barter](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) mógł odbyć się bezpośrednio, każda osoba musi chcieć tego, co oferuje druga osoba, w tym samym czasie i w odpowiednich ilościach. Ekonomiści nazywają to [**podwójną zbieżnością potrzeb**](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-coincidence-of-wants).
@@ -31,3 +33,4 @@ Powszechnie akceptowany pieniądz oddziela sprzedaż od kupna. Amina może sprze
 
 
 <!-- micrographic: sell-then-buy-01 -->
+[Amina sprzedaje ryż jednej osobie za powszechnie akceptowane pieniądze, a później za te pieniądze kupuje buty od kogoś innego. Sprzedaż i zakup stają się odrębnymi czynnościami.](/micrographics/sell-then-buy-01/pl.md)

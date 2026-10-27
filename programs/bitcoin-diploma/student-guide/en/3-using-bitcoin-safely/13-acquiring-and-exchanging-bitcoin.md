@@ -5,7 +5,8 @@
 People may receive bitcoin through work, a community payment, a peer exchange, an ATM, or a service. Each pathway has different costs, [custody](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), privacy, fraud, legal, and operational [trade-offs](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). The Bitcoin Diploma does not recommend a provider or tell you which path to use.
 
 
-> **Light – Compare a local payment route**
+<!-- card: light -->
+> **Compare a local payment route**
 >
 > In a prepared local or fictional scenario, compare [custody](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), total cost, identity data, withdrawal limits, counterparty and physical safety, and current local rules. No pathway is automatically best everywhere. This course provides comparison questions, not a provider recommendation or personal financial advice.
 
@@ -20,15 +21,18 @@ Before comparing a path, ask:
 
 
 <!-- micrographic: ways-to-receive-bitcoin-01 -->
+[One person can receive bitcoin in four different ways: earning it through work or sales, exchanging local cash with another person, using an exchange or broker, or using an ATM. Each route ends in self-custody or a custodial balance, and none is recommended over the others.](/micrographics/ways-to-receive-bitcoin-01/en.md)
 
 
 
 <!-- micrographic: exchange-risk-questions-01 -->
+[Six risk areas to check before acquiring or exchanging bitcoin, each with a question to ask: costs, custody, identity and privacy, withdrawal and settlement, counterparty and safety, and local context.](/micrographics/exchange-risk-questions-01/en.md)
 
 
 No pathway is automatically best everywhere. Local examples and provider-specific guidance belong in **Module 4**.
 
 
+<!-- card: definition -->
 > **Definition – Know Your Customer (KYC)**
 >
 > [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) describes identity checks a regulated service may require. It can support account recovery or legal compliance, while also creating a record that connects identity and financial activity. Paths with less identity collection can involve different counterparty, legal, safety, cost, or complexity risks.

@@ -15,6 +15,7 @@ Pida a los estudiantes que identifiquen:
 
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Los actores de un sistema de dinero fíat y lo que circula entre ellos: el banco central establece la política monetaria y liquida los pagos entre bancos, los bancos comerciales mantienen depósitos que constituyen un pasivo frente a sus clientes, los servicios de pago transmiten instrucciones, el gobierno recauda impuestos y realiza gastos, y los ciudadanos y las empresas realizan y reciben pagos.](/micrographics/fiat-system-flows-01/es-419.md)
 
 
 Prepárese para explicar el sistema local. Indique qué detalles son generales y cuáles son específicos de la jurisdicción. Invite a compartir diversas experiencias, incluidas las de quienes usan principalmente efectivo o tienen acceso limitado a servicios bancarios, sin convertir la discusión en una conclusión política.

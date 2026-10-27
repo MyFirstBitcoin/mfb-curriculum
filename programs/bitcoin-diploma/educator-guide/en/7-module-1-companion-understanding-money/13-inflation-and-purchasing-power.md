@@ -4,6 +4,7 @@ Teach [price inflation](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflat
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[The same 100 units of currency buy the full basket of basic goods when it costs 100, but not when the same basket costs 110. The price level has risen and the purchasing power of the money has fallen.](/micrographics/same-money-smaller-basket-01/en.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)

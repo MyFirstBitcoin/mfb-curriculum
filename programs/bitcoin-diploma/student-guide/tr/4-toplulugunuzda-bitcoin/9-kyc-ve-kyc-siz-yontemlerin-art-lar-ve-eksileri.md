@@ -3,7 +3,8 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) ve [KYC'siz](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) yollar farklı [ödünleşimler](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) içerir. Hiçbir etiket, dikkatli bir değerlendirme yapma ihtiyacını ortadan kaldırmaz.
 
 
-> **Callout – Gizlilik, yasal riski veya fiziksel güvenlik riskini ortadan kaldırmaz**
+<!-- card: callout -->
+> **Gizlilik, yasal riski veya fiziksel güvenlik riskini ortadan kaldırmaz**
 >
 > Ne [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) ne de [KYC'siz](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) yol kendiliğinden en iyisidir. Gerçek yolu karşılaştırın, kurallar belirsiz olduğunda güncel yerel rehberliğe başvurun ve yerel yasaları çiğnemeyin ya da kendinizi fiziksel tehlikeye atmayın; hiçbir [gizlilik](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy) arayışı buna değmez.
 

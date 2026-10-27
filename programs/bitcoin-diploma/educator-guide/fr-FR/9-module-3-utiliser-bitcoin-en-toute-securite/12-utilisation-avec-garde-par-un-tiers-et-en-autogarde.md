@@ -20,3 +20,4 @@ Ne traitez pas [la garde autonome](https://curriculum.myfirstbitcoin.org/lexicon
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[Dans le cas de la garde par un tiers, un service contrôle les clés et approuve les dépenses : le solde représente donc sa promesse. Dans le cas de la garde autonome, vous contrôlez les clés et les sauvegardes ; les deux modes présentent des dépendances et des risques de défaillance.](/micrographics/who-controls-keys-01/fr-FR.md)

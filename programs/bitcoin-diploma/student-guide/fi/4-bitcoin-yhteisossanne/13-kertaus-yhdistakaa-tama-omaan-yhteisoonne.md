@@ -1,10 +1,12 @@
 # 4.13 Kertaus: Yhdistäkää tämä omaan yhteisöönne
 
 <!-- micrographic: community-review-path-01 -->
+[Paikallisen Bitcoin-esimerkin arviointipolku: aloittakaa todellisesta tarpeesta, tarkistakaa Bitcoinin soveltuvuus ja arvioikaa sitten maksutapa, säilytys, kokonaiskustannukset, turvallisuus ja paikalliset olosuhteet. Tarkastelkaa lopuksi näyttöä onnistumisesta.](/micrographics/community-review-path-01/fi.md)
 
 
 
 <!-- micrographic: community-review-table-01 -->
+[Paikallisen esimerkin arviointitaulukko: kullekin aiheelle todellisesta tarpeesta vastuulliseen seuraavaan askeleeseen on pohdintakysymys ja valinnainen tila omille muistiinpanoillenne.](/micrographics/community-review-table-01/fi.md)
 
 
 Tehkää tämä kertaustehtävä itsenäisesti ja verratkaa sitten perustelujanne tiiminne tai opiskeluryhmänne kanssa. Pohtikaa tutkimaanne paikallista esimerkkiä: mihin todelliseen tarpeeseen se vastasi, mikä rahan tehtävä oli kyseessä ja siirtyikö [arvo](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) lohkoketjussa, Lightningin kautta vai molemmilla tavoilla? Kysykää, kuka hallitsi avaimia, mikä oli merkittävin hyöty ja vakavin riski sekä miten paikallinen lainsäädäntö, infrastruktuuri, kieli tai kulttuuri vaikutti tulokseen. Vastuullinen seuraava askel sopii paikallisiin olosuhteisiin, selventää kustannukset ja [säilytyksen](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), vähentää virheitä ja huijauksia ja on arvioitavissa näytön perusteella.

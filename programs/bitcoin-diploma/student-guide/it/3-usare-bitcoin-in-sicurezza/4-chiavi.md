@@ -3,6 +3,7 @@
 La proprietà dei bitcoin è garantita tramite chiavi crittografiche.
 
 
+<!-- card: definition -->
 > **Definition – Chiave privata**
 >
 > Una [chiave privata](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) è un'informazione segreta che consente a un wallet di creare [firme digitali](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) valide. Una firma autorizza la spesa dei bitcoin controllati dalla chiave corrispondente. Chiunque ottenga la [chiave privata](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) di solito può spendere quei fondi.
@@ -21,10 +22,10 @@ La maggior parte dei wallet per principianti utilizza la [firma singola](https:/
 Nessun educatore legittimo, nessuna azienda di wallet, nessun dipendente di un exchange, nessun addetto all'assistenza tecnica e nessuno sviluppatore Bitcoin ha bisogno della Sua [chiave privata](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) o della Sua [seed phrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase). Chiunque gliela chieda va considerato una minaccia.
 
 
-> **Light**
->
+<!-- card: light -->
 > **Provi:** suddivida gli esempi preparati in tre gruppi: informazioni sicure da condividere per ricevere, informazioni segrete per spendere e informazioni che possono essere pubbliche ma che è comunque opportuno mantenere riservate quando sono collegate a una persona.
 
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[Una chiave privata segreta, che non va mai condivisa, porta a informazioni pubbliche che si possono condividere: una chiave pubblica derivata da essa e un indirizzo di ricezione creato a partire da quest'ultima. La stessa chiave privata crea firme che i nodi verificano senza mai venire a conoscenza della chiave privata.](/micrographics/private-key-public-info-01/it.md)

@@ -1,5 +1,6 @@
 # 1.7 Pesa ya Fiat
 
+<!-- card: definition -->
 > **Definition – Pesa ya fiat**
 >
 > [Pesa ya fiat](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) ni [sarafu](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) inayotolewa chini ya mamlaka ya serikali, kwa kawaida kupitia [benki kuu](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank), ambayo haiwezi kubadilishwa kwa kiasi maalum cha bidhaa kama vile [dhahabu](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold). Serikali huunga mkono—na katika baadhi ya mazingira hulazimisha—matumizi yake kwa kuitaka itumike kulipa kodi na kwa kuweka sheria za fedha halali. Sheria kamili za kukubali malipo na kulipa [madeni](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt) hutofautiana kulingana na eneo la mamlaka.
@@ -11,12 +12,14 @@ Mfumo wa fiat una washiriki kadhaa wakuu:
 
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Wahusika katika mfumo wa pesa za fiat na kinachopita kati yao: benki kuu huweka sera na kukamilisha malipo kati ya benki, benki za biashara hushikilia amana ambazo ni dhima yao kwa wateja, huduma za malipo hubeba maagizo, serikali hukusanya kodi na kutumia fedha, na wananchi na biashara hulipa na hulipwa.](/micrographics/fiat-system-flows-01/sw.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
-> **Light – Chunguzeni malipo ya eneo lenu**
+<!-- card: light -->
+> **Chunguzeni malipo ya eneo lenu**
 >
 > Chagueni malipo moja ya kawaida katika jamii yenu, kama vile kulipia usafiri, chakula, au salio la simu; kupokea mshahara; au kulipa bili. Mnaweza kutumia hali ya kubuni inayowezekana kihalisia mkipenda. Kwa sentensi tatu au nne, elezeni:
 >

@@ -3,6 +3,7 @@
 Digitale Informationen lassen sich normalerweise leicht kopieren.
 
 
+<!-- card: definition -->
 > **Definition – Digitale Knappheit**
 >
 > Digitale [Knappheit](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) bedeutet, dass ein System eine gültige Einheit von einer ungültigen Kopie unterscheiden und verhindern kann, dass dieselbe Einheit zweimal ausgegeben wird.
@@ -14,6 +15,7 @@ Bitcoin erzeugt digitale [Knappheit](https://curriculum.myfirstbitcoin.org/lexic
 
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Eine Mengenbegrenzung, die auf einer Website oder in der Datenbank eines Emittenten steht, kann von diesem Emittenten stillschweigend geändert werden. Die Angebotsregel von Bitcoin ist öffentlich, und Signaturen, eine öffentliche Historie, Proof of Work und die Überprüfung durch Nodes verhindern gemeinsam, dass neue Coins erfunden oder derselbe bitcoin zweimal ausgegeben wird.](/micrographics/claimed-or-verified-supply-01/de.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)

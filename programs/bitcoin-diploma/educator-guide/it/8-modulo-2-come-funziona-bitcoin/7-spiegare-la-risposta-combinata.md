@@ -10,6 +10,7 @@ Utilizzi una mappa in cinque parti:
 
 
 <!-- micrographic: five-part-response-01 -->
+[Cinque elementi si combinano per risolvere il problema della doppia spesa: una rete peer-to-peer, le firme digitali, i blocchi e il mining, la verifica indipendente e una storia condivisa con la maggiore proof of work accumulata. Insieme permettono alla rete di respingere una seconda spesa senza un'autorità centrale.](/micrographics/five-part-response-01/it.md)
 
 
 Nessuna parte, da sola, crea la credibile [scarsità](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) di Bitcoin. Eviti di dire “la [blockchain](https://curriculum.myfirstbitcoin.org/lexicon/en/#blockchain) risolve tutto.”

@@ -12,6 +12,7 @@ Sonuçlarını öğretin:
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Kurtarma ifadesi (seed phrase), sıralı bir kelime listesidir; burada kâğıda yazılmış, numaralandırılmış on iki örnek kelime görülmektedir. Doğru kelimeler doğru sırayla girildiğinde uyumlu bir cüzdanda kontrol yeniden sağlanabilir; bu nedenle gizli ve çevrimdışı tutulmalıdır.](/micrographics/seed-phrase-on-paper-01/tr.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
@@ -43,10 +44,12 @@ Sonuçlarını öğretin:
 
 
 <!-- micrographic: recovery-practice-lanes-01 -->
+[Öğrenci, kurtarma alıştırması adımlarını özel bir alanda izler, beklenen sonucu kontrol eder, cihazı temizler ve kurgusal materyali iade eder veya imha eder. Eğitmen, kararları ve güvenli kullanımı gözlemler ancak gizli kurtarma kelimelerini asla görmez.](/micrographics/recovery-practice-lanes-01/tr.md)
 
 
 
-> **Callout – İfşa olmuş bir tohum ifadesini ele geçirilmiş kabul edin**
+<!-- card: callout -->
+> **İfşa olmuş bir tohum ifadesini ele geçirilmiş kabul edin**
 >
 > Gerçek bir tohum ifadesi ifşa olmuş olabilirse, onu güvenli bir yedek olarak kullanmayı bırakın, yeni kurtarma bilgileriyle yeni ve güvenilir bir cüzdan oluşturun ve hedef adresi dikkatlice doğruladıktan sonra fonları taşıyın. Öğrenci, iki ifadeden hiçbirini açığa çıkarmadan yardım almalıdır.
 

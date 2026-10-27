@@ -75,7 +75,8 @@ A pénz olyan eszköz, amelyet az emberek azért fogadnak el, mert arra számít
 * Érték időn és távolságon át
 
 
-> **Callout – Gyors kérdés**
+<!-- card: callout -->
+> **Gyors kérdés**
 >
 > Milyen csere- vagy koordinációs probléma megoldásában segít a pénz?
 
@@ -108,7 +109,8 @@ Az egyik pénzforma jobban betölthet egy adott funkciót, mint a másik. Minden
 Egyetlen pénzforma sem tökéletes. Az „**értékálló pénz**” minősítés értékítélet: határozza meg a szempontokat, és következetesen hasonlítsa össze a pénzformákat.
 
 
-> **Callout – Gondolkodjon kritikusan**
+<!-- card: callout -->
+> **Gondolkodjon kritikusan**
 >
 > Mely tulajdonságok számítottak, amikor az egyik pénz- vagy eszköztípust választotta a másik helyett?
 
@@ -152,6 +154,7 @@ A szűkösség önmagában nem garantál értéket; a kereslet is számít.
 ---
 
 <!-- micrographic: same-water-different-value-01 -->
+[Ugyanaz a palack tiszta víz olcsó egy üzlet hűtőjében, ahol könnyen található víz, és sokkal értékesebb egy forró sivatagban vízhiány idején. A hozzáférhetőség, a szükséglet és a körülmények megváltoztatják az értéket és az árat.](/micrographics/same-water-different-value-01/hu.md)
 
 ---
 
@@ -162,6 +165,7 @@ A szűkösség önmagában nem garantál értéket; a kereslet is számít.
 ---
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Egy szűkös pénzkeretből gazdálkodó vásárló szemügyre veszi az előtte álló lehetőségeket: élelmiszer mára, közlekedés vagy megtakarítás későbbre. Az egyik kiválasztása a többiről való lemondással jár, ami az alternatív költséget jelenti, és egyik lehetőség sincs helyesként megjelölve.](/micrographics/one-choice-two-uses-01/hu.md)
 
 ---
 
@@ -195,6 +199,7 @@ A kényelmes fizetések és a rugalmas hitelezés intézményi függőséggel j�
 ---
 
 <!-- micrographic: fiat-system-flows-01 -->
+[A fiatpénzrendszer szereplői és a köztük zajló folyamatok: a központi bank meghatározza a monetáris politikát és elszámolja a bankok közötti fizetéseket, a kereskedelmi bankok betéteket tartanak, amelyek az ügyfeleikkel szembeni kötelezettségeik, a pénzforgalmi szolgáltatások megbízásokat továbbítanak, az állam adókat szed be és kiadásokat teljesít, az állampolgárok és a vállalkozások pedig fizetnek és kifizetéseket kapnak.](/micrographics/fiat-system-flows-01/hu.md)
 
 ---
 
@@ -230,10 +235,12 @@ A bankrohamok megnehezíthetik a pénzhez való hozzáférést. A betétbiztosí
 ---
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[A banki hitelezés egyszerűsített folyamata: a hitelfelvevő hitelt igényel, a bank jóváhagyja a hitelt, és új betétet ír jóvá a hitelfelvevő számláján, majd a hitelfelvevő később visszafizeti a banknak a tőkét és a kamatot.](/micrographics/bank-loan-deposit-01/hu.md)
 
 ---
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Likviditási kockázat: sok betétes áll sorban, hogy még ma kivegye a pénzét, és a banknak jelenleg nincs elég készpénze, bár az általa nyújtott hiteleket később még visszafizethetik. Fizetőképességi kockázat: a hitelfelvevők nem törlesztik a lakáshiteleiket, és a bank eszközei kevesebbet érnek, mint amennyivel tartozik.](/micrographics/liquidity-vs-solvency-01/hu.md)
 
 ---
 
@@ -255,6 +262,7 @@ A pénz- és hitelállomány bővülése is hozzájárulhat az inflációhoz a k
 ---
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Ugyanaz a 100 pénzegység elegendő az alapvető termékeket tartalmazó kosár teljes tartalmának megvásárlására, amikor annak ára 100, de már nem elegendő, amikor ugyanannak a kosárnak az ára 110. Az árszínvonal emelkedett, a pénz vásárlóereje pedig csökkent.](/micrographics/same-money-smaller-basket-01/hu.md)
 
 ---
 
@@ -308,7 +316,8 @@ A CBDC olyan digitális fiatpénz, amelyet a jegybank saját kötelezettségeké
 A kialakítások eltérőek. A digitális jelleg nem jelent automatikusan decentralizáltságot, szűkösséget, adatvédelmet vagy független ellenőrizhetőséget.
 
 
-> **Callout – Ellenőrizze**
+<!-- card: callout -->
+> **Ellenőrizze**
 >
 > Ki bocsátja ki, ki használhatja, milyen adatokat gyűjtenek, és ki tilthatja le a fizetéseket vagy módosíthatja a szabályokat? Mi történik internetkapcsolat nélkül, és milyen jogi védelem áll rendelkezésre?
 
@@ -327,7 +336,8 @@ A kialakítások eltérőek. A digitális jelleg nem jelent automatikusan decent
 Mi teszi hasznossá az Ön pénzét, és mely szabályok függnek azoktól az intézményektől, amelyekben megbízik?
 
 
-> **Callout – Egy pillanat az elgondolkodásra**
+<!-- card: callout -->
+> **Egy pillanat az elgondolkodásra**
 >
 > Mi az a kérdés, amelyet most már feltesz a pénzzel kapcsolatban, de korábban nem tett fel?
 
@@ -357,6 +367,7 @@ A Bitcoin csökkenti a központi szereplőkbe vetett bizalom szükségességét 
 ---
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Pénzforgalmi szolgáltató esetén egyetlen szervezet vezeti a főkönyvet és hagy jóvá minden átutalást. A Bitcoin esetében a küldő aláír egy tranzakciót, a független csomópontok ellenőrzik, a bányászok pedig hozzáadják egy közös főkönyvhöz, így a fogadó kevésbé függ egy központi hatóságtól.](/micrographics/central-ledger-vs-bitcoin-01/hu.md)
 
 ---
 
@@ -393,6 +404,7 @@ A dupla költés kísérlet arra, hogy ugyanazt a digitális egységet két cím
 ---
 
 <!-- micrographic: five-part-response-01 -->
+[Öt elem együtt oldja meg a kettős költés problémáját: egy egyenrangú felek közötti hálózat, digitális aláírások, blokkok és bányászat, független ellenőrzés, valamint a legtöbb felhalmozott munkabizonyítékkal rendelkező közös előzmények. Ezek együttesen teszik lehetővé, hogy a hálózat központi hatóság nélkül utasítsa el az ismételt költést.](/micrographics/five-part-response-01/hu.md)
 
 ---
 
@@ -411,6 +423,7 @@ A kínálatra vonatkozó írásos állítás önmagában nem elég: ki tudja ell
 ---
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[A weboldalon vagy a kibocsátó adatbázisában rögzített kínálati korlátot a kibocsátó észrevétlenül megváltoztathatja. A Bitcoin kínálati szabálya nyilvános, és az aláírások, a nyilvános tranzakciótörténet, a munkabizonyíték és a csomópontok általi ellenőrzés együttesen megakadályozzák, hogy új érméket hozzanak létre önkényesen, vagy ugyanazt a bitcoint kétszer költsék el.](/micrographics/claimed-or-verified-supply-01/hu.md)
 
 ---
 
@@ -452,12 +465,14 @@ A közvetítői szolgáltatások igénybevétele továbbra is választható; ha 
 ---
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[Egy küldő aláír egy tranzakciót, és elküldi a hálózat számos csomópontjának, amelyek továbbítják, amíg el nem jut a címzetthez. Sem a küldőt, sem a címzettet nem kell jóváhagynia a Bitcoin központi üzemeltetőjének.](/micrographics/peer-to-peer-route-01/hu.md)
 
 ---
 
 ![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Négy szerepkör a Bitcoinban: a felhasználók bitcoint fogadnak, tartanak és küldenek, a csomópontok önállóan ellenőrzik a szabályok betartását, a bányászok munkabizonyítékkal blokkjelölteket állítanak össze, a fejlesztők pedig szoftvereket javasolnak. Egyetlen szerepkör sem irányítja a hálózatot.](/micrographics/bitcoin-participant-roles-01/hu.md)
 
 ---
 
@@ -466,7 +481,8 @@ A közvetítői szolgáltatások igénybevétele továbbra is választható; ha 
 A bányászok nem tudják elérni, hogy a becsületes csomópontok elfogadják az érvénytelen blokkokat. A fejlesztők nem kényszeríthetik ki a szoftver használatát. Egy személy több szerepet is betölthet.
 
 
-> **Callout – Villámkérdés**
+<!-- card: callout -->
+> **Villámkérdés**
 >
 > Miért ellenőrzi egy csomópont a tranzakciókat? Nevezzen meg egy szabályt, amelynek a betartását ellenőrzi.
 
@@ -489,6 +505,7 @@ A bányászat a tranzakciók sorrendjét biztosítja; nem külső egyenleteket o
 ![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Egy bányász újra és újra kiszámítja egy javasolt blokk hashértékét, amíg az egyik eredmény a hálózat célértéke alá nem kerül, majd közzéteszi a blokkot. A csomópontok gyorsan ellenőrzik a bizonyítékot és az összes szabály betartását, mielőtt a blokk bekerül a blokkláncba: a munka elvégzése költséges, az ellenőrzése viszont egyszerű.](/micrographics/proof-of-work-process-01/hu.md)
 
 ---
 
@@ -509,10 +526,12 @@ A csomópontok elutasítják a megengedettnél nagyobb kibocsátást; a korlát 
 ---
 
 <!-- micrographic: bitcoin-issuance-supply-01 -->
+[A blokktámogatás kezdetben 50 bitcoin, és 210 000 blokkonként feleződik, miközben az összes kibocsátott bitcoin mennyisége a 21 milliós korlát felé közelít. A tranzakciós díjakat ezen felül fizetik, és ezek nem új bitcoinok; az ábra nem sugall árfolyam-előrejelzést.](/micrographics/bitcoin-issuance-supply-01/hu.md)
 
 ---
 
 <!-- micrographic: bitcoin-issuance-subsidy-01 -->
+[A blokktámogatás kezdetben 50 bitcoin, és 210 000 blokkonként feleződik, miközben az összes kibocsátott bitcoin mennyisége a 21 milliós korlát felé közelít. A tranzakciós díjakat ezen felül fizetik, és ezek nem új bitcoinok; az ábra nem sugall árfolyam-előrejelzést.](/micrographics/bitcoin-issuance-subsidy-01/hu.md)
 
 ---
 
@@ -528,7 +547,8 @@ A csomópontok elutasítják a megengedettnél nagyobb kibocsátást; a korlát 
 **Egységtorzítás:** az egész egységre vetített alacsony ár nem jelent jobb értéket. Hasonlítsa össze a kínálatból való részesedést, az érintett értéket és a kockázatokat.
 
 
-> **Callout – Mutassa meg, mit értett meg**
+<!-- card: callout -->
+> **Mutassa meg, mit értett meg**
 >
 > Hány sat van 0,01 BTC-ben? Miért használhat valaki egy egész bitcoinnál kisebb összeget?
 
@@ -586,7 +606,8 @@ Egy ismerős kereskedési szimbólum, stabilnak tűnő árfolyam vagy igényesen
 * Nem felszólítás vételre, eladásra vagy tartásra
 
 
-> **Callout – A helyi érték ellenőrzése**
+<!-- card: callout -->
+> **A helyi érték ellenőrzése**
 >
 > Különítse el a piaci árat, a helyi elfogadottságot és a személyes preferenciát vagy elfogultságot.
 
@@ -601,6 +622,7 @@ Satoshi Nakamoto egy álnév; az alkotó vagy alkotók kiléte továbbra is isme
 ---
 
 <!-- micrographic: bitcoin-origin-timeline-01 -->
+[A Bitcoin eredete négy dátumhoz kötött eseményben: 2008. október 31-én Satoshi Nakamoto közzétette a fehér könyvet, amely pénzügyi közvetítő nélküli, közvetlen online fizetéseket ír le; 2009. január 3-án a genezisblokkal elindult a Bitcoin-hálózat, benne egy bankmentésekről szóló újságfőcímmel; 2009. január 12-én Satoshi bitcoint küldött Hal Finney részére az első rögzített, személyek közötti tranzakcióban; 2010. május 22-én egy felhasználó 10 000 BTC-t fizetett két pizzáért, ezt a napot ma Bitcoin-pizzanapként ünneplik.](/micrographics/bitcoin-origin-timeline-01/hu.md)
 
 ---
 
@@ -629,7 +651,8 @@ A személyes felelősségvállalás része lehet a tanulás, a társak általi e
 * Tranzakciók sorrendbe rendezése → munkabizonyíték; eszköz- és energiaköltségek
 
 
-> **Callout – Egy pillanat az átgondolásra**
+<!-- card: callout -->
+> **Egy pillanat az átgondolásra**
 >
 > A Bitcoin felépítésének melyik részét magyarázná el most másképp, és miért?
 
@@ -674,6 +697,7 @@ A gyakorlásra használt tárcákban nem szabad jelentős összegeket tartani. E
 ---
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[A tárca tárolja a kulcsokat. Ezekkel Ön bitcoint fogadhat és küldhet, miközben maga a bitcoin a közös főkönyvben marad nyilvántartva, nem pedig a telefonon vagy az eszközön.](/micrographics/wallet-manages-keys-01/hu.md)
 
 ---
 
@@ -699,13 +723,15 @@ A rosszindulatú szoftverek lecserélhetik a kimásolt céladatokat. Az ismerős
 Soha ne osszon meg privát kulcsokat, helyreállító szósorokat, jelszavakat vagy helyreállítási kódokat. Egyetlen megbízható oktatónak, ügyfélszolgálati munkatársnak, tárcaszolgáltatónak, kriptotőzsdei alkalmazottnak vagy fejlesztőnek sincs szüksége ezekre.
 
 
-> **Callout – Próbálja ki**
+<!-- card: callout -->
+> **Próbálja ki**
 >
 > Sorolja be az előkészített példákat a következő kategóriákba: fogadási adatok, titkos adatok, valamint olyan nyilvános adatok, amelyek egy személyhez kapcsolva érzékennyé válnak.
 
 ---
 
 <!-- micrographic: private-key-public-info-01 -->
+[A titkos privát kulcsból, amelyet soha nem szabad megosztani, megosztható nyilvános adatok származnak: egy belőle származtatott nyilvános kulcs és az abból létrehozott fogadási cím. Ugyanez a privát kulcs hozza létre az aláírásokat, amelyeket a csomópontok anélkül ellenőriznek, hogy valaha is megismernék a privát kulcsot.](/micrographics/private-key-public-info-01/hu.md)
 
 ---
 
@@ -738,7 +764,8 @@ Ha fennáll annak a lehetősége, hogy valaki látta vagy lemásolta a szósort,
 Egy nyilvános blokklánc nem tudja bizonyítani, hogy egy szolgáltató mivel tartozik egy adott ügyfélnek. A saját kezelés továbbra is járhat szoftverektől, hardverektől, szerverektől és hálózatoktól való függőséggel.
 
 
-> **Callout – Próbálja ki**
+<!-- card: callout -->
+> **Próbálja ki**
 >
 > Hasonlítson össze két előre elkészített leírást: ki kezeli a kulcsokat, ki állítja helyre a hozzáférést, és milyen kockázatot kell ellenőrizni?
 
@@ -749,6 +776,7 @@ Egy nyilvános blokklánc nem tudja bizonyítani, hogy egy szolgáltató mivel t
 ---
 
 <!-- micrographic: who-controls-keys-01 -->
+[Letétkezelői használat esetén a szolgáltató kezeli a kulcsokat és hagyja jóvá a költést, így az egyenleg az ő ígérete. Saját kezelésű használat esetén a felhasználó kezeli a kulcsokat és a biztonsági mentéseket; mindkét megoldás függőségekkel és meghibásodási kockázatokkal jár.](/micrographics/who-controls-keys-01/hu.md)
 
 ---
 
@@ -776,6 +804,7 @@ Kizárólag előre elkészített, üres vagy szimulált anyagokat használjon. S
 ---
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[Hatlépéses gyakorlat egy gyakorlótárca helyreállításához: kövesse a hivatalos utasításokat, ellenőrizze a kompatibilitást, dolgozzon bizalmas körülmények között, használja a jóváhagyott helyreállítási módszert, ellenőrizze, hogy a várt tárcát kapta-e vissza, majd állítsa alaphelyzetbe a környezetet. Kizárólag előkészített, üres vagy szimulált anyagokat használjon, és az oktató soha nem láthatja a helyreállító szavakat.](/micrographics/practice-wallet-recovery-01/hu.md)
 
 ---
 
@@ -804,6 +833,7 @@ Csak akkor hagyja jóvá a küldést, ha minden ellenőrzés eredménye megfelel
 ---
 
 <!-- micrographic: pre-send-checklist-01 -->
+[A fizetés jóváhagyása előtt a küldő ellenőrzi a címzettet és a fizetés célját, a fizetési módot, a célcímet, valamint az összeget, az egységet, a díjat vagy a lejáratot, és ha a folyamat ismeretlen számára, kis összegű próbát végez. Ha bármi eltér, megáll és ellenőriz; csak akkor hagyja jóvá, ha minden egyezik, majd ellenőrzi az eredményt.](/micrographics/pre-send-checklist-01/hu.md)
 
 ---
 
@@ -823,6 +853,7 @@ Használjon előre elkészített példákat; ne keressen rá a tanulók személy
 ---
 
 <!-- micrographic: confirmation-timeline-01 -->
+[Egy tranzakció megerősítés nélkül várakozik a függő tranzakciók gyűjtőhelyén, majd bekerül az N. blokkba, ami az első megerősítését jelenti, és minden későbbi blokk további egy megerősítést ad hozzá.](/micrographics/confirmation-timeline-01/hu.md)
 
 ---
 
@@ -835,7 +866,8 @@ Használjon előre elkészített példákat; ne keressen rá a tanulók személy
 **Álljon meg. Ne osszon meg semmit. Ne küldjön semmit. Zárja be a kommunikációs csatornát. Ellenőrizze az információkat független forrásból. Kérjen segítséget anélkül, hogy titkos adatokat árulna el.**
 
 
-> **Callout – Próbálja ki**
+<!-- card: callout -->
+> **Próbálja ki**
 >
 > Azonosítsa egy előre elkészített üzenetben a figyelmeztető jelet, a lehetséges veszteséget és az első biztonságos lépést.
 
@@ -844,6 +876,7 @@ Használjon előre elkészített példákat; ne keressen rá a tanulók személy
 ---
 
 <!-- micrographic: scam-red-flags-01 -->
+[A csalás öt figyelmeztető jele: sürgetés, más személynek való kiadás, megváltozott célcím, garantált hozamok és titkos adatok kérése.](/micrographics/scam-red-flags-01/hu.md)
 
 ---
 
@@ -860,10 +893,12 @@ Egyetlen módszer vagy szolgáltató sem automatikusan a legjobb. **KYC** szemé
 ---
 
 <!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Egy személy négy különböző módon juthat bitcoinhoz: munkával vagy értékesítéssel keresheti meg, helyi készpénzt válthat rá egy másik személlyel, tőzsdét vagy brókert vehet igénybe, illetve ATM-et használhat. Mindegyik út saját kezeléshez vagy letétkezelőnél vezetett egyenleghez vezet, és egyik sem ajánlott a többivel szemben.](/micrographics/ways-to-receive-bitcoin-01/hu.md)
 
 ---
 
 <!-- micrographic: exchange-risk-questions-01 -->
+[Hat kockázati terület, amelyet érdemes ellenőrizni bitcoin beszerzése vagy átváltása előtt, mindegyikhez egy felteendő kérdéssel: költségek, letétkezelés, személyazonosság és adatvédelem, kiutalás és elszámolás, partner és biztonság, valamint helyi körülmények.](/micrographics/exchange-risk-questions-01/hu.md)
 
 ---
 
@@ -909,7 +944,8 @@ Használja a megbeszélt gyakorlókörnyezetet. Eltérés esetén álljon meg; s
 Egy barátja kérést küld, miközben egy ismeretlen ügyfélszolgálat azonnali cselekvést követel. Mit ellenőrizhetne, mielőtt bármit tenne?
 
 
-> **Callout – Egy pillanat az átgondolásra**
+<!-- card: callout -->
+> **Egy pillanat az átgondolásra**
 >
 > Melyik biztonsági ellenőrzés elvégzésére fog időt szánni, mielőtt cselekedne?
 
@@ -928,6 +964,7 @@ Egy barátja kérést küld, miközben egy ismeretlen ügyfélszolgálat azonnal
 ## Az Ön helyi 4. modulja
 
 <!-- micrographic: local-module-four-actions-01 -->
+[A helyi környezetre szabott 4. modulban a tanuló négy tevékenységet végez: összekapcsol egy, az 1–3. modulban megismert gondolatot egy helyi igénnyel, összehasonlítja a Bitcoint egy reális, már létező lehetőséggel, biztonságosan gyakorol útmutatás mellett, majd elmagyarázza, mit tanult, és mi lehet a következő felelős lépés. Az oktatója, és esetenként egy helyi szakértő is, végig segíti őt.](/micrographics/local-module-four-actions-01/hu.md)
 
 
 Rögzítse a helyi fókuszpontokat: a problémát vagy lehetőséget, az alternatívát, a biztonságos forgatókönyvet, a fő előnyt és kockázatot, valamint a biztonságos következő lépést.
@@ -979,10 +1016,12 @@ Egy sikeres kis összegű fizetés nem bizonyítja, hogy nagyobb egyenlegek is b
 ---
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[A fogadó fél létrehoz a telefonján egy Lightning-fizetési kérelmet a megadott összeggel, a küldő fél beolvassa és kifizeti azt, a fizetés pedig egy pillanattal később megérkezik a fogadó fél telefonjára.](/micrographics/lightning-phone-payment-01/hu.md)
 
 ---
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Lightning-fizetés hat lépésben: a fogadó fél kérelmet hoz létre, a küldő fél beolvassa azt, ellenőrzi a címzettet, az összeget, az egységet, a lejáratot és a díjat, majd jóváhagyja a fizetést; a fizetés továbbítódik, és mindkét tárca megjeleníti az eredményt. Mindkét tárca lehet letétkezelői vagy saját kezelésű, sikertelen vagy lejárt fizetés esetén pedig a folyamat új kérelemmel kezdődik elölről.](/micrographics/lightning-payment-sequence-01/hu.md)
 
 ---
 
@@ -1034,6 +1073,7 @@ Válassza ki vagy igazítsa a helyi feladathoz az útmutató forgatókönyveit. 
 ---
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[Kávézói fizetés négy lépésben: a vendég rendel, a felszolgáló számlát küld, a vendég a telefonjáról bitcoinnal fizet, a felszolgáló pedig átadja a kávét.](/micrographics/coffee-shop-payment-01/hu.md)
 
 ---
 
@@ -1094,6 +1134,7 @@ Az elterjedtségi adatok önmagukban nem bizonyítják a hasznosságot. A gyenge
 ---
 
 <!-- micrographic: local-circular-economy-01 -->
+[A Bitcoin körforgásos gazdaságában a bitcoin személyről személyre vándorol árukért, szolgáltatásokért és időért cserébe. A vásárló fizet a kereskedőnek, a kereskedő fizet a szolgáltatónak, a szolgáltató fizet a dolgozónak, a dolgozó pedig vásárlóként újra elkölti a bitcoint.](/micrographics/local-circular-economy-01/hu.md)
 
 ---
 
@@ -1151,6 +1192,7 @@ Végezze el önállóan, majd hasonlítsa össze érvelését a csoportjáéval.
 * A hasznos közösségi részvétel önkéntes, és védi az embereket
 
 
-> **Callout – Egy pillanat az elgondolkodásra**
+<!-- card: callout -->
+> **Egy pillanat az elgondolkodásra**
 >
 > Milyen kérdést tenne fel, mielőtt eldöntené, hogy egy Bitcoin-alapú megoldás megfelel-e egy helyi igénynek?

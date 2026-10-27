@@ -3,7 +3,8 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) અને [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) માર્ગોમાં જોવા મળે છે અલગ-અલગ [લાભ-ગેરલાભ](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). આ બેમાંથી કોઈ પણ લેબલ સાવચેતીપૂર્વક મૂલ્યાંકન કરવાની જરૂરિયાત દૂર કરતું નથી.
 
 
-> **Callout – ગોપનીયતા કાનૂની કે શારીરિક સુરક્ષા સંબંધિત જોખમ દૂર કરતી નથી**
+<!-- card: callout -->
+> **ગોપનીયતા કાનૂની કે શારીરિક સુરક્ષા સંબંધિત જોખમ દૂર કરતી નથી**
 >
 > ન તો [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) કે ન તો [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) આપમેળે શ્રેષ્ઠ છે. વાસ્તવિક માર્ગની તુલના કરો, નિયમો અસ્પષ્ટ હોય ત્યારે વર્તમાન સ્થાનિક માર્ગદર્શન લો, અને સ્થાનિક કાયદો તોડ્યા વિના કે પોતાને શારીરિક જોખમમાં મૂક્યા વિના જ જાળવો તમારી [ગોપનીયતા](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 

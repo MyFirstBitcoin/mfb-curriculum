@@ -22,6 +22,7 @@ Každý modul má stejný průběh:
 
 
 <!-- micrographic: learning-rhythm-strip-01 -->
+[Vzdělávací cyklus v pěti krocích: osvojte si klíčovou myšlenku, ukažte, co dokážete vysvětlit nebo použít v praxi, použijte myšlenku v praxi, vysvětlete ji vlastními slovy a zopakujte si, jak souvisí s dalším modulem.](/micrographics/learning-rhythm-strip-01/cs.md)
 
 
 Aktivním zapojením se naučíte více než tichým čtením. Některé otázky nemají jedinou správnou odpověď. Důležité je, zda dokážete vysvětlit své uvažování, zkoumat důkazy a přehodnotit svůj názor, když se dozvíte něco nového.
@@ -81,7 +82,8 @@ Až přijde čas na procvičování práce s [peněženkou pro Bitcoin](https://
 ### Bezpečnost, odpovědnost a žádné finanční poradenství
 
 
-> **Callout – Nejprve se učte; nejde o doporučení**
+<!-- card: callout -->
+> **Nejprve se učte; nejde o doporučení**
 >
 > Diplom o Bitcoinu slouží pouze ke vzdělávacím účelům. Neposkytuje finanční, investiční, právní ani daňové poradenství. Neslibuje, že bitcoin vzroste na [ceně](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) ani nedoporučuje, abyste jakékoli množství bitcoinu kupovali, prodávali, používali jako zástavu pro půjčku nebo drželi.
 >
@@ -104,6 +106,7 @@ Diplomový kurz tvoří čtyři fáze vzdělávání: **Problém → Řešení �
 
 
 <!-- micrographic: learning-path-roadmap-01 -->
+[Plán ve čtyřech fázích: Problém, Porozumění penězům; Řešení, Jak funguje Bitcoin; Akce, Bezpečné používání Bitcoinu; a Propojení, Bitcoin ve vaší komunitě, každá s vlastní návodnou otázkou.](/micrographics/learning-path-roadmap-01/cs.md)
 
 
 **Modul 4** je povinnou součástí diplomového kurzu a jeho obsah sestavuje vyučující. Vyučující nejlépe znají místní omezení, řešení, nástroje, zdroje, zákony, jazyk, infrastrukturu a potřeby svých studujících. Náplň fáze Propojení, kterou sestavuje vyučující, může zahrnovat vydělávání, spoření, přijímání a utrácení peněz, [druhovrstvá](https://curriculum.myfirstbitcoin.org/lexicon/en/#layer-2) řešení, místní možnosti směny, obchodníky nebo oběhové ekonomiky.
@@ -118,6 +121,7 @@ To, že téma není součástí diplomového kurzu, neznamená, že je nedůlež
 
 
 <!-- micrographic: four-module-table-01 -->
+[Tabulka čtyř modulů s rolí každého z nich, hlavní otázkou a tím, co si studující procvičí: Porozumění penězům, Jak Bitcoin funguje, Bezpečné používání Bitcoinu a Bitcoin ve vaší komunitě.](/micrographics/four-module-table-01/cs.md)
 
 
 Diplomový kurz trvá nejméně osm hodin. Čtyři dvouhodinová setkání představují nejkratší plánovanou podobu kurzu, nikoli časový limit. Váš vyučující může rozdělit modul do více setkání, vrátit se k dříve probírané myšlence nebo změnit pořadí jednotlivých částí, pokud vaše skupina potřebuje více času na diskusi, procvičování, opakování nebo hodnocení. Horní časový limit není stanoven: vyučující nadále odpovídá za to, aby studující měli potřebný čas, aby byly pokryty všechny požadované kompetence a aby byly souvislosti mezi moduly jasné.

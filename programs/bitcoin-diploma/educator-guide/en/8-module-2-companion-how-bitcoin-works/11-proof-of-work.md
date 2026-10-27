@@ -10,6 +10,7 @@ Teach the relationship, not the mathematics:
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+[A miner hashes a proposed block over and over until one result is below the network's target, then broadcasts the block. Nodes check the proof and every rule quickly before the block joins the blockchain: work is costly to produce and easy to verify.](/micrographics/proof-of-work-process-01/en.md)
 
 
 Avoid saying [miners](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) solve useful outside equations. Avoid claiming the energy cost is automatically justified or automatically wasteful.

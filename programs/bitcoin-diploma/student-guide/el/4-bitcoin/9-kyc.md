@@ -3,7 +3,8 @@
 [Οι KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) και [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) διαδρομές συνεπάγονται διαφορετικούς [συμβιβασμούς](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Καμία από τις δύο ετικέτες δεν αναιρεί την ανάγκη για προσεκτική αξιολόγηση.
 
 
-> **Callout – Η ιδιωτικότητα δεν εξαλείφει τους νομικούς κινδύνους ή τους κινδύνους για τη σωματική ασφάλεια**
+<!-- card: callout -->
+> **Η ιδιωτικότητα δεν εξαλείφει τους νομικούς κινδύνους ή τους κινδύνους για τη σωματική ασφάλεια**
 >
 > Ούτε το [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) ούτε το [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) είναι αυτομάτως η καλύτερη επιλογή. Συγκρίνετε την πραγματική διαδρομή, ανατρέξτε σε επικαιροποιημένες τοπικές οδηγίες όταν οι κανόνες είναι ασαφείς και μην παραβιάζετε την τοπική νομοθεσία ούτε να εκθέτετε τον εαυτό σας σε σωματικό κίνδυνο επιδιώκοντας την [ιδιωτικότητα](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 

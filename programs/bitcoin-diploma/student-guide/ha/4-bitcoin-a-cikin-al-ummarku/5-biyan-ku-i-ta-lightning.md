@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[Mai karɓa yana ƙirƙirar buƙatar biyan kuɗi ta Lightning tare da adadin kuɗin a wayarsa, mai aikawa yana sikanin buƙatar sannan ya biya, kuma kuɗin suna isowa a wayar mai karɓa bayan ɗan lokaci kaɗan.](/micrographics/lightning-phone-payment-01/ha.md)
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Biyan kuɗi ta Lightning a matakai shida: mai karɓa yana ƙirƙirar buƙata, mai aikawa yana duba ta da na'ura, ya duba mai karɓa, adadin kuɗi, ma'auni, lokacin ƙarewa da kuɗin hidima, ya amince, biyan kuɗin ya bi ta hanyar sadarwa, sannan walat ɗin biyu su nuna sakamakon. Kowane walat na iya kasancewa ƙarƙashin kulawar wani ko kuma mai shi ne ke kula da shi da kansa, kuma idan biyan kuɗi ya gaza ko lokacinsa ya ƙare, ana sake farawa da sabuwar buƙata.](/micrographics/lightning-payment-sequence-01/ha.md)
 
 
 Lightning na iya sa yin ƙananan biyan kuɗi cikin sauri ta Bitcoin ya zama mai sauƙin aiwatarwa. Zai iya dacewa da wurin karɓar kuɗi na ɗan kasuwa, biyan kuɗi akai-akai a cikin al'umma, sabis na intanet, ko tura kuɗi inda kuɗin caji na ma'amala a kan sarkar zai yi yawa idan aka kwatanta da adadin da ake biya.

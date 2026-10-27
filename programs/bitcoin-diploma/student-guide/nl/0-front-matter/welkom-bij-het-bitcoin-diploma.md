@@ -28,6 +28,7 @@ Deze aanpak is belangrijk omdat geld ieder mens raakt. Mensen moeten de systemen
 
 
 <!-- micrographic: critical-thinking-loop-01 -->
+[Een herhaalbare cyclus van kritisch denken: identificeer de bewering, scheid feiten van voorkeuren, onderzoek het bewijs en de bron, vergelijk alternatieven, benoem een afweging of onzekerheid, en vorm een voorlopige conclusie of vraag.](/micrographics/critical-thinking-loop-01/nl.md)
 
 
 **Gemeenschap** betekent dat onderwijs waardevoller wordt wanneer mensen ideeën bespreken en die verbinden met het lokale leven. Uw docent en medecursisten hebben misschien ervaringen die geen enkel wereldwijd boek kan bevatten. Luister aandachtig, stel vragen en licht uw redenering respectvol toe.
@@ -75,7 +76,8 @@ U kunt de cursus gebruiken om:
 * zich voor te bereiden op verdere studie
 
 
-> **Callout – Kennis gaat vóór handelen**
+<!-- card: callout -->
+> **Kennis gaat vóór handelen**
 >
 > U hoeft geen bitcoin te kopen of op een andere manier te verwerven om het Bitcoin Diploma te behalen. U hoeft ook geen [Bitcoin Wallet](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet) te installeren of eigen geld te gebruiken. Vereiste praktische vaardigheden kunnen worden beoordeeld met een voorbereide oefen-Wallet, een simulatie, een testomgeving, een fysiek model of een door de docent goedgekeurde activiteit met weinig risico.
 
@@ -84,3 +86,4 @@ Als u weinig tijd hebt of een eerste kennismaking met Bitcoin wilt, begin dan me
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[Een optioneel leertraject loopt van de Introductie tot Bitcoin naar het Bitcoin Diploma, vervolgens het Opleidingsprogramma voor Docenten, tot docent worden die lesgeeft met het curriculum van My First Bitcoin, en aansluiten bij het Bitcoin Education Network. Elke volgende stap is een keuze, geen verplichting.](/micrographics/learner-journey-pathway-01/nl.md)

@@ -4,6 +4,7 @@ En [**cirkulär Bitcoin-ekonomi**](https://curriculum.myfirstbitcoin.org/lexicon
 
 
 <!-- micrographic: local-circular-economy-01 -->
+[I en cirkulär ekonomi baserad på Bitcoin går bitcoin från person till person i utbyte mot varor, tjänster och tid. En kund betalar en handlare, handlaren betalar en tjänsteleverantör, tjänsteleverantören betalar en arbetare och arbetaren använder dem igen som kund.](/micrographics/local-circular-economy-01/sv.md)
 
 
 My First Bitcoin stöder [cirkulära Bitcoin-ekonomier](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-circular-economy), och många ingår i Bitcoin Education Network. Utforska dessa lokalsamhällen på [nätverkets översiktspanel](https://network.myfirstbitcoin.org/?min10merchants=1).

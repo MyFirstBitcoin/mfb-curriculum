@@ -1,6 +1,6 @@
 # Quiz – Razumevanje denarja: kratko preverjanje
 
-## Question 1
+## Vprašanje 1
 
 Zakaj ljudje sprejemajo denar?
 
@@ -9,11 +9,11 @@ Zakaj ljudje sprejemajo denar?
 * [ ] Odpravlja vsa pravila
 * [ ] Storitve spreminja v blago
 
-### Explanation
+### Pojasnilo
 
 Denar neznancem pomaga usklajevati menjavo skozi čas, saj ljudje pričakujejo, da ga bodo drugi sprejeli pozneje. Še vedno je odvisen od zaupanja, pravil in družbene sprejetosti. Oglejte si Priročnik za udeležence, modul 1, »Zakaj denar obstaja«.
 
-## Question 2
+## Vprašanje 2
 
 Določanje cen, plačevanje, varčevanje: katere vloge?
 
@@ -22,11 +22,11 @@ Določanje cen, plačevanje, varčevanje: katere vloge?
 * [ ] Menjalno sredstvo; hranilec vrednosti; obračunska enota
 * [ ] Redkost; redkost; redkost
 
-### Explanation
+### Pojasnilo
 
 Obračunska enota izraža cene, menjalno sredstvo se sprejema za plačilo, hranilec vrednosti pa prenaša vrednost v prihodnost. Oglejte si Priročnik za udeležence, modul 1, »Funkcije in lastnosti denarja«.
 
-## Question 3
+## Vprašanje 3
 
 Menjava riža za čevlje ne uspe: zakaj?
 
@@ -35,11 +35,11 @@ Menjava riža za čevlje ne uspe: zakaj?
 * [ ] Ni odobritve banke
 * [ ] Riža ni mogoče zamenjati
 
-### Explanation
+### Pojasnilo
 
 Neposredna blagovna menjava je težavna, kadar si obe osebi ne želita hkrati tega, kar ponuja druga. Gre za obojestransko ujemanje potreb. Oglejte si Priročnik za udeležence, modul 1, »Blagovna menjava in obojestransko ujemanje potreb«.
 
-## Question 4
+## Vprašanje 4
 
 Cene +10 %, dohodek +5 %: kaj se zgodi s kupno močjo?
 
@@ -48,6 +48,6 @@ Cene +10 %, dohodek +5 %: kaj se zgodi s kupno močjo?
 * [x] Zmanjša se
 * [ ] Ni mogoče ugotoviti
 
-### Explanation
+### Pojasnilo
 
 Kupna moč pomeni, kaj lahko kupimo z denarjem. Če cene rastejo hitreje od dohodka, lahko z dohodkom kupimo manj. Oglejte si Priročnik za udeležence, modul 1, »Inflacija in kupna moč«.

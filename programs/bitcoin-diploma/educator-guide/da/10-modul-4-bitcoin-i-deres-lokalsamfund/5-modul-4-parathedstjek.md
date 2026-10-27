@@ -1,6 +1,7 @@
 # 10.5 Modul 4: parathedstjek
 
-> **Callout – Gennemfør ikke en aktivitet i modul 4 under virkelige forhold, før alle kontrolpunkter er opfyldt**
+<!-- card: callout -->
+> **Gennemfør ikke en aktivitet i modul 4 under virkelige forhold, før alle kontrolpunkter er opfyldt**
 >
 > Hvis et af kontrolpunkterne nedenfor ikke er tilfredsstillende opfyldt, skal De bruge en simulering, et forløb på papir eller en anden aktivitet. Kompensér ikke for et usikkert eller ukontrolleret forløb ved at bede deltagerne om at acceptere større risiko.
 
@@ -22,3 +23,4 @@ Gennemfør ikke et modul under virkelige forhold, før alle påkrævede svar er 
 
 
 <!-- micrographic: module-4-readiness-gate-01 -->
+[Otte kontroller dækker formål, kompetence, underviserens færdigheder, værktøjer, lokale regler, sikkerhed, adgang og observation. Alle kontroller skal være tilfredsstillende, før undervisningen gennemføres live; en mangel fører til en sikrere fremgangsmåde eller en revideret plan og en ny vurdering af paratheden.](/micrographics/module-4-readiness-gate-01/da.md)

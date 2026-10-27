@@ -13,6 +13,7 @@ Peer-to-peer does not mean only two computers communicate directly or that no in
 
 
 <!-- micrographic: powers-and-limits-01 -->
+[Users, nodes, miners, developers and services each have some power around Bitcoin's shared rules and public ledger, but none can change the ledger or the rules for everyone alone.](/micrographics/powers-and-limits-01/en.md)
 
 
 ![The educator uses a pointer to explain a network on a presentation board to the beginner and technical learners.](https://cdn.sanity.io/images/vje9ehw2/staging/3999e88f5f80f010b5cd6238a4fe41d1aed8bdb2-1054x1492.png)

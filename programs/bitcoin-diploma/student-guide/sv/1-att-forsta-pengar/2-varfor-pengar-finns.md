@@ -5,6 +5,7 @@ Människor har olika färdigheter, resurser, behov och planer. Utbyte gör det m
 Direkt utbyte är ofta svårt. Den som har det ni behöver kanske inte vill ha det ni erbjuder. Pengar löser detta samordningsproblem.
 
 
+<!-- card: definition -->
 > **Definition – Pengar**
 >
 > Pengar är en [tillgång](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) som människor accepterar eftersom de förväntar sig att andra ska acceptera den senare. Pengar hjälper människor som inte känner varandra att samordna utbyten, registrera [priser](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) och [skulder](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt) och överföra [värde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) över tid och avstånd.

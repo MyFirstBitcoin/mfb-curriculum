@@ -17,6 +17,7 @@ Vraag:
 
 
 <!-- micrographic: bitcoin-atm-off-ramp-01 -->
+[Iemand bij een Bitcoin-geldautomaat verstuurt bitcoin vanaf zijn telefoon en ontvangt lokaal contant geld: één voorbeeld van een manier om bitcoin om te zetten in lokaal geld. Dit is een illustratie, geen aanbeveling.](/micrographics/bitcoin-atm-off-ramp-01/nl.md)
 
 
 **Productie:** De cursist kiest een route voor een verzonnen casus, zet de veilige controles in de juiste volgorde en legt uit welk risico wordt verkleind en welk risico erbij komt.

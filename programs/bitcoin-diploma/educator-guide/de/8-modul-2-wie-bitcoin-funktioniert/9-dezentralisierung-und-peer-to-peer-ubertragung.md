@@ -13,6 +13,7 @@ Peer-to-Peer (P2P) bedeutet nicht, dass nur zwei Computer direkt miteinander kom
 
 
 <!-- micrographic: powers-and-limits-01 -->
+[Nutzer, Nodes, Miner, Entwickler und Dienste haben jeweils eine gewisse Macht rund um die gemeinsamen Regeln und das öffentliche Kassenbuch von Bitcoin, doch keiner von ihnen kann das Kassenbuch oder die Regeln allein für alle ändern.](/micrographics/powers-and-limits-01/de.md)
 
 
 ![Die Lehrkraft erklärt den Einsteigern und den technisch versierten Lernenden mit einem Zeigestab ein Netzwerk an einer Präsentationstafel.](https://cdn.sanity.io/images/vje9ehw2/staging/3999e88f5f80f010b5cd6238a4fe41d1aed8bdb2-1054x1492.png)

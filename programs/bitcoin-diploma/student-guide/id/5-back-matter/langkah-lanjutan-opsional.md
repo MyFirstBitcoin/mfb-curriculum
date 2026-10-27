@@ -36,6 +36,7 @@ Organisasi [Jaringan Pendidikan Bitcoin](https://myfirstbitcoin.org/about/networ
 
 
 <!-- micrographic: final-safety-check-01 -->
+[Daftar periksa keamanan akhir yang telah dicentang: lindungi informasi rahasia, verifikasi detail pembayaran, uji dengan jumlah kecil, dan berhenti saat tertekan. Jika ada hal yang belum jelas, berhentilah dan pelajari lebih lanjut sebelum bertindak.](/micrographics/final-safety-check-01/id.md)
 
 
 Ingat aturan berikut:
@@ -57,6 +58,7 @@ Pendidikan mengurangi risiko, tetapi tidak dapat menghilangkannya. Jika situasin
 
 
 <!-- micrographic: curriculum-source-panel-01 -->
+[Panel dengan kode QR dan tautan tercetak github.com/MyFirstBitcoin/mfb-curriculum, sumber resmi Diploma Bitcoin, tempat Anda memeriksa edisi dan melaporkan kesalahan.](/micrographics/curriculum-source-panel-01/id.md)
 
 
 Diploma Bitcoin adalah kurikulum sumber terbuka yang terus berkembang. Koreksi dan penyempurnaan dapat ditinjau secara publik.

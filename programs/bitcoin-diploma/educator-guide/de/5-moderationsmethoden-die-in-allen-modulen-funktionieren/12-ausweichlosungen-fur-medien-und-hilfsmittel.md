@@ -24,6 +24,7 @@ Offline-Unterricht und Offline-Prüfungen sind gültig. Nutzen Sie bei eingeschr
 
 
 <!-- micrographic: same-competency-any-route-01 -->
+[Live-Werkzeuge, Papiersimulationen und genehmigte barrierefreie Wege können dieselbe Kompetenz unterstützen, wenn der Lernende weiterhin die erforderlichen Entscheidungen trifft und die Lehrkraft gleichwertige Nachweise bewerten kann. Ohne Gleichwertigkeit bereiten Sie vor der Zertifizierung einen anderen Weg vor.](/micrographics/same-competency-any-route-01/de.md)
 
 
 Der Leitfaden für Lernende erklärt dauerhaft gültige Konzepte. Überprüfen Sie aktuelle lokale Gegebenheiten, bevor Sie Gebühren, Gesetze, Steuern, verfügbare Dienste, Wallet-Funktionen oder Händlereinträge vorstellen, und versehen Sie die verwendeten Informationen mit einem Datum.

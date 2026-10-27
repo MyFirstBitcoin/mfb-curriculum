@@ -75,7 +75,8 @@ Pesa ni rasilimali ambayo watu huikubali kwa sababu wanatarajia wengine kuikubal
 * Thamani kupitia wakati na umbali
 
 
-> **Callout – Swali la papo hapo**
+<!-- card: callout -->
+> **Swali la papo hapo**
 >
 > Pesa husaidia kutatua tatizo gani la ubadilishanaji au uratibu?
 
@@ -108,7 +109,8 @@ Aina moja ya pesa inaweza kutimiza kazi moja vizuri kuliko nyingine. Kila aina i
 Hakuna aina inayopata alama kamili. “**Pesa imara**” ni uamuzi wa tathmini: elezeni vigezo na mlinganishe kwa uthabiti.
 
 
-> **Callout – Fikirini kwa kina**
+<!-- card: callout -->
+> **Fikirini kwa kina**
 >
 > Ni sifa zipi zilikuwa muhimu mlipochagua aina moja ya pesa au rasilimali badala ya nyingine?
 
@@ -152,6 +154,7 @@ Uhaba pekee hauhakikishi thamani; mahitaji pia ni muhimu.
 ---
 
 <!-- micrographic: same-water-different-value-01 -->
+[Chupa ileile ya maji safi ni ya bei nafuu katika friji ya duka ambapo maji yanapatikana kwa urahisi, na ina thamani kubwa zaidi katika jangwa lenye joto kali wakati wa uhaba. Upatikanaji, uhitaji na mazingira hubadilisha thamani na bei.](/micrographics/same-water-different-value-01/sw.md)
 
 ---
 
@@ -162,6 +165,7 @@ Uhaba pekee hauhakikishi thamani; mahitaji pia ni muhimu.
 ---
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Mnunuzi mwenye pesa kidogo anaangalia chaguo zilizo mbele yake: chakula cha leo, usafiri, au kuweka akiba kwa ajili ya baadaye. Kuchagua kimoja ni kuacha vingine, na hiyo ndiyo gharama ya fursa; hakuna chaguo lililowekwa alama kuwa ndilo sahihi.](/micrographics/one-choice-two-uses-01/sw.md)
 
 ---
 
@@ -195,6 +199,7 @@ Malipo rahisi na mikopo inayonyumbulika huleta utegemezi kwa taasisi. Ugavi, upa
 ---
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Wahusika katika mfumo wa pesa za fiat na kinachopita kati yao: benki kuu huweka sera na kukamilisha malipo kati ya benki, benki za biashara hushikilia amana ambazo ni dhima yao kwa wateja, huduma za malipo hubeba maagizo, serikali hukusanya kodi na kutumia fedha, na wananchi na biashara hulipa na hulipwa.](/micrographics/fiat-system-flows-01/sw.md)
 
 ---
 
@@ -230,10 +235,12 @@ Mikimbio ya benki inaweza kuathiri upatikanaji wa fedha. Bima na mikopo ya benki
 ---
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Mkopo wa benki uliorahisishwa: mkopaji anaomba, benki inaidhinisha mkopo na kuweka amana mpya kwenye akaunti ya mkopaji, na baadaye mkopaji anairejeshea benki mtaji wa mkopo pamoja na riba.](/micrographics/bank-loan-deposit-01/sw.md)
 
 ---
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Hatari ya ukwasi: wawekaji wengi wanapanga foleni kutoa pesa zao leo, na benki haina pesa taslimu za kutosha sasa ingawa mikopo yake inaweza kulipwa baadaye. Hatari ya ufilisi: wakopaji wanashindwa kulipa mikopo ya nyumba, na mali za benki zinakuwa na thamani ndogo kuliko kile ambacho benki inadaiwa.](/micrographics/liquidity-vs-solvency-01/sw.md)
 
 ---
 
@@ -255,6 +262,7 @@ Upanuzi wa pesa na mikopo unaweza kuchangia, pamoja na ugavi, mahitaji, sarafu, 
 ---
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Vipimo 100 vilevile vya sarafu vinanunua kapu lote la bidhaa za msingi linapogharimu 100, lakini si pale kapu lilelile linapogharimu 110. Kiwango cha bei kimepanda na uwezo wa pesa wa kununua umeshuka.](/micrographics/same-money-smaller-basket-01/sw.md)
 
 ---
 
@@ -308,7 +316,8 @@ CBDC ni pesa ya fiat ya kidijitali inayotolewa kama dhima ya benki kuu: haki amb
 Miundo hutofautiana. Kuwa wa kidijitali hakumaanishi moja kwa moja kuwa ugatuliwa, adimu, wa faragha, au unaoweza kuthibitishwa kwa kujitegemea.
 
 
-> **Callout – Angalia**
+<!-- card: callout -->
+> **Angalia**
 >
 > Nani anaitoa, nani anaweza kuitumia, data gani zinakusanywa, na nani anaweza kuzuia malipo au kubadilisha sheria? Nini hutokea bila mtandao, na kuna kinga gani za kisheria?
 
@@ -327,7 +336,8 @@ Miundo hutofautiana. Kuwa wa kidijitali hakumaanishi moja kwa moja kuwa ugatuliw
 Ni nini kinachoifanya pesa yenu kuwa na manufaa, na ni sheria zipi zinazotegemea taasisi mnazoziamini?
 
 
-> **Callout – Muda wa kutafakari**
+<!-- card: callout -->
+> **Muda wa kutafakari**
 >
 > Ni swali gani moja mnalouliza sasa kuhusu pesa ambalo hamkuwahi kuliuliza hapo awali?
 
@@ -357,6 +367,7 @@ Bitcoin hupunguza utegemezi wa uaminifu wa kati katika utoaji na ukamilishaji wa
 ---
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Kwa kampuni ya malipo, shirika moja linatunza leja na kuidhinisha kila uhamisho. Kwa Bitcoin, mtumaji anatia sahihi muamala, nodi huru zinaukagua na wachimbaji wanauongeza kwenye leja moja ya pamoja, hivyo mpokeaji anategemea kidogo mamlaka kuu.](/micrographics/central-ledger-vs-bitcoin-01/sw.md)
 
 ---
 
@@ -393,6 +404,7 @@ Matumizi maradufu ni jaribio la kutuma kipimo kilekile cha kidijitali kwa wapoke
 ---
 
 <!-- micrographic: five-part-response-01 -->
+[Sehemu tano huungana kutatua tatizo la matumizi mara mbili: mtandao wa rika kwa rika, sahihi za kidijitali, bloku na uchimbaji, uthibitishaji huru, na historia ya pamoja yenye uthibitisho wa kazi mwingi zaidi uliolimbikizwa. Kwa pamoja, huuwezesha mtandao kukataa matumizi ya pili bila mamlaka kuu.](/micrographics/five-part-response-01/sw.md)
 
 ---
 
@@ -411,6 +423,7 @@ Dai la ugavi lililoandikwa halitoshi: ni nani anayeweza kulithibitisha, na ni na
 ---
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Kikomo cha ugavi kilichoandikwa kwenye tovuti au katika hifadhidata ya mtoaji kinaweza kubadilishwa kimyakimya na mtoaji huyo. Kanuni ya ugavi ya Bitcoin iko wazi kwa umma, na sahihi, historia iliyo wazi kwa umma, uthibitisho wa kazi na uhakiki wa nodi kwa pamoja huzuia sarafu mpya kubuniwa au bitcoin ileile kutumiwa mara mbili.](/micrographics/claimed-or-verified-supply-01/sw.md)
 
 ---
 
@@ -452,12 +465,14 @@ Huduma za kati zinabaki kuwa za hiari; kuchagua mojawapo huongeza kanuni zake za
 ---
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[Mtumaji anatia sahihi muamala na kuutangaza kwa nodi nyingi za mtandao, ambazo zinaupitisha hadi unamfikia mpokeaji. Hakuna mwendeshaji mkuu wa Bitcoin anayepaswa kumwidhinisha mtumaji au mpokeaji.](/micrographics/peer-to-peer-route-01/sw.md)
 
 ---
 
 ![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Majukumu manne katika Bitcoin: watumiaji hupokea, huhifadhi na kutuma bitcoin, nodi huthibitisha kanuni kwa kujitegemea, wachimbaji huunda bloku pendekezwa kwa uthibitisho wa kazi, na wasanidi programu hupendekeza programu. Hakuna jukumu moja linalodhibiti mtandao.](/micrographics/bitcoin-participant-roles-01/sw.md)
 
 ---
 
@@ -466,7 +481,8 @@ Huduma za kati zinabaki kuwa za hiari; kuchagua mojawapo huongeza kanuni zake za
 Wachimbaji hawawezi kufanya bloku batili zikubalike na nodi waaminifu. Wasanidi programu hawawezi kulazimisha programu itumike. Mtu mmoja anaweza kutekeleza majukumu kadhaa.
 
 
-> **Callout – Swali la papo hapo**
+<!-- card: callout -->
+> **Swali la papo hapo**
 >
 > Kwa nini nodi huthibitisha miamala? Taja kanuni moja inayoikagua.
 
@@ -489,6 +505,7 @@ Uchimbaji hulinda mpangilio wa miamala; hautatui milinganyo ya nje. Tathmini cha
 ![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Mchimbaji anafanya hashi ya bloku linalopendekezwa tena na tena hadi tokeo moja liwe chini ya lengo la mtandao, kisha analitangaza bloku hilo. Nodi zinakagua uthibitisho na kila sheria haraka kabla bloku halijaunganishwa kwenye blockchain: kazi ni ghali kuzalisha na rahisi kuthibitisha.](/micrographics/proof-of-work-process-01/sw.md)
 
 ---
 
@@ -509,10 +526,12 @@ Nodi hukataa utoaji unaozidi kiwango; kikomo hudumu maadamu washiriki wanakiteke
 ---
 
 <!-- micrographic: bitcoin-issuance-supply-01 -->
+[Ruzuku ya bloku huanza kwa bitcoin 50 na hupunguzwa nusu kila baada ya bloku 210,000, huku jumla ya bitcoin zilizotolewa ikiongezeka kuelekea kikomo cha milioni 21. Ada za miamala hulipwa juu ya hizo na si bitcoin mpya; hakuna utabiri wa bei unaodokezwa.](/micrographics/bitcoin-issuance-supply-01/sw.md)
 
 ---
 
 <!-- micrographic: bitcoin-issuance-subsidy-01 -->
+[Ruzuku ya bloku huanza kwa bitcoin 50 na hupunguzwa nusu kila baada ya bloku 210,000, huku jumla ya bitcoin zilizotolewa ikiongezeka kuelekea kikomo cha milioni 21. Ada za miamala hulipwa juu ya hizo na si bitcoin mpya; hakuna utabiri wa bei unaodokezwa.](/micrographics/bitcoin-issuance-subsidy-01/sw.md)
 
 ---
 
@@ -528,7 +547,8 @@ Nodi hukataa utoaji unaozidi kiwango; kikomo hudumu maadamu washiriki wanakiteke
 **Upendeleo wa kipimo:** bei ya chini kwa kipimo kizima haithibitishi kuwa kuna thamani bora. Linganisheni sehemu ya jumla ya ugavi, thamani inayohusika, na hatari.
 
 
-> **Callout – Onyesheni uelewa wenu**
+<!-- card: callout -->
+> **Onyesheni uelewa wenu**
 >
 > Kuna sats ngapi katika 0.01 BTC? Kwa nini mtu anaweza kutumia kiasi kidogo kuliko bitcoin nzima?
 
@@ -586,7 +606,8 @@ Alama ya biashara inayojulikana, bei inayoonekana thabiti, au programu iliyobore
 * Hakuna maelekezo ya kununua, kuuza, au kushikilia
 
 
-> **Callout – Ukaguzi wa thamani ya ndani**
+<!-- card: callout -->
+> **Ukaguzi wa thamani ya ndani**
 >
 > Tenganisha bei ya soko, kukubalika katika eneo lako, na mapendeleo au upendeleo binafsi.
 
@@ -601,6 +622,7 @@ Tathmini muundo na utendaji wake pamoja na historia ya chimbuko lake.
 ---
 
 <!-- micrographic: bitcoin-origin-timeline-01 -->
+[Chimbuko la Bitcoin katika matukio manne yenye tarehe: tarehe 31 Oktoba 2008 Satoshi Nakamoto alichapisha waraka mweupe (whitepaper), unaoelezea malipo ya moja kwa moja mtandaoni bila mpatanishi wa kifedha; tarehe 3 Januari 2009 Bloku ya Mwanzo (Genesis Block) ilianzisha mtandao wa Bitcoin, ikiwa na kichwa cha habari kuhusu uokoaji wa benki; tarehe 12 Januari 2009 Satoshi alimtumia Hal Finney bitcoin katika muamala wa kwanza uliorekodiwa wa mtu kwa mtu; tarehe 22 Mei 2010 mtumiaji mmoja alilipa BTC 10 000 kwa piza mbili, siku ambayo sasa ni Siku ya Piza ya Bitcoin.](/micrographics/bitcoin-origin-timeline-01/sw.md)
 
 ---
 
@@ -629,7 +651,8 @@ Uwajibikaji binafsi unaweza kujumuisha elimu, ukaguzi wa wenzako, taratibu, na m
 * Kupanga miamala → Proof-of-Work; gharama za vifaa na nishati
 
 
-> **Callout – Wakati wa kutafakari**
+<!-- card: callout -->
+> **Wakati wa kutafakari**
 >
 > Ni sehemu gani ya muundo wa Bitcoin ambayo sasa mngeieleza kwa njia tofauti, na kwa nini?
 
@@ -674,6 +697,7 @@ Pochi za mafunzo hazipaswi kutumika kulinda fedha zenye thamani kubwa. Pochi bin
 ---
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Pochi inahifadhi funguo. Kwa funguo hizo unaweza kupokea na kutuma bitcoin, huku bitcoin yenyewe ikibaki imerekodiwa kwenye leja ya pamoja, si ndani ya simu au kifaa.](/micrographics/wallet-manages-keys-01/sw.md)
 
 ---
 
@@ -699,13 +723,15 @@ Programu hasidi zinaweza kubadilisha anwani zilizonakiliwa. Mwonekano unaofahami
 Kamwe msishiriki funguo za kibinafsi, maneno ya kurejesha (seed phrases), nywila, au misimbo ya urejeshaji. Hakuna mwalimu halali, mhudumu wa usaidizi, kampuni ya pochi, mfanyakazi wa soko la kubadilishana fedha, au msanidi programu anayezihitaji.
 
 
-> **Callout – Jaribuni**
+<!-- card: callout -->
+> **Jaribuni**
 >
 > Pangeni mifano iliyoandaliwa katika makundi ya taarifa za kupokea, siri, na taarifa za umma ambazo huwa nyeti zinapohusishwa na mtu.
 
 ---
 
 <!-- micrographic: private-key-public-info-01 -->
+[Ufunguo binafsi ulio siri, ambao haupaswi kamwe kushirikiwa, huzalisha taarifa za umma zinazoweza kushirikiwa: ufunguo wa umma unaotokana nao na anwani ya kupokea inayoundwa kutokana na ufunguo huo wa umma. Ufunguo binafsi huohuo huunda sahihi ambazo nodi huthibitisha bila kamwe kujua ufunguo binafsi.](/micrographics/private-key-public-info-01/sw.md)
 
 ---
 
@@ -738,7 +764,8 @@ Ikiwa huenda yameonekana, yamenakiliwa, yameingizwa mtandaoni, au yamehifadhiwa 
 Blockchain ya umma haiwezi kuthibitisha kile ambacho huduma inadaiwa na mteja fulani. Kujihifadhi mwenyewe bado kunaweza kutegemea programu, vifaa, seva na mtandao.
 
 
-> **Callout – Jaribu**
+<!-- card: callout -->
+> **Jaribu**
 >
 > Linganisheni maelezo mawili yaliyoandaliwa: nani anadhibiti funguo, nani anarejesha ufikiaji, na ni hatari gani inayohitaji kukaguliwa?
 
@@ -749,6 +776,7 @@ Blockchain ya umma haiwezi kuthibitisha kile ambacho huduma inadaiwa na mteja fu
 ---
 
 <!-- micrographic: who-controls-keys-01 -->
+[Katika uhifadhi wa huduma, huduma inadhibiti funguo na kuidhinisha matumizi, hivyo salio ni ahadi yake. Katika kujihifadhi, mtumiaji anadhibiti funguo na nakala rudufu; njia zote mbili zina utegemezi na hatari za kushindwa.](/micrographics/who-controls-keys-01/sw.md)
 
 ---
 
@@ -776,6 +804,7 @@ Tumieni tu vifaa vilivyoandaliwa, vitupu, au vya kuigiza. Kamwe msifichue maneno
 ---
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[Zoezi la hatua sita la kurejesha pochi ya mafunzo: fuateni maelekezo rasmi, hakikisheni upatanifu, fanyeni kazi faraghani, tumieni njia iliyoidhinishwa ya urejeshaji, thibitisheni pochi inayotarajiwa, kisha wekeni upya. Tumieni vifaa vilivyoandaliwa, vitupu au vya kuigiza pekee, na mwalimu kamwe haoni maneno ya urejeshaji.](/micrographics/practice-wallet-recovery-01/sw.md)
 
 ---
 
@@ -804,6 +833,7 @@ Idhinisha tu pale ambapo kila ukaguzi unalingana. Ikiwa maelezo yatabadilika, ha
 ---
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Kabla ya kuidhinisha malipo, mtumaji hukagua mpokeaji na madhumuni, njia ya malipo, mahali pa kupokelea, na kiasi, kipimo, ada au muda wa kuisha, akitumia jaribio dogo wakati mchakato si wa kawaida kwake. Ikiwa kuna kitu kinachotofautiana, husimama na kuthibitisha; huidhinisha tu wakati kila kitu kinalingana, kisha hukagua matokeo.](/micrographics/pre-send-checklist-01/sw.md)
 
 ---
 
@@ -823,6 +853,7 @@ Tumieni mifano iliyoandaliwa; msitafute anwani au muamala binafsi wa mwanafunzi.
 ---
 
 <!-- micrographic: confirmation-timeline-01 -->
+[Muamala unasubiri bila kuthibitishwa katika hifadhi ya miamala inayosubiri, kisha unajumuishwa katika Bloku N kama uthibitisho wake wa kwanza, na kila bloku inayofuata huongeza uthibitisho mmoja zaidi.](/micrographics/confirmation-timeline-01/sw.md)
 
 ---
 
@@ -835,7 +866,8 @@ Tumieni mifano iliyoandaliwa; msitafute anwani au muamala binafsi wa mwanafunzi.
 **Sitisha. Usishiriki chochote. Usitume chochote. Funga njia ya mawasiliano. Thibitisha kwa njia huru. Omba msaada bila kufichua siri.**
 
 
-> **Callout – Jaribu**
+<!-- card: callout -->
+> **Jaribu**
 >
 > Tambua ishara ya onyo ya ujumbe ulioandaliwa, hasara inayoweza kutokea, na hatua ya kwanza salama.
 
@@ -844,6 +876,7 @@ Tumieni mifano iliyoandaliwa; msitafute anwani au muamala binafsi wa mwanafunzi.
 ---
 
 <!-- micrographic: scam-red-flags-01 -->
+[Ishara tano za tahadhari za utapeli: shinikizo la haraka, kujifanya mtu mwingine, mahali pa kutuma palipobadilishwa, faida zilizohakikishwa na maombi ya siri.](/micrographics/scam-red-flags-01/sw.md)
 
 ---
 
@@ -860,10 +893,12 @@ Hakuna njia wala mtoa huduma aliye bora moja kwa moja. **KYC** inamaanisha ukagu
 ---
 
 <!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Mtu mmoja anaweza kupokea bitcoin kwa njia nne tofauti: kuipata kupitia kazi au mauzo, kubadilishana pesa taslimu za ndani na mtu mwingine, kutumia soko la ubadilishaji au dalali, au kutumia ATM. Kila njia inaishia kwenye uhifadhi binafsi au salio linaloshikiliwa na mtunzaji, na hakuna njia inayopendekezwa kuliko nyingine.](/micrographics/ways-to-receive-bitcoin-01/sw.md)
 
 ---
 
 <!-- micrographic: exchange-risk-questions-01 -->
+[Maeneo sita ya hatari ya kukagua kabla ya kupata au kubadilisha bitcoin, kila moja likiwa na swali la kuuliza: gharama, uhifadhi, utambulisho na faragha, utoaji na ukamilishaji, mhusika mwingine na usalama, na muktadha wa mahali.](/micrographics/exchange-risk-questions-01/sw.md)
 
 ---
 
@@ -909,7 +944,8 @@ Tumieni mazingira ya mafunzo yaliyokubaliwa. Simameni kunapokuwa na tofauti; omb
 Rafiki anatuma ombi huku msaada usiojulikana ukidai hatua ya haraka. Ni nini mngeweza kukagua kabla ya kufanya lolote?
 
 
-> **Callout – Muda wa kutafakari**
+<!-- card: callout -->
+> **Muda wa kutafakari**
 >
 > Ni ukaguzi upi wa usalama mtasimama kuufanya kabla ya kuchukua hatua?
 
@@ -928,6 +964,7 @@ Rafiki anatuma ombi huku msaada usiojulikana ukidai hatua ya haraka. Ni nini mng
 ## Moduli Yako ya Ndani 4
 
 <!-- micrographic: local-module-four-actions-01 -->
+[Katika Moduli ya 4 ya kienyeji, mwanafunzi hupitia vitendo vinne: kuunganisha wazo kutoka Moduli ya 1 hadi ya 3 na hitaji la kienyeji, kulinganisha Bitcoin na chaguo halisi lililopo, kufanya mazoezi kwa usalama kwa mwongozo, na kueleza alichojifunza pamoja na hatua inayofuata ya kuwajibika. Mwalimu wake, na wakati mwingine mtaalamu wa kienyeji, humwongoza katika kipindi chote.](/micrographics/local-module-four-actions-01/sw.md)
 
 
 Andikeni lengo lenu la kienyeji: tatizo au fursa, mbadala, hali salama, faida kuu na hatari kuu, pamoja na hatua inayofuata iliyo salama.
@@ -979,10 +1016,12 @@ Malipo madogo yaliyofanikiwa hayathibitishi usalama kwa salio kubwa zaidi.
 ---
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[Mpokeaji anaunda ombi la malipo la Lightning lenye kiasi kwenye simu yake, mtumaji analichanganua na kulipa, na malipo yanafika kwenye simu ya mpokeaji muda mfupi baadaye.](/micrographics/lightning-phone-payment-01/sw.md)
 
 ---
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Malipo ya Lightning katika hatua sita: mpokeaji anaunda ombi, mtumaji analichanganua, anakagua mpokeaji, kiasi, kipimo, muda wa kuisha na ada, anaidhinisha, malipo yanapitishwa, na pochi zote mbili zinaonyesha matokeo. Kila pochi inaweza kuwa ya mtunzaji au unaijitunza mwenyewe, na malipo yaliyoshindwa au ambayo muda wake umeisha huanza upya kwa ombi jipya.](/micrographics/lightning-payment-sequence-01/sw.md)
 
 ---
 
@@ -1034,6 +1073,7 @@ Chagueni au rekebisheni matukio ya mwongozo ili yaendane na kazi ya eneo lenu. H
 ---
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[Malipo katika mkahawa kwa hatua nne: mteja anaagiza, muhudumu anatuma ankara, mteja analipa kwa bitcoin kutoka kwenye simu yake, na muhudumu anakabidhi kahawa.](/micrographics/coffee-shop-payment-01/sw.md)
 
 ---
 
@@ -1094,6 +1134,7 @@ Idadi ya watumiaji pekee haithibitishi manufaa. Mahitaji, zana, elimu au usalama
 ---
 
 <!-- micrographic: local-circular-economy-01 -->
+[Katika uchumi duara wa Bitcoin, bitcoin hupita kutoka mtu mmoja hadi mwingine kwa kubadilishana na bidhaa, huduma na muda. Mteja humlipa mfanyabiashara, mfanyabiashara humlipa mtoa huduma, mtoa huduma humlipa mfanyakazi, na mfanyakazi huitumia tena akiwa mteja.](/micrographics/local-circular-economy-01/sw.md)
 
 ---
 
@@ -1151,6 +1192,7 @@ Kamilisheni kila mmoja peke yake, kisha linganisheni hoja zenu na kikundi chenu.
 * Ushiriki wenye manufaa katika jamii ni wa hiari na huwalinda watu
 
 
-> **Callout – Muda wa kutafakari**
+<!-- card: callout -->
+> **Muda wa kutafakari**
 >
 > Ni swali gani mngeuliza kabla ya kuamua iwapo njia ya Bitcoin inafaa hitaji la eneo lenu?

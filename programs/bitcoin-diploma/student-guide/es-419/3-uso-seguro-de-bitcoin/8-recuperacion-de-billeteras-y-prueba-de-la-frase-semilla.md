@@ -8,6 +8,7 @@ Una práctica segura para prepararse para la recuperación es sencilla:
 
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[Una práctica de seis pasos para recuperar una billetera de práctica: siga las instrucciones oficiales, verifique la compatibilidad, trabaje en privado, use el método de recuperación aprobado, confirme que sea la billetera esperada y luego restablezca el entorno. Use solo materiales preparados, vacíos o simulados; el educador nunca ve las palabras de recuperación.](/micrographics/practice-wallet-recovery-01/es-419.md)
 
 
 No utilice una billetera de práctica ni su información de recuperación para resguardar cantidades importantes de dinero después del Diplomado. Una billetera personal, si decide crear una más adelante, necesita una nueva configuración privada y nueva información de recuperación.

@@ -1,5 +1,6 @@
 # 1.12 কেন্দ্রীয় ব্যাংকের ডিজিটাল মুদ্রা (CBDCs)
 
+<!-- card: definition -->
 > **Definition – কেন্দ্রীয় ব্যাংকের ডিজিটাল মুদ্রা (সিবিডিসি)**
 >
 > একটি [কেন্দ্রীয় ব্যাংকের ডিজিটাল মুদ্রা](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), বা [সিবিডিসি](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), হলো ডিজিটাল রূপে থাকা [ফিয়াট মুদ্রা](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) যা ইস্যু করা হয় [দায়](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability) হিসেবে একটি [কেন্দ্রীয় ব্যাংক কর্তৃক](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank): এটি এমন একটি পাওনা, যা [কেন্দ্রীয় ব্যাংক](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) তার ধারককে পরিশোধ করতে বাধ্য। এটি নগদ অর্থ এবং সাধারণ বাণিজ্যিক ব্যাংকের আমানত থেকে আলাদা, যদিও ব্যবহারকারীর অভিজ্ঞতা একই রকম মনে হতে পারে।
@@ -13,6 +14,7 @@
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[নগদ অর্থ, ব্যাংক আমানত, খুচরা CBDC ও বিটকয়েনের তুলনামূলক একটি সারণি, যেখানে এগুলোর ইস্যুকারী, রূপ, ব্যবহারের সুযোগ, লেনদেনের দৃশ্যমানতা, সরবরাহের নিয়ম ও যাচাইয়ের পদ্ধতি দেখানো হয়েছে। ডিজিটাল হওয়া আর বিকেন্দ্রীভূত হওয়া এক নয়: CBDC-ও কেন্দ্রীয় ব্যাংকই ইস্যু করে, এবং এটি ব্যবহারের সুযোগ, লেনদেনের দৃশ্যমানতা ও যাচাইয়ের পদ্ধতি এর নকশার ওপর নির্ভর করে।](/micrographics/cbdc-comparison-table-01/bn.md)
 
 
 ডিজিটাল মানেই বিকেন্দ্রীভূত, দুষ্প্রাপ্য, গোপনীয়তা রক্ষাকারী বা স্বাধীন যাচাইয়ের জন্য উন্মুক্ত নয়। একটি [সিবিডিসি](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) ডিজিটাল প্রযুক্তি ব্যবহার করতে পারে, কিন্তু সেটি তখনও [ফিয়াট মুদ্রা](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) যদি এর [ইস্যুকারী](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer), সরবরাহের নিয়ম, ব্যবহারের সুযোগসংক্রান্ত নিয়ম এবং পেমেন্টের অনুমতি কেন্দ্রীয়ভাবে পরিচালিত হয়।

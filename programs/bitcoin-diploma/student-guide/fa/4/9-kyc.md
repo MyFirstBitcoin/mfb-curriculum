@@ -3,7 +3,8 @@
 [احراز هویت](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) و [بدون احراز هویت](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) مسیرهایی با [بده‌بستان‌های متفاوت‌اند](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). هیچ‌یک از این دو عنوان، نیاز به ارزیابی دقیق را برطرف نمی‌کند.
 
 
-> **Callout – حریم خصوصی، خطرهای قانونی یا خطرهای مربوط به ایمنی جسمی را از بین نمی‌برد**
+<!-- card: callout -->
+> **حریم خصوصی، خطرهای قانونی یا خطرهای مربوط به ایمنی جسمی را از بین نمی‌برد**
 >
 > نه مسیر [احراز هویت](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) و نه مسیر [بدون احراز هویت](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) به‌خودی‌خود بهترین گزینه نیستند. مسیر واقعی را مقایسه کنید، هنگام ابهام در مقررات از راهنمایی‌های محلیِ به‌روز استفاده کنید و برای دستیابی به [حریم خصوصی](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy)، قوانین محلی را نقض نکنید و خود را در معرض خطر جسمی قرار ندهید.
 

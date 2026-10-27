@@ -1,4 +1,4 @@
-# 1.10 Why the US dollar is a world reserve currency?
+# 1.10 Why the US dollar is a world reserve currency
 
 A **reserve [currency](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency)** is a [currency](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) that [central banks](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) and governments hold and use for international payments. Before the First World War, the British pound played this role most strongly. The war weakened European [currencies](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) and financial centers, while the United States supplied goods and accumulated [gold](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold). This increased international use of the dollar.
 

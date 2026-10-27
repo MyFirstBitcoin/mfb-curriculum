@@ -6,6 +6,7 @@ Wat sou u laat stop voordat u ’n betaling maak of iets installeer? Beskou die 
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Vyf waarskuwingstekens van bedrog: dringendheid, identiteitsnabootsing, 'n veranderde bestemming, gewaarborgde opbrengste en versoeke om geheime.](/micrographics/scam-red-flags-01/af.md)
 
 
 Die veilige reaksie is altyd: **Wag eers. Deel niks. Stuur niks. Sluit die kanaal. Verifieer onafhanklik deur ’n bekende bron. Vra hulp sonder om geheime te verklap.** ’n Bekende bron is ’n amptelike webwerf, ’n toepassinginskrywing of ’n kontakmetode wat u onafhanklik bereik het, nie deur ’n advertensie, direkte boodskap of onverwagte skakel nie. Kontroleer die uitgewer en webadres, vergelyk dit met amptelike dokumentasie en soek kontakbesonderhede afsonderlik op. As die bron, instruksies of betalingsbesonderhede van die gedemonstreerde proses verskil, wag eers en vra hulp by u opvoeder of ’n betroubare plaaslike ondersteuningspersoon sonder om ’n [saadfrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) of [Privaat sleutel](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) te verklap. ’n Werklike geleentheid kan ’n deeglike kontrole deurstaan; ’n bedrogspul hang dikwels daarvan af om so ’n kontrole te verhoed.

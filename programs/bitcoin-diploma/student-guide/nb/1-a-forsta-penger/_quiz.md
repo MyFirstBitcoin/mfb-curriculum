@@ -1,6 +1,6 @@
 # Quiz – Forstå penger: rask kunnskapssjekk
 
-## Question 1
+## Spørsmål 1
 
 Hvorfor godtas penger?
 
@@ -9,11 +9,11 @@ Hvorfor godtas penger?
 * [ ] De fjerner alle regler
 * [ ] De gjør tjenester om til varer
 
-### Explanation
+### Forklaring
 
 Penger hjelper fremmede med å samordne utveksling over tid fordi folk forventer at andre vil godta dem senere. Det avhenger fortsatt av tillit, regler og sosial aksept. Se studentveiledningen, modul 1, «Hvorfor penger finnes».
 
-## Question 2
+## Spørsmål 2
 
 Priset, betalt, spart: hvilke funksjoner?
 
@@ -22,11 +22,11 @@ Priset, betalt, spart: hvilke funksjoner?
 * [ ] Byttemiddel; verdioppbevaringsmiddel; regneenhet
 * [ ] Knapphet; knapphet; knapphet
 
-### Explanation
+### Forklaring
 
 En regneenhet uttrykker priser, et byttemiddel godtas som betaling, og et verdioppbevaringsmiddel bevarer verdi for fremtiden. Se studentveiledningen, modul 1, «Pengenes funksjoner og egenskaper».
 
-## Question 3
+## Spørsmål 3
 
 Ris mot sko fungerer ikke: hvorfor?
 
@@ -35,11 +35,11 @@ Ris mot sko fungerer ikke: hvorfor?
 * [ ] Ingen godkjenning fra banken
 * [ ] Ris kan ikke byttes
 
-### Explanation
+### Forklaring
 
 Direkte byttehandel er vanskelig når begge parter ikke samtidig ønsker det den andre tilbyr. Dette kalles dobbelt sammenfall av ønsker. Se studentveiledningen, modul 1, «Byttehandel og dobbelt sammenfall av ønsker».
 
-## Question 4
+## Spørsmål 4
 
 Priser +10%, inntekt +5%: kjøpekraft?
 
@@ -48,6 +48,6 @@ Priser +10%, inntekt +5%: kjøpekraft?
 * [x] Synker
 * [ ] Kan ikke avgjøres
 
-### Explanation
+### Forklaring
 
 Kjøpekraft er det penger kan kjøpe. Hvis prisene stiger raskere enn inntekten, kan inntekten kjøpe mindre. Se studentveiledningen, modul 1, «Inflasjon og kjøpekraft».

@@ -21,6 +21,7 @@ Dit zijn geen cijfers. Beide onderdelen moeten volledig zijn afgerond en elke ve
 
 
 <!-- micrographic: two-completion-gates-01 -->
+[De theoriecompetenties C1 t/m C5 en de praktijkcompetenties C6 en C7 moeten elk een Ja krijgen voordat het certificaat van voltooiing wordt uitgereikt. Nog niet betekent meer oefening en een herbeoordeling; aanwezigheid en reflectie vervangen geen van beide toetsmomenten.](/micrographics/two-completion-gates-01/nl.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/2783871f5851cf80c2e6e2a93eeb911607939507-1536x1024.svg)

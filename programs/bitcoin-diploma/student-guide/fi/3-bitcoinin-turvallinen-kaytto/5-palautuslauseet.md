@@ -1,5 +1,6 @@
 # 3.5 Palautuslauseet
 
+<!-- card: definition -->
 > **Definition – Siemenlause**
 >
 > Niin sanottu [siemenlause](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), jota kutsutaan myös nimellä [palautuslause](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), on tietyssä järjestyksessä oleva sanaluettelo, jota monet lompakot käyttävät johtaakseen ja palauttaakseen joukon [yksityisiä avaimia](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key). [Yksityinen avain](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) valtuuttaa varojen käytön; [siemenlause](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) on tavallisesti varmuuskopio, jonka avulla lompakon avaimet voidaan luoda uudelleen. Tavallisia pituuksia ovat 12 tai 24 sanaa, mutta lompakkojen toteutukset vaihtelevat.
@@ -8,13 +9,15 @@
 Sanojen järjestyksellä ja oikeinkirjoituksella on merkitystä. Jos henkilöllä on hallussaan [siemenlause](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), hän voi usein palauttaa lompakon toiselle yhteensopivalle laitteelle ja käyttää varat. [Siemenlause](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) ei siis ole pelkkä varmuuskopio. Se antaa täyden pääsyn varoihin.
 
 
-> **Callout – Älkää koskaan jakako palautustietoja**
+<!-- card: callout -->
+> **Älkää koskaan jakako palautustietoja**
 >
 > Julkiset vastaanottotiedot voi jakaa. [Yksityinen avain](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), [siemenlause](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), salasana tai palautuskoodi on pidettävä salassa. Yksikään luotettava kouluttaja, lompakkoyritys, pörssin työntekijä, tukihenkilö tai Bitcoin-kehittäjä ei tarvitse niitä. Jos [siemenlause](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) on saatettu nähdä, kopioida, syöttää verkkoon tai tallentaa epäluotettavalle laitteelle, olettakaa sen joutuneen vääriin käsiin ja hakekaa apua paljastamatta sitä.
 
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Palautuslause on järjestetty sanalista, tässä kaksitoista numeroitua esimerkkisanaa paperille kirjoitettuina. Oikeilla sanoilla oikeassa järjestyksessä voi palauttaa hallinnan yhteensopivassa lompakossa, joten palautuslause pidetään salassa ja verkon ulkopuolella.](/micrographics/seed-phrase-on-paper-01/fi.md)
 
 
 Suojatkaa [siemenlause](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) näiden sääntöjen avulla:
@@ -30,6 +33,7 @@ Jotkin lompakot käyttävät ylimääräisiä tunnuslauseita, useita avaimia tai
 
 
 <!-- micrographic: seed-phrase-paper-backup-01 -->
+[Palautuslauseen varmuuskopion kirjoittaminen kolmessa vaiheessa: lompakon näyttö näyttää sanat, kopioitte ne käsin paperille samassa järjestyksessä ja tarkistatte sitten jokaisen sanan näytöltä. Tehkää tämä muiden näkemättä ja ilman verkkoyhteyttä.](/micrographics/seed-phrase-paper-backup-01/fi.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)

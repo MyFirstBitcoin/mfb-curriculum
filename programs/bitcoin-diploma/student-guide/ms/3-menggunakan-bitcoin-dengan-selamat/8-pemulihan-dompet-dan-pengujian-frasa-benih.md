@@ -8,6 +8,7 @@ Latihan persediaan pemulihan yang selamat adalah mudah:
 
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[Latihan enam langkah untuk memulihkan dompet latihan: ikuti arahan rasmi, semak keserasian, bekerja secara tertutup, gunakan kaedah pemulihan yang diluluskan, sahkan dompet yang dijangkakan, kemudian tetapkan semula. Gunakan hanya bahan yang telah disediakan, kosong atau disimulasikan, dan pendidik tidak sekali-kali melihat perkataan pemulihan.](/micrographics/practice-wallet-recovery-01/ms.md)
 
 
 Jangan gunakan dompet latihan atau maklumat pemulihannya untuk menyimpan dana yang bernilai besar selepas tamat Diploma. Jika anda memilih untuk mencipta dompet peribadi kemudian, dompet itu memerlukan persediaan baharu yang dilakukan secara tertutup serta maklumat pemulihan baharu.

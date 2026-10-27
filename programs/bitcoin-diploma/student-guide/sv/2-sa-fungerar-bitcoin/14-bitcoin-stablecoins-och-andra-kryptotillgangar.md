@@ -7,8 +7,7 @@ När ni jämför en [digital tillgång](https://curriculum.myfirstbitcoin.org/le
 Jämförelsen nedan skiljer mellan kategorier och utformningsval. Den är inte ett stöd för, en rekommendation av eller ett påstående om att någon [tillgång](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) är säker, tillförlitlig eller lämplig för er.
 
 
-> **Dark**
->
+<!-- card: dark -->
 > Bedrägerier, vilseledande påståenden och osäkra tjänster kan påverka alla typer av [digitala tillgångar](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-asset) eller betalningsvägar. Granska den specifika [tillgång](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset), tjänst och lösning för [förvaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) som används i stället för att anta att en kategori i sig är säker eller osäker.
 
 

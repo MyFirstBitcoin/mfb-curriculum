@@ -13,6 +13,7 @@ Ukažte rozdíl mezi:
 
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Peněženka uchovává klíče. Pomocí nich můžete přijímat a odesílat bitcoin, zatímco samotný bitcoin zůstává zaznamenán ve sdílené účetní knize, nikoli uvnitř telefonu nebo zařízení.](/micrographics/wallet-manages-keys-01/cs.md)
 
 
 Zeptejte se:

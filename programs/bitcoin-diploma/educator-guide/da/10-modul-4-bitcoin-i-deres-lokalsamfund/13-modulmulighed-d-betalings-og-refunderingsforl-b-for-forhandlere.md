@@ -18,6 +18,7 @@ Gennemgå:
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[En erhvervsdrivende, der accepterer Bitcoin, arbejder inden for fire områder: markedsføring, oplæring, regnskab og salg.](/micrographics/merchant-payment-operations-01/da.md)
 
 
 **Praktisk opgave:** Kursisten gennemfører eller leder et scenarie med betaling og tilbagebetaling. Kursisten skal verificere kundens identitet, anmode om nye tilbagebetalingsoplysninger, kontrollere destinationen og beløbet, fastslå, hvem der betaler et eventuelt gebyr, og registrere resultatet uden at afsløre unødvendige data.

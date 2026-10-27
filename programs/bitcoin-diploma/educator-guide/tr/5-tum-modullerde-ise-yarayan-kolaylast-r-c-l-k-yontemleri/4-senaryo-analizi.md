@@ -14,3 +14,4 @@ Gerçekçi, kurgusal karakterler ve yerel koşullar kullanın. Şunları sorun:
 
 
 <!-- micrographic: scenario-analysis-path-01 -->
+[Kurgusal bir senaryo, kişinin hedefinden ve doğrulanmış olgulardan başlayarak kontrolün kimde olduğuna, seçeneklere, nelerin ters gidebileceğine ve atılabilecek en küçük güvenli sonraki adıma doğru ilerler. Bir koşulun değiştirilmesi, akıl yürütmeyi bu değişikliğin etkilediği karara geri götürür.](/micrographics/scenario-analysis-path-01/tr.md)

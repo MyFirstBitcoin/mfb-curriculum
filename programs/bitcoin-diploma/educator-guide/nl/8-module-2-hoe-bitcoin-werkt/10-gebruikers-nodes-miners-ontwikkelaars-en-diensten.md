@@ -14,6 +14,7 @@ Gebruik precies deze afbakeningen voor beginners:
 
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Vier rollen in Bitcoin: gebruikers ontvangen, bewaren en versturen bitcoin, nodes controleren zelfstandig de regels, miners stellen kandidaat-blokken samen met proof of work en ontwikkelaars stellen software voor. Geen enkele rol heeft zeggenschap over het netwerk.](/micrographics/bitcoin-participant-roles-01/nl.md)
 
 
 #### Activiteit: ongeldig block

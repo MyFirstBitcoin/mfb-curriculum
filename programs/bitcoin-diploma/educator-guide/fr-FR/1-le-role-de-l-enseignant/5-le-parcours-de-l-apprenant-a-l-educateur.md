@@ -13,3 +13,4 @@ Présentez ce parcours comme une possibilité de progression au-delà du Diplôm
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[Un parcours d’apprentissage facultatif mène de l’Introduction à Bitcoin au Diplôme Bitcoin, puis au Programme de formation des enseignants, pour devenir un enseignant qui s’appuie sur le programme de My First Bitcoin et rejoindre le Réseau d’éducation à Bitcoin. Chaque étape suivante est un choix, et non une obligation.](/micrographics/learner-journey-pathway-01/fr-FR.md)

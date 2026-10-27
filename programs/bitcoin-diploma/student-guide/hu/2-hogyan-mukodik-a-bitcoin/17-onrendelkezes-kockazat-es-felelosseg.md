@@ -13,6 +13,5 @@ Ha valaki úgy dönt, hogy [saját maga kezeli a kulcsait](https://curriculum.my
 [A saját kulcskezelés](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) tehát nem pusztán technikai funkció. Megköveteli a biztonsági másolatok védelmét, a címek ellenőrzését, a tárca működésének ellenőrzését és egy helyreállítási terv kidolgozását. A következő modul bemutatja, hogyan lehet körültekintően tartani és használni a bitcoint, beleértve e kockázatok és felelősségek kezelését is.
 
 
-> **Light**
->
+<!-- card: light -->
 > A személyes felelősség nem jelenti azt, hogy egyedül kell cselekedni vagy vissza kell utasítani a segítséget. Egy körültekintő tanuló támaszkodhat az oktatásra, mások általi ellenőrzésre, dokumentált eljárásokra és kis léptékű próbákra anélkül, hogy bárkinek hozzáférést adna titkos információkhoz.

@@ -4,6 +4,7 @@ Sie durchlaufen drei Phasen: **Präsentation**, in der Ihre Lehrkraft den Ablauf
 
 
 <!-- micrographic: presentation-practice-production-01 -->
+[Eine praktische Fähigkeit wird in drei Stufen erlernt, von links nach rechts: Präsentation, bei der die Lehrkraft den Ablauf und seine Risiken vorführt, dann Übung, angeleitetes Einüben mit sicheren Trainingsmaterialien, und schließlich Anwendung, bei der die Lernenden selbstständig eine Aufgabe erledigen oder eine Entscheidung erläutern.](/micrographics/presentation-practice-production-01/de.md)
 
 
 Ihr Workshop kann Folgendes umfassen:

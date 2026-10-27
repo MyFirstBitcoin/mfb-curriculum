@@ -11,6 +11,7 @@ Een Lightning-wallet kan custodial of self-custodial zijn. Een [hardware wallet]
 
 
 <!-- micrographic: hot-and-cold-wallets-01 -->
+[Een hot wallet bewaart de ondertekeningssleutels op een apparaat dat met het internet is verbonden, zoals een telefoon; bij Cold Storage blijven ze weg van elk verbonden apparaat. Wie de sleutels beheert, is een aparte vraag.](/micrographics/hot-and-cold-wallets-01/nl.md)
 
 
 Vraag de deelnemers een hulpmiddel te kiezen voor een verzonnen doel en laat hen vervolgens het voordeel en het nieuwe risico benoemen. Vraag hen niet om een keuze te maken voor hun werkelijke bezittingen.

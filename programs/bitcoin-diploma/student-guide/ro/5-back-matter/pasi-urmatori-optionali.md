@@ -36,6 +36,7 @@ Rețeaua [de educație Bitcoin](https://myfirstbitcoin.org/about/network) pune �
 
 
 <!-- micrographic: final-safety-check-01 -->
+[O listă finală de verificări de siguranță, cu toate punctele bifate: protejați informațiile secrete, verificați detaliile plății, testați cu sume mici și opriți-vă dacă sunteți sub presiune. Dacă ceva nu este clar, opriți-vă și informați-vă mai bine înainte de a acționa.](/micrographics/final-safety-check-01/ro.md)
 
 
 Rețineți aceste reguli:
@@ -57,6 +58,7 @@ Educația reduce riscul, dar nu îl poate elimina. Dacă o situație este neclar
 
 
 <!-- micrographic: curriculum-source-panel-01 -->
+[Un panou cu un cod QR și linkul tipărit github.com/MyFirstBitcoin/mfb-curriculum, sursa oficială a Diplomei Bitcoin, unde puteți verifica ediția și raporta erori.](/micrographics/curriculum-source-panel-01/ro.md)
 
 
 Diploma Bitcoin este o programă cu sursă deschisă, aflată în continuă evoluție. Corecturile și îmbunătățirile pot fi analizate public.

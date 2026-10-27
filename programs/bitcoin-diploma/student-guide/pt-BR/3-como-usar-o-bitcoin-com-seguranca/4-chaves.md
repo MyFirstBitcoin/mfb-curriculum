@@ -3,6 +3,7 @@
 A propriedade de bitcoin é garantida por meio de chaves criptográficas.
 
 
+<!-- card: definition -->
 > **Definition – Chave Privada**
 >
 > Uma [chave privada](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) é uma informação secreta que permite a uma carteira criar [assinaturas digitais](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) válidas. Uma assinatura autoriza o gasto de bitcoin controlado pela chave correspondente. Qualquer pessoa que obtenha a [chave privada](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) geralmente consegue gastar esses fundos.
@@ -21,10 +22,10 @@ A maioria das carteiras para iniciantes usa [assinatura única](https://curricul
 Nenhum educador legítimo, empresa de carteiras, funcionário de corretora, profissional de suporte técnico ou desenvolvedor de Bitcoin precisa da sua [chave privada](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) ou da sua [frase-semente](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase). Qualquer pessoa que pedir essas informações deve ser tratada como uma ameaça.
 
 
-> **Light**
->
+<!-- card: light -->
 > **Experimente:** Classifique exemplos preparados em três grupos: seguro para compartilhar para recebimento, informação secreta de gasto e informação que pode ser pública, mas que ainda assim deve ser mantida privada quando vinculada a uma pessoa.
 
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[Uma chave privada secreta, que nunca deve ser compartilhada, dá origem a informações públicas que podem ser compartilhadas: uma chave pública derivada dela e um endereço de recebimento criado a partir dessa chave pública. A mesma chave privada cria assinaturas que os nós verificam sem nunca conhecer a chave privada.](/micrographics/private-key-public-info-01/pt-BR.md)

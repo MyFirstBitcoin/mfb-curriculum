@@ -24,6 +24,7 @@ Vid växling genom ett fysiskt möte bör ni använda en offentlig och lämplig 
 
 
 <!-- micrographic: compare-local-pathways-01 -->
+[En tom tabell för att jämföra tre lokala alternativ, A, B och C, utifrån namn, KYC-krav, förvaringsmodell, nätverk som stöds, anseende och insättningsmetoder, med utrymme för anteckningar.](/micrographics/compare-local-pathways-01/sv.md)
 
 
 

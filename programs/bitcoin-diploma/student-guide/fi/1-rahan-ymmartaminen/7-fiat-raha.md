@@ -1,5 +1,6 @@
 # 1.7 Fiat-raha
 
+<!-- card: definition -->
 > **Definition – Fiat-raha**
 >
 > [Fiat-raha](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) on [valuuttaa](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) jota lasketaan liikkeeseen valtion valtuutuksella, yleensä [keskuspankin välityksellä](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank), ja jota ei voi lunastaa ennalta määrättyyn määrään jotakin hyödykettä, kuten [kultaa](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold). Valtiot tukevat sen käyttöä — ja joissakin tilanteissa määräävät sen käytöstä — vaatimalla verojen maksamista sillä ja säätämällä laillista maksuvälinettä koskevia sääntöjä. Maksujen vastaanottamista ja [velkojen](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt) suorittamista koskevat tarkat säännöt vaihtelevat lainkäyttöalueittain.
@@ -11,12 +12,14 @@ Fiat-rahajärjestelmässä on useita keskeisiä toimijoita:
 
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Fiat-rahajärjestelmän toimijat ja niiden väliset virrat: keskuspankki määrittää rahapolitiikan ja selvittää pankkien väliset maksut, liikepankit pitävät hallussaan talletuksia, jotka ovat niiden velkaa asiakkaille, maksupalvelut välittävät maksuohjeita, valtio kerää veroja ja käyttää varoja, ja kansalaiset ja yritykset maksavat ja saavat maksuja.](/micrographics/fiat-system-flows-01/fi.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
-> **Light – Tarkastelkaa paikallista maksutapahtumaa**
+<!-- card: light -->
+> **Tarkastelkaa paikallista maksutapahtumaa**
 >
 > Valitkaa yksi tavallinen maksutapahtuma yhteisöstänne, kuten matkalipun, ruoan tai puheajan ostaminen, palkan saaminen tai laskun maksaminen. Voitte halutessanne käyttää realistista, kuvitteellista tilannetta. Selittäkää kolmella tai neljällä virkkeellä:
 >

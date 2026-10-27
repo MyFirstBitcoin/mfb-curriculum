@@ -1,5 +1,6 @@
 # 3.6 Käyttö säilytyspalvelun kautta ja ilman sitä
 
+<!-- card: definition -->
 > **Definition – Säilytys**
 >
 > [Säilytys](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) vastaa käytännön kysymykseen: kuka hallitsee bitcoinien käyttämiseen tarvittavia avaimia?
@@ -15,10 +16,12 @@ Kun käytätte **ei-säilytyspalvelullista** eli **itsehallinnoitua** lompakkoa,
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[Palvelun hallinnoimassa käytössä palvelu hallitsee avaimia ja hyväksyy varojen käytön, joten saldo on palvelun antama lupaus. Itse hallinnoidussa käytössä käyttäjä hallitsee avaimia ja varmuuskopioita; kumpaankin tapaan liittyy riippuvuuksia ja epäonnistumisen riskejä.](/micrographics/who-controls-keys-01/fi.md)
 
 
 
 <!-- micrographic: custody-comparison-table-01 -->
+[Taulukko, jossa verrataan käyttöä säilytyspalvelun kautta ja omassa säilytyksessä: kuka hallitsee avaimia, kuka huolehtii palautuksesta ja mikä on kummankin keskeinen kompromissi. Kumpikaan malli ei ole riskitön.](/micrographics/custody-comparison-table-01/fi.md)
 
 
 [Säilytys](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) ei aina käy selvästi ilmi käyttöliittymästä. Jos ette voi hallita palautusmenetelmää ja tarvitsette yrityksen hyväksynnän nostolle, käytätte todennäköisesti [säilyttäjää](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian). [Itsehallinta](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) ei ole ihmisarvon mittari; tärkeintä on tunnistaa siihen liittyvä luottamuksen tarve ja riskit.

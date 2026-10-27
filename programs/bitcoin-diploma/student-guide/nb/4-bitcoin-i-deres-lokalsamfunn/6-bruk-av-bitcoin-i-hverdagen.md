@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: daily-bitcoin-uses-01 -->
+[Sju ulike måter Bitcoin kan brukes på i hverdagen: inntjening, sparing, mottak, sending, betaling, donering og prissetting og regnskapsføring. Hver av disse er en mulig bruksmåte, ikke et påkrevd trinn.](/micrographics/daily-bitcoin-uses-01/nb.md)
 
 
 Bitcoin kan fungere som penger på flere måter. Å bruke bitcoin til betaling er bare én av dem.

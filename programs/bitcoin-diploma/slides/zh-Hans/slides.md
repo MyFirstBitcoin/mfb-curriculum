@@ -75,7 +75,8 @@ theme: mfb
 * 跨越时间与距离的价值
 
 
-> **Callout – 随堂提问**
+<!-- card: callout -->
+> **随堂提问**
 >
 > 货币有助于解决什么样的交换或协调问题？
 
@@ -108,7 +109,8 @@ theme: mfb
 没有任何一种形式能获得满分。「**稳健货币**」是一种判断：应明确标准，并始终如一地进行比较。
 
 
-> **Callout – 批判性思考**
+<!-- card: callout -->
+> **批判性思考**
 >
 > 当您选择某一种货币或资产而非另一种时，哪些属性对您来说最重要？
 
@@ -152,6 +154,7 @@ theme: mfb
 ---
 
 <!-- micrographic: same-water-different-value-01 -->
+[同样一瓶干净的水，放在容易找到水的商店冰箱里很便宜，而在短缺时期的炎热沙漠中则珍贵得多。可获得性、需求和环境会改变价值与价格。](/micrographics/same-water-different-value-01/zh-Hans.md)
 
 ---
 
@@ -162,6 +165,7 @@ theme: mfb
 ---
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[一位资金有限的购物者看着摆在面前的几种选择：今天的食物、交通，或是为以后储蓄。选择其中一项就意味着放弃其他选项，这就是机会成本，而且没有哪一个选项被标为正确答案。](/micrographics/one-choice-two-uses-01/zh-Hans.md)
 
 ---
 
@@ -195,6 +199,7 @@ theme: mfb
 ---
 
 <!-- micrographic: fiat-system-flows-01 -->
+[法定货币体系中的各参与方及其之间的往来：中央银行制定政策并为银行进行结算，商业银行持有存款（即其对客户的负债），支付服务机构传递指令，政府征税和支出，公民和企业进行付款和收款。](/micrographics/fiat-system-flows-01/zh-Hans.md)
 
 ---
 
@@ -230,10 +235,12 @@ theme: mfb
 ---
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[简化的银行贷款流程：借款人提出申请，银行批准贷款并将一笔新存款记入借款人的账户，之后借款人向银行偿还本金加利息。](/micrographics/bank-loan-deposit-01/zh-Hans.md)
 
 ---
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[流动性风险：大量储户今天排队取款，尽管银行的贷款日后仍可能收回，但银行眼下没有足够的现金。偿付能力风险：借款人拖欠住房贷款，银行资产的价值变得低于其负债。](/micrographics/liquidity-vs-solvency-01/zh-Hans.md)
 
 ---
 
@@ -255,6 +262,7 @@ theme: mfb
 ---
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[同样的100个货币单位，在一篮基本商品售价100时可以买下整篮，但当同样一篮商品售价110时就买不下了。价格水平上升了，货币的购买力下降了。](/micrographics/same-money-smaller-basket-01/zh-Hans.md)
 
 ---
 
@@ -308,7 +316,8 @@ CBDC是作为中央银行负债发行的数字法定货币：即中央银行对�
 设计方案各不相同。数字化并不自动意味着去中心化、稀缺、私密或可独立验证。
 
 
-> **Callout – 核查要点**
+<!-- card: callout -->
+> **核查要点**
 >
 > 由谁发行，谁可以使用，收集哪些数据，谁能阻止支付或更改规则？离线时会发生什么，又有哪些法律保护？
 
@@ -327,7 +336,8 @@ CBDC是作为中央银行负债发行的数字法定货币：即中央银行对�
 是什么让您的货币有用？哪些规则依赖于您所信任的机构？
 
 
-> **Callout – 思考片刻**
+<!-- card: callout -->
+> **思考片刻**
 >
 > 关于货币，您现在会提出哪一个以前从未问过的问题？
 
@@ -357,6 +367,7 @@ CBDC是作为中央银行负债发行的数字法定货币：即中央银行对�
 ---
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[使用支付公司时，由一个机构保管账本并批准每一笔转账。使用比特币时，付款人对交易进行签名，独立节点对其进行验证，矿工将其添加到同一个共享账本中，因此收款人对中央机构的依赖更少。](/micrographics/central-ledger-vs-bitcoin-01/zh-Hans.md)
 
 ---
 
@@ -393,6 +404,7 @@ CBDC是作为中央银行负债发行的数字法定货币：即中央银行对�
 ---
 
 <!-- micrographic: five-part-response-01 -->
+[五个部分相互结合，共同解决双重支付问题：点对点网络、数字签名、区块与挖矿、独立验证，以及累积工作量证明最多的共享历史。它们共同使网络无需中央机构即可拒绝第二次支出。](/micrographics/five-part-response-01/zh-Hans.md)
 
 ---
 
@@ -411,6 +423,7 @@ CBDC是作为中央银行负债发行的数字法定货币：即中央银行对�
 ---
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[写在网站上或发行方数据库中的供应上限，可以被该发行方悄悄更改。比特币的供应规则是公开的，签名、公开的历史记录、工作量证明和节点验证共同作用，防止凭空创造新币，也防止同一枚bitcoin被花费两次。](/micrographics/claimed-or-verified-supply-01/zh-Hans.md)
 
 ---
 
@@ -452,12 +465,14 @@ CBDC是作为中央银行负债发行的数字法定货币：即中央银行对�
 ---
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[发送方签署一笔交易并将其广播给网络中的众多节点，这些节点不断传递该交易，直至其到达接收方。无需任何中心化的比特币运营方批准发送方或接收方。](/micrographics/peer-to-peer-route-01/zh-Hans.md)
 
 ---
 
 ![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[比特币中的四种角色：用户接收、持有和发送比特币，节点独立验证规则，矿工通过工作量证明构建候选区块，开发者提出软件。没有任何单一角色能够控制网络。](/micrographics/bitcoin-participant-roles-01/zh-Hans.md)
 
 ---
 
@@ -466,7 +481,8 @@ CBDC是作为中央银行负债发行的数字法定货币：即中央银行对�
 矿工无法让诚实节点接受无效区块。开发者无法强制他人采用软件。一个人可以同时承担多种角色。
 
 
-> **Callout – 随堂提问**
+<!-- card: callout -->
+> **随堂提问**
 >
 > 节点为什么要验证交易？请说出节点检查的一条规则。
 
@@ -489,6 +505,7 @@ CBDC是作为中央银行负债发行的数字法定货币：即中央银行对�
 ![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 <!-- micrographic: proof-of-work-process-01 -->
+[矿工对一个候选区块反复进行哈希运算，直到某个结果低于网络的目标值，然后广播该区块。节点会迅速验证工作量证明和每一条规则，之后该区块才会加入区块链：工作量的产生成本高昂，而验证却十分容易。](/micrographics/proof-of-work-process-01/zh-Hans.md)
 
 ---
 
@@ -509,10 +526,12 @@ CBDC是作为中央银行负债发行的数字法定货币：即中央银行对�
 ---
 
 <!-- micrographic: bitcoin-issuance-supply-01 -->
+[区块补贴从50比特币开始，每210,000个区块减半一次，而比特币累计发行总量逐步趋近2100万枚的上限。交易手续费另行支付，并非新发行的比特币；本图不含任何价格预测。](/micrographics/bitcoin-issuance-supply-01/zh-Hans.md)
 
 ---
 
 <!-- micrographic: bitcoin-issuance-subsidy-01 -->
+[区块补贴从50比特币开始，每210,000个区块减半一次，而比特币累计发行总量逐步趋近2100万枚的上限。交易手续费另行支付，并非新发行的比特币；本图不含任何价格预测。](/micrographics/bitcoin-issuance-subsidy-01/zh-Hans.md)
 
 ---
 
@@ -528,7 +547,8 @@ CBDC是作为中央银行负债发行的数字法定货币：即中央银行对�
 **单位偏见：**每个完整单位的价格低，并不能证明其价值更高。请比较其在总供应量中的占比、涉及的价值以及风险。
 
 
-> **Callout – 展示您的理解**
+<!-- card: callout -->
+> **展示您的理解**
 >
 > 0.01 BTC 等于多少聪？为什么一个人可以使用不到一整个比特币？
 
@@ -586,7 +606,8 @@ CBDC是作为中央银行负债发行的数字法定货币：即中央银行对�
 * 不提供买入、卖出或持有的指示
 
 
-> **Callout – 本地价值检验**
+<!-- card: callout -->
+> **本地价值检验**
 >
 > 区分市场价格、本地接受度以及个人偏好或偏见。
 
@@ -601,6 +622,7 @@ Satoshi Nakamoto（中本聪）是一个化名，其创造者究竟是一人还�
 ---
 
 <!-- micrographic: bitcoin-origin-timeline-01 -->
+[比特币起源的四个关键日期事件：2008年10月31日，Satoshi Nakamoto发布白皮书，描述了无需金融中介的直接在线支付；2009年1月3日，创世区块启动了比特币网络，其中嵌入了一则关于银行纾困的新闻标题；2009年1月12日，Satoshi向Hal Finney发送了比特币，这是有记录的首笔点对点交易；2010年5月22日，一名用户用10,000 BTC购买了两个披萨，这一天如今被称为比特币披萨日。](/micrographics/bitcoin-origin-timeline-01/zh-Hans.md)
 
 ---
 
@@ -629,7 +651,8 @@ Satoshi Nakamoto（中本聪）是一个化名，其创造者究竟是一人还�
 * 交易排序 → 工作量证明；需承担设备与能源成本
 
 
-> **Callout – 思考片刻**
+<!-- card: callout -->
+> **思考片刻**
 >
 > 现在，您会以不同的方式解释比特币设计中的哪一部分？为什么？
 
@@ -674,6 +697,7 @@ Satoshi Nakamoto（中本聪）是一个化名，其创造者究竟是一人还�
 ---
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[钱包保管着密钥。有了密钥，您就可以接收和发送比特币，而比特币本身始终记录在共享账本上，并不存放在手机或设备里。](/micrographics/wallet-manages-keys-01/zh-Hans.md)
 
 ---
 
@@ -699,13 +723,15 @@ Satoshi Nakamoto（中本聪）是一个化名，其创造者究竟是一人还�
 切勿泄露私钥、助记词、密码或恢复码。任何正规的教育者、客服人员、钱包公司、交易所员工或开发者都不需要这些信息。
 
 
-> **Callout – 动手试一试**
+<!-- card: callout -->
+> **动手试一试**
 >
 > 请将准备好的示例分为三类：收款信息、秘密信息，以及与个人关联后会变得敏感的公开信息。
 
 ---
 
 <!-- micrographic: private-key-public-info-01 -->
+[一把必须保密、切勿与他人分享的私钥，可以推导出能够公开分享的信息：由私钥推导出的公钥，以及由公钥生成的收款地址。同一把私钥还会生成签名，节点可以验证这些签名，却始终无法得知私钥。](/micrographics/private-key-public-info-01/zh-Hans.md)
 
 ---
 
@@ -738,7 +764,8 @@ Satoshi Nakamoto（中本聪）是一个化名，其创造者究竟是一人还�
 公共区块链无法证明某个服务方欠特定客户多少。自托管仍可能依赖软件、硬件、服务器和网络。
 
 
-> **Callout – 动手试试**
+<!-- card: callout -->
+> **动手试试**
 >
 > 请比较两份准备好的描述：谁控制密钥？谁负责恢复访问权限？需要核查哪些风险？
 
@@ -749,6 +776,7 @@ Satoshi Nakamoto（中本聪）是一个化名，其创造者究竟是一人还�
 ---
 
 <!-- micrographic: who-controls-keys-01 -->
+[在托管式使用中，服务商控制密钥并批准支出，因此余额只是服务商的承诺。在自托管式使用中，用户自行控制密钥和备份；两种方式都存在依赖关系和失败风险。](/micrographics/who-controls-keys-01/zh-Hans.md)
 
 ---
 
@@ -776,6 +804,7 @@ Satoshi Nakamoto（中本聪）是一个化名，其创造者究竟是一人还�
 ---
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[恢复训练钱包的六步练习：遵循官方说明，检查兼容性，在私密环境中操作，使用认可的恢复方法，确认是预期的钱包，然后重置。仅使用预先准备的、空的或模拟的材料，教育者绝不会看到助记词。](/micrographics/practice-wallet-recovery-01/zh-Hans.md)
 
 ---
 
@@ -804,6 +833,7 @@ Satoshi Nakamoto（中本聪）是一个化名，其创造者究竟是一人还�
 ---
 
 <!-- micrographic: pre-send-checklist-01 -->
+[在批准付款之前，付款人会核对收款人及付款目的、支付方式、目标地址，以及金额、单位、手续费或有效期；如果流程不熟悉，会先进行小额测试。若有任何不一致，付款人会停下来核实；仅在所有信息一致时才批准，然后检查结果。](/micrographics/pre-send-checklist-01/zh-Hans.md)
 
 ---
 
@@ -823,6 +853,7 @@ Satoshi Nakamoto（中本聪）是一个化名，其创造者究竟是一人还�
 ---
 
 <!-- micrographic: confirmation-timeline-01 -->
+[一笔交易先在待处理交易池中等待，尚未确认；随后被打包进区块 N，获得第一次确认；此后每增加一个区块，确认数就增加一次。](/micrographics/confirmation-timeline-01/zh-Hans.md)
 
 ---
 
@@ -835,7 +866,8 @@ Satoshi Nakamoto（中本聪）是一个化名，其创造者究竟是一人还�
 **暂停。不分享任何信息。不发送任何资金。关闭沟通渠道。独立核实。在不泄露机密的前提下寻求帮助。**
 
 
-> **Callout – 动手试试**
+<!-- card: callout -->
+> **动手试试**
 >
 > 请找出一条预设消息中的警示信号、可能造成的损失，以及应采取的第一个安全措施。
 
@@ -844,6 +876,7 @@ Satoshi Nakamoto（中本聪）是一个化名，其创造者究竟是一人还�
 ---
 
 <!-- micrographic: scam-red-flags-01 -->
+[五个诈骗危险信号：紧迫感、冒充身份、收款地址被更改、保证收益以及索要机密信息。](/micrographics/scam-red-flags-01/zh-Hans.md)
 
 ---
 
@@ -860,10 +893,12 @@ Satoshi Nakamoto（中本聪）是一个化名，其创造者究竟是一人还�
 ---
 
 <!-- micrographic: ways-to-receive-bitcoin-01 -->
+[一个人可以通过四种不同的方式获得比特币：通过工作或销售赚取、与他人兑换本地现金、使用交易所或经纪商，或使用ATM。每种途径最终都归于自我托管或托管账户余额，且没有哪一种比其他方式更值得推荐。](/micrographics/ways-to-receive-bitcoin-01/zh-Hans.md)
 
 ---
 
 <!-- micrographic: exchange-risk-questions-01 -->
+[在获取或交换比特币之前需要检查的六个风险领域，每个领域都附有一个应当提出的问题：成本、托管、身份与隐私、提现与结算、交易对手与安全，以及本地情况。](/micrographics/exchange-risk-questions-01/zh-Hans.md)
 
 ---
 
@@ -909,7 +944,8 @@ Satoshi Nakamoto（中本聪）是一个化名，其创造者究竟是一人还�
 一位朋友向您发来请求，同时一个陌生的「客服」要求您立即采取行动。在采取任何行动之前，您可以检查什么？
 
 
-> **Callout – 思考片刻**
+<!-- card: callout -->
+> **思考片刻**
 >
 > 在行动之前，您会停下来进行哪项安全检查？
 
@@ -928,6 +964,7 @@ Satoshi Nakamoto（中本聪）是一个化名，其创造者究竟是一人还�
 ## 您的本地模块4
 
 <!-- micrographic: local-module-four-actions-01 -->
+[在本地化的第4单元中，学习者依次完成四项行动：将第1至第3单元中的某个概念与本地需求联系起来；将比特币与一个切合实际的现有方案进行比较；在指导下进行安全练习；讲解自己所学到的内容以及负责任的下一步计划。整个过程中，他们的教育者（有时还有一位本地专家）会全程给予指导。](/micrographics/local-module-four-actions-01/zh-Hans.md)
 
 
 请记录您的本地关注点：问题或机遇、替代方案、安全情境、主要益处与风险，以及安全的下一步。
@@ -979,10 +1016,12 @@ Satoshi Nakamoto（中本聪）是一个化名，其创造者究竟是一人还�
 ---
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[收款方在手机上创建一笔附有金额的闪电网络付款请求，付款方扫描后付款，片刻之后款项便到达收款方的手机。](/micrographics/lightning-phone-payment-01/zh-Hans.md)
 
 ---
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[闪电网络付款的六个步骤：收款方创建请求，付款方扫描请求，检查收款方、金额、单位、有效期和手续费，批准付款，付款经路由传输，双方钱包显示结果。每个钱包可能是托管钱包，也可能是自托管钱包；付款失败或过期时，需要创建新的请求重新开始。](/micrographics/lightning-payment-sequence-01/zh-Hans.md)
 
 ---
 
@@ -1034,6 +1073,7 @@ Satoshi Nakamoto（中本聪）是一个化名，其创造者究竟是一人还�
 ---
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[咖啡店付款的四个步骤：顾客点单，店员发送账单，顾客用手机以比特币付款，店员交付咖啡。](/micrographics/coffee-shop-payment-01/zh-Hans.md)
 
 ---
 
@@ -1094,6 +1134,7 @@ Satoshi Nakamoto（中本聪）是一个化名，其创造者究竟是一人还�
 ---
 
 <!-- micrographic: local-circular-economy-01 -->
+[在比特币循环经济中，比特币在人与人之间流转，用于换取商品、服务和时间。顾客向商家付款，商家向服务提供者付款，服务提供者向工人付款，而工人又作为顾客再次将其花出。](/micrographics/local-circular-economy-01/zh-Hans.md)
 
 ---
 
@@ -1151,6 +1192,7 @@ _资源中心_
 * 有益的社区参与是自愿的，并且能保护人们
 
 
-> **Callout – 思考片刻**
+<!-- card: callout -->
+> **思考片刻**
 >
 > 在判断某条比特币路径是否适合本地需求之前，您会提出什么问题？

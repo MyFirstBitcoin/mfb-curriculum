@@ -35,6 +35,7 @@
 
 
 <!-- micrographic: cohort-capacity-check-01 -->
+[코호트를 계획하려면 학습자 수에 예상되는 지원 및 관찰 시간을 곱한 다음, 준비, 피드백, 접근성 요구 사항, 재평가에 필요한 시간을 더해요. 교육자들에게 시간이 충분하지 않다면 학습자 수를 줄이거나, 교육자를 늘리거나, 시간을 더 확보하는 방식으로 계획을 바꿔요.](/micrographics/cohort-capacity-check-01/ko.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
@@ -57,6 +58,7 @@
 
 
 <!-- micrographic: task-competency-map-01 -->
+[이론 활동 T1~T3은 역량 C1~C5의 증거가 되고, 실습 경로 P6a, P6b, P7은 C6과 C7의 증거가 돼요. 그런 다음 각 역량은 '예' 또는 '아직' 중 하나의 결과를 받아요.](/micrographics/task-competency-map-01/ko.md)
 
 
 ### 공통 지원, 안전 및 기록 규칙
@@ -65,10 +67,12 @@
 
 
 <!-- micrographic: support-boundary-01 -->
+[교육자는 허용된 준비와 접근 지원을 제공하고 안전하지 않은 행동을 멈추게 할 수 있어요. 그래도 평가 대상이 되는 설명은 학습자가 직접 해야 하고, 관련 세부 정보를 직접 선택하며, 필요한 결정을 직접 수행하거나 지시해야 해요.](/micrographics/support-boundary-01/ko.md)
 
 
 
-> **Callout – 안전과 직결되는 실습 오류**
+<!-- card: callout -->
+> **안전과 직결되는 실습 오류**
 >
 > 학습자가 다음과 같이 행동하면 기록하고 과제를 잠시 멈추세요: [시드 문구](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), [개인 키](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), 비밀번호 또는 불필요한 개인 정보를 노출하거나 공유하려고 할 때, 주소, 인보이스, 금액 또는 수신자가 일치하지 않는다는 것을 알면서도 진행할 때, 명백한 사기나 급하게 비밀을 요구하는 요청을 받아들일 때, 또는 필수 확인 단계를 건너뛸 때예요. 이유를 친절하게 설명하고, 안전한 환경으로 되돌린 뒤 연습하게 하고, 나중에 다시 평가하세요. 학습자는 역량을 키워 가는 중이에요. 기본적으로는 준비된 교육 자료를 사용해요. 교육자가 실제로 진행하는 부담이 적은 활동을 선택한다면, 그 위험을 분명히 알리고 자금을 사용하지 않는 동등한 대안을 제공하세요.
 
@@ -181,3 +185,4 @@
 
 
 <!-- micrographic: reassessment-calibration-moderation-01 -->
+[세 가지 별도 과정이 나란히 진행돼요. '아직 아님' 판정을 받은 학습자는 개별 피드백을 받고, 연습한 뒤 새로운 증거를 제시해요. 평가자는 예시를 각자 독립적으로 채점하고 해석에 합의하는 방식으로 기준을 조정해요. 교육자는 2차 검토를 요청할 수 있지만, 2차 검토가 관찰된 수행을 대신하지는 않아요.](/micrographics/reassessment-calibration-moderation-01/ko.md)

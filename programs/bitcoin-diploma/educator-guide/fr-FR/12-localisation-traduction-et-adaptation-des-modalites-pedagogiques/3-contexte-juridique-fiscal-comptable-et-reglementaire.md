@@ -14,6 +14,7 @@ Ne pas :
 Utilisez des formulations telles que :
 
 
-> **Callout – Informations locales en vigueur, et non conseils individuels**
+<!-- card: callout -->
+> **Informations locales en vigueur, et non conseils individuels**
 >
 > Les règles locales peuvent avoir une incidence sur cette démarche. Les informations publiques en vigueur que nous avons vérifiées le [date] indiquent ________. Il s’agit d’un résumé pédagogique, et non de conseils pour une situation individuelle. Les questions propres à un cas particulier doivent être traitées par un professionnel local qualifié ou une autorité locale compétente.

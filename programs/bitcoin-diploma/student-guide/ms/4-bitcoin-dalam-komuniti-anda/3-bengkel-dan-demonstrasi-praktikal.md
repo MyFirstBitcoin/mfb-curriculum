@@ -4,6 +4,7 @@ Anda akan melalui tiga peringkat: **Pembentangan**, apabila pendidik anda menunj
 
 
 <!-- micrographic: presentation-practice-production-01 -->
+[Kemahiran praktikal dipelajari dalam tiga peringkat, dari kiri ke kanan: Penerangan, apabila pendidik menunjukkan proses dan risikonya, kemudian Latihan, iaitu latihan berpandu dengan bahan latihan yang selamat, kemudian Pelaksanaan, apabila pelajar menyelesaikan tugasan atau menjelaskan keputusan secara kendiri.](/micrographics/presentation-practice-production-01/ms.md)
 
 
 Bengkel anda mungkin merangkumi:

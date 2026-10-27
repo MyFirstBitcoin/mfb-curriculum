@@ -19,6 +19,7 @@ Use the default response:
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Five scam red flags: urgency, impersonation, a changed destination, guaranteed returns and requests for secrets.](/micrographics/scam-red-flags-01/en.md)
 
 
 #### Activity: scam stations

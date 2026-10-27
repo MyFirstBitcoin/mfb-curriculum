@@ -14,6 +14,7 @@ Se a equivalência for incerta, use a adaptação para praticar e selecione uma 
 
 
 <!-- micrographic: adapt-practice-or-assessment-01 -->
+[As atividades de prática podem ser adaptadas aos alunos e ao contexto. Uma atividade usada para avaliação deve manter a competência, a evidência, a autonomia, a segurança e o padrão mínimo; se a equivalência for incerta, use a adaptação para a prática e escolha uma tarefa de avaliação mais clara.](/micrographics/adapt-practice-or-assessment-01/pt-BR.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/8444d4c2c23ce8cb5b0103bb646ce8c50c4594c3-1536x1024.svg)

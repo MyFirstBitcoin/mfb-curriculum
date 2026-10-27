@@ -13,6 +13,7 @@ Käyttäkää muutamia yksikkömuunnoksia:
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Kaksisarakkeinen taulukko: 1 BTC on 100 000 000 satoshia, 0,1 BTC on 10 000 000 satoshia, 0,01 BTC on 1 000 000 satoshia, 0,001 BTC on 100 000 satoshia ja 0,00000001 BTC on 1 satoshi.](/micrographics/bitcoin-and-sats-01/fi.md)
 
 
 Kysykää, miksi yhden bitcoinin jakaminen pienempiin yksiköihin ei luo lisää bitcoinia. Verratkaa tätä mitatun määrän jakamiseen pienempiin yksiköihin väittämättä kuitenkaan, että fyysinen vertaus selittäisi protokollan toimintaa.

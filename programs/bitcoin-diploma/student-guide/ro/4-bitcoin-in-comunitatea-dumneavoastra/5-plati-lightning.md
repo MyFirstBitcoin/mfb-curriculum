@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[Beneficiarul creează pe telefonul său o cerere de plată Lightning cu suma inclusă, expeditorul o scanează și plătește, iar plata ajunge pe telefonul beneficiarului câteva clipe mai târziu.](/micrographics/lightning-phone-payment-01/ro.md)
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[O plată Lightning în șase pași: destinatarul creează o cerere, expeditorul o scanează, verifică destinatarul, suma, unitatea, termenul de expirare și comisionul, apoi aprobă plata, plata este direcționată, iar ambele portofele afișează rezultatul. Fiecare portofel poate fi cu custodie sau cu autocustodie, iar o plată eșuată sau expirată se reia cu o nouă cerere.](/micrographics/lightning-payment-sequence-01/ro.md)
 
 
 Lightning poate face ca plățile Bitcoin rapide și de mică valoare să fie practice. Poate fi potrivit pentru plăți la tejgheaua unui comerciant, plăți locale repetate, servicii online sau transferuri pentru care un comision pe blockchain ar fi prea mare în raport cu valoarea plății.

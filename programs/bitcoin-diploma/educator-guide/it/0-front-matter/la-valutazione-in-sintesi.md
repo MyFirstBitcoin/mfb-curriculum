@@ -21,6 +21,7 @@ Non si tratta di voti numerici. Entrambe le componenti devono essere completate 
 
 
 <!-- micrographic: two-completion-gates-01 -->
+[Le competenze teoriche da C1 a C5 e le competenze pratiche C6 e C7 devono ciascuna ottenere un Sì prima che venga rilasciato il certificato di completamento. Non ancora significa ulteriore pratica e una nuova valutazione; la frequenza e la riflessione non sostituiscono nessuna delle due verifiche.](/micrographics/two-completion-gates-01/it.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/2783871f5851cf80c2e6e2a93eeb911607939507-1536x1024.svg)

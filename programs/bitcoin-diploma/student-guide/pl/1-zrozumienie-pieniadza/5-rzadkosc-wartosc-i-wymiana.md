@@ -3,6 +3,7 @@
 Zasoby są ograniczone, natomiast ludzkie pragnienia nie.
 
 
+<!-- card: definition -->
 > **Definition – Rzadkość**
 >
 > [Rzadkość](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) oznacza, że wybór jednego sposobu wykorzystania zasobu uniemożliwia wykorzystanie go w inny sposób. Czas, ziemia, energia, dobre zdrowie, narzędzia i [zdrowy pieniądz](https://curriculum.myfirstbitcoin.org/lexicon/en/#sound-money) są zasobami rzadkimi.
@@ -14,6 +15,7 @@ Ta [wartość](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) dobra ni
 
 
 <!-- micrographic: same-water-different-value-01 -->
+[Ta sama butelka czystej wody jest tania w sklepowej lodówce, gdzie wodę łatwo znaleźć, a znacznie cenniejsza na gorącej pustyni podczas niedoboru. Dostępność, potrzeba i okoliczności zmieniają wartość i cenę.](/micrographics/same-water-different-value-01/pl.md)
 
 
 Do wymiany dochodzi wtedy, gdy obie strony wolą to, co otrzymują, od tego, co oddają. Nie muszą zgadzać się co do tego, że oba przedmioty mają dla nich taką samą [wartość](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Wystarczy, że zgodzą się na warunki wymiany.
@@ -26,6 +28,7 @@ Trzy pojęcia pomagają wyjaśnić codzienne wybory:
 
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Osoba robiąca zakupy i dysponująca ograniczoną kwotą przygląda się dostępnym możliwościom: jedzeniu na dziś, transportowi lub oszczędzaniu na później. Wybór jednej oznacza rezygnację z pozostałych, co stanowi koszt alternatywny. Żadna z możliwości nie jest oznaczona jako właściwa.](/micrographics/one-choice-two-uses-01/pl.md)
 
 
 [Rzadkość](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) sama w sobie nie gwarantuje [wartości](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Przedmiot może być rzadki, a mimo to nie być przedmiotem popytu. Przydatny jako pieniądz [składnik aktywów](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) łączy ograniczoną podaż z właściwościami i popytem, które sprawiają, że ludzie chcą go przechowywać lub wymieniać.

@@ -32,3 +32,4 @@ De må ikke:
 
 
 <!-- micrographic: fixed-adaptable-flexible-01 -->
+[Lokale eksempler og undervisningsmetoder kan ændres inden for faste rammer for kompetencer, dokumentation, sikkerhed og gennemførelse. Ændringer, der påvirker bedømmelsen, kræver en godkendt, ligeværdig fremgangsmåde, der fastholder den samme deltagerhandling og det samme sikkerhedsformål.](/micrographics/fixed-adaptable-flexible-01/da.md)

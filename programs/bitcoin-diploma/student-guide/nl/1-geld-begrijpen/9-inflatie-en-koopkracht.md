@@ -1,11 +1,13 @@
 # 1.9 Inflatie en koopkracht
 
+<!-- card: definition -->
 > **Definition – Prijsinflatie**
 >
 > De term “[inflatie](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation)” wordt op meer dan één manier gebruikt. In deze gids betekent [prijsinflatie](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation) een aanhoudende stijging van het algemene [prijs](https://curriculum.myfirstbitcoin.org/lexicon/en/#price)niveau van goederen en diensten. Als uw inkomen en spaargeld niet even snel stijgen als [de prijzen](https://curriculum.myfirstbitcoin.org/lexicon/en/#price), kunt u met uw geld minder kopen.
 
 
 
+<!-- card: definition -->
 > **Definition – Koopkracht**
 >
 > [Koopkracht](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) is de hoeveelheid goederen en diensten die met één geldeenheid gekocht kan worden. Als een mandje basisgoederen in prijs stijgt van 100 eenheden [valuta](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) naar 110, kunt u met dezelfde 100 eenheden niet langer het volledige mandje kopen. De [koopkracht](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) ten opzichte van dat mandje is gedaald.
@@ -15,6 +17,7 @@
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Met dezelfde 100 geldeenheden koopt u het hele mandje basisgoederen wanneer het 100 kost, maar niet wanneer hetzelfde mandje 110 kost. Het prijsniveau is gestegen en de koopkracht van het geld is gedaald.](/micrographics/same-money-smaller-basket-01/nl.md)
 
 
 Sommige mensen gebruiken “[inflatie](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation)” in de betekenis van [monetaire expansie](https://curriculum.myfirstbitcoin.org/lexicon/en/#monetary-inflation): een uitbreiding van de hoeveelheid geld en krediet. Die expansie kan bijdragen aan [prijsinflatie](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation), naast verstoringen in het aanbod, veranderingen in de vraag, [valuta](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency)zwakte, belastingen, regelgeving en veranderingen in productiekosten. Over de oorzaken en gevolgen wordt vaak gedebatteerd. Vermijd verklaringen die elke [prijs](https://curriculum.myfirstbitcoin.org/lexicon/en/#price)verandering aan één enkele factor toeschrijven.
@@ -24,7 +27,8 @@ Sommige mensen gebruiken “[inflatie](https://curriculum.myfirstbitcoin.org/lex
 Het [inflatie](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation)cijfer is een gemiddelde. Uw persoonlijke ervaring kan afwijken, omdat uw uitgaven niet identiek zijn aan het gemeten mandje. De kosten van voeding, huisvesting, vervoer, onderwijs en gezondheidszorg kunnen in verschillende tempo's veranderen.
 
 
-> **Light – Vergelijk de koopkracht lokaal**
+<!-- card: light -->
+> **Vergelijk de koopkracht lokaal**
 >
 > Kies één alledaags product in uw gemeenschap. Noteer de [prijs](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) van vandaag. Vraag na wat het enkele jaren geleden kostte en controleer dat zo mogelijk aan de hand van een betrouwbare bron. Is het inkomen in hetzelfde tempo veranderd? Welke andere factoren kunnen de verandering verklaren?
 >

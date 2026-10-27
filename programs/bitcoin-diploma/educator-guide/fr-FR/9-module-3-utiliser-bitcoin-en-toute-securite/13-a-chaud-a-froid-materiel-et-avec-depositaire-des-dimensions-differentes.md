@@ -11,6 +11,7 @@ Un portefeuille Lightning peut être avec garde ou en autogarde. Un [portefeuill
 
 
 <!-- micrographic: hot-and-cold-wallets-01 -->
+[Un portefeuille chaud conserve les clés de signature sur un appareil connecté à Internet, comme un téléphone ; un dispositif de stockage à froid les conserve à l’écart de tout appareil connecté. La question de savoir qui contrôle les clés est distincte.](/micrographics/hot-and-cold-wallets-01/fr-FR.md)
 
 
 Demandez aux apprenants de sélectionner un outil pour un usage fictif, puis exigez qu'ils précisent l'avantage et le nouveau risque. Ne leur demandez pas de choisir un outil pour leurs avoirs réels.

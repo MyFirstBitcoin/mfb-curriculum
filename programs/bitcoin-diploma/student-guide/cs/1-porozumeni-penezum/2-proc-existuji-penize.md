@@ -5,6 +5,7 @@ Lidé mají různé dovednosti, zdroje, potřeby a plány. Směna jim umožňuje
 Přímá směna je často obtížná. Člověk, který má to, co potřebujete, nemusí chtít to, co nabízíte. Peníze tento problém s koordinací řeší.
 
 
+<!-- card: definition -->
 > **Definition – Peníze**
 >
 > Peníze jsou [aktivem](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset), které lidé přijímají, protože očekávají, že je později přijmou i ostatní. Pomáhají lidem, kteří se navzájem neznají, koordinovat směnu, zaznamenávat [ceny](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) a [dluhy](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt) a přesouvat [hodnotu](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) napříč časem i prostorem.

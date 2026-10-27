@@ -29,3 +29,4 @@ Esta atividade torna visível a [privacidade](https://curriculum.myfirstbitcoin.
 
 
 <!-- micrographic: address-reuse-linkage-01 -->
+[Vários recebimentos fictícios compartilham um único endereço reutilizado e são facilmente vinculados. Endereços de recebimento novos reduzem esse vínculo direto, mas informações externas e pesquisas em exploradores ainda podem revelar relações, e os dados públicos, por si só, não comprovam a identidade de uma pessoa.](/micrographics/address-reuse-linkage-01/pt-BR.md)

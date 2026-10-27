@@ -28,6 +28,7 @@ Ta pristop je pomemben, ker denar vpliva na vsakogar. Ljudje bi morali imeti mo�
 
 
 <!-- micrographic: critical-thinking-loop-01 -->
+[Ponovljiv cikel kritičnega razmišljanja: opredelite trditev, ločite dejstva od osebnih preferenc, preučite dokaze in vir, primerjajte druge možnosti, navedite kompromis ali negotovost ter oblikujte začasen sklep ali vprašanje.](/micrographics/critical-thinking-loop-01/sl.md)
 
 
 **Skupnost** pomeni, da izobraževanje postane uporabnejše, ko ljudje razpravljajo o idejah in jih povezujejo z lokalnim življenjem. Vaš izobraževalec in drugi udeleženci imajo morda izkušnje, ki jih ne more zajeti nobena knjiga za svetovno občinstvo. Pozorno poslušajte, postavljajte vprašanja in spoštljivo pojasnjujte svoje razmišljanje.
@@ -75,7 +76,8 @@ Tečaj lahko uporabite za to, da:
 * se pripravite na bolj poglobljeno učenje
 
 
-> **Callout – Znanje pred dejanji**
+<!-- card: callout -->
+> **Znanje pred dejanji**
 >
 > Za dokončanje programa Diploma Bitcoin vam ni treba kupiti ali kako drugače pridobiti bitcoina. Prav tako vam ni treba namestiti [denarnice za Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet) ali uporabljati lastnih sredstev. Zahtevane praktične spretnosti se lahko ocenijo z vnaprej pripravljeno vadbeno denarnico, simulacijo, testnim okoljem, fizičnim modelom ali dejavnostjo z majhnim tveganjem, ki jo odobri izobraževalec.
 
@@ -84,3 +86,4 @@ Tečaj lahko uporabite za to, da:
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[Izbirna učna pot vodi od Uvoda v Bitcoin do Diplome o Bitcoinu, nato do Programa usposabljanja izobraževalcev, do vloge izobraževalca, ki poučuje po učnem načrtu My First Bitcoin, in do vključitve v Mrežo za izobraževanje o Bitcoinu. Vsak naslednji korak je izbira, ne obveznost.](/micrographics/learner-journey-pathway-01/sl.md)

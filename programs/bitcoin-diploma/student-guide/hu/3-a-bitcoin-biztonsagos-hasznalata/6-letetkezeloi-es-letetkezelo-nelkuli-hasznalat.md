@@ -1,5 +1,6 @@
 # 3.6 Letétkezelői és letétkezelő nélküli használat
 
+<!-- card: definition -->
 > **Definition – Letétkezelés**
 >
 > [A letétkezelés](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) arra a gyakorlati kérdésre ad választ: ki rendelkezik a bitcoin elköltéséhez szükséges kulcsokkal?
@@ -15,10 +16,12 @@ Egy **nem letétkezelői** vagy **önálló kulcskezelésű** tárcában ÖN ren
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[Letétkezelői használat esetén a szolgáltató kezeli a kulcsokat és hagyja jóvá a költést, így az egyenleg az ő ígérete. Saját kezelésű használat esetén a felhasználó kezeli a kulcsokat és a biztonsági mentéseket; mindkét megoldás függőségekkel és meghibásodási kockázatokkal jár.](/micrographics/who-controls-keys-01/hu.md)
 
 
 
 <!-- micrographic: custody-comparison-table-01 -->
+[A letétkezelői használatot és az önálló letétkezelést összehasonlító táblázat: ki birtokolja a kulcsokat, ki végzi a helyreállítást, és mi az egyes modellek fő kompromisszuma. Egyik modell sem kockázatmentes.](/micrographics/custody-comparison-table-01/hu.md)
 
 
 [A letétkezelés](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) nem mindig egyértelmű a kezelőfelület alapján. Ha Ön nem rendelkezik a helyreállítás módja felett, és egy vállalat jóváhagyására van szüksége a kiutaláshoz, akkor valószínűleg igénybe vesz egy [letétkezelőt](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian). [Az önálló kulcskezelés](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) nem a személyes értékesség próbája; a fontos lépés annak felismerése, hogy miben kell megbíznia, és milyen kockázatokkal kell számolnia.

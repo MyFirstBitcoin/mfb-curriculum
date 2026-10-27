@@ -15,3 +15,4 @@ Gør ikke udformningen af [fællesskabsbaseret forvaring](https://curriculum.myf
 
 
 <!-- micrographic: shared-funds-role-map-01 -->
+[Bidragydere og modtagere er afhængige af den, der kontrollerer fælles midler. Kontrol over nøgler, godkendelse af betalinger, regnskab og kontrol er separate roller; når én person har flere af dem, koncentreres tilliden, og spørgsmål om kontinuitet, privatliv, tvister og juridisk status skal stadig afklares.](/micrographics/shared-funds-role-map-01/da.md)

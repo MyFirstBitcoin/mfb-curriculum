@@ -10,6 +10,7 @@ Insegni:
 
 
 <!-- micrographic: bitcoin-issuance-schedule-01 -->
+[La ricompensa per blocco parte da 50 bitcoin e si dimezza ogni 210.000 blocchi, mentre il totale dei bitcoin emessi sale verso il limite di 21 milioni. Le commissioni di transazione si pagano in aggiunta e non sono nuovi bitcoin; non è implicita alcuna previsione di prezzo.](/micrographics/bitcoin-issuance-schedule-01/it.md)
 
 
 Il limite è una regola pubblica della rete, non una legge fisica. Una persona può scrivere un altro software, ma non può costringere i partecipanti esistenti ad adottarlo. Un'adozione incompatibile può creare una rete diversa, anziché modificare silenziosamente Bitcoin per tutti.

@@ -14,6 +14,7 @@ Utilizzi esattamente questi confini per principianti:
 
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Quattro ruoli in Bitcoin: gli utenti ricevono, conservano e inviano bitcoin, i nodi verificano le regole in modo indipendente, i miner costruiscono i blocchi candidati con la proof of work e gli sviluppatori propongono software. Nessun singolo ruolo controlla la rete.](/micrographics/bitcoin-participant-roles-01/it.md)
 
 
 #### Attività: blocco non valido

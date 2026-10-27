@@ -10,6 +10,7 @@ Bitcoin se creó para resolver este problema mediante una [red entre pares](http
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Con una empresa de pagos, una sola organización mantiene el registro contable y aprueba cada transferencia. Con Bitcoin, el remitente firma una transacción, los nodos independientes la verifican y los mineros la agregan a un registro contable compartido, por lo que el destinatario depende menos de una autoridad central.](/micrographics/central-ledger-vs-bitcoin-01/es-419.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)

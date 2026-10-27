@@ -10,6 +10,7 @@ Piirtäkää yksinkertaistettu tase:
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Pankkilaina yksinkertaistettuna: lainanottaja hakee lainaa, pankki hyväksyy lainan ja kirjaa lainanottajan tilille uuden talletuksen, ja lainanottaja maksaa myöhemmin pankille takaisin lainapääoman korkoineen.](/micrographics/bank-loan-deposit-01/fi.md)
 
 
 Älkää käyttäkö fyysisen rahan toistuviin talletuksiin perustuvaa ”rahakertoimen” selitystä ikään kuin se kuvaisi mekaanisesti kaikkien nykyaikaisten pankkijärjestelmien toimintaa.
@@ -21,6 +22,7 @@ Erottakaa toisistaan:
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Maksuvalmiusriski: monet tallettajat jonottavat nostaakseen rahansa tänään, eikä pankilla ole nyt riittävästi käteistä, vaikka sen myöntämät lainat saatetaan maksaa takaisin myöhemmin. Vakavaraisuusriski: lainanottajat jättävät asuntolainansa maksamatta, ja pankin varojen arvo laskee sen velkojen määrää pienemmäksi.](/micrographics/liquidity-vs-solvency-01/fi.md)
 
 
 Kysykää:

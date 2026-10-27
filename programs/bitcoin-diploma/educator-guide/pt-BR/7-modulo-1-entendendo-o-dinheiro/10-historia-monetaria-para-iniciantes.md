@@ -12,6 +12,7 @@ Construa uma linha do tempo em camadas ou entrelaçada, em vez de uma única set
 
 
 <!-- micrographic: forms-of-money-01 -->
+[Seis formas de dinheiro aparecem da esquerda para a direita, na ordem em que surgiram: troca direta, dinheiro-mercadoria, moedas padronizadas, papel representativo, dinheiro bancário e estatal e dinheiro digital. Cada nova forma começa mais tarde, enquanto as formas mais antigas continuam existindo ao lado dela, de modo que muitas formas coexistem em vez de uma substituir a outra.](/micrographics/forms-of-money-01/pt-BR.md)
 
 
 Incentive contribuições locais. Pergunte quais formas coexistiram, em vez de presumir que uma substituiu a outra completamente.

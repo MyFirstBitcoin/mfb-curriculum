@@ -1,6 +1,7 @@
 # 10.5 Validation de la préparation au module 4
 
-> **Callout – Ne menez aucune activité du module 4 en conditions réelles tant que toutes les vérifications ne sont pas concluantes**
+<!-- card: callout -->
+> **Ne menez aucune activité du module 4 en conditions réelles tant que toutes les vérifications ne sont pas concluantes**
 >
 > Si l’une des vérifications ci-dessous n’est pas satisfaisante, utilisez une simulation, un parcours sur papier ou une autre activité. Ne compensez pas un parcours dangereux ou non vérifié en demandant aux apprenants d’accepter davantage de risques.
 
@@ -22,3 +23,4 @@ Ne menez aucun module en conditions réelles tant que toutes les réponses requi
 
 
 <!-- micrographic: module-4-readiness-gate-01 -->
+[Huit vérifications portent sur l’objectif, la compétence visée, les capacités pédagogiques, les outils, les règles locales, la sécurité, l’accès et l’observation. Chaque vérification doit être satisfaisante pour animer la séance en conditions réelles ; une lacune conduit à choisir une approche plus sûre ou à réviser le plan, puis à réévaluer la préparation.](/micrographics/module-4-readiness-gate-01/fr-FR.md)

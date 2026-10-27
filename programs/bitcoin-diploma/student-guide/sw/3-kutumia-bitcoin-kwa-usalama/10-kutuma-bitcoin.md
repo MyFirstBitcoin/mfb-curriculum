@@ -5,7 +5,8 @@
 Kutuma kunahitaji uangalifu zaidi kwa sababu [muamala](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) halali wa Bitcoin kwa kawaida ni mgumu au hauwezekani kubatilishwa. Kabla ya kugusa kitufe cha kuidhinisha, je, unaweza kueleza nani atapokea malipo hayo na kwa nini?
 
 
-> **Callout – Simama na uthibitishe kabla ya kutuma**
+<!-- card: callout -->
+> **Simama na uthibitishe kabla ya kutuma**
 >
 > Thibitisha mpokeaji, njia ya malipo, anwani ya mwisho, kiasi na kipimo, ada au muda wa kuisha, na skrini ya mwisho. Ikiwa chochote kinatofautiana na ombi linaloaminika, au mtu analeta haraka au anaomba taarifa za urejeshaji, simama na uthibitishe kwa njia huru. Tumia jaribio dogo pale ambapo mchakato si wa kawaida kwako.
 
@@ -21,6 +22,7 @@ Kutuma kunahitaji uangalifu zaidi kwa sababu [muamala](https://curriculum.myfirs
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Kabla ya kuidhinisha malipo, mtumaji hukagua mpokeaji na madhumuni, njia ya malipo, mahali pa kupokelea, na kiasi, kipimo, ada au muda wa kuisha, akitumia jaribio dogo wakati mchakato si wa kawaida kwake. Ikiwa kuna kitu kinachotofautiana, husimama na kuthibitisha; huidhinisha tu wakati kila kitu kinalingana, kisha hukagua matokeo.](/micrographics/pre-send-checklist-01/sw.md)
 
 
 Kwa [malipo ya on-chain](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), **ada ya mtandao** hulipwa ili kujumuisha [muamala](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) katika bloku. Inategemea hasa data ya [muamala](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) na mahitaji ya [nafasi ya bloku](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-space), si tu kiasi kinachotumwa. Makadirio ya ada na muda yanaweza kubadilika, kwa hiyo soma muhtasari wa mwisho badala ya kudhani kwamba malipo ya kiasi kidogo yana ada ndogo.

@@ -1,11 +1,13 @@
 # 1.9 Inflația și puterea de cumpărare
 
+<!-- card: definition -->
 > **Definition – Inflația prețurilor**
 >
 > Oamenii folosesc termenul „[Inflație](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation)” în mai multe sensuri. În acest ghid, [inflația prețurilor](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation) înseamnă o creștere susținută a nivelului general al [prețurilor](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) bunurilor și serviciilor. Dacă veniturile și economiile dumneavoastră nu cresc la fel de repede ca [prețurile](https://curriculum.myfirstbitcoin.org/lexicon/en/#price), cu banii dumneavoastră puteți cumpăra mai puțin.
 
 
 
+<!-- card: definition -->
 > **Definition – Putere de Cumpărare**
 >
 > [Puterea de Cumpărare](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) reprezintă cantitatea de bunuri și servicii pe care o poate cumpăra o unitate monetară. Dacă prețul unui coș de bunuri de bază crește de la 100 de unități de [monedă](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) la 110, aceleași 100 de unități nu mai sunt suficiente pentru a cumpăra întregul coș. [Puterea de Cumpărare](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) a acestei sume în raport cu acel coș a scăzut.
@@ -15,6 +17,7 @@
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Cu aceleași 100 de unități monetare puteți cumpăra întregul coș de bunuri de bază când acesta costă 100, dar nu și când același coș costă 110. Nivelul prețurilor a crescut, iar puterea de cumpărare a banilor a scăzut.](/micrographics/same-money-smaller-basket-01/ro.md)
 
 
 Unii oameni folosesc termenul „[Inflație](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation)” cu sensul de [expansiune monetară](https://curriculum.myfirstbitcoin.org/lexicon/en/#monetary-inflation): o creștere a masei monetare și a creditului. Această expansiune poate contribui la [inflația prețurilor](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation), alături de perturbările aprovizionării, modificările cererii, existența unei [monede](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) slabe, taxe, reglementări și modificări ale costurilor de producție. Cauzele și efectele sunt adesea dezbătute. Evitați explicațiile care atribuie fiecare schimbare de [preț](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) unui singur factor.
@@ -24,7 +27,8 @@ Unii oameni folosesc termenul „[Inflație](https://curriculum.myfirstbitcoin.o
 Rata de [Inflație](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation) este o medie. Experiența dumneavoastră personală poate fi diferită, deoarece cheltuielile dumneavoastră nu corespund exact coșului utilizat pentru măsurare. Costurile pentru alimente, locuință, transport, educație și sănătate se pot modifica în ritmuri diferite.
 
 
-> **Light – Comparați la nivel local: Putere de Cumpărare**
+<!-- card: light -->
+> **Comparați la nivel local: Putere de Cumpărare**
 >
 > Alegeți un articol obișnuit din comunitatea dumneavoastră. Notați-i [prețul](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) de astăzi. Întrebați cât costa acum câțiva ani, apoi verificați o sursă de încredere, dacă este posibil. S-au modificat veniturile în același ritm? Ce alți factori ar putea explica schimbarea?
 >

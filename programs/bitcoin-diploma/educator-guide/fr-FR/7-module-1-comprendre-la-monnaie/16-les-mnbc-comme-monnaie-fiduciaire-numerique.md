@@ -12,6 +12,7 @@ Expliquez qu’une [MNBC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[Un tableau comparant les espèces, les dépôts bancaires, une MNBC de détail et Bitcoin selon leur émetteur, leur forme, leur accès, la visibilité des paiements, leurs règles d’émission et leur vérification. Numérique ne signifie pas décentralisé : une MNBC reste émise par la banque centrale, et son accès, la visibilité des paiements et sa vérification dépendent de sa conception.](/micrographics/cbdc-comparison-table-01/fr-FR.md)
 
 
 [Les MNBC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) diffèrent dans leur conception. N’affirmez pas que toute [MNBC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) possède ou non une caractéristique donnée. Distinguez la conception locale confirmée, les propositions publiées, les commentaires et les spéculations.

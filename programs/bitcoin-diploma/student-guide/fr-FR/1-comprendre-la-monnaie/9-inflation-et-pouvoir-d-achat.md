@@ -1,11 +1,13 @@
 # 1.9 Inflation et pouvoir d’achat
 
+<!-- card: definition -->
 > **Definition – Inflation des prix**
 >
 > On emploie le terme « [inflation](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation) » dans plusieurs sens. Dans ce guide, [l’inflation des prix](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation) désigne une hausse durable du niveau général des [prix](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) des biens et services. Si vos revenus et votre épargne n’augmentent pas aussi vite que les [prix](https://curriculum.myfirstbitcoin.org/lexicon/en/#price), votre monnaie vous permet d’acheter moins.
 
 
 
+<!-- card: definition -->
 > **Definition – Pouvoir d’achat**
 >
 > [Le pouvoir d’achat](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) est la quantité de biens et services qu’une unité de monnaie permet d’acheter. Si le prix d’un panier de biens de première nécessité passe de 100 unités de [monnaie](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) à 110, les mêmes 100 unités ne permettent plus d’acheter le panier complet. Leur [pouvoir d’achat](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) par rapport à ce panier a diminué.
@@ -15,6 +17,7 @@
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Les mêmes 100 unités de monnaie permettent d’acheter tout le panier de biens de première nécessité lorsqu’il coûte 100, mais pas lorsque ce même panier coûte 110. Le niveau des prix a augmenté et le pouvoir d’achat de la monnaie a diminué.](/micrographics/same-money-smaller-basket-01/fr-FR.md)
 
 
 Certaines personnes emploient le terme « [inflation](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation) » pour désigner [l’expansion monétaire](https://curriculum.myfirstbitcoin.org/lexicon/en/#monetary-inflation) : une augmentation de la quantité de monnaie et de crédit. Cette expansion peut contribuer à [l’inflation des prix](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation), parallèlement aux perturbations de l’offre, aux variations de la demande, à une [monnaie](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) faible, aux impôts, à la réglementation et aux variations des coûts de production. Les causes et les effets font souvent débat. Évitez les explications qui attribuent chaque variation de [prix](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) à un seul facteur.
@@ -24,7 +27,8 @@ Certaines personnes emploient le terme « [inflation](https://curriculum.myfirs
 Le taux d’[inflation](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation) est une moyenne. Votre expérience personnelle peut être différente, car vos dépenses ne correspondent pas exactement au panier utilisé pour la mesure. Les coûts de l’alimentation, du logement, des transports, de l’éducation et de la santé peuvent évoluer à des rythmes différents.
 
 
-> **Light – Comparez le pouvoir d’achat à l’échelle locale**
+<!-- card: light -->
+> **Comparez le pouvoir d’achat à l’échelle locale**
 >
 > Choisissez un article courant dans votre communauté. Notez son [prix](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) aujourd’hui. Demandez combien il coûtait il y a plusieurs années, puis vérifiez cette information à l’aide d’un document fiable si possible. Les revenus ont-ils évolué au même rythme ? Quels autres facteurs peuvent expliquer cette évolution ?
 >

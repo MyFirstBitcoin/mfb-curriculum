@@ -5,7 +5,8 @@
 İnsanlar bitcoin'i iş, topluluk ödemesi, kişiler arası takas, ATM veya bir hizmet aracılığıyla edinebilir. Her yol farklı maliyet, [saklama](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), gizlilik, dolandırıcılık, yasal ve operasyonel [ödünleşimler](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) içerir. Bitcoin Diploma bir sağlayıcı önermez veya hangi yolu kullanmanız gerektiğini söylemez.
 
 
-> **Light – Yerel bir ödeme yolunu karşılaştırın**
+<!-- card: light -->
+> **Yerel bir ödeme yolunu karşılaştırın**
 >
 > Hazırlanmış yerel veya kurgusal bir senaryoda [saklamayı](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), toplam maliyeti, kimlik verilerini, para çekme limitlerini, karşı taraf ve fiziksel güvenliği ve güncel yerel kuralları karşılaştırın. Hiçbir yol her yerde kendiliğinden en iyisi değildir. Bu kurs, bir sağlayıcı önerisi veya kişisel finansal tavsiye değil, karşılaştırma soruları sunar.
 
@@ -20,15 +21,18 @@ Bir yolu karşılaştırmadan önce şunları sorun:
 
 
 <!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Bir kişi bitcoin'i dört farklı yolla edinebilir: iş veya satış yoluyla kazanarak, yerel nakdi başka bir kişiyle takas ederek, bir borsa veya aracı kurum kullanarak ya da bir ATM kullanarak. Her yol kendi kendine saklama veya emanetçi bakiyesiyle sonuçlanır ve hiçbiri diğerlerine tercih edilmek üzere önerilmez.](/micrographics/ways-to-receive-bitcoin-01/tr.md)
 
 
 
 <!-- micrographic: exchange-risk-questions-01 -->
+[Bitcoin edinmeden veya takas etmeden önce kontrol edilmesi gereken, her biri sorulacak bir soruyla birlikte altı risk alanı: maliyetler, saklama, kimlik ve gizlilik, çekim ve mutabakat, karşı taraf ve güvenlik ile yerel bağlam.](/micrographics/exchange-risk-questions-01/tr.md)
 
 
 Hiçbir yol her yerde kendiliğinden en iyisi değildir. Yerel örnekler ve sağlayıcıya özgü rehberlik **Modül 4**'te yer alır.
 
 
+<!-- card: definition -->
 > **Definition – Müşterini Tanı (KYC)**
 >
 > [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc), düzenlemeye tabi bir hizmetin talep edebileceği kimlik kontrollerini ifade eder. Hesap kurtarmayı veya yasal uyumu destekleyebilir; ancak aynı zamanda kimlik ile finansal faaliyeti birbirine bağlayan bir kayıt oluşturur. Daha az kimlik bilgisi toplanan yollar ise farklı karşı taraf, yasal, güvenlik, maliyet veya karmaşıklık riskleri içerebilir.

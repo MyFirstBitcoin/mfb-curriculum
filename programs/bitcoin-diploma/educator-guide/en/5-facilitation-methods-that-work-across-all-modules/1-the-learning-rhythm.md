@@ -14,3 +14,4 @@ For most concepts, use this sequence:
 
 
 <!-- micrographic: learning-rhythm-01 -->
+[The educator sets purpose, activates prior ideas, explains, checks, guides application, invites independent production, debriefs, invites reflection, and connects to the next concept. Unclear responses lead back to explanation or practice.](/micrographics/learning-rhythm-01/en.md)

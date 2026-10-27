@@ -1,5 +1,6 @@
 # 3.6 Sử dụng có lưu ký và không lưu ký
 
+<!-- card: definition -->
 > **Definition – Lưu ký**
 >
 > [Lưu ký](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) trả lời một câu hỏi thực tế: ai kiểm soát các khóa cần thiết để chi tiêu bitcoin?
@@ -15,10 +16,12 @@ Trong một ví **không lưu ký** hoặc **tự lưu ký**, QUÝ VỊ kiểm s
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[Khi sử dụng hình thức lưu ký, dịch vụ kiểm soát các khóa và phê duyệt việc chi tiêu, vì vậy số dư là lời cam kết của dịch vụ. Khi sử dụng hình thức tự lưu ký, người dùng kiểm soát các khóa và bản sao lưu; cả hai hình thức đều có những yếu tố phụ thuộc và rủi ro gặp sự cố.](/micrographics/who-controls-keys-01/vi.md)
 
 
 
 <!-- micrographic: custody-comparison-table-01 -->
+[Bảng so sánh việc sử dụng dịch vụ lưu ký và tự lưu ký: ai giữ khóa, ai phụ trách việc khôi phục và sự đánh đổi chính của mỗi hình thức. Không hình thức nào hoàn toàn không có rủi ro.](/micrographics/custody-comparison-table-01/vi.md)
 
 
 [Lưu ký](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) không phải lúc nào cũng thể hiện rõ trên giao diện. Nếu quý vị không thể kiểm soát phương thức khôi phục và cần một công ty phê duyệt việc rút tiền, có lẽ quý vị đang sử dụng một [bên lưu ký](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian). [Tự lưu ký](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) không phải là phép thử giá trị bản thân; bước quan trọng là xác định những yếu tố liên quan đến sự tin cậy và rủi ro.

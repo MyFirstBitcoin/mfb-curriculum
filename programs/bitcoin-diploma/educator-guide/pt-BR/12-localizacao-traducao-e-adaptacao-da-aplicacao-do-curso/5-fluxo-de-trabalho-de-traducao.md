@@ -14,6 +14,7 @@ Siga esta sequência:
 
 
 <!-- micrographic: translation-workflow-01 -->
+[A tradução é um processo de revisão e teste: prepare um inglês claro, traduza o significado, revise com um especialista no idioma e um educador, teste as instruções de segurança com os alunos e, por fim, confirme que os padrões são equivalentes. Instruções de segurança pouco claras voltam para a etapa de redação.](/micrographics/translation-workflow-01/pt-BR.md)
 
 
 Evite expressões idiomáticas e metáforas que não se transpõem bem para outros idiomas. Ao usar uma analogia, sempre explique o que ela ilustra e o que ela não ilustra.

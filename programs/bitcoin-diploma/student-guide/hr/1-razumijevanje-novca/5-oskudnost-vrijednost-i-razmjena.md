@@ -3,6 +3,7 @@
 Resursi su ograničeni, dok ljudske želje nisu.
 
 
+<!-- card: definition -->
 > **Definition – Oskudica**
 >
 > [Oskudica](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) znači da odabir jednog načina upotrebe resursa onemogućuje drugi način upotrebe. Vrijeme, zemljište, energija, dobro zdravlje, alati i [zdrav novac](https://curriculum.myfirstbitcoin.org/lexicon/en/#sound-money) svi su oskudni.
@@ -14,6 +15,7 @@ Ta [vrijednost](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) dobra n
 
 
 <!-- micrographic: same-water-different-value-01 -->
+[Ista boca čiste vode jeftina je u hladnjaku trgovine gdje je vodu lako pronaći, a mnogo je vrjednija u vrućoj pustinji tijekom nestašice. Dostupnost, potreba i okolnosti mijenjaju vrijednost i cijenu.](/micrographics/same-water-different-value-01/hr.md)
 
 
 Razmjena se odvija kada obje strane više žele ono što primaju nego ono čega se odriču. Ne moraju se složiti da ta dva predmeta za njih imaju jednaku osobnu [vrijednost](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Moraju se samo složiti oko uvjeta.
@@ -26,6 +28,7 @@ Tri pojma pomažu objasniti svakodnevne izbore:
 
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Kupac s ograničenim novčanim sredstvima razmatra mogućnosti pred sobom: hranu za danas, prijevoz ili štednju za kasnije. Odabir jedne mogućnosti znači odricanje od ostalih, što predstavlja oportunitetni trošak, a nijedna mogućnost nije označena kao ispravna.](/micrographics/one-choice-two-uses-01/hr.md)
 
 
 [Oskudica](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) sama po sebi ne jamči [vrijednost](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Predmet može biti rijedak, a da za njim ipak nema potražnje. Korisna monetarna [imovina](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) spaja ograničenu ponudu sa svojstvima i potražnjom koji ljude potiču da je drže ili razmjenjuju.

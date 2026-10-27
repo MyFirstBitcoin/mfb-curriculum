@@ -12,6 +12,7 @@ Menerima bayaran tidak memberikan kebenaran untuk dana keluar daripada dompet an
 
 
 <!-- micrographic: check-what-you-receive-01 -->
+[Contoh skrin penerimaan pada telefon menunjukkan kaedah pembayaran, permintaan pembayaran untuk dikongsi, amaun dan status menunggu. Mesej atau tangkapan skrin yang menyatakan "dihantar" bukan bukti: semak status dalam dompet anda sendiri.](/micrographics/check-what-you-receive-01/ms.md)
 
 
 Mesej atau tangkap layar yang menyatakan “telah dihantar” bukanlah bukti. Apakah bukti yang boleh anda lihat sendiri? Semak dompet penerima atau paparan yang diluluskan bagi [transaksi](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction). Untuk [pembayaran dalam rantaian](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), dompet mungkin pada mulanya memaparkan [transaksi](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) sebagai belum disahkan. [Status pengesahan](https://curriculum.myfirstbitcoin.org/lexicon/en/#confirmation) meningkatkan keyakinan terhadap penyelesaian pembayaran; status ini tidak membetulkan alamat yang salah atau mengatasi penipuan. Dompet mungkin menawarkan alamat baharu untuk penerimaan bayaran baharu; alamat lama mungkin masih boleh digunakan, tetapi penggunaan semula satu alamat boleh memudahkan pembayaran yang berasingan dikaitkan antara satu sama lain. Alamat baharu mengurangkan kemudahan untuk mengaitkan pembayaran tersebut; alamat ini tidak menjadikan pembayaran itu tanpa identiti.

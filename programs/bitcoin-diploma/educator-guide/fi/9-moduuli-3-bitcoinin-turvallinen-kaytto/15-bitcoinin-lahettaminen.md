@@ -15,6 +15,7 @@ Käyttäkää pysähdy ja tarkista -menettelyä:
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Ennen maksun hyväksymistä lähettäjä tarkistaa vastaanottajan ja maksun tarkoituksen, maksutavan, kohteen sekä summan, yksikön, siirtomaksun tai vanhenemisajan ja tekee pienen testimaksun, jos menettely on vieras. Jos jokin poikkeaa, hän pysähtyy ja varmistaa tiedot. Hän hyväksyy maksun vasta, kun kaikki tiedot täsmäävät, ja tarkistaa sitten tuloksen.](/micrographics/pre-send-checklist-01/fi.md)
 
 
 Opettakaa oppijoita pysähtymään, jos vastaanottaja muuttaa kohdeosoitetta odottamatta, kehottaa jättämään tarkistukset tekemättä, luo kiireen tuntua tai pyytää palautustietoja.

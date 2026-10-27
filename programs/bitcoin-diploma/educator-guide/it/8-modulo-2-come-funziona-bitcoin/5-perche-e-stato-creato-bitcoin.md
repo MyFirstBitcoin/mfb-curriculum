@@ -6,6 +6,7 @@ Un sistema centralizzato di pagamenti digitali può tenere un unico [ledger](htt
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Con una società di pagamento, un'unica organizzazione tiene il registro e approva ogni trasferimento. Con Bitcoin, il mittente firma una transazione, nodi indipendenti la verificano e i miner la aggiungono a un unico registro condiviso, così il destinatario dipende meno da un'autorità centrale.](/micrographics/central-ledger-vs-bitcoin-01/it.md)
 
 
 Chieda:

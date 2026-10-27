@@ -32,3 +32,4 @@ Yerel uygunluk vazgeçilmezdir, ancak farklı bir Bitcoin Diploması standardı 
 
 
 <!-- micrographic: fixed-adaptable-flexible-01 -->
+[Yerel örnekler ve öğretim yöntemleri; sabit yetkinlik, kanıt, güvenlik ve tamamlama sınırları içinde değiştirilebilir. Değerlendirmeyi etkileyen değişiklikler, öğrencinin aynı eylemi gerçekleştirmesini ve aynı güvenlik amacını koruyan, onaylanmış eşdeğer bir yol gerektirir.](/micrographics/fixed-adaptable-flexible-01/tr.md)

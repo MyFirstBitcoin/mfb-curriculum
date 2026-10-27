@@ -9,6 +9,7 @@ A Bitcoin azért működik, mert a különböző résztvevők különböző szer
 
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Négy szerepkör a Bitcoinban: a felhasználók bitcoint fogadnak, tartanak és küldenek, a csomópontok önállóan ellenőrzik a szabályok betartását, a bányászok munkabizonyítékkal blokkjelölteket állítanak össze, a fejlesztők pedig szoftvereket javasolnak. Egyetlen szerepkör sem irányítja a hálózatot.](/micrographics/bitcoin-participant-roles-01/hu.md)
 
 
 Ezek a szerepek kölcsönösen korlátozzák egymást:

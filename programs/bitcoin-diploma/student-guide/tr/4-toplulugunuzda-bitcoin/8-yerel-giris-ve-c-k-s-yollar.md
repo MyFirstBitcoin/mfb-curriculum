@@ -24,6 +24,7 @@ Yüz yüze takaslarda halka açık ve uygun bir yer seçin, gereksiz nakit taş�
 
 
 <!-- micrographic: compare-local-pathways-01 -->
+[Üç yerel yolu (A, B ve C) ad, KYC gereksinimleri, saklama modeli, desteklenen ağlar, itibar ve fonlama yöntemleri açısından karşılaştırmak için not alanı da içeren boş bir tablo.](/micrographics/compare-local-pathways-01/tr.md)
 
 
 

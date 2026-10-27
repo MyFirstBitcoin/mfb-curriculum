@@ -4,6 +4,7 @@ Mutane sukan nemi wasu hanyoyi maimakon riƙe tsabar kuɗi idan sun yi imanin ce
 
 
 <!-- micrographic: saving-alternatives-table-01 -->
+[Jadawalin hanyoyi uku da za su iya zama madadin riƙe tsabar kuɗi (karafa masu daraja, kadarorin ƙasa da gine-gine da hannun jari), tare da dalilan da mutane za su iya zaɓar kowannensu da muhimman abubuwan da za a yi la’akari da su. Ba a fifita ɗaya a kan sauran ba.](/micrographics/saving-alternatives-table-01/ha.md)
 
 
 Ita [kadara](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) abu ne da mutum zai iya mallaka ko da'awar haƙƙin mallaka a kansa, wanda zai iya kasancewa yana da [ƙima](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); hakan ba yana nufin tana aiwatar da kowane aikin kuɗi kai tsaye ba. Gida na iya adana [ƙima](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) amma bai dace da sayen abinci ba. Hannun jari na iya zama mai sauƙin sayarwa a wata ƙasa amma wanda ba shi da asusun dillancin hannayen jari ba zai iya samunsa ba. [Zinariya](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) ta kasance ana amfani da ita a matsayin kuɗi tsawon lokuta masu yawa a tarihi amma tantance sahihancinta ko raba ta yayin ƙaramar mu'amala na iya zama da wahala.

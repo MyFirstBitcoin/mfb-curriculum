@@ -12,6 +12,7 @@ Ajarkan konsekuensinya:
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Frasa pemulihan adalah daftar kata yang tersusun secara berurutan, di sini berupa dua belas kata contoh bernomor yang ditulis di atas kertas. Kata-kata yang tepat dalam urutan yang benar dapat memulihkan kendali atas dompet yang kompatibel, sehingga frasa ini harus tetap dirahasiakan dan disimpan secara luring.](/micrographics/seed-phrase-on-paper-01/id.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
@@ -43,10 +44,12 @@ Ajarkan konsekuensinya:
 
 
 <!-- micrographic: recovery-practice-lanes-01 -->
+[Peserta didik mengikuti langkah-langkah latihan pemulihan di area privat, memeriksa hasil yang diharapkan, menghapus data pada perangkat, serta mengembalikan atau memusnahkan materi fiktif. Pendidik mengamati keputusan yang diambil dan penanganan yang aman, tetapi tidak pernah melihat kata-kata pemulihan rahasia.](/micrographics/recovery-practice-lanes-01/id.md)
 
 
 
-> **Callout – Anggap frasa seed yang terekspos tidak lagi aman**
+<!-- card: callout -->
+> **Anggap frasa seed yang terekspos tidak lagi aman**
 >
 > Jika seed asli mungkin telah terekspos, hentikan penggunaannya sebagai cadangan yang aman, buat dompet baru yang tepercaya dengan informasi pemulihan baru, dan pindahkan dana setelah memverifikasi tujuan dengan saksama. Peserta didik sebaiknya mencari bantuan tanpa mengungkapkan frasa lama maupun frasa baru.
 

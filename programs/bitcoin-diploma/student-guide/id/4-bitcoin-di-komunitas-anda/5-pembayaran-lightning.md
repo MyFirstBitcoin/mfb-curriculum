@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[Penerima membuat permintaan pembayaran Lightning yang mencantumkan jumlahnya di ponselnya, pengirim memindainya lalu membayar, dan pembayaran diterima di ponsel penerima sesaat kemudian.](/micrographics/lightning-phone-payment-01/id.md)
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Pembayaran Lightning dalam enam langkah: penerima membuat permintaan, pengirim memindainya, memeriksa penerima, jumlah, satuan, waktu kedaluwarsa, dan biaya, lalu menyetujuinya, pembayaran dirutekan, dan kedua dompet menunjukkan hasilnya. Setiap dompet dapat bersifat kustodial atau kustodi mandiri, dan pembayaran yang gagal atau kedaluwarsa dimulai kembali dengan permintaan baru.](/micrographics/lightning-payment-sequence-01/id.md)
 
 
 Lightning dapat membuat pembayaran Bitcoin bernilai kecil dapat dilakukan dengan cepat dan praktis. Lightning mungkin cocok digunakan di loket pembayaran pedagang, untuk pembayaran lokal yang berulang, layanan daring, atau transfer yang biaya on-chain-nya terlalu besar dibandingkan dengan nilai pembayaran.

@@ -3,6 +3,7 @@
 Skaitmeninę informaciją paprastai lengva kopijuoti.
 
 
+<!-- card: definition -->
 > **Definition – Skaitmeninis ribotumas**
 >
 > Skaitmeninis [ribotumas](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) reiškia, kad sistema gali atskirti galiojantį vienetą nuo negaliojančios kopijos ir neleisti to paties vieneto išleisti du kartus.
@@ -14,6 +15,7 @@ Skaitmeninę informaciją paprastai lengva kopijuoti.
 
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Svetainėje ar emitento duomenų bazėje nurodytą pasiūlos ribą emitentas gali nepastebimai pakeisti. „Bitcoin“ pasiūlos taisyklė yra vieša, o parašai, vieša istorija, darbo įrodymas ir mazgų atliekama patikra kartu neleidžia savavališkai kurti naujų monetų ar to paties bitkoino išleisti du kartus.](/micrographics/claimed-or-verified-supply-01/lt.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)

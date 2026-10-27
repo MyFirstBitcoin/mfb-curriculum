@@ -5,7 +5,8 @@
 Att skicka med Bitcoin kräver större försiktighet eftersom en giltig [transaktion](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) vanligtvis är svår eller omöjlig att återkalla. Kan ni förklara vem som kommer att ta emot betalningen och varför, innan ni trycker på knappen för att godkänna?
 
 
-> **Callout – Stanna upp och verifiera innan ni skickar**
+<!-- card: callout -->
+> **Stanna upp och verifiera innan ni skickar**
 >
 > Bekräfta mottagaren, betalningsmetoden, destinationen, beloppet och enheten, avgiften eller giltighetstiden samt den sista skärmbilden. Om något avviker från den betrodda betalningsbegäran, eller om någon skapar tidspress eller ber om återställningsuppgifter, stanna upp och verifiera via en oberoende källa. Gör en liten testbetalning när förfarandet är obekant.
 
@@ -21,6 +22,7 @@ Att skicka med Bitcoin kräver större försiktighet eftersom en giltig [transak
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Innan avsändaren godkänner en betalning kontrollerar avsändaren mottagaren och syftet, betalningsmetoden, destinationen samt belopp, enhet, avgift eller giltighetstid, och gör ett litet test om tillvägagångssättet är obekant. Om något avviker stannar avsändaren upp och verifierar, godkänner bara när allt stämmer och kontrollerar sedan resultatet.](/micrographics/pre-send-checklist-01/sv.md)
 
 
 För en [betalning på kedjan](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), betalas **nätverksavgiften** för att inkludera [transaktionen](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) i ett block. Den beror främst på [transaktionens](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) data och efterfrågan på [blockutrymme](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-space), inte bara på beloppet som skickas. Avgiftsuppskattningar och tidsåtgång kan ändras, så läs den slutliga sammanfattningen i stället för att anta att en betalning med lågt värde har en låg avgift.

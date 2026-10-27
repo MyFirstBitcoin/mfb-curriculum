@@ -4,12 +4,14 @@ Ottakaa mukaan kolme henkilöä, joiden tavarat ja tarpeet eivät vastaa toisiaa
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina omistaa riisiä ja haluaa kengät, Luis omistaa kengät ja haluaa ruokaöljyä, ja Mei omistaa ruokaöljyä ja haluaa korjaustöitä. Mikään pari ei voi käydä suoraa vaihtokauppaa, koska parin kumpikaan osapuoli ei halua sitä, mitä toinen tarjoaa.](/micrographics/barter-mismatch-01/fi.md)
 
 
 Ottakaa sitten käyttöön yleisesti hyväksytty vaihdon väline.
 
 
 <!-- micrographic: sell-then-buy-01 -->
+[Amina myy riisiä yhdelle henkilölle yleisesti hyväksyttyä rahaa vastaan ja käyttää myöhemmin saamansa rahat ostaakseen kengät joltakulta toiselta. Myymisestä ja ostamisesta tulee erillisiä toimintoja.](/micrographics/sell-then-buy-01/fi.md)
 
 
 Kysykää:

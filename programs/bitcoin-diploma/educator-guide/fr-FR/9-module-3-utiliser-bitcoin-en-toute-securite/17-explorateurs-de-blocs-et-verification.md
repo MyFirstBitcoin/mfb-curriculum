@@ -12,6 +12,7 @@ Un [explorateur de blocs](https://curriculum.myfirstbitcoin.org/lexicon/en/#bloc
 
 
 <!-- micrographic: confirmation-timeline-01 -->
+[Une transaction non confirmée reste dans la file d’attente, puis est incluse dans le bloc N, ce qui constitue sa première confirmation. Chaque bloc suivant ajoute une confirmation supplémentaire.](/micrographics/confirmation-timeline-01/fr-FR.md)
 
 
 Posez ensuite les questions suivantes :

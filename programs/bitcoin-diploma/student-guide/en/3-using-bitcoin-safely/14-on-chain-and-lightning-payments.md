@@ -4,22 +4,26 @@
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[On-chain payments are recorded directly in Bitcoin's blockchain, while Lightning is a payment network built on Bitcoin for fast, frequent payments that can also fail. Either path can be custodial or self-custodial.](/micrographics/on-chain-and-lightning-01/en.md)
 
 
 
+<!-- card: definition -->
 > **Definition – On-chain and Lightning payments**
 >
 > [On-chain payments](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment) are recorded in Bitcoin's [blockchain](https://curriculum.myfirstbitcoin.org/lexicon/en/#blockchain) and gain [confirmations](https://curriculum.myfirstbitcoin.org/lexicon/en/#confirmation). Lightning is a payment network built on Bitcoin that can support fast, frequent payments. A Lightning payment may complete quickly or fail, and its wallet can still be custodial or self-custodial.
 
 
 
-> **Dark – Payment path does not determine custody**
+<!-- card: dark -->
+> **Payment path does not determine custody**
 >
 > On-chain and Lightning payments make different [trade-offs](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). A Lightning wallet can be custodial or self-custodial, and a fast successful payment does not prove that a service is suitable for larger balances or every situation.
 
 
 
 <!-- micrographic: onchain-lightning-table-01 -->
+[A table comparing on-chain Bitcoin and Lightning: receiving information, payment result, common use and beginner checks. Either path can be custodial or self-custodial.](/micrographics/onchain-lightning-table-01/en.md)
 
 
 Which path does the recipient expect? Confirm whether they have provided an on-chain address or a [Lightning invoice](https://curriculum.myfirstbitcoin.org/lexicon/en/#lightning-invoice) or request before paying. An on-chain wallet cannot directly pay every [Lightning invoice](https://curriculum.myfirstbitcoin.org/lexicon/en/#lightning-invoice), and a Lightning wallet may not support every on-chain action. Some applications support both paths but may add fees or service dependencies. Detailed Lightning setup, channels, routing, and [liquidity](https://curriculum.myfirstbitcoin.org/lexicon/en/#lightning-liquidity) are [Advanced Learning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/); live local practice belongs in **Module 4** when it is safe and appropriate.

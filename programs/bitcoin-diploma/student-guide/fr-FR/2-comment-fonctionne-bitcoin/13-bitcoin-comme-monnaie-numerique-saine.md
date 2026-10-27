@@ -6,6 +6,7 @@ Bitcoin réunit des propriétés qui n’avaient jamais coexisté dans un même 
 
 
 <!-- micrographic: bitcoin-money-properties-01 -->
+[Bitcoin réunit sept propriétés de la monnaie dans un seul actif : durabilité, portabilité, divisibilité, fongibilité, rareté, vérifiabilité et acceptabilité. Chacune présente des limites pratiques, comme la nécessité de conserver les clés en sécurité et une acceptation encore faible dans de nombreuses communautés.](/micrographics/bitcoin-money-properties-01/fr-FR.md)
 
 
 

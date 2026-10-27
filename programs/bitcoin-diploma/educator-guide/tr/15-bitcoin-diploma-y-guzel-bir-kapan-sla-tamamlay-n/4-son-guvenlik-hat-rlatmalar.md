@@ -12,3 +12,4 @@ Katılımcılara şunları hatırlatın:
 
 
 <!-- micrographic: final-safety-check-01 -->
+[İşaretlenmiş bir son güvenlik kontrol listesi: gizli bilgilerinizi koruyun, ödeme bilgilerini doğrulayın, küçük denemeler yapın ve baskı altındayken durun. Herhangi bir şey belirsizse durun ve harekete geçmeden önce daha fazla bilgi edinin.](/micrographics/final-safety-check-01/tr.md)

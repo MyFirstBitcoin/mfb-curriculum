@@ -29,3 +29,4 @@ Hoạt động này giúp làm rõ vấn đề [quyền riêng tư](https://curr
 
 
 <!-- micrographic: address-reuse-linkage-01 -->
+[Một số biên nhận giả định cùng sử dụng một địa chỉ được dùng lại nên dễ dàng bị liên kết với nhau. Các địa chỉ nhận tiền mới giúp giảm mối liên hệ trực tiếp đó, nhưng thông tin bên ngoài và các lượt tìm kiếm trên trình khám phá vẫn có thể tiết lộ các mối liên hệ, và chỉ riêng dữ liệu công khai không đủ để chứng minh danh tính của một người.](/micrographics/address-reuse-linkage-01/vi.md)

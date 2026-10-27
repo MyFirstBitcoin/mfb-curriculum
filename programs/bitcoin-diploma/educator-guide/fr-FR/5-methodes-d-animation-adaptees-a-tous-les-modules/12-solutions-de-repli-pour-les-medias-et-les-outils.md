@@ -24,6 +24,7 @@ L’enseignement et l’évaluation hors ligne sont valables. Utilisez des véri
 
 
 <!-- micrographic: same-competency-any-route-01 -->
+[Les outils en ligne, les simulations sur papier et les parcours accessibles validés peuvent permettre de travailler la même compétence, à condition que l’apprenant prenne toujours les décisions requises et que l’enseignant puisse évaluer des preuves équivalentes. En l’absence d’équivalence, préparez un autre parcours avant la certification.](/micrographics/same-competency-any-route-01/fr-FR.md)
 
 
 Le Guide de l’apprenant explique des concepts durables. Vérifiez les informations locales à jour avant de présenter les frais, les lois, les taxes, les services disponibles, les fonctionnalités des portefeuilles ou les listes de commerçants, et datez les informations que vous utilisez.

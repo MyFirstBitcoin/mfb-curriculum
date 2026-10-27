@@ -28,6 +28,7 @@ Denne tilnærmingen er viktig fordi penger påvirker alle mennesker. Folk bør k
 
 
 <!-- micrographic: critical-thinking-loop-01 -->
+[En gjentakbar prosess for kritisk tenkning: identifiser påstanden, skill fakta fra preferanser, undersøk beleggene og kilden, sammenlign alternativer, angi en avveining eller usikkerhet, og formuler en foreløpig konklusjon eller et spørsmål.](/micrographics/critical-thinking-loop-01/nb.md)
 
 
 **Fellesskap** betyr at opplæring blir mer nyttig når folk diskuterer ideer og knytter dem til livet i lokalsamfunnet. Deres underviser og medstudenter kan ha erfaringer som ingen bok med globalt perspektiv kan romme. Lytt nøye, still spørsmål og forklar resonnementene Deres på en respektfull måte.
@@ -75,7 +76,8 @@ De kan bruke kurset til å:
 * forberede Dem på mer avanserte studier
 
 
-> **Callout – Kunnskap kommer før handling**
+<!-- card: callout -->
+> **Kunnskap kommer før handling**
 >
 > De trenger ikke å kjøpe eller på annen måte skaffe Dem bitcoin for å fullføre Bitcoin-diplomet. De trenger heller ikke å installere en [Bitcoin-lommebok](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet) eller bruke egne midler. Påkrevde praktiske ferdigheter kan vurderes ved hjelp av en klargjort øvingslommebok, en simulering, et testmiljø, en fysisk modell eller en aktivitet med lav innsats som er godkjent av underviseren.
 
@@ -84,3 +86,4 @@ Hvis De har begrenset tid eller ønsker en første innføring i Bitcoin, kan De 
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[Et valgfritt læringsløp går fra Introduksjon til Bitcoin til Bitcoin-diplomet, deretter til opplæringsprogrammet for undervisere, videre til å bli underviser som underviser etter læreplanen fra My First Bitcoin, og til å bli med i Bitcoin-utdanningsnettverket. Hvert neste trinn er et valg, ikke et krav.](/micrographics/learner-journey-pathway-01/nb.md)

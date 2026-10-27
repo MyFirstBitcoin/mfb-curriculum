@@ -12,6 +12,7 @@ Erstellen Sie eine geschichtete oder verflochtene Zeitleiste statt eines einzige
 
 
 <!-- micrographic: forms-of-money-01 -->
+[Sechs Geldformen erscheinen von links nach rechts in der Reihenfolge ihrer Entstehung: direkter Tausch, Warengeld, standardisierte Münzen, repräsentatives Papiergeld, Bank- und Staatsgeld sowie digitales Geld. Jede neue Form beginnt später, während die älteren Formen neben ihr fortbestehen, sodass viele Formen nebeneinander existieren, statt dass eine die andere ersetzt.](/micrographics/forms-of-money-01/de.md)
 
 
 Laden Sie zu lokalen Ergänzungen ein. Fragen Sie, welche Formen nebeneinander bestanden, anstatt anzunehmen, dass eine die andere vollständig ersetzt hat.

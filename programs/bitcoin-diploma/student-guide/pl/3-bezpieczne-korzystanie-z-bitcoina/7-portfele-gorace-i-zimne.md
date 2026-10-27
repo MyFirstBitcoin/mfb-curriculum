@@ -1,11 +1,13 @@
 # 3.7 Portfele gorące i zimne
 
+<!-- card: definition -->
 > **Definition – Gorący portfel**
 >
 > Taki [gorący portfel](https://curriculum.myfirstbitcoin.org/lexicon/en/#hot-wallet) zarządza kluczami na urządzeniu podłączonym do internetu, takim jak telefon lub komputer. Jest wygodny przy regularnych płatnościach, ale ma większą powierzchnię ataku, ponieważ złośliwe oprogramowanie, niezabezpieczone aktualizacje, phishing, fizyczny dostęp do urządzenia lub przejęcie nad nim kontroli mogą narazić portfel na zagrożenie.
 
 
 
+<!-- card: definition -->
 > **Definition – Zimny portfel**
 >
 > Taki [zimny portfel](https://curriculum.myfirstbitcoin.org/lexicon/en/#cold-wallet) oznacza rozwiązanie, w którym klucze służące do podpisywania są przechowywane poza podłączonym do internetu urządzeniem ogólnego przeznaczenia.
@@ -13,9 +15,11 @@
 
 
 <!-- micrographic: hot-and-cold-wallets-01 -->
+[Gorący portfel przechowuje klucze do podpisywania na urządzeniu połączonym z internetem, takim jak telefon; zimny portfel przechowuje je z dala od wszelkich urządzeń połączonych z internetem. To, kto kontroluje klucze, jest osobną kwestią.](/micrographics/hot-and-cold-wallets-01/pl.md)
 
 
 
+<!-- card: definition -->
 > **Definition – Portfel sprzętowy**
 >
 > Taki [portfel sprzętowy](https://curriculum.myfirstbitcoin.org/lexicon/en/#hardware-wallet) oznacza specjalistyczne urządzenie zaprojektowane do generowania, ochrony i używania kluczy przy jednoczesnym utrzymywaniu ich w izolacji od podłączonego komputera lub telefonu. [Portfel sprzętowy](https://curriculum.myfirstbitcoin.org/lexicon/en/#hardware-wallet) może stanowić element rozwiązania typu zimny portfel, ale te terminy nie są zamienne; [przechowywanie środków](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) i odzyskiwanie dostępu to odrębne kwestie.
@@ -23,6 +27,7 @@
 
 
 <!-- micrographic: wallet-arrangements-table-01 -->
+[Tabela przedstawiająca trzy sposoby przechowywania (gorący portfel, portfel sprzętowy lub przechowywanie na zimno, konto powiernicze), każdy z typową zaletą i obowiązkiem, o którym należy pamiętać. Kontrola nad kluczami i środowisko podpisywania to odrębne kwestie.](/micrographics/wallet-arrangements-table-01/pl.md)
 
 
 **Proszę spróbować:** W przypadku niewielkiej, fikcyjnej płatności oraz rzadziej dokonywanej fikcyjnej płatności proszę wyjaśnić, który [kompromis](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) ma większe znaczenie. Proszę nie wybierać narzędzia ani kwoty dla własnych środków.

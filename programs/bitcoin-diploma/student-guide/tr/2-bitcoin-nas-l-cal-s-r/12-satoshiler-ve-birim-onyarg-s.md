@@ -14,6 +14,7 @@ Farklı [fiyatları](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) ka
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[İki sütunlu bir tablo: 1 BTC 100.000.000 sat, 0,1 BTC 10.000.000 sat, 0,01 BTC 1.000.000 sat, 0,001 BTC 100.000 sat ve 0,00000001 BTC 1 sat eder.](/micrographics/bitcoin-and-sats-01/tr.md)
 
 
 **Anladığınızı gösterin:** 0,01 BTC'de kaç [sat](https://curriculum.myfirstbitcoin.org/lexicon/en/#satoshi) vardır? Bütün bir bitcoin'in [fiyatı](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) neden bir kişinin daha küçük bir miktar kullanmasını engellemez?

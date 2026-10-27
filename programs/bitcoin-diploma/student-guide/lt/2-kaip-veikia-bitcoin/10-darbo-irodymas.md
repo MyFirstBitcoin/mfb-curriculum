@@ -3,6 +3,7 @@
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
+<!-- card: definition -->
 > **Definition – Darbo įrodymas**
 >
 > [Darbo įrodymas](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) – tai procesas, kurį [kasėjai](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) naudoja varžydamiesi dėl teisės pasiūlyti kitą bloką.
@@ -14,6 +15,7 @@ Kai [kasėjas](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) randa [g
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Kasėjas vėl ir vėl skaičiuoja siūlomo bloko maišos reikšmę, kol vienas rezultatas tampa mažesnis už tinklo nustatytą tikslinę reikšmę, tada išplatina bloką. Prieš įtraukiant bloką į blokų grandinę, mazgai greitai patikrina įrodymą ir kiekvienos taisyklės laikymąsi: darbui atlikti reikia daug išteklių, o jį patikrinti lengva.](/micrographics/proof-of-work-process-01/lt.md)
 
 
 [Darbo įrodymas](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) atlieka kelias funkcijas:

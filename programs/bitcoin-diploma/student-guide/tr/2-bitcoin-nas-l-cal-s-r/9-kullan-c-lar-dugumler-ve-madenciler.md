@@ -9,6 +9,7 @@ Bitcoin, farklı katılımcıların farklı roller üstlenmesi sayesinde çalı�
 
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Bitcoin'deki dört rol: kullanıcılar bitcoin alır, saklar ve gönderir; düğümler kuralları bağımsız olarak doğrular; madenciler iş ispatıyla aday bloklar oluşturur; geliştiriciler ise yazılım önerir. Hiçbir rol tek başına ağı kontrol etmez.](/micrographics/bitcoin-participant-roles-01/tr.md)
 
 
 Bu roller birbirini sınırlar:

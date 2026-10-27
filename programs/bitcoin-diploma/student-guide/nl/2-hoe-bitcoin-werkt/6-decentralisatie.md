@@ -3,6 +3,7 @@
 Een [gecentraliseerd systeem](https://curriculum.myfirstbitcoin.org/lexicon/en/#centralized-system) heeft een controlerend punt. Een bank beheert het [grootboek](https://curriculum.myfirstbitcoin.org/lexicon/en/#ledger) van haar klanten. Een betaalbedrijf beheert zijn netwerk. Een overheid bepaalt de uitgifteregels van haar [valuta](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency).
 
 
+<!-- card: definition -->
 > **Definition – Decentralisatie**
 >
 > Een [gedecentraliseerd systeem](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralized-system) verdeelt rollen en de handhaving van beslissingen over veel onafhankelijke deelnemers. Bitcoin heeft geen centraal kantoor dat accounts kan aanmaken, saldi kan wijzigen of lidmaatschap kan goedkeuren.
@@ -22,6 +23,7 @@ De [decentralisatie](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentral
 
 
 <!-- micrographic: powers-and-limits-01 -->
+[Gebruikers, nodes, miners, ontwikkelaars en diensten hebben elk enige macht rond de gedeelde regels en het openbare grootboek van Bitcoin, maar geen van hen kan in zijn eentje het grootboek of de regels voor iedereen veranderen.](/micrographics/powers-and-limits-01/nl.md)
 
 
 [Decentralisatie](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) brengt ook kosten met zich mee. Coördinatie kan trager verlopen. Gebruikers moeten informatie verifiëren en meer verantwoordelijkheid nemen. Er is geen centrale helpdesk voor het [Bitcoin-netwerk](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). Deze [afwegingen](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) maken deel uit van het ontwerp; het zijn geen toevallige gebreken die kunnen worden verwijderd zonder het systeem te veranderen.

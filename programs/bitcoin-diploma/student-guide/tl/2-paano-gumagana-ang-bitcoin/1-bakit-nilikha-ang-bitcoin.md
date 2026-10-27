@@ -10,6 +10,7 @@ Nilikha ang Bitcoin upang lutasin ang problemang ito gamit ang isang [network na
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Sa isang kumpanya ng pagbabayad, iisang organisasyon ang nagpapanatili ng talaan at nag-aapruba sa bawat paglilipat. Sa Bitcoin, nilalagdaan ng nagpadala ang isang transaksyon, sinusuri ito ng mga independiyenteng node at idinaragdag ito ng mga minero sa iisang pinagsasaluhang talaan, kaya hindi gaanong umaasa ang tatanggap sa isang sentral na awtoridad.](/micrographics/central-ledger-vs-bitcoin-01/tl.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)

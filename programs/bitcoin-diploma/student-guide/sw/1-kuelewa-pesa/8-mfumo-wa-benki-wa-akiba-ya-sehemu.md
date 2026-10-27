@@ -6,11 +6,13 @@ Benki ya biashara inapoidhinisha mkopo, kwa kawaida huunda amana mpya katika aka
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Mkopo wa benki uliorahisishwa: mkopaji anaomba, benki inaidhinisha mkopo na kuweka amana mpya kwenye akaunti ya mkopaji, na baadaye mkopaji anairejeshea benki mtaji wa mkopo pamoja na riba.](/micrographics/bank-loan-deposit-01/sw.md)
 
 
 Kwa ujumla benki hutafuta [faida](https://curriculum.myfirstbitcoin.org/lexicon/en/#bank-profit) kwa kupata riba na ada kutokana na mikopo na uwekezaji, huku zikilipa gharama zao za uendeshaji, za kupata fedha na za udhibiti, na kubeba hasara wakopaji wasipolipa. Shughuli na vikwazo hivi hutofautiana kati ya benki moja na nyingine na kati ya mamlaka moja na nyingine.
 
 
+<!-- card: definition -->
 > **Definition – Mfumo wa benki wa akiba ya sehemu**
 >
 > [Mfumo wa benki wa akiba ya sehemu](https://curriculum.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking) unaelezea utendaji wa benki ambapo benki hushikilia sehemu tu ya majukumu yao ya amana kama akiba inayopatikana mara moja, huku zikitoa mikopo na kushikilia [rasilimali](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) nyingine. Kiwango cha akiba kinachotakiwa na vikwazo vingine hutofautiana kati ya nchi na vinaweza kubadilika kadiri muda unavyopita.
@@ -23,6 +25,7 @@ Hali hii husababisha hatari mbili muhimu:
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Hatari ya ukwasi: wawekaji wengi wanapanga foleni kutoa pesa zao leo, na benki haina pesa taslimu za kutosha sasa ingawa mikopo yake inaweza kulipwa baadaye. Hatari ya ufilisi: wakopaji wanashindwa kulipa mikopo ya nyumba, na mali za benki zinakuwa na thamani ndogo kuliko kile ambacho benki inadaiwa.](/micrographics/liquidity-vs-solvency-01/sw.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)

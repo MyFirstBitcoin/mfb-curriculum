@@ -15,6 +15,7 @@ Durup kontrol etmeye dayalı bir sıra izleyin:
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Gönderen, bir ödemeyi onaylamadan önce alıcıyı ve amacı, ödeme yöntemini, hedefi ve tutarı, birimi, ücreti veya geçerlilik süresini kontrol eder; işleme aşina değilse küçük bir test yapar. Herhangi bir şey farklıysa durup doğrular; yalnızca her şey eşleştiğinde onaylar, ardından sonucu kontrol eder.](/micrographics/pre-send-checklist-01/tr.md)
 
 
 Öğrencilere, alıcı hedef adresi beklenmedik şekilde değiştirirse, doğrulama yapılmasını engellemeye çalışırsa, aciliyet havası yaratırsa veya kurtarma bilgilerini isterse durmalarını öğretin.

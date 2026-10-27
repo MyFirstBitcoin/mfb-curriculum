@@ -16,6 +16,7 @@ Selittäkää, ettei viesti tai kuvakaappaus, jossa lukee ”lähetetty”, ole 
 
 
 <!-- micrographic: check-what-you-receive-01 -->
+[Puhelimen esimerkinomaisessa vastaanottonäkymässä näkyvät maksutapa, jaettava maksupyyntö, summa ja odottava tila. Viesti tai kuvakaappaus, jossa lukee "lähetetty", ei ole todiste: tarkistakaa tila omasta lompakostanne.](/micrographics/check-what-you-receive-01/fi.md)
 
 
 #### Harjoitus: vastaanottonäkymän läpikäynti

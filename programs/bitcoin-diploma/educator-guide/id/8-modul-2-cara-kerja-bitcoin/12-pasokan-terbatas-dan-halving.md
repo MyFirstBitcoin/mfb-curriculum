@@ -10,6 +10,7 @@ Ajarkan:
 
 
 <!-- micrographic: bitcoin-issuance-schedule-01 -->
+[Subsidi blok dimulai dari 50 bitcoin dan berkurang setengah setiap 210.000 blok, sementara total bitcoin yang diterbitkan terus meningkat mendekati batas 21 juta. Biaya transaksi dibayarkan sebagai tambahan dan bukan merupakan bitcoin baru; tidak ada prediksi harga yang tersirat.](/micrographics/bitcoin-issuance-schedule-01/id.md)
 
 
 Batas tersebut merupakan aturan jaringan yang bersifat publik, bukan hukum fisika. Seseorang dapat menulis perangkat lunak lain, tetapi tidak dapat memaksa peserta yang sudah ada untuk mengadopsinya. Adopsi perangkat lunak yang tidak kompatibel dapat menciptakan jaringan yang berbeda, bukan diam-diam mengubah Bitcoin bagi semua orang.

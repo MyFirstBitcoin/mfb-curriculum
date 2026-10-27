@@ -1,6 +1,7 @@
 # 6.3 Univerzální podmínky pro zastavení
 
-> **Callout – Pokud bezpečnostní kontrola selže, okamžitě zastavte činnost**
+<!-- card: callout -->
+> **Pokud bezpečnostní kontrola selže, okamžitě zastavte činnost**
 >
 > Zastavení je správným bezpečnostním krokem. Chraňte lidi a citlivé údaje, prověřte problém a využijte předem připravený bezpečný postup nebo aktivitu odložte. Nezahanbujte studujícího, který si problému všimne.
 
@@ -20,6 +21,7 @@ Aktivitu okamžitě zastavte, pokud:
 
 
 <!-- micrographic: stop-when-check-fails-01 -->
+[Nebezpečný nebo nevysvětlený stav vede k zastavení činnosti. Vyučující chrání lidi a tajné údaje a prověřuje problém; chyba při hodnocení, která zásadně ohrožuje bezpečnost, se zaznamená jako Zatím ne a studující obnoví výchozí podmínky, procvičuje a později je znovu hodnocen.](/micrographics/stop-when-check-fails-01/cs.md)
 
 
 ![Vyučující zvedá otevřenou dlaň, aby aktivitu pozastavil, zatímco začátečník spouští telefon a technicky zdatný studující částečně zavírá notebook.](https://cdn.sanity.io/images/vje9ehw2/staging/adb5c936fe5622b3c0b62f060349af1097eee5b0-1055x1491.png)

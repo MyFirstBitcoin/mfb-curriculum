@@ -5,7 +5,8 @@
 Pošiljanje zahteva več previdnosti, saj je veljavno Bitcoin [transakcijo](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) običajno težko ali nemogoče razveljaviti. Ali lahko, preden se dotaknete gumba za odobritev, pojasnite, kdo bo prejel plačilo in zakaj?
 
 
-> **Callout – Pred pošiljanjem se ustavite in preverite**
+<!-- card: callout -->
+> **Pred pošiljanjem se ustavite in preverite**
 >
 > Preverite prejemnika, način plačila, cilj, znesek in enoto, provizijo ali čas veljavnosti ter končni zaslon. Če se karkoli razlikuje od zaupanja vrednega zahtevka ali če kdo ustvarja občutek nujnosti ali zahteva podatke za obnovitev, se ustavite in vse neodvisno preverite. Če postopka ne poznate, najprej opravite preizkus z majhnim zneskom.
 
@@ -21,6 +22,7 @@ Pošiljanje zahteva več previdnosti, saj je veljavno Bitcoin [transakcijo](http
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Pred odobritvijo plačila pošiljatelj preveri prejemnika in namen, način plačila, ciljni naslov ter znesek, enoto, provizijo ali rok veljavnosti. Če mu postopek ni znan, najprej izvede majhno testno plačilo. Če se kaj razlikuje, se ustavi in preveri; plačilo odobri šele, ko se vse ujema, nato pa preveri rezultat.](/micrographics/pre-send-checklist-01/sl.md)
 
 
 Pri [plačilu v verigi](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment) se **omrežna provizija** plača za vključitev [transakcije](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) v blok. Odvisna je predvsem od [transakcijskih](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) podatkov in povpraševanja po [prostoru v blokih](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-space), ne zgolj od zneska, ki ga pošiljate. Ocene provizij in časa potrditve se lahko spremenijo, zato preberite končni povzetek in ne predpostavljajte, da ima plačilo majhne vrednosti nizko provizijo.

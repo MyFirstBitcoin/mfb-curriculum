@@ -4,6 +4,7 @@ Leg [prijsinflatie](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation)
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Met dezelfde 100 geldeenheden koopt u het hele mandje basisgoederen wanneer het 100 kost, maar niet wanneer hetzelfde mandje 110 kost. Het prijsniveau is gestegen en de koopkracht van het geld is gedaald.](/micrographics/same-money-smaller-basket-01/nl.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)

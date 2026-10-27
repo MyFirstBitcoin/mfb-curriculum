@@ -28,6 +28,7 @@ Nepriklausomo švietimo nekontroliuoja valdžia, įmonė ar finansinių paslaug�
 
 
 <!-- micrographic: critical-thinking-loop-01 -->
+[Kartojamas kritinio mąstymo ciklas: nustatykite teiginį, atskirkite faktus nuo asmeninių pasirinkimų, išnagrinėkite įrodymus ir šaltinį, palyginkite alternatyvas, įvardykite kompromisą arba neapibrėžtumą ir padarykite preliminarią išvadą arba suformuluokite klausimą.](/micrographics/critical-thinking-loop-01/lt.md)
 
 
 **Bendruomenė** reiškia, kad mokymasis tampa naudingesnis, kai žmonės aptaria idėjas ir sieja jas su vietos gyvenimu. Jūsų pedagogas ir bendramoksliai gali turėti patirties, kurios neįmanoma sutalpinti jokioje visam pasauliui skirtoje knygoje. Atidžiai klausykitės, užduokite klausimus ir pagarbiai paaiškinkite savo samprotavimus.
@@ -75,7 +76,8 @@ Laikykite kursą „Bitkoino diplomas“ ilgesnio mokymosi proceso pradžia. Jį
 * pasirengti aukštesnio lygio studijoms
 
 
-> **Callout – Pirmiausia žinios, tik tada – veiksmai**
+<!-- card: callout -->
+> **Pirmiausia žinios, tik tada – veiksmai**
 >
 > Norint baigti kursą „Bitkoino diplomas“, Jums nereikia pirkti ar kitaip įsigyti bitkoinų. Taip pat nereikia įsidiegti [Bitkoino piniginės](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet) ar naudoti asmeninių lėšų. Reikalingi praktiniai įgūdžiai gali būti vertinami naudojant paruoštą mokomąją piniginę, simuliaciją, bandomąją aplinką, fizinį modelį arba atliekant mokytojo patvirtintą veiklą, kurios rizika nedidelė.
 
@@ -84,3 +86,4 @@ Jei turite mažai laiko arba norėtumėte pirmą kartą susipažinti su Bitkoinu
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[Pasirenkamas mokymosi kelias prasideda nuo įvado į „Bitcoin“, tęsiasi „Bitcoin“ diplomo kursu, tada – pedagogų rengimo programa, po kurios galima tapti pedagogu, mokančiu pagal „My First Bitcoin“ mokymo programą, ir prisijungti prie „Bitcoin“ švietimo tinklo. Kiekvienas tolesnis žingsnis yra pasirinkimas, o ne reikalavimas.](/micrographics/learner-journey-pathway-01/lt.md)

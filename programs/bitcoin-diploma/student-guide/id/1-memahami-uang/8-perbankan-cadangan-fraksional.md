@@ -6,11 +6,13 @@ Ketika bank umum menyetujui pinjaman, bank biasanya menciptakan simpanan baru di
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Proses pinjaman bank yang disederhanakan: peminjam mengajukan pinjaman, bank menyetujui pinjaman dan mengkreditkan simpanan baru ke rekening peminjam, lalu peminjam membayar kembali pokok pinjaman beserta bunga kepada bank.](/micrographics/bank-loan-deposit-01/id.md)
 
 
 Bank umumnya mencari [laba](https://curriculum.myfirstbitcoin.org/lexicon/en/#bank-profit) dengan memperoleh bunga dan biaya dari pinjaman serta investasi, sambil membayar biaya operasional, pendanaan, dan kepatuhan terhadap regulasi, serta menanggung kerugian ketika peminjam tidak melunasi pinjamannya. Kegiatan dan batasan ini berbeda-beda menurut bank dan yurisdiksi.
 
 
+<!-- card: definition -->
 > **Definition – Perbankan cadangan fraksional**
 >
 > [Perbankan cadangan fraksional](https://curriculum.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking) menggambarkan praktik perbankan ketika bank hanya menyimpan sebagian dari kewajibannya atas simpanan sebagai cadangan yang dapat segera diakses, sambil menyalurkan pinjaman dan memiliki [aset](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) lainnya. Tingkat cadangan yang diwajibkan dan batasan lainnya berbeda antarnegara dan dapat berubah seiring waktu.
@@ -23,6 +25,7 @@ Hal ini menimbulkan dua risiko penting:
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Risiko likuiditas: banyak nasabah mengantre untuk menarik simpanan hari ini, dan bank tidak memiliki cukup uang tunai saat ini meskipun pinjaman yang diberikannya mungkin akan dilunasi nanti. Risiko solvabilitas: peminjam gagal membayar kredit rumah, dan nilai aset bank menjadi lebih rendah daripada kewajibannya.](/micrographics/liquidity-vs-solvency-01/id.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)

@@ -35,6 +35,7 @@ Vælg et praktisk forløb, som føles trygt og overskueligt for kursisterne. Not
 
 
 <!-- micrographic: cohort-capacity-check-01 -->
+[Planlæg forløbet for et hold ved at gange antallet af deltagere med den forventede tid til støtte og observation, og læg derefter tid til klargøring, feedback, tilgængelighedsbehov og fornyet vurdering til. Hvis underviserne ikke har tid nok, skal planen ændres: færre deltagere, flere undervisere eller mere tid.](/micrographics/cohort-capacity-check-01/da.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
@@ -57,6 +58,7 @@ Vælg et praktisk forløb, som føles trygt og overskueligt for kursisterne. Not
 
 
 <!-- micrographic: task-competency-map-01 -->
+[Teoriaktiviteterne T1 til T3 dokumenterer kompetencerne C1 til C5, og de praktiske forløb P6a, P6b og P7 dokumenterer C6 og C7. Hver kompetence får derefter ét resultat: Ja eller Endnu ikke.](/micrographics/task-competency-map-01/da.md)
 
 
 ### Fælles regler for støtte, sikkerhed og registrering
@@ -65,10 +67,12 @@ Vælg et praktisk forløb, som føles trygt og overskueligt for kursisterne. Not
 
 
 <!-- micrographic: support-boundary-01 -->
+[En underviser må yde den tilladte støtte til forberedelse og adgang samt stoppe usikre handlinger. Eleven skal stadig selv give den forklaring, der bedømmes, udvælge de relevante oplysninger og træffe eller anvise de påkrævede beslutninger.](/micrographics/support-boundary-01/da.md)
 
 
 
-> **Callout – Sikkerhedskritiske praktiske fejl**
+<!-- card: callout -->
+> **Sikkerhedskritiske praktiske fejl**
 >
 > Registrér hændelsen, og sæt opgaven på pause, hvis kursisten afslører eller forsøger at dele en [gendannelsesfrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), [privat nøgle](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), en adgangskode eller unødvendige personoplysninger; fortsætter trods en kendt uoverensstemmelse i adresse, faktura, beløb eller modtager; accepterer åbenlys svindel eller en hastende anmodning om hemmeligholdelse; eller springer et påkrævet kontroltrin over. Forklar årsagen venligt, genopret sikre rammer, lad kursisten øve sig, og foretag en ny vurdering senere. Kursisten er ved at opbygge sin kompetence. Forberedte undervisningsmaterialer er standardvalget; hvis en underviser vælger en aktivitet med rigtige transaktioner og begrænset risiko, skal risiciene tydeliggøres, og der skal tilbydes en tilsvarende aktivitet uden brug af penge.
 
@@ -181,3 +185,4 @@ Brug de eksempler og aktivitetsmaterialer, der passer til Deres kursistgruppe. G
 
 
 <!-- micrographic: reassessment-calibration-moderation-01 -->
+[Tre separate processer forløber sideløbende. Kursister med vurderingen Endnu ikke modtager privat feedback, øver sig og fremlægger ny dokumentation; bedømmere kalibrerer ved at bedømme eksempler uafhængigt af hinanden og blive enige om en fortolkning; undervisere kan bede om en ekstra gennemgang, som aldrig erstatter den observerede præstation.](/micrographics/reassessment-calibration-moderation-01/da.md)

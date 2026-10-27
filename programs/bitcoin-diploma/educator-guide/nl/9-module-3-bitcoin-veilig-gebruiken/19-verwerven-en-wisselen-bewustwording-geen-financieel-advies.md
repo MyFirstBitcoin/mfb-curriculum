@@ -24,6 +24,7 @@ Stel voor elke route de volgende vragen:
 
 
 <!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Eén persoon kan op vier verschillende manieren bitcoin ontvangen: door het te verdienen met werk of verkoop, door lokaal contant geld te ruilen met een andere persoon, via een exchange of broker, of via een geldautomaat. Elke route eindigt in zelfbewaring of een saldo bij een bewaarder, en geen enkele route wordt boven de andere aanbevolen.](/micrographics/ways-to-receive-bitcoin-01/nl.md)
 
 
 Gebruik [**no-KYC**](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) consequent voor een route waarbij minder of geen standaard identiteitsgegevens worden verzameld. Wek niet de indruk dat [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) fraude-, juridische, tegenpartij- of fysieke risico's wegneemt. Adviseer niet om lokale wetgeving te omzeilen.

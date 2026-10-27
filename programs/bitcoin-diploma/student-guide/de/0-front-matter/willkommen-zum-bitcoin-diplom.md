@@ -28,6 +28,7 @@ Dieser Ansatz ist wichtig, weil Geld jeden Menschen betrifft. Menschen sollten d
 
 
 <!-- micrographic: critical-thinking-loop-01 -->
+[Ein wiederholbarer Kreislauf des kritischen Denkens: die Behauptung erkennen, Fakten von Vorlieben trennen, Belege und Quelle prüfen, Alternativen vergleichen, einen Zielkonflikt oder eine Unsicherheit benennen und eine vorläufige Schlussfolgerung oder Frage formulieren.](/micrographics/critical-thinking-loop-01/de.md)
 
 
 **Gemeinschaft** bedeutet, dass Bildung nützlicher wird, wenn Menschen Ideen diskutieren und sie mit ihrem lokalen Alltag verbinden. Ihre Lehrkraft und Ihre Mitlernenden haben möglicherweise Erfahrungen, die kein weltweit verbreitetes Buch erfassen kann. Hören Sie aufmerksam zu, stellen Sie Fragen und erläutern Sie Ihre Überlegungen respektvoll.
@@ -75,7 +76,8 @@ Sie können den Kurs nutzen, um:
 * sich auf weiterführende Studien vorzubereiten
 
 
-> **Callout – Wissen kommt vor dem Handeln**
+<!-- card: callout -->
+> **Wissen kommt vor dem Handeln**
 >
 > Sie müssen keine bitcoin kaufen oder anderweitig erwerben, um das Bitcoin Diploma abzuschließen. Sie müssen auch keine [Bitcoin-Wallet](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet) installieren oder eigene Mittel verwenden. Erforderliche praktische Fähigkeiten können mit einer vorbereiteten Übungs-Wallet, einer Simulation, einer Testumgebung, einem physischen Modell oder einer von der Lehrkraft genehmigten Aktivität mit geringem Risiko überprüft werden.
 
@@ -84,3 +86,4 @@ Wenn Sie nur wenig Zeit haben oder eine erste Einführung in Bitcoin wünschen, 
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[Ein optionaler Lernweg führt von der Einführung in Bitcoin zum Bitcoin-Diplom, dann zum Ausbildungsprogramm für Lehrkräfte, weiter zur Tätigkeit als Lehrkraft, die mit dem Lehrplan von My First Bitcoin unterrichtet, und schließlich zum Beitritt zum Bitcoin-Bildungsnetzwerk. Jeder weitere Schritt ist eine Wahl, keine Pflicht.](/micrographics/learner-journey-pathway-01/de.md)

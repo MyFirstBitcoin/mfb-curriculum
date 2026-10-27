@@ -8,6 +8,7 @@
 
 
 <!-- micrographic: presentation-practice-production-01 -->
+[Praktická dovednost se osvojuje ve třech fázích, zleva doprava: Předvedení, při němž vyučující ukazuje postup a jeho rizika, poté Procvičování, řízený nácvik s bezpečnými výukovými materiály, a nakonec Samostatné použití, při němž studující samostatně splní úkol nebo vysvětlí své rozhodnutí.](/micrographics/presentation-practice-production-01/cs.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/3d2cf07203a6fd4017e7adbac198e73b190e99cf-1881x836.svg)

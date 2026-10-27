@@ -5,7 +5,8 @@
 Las personas pueden recibir bitcoin por su trabajo, mediante un pago comunitario, un intercambio entre pares, un cajero automático o un servicio. Cada vía implica distintos costos, [condiciones de custodia](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), riesgos de privacidad y fraude, y aspectos legales y operativos que conllevan distintas [ventajas y desventajas](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). El Diplomado en Bitcoin no recomienda ningún proveedor ni le indica qué vía utilizar.
 
 
-> **Light – Compare una vía de pago local**
+<!-- card: light -->
+> **Compare una vía de pago local**
 >
 > En un escenario local o ficticio preparado previamente, compare la [custodia](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), el costo total, los datos de identidad, los límites de retiro, los riesgos de contraparte y de seguridad física, y las normas locales vigentes. Ninguna vía es automáticamente la mejor en todos los lugares. Este curso ofrece preguntas para comparar, no una recomendación de proveedor ni asesoría financiera personal.
 
@@ -20,15 +21,18 @@ Antes de comparar una vía, pregunte:
 
 
 <!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Una persona puede recibir bitcoin de cuatro maneras diferentes: como pago por su trabajo o sus ventas, intercambiando efectivo local con otra persona, usando una plataforma de intercambio o un intermediario, o usando un cajero automático. Cada vía termina en autocustodia o en un saldo bajo custodia, y ninguna se recomienda por encima de las demás.](/micrographics/ways-to-receive-bitcoin-01/es-419.md)
 
 
 
 <!-- micrographic: exchange-risk-questions-01 -->
+[Seis áreas de riesgo que debe revisar antes de adquirir o intercambiar bitcoin, cada una con una pregunta que debe hacerse: costos, custodia, identidad y privacidad, retiro y liquidación, contraparte y seguridad, y contexto local.](/micrographics/exchange-risk-questions-01/es-419.md)
 
 
 Ninguna vía es automáticamente la mejor en todos los lugares. Los ejemplos locales y la orientación específica sobre proveedores corresponden al **Módulo 4**.
 
 
+<!-- card: definition -->
 > **Definition – Conozca a su cliente (KYC)**
 >
 > [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) describe las verificaciones de identidad que un servicio regulado puede exigir. Puede facilitar la recuperación de cuentas o el cumplimiento legal, pero también crea un registro que vincula la identidad con la actividad financiera. Las vías que recopilan menos datos de identidad pueden implicar distintos riesgos de contraparte, legales, de seguridad, de costo o de complejidad.

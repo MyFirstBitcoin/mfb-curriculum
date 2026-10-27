@@ -12,3 +12,4 @@ Rappelez aux apprenants :
 
 
 <!-- micrographic: final-safety-check-01 -->
+[Une dernière liste de vérification de sécurité, dont toutes les cases sont cochées : protégez vos secrets, vérifiez les détails du paiement, faites de petits tests et arrêtez-vous en cas de pression. Si quelque chose n’est pas clair, arrêtez-vous et renseignez-vous davantage avant d’agir.](/micrographics/final-safety-check-01/fr-FR.md)

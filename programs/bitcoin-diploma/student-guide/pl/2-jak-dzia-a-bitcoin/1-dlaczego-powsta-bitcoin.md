@@ -10,6 +10,7 @@ Bitcoin powstał, aby rozwiązać ten problem za pomocą [sieci równorzędnej](
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[W przypadku firmy płatniczej jedna organizacja prowadzi rejestr i zatwierdza każdy przelew. W sieci Bitcoin nadawca podpisuje transakcję, niezależne węzły ją weryfikują, a górnicy dodają ją do jednego wspólnego rejestru, dzięki czemu odbiorca jest mniej zależny od centralnego organu.](/micrographics/central-ledger-vs-bitcoin-01/pl.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)

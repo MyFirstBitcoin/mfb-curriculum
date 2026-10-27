@@ -4,6 +4,7 @@ Jūsų laukia trys etapai: **Pristatymas**, per kurį dėstytojas parodo proces�
 
 
 <!-- micrographic: presentation-practice-production-01 -->
+[Praktinio įgūdžio mokomasi trimis etapais, iš kairės į dešinę: pristatymas, kai pedagogas parodo procesą ir su juo susijusias rizikas, tada praktika – mokymasis vadovaujant pedagogui ir naudojant saugias mokomąsias priemones, tada savarankiškas taikymas, kai besimokantysis savarankiškai atlieka užduotį arba paaiškina sprendimą.](/micrographics/presentation-practice-production-01/lt.md)
 
 
 Per praktinį užsiėmimą galite:

@@ -1,5 +1,6 @@
 # 1.12 Digitální měny centrálních bank (CBDC)
 
+<!-- card: definition -->
 > **Definition – Digitální měna centrální banky (CBDC)**
 >
 > Tato [digitální měna centrální banky](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), neboli [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), je digitální formou [fiat peněz](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) vydávanou jako [závazek](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability) ze strany [centrální banky](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank): jde o pohledávku, kterou je [centrální banka](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) povinna uhradit jejímu držiteli. Liší se od fyzické hotovosti i od běžného vkladu u komerční banky, ačkoli z pohledu uživatele může její používání vypadat podobně.
@@ -13,6 +14,7 @@ Dále se ptejte, co daný návrh umožňuje. V závislosti na pravidlech může 
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[Tabulka porovnávající hotovost, bankovní vklady, retailovou CBDC a Bitcoin podle toho, kdo je vydává, jakou mají podobu, kdo k nim má přístup, kdo vidí platby, jaká jsou pravidla pro množství peněz v oběhu a jak je lze ověřovat. Digitální neznamená decentralizované: CBDC stále vydává centrální banka a přístup k ní, viditelnost plateb i možnosti ověřování závisejí na jejím návrhu.](/micrographics/cbdc-comparison-table-01/cs.md)
 
 
 Digitální neznamená automaticky decentralizované, vzácné, soukromé ani otevřené nezávislému ověřování. [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) může využívat digitální technologii, ale stále jde o [fiat peníze](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money), pokud jejich [emitent](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer), pravidla pro množství peněz v oběhu, pravidla přístupu a oprávnění k platbám zůstávají pod centrálním řízením.

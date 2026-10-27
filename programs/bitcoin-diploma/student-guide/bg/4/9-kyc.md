@@ -3,7 +3,8 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) и [без KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) са подходи с различни [компромиси](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Нито едно от тези обозначения не премахва необходимостта от внимателна оценка.
 
 
-> **Callout – Неприкосновеността на личните данни не премахва правните рискове или рисковете за физическата безопасност**
+<!-- card: callout -->
+> **Неприкосновеността на личните данни не премахва правните рискове или рисковете за физическата безопасност**
 >
 > Нито [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc), нито [без KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) е непременно най-добрият подход. Сравнете конкретния подход, потърсете актуални насоки за местните изисквания, когато правилата са неясни, и не нарушавайте местното законодателство и не се излагайте на физическа опасност в стремежа си към [неприкосновеност на личните данни](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 

@@ -3,7 +3,8 @@
 [A KYC-alapú](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) és [a KYC nélküli](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) eljárások eltérő [kompromisszumokkal járnak](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Egyik megjelölés sem teszi feleslegessé a körültekintő értékelést.
 
 
-> **Callout – A magánszféra védelme nem szünteti meg a jogi vagy a testi épséget érintő kockázatokat**
+<!-- card: callout -->
+> **A magánszféra védelme nem szünteti meg a jogi vagy a testi épséget érintő kockázatokat**
 >
 > Sem a [KYC-alapú,](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) sem a [KYC nélküli](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) eljárás nem automatikusan a legjobb választás. Hasonlítsa össze a tényleges lehetőségeket, támaszkodjon naprakész helyi útmutatásra, ha a szabályok nem egyértelműek, és ne sértse meg a helyi jogszabályokat, illetve ne tegye ki magát fizikai veszélynek pusztán [a magánszféra védelméért](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 

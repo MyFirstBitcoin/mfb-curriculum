@@ -4,6 +4,7 @@ Orang ramai sering mencari alternatif kepada menyimpan wang tunai apabila mereka
 
 
 <!-- micrographic: saving-alternatives-table-01 -->
+[Jadual tiga alternatif kepada memegang wang tunai (logam berharga, hartanah dan saham), masing-masing dengan sebab orang mungkin memilihnya serta kompromi pentingnya. Tiada satu pun diberi kedudukan lebih tinggi daripada yang lain.](/micrographics/saving-alternatives-table-01/ms.md)
 
 
 Sesuatu [aset](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) ialah sesuatu yang boleh dimiliki atau dituntut oleh seseorang dan mungkin mempunyai [nilai](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); aset tidak secara automatik memenuhi setiap fungsi wang. Sebuah rumah mungkin menyimpan [nilai](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) tetapi tidak praktikal untuk digunakan bagi membeli makanan. Sesuatu saham mungkin mudah dijual di sesebuah negara tetapi tidak dapat diakses oleh seseorang yang tidak mempunyai akaun pembrokeran. [Emas](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) telah digunakan sebagai wang sepanjang tempoh yang panjang dalam sejarah, tetapi ketulenannya mungkin sukar disahkan atau emas itu mungkin sukar dibahagikan semasa pertukaran bernilai kecil.

@@ -8,6 +8,7 @@ Eweknie (P2P) beteken nie altyd dat slegs twee rekenaars direk met mekaar kommun
 
 
 <!-- micrographic: peer-to-peer-route-01 -->
+['n Sender onderteken 'n transaksie en saai dit na talle netwerknodusse uit, wat dit aanstuur totdat dit die ontvanger bereik. Geen sentrale Bitcoin-operateur hoef die sender of die ontvanger goed te keur nie.](/micrographics/peer-to-peer-route-01/af.md)
 
 
 Gebruikers kan steeds [tussengangers](https://curriculum.myfirstbitcoin.org/lexicon/en/#intermediary) kies. ’n Beurs kan bitcoin namens kliënte hou. ’n Betaaldiens kan ’n faktuur vereenvoudig. ’n Beursie wat deur ’n diensverskaffer gehuisves word, kan sleutels bestuur. Hierdie dienste kan gerieflik wees, maar die gebruiker is dan afhanklik van die diens se reëls en sekuriteit.

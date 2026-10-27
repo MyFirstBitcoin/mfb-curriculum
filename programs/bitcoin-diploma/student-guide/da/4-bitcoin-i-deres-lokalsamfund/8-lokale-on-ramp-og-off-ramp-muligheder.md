@@ -24,6 +24,7 @@ Ved handel med personligt fremmøde bør De vælge et offentligt og passende ste
 
 
 <!-- micrographic: compare-local-pathways-01 -->
+[En tom tabel til sammenligning af tre lokale muligheder, A, B og C, ud fra navn, KYC-krav, opbevaringsmodel, understøttede netværk, omdømme og indbetalingsmetoder, med plads til noter.](/micrographics/compare-local-pathways-01/da.md)
 
 
 

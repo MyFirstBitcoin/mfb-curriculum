@@ -3,6 +3,7 @@
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
+<!-- card: definition -->
 > **Definition – Arbetsbevis**
 >
 > [Arbetsbevis](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) är den process som [utvinnare](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) använder för att tävla om rätten att föreslå nästa block.
@@ -14,6 +15,7 @@ När en [utvinnare](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) hit
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+[En miner beräknar hashvärden för ett föreslaget block om och om igen tills ett resultat ligger under nätverkets målvärde och sänder sedan ut blocket. Noder kontrollerar snabbt beviset och att varje regel följs innan blocket läggs till i blockkedjan: arbetet är kostsamt att utföra och enkelt att verifiera.](/micrographics/proof-of-work-process-01/sv.md)
 
 
 [Arbetsbevis](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) fyller flera syften:

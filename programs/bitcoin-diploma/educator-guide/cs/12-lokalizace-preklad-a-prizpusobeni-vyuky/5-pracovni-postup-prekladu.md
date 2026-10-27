@@ -14,6 +14,7 @@ Postupujte v tomto pořadí:
 
 
 <!-- micrographic: translation-workflow-01 -->
+[Překlad je proces kontroly a testování: připravte srozumitelný anglický text, přeložte jeho význam, zkontrolujte jej s jazykovým odborníkem a pedagogem, otestujte bezpečnostní pokyny se studenty a poté potvrďte rovnocennost standardů. Pokud jsou bezpečnostní pokyny nejasné, vraťte se k jejich formulaci.](/micrographics/translation-workflow-01/cs.md)
 
 
 Vyhýbejte se idiomům a metaforám, které nelze snadno přenést do jiného jazyka. Pokud používáte analogii, vždy uveďte, co vysvětluje a co nikoli.

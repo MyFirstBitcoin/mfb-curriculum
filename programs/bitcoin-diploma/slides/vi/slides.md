@@ -75,7 +75,8 @@ Tiền là một tài sản được mọi người chấp nhận vì họ kỳ 
 * Giá trị xuyên thời gian và khoảng cách
 
 
-> **Callout – Câu hỏi nhanh**
+<!-- card: callout -->
+> **Câu hỏi nhanh**
 >
 > Tiền giúp giải quyết vấn đề nào trong trao đổi hoặc phối hợp?
 
@@ -108,7 +109,8 @@ Một hình thức tiền tệ có thể thực hiện một chức năng tốt 
 Không hình thức nào đạt điểm tuyệt đối. “**Tiền lành mạnh**” là một nhận định: hãy nêu rõ tiêu chí và so sánh một cách nhất quán.
 
 
-> **Callout – Tư duy phản biện**
+<!-- card: callout -->
+> **Tư duy phản biện**
 >
 > Những đặc tính nào đóng vai trò quan trọng khi quý vị chọn một loại tiền hoặc tài sản thay vì một loại khác?
 
@@ -152,6 +154,7 @@ Chỉ riêng sự khan hiếm không đảm bảo giá trị; nhu cầu cũng qu
 ---
 
 <!-- micrographic: same-water-different-value-01 -->
+[Cùng một chai nước sạch có giá rẻ trong tủ lạnh của cửa hàng, nơi dễ tìm thấy nước, nhưng lại có giá trị hơn nhiều giữa sa mạc nóng bức khi khan hiếm nước. Mức độ sẵn có, nhu cầu và hoàn cảnh làm thay đổi giá trị và giá cả.](/micrographics/same-water-different-value-01/vi.md)
 
 ---
 
@@ -162,6 +165,7 @@ Chỉ riêng sự khan hiếm không đảm bảo giá trị; nhu cầu cũng qu
 ---
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Một người mua sắm có số tiền hạn chế xem xét các lựa chọn trước mắt: thực phẩm cho hôm nay, đi lại hoặc tiết kiệm cho sau này. Chọn một phương án đồng nghĩa với việc từ bỏ các phương án còn lại, và đó chính là chi phí cơ hội. Không có phương án nào được đánh dấu là lựa chọn đúng.](/micrographics/one-choice-two-uses-01/vi.md)
 
 ---
 
@@ -195,6 +199,7 @@ Thanh toán thuận tiện và tín dụng linh hoạt đi kèm với sự phụ
 ---
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Các chủ thể trong hệ thống tiền pháp định và những gì được chuyển giao giữa họ: ngân hàng trung ương hoạch định chính sách và thực hiện quyết toán giữa các ngân hàng, ngân hàng thương mại giữ tiền gửi là khoản nợ phải trả cho khách hàng, dịch vụ thanh toán truyền các lệnh thanh toán, chính phủ thu thuế và chi tiêu, còn người dân và doanh nghiệp thanh toán và nhận thanh toán.](/micrographics/fiat-system-flows-01/vi.md)
 
 ---
 
@@ -230,10 +235,12 @@ Việc rút tiền hàng loạt có thể gây khó khăn cho việc tiếp cậ
 ---
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Quy trình cho vay ngân hàng được đơn giản hóa: người vay đăng ký vay, ngân hàng phê duyệt khoản vay và ghi có một khoản tiền gửi mới vào tài khoản của người vay, sau đó người vay hoàn trả cho ngân hàng cả tiền gốc lẫn tiền lãi.](/micrographics/bank-loan-deposit-01/vi.md)
 
 ---
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Rủi ro thanh khoản: nhiều người gửi tiền xếp hàng rút tiền hôm nay, và ngân hàng hiện không có đủ tiền mặt dù các khoản cho vay của ngân hàng có thể được hoàn trả sau này. Rủi ro mất khả năng thanh toán: người vay không trả được nợ vay mua nhà, và giá trị tài sản của ngân hàng trở nên thấp hơn số tiền ngân hàng đang nợ.](/micrographics/liquidity-vs-solvency-01/vi.md)
 
 ---
 
@@ -255,6 +262,7 @@ Việc mở rộng cung tiền và tín dụng có thể góp phần gây lạm 
 ---
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Cùng 100 đơn vị tiền tệ có thể mua toàn bộ giỏ hàng thiết yếu khi giỏ hàng có giá 100, nhưng không thể khi cùng giỏ hàng đó có giá 110. Mức giá đã tăng và sức mua của tiền đã giảm.](/micrographics/same-money-smaller-basket-01/vi.md)
 
 ---
 
@@ -308,7 +316,8 @@ CBDC là tiền pháp định kỹ thuật số được phát hành dưới d�
 Các thiết kế có sự khác biệt. Dạng kỹ thuật số không tự động đồng nghĩa với tính phi tập trung, khan hiếm, riêng tư hay khả năng kiểm chứng độc lập.
 
 
-> **Callout – Kiểm tra**
+<!-- card: callout -->
+> **Kiểm tra**
 >
 > Ai phát hành, ai có thể sử dụng, những dữ liệu nào được thu thập và ai có thể chặn thanh toán hoặc thay đổi quy tắc? Điều gì xảy ra khi không có kết nối mạng và có những biện pháp bảo vệ pháp lý nào?
 
@@ -327,7 +336,8 @@ Các thiết kế có sự khác biệt. Dạng kỹ thuật số không tự đ
 Điều gì khiến tiền của quý vị trở nên hữu ích, và những quy tắc nào phụ thuộc vào các tổ chức mà quý vị tin tưởng?
 
 
-> **Callout – Một phút suy ngẫm**
+<!-- card: callout -->
+> **Một phút suy ngẫm**
 >
 > Hiện tại, quý vị đặt ra câu hỏi nào về tiền mà trước đây quý vị chưa từng đặt ra?
 
@@ -357,6 +367,7 @@ Bitcoin giảm sự phụ thuộc vào niềm tin ở bên trung tâm trong vi�
 ---
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Với công ty thanh toán, một tổ chức lưu giữ sổ cái và phê duyệt từng giao dịch chuyển tiền. Với Bitcoin, người gửi ký một giao dịch, các nút độc lập kiểm tra giao dịch đó và thợ đào thêm giao dịch vào một sổ cái dùng chung, nhờ đó người nhận ít phụ thuộc hơn vào một cơ quan trung ương.](/micrographics/central-ledger-vs-bitcoin-01/vi.md)
 
 ---
 
@@ -393,6 +404,7 @@ Chi tiêu hai lần là hành vi cố gắng gửi cùng một đơn vị tiền
 ---
 
 <!-- micrographic: five-part-response-01 -->
+[Năm thành phần kết hợp để giải quyết vấn đề chi tiêu hai lần: mạng ngang hàng, chữ ký số, khối và khai thác, xác minh độc lập, cùng lịch sử chung có lượng bằng chứng công việc tích lũy lớn nhất. Các thành phần này cùng nhau cho phép mạng từ chối chi tiêu cùng một khoản tiền lần thứ hai mà không cần cơ quan trung ương.](/micrographics/five-part-response-01/vi.md)
 
 ---
 
@@ -411,6 +423,7 @@ Một tuyên bố bằng văn bản về nguồn cung là chưa đủ: ai có th
 ---
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Giới hạn nguồn cung được ghi trên trang web hoặc trong cơ sở dữ liệu của một tổ chức phát hành có thể bị chính tổ chức đó âm thầm thay đổi. Quy tắc nguồn cung của Bitcoin là công khai; chữ ký, lịch sử công khai, bằng chứng công việc và hoạt động xác minh của các nút cùng nhau ngăn chặn việc tự ý tạo ra những đồng tiền mới hoặc chi tiêu cùng một bitcoin hai lần.](/micrographics/claimed-or-verified-supply-01/vi.md)
 
 ---
 
@@ -452,12 +465,14 @@ Dịch vụ trung gian vẫn là lựa chọn không bắt buộc; việc chọn
 ---
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[Người gửi ký một giao dịch và phát giao dịch đó đến nhiều nút mạng. Các nút chuyển tiếp giao dịch cho đến khi giao dịch đến được người nhận. Không cần đơn vị điều hành Bitcoin trung tâm nào phê duyệt người gửi hay người nhận.](/micrographics/peer-to-peer-route-01/vi.md)
 
 ---
 
 ![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Bốn vai trò trong Bitcoin: người dùng nhận, nắm giữ và gửi bitcoin, các nút độc lập xác minh việc tuân thủ các quy tắc, thợ đào xây dựng các khối ứng viên bằng bằng chứng công việc, và nhà phát triển đề xuất phần mềm. Không một vai trò riêng lẻ nào kiểm soát mạng lưới.](/micrographics/bitcoin-participant-roles-01/vi.md)
 
 ---
 
@@ -466,7 +481,8 @@ Dịch vụ trung gian vẫn là lựa chọn không bắt buộc; việc chọn
 Thợ đào không thể khiến các nút trung thực chấp nhận các khối không hợp lệ. Nhà phát triển không thể ép buộc việc sử dụng phần mềm. Một người có thể đảm nhiệm nhiều vai trò.
 
 
-> **Callout – Câu hỏi nhanh**
+<!-- card: callout -->
+> **Câu hỏi nhanh**
 >
 > Tại sao một nút xác minh các giao dịch? Hãy nêu một quy tắc mà nút đó kiểm tra.
 
@@ -489,6 +505,7 @@ Hoạt động đào bảo đảm thứ tự giao dịch; hoạt động này kh
 ![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Thợ đào băm một khối được đề xuất liên tục cho đến khi một kết quả thấp hơn ngưỡng mục tiêu của mạng lưới, rồi phát tán khối đó. Các nút nhanh chóng kiểm tra bằng chứng và việc tuân thủ mọi quy tắc trước khi khối được đưa vào chuỗi khối: việc tạo ra bằng chứng công việc rất tốn kém, nhưng xác minh lại dễ dàng.](/micrographics/proof-of-work-process-01/vi.md)
 
 ---
 
@@ -509,10 +526,12 @@ Các nút từ chối việc phát hành vượt mức; giới hạn vẫn đư�
 ---
 
 <!-- micrographic: bitcoin-issuance-supply-01 -->
+[Trợ cấp khối bắt đầu ở mức 50 bitcoin và giảm một nửa sau mỗi 210.000 khối, trong khi tổng lượng bitcoin đã phát hành tăng dần đến giới hạn 21 triệu. Phí giao dịch được trả thêm và không phải là bitcoin mới; nội dung này không hàm ý dự báo giá.](/micrographics/bitcoin-issuance-supply-01/vi.md)
 
 ---
 
 <!-- micrographic: bitcoin-issuance-subsidy-01 -->
+[Trợ cấp khối bắt đầu ở mức 50 bitcoin và giảm một nửa sau mỗi 210.000 khối, trong khi tổng lượng bitcoin đã phát hành tăng dần đến giới hạn 21 triệu. Phí giao dịch được trả thêm và không phải là bitcoin mới; nội dung này không hàm ý dự báo giá.](/micrographics/bitcoin-issuance-subsidy-01/vi.md)
 
 ---
 
@@ -528,7 +547,8 @@ Các nút từ chối việc phát hành vượt mức; giới hạn vẫn đư�
 **Thiên kiến đơn vị:** mức giá thấp cho mỗi đơn vị nguyên vẹn không chứng minh giá trị tốt hơn. Hãy so sánh tỷ lệ trong tổng nguồn cung, giá trị liên quan và các rủi ro.
 
 
-> **Callout – Thể hiện sự hiểu biết của quý vị**
+<!-- card: callout -->
+> **Thể hiện sự hiểu biết của quý vị**
 >
 > Có bao nhiêu sats trong 0,01 BTC? Vì sao một người có thể sử dụng ít hơn một bitcoin?
 
@@ -586,7 +606,8 @@ Mã giao dịch quen thuộc, mức giá có vẻ ổn định hay ứng dụng 
 * Không đưa ra chỉ dẫn mua, bán hay nắm giữ
 
 
-> **Callout – Kiểm tra giá trị tại địa phương**
+<!-- card: callout -->
+> **Kiểm tra giá trị tại địa phương**
 >
 > Phân biệt giá thị trường, mức độ chấp nhận tại địa phương và sở thích hoặc thiên kiến cá nhân.
 
@@ -601,6 +622,7 @@ Hãy đánh giá thiết kế và cách vận hành cũng như câu chuyện v�
 ---
 
 <!-- micrographic: bitcoin-origin-timeline-01 -->
+[Nguồn gốc của Bitcoin qua bốn sự kiện có ngày tháng cụ thể: ngày 31 tháng 10 năm 2008, Satoshi Nakamoto công bố sách trắng, mô tả phương thức thanh toán trực tuyến trực tiếp không qua trung gian tài chính; ngày 3 tháng 1 năm 2009, Khối khởi nguyên khởi động mạng lưới Bitcoin, kèm theo một dòng tít báo về việc giải cứu các ngân hàng; ngày 12 tháng 1 năm 2009, Satoshi gửi bitcoin cho Hal Finney trong giao dịch trực tiếp giữa hai người đầu tiên được ghi nhận; ngày 22 tháng 5 năm 2010, một người dùng trả 10.000 BTC cho hai chiếc pizza, ngày này nay được gọi là Ngày Pizza Bitcoin.](/micrographics/bitcoin-origin-timeline-01/vi.md)
 
 ---
 
@@ -629,7 +651,8 @@ Trách nhiệm cá nhân có thể bao gồm việc học hỏi, nhờ người 
 * Sắp xếp thứ tự giao dịch → bằng chứng công việc; chi phí thiết bị và năng lượng
 
 
-> **Callout – Một phút suy ngẫm**
+<!-- card: callout -->
+> **Một phút suy ngẫm**
 >
 > Giờ đây, quý vị sẽ giải thích khác đi về phần nào trong thiết kế của Bitcoin, và vì sao?
 
@@ -674,6 +697,7 @@ Không được dùng ví thực hành để lưu giữ số tiền đáng kể.
 ---
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Ví lưu giữ các khóa. Với các khóa này, quý vị có thể nhận và gửi bitcoin, trong khi bản thân bitcoin vẫn được ghi nhận trên sổ cái dùng chung, chứ không nằm trong điện thoại hay thiết bị.](/micrographics/wallet-manages-keys-01/vi.md)
 
 ---
 
@@ -699,13 +723,15 @@ Phần mềm độc hại có thể thay thế địa chỉ đích đã sao ché
 Không bao giờ chia sẻ khóa riêng tư, cụm từ khôi phục, mật khẩu hoặc mã khôi phục. Không một nhà giáo dục, nhân viên hỗ trợ, công ty ví, nhân viên sàn giao dịch hay nhà phát triển chân chính nào cần những thông tin này.
 
 
-> **Callout – Thực hành**
+<!-- card: callout -->
+> **Thực hành**
 >
 > Hãy phân loại các ví dụ đã chuẩn bị sẵn thành các nhóm: thông tin nhận tiền, thông tin bí mật và thông tin công khai trở nên nhạy cảm khi gắn với một cá nhân.
 
 ---
 
 <!-- micrographic: private-key-public-info-01 -->
+[Một khóa riêng tư bí mật, tuyệt đối không được chia sẻ, được dùng để tạo ra thông tin công khai có thể chia sẻ: một khóa công khai được suy ra từ khóa riêng tư đó và một địa chỉ nhận được tạo từ khóa công khai. Chính khóa riêng tư đó tạo ra các chữ ký mà các nút xác minh được mà không bao giờ biết khóa riêng tư.](/micrographics/private-key-public-info-01/vi.md)
 
 ---
 
@@ -738,7 +764,8 @@ Nếu cụm từ khôi phục có thể đã bị người khác nhìn thấy, s
 Một chuỗi khối công khai không thể chứng minh bên cung cấp dịch vụ nợ một khách hàng cụ thể bao nhiêu. Việc tự lưu ký vẫn có thể phụ thuộc vào phần mềm, phần cứng, máy chủ và mạng.
 
 
-> **Callout – Hãy thử**
+<!-- card: callout -->
+> **Hãy thử**
 >
 > Hãy so sánh hai bản mô tả đã chuẩn bị sẵn: ai kiểm soát khóa, ai khôi phục quyền truy cập và cần kiểm tra rủi ro nào?
 
@@ -749,6 +776,7 @@ Một chuỗi khối công khai không thể chứng minh bên cung cấp dịch
 ---
 
 <!-- micrographic: who-controls-keys-01 -->
+[Khi sử dụng hình thức lưu ký, dịch vụ kiểm soát các khóa và phê duyệt việc chi tiêu, vì vậy số dư là lời cam kết của dịch vụ. Khi sử dụng hình thức tự lưu ký, người dùng kiểm soát các khóa và bản sao lưu; cả hai hình thức đều có những yếu tố phụ thuộc và rủi ro gặp sự cố.](/micrographics/who-controls-keys-01/vi.md)
 
 ---
 
@@ -776,6 +804,7 @@ Chỉ sử dụng tài liệu đã được chuẩn bị sẵn, để trống ho
 ---
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[Bài thực hành khôi phục ví thực hành gồm sáu bước: làm theo hướng dẫn chính thức, kiểm tra tính tương thích, thực hiện riêng tư, sử dụng phương thức khôi phục được phê duyệt, xác nhận đúng ví dự kiến, rồi đặt lại. Chỉ sử dụng tài liệu đã chuẩn bị sẵn, tài liệu trống hoặc tài liệu mô phỏng, và giảng viên tuyệt đối không được xem các từ khôi phục.](/micrographics/practice-wallet-recovery-01/vi.md)
 
 ---
 
@@ -804,6 +833,7 @@ Chỉ phê duyệt khi mọi thông tin kiểm tra đều khớp. Nếu thông t
 ---
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Trước khi phê duyệt một khoản thanh toán, người gửi kiểm tra người nhận và mục đích, phương thức thanh toán, đích nhận, cùng số tiền, đơn vị, phí hoặc thời hạn, đồng thời gửi thử một khoản nhỏ nếu chưa quen với quy trình. Nếu có bất kỳ điều gì khác biệt, họ dừng lại và xác minh; họ chỉ phê duyệt khi mọi thông tin đều khớp, rồi kiểm tra kết quả.](/micrographics/pre-send-checklist-01/vi.md)
 
 ---
 
@@ -823,6 +853,7 @@ Hãy sử dụng các ví dụ đã chuẩn bị sẵn; không tra cứu địa 
 ---
 
 <!-- micrographic: confirmation-timeline-01 -->
+[Một giao dịch chưa được xác nhận nằm trong vùng chờ, sau đó được đưa vào Khối N để nhận lượt xác nhận đầu tiên, và mỗi khối tiếp theo bổ sung thêm một lượt xác nhận.](/micrographics/confirmation-timeline-01/vi.md)
 
 ---
 
@@ -835,7 +866,8 @@ Hãy sử dụng các ví dụ đã chuẩn bị sẵn; không tra cứu địa 
 **Tạm dừng. Không chia sẻ gì. Không gửi gì. Đóng kênh liên lạc. Xác minh độc lập. Nhờ trợ giúp mà không tiết lộ thông tin bí mật.**
 
 
-> **Callout – Hãy thử**
+<!-- card: callout -->
+> **Hãy thử**
 >
 > Hãy xác định dấu hiệu cảnh báo, tổn thất có thể xảy ra và hành động an toàn đầu tiên đối với một tin nhắn được chuẩn bị sẵn.
 
@@ -844,6 +876,7 @@ Hãy sử dụng các ví dụ đã chuẩn bị sẵn; không tra cứu địa 
 ---
 
 <!-- micrographic: scam-red-flags-01 -->
+[Năm dấu hiệu cảnh báo lừa đảo: tính cấp bách, mạo danh, thay đổi địa chỉ nhận, cam kết lợi nhuận và yêu cầu cung cấp thông tin bí mật.](/micrographics/scam-red-flags-01/vi.md)
 
 ---
 
@@ -860,10 +893,12 @@ Không có phương thức hay nhà cung cấp nào mặc nhiên là tốt nhấ
 ---
 
 <!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Một người có thể nhận bitcoin theo bốn cách khác nhau: kiếm bitcoin thông qua công việc hoặc bán hàng, đổi tiền mặt bằng nội tệ với một người khác, sử dụng sàn giao dịch hoặc nhà môi giới, hoặc sử dụng máy ATM. Mỗi cách đều dẫn đến việc tự lưu ký hoặc có số dư do bên thứ ba lưu ký, và không có cách nào được khuyến nghị hơn các cách còn lại.](/micrographics/ways-to-receive-bitcoin-01/vi.md)
 
 ---
 
 <!-- micrographic: exchange-risk-questions-01 -->
+[Sáu khía cạnh rủi ro cần kiểm tra trước khi mua hoặc trao đổi bitcoin, mỗi khía cạnh kèm theo một câu hỏi cần đặt ra: chi phí, lưu ký, danh tính và quyền riêng tư, rút tiền và quyết toán, đối tác giao dịch và sự an toàn, và bối cảnh địa phương.](/micrographics/exchange-risk-questions-01/vi.md)
 
 ---
 
@@ -909,7 +944,8 @@ Sử dụng môi trường thực hành đã thống nhất. Tạm dừng khi c�
 Một người bạn gửi yêu cầu trong khi một bên hỗ trợ không quen biết đòi hỏi phải hành động ngay lập tức. Quý vị có thể kiểm tra những gì trước khi làm bất cứ điều gì?
 
 
-> **Callout – Một phút suy ngẫm**
+<!-- card: callout -->
+> **Một phút suy ngẫm**
 >
 > Quý vị sẽ dừng lại để thực hiện bước kiểm tra an toàn nào trước khi hành động?
 
@@ -928,6 +964,7 @@ Một người bạn gửi yêu cầu trong khi một bên hỗ trợ không que
 ## Mô-đun 4 tại địa phương của quý vị
 
 <!-- micrographic: local-module-four-actions-01 -->
+[Trong Mô-đun 4 gắn với địa phương, người học lần lượt thực hiện bốn hành động: liên hệ một ý tưởng từ Mô-đun 1 đến 3 với một nhu cầu tại địa phương, so sánh Bitcoin với một lựa chọn hiện có và khả thi, thực hành an toàn với sự hướng dẫn, và giải thích những điều đã học cùng một bước tiếp theo có trách nhiệm. Nhà giáo dục phụ trách, và đôi khi cả một chuyên gia địa phương, hướng dẫn họ trong suốt quá trình.](/micrographics/local-module-four-actions-01/vi.md)
 
 
 Hãy ghi lại trọng tâm tại địa phương của quý vị: vấn đề hoặc cơ hội, phương án thay thế, kịch bản an toàn, lợi ích và rủi ro chính, cùng bước tiếp theo an toàn.
@@ -979,10 +1016,12 @@ Một khoản thanh toán nhỏ thành công không chứng minh được sự a
 ---
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[Người nhận tạo yêu cầu thanh toán Lightning kèm số tiền trên điện thoại của mình, người gửi quét yêu cầu và thanh toán, rồi khoản thanh toán đến điện thoại của người nhận sau giây lát.](/micrographics/lightning-phone-payment-01/vi.md)
 
 ---
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Thanh toán Lightning qua sáu bước: người nhận tạo yêu cầu, người gửi quét yêu cầu, kiểm tra người nhận, số tiền, đơn vị, thời hạn hiệu lực và phí, rồi phê duyệt; khoản thanh toán được định tuyến và cả hai ví đều hiển thị kết quả. Mỗi ví có thể là ví lưu ký hoặc ví tự lưu ký; nếu thanh toán thất bại hoặc hết hạn, quy trình sẽ bắt đầu lại bằng một yêu cầu mới.](/micrographics/lightning-payment-sequence-01/vi.md)
 
 ---
 
@@ -1034,6 +1073,7 @@ Chọn hoặc điều chỉnh các tình huống trong tài liệu hướng dẫ
 ---
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[Quy trình thanh toán tại quán cà phê gồm bốn bước: khách hàng gọi món, nhân viên gửi hóa đơn, khách hàng thanh toán bằng bitcoin trên điện thoại của mình và nhân viên giao cà phê.](/micrographics/coffee-shop-payment-01/vi.md)
 
 ---
 
@@ -1094,6 +1134,7 @@ Chỉ riêng số liệu về mức độ sử dụng không chứng minh đư�
 ---
 
 <!-- micrographic: local-circular-economy-01 -->
+[Trong nền kinh tế tuần hoàn Bitcoin, bitcoin được chuyển từ người này sang người khác để đổi lấy hàng hóa, dịch vụ và thời gian. Khách hàng thanh toán cho người bán, người bán thanh toán cho nhà cung cấp dịch vụ, nhà cung cấp dịch vụ trả công cho người lao động, và người lao động lại chi tiêu số bitcoin đó với tư cách là khách hàng.](/micrographics/local-circular-economy-01/vi.md)
 
 ---
 
@@ -1151,6 +1192,7 @@ Quý vị hãy tự hoàn thành, sau đó so sánh cách lập luận với nh�
 * Việc tham gia cộng đồng có ích phải mang tính tự nguyện và bảo vệ mọi người
 
 
-> **Callout – Một phút suy ngẫm**
+<!-- card: callout -->
+> **Một phút suy ngẫm**
 >
 > Quý vị sẽ đặt câu hỏi gì trước khi quyết định liệu một giải pháp dựa trên Bitcoin có phù hợp với nhu cầu tại địa phương hay không?

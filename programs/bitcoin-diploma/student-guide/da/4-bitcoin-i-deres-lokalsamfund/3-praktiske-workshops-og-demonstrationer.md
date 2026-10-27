@@ -4,6 +4,7 @@ De vil gennemgå tre faser: **Præsentation**, hvor Deres underviser viser proce
 
 
 <!-- micrographic: presentation-practice-production-01 -->
+[En praktisk færdighed læres i tre faser, fra venstre mod højre: Præsentation, hvor underviseren viser fremgangsmåden og dens risici, derefter Øvelse, vejledt træning med sikre øvelsesmaterialer, og til sidst Udførelse, hvor den lærende selvstændigt løser en opgave eller forklarer en beslutning.](/micrographics/presentation-practice-production-01/da.md)
 
 
 Deres workshop kan omfatte:

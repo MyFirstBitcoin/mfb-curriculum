@@ -15,6 +15,7 @@
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Trước khi phê duyệt một khoản thanh toán, người gửi kiểm tra người nhận và mục đích, phương thức thanh toán, đích nhận, cùng số tiền, đơn vị, phí hoặc thời hạn, đồng thời gửi thử một khoản nhỏ nếu chưa quen với quy trình. Nếu có bất kỳ điều gì khác biệt, họ dừng lại và xác minh; họ chỉ phê duyệt khi mọi thông tin đều khớp, rồi kiểm tra kết quả.](/micrographics/pre-send-checklist-01/vi.md)
 
 
 Hướng dẫn học viên dừng lại nếu người nhận bất ngờ thay đổi địa chỉ đích, ngăn cản việc xác minh, tạo áp lực phải hành động gấp hoặc yêu cầu thông tin khôi phục.

@@ -35,6 +35,7 @@
 
 
 <!-- micrographic: cohort-capacity-check-01 -->
+[コホートを計画するには、学習者の人数に見込まれるサポートと観察の時間を掛け、準備、フィードバック、アクセシビリティへの配慮、再評価のための時間を加えます。教育者に十分な時間がない場合は、学習者を減らす、教育者を増やす、または時間を増やすなど、計画を変更します。](/micrographics/cohort-capacity-check-01/ja.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
@@ -57,6 +58,7 @@
 
 
 <!-- micrographic: task-competency-map-01 -->
+[理論のインタラクションT1〜T3はコンピテンシーC1〜C5の根拠となり、実践ルートP6a、P6b、P7はC6およびC7の根拠となります。その後、各コンピテンシーに「はい」または「まだ」のいずれか1つの結果が与えられます。](/micrographics/task-competency-map-01/ja.md)
 
 
 ### サポート、安全、記録に関する共通ルール
@@ -65,10 +67,12 @@
 
 
 <!-- micrographic: support-boundary-01 -->
+[教育者は、認められた準備やアクセス面の支援を提供し、危険な操作を止めることができます。ただし、評価対象となる説明を行い、関連する詳細を選び、必要な判断を実行または指示するのは、あくまで学習者自身です。](/micrographics/support-boundary-01/ja.md)
 
 
 
-> **Callout – 安全上重大な実技のエラー**
+<!-- card: callout -->
+> **安全上重大な実技のエラー**
 >
 > 学習者が次のいずれかを行った場合は、記録して課題を一時停止してください：[シードフレーズ](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase)、[秘密鍵](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key)、パスワード、または不要な個人情報を明かす、あるいは共有しようとする。アドレス、インボイス、金額、受取人の不一致がわかっているのに進める。明らかな詐欺や、急かされる秘密の依頼を受け入れる。必須の確認手順を省略する。理由を丁寧に説明し、安全な環境にリセットして練習し、後日あらためて評価してください。学習者はコンピテンシーを身につけている途中です。準備したトレーニング教材の使用を基本とします。教育者が実際に行うリスクの低い活動を選ぶ場合は、そのリスクを明確に伝え、資金を使わない同等の方法を用意してください。
 
@@ -181,3 +185,4 @@
 
 
 <!-- micrographic: reassessment-calibration-moderation-01 -->
+[3つの独立したプロセスが並行して進みます。「未達」の学習者は個別のフィードバックを受け、練習を重ね、新たなエビデンスを提示します。評価者は事例をそれぞれ独立して採点し、解釈について合意することでキャリブレーションを行います。教育者は再審査を依頼できますが、再審査が観察されたパフォーマンスに取って代わることはありません。](/micrographics/reassessment-calibration-moderation-01/ja.md)

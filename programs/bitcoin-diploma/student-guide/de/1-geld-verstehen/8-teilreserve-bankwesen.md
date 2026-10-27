@@ -6,11 +6,13 @@ Wenn eine Geschäftsbank einen Kredit bewilligt, schafft sie in der Regel eine n
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Ein vereinfachter Bankkredit: Der Kreditnehmer stellt einen Antrag, die Bank genehmigt den Kredit und schreibt dem Konto des Kreditnehmers eine neue Einlage gut, und der Kreditnehmer zahlt der Bank später den Kreditbetrag zuzüglich Zinsen zurück.](/micrographics/bank-loan-deposit-01/de.md)
 
 
 Banken streben in der Regel nach [Gewinn](https://curriculum.myfirstbitcoin.org/lexicon/en/#bank-profit), indem sie Zinsen und Gebühren auf Kredite und Investitionen einnehmen, während sie ihre Betriebs-, Refinanzierungs- und Regulierungskosten tragen und Verluste auffangen, wenn Kreditnehmer nicht zurückzahlen. Diese Tätigkeiten und Beschränkungen unterscheiden sich je nach Bank und Rechtsordnung.
 
 
+<!-- card: definition -->
 > **Definition – Teilreserve-Bankwesen**
 >
 > [Das Teilreserve-Bankwesen](https://curriculum.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking) bezeichnet ein Bankwesen, in dem Banken nur einen Bruchteil ihrer Einlagenverpflichtungen als sofort verfügbare Reserven halten, während sie Kredite vergeben und andere [Vermögenswerte](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) halten. Die vorgeschriebene Reservehöhe und andere Grenzen unterscheiden sich von Land zu Land und können sich im Laufe der Zeit ändern.
@@ -23,6 +25,7 @@ Daraus ergeben sich zwei wichtige Risiken:
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Liquiditätsrisiko: Viele Einleger stehen Schlange, um heute Geld abzuheben, und der Bank fehlt jetzt genug Bargeld, obwohl ihre Kredite später womöglich zurückgezahlt werden. Solvenzrisiko: Kreditnehmer zahlen ihre Immobilienkredite nicht mehr zurück, und die Vermögenswerte der Bank sind weniger wert als ihre Verbindlichkeiten.](/micrographics/liquidity-vs-solvency-01/de.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)

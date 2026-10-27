@@ -12,6 +12,7 @@ Vysvětlete, že [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) 
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[Tabulka porovnávající hotovost, bankovní vklady, retailovou CBDC a Bitcoin podle toho, kdo je vydává, jakou mají podobu, kdo k nim má přístup, kdo vidí platby, jaká jsou pravidla pro množství peněz v oběhu a jak je lze ověřovat. Digitální neznamená decentralizované: CBDC stále vydává centrální banka a přístup k ní, viditelnost plateb i možnosti ověřování závisejí na jejím návrhu.](/micrographics/cbdc-comparison-table-01/cs.md)
 
 
 [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) se svým uspořádáním liší. Netvrďte, že každá [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) má nebo postrádá určitou vlastnost. Rozlišujte mezi potvrzenou místní podobou systému, zveřejněným návrhem, komentáři a spekulacemi.

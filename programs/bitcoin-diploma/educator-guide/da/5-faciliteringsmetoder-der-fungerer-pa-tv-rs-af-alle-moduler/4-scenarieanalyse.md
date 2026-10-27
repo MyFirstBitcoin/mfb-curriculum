@@ -14,3 +14,4 @@ Brug realistiske, fiktive personer og lokale forhold. Spørg:
 
 
 <!-- micrographic: scenario-analysis-path-01 -->
+[Et fiktivt scenarie bevæger sig fra personens mål og verificerede fakta til, hvem der har kontrollen, hvilke muligheder der findes, hvad der kan gå galt, og det mindste sikre næste skridt. Når én betingelse ændres, føres overvejelserne tilbage til den beslutning, som ændringen påvirker.](/micrographics/scenario-analysis-path-01/da.md)

@@ -11,6 +11,7 @@ Bitcoin bukanlah percubaan pertama untuk mewujudkan wang digital. Ia dibangunkan
 Secara bersama, percubaan ini menunjukkan unsur-unsur berguna yang diperlukan untuk melengkapkan sistem tersebut. Percubaan ini juga memperjelas masalah yang masih belum diselesaikan.
 
 
+<!-- card: definition -->
 > **Definition – Perbelanjaan berganda**
 >
 > [Perbelanjaan berganda](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending) ialah percubaan untuk menghantar unit digital yang sama kepada dua penerima. Data digital boleh disalin dengan sempurna, maka sistem wang digital memerlukan cara untuk menentukan [transaksi](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) yang sah.
@@ -28,6 +29,7 @@ Kertas putih itu menghimpunkan ciri-ciri yang diperlukan untuk pendekatan terseb
 
 
 <!-- micrographic: five-part-response-01 -->
+[Lima bahagian bergabung untuk menyelesaikan masalah perbelanjaan berganda: rangkaian rakan ke rakan, tandatangan digital, blok dan perlombongan, pengesahan bebas, serta sejarah bersama dengan bukti kerja terkumpul terbanyak. Bersama-sama, bahagian ini membolehkan rangkaian menolak perbelanjaan kedua tanpa pihak berkuasa pusat.](/micrographics/five-part-response-01/ms.md)
 
 
 Modul ini menerangkan konsep-konsep ini dengan lebih terperinci. Secara bersama, konsep-konsep ini memberikan penyelesaian praktikal kepada [masalah perbelanjaan berganda](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): rangkaian boleh menolak percubaan kedua untuk membelanjakan bitcoin yang sama tanpa bergantung pada pihak berkuasa pusat. Bitcoin menawarkan gabungan yang selama ini belum ditemui dan telah dicari melalui eksperimen wang digital selama beberapa dekad.

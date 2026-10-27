@@ -1,6 +1,6 @@
 # Quiz – Bezpečné používání Bitcoinu: krátký test
 
-## Question 1
+## Otázka 1
 
 Bitcoinová peněženka:
 
@@ -9,11 +9,11 @@ Bitcoinová peněženka:
 * [ ] Odstraňuje ochranu tajných údajů
 * [ ] Vrací transakce zpět
 
-### Explanation
+### Vysvětlení
 
 Bitcoin je zaznamenán ve sdílené účetní knize; peněženka spravuje informace potřebné k přístupu k němu a jeho používání. Projděte si modul 3 studentské příručky, část „Peněženky“.
 
-## Question 2
+## Otázka 2
 
 Pro příjem bitcoinů sdílejte:
 
@@ -22,11 +22,11 @@ Pro příjem bitcoinů sdílejte:
 * [x] Přijímací adresu
 * [ ] Heslo
 
-### Explanation
+### Vysvětlení
 
 Přijímací adresu lze sdílet pro přijetí platby. Seedové fráze, soukromé klíče a hesla musí zůstat v tajnosti. Projděte si modul 3 studentské příručky, části „Adresy“ a „Klíče“.
 
-## Question 3
+## Otázka 3
 
 Zadali jste seed online. Jaký je nejbezpečnější další krok?
 
@@ -35,11 +35,11 @@ Zadali jste seed online. Jaký je nejbezpečnější další krok?
 * [x] Vytvořte nový seed a poté převeďte prostředky
 * [ ] Použijte seed znovu
 
-### Explanation
+### Vysvětlení
 
 Seedovou frázi zadanou online považujte za kompromitovanou. Vytvořte novou peněženku s novým seedem a prostředky převeďte až po ověření cílové adresy. Projděte si modul 3 studentské příručky, část „Seedové fráze“.
 
-## Question 4
+## Otázka 4
 
 V čem se liší vlastní úschova od úschovy u třetí strany?
 
@@ -48,6 +48,6 @@ V čem se liší vlastní úschova od úschovy u třetí strany?
 * [ ] V limitu množství bitcoinů
 * [ ] V odpovědnosti
 
-### Explanation
+### Vysvětlení
 
 Úschova u třetí strany a vlastní úschova se liší v tom, kdo má kontrolu nad klíči a nese související odpovědnost. Ani jedna nezaručuje bezpečnost ani možnost vrátit transakce zpět. Projděte si modul 3 studentské příručky, část „Používání s úschovou u třetí strany a s vlastní úschovou“.

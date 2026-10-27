@@ -3,7 +3,8 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) at [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) ay mga paraang may magkakaibang [pakinabang at kapalit](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Hindi inaalis ng alinman sa mga katawagang ito ang pangangailangan para sa maingat na pagsusuri.
 
 
-> **Callout – Hindi inaalis ng pagkapribado ang panganib na may kaugnayan sa batas o pisikal na kaligtasan**
+<!-- card: callout -->
+> **Hindi inaalis ng pagkapribado ang panganib na may kaugnayan sa batas o pisikal na kaligtasan**
 >
 > Wala sa [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) at [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) ang awtomatikong pinakamahusay. Paghambingin ninyo ang mga aktuwal na paraan, sundin ang kasalukuyang lokal na gabay kapag hindi malinaw ang mga tuntunin, at huwag lumabag sa lokal na batas o ilantad ang inyong sarili sa pisikal na panganib sa paghahangad ng [pagkapribado](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 

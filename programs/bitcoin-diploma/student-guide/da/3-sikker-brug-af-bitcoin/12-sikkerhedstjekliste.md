@@ -6,6 +6,7 @@ Hvad ville få Dem til at stoppe før en betaling eller installation? Betragt f�
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Fem advarselstegn på svindel: tidspres, identitetssvindel, en ændret destination, garanteret afkast og anmodninger om hemmelige oplysninger.](/micrographics/scam-red-flags-01/da.md)
 
 
 Den sikre reaktion er altid: **Stop op. Del intet. Send intet. Luk kommunikationskanalen. Kontrollér oplysningerne uafhængigt via en kendt kilde. Bed om hjælp uden at afsløre hemmeligheder.** En kendt kilde er et officielt websted, en appside i en appbutik eller en kontaktmetode, som De selv har fundet frem til, ikke via en annonce, en direkte besked eller et uventet link. Kontrollér udgiveren og webadressen, sammenhold oplysningerne med officiel dokumentation, og find kontaktoplysninger ad en separat vej. Hvis kilden, vejledningen eller betalingsoplysningerne afviger fra den demonstrerede fremgangsmåde, skal De stoppe op og søge hjælp hos Deres underviser eller en betroet lokal supportperson uden at afsløre en [seed phrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) eller [privat nøgle](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key). En reel mulighed kan godt tåle en grundig kontrol; svindel afhænger ofte af at forhindre den.

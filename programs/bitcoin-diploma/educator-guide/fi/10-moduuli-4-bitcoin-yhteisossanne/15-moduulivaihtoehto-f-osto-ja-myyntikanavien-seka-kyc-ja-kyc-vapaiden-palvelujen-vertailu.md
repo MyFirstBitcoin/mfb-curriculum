@@ -17,6 +17,7 @@ Kysykää:
 
 
 <!-- micrographic: bitcoin-atm-off-ramp-01 -->
+[Bitcoin-automaatilla oleva henkilö lähettää bitcoinia puhelimestaan ja saa käteistä paikallisessa valuutassa: tämä on yksi esimerkki bitcoinin vaihtamisesta paikalliseen rahaan. Kyseessä on havainnollistava kuva, ei suositus.](/micrographics/bitcoin-atm-off-ramp-01/fi.md)
 
 
 **Tuotos:** Oppija valitsee kuvitteelliseen tapaukseen sopivan vaihtoehdon, asettaa turvallisuutta varmistavat tarkistukset järjestykseen ja selittää, mikä riski vähenee ja mikä lisääntyy.

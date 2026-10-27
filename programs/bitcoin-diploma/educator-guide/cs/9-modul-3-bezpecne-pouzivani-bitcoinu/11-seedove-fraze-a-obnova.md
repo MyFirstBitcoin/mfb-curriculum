@@ -12,6 +12,7 @@ Vysvětlete důsledky:
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Obnovovací fráze je uspořádaný seznam slov, zde dvanáct očíslovaných ukázkových slov napsaných na papíře. Správná slova ve správném pořadí umožňují obnovit kontrolu nad prostředky v kompatibilní peněžence, proto se fráze uchovává v tajnosti a offline.](/micrographics/seed-phrase-on-paper-01/cs.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
@@ -43,10 +44,12 @@ Vysvětlete důsledky:
 
 
 <!-- micrographic: recovery-practice-lanes-01 -->
+[Studující v soukromí postupuje podle kroků nácviku obnovy, ověří očekávaný výsledek, vymaže zařízení a vrátí nebo zničí fiktivní materiál. Vyučující sleduje rozhodování a bezpečné zacházení, ale nikdy nevidí tajná slova pro obnovu.](/micrographics/recovery-practice-lanes-01/cs.md)
 
 
 
-> **Callout – Vyzrazenou seed frázi považujte za kompromitovanou**
+<!-- card: callout -->
+> **Vyzrazenou seed frázi považujte za kompromitovanou**
 >
 > Pokud mohl být skutečný seed vyzrazen, přestaňte jej používat jako bezpečnou zálohu, vytvořte novou důvěryhodnou peněženku s novými údaji pro obnovu a po pečlivém ověření cílové adresy přesuňte prostředky. Studující by měli vyhledat pomoc, aniž by odhalili kteroukoli z frází.
 

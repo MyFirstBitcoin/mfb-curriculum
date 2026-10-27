@@ -14,6 +14,7 @@ Bruikbaar geld heeft doorgaans ook een aantal eigenschappen:
 
 
 <!-- micrographic: money-property-questions-01 -->
+[Zeven eigenschappen van bruikbaar geld, elk met een vraag om te stellen bij het vergelijken van vormen van geld: duurzaamheid, draagbaarheid, deelbaarheid, fungibiliteit, schaarste, acceptatie en verifieerbaarheid.](/micrographics/money-property-questions-01/nl.md)
 
 
 Geen enkele vorm van geld scoort perfect.
@@ -22,6 +23,7 @@ Mensen vergelijken geld ook op basis van zijn [**deugdelijkheid**](https://curri
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Twee lagen: de drie functies van geld (ruilmiddel, rekeneenheid, oppotmiddel) rusten op zeven eigenschappen (duurzaamheid, draagbaarheid, deelbaarheid, fungibiliteit, schaarste, aanvaardbaarheid en verifieerbaarheid).](/micrographics/functions-and-properties-01/nl.md)
 
 
 [Goud](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) is duurzaam en schaars, maar moeilijk te verdelen en te vervoeren voor kleine betalingen. [Papiergeld](https://curriculum.myfirstbitcoin.org/lexicon/en/#paper-cash) is draagbaar en wordt lokaal geaccepteerd, maar het kan beschadigd raken en de hoeveelheid ervan kan toenemen. De beste vergelijking hangt af van het doel, de plaats en het tijdstip.

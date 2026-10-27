@@ -3,6 +3,7 @@
 Digitalne informacije je obično lako kopirati.
 
 
+<!-- card: definition -->
 > **Definition – Digitalna oskudica**
 >
 > Digitalna [oskudica](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) znači da sistem može da razlikuje važeću jedinicu od nevažeće kopije i da spreči da ista jedinica bude potrošena dva puta.
@@ -14,6 +15,7 @@ Bitcoin stvara digitalnu [oskudicu](https://curriculum.myfirstbitcoin.org/lexico
 
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Ograničenje ponude navedeno na veb-sajtu ili u bazi podataka izdavaoca taj izdavalac može neprimetno da promeni. Pravilo o ponudi mreže Bitcoin je javno, a potpisi, javna istorija, dokaz rada i provera koju obavljaju čvorovi zajedno sprečavaju da se novi novčići stvaraju proizvoljno ili da se isti bitcoin potroši dvaput.](/micrographics/claimed-or-verified-supply-01/sr-Latn.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)

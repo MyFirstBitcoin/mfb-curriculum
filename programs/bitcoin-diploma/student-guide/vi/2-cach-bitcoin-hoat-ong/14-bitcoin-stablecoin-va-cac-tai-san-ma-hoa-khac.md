@@ -7,8 +7,7 @@ Khi so sánh bất kỳ [tài sản số](https://curriculum.myfirstbitcoin.org/
 Phép so sánh dưới đây phân biệt các nhóm tài sản và các lựa chọn thiết kế. Đây không phải là sự tán thành, khuyến nghị hay khẳng định rằng bất kỳ [tài sản](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) nào là an toàn, đáng tin cậy hoặc phù hợp với quý vị.
 
 
-> **Dark**
->
+<!-- card: dark -->
 > Các vụ lừa đảo, những tuyên bố gây hiểu lầm và các dịch vụ không an toàn có thể ảnh hưởng đến bất kỳ [tài sản số](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-asset) hoặc phương thức thanh toán nào. Hãy kiểm tra cụ thể từng [tài sản](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset), dịch vụ và cơ chế [lưu ký](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) thay vì mặc định rằng bản thân một nhóm tài sản là an toàn hay không an toàn.
 
 

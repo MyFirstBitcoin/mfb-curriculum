@@ -14,3 +14,4 @@ Cambie una condición después de la primera respuesta. Por ejemplo: falla inter
 
 
 <!-- micrographic: scenario-analysis-path-01 -->
+[Un escenario ficticio avanza desde el objetivo de la persona y los hechos verificados hasta quién tiene el control, las opciones, lo que podría fallar y el siguiente paso seguro más pequeño. Al cambiar una condición, el razonamiento vuelve a la decisión que se ve afectada.](/micrographics/scenario-analysis-path-01/es-419.md)

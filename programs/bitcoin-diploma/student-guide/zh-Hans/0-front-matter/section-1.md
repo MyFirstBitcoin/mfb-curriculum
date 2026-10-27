@@ -28,6 +28,7 @@ My First Bitcoin是一家非营利教育机构，由John Dennehy于2021年创立
 
 
 <!-- micrographic: critical-thinking-loop-01 -->
+[一个可反复使用的批判性思维循环：识别主张，区分事实与偏好，审视证据与来源，比较其他选择，指出权衡或不确定性，并形成暂定结论或提出问题。](/micrographics/critical-thinking-loop-01/zh-Hans.md)
 
 
 **社区**是指当人们讨论观点并将其与当地生活联系起来时，教育会变得更有价值。您的教育者和同学可能拥有任何一本面向全球的书都无法涵盖的经验。请认真倾听、积极提问，并以尊重的态度阐述您的理由。
@@ -75,7 +76,8 @@ My First Bitcoin是一家非营利教育机构，由John Dennehy于2021年创立
 * 为更深入的学习做好准备
 
 
-> **Callout – 知识先于行动**
+<!-- card: callout -->
+> **知识先于行动**
 >
 > 您无需购买或以其他方式获取bitcoin即可完成比特币文凭。您也无需安装[比特币钱包](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet)或使用个人资金。所需的实践技能可以通过预先准备的培训钱包、模拟、测试环境、实物模型或经教育者认可的低风险活动进行评估。
 
@@ -84,3 +86,4 @@ My First Bitcoin是一家非营利教育机构，由John Dennehy于2021年创立
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[一条可选的学习路径：从「比特币入门」开始，到「比特币文凭课程」，再到「教育者培训项目」，进而成为使用 My First Bitcoin 课程进行教学的教育者，并加入「比特币教育网络」。每一个后续步骤都是您的选择，而非必须。](/micrographics/learner-journey-pathway-01/zh-Hans.md)

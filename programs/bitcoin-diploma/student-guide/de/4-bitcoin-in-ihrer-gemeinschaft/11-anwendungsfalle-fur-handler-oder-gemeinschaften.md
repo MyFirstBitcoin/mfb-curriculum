@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[Ein Händler, der Bitcoin akzeptiert, ist in vier Bereichen tätig: Marketing, Schulung, Buchhaltung und Vertrieb.](/micrographics/merchant-payment-operations-01/de.md)
 
 
 Ein Händler braucht mehr als eine Schaltfläche zum Empfangen. Der vollständige Zahlungsprozess kann Preisgestaltung, Mitarbeiterschulung, Belege, Rückerstattungen, [Verwahrung](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), Umtausch, Buchhaltung, Steuern, Gerätesicherheit und Support umfassen.

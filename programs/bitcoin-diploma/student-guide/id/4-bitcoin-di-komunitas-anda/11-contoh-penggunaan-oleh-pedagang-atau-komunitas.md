@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[Pedagang yang menerima Bitcoin menjalankan kegiatan di empat bidang: pemasaran, pelatihan, akuntansi, dan penjualan.](/micrographics/merchant-payment-operations-01/id.md)
 
 
 Pedagang membutuhkan lebih dari sekadar tombol terima. Proses pembayaran secara menyeluruh dapat mencakup penetapan harga, pelatihan staf, bukti pembayaran, pengembalian dana, [kustodi](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), konversi, akuntansi, pajak, keamanan perangkat, dan dukungan.

@@ -28,6 +28,7 @@ Cette approche est importante, car la monnaie concerne tout le monde. Chacun dev
 
 
 <!-- micrographic: critical-thinking-loop-01 -->
+[Un cycle de réflexion critique à répéter : identifiez l’affirmation, distinguez les faits des préférences, examinez les preuves et la source, comparez les autres possibilités, relevez un compromis ou une incertitude, et formulez une conclusion provisoire ou une question.](/micrographics/critical-thinking-loop-01/fr-FR.md)
 
 
 **La communauté** signifie que l’éducation devient plus utile lorsque les personnes échangent des idées et les relient à la vie locale. Votre formateur et les autres membres du groupe peuvent avoir des expériences qu’aucun ouvrage de portée mondiale ne saurait contenir. Écoutez attentivement, posez des questions et expliquez votre raisonnement avec respect.
@@ -75,7 +76,8 @@ Vous pouvez utiliser ce cours pour :
 * vous préparer à des études plus approfondies
 
 
-> **Callout – La connaissance précède l’action**
+<!-- card: callout -->
+> **La connaissance précède l’action**
 >
 > Vous n’avez pas besoin d’acheter ou d’acquérir du bitcoin d’une autre manière pour suivre le Diplôme Bitcoin jusqu’au bout. Vous n’avez pas non plus besoin d’installer un [portefeuille Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet) ni d’utiliser des fonds personnels. Les compétences pratiques requises peuvent être évaluées à l’aide d’un portefeuille d’entraînement préparé à cet effet, d’une simulation, d’un environnement de test, d’un modèle physique ou d’une activité à faible enjeu approuvée par un formateur.
 
@@ -84,3 +86,4 @@ Si vous disposez de peu de temps ou souhaitez une première présentation de Bit
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[Un parcours d’apprentissage facultatif mène de l’Introduction à Bitcoin au Diplôme Bitcoin, puis au Programme de formation des enseignants, pour devenir un enseignant qui s’appuie sur le programme de My First Bitcoin et rejoindre le Réseau d’éducation à Bitcoin. Chaque étape suivante est un choix, et non une obligation.](/micrographics/learner-journey-pathway-01/fr-FR.md)

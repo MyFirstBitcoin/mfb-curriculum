@@ -13,6 +13,5 @@ Henkilölle, joka valitsee [omatoimisen säilytyksen](https://curriculum.myfirst
 [Omatoiminen säilytys](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) ei siis ole pelkkä tekninen ominaisuus. Se edellyttää varmuuskopioiden suojaamista, osoitteiden varmistamista, lompakon toiminnan tarkistamista ja palautussuunnitelman laatimista. Seuraava moduuli selittää, miten bitcoinia säilytetään ja käytetään huolellisesti ja miten näitä riskejä ja vastuita hallitaan.
 
 
-> **Light**
->
+<!-- card: light -->
 > Henkilökohtainen vastuu ei tarkoita yksin toimimista tai avusta kieltäytymistä. Varovainen oppija voi hyödyntää koulutusta, vertaisarviointia, dokumentoituja menettelytapoja ja pienimuotoisia kokeiluja antamatta kenellekään pääsyä salaisiin tietoihin.

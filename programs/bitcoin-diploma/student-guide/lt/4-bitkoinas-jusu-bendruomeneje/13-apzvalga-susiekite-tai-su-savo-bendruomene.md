@@ -1,10 +1,12 @@
 # 4.13 Apžvalga: susiekite tai su savo bendruomene
 
 <!-- micrographic: community-review-path-01 -->
+[Vietinio Bitcoin naudojimo pavyzdžio vertinimo eiga: pradėkite nuo tikro poreikio, patikrinkite, ar Bitcoin tinka, tada įvertinkite mokėjimo būdą, turto saugojimą, bendras sąnaudas, saugumą ir vietos sąlygas, o pabaigoje – sėkmės įrodymus.](/micrographics/community-review-path-01/lt.md)
 
 
 
 <!-- micrographic: community-review-table-01 -->
+[Vietinio pavyzdžio apžvalgos lentelė: prie kiekvienos temos, nuo tikro poreikio iki atsakingo kito žingsnio, pateiktas klausimas ir vieta Jūsų pastaboms, kurią galite užpildyti, jei norite.](/micrographics/community-review-table-01/lt.md)
 
 
 Šią apžvalgos užduotį atlikite individualiai, tada palyginkite savo samprotavimus su komandos ar mokymosi grupės samprotavimais. Apsvarstykite nagrinėtą vietinį pavyzdį: kokį realų poreikį jis tenkino, kokia pinigų funkcija buvo naudojama ir ar [vertė](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) buvo perduodama blokų grandinėje, per Lightning, ar abiem būdais? Paklauskite, kas valdė raktus, kokia buvo didžiausia nauda ir rimčiausia rizika, taip pat kaip vietos teisė, infrastruktūra, kalba ar kultūra paveikė rezultatą. Atsakingas kitas žingsnis turi atitikti vietos kontekstą, aiškiai apibrėžti sąnaudas ir [lėšų saugojimą](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), mažinti klaidų ir sukčiavimo riziką bei būti įvertinamas remiantis įrodymais.

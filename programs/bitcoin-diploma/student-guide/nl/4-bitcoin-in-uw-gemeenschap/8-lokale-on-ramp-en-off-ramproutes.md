@@ -24,6 +24,7 @@ Kies bij een persoonlijke uitwisseling een openbare en geschikte locatie, draag 
 
 
 <!-- micrographic: compare-local-pathways-01 -->
+[Een lege tabel om drie lokale opties, A, B en C, te vergelijken op naam, KYC-vereisten, bewaarmodel, ondersteunde netwerken, reputatie en financieringsmethoden, met ruimte voor opmerkingen.](/micrographics/compare-local-pathways-01/nl.md)
 
 
 

@@ -10,6 +10,7 @@ Vaše místně zaměřená aktivita v **modulu 4** vám pomůže:
 
 
 <!-- micrographic: local-module-four-actions-01 -->
+[V místně zaměřeném modulu 4 prochází studující čtyřmi činnostmi: propojí myšlenku z modulů 1 až 3 s místní potřebou, porovná Bitcoin s reálnou stávající alternativou, bezpečně si vše procvičí pod vedením a vysvětlí, co se naučil a jaký je další zodpovědný krok. Po celou dobu jej vede vyučující a někdy také místní odborník.](/micrographics/local-module-four-actions-01/cs.md)
 
 
 V rámci aktivity můžete zkoumat například tyto otázky:

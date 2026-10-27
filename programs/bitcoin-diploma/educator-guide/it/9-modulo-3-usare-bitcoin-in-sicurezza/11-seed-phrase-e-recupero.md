@@ -12,6 +12,7 @@ Spieghi le conseguenze:
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Una seed phrase è un elenco ordinato di parole, qui dodici parole di esempio numerate scritte su carta. Le parole giuste nell'ordine giusto possono ripristinare il controllo in un wallet compatibile, perciò deve rimanere segreta e offline.](/micrographics/seed-phrase-on-paper-01/it.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
@@ -43,10 +44,12 @@ Spieghi le conseguenze:
 
 
 <!-- micrographic: recovery-practice-lanes-01 -->
+[Lo studente segue i passaggi dell'esercitazione di recupero in un'area riservata, verifica il risultato atteso, cancella il dispositivo e restituisce o distrugge il materiale fittizio. L'educatore osserva le decisioni e la gestione sicura, ma non vede mai le parole segrete di recupero.](/micrographics/recovery-practice-lanes-01/it.md)
 
 
 
-> **Callout – Consideri compromessa una seed phrase esposta**
+<!-- card: callout -->
+> **Consideri compromessa una seed phrase esposta**
 >
 > Se una seed reale potrebbe essere stata esposta, smetta di utilizzarla come backup sicuro, crei un nuovo wallet affidabile con nuove informazioni di recupero e trasferisca i fondi dopo aver verificato attentamente la destinazione. Il discente dovrebbe chiedere aiuto senza rivelare nessuna delle due frasi.
 

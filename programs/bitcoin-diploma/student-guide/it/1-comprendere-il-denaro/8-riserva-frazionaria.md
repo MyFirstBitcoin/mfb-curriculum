@@ -6,11 +6,13 @@ Quando una banca commerciale approva un prestito, di solito crea un nuovo deposi
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Un prestito bancario semplificato: il mutuatario presenta la richiesta, la banca approva il prestito e accredita un nuovo deposito sul conto del mutuatario, che in seguito restituisce alla banca il capitale più gli interessi.](/micrographics/bank-loan-deposit-01/it.md)
 
 
 In genere le banche cercano il [profitto](https://curriculum.myfirstbitcoin.org/lexicon/en/#bank-profit) guadagnando interessi e commissioni su prestiti e investimenti, mentre sostengono i costi operativi, di raccolta e normativi e assorbono le perdite quando i mutuatari non rimborsano. Queste attività e questi vincoli variano a seconda della banca e della giurisdizione.
 
 
+<!-- card: definition -->
 > **Definition – Sistema bancario a riserva frazionaria**
 >
 > [Il sistema bancario a riserva frazionaria](https://curriculum.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking) indica un sistema in cui le banche detengono come riserve immediatamente disponibili solo una frazione dei propri obblighi verso i depositanti, mentre concedono prestiti e detengono altre [attività](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset). Il livello di riserva obbligatoria e gli altri limiti variano da paese a paese e possono cambiare nel tempo.
@@ -23,6 +25,7 @@ Ciò genera due rischi importanti:
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Rischio di liquidità: molti depositanti fanno la fila per prelevare oggi e la banca non dispone di contante sufficiente adesso, anche se i suoi prestiti potrebbero essere rimborsati in seguito. Rischio di solvibilità: i mutuatari smettono di pagare i mutui per la casa e le attività della banca finiscono per valere meno di quanto essa deve.](/micrographics/liquidity-vs-solvency-01/it.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)

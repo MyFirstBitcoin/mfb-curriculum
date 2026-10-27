@@ -9,6 +9,7 @@ Bitcoin hoạt động nhờ các bên tham gia đảm nhận những vai trò k
 
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Bốn vai trò trong Bitcoin: người dùng nhận, nắm giữ và gửi bitcoin, các nút độc lập xác minh việc tuân thủ các quy tắc, thợ đào xây dựng các khối ứng viên bằng bằng chứng công việc, và nhà phát triển đề xuất phần mềm. Không một vai trò riêng lẻ nào kiểm soát mạng lưới.](/micrographics/bitcoin-participant-roles-01/vi.md)
 
 
 Các vai trò này giới hạn lẫn nhau:

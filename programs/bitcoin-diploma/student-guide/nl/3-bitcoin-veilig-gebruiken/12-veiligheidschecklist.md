@@ -6,6 +6,7 @@ Wat zou u doen stoppen vóór een betaling of installatie? Beschouw de volgende 
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Vijf waarschuwingssignalen van oplichting: urgentie, imitatie, een gewijzigde bestemming, gegarandeerd rendement en verzoeken om geheimen.](/micrographics/scam-red-flags-01/nl.md)
 
 
 De veilige reactie is altijd: **Pauzeer. Deel niets. Verstuur niets. Sluit het kanaal. Verifieer zelfstandig via een bekende bron. Vraag om hulp zonder geheimen prijs te geven.** Een bekende bron is een officiële website, app-vermelding of contactmethode die u zelfstandig hebt gevonden, niet via een advertentie, privébericht of onverwachte link. Controleer de uitgever en het webadres, vergelijk deze met de officiële documentatie en zoek contactgegevens apart op. Als de bron, de instructies of de betalingsgegevens afwijken van het gedemonstreerde proces, pauzeer dan en vraag hulp aan uw docent of aan betrouwbare lokale ondersteuning, zonder een [seedphrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) of [privé sleutel](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) prijs te geven. Een echte kans doorstaat een zorgvuldige controle; oplichting is er vaak op gericht zo'n controle te voorkomen.

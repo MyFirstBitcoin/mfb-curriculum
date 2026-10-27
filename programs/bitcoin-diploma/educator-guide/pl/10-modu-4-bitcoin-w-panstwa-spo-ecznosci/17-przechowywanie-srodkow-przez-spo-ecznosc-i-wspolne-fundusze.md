@@ -15,3 +15,4 @@ Proszę nie przekształcać [powiernictwa społecznościowego](https://curriculu
 
 
 <!-- micrographic: shared-funds-role-map-01 -->
+[Wpłacający i beneficjenci są zależni od tego, kto kontroluje wspólne środki. Kontrola nad kluczami, zatwierdzanie wydatków, prowadzenie dokumentacji i weryfikacja to odrębne role; gdy jedna osoba pełni kilka z nich, dochodzi do koncentracji zaufania, a kwestie ciągłości działania, prywatności, sporów i statusu prawnego nadal wymagają rozstrzygnięcia.](/micrographics/shared-funds-role-map-01/pl.md)

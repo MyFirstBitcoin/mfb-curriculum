@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: four-module-diploma-01 -->
+[Bitcoin-diplomet følger fire trin i rækkefølge: Problem, Løsning, Handling og Skab kontakt.](/micrographics/four-module-diploma-01/da.md)
 
 
 **Modul 4** er en obligatorisk del af Bitcoin Diploma, som tilrettelægges af underviserne i deres rolle som lokale fageksperter. Scenariet eller værktøjet kan ændres, men alle deltagere, der ønsker certificering, skal opfylde `C7` gennem en lokal aktivitet, der dækker formålet med `C7.1` og `C7.2`.

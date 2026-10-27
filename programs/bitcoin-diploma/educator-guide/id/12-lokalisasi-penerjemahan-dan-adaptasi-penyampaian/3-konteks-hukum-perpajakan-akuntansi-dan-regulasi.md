@@ -14,6 +14,7 @@ Jangan:
 Gunakan ungkapan seperti:
 
 
-> **Callout – Panduan setempat terkini, bukan nasihat perorangan**
+<!-- card: callout -->
+> **Panduan setempat terkini, bukan nasihat perorangan**
 >
 > Aturan setempat dapat memengaruhi langkah ini. Panduan terkini yang tersedia untuk publik dan telah kami periksa pada [tanggal] menyatakan ________. Ini adalah ringkasan untuk tujuan pendidikan, bukan nasihat untuk situasi perorangan. Pertanyaan mengenai kasus tertentu sebaiknya dijawab oleh tenaga profesional setempat yang berkualifikasi atau pihak berwenang.

@@ -3,6 +3,7 @@
 A [centralized system](https://curriculum.myfirstbitcoin.org/lexicon/en/#centralized-system) has a controlling point. A bank controls its customer [ledger](https://curriculum.myfirstbitcoin.org/lexicon/en/#ledger). A payment company controls its network. A government controls the issuance rules of its [currency](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency).
 
 
+<!-- card: definition -->
 > **Definition – Decentralization**
 >
 > A [decentralized system](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralized-system) distributes roles and decision enforcement among many independent participants. Bitcoin has no central office that can create accounts, change balances, or approve membership.
@@ -22,6 +23,7 @@ Bitcoin's [decentralization](https://curriculum.myfirstbitcoin.org/lexicon/en/#d
 
 
 <!-- micrographic: powers-and-limits-01 -->
+[Users, nodes, miners, developers and services each have some power around Bitcoin's shared rules and public ledger, but none can change the ledger or the rules for everyone alone.](/micrographics/powers-and-limits-01/en.md)
 
 
 [Decentralization](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) also creates costs. Coordination can be slower. Users must verify information and take more responsibility. There is no central support desk for the [Bitcoin network](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). These [trade-offs](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) are part of the design, not accidental defects that can be removed without changing the system.

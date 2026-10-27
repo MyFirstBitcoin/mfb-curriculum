@@ -28,6 +28,7 @@ Hierdie benadering is belangrik omdat geld elke mens raak. Mense behoort die ste
 
 
 <!-- micrographic: critical-thinking-loop-01 -->
+['n Herhaalbare siklus vir kritiese denke: identifiseer die bewering, onderskei tussen feit en voorkeur, ondersoek die bewyse en bron, vergelyk alternatiewe, benoem 'n kompromie of onsekerheid, en vorm 'n voorlopige gevolgtrekking of vraag.](/micrographics/critical-thinking-loop-01/af.md)
 
 
 **Gemeenskap** beteken dat onderrig nuttiger word wanneer mense idees bespreek en dit met die plaaslike lewe verbind. U opvoeder en klasmaats kan ervarings hê wat geen wêreldwye boek kan bevat nie. Luister aandagtig, vra vrae en verduidelik u redenasie met respek.
@@ -75,7 +76,8 @@ U kan die kursus gebruik om:
 * vir meer gevorderde studie voor te berei
 
 
-> **Callout – Kennis kom voor optrede**
+<!-- card: callout -->
+> **Kennis kom voor optrede**
 >
 > U hoef nie bitcoin te koop of andersins te bekom om die Bitcoin-diploma te voltooi nie. U hoef ook nie ’n [Bitcoin-Beursie](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet) te installeer of persoonlike fondse te gebruik nie. Vereiste praktiese vaardighede kan met behulp van ’n voorbereide opleidingsbeursie, simulasie, toetsomgewing, fisiese model of ’n laerisiko-aktiwiteit wat deur ’n opvoeder goedgekeur is, geassesseer word.
 
@@ -84,3 +86,4 @@ As u beperkte tyd het of ’n eerste kennismaking met Bitcoin wil hê, begin met
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[’n Opsionele leerroete loop van Inleiding tot Bitcoin na die Bitcoin-diploma, dan na die Opleidingsprogram vir opvoeders, waarna u ’n opvoeder kan word wat volgens die My First Bitcoin-kurrikulum onderrig gee en by die Bitcoin-onderwysnetwerk kan aansluit. Elke volgende stap is ’n keuse, nie ’n vereiste nie.](/micrographics/learner-journey-pathway-01/af.md)

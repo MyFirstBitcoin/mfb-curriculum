@@ -10,6 +10,7 @@ Vysvětlete souvislosti, nikoli matematiku:
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Těžař opakovaně počítá hash navrženého bloku, dokud jeden výsledek není nižší než cílová hodnota sítě, a poté blok rozešle. Než se blok připojí k blockchainu, uzly rychle ověří důkaz a dodržení všech pravidel: vykonat práci je nákladné, ale ověřit ji je snadné.](/micrographics/proof-of-work-process-01/cs.md)
 
 
 Neříkejte, že [těžaři](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) řeší rovnice užitečné mimo síť. Netvrďte, že spotřeba energie je automaticky oprávněná nebo že jde automaticky o plýtvání.

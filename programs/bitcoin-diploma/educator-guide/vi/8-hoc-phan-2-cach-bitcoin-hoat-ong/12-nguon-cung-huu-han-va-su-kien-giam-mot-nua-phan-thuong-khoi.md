@@ -10,6 +10,7 @@ Giảng dạy:
 
 
 <!-- micrographic: bitcoin-issuance-schedule-01 -->
+[Trợ cấp khối bắt đầu ở mức 50 bitcoin và giảm một nửa sau mỗi 210.000 khối, trong khi tổng lượng bitcoin đã phát hành tăng dần đến giới hạn 21 triệu. Phí giao dịch được trả thêm và không phải là bitcoin mới; nội dung này không hàm ý dự báo giá.](/micrographics/bitcoin-issuance-schedule-01/vi.md)
 
 
 Giới hạn này là một quy tắc công khai của mạng lưới, không phải một định luật vật lý. Một người có thể viết phần mềm khác, nhưng không thể buộc những người đang tham gia sử dụng phần mềm đó. Việc sử dụng phần mềm không tương thích có thể tạo ra một mạng lưới khác, thay vì âm thầm thay đổi Bitcoin cho tất cả mọi người.

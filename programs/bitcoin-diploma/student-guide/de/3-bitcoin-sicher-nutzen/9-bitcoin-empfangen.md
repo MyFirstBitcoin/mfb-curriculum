@@ -12,6 +12,7 @@ Beim Empfangen werden keine Mittel freigegeben, die Ihre Wallet verlassen, denno
 
 
 <!-- micrographic: check-what-you-receive-01 -->
+[Ein beispielhafter Empfangsbildschirm auf einem Smartphone zeigt die Zahlungsmethode, die zu teilende Zahlungsanforderung, den Betrag und einen ausstehenden Status. Eine Nachricht oder ein Screenshot mit „gesendet“ ist kein Beweis: Prüfen Sie den Status in Ihrer eigenen Wallet.](/micrographics/check-what-you-receive-01/de.md)
 
 
 Eine Nachricht oder ein Screenshot mit „gesendet“ ist kein Beweis. Welche Belege können Sie selbst sehen? Sehen Sie in der empfangenden Wallet oder in der zugelassenen Ansicht der [Transaktion](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) nach. Bei [On-Chain-Zahlungen](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment) kann eine Wallet die [Transaktion](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) zunächst als ausstehend anzeigen. Der Status der [Bestätigung](https://curriculum.myfirstbitcoin.org/lexicon/en/#confirmation) erhöht die Sicherheit der Abwicklung; eine falsche Adresse oder einen Betrug macht er jedoch nicht rückgängig. Eine Wallet kann für einen neuen Zahlungseingang eine neue Adresse anbieten; ältere Adressen funktionieren unter Umständen weiterhin, doch die Wiederverwendung einer Adresse kann es erleichtern, separate Zahlungen miteinander in Verbindung zu bringen. Eine neue Adresse erschwert diese einfache Verknüpfung; anonym wird eine Zahlung dadurch nicht.

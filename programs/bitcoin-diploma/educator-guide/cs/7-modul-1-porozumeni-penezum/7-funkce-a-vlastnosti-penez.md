@@ -7,6 +7,7 @@ Vysvětlete rozdíl výslovně:
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Dvě vrstvy: tři funkce peněz (prostředek směny, účetní jednotka, uchovatel hodnoty) spočívají na sedmi vlastnostech (trvanlivost, přenosnost, dělitelnost, zaměnitelnost, vzácnost, přijatelnost a ověřitelnost).](/micrographics/functions-and-properties-01/cs.md)
 
 
 Pracujte s různými účely použití. Zeptejte se, které vlastnosti jsou důležité pro:

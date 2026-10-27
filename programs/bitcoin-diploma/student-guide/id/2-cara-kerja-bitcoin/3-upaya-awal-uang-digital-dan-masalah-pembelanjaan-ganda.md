@@ -11,6 +11,7 @@ Bitcoin bukanlah upaya pertama untuk menciptakan uang digital. Bitcoin dibangun 
 Secara keseluruhan, eksperimen-eksperimen ini menunjukkan bagian-bagian berguna dari teka-teki tersebut. Eksperimen ini juga memperjelas masalah yang masih tersisa.
 
 
+<!-- card: definition -->
 > **Definition – Pembelanjaan ganda**
 >
 > [Pembelanjaan ganda](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending) adalah upaya mengirim unit digital yang sama kepada dua penerima. Data digital dapat disalin secara sempurna, sehingga sistem uang digital memerlukan cara untuk menentukan [transaksi](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) mana yang sah.
@@ -28,6 +29,7 @@ Makalah putih tersebut menyatukan fitur-fitur yang diperlukan untuk pendekatan i
 
 
 <!-- micrographic: five-part-response-01 -->
+[Lima bagian berpadu untuk mengatasi masalah pembelanjaan ganda: jaringan antarrekan, tanda tangan digital, blok dan penambangan, verifikasi independen, serta riwayat bersama dengan akumulasi bukti kerja terbanyak. Bersama-sama, kelimanya memungkinkan jaringan menolak pembelanjaan kedua atas dana yang sama tanpa otoritas pusat.](/micrographics/five-part-response-01/id.md)
 
 
 Modul ini menjelaskan konsep-konsep tersebut secara lebih terperinci. Secara bersama-sama, konsep-konsep ini memberikan jawaban praktis untuk [masalah pembelanjaan ganda](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): jaringan dapat menolak upaya kedua untuk membelanjakan bitcoin yang sama tanpa bergantung pada otoritas pusat. Bitcoin menawarkan kombinasi yang selama ini belum ditemukan dan telah dicari melalui eksperimen uang digital selama puluhan tahun.

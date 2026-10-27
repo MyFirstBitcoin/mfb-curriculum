@@ -36,6 +36,7 @@ Het [Bitcoin Education Network](https://myfirstbitcoin.org/about/network) verbin
 
 
 <!-- micrographic: final-safety-check-01 -->
+[Een afgevinkte laatste veiligheidschecklist: bescherm uw geheimen, controleer betalingsgegevens, test met kleine bedragen en stop bij druk. Als iets onduidelijk is, stop dan en verdiep u er eerst verder in voordat u iets doet.](/micrographics/final-safety-check-01/nl.md)
 
 
 Onthoud deze regels:
@@ -57,6 +58,7 @@ Educatie vermindert risico's, maar kan ze niet wegnemen. Als een situatie onduid
 
 
 <!-- micrographic: curriculum-source-panel-01 -->
+[Een paneel met een QR-code en de afgedrukte link github.com/MyFirstBitcoin/mfb-curriculum, de officiële bron van het Bitcoin Diploma, waar u de editie controleert en fouten meldt.](/micrographics/curriculum-source-panel-01/nl.md)
 
 
 Het Bitcoin Diploma is een levend Open-source-curriculum. Correcties en verbeteringen kunnen openbaar worden beoordeeld.

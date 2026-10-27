@@ -10,6 +10,7 @@ Bitcoin a fost creat pentru a rezolva această problemă cu ajutorul unei [rețe
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[În cazul unei companii de plăți, o singură organizație ține registrul și aprobă fiecare transfer. În cazul Bitcoin, expeditorul semnează o tranzacție, nodurile independente o verifică, iar minerii o adaugă într-un registru comun, astfel încât destinatarul depinde mai puțin de o autoritate centrală.](/micrographics/central-ledger-vs-bitcoin-01/ro.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)

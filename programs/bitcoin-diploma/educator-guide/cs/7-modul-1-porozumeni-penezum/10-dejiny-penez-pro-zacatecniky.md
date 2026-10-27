@@ -12,6 +12,7 @@ Vytvořte vícevrstvou či propletenou časovou osu namísto jediné šipky pokr
 
 
 <!-- micrographic: forms-of-money-01 -->
+[Zleva doprava je zobrazeno šest forem peněz v pořadí, v jakém vznikaly: přímá směna, komoditní peníze, standardizované mince, kryté papírové peníze, bankovní a státní peníze a digitální peníze. Každá nová forma se objevuje později, zatímco starší formy přetrvávají vedle ní, takže mnoho forem existuje souběžně, místo aby jedna nahrazovala druhou.](/micrographics/forms-of-money-01/cs.md)
 
 
 Vyzvěte k doplnění místních příkladů. Ptejte se, které formy existovaly souběžně, namísto předpokladu, že jedna zcela nahradila druhou.

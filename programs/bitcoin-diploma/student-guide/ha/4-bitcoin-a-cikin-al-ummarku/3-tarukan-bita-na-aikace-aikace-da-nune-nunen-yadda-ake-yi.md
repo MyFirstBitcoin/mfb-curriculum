@@ -4,6 +4,7 @@ Za ku bi matakai uku: **Gabatarwa**, inda malaminku zai nuna yadda ake gudanar d
 
 
 <!-- micrographic: presentation-practice-production-01 -->
+[Ana koyon ƙwarewar aiki a matakai uku, daga hagu zuwa dama: Gabatarwa, inda malami ke nuna yadda ake aiwatar da aikin da haɗurransa, sai Atisaye, wato gwaji ƙarƙashin jagoranci da kayan horo marasa haɗari, sannan Aiwatarwa, inda ɗalibi ke kammala wani aiki ko bayyana dalilin yanke wata shawara da kansa.](/micrographics/presentation-practice-production-01/ha.md)
 
 
 Taron bitarku na iya haɗawa da:

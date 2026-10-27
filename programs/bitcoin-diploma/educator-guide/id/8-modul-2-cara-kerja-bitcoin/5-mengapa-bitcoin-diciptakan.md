@@ -6,6 +6,7 @@ Sistem pembayaran digital terpusat dapat menyimpan satu sumber acuan resmi berup
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Pada perusahaan pembayaran, satu organisasi mengelola buku besar dan menyetujui setiap transfer. Pada Bitcoin, pengirim menandatangani transaksi, simpul-simpul independen memeriksanya, dan penambang menambahkannya ke satu buku besar bersama, sehingga penerima tidak terlalu bergantung pada otoritas pusat.](/micrographics/central-ledger-vs-bitcoin-01/id.md)
 
 
 Tanyakan:

@@ -15,6 +15,7 @@ Použijte postup „zastavit se a zkontrolovat“:
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Před schválením platby odesílatel kontroluje příjemce a účel, způsob platby, cíl platby a částku, jednotku, poplatek nebo dobu platnosti. Pokud postup nezná, provede malou zkušební platbu. Jestliže se cokoli liší, zastaví se a vše ověří; platbu schválí, pouze pokud vše souhlasí, a poté zkontroluje výsledek.](/micrographics/pre-send-checklist-01/cs.md)
 
 
 Naučte studenty zastavit se, pokud příjemce neočekávaně změní cílovou adresu, odrazuje od ověření, vyvolává pocit naléhavosti nebo žádá o údaje pro obnovu peněženky.

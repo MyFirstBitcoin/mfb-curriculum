@@ -14,6 +14,7 @@ Bruikbare geld het ook gewoonlik verskeie eienskappe:
 
 
 <!-- micrographic: money-property-questions-01 -->
+[Sewe eienskappe van bruikbare geld, elk met 'n vraag om te vra wanneer geldvorme vergelyk word: duursaamheid, draagbaarheid, deelbaarheid, verwisselbaarheid, skaarsheid, aanvaarbaarheid en verifieerbaarheid.](/micrographics/money-property-questions-01/af.md)
 
 
 Geen vorm van geld behaal 'n volmaakte telling nie.
@@ -22,6 +23,7 @@ Mense vergelyk geld ook op grond van die [**deugdelikheid daarvan**](https://cur
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Twee lae: die drie funksies van geld (ruilmiddel, rekeneenheid, waardestoor) berus op sewe eienskappe (duursaamheid, draagbaarheid, deelbaarheid, onderlinge vervangbaarheid, skaarsheid, aanvaarbaarheid en verifieerbaarheid).](/micrographics/functions-and-properties-01/af.md)
 
 
 [Goud](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) is duursaam en skaars, maar moeilik om vir klein betalings te verdeel en te vervoer. [Papiergeld](https://curriculum.myfirstbitcoin.org/lexicon/en/#paper-cash) is draagbaar en word plaaslik aanvaar, maar dit kan beskadig word en die aanbod daarvan kan uitbrei. Die beste vergelyking hang van die doel, plek en tyd af.

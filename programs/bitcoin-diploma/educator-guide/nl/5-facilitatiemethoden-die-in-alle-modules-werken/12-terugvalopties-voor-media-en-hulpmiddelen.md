@@ -24,6 +24,7 @@ Offline lesgeven en beoordelen zijn volwaardig. Gebruik offline kennischecks, af
 
 
 <!-- micrographic: same-competency-any-route-01 -->
+[Live tools, papieren simulaties en goedgekeurde toegankelijke routes kunnen dezelfde competentie ondersteunen, mits de lerende nog steeds de vereiste beslissingen neemt en de docent gelijkwaardig bewijs kan beoordelen. Is er geen gelijkwaardigheid, bereid dan vóór de certificering een andere route voor.](/micrographics/same-competency-any-route-01/nl.md)
 
 
 De Student Guide legt blijvende concepten uit. Controleer actuele lokale gegevens voordat u kosten, wetten, belastingen, beschikbare diensten, Wallet-functies of vermeldingen van handelaren presenteert, en vermeld de datum van de informatie die u gebruikt.

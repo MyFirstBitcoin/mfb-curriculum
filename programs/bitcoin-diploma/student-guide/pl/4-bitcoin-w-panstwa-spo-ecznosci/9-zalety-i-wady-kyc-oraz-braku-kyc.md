@@ -3,7 +3,8 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) i [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) to ścieżki wiążące się z różnymi [kompromisami](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Żadna z tych etykiet nie zwalnia z konieczności starannej oceny.
 
 
-> **Callout – Prywatność nie eliminuje ryzyka prawnego ani zagrożeń dla bezpieczeństwa fizycznego**
+<!-- card: callout -->
+> **Prywatność nie eliminuje ryzyka prawnego ani zagrożeń dla bezpieczeństwa fizycznego**
 >
 > Ani [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc), ani [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) nie jest z założenia najlepszym rozwiązaniem. Proszę porównać konkretne ścieżki, korzystać z aktualnych lokalnych wytycznych, gdy przepisy są niejasne, i nie łamać lokalnego prawa ani nie narażać się na niebezpieczeństwo fizyczne w dążeniu do [prywatności](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 

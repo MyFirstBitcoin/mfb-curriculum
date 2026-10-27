@@ -20,3 +20,4 @@ Do not treat [self-custody](https://curriculum.myfirstbitcoin.org/lexicon/en/#se
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[In custodial use, a service controls the keys and approves spending, so the balance is its promise. In self-custodial use, the user controls the keys and backups; both routes have dependencies and failure risks.](/micrographics/who-controls-keys-01/en.md)

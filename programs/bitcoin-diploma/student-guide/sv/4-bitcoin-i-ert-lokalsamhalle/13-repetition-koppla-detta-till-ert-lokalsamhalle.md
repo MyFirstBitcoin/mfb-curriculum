@@ -1,10 +1,12 @@
 # 4.13 Repetition: Koppla detta till ert lokalsamhälle
 
 <!-- micrographic: community-review-path-01 -->
+[En granskningsgång för ett lokalt exempel på Bitcoin: börja med ett verkligt behov, kontrollera om Bitcoin är lämpligt, granska sedan betalningsmetoden, förvaringen, den totala kostnaden, säkerheten och de lokala förhållandena, och avsluta med belägg för framgång.](/micrographics/community-review-path-01/sv.md)
 
 
 
 <!-- micrographic: community-review-table-01 -->
+[En granskningstabell för det lokala exemplet: för varje ämne, från det verkliga behovet till ett ansvarsfullt nästa steg, finns en fråga att ställa och ett valfritt utrymme för era egna anteckningar.](/micrographics/community-review-table-01/sv.md)
 
 
 Gör denna repetition individuellt och jämför sedan ert resonemang med er grupp eller kursgrupp. Tänk på det lokala exempel ni studerade: vilket verkligt behov tillgodosåg det, vilken funktion hos pengar berördes, och överfördes [värde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) på kedjan, via Lightning eller båda? Fråga er vem som kontrollerade nycklarna, vilken den största fördelen och den allvarligaste risken var, och hur lokal lagstiftning, infrastruktur, språk eller kultur påverkade resultatet. Ett ansvarsfullt nästa steg är ett som passar det lokala sammanhanget, tydliggör kostnader och [förvaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), begränsar misstag och bedrägerier och kan utvärderas utifrån belägg.

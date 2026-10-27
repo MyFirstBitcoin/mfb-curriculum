@@ -28,6 +28,7 @@ Wannan hanya tana da muhimmanci domin kuɗi suna shafar kowa. Ya kamata mutane s
 
 
 <!-- micrographic: critical-thinking-loop-01 -->
+[Tsarin tunani mai zurfi da za a iya maimaitawa: ku gano da'awar, ku bambanta gaskiya da abin da aka fi so, ku bincika hujjoji da tushensu, ku kwatanta sauran zaɓuɓɓuka, ku bayyana abin da za a sadaukar ko abin da ba a tabbatar da shi ba, sannan ku cimma matsaya ta wucin gadi ko ku gabatar da tambaya.](/micrographics/critical-thinking-loop-01/ha.md)
 
 
 **Al'umma** tana nufin cewa ilimi yana ƙara amfani idan mutane suna tattauna ra'ayoyi kuma suna danganta su da rayuwar yankinsu. Malaminku da abokan karatunku na iya samun gogewar da babu wani littafin duniya da zai iya ƙunsarta gaba ɗaya. Ku saurara da kyau, ku yi tambayoyi, kuma ku bayyana dalilan tunaninku cikin girmamawa.
@@ -75,7 +76,8 @@ Za ku iya amfani da kwas ɗin don:
 * shirya don nazari mai zurfi
 
 
-> **Callout – Ilimi yana zuwa kafin aiki**
+<!-- card: callout -->
+> **Ilimi yana zuwa kafin aiki**
 >
 > Ba sai kun saya ko kun mallaki bitcoin ta wata hanya ba kafin ku kammala Diflomar Bitcoin. Haka kuma, ba sai kun girka [walat na Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet) ko kun yi amfani da kuɗinku na kanku ba. Ana iya tantance ƙwarewar aikace-aikacen da ake buƙata ta amfani da walat ɗin horo da aka tanada, kwaikwayo, muhallin gwaji, samfurin zahiri, ko wani aiki mai ƙarancin haɗarin asara da malami ya amince da shi.
 
@@ -84,3 +86,4 @@ Idan lokacinku yana da iyaka ko kuna son samun gabatarwa ta farko ga Bitcoin, ku
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[Tafarkin koyo na zaɓi yana farawa daga Gabatarwa ga Bitcoin zuwa Diflomar Bitcoin, sannan Shirin Horar da Masu Koyarwa, har zuwa zama mai koyarwa da ke koyar da manhajar My First Bitcoin, da shiga Cibiyar Sadarwar Ilimin Bitcoin. Kowane mataki na gaba zaɓi ne, ba tilas ba.](/micrographics/learner-journey-pathway-01/ha.md)

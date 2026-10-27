@@ -10,6 +10,7 @@ Bitcoin được tạo ra để giải quyết vấn đề này bằng một [m�
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Với công ty thanh toán, một tổ chức lưu giữ sổ cái và phê duyệt từng giao dịch chuyển tiền. Với Bitcoin, người gửi ký một giao dịch, các nút độc lập kiểm tra giao dịch đó và thợ đào thêm giao dịch vào một sổ cái dùng chung, nhờ đó người nhận ít phụ thuộc hơn vào một cơ quan trung ương.](/micrographics/central-ledger-vs-bitcoin-01/vi.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)

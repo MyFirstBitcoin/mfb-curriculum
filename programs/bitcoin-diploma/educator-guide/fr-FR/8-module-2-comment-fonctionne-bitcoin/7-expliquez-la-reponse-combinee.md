@@ -10,6 +10,7 @@ Utilisez un schéma en cinq parties :
 
 
 <!-- micrographic: five-part-response-01 -->
+[Cinq éléments se combinent pour résoudre le problème de la double dépense : un réseau pair à pair, des signatures numériques, des blocs et le minage, une vérification indépendante et un historique partagé ayant le plus de preuves de travail cumulées. Ensemble, ils permettent au réseau de rejeter une seconde dépense sans autorité centrale.](/micrographics/five-part-response-01/fr-FR.md)
 
 
 Aucun élément de Bitcoin ne rend crédible sa [rareté](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) à lui seul. Évitez de dire « la [blockchain](https://curriculum.myfirstbitcoin.org/lexicon/en/#blockchain) résout tout. »

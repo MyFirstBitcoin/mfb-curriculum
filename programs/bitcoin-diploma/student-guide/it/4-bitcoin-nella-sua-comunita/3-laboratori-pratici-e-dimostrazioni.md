@@ -4,6 +4,7 @@ Attraverserà tre fasi: **Presentazione**, in cui il Suo educatore illustra il p
 
 
 <!-- micrographic: presentation-practice-production-01 -->
+[Un'abilità pratica si apprende in tre fasi, da sinistra a destra: Presentazione, in cui l'educatore mostra il processo e i relativi rischi, poi Pratica, un'esercitazione guidata con materiali didattici sicuri, e infine Produzione, in cui chi apprende svolge un compito o spiega una decisione in modo autonomo.](/micrographics/presentation-practice-production-01/it.md)
 
 
 Il Suo laboratorio potrà comprendere:

@@ -12,6 +12,7 @@
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[現金、銀行預金、リテールCBDC、ビットコインを、発行者、形態、利用できる人、支払いの可視性、供給のルール、検証方法の観点で比較した表です。デジタルであることは分散型であることと同じではありません。CBDCは依然として中央銀行が発行するものであり、利用できる人、可視性、検証方法はその設計によって決まります。](/micrographics/cbdc-comparison-table-01/ja.md)
 
 
 [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc)の設計はさまざまです。すべての[CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc)がある機能を備えている、あるいは備えていないと断定しないでください。確認済みの国内の設計、公表された提案、論評、推測を区別してください。

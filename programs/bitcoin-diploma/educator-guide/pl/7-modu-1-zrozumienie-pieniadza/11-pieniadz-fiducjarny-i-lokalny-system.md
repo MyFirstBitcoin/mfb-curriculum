@@ -15,6 +15,7 @@ Proszę poprosić osoby uczące się o wskazanie:
 
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Uczestnicy systemu pieniądza fiducjarnego i przepływy między nimi: bank centralny ustala politykę pieniężną i prowadzi rozrachunki między bankami, banki komercyjne przechowują depozyty stanowiące ich zobowiązania wobec klientów, usługi płatnicze przekazują zlecenia, państwo pobiera podatki i dokonuje wydatków, a obywatele i przedsiębiorstwa płacą i otrzymują płatności.](/micrographics/fiat-system-flows-01/pl.md)
 
 
 Proszę przygotować się do wyjaśnienia lokalnego systemu. Proszę wskazać, które szczegóły mają charakter ogólny, a które są specyficzne dla danej jurysdykcji. Proszę zachęcić do dzielenia się różnorodnymi doświadczeniami, w tym związanymi z korzystaniem z gotówki i ograniczonym dostępem do usług bankowych, bez sprowadzania dyskusji do konkluzji politycznej.

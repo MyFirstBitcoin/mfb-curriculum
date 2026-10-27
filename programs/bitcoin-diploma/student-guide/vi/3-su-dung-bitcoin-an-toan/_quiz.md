@@ -1,6 +1,6 @@
 # Quiz – Sử dụng Bitcoin an toàn: kiểm tra nhanh
 
-## Question 1
+## Câu hỏi 1
 
 Ví Bitcoin:
 
@@ -9,11 +9,11 @@ Ví Bitcoin:
 * [ ] Loại bỏ việc bảo vệ thông tin bí mật
 * [ ] Đảo ngược giao dịch
 
-### Explanation
+### Giải thích
 
 Bitcoin được ghi nhận trên sổ cái dùng chung; ví quản lý thông tin dùng để truy cập và sử dụng bitcoin. Xem lại Tài liệu hướng dẫn học viên, Học phần 3, “Ví”.
 
-## Question 2
+## Câu hỏi 2
 
 Thông tin có thể chia sẻ để nhận bitcoin:
 
@@ -22,11 +22,11 @@ Thông tin có thể chia sẻ để nhận bitcoin:
 * [x] Địa chỉ nhận
 * [ ] Mật khẩu
 
-### Explanation
+### Giải thích
 
 Địa chỉ nhận có thể được chia sẻ để nhận thanh toán. Cụm từ khôi phục, khóa riêng tư và mật khẩu phải được giữ bí mật. Xem lại Tài liệu hướng dẫn học viên, Học phần 3, “Địa chỉ” và “Khóa”.
 
-## Question 3
+## Câu hỏi 3
 
 Đã nhập cụm từ khôi phục lên mạng. Bước tiếp theo an toàn nhất là gì?
 
@@ -35,11 +35,11 @@ Thông tin có thể chia sẻ để nhận bitcoin:
 * [x] Tạo cụm từ khôi phục mới, rồi chuyển tiền
 * [ ] Sử dụng lại cụm từ khôi phục
 
-### Explanation
+### Giải thích
 
 Hãy coi cụm từ khôi phục đã nhập lên mạng là đã bị lộ. Tạo ví mới với cụm từ khôi phục mới, sau đó chỉ chuyển tiền sau khi xác minh địa chỉ đích. Xem lại Tài liệu hướng dẫn học viên, Học phần 3, “Cụm từ khôi phục”.
 
-## Question 4
+## Câu hỏi 4
 
 Sự khác biệt giữa lưu ký và tự lưu ký là gì?
 
@@ -48,6 +48,6 @@ Sự khác biệt giữa lưu ký và tự lưu ký là gì?
 * [ ] Giới hạn nguồn cung
 * [ ] Trách nhiệm
 
-### Explanation
+### Giải thích
 
 Sử dụng dịch vụ lưu ký và tự lưu ký khác nhau ở việc ai kiểm soát khóa và chịu trách nhiệm liên quan. Cả hai đều không bảo đảm tính an toàn hay khả năng đảo ngược giao dịch. Xem lại Tài liệu hướng dẫn học viên, Học phần 3, “Sử dụng có lưu ký và không lưu ký”.

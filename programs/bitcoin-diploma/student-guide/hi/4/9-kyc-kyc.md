@@ -3,7 +3,8 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) और [गैर-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) रास्तों में अलग-अलग [लाभ-हानि के संतुलन होते हैं](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off)। इनमें से कोई भी नाम सावधानीपूर्वक मूल्यांकन की आवश्यकता को समाप्त नहीं करता।
 
 
-> **Callout – गोपनीयता से कानूनी या शारीरिक सुरक्षा संबंधी जोखिम समाप्त नहीं होते**
+<!-- card: callout -->
+> **गोपनीयता से कानूनी या शारीरिक सुरक्षा संबंधी जोखिम समाप्त नहीं होते**
 >
 > न तो [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) और न ही [गैर-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) अपने-आप में सर्वोत्तम है। वास्तविक रास्ते की तुलना करें, नियम स्पष्ट न होने पर मौजूदा स्थानीय मार्गदर्शन लें, और स्थानीय कानून का उल्लंघन करके या स्वयं को शारीरिक खतरे में डालकर हासिल न करें [गोपनीयता](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy)।
 

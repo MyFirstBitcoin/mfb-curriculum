@@ -52,7 +52,8 @@ Discuss the actual result, any fee, the information checked before approval, the
 
 #### Notes
 
-> **Callout – Use real wallets and funds only for this learning activity**
+<!-- card: callout -->
+> **Use real wallets and funds only for this learning activity**
 >
 > Before beginning, follow the Educator Guide's live-practice guidance: make the route and risks clear, use an amount whose loss is not significant, make participation voluntary, protect every secret and unnecessary payment detail, and define stop conditions. Use educator-prepared funds where possible. Do not pressure learners to use their own funds or turn this into a recommendation of a wallet or service.
 

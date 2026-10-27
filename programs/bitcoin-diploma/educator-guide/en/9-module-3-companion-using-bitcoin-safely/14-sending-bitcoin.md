@@ -15,6 +15,7 @@ Use a pause-and-check sequence:
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Before approving a payment, the sender checks the recipient and purpose, the payment method, the destination, and the amount, unit, fee or expiry, using a small test when unfamiliar. If anything differs, they stop and verify; they approve only when everything matches, then check the result.](/micrographics/pre-send-checklist-01/en.md)
 
 
 Teach learners to stop if the recipient changes the destination unexpectedly, discourages verification, creates urgency, or asks for recovery information.

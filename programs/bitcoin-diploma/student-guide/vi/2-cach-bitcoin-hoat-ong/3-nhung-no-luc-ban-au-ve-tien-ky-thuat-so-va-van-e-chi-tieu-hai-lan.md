@@ -11,6 +11,7 @@ Bitcoin không phải là nỗ lực đầu tiên nhằm tạo ra tiền kỹ th
 Nhìn chung, những thử nghiệm này đã cho thấy các mảnh ghép hữu ích của bài toán. Chúng cũng làm rõ vấn đề còn tồn tại.
 
 
+<!-- card: definition -->
 > **Definition – Chi tiêu hai lần**
 >
 > [Chi tiêu hai lần](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending) là hành vi cố gắng gửi cùng một đơn vị kỹ thuật số cho hai người nhận. Dữ liệu kỹ thuật số có thể được sao chép hoàn hảo, vì vậy một hệ thống tiền kỹ thuật số cần có cách xác định [giao dịch](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) nào là hợp lệ.
@@ -28,6 +29,7 @@ Sách trắng đã tập hợp các tính năng cần thiết cho cách tiếp c
 
 
 <!-- micrographic: five-part-response-01 -->
+[Năm thành phần kết hợp để giải quyết vấn đề chi tiêu hai lần: mạng ngang hàng, chữ ký số, khối và khai thác, xác minh độc lập, cùng lịch sử chung có lượng bằng chứng công việc tích lũy lớn nhất. Các thành phần này cùng nhau cho phép mạng từ chối chi tiêu cùng một khoản tiền lần thứ hai mà không cần cơ quan trung ương.](/micrographics/five-part-response-01/vi.md)
 
 
 Học phần này giải thích chi tiết hơn về các khái niệm này. Khi kết hợp lại, chúng đã mang đến một giải pháp thiết thực cho [vấn đề chi tiêu hai lần](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): mạng lưới có thể từ chối lần chi tiêu thứ hai đối với cùng một lượng bitcoin mà không cần dựa vào một cơ quan trung ương. Bitcoin đã mang đến sự kết hợp còn thiếu mà các thử nghiệm về tiền kỹ thuật số đã tìm kiếm suốt nhiều thập kỷ.

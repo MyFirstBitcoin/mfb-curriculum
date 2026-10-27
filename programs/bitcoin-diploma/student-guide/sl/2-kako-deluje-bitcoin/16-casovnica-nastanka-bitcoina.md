@@ -4,6 +4,7 @@ Bitcoin se je pojavil skozi kratko zaporedje javnih dogodkov.
 
 
 <!-- micrographic: bitcoin-origin-timeline-01 -->
+[Začetki Bitcoina v štirih datiranih dogodkih: 31. oktobra 2008 je Satoshi Nakamoto objavil belo knjigo, ki opisuje neposredna spletna plačila brez finančnega posrednika; 3. januarja 2009 je začetni blok zagnal omrežje Bitcoin in vseboval časopisni naslov o reševanju bank; 12. januarja 2009 je Satoshi poslal bitcoin osebi Hal Finney v prvi zabeleženi transakciji med posameznikoma; 22. maja 2010 je uporabnik plačal 10.000 BTC za dve pici, ta dogodek pa danes obeležujemo kot dan pice Bitcoin.](/micrographics/bitcoin-origin-timeline-01/sl.md)
 
 
 Raziščite izvirne zapise: preberite [belo knjigo o Bitcoinu](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-whitepaper) ([izvirni PDF](https://bitcoin.org/bitcoin.pdf)), preglejte [začetni blok](https://curriculum.myfirstbitcoin.org/lexicon/en/#genesis-block) ([zapis bloka](https://mempool.space/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f)) in prvo zabeleženo [transakcijo med dvema osebama](https://curriculum.myfirstbitcoin.org/lexicon/en/#person-to-person-transaction) ([zapis transakcije](https://mempool.space/tx/f4184fc596403b9d638783cf57adfe4c75c605f6356fbc91338530e9831e9e16)) ter preberite [izvirno prošnjo za pico](https://bitcointalk.org/index.php?topic=137.0). [Raziskovalec blokov](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-explorer) je priročen vmesnik za dostop do javnih podatkov, ne pa vrhovna avtoriteta glede pravil Bitcoina.

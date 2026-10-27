@@ -28,6 +28,7 @@ Tämä lähestymistapa on tärkeä, koska raha vaikuttaa jokaiseen ihmiseen. Ihm
 
 
 <!-- micrographic: critical-thinking-loop-01 -->
+[Toistettava kriittisen ajattelun kehä: tunnistakaa väite, erottakaa tosiasiat mieltymyksistä, tarkastelkaa näyttöä ja lähdettä, vertailkaa vaihtoehtoja, nimetkää kompromissi tai epävarmuustekijä ja muodostakaa alustava johtopäätös tai kysymys.](/micrographics/critical-thinking-loop-01/fi.md)
 
 
 **Yhteisöllisyys** tarkoittaa, että koulutuksesta tulee hyödyllisempää, kun ihmiset keskustelevat ajatuksista ja yhdistävät niitä paikalliseen elämään. Opettajallanne ja opiskelutovereillanne voi olla kokemuksia, joita mikään maailmanlaajuinen oppikirja ei voi kattaa. Kuunnelkaa tarkasti, esittäkää kysymyksiä ja selittäkää perustelunne kunnioittavasti.
@@ -75,7 +76,8 @@ Kurssin avulla voitte:
 * valmistautua syventäviin opintoihin
 
 
-> **Callout – Tieto tulee ennen toimintaa**
+<!-- card: callout -->
+> **Tieto tulee ennen toimintaa**
 >
 > Teidän ei tarvitse ostaa tai muuten hankkia bitcoinia suorittaaksenne Bitcoin-diplomin. Teidän ei myöskään tarvitse asentaa [Bitcoin-lompakkoa](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet) tai käyttää omia varojanne. Vaadittavia käytännön taitoja voidaan arvioida valmiiksi järjestetyn harjoituslompakon, simulaation, testiympäristön, fyysisen mallin tai opettajan hyväksymän, vähäisen riskin harjoituksen avulla.
 
@@ -84,3 +86,4 @@ Jos teillä on vain vähän aikaa tai haluatte ensin tutustua Bitcoiniin, aloitt
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[Vapaaehtoinen oppimispolku etenee Johdatus Bitcoiniin -kurssista Bitcoin-diplomiin, sitten opettajien koulutusohjelmaan ja edelleen My First Bitcoin -opetussuunnitelman pohjalta opettavaksi opettajaksi sekä Bitcoin-koulutusverkoston jäseneksi. Jokainen seuraava askel on valinta, ei vaatimus.](/micrographics/learner-journey-pathway-01/fi.md)

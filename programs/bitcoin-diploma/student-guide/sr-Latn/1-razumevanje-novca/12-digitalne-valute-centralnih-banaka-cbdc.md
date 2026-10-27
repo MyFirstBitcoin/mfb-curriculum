@@ -1,5 +1,6 @@
 # 1.12 Digitalne valute centralnih banaka (CBDC)
 
+<!-- card: definition -->
 > **Definition – Digitalna valuta centralne banke (CBDC)**
 >
 > Jedna [digitalna valuta centralne banke](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), ili [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), jeste digitalni oblik [fijat novca](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) koji se izdaje kao [obaveza](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability) jedne [centralne banke](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank): to je potraživanje koje [centralna banka](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) ima obavezu da izmiri njegovom imaocu. Razlikuje se od fizičke gotovine i od uobičajenog depozita u poslovnoj banci, iako korisničko iskustvo može delovati slično.
@@ -13,6 +14,7 @@ Zatim se zapitajte šta dato rešenje omogućava. U zavisnosti od pravila, [CBDC
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[Tabela koja poredi gotovinu, bankarske depozite, CBDC za građane i Bitcoin prema tome ko ih izdaje, njihovom obliku, dostupnosti, vidljivosti plaćanja, pravilima o količini u opticaju i mogućnosti provere. Digitalno nije isto što i decentralizovano: CBDC i dalje izdaje centralna banka, a njegova dostupnost, vidljivost plaćanja i mogućnost provere zavise od načina na koji je osmišljen.](/micrographics/cbdc-comparison-table-01/sr-Latn.md)
 
 
 Digitalno ne znači automatski decentralizovano, oskudno, privatno ili otvoreno za nezavisnu proveru. [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) može koristiti digitalnu tehnologiju, ali je i dalje [fijat novac](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) ako se njegovim [izdavaocem](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer), pravilima o količini novca, pravilima pristupa i dozvolama za plaćanje i dalje upravlja centralizovano.

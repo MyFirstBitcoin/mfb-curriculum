@@ -8,6 +8,7 @@ Bezpečný nácvik připravenosti na obnovu je jednoduchý:
 
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[Šestikrokové cvičení obnovení cvičné peněženky: postupujte podle oficiálních pokynů, ověřte kompatibilitu, pracujte v soukromí, použijte schválenou metodu obnovení, ověřte, že jde o očekávanou peněženku, a poté resetujte prostředí. Používejte pouze připravené, prázdné nebo simulované materiály. Vyučující nikdy neuvidí slova pro obnovení.](/micrographics/practice-wallet-recovery-01/cs.md)
 
 
 Po absolvování programu Bitcoin Diploma nepoužívejte cvičnou peněženku ani její údaje pro obnovu k zabezpečení významných finančních prostředků. Osobní peněženka, pokud se ji později rozhodnete vytvořit, vyžaduje nové nastavení provedené v soukromí a nové údaje pro obnovu.

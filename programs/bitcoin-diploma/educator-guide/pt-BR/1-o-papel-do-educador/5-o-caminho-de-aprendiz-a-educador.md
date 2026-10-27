@@ -13,3 +13,4 @@ Apresente isso como uma progressão disponível além do Bitcoin Diploma, e não
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[Uma jornada de aprendizagem opcional vai da Introdução ao Bitcoin ao Diploma em Bitcoin, passa pelo Programa de Formação de Educadores, chega ao papel de educador que ensina com base no currículo do My First Bitcoin e culmina com a entrada na Rede de Educação em Bitcoin. Cada próximo passo é uma escolha, não uma exigência.](/micrographics/learner-journey-pathway-01/pt-BR.md)

@@ -8,6 +8,7 @@
 
 
 <!-- micrographic: presentation-practice-production-01 -->
+[Käytännön taito opitaan kolmessa vaiheessa vasemmalta oikealle: Esittely, jossa opettaja näyttää prosessin ja sen riskit, sitten Harjoittelu eli ohjattu harjoittelu turvallisilla harjoitusmateriaaleilla ja lopuksi Tuottaminen, jossa oppija suorittaa tehtävän tai perustelee päätöksen itsenäisesti.](/micrographics/presentation-practice-production-01/fi.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/3d2cf07203a6fd4017e7adbac198e73b190e99cf-1881x836.svg)

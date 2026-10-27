@@ -4,6 +4,7 @@ Halten Sie inne und überlegen Sie, wie öffentliche Regeln, eine begrenzte Ausg
 
 
 <!-- micrographic: bitcoin-responses-tradeoffs-01 -->
+[Eine Tabelle, die fünf mögliche Mängel moderner Geldsysteme der jeweiligen Antwort von Bitcoin sowie der neuen Verantwortung oder dem Zielkonflikt gegenüberstellt, die jede Antwort mit sich bringt. Bitcoin ersetzt einen Teil des Vertrauens in Institutionen durch Überprüfung und Eigenverantwortung, beseitigt das Risiko jedoch nicht.](/micrographics/bitcoin-responses-tradeoffs-01/de.md)
 
 
 **Denkanstoß:** Hat Bitcoin auf Grundlage dessen, was Sie in diesem Modul gelernt haben, einen [Wert](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) für Sie? Spiegelt der aktuelle [Preis](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) von Bitcoin seinen [Wert](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) wider?

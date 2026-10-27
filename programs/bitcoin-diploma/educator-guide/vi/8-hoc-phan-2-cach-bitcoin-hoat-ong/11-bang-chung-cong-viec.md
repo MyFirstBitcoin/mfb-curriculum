@@ -10,6 +10,7 @@ Hãy dạy về mối quan hệ, không phải về toán học:
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Thợ đào băm một khối được đề xuất liên tục cho đến khi một kết quả thấp hơn ngưỡng mục tiêu của mạng lưới, rồi phát tán khối đó. Các nút nhanh chóng kiểm tra bằng chứng và việc tuân thủ mọi quy tắc trước khi khối được đưa vào chuỗi khối: việc tạo ra bằng chứng công việc rất tốn kém, nhưng xác minh lại dễ dàng.](/micrographics/proof-of-work-process-01/vi.md)
 
 
 Tránh nói rằng [thợ đào](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) giải các phương trình hữu ích bên ngoài hệ thống. Tránh khẳng định rằng chi phí năng lượng đương nhiên là hợp lý hoặc đương nhiên là lãng phí.

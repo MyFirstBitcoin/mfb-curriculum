@@ -15,6 +15,7 @@ Gebruik een reeks van pauzeren en controleren:
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Voordat de verzender een betaling goedkeurt, controleert hij de ontvanger en het doel, de betaalmethode, de bestemming en het bedrag, de eenheid, de transactiekosten of de vervaltijd, met een kleine test als het proces onbekend is. Wijkt er iets af, dan stopt hij en controleert hij; hij keurt alleen goed als alles overeenkomt en controleert daarna het resultaat.](/micrographics/pre-send-checklist-01/nl.md)
 
 
 Leer deelnemers te stoppen als de ontvanger onverwacht de bestemming wijzigt, verificatie ontmoedigt, tijdsdruk creëert of om herstelgegevens vraagt.

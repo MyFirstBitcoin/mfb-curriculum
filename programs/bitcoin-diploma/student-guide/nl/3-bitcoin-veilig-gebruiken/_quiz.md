@@ -1,6 +1,6 @@
 # Quiz – Bitcoin veilig gebruiken: korte check
 
-## Question 1
+## Vraag 1
 
 Een Bitcoin-wallet:
 
@@ -9,11 +9,11 @@ Een Bitcoin-wallet:
 * [ ] Verwijdert geheime beveiliging
 * [ ] Draait transacties terug
 
-### Explanation
+### Uitleg
 
 Bitcoin wordt vastgelegd in het gedeelde grootboek; een wallet beheert de informatie waarmee u er toegang toe krijgt en het gebruikt. Raadpleeg de Studentengids, Module 3, “Wallets.”
 
-## Question 2
+## Vraag 2
 
 Delen om bitcoin te ontvangen:
 
@@ -22,11 +22,11 @@ Delen om bitcoin te ontvangen:
 * [x] Ontvangstadres
 * [ ] Wachtwoord
 
-### Explanation
+### Uitleg
 
 Een ontvangstadres kunt u delen om een betaling te ontvangen. Seedphrases, privésleutels en wachtwoorden moeten geheim blijven. Raadpleeg de Studentengids, Module 3, “Adressen” en “Sleutels.”
 
-## Question 3
+## Vraag 3
 
 Seedphrase online ingevoerd. Veiligste volgende stap?
 
@@ -35,11 +35,11 @@ Seedphrase online ingevoerd. Veiligste volgende stap?
 * [x] Nieuwe seed, dan geld verplaatsen
 * [ ] De seed hergebruiken
 
-### Explanation
+### Uitleg
 
 Beschouw een seedphrase die online is ingevoerd als gecompromitteerd. Maak een nieuwe wallet aan met een nieuwe seed en verplaats het geld pas nadat u de bestemming hebt gecontroleerd. Raadpleeg de Studentengids, Module 3, “Seedphrases.”
 
-## Question 4
+## Vraag 4
 
 Verschil in bewaring?
 
@@ -48,6 +48,6 @@ Verschil in bewaring?
 * [ ] Limiet op het aanbod
 * [ ] Verantwoordelijkheid
 
-### Explanation
+### Uitleg
 
 Bewaring door een derde partij en zelfbewaring verschillen in wie de sleutels beheert en de bijbehorende verantwoordelijkheid draagt. Geen van beide garandeert veiligheid of omkeerbaarheid. Raadpleeg de Studentengids, Module 3, “Gebruik met en zonder bewaarder.”

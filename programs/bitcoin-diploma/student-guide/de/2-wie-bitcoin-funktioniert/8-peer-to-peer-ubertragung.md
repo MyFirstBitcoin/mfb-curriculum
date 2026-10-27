@@ -8,6 +8,7 @@ Peer-to-Peer bedeutet nicht immer, dass nur zwei Computer direkt miteinander kom
 
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[Ein Absender signiert eine Transaktion und sendet sie an viele Knoten des Netzwerks, die sie weiterreichen, bis sie den Empfänger erreicht. Keine zentrale Bitcoin-Stelle muss den Absender oder den Empfänger genehmigen.](/micrographics/peer-to-peer-route-01/de.md)
 
 
 Nutzer können sich dennoch für [Vermittler](https://curriculum.myfirstbitcoin.org/lexicon/en/#intermediary) entscheiden. Eine Börse kann bitcoin für ihre Kunden verwahren. Ein Zahlungsdienst kann eine Rechnung vereinfachen. Eine gehostete Wallet kann Schlüssel verwalten. Diese Dienste können bequem sein, doch der Nutzer ist dann von den Regeln und der Sicherheit des jeweiligen Dienstes abhängig.

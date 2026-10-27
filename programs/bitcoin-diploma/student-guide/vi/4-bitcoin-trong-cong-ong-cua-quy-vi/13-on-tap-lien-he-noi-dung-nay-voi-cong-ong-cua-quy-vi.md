@@ -1,10 +1,12 @@
 # 4.13 Ôn tập: Liên hệ nội dung này với cộng đồng của quý vị
 
 <!-- micrographic: community-review-path-01 -->
+[Quy trình đánh giá một ví dụ sử dụng Bitcoin tại địa phương: bắt đầu từ nhu cầu thực tế, kiểm tra xem Bitcoin có phù hợp không, sau đó xem xét phương thức thanh toán, việc lưu ký, tổng chi phí, sự an toàn và điều kiện địa phương, rồi kết thúc bằng bằng chứng thành công.](/micrographics/community-review-path-01/vi.md)
 
 
 
 <!-- micrographic: community-review-table-01 -->
+[Bảng đánh giá ví dụ tại địa phương: với mỗi chủ đề, từ nhu cầu thực tế đến bước tiếp theo có trách nhiệm, có một câu hỏi để tự đặt ra và một khoảng trống để quý vị ghi chú nếu muốn.](/micrographics/community-review-table-01/vi.md)
 
 
 Hãy tự hoàn thành phần ôn tập này, sau đó so sánh lập luận của quý vị với nhóm hoặc các học viên cùng khóa. Hãy xem xét ví dụ tại địa phương mà quý vị đã nghiên cứu: ví dụ đó đã đáp ứng nhu cầu thực tế nào, liên quan đến chức năng nào của tiền, và [giá trị](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) được chuyển trên chuỗi, qua Lightning hay cả hai? Hãy đặt câu hỏi về người kiểm soát các khóa, lợi ích lớn nhất và rủi ro nghiêm trọng nhất, cũng như cách luật pháp, cơ sở hạ tầng, ngôn ngữ hoặc văn hóa địa phương tác động đến kết quả. Một bước tiếp theo có trách nhiệm phải phù hợp với bối cảnh địa phương, làm rõ chi phí và [việc lưu ký](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), hạn chế sai sót và lừa đảo, đồng thời có thể được đánh giá dựa trên bằng chứng.

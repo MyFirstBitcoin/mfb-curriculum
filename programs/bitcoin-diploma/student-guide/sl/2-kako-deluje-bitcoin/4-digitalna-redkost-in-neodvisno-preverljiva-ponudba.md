@@ -3,6 +3,7 @@
 Digitalne informacije je običajno preprosto kopirati.
 
 
+<!-- card: definition -->
 > **Definition – Digitalna redkost**
 >
 > Digitalna [redkost](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) pomeni, da lahko sistem razlikuje med veljavno enoto in neveljavno kopijo ter prepreči, da bi bila ista enota porabljena dvakrat.
@@ -14,6 +15,7 @@ Bitcoin ustvarja digitalno [redkost](https://curriculum.myfirstbitcoin.org/lexic
 
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Omejitev ponudbe, zapisana na spletni strani ali v izdajateljevi podatkovni zbirki, se lahko po volji izdajatelja neopazno spremeni. Bitcoinovo pravilo o ponudbi je javno, podpisi, javna zgodovina, dokaz o delu in preverjanje v vozliščih pa skupaj preprečujejo ustvarjanje novih kovancev mimo pravil ali dvakratno porabo istega bitcoina.](/micrographics/claimed-or-verified-supply-01/sl.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)

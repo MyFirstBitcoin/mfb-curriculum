@@ -6,6 +6,7 @@ Bitcoin łączy właściwości, które wcześniej nie występowały razem w jedn
 
 
 <!-- micrographic: bitcoin-money-properties-01 -->
+[Bitcoin łączy siedem właściwości pieniądza w jednym aktywie: trwałość, przenośność, podzielność, zamienność, rzadkość, weryfikowalność i akceptowalność. Każda z nich ma praktyczne ograniczenia, takie jak konieczność bezpiecznego przechowywania kluczy czy wciąż niski poziom akceptacji w wielu społecznościach.](/micrographics/bitcoin-money-properties-01/pl.md)
 
 
 

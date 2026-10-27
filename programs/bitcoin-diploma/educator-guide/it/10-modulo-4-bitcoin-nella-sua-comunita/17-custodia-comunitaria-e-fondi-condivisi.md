@@ -15,3 +15,4 @@ Non trasformi la progettazione della [custodia comunitaria](https://curriculum.m
 
 
 <!-- micrographic: shared-funds-role-map-01 -->
+[Contributori e beneficiari dipendono da chi controlla i fondi comuni. Controllo delle chiavi, approvazione delle spese, registri e revisione sono ruoli distinti; quando una sola persona ne ricopre più d'uno, la fiducia si concentra, e continuità, privacy, controversie e status giuridico richiedono comunque delle risposte.](/micrographics/shared-funds-role-map-01/it.md)

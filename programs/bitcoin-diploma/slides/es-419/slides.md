@@ -75,7 +75,8 @@ El dinero es un activo que las personas aceptan porque esperan que otras lo acep
 * Valor a través del tiempo y la distancia
 
 
-> **Callout – Pregunta rápida**
+<!-- card: callout -->
+> **Pregunta rápida**
 >
 > ¿Qué problema de intercambio o coordinación ayuda a resolver el dinero?
 
@@ -108,7 +109,8 @@ Una forma de dinero puede cumplir una función mejor que otra. Toda forma de din
 Ninguna forma de dinero cumple a la perfección con todos los criterios. “**Dinero sólido**” es una valoración: establezca criterios y compare de manera consistente.
 
 
-> **Callout – Piense críticamente**
+<!-- card: callout -->
+> **Piense críticamente**
 >
 > ¿Qué propiedades fueron importantes cuando usted eligió un tipo de dinero o activo en lugar de otro?
 
@@ -152,6 +154,7 @@ La escasez por sí sola no garantiza el valor; la demanda también importa.
 ---
 
 <!-- micrographic: same-water-different-value-01 -->
+[La misma botella de agua potable es barata en el refrigerador de una tienda donde es fácil encontrar agua, y mucho más valiosa en un desierto caluroso durante una escasez. La disponibilidad, la necesidad y las circunstancias cambian el valor y el precio.](/micrographics/same-water-different-value-01/es-419.md)
 
 ---
 
@@ -162,6 +165,7 @@ La escasez por sí sola no garantiza el valor; la demanda también importa.
 ---
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Una persona con dinero limitado para sus compras observa las opciones que tiene delante: comida para hoy, transporte o ahorrar para después. Elegir una implica renunciar a las demás, lo que constituye el costo de oportunidad, y ninguna opción está marcada como la correcta.](/micrographics/one-choice-two-uses-01/es-419.md)
 
 ---
 
@@ -195,6 +199,7 @@ La comodidad de los pagos y la flexibilidad del crédito generan dependencia de 
 ---
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Los actores de un sistema de dinero fíat y lo que circula entre ellos: el banco central establece la política monetaria y liquida los pagos entre bancos, los bancos comerciales mantienen depósitos que constituyen un pasivo frente a sus clientes, los servicios de pago transmiten instrucciones, el gobierno recauda impuestos y realiza gastos, y los ciudadanos y las empresas realizan y reciben pagos.](/micrographics/fiat-system-flows-01/es-419.md)
 
 ---
 
@@ -230,10 +235,12 @@ Las corridas bancarias pueden dificultar el acceso a los fondos. El seguro de de
 ---
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Un préstamo bancario simplificado: el prestatario solicita el préstamo, el banco lo aprueba y acredita un nuevo depósito en la cuenta del prestatario, quien posteriormente devuelve al banco el capital más los intereses.](/micrographics/bank-loan-deposit-01/es-419.md)
 
 ---
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Riesgo de liquidez: muchos depositantes hacen fila para retirar su dinero hoy, y el banco no tiene suficiente efectivo ahora, aunque sus préstamos podrían pagarse más adelante. Riesgo de solvencia: los prestatarios dejan de pagar sus préstamos hipotecarios, y los activos del banco pasan a valer menos de lo que debe.](/micrographics/liquidity-vs-solvency-01/es-419.md)
 
 ---
 
@@ -255,6 +262,7 @@ La expansión del dinero y del crédito puede contribuir, junto con la oferta, l
 ---
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Las mismas 100 unidades monetarias alcanzan para comprar la canasta completa de productos básicos cuando cuesta 100, pero no cuando la misma canasta cuesta 110. El nivel de precios ha subido y el poder adquisitivo del dinero ha disminuido.](/micrographics/same-money-smaller-basket-01/es-419.md)
 
 ---
 
@@ -308,7 +316,8 @@ Una CBDC es dinero fíat digital emitido como un pasivo del banco central: una o
 Los diseños varían. Digital no significa automáticamente descentralizado, escaso, privado ni verificable de forma independiente.
 
 
-> **Callout – Verifique**
+<!-- card: callout -->
+> **Verifique**
 >
 > ¿Quién lo emite, quién puede usarlo, qué datos se recopilan y quién puede bloquear pagos o cambiar las reglas? ¿Qué sucede sin conexión y qué protecciones legales existen?
 
@@ -327,7 +336,8 @@ Los diseños varían. Digital no significa automáticamente descentralizado, esc
 ¿Qué hace que su dinero sea útil y qué reglas dependen de instituciones en las que usted confía?
 
 
-> **Callout – Un momento para reflexionar**
+<!-- card: callout -->
+> **Un momento para reflexionar**
 >
 > ¿Qué pregunta se hace ahora sobre el dinero que antes no se hacía?
 
@@ -357,6 +367,7 @@ Bitcoin reduce la confianza depositada en entidades centrales para la emisión y
 ---
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Con una empresa de pagos, una sola organización mantiene el registro contable y aprueba cada transferencia. Con Bitcoin, el remitente firma una transacción, los nodos independientes la verifican y los mineros la agregan a un registro contable compartido, por lo que el destinatario depende menos de una autoridad central.](/micrographics/central-ledger-vs-bitcoin-01/es-419.md)
 
 ---
 
@@ -393,6 +404,7 @@ El doble gasto es un intento de enviar la misma unidad digital a dos destinatari
 ---
 
 <!-- micrographic: five-part-response-01 -->
+[Cinco elementos se combinan para resolver el problema del doble gasto: una red entre pares, firmas digitales, bloques y minería, verificación independiente y un historial compartido con la mayor prueba de trabajo acumulada. Juntos permiten que la red rechace un segundo gasto sin una autoridad central.](/micrographics/five-part-response-01/es-419.md)
 
 ---
 
@@ -411,6 +423,7 @@ No basta con afirmar por escrito cuál es la oferta: ¿quién puede verificarla 
 ---
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Un límite de oferta escrito en un sitio web o en la base de datos de un emisor puede ser modificado por ese emisor sin que nadie lo note. La regla de oferta de Bitcoin es pública, y las firmas, un historial público, la prueba de trabajo y la verificación de los nodos impiden, en conjunto, que se inventen nuevas monedas o que se gaste el mismo bitcoin dos veces.](/micrographics/claimed-or-verified-supply-01/es-419.md)
 
 ---
 
@@ -452,12 +465,14 @@ Los servicios de intermediarios siguen siendo opcionales; elegir uno implica ace
 ---
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[Un remitente firma una transacción y la transmite a muchos nodos de la red, que la retransmiten hasta que llega al destinatario. Ningún operador central de Bitcoin tiene que aprobar al remitente ni al destinatario.](/micrographics/peer-to-peer-route-01/es-419.md)
 
 ---
 
 ![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Cuatro roles en Bitcoin: los usuarios reciben, guardan y envían bitcoin, los nodos verifican las reglas de forma independiente, los mineros construyen bloques candidatos mediante la prueba de trabajo y los desarrolladores proponen software. Ningún rol controla por sí solo la red.](/micrographics/bitcoin-participant-roles-01/es-419.md)
 
 ---
 
@@ -466,7 +481,8 @@ Los servicios de intermediarios siguen siendo opcionales; elegir uno implica ace
 Los mineros no pueden hacer que los nodos honestos acepten bloques inválidos. Los desarrolladores no pueden imponer la adopción de software. Una persona puede desempeñar varios roles.
 
 
-> **Callout – Pregunta rápida**
+<!-- card: callout -->
+> **Pregunta rápida**
 >
 > ¿Por qué un nodo verifica las transacciones? Mencione una regla que comprueba.
 
@@ -489,6 +505,7 @@ La minería asegura el orden de las transacciones; no resuelve ecuaciones ajenas
 ![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Un minero calcula hashes de un bloque propuesto una y otra vez hasta que un resultado es inferior al objetivo de la red y luego difunde el bloque. Los nodos verifican rápidamente la prueba y el cumplimiento de cada regla antes de que el bloque se incorpore a la cadena de bloques: el trabajo es costoso de realizar y fácil de verificar.](/micrographics/proof-of-work-process-01/es-419.md)
 
 ---
 
@@ -509,10 +526,12 @@ Los nodos rechazan la emisión excesiva; el límite se mantiene mientras los par
 ---
 
 <!-- micrographic: bitcoin-issuance-supply-01 -->
+[El subsidio por bloque comienza en 50 bitcoin y se reduce a la mitad cada 210,000 bloques, mientras que el total de bitcoin emitidos aumenta hacia el límite de 21 millones. Las comisiones por transacción se pagan adicionalmente y no son nuevos bitcoin; no se implica ninguna predicción de precio.](/micrographics/bitcoin-issuance-supply-01/es-419.md)
 
 ---
 
 <!-- micrographic: bitcoin-issuance-subsidy-01 -->
+[El subsidio por bloque comienza en 50 bitcoin y se reduce a la mitad cada 210,000 bloques, mientras que el total de bitcoin emitidos aumenta hacia el límite de 21 millones. Las comisiones por transacción se pagan adicionalmente y no son nuevos bitcoin; no se implica ninguna predicción de precio.](/micrographics/bitcoin-issuance-subsidy-01/es-419.md)
 
 ---
 
@@ -528,7 +547,8 @@ Los nodos rechazan la emisión excesiva; el límite se mantiene mientras los par
 **Sesgo de unidad:** un precio bajo por unidad entera no demuestra un mayor valor. Compare la proporción de la oferta, el valor involucrado y los riesgos.
 
 
-> **Callout – Demuestre lo que ha comprendido**
+<!-- card: callout -->
+> **Demuestre lo que ha comprendido**
 >
 > ¿Cuántos sats hay en 0.01 BTC? ¿Por qué se puede usar menos de un bitcoin entero?
 
@@ -586,7 +606,8 @@ Un símbolo de cotización conocido, un precio aparentemente estable o una aplic
 * Sin instrucciones de comprar, vender o mantener
 
 
-> **Callout – Verificación del valor local**
+<!-- card: callout -->
+> **Verificación del valor local**
 >
 > Distinga entre el precio de mercado, la aceptación local y las preferencias o sesgos personales.
 
@@ -601,6 +622,7 @@ Evalúe el diseño y el funcionamiento, así como la historia de su origen.
 ---
 
 <!-- micrographic: bitcoin-origin-timeline-01 -->
+[El origen de Bitcoin en cuatro acontecimientos con sus fechas: el 31 de octubre de 2008 Satoshi Nakamoto publicó el libro blanco, que describía pagos directos en línea sin un intermediario financiero; el 3 de enero de 2009 el bloque génesis dio inicio a la red Bitcoin, con un titular sobre rescates bancarios; el 12 de enero de 2009 Satoshi envió bitcoin a Hal Finney en la primera transacción de persona a persona registrada; el 22 de mayo de 2010 un usuario pagó 10,000 BTC por dos pizzas, fecha que hoy se celebra como el Día de la Pizza de Bitcoin.](/micrographics/bitcoin-origin-timeline-01/es-419.md)
 
 ---
 
@@ -629,7 +651,8 @@ La responsabilidad personal puede incluir educación, revisión entre pares, pro
 * Ordenamiento de transacciones → prueba de trabajo; costos de equipos y energía
 
 
-> **Callout – Un momento para reflexionar**
+<!-- card: callout -->
+> **Un momento para reflexionar**
 >
 > ¿Qué parte del diseño de Bitcoin explicaría usted de otra manera ahora y por qué?
 
@@ -674,6 +697,7 @@ Las billeteras de práctica no deben resguardar cantidades significativas de din
 ---
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Una billetera guarda las claves. Con ellas usted puede recibir y enviar bitcoin, mientras que el bitcoin en sí permanece registrado en el registro compartido, no dentro del celular o dispositivo.](/micrographics/wallet-manages-keys-01/es-419.md)
 
 ---
 
@@ -699,13 +723,15 @@ El software malicioso puede reemplazar los destinos copiados. Una apariencia fam
 Nunca comparta claves privadas, frases semilla, contraseñas ni códigos de recuperación. Ningún educador, agente de soporte, empresa de billeteras, empleado de una plataforma de intercambio ni desarrollador legítimo los necesita.
 
 
-> **Callout – Inténtelo**
+<!-- card: callout -->
+> **Inténtelo**
 >
 > Clasifique los ejemplos preparados en información para recibir fondos, secretos e información pública que se vuelve sensible al vincularse con una persona.
 
 ---
 
 <!-- micrographic: private-key-public-info-01 -->
+[Una clave privada secreta, que nunca debe compartirse, da lugar a información pública que sí se puede compartir: una clave pública derivada de ella y una dirección de recepción creada a partir de esa clave pública. La misma clave privada crea firmas que los nodos verifican sin llegar a conocer la clave privada.](/micrographics/private-key-public-info-01/es-419.md)
 
 ---
 
@@ -738,7 +764,8 @@ Si existe la posibilidad de que alguien haya visto o copiado la frase semilla, o
 Una cadena de bloques pública no puede demostrar lo que un servicio le debe a un cliente en particular. La autocustodia también puede implicar dependencias de software, hardware, servidores y redes.
 
 
-> **Callout – Pruébelo**
+<!-- card: callout -->
+> **Pruébelo**
 >
 > Compare dos descripciones preparadas: ¿quién controla las claves, quién restablece el acceso y qué riesgo se debe revisar?
 
@@ -749,6 +776,7 @@ Una cadena de bloques pública no puede demostrar lo que un servicio le debe a u
 ---
 
 <!-- micrographic: who-controls-keys-01 -->
+[En el uso con custodia, un servicio controla las claves y aprueba los gastos, por lo que el saldo es una promesa del servicio. En el uso con autocustodia, el usuario controla las claves y los respaldos; ambas opciones tienen dependencias y riesgos de falla.](/micrographics/who-controls-keys-01/es-419.md)
 
 ---
 
@@ -776,6 +804,7 @@ Utilice únicamente materiales preparados, vacíos o simulados. Nunca revele pal
 ---
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[Una práctica de seis pasos para recuperar una billetera de práctica: siga las instrucciones oficiales, verifique la compatibilidad, trabaje en privado, use el método de recuperación aprobado, confirme que sea la billetera esperada y luego restablezca el entorno. Use solo materiales preparados, vacíos o simulados; el educador nunca ve las palabras de recuperación.](/micrographics/practice-wallet-recovery-01/es-419.md)
 
 ---
 
@@ -804,6 +833,7 @@ Apruebe solo cuando todas las verificaciones coincidan. Si los detalles cambian,
 ---
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Antes de aprobar un pago, la persona que envía verifica el destinatario y el propósito, el método de pago, el destino y el monto, la unidad, la comisión o el vencimiento, y hace una prueba con un monto pequeño si no conoce el proceso. Si algo es diferente, se detiene y verifica; aprueba solo cuando todo coincide y luego revisa el resultado.](/micrographics/pre-send-checklist-01/es-419.md)
 
 ---
 
@@ -823,6 +853,7 @@ Utilice ejemplos preparados; no busque direcciones ni transacciones personales d
 ---
 
 <!-- micrographic: confirmation-timeline-01 -->
+[Una transacción espera sin confirmar en el grupo de transacciones pendientes; luego se incluye en el bloque N, lo que constituye su primera confirmación, y cada bloque posterior añade una más.](/micrographics/confirmation-timeline-01/es-419.md)
 
 ---
 
@@ -835,7 +866,8 @@ Utilice ejemplos preparados; no busque direcciones ni transacciones personales d
 **Haga una pausa. No comparta nada. No envíe nada. Cierre el canal. Verifique de forma independiente. Pida ayuda sin revelar secretos.**
 
 
-> **Callout – Inténtelo**
+<!-- card: callout -->
+> **Inténtelo**
 >
 > Identifique la señal de alerta, la posible pérdida y la primera acción segura en un mensaje preparado.
 
@@ -844,6 +876,7 @@ Utilice ejemplos preparados; no busque direcciones ni transacciones personales d
 ---
 
 <!-- micrographic: scam-red-flags-01 -->
+[Cinco señales de alerta de estafa: urgencia, suplantación de identidad, un cambio de destino, rendimientos garantizados y solicitudes de información secreta.](/micrographics/scam-red-flags-01/es-419.md)
 
 ---
 
@@ -860,10 +893,12 @@ Ninguna vía ni ningún proveedor es automáticamente la mejor opción. **KYC** 
 ---
 
 <!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Una persona puede recibir bitcoin de cuatro maneras diferentes: como pago por su trabajo o sus ventas, intercambiando efectivo local con otra persona, usando una plataforma de intercambio o un intermediario, o usando un cajero automático. Cada vía termina en autocustodia o en un saldo bajo custodia, y ninguna se recomienda por encima de las demás.](/micrographics/ways-to-receive-bitcoin-01/es-419.md)
 
 ---
 
 <!-- micrographic: exchange-risk-questions-01 -->
+[Seis áreas de riesgo que debe revisar antes de adquirir o intercambiar bitcoin, cada una con una pregunta que debe hacerse: costos, custodia, identidad y privacidad, retiro y liquidación, contraparte y seguridad, y contexto local.](/micrographics/exchange-risk-questions-01/es-419.md)
 
 ---
 
@@ -909,7 +944,8 @@ Use el entorno de práctica acordado. Deténgase si algo no coincide; solicite a
 Un amigo le envía una solicitud mientras un servicio de soporte desconocido le exige actuar de inmediato. ¿Qué podría verificar antes de hacer algo?
 
 
-> **Callout – Un momento para reflexionar**
+<!-- card: callout -->
+> **Un momento para reflexionar**
 >
 > ¿Qué comprobación de seguridad se detendrá a realizar antes de actuar?
 
@@ -928,6 +964,7 @@ Un amigo le envía una solicitud mientras un servicio de soporte desconocido le 
 ## Su módulo local 4
 
 <!-- micrographic: local-module-four-actions-01 -->
+[En el Módulo 4 local, el estudiante realiza cuatro acciones: relacionar una idea de los Módulos 1 a 3 con una necesidad local, comparar Bitcoin con una alternativa existente y realista, practicar de forma segura con orientación y explicar lo que aprendió y un próximo paso responsable. Su docente, y en ocasiones un experto local, lo guía durante todo el proceso.](/micrographics/local-module-four-actions-01/es-419.md)
 
 
 Registre su enfoque local: problema u oportunidad, alternativa, escenario seguro, principal beneficio y riesgo, y próximo paso seguro.
@@ -979,10 +1016,12 @@ Un pago pequeño exitoso no demuestra que sea seguro mantener saldos mayores.
 ---
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[El receptor crea una solicitud de pago de Lightning con el monto en su celular, el remitente la escanea y paga, y el pago llega al celular del receptor un momento después.](/micrographics/lightning-phone-payment-01/es-419.md)
 
 ---
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Un pago Lightning en seis pasos: el destinatario crea una solicitud, el remitente la escanea, revisa el destinatario, el monto, la unidad, el vencimiento y la comisión, aprueba el pago, el pago se enruta y ambas billeteras muestran el resultado. Cada billetera puede ser de custodia o de autocustodia, y un pago fallido o vencido se inicia de nuevo con una nueva solicitud.](/micrographics/lightning-payment-sequence-01/es-419.md)
 
 ---
 
@@ -1034,6 +1073,7 @@ Seleccione o adapte los escenarios de la guía a la tarea local. Mantenga las co
 ---
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[Un pago en una cafetería en cuatro pasos: el cliente hace su pedido, el mesero envía una factura, el cliente paga en bitcoin desde su celular y el mesero entrega el café.](/micrographics/coffee-shop-payment-01/es-419.md)
 
 ---
 
@@ -1094,6 +1134,7 @@ Las cifras de adopción por sí solas no demuestran la utilidad. Una demanda dé
 ---
 
 <!-- micrographic: local-circular-economy-01 -->
+[En una economía circular de Bitcoin, el bitcoin pasa de persona a persona a cambio de bienes, servicios y tiempo. Un cliente le paga a un comerciante, el comerciante le paga a un proveedor de servicios, el proveedor de servicios le paga a un trabajador y el trabajador vuelve a gastarlo como cliente.](/micrographics/local-circular-economy-01/es-419.md)
 
 ---
 
@@ -1151,6 +1192,7 @@ Complete la actividad individualmente y luego compare su razonamiento con el de 
 * La participación comunitaria útil es voluntaria y protege a las personas
 
 
-> **Callout – Un momento para reflexionar**
+<!-- card: callout -->
+> **Un momento para reflexionar**
 >
 > ¿Qué pregunta haría antes de decidir si una opción basada en Bitcoin responde a una necesidad local?

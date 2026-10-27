@@ -1,5 +1,6 @@
 # 1.4 Ruilhandel en de dubbele coïncidentie van behoeften
 
+<!-- card: definition -->
 > **Definition – Ruilhandel**
 >
 > [Ruilhandel](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) is de directe ruil van het ene goed of de ene dienst tegen een ander. Het kan goed werken bij een kleine ruil, maar wordt lastig wanneer er veel mensen en producten bij betrokken zijn.
@@ -11,6 +12,7 @@ Stel u voor dat **Amina** rijst heeft en schoenen wil. **Luis** heeft schoenen, 
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina heeft rijst en wil schoenen, Luis heeft schoenen en wil bakolie, en Mei heeft bakolie en wil reparatiewerk. Geen enkel tweetal kan rechtstreeks ruilen, omdat geen van beide personen in een tweetal wil wat de ander aanbiedt.](/micrographics/barter-mismatch-01/nl.md)
 
 
 Om [ruilhandel](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) direct te laten werken, moet iedere persoon op hetzelfde moment en in geschikte hoeveelheden willen wat de ander aanbiedt. Economen noemen dit een [**dubbel toeval van wensen**](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-coincidence-of-wants).
@@ -31,3 +33,4 @@ Algemeen geaccepteerd geld maakt verkopen los van kopen. Amina kan rijst aan de 
 
 
 <!-- micrographic: sell-then-buy-01 -->
+[Amina verkoopt rijst aan één persoon voor algemeen geaccepteerd geld en gebruikt dat geld later om schoenen te kopen van iemand anders. Verkopen en kopen worden afzonderlijke handelingen.](/micrographics/sell-then-buy-01/nl.md)

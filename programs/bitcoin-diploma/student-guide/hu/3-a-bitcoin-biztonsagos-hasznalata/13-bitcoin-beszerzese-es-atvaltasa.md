@@ -5,7 +5,8 @@
 Az emberek munkáért, közösségi kifizetésként, magánszemélyek közötti váltás során, ATM-en vagy szolgáltatáson keresztül juthatnak bitcoinhoz. Minden lehetőség eltérő költségekkel, [letétkezeléssel](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), valamint adatvédelmi, csalási, jogi és működési [kompromisszumokkal jár](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). A Bitcoin Diploma nem ajánl szolgáltatót, és nem mondja meg Önnek, melyik lehetőséget válassza.
 
 
-> **Light – Hasonlítson össze egy helyi fizetési lehetőséget**
+<!-- card: light -->
+> **Hasonlítson össze egy helyi fizetési lehetőséget**
 >
 > Egy előre kidolgozott helyi vagy kitalált forgatókönyv alapján hasonlítsa össze a [letétkezelést](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), a teljes költséget, a személyazonosító adatokat, a pénzkivételi korlátokat, az ügyfélkockázatot és a fizikai biztonságot, valamint a hatályos helyi szabályokat. Egyetlen lehetőség sem automatikusan a legjobb mindenhol. Ez a tanfolyam az összehasonlítást segítő kérdéseket kínál, nem pedig szolgáltatói ajánlást vagy személyre szabott pénzügyi tanácsot.
 
@@ -20,15 +21,18 @@ Mielőtt összehasonlítana egy lehetőséget, tegye fel a következő kérdése
 
 
 <!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Egy személy négy különböző módon juthat bitcoinhoz: munkával vagy értékesítéssel keresheti meg, helyi készpénzt válthat rá egy másik személlyel, tőzsdét vagy brókert vehet igénybe, illetve ATM-et használhat. Mindegyik út saját kezeléshez vagy letétkezelőnél vezetett egyenleghez vezet, és egyik sem ajánlott a többivel szemben.](/micrographics/ways-to-receive-bitcoin-01/hu.md)
 
 
 
 <!-- micrographic: exchange-risk-questions-01 -->
+[Hat kockázati terület, amelyet érdemes ellenőrizni bitcoin beszerzése vagy átváltása előtt, mindegyikhez egy felteendő kérdéssel: költségek, letétkezelés, személyazonosság és adatvédelem, kiutalás és elszámolás, partner és biztonság, valamint helyi körülmények.](/micrographics/exchange-risk-questions-01/hu.md)
 
 
 Egyetlen lehetőség sem automatikusan a legjobb mindenhol. A helyi példák és a szolgáltatóspecifikus útmutatás helye a **4. modul**.
 
 
+<!-- card: definition -->
 > **Definition – Ismerje meg ügyfelét (KYC)**
 >
 > [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) alatt azokat a személyazonosság-ellenőrzéseket értjük, amelyeket egy szabályozott szolgáltató megkövetelhet. Ez segítheti a fiókhoz való hozzáférés helyreállítását vagy a jogszabályi megfelelést, ugyanakkor olyan nyilvántartást is létrehoz, amely összekapcsolja a személyazonosságot a pénzügyi tevékenységgel. A kevesebb személyazonosító adat gyűjtésével járó lehetőségek eltérő partnerkockázatokkal, jogi, biztonsági, költségbeli vagy összetettségből adódó kockázatokkal járhatnak.

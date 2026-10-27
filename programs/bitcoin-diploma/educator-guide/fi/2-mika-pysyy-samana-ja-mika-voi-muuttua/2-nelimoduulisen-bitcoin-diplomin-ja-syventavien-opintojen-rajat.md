@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: four-module-diploma-01 -->
+[Bitcoin-diplomi etenee neljässä vaiheessa seuraavassa järjestyksessä: Ongelma, Ratkaisu, Toiminta ja Verkostoituminen.](/micrographics/four-module-diploma-01/fi.md)
 
 
 **Moduuli 4** on pakollinen osa Bitcoin Diploma -koulutusta, ja opettajat koostavat sen paikallisina aihealueen asiantuntijoina. Tilanne tai työkalu voi vaihdella, mutta jokaisen todistusta tavoittelevan oppijan on saavutettava osaamistavoite `C7` paikallisella tehtävällä, joka vastaa seuraavien osaamistavoitteiden tarkoitusta: `C7.1` ja `C7.2`.

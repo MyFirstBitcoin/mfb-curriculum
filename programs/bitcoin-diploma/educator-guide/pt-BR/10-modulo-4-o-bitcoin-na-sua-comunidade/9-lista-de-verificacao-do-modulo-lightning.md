@@ -13,10 +13,12 @@ Antes de uma oficina sobre Lightning, verifique e explique:
 * a simulação offline.
 
 
-> **Dark – Um pagamento Lightning bem-sucedido prova apenas que essa rota funcionou uma vez.**
+<!-- card: dark -->
+> **Um pagamento Lightning bem-sucedido prova apenas que essa rota funcionou uma vez.**
 >
 > Isso não prova que a carteira é segura para saldos maiores nem que o mesmo caminho funcionará em qualquer lugar.
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Um pagamento Lightning em seis etapas: o recebedor cria uma solicitação, o pagador a escaneia, confere destinatário, valor, unidade, validade e taxa, aprova, o pagamento é roteado e as duas carteiras mostram o resultado. Cada carteira pode ser custodial ou de autocustódia, e um pagamento que falhou ou expirou recomeça com uma nova solicitação.](/micrographics/lightning-payment-sequence-01/pt-BR.md)

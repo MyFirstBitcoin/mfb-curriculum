@@ -12,6 +12,7 @@ Proszę stworzyć wielowarstwową lub przeplatającą się oś czasu zamiast poj
 
 
 <!-- micrographic: forms-of-money-01 -->
+[Sześć form pieniądza przedstawiono od lewej do prawej w kolejności ich powstawania: wymiana bezpośrednia, pieniądz towarowy, standaryzowane monety, pieniądz papierowy z pokryciem, pieniądz bankowy i państwowy oraz pieniądz cyfrowy. Każda nowa forma pojawia się później, a starsze nadal funkcjonują obok niej, więc wiele form współistnieje, zamiast zastępować się nawzajem.](/micrographics/forms-of-money-01/pl.md)
 
 
 Proszę zachęcić do dodawania lokalnych przykładów. Proszę zapytać, które formy współistniały, zamiast zakładać, że jedna całkowicie zastąpiła inną.

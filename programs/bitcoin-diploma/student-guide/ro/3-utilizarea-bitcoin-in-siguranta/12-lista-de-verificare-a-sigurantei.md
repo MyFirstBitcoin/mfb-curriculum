@@ -6,6 +6,7 @@ Ce v-ar determina să vă opriți înainte de o plată sau de o instalare? Consi
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Cinci semnale de alarmă ale unei escrocherii: urgență, uzurparea identității, o destinație modificată, câștiguri garantate și solicitări de informații secrete.](/micrographics/scam-red-flags-01/ro.md)
 
 
 Reacția sigură este întotdeauna: **Opriți-vă. Nu divulgați nimic. Nu trimiteți nimic. Închideți canalul de comunicare. Verificați independent printr-o sursă cunoscută. Cereți ajutor fără să dezvăluiți informații secrete.** O sursă cunoscută este un site oficial, o pagină de prezentare a unei aplicații sau o metodă de contact la care ați ajuns independent, nu printr-o reclamă, un mesaj direct sau un link neașteptat. Verificați editorul și adresa web, comparați-le cu documentația oficială și căutați separat datele de contact. Dacă sursa, instrucțiunile sau detaliile plății diferă de procedura demonstrată, opriți-vă și cereți ajutor cadrului didactic sau unui serviciu local de asistență de încredere, fără să dezvăluiți o [frază de recuperare](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) sau o [Cheie Privată](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key). O oportunitate reală rezistă unei verificări atente; o înșelătorie depinde adesea de împiedicarea unei astfel de verificări.

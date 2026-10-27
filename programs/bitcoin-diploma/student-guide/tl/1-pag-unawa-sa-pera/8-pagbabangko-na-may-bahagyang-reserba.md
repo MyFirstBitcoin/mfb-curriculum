@@ -6,11 +6,13 @@ Kapag inaprubahan ng isang komersiyal na bangko ang isang pautang, karaniwan ito
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Isang pinasimpleng paglalarawan ng pautang sa bangko: nag-aaplay ang nanghihiram, inaaprubahan ng bangko ang pautang at nagkakredito ng bagong deposito sa account ng nanghihiram, at kalaunan ay binabayaran ng nanghihiram sa bangko ang prinsipal kasama ang interes.](/micrographics/bank-loan-deposit-01/tl.md)
 
 
 Karaniwang naghahangad ang mga bangko ng [tubo](https://curriculum.myfirstbitcoin.org/lexicon/en/#bank-profit) sa pamamagitan ng pagkita ng interes at mga bayarin mula sa mga pautang at pamumuhunan habang binabayaran ang kanilang mga gastos sa operasyon, pagkuha ng pondo, at pagsunod sa regulasyon, at sinasalo ang mga pagkalugi kapag hindi nagbabayad ang mga nanghihiram. Nagkakaiba ang mga gawaing ito at mga limitasyon ayon sa bangko at hurisdiksiyon.
 
 
+<!-- card: definition -->
 > **Definition – Pagbabangko na may bahagyang reserba**
 >
 > [Ang pagbabangko na may bahagyang reserba](https://curriculum.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking) ay tumutukoy sa pagbabangko kung saan bahagi lamang ng kanilang mga pananagutan sa deposito ang itinatabi ng mga bangko bilang mga reserbang magagamit agad habang nagpapautang at humahawak ng iba pang [mga ari-arian](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset). Ang kinakailangang antas ng reserba at iba pang limitasyon ay magkakaiba sa bawat bansa at maaaring magbago sa paglipas ng panahon.
@@ -23,6 +25,7 @@ Nagdudulot ito ng dalawang mahalagang panganib:
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Panganib sa likididad: maraming depositor ang pumipila upang mag-withdraw ngayon, at kulang ang salapi ng bangko sa kasalukuyan kahit na maaaring mabayaran pa ang mga pautang nito sa kalaunan. Panganib sa kakayahang magbayad ng utang: hindi nababayaran ng mga nangutang ang kanilang mga pautang sa pabahay, at bumababa ang halaga ng mga ari-arian ng bangko nang mas mababa sa mga obligasyon nito.](/micrographics/liquidity-vs-solvency-01/tl.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)

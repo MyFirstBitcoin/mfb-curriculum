@@ -1,5 +1,6 @@
 # 1.4 Palitan ng Kalakal at ang Dobleng Pagtutugma ng mga Kagustuhan
 
+<!-- card: definition -->
 > **Definition – Pakikipagpalitan**
 >
 > [Ang pakikipagpalitan](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) ay ang direktang pagpapalitan ng isang produkto o serbisyo para sa iba. Maaari itong maging epektibo sa isang maliitang palitan, ngunit nagiging mahirap kapag maraming tao at produkto ang kasangkot.
@@ -11,6 +12,7 @@ Isipin po ninyo na si **Amina** ay may bigas at nais ng sapatos. **Si Luis** ay 
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[May bigas si Amina at gusto niya ng sapatos, may sapatos si Luis at gusto niya ng mantika, at may mantika si Mei at gusto niyang magpaayos. Walang pares na maaaring direktang makipagpalitan, dahil walang sinuman sa bawat pares ang may gusto sa iniaalok ng isa.](/micrographics/barter-mismatch-01/tl.md)
 
 
 Upang [ang pakikipagpalitan](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) ay direktang gumana, kailangang naisin ng bawat tao ang iniaalok ng isa sa parehong oras at sa angkop na dami. Tinatawag ito ng mga ekonomista na [**sabay na pagtutugma ng mga kagustuhan**](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-coincidence-of-wants).
@@ -31,3 +33,4 @@ Ang salaping karaniwang tinatanggap ay naghihiwalay sa pagbebenta at pagbili. Ma
 
 
 <!-- micrographic: sell-then-buy-01 -->
+[Ibinebenta ni Amina ang bigas sa isang tao kapalit ng perang karaniwang tinatanggap, at pagkatapos ay ginagamit ang perang iyon para bumili ng sapatos sa ibang tao. Nagiging magkahiwalay na gawain ang pagbebenta at pagbili.](/micrographics/sell-then-buy-01/tl.md)

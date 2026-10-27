@@ -4,6 +4,7 @@ Pause and consider how public rules, finite issuance, peer-to-peer transfer, and
 
 
 <!-- micrographic: bitcoin-responses-tradeoffs-01 -->
+[A table matching five possible flaws of modern money systems to Bitcoin's response and the new responsibility or trade-off each response brings. Bitcoin replaces some institutional trust with verification and personal responsibility, but does not remove risk.](/micrographics/bitcoin-responses-tradeoffs-01/en.md)
 
 
 **Key thought:** Based on what you have learned about Bitcoin in this module, does it have [value](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) to you? Does the current [price](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) of bitcoin represent its [value](https://curriculum.myfirstbitcoin.org/lexicon/en/#value)?

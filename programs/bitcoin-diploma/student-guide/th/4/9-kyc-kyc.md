@@ -3,7 +3,8 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) และ [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) เป็นแนวทางที่มี [ข้อดีข้อเสียที่ต้องแลกกันแตกต่างกัน](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). ไม่ว่าจะใช้ชื่อเรียกใด ก็ยังจำเป็นต้องประเมินอย่างรอบคอบ
 
 
-> **Callout – ความเป็นส่วนตัวไม่ได้ขจัดความเสี่ยงด้านกฎหมายหรือความปลอดภัยทางกายภาพ**
+<!-- card: callout -->
+> **ความเป็นส่วนตัวไม่ได้ขจัดความเสี่ยงด้านกฎหมายหรือความปลอดภัยทางกายภาพ**
 >
 > ไม่ว่าจะเป็น [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) หรือ [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) ก็ไม่ได้เป็นทางเลือกที่ดีที่สุดโดยอัตโนมัติ โปรดเปรียบเทียบแนวทางที่ใช้จริง อ้างอิงคำแนะนำล่าสุดในท้องถิ่นเมื่อกฎเกณฑ์ไม่ชัดเจน และอย่าฝ่าฝืนกฎหมายท้องถิ่นหรือทำให้ตนเองตกอยู่ในอันตรายทางกายภาพเพื่อแสวงหา [ความเป็นส่วนตัว](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 

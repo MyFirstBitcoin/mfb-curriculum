@@ -14,3 +14,4 @@ Gebruik voor de meeste concepten deze volgorde:
 
 
 <!-- micrographic: learning-rhythm-01 -->
+[De docent bepaalt het doel, activeert voorkennis, legt uit, controleert, begeleidt de toepassing, nodigt uit tot zelfstandige productie, bespreekt na, nodigt uit tot reflectie en legt de verbinding met het volgende concept. Onduidelijke antwoorden leiden terug naar uitleg of oefening.](/micrographics/learning-rhythm-01/nl.md)

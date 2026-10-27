@@ -1,5 +1,6 @@
 # 1.4 Byttehandel og dobbelt sammenfall av behov
 
+<!-- card: definition -->
 > **Definition – Byttehandel**
 >
 > [Byttehandel](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) er direkte utveksling av en vare eller tjeneste mot en annen. Det kan fungere godt i en liten byttehandel, men blir vanskelig når mange personer og produkter er involvert.
@@ -11,6 +12,7 @@ Forestill Dem at **Amina** har ris og ønsker seg sko. **Luis** har sko, men øn
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina har ris og ønsker sko, Luis har sko og ønsker matolje, og Mei har matolje og ønsker reparasjonsarbeid. Ingen av parene kan bytte direkte, fordi ingen av personene i et par ønsker det den andre tilbyr.](/micrographics/barter-mismatch-01/nb.md)
 
 
 For at [byttehandel](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) skal fungere direkte, må hver person ønske det den andre tilbyr, på samme tid og i passende mengder. Økonomer kaller dette [**dobbelt sammenfall av behov**](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-coincidence-of-wants).
@@ -31,3 +33,4 @@ Et allment akseptert betalingsmiddel skiller salg fra kjøp. Amina kan selge ris
 
 
 <!-- micrographic: sell-then-buy-01 -->
+[Amina selger ris til én person mot et allment akseptert betalingsmiddel, og bruker senere disse pengene til å kjøpe sko fra noen andre. Salg og kjøp blir separate handlinger.](/micrographics/sell-then-buy-01/nb.md)

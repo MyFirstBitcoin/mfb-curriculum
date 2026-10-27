@@ -6,6 +6,7 @@ Hva ville fått Dem til å stoppe før en betaling eller installasjon? Se på de
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Fem faresignaler for svindel: tidspress, identitetsforfalskning, en endret mottakeradresse, garantert avkastning og forespørsler om hemmelige opplysninger.](/micrographics/scam-red-flags-01/nb.md)
 
 
 Den trygge reaksjonen er alltid: **Stopp opp. Ikke del noe. Ikke send noe. Avslutt kommunikasjonskanalen. Kontroller opplysningene på egen hånd via en kjent kilde. Be om hjelp uten å avsløre hemmeligheter.** En kjent kilde er et offisielt nettsted, en appoppføring eller en kontaktmetode som De har funnet frem til på egen hånd, ikke via en annonse, direktemelding eller uventet lenke. Kontroller utgiveren og nettadressen, sammenlign med offisiell dokumentasjon, og finn kontaktopplysninger separat. Hvis kilden, instruksjonene eller betalingsopplysningene avviker fra den demonstrerte fremgangsmåten, stopp opp og søk hjelp hos underviseren Deres eller pålitelig lokal brukerstøtte uten å avsløre en [gjenopprettingsfrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) eller [privat nøkkel](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key). En reell mulighet tåler en grundig kontroll; svindel er ofte avhengig av å forhindre en slik kontroll.

@@ -3,6 +3,7 @@
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
+<!-- card: definition -->
 > **Definition – Munkabizonyítás**
 >
 > [Munkabizonyítás](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) az a folyamat, amelyet a [bányászok](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) arra használnak, hogy versengjenek a következő blokk javaslatának jogáért.
@@ -14,6 +15,7 @@ Amikor egy [bányász](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) 
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Egy bányász újra és újra kiszámítja egy javasolt blokk hashértékét, amíg az egyik eredmény a hálózat célértéke alá nem kerül, majd közzéteszi a blokkot. A csomópontok gyorsan ellenőrzik a bizonyítékot és az összes szabály betartását, mielőtt a blokk bekerül a blokkláncba: a munka elvégzése költséges, az ellenőrzése viszont egyszerű.](/micrographics/proof-of-work-process-01/hu.md)
 
 
 [A munkabizonyítás](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) több célt is szolgál:

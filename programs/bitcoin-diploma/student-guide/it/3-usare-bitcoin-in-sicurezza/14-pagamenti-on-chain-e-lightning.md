@@ -4,22 +4,26 @@
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[I pagamenti on-chain sono registrati direttamente nella blockchain di Bitcoin, mentre Lightning è una rete di pagamento costruita su Bitcoin per pagamenti rapidi e frequenti, che possono però anche fallire. Entrambe le soluzioni possono essere custodiali o in autocustodia.](/micrographics/on-chain-and-lightning-01/it.md)
 
 
 
+<!-- card: definition -->
 > **Definition – Pagamenti on-chain e Lightning**
 >
 > [I pagamenti on-chain](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment) sono registrati nella [blockchain](https://curriculum.myfirstbitcoin.org/lexicon/en/#blockchain) di Bitcoin e ottengono [conferme](https://curriculum.myfirstbitcoin.org/lexicon/en/#confirmation). Lightning è una rete di pagamento costruita su Bitcoin che può supportare pagamenti rapidi e frequenti. Un pagamento Lightning può completarsi rapidamente o fallire, e il relativo wallet può comunque essere custodial o self-custodial.
 
 
 
-> **Dark – Il percorso di pagamento non determina la custodia**
+<!-- card: dark -->
+> **Il percorso di pagamento non determina la custodia**
 >
 > I pagamenti on-chain e Lightning comportano diversi [compromessi](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Un wallet Lightning può essere custodial o self-custodial, e un pagamento rapido andato a buon fine non dimostra che un servizio sia adatto a saldi più elevati o a ogni situazione.
 
 
 
 <!-- micrographic: onchain-lightning-table-01 -->
+[Una tabella che confronta Bitcoin on-chain e Lightning: informazioni per ricevere, esito del pagamento, uso comune e verifiche per principianti. Entrambe le modalità possono essere con custodia di terzi o in autocustodia.](/micrographics/onchain-lightning-table-01/it.md)
 
 
 Quale percorso si aspetta il destinatario? Prima di pagare, verifichi se Le ha fornito un indirizzo on-chain oppure una [fattura Lightning](https://curriculum.myfirstbitcoin.org/lexicon/en/#lightning-invoice) o una richiesta di pagamento. Un wallet on-chain non può pagare direttamente ogni [fattura Lightning](https://curriculum.myfirstbitcoin.org/lexicon/en/#lightning-invoice), e un wallet Lightning potrebbe non supportare ogni operazione on-chain. Alcune applicazioni supportano entrambi i percorsi, ma possono aggiungere commissioni o dipendenze da servizi. La configurazione dettagliata di Lightning, i canali, l'instradamento e la [liquidità](https://curriculum.myfirstbitcoin.org/lexicon/en/#lightning-liquidity) fanno parte dell'[Apprendimento avanzato](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/); la pratica dal vivo in ambito locale rientra nel **Modulo 4**, quando è sicura e appropriata.

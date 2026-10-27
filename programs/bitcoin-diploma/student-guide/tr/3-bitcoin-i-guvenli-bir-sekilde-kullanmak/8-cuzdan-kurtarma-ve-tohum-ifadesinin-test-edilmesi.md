@@ -8,6 +8,7 @@ Güvenli bir kurtarmaya hazırlık uygulaması basittir:
 
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[Bir eğitim cüzdanını kurtarmak için altı adımlı bir uygulama: resmi talimatları izleyin, uyumluluğu kontrol edin, gizli bir ortamda çalışın, onaylanmış kurtarma yöntemini kullanın, beklenen cüzdanı doğrulayın, ardından sıfırlayın. Yalnızca hazırlanmış, boş veya simüle edilmiş materyaller kullanın; eğitmen kurtarma kelimelerini asla görmez.](/micrographics/practice-wallet-recovery-01/tr.md)
 
 
 Diploma'dan sonra önemli miktarda fonu korumak için bir eğitim cüzdanını veya onun kurtarma bilgilerini kullanmayın. İleride kişisel bir cüzdan oluşturmayı seçerseniz, bu cüzdan yeni ve gizli bir kurulum ile yeni kurtarma bilgileri gerektirir.

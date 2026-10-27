@@ -4,6 +4,7 @@ Projdete třemi fázemi: **Ukázka**, při níž vám vyučující předvede pos
 
 
 <!-- micrographic: presentation-practice-production-01 -->
+[Praktická dovednost se osvojuje ve třech fázích, zleva doprava: Předvedení, při němž vyučující ukazuje postup a jeho rizika, poté Procvičování, řízený nácvik s bezpečnými výukovými materiály, a nakonec Samostatné použití, při němž studující samostatně splní úkol nebo vysvětlí své rozhodnutí.](/micrographics/presentation-practice-production-01/cs.md)
 
 
 Váš workshop může zahrnovat:

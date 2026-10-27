@@ -14,3 +14,4 @@ Para a maioria dos conceitos, use esta sequência:
 
 
 <!-- micrographic: learning-rhythm-01 -->
+[O educador define o propósito, ativa ideias prévias, explica, verifica, orienta a aplicação, incentiva a produção independente, conduz a discussão final, estimula a reflexão e faz a conexão com o próximo conceito. Respostas pouco claras levam de volta à explicação ou à prática.](/micrographics/learning-rhythm-01/pt-BR.md)

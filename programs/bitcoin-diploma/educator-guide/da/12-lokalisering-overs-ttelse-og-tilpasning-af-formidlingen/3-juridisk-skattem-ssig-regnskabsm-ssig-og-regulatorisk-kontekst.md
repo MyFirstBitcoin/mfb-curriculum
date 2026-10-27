@@ -14,6 +14,7 @@ De må ikke:
 Brug formuleringer som:
 
 
-> **Callout – Aktuel lokal vejledning, ikke individuel rådgivning**
+<!-- card: callout -->
+> **Aktuel lokal vejledning, ikke individuel rådgivning**
 >
 > Lokale regler kan påvirke denne fremgangsmåde. Den gældende offentlige vejledning, som vi kontrollerede den [dato], siger ________. Dette er en sammenfatning til undervisningsbrug, ikke rådgivning om en individuel situation. En kvalificeret lokal fagperson eller myndighed bør besvare spørgsmål om konkrete sager.

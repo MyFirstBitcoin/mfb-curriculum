@@ -3,6 +3,7 @@
 Rasilimali zina kikomo, ilhali mahitaji ya binadamu hayana kikomo.
 
 
+<!-- card: definition -->
 > **Definition – Uhaba**
 >
 > [Uhaba](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) unamaanisha kwamba kuchagua matumizi moja ya rasilimali huzuia matumizi mengine. Muda, ardhi, nishati, afya njema, zana, na [pesa thabiti](https://curriculum.myfirstbitcoin.org/lexicon/en/#sound-money) vyote ni adimu.
@@ -14,6 +15,7 @@ Kuhusu [thamani](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) ya bid
 
 
 <!-- micrographic: same-water-different-value-01 -->
+[Chupa ileile ya maji safi ni ya bei nafuu katika friji ya duka ambapo maji yanapatikana kwa urahisi, na ina thamani kubwa zaidi katika jangwa lenye joto kali wakati wa uhaba. Upatikanaji, uhitaji na mazingira hubadilisha thamani na bei.](/micrographics/same-water-different-value-01/sw.md)
 
 
 Ubadilishanaji hutokea pale pande zote mbili zinapopendelea kile zinachopokea kuliko kile zinachokiacha. Hazihitaji kukubaliana kwamba vitu hivyo viwili vina [thamani](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) ileile ya kibinafsi. Zinahitaji tu kukubaliana kuhusu masharti.
@@ -26,6 +28,7 @@ Mawazo matatu husaidia kueleza chaguo za kila siku:
 
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Mnunuzi mwenye pesa kidogo anaangalia chaguo zilizo mbele yake: chakula cha leo, usafiri, au kuweka akiba kwa ajili ya baadaye. Kuchagua kimoja ni kuacha vingine, na hiyo ndiyo gharama ya fursa; hakuna chaguo lililowekwa alama kuwa ndilo sahihi.](/micrographics/one-choice-two-uses-01/sw.md)
 
 
 [Uhaba](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) pekee hauhakikishi [thamani](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Kitu kinaweza kuwa adimu na bado kisiwe na mahitaji. Katika muktadha wa fedha, [mali](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) yenye manufaa huunganisha ugavi wenye kikomo na sifa pamoja na mahitaji yanayowafanya watu wawe tayari kuishikilia au kuibadilishana.

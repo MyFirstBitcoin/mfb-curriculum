@@ -36,6 +36,7 @@ Ang [Network para sa Edukasyon tungkol sa Bitcoin](https://myfirstbitcoin.org/ab
 
 
 <!-- micrographic: final-safety-check-01 -->
+[Isang panghuling listahan ng pagsusuri sa kaligtasan na may mga tsek: protektahan ang mga lihim, tiyakin ang mga detalye ng pagbabayad, subukan muna gamit ang maliit na halaga, at huminto kapag ginigipit. Kung may anumang hindi malinaw, huminto po muna kayo at alamin pa ito bago kumilos.](/micrographics/final-safety-check-01/tl.md)
 
 
 Tandaan ang mga tuntuning ito:
@@ -57,6 +58,7 @@ Nababawasan ng edukasyon ang panganib ngunit hindi nito ito tuluyang maaalis. Ku
 
 
 <!-- micrographic: curriculum-source-panel-01 -->
+[Isang panel na may QR code at nakalimbag na link na github.com/MyFirstBitcoin/mfb-curriculum, ang opisyal na pinagmulan ng Bitcoin Diploma, kung saan maaari po ninyong suriin ang edisyon at mag-ulat ng mga pagkakamali.](/micrographics/curriculum-source-panel-01/tl.md)
 
 
 Ang Bitcoin Diploma ay isang patuloy na umuunlad na open-source na kurikulum. Maaaring suriin ng publiko ang mga pagwawasto at pagpapabuti.

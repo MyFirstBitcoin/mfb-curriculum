@@ -13,6 +13,5 @@ For a person who chooses [self-custody](https://curriculum.myfirstbitcoin.org/le
 [Self-custody](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) is therefore not just a technical feature. It requires protecting backups, verifying addresses, checking wallet behavior, and creating a recovery plan. The next module explains how to hold and use bitcoin carefully, including how to manage these risks and responsibilities.
 
 
-> **Light**
->
+<!-- card: light -->
 > Personal responsibility does not mean acting alone or refusing help. A cautious learner can use education, peer review, documented procedures, and small tests without giving anyone access to secret information.

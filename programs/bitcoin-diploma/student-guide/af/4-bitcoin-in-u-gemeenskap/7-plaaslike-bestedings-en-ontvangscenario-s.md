@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: coffee-shop-payment-01 -->
+['n Betaling by 'n koffiewinkel in vier stappe: die kliënt bestel, die kelner stuur 'n faktuur, die kliënt betaal in bitcoin vanaf hul foon, en die kelner oorhandig die koffie.](/micrographics/coffee-shop-payment-01/af.md)
 
 
 Gebruik goedere en dienste wat plaaslik bekend is. Die presiese item maak nie saak nie; die redenasie oor die betaling wel.

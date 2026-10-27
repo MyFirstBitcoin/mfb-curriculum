@@ -3,6 +3,7 @@
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
+<!-- card: definition -->
 > **Definition – Patunay ng trabaho**
 >
 > [Ang patunay ng trabaho](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) ay ang prosesong ginagamit ng mga [minero](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) upang makipagpaligsahan para sa karapatang magmungkahi ng susunod na bloke.
@@ -14,6 +15,7 @@ Kapag ang isang [minero](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Paulit-ulit na gumagawa ng hash ang isang minero para sa isang iminungkahing bloke hanggang sa ang isang resulta ay mas mababa sa target ng network, saka ipinapadala ang bloke sa buong network. Mabilis na sinusuri ng mga node ang patunay at bawat tuntunin bago mapabilang ang bloke sa blockchain: magastos gawin ang trabaho ngunit madaling beripikahin.](/micrographics/proof-of-work-process-01/tl.md)
 
 
 [Ang patunay ng trabaho](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) ay may ilang layunin:

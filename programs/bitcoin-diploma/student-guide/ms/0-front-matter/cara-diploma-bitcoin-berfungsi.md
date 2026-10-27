@@ -22,6 +22,7 @@ Setiap modul mengikuti pola yang sama:
 
 
 <!-- micrographic: learning-rhythm-strip-01 -->
+[Rentak pembelajaran lima langkah: pelajari idea utama, tunjukkan perkara yang boleh anda jelaskan atau terapkan, terapkan idea tersebut, jelaskannya dengan kata-kata anda sendiri, dan semak kaitannya dengan modul seterusnya.](/micrographics/learning-rhythm-strip-01/ms.md)
 
 
 Anda akan belajar lebih banyak dengan mengambil bahagian berbanding membaca secara senyap. Sesetengah soalan tidak mempunyai hanya satu jawapan yang betul. Yang penting ialah sama ada anda dapat menerangkan alasan anda, meneliti bukti, dan menyemak semula pandangan anda apabila mempelajari sesuatu yang baharu.
@@ -81,7 +82,8 @@ Apabila tiba masanya untuk berlatih menggunakan [dompet Bitcoin](https://curricu
 ### Keselamatan, tanggungjawab, dan tiada nasihat kewangan
 
 
-> **Callout – Belajar dahulu; ini bukan suatu saranan**
+<!-- card: callout -->
+> **Belajar dahulu; ini bukan suatu saranan**
 >
 > Diploma Bitcoin adalah untuk tujuan pendidikan sahaja. Ia tidak memberikan nasihat kewangan, pelaburan, undang-undang, atau percukaian. Ia tidak menjanjikan bahawa bitcoin akan meningkat dari segi [harga](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) atau menyarankan agar anda membeli, menjual, meminjam dengan mencagarkan, atau memegang sebarang jumlah bitcoin.
 >
@@ -104,6 +106,7 @@ Diploma ini terdiri daripada alur pembelajaran empat peringkat: **Masalah → Pe
 
 
 <!-- micrographic: learning-path-roadmap-01 -->
+[Pelan hala tuju empat peringkat: Masalah, Memahami Wang; Penyelesaian, Cara Bitcoin Berfungsi; Tindakan, Menggunakan Bitcoin dengan Selamat; dan Hubung Kait, Bitcoin dalam Komuniti Anda, setiap satunya disertai soalan panduan.](/micrographics/learning-path-roadmap-01/ms.md)
 
 
 **Modul 4** ialah bahagian wajib Diploma ini yang dirangka oleh pendidik. Pendidik ialah pakar dalam hal yang berkaitan dengan kekangan setempat, penyelesaian, alat, sumber, undang-undang, bahasa, infrastruktur dan keperluan pelajar mereka. Pengalaman Hubung Kait yang dirangka oleh pendidik boleh merangkumi aktiviti memperoleh pendapatan, menyimpan, menerima, berbelanja, [Lapisan 2](https://curriculum.myfirstbitcoin.org/lexicon/en/#layer-2) sebagai penyelesaian, saluran pertukaran setempat, peniaga atau ekonomi kitaran.
@@ -118,6 +121,7 @@ Keempat-empat modul menyediakan laluan pembelajaran wajib Masalah → Penyelesai
 
 
 <!-- micrographic: four-module-table-01 -->
+[Jadual empat modul berserta peranan, soalan panduan dan perkara yang akan dipraktikkan oleh pelajar bagi setiap modul: Memahami Wang, Cara Bitcoin Berfungsi, Menggunakan Bitcoin dengan Selamat dan Bitcoin dalam Komuniti Anda.](/micrographics/four-module-table-01/ms.md)
 
 
 Diploma ini mengambil masa sekurang-kurangnya lapan jam. Empat sesi yang masing-masing berlangsung selama dua jam ialah format terancang yang paling singkat, bukannya had masa. Pendidik anda boleh membahagikan sesuatu modul kepada lebih banyak sesi, meninjau semula idea terdahulu atau mengubah susunan bahagian tertentu apabila kumpulan anda memerlukan lebih banyak masa untuk perbincangan, latihan, ulang kaji atau penilaian. Tiada had masa maksimum: pendidik tetap bertanggungjawab untuk memberikan masa yang diperlukan oleh pelajar, meliputi semua kompetensi wajib dan menjelaskan perkaitan antara modul.

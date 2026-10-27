@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: bitcoin-responses-tradeoffs-01 -->
+[Táblázat, amely a modern pénzrendszerek öt lehetséges hiányosságához rendeli hozzá a Bitcoin válaszát, valamint az egyes válaszokkal járó új felelősséget vagy kompromisszumot. A Bitcoin az intézményekbe vetett bizalom egy részét ellenőrzéssel és személyes felelősséggel váltja fel, de nem szünteti meg a kockázatot.](/micrographics/bitcoin-responses-tradeoffs-01/hu.md)
 
 
 **Fő gondolat:** Az alapján, amit ebben a modulban a Bitcoinról tanult, van-e [értéke](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) az Ön számára? A bitcoin jelenlegi [ára](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) tükrözi-e az [értékét](https://curriculum.myfirstbitcoin.org/lexicon/en/#value)?

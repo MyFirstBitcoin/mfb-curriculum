@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[Un comerciant care acceptă Bitcoin își desfășoară activitatea în patru domenii: marketing, instruire, contabilitate și vânzări.](/micrographics/merchant-payment-operations-01/ro.md)
 
 
 Un comerciant are nevoie de mai mult decât un buton de primire. Procesul complet de plată poate include stabilirea prețurilor, instruirea personalului, chitanțe, rambursări, [custodie](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), conversie, contabilitate, taxe, securitatea dispozitivelor și asistență.

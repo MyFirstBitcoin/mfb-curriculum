@@ -10,6 +10,7 @@ Paikallinen **moduulin 4** tehtävänne auttaa teitä:
 
 
 <!-- micrographic: local-module-four-actions-01 -->
+[Paikallisessa moduulissa 4 oppija käy läpi neljä vaihetta: hän yhdistää moduuleissa 1–3 opitun ajatuksen paikalliseen tarpeeseen, vertaa Bitcoinia realistiseen olemassa olevaan vaihtoehtoon, harjoittelee turvallisesti ohjatusti ja selittää, mitä hän on oppinut ja mikä on vastuullinen seuraava askel. Opettaja ja toisinaan paikallinen asiantuntija ohjaavat häntä koko ajan.](/micrographics/local-module-four-actions-01/fi.md)
 
 
 Tehtävässänne voitte tutkia esimerkiksi seuraavia kysymyksiä:

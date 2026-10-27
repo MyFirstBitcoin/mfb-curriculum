@@ -1,5 +1,6 @@
 # 1.12 Digitale sentralbankpenger (CBDC)
 
+<!-- card: definition -->
 > **Definition – Digital sentralbankvaluta (CBDC)**
 >
 > En [digital sentralbankvaluta](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), eller [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), er en digital form for [fiatpenger](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) utstedt som en [forpliktelse](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability) for en [sentralbank](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank): det er et krav som [sentralbanken](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) plikter å innfri overfor innehaveren. Den skiller seg fra fysiske kontanter og fra et vanlig innskudd i en forretningsbank, selv om brukeropplevelsen kan virke lik.
@@ -13,6 +14,7 @@ Spør deretter hva utformingen tillater. Avhengig av reglene kan en [CBDC](https
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[En tabell som sammenligner kontanter, bankinnskudd, CBDC for allmennheten og Bitcoin med hensyn til hvem som utsteder dem, form, tilgang, innsyn, regler for pengemengden og verifisering. Digitalt er ikke det samme som desentralisert: CBDC utstedes fortsatt av sentralbanken, og tilgang, innsyn og verifisering avhenger av utformingen.](/micrographics/cbdc-comparison-table-01/nb.md)
 
 
 Digitalt betyr ikke automatisk desentralisert, knapt, privat eller åpent for uavhengig verifisering. En [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) kan bruke digital teknologi, men er fortsatt [fiatpenger](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) hvis dens [utsteder](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer), regler for pengemengde, tilgangsregler og betalingstillatelser fortsatt styres sentralt.

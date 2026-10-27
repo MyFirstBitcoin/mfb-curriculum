@@ -35,6 +35,7 @@ Valitkaa käytännön toteutustapa, joka tuntuu oppijoista turvalliselta ja hall
 
 
 <!-- micrographic: cohort-capacity-check-01 -->
+[Kun suunnittelette ryhmän toimintaa, kertokaa oppijoiden määrä arvioidulla oppijakohtaisella tukeen ja havainnointiin tarvittavalla ajalla. Lisätkää sitten aikaa valmisteluihin, palautteeseen, saavutettavuustarpeiden huomioimiseen ja uudelleenarviointiin. Jos opettajilla ei ole riittävästi aikaa, muuttakaa suunnitelmaa: vähemmän oppijoita, enemmän opettajia tai enemmän aikaa.](/micrographics/cohort-capacity-check-01/fi.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
@@ -57,6 +58,7 @@ Valitkaa käytännön toteutustapa, joka tuntuu oppijoista turvalliselta ja hall
 
 
 <!-- micrographic: task-competency-map-01 -->
+[Teoriaosuuden vuorovaikutustilanteet T1–T3 antavat näyttöä osaamisalueista C1–C5, ja käytännön suorituspolut P6a, P6b ja P7 antavat näyttöä osaamisalueista C6 ja C7. Kukin osaamisalue saa tämän jälkeen yhden Kyllä- tai Ei vielä -tuloksen.](/micrographics/task-competency-map-01/fi.md)
 
 
 ### Yhteiset tukea, turvallisuutta ja kirjaamista koskevat säännöt
@@ -65,10 +67,12 @@ Valitkaa käytännön toteutustapa, joka tuntuu oppijoista turvalliselta ja hall
 
 
 <!-- micrographic: support-boundary-01 -->
+[Opettaja saa tarjota sallitut valmistelut ja osallistumista tukevat järjestelyt sekä keskeyttää vaarallisen toiminnan. Oppijan on silti itse esitettävä arvioitava selitys, valittava olennaiset tiedot ja tehtävä vaaditut päätökset tai ohjattava niiden toteuttamista.](/micrographics/support-boundary-01/fi.md)
 
 
 
-> **Callout – Turvallisuuden kannalta kriittiset käytännön virheet**
+<!-- card: callout -->
+> **Turvallisuuden kannalta kriittiset käytännön virheet**
 >
 > Kirjatkaa tilanne ja keskeyttäkää tehtävä, jos oppija paljastaa tai yrittää jakaa [palautussanat](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), [yksityisen avaimen](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), salasanan tai tarpeettomia henkilötietoja; jatkaa toimintaansa tiedossa olevasta osoitteen, laskun, summan tai vastaanottajan ristiriidasta huolimatta; hyväksyy ilmeisen huijauksen tai kiireellisen pyynnön, joka on pidettävä salassa; tai ohittaa vaaditun tarkistusvaiheen. Selittäkää syy ystävällisesti, palauttakaa tilanne turvalliseen ympäristöön, harjoitelkaa ja arvioikaa uudelleen myöhemmin. Oppijan osaaminen on kehittymässä. Käyttäkää lähtökohtaisesti valmisteltuja harjoitusmateriaaleja. Jos kouluttaja valitsee todellisessa ympäristössä tehtävän harjoituksen, jossa panokset ovat pienet, tehkää sen riskit selviksi ja tarjotkaa vastaava vaihtoehto, jossa ei käytetä varoja.
 
@@ -181,3 +185,4 @@ Käyttäkää oppijaryhmällenne sopivia esimerkkejä ja tehtävämateriaaleja. 
 
 
 <!-- micrographic: reassessment-calibration-moderation-01 -->
+[Kolme erillistä prosessia etenee rinnakkain. Oppijat, jotka saavat arvion ”Ei vielä”, saavat henkilökohtaista palautetta, harjoittelevat ja antavat uuden näytön; arvioijat kalibroivat arviointiaan pisteyttämällä esimerkit itsenäisesti ja sopimalla yhteisestä tulkinnasta; opettajat voivat pyytää toista arviota, joka ei koskaan korvaa havainnoitua suoritusta.](/micrographics/reassessment-calibration-moderation-01/fi.md)

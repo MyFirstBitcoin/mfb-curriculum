@@ -1,5 +1,6 @@
 # 1.7 Fiat peníze
 
+<!-- card: definition -->
 > **Definition – Fiat peníze**
 >
 > [Fiat peníze](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) jsou [měnou](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) vydávanou z pověření státu, obvykle prostřednictvím [centrální banky](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank), kterou nelze směnit za pevně stanovené množství komodity, jako je [zlato](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold). Vlády podporují — a v některých případech vynucují — její používání tím, že ji vyžadují k placení daní a stanovují pravidla pro zákonné platidlo. Přesná pravidla pro přijímání plateb a splácení [dluhů](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt) se liší podle jurisdikce.
@@ -11,12 +12,14 @@ Systém fiat peněz má několik hlavních účastníků:
 
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Účastníci systému nekrytých peněz a to, co mezi nimi proudí: centrální banka určuje měnovou politiku a vypořádává platby mezi bankami, komerční banky vedou vklady, které jsou jejich závazkem vůči klientům, platební služby přenášejí příkazy, stát vybírá daně a vynakládá prostředky a občané a podniky platí a přijímají platby.](/micrographics/fiat-system-flows-01/cs.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
-> **Light – Prozkoumejte platbu ve svém okolí**
+<!-- card: light -->
+> **Prozkoumejte platbu ve svém okolí**
 >
 > Vyberte si jednu běžnou platbu ve svém okolí, například nákup jízdenky, potravin nebo kreditu do telefonu, příjem mzdy či úhradu účtu. Pokud chcete, použijte realistický smyšlený scénář. Ve třech nebo čtyřech větách vysvětlete:
 >

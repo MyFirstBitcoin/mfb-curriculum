@@ -6,11 +6,13 @@ Ticari bir banka bir krediyi onayladığında, genellikle borçlunun hesabında 
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Basitleştirilmiş bir banka kredisi: borçlu başvuru yapar, banka krediyi onaylar ve borçlunun hesabına yeni bir mevduat tutarı aktarır; borçlu daha sonra anaparayı faiziyle birlikte bankaya geri öder.](/micrographics/bank-loan-deposit-01/tr.md)
 
 
 Bankalar genellikle [kâr](https://curriculum.myfirstbitcoin.org/lexicon/en/#bank-profit) elde etmeyi; kredi ve yatırımlardan faiz ve ücret kazanırken operasyon, fonlama ve düzenleme maliyetlerini karşılayarak ve borçlular geri ödeme yapmadığında oluşan zararları üstlenerek hedefler. Bu faaliyetler ve kısıtlamalar bankaya ve yargı bölgesine göre farklılık gösterir.
 
 
+<!-- card: definition -->
 > **Definition – Kısmi rezerv bankacılığı**
 >
 > [Kısmi rezerv bankacılığı](https://curriculum.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking), bankaların kredi verirken ve başka [varlıklar](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) tutarken mevduat yükümlülüklerinin yalnızca bir kısmını hemen erişilebilir rezerv olarak tuttuğu bankacılık sistemini ifade eder. Zorunlu rezerv düzeyi ve diğer sınırlar ülkeden ülkeye farklılık gösterir ve zamanla değişebilir.
@@ -23,6 +25,7 @@ Bu durum iki önemli risk yaratır:
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Likidite riski: birçok mevduat sahibi bugün para çekmek için sıraya giriyor ve verdiği krediler ileride geri ödenebilecek olsa da bankanın şu anda yeterli nakdi yok. Ödeme gücü riski: borçlular konut kredilerini ödeyemiyor ve bankanın varlıklarının değeri, borçlarından daha az hâle geliyor.](/micrographics/liquidity-vs-solvency-01/tr.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)

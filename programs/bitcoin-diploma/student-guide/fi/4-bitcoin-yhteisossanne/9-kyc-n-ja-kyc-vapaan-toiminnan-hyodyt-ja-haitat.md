@@ -3,7 +3,8 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) ja [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) ovat menettelyjä, joihin liittyy erilaisia [kompromisseja](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Kumpikaan nimitys ei poista huolellisen arvioinnin tarvetta.
 
 
-> **Callout – Yksityisyys ei poista oikeudellisia tai fyysiseen turvallisuuteen liittyviä riskejä**
+<!-- card: callout -->
+> **Yksityisyys ei poista oikeudellisia tai fyysiseen turvallisuuteen liittyviä riskejä**
 >
 > Sen enempää [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) kuin [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) ei ole automaattisesti paras vaihtoehto. Vertailkaa käytännön menettelyjä, hyödyntäkää ajantasaisia paikallisia ohjeita sääntöjen ollessa epäselviä älkääkä rikkoko paikallista lakia tai altistako itseänne fyysiselle vaaralle tavoitellessanne [yksityisyyttä](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 

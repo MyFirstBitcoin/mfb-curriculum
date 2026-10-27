@@ -1,5 +1,6 @@
 # 3.5 Cụm từ khôi phục
 
+<!-- card: definition -->
 > **Definition – Cụm từ hạt giống**
 >
 > Một [cụm từ hạt giống](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), còn được gọi là [cụm từ khôi phục](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), là một danh sách các từ theo thứ tự mà nhiều ví sử dụng để tạo và khôi phục một bộ [khóa riêng tư](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key). Một [khóa riêng tư](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) cho phép chi tiêu; [cụm từ hạt giống](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) thường là bản sao lưu có thể tái tạo các khóa của ví. Độ dài phổ biến là 12 hoặc 24 từ, mặc dù thiết kế của các ví có thể khác nhau.
@@ -8,13 +9,15 @@
 Thứ tự và cách viết của các từ rất quan trọng. Nếu một người có [cụm từ hạt giống](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), họ thường có thể khôi phục ví trên một thiết bị tương thích khác và chi tiêu số tiền trong ví. Vì vậy, [cụm từ hạt giống](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) không chỉ là một bản sao lưu. Nó trao toàn quyền truy cập.
 
 
-> **Callout – Tuyệt đối không chia sẻ thông tin khôi phục**
+<!-- card: callout -->
+> **Tuyệt đối không chia sẻ thông tin khôi phục**
 >
 > Thông tin công khai dùng để nhận tiền có thể được chia sẻ. Một [khóa riêng tư](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), [cụm từ hạt giống](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), mật khẩu hoặc mã khôi phục phải được giữ bí mật. Không một nhà giáo dục, công ty ví, nhân viên sàn giao dịch, nhân viên hỗ trợ hay nhà phát triển Bitcoin chân chính nào cần thông tin đó. Nếu một [cụm từ hạt giống](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) có thể đã bị người khác nhìn thấy, sao chép, nhập trực tuyến hoặc lưu trên một thiết bị không đáng tin cậy, hãy coi cụm từ đó đã bị lộ và tìm sự trợ giúp mà không tiết lộ nó.
 
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Cụm từ khôi phục là một danh sách các từ theo thứ tự, ở đây là mười hai từ mẫu được đánh số và viết trên giấy. Các từ chính xác theo đúng thứ tự có thể khôi phục quyền kiểm soát trong một ví tương thích, vì vậy cụm từ này cần được giữ bí mật và lưu trữ ngoại tuyến.](/micrographics/seed-phrase-on-paper-01/vi.md)
 
 
 Hãy bảo vệ [cụm từ hạt giống](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) bằng các quy tắc sau:
@@ -30,6 +33,7 @@ Một số ví sử dụng thêm mật ngữ, nhiều khóa hoặc các hệ th�
 
 
 <!-- micrographic: seed-phrase-paper-backup-01 -->
+[Viết bản sao lưu cụm từ khôi phục theo ba bước: màn hình ví hiển thị các từ, quý vị chép tay các từ đó ra giấy theo đúng thứ tự, sau đó đối chiếu từng từ với màn hình. Hãy thực hiện ở nơi riêng tư và khi không kết nối mạng.](/micrographics/seed-phrase-paper-backup-01/vi.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)

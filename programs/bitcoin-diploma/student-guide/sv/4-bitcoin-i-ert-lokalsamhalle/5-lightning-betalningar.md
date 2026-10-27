@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[Mottagaren skapar en Lightning-betalningsbegäran med beloppet angivet på sin telefon, avsändaren skannar den och betalar, och betalningen kommer fram till mottagarens telefon en stund senare.](/micrographics/lightning-phone-payment-01/sv.md)
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[En Lightning-betalning i sex steg: mottagaren skapar en betalningsbegäran, avsändaren skannar den, kontrollerar mottagare, belopp, enhet, giltighetstid och avgift och godkänner den, betalningen vidarebefordras och båda plånböckerna visar resultatet. Varje plånbok kan förvaltas av en tredje part eller av innehavaren själv, och om betalningen misslyckas eller giltighetstiden löper ut börjar processen om med en ny betalningsbegäran.](/micrographics/lightning-payment-sequence-01/sv.md)
 
 
 Lightning kan göra snabba, små Bitcoin-betalningar praktiskt genomförbara. Det kan vara lämpligt vid en butiksdisk, för återkommande lokala betalningar, onlinetjänster eller överföringar där en avgift för en transaktion på blockkedjan skulle vara för stor i förhållande till betalningen.

@@ -4,22 +4,26 @@
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Malipo ya on-chain hurekodiwa moja kwa moja katika blockchain ya Bitcoin, ilhali Lightning ni mtandao wa malipo uliojengwa juu ya Bitcoin kwa ajili ya malipo ya haraka na ya mara kwa mara, ambayo pia yanaweza kushindwa. Njia yoyote kati ya hizi inaweza kuwa ya uhifadhi na mtu mwingine (custodial) au ya kujihifadhi mwenyewe (self-custodial).](/micrographics/on-chain-and-lightning-01/sw.md)
 
 
 
+<!-- card: definition -->
 > **Definition – Malipo ya on-chain na ya Lightning**
 >
 > [Malipo ya on-chain](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment) hurekodiwa kwenye [blockchain](https://curriculum.myfirstbitcoin.org/lexicon/en/#blockchain) ya Bitcoin na hupata [uthibitisho](https://curriculum.myfirstbitcoin.org/lexicon/en/#confirmation). Lightning ni mtandao wa malipo uliojengwa juu ya Bitcoin ambao unaweza kuwezesha malipo ya haraka na ya mara kwa mara. Malipo ya Lightning yanaweza kukamilika haraka au kushindwa, na pochi yake bado inaweza kuwa ya uhifadhi wa mtoa huduma au ya kujihifadhi mwenyewe.
 
 
 
-> **Dark – Njia ya malipo haiamui nani anahifadhi fedha**
+<!-- card: dark -->
+> **Njia ya malipo haiamui nani anahifadhi fedha**
 >
 > Malipo ya on-chain na ya Lightning yana [faida na hasara](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) tofauti. Pochi ya Lightning inaweza kuwa ya uhifadhi wa mtoa huduma au ya kujihifadhi mwenyewe, na malipo ya haraka yaliyofanikiwa hayathibitishi kwamba huduma inafaa kwa salio kubwa zaidi au kwa kila hali.
 
 
 
 <!-- micrographic: onchain-lightning-table-01 -->
+[Jedwali linalolinganisha Bitcoin ya on-chain na Lightning: taarifa za kupokea, matokeo ya malipo, matumizi ya kawaida na ukaguzi kwa wanaoanza. Njia yoyote kati ya hizi inaweza kuwa ya uhifadhi wa mtu mwingine au ya kujihifadhi mwenyewe.](/micrographics/onchain-lightning-table-01/sw.md)
 
 
 Mpokeaji anatarajia njia ipi? Thibitisheni kama amewapa anwani ya on-chain au [ankara ya Lightning](https://curriculum.myfirstbitcoin.org/lexicon/en/#lightning-invoice) au ombi la malipo kabla ya kulipa. Pochi ya on-chain haiwezi kulipa moja kwa moja kila [ankara ya Lightning](https://curriculum.myfirstbitcoin.org/lexicon/en/#lightning-invoice), na pochi ya Lightning huenda isiweze kufanya kila kitendo cha on-chain. Baadhi ya programu huwezesha njia zote mbili lakini zinaweza kuongeza ada au utegemezi wa huduma. Maelezo ya kina kuhusu usanidi wa Lightning, chaneli, uelekezaji wa malipo, na [ukwasi](https://curriculum.myfirstbitcoin.org/lexicon/en/#lightning-liquidity) ni sehemu ya [Mafunzo ya Juu](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/); mazoezi halisi ya ndani yanafaa kufanyika katika **Moduli ya 4** pale itakapokuwa salama na inafaa.

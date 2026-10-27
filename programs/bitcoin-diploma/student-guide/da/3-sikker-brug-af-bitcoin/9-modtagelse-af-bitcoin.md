@@ -12,6 +12,7 @@ Modtagelse giver ikke tilladelse til, at midler forlader Deres wallet, men kræv
 
 
 <!-- micrographic: check-what-you-receive-01 -->
+[Et eksempel på en modtagelsesskærm på en telefon viser betalingsmetoden, betalingsanmodningen til deling, beløbet og statussen Afventer. En besked eller et skærmbillede med teksten "sendt" er ikke bevis: Kontrollér status i Deres egen wallet.](/micrographics/check-what-you-receive-01/da.md)
 
 
 En besked eller et skærmbillede, der siger »sendt«, er ikke et bevis. Hvilken dokumentation kan De selv se? Kontrollér den modtagende wallet, eller se den pågældende [transaktion](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) i den godkendte visning. Ved [on-chain-betalinger](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment) kan en wallet i første omgang vise [transaktionen](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) som afventende. [Bekræftelsens](https://curriculum.myfirstbitcoin.org/lexicon/en/#confirmation) status øger tilliden til den endelige afvikling; den retter ikke op på en forkert adresse eller svindel. En wallet kan tilbyde en ny adresse til en ny modtagelse; ældre adresser kan stadig fungere, men genbrug af én adresse kan gøre det lettere at sammenkæde separate betalinger. En ny adresse gør denne sammenkædning vanskeligere; den gør ikke en betaling anonym.

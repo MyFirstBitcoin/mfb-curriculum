@@ -28,6 +28,7 @@ Detta förhållningssätt är viktigt eftersom pengar påverkar varje människa.
 
 
 <!-- micrographic: critical-thinking-loop-01 -->
+[En upprepningsbar process för kritiskt tänkande: identifiera påståendet, skilj fakta från preferenser, granska beläggen och källan, jämför alternativ, ange en avvägning eller osäkerhet och formulera en preliminär slutsats eller fråga.](/micrographics/critical-thinking-loop-01/sv.md)
 
 
 **Gemenskap** innebär att utbildning blir mer användbar när människor diskuterar idéer och kopplar dem till det lokala livet. Er utbildare och era kurskamrater kan ha erfarenheter som ingen global lärobok kan rymma. Lyssna noga, ställ frågor och förklara era resonemang med respekt.
@@ -75,7 +76,8 @@ Ni kan använda kursen för att:
 * förbereda er för mer avancerade studier
 
 
-> **Callout – Kunskap kommer före handling**
+<!-- card: callout -->
+> **Kunskap kommer före handling**
 >
 > Ni behöver inte köpa eller på annat sätt skaffa bitcoin för att slutföra Bitcoin-diplomet. Ni behöver inte heller installera en [Bitcoin-plånbok](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet) eller använda egna pengar. De praktiska färdigheter som krävs kan bedömas med hjälp av en förberedd övningsplånbok, en simulering, en testmiljö, en fysisk modell eller en aktivitet med små insatser som godkänts av en utbildare.
 
@@ -84,3 +86,4 @@ Om ni har ont om tid eller vill ha en första introduktion till Bitcoin kan ni b
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[En valfri läranderesa går från Introduktion till Bitcoin till Bitcoindiplom, sedan vidare till Utbildningsprogram för lärare, till att bli lärare som undervisar utifrån läroplanen från My First Bitcoin och till att ansluta sig till Nätverk för Bitcoinutbildning. Varje nästa steg är ett val, inte ett krav.](/micrographics/learner-journey-pathway-01/sv.md)

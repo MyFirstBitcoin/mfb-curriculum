@@ -1,11 +1,13 @@
 # 1.9 Inflation and purchasing power
 
+<!-- card: definition -->
 > **Definition – Price inflation**
 >
 > People use the term “[inflation](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation)” in more than one way. In this guide, [price inflation](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation) means a sustained increase in the general [price](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) level of goods and services. If your income and savings do not rise as quickly as [prices](https://curriculum.myfirstbitcoin.org/lexicon/en/#price), your money buys less.
 
 
 
+<!-- card: definition -->
 > **Definition – Purchasing power**
 >
 > [Purchasing power](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) is the amount of goods and services a unit of money can buy. If a basket of basic goods rises from 100 units of [currency](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) to 110, the same 100 units no longer buy the full basket. Its [purchasing power](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) in relation to that basket has fallen.
@@ -15,6 +17,7 @@
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[The same 100 units of currency buy the full basket of basic goods when it costs 100, but not when the same basket costs 110. The price level has risen and the purchasing power of the money has fallen.](/micrographics/same-money-smaller-basket-01/en.md)
 
 
 Some people use “[inflation](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation)” to mean [monetary expansion](https://curriculum.myfirstbitcoin.org/lexicon/en/#monetary-inflation): an expansion of money and credit. That expansion can contribute to [price inflation](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation), alongside supply disruptions, changes in demand, [currency](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) weakness, taxes, regulation, and changes in production costs. The causes and effects are often debated. Avoid explanations that assign every [price](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) change to one factor.
@@ -24,7 +27,8 @@ Some people use “[inflation](https://curriculum.myfirstbitcoin.org/lexicon/en/
 The rate of [inflation](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation) is an average. Your personal experience may differ because your spending is not identical to the measured basket. Food, housing, transport, education, and health costs may change at different rates.
 
 
-> **Light – Compare purchasing power locally**
+<!-- card: light -->
+> **Compare purchasing power locally**
 >
 > Choose one ordinary item in your community. Record its [price](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) today. Ask what it cost several years ago, then check a reliable record if possible. Did income change at the same rate? What other factors may explain the change?
 >

@@ -14,6 +14,7 @@ A jól használható pénzre általában több tulajdonság is jellemző:
 
 
 <!-- micrographic: money-property-questions-01 -->
+[A jól használható pénz hét tulajdonsága, mindegyikhez egy-egy kérdéssel, amelyet a pénzformák összehasonlításakor érdemes feltenni: tartósság, hordozhatóság, oszthatóság, helyettesíthetőség, szűkösség, elfogadottság és ellenőrizhetőség.](/micrographics/money-property-questions-01/hu.md)
 
 
 Egyetlen pénzforma sem teljesít tökéletesen minden szempontból.
@@ -22,6 +23,7 @@ Az emberek a pénzeket aszerint is összehasonlítják, hogy mekkora a [**szilá
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Két réteg: a pénz három funkciója (csereeszköz, elszámolási egység, értékőrző) hét tulajdonságon alapul (tartósság, hordozhatóság, oszthatóság, helyettesíthetőség, szűkösség, elfogadottság és ellenőrizhetőség).](/micrographics/functions-and-properties-01/hu.md)
 
 
 [Az arany](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) tartós és szűkösen áll rendelkezésre, de kisebb fizetésekhez nehéz felosztani és szállítani. [A papírpénz](https://curriculum.myfirstbitcoin.org/lexicon/en/#paper-cash) könnyen hordozható és helyben elfogadott, de megsérülhet, és a kínálata bővülhet. Az összehasonlítás legmegfelelőbb módja a céltól, a helytől és az időtől függ.

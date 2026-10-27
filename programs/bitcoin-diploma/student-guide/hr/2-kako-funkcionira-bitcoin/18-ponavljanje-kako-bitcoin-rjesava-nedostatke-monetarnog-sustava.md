@@ -4,6 +4,7 @@ Zastanite i razmotrite kako javna pravila, ograničeno izdavanje, prijenos među
 
 
 <!-- micrographic: bitcoin-responses-tradeoffs-01 -->
+[Tablica koja povezuje pet mogućih nedostataka suvremenih monetarnih sustava s odgovorom Bitcoina te novom odgovornošću ili kompromisom koji svaki odgovor donosi. Bitcoin dio povjerenja u institucije zamjenjuje provjerom i osobnom odgovornošću, ali ne uklanja rizik.](/micrographics/bitcoin-responses-tradeoffs-01/hr.md)
 
 
 **Ključna misao:** Na temelju onoga što ste u ovom modulu naučili o Bitcoinu, ima li on [vrijednost](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) za vas? Odražava li trenutačna [cijena](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) bitcoina njegovu [vrijednost](https://curriculum.myfirstbitcoin.org/lexicon/en/#value)?

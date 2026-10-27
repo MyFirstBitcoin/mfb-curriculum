@@ -13,10 +13,12 @@ Før en Lightning-workshop skal De kontrollere og forklare:
 * offline-simuleringen.
 
 
-> **Dark – Én vellykket Lightning-betaling beviser kun, at denne rute virkede én gang**
+<!-- card: dark -->
+> **Én vellykket Lightning-betaling beviser kun, at denne rute virkede én gang**
 >
 > Det beviser ikke, at tegnebogen er sikker til større saldi, eller at den samme rute vil fungere alle steder.
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[En Lightning-betaling i seks trin: Modtageren opretter en anmodning, afsenderen scanner den, kontrollerer modtager, beløb, enhed, udløbstidspunkt og gebyr og godkender betalingen, som sendes gennem netværket, og begge wallets viser resultatet. Hver wallet kan være tredjepartsforvaltet eller selvforvaltet, og ved en mislykket eller udløbet betaling begynder forløbet igen med en ny anmodning.](/micrographics/lightning-payment-sequence-01/da.md)

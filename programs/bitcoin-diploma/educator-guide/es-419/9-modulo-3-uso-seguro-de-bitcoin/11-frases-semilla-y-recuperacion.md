@@ -12,6 +12,7 @@ Enseñe las consecuencias:
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Una frase semilla es una lista ordenada de palabras; aquí se muestran doce palabras de ejemplo numeradas y escritas en papel. Las palabras correctas en el orden correcto permiten recuperar el control en una billetera compatible, por lo que la frase debe mantenerse en secreto y fuera de línea.](/micrographics/seed-phrase-on-paper-01/es-419.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
@@ -43,10 +44,12 @@ Enseñe las consecuencias:
 
 
 <!-- micrographic: recovery-practice-lanes-01 -->
+[El estudiante sigue los pasos de la práctica de recuperación en un espacio privado, verifica el resultado esperado, borra los datos del dispositivo y devuelve o destruye el material ficticio. El docente observa las decisiones y el manejo seguro, pero nunca ve las palabras secretas de recuperación.](/micrographics/recovery-practice-lanes-01/es-419.md)
 
 
 
-> **Callout – Trate una frase semilla expuesta como comprometida**
+<!-- card: callout -->
+> **Trate una frase semilla expuesta como comprometida**
 >
 > Si una semilla real puede haber quedado expuesta, deje de utilizarla como respaldo seguro, cree una nueva billetera confiable con nueva información de recuperación y transfiera los fondos después de verificar cuidadosamente el destino. El estudiante debe buscar ayuda sin revelar ninguna de las dos frases.
 

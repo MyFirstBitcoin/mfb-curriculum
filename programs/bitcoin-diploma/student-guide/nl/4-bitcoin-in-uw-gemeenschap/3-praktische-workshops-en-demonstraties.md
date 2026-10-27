@@ -4,6 +4,7 @@ U doorloopt drie fasen: **Presentatie**, waarin uw docent het proces en de risic
 
 
 <!-- micrographic: presentation-practice-production-01 -->
+[Een praktische vaardigheid wordt in drie fasen aangeleerd, van links naar rechts: Presentatie, waarin de docent het proces en de risico's ervan laat zien, vervolgens Oefening, begeleid oefenen met veilig trainingsmateriaal, en daarna Productie, waarin de leerling zelfstandig een taak uitvoert of een beslissing toelicht.](/micrographics/presentation-practice-production-01/nl.md)
 
 
 Uw workshop kan het volgende omvatten:

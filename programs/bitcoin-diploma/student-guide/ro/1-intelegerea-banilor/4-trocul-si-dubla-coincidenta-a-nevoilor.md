@@ -1,5 +1,6 @@
 # 1.4 Trocul și dubla coincidență a nevoilor
 
+<!-- card: definition -->
 > **Definition – Trocul**
 >
 > [Trocul](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) este schimbul direct al unui bun sau serviciu cu altul. Poate funcționa bine în cazul unui schimb de mică amploare, dar devine dificil când sunt implicate multe persoane și produse.
@@ -11,6 +12,7 @@ Imaginați-vă că **Amina** are orez și dorește încălțăminte. **Luis** ar
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina are orez și dorește pantofi, Luis are pantofi și dorește ulei de gătit, iar Mei are ulei de gătit și dorește lucrări de reparații. Nicio pereche nu poate face un schimb direct, deoarece niciuna dintre persoanele dintr-o pereche nu dorește ceea ce oferă cealaltă.](/micrographics/barter-mismatch-01/ro.md)
 
 
 Pentru ca [trocul](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) să funcționeze direct, fiecare persoană trebuie să dorească ceea ce oferă cealaltă persoană, în același timp și în cantități potrivite. Economiștii numesc acest lucru [**Coincidență Dublă a Dorințelor**](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-coincidence-of-wants).
@@ -31,3 +33,4 @@ Banii acceptați pe scară largă separă vânzarea de cumpărare. Amina poate v
 
 
 <!-- micrographic: sell-then-buy-01 -->
+[Amina vinde orez unei persoane în schimbul unei forme de bani general acceptate, apoi folosește acei bani pentru a cumpăra pantofi de la altcineva. Vânzarea și cumpărarea devin acțiuni separate.](/micrographics/sell-then-buy-01/ro.md)

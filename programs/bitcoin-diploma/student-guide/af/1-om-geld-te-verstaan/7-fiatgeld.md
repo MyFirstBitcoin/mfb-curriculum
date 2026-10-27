@@ -1,5 +1,6 @@
 # 1.7 Fiatgeld
 
+<!-- card: definition -->
 > **Definition – Fiatgeld**
 >
 > [Fiatgeld](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) is [geldeenheid](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) uitgereik kragtens regeringsgesag, gewoonlik deur 'n [sentrale bank](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank), sonder die reg op inwisseling vir 'n vaste hoeveelheid van 'n kommoditeit soos [goud](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold). Regerings ondersteun—en in sommige kontekste verplig—die gebruik daarvan deur dit vir belastingbetalings te vereis en reëls oor wettige betaalmiddels vas te stel. Die presiese reëls vir die aanvaarding van betalings en die vereffening van [skuld](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt) verskil volgens jurisdiksie.
@@ -11,12 +12,14 @@ Die fiatstelsel het verskeie hoofdeelnemers:
 
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Die rolspelers in ’n fiatstelsel en wat tussen hulle vloei: die sentrale bank bepaal beleid en vereffen betalings tussen banke, handelsbanke hou deposito’s wat hul laste teenoor kliënte is, betaaldienste dra opdragte oor, die regering vorder belasting in en bestee geld, en burgers en ondernemings betaal en ontvang betalings.](/micrographics/fiat-system-flows-01/af.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
-> **Light – Ondersoek 'n plaaslike betaling**
+<!-- card: light -->
+> **Ondersoek 'n plaaslike betaling**
 >
 > Kies een alledaagse betaling in u gemeenskap, soos om vir vervoer, kos of lugtyd te betaal; loon te ontvang; of 'n rekening te betaal. Gebruik 'n realistiese denkbeeldige scenario indien u dit verkies. Verduidelik in drie of vier sinne:
 >

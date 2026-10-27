@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: daily-bitcoin-uses-01 -->
+[Septyni skirtingi būdai naudoti „Bitcoin“ kasdieniame gyvenime: uždarbis, taupymas, gavimas, siuntimas, išlaidos, aukojimas, kainodara ir apskaita. Kiekvienas jų yra galimas naudojimo būdas, o ne privalomas žingsnis.](/micrographics/daily-bitcoin-uses-01/lt.md)
 
 
 Bitcoin gali atlikti pinigų funkciją keliais būdais. Atsiskaitymas yra tik vienas iš jų.

@@ -10,6 +10,7 @@ Undervis i følgende:
 
 
 <!-- micrographic: bitcoin-issuance-schedule-01 -->
+[Bloktilskuddet starter på 50 bitcoin og halveres for hver 210.000 blokke, mens den samlede mængde udstedte bitcoin stiger mod grænsen på 21 millioner. Transaktionsgebyrer betales oveni og er ikke nye bitcoin; der antydes ingen prisprognose.](/micrographics/bitcoin-issuance-schedule-01/da.md)
 
 
 Grænsen er en offentlig netværksregel, ikke en fysisk lov. En person kan skrive anden software, men kan ikke tvinge eksisterende deltagere til at tage den i brug. Ibrugtagning af inkompatibel software kan skabe et andet netværk frem for ubemærket at ændre Bitcoin for alle.

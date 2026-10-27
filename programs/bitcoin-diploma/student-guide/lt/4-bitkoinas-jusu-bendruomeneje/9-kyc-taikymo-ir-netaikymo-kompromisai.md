@@ -3,7 +3,8 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) ir [be KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) būdai reiškia skirtingus [kompromisus](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Nė vienas iš šių pavadinimų nepanaikina būtinybės viską atidžiai įvertinti.
 
 
-> **Callout – Privatumas nepanaikina teisinės rizikos ar pavojaus fiziniam saugumui**
+<!-- card: callout -->
+> **Privatumas nepanaikina teisinės rizikos ar pavojaus fiziniam saugumui**
 >
 > Nei [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc), nei [be KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) savaime nėra geriausias pasirinkimas. Palyginkite konkretų būdą, kai taisyklės neaiškios, remkitės naujausiomis vietos rekomendacijomis ir nepažeiskite vietos įstatymų bei nekelkite sau fizinio pavojaus siekdami [privatumo](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 

@@ -7,6 +7,7 @@ Giảng giải rõ sự khác biệt:
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Hai tầng: ba chức năng của tiền (phương tiện trao đổi, đơn vị tính toán, phương tiện lưu trữ giá trị) dựa trên bảy đặc tính (tính bền vững, tính dễ mang theo, tính có thể chia nhỏ, tính đồng nhất, tính khan hiếm, tính được chấp nhận và tính có thể xác minh).](/micrographics/functions-and-properties-01/vi.md)
 
 
 Sử dụng các mục đích khác nhau. Hỏi xem những thuộc tính nào quan trọng đối với việc:

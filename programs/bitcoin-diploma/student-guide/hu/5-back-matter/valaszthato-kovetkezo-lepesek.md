@@ -36,6 +36,7 @@ A [Bitcoin Oktatási Hálózat](https://myfirstbitcoin.org/about/network) össze
 
 
 <!-- micrographic: final-safety-check-01 -->
+[Végső biztonsági ellenőrzőlista, kipipálva: védje a titkos adatokat, ellenőrizze a fizetési adatokat, végezzen kis összegű próbákat, és álljon meg, ha nyomást gyakorolnak Önre. Ha bármi nem egyértelmű, álljon meg, és tájékozódjon, mielőtt cselekszik.](/micrographics/final-safety-check-01/hu.md)
 
 
 Ne feledje ezeket a szabályokat:
@@ -57,6 +58,7 @@ Az oktatás csökkenti a kockázatot, de nem szüntetheti meg. Ha egy helyzet ne
 
 
 <!-- micrographic: curriculum-source-panel-01 -->
+[Egy panel QR-kóddal és a nyomtatott github.com/MyFirstBitcoin/mfb-curriculum hivatkozással, amely a Bitcoin-diploma hivatalos forrására mutat, ahol ellenőrizheti a kiadást és bejelentheti a hibákat.](/micrographics/curriculum-source-panel-01/hu.md)
 
 
 A Bitcoin Diploma folyamatosan fejlődő, nyílt forráskódú tanterv. A javítások és fejlesztések nyilvánosan áttekinthetők.

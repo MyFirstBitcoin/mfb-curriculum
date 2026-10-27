@@ -14,6 +14,7 @@ Pokud není rovnocennost jistá, použijte upravenou aktivitu k procvičování 
 
 
 <!-- micrographic: adapt-practice-or-assessment-01 -->
+[Aktivity k procvičování lze přizpůsobit studujícím a podmínkám. Aktivita používaná k hodnocení musí zachovat kompetenci, doklad o jejím zvládnutí, samostatnost, bezpečnost a minimální požadovanou úroveň; pokud není jisté, zda je upravená aktivita rovnocenná, použijte ji k procvičování a pro hodnocení zvolte jednoznačnější úkol.](/micrographics/adapt-practice-or-assessment-01/cs.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/8444d4c2c23ce8cb5b0103bb646ce8c50c4594c3-1536x1024.svg)

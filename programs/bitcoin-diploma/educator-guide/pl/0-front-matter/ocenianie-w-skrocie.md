@@ -21,6 +21,7 @@ Nie są to oceny liczbowe. Przed wydaniem certyfikatu ukończenia oba komponenty
 
 
 <!-- micrographic: two-completion-gates-01 -->
+[Zarówno kompetencje teoretyczne od C1 do C5, jak i kompetencje praktyczne C6 i C7 muszą uzyskać ocenę „Tak” przed wydaniem certyfikatu ukończenia. „Jeszcze nie” oznacza konieczność dalszych ćwiczeń i ponownej oceny; obecność i refleksja nie zastępują zaliczenia żadnego z tych etapów.](/micrographics/two-completion-gates-01/pl.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/2783871f5851cf80c2e6e2a93eeb911607939507-1536x1024.svg)

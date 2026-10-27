@@ -3,6 +3,7 @@
 Ištekliai yra riboti, o žmonių norai – ne.
 
 
+<!-- card: definition -->
 > **Definition – Ribotumas**
 >
 > [Ribotumas](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) reiškia, kad pasirinkus vieną ištekliaus panaudojimo būdą, kito tenka atsisakyti. Laikas, žemė, energija, gera sveikata, įrankiai ir [patikimi pinigai](https://curriculum.myfirstbitcoin.org/lexicon/en/#sound-money) yra riboti.
@@ -14,6 +15,7 @@ Pati [vertė](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) prekėje 
 
 
 <!-- micrographic: same-water-different-value-01 -->
+[Tas pats švaraus vandens butelis yra pigus parduotuvės šaldytuve, kur vandens lengva rasti, ir daug vertingesnis karštoje dykumoje, kai vandens trūksta. Prieinamumas, poreikis ir aplinkybės keičia vertę ir kainą.](/micrographics/same-water-different-value-01/lt.md)
 
 
 Mainai vyksta tada, kai abi pusės labiau vertina tai, ką gauna, nei tai, ko atsisako. Joms nebūtina sutarti, kad abu daiktai turi tokią pačią asmeninę [vertę](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Joms tereikia susitarti dėl sąlygų.
@@ -26,6 +28,7 @@ Trys sąvokos padeda paaiškinti kasdienius pasirinkimus:
 
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Pirkėjas, turintis ribotą pinigų sumą, svarsto galimybes: maistas šiandienai, transportas arba taupymas vėlesniam laikui. Pasirinkus vieną, atsisakoma kitų – tai ir yra alternatyvieji kaštai. Nė viena galimybė nepažymėta kaip teisinga.](/micrographics/one-choice-two-uses-01/lt.md)
 
 
 [Ribotumas](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) savaime negarantuoja [vertės](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Daiktas gali būti retas, bet vis tiek neturėti paklausos. Naudingas piniginis [turtas](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) pasižymi ribota pasiūla, savybėmis ir paklausa, dėl kurių žmonės nori jį laikyti arba mainyti.

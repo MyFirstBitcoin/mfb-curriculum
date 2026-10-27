@@ -3,7 +3,8 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) и [без KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) пристапите подразбираат различни [компромиси](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Ниту една ознака не ја отстранува потребата од внимателна процена.
 
 
-> **Callout – Приватноста не ги отстранува правните ризици или ризиците за физичката безбедност**
+<!-- card: callout -->
+> **Приватноста не ги отстранува правните ризици или ризиците за физичката безбедност**
 >
 > Ниту пристапот со [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) ниту пристапот [без KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) не е автоматски најдобар. Споредете го конкретниот пристап, користете актуелни локални насоки кога правилата се нејасни и не ги прекршувајте локалните закони ниту изложувајте се на физичка опасност во потрага по [приватност](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 

@@ -9,6 +9,7 @@ Proszę wykorzystać jeden ograniczony lokalny zasób, aby rozróżnić cztery p
 
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Osoba robiąca zakupy i dysponująca ograniczoną kwotą przygląda się dostępnym możliwościom: jedzeniu na dziś, transportowi lub oszczędzaniu na później. Wybór jednej oznacza rezygnację z pozostałych, co stanowi koszt alternatywny. Żadna z możliwości nie jest oznaczona jako właściwa.](/micrographics/one-choice-two-uses-01/pl.md)
 
 
 Proszę poprosić osoby uczące się o wyjaśnienie, dlaczego sama rzadkość nie tworzy [wartości](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Rzadki przedmiot, który nie ma zastosowania ani nie cieszy się popytem, może pozostać niechciany.

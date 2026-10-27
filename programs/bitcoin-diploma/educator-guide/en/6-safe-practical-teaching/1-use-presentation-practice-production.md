@@ -8,6 +8,7 @@
 
 
 <!-- micrographic: presentation-practice-production-01 -->
+[A practical skill is learned in three stages, left to right: Presentation, where the educator shows the process and its risks, then Practice, guided rehearsal with safe training materials, then Production, where the learner completes a task or explains a decision independently.](/micrographics/presentation-practice-production-01/en.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/3d2cf07203a6fd4017e7adbac198e73b190e99cf-1881x836.svg)

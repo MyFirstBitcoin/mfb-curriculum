@@ -15,6 +15,7 @@ Yêu cầu học viên xác định:
 
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Các chủ thể trong hệ thống tiền pháp định và những gì được chuyển giao giữa họ: ngân hàng trung ương hoạch định chính sách và thực hiện quyết toán giữa các ngân hàng, ngân hàng thương mại giữ tiền gửi là khoản nợ phải trả cho khách hàng, dịch vụ thanh toán truyền các lệnh thanh toán, chính phủ thu thuế và chi tiêu, còn người dân và doanh nghiệp thanh toán và nhận thanh toán.](/micrographics/fiat-system-flows-01/vi.md)
 
 
 Hãy sẵn sàng giải thích hệ thống tại địa phương. Nêu rõ những chi tiết nào mang tính chung và những chi tiết nào chỉ áp dụng trong phạm vi pháp lý cụ thể. Khuyến khích chia sẻ nhiều trải nghiệm khác nhau, bao gồm cả thực tế sử dụng chủ yếu tiền mặt và việc thiếu khả năng tiếp cận đầy đủ dịch vụ ngân hàng, nhưng không biến cuộc thảo luận thành một kết luận chính trị.

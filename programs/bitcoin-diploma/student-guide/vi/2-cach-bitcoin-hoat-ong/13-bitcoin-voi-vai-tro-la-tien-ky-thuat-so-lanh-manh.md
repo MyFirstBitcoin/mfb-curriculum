@@ -6,6 +6,7 @@ Bitcoin kết hợp những đặc tính trước đây chưa từng cùng tồn
 
 
 <!-- micrographic: bitcoin-money-properties-01 -->
+[Bitcoin kết hợp bảy đặc tính của tiền trong một tài sản: tính bền vững, tính dễ mang theo, tính có thể chia nhỏ, tính có thể thay thế lẫn nhau, tính khan hiếm, tính có thể xác minh và tính được chấp nhận. Mỗi đặc tính đều có những giới hạn trong thực tế, chẳng hạn như việc giữ an toàn cho các khóa và mức độ chấp nhận vẫn còn thấp ở nhiều cộng đồng.](/micrographics/bitcoin-money-properties-01/vi.md)
 
 
 

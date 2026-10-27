@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[Le destinataire crée sur son téléphone une demande de paiement Lightning en précisant le montant, l’expéditeur la scanne et paie, et le paiement arrive sur le téléphone du destinataire un instant plus tard.](/micrographics/lightning-phone-payment-01/fr-FR.md)
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Un paiement Lightning en six étapes : le destinataire crée une demande, l’expéditeur la scanne, vérifie le destinataire, le montant, l’unité, l’expiration et les frais, puis approuve le paiement. Le paiement est acheminé et les deux portefeuilles affichent le résultat. Chaque portefeuille peut être dépositaire ou en autogarde, et un paiement échoué ou expiré nécessite de recommencer avec une nouvelle demande.](/micrographics/lightning-payment-sequence-01/fr-FR.md)
 
 
 Lightning peut rendre pratiques les petits paiements rapides en Bitcoin. Il peut convenir aux paiements au comptoir d’un commerce, aux paiements locaux répétés, aux services en ligne ou aux transferts pour lesquels les frais d’une transaction sur la blockchain seraient trop élevés par rapport au montant du paiement.

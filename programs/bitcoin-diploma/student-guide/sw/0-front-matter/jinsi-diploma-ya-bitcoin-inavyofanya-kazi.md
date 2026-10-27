@@ -22,6 +22,7 @@ Kila moduli hufuata mpangilio ule ule:
 
 
 <!-- micrographic: learning-rhythm-strip-01 -->
+[Mzunguko wa hatua tano wa kujifunza: kujifunza wazo muhimu, kuonyesha kile unachoweza kueleza au kutumia, kutumia wazo hilo, kulieleza kwa maneno yako mwenyewe, na kupitia jinsi linavyohusiana na moduli inayofuata.](/micrographics/learning-rhythm-strip-01/sw.md)
 
 
 Mtajifunza zaidi kwa kushiriki kuliko kwa kusoma kimya. Baadhi ya maswali hayana jibu moja sahihi. Jambo muhimu ni iwapo mnaweza kueleza hoja zenu, kuchunguza ushahidi, na kurekebisha mtazamo wenu mnapojifunza jambo jipya.
@@ -81,7 +82,8 @@ Wakati utakapofika wa kufanya mazoezi kwa kutumia [pochi ya Bitcoin](https://cur
 ### Usalama, uwajibikaji, na hakuna ushauri wa kifedha
 
 
-> **Callout – Jifunzeni kwanza; hili si pendekezo**
+<!-- card: callout -->
+> **Jifunzeni kwanza; hili si pendekezo**
 >
 > Bitcoin Diploma ni kwa madhumuni ya kielimu pekee. Haitoi ushauri wa kifedha, wa uwekezaji, wa kisheria, au wa kodi. Haiahidi kwamba bitcoin itapanda [bei](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) wala haipendekezi mnunue, muuze, mkope kwa kuiweka dhamana, au mshikilie kiasi chochote cha bitcoin.
 >
@@ -104,6 +106,7 @@ Diploma inajumuisha mfululizo wa kujifunza wenye hatua nne: **Tatizo → Suluhis
 
 
 <!-- micrographic: learning-path-roadmap-01 -->
+[Ramani ya hatua nne: Tatizo, Kuelewa Pesa; Suluhisho, Jinsi Bitcoin Inavyofanya Kazi; Hatua, Kutumia Bitcoin kwa Usalama; na Kuunganisha, Bitcoin katika Jamii Yenu, kila moja ikiwa na swali lake elekezi.](/micrographics/learning-path-roadmap-01/sw.md)
 
 
 **Moduli ya 4** ni sehemu ya lazima ya Diploma, inayoandaliwa na mwelimishaji. Waelimishaji ndio wataalamu wa masuala ya vikwazo vya mahali walipo wanafunzi wao, suluhisho, zana, rasilimali, sheria, lugha, miundombinu na mahitaji yao. Uzoefu wa Kuunganisha unaoandaliwa na mwelimishaji unaweza kujumuisha kupata kipato, kuweka akiba, kupokea, kutumia, [suluhisho za Layer 2](https://curriculum.myfirstbitcoin.org/lexicon/en/#layer-2), njia za kubadilishana za ndani, wafanyabiashara, au uchumi wa mzunguko.
@@ -118,6 +121,7 @@ Moduli nne zinatoa njia ya lazima ya kujifunza ya Tatizo → Suluhisho → Hatua
 
 
 <!-- micrographic: four-module-table-01 -->
+[Jedwali la moduli nne, likionyesha jukumu la kila moja, swali elekezi na kile mwanafunzi atakachojizoeza: Kuelewa Pesa, Jinsi Bitcoin Inavyofanya Kazi, Kutumia Bitcoin kwa Usalama na Bitcoin katika Jamii Yenu.](/micrographics/four-module-table-01/sw.md)
 
 
 Diploma inachukua angalau saa nane. Vipindi vinne vya saa mbili kila kimoja ndio mpangilio mfupi zaidi uliopangwa, si kikomo cha muda. Mwelimishaji wenu anaweza kugawa moduli katika vipindi zaidi, kurudia wazo la awali, au kubadilisha mpangilio wa sehemu moja moja pale kundi lenu linapohitaji muda zaidi wa majadiliano, mazoezi, marudio au tathmini. Hakuna kikomo cha juu cha muda: mwelimishaji anabaki na jukumu la kuwapa wanafunzi muda wanaouhitaji, kushughulikia umahiri wote unaohitajika, na kuweka wazi uhusiano kati ya moduli.

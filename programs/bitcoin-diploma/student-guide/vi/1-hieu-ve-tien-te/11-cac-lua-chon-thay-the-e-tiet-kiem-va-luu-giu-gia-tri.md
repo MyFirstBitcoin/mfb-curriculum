@@ -4,6 +4,7 @@ Mọi người thường tìm các phương án thay thế cho việc giữ ti�
 
 
 <!-- micrographic: saving-alternatives-table-01 -->
+[Bảng trình bày ba lựa chọn thay thế cho việc nắm giữ tiền mặt (kim loại quý, bất động sản và cổ phiếu), kèm theo lý do mọi người có thể chọn từng loại và những đánh đổi quan trọng tương ứng. Không có lựa chọn nào được xếp hạng cao hơn các lựa chọn còn lại.](/micrographics/saving-alternatives-table-01/vi.md)
 
 
 Một [tài sản](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) là thứ mà một người có thể sở hữu hoặc có quyền yêu cầu và có thể mang [giá trị](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); nó không tự động thực hiện mọi chức năng của tiền. Một ngôi nhà có thể lưu giữ [giá trị](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) nhưng không thuận tiện để dùng mua thực phẩm. Một cổ phiếu có thể dễ bán ở một quốc gia nhưng lại nằm ngoài tầm tiếp cận của người không có tài khoản môi giới chứng khoán. [Vàng](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) đã được dùng làm tiền trong những giai đoạn dài của lịch sử nhưng có thể khó kiểm định hoặc chia nhỏ trong một giao dịch có giá trị nhỏ.

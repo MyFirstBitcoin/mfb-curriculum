@@ -11,6 +11,7 @@ A Lightning wallet can be custodial or self-custodial. A [hardware wallet](https
 
 
 <!-- micrographic: hot-and-cold-wallets-01 -->
+[A hot wallet keeps signing keys on an internet-connected device such as a phone; a cold arrangement keeps them away from any connected device. Who controls the keys is a separate question.](/micrographics/hot-and-cold-wallets-01/en.md)
 
 
 Ask learners to select a tool for an invented purpose, then require them to state the benefit and new risk. Do not ask them to choose for their real holdings.

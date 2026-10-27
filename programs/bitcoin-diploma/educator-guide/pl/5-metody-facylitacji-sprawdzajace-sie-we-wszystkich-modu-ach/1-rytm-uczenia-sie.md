@@ -14,3 +14,4 @@ W przypadku większości pojęć proszę stosować następującą kolejność:
 
 
 <!-- micrographic: learning-rhythm-01 -->
+[Osoba prowadząca określa cel, przywołuje wcześniejsze wyobrażenia, wyjaśnia, sprawdza zrozumienie, wspiera zastosowanie wiedzy, zachęca do samodzielnego wykonania zadania, omawia wyniki, zaprasza do refleksji i wskazuje powiązanie z kolejną koncepcją. Niejasne odpowiedzi prowadzą z powrotem do wyjaśnienia lub ćwiczeń.](/micrographics/learning-rhythm-01/pl.md)

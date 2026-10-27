@@ -3,7 +3,8 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc)と[KYCなし](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc)の経路には、それぞれ異なる[トレードオフ](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off)があります。どちらの呼び名であっても、慎重に評価する必要がなくなるわけではありません。
 
 
-> **Callout – プライバシーがあっても、法的リスクや身体的な安全上のリスクがなくなるわけではありません**
+<!-- card: callout -->
+> **プライバシーがあっても、法的リスクや身体的な安全上のリスクがなくなるわけではありません**
 >
 > 必ずしも[KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc)と[KYCなし](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc)のどちらかが最善というわけではありません。実際の経路を比較し、規則が不明確な場合は最新の地域のガイダンスを参照してください。また、[プライバシー](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy)を追求するあまり、現地の法律に違反したり、身体的な危険に身をさらしたりしないでください。
 

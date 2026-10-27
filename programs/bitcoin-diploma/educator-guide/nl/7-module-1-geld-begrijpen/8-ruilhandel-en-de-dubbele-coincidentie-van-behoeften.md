@@ -4,12 +4,14 @@ Werk met drie personen wier goederen en behoeften niet op elkaar aansluiten. Laa
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina heeft rijst en wil schoenen, Luis heeft schoenen en wil bakolie, en Mei heeft bakolie en wil reparatiewerk. Geen enkel tweetal kan rechtstreeks ruilen, omdat geen van beide personen in een tweetal wil wat de ander aanbiedt.](/micrographics/barter-mismatch-01/nl.md)
 
 
 Introduceer daarna een algemeen geaccepteerd ruilmiddel.
 
 
 <!-- micrographic: sell-then-buy-01 -->
+[Amina verkoopt rijst aan één persoon voor algemeen geaccepteerd geld en gebruikt dat geld later om schoenen te kopen van iemand anders. Verkopen en kopen worden afzonderlijke handelingen.](/micrographics/sell-then-buy-01/nl.md)
 
 
 Vraag:

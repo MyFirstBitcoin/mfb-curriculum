@@ -28,6 +28,7 @@ Questo approccio è importante perché il denaro riguarda ogni persona. Le perso
 
 
 <!-- micrographic: critical-thinking-loop-01 -->
+[Un ciclo ripetibile di pensiero critico: individuare l'affermazione, distinguere i fatti dalle preferenze, esaminare le prove e la fonte, confrontare le alternative, indicare un compromesso o un'incertezza e formulare una conclusione o una domanda provvisoria.](/micrographics/critical-thinking-loop-01/it.md)
 
 
 **Comunità** significa che l'educazione diventa più utile quando le persone discutono le idee e le collegano alla vita locale. Il Suo educatore e i Suoi compagni di corso possono avere esperienze che nessun libro globale può contenere. Ascolti con attenzione, ponga domande e spieghi il Suo ragionamento con rispetto.
@@ -75,7 +76,8 @@ Può utilizzare il corso per:
 * prepararsi a uno studio più avanzato
 
 
-> **Callout – La conoscenza viene prima dell'azione**
+<!-- card: callout -->
+> **La conoscenza viene prima dell'azione**
 >
 > Non è necessario acquistare o procurarsi in altro modo bitcoin per completare il Bitcoin Diploma. Non è nemmeno necessario installare un [wallet Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet) né utilizzare fondi personali. Le competenze pratiche richieste possono essere valutate con un wallet di esercitazione predisposto, una simulazione, un ambiente di test, un modello fisico o un'attività a basso rischio approvata dall'educatore.
 
@@ -84,3 +86,4 @@ Se ha poco tempo o desidera una prima introduzione a Bitcoin, inizi con [Introdu
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[Un percorso di apprendimento facoltativo va dall'Introduzione a Bitcoin al Diploma Bitcoin, poi al Programma di formazione per educatori, fino a diventare un educatore che insegna con il programma di My First Bitcoin, e infine all'adesione al Bitcoin Education Network. Ogni passo successivo è una scelta, non un obbligo.](/micrographics/learner-journey-pathway-01/it.md)

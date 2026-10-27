@@ -3,6 +3,7 @@
 Nguồn lực có hạn, trong khi mong muốn của con người là vô hạn.
 
 
+<!-- card: definition -->
 > **Definition – Sự khan hiếm**
 >
 > [Sự khan hiếm](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) có nghĩa là việc chọn sử dụng một nguồn lực theo cách này sẽ không cho phép sử dụng nguồn lực đó theo cách khác. Thời gian, đất đai, năng lượng, sức khỏe tốt, công cụ và [tiền tệ lành mạnh](https://curriculum.myfirstbitcoin.org/lexicon/en/#sound-money) đều khan hiếm.
@@ -14,6 +15,7 @@ Bản thân [giá trị](https://curriculum.myfirstbitcoin.org/lexicon/en/#value
 
 
 <!-- micrographic: same-water-different-value-01 -->
+[Cùng một chai nước sạch có giá rẻ trong tủ lạnh của cửa hàng, nơi dễ tìm thấy nước, nhưng lại có giá trị hơn nhiều giữa sa mạc nóng bức khi khan hiếm nước. Mức độ sẵn có, nhu cầu và hoàn cảnh làm thay đổi giá trị và giá cả.](/micrographics/same-water-different-value-01/vi.md)
 
 
 Trao đổi diễn ra khi cả hai bên đều thích thứ mình nhận được hơn thứ mình từ bỏ. Họ không cần nhất trí rằng hai món đồ có cùng [giá trị đối với cá nhân](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Họ chỉ cần đồng ý với các điều kiện trao đổi.
@@ -26,6 +28,7 @@ Ba khái niệm giúp giải thích những lựa chọn hằng ngày:
 
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Một người mua sắm có số tiền hạn chế xem xét các lựa chọn trước mắt: thực phẩm cho hôm nay, đi lại hoặc tiết kiệm cho sau này. Chọn một phương án đồng nghĩa với việc từ bỏ các phương án còn lại, và đó chính là chi phí cơ hội. Không có phương án nào được đánh dấu là lựa chọn đúng.](/micrographics/one-choice-two-uses-01/vi.md)
 
 
 [Sự khan hiếm](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) tự nó không bảo đảm [giá trị](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Một vật phẩm có thể hiếm mà vẫn không có ai có nhu cầu về nó. Một phương tiện tiền tệ hữu ích dưới dạng [tài sản](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) kết hợp nguồn cung hữu hạn với những đặc tính và nhu cầu khiến mọi người sẵn sàng nắm giữ hoặc trao đổi nó.

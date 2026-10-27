@@ -29,3 +29,4 @@ This activity makes public-ledger [privacy](https://curriculum.myfirstbitcoin.or
 
 
 <!-- micrographic: address-reuse-linkage-01 -->
+[Several fictional receipts share one reused address and are easily linked. Fresh receiving addresses reduce that direct link, but outside information and explorer searches can still reveal relationships, and public data does not by itself prove a person's identity.](/micrographics/address-reuse-linkage-01/en.md)

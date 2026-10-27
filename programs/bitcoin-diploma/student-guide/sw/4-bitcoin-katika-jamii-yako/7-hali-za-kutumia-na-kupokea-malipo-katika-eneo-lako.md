@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[Malipo katika mkahawa kwa hatua nne: mteja anaagiza, muhudumu anatuma ankara, mteja analipa kwa bitcoin kutoka kwenye simu yake, na muhudumu anakabidhi kahawa.](/micrographics/coffee-shop-payment-01/sw.md)
 
 
 Tumieni bidhaa na huduma zinazojulikana katika eneo lenu. Bidhaa yenyewe si muhimu; kinachojalisha ni hoja kuhusu malipo.

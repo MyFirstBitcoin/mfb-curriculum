@@ -13,6 +13,7 @@ Laat het onderscheid zien tussen:
 
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Een Wallet bewaart de sleutels. Daarmee kunt u bitcoin ontvangen en verzenden, terwijl de bitcoin zelf geregistreerd blijft op het gedeelde grootboek, niet in de telefoon of het apparaat.](/micrographics/wallet-manages-keys-01/nl.md)
 
 
 Vraag:

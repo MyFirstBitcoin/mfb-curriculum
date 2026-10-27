@@ -15,6 +15,7 @@ Požádejte studující, aby určili:
 
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Účastníci systému nekrytých peněz a to, co mezi nimi proudí: centrální banka určuje měnovou politiku a vypořádává platby mezi bankami, komerční banky vedou vklady, které jsou jejich závazkem vůči klientům, platební služby přenášejí příkazy, stát vybírá daně a vynakládá prostředky a občané a podniky platí a přijímají platby.](/micrographics/fiat-system-flows-01/cs.md)
 
 
 Buďte připraveni vysvětlit místní systém. Uveďte, které podrobnosti jsou obecně platné a které jsou specifické pro danou jurisdikci. Vybídněte ke sdílení různých zkušeností, včetně zkušeností lidí, kteří používají převážně hotovost nebo mají omezený přístup k bankovním službám, aniž byste diskusi směřovali k politickému závěru.

@@ -11,6 +11,7 @@ Bitcoin var ikke det første forsøg på at skabe digitale penge. Det byggede p�
 Tilsammen viste disse eksperimenter nyttige brikker i puslespillet. De tydeliggjorde også det problem, der stadig manglede at blive løst.
 
 
+<!-- card: definition -->
 > **Definition – Dobbeltforbrug**
 >
 > [Dobbeltforbrug](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending) er et forsøg på at sende den samme digitale enhed til to modtagere. Digitale data kan kopieres nøjagtigt, så et digitalt pengesystem har brug for en metode til at fastslå, hvilken [transaktion](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) der er gyldig.
@@ -28,6 +29,7 @@ Hvidbogen samlede de egenskaber, der var nødvendige for denne tilgang:
 
 
 <!-- micrographic: five-part-response-01 -->
+[Fem dele løser tilsammen problemet med dobbeltforbrug: et peer-to-peer-netværk, digitale signaturer, blokke og mining, uafhængig verifikation og en fælles historik med mest akkumuleret proof of work. Tilsammen gør de det muligt for netværket at afvise, at de samme midler bruges igen, uden en central myndighed.](/micrographics/five-part-response-01/da.md)
 
 
 Dette modul forklarer disse begreber mere detaljeret. Tilsammen gav de en praktisk løsning på [dobbeltforbrugsproblemet](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): netværket kan afvise et nyt forsøg på at bruge den samme bitcoin uden at være afhængigt af en central myndighed. Bitcoin tilbød den manglende kombination, som årtiers eksperimenter med digitale penge havde søgt efter.

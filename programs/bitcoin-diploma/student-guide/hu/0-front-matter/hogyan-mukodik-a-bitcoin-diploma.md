@@ -22,6 +22,7 @@ Minden modul ugyanazt a menetet követi:
 
 
 <!-- micrographic: learning-rhythm-strip-01 -->
+[Ötlépéses tanulási ritmus: ismerjen meg egy kulcsfontosságú gondolatot, mutassa meg, mit tud elmagyarázni vagy alkalmazni, alkalmazza a gondolatot, magyarázza el saját szavaival, majd tekintse át, hogyan kapcsolódik a következő modulhoz.](/micrographics/learning-rhythm-strip-01/hu.md)
 
 
 Aktív részvétellel többet fog tanulni, mint csendes olvasással. Egyes kérdésekre nincs egyetlen helyes válasz. Az számít, hogy el tudja-e magyarázni az érvelését, meg tudja-e vizsgálni a bizonyítékokat, és képes-e felülvizsgálni az álláspontját, amikor valami újat tanul.
@@ -81,7 +82,8 @@ Amikor eljön a gyakorlás ideje egy [Bitcoin-tárcával](https://curriculum.myf
 ### Biztonság, felelősség és a pénzügyi tanácsadás kizárása
 
 
-> **Callout – Először tanuljon; ez nem ajánlás**
+<!-- card: callout -->
+> **Először tanuljon; ez nem ajánlás**
 >
 > A Bitcoin Diploma kizárólag oktatási célokat szolgál. Nem nyújt pénzügyi, befektetési, jogi vagy adózási tanácsot. Nem ígéri, hogy emelkedni fog a bitcoin [árfolyama](https://curriculum.myfirstbitcoin.org/lexicon/en/#price), és nem javasolja, hogy Ön bármennyi bitcoint vásároljon, eladjon, fedezetként használjon hitelfelvételhez vagy tartson.
 >
@@ -104,6 +106,7 @@ A Diploma négy szakaszból álló tanulási ívre épül: **Probléma → Megol
 
 
 <!-- micrographic: learning-path-roadmap-01 -->
+[Négyszakaszos útiterv: Probléma, A pénz megértése; Megoldás, A Bitcoin működése; Cselekvés, A Bitcoin biztonságos használata; és Kapcsolódás, A Bitcoin az Ön közösségében, mindegyik a hozzá tartozó vezérkérdéssel.](/micrographics/learning-path-roadmap-01/hu.md)
 
 
 **A 4. modul** a Diploma kötelező része, amelyet az oktató állít össze. Az oktatók ismerik a legjobban a tanulóik helyi korlátait, megoldásait, eszközeit, erőforrásait, jogszabályait, nyelvét, infrastruktúráját és igényeit. Az oktató által összeállított Kapcsolódás tanulási élmény része lehet a pénzkeresés, a megtakarítás, a pénzfogadás, a költés, a [második rétegű](https://curriculum.myfirstbitcoin.org/lexicon/en/#layer-2) megoldások, a helyi átváltási lehetőségek, a kereskedők vagy a körforgásos gazdaságok.
@@ -118,6 +121,7 @@ A négy modul a kötelező Probléma → Megoldás → Cselekvés → Kapcsolód
 
 
 <!-- micrographic: four-module-table-01 -->
+[A négy modult, azok szerepét, irányadó kérdését és a tanuló által gyakorolandó készségeket bemutató táblázat: A pénz megértése, Hogyan működik a Bitcoin?, A Bitcoin biztonságos használata és A Bitcoin az Ön közösségében.](/micrographics/four-module-table-01/hu.md)
 
 
 A Diploma elvégzése legalább nyolc órát vesz igénybe. A négy kétórás foglalkozás a legrövidebb tervezett forma, nem pedig időkorlát. Az Ön oktatója több foglalkozásra is feloszthat egy modult, visszatérhet egy korábbi gondolathoz, vagy megváltoztathatja az egyes részek sorrendjét, ha az Ön csoportjának több időre van szüksége a megbeszéléshez, gyakorláshoz, ismétléshez vagy értékeléshez. Nincs felső időkorlát: az oktató felelőssége továbbra is az, hogy elegendő időt biztosítson a tanulóknak, minden előírt kompetenciát lefedjen, és világossá tegye a modulok közötti összefüggéseket.

@@ -29,3 +29,4 @@ Kegiatan ini membuat aspek buku besar publik yang berkaitan dengan [privasi](htt
 
 
 <!-- micrographic: address-reuse-linkage-01 -->
+[Beberapa tanda terima fiktif menggunakan satu alamat yang sama secara berulang dan mudah dikaitkan. Alamat penerimaan baru mengurangi keterkaitan langsung tersebut, tetapi informasi dari luar dan pencarian di penjelajah blok masih dapat mengungkap hubungan, dan data publik saja tidak membuktikan identitas seseorang.](/micrographics/address-reuse-linkage-01/id.md)

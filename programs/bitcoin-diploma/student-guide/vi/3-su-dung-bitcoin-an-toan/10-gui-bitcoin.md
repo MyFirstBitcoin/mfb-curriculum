@@ -5,7 +5,8 @@
 Việc gửi cần được thực hiện cẩn thận hơn vì trên Bitcoin, một [giao dịch](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) hợp lệ thường rất khó hoặc không thể đảo ngược. Trước khi nhấn nút phê duyệt, quý vị có thể giải thích ai sẽ nhận khoản thanh toán và vì sao không?
 
 
-> **Callout – Dừng lại và xác minh trước khi gửi**
+<!-- card: callout -->
+> **Dừng lại và xác minh trước khi gửi**
 >
 > Xác nhận người nhận, phương thức thanh toán, đích đến, số tiền và đơn vị, phí hoặc thời hạn hiệu lực, và màn hình cuối cùng. Nếu có bất kỳ điều gì khác với yêu cầu từ nguồn đáng tin cậy, hoặc có người tạo cảm giác cấp bách hay yêu cầu thông tin khôi phục, hãy dừng lại và xác minh độc lập. Hãy thử gửi một khoản nhỏ khi chưa quen với quy trình.
 
@@ -21,6 +22,7 @@ Việc gửi cần được thực hiện cẩn thận hơn vì trên Bitcoin, m
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Trước khi phê duyệt một khoản thanh toán, người gửi kiểm tra người nhận và mục đích, phương thức thanh toán, đích nhận, cùng số tiền, đơn vị, phí hoặc thời hạn, đồng thời gửi thử một khoản nhỏ nếu chưa quen với quy trình. Nếu có bất kỳ điều gì khác biệt, họ dừng lại và xác minh; họ chỉ phê duyệt khi mọi thông tin đều khớp, rồi kiểm tra kết quả.](/micrographics/pre-send-checklist-01/vi.md)
 
 
 Đối với một [khoản thanh toán trên chuỗi](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), **phí mạng** được trả để đưa [giao dịch](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) vào một khối. Mức phí này phụ thuộc chủ yếu vào dữ liệu [giao dịch](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) và nhu cầu về [không gian khối](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-space), chứ không đơn thuần phụ thuộc vào số tiền được gửi. Mức phí ước tính và thời gian xử lý có thể thay đổi, vì vậy hãy đọc bản tóm tắt cuối cùng thay vì cho rằng một khoản thanh toán có giá trị nhỏ sẽ có phí thấp.

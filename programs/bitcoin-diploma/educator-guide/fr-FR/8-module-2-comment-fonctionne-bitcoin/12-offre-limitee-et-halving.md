@@ -10,6 +10,7 @@ Enseignez :
 
 
 <!-- micrographic: bitcoin-issuance-schedule-01 -->
+[La subvention de bloc commence à 50 bitcoin et est divisée par deux tous les 210 000 blocs, tandis que le total de bitcoin émis augmente vers la limite de 21 millions. Les frais de transaction sont versés en supplément et ne constituent pas de nouveaux bitcoin ; aucune prévision de prix n’est sous-entendue.](/micrographics/bitcoin-issuance-schedule-01/fr-FR.md)
 
 
 La limite est une règle publique du réseau, et non une loi physique. Une personne peut écrire un autre logiciel, mais ne peut pas contraindre les participants actuels à l’adopter. L’adoption d’un logiciel incompatible peut créer un réseau différent plutôt que de modifier discrètement Bitcoin pour tout le monde.

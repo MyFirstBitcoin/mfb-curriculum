@@ -17,6 +17,7 @@ Proszę zapytać:
 
 
 <!-- micrographic: bitcoin-atm-off-ramp-01 -->
+[Osoba przy bankomacie Bitcoin wysyła bitcoiny ze swojego telefonu i otrzymuje gotówkę w lokalnej walucie: to jeden z przykładów wymiany bitcoinów na lokalną walutę. Jest to ilustracja, a nie rekomendacja.](/micrographics/bitcoin-atm-off-ramp-01/pl.md)
 
 
 **Rezultat pracy:** Osoba ucząca się wybiera sposób postępowania dla fikcyjnego przypadku, ustala kolejność czynności sprawdzających bezpieczeństwo i wyjaśnia, jakie ryzyko zostaje ograniczone, a jakie się pojawia.

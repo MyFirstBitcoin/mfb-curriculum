@@ -32,3 +32,4 @@ Você não pode:
 
 
 <!-- micrographic: fixed-adaptable-flexible-01 -->
+[Exemplos locais e métodos de ensino podem mudar dentro de limites fixos de competências, evidências, segurança e conclusão. Mudanças que afetam a avaliação precisam de um caminho equivalente aprovado que mantenha a mesma ação do aluno e o mesmo propósito de segurança.](/micrographics/fixed-adaptable-flexible-01/pt-BR.md)

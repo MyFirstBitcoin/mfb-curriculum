@@ -12,6 +12,7 @@ Teach the consequences:
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[A seed phrase is an ordered list of words, here twelve numbered sample words written on paper. The right words in the right order can restore control in a compatible wallet, so it stays secret and offline.](/micrographics/seed-phrase-on-paper-01/en.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
@@ -43,10 +44,12 @@ Teach the consequences:
 
 
 <!-- micrographic: recovery-practice-lanes-01 -->
+[The learner follows the recovery-practice steps in a private area, checks the expected result, clears the device, and returns or destroys the fictional material. The educator observes decisions and safe handling but never sees the secret recovery words.](/micrographics/recovery-practice-lanes-01/en.md)
 
 
 
-> **Callout – Treat an exposed seed phrase as compromised**
+<!-- card: callout -->
+> **Treat an exposed seed phrase as compromised**
 >
 > If a real seed may have been exposed, stop using it as a safe backup, create a new trusted wallet with new recovery information, and move funds after carefully verifying the destination. The learner should seek help without revealing either phrase.
 

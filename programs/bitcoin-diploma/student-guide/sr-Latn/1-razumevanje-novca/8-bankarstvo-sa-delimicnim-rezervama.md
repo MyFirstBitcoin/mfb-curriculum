@@ -6,11 +6,13 @@ Kada komercijalna banka odobri kredit, obično stvara novi depozit na računu za
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Pojednostavljen prikaz bankarskog kredita: zajmoprimac podnosi zahtev, banka odobrava kredit i knjiži novi depozit na račun zajmoprimca, a zajmoprimac kasnije vraća banci glavnicu i kamatu.](/micrographics/bank-loan-deposit-01/sr-Latn.md)
 
 
 Banke uglavnom nastoje da ostvare [profit](https://curriculum.myfirstbitcoin.org/lexicon/en/#bank-profit) tako što zarađuju od kamata i naknada na kredite i ulaganja, istovremeno plaćajući troškove poslovanja, finansiranja i usklađivanja s propisima i snoseći gubitke kada zajmoprimci ne otplaćuju kredite. Ove aktivnosti i ograničenja razlikuju se od banke do banke i od jedne jurisdikcije do druge.
 
 
+<!-- card: definition -->
 > **Definition – Bankarstvo sa delimičnim rezervama**
 >
 > [Bankarstvo sa delimičnim rezervama](https://curriculum.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking) opisuje bankarstvo u kojem banke drže samo deo svojih obaveza po osnovu depozita u obliku odmah dostupnih rezervi, dok istovremeno odobravaju kredite i drže drugu [imovinu](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset). Obavezni nivo rezervi i druga ograničenja razlikuju se među zemljama i mogu se menjati tokom vremena.
@@ -23,6 +25,7 @@ To stvara dva važna rizika:
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Rizik likvidnosti: mnogi deponenti danas čekaju u redu da podignu novac, a banka trenutno nema dovoljno gotovine iako njeni krediti mogu biti otplaćeni kasnije. Rizik solventnosti: dužnici ne otplaćuju stambene kredite, a imovina banke postaje manje vredna od njenih dugovanja.](/micrographics/liquidity-vs-solvency-01/sr-Latn.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)

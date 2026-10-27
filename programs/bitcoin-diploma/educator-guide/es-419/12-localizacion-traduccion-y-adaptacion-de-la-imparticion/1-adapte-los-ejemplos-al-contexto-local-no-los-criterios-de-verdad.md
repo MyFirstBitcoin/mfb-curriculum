@@ -1,6 +1,7 @@
 # 12.1 Adapte los ejemplos al contexto local, no los criterios de verdad
 
-> **Light – Adapte el ejemplo al contexto local, no el estándar de aprendizaje**
+<!-- card: light -->
+> **Adapte el ejemplo al contexto local, no el estándar de aprendizaje**
 >
 > Use ejemplos locales para ayudar a los estudiantes a comprender un concepto común. Para cada adaptación, pregúntese:
 >

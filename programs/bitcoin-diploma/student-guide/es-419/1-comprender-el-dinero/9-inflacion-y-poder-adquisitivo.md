@@ -1,11 +1,13 @@
 # 1.9 Inflación y poder adquisitivo
 
+<!-- card: definition -->
 > **Definition – Inflación de precios**
 >
 > Las personas usan el término “[inflación](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation)” de más de una manera. En esta guía, [inflación de precios](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation) significa un aumento sostenido en el nivel general de [precios](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) de bienes y servicios. Si sus ingresos y ahorros no aumentan tan rápido como los [precios](https://curriculum.myfirstbitcoin.org/lexicon/en/#price), su dinero compra menos.
 
 
 
+<!-- card: definition -->
 > **Definition – Poder adquisitivo**
 >
 > [El poder adquisitivo](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) es la cantidad de bienes y servicios que una unidad de dinero puede comprar. Si el precio de una canasta de bienes básicos aumenta de 100 unidades de [moneda](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) a 110, las mismas 100 unidades ya no alcanzan para comprar la canasta completa. Su [poder adquisitivo](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) en relación con esa canasta ha disminuido.
@@ -15,6 +17,7 @@
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Las mismas 100 unidades monetarias alcanzan para comprar la canasta completa de productos básicos cuando cuesta 100, pero no cuando la misma canasta cuesta 110. El nivel de precios ha subido y el poder adquisitivo del dinero ha disminuido.](/micrographics/same-money-smaller-basket-01/es-419.md)
 
 
 Algunas personas usan “[inflación](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation)” para referirse a la [expansión monetaria](https://curriculum.myfirstbitcoin.org/lexicon/en/#monetary-inflation): una expansión del dinero y del crédito. Esa expansión puede contribuir a la [inflación de precios](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation), junto con las interrupciones del suministro, los cambios en la demanda, una [moneda](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) débil, los impuestos, la regulación y los cambios en los costos de producción. Las causas y los efectos suelen ser objeto de debate. Evite las explicaciones que atribuyen cada cambio de [precio](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) a un solo factor.
@@ -24,7 +27,8 @@ Algunas personas usan “[inflación](https://curriculum.myfirstbitcoin.org/lexi
 La tasa de [inflación](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation) es un promedio. Su experiencia personal puede ser diferente porque sus gastos no coinciden exactamente con la canasta que se mide. Los costos de alimentación, vivienda, transporte, educación y salud pueden cambiar a distintos ritmos.
 
 
-> **Light – Compare el poder adquisitivo a nivel local**
+<!-- card: light -->
+> **Compare el poder adquisitivo a nivel local**
 >
 > Elija un artículo de uso cotidiano en su comunidad. Registre su [precio](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) hoy. Pregunte cuánto costaba hace varios años y, si es posible, consulte un registro confiable. ¿Los ingresos cambiaron al mismo ritmo? ¿Qué otros factores podrían explicar el cambio?
 >

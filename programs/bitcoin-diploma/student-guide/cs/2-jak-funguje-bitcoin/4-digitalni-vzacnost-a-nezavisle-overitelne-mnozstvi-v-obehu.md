@@ -3,6 +3,7 @@
 Digitální informace lze obvykle snadno kopírovat.
 
 
+<!-- card: definition -->
 > **Definition – Digitální vzácnost**
 >
 > Digitální [vzácnost](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) znamená, že systém dokáže rozlišit platnou jednotku od neplatné kopie a zabránit tomu, aby byla tatáž jednotka utracena dvakrát.
@@ -14,6 +15,7 @@ Bitcoin vytváří digitální [vzácnost](https://curriculum.myfirstbitcoin.org
 
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Limit množství v oběhu uvedený na webu nebo v databázi vydavatele může tento vydavatel potají změnit. Pravidlo Bitcoinu pro množství v oběhu je veřejné a podpisy, veřejná historie, důkaz prací a ověřování uzly společně brání svévolnému vytváření nových mincí i tomu, aby byl tentýž bitcoin utracen dvakrát.](/micrographics/claimed-or-verified-supply-01/cs.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)

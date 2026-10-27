@@ -1,6 +1,7 @@
 # 10.4 Seitsemänvaiheinen moduulinrakentaja
 
 <!-- micrographic: seven-step-module-builder-01 -->
+[Seitsemän suunnitteluvaihetta johtavat paikallisesta toimintaympäristöstä ja tarpeesta rajattuun, tarkistettuun tehtävään, turvalliseen opetuksen etenemiseen, selkeään arviointiin ja kokemusten purkuun. Nykyinen vaihtoehto pysyy mielessä, ja soveltumaton vaihtoehto palauttaa prosessin suunnitteluvaiheeseen.](/micrographics/seven-step-module-builder-01/fi.md)
 
 
 #### 1. Perehtykää paikallisiin olosuhteisiin

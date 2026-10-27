@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: daily-bitcoin-uses-01 -->
+[Sju olika sätt att använda Bitcoin i vardagen: tjäna, spara, ta emot, skicka, spendera, donera samt prissättning och bokföring. Vart och ett är ett möjligt användningsområde, inte ett obligatoriskt steg.](/micrographics/daily-bitcoin-uses-01/sv.md)
 
 
 Bitcoin kan fungera som pengar på flera sätt. Att betala är bara ett av dem.

@@ -11,6 +11,7 @@ Bitcoin haikuwa jaribio la kwanza la pesa za kidijitali. Ilijengwa juu ya miongo
 Kwa pamoja, majaribio haya yalionyesha vipande muhimu vya fumbo. Pia yalifafanua tatizo lililobaki.
 
 
+<!-- card: definition -->
 > **Definition – Matumizi maradufu**
 >
 > [Matumizi maradufu](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending) ni jaribio la kutuma kitengo kilekile cha kidijitali kwa wapokeaji wawili. Data ya kidijitali inaweza kunakiliwa kikamilifu, hivyo mfumo wa pesa za kidijitali unahitaji njia ya kuthibitisha ni [muamala](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) upi ulio halali.
@@ -28,6 +29,7 @@ Karatasi nyeupe iliunganisha vipengele vilivyohitajika kwa mbinu hiyo:
 
 
 <!-- micrographic: five-part-response-01 -->
+[Sehemu tano huungana kutatua tatizo la matumizi mara mbili: mtandao wa rika kwa rika, sahihi za kidijitali, bloku na uchimbaji, uthibitishaji huru, na historia ya pamoja yenye uthibitisho wa kazi mwingi zaidi uliolimbikizwa. Kwa pamoja, huuwezesha mtandao kukataa matumizi ya pili bila mamlaka kuu.](/micrographics/five-part-response-01/sw.md)
 
 
 Moduli hii inaeleza dhana hizi kwa undani zaidi. Kwa pamoja, dhana hizi zilitoa jibu la vitendo kwa [tatizo la matumizi mara mbili](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): mtandao unaweza kukataa jaribio la pili la kutumia bitcoin ileile bila kutegemea mamlaka kuu. Bitcoin ilitoa mchanganyiko uliokosekana ambao majaribio ya pesa za kidijitali ya miongo kadhaa yalikuwa yakiutafuta.

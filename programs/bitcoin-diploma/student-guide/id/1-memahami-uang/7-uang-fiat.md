@@ -1,5 +1,6 @@
 # 1.7 Uang Fiat
 
+<!-- card: definition -->
 > **Definition – Uang fiat**
 >
 > [Uang fiat](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) adalah [mata uang](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) yang diterbitkan berdasarkan kewenangan pemerintah, biasanya melalui [bank sentral](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank), yang tidak dapat ditukarkan dengan komoditas dalam jumlah tetap, seperti [emas](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold). Pemerintah mendukung—dan dalam konteks tertentu mewajibkan—penggunaannya dengan mengharuskannya untuk pembayaran pajak dan menetapkan aturan tentang alat pembayaran yang sah. Aturan khusus untuk menerima pembayaran dan melunasi [utang](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt) berbeda-beda menurut yurisdiksi.
@@ -11,12 +12,14 @@ Sistem fiat memiliki beberapa pihak utama yang terlibat:
 
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Para pelaku dalam sistem fiat dan aliran di antara mereka: bank sentral menetapkan kebijakan dan menyelesaikan transaksi antarbank, bank umum menyimpan dana yang menjadi kewajiban mereka kepada nasabah, layanan pembayaran meneruskan instruksi, pemerintah memungut pajak dan membelanjakan dana, serta warga dan pelaku usaha melakukan dan menerima pembayaran.](/micrographics/fiat-system-flows-01/id.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
-> **Light – Telaah pembayaran di lingkungan Anda**
+<!-- card: light -->
+> **Telaah pembayaran di lingkungan Anda**
 >
 > Pilih satu pembayaran sehari-hari di lingkungan Anda, seperti membayar transportasi, membeli makanan atau pulsa; menerima upah; atau membayar tagihan. Jika Anda lebih suka, gunakan skenario rekaan yang realistis. Dalam tiga atau empat kalimat, jelaskan:
 >

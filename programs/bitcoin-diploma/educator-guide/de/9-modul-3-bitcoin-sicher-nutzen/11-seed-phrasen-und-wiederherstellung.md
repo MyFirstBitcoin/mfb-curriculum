@@ -12,6 +12,7 @@ Vermitteln Sie die Konsequenzen:
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Eine Seed-Phrase ist eine geordnete Liste von Wörtern, hier zwölf nummerierte Beispielwörter, auf Papier geschrieben. Die richtigen Wörter in der richtigen Reihenfolge können in einer kompatiblen Wallet die Kontrolle wiederherstellen, deshalb bleibt sie geheim und offline.](/micrographics/seed-phrase-on-paper-01/de.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
@@ -43,10 +44,12 @@ Vermitteln Sie die Konsequenzen:
 
 
 <!-- micrographic: recovery-practice-lanes-01 -->
+[Die lernende Person führt die Schritte der Wiederherstellungsübung in einem privaten Bereich durch, prüft das erwartete Ergebnis, setzt das Gerät zurück und gibt das fiktive Material zurück oder vernichtet es. Die Lehrkraft beobachtet die Entscheidungen und den sicheren Umgang, sieht jedoch niemals die geheimen Wiederherstellungswörter.](/micrographics/recovery-practice-lanes-01/de.md)
 
 
 
-> **Callout – Behandeln Sie eine offengelegte Seed-Phrase als kompromittiert**
+<!-- card: callout -->
+> **Behandeln Sie eine offengelegte Seed-Phrase als kompromittiert**
 >
 > Wenn ein echter Seed möglicherweise offengelegt wurde, verwenden Sie ihn nicht länger als sicheres Backup, erstellen Sie eine neue vertrauenswürdige Wallet mit neuen Wiederherstellungsinformationen und übertragen Sie das Guthaben, nachdem Sie das Ziel sorgfältig überprüft haben. Die Lernenden sollten Hilfe suchen, ohne eine der beiden Phrasen preiszugeben.
 

@@ -13,6 +13,7 @@ Peer-to-peer nie oznacza, że tylko dwa komputery komunikują się bezpośrednio
 
 
 <!-- micrographic: powers-and-limits-01 -->
+[Użytkownicy, węzły, górnicy, programiści i usługi mają pewien zakres wpływu na wspólne zasady i publiczny rejestr Bitcoina, ale nikt nie może samodzielnie zmieniać rejestru ani zasad dla wszystkich.](/micrographics/powers-and-limits-01/pl.md)
 
 
 ![Osoba prowadząca zajęcia używa wskaźnika, aby objaśnić sieć na tablicy prezentacyjnej osobom początkującym i osobom z wiedzą techniczną.](https://cdn.sanity.io/images/vje9ehw2/staging/3999e88f5f80f010b5cd6238a4fe41d1aed8bdb2-1054x1492.png)

@@ -13,6 +13,7 @@ Mostri la distinzione tra:
 
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Un wallet custodisce le chiavi. Con esse Lei può ricevere e inviare bitcoin, mentre i bitcoin stessi restano registrati sul registro condiviso, non all'interno del telefono o del dispositivo.](/micrographics/wallet-manages-keys-01/it.md)
 
 
 Chieda:

@@ -75,7 +75,8 @@ Money is an asset people accept because they expect others to accept it later.
 * Value across time and distance
 
 
-> **Callout – Spot question**
+<!-- card: callout -->
+> **Spot question**
 >
 > What exchange or coordination problem does money help solve?
 
@@ -108,7 +109,8 @@ One form may serve one function better than another. Every form carries purchasi
 No form scores perfectly. “**Sound money**” is a judgment: state criteria and compare consistently.
 
 
-> **Callout – Think critically**
+<!-- card: callout -->
+> **Think critically**
 >
 > Which properties mattered when you chose one type of money or asset over another?
 
@@ -152,6 +154,7 @@ Scarcity alone does not guarantee value; demand matters too.
 ---
 
 <!-- micrographic: same-water-different-value-01 -->
+[The same bottle of clean water is cheap in a store fridge where water is easy to find, and much more valuable in a hot desert during a shortage. Availability, need and circumstances change value and price.](/micrographics/same-water-different-value-01/en.md)
 
 ---
 
@@ -162,6 +165,7 @@ Scarcity alone does not guarantee value; demand matters too.
 ---
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[A shopper with limited money looks at the options in front of them: food for today, transport, or saving for later. Choosing one gives up the others, which is the opportunity cost, and no option is marked as the right one.](/micrographics/one-choice-two-uses-01/en.md)
 
 ---
 
@@ -195,6 +199,7 @@ Convenient payments and flexible credit bring institutional dependence. Supply, 
 ---
 
 <!-- micrographic: fiat-system-flows-01 -->
+[The actors in a fiat system and what passes between them: the central bank sets policy and settles banks, commercial banks hold deposits that are their liability to customers, payment services carry instructions, the government taxes and spends, and citizens and businesses pay and get paid.](/micrographics/fiat-system-flows-01/en.md)
 
 ---
 
@@ -230,10 +235,12 @@ Bank runs can strain access. Insurance and central-bank lending can reduce panic
 ---
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[A simplified bank loan: the borrower applies, the bank approves the loan and credits the borrower's account with a new deposit, and the borrower later repays the bank the principal plus interest.](/micrographics/bank-loan-deposit-01/en.md)
 
 ---
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Liquidity risk: many depositors queue to withdraw today, and the bank lacks enough cash now even though its loans may be repaid later. Solvency risk: borrowers default on home loans, and the bank's assets become worth less than what it owes.](/micrographics/liquidity-vs-solvency-01/en.md)
 
 ---
 
@@ -255,6 +262,7 @@ Money and credit expansion can contribute, alongside supply, demand, currency, t
 ---
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[The same 100 units of currency buy the full basket of basic goods when it costs 100, but not when the same basket costs 110. The price level has risen and the purchasing power of the money has fallen.](/micrographics/same-money-smaller-basket-01/en.md)
 
 ---
 
@@ -308,7 +316,8 @@ A CBDC is digital fiat money issued as a central-bank liability: a claim owed to
 Designs differ. Digital does not automatically mean decentralized, scarce, private, or independently verifiable.
 
 
-> **Callout – Check**
+<!-- card: callout -->
+> **Check**
 >
 > Who issues it, who can use it, what data are collected, and who can block payments or change rules? What happens offline, and what legal protections exist?
 
@@ -327,7 +336,8 @@ Designs differ. Digital does not automatically mean decentralized, scarce, priva
 What makes your money useful, and which rules depend on institutions you trust?
 
 
-> **Callout – A moment to reflect**
+<!-- card: callout -->
+> **A moment to reflect**
 >
 > What is one question you now ask about money that you did not ask before?
 
@@ -357,6 +367,7 @@ Bitcoin reduces central trust in issuance and settlement; it does not remove all
 ---
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[With a payment company, one organization keeps the ledger and approves each transfer. With Bitcoin, the sender signs a transaction, independent nodes check it and miners add it to one shared ledger, so the receiver depends less on a central authority.](/micrographics/central-ledger-vs-bitcoin-01/en.md)
 
 ---
 
@@ -393,6 +404,7 @@ Double spending is an attempt to send the same digital unit to two recipients.
 ---
 
 <!-- micrographic: five-part-response-01 -->
+[Five parts combine to answer the double-spend problem: a peer-to-peer network, digital signatures, blocks and mining, independent verification, and a shared history with the most accumulated proof of work. Together they let the network reject a second spend without a central authority.](/micrographics/five-part-response-01/en.md)
 
 ---
 
@@ -411,6 +423,7 @@ A written supply claim is not enough: who can verify it, and who could change it
 ---
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[A supply limit written on a website or in an issuer's database can be changed quietly by that issuer. Bitcoin's supply rule is public, and signatures, a public history, proof of work and node verification together stop new coins from being invented or the same bitcoin from being spent twice.](/micrographics/claimed-or-verified-supply-01/en.md)
 
 ---
 
@@ -452,12 +465,14 @@ Intermediary services remain optional; choosing one adds its custody rules and r
 ---
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[A sender signs a transaction and broadcasts it to many network nodes, which pass it along until it reaches the recipient. No central Bitcoin operator must approve the sender or the recipient.](/micrographics/peer-to-peer-route-01/en.md)
 
 ---
 
 ![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Four roles in Bitcoin: users receive, hold and send bitcoin, nodes independently verify the rules, miners build candidate blocks with proof of work, and developers propose software. No single role controls the network.](/micrographics/bitcoin-participant-roles-01/en.md)
 
 ---
 
@@ -466,7 +481,8 @@ Intermediary services remain optional; choosing one adds its custody rules and r
 Miners cannot make invalid blocks acceptable to honest nodes. Developers cannot force software adoption. One person may perform several roles.
 
 
-> **Callout – Spot question**
+<!-- card: callout -->
+> **Spot question**
 >
 > Why does a node verify transactions? Name one rule it checks.
 
@@ -489,6 +505,7 @@ Mining secures transaction ordering; it does not solve outside equations. Evalua
 ![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 <!-- micrographic: proof-of-work-process-01 -->
+[A miner hashes a proposed block over and over until one result is below the network's target, then broadcasts the block. Nodes check the proof and every rule quickly before the block joins the blockchain: work is costly to produce and easy to verify.](/micrographics/proof-of-work-process-01/en.md)
 
 ---
 
@@ -509,10 +526,12 @@ Nodes reject excess issuance; the limit holds while participants enforce it. Lim
 ---
 
 <!-- micrographic: bitcoin-issuance-supply-01 -->
+[Line chart: the total amount of bitcoin issued rises quickly at first, then ever more slowly toward the 21 million limit.](/micrographics/bitcoin-issuance-supply-01/en.md)
 
 ---
 
 <!-- micrographic: bitcoin-issuance-subsidy-01 -->
+[Bar chart: the block subsidy starts at 50 bitcoin and halves every 210,000 blocks (25, 12.5, 6.25, 3.125). Transaction fees are paid on top and are not new bitcoin.](/micrographics/bitcoin-issuance-subsidy-01/en.md)
 
 ---
 
@@ -528,7 +547,8 @@ Nodes reject excess issuance; the limit holds while participants enforce it. Lim
 **Unit bias:** a low price per whole unit does not prove better value. Compare the supply share, value involved, and risks.
 
 
-> **Callout – Show your understanding**
+<!-- card: callout -->
+> **Show your understanding**
 >
 > How many sats are in 0.01 BTC? Why can someone use less than a whole bitcoin?
 
@@ -586,7 +606,8 @@ A familiar ticker, stable-looking price, or polished app does not prove safety. 
 * No instruction to buy, sell, or hold
 
 
-> **Callout – Local-value check**
+<!-- card: callout -->
+> **Local-value check**
 >
 > Separate market price, local acceptance, and personal preference or bias.
 
@@ -601,6 +622,7 @@ Evaluate the design and operation as well as its origin story.
 ---
 
 <!-- micrographic: bitcoin-origin-timeline-01 -->
+[Bitcoin's origin in four dated events: on 31 October 2008 Satoshi Nakamoto published the whitepaper, describing direct online payments without a financial intermediary; on 3 January 2009 the Genesis Block started the Bitcoin network, with a headline about bank bailouts; on 12 January 2009 Satoshi sent bitcoin to Hal Finney in the first recorded person-to-person transaction; on 22 May 2010 a user paid 10,000 BTC for two pizzas, now Bitcoin Pizza Day.](/micrographics/bitcoin-origin-timeline-01/en.md)
 
 ---
 
@@ -629,7 +651,8 @@ Personal responsibility can include education, peer review, procedures, and smal
 * Transaction ordering → proof of work; equipment and energy costs
 
 
-> **Callout – A moment to reflect**
+<!-- card: callout -->
+> **A moment to reflect**
 >
 > Which part of Bitcoin's design would you explain differently now, and why?
 
@@ -674,6 +697,7 @@ Training wallets must not secure meaningful funds. A later personal wallet needs
 ---
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[A wallet holds the keys. With them you can receive and send bitcoin, while the bitcoin itself stays recorded on the shared ledger, not inside the phone or device.](/micrographics/wallet-manages-keys-01/en.md)
 
 ---
 
@@ -699,13 +723,15 @@ Malware can replace copied destinations. Familiar appearance is not enough. Fres
 Never share private keys, seed phrases, passwords, or recovery codes. No legitimate educator, support worker, wallet company, exchange employee, or developer needs them.
 
 
-> **Callout – Try it**
+<!-- card: callout -->
+> **Try it**
 >
 > Sort prepared examples into receiving information, secrets, and public information that becomes sensitive when linked to a person.
 
 ---
 
 <!-- micrographic: private-key-public-info-01 -->
+[A secret private key, which must never be shared, leads to public information that can be shared: a public key derived from it and a receiving address created from that. The same private key creates signatures that nodes verify without ever learning the private key.](/micrographics/private-key-public-info-01/en.md)
 
 ---
 
@@ -738,7 +764,8 @@ If it may have been seen, copied, entered online, or stored on an untrusted devi
 A public blockchain cannot prove what a service owes a particular customer. Self-custody can still involve software, hardware, server, and network dependencies.
 
 
-> **Callout – Try it**
+<!-- card: callout -->
+> **Try it**
 >
 > Compare two prepared descriptions: who controls keys, who restores access, and what risk needs checking?
 
@@ -749,6 +776,7 @@ A public blockchain cannot prove what a service owes a particular customer. Self
 ---
 
 <!-- micrographic: who-controls-keys-01 -->
+[In custodial use, a service controls the keys and approves spending, so the balance is its promise. In self-custodial use, the user controls the keys and backups; both routes have dependencies and failure risks.](/micrographics/who-controls-keys-01/en.md)
 
 ---
 
@@ -776,6 +804,7 @@ Use only prepared, empty, or simulated materials. Never expose real recovery wor
 ---
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[A six-step practice for recovering a training wallet: follow official instructions, check compatibility, work privately, use the approved recovery method, confirm the expected wallet, then reset. Use only prepared, empty or simulated materials, and the educator never sees the recovery words.](/micrographics/practice-wallet-recovery-01/en.md)
 
 ---
 
@@ -804,6 +833,7 @@ Approve only when every check matches. If details change, urgency appears, or an
 ---
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Before approving a payment, the sender checks the recipient and purpose, the payment method, the destination, and the amount, unit, fee or expiry, using a small test when unfamiliar. If anything differs, they stop and verify; they approve only when everything matches, then check the result.](/micrographics/pre-send-checklist-01/en.md)
 
 ---
 
@@ -823,6 +853,7 @@ Use prepared examples; do not search a learner's personal address or transaction
 ---
 
 <!-- micrographic: confirmation-timeline-01 -->
+[A transaction waits unconfirmed in the pending pool, then is included in Block N as its first confirmation, and each later block adds one more.](/micrographics/confirmation-timeline-01/en.md)
 
 ---
 
@@ -835,7 +866,8 @@ Use prepared examples; do not search a learner's personal address or transaction
 **Pause. Share nothing. Send nothing. Close the channel. Verify independently. Ask for help without revealing secrets.**
 
 
-> **Callout – Try it**
+<!-- card: callout -->
+> **Try it**
 >
 > Identify a prepared message's warning sign, possible loss, and first safe action.
 
@@ -844,6 +876,7 @@ Use prepared examples; do not search a learner's personal address or transaction
 ---
 
 <!-- micrographic: scam-red-flags-01 -->
+[Five scam red flags: urgency, impersonation, a changed destination, guaranteed returns and requests for secrets.](/micrographics/scam-red-flags-01/en.md)
 
 ---
 
@@ -860,10 +893,12 @@ No route or provider is automatically best. **KYC** means identity checks: possi
 ---
 
 <!-- micrographic: ways-to-receive-bitcoin-01 -->
+[One person can receive bitcoin in four different ways: earning it through work or sales, exchanging local cash with another person, using an exchange or broker, or using an ATM. Each route ends in self-custody or a custodial balance, and none is recommended over the others.](/micrographics/ways-to-receive-bitcoin-01/en.md)
 
 ---
 
 <!-- micrographic: exchange-risk-questions-01 -->
+[Six risk areas to check before acquiring or exchanging bitcoin, each with a question to ask: costs, custody, identity and privacy, withdrawal and settlement, counterparty and safety, and local context.](/micrographics/exchange-risk-questions-01/en.md)
 
 ---
 
@@ -909,7 +944,8 @@ Use the agreed training environment. Pause on a mismatch; ask for support and mo
 A friend sends a request while unfamiliar support demands immediate action. What could you check before doing anything?
 
 
-> **Callout – A moment to reflect**
+<!-- card: callout -->
+> **A moment to reflect**
 >
 > Which safety check will you pause to make before acting?
 
@@ -928,6 +964,7 @@ A friend sends a request while unfamiliar support demands immediate action. What
 ## Your Local Module 4
 
 <!-- micrographic: local-module-four-actions-01 -->
+[In the local Module 4, the learner moves through four actions: connect an idea from Modules 1 to 3 to a local need, compare Bitcoin with a realistic existing option, practice safely with guidance, and explain what they learned and a responsible next step. Their educator, and sometimes a local expert, guides them throughout.](/micrographics/local-module-four-actions-01/en.md)
 
 
 Record your local focus: problem or opportunity, alternative, safe scenario, main benefit and risk, and safe next step.
@@ -979,10 +1016,12 @@ A successful small payment does not prove safety for larger balances.
 ---
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[The receiver creates a Lightning payment request with the amount on their phone, the sender scans it and pays, and the payment arrives on the receiver's phone a moment later.](/micrographics/lightning-phone-payment-01/en.md)
 
 ---
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[A Lightning payment in six steps: the receiver creates a request, the sender scans it, checks recipient, amount, unit, expiry and fee, approves, the payment routes, and both wallets show the result. Each wallet may be custodial or self-custodial, and a failed or expired payment starts again with a new request.](/micrographics/lightning-payment-sequence-01/en.md)
 
 ---
 
@@ -1034,6 +1073,7 @@ Select or adapt the guide's scenarios to the local task. Keep prompts learner-fa
 ---
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[A coffee shop payment in four steps: the customer orders, the server sends an invoice, the customer pays in bitcoin from their phone, and the server hands over the coffee.](/micrographics/coffee-shop-payment-01/en.md)
 
 ---
 
@@ -1094,6 +1134,7 @@ Adoption numbers alone do not prove usefulness. Weak demand, tools, education, o
 ---
 
 <!-- micrographic: local-circular-economy-01 -->
+[In a Bitcoin circular economy, bitcoin passes from person to person in exchange for goods, services and time. A customer pays a merchant, the merchant pays a service provider, the service provider pays a worker, and the worker spends it again as a customer.](/micrographics/local-circular-economy-01/en.md)
 
 ---
 
@@ -1151,6 +1192,7 @@ Complete individually, then compare reasoning with your group.
 * Useful community participation is voluntary and protects people
 
 
-> **Callout – A moment to reflect**
+<!-- card: callout -->
+> **A moment to reflect**
 >
 > What question would you ask before deciding whether a Bitcoin path fits a local need?

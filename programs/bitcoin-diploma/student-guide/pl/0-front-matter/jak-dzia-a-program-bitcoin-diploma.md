@@ -22,6 +22,7 @@ Każdy moduł ma ten sam rytm:
 
 
 <!-- micrographic: learning-rhythm-strip-01 -->
+[Pięcioetapowy cykl nauki: poznanie kluczowej idei, pokazanie, co potrafią Państwo wyjaśnić lub zastosować, zastosowanie tej idei, wyjaśnienie jej własnymi słowami oraz przeanalizowanie jej powiązania z następnym modułem.](/micrographics/learning-rhythm-strip-01/pl.md)
 
 
 Więcej nauczą się Państwo poprzez aktywny udział niż przez ciche czytanie. Niektóre pytania nie mają jednej poprawnej odpowiedzi. Ważne jest to, czy potrafią Państwo wyjaśnić swój tok rozumowania, przeanalizować dowody i zmienić pogląd, gdy dowiedzą się Państwo czegoś nowego.
@@ -81,7 +82,8 @@ Gdy nadejdzie czas na ćwiczenia z [portfelem Bitcoin](https://curriculum.myfirs
 ### Bezpieczeństwo, odpowiedzialność i brak porad finansowych
 
 
-> **Callout – Najpierw nauka; to nie jest rekomendacja**
+<!-- card: callout -->
+> **Najpierw nauka; to nie jest rekomendacja**
 >
 > Bitcoin Diploma służy wyłącznie celom edukacyjnym. Nie oferuje porad finansowych, inwestycyjnych, prawnych ani podatkowych. Nie obiecuje, że bitcoin będzie miał wyższą [cenę](https://curriculum.myfirstbitcoin.org/lexicon/en/#price), ani nie zaleca kupowania, sprzedawania, zaciągania pożyczek pod zastaw ani posiadania jakiejkolwiek ilości bitcoina.
 >
@@ -104,6 +106,7 @@ Program dyplomowy obejmuje cztery etapy nauki: **Problem → Rozwiązanie → Dz
 
 
 <!-- micrographic: learning-path-roadmap-01 -->
+[Czteroetapowy plan: Problem — Zrozumieć pieniądz; Rozwiązanie — Jak działa Bitcoin; Działanie — Bezpieczne korzystanie z Bitcoina; oraz Powiązanie — Bitcoin w Państwa społeczności. Każdemu etapowi towarzyszy pytanie przewodnie.](/micrographics/learning-path-roadmap-01/pl.md)
 
 
 **Moduł 4** jest obowiązkową częścią programu dyplomowego, a jego treść dobiera osoba prowadząca zajęcia. Osoby prowadzące zajęcia są ekspertami w zakresie lokalnych ograniczeń, rozwiązań, narzędzi, zasobów, przepisów prawa, języka, infrastruktury i potrzeb swoich uczestników. Zajęcia na etapie Powiązanie, przygotowane przez osobę prowadzącą, mogą obejmować zarabianie, oszczędzanie, otrzymywanie i wydawanie środków, [drugowarstwowe](https://curriculum.myfirstbitcoin.org/lexicon/en/#layer-2) rozwiązania, lokalne sposoby wymiany, sprzedawców lub gospodarki o obiegu zamkniętym.
@@ -118,6 +121,7 @@ Cztery moduły tworzą wymaganą ścieżkę nauki Problem → Rozwiązanie → D
 
 
 <!-- micrographic: four-module-table-01 -->
+[Tabela czterech modułów z rolą każdego z nich, pytaniem przewodnim i umiejętnościami, które będą ćwiczyć osoby uczące się: Zrozumieć pieniądz, Jak działa Bitcoin, Bezpieczne korzystanie z Bitcoina oraz Bitcoin w Państwa społeczności.](/micrographics/four-module-table-01/pl.md)
 
 
 Realizacja programu dyplomowego zajmuje co najmniej osiem godzin. Cztery dwugodzinne spotkania to najkrótszy przewidziany format, a nie limit czasu. Osoba prowadząca Państwa zajęcia może rozłożyć moduł na więcej spotkań, powrócić do wcześniejszego zagadnienia lub zmienić kolejność poszczególnych sekcji, gdy Państwa grupa potrzebuje więcej czasu na dyskusję, ćwiczenia, powtórkę lub ocenę postępów. Nie ma górnego limitu czasu: osoba prowadząca zajęcia pozostaje odpowiedzialna za zapewnienie uczestnikom potrzebnego czasu, uwzględnienie wszystkich wymaganych kompetencji i jasne przedstawienie powiązań między modułami.

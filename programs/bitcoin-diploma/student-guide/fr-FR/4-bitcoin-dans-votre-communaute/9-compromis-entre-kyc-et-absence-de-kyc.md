@@ -3,7 +3,8 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) et [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) sont des parcours qui impliquent différents [compromis](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Aucune de ces deux étiquettes ne dispense d’une évaluation attentive.
 
 
-> **Callout – La confidentialité n’élimine ni les risques juridiques ni les risques pour la sécurité physique**
+<!-- card: callout -->
+> **La confidentialité n’élimine ni les risques juridiques ni les risques pour la sécurité physique**
 >
 > Ni le parcours [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) ni le parcours [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) ne sont systématiquement préférables. Comparez le parcours concret, consultez des recommandations locales à jour lorsque les règles manquent de clarté, et n’enfreignez pas la législation locale ni ne vous exposez à un danger physique pour préserver votre [confidentialité](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 

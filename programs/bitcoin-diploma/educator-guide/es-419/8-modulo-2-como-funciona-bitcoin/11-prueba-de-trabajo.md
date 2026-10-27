@@ -10,6 +10,7 @@ Enseñe la relación, no las matemáticas:
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Un minero calcula hashes de un bloque propuesto una y otra vez hasta que un resultado es inferior al objetivo de la red y luego difunde el bloque. Los nodos verifican rápidamente la prueba y el cumplimiento de cada regla antes de que el bloque se incorpore a la cadena de bloques: el trabajo es costoso de realizar y fácil de verificar.](/micrographics/proof-of-work-process-01/es-419.md)
 
 
 Evite decir que [los mineros](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) resuelven ecuaciones útiles para fines externos. Evite afirmar que el costo energético se justifica automáticamente o que constituye automáticamente un desperdicio.

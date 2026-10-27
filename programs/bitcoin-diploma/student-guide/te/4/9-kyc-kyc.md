@@ -3,7 +3,8 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) మరియు [KYC లేని](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) మార్గాల్లో వేర్వేరు [ప్రయోజనాల కోసం వేర్వేరు రాజీలు చేసుకోవాల్సి ఉంటుంది](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). ఏ పేరుతో పిలిచినా, జాగ్రత్తగా మూల్యాంకనం చేయాల్సిన అవసరం తొలగిపోదు.
 
 
-> **Callout – గోప్యత వల్ల చట్టపరమైన లేదా భౌతిక భద్రతకు సంబంధించిన ముప్పులు తొలగిపోవు**
+<!-- card: callout -->
+> **గోప్యత వల్ల చట్టపరమైన లేదా భౌతిక భద్రతకు సంబంధించిన ముప్పులు తొలగిపోవు**
 >
 > అటు [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) గానీ, ఇటు [KYC లేని మార్గం](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) గానీ దానంతట అదే ఉత్తమమైనది కాదు. వాస్తవ మార్గాన్ని పోల్చి చూడండి, నియమాలు స్పష్టంగా లేనప్పుడు ప్రస్తుత స్థానిక మార్గదర్శకాలను అనుసరించండి. స్థానిక చట్టాన్ని ఉల్లంఘించకండి లేదా మిమ్మల్ని మీరు భౌతిక ప్రమాదంలో పడవేసుకోకండి, అది [గోప్యత కోసం అయినా సరే](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 

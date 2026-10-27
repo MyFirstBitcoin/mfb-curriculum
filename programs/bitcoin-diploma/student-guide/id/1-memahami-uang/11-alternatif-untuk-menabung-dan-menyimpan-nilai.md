@@ -4,6 +4,7 @@ Orang sering mencari alternatif selain menyimpan uang tunai ketika mereka yakin 
 
 
 <!-- micrographic: saving-alternatives-table-01 -->
+[Tabel berisi tiga alternatif selain menyimpan uang tunai (logam mulia, properti, dan saham), masing-masing disertai alasan orang mungkin memilihnya dan konsekuensi penting yang perlu dipertimbangkan. Tidak ada yang ditempatkan lebih tinggi daripada yang lain.](/micrographics/saving-alternatives-table-01/id.md)
 
 
 Suatu [aset](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) adalah sesuatu yang dapat dimiliki atau diklaim oleh seseorang dan mungkin memiliki [nilai](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); aset tidak serta-merta menjalankan semua fungsi uang. Rumah dapat menyimpan [nilai](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) tetapi tidak praktis untuk membeli makanan. Saham mungkin mudah dijual di suatu negara, tetapi tidak dapat diakses oleh seseorang yang tidak memiliki rekening pada perusahaan pialang. [Emas](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) telah digunakan sebagai uang sepanjang berbagai periode panjang dalam sejarah, tetapi keasliannya bisa sulit diverifikasi atau emas itu sendiri sulit dibagi dalam transaksi bernilai kecil.

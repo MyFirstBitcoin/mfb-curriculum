@@ -13,6 +13,7 @@ Le pair-à-pair ne signifie pas que seuls deux ordinateurs communiquent directem
 
 
 <!-- micrographic: powers-and-limits-01 -->
+[Les utilisateurs, les nœuds, les mineurs, les développeurs et les services disposent chacun d'un certain pouvoir en lien avec les règles communes et le registre public de Bitcoin, mais aucun ne peut, à lui seul, modifier le registre ou les règles pour tout le monde.](/micrographics/powers-and-limits-01/fr-FR.md)
 
 
 ![La personne qui enseigne utilise une baguette pour expliquer un réseau sur un tableau de présentation aux apprenants débutants et aux apprenants ayant un profil technique.](https://cdn.sanity.io/images/vje9ehw2/staging/3999e88f5f80f010b5cd6238a4fe41d1aed8bdb2-1054x1492.png)

@@ -14,6 +14,7 @@ El dinero útil también suele tener varias propiedades:
 
 
 <!-- micrographic: money-property-questions-01 -->
+[Siete propiedades del dinero útil, cada una con una pregunta para plantearse al comparar formas de dinero: durabilidad, portabilidad, divisibilidad, fungibilidad, escasez, aceptabilidad y verificabilidad.](/micrographics/money-property-questions-01/es-419.md)
 
 
 Ninguna forma de dinero obtiene una calificación perfecta.
@@ -22,6 +23,7 @@ Las personas también comparan el dinero según su [**solidez**](https://curricu
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Dos capas: las tres funciones del dinero (medio de intercambio, unidad de cuenta, reserva de valor) se sustentan en siete propiedades (durabilidad, portabilidad, divisibilidad, fungibilidad, escasez, aceptabilidad y verificabilidad).](/micrographics/functions-and-properties-01/es-419.md)
 
 
 [El oro](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) es duradero y escaso, pero difícil de dividir y transportar para realizar pagos pequeños. [El dinero en billetes](https://curriculum.myfirstbitcoin.org/lexicon/en/#paper-cash) es fácil de transportar y se acepta localmente, pero puede dañarse y su oferta puede aumentar. La mejor comparación depende del propósito, el lugar y el momento.

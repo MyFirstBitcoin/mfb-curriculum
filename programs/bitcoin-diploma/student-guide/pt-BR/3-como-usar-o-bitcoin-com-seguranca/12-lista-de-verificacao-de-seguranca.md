@@ -6,6 +6,7 @@ O que faria você parar antes de um pagamento ou de uma instalação? Considere 
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Cinco sinais de alerta de golpe: urgência, falsificação de identidade, destino alterado, retornos garantidos e pedidos de segredos.](/micrographics/scam-red-flags-01/pt-BR.md)
 
 
 A resposta segura é sempre: **Faça uma pausa. Não compartilhe nada. Não envie nada. Encerre o canal. Verifique de forma independente por meio de uma fonte conhecida. Peça ajuda sem revelar segredos.** Uma fonte conhecida é um site oficial, uma página do aplicativo na loja ou um meio de contato que você encontrou de forma independente, e não por meio de um anúncio, de uma mensagem direta ou de um link inesperado. Confira o responsável pela publicação e o endereço da página, compare-os com a documentação oficial e procure os dados de contato separadamente. Se a fonte, as instruções ou os dados de pagamento forem diferentes do processo demonstrado, faça uma pausa e peça ajuda ao seu educador ou a um suporte local de confiança, sem revelar uma [frase-semente](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) ou uma [chave privada](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key). Uma oportunidade verdadeira resiste a uma verificação cuidadosa; um golpe muitas vezes depende de impedi-la.

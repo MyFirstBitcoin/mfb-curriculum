@@ -3,6 +3,7 @@
 Bitcoin ownership is enforced through cryptographic keys.
 
 
+<!-- card: definition -->
 > **Definition – Private key**
 >
 > A [private key](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) is secret information that allows a wallet to create valid [digital signatures](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature). A signature authorizes the spending of bitcoin controlled by the corresponding key. Anyone who obtains the [private key](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) can usually spend those funds.
@@ -21,10 +22,10 @@ Most beginner wallets use [single-signature](https://curriculum.myfirstbitcoin.o
 No legitimate educator, wallet company, exchange employee, technical-support worker, or Bitcoin developer needs your [private key](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) or [seed phrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase). Anyone who asks for it should be treated as a threat.
 
 
-> **Light**
->
+<!-- card: light -->
 > **Try it:** Sort prepared examples into three groups: safe to share for receiving, secret spending information, and information that may be public but should still be kept private when linked to a person.
 
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[A secret private key, which must never be shared, leads to public information that can be shared: a public key derived from it and a receiving address created from that. The same private key creates signatures that nodes verify without ever learning the private key.](/micrographics/private-key-public-info-01/en.md)

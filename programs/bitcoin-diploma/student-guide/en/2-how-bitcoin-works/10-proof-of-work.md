@@ -3,6 +3,7 @@
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
+<!-- card: definition -->
 > **Definition – Proof of work**
 >
 > [Proof of work](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) is the process [miners](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) use to compete for the right to propose the next block.
@@ -14,6 +15,7 @@ When a [miner](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) finds a 
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+[A miner hashes a proposed block over and over until one result is below the network's target, then broadcasts the block. Nodes check the proof and every rule quickly before the block joins the blockchain: work is costly to produce and easy to verify.](/micrographics/proof-of-work-process-01/en.md)
 
 
 [Proof of work](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) serves several purposes:

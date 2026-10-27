@@ -24,6 +24,7 @@ Vir ruiltransaksies in persoon, gebruik 'n openbare en geskikte plek, vermy dit 
 
 
 <!-- micrographic: compare-local-pathways-01 -->
+[’n Leë tabel om drie plaaslike roetes, A, B en C, te vergelyk volgens naam, KYC-vereistes, bewaringsmodel, ondersteunde netwerke, reputasie en befondsingsmetodes, met ruimte vir notas.](/micrographics/compare-local-pathways-01/af.md)
 
 
 

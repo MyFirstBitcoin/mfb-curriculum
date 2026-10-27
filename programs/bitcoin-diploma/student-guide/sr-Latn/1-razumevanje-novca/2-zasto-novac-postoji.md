@@ -5,6 +5,7 @@ Ljudi imaju različite veštine, resurse, potrebe i planove. Razmena im omoguća
 Neposredna razmena je često teška. Osoba koja ima ono što vam je potrebno možda ne želi ono što vi nudite. Novac rešava ovaj problem koordinacije.
 
 
+<!-- card: definition -->
 > **Definition – Novac**
 >
 > Novac je [imovina](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) koju ljudi prihvataju jer očekuju da će je i drugi ljudi kasnije prihvatiti. On pomaže ljudima koji se ne poznaju da usklade razmenu, beleže [cene](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) i [dugove](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt) i prenose [vrednost](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) kroz vreme i prostor.

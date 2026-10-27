@@ -5,7 +5,8 @@
 Kailangan ng higit na pag-iingat sa pagpapadala dahil ang isang wastong Bitcoin na [transaksyon](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) ay karaniwang mahirap o imposibleng bawiin. Bago ninyo pindutin ang button ng pag-apruba, maipapaliwanag ba ninyo kung sino ang tatanggap ng bayad at kung bakit?
 
 
-> **Callout – Huminto at tiyakin ang mga detalye bago magpadala**
+<!-- card: callout -->
+> **Huminto at tiyakin ang mga detalye bago magpadala**
 >
 > Tiyakin ang tatanggap, paraan ng pagbabayad, destinasyon, halaga at yunit, bayarin o oras ng pag-expire, at huling screen. Kung may anumang naiiba sa mapagkakatiwalaang kahilingan, o may nagmamadali sa inyo o humihingi ng impormasyon sa pagbawi, huminto at tiyakin ang mga detalye sa hiwalay na paraan. Magsubok muna gamit ang maliit na halaga kung hindi pa kayo pamilyar sa proseso.
 
@@ -21,6 +22,7 @@ Kailangan ng higit na pag-iingat sa pagpapadala dahil ang isang wastong Bitcoin 
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Bago aprubahan ang isang pagbabayad, sinusuri ng nagpapadala ang tatanggap at layunin, ang paraan ng pagbabayad, ang patutunguhan, at ang halaga, yunit, bayarin o oras ng pag-expire, at nagpapadala muna ng maliit na halaga bilang pagsubok kapag hindi pamilyar sa proseso. Kung may anumang hindi tugma, humihinto siya at tinitiyak muna ang mga detalye; nag-aapruba lamang siya kapag tugma ang lahat, at pagkatapos ay sinusuri ang resulta.](/micrographics/pre-send-checklist-01/tl.md)
 
 
 Para sa isang [on-chain na pagbabayad](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), ang **bayarin sa network** ay binabayaran upang maisama ang [transaksyon](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) sa isang block. Pangunahin itong nakadepende sa [pangtransaksyong](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) datos at pangangailangan para sa [espasyo sa block](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-space), hindi lamang sa halagang ipinapadala. Maaaring magbago ang mga pagtataya ng bayarin at tagal ng pagproseso, kaya basahin ang huling buod sa halip na ipagpalagay na mababa ang bayarin kapag maliit ang halagang ibinabayad.

@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: four-module-diploma-01 -->
+[Bitcoin Diploması sırasıyla dört aşamayı izler: Sorun, Çözüm, Eylem ve Bağlantı.](/micrographics/four-module-diploma-01/tr.md)
 
 
 **Modül 4**, Bitcoin Diploması kapsamında zorunlu bir öğrenmedir ve yerel konu uzmanları olarak eğitmenler tarafından düzenlenir. Senaryo veya araç değişebilir, ancak sertifika almak isteyen her öğrenci `C7` gereksinimini yerel bir etkinlik aracılığıyla karşılamalıdır; bu etkinlik `C7.1` ve `C7.2` ölçütlerinin amacını kapsamalıdır.

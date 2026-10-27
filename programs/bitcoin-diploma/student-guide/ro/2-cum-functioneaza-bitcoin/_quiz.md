@@ -1,6 +1,6 @@
 # Quiz – Cum funcționează Bitcoin: verificare rapidă
 
-## Question 1
+## Întrebare 1
 
 Aceeași unitate digitală este folosită pentru două plăți. Sistemul trebuie:
 
@@ -9,11 +9,11 @@ Aceeași unitate digitală este folosită pentru două plăți. Sistemul trebuie
 * [ ] Să îi mărească prețul
 * [ ] Să elimine comisioanele
 
-### Explanation
+### Explicație
 
 Informația digitală poate fi copiată, așa că un sistem monetar trebuie să împiedice cheltuirea aceleiași unități de două ori și să stabilească ce tranzacție este validă. Recitiți Ghidul cursantului, Modulul 2, „Primele încercări de creare a banilor digitali și problema dublei cheltuiri”.
 
-## Question 2
+## Întrebare 2
 
 Descentralizarea Bitcoin înseamnă:
 
@@ -22,11 +22,11 @@ Descentralizarea Bitcoin înseamnă:
 * [ ] Minerii schimbă regulile după bunul plac
 * [ ] Influență egală pentru toți
 
-### Explanation
+### Explicație
 
 Bitcoin distribuie verificarea și aplicarea regulilor între participanți independenți. Descentralizarea nu înseamnă că o singură companie controlează rețeaua sau că toți au aceeași influență. Recitiți Ghidul cursantului, Modulul 2, „Descentralizarea”.
 
-## Question 3
+## Întrebare 3
 
 Un nod Bitcoin:
 
@@ -35,11 +35,11 @@ Un nod Bitcoin:
 * [ ] Stochează bitcoin
 * [ ] Garantează plata
 
-### Explanation
+### Explicație
 
 Nodurile verifică independent respectarea regulilor Bitcoin și resping datele nevalide. Ele nu creează bitcoin la cerere și nu stochează bitcoin într-un telefon. Recitiți Ghidul cursantului, Modulul 2, „Utilizatori, noduri și mineri”.
 
-## Question 4
+## Întrebare 4
 
 De ce este Bitcoin considerat o formă de bani sănătoși?
 
@@ -48,6 +48,6 @@ De ce este Bitcoin considerat o formă de bani sănătoși?
 * [ ] O singură companie îl controlează
 * [ ] Plățile sunt confidențiale
 
-### Explanation
+### Explicație
 
 Unii oameni descriu Bitcoin ca pe o formă de bani sănătoși deoarece regulile privind oferta sa sunt publice, iar emisiunea sa este limitată. Aceasta este o apreciere argumentată, nu o promisiune privind prețul sau confidențialitatea. Recitiți Ghidul cursantului, Modulul 2, „Bitcoin ca formă de bani digitali sănătoși”.

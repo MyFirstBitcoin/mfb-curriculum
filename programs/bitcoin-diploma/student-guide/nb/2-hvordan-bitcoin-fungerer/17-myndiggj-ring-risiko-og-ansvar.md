@@ -13,6 +13,5 @@ For en person som velger [egenforvaring](https://curriculum.myfirstbitcoin.org/l
 [Egenforvaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) er derfor ikke bare en teknisk funksjon. Det krever at man beskytter sikkerhetskopier, verifiserer adresser, kontrollerer hvordan lommeboken fungerer, og lager en gjenopprettingsplan. Den neste modulen forklarer hvordan man oppbevarer og bruker bitcoin på en forsiktig måte, inkludert hvordan man håndterer disse risikoene og dette ansvaret.
 
 
-> **Light**
->
+<!-- card: light -->
 > Personlig ansvar betyr ikke at man må handle alene eller avvise hjelp. En forsiktig kursdeltaker kan benytte seg av opplæring, gjennomgang med andre deltakere, dokumenterte prosedyrer og små tester uten å gi noen tilgang til hemmelig informasjon.

@@ -3,6 +3,7 @@
 Informațiile digitale sunt, în mod normal, ușor de copiat.
 
 
+<!-- card: definition -->
 > **Definition – Raritate digitală**
 >
 > În mediul digital, [raritatea](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) înseamnă că un sistem poate distinge o unitate validă de o copie nevalidă și poate împiedica cheltuirea aceleiași unități de două ori.
@@ -14,6 +15,7 @@ Bitcoin creează în mediul digital [raritate](https://curriculum.myfirstbitcoin
 
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[O limită a ofertei monetare înscrisă pe un site sau în baza de date a unui emitent poate fi modificată de acesta fără ca nimeni să observe. Regula privind oferta monetară a Bitcoin este publică, iar semnăturile, istoricul public, dovada muncii și verificarea de către noduri împiedică împreună crearea neautorizată de monede noi sau cheltuirea aceluiași bitcoin de două ori.](/micrographics/claimed-or-verified-supply-01/ro.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)

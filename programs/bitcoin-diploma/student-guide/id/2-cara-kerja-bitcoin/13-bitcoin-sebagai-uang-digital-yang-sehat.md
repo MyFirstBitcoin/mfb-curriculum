@@ -6,6 +6,7 @@ Bitcoin menggabungkan sifat-sifat yang sebelumnya tidak pernah hadir bersama dal
 
 
 <!-- micrographic: bitcoin-money-properties-01 -->
+[Bitcoin menggabungkan tujuh sifat uang dalam satu aset: daya tahan, kemudahan dibawa, kemudahan dibagi, kesepadanan, kelangkaan, kemudahan diverifikasi, dan keberterimaan. Masing-masing memiliki keterbatasan praktis, seperti perlunya menjaga keamanan kunci dan tingkat penerimaan yang masih rendah di banyak komunitas.](/micrographics/bitcoin-money-properties-01/id.md)
 
 
 

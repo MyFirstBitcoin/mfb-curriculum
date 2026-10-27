@@ -1,5 +1,6 @@
 # 1.7 Dekretiniai pinigai
 
+<!-- card: definition -->
 > **Definition – Dekretiniai pinigai**
 >
 > [Dekretiniai pinigai](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) yra [valiuta](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency), išleidžiama valdžios įgaliojimu, paprastai per [centrinį banką](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank), kurios negalima iškeisti į nustatytą kiekį tokios žaliavos kaip [auksas](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold). Valdžia remia, o tam tikromis aplinkybėmis ir primeta, jos naudojimą reikalaudama ja mokėti mokesčius ir nustatydama teisėtos mokėjimo priemonės taisykles. Konkrečios mokėjimų priėmimo ir [skolų](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt) padengimo taisyklės priklauso nuo jurisdikcijos.
@@ -11,12 +12,14 @@ Dekretinių pinigų sistemoje yra keli pagrindiniai dalyviai:
 
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Dekretinių pinigų sistemos dalyviai ir tai, kas tarp jų perduodama: centrinis bankas nustato pinigų politiką ir vykdo tarpbankinius atsiskaitymus, komerciniai bankai laiko indėlius, kurie yra jų įsipareigojimai klientams, mokėjimo paslaugų teikėjai perduoda nurodymus, valdžia renka mokesčius ir leidžia lėšas, o gyventojai ir įmonės moka ir gauna mokėjimus.](/micrographics/fiat-system-flows-01/lt.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
-> **Light – Išnagrinėkite mokėjimą savo bendruomenėje**
+<!-- card: light -->
+> **Išnagrinėkite mokėjimą savo bendruomenėje**
 >
 > Pasirinkite vieną įprastą mokėjimą savo bendruomenėje, pavyzdžiui, mokėjimą už transportą, maistą ar telefono sąskaitos papildymą, darbo užmokesčio gavimą arba sąskaitos apmokėjimą. Jei pageidaujate, pasitelkite tikrovišką išgalvotą scenarijų. Trimis ar keturiais sakiniais paaiškinkite:
 >

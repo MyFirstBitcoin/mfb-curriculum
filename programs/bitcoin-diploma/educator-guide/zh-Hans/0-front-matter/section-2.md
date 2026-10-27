@@ -21,6 +21,7 @@
 
 
 <!-- micrographic: two-completion-gates-01 -->
+[理论能力C1至C5和实践能力C6及C7必须各自获得「是」，方可颁发结业证书。「尚未达标」意味着需要更多练习并重新评估；出勤和反思均不能替代任何一道关卡。](/micrographics/two-completion-gates-01/zh-Hans.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/2783871f5851cf80c2e6e2a93eeb911607939507-1536x1024.svg)

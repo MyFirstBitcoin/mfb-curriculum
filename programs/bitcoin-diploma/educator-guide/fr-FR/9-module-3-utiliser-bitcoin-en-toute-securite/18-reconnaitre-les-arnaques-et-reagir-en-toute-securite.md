@@ -19,6 +19,7 @@ Utilisez la réaction à adopter par défaut :
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Cinq signaux d’alerte d’une arnaque : urgence, usurpation d’identité, destination modifiée, rendements garantis et demandes d’informations secrètes.](/micrographics/scam-red-flags-01/fr-FR.md)
 
 
 #### Activité : ateliers sur les arnaques

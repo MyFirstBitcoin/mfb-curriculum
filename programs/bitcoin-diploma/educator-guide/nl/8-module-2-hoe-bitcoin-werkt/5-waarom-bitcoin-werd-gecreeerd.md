@@ -6,6 +6,7 @@ Een centraal digitaal betalingssysteem kan één gezaghebbend [grootboek](https:
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Bij een betalingsbedrijf houdt één organisatie het grootboek bij en keurt zij elke overboeking goed. Bij Bitcoin ondertekent de verzender een transactie, controleren onafhankelijke Nodes deze en voegen miners deze toe aan één gedeeld grootboek, waardoor de ontvanger minder afhankelijk is van een centrale autoriteit.](/micrographics/central-ledger-vs-bitcoin-01/nl.md)
 
 
 Vraag:

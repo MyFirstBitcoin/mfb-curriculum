@@ -1,6 +1,6 @@
 # Quiz – Utilizarea Bitcoin în siguranță: verificare rapidă
 
-## Question 1
+## Întrebare 1
 
 Un portofel Bitcoin:
 
@@ -9,11 +9,11 @@ Un portofel Bitcoin:
 * [ ] Elimină protecția informațiilor secrete
 * [ ] Anulează tranzacții
 
-### Explanation
+### Explicație
 
 Bitcoin este înregistrat în registrul partajat; un portofel gestionează informațiile folosite pentru a-l accesa și utiliza. Consultați Ghidul cursantului, Modulul 3, „Portofele”.
 
-## Question 2
+## Întrebare 2
 
 Ce puteți partaja pentru a primi bitcoin:
 
@@ -22,11 +22,11 @@ Ce puteți partaja pentru a primi bitcoin:
 * [x] Adresa de primire
 * [ ] Parola
 
-### Explanation
+### Explicație
 
 O adresă de primire poate fi partajată pentru a primi o plată. Frazele de recuperare, cheile private și parolele trebuie să rămână secrete. Consultați Ghidul cursantului, Modulul 3, „Adrese” și „Chei”.
 
-## Question 3
+## Întrebare 3
 
 Ați introdus fraza de recuperare online. Care este cel mai sigur pas următor?
 
@@ -35,11 +35,11 @@ Ați introdus fraza de recuperare online. Care este cel mai sigur pas următor?
 * [x] Creați o frază de recuperare nouă, apoi transferați fondurile
 * [ ] Reutilizați fraza de recuperare
 
-### Explanation
+### Explicație
 
 Considerați compromisă orice frază de recuperare introdusă online. Creați un portofel nou cu o frază de recuperare nouă, apoi transferați fondurile numai după ce verificați destinația. Consultați Ghidul cursantului, Modulul 3, „Fraze de recuperare”.
 
-## Question 4
+## Întrebare 4
 
 Care este diferența dintre custodie și autocustodie?
 
@@ -48,6 +48,6 @@ Care este diferența dintre custodie și autocustodie?
 * [ ] Limita ofertei
 * [ ] Responsabilitatea
 
-### Explanation
+### Explicație
 
 Utilizarea cu custodie și cea cu autocustodie diferă prin cine controlează cheile și își asumă responsabilitatea aferentă. Niciuna nu garantează siguranța sau reversibilitatea. Consultați Ghidul cursantului, Modulul 3, „Utilizarea cu și fără custodie”.

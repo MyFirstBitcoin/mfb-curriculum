@@ -14,6 +14,7 @@ When comparing [prices](https://curriculum.myfirstbitcoin.org/lexicon/en/#price)
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[A two-column table: 1 BTC is 100,000,000 sats, 0.1 BTC is 10,000,000 sats, 0.01 BTC is 1,000,000 sats, 0.001 BTC is 100,000 sats, and 0.00000001 BTC is 1 sat.](/micrographics/bitcoin-and-sats-01/en.md)
 
 
 **Show your understanding:** How many [sats](https://curriculum.myfirstbitcoin.org/lexicon/en/#satoshi) are in 0.01 BTC? Why does the [price](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) of one whole bitcoin not prevent a person from using a smaller amount?

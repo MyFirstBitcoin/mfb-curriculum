@@ -28,6 +28,7 @@ Ovaj je pristup važan jer novac utječe na svaku osobu. Ljudi bi trebali moći 
 
 
 <!-- micrographic: critical-thinking-loop-01 -->
+[Ciklus kritičkog mišljenja koji se može ponavljati: prepoznajte tvrdnju, razdvojite činjenice od osobnih sklonosti, ispitajte dokaze i izvor, usporedite alternative, navedite kompromis ili neizvjesnost te donesite privremeni zaključak ili postavite pitanje.](/micrographics/critical-thinking-loop-01/hr.md)
 
 
 **Zajedništvo** znači da obrazovanje postaje korisnije kada ljudi raspravljaju o idejama i povezuju ih s lokalnim životom. Vaš edukator i ostali polaznici mogu imati iskustva koja ne može obuhvatiti nijedna knjiga namijenjena cijelom svijetu. Pažljivo slušajte, postavljajte pitanja i s poštovanjem obrazlažite svoje zaključke.
@@ -75,7 +76,8 @@ Tečaj vam može pomoći da:
 * pripremite se za naprednije učenje
 
 
-> **Callout – Znanje prethodi djelovanju**
+<!-- card: callout -->
+> **Znanje prethodi djelovanju**
 >
 > Ne morate kupiti niti na drugi način steći bitcoin da biste završili Bitcoin diplomu. Također ne morate instalirati [Bitcoin novčanik](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet) niti koristiti vlastita sredstva. Potrebne praktične vještine mogu se procijeniti uz pomoć pripremljenog novčanika za vježbu, simulacije, testnog okruženja, fizičkog modela ili aktivnosti s malim ulozima koju odobri edukator.
 
@@ -84,3 +86,4 @@ Ako imate malo vremena ili želite prvo upoznavanje s Bitcoinom, započnite teč
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[Neobvezni put učenja vodi od Uvoda u Bitcoin do Bitcoin diplome, zatim do Programa osposobljavanja edukatora, nakon čega možete postati edukator koji podučava prema kurikulumu My First Bitcoin i pridružiti se Mreži za edukaciju o Bitcoinu. Svaki sljedeći korak stvar je izbora, a ne obveza.](/micrographics/learner-journey-pathway-01/hr.md)

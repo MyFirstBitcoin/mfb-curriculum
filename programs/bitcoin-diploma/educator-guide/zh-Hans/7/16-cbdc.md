@@ -12,6 +12,7 @@
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[一张表格，从发行方、形式、使用权限、可见性、供应规则和验证方式等方面，对现金、银行存款、零售型CBDC和比特币进行比较。数字化不等于去中心化：CBDC仍由中央银行发行，其使用权限、可见性和验证方式取决于其设计。](/micrographics/cbdc-comparison-table-01/zh-Hans.md)
 
 
 [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc)的设计各不相同。请勿断言每一种[CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc)都具备或都缺乏某项特性。请区分已确认的本地设计、已发布的提案、评论以及推测。

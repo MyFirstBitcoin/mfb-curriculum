@@ -11,6 +11,7 @@ Bitcoin var inte det första försöket att skapa digitala pengar. Det byggde p�
 Tillsammans visade dessa experiment användbara pusselbitar. De klargjorde också det återstående problemet.
 
 
+<!-- card: definition -->
 > **Definition – Dubbelspendering**
 >
 > [Dubbelspendering](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending) är ett försök att skicka samma digitala enhet till två mottagare. Digitala data kan kopieras exakt, så ett digitalt penningsystem behöver ett sätt att fastställa vilken [transaktion](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) som är giltig.
@@ -28,6 +29,7 @@ Vitboken sammanförde de funktioner som behövdes för detta tillvägagångssät
 
 
 <!-- micrographic: five-part-response-01 -->
+[Fem delar samverkar för att lösa dubbelspenderingsproblemet: ett icke-hierarkiskt nätverk, digitala signaturer, block och utvinning, oberoende verifiering samt en gemensam historik med mest ackumulerat arbetsbevis. Tillsammans gör de det möjligt för nätverket att avvisa dubbelspendering utan någon central instans.](/micrographics/five-part-response-01/sv.md)
 
 
 Den här modulen förklarar dessa begrepp mer ingående. Tillsammans gav de en praktisk lösning på [dubbelspenderingsproblemet](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): nätverket kan avvisa ett andra försök att spendera samma bitcoin utan att förlita sig på en central instans. Bitcoin erbjöd den kombination som saknades och som årtionden av experiment med digitala pengar hade sökt efter.

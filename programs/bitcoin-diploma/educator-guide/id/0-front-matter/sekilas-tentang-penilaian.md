@@ -21,6 +21,7 @@ Hasil penilaian ini bukan berupa nilai angka. Kedua komponen harus dituntaskan, 
 
 
 <!-- micrographic: two-completion-gates-01 -->
+[Kompetensi teori C1 hingga C5 dan kompetensi praktik C6 dan C7 masing-masing harus memperoleh penilaian Ya sebelum sertifikat penyelesaian diterbitkan. Belum berarti perlu lebih banyak latihan dan penilaian ulang; kehadiran dan refleksi tidak menggantikan salah satu dari kedua tahap penilaian tersebut.](/micrographics/two-completion-gates-01/id.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/2783871f5851cf80c2e6e2a93eeb911607939507-1536x1024.svg)

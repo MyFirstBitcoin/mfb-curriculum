@@ -1,5 +1,6 @@
 # 1.7 Dinero fíat
 
+<!-- card: definition -->
 > **Definition – Dinero fíat**
 >
 > [El dinero fíat](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) es [una moneda](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) emitida bajo la autoridad del gobierno, generalmente a través de un [banco central](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank), que no se puede canjear por una cantidad fija de una materia prima como el [oro](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold). Los gobiernos respaldan —y en algunos contextos imponen— su uso al exigirlo para el pago de impuestos y establecer normas de curso legal. Las normas específicas para aceptar pagos y saldar [deudas](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt) varían según la jurisdicción.
@@ -11,12 +12,14 @@ El sistema fíat tiene varios participantes principales:
 
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Los actores de un sistema de dinero fíat y lo que circula entre ellos: el banco central establece la política monetaria y liquida los pagos entre bancos, los bancos comerciales mantienen depósitos que constituyen un pasivo frente a sus clientes, los servicios de pago transmiten instrucciones, el gobierno recauda impuestos y realiza gastos, y los ciudadanos y las empresas realizan y reciben pagos.](/micrographics/fiat-system-flows-01/es-419.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
-> **Light – Examine un pago local**
+<!-- card: light -->
+> **Examine un pago local**
 >
 > Elija un pago cotidiano en su comunidad, como pagar el transporte, comprar alimentos o recargar saldo para el celular; recibir un salario; o pagar una factura. Si lo prefiere, use una situación inventada que sea realista. En tres o cuatro oraciones, explique:
 >

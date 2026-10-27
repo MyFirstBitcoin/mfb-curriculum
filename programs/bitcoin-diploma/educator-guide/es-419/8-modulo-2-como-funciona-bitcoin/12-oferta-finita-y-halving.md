@@ -10,6 +10,7 @@ Enseñe:
 
 
 <!-- micrographic: bitcoin-issuance-schedule-01 -->
+[El subsidio por bloque comienza en 50 bitcoin y se reduce a la mitad cada 210,000 bloques, mientras que el total de bitcoin emitidos aumenta hacia el límite de 21 millones. Las comisiones por transacción se pagan adicionalmente y no son nuevos bitcoin; no se implica ninguna predicción de precio.](/micrographics/bitcoin-issuance-schedule-01/es-419.md)
 
 
 El límite es una regla pública de la red, no una ley física. Una persona puede escribir otro software, pero no puede obligar a los participantes actuales a adoptarlo. La adopción de software incompatible puede crear una red diferente en lugar de cambiar Bitcoin silenciosamente para todos.

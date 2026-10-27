@@ -4,6 +4,7 @@ Az emberek gyakran keresnek alternatívákat a készpénztartásra, ha úgy vél
 
 
 <!-- micrographic: saving-alternatives-table-01 -->
+[Táblázat a készpénztartás három alternatívájáról (nemesfémek, ingatlan és részvények), mindegyiknél feltüntetve, hogy miért választhatják az emberek, és milyen fontos kompromisszumokkal jár. Egyik sem szerepel a többinél előkelőbb helyen.](/micrographics/saving-alternatives-table-01/hu.md)
 
 
 Egy [eszköz](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) olyasmi, amit valaki birtokolhat, vagy amire igényt tarthat, és aminek lehet [értéke](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); ettől azonban még nem tölti be automatikusan a pénz minden funkcióját. Egy otthon őrizhet [értéket](https://curriculum.myfirstbitcoin.org/lexicon/en/#value), de élelmiszervásárlásra nem praktikus. Egy részvényt az egyik országban könnyű lehet eladni, míg egy brókerszámlával nem rendelkező személy számára elérhetetlen lehet. [Az arany](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) a történelem hosszú időszakain át pénzként szolgált, de egy kisebb csereügylet során nehéz lehet ellenőrizni a valódiságát vagy kisebb részekre osztani.

@@ -3,8 +3,7 @@
 Tässä moduulissa keskitytään turvallisiin ensiaskeleisiin, ei asiantuntijaksi kehittymiseen tai taloudellisten riskien ottamiseen. Harjoittelette valmiiden simulaatioiden, testiympäristöjen ja harjoituslompakoiden avulla tai, jos opettajanne katsoo sen sopivaksi, oikeassa käyttötilanteessa pienillä summilla.
 
 
-> **Dark**
->
+<!-- card: dark -->
 > Teidän ei tarvitse ostaa tai muuten hankkia bitcoinia eikä käyttää omia varojanne suorittaaksenne Bitcoin Diploma -koulutuksen.
 
 

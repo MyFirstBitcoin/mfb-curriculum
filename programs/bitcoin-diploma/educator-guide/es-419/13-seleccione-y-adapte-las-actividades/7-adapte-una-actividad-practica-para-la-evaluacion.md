@@ -14,6 +14,7 @@ Si la equivalencia es incierta, use la adaptación para practicar y seleccione u
 
 
 <!-- micrographic: adapt-practice-or-assessment-01 -->
+[Las actividades de práctica pueden adaptarse a los estudiantes y al contexto. Una actividad utilizada para la evaluación debe mantener la competencia, la evidencia, la autonomía, la seguridad y el estándar mínimo; si no hay certeza sobre la equivalencia, use la adaptación para la práctica y elija una tarea de evaluación más clara.](/micrographics/adapt-practice-or-assessment-01/es-419.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/8444d4c2c23ce8cb5b0103bb646ce8c50c4594c3-1536x1024.svg)

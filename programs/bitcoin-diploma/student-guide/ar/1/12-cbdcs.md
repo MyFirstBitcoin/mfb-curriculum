@@ -1,5 +1,6 @@
 # 1.12 العملات الرقمية للبنوك المركزية (CBDCs)
 
+<!-- card: definition -->
 > **Definition – العملة الرقمية للبنك المركزي (CBDC)**
 >
 > تُعدّ [العملة الرقمية للبنك المركزي](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc)، أو [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc)، شكلاً رقمياً من [النقود الإلزامية](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) يصدر بوصفه [التزاماً](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability) على [بنك مركزي](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank): فهي حق مالي يلتزم [البنك المركزي](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) بأدائه لحاملها. وهي تختلف عن النقد المادي وعن الوديعة العادية لدى بنك تجاري، وإن بدت تجربة المستخدم متشابهة.
@@ -13,6 +14,7 @@
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[جدول يقارن بين النقد والودائع المصرفية والعملة الرقمية للبنك المركزي للأفراد وبيتكوين من حيث الجهة المُصدِرة والشكل وإمكانية الاستخدام وإمكانية الاطّلاع على المدفوعات وقواعد المعروض والتحقق. كون العملة رقمية لا يعني أنها لامركزية: فالعملة الرقمية للبنك المركزي تظل صادرة عن البنك المركزي، وتعتمد إمكانية استخدامها والاطّلاع على مدفوعاتها والتحقق منها على تصميمها.](/micrographics/cbdc-comparison-table-01/ar.md)
 
 
 كون الشيء رقمياً لا يعني تلقائياً أنه لامركزي، أو نادر، أو يحفظ الخصوصية، أو قابل للتحقق المستقل. فقد تستخدم [العملة الرقمية للبنك المركزي (CBDC)](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) تقنية رقمية، لكنها تظل [نقوداً إلزامية](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) إذا ظلت [جهتها المُصدِرة](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer)، وقواعد المعروض منها، وقواعد الوصول إليها، وأذونات الدفع خاضعة لإدارة مركزية.

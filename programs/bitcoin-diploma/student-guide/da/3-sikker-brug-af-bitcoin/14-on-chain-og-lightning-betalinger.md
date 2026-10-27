@@ -4,22 +4,26 @@
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[On-chain-betalinger registreres direkte i Bitcoins blockchain, mens Lightning er et betalingsnetværk bygget på Bitcoin til hurtige, hyppige betalinger, som også kan mislykkes. Begge løsninger kan være med tredjepartsopbevaring eller egen opbevaring.](/micrographics/on-chain-and-lightning-01/da.md)
 
 
 
+<!-- card: definition -->
 > **Definition – On-chain- og Lightning-betalinger**
 >
 > [On-chain-betalinger](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment) registreres i Bitcoins [blockchain](https://curriculum.myfirstbitcoin.org/lexicon/en/#blockchain) og får [bekræftelser](https://curriculum.myfirstbitcoin.org/lexicon/en/#confirmation). Lightning er et betalingsnetværk bygget oven på Bitcoin, som kan understøtte hurtige, hyppige betalinger. En Lightning-betaling kan gennemføres hurtigt eller mislykkes, og den anvendte wallet kan stadig være forvaltet af en tredjepart eller af brugeren selv.
 
 
 
-> **Dark – Betalingsvejen afgør ikke, hvem der har kontrollen over midlerne**
+<!-- card: dark -->
+> **Betalingsvejen afgør ikke, hvem der har kontrollen over midlerne**
 >
 > On-chain- og Lightning-betalinger indebærer forskellige [afvejninger](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). En Lightning-wallet kan være forvaltet af en tredjepart eller af brugeren selv, og en hurtig, vellykket betaling beviser ikke, at en tjeneste er egnet til større saldi eller enhver situation.
 
 
 
 <!-- micrographic: onchain-lightning-table-01 -->
+[En tabel, der sammenligner Bitcoin on-chain og Lightning: modtagelsesoplysninger, betalingsresultat, typisk anvendelse og kontrolpunkter for begyndere. Begge løsninger kan bruges med enten tredjepartsopbevaring eller selvopbevaring.](/micrographics/onchain-lightning-table-01/da.md)
 
 
 Hvilken betalingsvej forventer modtageren? Bekræft, om modtageren har angivet en on-chain-adresse eller en [Lightning-faktura](https://curriculum.myfirstbitcoin.org/lexicon/en/#lightning-invoice) eller betalingsanmodning, før De betaler. En on-chain-wallet kan ikke betale enhver [Lightning-faktura](https://curriculum.myfirstbitcoin.org/lexicon/en/#lightning-invoice) direkte, og en Lightning-wallet understøtter muligvis ikke alle on-chain-handlinger. Nogle applikationer understøtter begge betalingsveje, men kan medføre yderligere gebyrer eller afhængighed af tjenester. Detaljeret opsætning af Lightning, kanaler, routing og [likviditet](https://curriculum.myfirstbitcoin.org/lexicon/en/#lightning-liquidity) hører under [Videregående læring](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/); praktiske øvelser med faktiske betalinger i lokalområdet hører til i **Modul 4**, når det er sikkert og hensigtsmæssigt.

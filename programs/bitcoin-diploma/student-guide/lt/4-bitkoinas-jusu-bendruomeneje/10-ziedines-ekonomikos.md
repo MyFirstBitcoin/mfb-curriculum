@@ -4,6 +4,7 @@ Tokia [**Bitcoin žiedinė ekonomika**](https://curriculum.myfirstbitcoin.org/le
 
 
 <!-- micrographic: local-circular-economy-01 -->
+[Bitcoin žiedinėje ekonomikoje bitkoinai keliauja iš vieno žmogaus kitam mainais už prekes, paslaugas ir laiką. Klientas sumoka prekybininkui, prekybininkas sumoka paslaugų teikėjui, paslaugų teikėjas sumoka darbuotojui, o darbuotojas vėl juos išleidžia kaip klientas.](/micrographics/local-circular-economy-01/lt.md)
 
 
 My First Bitcoin remia [Bitcoin žiedines ekonomikas](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-circular-economy), ir daugelis jų priklauso Bitcoin švietimo tinklui. Susipažinkite su šiomis bendruomenėmis [tinklo valdymo skydelyje](https://network.myfirstbitcoin.org/?min10merchants=1).

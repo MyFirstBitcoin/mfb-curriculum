@@ -4,6 +4,7 @@ Les gens cherchent souvent des solutions autres que la détention d’espèces l
 
 
 <!-- micrographic: saving-alternatives-table-01 -->
+[Un tableau présentant trois alternatives à la détention de monnaie en espèces (métaux précieux, immobilier et actions), avec, pour chacune, les raisons de ce choix et ses principaux inconvénients. Aucune n’est classée au-dessus des autres.](/micrographics/saving-alternatives-table-01/fr-FR.md)
 
 
 Un [actif](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) est quelque chose qu’une personne peut posséder ou revendiquer et qui peut avoir de la [valeur](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) ; il ne remplit pas automatiquement toutes les fonctions de la monnaie. Un logement peut conserver de la [valeur](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) mais n’est pas pratique pour acheter de la nourriture. Une action peut être facile à vendre dans un pays, mais inaccessible à une personne qui ne dispose pas d’un compte de courtage. [L’or](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) a servi de monnaie pendant de longues périodes de l’histoire, mais peut être difficile à vérifier ou à diviser lors d’un échange de faible montant.

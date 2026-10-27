@@ -21,6 +21,7 @@ These are not numerical grades. Both components need to be complete, and every r
 
 
 <!-- micrographic: two-completion-gates-01 -->
+[Theory competencies C1 to C5 and practical competencies C6 and C7 must each receive a Yes before the completion certificate is issued. Not yet means more practice and reassessment; attendance and reflection do not replace either gate.](/micrographics/two-completion-gates-01/en.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/2783871f5851cf80c2e6e2a93eeb911607939507-1536x1024.svg)

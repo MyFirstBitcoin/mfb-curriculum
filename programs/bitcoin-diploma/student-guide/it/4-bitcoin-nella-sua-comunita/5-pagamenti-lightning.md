@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[Il destinatario crea sul proprio telefono una richiesta di pagamento Lightning con l'importo, il mittente la scansiona e paga, e il pagamento arriva sul telefono del destinatario un attimo dopo.](/micrographics/lightning-phone-payment-01/it.md)
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Un pagamento Lightning in sei passaggi: il destinatario crea una richiesta, il mittente la scansiona, controlla destinatario, importo, unità, scadenza e commissione, la approva, il pagamento viene instradato ed entrambi i wallet mostrano l'esito. Ciascun wallet può essere custodial o self-custodial e un pagamento non riuscito o scaduto ricomincia con una nuova richiesta.](/micrographics/lightning-payment-sequence-01/it.md)
 
 
 Lightning può rendere pratici i pagamenti Bitcoin rapidi e di piccolo importo. Può essere adatto per la cassa di un esercente, per pagamenti locali ripetuti, per servizi online o per trasferimenti in cui una commissione on-chain sarebbe troppo elevata rispetto all'importo del pagamento.

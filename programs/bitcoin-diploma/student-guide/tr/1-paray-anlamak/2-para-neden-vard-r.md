@@ -5,6 +5,7 @@
 Doğrudan değişim çoğu zaman zordur. İhtiyacınız olan şeye sahip olan kişi, sizin sunduğunuz şeyi istemeyebilir. Para bu koordinasyon sorununu çözer.
 
 
+<!-- card: definition -->
 > **Definition – Para**
 >
 > Para bir [varlıktır](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset); insanlar onu, başkalarının da ileride kabul edeceğini bekledikleri için kabul eder. Para, birbirini tanımayan insanların değişimi koordine etmesine, [fiyatları](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) ve [borçları](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt) kaydetmesine ve [değeri](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) zaman ve mesafe boyunca taşımasına yardımcı olur.

@@ -1,5 +1,6 @@
 # 3.6 Custodial and non-custodial use
 
+<!-- card: definition -->
 > **Definition – Custody**
 >
 > [Custody](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) answers a practical question: who controls the keys required to spend the bitcoin?
@@ -15,10 +16,12 @@ In a **non-custodial** or **self-custodial** wallet, YOU control the keys. The w
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[In custodial use, a service controls the keys and approves spending, so the balance is its promise. In self-custodial use, the user controls the keys and backups; both routes have dependencies and failure risks.](/micrographics/who-controls-keys-01/en.md)
 
 
 
 <!-- micrographic: custody-comparison-table-01 -->
+[A table comparing custodial and self-custodial use: who holds the keys, who handles recovery, and the main trade-off of each. Neither model is risk free.](/micrographics/custody-comparison-table-01/en.md)
 
 
 [Custody](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) is not always obvious from the interface. If you cannot control the recovery method and need a company to approve a withdrawal, you are probably using a [custodian](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian). [Self-custody](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) is not a test of personal worth; the important step is to identify the trust and risk involved.

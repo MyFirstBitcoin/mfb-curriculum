@@ -13,6 +13,7 @@ Ngang hàng không có nghĩa là chỉ có hai máy tính giao tiếp trực ti
 
 
 <!-- micrographic: powers-and-limits-01 -->
+[Người dùng, nút, thợ đào, nhà phát triển và dịch vụ đều có một phần quyền hạn đối với các quy tắc chung và sổ cái công khai của Bitcoin, nhưng không bên nào có thể đơn phương thay đổi sổ cái hoặc các quy tắc cho tất cả mọi người.](/micrographics/powers-and-limits-01/vi.md)
 
 
 ![Giảng viên dùng que chỉ để giải thích về một mạng lưới trên bảng trình chiếu cho những học viên mới bắt đầu và những học viên có kiến thức kỹ thuật.](https://cdn.sanity.io/images/vje9ehw2/staging/3999e88f5f80f010b5cd6238a4fe41d1aed8bdb2-1054x1492.png)

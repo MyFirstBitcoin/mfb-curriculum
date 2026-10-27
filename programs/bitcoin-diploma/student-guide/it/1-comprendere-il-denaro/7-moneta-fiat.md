@@ -1,5 +1,6 @@
 # 1.7 Moneta fiat
 
+<!-- card: definition -->
 > **Definition – Moneta fiat**
 >
 > [La moneta fiat](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) è una [valuta](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) emessa sotto l'autorità dello Stato, solitamente tramite una [banca centrale](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank), che non è convertibile in una quantità fissa di una merce come l'[oro](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold). I governi ne sostengono, e in alcuni contesti ne impongono, l'uso richiedendola per il pagamento delle imposte e stabilendo norme sul corso legale. Le regole precise per accettare pagamenti ed estinguere i [debiti](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt) variano a seconda della giurisdizione.
@@ -11,12 +12,14 @@ Il sistema fiat ha diversi partecipanti principali:
 
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Gli attori di un sistema fiat e ciò che passa tra di loro: la banca centrale definisce la politica monetaria e regola i pagamenti tra le banche, le banche commerciali detengono depositi che costituiscono una loro passività verso i clienti, i servizi di pagamento trasmettono le istruzioni, lo Stato riscuote le imposte e spende, e cittadini e imprese pagano e ricevono pagamenti.](/micrographics/fiat-system-flows-01/it.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
-> **Light – Esamini un pagamento locale**
+<!-- card: light -->
+> **Esamini un pagamento locale**
 >
 > Scelga un pagamento ordinario nella Sua comunità, come l'acquisto di un trasporto, di cibo o di credito telefonico, la riscossione di uno stipendio o il pagamento di una bolletta. Se preferisce, utilizzi uno scenario inventato ma realistico. In tre o quattro frasi, spieghi:
 >

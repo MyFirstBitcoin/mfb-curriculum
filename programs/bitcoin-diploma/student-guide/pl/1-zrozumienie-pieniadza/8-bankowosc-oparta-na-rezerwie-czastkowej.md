@@ -6,11 +6,13 @@ Gdy bank komercyjny zatwierdza kredyt, zazwyczaj tworzy nowy depozyt na rachunku
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Uproszczony schemat kredytu bankowego: kredytobiorca składa wniosek, bank zatwierdza kredyt i zapisuje nowy depozyt na rachunku kredytobiorcy, a kredytobiorca później spłaca bankowi kapitał wraz z odsetkami.](/micrographics/bank-loan-deposit-01/pl.md)
 
 
 Banki zazwyczaj dążą do osiągania [zysku](https://curriculum.myfirstbitcoin.org/lexicon/en/#bank-profit), uzyskując odsetki i opłaty z tytułu kredytów oraz inwestycji, a jednocześnie pokrywając koszty działalności, finansowania i spełniania wymogów regulacyjnych oraz ponosząc straty, gdy kredytobiorcy nie spłacają kredytów. Te działania i ograniczenia różnią się w zależności od banku i jurysdykcji.
 
 
+<!-- card: definition -->
 > **Definition – Bankowość oparta na rezerwie cząstkowej**
 >
 > [Bankowość oparta na rezerwie cząstkowej](https://curriculum.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking) opisuje system bankowy, w którym banki utrzymują jedynie część swoich zobowiązań depozytowych w postaci natychmiast dostępnych rezerw, a jednocześnie udzielają kredytów i posiadają inne [aktywa](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset). Wymagany poziom rezerw i inne ograniczenia różnią się między krajami i mogą zmieniać się z czasem.
@@ -23,6 +25,7 @@ Wiąże się to z dwoma istotnymi rodzajami ryzyka:
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Ryzyko płynności: wielu deponentów ustawia się w kolejce, by wypłacić pieniądze dzisiaj, a bank nie ma obecnie wystarczającej ilości gotówki, choć udzielone przez niego kredyty mogą zostać spłacone później. Ryzyko niewypłacalności: kredytobiorcy przestają spłacać kredyty mieszkaniowe, a wartość aktywów banku spada poniżej jego zobowiązań.](/micrographics/liquidity-vs-solvency-01/pl.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)

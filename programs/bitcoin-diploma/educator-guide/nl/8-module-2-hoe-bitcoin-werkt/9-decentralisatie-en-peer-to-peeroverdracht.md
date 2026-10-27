@@ -13,6 +13,7 @@ Peer-to-Peer betekent niet dat slechts twee computers rechtstreeks met elkaar co
 
 
 <!-- micrographic: powers-and-limits-01 -->
+[Gebruikers, nodes, miners, ontwikkelaars en diensten hebben elk enige macht rond de gedeelde regels en het openbare grootboek van Bitcoin, maar geen van hen kan in zijn eentje het grootboek of de regels voor iedereen veranderen.](/micrographics/powers-and-limits-01/nl.md)
 
 
 ![De docent gebruikt een aanwijsstok om aan de beginnende en technische cursisten een netwerk op een presentatiebord uit te leggen.](https://cdn.sanity.io/images/vje9ehw2/staging/3999e88f5f80f010b5cd6238a4fe41d1aed8bdb2-1054x1492.png)

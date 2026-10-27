@@ -13,3 +13,4 @@ Esitelkää tämä mahdollisena jatkopolkuna Bitcoin Diploma -koulutuksen jälke
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[Vapaaehtoinen oppimispolku etenee Johdatus Bitcoiniin -kurssista Bitcoin-diplomiin, sitten opettajien koulutusohjelmaan ja edelleen My First Bitcoin -opetussuunnitelman pohjalta opettavaksi opettajaksi sekä Bitcoin-koulutusverkoston jäseneksi. Jokainen seuraava askel on valinta, ei vaatimus.](/micrographics/learner-journey-pathway-01/fi.md)

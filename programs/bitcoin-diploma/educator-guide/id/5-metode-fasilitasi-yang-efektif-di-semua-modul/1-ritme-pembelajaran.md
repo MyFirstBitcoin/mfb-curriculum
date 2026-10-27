@@ -14,3 +14,4 @@ Untuk sebagian besar konsep, gunakan urutan berikut:
 
 
 <!-- micrographic: learning-rhythm-01 -->
+[Pendidik menetapkan tujuan, mengaktifkan gagasan awal, menjelaskan, memeriksa pemahaman, memandu penerapan, mengajak peserta didik menghasilkan sesuatu secara mandiri, mengulas, mengajak berefleksi, dan menghubungkan dengan konsep berikutnya. Tanggapan yang belum jelas mengarahkan pembelajaran kembali ke penjelasan atau latihan.](/micrographics/learning-rhythm-01/id.md)

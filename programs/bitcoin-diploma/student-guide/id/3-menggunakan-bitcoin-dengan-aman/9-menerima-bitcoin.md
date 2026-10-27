@@ -12,6 +12,7 @@ Menerima pembayaran tidak memberikan izin untuk mengeluarkan dana dari dompet An
 
 
 <!-- micrographic: check-what-you-receive-01 -->
+[Contoh layar penerimaan pada ponsel menampilkan metode pembayaran, permintaan pembayaran untuk dibagikan, jumlah, dan status menunggu. Pesan atau tangkapan layar bertuliskan "terkirim" bukanlah bukti: periksa statusnya di dompet Anda sendiri.](/micrographics/check-what-you-receive-01/id.md)
 
 
 Pesan atau tangkapan layar yang bertuliskan “terkirim” bukanlah bukti. Bukti apa yang dapat Anda lihat sendiri? Periksa dompet penerima atau tampilan [transaksi](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) yang disetujui. Untuk [pembayaran on-chain](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), dompet mungkin pada awalnya menampilkan [transaksi](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) sebagai tertunda. [Status konfirmasi](https://curriculum.myfirstbitcoin.org/lexicon/en/#confirmation) meningkatkan keyakinan bahwa pembayaran telah diselesaikan; status tersebut tidak memperbaiki alamat yang salah atau mengatasi penipuan. Dompet mungkin menawarkan alamat baru untuk penerimaan berikutnya; alamat lama mungkin masih dapat digunakan, tetapi penggunaan ulang satu alamat dapat mempermudah pengaitan pembayaran yang terpisah. Alamat baru mengurangi kemudahan pengaitan tersebut; alamat baru tidak menjadikan pembayaran anonim.

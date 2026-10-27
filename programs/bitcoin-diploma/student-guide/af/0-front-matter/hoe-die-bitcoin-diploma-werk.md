@@ -22,6 +22,7 @@ Elke module volg dieselfde ritme:
 
 
 <!-- micrographic: learning-rhythm-strip-01 -->
+[’n Vyfstap-leerritme: leer ’n kernidee, wys wat u kan verduidelik of toepas, pas die idee toe, verduidelik dit in u eie woorde, en hersien hoe dit by die volgende module aansluit.](/micrographics/learning-rhythm-strip-01/af.md)
 
 
 U sal meer leer deur deel te neem as deur stil te lees. Sommige vrae het nie net een korrekte antwoord nie. Wat saak maak, is of u u redenasie kan verduidelik, bewyse kan ondersoek en u siening kan hersien wanneer u iets nuuts leer.
@@ -81,7 +82,8 @@ Wanneer dit tyd is om te oefen met ’n [Bitcoin-beursie](https://curriculum.myf
 ### Veiligheid, verantwoordelikheid en geen finansiële advies nie
 
 
-> **Callout – Leer eers; dit is nie ’n aanbeveling nie**
+<!-- card: callout -->
+> **Leer eers; dit is nie ’n aanbeveling nie**
 >
 > Die Bitcoin-diploma is slegs vir opvoedkundige doeleindes. Dit bied geen finansiële, beleggings-, regs- of belastingadvies nie. Dit beloof nie dat bitcoin in [prys](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) sal styg nie, en beveel ook nie aan dat u enige hoeveelheid bitcoin koop, verkoop, as onderpand vir ’n lening gebruik of hou nie.
 >
@@ -104,6 +106,7 @@ Die Diploma bestaan uit 'n leerproses met vier fases: **Probleem → Oplossing �
 
 
 <!-- micrographic: learning-path-roadmap-01 -->
+[’n Roetekaart met vier fases: Probleem, Om geld te verstaan; Oplossing, Hoe Bitcoin werk; Optrede, Om Bitcoin veilig te gebruik; en Verbind, Bitcoin in u gemeenskap, elk met sy rigtinggewende vraag.](/micrographics/learning-path-roadmap-01/af.md)
 
 
 **Module 4** is 'n verpligte deel van die Diploma wat deur die opvoeder saamgestel word. Opvoeders is die vakkenners wat hul studente se plaaslike beperkings, oplossings, hulpmiddels, hulpbronne, wette, taal, infrastruktuur en behoeftes betref. Die Verbind-ervaring wat deur die opvoeder saamgestel word, kan verdien, spaar, ontvang, bestee, [Laag 2](https://curriculum.myfirstbitcoin.org/lexicon/en/#layer-2) se oplossings, plaaslike ruilkanale, handelaars of sirkulêre ekonomieë insluit.
@@ -118,6 +121,7 @@ Die vier modules bied die vereiste leerpad Probleem → Oplossing → Aksie → 
 
 
 <!-- micrographic: four-module-table-01 -->
+['n Tabel van die vier modules met elkeen se rol, rigtinggewende vraag en wat die leerder sal oefen: Verstaan geld, Hoe Bitcoin werk, Gebruik Bitcoin veilig en Bitcoin in u gemeenskap.](/micrographics/four-module-table-01/af.md)
 
 
 Die Diploma duur minstens agt uur. Vier sessies van twee uur elk is die kortste beplande formaat, nie 'n tydsbeperking nie. U opvoeder kan 'n module oor meer sessies verdeel, 'n vroeëre idee weer behandel of die volgorde van afsonderlike afdelings verander wanneer u groep meer tyd vir bespreking, oefening, hersiening of assessering nodig het. Daar is geen boonste tydsbeperking nie: die opvoeder bly daarvoor verantwoordelik om leerders die tyd te gee wat hulle nodig het, alle vereiste bevoegdhede te dek en die verbande tussen die modules duidelik te maak.

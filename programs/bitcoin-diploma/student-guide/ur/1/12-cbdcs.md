@@ -1,5 +1,6 @@
 # 1.12 مرکزی بینک کی ڈیجیٹل کرنسیاں (CBDCs)
 
+<!-- card: definition -->
 > **Definition – مرکزی بینک کی ڈیجیٹل کرنسی (CBDC)**
 >
 > ایک [مرکزی بینک کی ڈیجیٹل کرنسی](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc)، یا [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc)، ایک ڈیجیٹل صورت ہے [حکمی زر کی](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money)، جو جاری کی جاتی ہے بطور [واجب الادا ذمہ داری](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability) ایک [مرکزی بینک کی جانب سے](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank): یہ ایک ایسا حقِ مطالبہ ہے جو [مرکزی بینک](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) پر اس کے حامل کا ہوتا ہے۔ یہ نقد رقم اور عام تجارتی بینک میں جمع رقم سے مختلف ہے، اگرچہ صارف کو اس کے استعمال کا تجربہ ملتا جلتا محسوس ہو سکتا ہے۔
@@ -13,6 +14,7 @@
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[ایک جدول جس میں نقد رقم، بینک ڈپازٹس، خردہ سی بی ڈی سی اور بٹ کوائن کا موازنہ ان کے جاری کنندہ، شکل، رسائی، ادائیگیوں کی مرئیت، رسد کے قواعد اور تصدیق کے لحاظ سے کیا گیا ہے۔ ڈیجیٹل ہونے کا مطلب غیر مرکزی ہونا نہیں ہے: سی بی ڈی سی بھی مرکزی بینک ہی جاری کرتا ہے، اور اس تک رسائی، ادائیگیوں کی مرئیت اور تصدیق اس کے ڈیزائن پر منحصر ہوتی ہیں۔](/micrographics/cbdc-comparison-table-01/ur.md)
 
 
 ڈیجیٹل ہونے کا مطلب خودبخود غیر مرکزی، کمیاب، نجی، یا آزادانہ تصدیق کے لیے کھلا ہونا نہیں ہے۔ ایک [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) ڈیجیٹل ٹیکنالوجی استعمال کر سکتی ہے، لیکن یہ پھر بھی ہے [حکمی زر](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money)، اگر اس کا [جاری کنندہ](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer)، رسد کے قواعد، رسائی کے قواعد، اور ادائیگی کی اجازتیں مرکزی انتظام کے تحت رہیں۔

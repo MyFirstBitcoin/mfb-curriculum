@@ -35,6 +35,7 @@ Proszę wybrać praktyczny sposób realizacji, który osoby uczące się uznają
 
 
 <!-- micrographic: cohort-capacity-check-01 -->
+[Aby zaplanować pracę z grupą, należy pomnożyć liczbę osób uczących się przez przewidywany czas wsparcia i obserwacji, a następnie doliczyć czas na przygotowanie, przekazanie informacji zwrotnej, zaspokojenie potrzeb w zakresie dostępności i ponowną ocenę. Jeśli osoby prowadzące ocenę nie mają wystarczająco dużo czasu, należy zmienić plan: mniej osób uczących się, więcej osób prowadzących ocenę lub więcej czasu.](/micrographics/cohort-capacity-check-01/pl.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
@@ -57,6 +58,7 @@ Proszę wybrać praktyczny sposób realizacji, który osoby uczące się uznają
 
 
 <!-- micrographic: task-competency-map-01 -->
+[Zadania teoretyczne T1 do T3 dostarczają dowodów opanowania kompetencji C1 do C5, a ścieżki praktyczne P6a, P6b i P7 dostarczają dowodów opanowania kompetencji C6 i C7. Następnie każda kompetencja otrzymuje jedną ocenę Tak lub Jeszcze nie.](/micrographics/task-competency-map-01/pl.md)
 
 
 ### Wspólne zasady dotyczące wsparcia, bezpieczeństwa i dokumentowania wyników
@@ -65,10 +67,12 @@ Proszę wybrać praktyczny sposób realizacji, który osoby uczące się uznają
 
 
 <!-- micrographic: support-boundary-01 -->
+[Osoba prowadząca może zapewnić dozwolone przygotowanie i wsparcie w dostępie oraz przerwać niebezpieczne działanie. Osoba ucząca się nadal musi samodzielnie przedstawić wyjaśnienie podlegające ocenie, wybrać istotne szczegóły oraz podjąć wymagane decyzje lub wskazać, jak należy je zrealizować.](/micrographics/support-boundary-01/pl.md)
 
 
 
-> **Callout – Błędy praktyczne zagrażające bezpieczeństwu**
+<!-- card: callout -->
+> **Błędy praktyczne zagrażające bezpieczeństwu**
 >
 > Proszę odnotować błąd i wstrzymać zadanie, jeśli osoba ucząca się ujawni lub spróbuje udostępnić [frazę odzyskiwania](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), [klucz prywatny](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), hasło lub zbędne dane osobowe; kontynuuje działanie mimo znanej niezgodności adresu, faktury, kwoty lub odbiorcy; daje się nabrać na oczywiste oszustwo lub spełnia pilną prośbę o zachowanie tajemnicy; albo pomija wymagany krok weryfikacji. Proszę życzliwie wyjaśnić powód, przywrócić bezpieczne środowisko, przećwiczyć zadanie i ponownie ocenić je później. Osoba ucząca się dopiero rozwija kompetencję. Domyślnie należy korzystać z przygotowanych materiałów szkoleniowych; jeśli osoba prowadząca wybierze działanie w rzeczywistym środowisku z niewielkimi kwotami, proszę jasno przedstawić związane z nim ryzyko i zapewnić odpowiednik niewymagający użycia środków.
 
@@ -181,3 +185,4 @@ Proszę korzystać z przykładów i materiałów do ćwiczeń dopasowanych do gr
 
 
 <!-- micrographic: reassessment-calibration-moderation-01 -->
+[Trzy odrębne procesy przebiegają równolegle. Osoby uczące się, które otrzymały ocenę „Jeszcze nie”, otrzymują indywidualną informację zwrotną, ćwiczą i przedstawiają nowe dowody; osoby oceniające kalibrują ocenianie, niezależnie oceniając przykłady i uzgadniając interpretację; osoby prowadzące zajęcia mogą poprosić o ponowną weryfikację, która nigdy nie zastępuje obserwacji wykonania zadania.](/micrographics/reassessment-calibration-moderation-01/pl.md)

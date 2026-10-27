@@ -1,10 +1,12 @@
 # 4.13 Ismétlés: Kapcsolja össze ezt a saját közösségével
 
 <!-- micrographic: community-review-path-01 -->
+[Egy helyi Bitcoin-példa értékelésének menete: induljon ki egy valós szükségletből, vizsgálja meg, hogy a Bitcoin megfelelő-e, majd a fizetési módot, a kulcsok kezelését, a teljes költséget, a biztonságot és a helyi körülményeket, végül pedig a siker bizonyítékait.](/micrographics/community-review-path-01/hu.md)
 
 
 
 <!-- micrographic: community-review-table-01 -->
+[A helyi példa áttekintésére szolgáló táblázat: minden témához – a valós igénytől a felelős következő lépésig – egy megválaszolandó kérdés és egy szabadon használható hely az Ön saját jegyzeteinek.](/micrographics/community-review-table-01/hu.md)
 
 
 Végezze el önállóan ezt az ismétlő feladatot, majd hasonlítsa össze érvelését a csapatáéval vagy a tanulócsoportjáéval. Gondolja át a tanulmányozott helyi példát: milyen valós szükségletre adott választ, a pénz mely funkciója játszott szerepet, és az [érték](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) átvitele a blokkláncon, a Lightning hálózaton vagy mindkettőn keresztül történt? Vizsgálja meg, ki rendelkezett a kulcsok felett, mi volt a legnagyobb előny és a legsúlyosabb kockázat, és hogyan befolyásolták az eredményt a helyi jogszabályok, az infrastruktúra, a nyelv vagy a kultúra. A felelős következő lépés illeszkedik a helyi körülményekhez, egyértelművé teszi a költségeket és a [pénzeszközök őrzését](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) érintő kérdéseket, korlátozza a hibákat és a csalásokat, és bizonyítékok alapján értékelhető.

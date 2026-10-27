@@ -1,6 +1,6 @@
 # Quiz – Verstaan geld: kort toets
 
-## Question 1
+## Vraag 1
 
 Waarom word geld aanvaar?
 
@@ -9,11 +9,11 @@ Waarom word geld aanvaar?
 * [ ] Dit skaf alle reëls af
 * [ ] Dit verander dienste in goedere
 
-### Explanation
+### Verduideliking
 
 Geld help vreemdelinge om ruilhandel oor tyd heen te koördineer omdat mense verwag dat ander dit later sal aanvaar. Dit hang steeds van vertroue, reëls en sosiale aanvaarding af. Hersien die Studentehandleiding, Module 1, “Waarom geld bestaan.”
 
-## Question 2
+## Vraag 2
 
 Geprys, betaal, gespaar: watter funksies?
 
@@ -22,11 +22,11 @@ Geprys, betaal, gespaar: watter funksies?
 * [ ] Ruilmiddel; waardestoor; rekeneenheid
 * [ ] Skaarsheid; skaarsheid; skaarsheid
 
-### Explanation
+### Verduideliking
 
 'n Rekeneenheid druk pryse uit, 'n ruilmiddel word as betaling aanvaar, en 'n waardestoor dra waarde na die toekoms oor. Hersien die Studentehandleiding, Module 1, “Funksies en eienskappe van geld.”
 
-## Question 3
+## Vraag 3
 
 Rys vir skoene werk nie: waarom?
 
@@ -35,11 +35,11 @@ Rys vir skoene werk nie: waarom?
 * [ ] Geen bankgoedkeuring nie
 * [ ] Rys kan nie verhandel word nie
 
-### Explanation
+### Verduideliking
 
 Direkte ruilhandel is moeilik wanneer elke persoon nie terselfdertyd wil hê wat die ander aanbied nie. Dit is die dubbele ooreenstemming van behoeftes. Hersien die Studentehandleiding, Module 1, “Ruilhandel en die dubbele ooreenstemming van behoeftes.”
 
-## Question 4
+## Vraag 4
 
 Pryse +10%, inkomste +5%: koopkrag?
 
@@ -48,6 +48,6 @@ Pryse +10%, inkomste +5%: koopkrag?
 * [x] Daal
 * [ ] Kan nie bepaal word nie
 
-### Explanation
+### Verduideliking
 
 Koopkrag is wat geld kan koop. As pryse vinniger as inkomste styg, kan die inkomste minder koop. Hersien die Studentehandleiding, Module 1, “Inflasie en koopkrag.”

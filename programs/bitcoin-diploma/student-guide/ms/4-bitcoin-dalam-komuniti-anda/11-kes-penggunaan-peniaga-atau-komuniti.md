@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[Seorang peniaga yang menerima Bitcoin menjalankan tugas dalam empat bidang: pemasaran, latihan, perakaunan dan jualan.](/micrographics/merchant-payment-operations-01/ms.md)
 
 
 Peniaga memerlukan lebih daripada sekadar butang terima. Proses pembayaran yang lengkap mungkin merangkumi penetapan harga, latihan kakitangan, resit, bayaran balik, [penjagaan aset](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), penukaran, perakaunan, cukai, keselamatan peranti, dan sokongan.

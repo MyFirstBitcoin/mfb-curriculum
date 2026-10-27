@@ -13,6 +13,7 @@ Peer-to-Peer (P2P) non significa che solo due computer comunichino direttamente 
 
 
 <!-- micrographic: powers-and-limits-01 -->
+[Utenti, nodi, miner, sviluppatori e servizi hanno ciascuno un certo potere attorno alle regole condivise e al registro pubblico di Bitcoin, ma nessuno di loro può modificare da solo il registro o le regole per tutti.](/micrographics/powers-and-limits-01/it.md)
 
 
 ![L'educatore usa un puntatore per spiegare una rete su una lavagna di presentazione ai discenti principianti e a quelli con competenze tecniche.](https://cdn.sanity.io/images/vje9ehw2/staging/3999e88f5f80f010b5cd6238a4fe41d1aed8bdb2-1054x1492.png)

@@ -1,5 +1,6 @@
 # 1.7 İtibari Para
 
+<!-- card: definition -->
 > **Definition – İtibari para**
 >
 > [İtibari para](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) bir [para birimidir](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency); devlet yetkisi altında, genellikle bir [merkez bankası](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) aracılığıyla ihraç edilir ve sabit miktarda bir emtiaya (örneğin [altın](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold)) çevrilemez. Devletler, vergilerin bu parayla ödenmesini şart koşarak ve yasal ödeme aracı kurallarını belirleyerek kullanımını destekler, hatta bazı bağlamlarda zorunlu kılar. Ödemelerin kabul edilmesine ve [borçların](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt) kapatılmasına ilişkin kesin kurallar ülkeden ülkeye değişir.
@@ -11,12 +12,14 @@
 
 
 <!-- micrographic: fiat-system-flows-01 -->
+[İtibari para sistemindeki aktörler ve aralarındaki akışlar: merkez bankası politikayı belirler ve bankalar arası takası sağlar, ticari bankalar müşterilerine karşı yükümlülükleri olan mevduatları tutar, ödeme hizmetleri talimatları iletir, devlet vergi toplar ve harcama yapar, vatandaşlar ve işletmeler ise ödeme yapar ve ödeme alır.](/micrographics/fiat-system-flows-01/tr.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
-> **Light – Yerel bir ödemeyi inceleyin**
+<!-- card: light -->
+> **Yerel bir ödemeyi inceleyin**
 >
 > Toplumunuzda sıradan bir ödeme seçin; örneğin ulaşım, yiyecek veya telefon kontörü satın almak, maaş almak ya da bir fatura ödemek. Dilerseniz gerçekçi, kurgusal bir senaryo da kullanabilirsiniz. Üç veya dört cümleyle şunları açıklayın:
 >

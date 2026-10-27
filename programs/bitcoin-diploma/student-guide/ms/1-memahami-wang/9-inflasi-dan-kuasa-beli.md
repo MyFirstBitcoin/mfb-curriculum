@@ -1,11 +1,13 @@
 # 1.9 Inflasi dan Kuasa Beli
 
+<!-- card: definition -->
 > **Definition – Inflasi harga**
 >
 > Orang ramai menggunakan istilah “[inflasi](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation)” dengan lebih daripada satu makna. Dalam panduan ini, [inflasi harga](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation) bermaksud peningkatan berterusan dalam paras [harga](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) umum barangan dan perkhidmatan. Jika pendapatan dan simpanan anda tidak meningkat sepantas [harga](https://curriculum.myfirstbitcoin.org/lexicon/en/#price), wang anda dapat membeli lebih sedikit barangan dan perkhidmatan.
 
 
 
+<!-- card: definition -->
 > **Definition – Kuasa beli**
 >
 > [Kuasa beli](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) ialah jumlah barangan dan perkhidmatan yang dapat dibeli dengan satu unit wang. Jika harga sebakul barangan asas meningkat daripada 100 unit [mata wang](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) kepada 110, 100 unit yang sama tidak lagi dapat membeli keseluruhan bakul tersebut. [Kuasa belinya](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) berbanding bakul tersebut telah menurun.
@@ -15,6 +17,7 @@
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[100 unit mata wang yang sama boleh digunakan untuk membeli semua barangan keperluan asas dalam bakul apabila harganya 100, tetapi tidak apabila harga bakul barangan yang sama ialah 110. Paras harga telah meningkat dan kuasa beli wang telah menurun.](/micrographics/same-money-smaller-basket-01/ms.md)
 
 
 Sesetengah orang menggunakan istilah “[inflasi](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation)” untuk merujuk kepada [pengembangan monetari](https://curriculum.myfirstbitcoin.org/lexicon/en/#monetary-inflation): pertambahan wang dan kredit. Pengembangan tersebut boleh menyumbang kepada [inflasi harga](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation), bersama-sama gangguan bekalan, perubahan permintaan, [mata wang](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) yang lemah, cukai, peraturan, dan perubahan kos pengeluaran. Punca dan kesannya sering diperdebatkan. Elakkan penjelasan yang mengaitkan setiap perubahan [harga](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) dengan satu faktor sahaja.
@@ -24,7 +27,8 @@ Sesetengah orang menggunakan istilah “[inflasi](https://curriculum.myfirstbitc
 Kadar [inflasi](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation) ialah suatu purata. Pengalaman peribadi anda mungkin berbeza kerana perbelanjaan anda tidak sama dengan bakul barangan dan perkhidmatan yang diukur. Kos makanan, perumahan, pengangkutan, pendidikan, dan kesihatan mungkin berubah pada kadar yang berbeza.
 
 
-> **Light – Bandingkan kuasa beli setempat**
+<!-- card: light -->
+> **Bandingkan kuasa beli setempat**
 >
 > Pilih satu barangan biasa dalam komuniti anda. Catatkan [harganya](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) hari ini. Tanyakan harganya beberapa tahun lalu, kemudian semak rekod yang boleh dipercayai jika boleh. Adakah pendapatan berubah pada kadar yang sama? Apakah faktor lain yang mungkin menjelaskan perubahan itu?
 >

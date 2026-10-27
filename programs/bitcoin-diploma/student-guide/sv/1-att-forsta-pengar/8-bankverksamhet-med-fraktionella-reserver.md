@@ -6,11 +6,13 @@ När en affärsbank beviljar ett lån skapar den vanligtvis en ny insättning p�
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Ett förenklat banklån: låntagaren ansöker, banken beviljar lånet och krediterar låntagarens konto med en ny insättning, och låntagaren återbetalar senare lånebeloppet plus ränta till banken.](/micrographics/bank-loan-deposit-01/sv.md)
 
 
 Banker strävar i allmänhet efter [vinst](https://curriculum.myfirstbitcoin.org/lexicon/en/#bank-profit) genom att få ränteintäkter och avgifter från lån och investeringar, samtidigt som de betalar sina driftskostnader, finansieringskostnader och kostnader för att följa regelverket samt bär förluster när låntagare inte betalar tillbaka. Dessa verksamheter och begränsningar skiljer sig åt mellan banker och jurisdiktioner.
 
 
+<!-- card: definition -->
 > **Definition – Bankverksamhet med fraktionella reserver**
 >
 > [Bankverksamhet med fraktionella reserver](https://curriculum.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking) beskriver bankverksamhet där banker endast håller en del av sina inlåningsskulder som omedelbart tillgängliga reserver, samtidigt som de ger lån och innehar andra [tillgångar](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset). Den reservnivå som krävs och andra begränsningar skiljer sig åt mellan länder och kan förändras över tid.
@@ -23,6 +25,7 @@ Detta skapar två viktiga risker:
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Likviditetsrisk: många insättare köar för att ta ut pengar i dag, och banken har inte tillräckligt med kontanter just nu trots att dess lån kan återbetalas senare. Solvensrisk: låntagare slutar betala sina bolån, och bankens tillgångar blir värda mindre än dess skulder.](/micrographics/liquidity-vs-solvency-01/sv.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)

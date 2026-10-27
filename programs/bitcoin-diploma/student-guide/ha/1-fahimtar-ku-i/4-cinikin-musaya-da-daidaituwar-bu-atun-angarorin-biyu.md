@@ -1,5 +1,6 @@
 # 1.4 Cinikin musaya da daidaituwar buƙatun ɓangarorin biyu
 
+<!-- card: definition -->
 > **Definition – Cinikin musayar kaya**
 >
 > [Cinikin musayar kaya](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) shi ne musayar wani kaya ko wata hidima da wani kaya ko wata hidima kai tsaye. Yana iya tafiya da kyau idan musayar ba ta da yawa, amma yana zama da wahala idan mutane da kayayyaki da yawa suka shiga.
@@ -11,6 +12,7 @@ Ku yi tunanin cewa **Amina** tana da shinkafa kuma tana son takalma. **Luis** ya
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina tana da shinkafa kuma tana son takalma, Luis yana da takalma kuma yana son man girki, Mei kuma tana da man girki kuma tana son aikin gyare-gyare. Babu wasu mutum biyu da za su iya yin musaya kai tsaye, domin babu ɗayansu da yake son abin da ɗayan yake bayarwa.](/micrographics/barter-mismatch-01/ha.md)
 
 
 Domin [cinikin musayar kaya](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) ya gudana kai tsaye, dole ne kowane mutum ya so abin da ɗayan yake bayarwa a lokaci guda kuma a adadin da ya dace. Masana tattalin arziki suna kiran wannan [**daidaituwar buƙatun ɓangarori biyu**](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-coincidence-of-wants).
@@ -31,3 +33,4 @@ Kuɗin da aka amince da su a ko'ina suna raba sayarwa da saye. Amina za ta iya s
 
 
 <!-- micrographic: sell-then-buy-01 -->
+[Amina tana sayar da shinkafa ga mutum ɗaya don samun kuɗin da kowa ke karɓa, sannan daga baya ta yi amfani da waɗannan kuɗin don sayen takalma daga wani dabam. Sayarwa da saye sun zama ayyuka biyu daban.](/micrographics/sell-then-buy-01/ha.md)

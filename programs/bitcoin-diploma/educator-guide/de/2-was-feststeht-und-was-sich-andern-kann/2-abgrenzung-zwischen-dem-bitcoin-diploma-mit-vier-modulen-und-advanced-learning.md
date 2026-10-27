@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: four-module-diploma-01 -->
+[Das Bitcoin-Diplom folgt vier Stufen in fester Reihenfolge: Problem, Lösung, Handeln und Vernetzen.](/micrographics/four-module-diploma-01/de.md)
 
 
 **Modul 4** ist verpflichtender Lernstoff des Bitcoin Diploma und wird von den Lehrenden als lokalen Fachexpertinnen und Fachexperten kuratiert. Das Szenario oder das Werkzeug kann sich ändern, doch alle Lernenden, die eine Zertifizierung anstreben, müssen `C7` durch eine lokale Aktivität erfüllen, die den Zweck von `C7.1` und `C7.2` abdeckt.

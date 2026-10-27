@@ -32,3 +32,4 @@ Nie mogą Państwo:
 
 
 <!-- micrographic: fixed-adaptable-flexible-01 -->
+[Lokalne przykłady i metody nauczania można zmieniać w ramach niezmiennych wymogów dotyczących kompetencji, dowodów ich opanowania, bezpieczeństwa i ukończenia kursu. Zmiany wpływające na ocenę wymagają zatwierdzonej, równoważnej ścieżki, która zachowuje to samo działanie uczestnika i ten sam cel w zakresie bezpieczeństwa.](/micrographics/fixed-adaptable-flexible-01/pl.md)

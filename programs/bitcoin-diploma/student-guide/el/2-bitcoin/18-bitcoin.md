@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: bitcoin-responses-tradeoffs-01 -->
+[Ένας πίνακας που αντιστοιχίζει πέντε πιθανές αδυναμίες των σύγχρονων νομισματικών συστημάτων με την απάντηση του Bitcoin και τη νέα ευθύνη ή τον συμβιβασμό που συνεπάγεται κάθε απάντηση. Το Bitcoin αντικαθιστά μέρος της εμπιστοσύνης στους θεσμούς με επαλήθευση και προσωπική ευθύνη, αλλά δεν εξαλείφει τον κίνδυνο.](/micrographics/bitcoin-responses-tradeoffs-01/el.md)
 
 
 **Βασικός προβληματισμός:** Με βάση όσα έχετε μάθει για το Bitcoin σε αυτή την ενότητα, έχει [αξία](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) για εσάς; Αντιπροσωπεύει η τρέχουσα [τιμή](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) του bitcoin την [αξία](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) του;

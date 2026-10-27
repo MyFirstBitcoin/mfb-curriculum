@@ -4,6 +4,7 @@ Ljudi često traže alternative držanju gotovine kada vjeruju da će ona izgubi
 
 
 <!-- micrographic: saving-alternatives-table-01 -->
+[Tablica s tri alternative držanju gotovine (plemeniti metali, nekretnine i dionice), uz razloge zbog kojih ih ljudi mogu odabrati i važne kompromise koje podrazumijevaju. Nijedna nije rangirana iznad ostalih.](/micrographics/saving-alternatives-table-01/hr.md)
 
 
 Neko [imovinsko dobro](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) jest nešto što osoba može posjedovati ili na što može polagati pravo, a što može imati [vrijednost](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); ono ne obavlja automatski sve funkcije novca. Dom može čuvati [vrijednost](https://curriculum.myfirstbitcoin.org/lexicon/en/#value), ali nije praktičan za kupnju hrane. Dionicu je možda lako prodati u jednoj zemlji, ali može biti nedostupna nekome tko nema brokerski račun. [Zlato](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) je služilo kao novac tijekom dugih povijesnih razdoblja, ali pri manjim razmjenama može biti teško provjeriti njegovu autentičnost ili ga podijeliti.

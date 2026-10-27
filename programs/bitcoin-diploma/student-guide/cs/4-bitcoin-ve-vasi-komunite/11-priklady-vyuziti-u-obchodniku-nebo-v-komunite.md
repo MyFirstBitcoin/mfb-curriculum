@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[Obchodník, který přijímá Bitcoin, působí ve čtyřech oblastech: marketingu, školení, účetnictví a prodeji.](/micrographics/merchant-payment-operations-01/cs.md)
 
 
 Obchodník potřebuje víc než jen tlačítko pro příjem plateb. Celý platební proces může zahrnovat stanovení cen, školení personálu, účtenky, vracení plateb, [správu prostředků](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), směnu, účetnictví, daně, zabezpečení zařízení a podporu.

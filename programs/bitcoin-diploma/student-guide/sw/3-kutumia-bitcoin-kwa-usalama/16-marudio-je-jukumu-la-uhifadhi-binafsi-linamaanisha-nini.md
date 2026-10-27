@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: self-custody-responsibilities-01 -->
+[Udhibiti wa funguo uko katikati ya majukumu manane: nakala rudufu, urejeshaji, kupokea, kutuma, uchaguzi wa zana, njia ya upatikanaji, faragha na ukaguzi wa ulaghai. Kila moja hulinda kitu fulani, na kushindwa katika lolote kati yake kunaweza kugharimu ufikiaji, pesa au faragha.](/micrographics/self-custody-responsibilities-01/sw.md)
 
 
 
 <!-- micrographic: responsibility-checks-01 -->
+[Jedwali la kazi sita za kujihifadhia mwenyewe, kile cha kulinda au kukagua kwa kila moja, na kinachoweza kutokea kikienda vibaya: nakala rudufu, kupokea, kutuma, uhifadhi, uchaguzi wa zana na upatikanaji.](/micrographics/responsibility-checks-01/sw.md)
 
 
 Fikirieni kwamba rafiki anawatumia ombi la malipo, huku akaunti ya usaidizi msiyoifahamu ikisema lazima mchukue hatua mara moja. Ni nini mngeweza kukagua kabla ya kufanya lolote? Je, mnaweza kulinda mpango wa urejeshaji, kutofautisha taarifa za kupokea na siri, na kuthibitisha mtu, njia ya malipo, mahali pa kutuma, kiasi, na skrini ya mwisho kabla ya kutuma? Iwe ni huduma au ninyi wenyewe mnaodhibiti funguo, muhtasari wa vitendo ni ule ule: lindeni siri, thibitisheni kabla ya kuidhinisha, tambueni dalili za utapeli, na hakikisheni makosa yanabaki madogo mnapojifunza.

@@ -15,3 +15,4 @@ Jos yksi henkilö tai ryhmä hallitsee bitcoineja muiden puolesta, kyseinen taho
 
 
 <!-- micrographic: shared-funds-role-map-01 -->
+[Varojen antajat ja edunsaajat ovat riippuvaisia siitä, kuka hallitsee yhteisiä varoja. Avainten hallinta, maksujen hyväksyminen, kirjanpito ja tarkastus ovat erillisiä rooleja. Kun yhdellä henkilöllä on useita rooleja, luottamus keskittyy, ja jatkuvuuteen, yksityisyyteen, riitoihin ja oikeudelliseen asemaan liittyvät kysymykset vaativat yhä vastauksia.](/micrographics/shared-funds-role-map-01/fi.md)

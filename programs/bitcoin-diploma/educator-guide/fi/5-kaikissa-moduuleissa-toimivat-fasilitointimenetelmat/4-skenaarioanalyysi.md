@@ -14,3 +14,4 @@ Muuttakaa yhtä olosuhdetta ensimmäisen vastauksen jälkeen. Esimerkiksi: inter
 
 
 <!-- micrographic: scenario-analysis-path-01 -->
+[Kuvitteellinen tilanne etenee henkilön tavoitteesta ja tarkistetuista tosiasioista siihen, kenellä on määräysvalta, mitä vaihtoehtoja on, mikä voisi mennä pieleen ja mikä on pienin turvallinen seuraava askel. Yhden ehdon muuttaminen palauttaa päättelyn siihen päätökseen, johon muutos vaikuttaa.](/micrographics/scenario-analysis-path-01/fi.md)

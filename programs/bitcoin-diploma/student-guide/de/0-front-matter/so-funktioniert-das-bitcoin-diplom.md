@@ -22,6 +22,7 @@ Jedes Modul folgt demselben Rhythmus:
 
 
 <!-- micrographic: learning-rhythm-strip-01 -->
+[Ein fünfstufiger Lernrhythmus: eine Kernidee lernen, zeigen, was Sie erklären oder anwenden können, die Idee anwenden, sie in eigenen Worten erklären und wiederholen, wie sie mit dem nächsten Modul zusammenhängt.](/micrographics/learning-rhythm-strip-01/de.md)
 
 
 Sie lernen mehr, wenn Sie sich beteiligen, als wenn Sie still lesen. Manche Fragen haben keine eindeutig richtige Antwort. Entscheidend ist, ob Sie Ihre Überlegungen erklären, Belege prüfen und Ihre Sichtweise anpassen können, wenn Sie etwas Neues lernen.
@@ -81,7 +82,8 @@ Wenn es an der Zeit ist, mit einer [Bitcoin-Wallet](https://curriculum.myfirstbi
 ### Sicherheit, Verantwortung und keine Finanzberatung
 
 
-> **Callout – Zuerst lernen – dies ist keine Empfehlung**
+<!-- card: callout -->
+> **Zuerst lernen – dies ist keine Empfehlung**
 >
 > Das Bitcoin Diploma dient ausschließlich Bildungszwecken. Es bietet keine Finanz-, Anlage-, Rechts- oder Steuerberatung. Es verspricht nicht, dass bitcoin im [Preis](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) steigen wird, und empfiehlt Ihnen nicht, bitcoin in irgendeiner Menge zu kaufen, zu verkaufen, als Sicherheit für einen Kredit zu nutzen oder zu halten.
 >
@@ -104,6 +106,7 @@ Das Diplom besteht aus einem vierstufigen Lernbogen: **Problem → Lösung → H
 
 
 <!-- micrographic: learning-path-roadmap-01 -->
+[Ein Fahrplan in vier Stufen: Problem, Geld verstehen; Lösung, Wie Bitcoin funktioniert; Handeln, Bitcoin sicher nutzen; und Verbinden, Bitcoin in Ihrer Gemeinschaft, jeweils mit der zugehörigen Leitfrage.](/micrographics/learning-path-roadmap-01/de.md)
 
 
 **Modul 4** ist ein verpflichtender Teil des Diploms und wird von der Lehrkraft gestaltet. Lehrkräfte sind die Fachleute für die lokalen Einschränkungen, Lösungen, Werkzeuge, Ressourcen, Gesetze, die Sprache, Infrastruktur und Bedürfnisse ihrer Lernenden. Die von der Lehrkraft gestaltete Phase „Verbinden“ kann Verdienen, Sparen, Empfangen, Ausgeben, [Layer-2](https://curriculum.myfirstbitcoin.org/lexicon/en/#layer-2)-Lösungen, lokale Tauschmöglichkeiten, Händler oder Kreislaufwirtschaften umfassen.
@@ -118,6 +121,7 @@ Die vier Module bilden den verpflichtenden Lernpfad Problem → Lösung → Hand
 
 
 <!-- micrographic: four-module-table-01 -->
+[Eine Tabelle der vier Module mit der jeweiligen Rolle, der Leitfrage und dem, was die Lernenden üben: Geld verstehen, Wie Bitcoin funktioniert, Bitcoin sicher nutzen und Bitcoin in Ihrer Gemeinschaft.](/micrographics/four-module-table-01/de.md)
 
 
 Das Diplom dauert mindestens acht Stunden. Vier zweistündige Sitzungen sind das kürzeste geplante Format, keine Zeitbegrenzung. Ihre Lehrkraft kann ein Modul auf mehr Sitzungen verteilen, eine frühere Idee erneut aufgreifen oder die Reihenfolge einzelner Abschnitte ändern, wenn Ihre Gruppe mehr Zeit für Diskussion, Übung, Wiederholung oder Leistungsüberprüfung benötigt. Es gibt keine zeitliche Obergrenze: Die Lehrkraft bleibt dafür verantwortlich, den Lernenden die Zeit zu geben, die sie brauchen, alle erforderlichen Kompetenzen abzudecken und die Zusammenhänge zwischen den Modulen deutlich zu machen.

@@ -24,6 +24,7 @@ Za osebno izmenjavo izberite javen in primeren kraj, ne nosite s seboj nepotrebn
 
 
 <!-- micrographic: compare-local-pathways-01 -->
+[Prazna tabela za primerjavo treh lokalnih možnosti, A, B in C, glede na ime, zahteve glede preverjanja identitete (KYC), model skrbništva, podprta omrežja, ugled in načine vplačila sredstev, s prostorom za opombe.](/micrographics/compare-local-pathways-01/sl.md)
 
 
 

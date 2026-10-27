@@ -6,6 +6,7 @@ Bitcoin objedinjuje svojstva koja ranije nisu bila istodobno prisutna u jednoj [
 
 
 <!-- micrographic: bitcoin-money-properties-01 -->
+[Bitcoin objedinjuje sedam svojstava novca u jednoj imovini: trajnost, prenosivost, djeljivost, zamjenjivost, oskudnost, provjerljivost i prihvaćenost. Svako od njih ima praktična ograničenja, poput potrebe za sigurnim čuvanjem ključeva i prihvaćenosti koja je u mnogim zajednicama još uvijek niska.](/micrographics/bitcoin-money-properties-01/hr.md)
 
 
 

@@ -4,6 +4,7 @@ Sebuah [**ekonomi sirkular Bitcoin**](https://curriculum.myfirstbitcoin.org/lexi
 
 
 <!-- micrographic: local-circular-economy-01 -->
+[Dalam ekonomi sirkular Bitcoin, bitcoin berpindah dari satu orang ke orang lain sebagai imbalan atas barang, jasa, dan waktu. Pelanggan membayar pedagang, pedagang membayar penyedia jasa, penyedia jasa membayar pekerja, dan pekerja membelanjakannya kembali sebagai pelanggan.](/micrographics/local-circular-economy-01/id.md)
 
 
 My First Bitcoin mendukung [ekonomi sirkular Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-circular-economy), dan banyak di antaranya merupakan bagian dari Jaringan Pendidikan Bitcoin. Jelajahi komunitas-komunitas ini di [Dasbor Jaringan](https://network.myfirstbitcoin.org/?min10merchants=1).

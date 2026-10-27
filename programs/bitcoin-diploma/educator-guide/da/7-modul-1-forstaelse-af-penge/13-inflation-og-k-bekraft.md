@@ -4,6 +4,7 @@ Forklar [prisinflation](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflat
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[De samme 100 valutaenheder kan købe hele varekurven med basale varer, når den koster 100, men ikke når den samme varekurv koster 110. Prisniveauet er steget, og pengenes købekraft er faldet.](/micrographics/same-money-smaller-basket-01/da.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)

@@ -4,6 +4,7 @@ Tafadhali sita kidogo na mtafakari jinsi kanuni za umma, utoaji wenye kikomo, uh
 
 
 <!-- micrographic: bitcoin-responses-tradeoffs-01 -->
+[Jedwali linaloonyesha dosari tano zinazowezekana za mifumo ya kisasa ya pesa pamoja na jibu la Bitcoin na wajibu mpya au gharama mbadala inayoletwa na kila jibu. Bitcoin hubadilisha sehemu ya imani kwa taasisi kwa uthibitishaji na wajibu wa kibinafsi, lakini haiondoi hatari.](/micrographics/bitcoin-responses-tradeoffs-01/sw.md)
 
 
 **Wazo kuu:** Kwa kuzingatia mliyojifunza kuhusu Bitcoin katika moduli hii, je, ina [thamani](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) kwenu? Je, [bei](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) ya sasa ya bitcoin inawakilisha [thamani](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) yake?

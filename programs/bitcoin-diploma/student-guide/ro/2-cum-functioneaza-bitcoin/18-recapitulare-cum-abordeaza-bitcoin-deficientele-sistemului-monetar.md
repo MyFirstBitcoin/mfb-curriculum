@@ -4,6 +4,7 @@ Opriți-vă puțin și reflectați la modul în care regulile publice, emisiunea
 
 
 <!-- micrographic: bitcoin-responses-tradeoffs-01 -->
+[Un tabel care asociază cinci posibile deficiențe ale sistemelor monetare moderne cu răspunsul Bitcoin și cu noua responsabilitate sau noul compromis pe care îl implică fiecare răspuns. Bitcoin înlocuiește o parte din încrederea în instituții cu verificarea și responsabilitatea personală, dar nu elimină riscul.](/micrographics/bitcoin-responses-tradeoffs-01/ro.md)
 
 
 **Idee de reflecție:** Pe baza celor învățate despre Bitcoin în acest modul, are acesta [valoare](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) pentru dumneavoastră? Reflectă [prețul](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) actual al bitcoin [valoarea](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) sa?

@@ -7,6 +7,7 @@ Forklar forskellen tydeligt:
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[To lag: Penges tre funktioner (byttemiddel, regningsenhed, værdiopbevaringsmiddel) hviler på syv egenskaber (holdbarhed, transportabilitet, delelighed, fungibilitet, knaphed, acceptabilitet og verificerbarhed).](/micrographics/functions-and-properties-01/da.md)
 
 
 Tag udgangspunkt i forskellige formål. Spørg, hvilke egenskaber der er vigtige for at:

@@ -24,6 +24,7 @@ L'insegnamento e la valutazione offline sono validi. Utilizzi verifiche delle co
 
 
 <!-- micrographic: same-competency-any-route-01 -->
+[Strumenti reali, simulazioni su carta e percorsi accessibili approvati possono sostenere la stessa competenza se il discente prende comunque le decisioni richieste e l'educatore può valutare prove equivalenti. In assenza di equivalenza, prepari un altro percorso prima della certificazione.](/micrographics/same-competency-any-route-01/it.md)
 
 
 La Guida dello studente spiega concetti duraturi. Verifichi i dettagli locali aggiornati prima di presentare commissioni, leggi, tasse, servizi disponibili, funzionalità dei wallet o elenchi di esercenti, e indichi la data delle informazioni che utilizza.

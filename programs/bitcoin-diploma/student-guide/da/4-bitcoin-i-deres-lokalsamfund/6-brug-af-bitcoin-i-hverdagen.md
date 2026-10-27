@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: daily-bitcoin-uses-01 -->
+[Syv forskellige måder, hvorpå Bitcoin kan bruges i dagligdagen: optjening, opsparing, modtagelse, afsendelse, forbrug, donation samt prisfastsættelse og regnskab. Hver af dem er en mulig anvendelse, ikke et obligatorisk trin.](/micrographics/daily-bitcoin-uses-01/da.md)
 
 
 Bitcoin kan fungere som penge på flere måder. At bruge dem til betaling er kun én af dem.

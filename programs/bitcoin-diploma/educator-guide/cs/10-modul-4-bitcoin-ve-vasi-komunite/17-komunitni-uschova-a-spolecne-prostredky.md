@@ -15,3 +15,4 @@ Nepojímejte [komunitní úschovu](https://curriculum.myfirstbitcoin.org/lexicon
 
 
 <!-- micrographic: shared-funds-role-map-01 -->
+[Přispěvatelé a příjemci jsou závislí na tom, kdo ovládá společné prostředky. Správa klíčů, schvalování výdajů, vedení evidence a kontrola jsou oddělené role; pokud jedna osoba zastává více z nich, důvěra se soustřeďuje do jejích rukou a otázky kontinuity, soukromí, sporů a právního postavení stále vyžadují odpovědi.](/micrographics/shared-funds-role-map-01/cs.md)

@@ -10,6 +10,7 @@ Opettakaa:
 
 
 <!-- micrographic: bitcoin-issuance-schedule-01 -->
+[Lohkotuki on aluksi 50 bitcoinia ja puolittuu 210 000 lohkon välein, kun taas liikkeeseen laskettujen bitcoinien kokonaismäärä kasvaa kohti 21 miljoonan enimmäismäärää. Siirtomaksut maksetaan tämän lisäksi, eivätkä ne ole uusia bitcoineja; kuvaus ei sisällä hintaennustetta.](/micrographics/bitcoin-issuance-schedule-01/fi.md)
 
 
 Raja on verkon julkinen sääntö, ei luonnonlaki. Kuka tahansa voi kirjoittaa toisenlaisen ohjelmiston, mutta ei voi pakottaa verkon nykyisiä osallistujia ottamaan sitä käyttöön. Yhteensopimattoman ohjelmiston käyttöönotto voi luoda erillisen verkon sen sijaan, että se muuttaisi Bitcoinia huomaamatta kaikille.

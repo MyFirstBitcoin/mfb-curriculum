@@ -8,6 +8,7 @@ Kai-tsaye tsakanin takwarori ba koyaushe yake nufin cewa kwamfutoci biyu ne kawa
 
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[Mai aikawa yana sanya hannu kan ma'amala kuma yana watsa ta zuwa mahaɗan hanyar sadarwa da yawa, waɗanda suke ci gaba da tura ta har sai ta isa ga mai karɓa. Ba a buƙatar wani mai gudanar da Bitcoin na tsakiya ya amince da mai aikawa ko mai karɓa ba.](/micrographics/peer-to-peer-route-01/ha.md)
 
 
 Masu amfani har yanzu suna iya zaɓar [masu shiga tsakani](https://curriculum.myfirstbitcoin.org/lexicon/en/#intermediary). Dandalin musaya na iya riƙe bitcoin ga abokan ciniki. Sabis na biyan kuɗi na iya sauƙaƙa takardar neman biyan kuɗi. Walat ɗin da wani sabis ke kula da shi na iya sarrafa maɓallai. Waɗannan sabis na iya kawo sauƙi, amma a wannan yanayin mai amfani ya dogara da ƙa'idoji da tsaron sabis ɗin.

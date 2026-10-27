@@ -9,6 +9,7 @@ Gumagana ang Bitcoin dahil magkakaibang tungkulin ang ginagampanan ng iba't iban
 
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Apat na papel sa Bitcoin: ang mga gumagamit ay tumatanggap, nag-iingat at nagpapadala ng bitcoin, ang mga node ay nagsasariling nagbeberipika ng pagsunod sa mga tuntunin, ang mga minero ay bumubuo ng mga kandidatong bloke gamit ang patunay ng trabaho, at ang mga developer ay nagmumungkahi ng software. Walang iisang papel ang kumokontrol sa network.](/micrographics/bitcoin-participant-roles-01/tl.md)
 
 
 Nililimitahan ng mga tungkuling ito ang isa't isa:

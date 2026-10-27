@@ -5,6 +5,7 @@ People have different skills, resources, needs, and plans. Exchange allows them 
 Direct exchange is often difficult. The person who has what you need may not want what you offer. Money solves this coordination problem.
 
 
+<!-- card: definition -->
 > **Definition – Money**
 >
 > Money is an [asset](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) that people accept because they expect other people to accept it later. It helps strangers coordinate exchange, record [prices](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) and [debts](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt), and move [value](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) across time and distance.

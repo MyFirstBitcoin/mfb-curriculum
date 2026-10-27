@@ -4,6 +4,7 @@ Ang [**sirkular na ekonomiya ng Bitcoin**](https://curriculum.myfirstbitcoin.org
 
 
 <!-- micrographic: local-circular-economy-01 -->
+[Sa isang sirkular na ekonomiya ng Bitcoin, ang bitcoin ay naipapasa mula sa isang tao patungo sa iba kapalit ng mga produkto, serbisyo at oras. Nagbabayad ang isang mamimili sa isang mangangalakal, nagbabayad ang mangangalakal sa isang tagapagbigay ng serbisyo, nagbabayad ang tagapagbigay ng serbisyo sa isang manggagawa, at muli itong ginagastos ng manggagawa bilang mamimili.](/micrographics/local-circular-economy-01/tl.md)
 
 
 Sinusuportahan ng My First Bitcoin ang [mga sirkular na ekonomiya ng Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-circular-economy), at marami sa mga ito ay bahagi ng Network ng Edukasyon sa Bitcoin. Tuklasin ninyo ang mga komunidad na ito sa [Dashboard ng Network](https://network.myfirstbitcoin.org/?min10merchants=1).

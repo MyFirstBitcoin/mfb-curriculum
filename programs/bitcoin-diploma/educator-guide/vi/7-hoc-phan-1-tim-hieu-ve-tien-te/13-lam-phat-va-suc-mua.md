@@ -4,6 +4,7 @@ Hãy giảng giải về [lạm phát giá cả](https://curriculum.myfirstbitco
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Cùng 100 đơn vị tiền tệ có thể mua toàn bộ giỏ hàng thiết yếu khi giỏ hàng có giá 100, nhưng không thể khi cùng giỏ hàng đó có giá 110. Mức giá đã tăng và sức mua của tiền đã giảm.](/micrographics/same-money-smaller-basket-01/vi.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)

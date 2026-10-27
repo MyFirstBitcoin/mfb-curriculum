@@ -24,7 +24,8 @@ Watch the video.
 
 #### Notes
 
-> **Callout – Examine the perspective; do not treat it as financial advice**
+<!-- card: callout -->
+> **Examine the perspective; do not treat it as financial advice**
 >
 > A film can make claims about saving, value, or the future. Learners should identify the evidence, assumptions, trade-offs, and uncertainty rather than treat those claims as a reason to acquire bitcoin.
 

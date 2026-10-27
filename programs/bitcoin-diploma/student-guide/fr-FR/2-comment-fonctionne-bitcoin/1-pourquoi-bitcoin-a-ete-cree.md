@@ -10,6 +10,7 @@ Bitcoin a été créé pour résoudre ce problème grâce à un [réseau pair à
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Avec une entreprise de paiement, une seule organisation tient le registre et approuve chaque transfert. Avec Bitcoin, l’expéditeur signe une transaction, des nœuds indépendants la vérifient et les mineurs l’ajoutent à un registre partagé unique, ce qui rend le destinataire moins dépendant d’une autorité centrale.](/micrographics/central-ledger-vs-bitcoin-01/fr-FR.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)

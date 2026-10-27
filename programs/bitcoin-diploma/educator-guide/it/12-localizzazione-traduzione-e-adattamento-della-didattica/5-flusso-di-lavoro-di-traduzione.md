@@ -14,6 +14,7 @@ Segua questa sequenza:
 
 
 <!-- micrographic: translation-workflow-01 -->
+[La traduzione è un processo di revisione e verifica: preparare un testo inglese chiaro, tradurne il significato, revisionarlo con un linguista e un educatore, testare le istruzioni di sicurezza con i discenti e infine confermare che gli standard siano equivalenti. Le istruzioni di sicurezza poco chiare tornano alla fase di formulazione.](/micrographics/translation-workflow-01/it.md)
 
 
 Eviti modi di dire e metafore che non si trasferiscono bene in altre lingue. Se usa un'analogia, dichiari sempre che cosa spiega e che cosa non spiega.

@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[Trgovac koji prihvaća Bitcoin djeluje u četiri područja: marketingu, obuci, računovodstvu i prodaji.](/micrographics/merchant-payment-operations-01/hr.md)
 
 
 Trgovcu je potrebno više od gumba za primanje uplata. Cjelokupan postupak plaćanja može uključivati određivanje cijena, obuku osoblja, račune, povrate sredstava, [skrbništvo](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), konverziju, računovodstvo, poreze, sigurnost uređaja i podršku.

@@ -3,6 +3,7 @@
 Ipinapatupad ang pagmamay-ari ng Bitcoin sa pamamagitan ng mga kriptograpikong susi.
 
 
+<!-- card: definition -->
 > **Definition – Pribadong susi**
 >
 > Ang [pribadong susi](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) ay lihim na impormasyon na nagbibigay-daan sa isang wallet na gumawa ng mga wastong [digital na lagda](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature). Pinahihintulutan ng isang lagda ang paggastos ng bitcoin na kontrolado ng kaukulang susi. Sinumang makakuha ng [pribadong susi](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) ay karaniwang makakagastos ng pondong iyon.
@@ -21,10 +22,10 @@ Karamihan sa mga wallet para sa mga baguhan ay gumagamit ng [iisang lagda](https
 Walang lehitimong tagapagturo, kumpanya ng wallet, empleyado ng palitan, kawani ng teknikal na suporta, o developer ng Bitcoin na nangangailangan ng inyong [pribadong susi](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) o [seed phrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase). Dapat ituring na banta ang sinumang humihingi nito.
 
 
-> **Light**
->
+<!-- card: light -->
 > **Subukan po ninyo:** Pagbukud-bukurin ang mga inihandang halimbawa sa tatlong pangkat: ligtas ibahagi para sa pagtanggap, lihim na impormasyon para sa paggastos, at impormasyong maaaring maging pampubliko ngunit dapat pa ring panatilihing pribado kapag nakaugnay sa isang tao.
 
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[Ang isang lihim na pribadong susi, na hindi dapat ibahagi kailanman, ay pinagmumulan ng pampublikong impormasyong maaaring ibahagi: isang pampublikong susi na hinango mula rito at isang address sa pagtanggap na nilikha mula roon. Ang parehong pribadong susi ay lumilikha ng mga lagdang bineberipika ng mga node nang hindi kailanman nalalaman ang pribadong susi.](/micrographics/private-key-public-info-01/tl.md)

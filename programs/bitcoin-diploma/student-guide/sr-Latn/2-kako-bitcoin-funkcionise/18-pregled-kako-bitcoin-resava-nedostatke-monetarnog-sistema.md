@@ -4,6 +4,7 @@ Zastanite i razmislite o tome kako javna pravila, ograničena emisija, prenos iz
 
 
 <!-- micrographic: bitcoin-responses-tradeoffs-01 -->
+[Tabela koja povezuje pet mogućih nedostataka savremenih novčanih sistema sa odgovorom Bitcoin mreže i novom odgovornošću ili kompromisom koji svaki odgovor donosi. Bitcoin deo poverenja u institucije zamenjuje proverom i ličnom odgovornošću, ali ne uklanja rizik.](/micrographics/bitcoin-responses-tradeoffs-01/sr-Latn.md)
 
 
 **Ključna misao:** Na osnovu onoga što ste u ovom modulu naučili o Bitcoin-u, da li on ima [vrednost](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) za vas? Da li trenutna [cena](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) bitcoin-a odražava njegovu [vrednost](https://curriculum.myfirstbitcoin.org/lexicon/en/#value)?

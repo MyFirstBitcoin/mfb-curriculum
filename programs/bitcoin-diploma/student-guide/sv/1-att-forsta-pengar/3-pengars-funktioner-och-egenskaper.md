@@ -14,6 +14,7 @@ Användbara pengar brukar också ha flera egenskaper:
 
 
 <!-- micrographic: money-property-questions-01 -->
+[Sju egenskaper hos användbara pengar, var och en med en fråga att ställa vid jämförelse av olika former av pengar: hållbarhet, portabilitet, delbarhet, fungibilitet, knapphet, acceptans och verifierbarhet.](/micrographics/money-property-questions-01/sv.md)
 
 
 Ingen form av pengar får full poäng på alla punkter.
@@ -22,6 +23,7 @@ Människor jämför också pengar utifrån deras [**sundhet**](https://curriculu
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Två lager: pengars tre funktioner (bytesmedel, räkneenhet, värdebevarare) vilar på sju egenskaper (hållbarhet, bärbarhet, delbarhet, fungibilitet, knapphet, acceptans och verifierbarhet).](/micrographics/functions-and-properties-01/sv.md)
 
 
 [Guld](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) är beständigt och finns i begränsad mängd, men är svårt att dela upp och transportera för små betalningar. [Sedlar](https://curriculum.myfirstbitcoin.org/lexicon/en/#paper-cash) är lätta att bära med sig och accepteras lokalt, men de kan skadas och mängden kan öka. Vilken jämförelse som är bäst beror på syfte, plats och tid.

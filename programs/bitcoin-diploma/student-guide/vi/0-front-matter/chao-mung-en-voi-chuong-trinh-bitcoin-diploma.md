@@ -28,6 +28,7 @@ Cách tiếp cận này rất quan trọng vì tiền ảnh hưởng đến tấ
 
 
 <!-- micrographic: critical-thinking-loop-01 -->
+[Một chu trình tư duy phản biện có thể lặp lại: xác định nhận định, phân biệt sự thật với sở thích cá nhân, xem xét bằng chứng và nguồn thông tin, so sánh các phương án khác, nêu một sự đánh đổi hoặc điều chưa chắc chắn, rồi đưa ra kết luận hoặc câu hỏi tạm thời.](/micrographics/critical-thinking-loop-01/vi.md)
 
 
 **Cộng đồng** có nghĩa là giáo dục trở nên hữu ích hơn khi mọi người thảo luận các ý tưởng và liên hệ chúng với đời sống địa phương. Giảng viên và bạn học của quý vị có thể có những trải nghiệm mà không cuốn sách mang tính toàn cầu nào có thể bao quát hết. Hãy lắng nghe kỹ, đặt câu hỏi và giải thích lập luận của mình với thái độ tôn trọng.
@@ -75,7 +76,8 @@ Quý vị có thể vận dụng khóa học để:
 * chuẩn bị cho việc học chuyên sâu hơn
 
 
-> **Callout – Trang bị kiến thức trước khi hành động**
+<!-- card: callout -->
+> **Trang bị kiến thức trước khi hành động**
 >
 > Quý vị không cần mua hay sở hữu bitcoin bằng bất kỳ cách nào khác để hoàn thành chương trình Văn bằng Bitcoin. Quý vị cũng không cần cài đặt [ví Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet) hoặc sử dụng tiền cá nhân. Các kỹ năng thực hành bắt buộc có thể được đánh giá bằng ví thực hành đã chuẩn bị sẵn, hoạt động mô phỏng, môi trường thử nghiệm, mô hình vật lý hoặc một hoạt động có mức rủi ro thấp được giảng viên chấp thuận.
 
@@ -84,3 +86,4 @@ Nếu quý vị có ít thời gian hoặc muốn tìm hiểu sơ lược về B
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[Một lộ trình học tập tùy chọn bắt đầu từ Nhập môn Bitcoin đến Văn bằng Bitcoin, tiếp theo là Chương trình đào tạo nhà giáo dục, rồi trở thành nhà giáo dục giảng dạy theo chương trình của My First Bitcoin và tham gia Mạng lưới giáo dục Bitcoin. Mỗi bước tiếp theo đều là một lựa chọn, không phải yêu cầu bắt buộc.](/micrographics/learner-journey-pathway-01/vi.md)

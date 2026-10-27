@@ -15,6 +15,7 @@ Verwenden Sie eine Abfolge aus Innehalten und Prüfen:
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Bevor eine Zahlung freigegeben wird, prüft der Absender Empfänger und Zweck, die Zahlungsmethode, das Ziel sowie Betrag, Einheit, Gebühr oder Ablaufzeit und sendet bei Unvertrautem zunächst einen kleinen Testbetrag. Weicht etwas ab, hält er inne und überprüft; er gibt die Zahlung nur frei, wenn alles übereinstimmt, und kontrolliert anschließend das Ergebnis.](/micrographics/pre-send-checklist-01/de.md)
 
 
 Bringen Sie den Lernenden bei, abzubrechen, wenn der Empfänger das Ziel unerwartet ändert, von einer Überprüfung abrät, Zeitdruck erzeugt oder nach Wiederherstellungsinformationen fragt.

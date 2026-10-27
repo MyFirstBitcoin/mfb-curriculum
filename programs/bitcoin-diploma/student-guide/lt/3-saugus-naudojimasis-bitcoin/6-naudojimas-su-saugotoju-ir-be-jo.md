@@ -1,5 +1,6 @@
 # 3.6 Naudojimas su saugotoju ir be jo
 
+<!-- card: definition -->
 > **Definition – Lėšų saugojimas**
 >
 > [Lėšų saugojimas](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) atsako į praktinį klausimą: kas valdo raktus, reikalingus bitkoinams išleisti?
@@ -15,10 +16,12 @@ Naudojantis **be saugotojo veikiančia** arba **savarankiškai valdoma** pinigin
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[Kai saugoma per tarpininką, paslaugos teikėjas valdo raktus ir patvirtina lėšų išleidimą, todėl likutis yra jo pažadas. Kai saugoma savarankiškai, naudotojas valdo raktus ir atsargines kopijas; abu būdai turi priklausomybių ir sutrikimų rizikų.](/micrographics/who-controls-keys-01/lt.md)
 
 
 
 <!-- micrographic: custody-comparison-table-01 -->
+[Lentelė, kurioje lyginamas naudojimas patikint saugojimą paslaugų teikėjui ir saugant savarankiškai: kas saugo raktus, kas pasirūpina atkūrimu ir koks yra pagrindinis kiekvieno būdo kompromisas. Abu būdai susiję su rizika.](/micrographics/custody-comparison-table-01/lt.md)
 
 
 [Lėšų saugojimo būdas](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) ne visada akivaizdus iš sąsajos. Jei negalite valdyti prieigos atkūrimo būdo ir lėšoms išsiimti reikia įmonės patvirtinimo, tikriausiai naudojatės [saugotojo paslaugomis](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian). [Savarankiškas lėšų saugojimas](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) nėra asmeninės vertės išbandymas; svarbiausia nustatyti, kuo reikia pasitikėti ir kokia rizika kyla.

@@ -6,11 +6,13 @@ Lorsqu’une banque commerciale accorde un prêt, elle crée généralement un n
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Un prêt bancaire simplifié : l’emprunteur fait une demande, la banque approuve le prêt et crédite le compte de l’emprunteur d’un nouveau dépôt, puis l’emprunteur rembourse à la banque le capital et les intérêts.](/micrographics/bank-loan-deposit-01/fr-FR.md)
 
 
 Les banques cherchent généralement à réaliser un [bénéfice](https://curriculum.myfirstbitcoin.org/lexicon/en/#bank-profit) en percevant des intérêts et des commissions sur les prêts et les investissements, tout en couvrant leurs coûts de fonctionnement, de financement et de conformité réglementaire et en absorbant les pertes lorsque les emprunteurs ne remboursent pas. Ces activités et ces contraintes varient selon les banques et les juridictions.
 
 
+<!-- card: definition -->
 > **Definition – Système bancaire à réserves fractionnaires**
 >
 > [Le système bancaire à réserves fractionnaires](https://curriculum.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking) désigne un système dans lequel les banques ne détiennent qu’une fraction de leurs engagements au titre des dépôts sous forme de réserves immédiatement disponibles, tout en accordant des prêts et en détenant d’autres [actifs](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset). Le niveau de réserves obligatoires et les autres limites diffèrent selon les pays et peuvent évoluer au fil du temps.
@@ -23,6 +25,7 @@ Cela crée deux risques importants :
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Risque de liquidité : de nombreux déposants font la queue pour retirer leurs fonds aujourd’hui, et la banque manque de liquidités à présent, même si les prêts qu’elle a accordés peuvent être remboursés plus tard. Risque d’insolvabilité : les emprunteurs ne remboursent plus leurs prêts immobiliers, et la valeur des actifs de la banque devient inférieure à ce qu’elle doit.](/micrographics/liquidity-vs-solvency-01/fr-FR.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)

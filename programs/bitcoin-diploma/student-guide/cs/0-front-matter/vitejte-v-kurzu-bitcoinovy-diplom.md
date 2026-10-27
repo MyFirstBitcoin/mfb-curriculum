@@ -28,6 +28,7 @@ Tento přístup je důležitý, protože peníze ovlivňují každého člověka
 
 
 <!-- micrographic: critical-thinking-loop-01 -->
+[Opakovatelný cyklus kritického myšlení: určete tvrzení, oddělte fakta od preferencí, prozkoumejte důkazy a zdroj, porovnejte alternativy, pojmenujte kompromis nebo nejistotu a vytvořte předběžný závěr nebo otázku.](/micrographics/critical-thinking-loop-01/cs.md)
 
 
 **Komunita** znamená, že vzdělávání je užitečnější, když lidé diskutují o myšlenkách a propojují je s místním životem. Vaši vyučující a spolužáci mohou mít zkušenosti, které žádná celosvětově používaná učebnice nemůže obsáhnout. Pozorně naslouchejte, ptejte se a s respektem vysvětlujte své úvahy.
@@ -75,7 +76,8 @@ Kurz můžete využít k tomu, abyste dokázali:
 * připravit se na pokročilejší studium
 
 
-> **Callout – Znalosti předcházejí činům**
+<!-- card: callout -->
+> **Znalosti předcházejí činům**
 >
 > K absolvování Bitcoinového diplomu nemusíte kupovat ani jinak získávat bitcoin. Nemusíte si ani instalovat [bitcoinovou peněženku](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet) nebo používat vlastní prostředky. Požadované praktické dovednosti lze ověřit pomocí připravené cvičné peněženky, simulace, testovacího prostředí, fyzického modelu nebo aktivity s nízkým rizikem schválené lektorem.
 
@@ -84,3 +86,4 @@ Pokud máte málo času nebo se chcete s Bitcoinem nejprve seznámit, začněte 
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[Volitelná vzdělávací cesta vede od Úvodu do Bitcoinu přes Bitcoinový diplom a Vzdělávací program pro pedagogy až k tomu, že se stanete pedagogem vyučujícím podle vzdělávacího programu My First Bitcoin a připojíte se k Síti pro vzdělávání o Bitcoinu. Každý další krok je volbou, nikoli požadavkem.](/micrographics/learner-journey-pathway-01/cs.md)
