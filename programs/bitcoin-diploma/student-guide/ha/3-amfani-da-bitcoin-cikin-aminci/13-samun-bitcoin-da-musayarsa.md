@@ -20,13 +20,13 @@ Mutane na iya karɓar bitcoin ta hanyar aiki, biyan kuɗi a cikin al'umma, musay
 Kafin ku kwatanta wata hanya, ku tambaya:
 
 
-<!-- micrographic: ways-to-receive-bitcoin-01 -->
-[Mutum ɗaya zai iya samun bitcoin ta hanyoyi huɗu daban-daban: samun sa ta hanyar aiki ko tallace-tallace, musayar tsabar kuɗin gida da wani mutum, amfani da dandalin musaya ko dillali, ko amfani da ATM. Kowace hanya tana ƙarewa da riƙe bitcoin da kanku ko samun ragowar kuɗi a wurin mai ajiyarsu, kuma ba a fifita wata hanya a kan sauran ba.](/micrographics/ways-to-receive-bitcoin-01/ha.md)
-
-
-
 <!-- micrographic: exchange-risk-questions-01 -->
 [Fannonin haɗari guda shida da ya kamata a bincika kafin samun bitcoin ko musayarsa, kowanne yana da tambayar da za a yi: kuɗaɗen da ake kashewa, riƙon ajiya, shaida da sirri, cire kuɗi da kammala biyan kuɗi, ɗayan ɓangaren mu'amala da tsaro, da yanayin wurin zama.](/micrographics/exchange-risk-questions-01/ha.md)
+
+
+
+<!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Mutum ɗaya zai iya samun bitcoin ta hanyoyi huɗu daban-daban: samun sa ta hanyar aiki ko tallace-tallace, musayar tsabar kuɗin gida da wani mutum, amfani da dandalin musaya ko dillali, ko amfani da ATM. Kowace hanya tana ƙarewa da riƙe bitcoin da kanku ko samun ragowar kuɗi a wurin mai ajiyarsu, kuma ba a fifita wata hanya a kan sauran ba.](/micrographics/ways-to-receive-bitcoin-01/ha.md)
 
 
 Babu wata hanya da take zama mafi kyau kai tsaye a ko'ina. Misalai na yankinku da jagororin da suka shafi takamaiman masu ba da sabis suna cikin **Kashi na 4**.

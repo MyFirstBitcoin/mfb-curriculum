@@ -1,10 +1,10 @@
-# Quiz – Gebruik Bitcoin veilig: kort toets
+# Quiz – Veilige gebruik van Bitcoin: vinnige toets
 
 ## Vraag 1
 
 'n Bitcoin-beursie:
 
-* [ ] Stoor bitcoin
+* [ ] Berg bitcoin
 * [x] Bestuur sleutels en onderteken
 * [ ] Verwyder die beskerming van geheime
 * [ ] Keer transaksies om
@@ -17,37 +17,37 @@ Bitcoin word in die gedeelde grootboek aangeteken; 'n beursie bestuur die inligt
 
 Deel dit om bitcoin te ontvang:
 
-* [ ] Herstelfrase
+* [ ] Saadfrase
 * [ ] Private sleutel
 * [x] Ontvangsadres
 * [ ] Wagwoord
 
 ### Verduideliking
 
-'n Ontvangsadres kan vir betaling gedeel word. Herstelfrases, private sleutels en wagwoorde moet geheim bly. Hersien die Studentehandleiding, Module 3, “Adresse” en “Sleutels.”
+'n Ontvangsadres kan vir betaling gedeel word. Saadfrases, private sleutels en wagwoorde moet geheim bly. Hersien die Studentehandleiding, Module 3, “Adresse” en “Sleutels.”
 
 ## Vraag 3
 
-Herstelsaad aanlyn ingevoer. Veiligste volgende stap?
+Saadfrase aanlyn ingevoer. Wat is die veiligste volgende stap?
 
 * [ ] Wag
-* [ ] Stuur dit aan tegniese ondersteuning
-* [x] Nuwe herstelsaad, skuif dan fondse
-* [ ] Hergebruik die herstelsaad
+* [ ] Stuur dit aan die ondersteuningsdiens
+* [x] Nuwe saadfrase, skuif dan fondse
+* [ ] Hergebruik die saadfrase
 
 ### Verduideliking
 
-Beskou 'n herstelfrase wat aanlyn ingevoer is as gekompromitteer. Skep 'n nuwe beursie met 'n nuwe herstelsaad en skuif dan die fondse eers nadat u die bestemming geverifieer het. Hersien die Studentehandleiding, Module 3, “Herstelfrases.”
+Beskou 'n saadfrase wat aanlyn ingevoer is as gekompromitteer. Skep 'n nuwe beursie met 'n nuwe saadfrase en skuif fondse eers nadat u die bestemming geverifieer het. Hersien die Studentehandleiding, Module 3, “Saadfrases.”
 
 ## Vraag 4
 
-Verskil in bewaring?
+Wat is die belangrikste verskil tussen bewaring deur 'n derde party en selfbewaring?
 
 * [x] Wie die sleutels beheer
 * [ ] Omkeerbaarheid van betalings
 * [ ] Aanbodlimiet
-* [ ] Verantwoordelikheid
+* [ ] Transaksiefooie
 
 ### Verduideliking
 
-Gebruik met derdepartybewaring en gebruik met selfbewaring verskil ten opsigte van wie die sleutels beheer en die gepaardgaande verantwoordelikheid dra. Nie een waarborg veiligheid of omkeerbaarheid nie. Hersien die Studentehandleiding, Module 3, “Gebruik met en sonder derdepartybewaring.”
+Bewaring deur 'n derde party en selfbewaring verskil ten opsigte van wie die sleutels beheer en die gepaardgaande verantwoordelikheid dra. Nie een waarborg veiligheid of omkeerbaarheid nie. Hersien die Studentehandleiding, Module 3, “Gebruik met en sonder bewaring deur 'n derde party.”

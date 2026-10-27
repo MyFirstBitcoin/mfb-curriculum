@@ -25,7 +25,7 @@ Bitcoin může fungovat jako peníze několika způsoby. Utrácení je jen jedn�
 
 Při jakémkoli použití si položte tři otázky:
 
-1. Jaký stávající problém [Bitcoin řeší](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) v této situaci?
+1. Jaký stávající problém Bitcoin řeší v této situaci?
 1. Je Bitcoin v tomto případě lepší než dostupná alternativa?
 1. Jakou novou odpovědnost nebo riziko Bitcoin přináší?
 

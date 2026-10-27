@@ -20,13 +20,13 @@ Az emberek munkáért, közösségi kifizetésként, magánszemélyek közötti 
 Mielőtt összehasonlítana egy lehetőséget, tegye fel a következő kérdéseket:
 
 
-<!-- micrographic: ways-to-receive-bitcoin-01 -->
-[Egy személy négy különböző módon juthat bitcoinhoz: munkával vagy értékesítéssel keresheti meg, helyi készpénzt válthat rá egy másik személlyel, tőzsdét vagy brókert vehet igénybe, illetve ATM-et használhat. Mindegyik út saját kezeléshez vagy letétkezelőnél vezetett egyenleghez vezet, és egyik sem ajánlott a többivel szemben.](/micrographics/ways-to-receive-bitcoin-01/hu.md)
-
-
-
 <!-- micrographic: exchange-risk-questions-01 -->
 [Hat kockázati terület, amelyet érdemes ellenőrizni bitcoin beszerzése vagy átváltása előtt, mindegyikhez egy felteendő kérdéssel: költségek, letétkezelés, személyazonosság és adatvédelem, kiutalás és elszámolás, partner és biztonság, valamint helyi körülmények.](/micrographics/exchange-risk-questions-01/hu.md)
+
+
+
+<!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Egy személy négy különböző módon juthat bitcoinhoz: munkával vagy értékesítéssel keresheti meg, helyi készpénzt válthat rá egy másik személlyel, tőzsdét vagy brókert vehet igénybe, illetve ATM-et használhat. Mindegyik út saját kezeléshez vagy letétkezelőnél vezetett egyenleghez vezet, és egyik sem ajánlott a többivel szemben.](/micrographics/ways-to-receive-bitcoin-01/hu.md)
 
 
 Egyetlen lehetőség sem automatikusan a legjobb mindenhol. A helyi példák és a szolgáltatóspecifikus útmutatás helye a **4. modul**.

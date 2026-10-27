@@ -25,7 +25,7 @@ Bitcoin gali atlikti pinigų funkciją keliais būdais. Atsiskaitymas yra tik vi
 
 Kiekvienu naudojimo atveju užduokite tris klausimus:
 
-1. Kokią esamą problemą [sprendžia Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) šiuo atveju?
+1. Kokią esamą problemą sprendžia Bitcoin šiuo atveju?
 1. Ar Bitcoin šiuo atveju yra geresnis pasirinkimas nei prieinama alternatyva?
 1. Kokią naują atsakomybę ar riziką sukuria Bitcoin?
 

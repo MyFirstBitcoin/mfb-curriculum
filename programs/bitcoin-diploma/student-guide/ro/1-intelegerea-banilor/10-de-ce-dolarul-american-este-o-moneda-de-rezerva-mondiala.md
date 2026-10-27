@@ -1,4 +1,4 @@
-# 1.10 De ce este dolarul american o monedă de rezervă mondială?
+# 1.10 De ce dolarul american este o monedă de rezervă mondială
 
 O **monedă de [rezervă](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency)** este o [monedă](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) pe care [băncile centrale](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) și guvernele o dețin și o folosesc pentru plăți internaționale. Înainte de Primul Război Mondial, lira sterlină îndeplinea acest rol în cea mai mare măsură. Războiul a slăbit [monedele europene](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) și centrele financiare, în timp ce Statele Unite furnizau bunuri și acumulau [aur](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold). Acest lucru a dus la creșterea utilizării dolarului la nivel internațional.
 

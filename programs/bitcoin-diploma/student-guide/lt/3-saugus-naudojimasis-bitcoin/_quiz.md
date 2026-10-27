@@ -1,21 +1,21 @@
-# Quiz – Saugus naudojimasis Bitcoin: trumpa žinių patikra
+# Quiz – Saugus „Bitcoin“ naudojimas: trumpas žinių patikrinimas
 
 ## Klausimas 1
 
-Bitcoin piniginė:
+„Bitcoin“ piniginė:
 
 * [ ] Saugo bitkoinus
-* [x] Tvarko raktus ir pasirašo
+* [x] Valdo raktus ir pasirašo operacijas
 * [ ] Panaikina slaptos informacijos apsaugą
-* [ ] Atšaukia sandorius
+* [ ] Atšaukia operacijas
 
 ### Paaiškinimas
 
-Bitcoin įrašomas bendroje apskaitos knygoje; piniginė tvarko informaciją, naudojamą jam pasiekti ir naudoti. Peržiūrėkite mokinio vadovo 3 modulio skyrių „Piniginės“.
+„Bitcoin“ įrašai saugomi bendrame operacijų registre; piniginė valdo informaciją, reikalingą prieigai prie lėšų ir jų naudojimui. Peržiūrėkite mokinio vadovo 3 modulio skiltį „Piniginės“.
 
 ## Klausimas 2
 
-Kuo dalytis norint gauti bitkoinų?
+Kuo galite pasidalyti, kad gautumėte bitkoinų?
 
 * [ ] Atkūrimo fraze
 * [ ] Privačiuoju raktu
@@ -24,30 +24,30 @@ Kuo dalytis norint gauti bitkoinų?
 
 ### Paaiškinimas
 
-Gavimo adresu galima dalytis norint gauti mokėjimą. Atkūrimo frazės, privatieji raktai ir slaptažodžiai turi likti paslaptyje. Peržiūrėkite mokinio vadovo 3 modulio skyrius „Adresai“ ir „Raktai“.
+Norėdami gauti mokėjimą, galite pasidalyti gavimo adresu. Atkūrimo frazės, privatieji raktai ir slaptažodžiai turi likti paslaptyje. Peržiūrėkite mokinio vadovo 3 modulio skiltis „Adresai“ ir „Raktai“.
 
 ## Klausimas 3
 
-Atkūrimo frazė įvesta internete. Koks kitas žingsnis saugiausias?
+Atkūrimo frazė įvesta internete. Koks būtų saugiausias kitas žingsnis?
 
 * [ ] Palaukti
 * [ ] Nusiųsti ją pagalbos tarnybai
-* [x] Sukurti naują atkūrimo frazę, tada perkelti lėšas
+* [x] Sukurti naują atkūrimo frazę, tada pervesti lėšas
 * [ ] Pakartotinai naudoti tą pačią atkūrimo frazę
 
 ### Paaiškinimas
 
-Internete įvestą atkūrimo frazę laikykite atskleista. Sukurkite naują piniginę su nauja atkūrimo fraze, tada perkelkite lėšas tik patikrinę gavimo adresą. Peržiūrėkite mokinio vadovo 3 modulio skyrių „Atkūrimo frazės“.
+Internete įvestą atkūrimo frazę laikykite atskleista. Sukurkite naują piniginę su nauja atkūrimo fraze, tada perveskite lėšas tik patikrinę gavimo adresą. Peržiūrėkite mokinio vadovo 3 modulio skiltį „Atkūrimo frazės“.
 
 ## Klausimas 4
 
-Kuo skiriasi saugojimas per tarpininką nuo savarankiško saugojimo?
+Kuo iš esmės skiriasi naudojimasis patikėjus raktų saugojimą kitam ir saugant juos patiems?
 
-* [x] Tuo, kas valdo raktus
+* [x] Tuo, kas kontroliuoja raktus
 * [ ] Galimybe atšaukti mokėjimus
 * [ ] Pasiūlos riba
-* [ ] Atsakomybe
+* [ ] Operacijų mokesčiais
 
 ### Paaiškinimas
 
-Saugojimas per tarpininką ir savarankiškas saugojimas skiriasi tuo, kas valdo raktus ir prisiima su tuo susijusią atsakomybę. Nė vienas būdas negarantuoja saugumo ar galimybės atšaukti sandorius. Peržiūrėkite mokinio vadovo 3 modulio skyrių „Naudojimasis per tarpininką ir be jo“.
+Naudojimasis patikėjus raktų saugojimą kitam ir saugant juos patiems skiriasi tuo, kas kontroliuoja raktus ir prisiima su tuo susijusią atsakomybę. Nė vienas būdas negarantuoja saugumo ar galimybės atšaukti operacijas. Peržiūrėkite mokinio vadovo 3 modulio skiltį „Naudojimasis patikėjus raktų saugojimą kitam ir saugant juos patiems“.

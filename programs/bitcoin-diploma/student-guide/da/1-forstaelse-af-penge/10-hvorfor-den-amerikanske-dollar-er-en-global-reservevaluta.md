@@ -1,4 +1,4 @@
-# 1.10 Hvorfor er den amerikanske dollar en global reservevaluta?
+# 1.10 Hvorfor den amerikanske dollar er en global reservevaluta
 
 En **reserve [valuta](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency)** er en [valuta](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency), som [centralbanker](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) og regeringer besidder og bruger til internationale betalinger. Før Første Verdenskrig spillede det britiske pund den mest fremtrædende rolle som reservevaluta. Krigen svækkede europæiske [valutaer](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) og finanscentre, mens USA leverede varer og ophobede [guld](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold). Det øgede den internationale brug af dollaren.
 

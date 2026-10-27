@@ -20,13 +20,13 @@
 Prieš lygindami būdą, paklauskite:
 
 
-<!-- micrographic: ways-to-receive-bitcoin-01 -->
-[Vienas asmuo gali gauti bitkoinų keturiais skirtingais būdais: uždirbdamas jų iš darbo ar pardavimo, keisdamas vietinius grynuosius pinigus su kitu asmeniu, naudodamasis keitykla ar brokerio paslaugomis arba bankomatu. Kiekvienu atveju bitkoinai galiausiai saugomi savarankiškai arba kaip pas saugotoją laikomas likutis, ir nė vienam iš šių būdų neteikiama pirmenybė.](/micrographics/ways-to-receive-bitcoin-01/lt.md)
-
-
-
 <!-- micrographic: exchange-risk-questions-01 -->
 [Šešios rizikos sritys, kurias reikia patikrinti prieš įsigyjant ar keičiant bitkoinus, kiekviena su klausimu, kurį reikėtų užduoti: išlaidos, saugojimas, tapatybė ir privatumas, lėšų išėmimas ir atsiskaitymas, sandorio šalis ir saugumas bei vietos aplinkybės.](/micrographics/exchange-risk-questions-01/lt.md)
+
+
+
+<!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Vienas asmuo gali gauti bitkoinų keturiais skirtingais būdais: uždirbdamas jų iš darbo ar pardavimo, keisdamas vietinius grynuosius pinigus su kitu asmeniu, naudodamasis keitykla ar brokerio paslaugomis arba bankomatu. Kiekvienu atveju bitkoinai galiausiai saugomi savarankiškai arba kaip pas saugotoją laikomas likutis, ir nė vienam iš šių būdų neteikiama pirmenybė.](/micrographics/ways-to-receive-bitcoin-01/lt.md)
 
 
 Nė vienas būdas savaime nėra geriausias visur. Vietiniai pavyzdžiai ir konkretiems paslaugų teikėjams skirtos gairės pateikiami **4 modulyje**.

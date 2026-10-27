@@ -20,13 +20,13 @@ Ljudje lahko bitcoin prejmejo za delo, s plačilom v skupnosti, z medsebojno men
 Preden primerjate posamezno pot, se vprašajte:
 
 
-<!-- micrographic: ways-to-receive-bitcoin-01 -->
-[Oseba lahko pridobi bitcoin na štiri različne načine: z delom ali prodajo, z menjavo lokalne gotovine z drugo osebo, prek menjalnice ali posrednika ali z uporabo bankomata. Vsaka pot se konča s samostojno hrambo ali stanjem pri skrbniku, pri čemer nobena ni priporočena bolj kot druge.](/micrographics/ways-to-receive-bitcoin-01/sl.md)
-
-
-
 <!-- micrographic: exchange-risk-questions-01 -->
 [Šest področij tveganja, ki jih preverite pred pridobitvijo ali menjavo bitcoinov, vsako z vprašanjem, ki si ga zastavite: stroški, skrbništvo, identiteta in zasebnost, dvig in poravnava, nasprotna stranka in varnost ter lokalne okoliščine.](/micrographics/exchange-risk-questions-01/sl.md)
+
+
+
+<!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Oseba lahko pridobi bitcoin na štiri različne načine: z delom ali prodajo, z menjavo lokalne gotovine z drugo osebo, prek menjalnice ali posrednika ali z uporabo bankomata. Vsaka pot se konča s samostojno hrambo ali stanjem pri skrbniku, pri čemer nobena ni priporočena bolj kot druge.](/micrographics/ways-to-receive-bitcoin-01/sl.md)
 
 
 Nobena pot ni samodejno najboljša povsod. Lokalni primeri in smernice za posamezne ponudnike sodijo v **modul 4**.

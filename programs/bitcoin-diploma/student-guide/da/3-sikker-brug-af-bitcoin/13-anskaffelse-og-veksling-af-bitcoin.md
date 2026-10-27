@@ -20,13 +20,13 @@ Man kan modtage bitcoin gennem arbejde, en betaling i et fællesskab, en udveksl
 Før De sammenligner en fremgangsmåde, skal De spørge:
 
 
-<!-- micrographic: ways-to-receive-bitcoin-01 -->
-[En person kan modtage bitcoin på fire forskellige måder: ved at tjene dem gennem arbejde eller salg, ved at veksle lokale kontanter med en anden person, ved at bruge en børs eller mægler eller ved at bruge en bitcoin-automat. Hver fremgangsmåde ender med egen opbevaring eller en saldo hos en udbyder, og ingen anbefales frem for de andre.](/micrographics/ways-to-receive-bitcoin-01/da.md)
-
-
-
 <!-- micrographic: exchange-risk-questions-01 -->
 [Seks risikoområder, der bør undersøges, før man anskaffer eller veksler bitcoin, hvert med et spørgsmål, der bør stilles: omkostninger, opbevaring, identitet og privatliv, udbetaling og afvikling, modpart og sikkerhed samt lokale forhold.](/micrographics/exchange-risk-questions-01/da.md)
+
+
+
+<!-- micrographic: ways-to-receive-bitcoin-01 -->
+[En person kan modtage bitcoin på fire forskellige måder: ved at tjene dem gennem arbejde eller salg, ved at veksle lokale kontanter med en anden person, ved at bruge en børs eller mægler eller ved at bruge en bitcoin-automat. Hver fremgangsmåde ender med egen opbevaring eller en saldo hos en udbyder, og ingen anbefales frem for de andre.](/micrographics/ways-to-receive-bitcoin-01/da.md)
 
 
 Ingen fremgangsmåde er automatisk bedst overalt. Lokale eksempler og udbyderspecifik vejledning hører til i **modul 4**.

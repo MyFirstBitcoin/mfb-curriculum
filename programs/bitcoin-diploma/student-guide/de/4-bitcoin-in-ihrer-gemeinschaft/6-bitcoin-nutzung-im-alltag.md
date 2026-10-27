@@ -25,7 +25,7 @@ Bitcoin kann auf verschiedene Weise als Geld dienen. Das Ausgeben ist nur eine d
 
 Stellen Sie sich bei jeder Verwendung drei Fragen:
 
-1. Welches bestehende Problem [löst Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) hier?
+1. Welches bestehende Problem löst Bitcoin hier?
 1. Ist Bitcoin in diesem Fall besser als die verfügbare Alternative?
 1. Welche neue Verantwortung oder welches neue Risiko bringt Bitcoin mit sich?
 

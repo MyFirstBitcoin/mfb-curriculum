@@ -25,7 +25,7 @@ Bitcoin, birçok farklı şekilde para işlevi görebilir. Harcamak bunlardan ya
 
 Her kullanım için üç soru sorun:
 
-1. Burada hangi mevcut soruna [Bitcoin çözüm getiriyor](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address)?
+1. Burada hangi mevcut soruna Bitcoin çözüm getiriyor?
 1. Bu durumda Bitcoin, mevcut alternatiften daha mı iyi?
 1. Bitcoin hangi yeni sorumluluğu veya riski doğuruyor?
 

@@ -22,7 +22,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.7 | [फियाट चलन](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/mr/1/7.md) |
 |  | 1.8 | [आंशिक राखीव बँकिंग](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/mr/1/8.md) |
 |  | 1.9 | [महागाई आणि क्रयशक्ती](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/mr/1/9.md) |
-|  | 1.10 | [अमेरिकी डॉलर हे जागतिक राखीव चलन का आहे?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/mr/1/10.md) |
+|  | 1.10 | [अमेरिकन डॉलर हे जागतिक राखीव चलन का आहे](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/mr/1/10.md) |
 |  | 1.11 | [बचत आणि मूल्य जतन करण्याचे पर्याय](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/mr/1/11.md) |
 |  | 1.12 | [केंद्रीय बँकेची डिजिटल चलने (CBDCs)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/mr/1/12-cbdcs.md) |
 |  | 1.13 | [उजळणी: पैसा कसा बिघडू शकतो?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/mr/1/13.md) |

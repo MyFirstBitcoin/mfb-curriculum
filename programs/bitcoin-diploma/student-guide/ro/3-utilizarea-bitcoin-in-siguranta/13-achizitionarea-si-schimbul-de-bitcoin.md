@@ -20,13 +20,13 @@ Oamenii pot primi bitcoin prin muncă, o plată comunitară, un schimb direct î
 Înainte de a compara o modalitate, întrebați:
 
 
-<!-- micrographic: ways-to-receive-bitcoin-01 -->
-[O persoană poate primi bitcoin în patru moduri diferite: câștigând bitcoin prin muncă sau vânzări, schimbând numerar în moneda locală cu o altă persoană, folosind o platformă de schimb sau un broker ori folosind un bancomat. Fiecare cale duce la autocustodie sau la un sold în custodie și niciuna nu este recomandată în detrimentul celorlalte.](/micrographics/ways-to-receive-bitcoin-01/ro.md)
-
-
-
 <!-- micrographic: exchange-risk-questions-01 -->
 [Șase domenii de risc de verificat înainte de a achiziționa sau a schimba bitcoin, fiecare însoțit de o întrebare de pus: costuri, custodie, identitate și confidențialitate, retragere și decontare, contraparte și siguranță și context local.](/micrographics/exchange-risk-questions-01/ro.md)
+
+
+
+<!-- micrographic: ways-to-receive-bitcoin-01 -->
+[O persoană poate primi bitcoin în patru moduri diferite: câștigând bitcoin prin muncă sau vânzări, schimbând numerar în moneda locală cu o altă persoană, folosind o platformă de schimb sau un broker ori folosind un bancomat. Fiecare cale duce la autocustodie sau la un sold în custodie și niciuna nu este recomandată în detrimentul celorlalte.](/micrographics/ways-to-receive-bitcoin-01/ro.md)
 
 
 Nicio modalitate nu este automat cea mai bună peste tot. Exemplele locale și îndrumările specifice furnizorilor își au locul în **Modulul 4**.

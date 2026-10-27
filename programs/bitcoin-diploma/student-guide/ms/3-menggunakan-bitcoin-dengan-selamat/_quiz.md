@@ -7,15 +7,15 @@ Dompet Bitcoin:
 * [ ] Menyimpan bitcoin
 * [x] Mengurus kunci dan menandatangani
 * [ ] Menghapuskan perlindungan rahsia
-* [ ] Membalikkan transaksi
+* [ ] Membatalkan transaksi
 
 ### Penjelasan
 
-Bitcoin direkodkan pada lejar bersama; dompet mengurus maklumat yang digunakan untuk mengakses dan menggunakannya. Rujuk Panduan Pelajar, Modul 3, “Dompet.”
+Bitcoin direkodkan dalam lejar bersama; dompet mengurus maklumat yang digunakan untuk mengakses dan menggunakannya. Rujuk Panduan Pelajar, Modul 3, “Dompet.”
 
 ## Soalan 2
 
-Kongsikan untuk menerima bitcoin:
+Kongsikan ini untuk menerima bitcoin:
 
 * [ ] Frasa benih
 * [ ] Kunci peribadi
@@ -24,14 +24,14 @@ Kongsikan untuk menerima bitcoin:
 
 ### Penjelasan
 
-Alamat penerimaan boleh dikongsikan untuk pembayaran. Frasa benih, kunci peribadi dan kata laluan mesti dirahsiakan. Rujuk Panduan Pelajar, Modul 3, “Alamat” dan “Kunci.”
+Alamat penerimaan boleh dikongsikan untuk menerima bayaran. Frasa benih, kunci peribadi dan kata laluan mesti dirahsiakan. Rujuk Panduan Pelajar, Modul 3, “Alamat” dan “Kunci.”
 
 ## Soalan 3
 
 Frasa benih telah dimasukkan dalam talian. Apakah langkah seterusnya yang paling selamat?
 
 * [ ] Tunggu
-* [ ] Hantarkannya kepada pihak sokongan
+* [ ] Hantarkannya kepada pasukan sokongan
 * [x] Frasa benih baharu, kemudian pindahkan dana
 * [ ] Gunakan semula frasa benih
 
@@ -41,13 +41,13 @@ Anggap frasa benih yang dimasukkan dalam talian telah terdedah. Cipta dompet bah
 
 ## Soalan 4
 
-Apakah perbezaan dari segi jagaan?
+Apakah perbezaan utama antara penggunaan dengan jagaan pihak ketiga dan jagaan kendiri?
 
 * [x] Siapa yang mengawal kunci
-* [ ] Keupayaan untuk membalikkan pembayaran
+* [ ] Keupayaan untuk membatalkan bayaran
 * [ ] Had bekalan
-* [ ] Tanggungjawab
+* [ ] Fi transaksi
 
 ### Penjelasan
 
-Penggunaan dengan jagaan pihak ketiga dan jagaan kendiri berbeza dari segi siapa yang mengawal kunci dan memikul tanggungjawab berkaitan. Kedua-duanya tidak menjamin keselamatan atau keupayaan untuk membalikkan transaksi. Rujuk Panduan Pelajar, Modul 3, “Penggunaan dengan dan tanpa jagaan pihak ketiga.”
+Penggunaan dengan jagaan pihak ketiga dan jagaan kendiri berbeza dari segi siapa yang mengawal kunci dan memikul tanggungjawab berkaitan. Kedua-duanya tidak menjamin keselamatan atau keupayaan untuk membatalkan transaksi. Rujuk Panduan Pelajar, Modul 3, “Penggunaan dengan jagaan pihak ketiga dan tanpa jagaan pihak ketiga.”

@@ -1,4 +1,4 @@
-# 1.10 Kwa nini dola ya Marekani ni sarafu ya akiba ya dunia?
+# 1.10 Kwa Nini Dola ya Marekani ni Sarafu ya Akiba ya Dunia
 
 Sarafu **ya akiba [(reserve currency)](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency)** ni [sarafu](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) ambayo [benki kuu](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) na serikali huishikilia na kuitumia kwa malipo ya kimataifa. Kabla ya Vita vya Kwanza vya Dunia, pauni ya Uingereza ndiyo iliyotekeleza jukumu hili kwa nguvu zaidi. Vita vilidhoofisha [sarafu](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) na vituo vya fedha vya Ulaya, huku Marekani ikisambaza bidhaa na kulimbikiza [dhahabu](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold). Hili liliongeza matumizi ya kimataifa ya dola.
 

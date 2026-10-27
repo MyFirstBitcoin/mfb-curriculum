@@ -25,7 +25,7 @@ Bitcoin có thể đóng vai trò là tiền theo nhiều cách. Chi tiêu chỉ
 
 Với bất kỳ mục đích sử dụng nào, hãy đặt ra ba câu hỏi:
 
-1. Vấn đề hiện có nào được [Bitcoin giải quyết](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) trong trường hợp này?
+1. Vấn đề hiện có nào được Bitcoin giải quyết trong trường hợp này?
 1. Trong trường hợp này, Bitcoin có tốt hơn phương án thay thế sẵn có không?
 1. Bitcoin tạo ra trách nhiệm hoặc rủi ro mới nào?
 

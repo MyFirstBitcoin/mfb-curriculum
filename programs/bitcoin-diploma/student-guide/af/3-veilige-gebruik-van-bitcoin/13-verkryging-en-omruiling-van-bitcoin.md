@@ -20,13 +20,13 @@ Mense kan bitcoin ontvang deur werk, 'n gemeenskapsbetaling, 'n eweknie-uitruili
 Vra die volgende voordat u 'n roete vergelyk:
 
 
-<!-- micrographic: ways-to-receive-bitcoin-01 -->
-[Een persoon kan bitcoin op vier verskillende maniere ontvang: deur dit met werk of verkope te verdien, plaaslike kontant met 'n ander persoon om te ruil, 'n beurs of makelaar te gebruik, of 'n OTM te gebruik. Elke roete eindig in selfbewaring of 'n saldo in derdepartybewaring, en geen roete word bo die ander aanbeveel nie.](/micrographics/ways-to-receive-bitcoin-01/af.md)
-
-
-
 <!-- micrographic: exchange-risk-questions-01 -->
 [Ses risikogebiede om na te gaan voordat u bitcoin verkry of omruil, elk met 'n vraag om te vra: koste, bewaring, identiteit en privaatheid, onttrekking en vereffening, teenparty en veiligheid, en plaaslike konteks.](/micrographics/exchange-risk-questions-01/af.md)
+
+
+
+<!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Een persoon kan bitcoin op vier verskillende maniere ontvang: deur dit met werk of verkope te verdien, plaaslike kontant met 'n ander persoon om te ruil, 'n beurs of makelaar te gebruik, of 'n OTM te gebruik. Elke roete eindig in selfbewaring of 'n saldo in derdepartybewaring, en geen roete word bo die ander aanbeveel nie.](/micrographics/ways-to-receive-bitcoin-01/af.md)
 
 
 Geen roete is outomaties oral die beste nie. Plaaslike voorbeelde en diensverskafferspesifieke leiding hoort in **Module 4**.

@@ -25,7 +25,7 @@ Bitcoin kan fungere som penger på flere måter. Å bruke bitcoin til betaling e
 
 Ved enhver bruk bør De stille tre spørsmål:
 
-1. Hvilket eksisterende problem kan [Bitcoin løse](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) her?
+1. Hvilket eksisterende problem kan Bitcoin løse her?
 1. Er Bitcoin bedre enn det tilgjengelige alternativet i dette tilfellet?
 1. Hvilket nytt ansvar eller hvilken ny risiko skaper Bitcoin?
 

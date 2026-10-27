@@ -20,13 +20,13 @@ Lidé mohou získat bitcoin za práci, prostřednictvím komunitní platby, smě
 Než začnete jednotlivé cesty porovnávat, položte si tyto otázky:
 
 
-<!-- micrographic: ways-to-receive-bitcoin-01 -->
-[Jedna osoba může získat bitcoin čtyřmi různými způsoby: vydělat si ho prací nebo prodejem, směnit místní hotovost s jinou osobou, využít směnárnu či zprostředkovatele nebo použít bankomat. Každá cesta končí vlastní správou nebo zůstatkem u správce a žádná z nich není doporučována více než ostatní.](/micrographics/ways-to-receive-bitcoin-01/cs.md)
-
-
-
 <!-- micrographic: exchange-risk-questions-01 -->
 [Šest oblastí rizik, které je třeba prověřit před získáním nebo směnou bitcoinů, každá s otázkou k zamyšlení: náklady, úschova, identita a soukromí, výběr a vypořádání, protistrana a bezpečnost a místní podmínky.](/micrographics/exchange-risk-questions-01/cs.md)
+
+
+
+<!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Jedna osoba může získat bitcoin čtyřmi různými způsoby: vydělat si ho prací nebo prodejem, směnit místní hotovost s jinou osobou, využít směnárnu či zprostředkovatele nebo použít bankomat. Každá cesta končí vlastní správou nebo zůstatkem u správce a žádná z nich není doporučována více než ostatní.](/micrographics/ways-to-receive-bitcoin-01/cs.md)
 
 
 Žádná cesta není automaticky nejlepší všude. Místní příklady a pokyny ke konkrétním poskytovatelům patří do **modulu 4**.

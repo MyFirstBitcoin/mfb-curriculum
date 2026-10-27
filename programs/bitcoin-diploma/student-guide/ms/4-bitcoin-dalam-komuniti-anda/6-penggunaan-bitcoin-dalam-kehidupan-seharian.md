@@ -25,7 +25,7 @@ Bitcoin boleh berfungsi sebagai wang dalam beberapa cara. Berbelanja hanyalah sa
 
 Untuk sebarang kegunaan, tanyakan tiga soalan:
 
-1. Apakah masalah sedia ada yang [ditangani oleh Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) di sini?
+1. Apakah masalah sedia ada yang ditangani oleh Bitcoin di sini?
 1. Adakah Bitcoin lebih baik daripada alternatif yang tersedia untuk keadaan ini?
 1. Apakah tanggungjawab atau risiko baharu yang diwujudkan oleh Bitcoin?
 

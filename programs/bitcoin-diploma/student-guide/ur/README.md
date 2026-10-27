@@ -22,7 +22,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.7 | [فیاٹ کرنسی](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ur/1/7.md) |
 |  | 1.8 | [جزوی ذخائر پر مبنی بینکاری](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ur/1/8.md) |
 |  | 1.9 | [افراطِ زر اور قوتِ خرید](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ur/1/9.md) |
-|  | 1.10 | [امریکی ڈالر عالمی ذخیرہ کرنسی کیوں ہے؟](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ur/1/10.md) |
+|  | 1.10 | [امریکی ڈالر دنیا کی ایک ریزرو کرنسی کیوں ہے](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ur/1/10.md) |
 |  | 1.11 | [بچت اور قدر محفوظ رکھنے کے متبادل طریقے](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ur/1/11.md) |
 |  | 1.12 | [مرکزی بینک کی ڈیجیٹل کرنسیاں (CBDCs)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ur/1/12-cbdcs.md) |
 |  | 1.13 | [دہرائی: پیسہ کیسے ناکام ہو سکتا ہے؟](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ur/1/13.md) |

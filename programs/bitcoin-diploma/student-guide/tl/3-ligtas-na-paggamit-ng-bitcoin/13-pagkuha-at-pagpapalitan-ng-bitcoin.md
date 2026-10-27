@@ -20,13 +20,13 @@ Maaaring makatanggap ang mga tao ng bitcoin mula sa trabaho, bayad mula sa komun
 Bago maghambing ng paraan, itanong:
 
 
-<!-- micrographic: ways-to-receive-bitcoin-01 -->
-[Maaaring makatanggap ng bitcoin ang isang tao sa apat na magkakaibang paraan: pagkita nito sa pamamagitan ng trabaho o pagbebenta, pakikipagpalitan ng lokal na cash sa ibang tao, paggamit ng palitan o broker, o paggamit ng ATM. Ang bawat paraan ay humahantong sa sariling pangangalaga o balanseng nasa pangangalaga ng iba, at walang paraang inirerekomenda nang higit sa iba.](/micrographics/ways-to-receive-bitcoin-01/tl.md)
-
-
-
 <!-- micrographic: exchange-risk-questions-01 -->
 [Anim na aspeto ng panganib na dapat suriin bago kumuha o makipagpalitan ng bitcoin, na bawat isa ay may tanong na dapat itanong: mga gastos, pag-iingat ng pondo, pagkakakilanlan at pagkapribado, pag-withdraw at pagkompleto ng transaksiyon, kabilang panig at kaligtasan, at lokal na konteksto.](/micrographics/exchange-risk-questions-01/tl.md)
+
+
+
+<!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Maaaring makatanggap ng bitcoin ang isang tao sa apat na magkakaibang paraan: pagkita nito sa pamamagitan ng trabaho o pagbebenta, pakikipagpalitan ng lokal na cash sa ibang tao, paggamit ng palitan o broker, o paggamit ng ATM. Ang bawat paraan ay humahantong sa sariling pangangalaga o balanseng nasa pangangalaga ng iba, at walang paraang inirerekomenda nang higit sa iba.](/micrographics/ways-to-receive-bitcoin-01/tl.md)
 
 
 Walang paraang awtomatikong pinakamainam sa lahat ng lugar. Ang mga lokal na halimbawa at gabay na partikular sa isang tagapagbigay ng serbisyo ay saklaw ng **Modyul 4**.

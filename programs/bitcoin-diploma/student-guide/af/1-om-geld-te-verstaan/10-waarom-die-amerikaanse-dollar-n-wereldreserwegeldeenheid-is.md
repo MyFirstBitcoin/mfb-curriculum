@@ -1,4 +1,4 @@
-# 1.10 Waarom is die Amerikaanse dollar ’n wêreldreserwegeldeenheid?
+# 1.10 Waarom die Amerikaanse dollar ’n wêreldreserwegeldeenheid is
 
 'n **reserwe[geldeenheid](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency)** is 'n [geldeenheid](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) wat [sentrale banke](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) en regerings vir internasionale betalings aanhou en gebruik. Voor die Eerste Wêreldoorlog het die Britse pond hierdie rol die sterkste vervul. Die oorlog het Europese [geldeenhede](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) en finansiële sentrums verswak, terwyl die Verenigde State goedere verskaf het en [goud](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) opgehoop het. Dit het die internasionale gebruik van die dollar laat toeneem.
 

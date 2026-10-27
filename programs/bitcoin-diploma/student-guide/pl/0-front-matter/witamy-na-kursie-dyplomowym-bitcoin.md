@@ -2,87 +2,87 @@
 
 ### O nas
 
-My First Bitcoin to edukacyjna organizacja non profit, którą w 2021 roku założył John Dennehy. Publikujemy bezpłatne, otwarte materiały edukacyjne o Bitcoinie dla osób uczących się i edukatorów na całym świecie.
+My First Bitcoin to organizacja edukacyjna non profit, którą w 2021 roku założył John Dennehy. Publikujemy bezpłatne materiały edukacyjne o Bitcoinie na otwartej licencji dla osób uczących się i edukatorów na całym świecie.
 
-Projekt rozpoczął się od niewielkich zajęć stacjonarnych w Salwadorze w 2021 roku, po uchwaleniu w tym kraju ustawy ustanawiającej bitcoin prawnym środkiem płatniczym. W 2022 roku pierwsza grupa uczestników programu Dyplom Bitcoin rozpoczęła naukę w jednej ze szkół publicznych w San Marcos. Program pilotażowy przekształcił się w otwarty program nauczania, który niezależni edukatorzy mogli tłumaczyć, dostosowywać i realizować za pośrednictwem [Bitcoin Education Network](https://myfirstbitcoin.org/about/network). W My First Bitcoin [publiczna kronika](https://myfirstbitcoin.org/about) dokumentuje najważniejsze etapy projektu oraz to, jak organizacja wywiązuje się ze swoich zobowiązań.
+Projekt rozpoczął się w 2021 roku od zajęć stacjonarnych w małych grupach w Salwadorze, po przyjęciu przez ten kraj ustawy uznającej bitcoin za prawny środek płatniczy. W 2022 roku pierwsza grupa uczestników programu Dyplom Bitcoin rozpoczęła naukę w jednej ze szkół publicznych w San Marcos. Pilotaż przekształcił się w program nauczania na otwartej licencji, który niezależni edukatorzy mogli tłumaczyć, dostosowywać i wykorzystywać do prowadzenia zajęć za pośrednictwem [Sieci Edukacji o Bitcoinie](https://myfirstbitcoin.org/about/network). My First Bitcoin prowadzi [publicznie dostępną kronikę](https://myfirstbitcoin.org/about) dokumentującą najważniejsze etapy projektu oraz sposób, w jaki organizacja wywiązuje się ze swoich zobowiązań.
 
-Nasza działalność jest niezależna, napędzana przez społeczność i skoncentrowana na Bitcoinie. Skupiamy się na wiedzy finansowej, uważnym myśleniu i bezpieczeństwie w praktyce — nie na handlu, spekulacji ani promowaniu innych tokenów. Nie prosimy Państwa o przyjęcie określonych przekonań. Zamiast tego przedstawiamy pojęcia, pytania i praktyczną wiedzę, aby mogli Państwo wyciągać własne wnioski.
+Nasza działalność jest niezależna, oparta na zaangażowaniu społeczności i skoncentrowana na Bitcoinie. Skupiamy się na wiedzy finansowej, uważnym myśleniu i bezpieczeństwie w praktyce - nie na handlu, spekulacji ani promowaniu innych tokenów. Nie prosimy Państwa o przyjmowanie czegokolwiek na wiarę. Zamiast tego przedstawiamy pojęcia, pytania i praktyczną wiedzę, aby mogli Państwo wyciągać własne wnioski.
 
-![Edukator wita we wspólnej grupie osoby początkujące, starsze, prowadzące firmę, zainteresowane techniką oraz młode.](https://cdn.sanity.io/images/vje9ehw2/staging/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
+![Edukator wita we wspólnej grupie początkującą osobę, starszego uczestnika, osobę prowadzącą firmę, osobę zainteresowaną zagadnieniami technicznymi i młodego uczestnika.](https://cdn.sanity.io/images/vje9ehw2/staging/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
 
-### Nasza misja: niezależna, otwarta edukacja o Bitcoinie
+### Nasza misja: niezależna edukacja o Bitcoinie na otwartej licencji
 
-Naszą misją jest wzmacnianie samodzielności ludzi poprzez niezależną, bezstronną i otwartą edukację o Bitcoinie.
+Naszą misją jest wzmacnianie samodzielności ludzi poprzez niezależną, bezstronną edukację o Bitcoinie na otwartej licencji.
 
-Niezależna edukacja nie jest kontrolowana przez rząd, firmę ani dostawcę usług finansowych. Bezstronna edukacja wyjaśnia dowody i [kompromisy](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off), nie wymagając od osoby uczącej się dojścia do z góry ustalonego wniosku. Otwarte materiały edukacyjne każdy może czytać, udostępniać, recenzować, tłumaczyć i ulepszać zgodnie z ich licencją.
+Niezależna edukacja nie jest kontrolowana przez rząd, firmę ani podmiot świadczący usługi finansowe. Bezstronna edukacja wyjaśnia dowody oraz [korzyści i koszty poszczególnych rozwiązań](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) bez wymagania od osoby uczącej się dojścia do z góry ustalonego wniosku. Materiały edukacyjne na otwartej licencji każdy może czytać, udostępniać, recenzować, tłumaczyć i ulepszać zgodnie z warunkami tej licencji.
 
-To podejście jest ważne, ponieważ pieniądz wpływa na każdego człowieka. Ludzie powinni móc badać systemy, z których korzystają, bez konieczności uzyskiwania pozwolenia. Powinni również móc analizować materiały edukacyjne, kwestionować zawarte w nich twierdzenia i pomagać w ich ulepszaniu.
+Takie podejście jest ważne, ponieważ pieniądz wpływa na życie każdego człowieka. Ludzie powinni móc poznawać systemy, z których korzystają, bez konieczności uzyskiwania pozwolenia. Powinni też móc analizować materiały edukacyjne, kwestionować zawarte w nich twierdzenia i pomagać je ulepszać.
 
-### Nasze wartości: dostępność, krytyczne myślenie, społeczność i samostanowienie
+### Nasze wartości: dostępność, ciekawość, krytyczne myślenie, społeczność i suwerenność osobista
 
-**Dostępność** oznacza, że treści programu Dyplom Bitcoin można uczyć stacjonarnie, online lub za pomocą materiałów drukowanych bądź plików PDF. Ograniczony dostęp do technologii nie powinien uniemożliwiać udziału w nauce ani uzyskania certyfikatu. Lokalne przykłady mogą się zmieniać, ale wymagane kompetencje i kryteria ich oceny pozostają takie same.
+**Dostępność** oznacza, że treści programu Dyplom Bitcoin można nauczać stacjonarnie, online lub z wykorzystaniem materiałów drukowanych bądź plików PDF. Ograniczony dostęp do technologii nie powinien uniemożliwiać udziału w nauce ani uzyskania certyfikatu. Lokalne przykłady mogą się zmieniać, ale wymagane kompetencje i kryteria ich oceny pozostają takie same.
 
-**Ciekawość** oznacza gotowość do pytania „dlaczego”, przyznawania się do niewiedzy i sprawdzania nieznanej odpowiedzi przed jej przyjęciem lub odrzuceniem.
+**Ciekawość** oznacza gotowość do pytania „dlaczego”, przyznawania się do niewiedzy i sprawdzania nieznanej wcześniej odpowiedzi przed jej przyjęciem lub odrzuceniem.
 
-**Krytyczne myślenie** oznacza zadawanie jasnych pytań, sprawdzanie dowodów i porównywanie [kompromisów](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Z Bitcoinem wiążą się mocne twierdzenia dotyczące pieniądza i własności. Twierdzenia te zasługują na uważną analizę. Podczas tego kursu proszę odróżniać fakty od opinii, a możliwości od gwarancji.
+**Krytyczne myślenie** oznacza zadawanie jasnych pytań, sprawdzanie dowodów i porównywanie [korzyści i kosztów poszczególnych rozwiązań](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Z Bitcoinem wiążą się daleko idące twierdzenia dotyczące pieniądza i własności. Zasługują one na uważną analizę. Podczas tego kursu prosimy odróżniać fakty od opinii, a możliwości od gwarancji.
 
 
 <!-- micrographic: critical-thinking-loop-01 -->
 [Powtarzalny cykl krytycznego myślenia: identyfikacja twierdzenia, oddzielenie faktów od preferencji, zbadanie dowodów i źródła, porównanie alternatyw, wskazanie kompromisu lub niepewności oraz sformułowanie wstępnego wniosku lub pytania.](/micrographics/critical-thinking-loop-01/pl.md)
 
 
-**Społeczność** oznacza, że edukacja staje się bardziej użyteczna, gdy ludzie dyskutują o ideach i odnoszą je do lokalnego życia. Państwa edukator i pozostali uczestnicy zajęć mogą mieć doświadczenia, których nie opisuje żaden podręcznik o globalnym zasięgu. Proszę uważnie słuchać, zadawać pytania i wyjaśniać swój tok rozumowania z szacunkiem dla innych.
+**Społeczność** oznacza, że edukacja staje się bardziej użyteczna, gdy ludzie dyskutują o ideach i odnoszą je do lokalnego życia. Państwa edukator oraz inni uczestnicy zajęć mogą mieć doświadczenia, których nie sposób zawrzeć w żadnym podręczniku o globalnym zasięgu. Prosimy uważnie słuchać, zadawać pytania i z szacunkiem wyjaśniać swój tok rozumowania.
 
-**Samostanowienie** oznacza sprawowanie rzeczywistej kontroli nad własnymi wyborami i zasobami. W przypadku Bitcoina większa kontrola może zmniejszać zależność od instytucji. Wiąże się jednak również z większą osobistą odpowiedzialnością. Kontrola bez wiedzy może być niebezpieczna, dlatego bezpieczeństwo w praktyce jest kluczowym elementem programu Dyplom Bitcoin.
+**Suwerenność osobista** oznacza rzeczywistą kontrolę nad własnymi wyborami i zasobami. W przypadku Bitcoina większa kontrola może zmniejszyć zależność od instytucji. Wiąże się też z większą osobistą odpowiedzialnością. Kontrola bez wiedzy może być niebezpieczna, dlatego bezpieczeństwo w praktyce jest kluczowym elementem programu Dyplom Bitcoin.
 
-### Dalsza nauka po programie Dyplom Bitcoin
+### Nauka poza programem Dyplom Bitcoin
 
-Podręcznik, edukator i zajęcia grupowe zapewniają Państwu pełną ścieżkę nauki w programie Dyplom Bitcoin. Mogą Państwo w pełni uczestniczyć w programie i otrzymać certyfikat bez własnego urządzenia ani połączenia z internetem.
+Podręcznik, wsparcie edukatora i zajęcia grupowe zapewniają Państwu pełną ścieżkę nauki w ramach programu Dyplom Bitcoin. Mogą Państwo w pełni uczestniczyć w kursie i otrzymać certyfikat bez własnego urządzenia ani połączenia z internetem.
 
-Gdy będą Państwo gotowi kontynuować naukę, proszę zapoznać się z materiałem [Wprowadzenie do Bitcoina](https://myfirstbitcoin.org/learn/programs#intro) lub ze [ścieżką ucznia](https://journey.myfirstbitcoin.org/). Są to materiały opcjonalne, które nie są uwzględniane przy ocenie ani certyfikacji. Proszę porównywać wyjaśnienia z tym przewodnikiem i omawiać wszelkie niejasności z edukatorem. Nigdy nie należy wprowadzać do narzędzi online [fraz odzyskiwania](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), [kluczy prywatnych](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) ani osobistych informacji finansowych.
+Gdy będą Państwo gotowi kontynuować naukę, zachęcamy do zapoznania się z materiałem [Wprowadzenie do Bitcoina](https://myfirstbitcoin.org/learn/programs#intro) lub ze [ścieżką uczestnika](https://journey.myfirstbitcoin.org/). Są to materiały opcjonalne, które nie stanowią części oceny ani certyfikacji. Prosimy porównywać zawarte w nich wyjaśnienia z tym przewodnikiem i omawiać wszelkie niejasności z edukatorem. Prosimy nigdy nie wprowadzać [fraz odzyskiwania](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), [kluczy prywatnych](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) ani osobistych danych finansowych do narzędzi online.
 
 ### Rejestracja do programu Dyplom Bitcoin
 
-Państwa edukator może zaprosić Państwa do [rejestracji do programu Dyplom Bitcoin](https://forms.myfirstbitcoin.org/register-student/bd). Rejestracja pomaga My First Bitcoin oferować wsparcie i możliwości dalszej nauki oraz ulepszać program Dyplom Bitcoin z myślą o osobach uczących się, takich jak Państwo.
+Państwa edukator może zaprosić Państwa do [rejestracji do programu Dyplom Bitcoin](https://forms.myfirstbitcoin.org/register-student/bd). Rejestracja pomaga My First Bitcoin oferować wsparcie i dalsze możliwości nauki oraz ulepszać program z myślą o osobach uczących się takich jak Państwo.
 
 ### Dlaczego powstał program Dyplom Bitcoin
 
-Większość ludzi korzysta z pieniędzy, zanim dowie się, jak one działają. Mogą je zarabiać, oszczędzać, pożyczać i wydawać, nie analizując, kto je emituje, jak zmienia się ich podaż ani dlaczego ich [siła nabywcza](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) się zmienia.
+Większość ludzi zaczyna korzystać z pieniędzy, zanim dowie się, jak one działają. Mogą je zarabiać, oszczędzać, pożyczać i wydawać, nie analizując, kto je emituje, jak zmienia się ich podaż ani dlaczego ich [siła nabywcza](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) się zmienia.
 
-Bitcoin wprowadza inny system. Nie ma centralnego [emitenta](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer), działa według publicznie znanych zasad i umożliwia bezpośrednią własność cyfrową. Idee te mogą być trudne do jasnego wyjaśnienia bez wcześniejszego przyjrzenia się pieniądzowi i problemom, które mogą występować we współczesnych systemach pieniężnych.
+Bitcoin wprowadza inny system. Nie ma centralnego [emitenta](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer), działa według publicznie znanych zasad i umożliwia bezpośrednią własność cyfrową. Jasne wyjaśnienie tych idei może być trudne bez wcześniejszego przyjrzenia się pieniądzowi oraz problemom, które mogą występować we współczesnych systemach pieniężnych.
 
-Dlatego kurs Dyplom Bitcoin opiera się na prostym schemacie:
+Dlatego kurs Dyplom Bitcoin ma prosty plan:
 
-1. Wyjaśnić problem, który Bitcoin miał rozwiązać.
+1. Wyjaśnić problem, do którego rozwiązania zaprojektowano Bitcoin.
 1. Wyjaśnić główną odpowiedź Bitcoina na ten problem.
-1. Wyjaśnić odpowiedzialność związaną z posiadaniem i używaniem bitcoinów oraz przećwiczyć ją w praktyce.
-1. Zbadać, jak Bitcoin może funkcjonować jako pieniądz w Państwa społeczności.
+1. Wyjaśnić i przećwiczyć odpowiedzialne posiadanie i używanie bitcoinów.
+1. Zbadać, jak Bitcoin może pełnić funkcję pieniądza w Państwa społeczności.
 
 Celem nie jest uczynienie z Państwa ekspertów w osiem godzin. Celem jest zapewnienie Państwu solidnych podstaw, pomoc w unikaniu typowych błędów początkujących i przygotowanie do dalszej nauki.
 
 ### Jak mogą Państwo wykorzystać ten kurs jako punkt wyjścia
 
-Proszę potraktować kurs Dyplom Bitcoin jako początek dłuższego procesu nauki. Po jego ukończeniu powinni Państwo wiedzieć wystarczająco dużo, by zadawać lepsze pytania i rozpoznawać, które zagadnienia wymagają dalszej nauki.
+Proszę potraktować kurs Dyplom Bitcoin jako początek dłuższego procesu nauki. Po jego ukończeniu powinni Państwo wiedzieć wystarczająco dużo, by zadawać trafniejsze pytania i rozpoznawać tematy wymagające dalszej nauki.
 
 Kurs może pomóc Państwu:
 
 * wyjaśniać powszechnie używane pojęcia dotyczące pieniądza i Bitcoina
 * porównywać współczesne systemy pieniężne i Bitcoin prostym językiem
-* omawiać twierdzenia, uwzględniając dowody i [kompromisy](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off)
-* rozpoznawać związane z portfelami i [przechowywaniem środków](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) możliwości wyboru
+* omawiać twierdzenia, uwzględniając dowody i [kompromisy między korzyściami a kosztami](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off)
+* określać, jakie portfele i [sposoby przechowywania środków](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) są do wyboru
 * rozpoznawać typowe zagrożenia dla bezpieczeństwa
 * wybrać bezpieczny kolejny krok w nauce
 * nawiązać kontakt z lokalną społecznością osób uczących się
-* przygotować się do nauki na bardziej zaawansowanym poziomie
+* przygotować się do bardziej zaawansowanej nauki
 
 
 <!-- card: callout -->
 > **Najpierw wiedza, potem działanie**
 >
-> Nie muszą Państwo kupować ani w żaden inny sposób nabywać bitcoinów, aby ukończyć kurs Dyplom Bitcoin. Nie muszą też Państwo instalować [portfela Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet) ani korzystać z własnych środków. Wymagane umiejętności praktyczne można ocenić za pomocą przygotowanego portfela szkoleniowego, symulacji, środowiska testowego, modelu fizycznego lub zatwierdzonego przez osobę prowadzącą ćwiczenia o niskim poziomie ryzyka.
+> Aby ukończyć kurs Dyplom Bitcoin, nie muszą Państwo kupować ani w inny sposób nabywać bitcoinów. Nie muszą też Państwo instalować [portfela Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet) ani korzystać z własnych środków. Wymagane umiejętności praktyczne można ocenić przy użyciu przygotowanego portfela szkoleniowego, symulacji, środowiska testowego, modelu fizycznego lub zatwierdzonego przez osobę prowadzącą ćwiczenia, które nie wiąże się z dużym ryzykiem.
 
 
-Jeśli mają Państwo mało czasu lub chcieliby Państwo wstępnie zapoznać się z Bitcoinem, proszę zacząć od kursu [Wprowadzenie do Bitcoina](https://myfirstbitcoin.org/learn/programs#intro). To krótszy kurs przedstawiający podstawy. Po ukończeniu kursu Dyplom Bitcoin mogą Państwo kontynuować naukę w ramach [Programu szkoleniowego dla edukatorów](https://etp.myfirstbitcoin.org/), jeśli chcą Państwo rozwijać umiejętności nauczania. Są to odrębne, opcjonalne ścieżki edukacyjne: Wprowadzenie do Bitcoina to krótkie wprowadzenie, Dyplom Bitcoin zapewnia szersze podstawy dla początkujących, a Program szkoleniowy dla edukatorów rozwija umiejętności nauczania. Żadna z pozostałych ścieżek nie jest wymagana do ukończenia kursu Dyplom Bitcoin. Aby wziąć udział w kursie Dyplom Bitcoin, potrzebują Państwo tego Przewodnika dla uczestników, osoby prowadzącej oraz wskazanych przez nią materiałów i zasobów. Proszę zapoznać się ze [ścieżką uczestnika](https://journey.myfirstbitcoin.org/), aby zobaczyć, jak te możliwości się łączą, i wybrać kolejny krok.
+Jeśli mają Państwo mało czasu lub chcą wstępnie poznać Bitcoin, proszę zacząć od kursu [Wprowadzenie do Bitcoina](https://myfirstbitcoin.org/learn/programs#intro). To krótszy kurs przedstawiający podstawy. Po kursie Dyplom Bitcoin mogą Państwo kontynuować naukę w ramach [Programu szkoleniowego dla edukatorów](https://etp.myfirstbitcoin.org/), jeśli chcą Państwo rozwijać umiejętności dydaktyczne. Są to odrębne, opcjonalne ścieżki nauki: Wprowadzenie do Bitcoina to krótki kurs wprowadzający, Dyplom Bitcoin zapewnia szersze podstawy dla początkujących, a Program szkoleniowy dla edukatorów rozwija umiejętności dydaktyczne. Żadna z pozostałych ścieżek nie jest wymagana do ukończenia kursu Dyplom Bitcoin. Do udziału w kursie Dyplom Bitcoin potrzebują Państwo tego Podręcznika dla uczestników, osoby prowadzącej oraz wskazanych przez nią materiałów i zasobów. Proszę zapoznać się ze [ścieżką uczestnika](https://journey.myfirstbitcoin.org/), aby zobaczyć, jak te możliwości się łączą, i wybrać swój kolejny krok.
 
 
 <!-- micrographic: learner-journey-pathway-01 -->

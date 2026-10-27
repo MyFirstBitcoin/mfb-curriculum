@@ -20,13 +20,13 @@ Ludzie mogą otrzymywać bitcoiny za pracę, w ramach płatności wewnątrz spo�
 Przed porównaniem danej ścieżki proszę zadać pytania:
 
 
-<!-- micrographic: ways-to-receive-bitcoin-01 -->
-[Jedna osoba może otrzymać bitcoiny na cztery różne sposoby: zarabiając je poprzez pracę lub sprzedaż, wymieniając gotówkę w lokalnej walucie z inną osobą, korzystając z giełdy lub brokera albo z bitomatu. Każda z tych dróg kończy się samodzielnym przechowywaniem lub saldem u powiernika i żadna nie jest zalecana bardziej niż pozostałe.](/micrographics/ways-to-receive-bitcoin-01/pl.md)
-
-
-
 <!-- micrographic: exchange-risk-questions-01 -->
 [Sześć obszarów ryzyka, które należy sprawdzić przed nabyciem lub wymianą bitcoinów, wraz z pytaniem dotyczącym każdego z nich: koszty, przechowywanie, tożsamość i prywatność, wypłata i rozliczenie, kontrahent i bezpieczeństwo oraz lokalne uwarunkowania.](/micrographics/exchange-risk-questions-01/pl.md)
+
+
+
+<!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Jedna osoba może otrzymać bitcoiny na cztery różne sposoby: zarabiając je poprzez pracę lub sprzedaż, wymieniając gotówkę w lokalnej walucie z inną osobą, korzystając z giełdy lub brokera albo z bitomatu. Każda z tych dróg kończy się samodzielnym przechowywaniem lub saldem u powiernika i żadna nie jest zalecana bardziej niż pozostałe.](/micrographics/ways-to-receive-bitcoin-01/pl.md)
 
 
 Żadna ścieżka nie jest z założenia najlepsza w każdym miejscu. Lokalne przykłady i wskazówki dotyczące konkretnych usługodawców znajdują się w **module 4**.

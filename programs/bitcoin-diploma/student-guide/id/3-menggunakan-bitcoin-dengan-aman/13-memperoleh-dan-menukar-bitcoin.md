@@ -20,13 +20,13 @@ Orang dapat menerima bitcoin melalui pekerjaan, pembayaran komunitas, pertukaran
 Sebelum membandingkan suatu jalur, ajukan pertanyaan:
 
 
-<!-- micrographic: ways-to-receive-bitcoin-01 -->
-[Seseorang dapat menerima bitcoin melalui empat cara berbeda: memperolehnya dari pekerjaan atau penjualan, menukarkan uang tunai lokal dengan orang lain, menggunakan bursa atau pialang, atau menggunakan ATM. Setiap cara berakhir pada penyimpanan mandiri atau saldo kustodial, dan tidak ada cara yang lebih direkomendasikan daripada yang lain.](/micrographics/ways-to-receive-bitcoin-01/id.md)
-
-
-
 <!-- micrographic: exchange-risk-questions-01 -->
 [Enam aspek risiko yang perlu diperiksa sebelum memperoleh atau menukarkan bitcoin, masing-masing disertai pertanyaan yang perlu diajukan: biaya, kustodi, identitas dan privasi, penarikan dan penyelesaian transaksi, pihak lawan transaksi dan keamanan, serta konteks setempat.](/micrographics/exchange-risk-questions-01/id.md)
+
+
+
+<!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Seseorang dapat menerima bitcoin melalui empat cara berbeda: memperolehnya dari pekerjaan atau penjualan, menukarkan uang tunai lokal dengan orang lain, menggunakan bursa atau pialang, atau menggunakan ATM. Setiap cara berakhir pada penyimpanan mandiri atau saldo kustodial, dan tidak ada cara yang lebih direkomendasikan daripada yang lain.](/micrographics/ways-to-receive-bitcoin-01/id.md)
 
 
 Tidak ada jalur yang secara otomatis menjadi yang terbaik di semua tempat. Contoh lokal dan panduan khusus penyedia dibahas dalam **Modul 4**.

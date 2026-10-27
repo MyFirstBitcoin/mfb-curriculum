@@ -20,13 +20,13 @@ Las personas pueden recibir bitcoin por su trabajo, mediante un pago comunitario
 Antes de comparar una vía, pregunte:
 
 
-<!-- micrographic: ways-to-receive-bitcoin-01 -->
-[Una persona puede recibir bitcoin de cuatro maneras diferentes: como pago por su trabajo o sus ventas, intercambiando efectivo local con otra persona, usando una plataforma de intercambio o un intermediario, o usando un cajero automático. Cada vía termina en autocustodia o en un saldo bajo custodia, y ninguna se recomienda por encima de las demás.](/micrographics/ways-to-receive-bitcoin-01/es-419.md)
-
-
-
 <!-- micrographic: exchange-risk-questions-01 -->
 [Seis áreas de riesgo que debe revisar antes de adquirir o intercambiar bitcoin, cada una con una pregunta que debe hacerse: costos, custodia, identidad y privacidad, retiro y liquidación, contraparte y seguridad, y contexto local.](/micrographics/exchange-risk-questions-01/es-419.md)
+
+
+
+<!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Una persona puede recibir bitcoin de cuatro maneras diferentes: como pago por su trabajo o sus ventas, intercambiando efectivo local con otra persona, usando una plataforma de intercambio o un intermediario, o usando un cajero automático. Cada vía termina en autocustodia o en un saldo bajo custodia, y ninguna se recomienda por encima de las demás.](/micrographics/ways-to-receive-bitcoin-01/es-419.md)
 
 
 Ninguna vía es automáticamente la mejor en todos los lugares. Los ejemplos locales y la orientación específica sobre proveedores corresponden al **Módulo 4**.

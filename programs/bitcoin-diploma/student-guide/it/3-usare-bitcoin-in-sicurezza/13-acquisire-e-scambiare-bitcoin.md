@@ -20,13 +20,13 @@ Le persone possono ricevere bitcoin tramite il lavoro, un pagamento comunitario,
 Prima di confrontare un percorso, si chieda:
 
 
-<!-- micrographic: ways-to-receive-bitcoin-01 -->
-[Una persona può ricevere bitcoin in quattro modi diversi: guadagnandoli con il lavoro o con le vendite, scambiando contanti in valuta locale con un'altra persona, utilizzando un exchange o un broker, oppure utilizzando un ATM. Ogni percorso termina con l'autocustodia o con un saldo presso un custode, e nessuno è raccomandato rispetto agli altri.](/micrographics/ways-to-receive-bitcoin-01/it.md)
-
-
-
 <!-- micrographic: exchange-risk-questions-01 -->
 [Sei aree di rischio da verificare prima di acquistare o scambiare bitcoin, ciascuna con una domanda da porsi: costi, custodia, identità e privacy, prelievo e regolamento, controparte e sicurezza, e contesto locale.](/micrographics/exchange-risk-questions-01/it.md)
+
+
+
+<!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Una persona può ricevere bitcoin in quattro modi diversi: guadagnandoli con il lavoro o con le vendite, scambiando contanti in valuta locale con un'altra persona, utilizzando un exchange o un broker, oppure utilizzando un ATM. Ogni percorso termina con l'autocustodia o con un saldo presso un custode, e nessuno è raccomandato rispetto agli altri.](/micrographics/ways-to-receive-bitcoin-01/it.md)
 
 
 Nessun percorso è automaticamente il migliore ovunque. Gli esempi locali e le indicazioni specifiche sui fornitori sono trattati nel **Modulo 4**.

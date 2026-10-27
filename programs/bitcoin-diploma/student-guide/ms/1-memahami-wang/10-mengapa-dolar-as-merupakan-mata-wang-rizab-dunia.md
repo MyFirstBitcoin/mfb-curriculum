@@ -1,4 +1,4 @@
-# 1.10 Mengapakah dolar AS merupakan mata wang rizab dunia?
+# 1.10 Mengapa dolar AS merupakan mata wang rizab dunia
 
 Sesuatu **mata wang [rizab](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency)** ialah sejenis [mata wang](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) yang [bank pusat](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) dan kerajaan simpan dan gunakan untuk pembayaran antarabangsa. Sebelum Perang Dunia Pertama, paun British memainkan peranan ini dengan paling dominan. Perang tersebut melemahkan mata wang Eropah [serta](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) pusat kewangannya, manakala Amerika Syarikat membekalkan barangan dan mengumpulkan [emas](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold). Hal ini meningkatkan penggunaan dolar di peringkat antarabangsa.
 

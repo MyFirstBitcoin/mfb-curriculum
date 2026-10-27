@@ -25,7 +25,7 @@ Bitcoin peut servir de monnaie de plusieurs façons. Le dépenser n’est que l�
 
 Pour toute utilisation, posez-vous trois questions :
 
-1. À quel problème existant [Bitcoin répond-il](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) ici ?
+1. À quel problème existant Bitcoin répond-il ici ?
 1. Bitcoin est-il préférable à l’alternative disponible dans ce cas ?
 1. Quelle nouvelle responsabilité ou quel nouveau risque Bitcoin crée-t-il ?
 

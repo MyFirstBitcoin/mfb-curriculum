@@ -25,7 +25,7 @@ Bitcoin voi toimia rahana monin tavoin. Kuluttaminen on vain yksi niistä.
 
 Esittäkää jokaisen käyttötavan kohdalla kolme kysymystä:
 
-1. Minkä olemassa olevan ongelman [Bitcoin ratkaisee](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) tässä?
+1. Minkä olemassa olevan ongelman Bitcoin ratkaisee tässä?
 1. Onko Bitcoin tässä tapauksessa parempi kuin käytettävissä oleva vaihtoehto?
 1. Minkä uuden vastuun tai riskin Bitcoin luo?
 

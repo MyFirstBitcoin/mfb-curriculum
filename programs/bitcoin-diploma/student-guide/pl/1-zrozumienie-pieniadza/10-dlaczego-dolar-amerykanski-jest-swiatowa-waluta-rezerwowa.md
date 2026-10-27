@@ -1,4 +1,4 @@
-# 1.10 Dlaczego dolar amerykański jest światową walutą rezerwową?
+# 1.10 Dlaczego dolar amerykański jest światową walutą rezerwową
 
 Dana **rezerwowa [waluta](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency)** to [waluta](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency), którą [banki centralne](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) i rządy utrzymują w swoich zasobach i wykorzystują do płatności międzynarodowych. Przed pierwszą wojną światową rolę tę odgrywał przede wszystkim funt brytyjski. Wojna osłabiła europejskie [waluty](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) i ośrodki finansowe, podczas gdy Stany Zjednoczone dostarczały towary i gromadziły [złoto](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold). Zwiększyło to wykorzystanie dolara w obrocie międzynarodowym.
 

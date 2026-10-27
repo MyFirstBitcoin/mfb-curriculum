@@ -103,7 +103,7 @@ Les ressources pédagogiques de My First Bitcoin sont gratuites et open source. 
 
 https://donate.myfirstbitcoin.org
 
-_Support My First Bitcoin_
+_Soutenir My First Bitcoin_
 
 
 Si vous choisissez de contribuer, utilisez la [page officielle de dons](https://donate.myfirstbitcoin.org). Avant de payer, confirmez que la destination utilise le domaine officiel ou une page de paiement officielle accessible depuis celui-ci. Vérifiez le destinataire et le montant dans votre portefeuille. Un don est facultatif et n’est pas requis pour terminer le cours ou obtenir un certificat.

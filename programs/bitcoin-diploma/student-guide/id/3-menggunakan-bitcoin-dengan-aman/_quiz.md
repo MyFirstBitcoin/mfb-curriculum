@@ -5,17 +5,17 @@
 Dompet Bitcoin:
 
 * [ ] Menyimpan bitcoin
-* [x] Mengelola kunci dan menandatangani
+* [x] Mengelola kunci dan menandatangani transaksi
 * [ ] Menghapus perlindungan rahasia
 * [ ] Membatalkan transaksi
 
 ### Penjelasan
 
-Bitcoin tercatat di buku besar bersama; dompet mengelola informasi yang digunakan untuk mengakses dan menggunakannya. Tinjau kembali Panduan Siswa, Modul 3, “Dompet.”
+Bitcoin dicatat dalam buku besar bersama; dompet mengelola informasi yang digunakan untuk mengakses dan menggunakannya. Tinjau kembali Panduan Siswa, Modul 3, “Dompet.”
 
 ## Pertanyaan 2
 
-Bagikan ini untuk menerima bitcoin:
+Yang dibagikan untuk menerima bitcoin:
 
 * [ ] Frasa pemulihan
 * [ ] Kunci privat
@@ -28,12 +28,12 @@ Alamat penerimaan dapat dibagikan untuk menerima pembayaran. Frasa pemulihan, ku
 
 ## Pertanyaan 3
 
-Frasa pemulihan dimasukkan secara daring. Apa langkah selanjutnya yang paling aman?
+Frasa pemulihan telah dimasukkan secara daring. Apa langkah selanjutnya yang paling aman?
 
-* [ ] Tunggu
-* [ ] Kirimkan frasa tersebut ke layanan dukungan
-* [x] Buat frasa pemulihan baru, lalu pindahkan dana
-* [ ] Gunakan kembali frasa pemulihan tersebut
+* [ ] Menunggu
+* [ ] Mengirimkannya ke layanan dukungan
+* [x] Membuat frasa pemulihan baru, lalu memindahkan dana
+* [ ] Menggunakan kembali frasa pemulihan tersebut
 
 ### Penjelasan
 
@@ -41,13 +41,13 @@ Anggap frasa pemulihan yang dimasukkan secara daring telah bocor. Buat dompet ba
 
 ## Pertanyaan 4
 
-Apa perbedaan antara kustodi pihak ketiga dan kustodi mandiri?
+Apa perbedaan utama antara penggunaan kustodial dan kustodi mandiri?
 
 * [x] Siapa yang mengendalikan kunci
 * [ ] Kemampuan untuk membatalkan pembayaran
 * [ ] Batas pasokan
-* [ ] Tanggung jawab
+* [ ] Biaya transaksi
 
 ### Penjelasan
 
-Penggunaan dengan kustodi pihak ketiga dan kustodi mandiri berbeda dalam hal siapa yang mengendalikan kunci dan memikul tanggung jawab terkait. Keduanya tidak menjamin keamanan ataupun kemampuan untuk membatalkan transaksi. Tinjau kembali Panduan Siswa, Modul 3, “Penggunaan kustodial dan nonkustodial.”
+Penggunaan kustodial dan kustodi mandiri berbeda dalam hal siapa yang mengendalikan kunci dan memikul tanggung jawab terkait. Keduanya tidak menjamin keamanan atau kemampuan untuk membatalkan transaksi. Tinjau kembali Panduan Siswa, Modul 3, “Penggunaan kustodial dan nonkustodial.”

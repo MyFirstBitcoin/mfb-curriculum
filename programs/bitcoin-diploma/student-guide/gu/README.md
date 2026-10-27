@@ -22,7 +22,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.7 | [ફિયાટ નાણાં](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/1/7.md) |
 |  | 1.8 | [આંશિક અનામત બેંકિંગ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/1/8.md) |
 |  | 1.9 | [ફુગાવો અને ખરીદશક્તિ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/1/9.md) |
-|  | 1.10 | [યુએસ ડૉલર વિશ્વનું અનામત ચલણ શા માટે છે?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/1/10.md) |
+|  | 1.10 | [અમેરિકન ડૉલર વિશ્વની અનામત ચલણ શા માટે છે](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/1/10.md) |
 |  | 1.11 | [બચત કરવા અને મૂલ્ય જાળવી રાખવા માટેના વિકલ્પો](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/1/11.md) |
 |  | 1.12 | [કેન્દ્રીય બેંક ડિજિટલ ચલણો (CBDCs)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/1/12-cbdcs.md) |
 |  | 1.13 | [સમીક્ષા: નાણાં કેવી રીતે નિષ્ફળ થઈ શકે?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/gu/1/13.md) |

@@ -25,7 +25,7 @@ Bitcoin kan op verschillende manieren als geld functioneren. Uitgeven is daar sl
 
 Stel u bij elk gebruik drie vragen:
 
-1. Welk bestaand probleem [lost Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) hier op?
+1. Welk bestaand probleem lost Bitcoin hier op?
 1. Is Bitcoin in dit geval beter dan het beschikbare alternatief?
 1. Welke nieuwe verantwoordelijkheid of welk nieuw risico brengt Bitcoin met zich mee?
 

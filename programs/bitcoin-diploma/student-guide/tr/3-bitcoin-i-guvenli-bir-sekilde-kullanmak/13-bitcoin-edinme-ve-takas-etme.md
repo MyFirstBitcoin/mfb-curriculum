@@ -20,13 +20,13 @@
 Bir yolu karşılaştırmadan önce şunları sorun:
 
 
-<!-- micrographic: ways-to-receive-bitcoin-01 -->
-[Bir kişi bitcoin'i dört farklı yolla edinebilir: iş veya satış yoluyla kazanarak, yerel nakdi başka bir kişiyle takas ederek, bir borsa veya aracı kurum kullanarak ya da bir ATM kullanarak. Her yol kendi kendine saklama veya emanetçi bakiyesiyle sonuçlanır ve hiçbiri diğerlerine tercih edilmek üzere önerilmez.](/micrographics/ways-to-receive-bitcoin-01/tr.md)
-
-
-
 <!-- micrographic: exchange-risk-questions-01 -->
 [Bitcoin edinmeden veya takas etmeden önce kontrol edilmesi gereken, her biri sorulacak bir soruyla birlikte altı risk alanı: maliyetler, saklama, kimlik ve gizlilik, çekim ve mutabakat, karşı taraf ve güvenlik ile yerel bağlam.](/micrographics/exchange-risk-questions-01/tr.md)
+
+
+
+<!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Bir kişi bitcoin'i dört farklı yolla edinebilir: iş veya satış yoluyla kazanarak, yerel nakdi başka bir kişiyle takas ederek, bir borsa veya aracı kurum kullanarak ya da bir ATM kullanarak. Her yol kendi kendine saklama veya emanetçi bakiyesiyle sonuçlanır ve hiçbiri diğerlerine tercih edilmek üzere önerilmez.](/micrographics/ways-to-receive-bitcoin-01/tr.md)
 
 
 Hiçbir yol her yerde kendiliğinden en iyisi değildir. Yerel örnekler ve sağlayıcıya özgü rehberlik **Modül 4**'te yer alır.

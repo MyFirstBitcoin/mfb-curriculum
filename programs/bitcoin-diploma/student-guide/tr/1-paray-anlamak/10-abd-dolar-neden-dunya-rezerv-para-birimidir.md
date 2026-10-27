@@ -1,4 +1,4 @@
-# 1.10 ABD Doları Neden Bir Dünya Rezerv Para Birimidir?
+# 1.10 ABD Doları Neden Dünya Rezerv Para Birimidir
 
 Bir **rezerv [para birimi](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency)**, [bir para birimidir](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency); [merkez bankaları](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) ve hükümetler bunu elde tutar ve uluslararası ödemelerde kullanır. Birinci Dünya Savaşı'ndan önce bu rolü en güçlü biçimde İngiliz sterlini üstleniyordu. Savaş, Avrupa'nın [para birimlerini](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) ve finans merkezlerini zayıflatırken Amerika Birleşik Devletleri mal tedarik etti ve [altın](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) biriktirdi. Bu da doların uluslararası kullanımını artırdı.
 

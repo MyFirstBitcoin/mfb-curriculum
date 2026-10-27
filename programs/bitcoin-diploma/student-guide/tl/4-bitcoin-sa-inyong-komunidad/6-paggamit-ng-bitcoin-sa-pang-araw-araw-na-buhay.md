@@ -25,7 +25,7 @@ Maaaring magsilbing pera ang Bitcoin sa ilang paraan. Isa lamang dito ang paggas
 
 Para sa anumang paggamit, itanong po ninyo ang tatlong tanong:
 
-1. Anong umiiral na problema ang [tinutugunan ng Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) dito?
+1. Anong umiiral na problema ang tinutugunan ng Bitcoin dito?
 1. Mas mabuti ba ang Bitcoin kaysa sa magagamit na alternatibo para sa kasong ito?
 1. Anong bagong responsibilidad o panganib ang nalilikha ng Bitcoin?
 

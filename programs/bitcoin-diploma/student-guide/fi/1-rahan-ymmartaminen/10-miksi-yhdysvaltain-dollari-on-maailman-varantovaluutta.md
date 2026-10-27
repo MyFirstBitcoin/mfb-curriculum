@@ -1,4 +1,4 @@
-# 1.10 Miksi Yhdysvaltain dollari on maailman varantovaluutta?
+# 1.10 Miksi Yhdysvaltain dollari on maailman varantovaluutta
 
 Eräs **varantona käytettävä [valuutta](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency)** on [valuutta](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency), jota [keskuspankit](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) ja valtiot pitävät hallussaan ja käyttävät kansainvälisiin maksuihin. Ennen ensimmäistä maailmansotaa Britannian punnalla oli vahvin asema tässä tehtävässä. Sota heikensi Euroopan [valuuttoja](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) ja rahoituskeskuksia, kun taas Yhdysvallat toimitti tavaroita ja kerrytti [kultaa](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold). Tämä lisäsi dollarin kansainvälistä käyttöä.
 

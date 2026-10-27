@@ -20,13 +20,13 @@ Mensen kunnen bitcoin ontvangen via werk, een gemeenschapsbetaling, een uitwisse
 Stel uzelf de volgende vragen voordat u een route vergelijkt:
 
 
-<!-- micrographic: ways-to-receive-bitcoin-01 -->
-[Eén persoon kan op vier verschillende manieren bitcoin ontvangen: door het te verdienen met werk of verkoop, door lokaal contant geld te ruilen met een andere persoon, via een exchange of broker, of via een geldautomaat. Elke route eindigt in zelfbewaring of een saldo bij een bewaarder, en geen enkele route wordt boven de andere aanbevolen.](/micrographics/ways-to-receive-bitcoin-01/nl.md)
-
-
-
 <!-- micrographic: exchange-risk-questions-01 -->
 [Zes risicogebieden om te controleren voordat u bitcoin aanschaft of uitwisselt, elk met een vraag om te stellen: kosten, bewaring, identiteit en privacy, opname en afwikkeling, tegenpartij en veiligheid, en lokale context.](/micrographics/exchange-risk-questions-01/nl.md)
+
+
+
+<!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Eén persoon kan op vier verschillende manieren bitcoin ontvangen: door het te verdienen met werk of verkoop, door lokaal contant geld te ruilen met een andere persoon, via een exchange of broker, of via een geldautomaat. Elke route eindigt in zelfbewaring of een saldo bij een bewaarder, en geen enkele route wordt boven de andere aanbevolen.](/micrographics/ways-to-receive-bitcoin-01/nl.md)
 
 
 Geen enkele route is overal automatisch de beste. Lokale voorbeelden en aanbiederspecifieke richtlijnen komen aan bod in **Module 4**.

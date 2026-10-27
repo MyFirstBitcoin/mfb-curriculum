@@ -25,7 +25,7 @@ Bitcoin może pełnić funkcję pieniądza na kilka sposobów. Wydawanie jest ty
 
 Przy każdym zastosowaniu proszę zadać trzy pytania:
 
-1. Jaki istniejący problem [Bitcoin rozwiązuje](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) w tym przypadku?
+1. Jaki istniejący problem Bitcoin rozwiązuje w tym przypadku?
 1. Czy Bitcoin jest w tym przypadku lepszy od dostępnej alternatywy?
 1. Jaką nową odpowiedzialność lub jakie ryzyko niesie ze sobą Bitcoin?
 

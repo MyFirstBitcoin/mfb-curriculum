@@ -22,7 +22,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.7 | [النقود الإلزامية](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/1/7.md) |
 |  | 1.8 | [النظام المصرفي القائم على الاحتياطي الجزئي](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/1/8.md) |
 |  | 1.9 | [التضخم والقوة الشرائية](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/1/9.md) |
-|  | 1.10 | [لماذا يُعدّ الدولار الأمريكي عملة احتياطية عالمية؟](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/1/10.md) |
+|  | 1.10 | [لماذا يُعدّ الدولار الأمريكي عملة احتياط عالمية](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/1/10.md) |
 |  | 1.11 | [بدائل للادخار وحفظ القيمة](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/1/11.md) |
 |  | 1.12 | [العملات الرقمية للبنوك المركزية (CBDCs)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/1/12-cbdcs.md) |
 |  | 1.13 | [مراجعة: كيف يمكن أن يختلّ عمل النقود؟](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ar/1/13.md) |

@@ -20,13 +20,13 @@ Il est possible de recevoir du bitcoin par le travail, un paiement communautaire
 Avant de comparer une voie, posez-vous les questions suivantes :
 
 
-<!-- micrographic: ways-to-receive-bitcoin-01 -->
-[Une personne peut recevoir des bitcoins de quatre façons différentes : en les gagnant par son travail ou des ventes, en échangeant des espèces en monnaie locale avec une autre personne, en utilisant une plateforme d’échange ou un courtier, ou en utilisant un distributeur automatique. Chaque voie aboutit à une détention en propre ou à un solde détenu par un tiers, et aucune n’est recommandée par rapport aux autres.](/micrographics/ways-to-receive-bitcoin-01/fr-FR.md)
-
-
-
 <!-- micrographic: exchange-risk-questions-01 -->
 [Six catégories de risques à examiner avant d’acquérir ou d’échanger des bitcoins, chacune accompagnée d’une question à se poser : coûts, garde, identité et confidentialité, retrait et règlement, contrepartie et sécurité, et contexte local.](/micrographics/exchange-risk-questions-01/fr-FR.md)
+
+
+
+<!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Une personne peut recevoir des bitcoins de quatre façons différentes : en les gagnant par son travail ou des ventes, en échangeant des espèces en monnaie locale avec une autre personne, en utilisant une plateforme d’échange ou un courtier, ou en utilisant un distributeur automatique. Chaque voie aboutit à une détention en propre ou à un solde détenu par un tiers, et aucune n’est recommandée par rapport aux autres.](/micrographics/ways-to-receive-bitcoin-01/fr-FR.md)
 
 
 Aucune voie n’est automatiquement la meilleure partout. Les exemples locaux et les indications propres à chaque prestataire ont leur place dans le **Module 4**.

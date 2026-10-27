@@ -22,7 +22,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.7 | [फ़िएट मुद्रा](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hi/1/7.md) |
 |  | 1.8 | [आंशिक आरक्षित बैंकिंग](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hi/1/8.md) |
 |  | 1.9 | [मुद्रास्फीति और क्रय शक्ति](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hi/1/9.md) |
-|  | 1.10 | [अमेरिकी डॉलर एक वैश्विक आरक्षित मुद्रा क्यों है?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hi/1/10.md) |
+|  | 1.10 | [अमेरिकी डॉलर विश्व की आरक्षित मुद्रा क्यों है](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hi/1/10.md) |
 |  | 1.11 | [बचत और मूल्य संचित रखने के विकल्प](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hi/1/11.md) |
 |  | 1.12 | [केंद्रीय बैंक डिजिटल मुद्राएँ (CBDCs)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hi/1/12-cbdcs.md) |
 |  | 1.13 | [पुनरावलोकन: पैसा कैसे विफल हो सकता है?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/hi/1/13.md) |

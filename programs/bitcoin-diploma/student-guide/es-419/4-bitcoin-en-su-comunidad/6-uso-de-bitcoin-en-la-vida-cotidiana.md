@@ -25,7 +25,7 @@ Bitcoin puede funcionar como dinero de varias maneras. Gastarlo es solo una de e
 
 Para cualquier uso, hágase tres preguntas:
 
-1. ¿Qué problema existente [resuelve Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) aquí?
+1. ¿Qué problema existente resuelve Bitcoin aquí?
 1. ¿Es Bitcoin mejor que la alternativa disponible para este caso?
 1. ¿Qué nueva responsabilidad o riesgo genera Bitcoin?
 

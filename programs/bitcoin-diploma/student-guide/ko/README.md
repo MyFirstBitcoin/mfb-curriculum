@@ -22,7 +22,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.7 | [법정화폐](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ko/1/7.md) |
 |  | 1.8 | [부분지급준비제도](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ko/1/8.md) |
 |  | 1.9 | [인플레이션과 구매력](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ko/1/9.md) |
-|  | 1.10 | [미국 달러는 왜 세계 기축통화일까요?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ko/1/10.md) |
+|  | 1.10 | [미국 달러가 세계 기축통화인 이유](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ko/1/10.md) |
 |  | 1.11 | [저축과 가치 보관을 위한 대안](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ko/1/11.md) |
 |  | 1.12 | [중앙은행 디지털 화폐(CBDC)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ko/1/12-cbdc.md) |
 |  | 1.13 | [복습: 돈은 어떻게 망가질 수 있을까요?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ko/1/13.md) |
@@ -62,7 +62,7 @@ introduction, learning objectives, or notes for educators.
 |  | 3.14 | [온체인 결제와 라이트닝 결제](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ko/3/14.md) |
 |  | 3.15 | [교육자가 참관하는 실습 역량 점검](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ko/3/15.md) |
 |  | 3.16 | [복습: 자기 보관(셀프 커스터디)의 책임은 무엇을 의미하나요?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ko/3/16.md) |
-|  |  | [비트코인 안전하게 사용하기: 빠른 확인](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ko/3/_quiz.md) |
+|  |  | [비트코인 안전하게 사용하기: 간단 점검](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ko/3/_quiz.md) |
 | **[여러분의 지역사회 속 비트코인](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/ko/4)** | 4.1 | [여러분의 지역사회 속 비트코인](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ko/4/1.md) |
 |  | 4.2 | [여러분의 지역 모듈 4](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ko/4/2-4.md) |
 |  | 4.3 | [실습 워크숍과 시연](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ko/4/3.md) |

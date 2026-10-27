@@ -25,7 +25,7 @@ Bitcoin može da funkcioniše kao novac na više načina. Trošenje je samo jeda
 
 Za svaku upotrebu postavite tri pitanja:
 
-1. Koji postojeći problem [Bitcoin rešava](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) ovde?
+1. Koji postojeći problem Bitcoin rešava ovde?
 1. Da li je Bitcoin u ovom slučaju bolji od dostupne alternative?
 1. Koju novu odgovornost ili rizik Bitcoin stvara?
 

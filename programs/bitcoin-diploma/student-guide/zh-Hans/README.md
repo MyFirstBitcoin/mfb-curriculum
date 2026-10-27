@@ -22,7 +22,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.7 | [法定货币](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/zh-Hans/1/7.md) |
 |  | 1.8 | [部分准备金银行制度](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/zh-Hans/1/8.md) |
 |  | 1.9 | [通货膨胀与购买力](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/zh-Hans/1/9.md) |
-|  | 1.10 | [为什么美元是世界储备货币？](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/zh-Hans/1/10.md) |
+|  | 1.10 | [为什么美元是世界储备货币](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/zh-Hans/1/10.md) |
 |  | 1.11 | [储蓄与保值的替代选择](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/zh-Hans/1/11.md) |
 |  | 1.12 | [央行数字货币（CBDC）](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/zh-Hans/1/12-cbdc.md) |
 |  | 1.13 | [复习：货币如何失灵？](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/zh-Hans/1/13.md) |
@@ -62,7 +62,7 @@ introduction, learning objectives, or notes for educators.
 |  | 3.14 | [链上支付与闪电网络支付](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/zh-Hans/3/14.md) |
 |  | 3.15 | [由教育工作者观察的实践能力检核](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/zh-Hans/3/15.md) |
 |  | 3.16 | [复习：自我托管的责任意味着什么？](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/zh-Hans/3/16.md) |
-|  |  | [安全使用比特币：快速自测](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/zh-Hans/3/_quiz.md) |
+|  |  | [安全使用比特币：快速测验](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/zh-Hans/3/_quiz.md) |
 | **[您社区中的比特币](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/staging/programs/bitcoin-diploma/student-guide/zh-Hans/4)** | 4.1 | [您社区中的比特币](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/zh-Hans/4/1.md) |
 |  | 4.2 | [您的本地模块4](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/zh-Hans/4/2-4.md) |
 |  | 4.3 | [实践工作坊与演示](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/zh-Hans/4/3.md) |

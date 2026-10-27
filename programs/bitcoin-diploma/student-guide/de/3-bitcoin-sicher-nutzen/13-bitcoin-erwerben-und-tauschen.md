@@ -20,13 +20,13 @@ Menschen können bitcoin durch Arbeit, eine Gemeinschaftszahlung, einen Tausch u
 Bevor Sie einen Weg vergleichen, fragen Sie sich:
 
 
-<!-- micrographic: ways-to-receive-bitcoin-01 -->
-[Eine Person kann bitcoin auf vier verschiedenen Wegen erhalten: indem sie ihn durch Arbeit oder Verkäufe verdient, lokales Bargeld mit einer anderen Person tauscht, eine Börse oder einen Broker nutzt oder einen Automaten verwendet. Jeder Weg endet in Selbstverwahrung oder einem verwahrten Guthaben, und keiner wird gegenüber den anderen empfohlen.](/micrographics/ways-to-receive-bitcoin-01/de.md)
-
-
-
 <!-- micrographic: exchange-risk-questions-01 -->
 [Sechs Risikobereiche, die vor dem Erwerb oder Tausch von bitcoin zu prüfen sind, jeweils mit einer Frage, die man sich stellen sollte: Kosten, Verwahrung, Identität und Privatsphäre, Auszahlung und Abwicklung, Gegenpartei und Sicherheit sowie lokaler Kontext.](/micrographics/exchange-risk-questions-01/de.md)
+
+
+
+<!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Eine Person kann bitcoin auf vier verschiedenen Wegen erhalten: indem sie ihn durch Arbeit oder Verkäufe verdient, lokales Bargeld mit einer anderen Person tauscht, eine Börse oder einen Broker nutzt oder einen Automaten verwendet. Jeder Weg endet in Selbstverwahrung oder einem verwahrten Guthaben, und keiner wird gegenüber den anderen empfohlen.](/micrographics/ways-to-receive-bitcoin-01/de.md)
 
 
 Kein Weg ist automatisch überall der beste. Lokale Beispiele und anbieterspezifische Hinweise gehören in **Modul 4**.

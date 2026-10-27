@@ -1,4 +1,4 @@
-# 1.10 Me ya sa dalar Amurka ta zama kuɗin ajiyar duniya?
+# 1.10 Dalilin da ya sa dalar Amurka ta zama kuɗin ajiyar duniya
 
 Wani **ajiyayyen [kuɗi](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency)** shi ne [kuɗi](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) da [manyan bankunan ƙasa](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) da gwamnatoci suke riƙewa kuma suke amfani da shi wajen biyan kuɗaɗe tsakanin ƙasashe. Kafin Yaƙin Duniya na Ɗaya, fam na Birtaniya ne ya fi taka wannan rawa. Yaƙin ya raunana [kuɗaɗen ƙasashen Turai](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) da cibiyoyin harkokin kuɗi, yayin da Amurka ta samar da kayayyaki tare da tara [zinariya](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold). Wannan ya ƙara yawan amfani da dala a tsakanin ƙasashe.
 

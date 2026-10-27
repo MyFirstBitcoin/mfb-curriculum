@@ -1,4 +1,4 @@
-# 1.10 Zakaj je ameriški dolar svetovna rezervna valuta?
+# 1.10 Zakaj je ameriški dolar svetovna rezervna valuta
 
 Posamezna **rezervna [valuta](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency)** je [valuta](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency), ki jo [centralne banke](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) in vlade hranijo in uporabljajo za mednarodna plačila. Pred prvo svetovno vojno je to vlogo v največji meri opravljal britanski funt. Vojna je oslabila evropske [valute](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) in finančna središča, medtem ko so Združene države dobavljale blago in kopičile [zlato](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold). To je povečalo mednarodno uporabo dolarja.
 

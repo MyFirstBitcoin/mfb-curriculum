@@ -22,7 +22,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.7 | [เงินเฟียต](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/th/1/7.md) |
 |  | 1.8 | [ระบบธนาคารสำรองเงินบางส่วน](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/th/1/8.md) |
 |  | 1.9 | [เงินเฟ้อและอำนาจซื้อ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/th/1/9.md) |
-|  | 1.10 | [เหตุใดดอลลาร์สหรัฐจึงเป็นสกุลเงินสำรองของโลก?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/th/1/10.md) |
+|  | 1.10 | [เหตุใดดอลลาร์สหรัฐจึงเป็นสกุลเงินสำรองของโลก](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/th/1/10.md) |
 |  | 1.11 | [ทางเลือกในการออมและการเก็บรักษามูลค่า](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/th/1/11.md) |
 |  | 1.12 | [สกุลเงินดิจิทัลของธนาคารกลาง (CBDCs)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/th/1/12-cbdcs.md) |
 |  | 1.13 | [ทบทวน: เงินล้มเหลวได้อย่างไร?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/th/1/13.md) |

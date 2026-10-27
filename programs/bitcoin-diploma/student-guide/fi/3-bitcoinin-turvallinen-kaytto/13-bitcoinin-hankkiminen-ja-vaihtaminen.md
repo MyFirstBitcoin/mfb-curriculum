@@ -20,13 +20,13 @@ Ihmiset voivat saada bitcoinia työstä, yhteisön maksuna, vertaisvaihdossa, au
 Ennen kuin vertaatte jotakin tapaa, kysykää:
 
 
-<!-- micrographic: ways-to-receive-bitcoin-01 -->
-[Henkilö voi saada bitcoinia neljällä eri tavalla: ansaitsemalla sitä työstä tai myynnistä, vaihtamalla paikallista käteistä toisen henkilön kanssa, käyttämällä pörssiä tai välittäjää tai käyttämällä automaattia. Jokainen reitti päättyy omaan säilytykseen tai säilytyspalvelun saldoon, eikä mitään niistä suositella muiden edelle.](/micrographics/ways-to-receive-bitcoin-01/fi.md)
-
-
-
 <!-- micrographic: exchange-risk-questions-01 -->
 [Kuusi riskialuetta, jotka on tarkistettava ennen bitcoinien hankkimista tai vaihtamista. Kuhunkin liittyy kysymys: kustannukset, säilytys, henkilöllisyys ja yksityisyys, nostot ja maksujen selvitys, vastapuoli ja turvallisuus sekä paikalliset olosuhteet.](/micrographics/exchange-risk-questions-01/fi.md)
+
+
+
+<!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Henkilö voi saada bitcoinia neljällä eri tavalla: ansaitsemalla sitä työstä tai myynnistä, vaihtamalla paikallista käteistä toisen henkilön kanssa, käyttämällä pörssiä tai välittäjää tai käyttämällä automaattia. Jokainen reitti päättyy omaan säilytykseen tai säilytyspalvelun saldoon, eikä mitään niistä suositella muiden edelle.](/micrographics/ways-to-receive-bitcoin-01/fi.md)
 
 
 Mikään tapa ei ole automaattisesti paras kaikkialla. Paikalliset esimerkit ja palveluntarjoajakohtaiset ohjeet kuuluvat **moduuliin 4**.

@@ -1,4 +1,4 @@
-# 1.10 Tại sao đô la Mỹ là đồng tiền dự trữ thế giới?
+# 1.10 Tại sao đồng đô la Mỹ là đồng tiền dự trữ thế giới
 
 Một **loại tiền [dự trữ](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency)** là một [đồng tiền](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) mà [các ngân hàng trung ương](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) và chính phủ nắm giữ và sử dụng để thanh toán quốc tế. Trước Chiến tranh thế giới thứ nhất, đồng bảng Anh giữ vai trò này nổi bật nhất. Cuộc chiến đã làm suy yếu các [đồng tiền](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) và trung tâm tài chính của châu Âu, trong khi Hoa Kỳ cung cấp hàng hóa và tích lũy [vàng](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold). Điều này khiến đồng đô la được sử dụng nhiều hơn trên phạm vi quốc tế.
 

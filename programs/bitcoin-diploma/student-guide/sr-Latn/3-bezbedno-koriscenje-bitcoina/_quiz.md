@@ -1,4 +1,4 @@
-# Quiz – Bezbedno korišćenje Bitcoin-a: kratka provera znanja
+# Quiz – Bezbedno korišćenje Bitcoin-a: kratka provera
 
 ## Pitanje 1
 
@@ -11,7 +11,7 @@ Bitcoin novčanik:
 
 ### Objašnjenje
 
-Bitcoin se evidentira u zajedničkoj knjizi transakcija; novčanik upravlja podacima koji se koriste za pristup i korišćenje. Pogledajte Vodič za učenike, modul 3, „Novčanici“.
+Bitcoin se beleži u zajedničkoj evidenciji; novčanik upravlja informacijama koje se koriste za pristup i korišćenje. Pogledajte Vodič za učenike, modul 3, „Novčanici“.
 
 ## Pitanje 2
 
@@ -24,30 +24,30 @@ Da biste primili bitcoin, podelite:
 
 ### Objašnjenje
 
-Adresa za prijem može se podeliti radi primanja uplate. Fraze za oporavak, privatni ključevi i lozinke moraju ostati tajni. Pogledajte Vodič za učenike, modul 3, „Adrese“ i „Ključevi“.
+Adresu za prijem možete podeliti radi uplate. Fraze za oporavak, privatni ključevi i lozinke moraju ostati tajni. Pogledajte Vodič za učenike, modul 3, „Adrese“ i „Ključevi“.
 
 ## Pitanje 3
 
-Fraza za oporavak je uneta na internetu. Koji je najbezbedniji sledeći korak?
+Frazu za oporavak ste uneli na internetu. Koji je najbezbedniji sledeći korak?
 
 * [ ] Sačekajte
 * [ ] Pošaljite je podršci
-* [x] Napravite novu frazu za oporavak, zatim prebacite sredstva
-* [ ] Ponovo upotrebite istu frazu za oporavak
+* [x] Napravite novu frazu za oporavak, pa prebacite sredstva
+* [ ] Ponovo koristite istu frazu za oporavak
 
 ### Objašnjenje
 
-Smatrajte frazu za oporavak unetu na internetu kompromitovanom. Napravite novi novčanik sa novom frazom za oporavak, a zatim prebacite sredstva tek nakon provere odredišta. Pogledajte Vodič za učenike, modul 3, „Fraze za oporavak“.
+Frazu za oporavak unetu na internetu smatrajte kompromitovanom. Napravite novi novčanik sa novom frazom za oporavak, a zatim prebacite sredstva tek nakon što proverite odredište. Pogledajte Vodič za učenike, modul 3, „Fraze za oporavak“.
 
 ## Pitanje 4
 
-U čemu je razlika između poveravanja sredstava na čuvanje i samostalnog čuvanja?
+Koja je glavna razlika između korišćenja uz staratelja i samostalnog čuvanja?
 
 * [x] Ko kontroliše ključeve
 * [ ] Mogućnost poništavanja plaćanja
 * [ ] Ograničenje ponude
-* [ ] Odgovornost
+* [ ] Naknade za transakcije
 
 ### Objašnjenje
 
-Poveravanje sredstava na čuvanje i samostalno čuvanje razlikuju se po tome ko kontroliše ključeve i snosi odgovornost koja iz toga proizlazi. Nijedan pristup ne garantuje bezbednost ni mogućnost poništavanja transakcija. Pogledajte Vodič za učenike, modul 3, „Korišćenje uz poveravanje sredstava na čuvanje i bez njega“.
+Korišćenje uz staratelja i samostalno čuvanje razlikuju se po tome ko kontroliše ključeve i snosi odgovornost za njih. Nijedno ne garantuje bezbednost ni mogućnost poništavanja transakcija. Pogledajte Vodič za učenike, modul 3, „Korišćenje uz staratelja i bez staratelja“.

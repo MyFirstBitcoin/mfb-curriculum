@@ -20,13 +20,13 @@ Människor kan få bitcoin genom arbete, en betalning inom en gemenskap, ett dir
 Ställ följande frågor innan ni jämför en väg:
 
 
-<!-- micrographic: ways-to-receive-bitcoin-01 -->
-[En person kan ta emot bitcoin på fyra olika sätt: genom att tjäna dem via arbete eller försäljning, växla lokala kontanter med en annan person, använda en växlingstjänst eller mäklare, eller använda en bitcoinomat. Varje väg leder till egen förvaring eller ett saldo hos en förvaringstjänst, och ingen rekommenderas framför de andra.](/micrographics/ways-to-receive-bitcoin-01/sv.md)
-
-
-
 <!-- micrographic: exchange-risk-questions-01 -->
 [Sex riskområden att kontrollera innan man skaffar eller växlar bitcoin, vart och ett med en fråga att ställa: kostnader, förvaring, identitet och integritet, uttag och avveckling, motpart och säkerhet samt lokala förhållanden.](/micrographics/exchange-risk-questions-01/sv.md)
+
+
+
+<!-- micrographic: ways-to-receive-bitcoin-01 -->
+[En person kan ta emot bitcoin på fyra olika sätt: genom att tjäna dem via arbete eller försäljning, växla lokala kontanter med en annan person, använda en växlingstjänst eller mäklare, eller använda en bitcoinomat. Varje väg leder till egen förvaring eller ett saldo hos en förvaringstjänst, och ingen rekommenderas framför de andra.](/micrographics/ways-to-receive-bitcoin-01/sv.md)
 
 
 Ingen väg är automatiskt bäst överallt. Lokala exempel och leverantörsspecifik vägledning hör hemma i **modul 4**.

@@ -20,13 +20,13 @@ Watu wanaweza kupokea bitcoin kupitia kazi, malipo ya jamii, ubadilishanaji kati
 Kabla ya kulinganisha njia, jiulizeni:
 
 
-<!-- micrographic: ways-to-receive-bitcoin-01 -->
-[Mtu mmoja anaweza kupokea bitcoin kwa njia nne tofauti: kuipata kupitia kazi au mauzo, kubadilishana pesa taslimu za ndani na mtu mwingine, kutumia soko la ubadilishaji au dalali, au kutumia ATM. Kila njia inaishia kwenye uhifadhi binafsi au salio linaloshikiliwa na mtunzaji, na hakuna njia inayopendekezwa kuliko nyingine.](/micrographics/ways-to-receive-bitcoin-01/sw.md)
-
-
-
 <!-- micrographic: exchange-risk-questions-01 -->
 [Maeneo sita ya hatari ya kukagua kabla ya kupata au kubadilisha bitcoin, kila moja likiwa na swali la kuuliza: gharama, uhifadhi, utambulisho na faragha, utoaji na ukamilishaji, mhusika mwingine na usalama, na muktadha wa mahali.](/micrographics/exchange-risk-questions-01/sw.md)
+
+
+
+<!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Mtu mmoja anaweza kupokea bitcoin kwa njia nne tofauti: kuipata kupitia kazi au mauzo, kubadilishana pesa taslimu za ndani na mtu mwingine, kutumia soko la ubadilishaji au dalali, au kutumia ATM. Kila njia inaishia kwenye uhifadhi binafsi au salio linaloshikiliwa na mtunzaji, na hakuna njia inayopendekezwa kuliko nyingine.](/micrographics/ways-to-receive-bitcoin-01/sw.md)
 
 
 Hakuna njia ambayo moja kwa moja ni bora kila mahali. Mifano ya eneo husika na mwongozo maalum kuhusu watoa huduma vimo katika **Moduli ya 4**.

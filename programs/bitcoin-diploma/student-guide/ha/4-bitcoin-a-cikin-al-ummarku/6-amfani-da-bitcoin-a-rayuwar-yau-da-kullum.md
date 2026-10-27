@@ -25,7 +25,7 @@ Bitcoin na iya aiki a matsayin kuɗi ta hanyoyi da dama. Kashewa ɗaya ne kawai 
 
 Ga kowane irin amfani, ku yi tambayoyi uku:
 
-1. Wace matsala da ake da ita ce [Bitcoin yake magancewa](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) a nan?
+1. Wace matsala da ake da ita ce Bitcoin yake magancewa a nan?
 1. Shin Bitcoin ya fi wata hanyar da ake da ita a wannan yanayin?
 1. Wane sabon nauyi ko haɗari ne Bitcoin yake haifarwa?
 

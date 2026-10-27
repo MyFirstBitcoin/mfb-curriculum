@@ -1,4 +1,4 @@
-# Quiz – Bitcoin'i Güvenle Kullanmak: kısa kontrol
+# Quiz – Bitcoin'i Güvenli Kullanmak: kısa kontrol
 
 ## Soru 1
 
@@ -15,39 +15,39 @@ Bitcoin ortak defterde kayıtlıdır; cüzdan ise ona erişmek ve onu kullanmak 
 
 ## Soru 2
 
-bitcoin almak için paylaşabileceğiniz bilgi:
+bitcoin almak için paylaşın:
 
-* [ ] Tohum ifadesi
+* [ ] Kurtarma ifadesi
 * [ ] Özel anahtar
-* [x] Alım adresi
+* [x] Alıcı adresi
 * [ ] Parola
 
 ### Açıklama
 
-Ödeme almak için alım adresi paylaşılabilir. Tohum ifadeleri, özel anahtarlar ve parolalar gizli kalmalıdır. Öğrenci Rehberi, Modül 3, “Adresler” ve “Anahtarlar” bölümlerini gözden geçirin.
+Ödeme almak için bir alıcı adresi paylaşılabilir. Kurtarma ifadeleri, özel anahtarlar ve parolalar gizli kalmalıdır. Öğrenci Rehberi, Modül 3, “Adresler” ve “Anahtarlar” bölümlerini gözden geçirin.
 
 ## Soru 3
 
-Tohum ifadesi çevrimiçi bir yere girildi. En güvenli sonraki adım nedir?
+Kurtarma ifadesi çevrimiçi girildi. En güvenli sonraki adım nedir?
 
 * [ ] Beklemek
 * [ ] Destek ekibine göndermek
-* [x] Yeni tohum, ardından fonları taşımak
-* [ ] Tohumu yeniden kullanmak
+* [x] Yeni kurtarma ifadesi, ardından fonları taşımak
+* [ ] Kurtarma ifadesini yeniden kullanmak
 
 ### Açıklama
 
-Çevrimiçi bir yere girilmiş tohum ifadesini ele geçirilmiş kabul edin. Yeni bir tohum ifadesiyle yeni bir cüzdan oluşturun, ardından fonları yalnızca hedef adresi doğruladıktan sonra taşıyın. Öğrenci Rehberi, Modül 3, “Tohum ifadeleri” bölümünü gözden geçirin.
+Çevrimiçi girilmiş bir kurtarma ifadesini ele geçirilmiş kabul edin. Yeni bir kurtarma ifadesiyle yeni bir cüzdan oluşturun, ardından fonları yalnızca hedef adresi doğruladıktan sonra taşıyın. Öğrenci Rehberi, Modül 3, “Kurtarma ifadeleri” bölümünü gözden geçirin.
 
 ## Soru 4
 
-Saklama yöntemleri arasındaki fark nedir?
+Emanetçili ve kendi kendine saklama kullanımı arasındaki temel fark nedir?
 
 * [x] Anahtarları kimin kontrol ettiği
 * [ ] Ödemelerin geri alınabilirliği
 * [ ] Arz sınırı
-* [ ] Sorumluluk
+* [ ] İşlem ücretleri
 
 ### Açıklama
 
-Emanetli kullanım ile kendi kendine saklama, anahtarları kimin kontrol ettiği ve buna bağlı sorumluluğu kimin taşıdığı bakımından farklılık gösterir. Hiçbiri güvenliği veya geri alınabilirliği garanti etmez. Öğrenci Rehberi, Modül 3, “Emanetli ve emanetsiz kullanım” bölümünü gözden geçirin.
+Emanetçili ve kendi kendine saklama kullanımı, anahtarları kimin kontrol ettiği ve ilgili sorumluluğu kimin taşıdığı bakımından farklılık gösterir. Hiçbiri güvenliği veya geri alınabilirliği garanti etmez. Öğrenci Rehberi, Modül 3, “Emanetçili ve emanetçisiz kullanım” bölümünü gözden geçirin.

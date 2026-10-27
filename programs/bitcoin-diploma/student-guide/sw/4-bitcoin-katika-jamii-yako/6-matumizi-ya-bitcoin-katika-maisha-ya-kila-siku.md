@@ -25,7 +25,7 @@ Bitcoin inaweza kufanya kazi kama pesa kwa njia kadhaa. Kutumia ni mojawapo tu y
 
 Kwa matumizi yoyote, jiulizeni maswali matatu:
 
-1. Ni tatizo gani lililopo ambalo [Bitcoin inatatua](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) hapa?
+1. Ni tatizo gani lililopo ambalo Bitcoin inatatua hapa?
 1. Je, Bitcoin ni bora kuliko njia mbadala iliyopo katika hali hii?
 1. Bitcoin inaleta wajibu au hatari gani mpya?
 

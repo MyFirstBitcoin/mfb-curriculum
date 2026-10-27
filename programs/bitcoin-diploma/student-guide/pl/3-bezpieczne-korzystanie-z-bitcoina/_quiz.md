@@ -6,12 +6,12 @@ Portfel Bitcoin:
 
 * [ ] Przechowuje bitcoiny
 * [x] Zarządza kluczami i podpisuje transakcje
-* [ ] Usuwa ochronę poufnych informacji
+* [ ] Usuwa ochronę poufnych danych
 * [ ] Cofa transakcje
 
 ### Wyjaśnienie
 
-Bitcoin jest zapisywany we wspólnym rejestrze; portfel zarządza informacjami potrzebnymi do uzyskania do niego dostępu i korzystania z niego. Proszę powtórzyć materiał z modułu 3 podręcznika dla uczniów, sekcja „Portfele”.
+Bitcoin jest zapisywany we wspólnym rejestrze; portfel zarządza informacjami służącymi do uzyskiwania do niego dostępu i korzystania z niego. Proszę zapoznać się z rozdziałem „Portfele” w module 3 podręcznika dla ucznia.
 
 ## Pytanie 2
 
@@ -19,16 +19,16 @@ Co należy udostępnić, aby otrzymać bitcoiny?
 
 * [ ] Frazę odzyskiwania
 * [ ] Klucz prywatny
-* [x] Adres odbiorczy
+* [x] Adres do odbioru
 * [ ] Hasło
 
 ### Wyjaśnienie
 
-Adres odbiorczy można udostępnić, aby otrzymać płatność. Frazy odzyskiwania, klucze prywatne i hasła muszą pozostać tajne. Proszę powtórzyć materiał z modułu 3 podręcznika dla uczniów, sekcje „Adresy” i „Klucze”.
+Adres do odbioru można udostępnić, aby otrzymać płatność. Frazy odzyskiwania, klucze prywatne i hasła muszą pozostać tajne. Proszę zapoznać się z rozdziałami „Adresy” i „Klucze” w module 3 podręcznika dla ucznia.
 
 ## Pytanie 3
 
-Fraza odzyskiwania została wpisana w internecie. Jaki jest najbezpieczniejszy następny krok?
+Fraza odzyskiwania została wpisana w internecie. Jaki jest najbezpieczniejszy kolejny krok?
 
 * [ ] Poczekać
 * [ ] Wysłać ją do pomocy technicznej
@@ -37,17 +37,17 @@ Fraza odzyskiwania została wpisana w internecie. Jaki jest najbezpieczniejszy n
 
 ### Wyjaśnienie
 
-Frazę odzyskiwania wpisaną w internecie należy uznać za ujawnioną. Proszę utworzyć nowy portfel z nową frazą odzyskiwania, a następnie przenieść środki dopiero po sprawdzeniu adresu docelowego. Proszę powtórzyć materiał z modułu 3 podręcznika dla uczniów, sekcja „Frazy odzyskiwania”.
+Frazę odzyskiwania wpisaną w internecie należy uznać za ujawnioną. Proszę utworzyć nowy portfel z nową frazą odzyskiwania, a następnie przenieść środki dopiero po zweryfikowaniu adresu docelowego. Proszę zapoznać się z rozdziałem „Frazy odzyskiwania” w module 3 podręcznika dla ucznia.
 
 ## Pytanie 4
 
-Czym różni się korzystanie z usług powierniczych od samodzielnego przechowywania?
+Jaka jest główna różnica między korzystaniem z usług powierniczych a samodzielnym przechowywaniem środków?
 
-* [x] Tym, kto kontroluje klucze
-* [ ] Możliwością cofnięcia płatności
-* [ ] Limitem podaży
-* [ ] Odpowiedzialnością
+* [x] To, kto kontroluje klucze
+* [ ] Możliwość cofania płatności
+* [ ] Limit podaży
+* [ ] Opłaty transakcyjne
 
 ### Wyjaśnienie
 
-Korzystanie z usług powierniczych i samodzielne przechowywanie różnią się tym, kto kontroluje klucze i ponosi związaną z tym odpowiedzialność. Żadne z tych rozwiązań nie gwarantuje bezpieczeństwa ani możliwości cofnięcia transakcji. Proszę powtórzyć materiał z modułu 3 podręcznika dla uczniów, sekcja „Korzystanie z usług powierniczych i niepowierniczych”.
+Korzystanie z usług powierniczych i samodzielne przechowywanie środków różnią się tym, kto kontroluje klucze i ponosi związaną z tym odpowiedzialność. Żadne z tych rozwiązań nie gwarantuje bezpieczeństwa ani możliwości cofania transakcji. Proszę zapoznać się z rozdziałem „Korzystanie z usług powierniczych i samodzielne przechowywanie środków” w module 3 podręcznika dla ucznia.

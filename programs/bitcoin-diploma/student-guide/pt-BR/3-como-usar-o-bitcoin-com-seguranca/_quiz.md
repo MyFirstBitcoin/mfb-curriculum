@@ -6,16 +6,16 @@ Uma carteira de Bitcoin:
 
 * [ ] Armazena bitcoin
 * [x] Gerencia chaves e assina
-* [ ] Remove a proteção secreta
+* [ ] Remove a proteção de segredos
 * [ ] Reverte transações
 
 ### Explicação
 
-O bitcoin é registrado no livro-razão compartilhado; uma carteira gerencia as informações usadas para acessá-lo e usá-lo. Revise o Guia do Estudante, Módulo 3, “Carteiras”.
+O bitcoin é registrado no livro-razão compartilhado; uma carteira gerencia as informações usadas para acessá-lo e utilizá-lo. Revise o Guia do Aluno, Módulo 3, “Carteiras”.
 
 ## Pergunta 2
 
-O que compartilhar para receber bitcoin:
+Compartilhe para receber bitcoin:
 
 * [ ] Frase-semente
 * [ ] Chave privada
@@ -24,11 +24,11 @@ O que compartilhar para receber bitcoin:
 
 ### Explicação
 
-Um endereço de recebimento pode ser compartilhado para pagamento. Frases-semente, chaves privadas e senhas devem permanecer secretas. Revise o Guia do Estudante, Módulo 3, “Endereços” e “Chaves”.
+Um endereço de recebimento pode ser compartilhado para pagamentos. Frases-semente, chaves privadas e senhas devem permanecer em segredo. Revise o Guia do Aluno, Módulo 3, “Endereços” e “Chaves”.
 
 ## Pergunta 3
 
-Frase-semente digitada online. Qual o próximo passo mais seguro?
+Frase-semente digitada on-line. Qual é o próximo passo mais seguro?
 
 * [ ] Esperar
 * [ ] Enviá-la ao suporte
@@ -37,17 +37,17 @@ Frase-semente digitada online. Qual o próximo passo mais seguro?
 
 ### Explicação
 
-Considere comprometida uma frase-semente digitada online. Crie uma nova carteira com uma nova frase-semente e só então transfira os fundos, depois de verificar o destino. Revise o Guia do Estudante, Módulo 3, “Frases-semente”.
+Considere comprometida uma frase-semente digitada on-line. Crie uma nova carteira com uma nova frase-semente e só então transfira os fundos, após verificar o destino. Revise o Guia do Aluno, Módulo 3, “Frases-semente”.
 
 ## Pergunta 4
 
-Diferença na custódia?
+Qual é a principal diferença entre o uso custodial e o uso com autocustódia?
 
 * [x] Quem controla as chaves
 * [ ] Reversibilidade dos pagamentos
 * [ ] Limite de oferta
-* [ ] Responsabilidade
+* [ ] Taxas de transação
 
 ### Explicação
 
-O uso custodial e o de autocustódia diferem em quem controla as chaves e assume a responsabilidade correspondente. Nenhum dos dois garante segurança ou reversibilidade. Revise o Guia do Estudante, Módulo 3, “Uso custodial e não custodial”.
+O uso custodial e o uso com autocustódia diferem quanto a quem controla as chaves e assume a responsabilidade correspondente. Nenhum dos dois garante segurança ou reversibilidade. Revise o Guia do Aluno, Módulo 3, “Uso custodial e não custodial”.

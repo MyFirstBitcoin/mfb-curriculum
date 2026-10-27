@@ -25,7 +25,7 @@ Bitcoin kan op verskeie maniere as geld funksioneer. Besteding is slegs een daar
 
 Vra by enige gebruik drie vrae:
 
-1. Watter bestaande probleem spreek [Bitcoin aan](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) hier?
+1. Watter bestaande probleem spreek Bitcoin aan hier?
 1. Is Bitcoin in hierdie geval beter as die beskikbare alternatief?
 1. Watter nuwe verantwoordelikheid of risiko skep Bitcoin?
 

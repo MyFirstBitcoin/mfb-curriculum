@@ -4,14 +4,14 @@
 
 Egy Bitcoin-tárca:
 
-* [ ] Bitcoint tárol
-* [x] Kulcsokat kezel és aláír
-* [ ] Megszünteti a titkos adatok védelmét
-* [ ] Visszafordítja a tranzakciókat
+* [ ] bitcoint tárol
+* [x] kulcsokat kezel és aláír
+* [ ] megszünteti a titkos adatok védelmét
+* [ ] visszafordítja a tranzakciókat
 
 ### Magyarázat
 
-A Bitcoin nyilvántartása a megosztott főkönyvben történik; a tárca a hozzáféréshez és a használathoz szükséges információkat kezeli. Tekintse át a Tanulói útmutató 3. moduljának „Tárcák” című részét.
+A Bitcoint a közös főkönyvben tartják nyilván; a tárca a hozzáféréshez és a használathoz szükséges információkat kezeli. Tekintse át a Tanulói útmutató 3. moduljának „Tárcák” című részét.
 
 ## Kérdés 2
 
@@ -28,7 +28,7 @@ A fogadási cím megosztható fizetés fogadásához. A helyreállító kifejez�
 
 ## Kérdés 3
 
-Online megadta a helyreállító kifejezését. Mi a legbiztonságosabb következő lépés?
+Online adta meg a helyreállító kifejezést. Mi a legbiztonságosabb következő lépés?
 
 * [ ] Várjon
 * [ ] Küldje el az ügyfélszolgálatnak
@@ -41,13 +41,13 @@ Az online megadott helyreállító kifejezést tekintse illetéktelenek kezébe 
 
 ## Kérdés 4
 
-Miben tér el a letétkezelői és a saját kezelésű használat?
+Mi a fő különbség a letétkezelőn keresztüli és a saját kezelésű használat között?
 
 * [x] Ki rendelkezik a kulcsok felett
 * [ ] A fizetések visszafordíthatósága
-* [ ] A kínálat felső korlátja
-* [ ] A felelősség
+* [ ] A kínálat felső határa
+* [ ] A tranzakciós díjak
 
 ### Magyarázat
 
-A letétkezelői és a saját kezelésű használat abban különbözik, hogy ki rendelkezik a kulcsok felett, és ki viseli az ezzel járó felelősséget. Egyik sem garantálja a biztonságot vagy a visszafordíthatóságot. Tekintse át a Tanulói útmutató 3. moduljának „Letétkezelői és nem letétkezelői használat” című részét.
+A letétkezelőn keresztüli és a saját kezelésű használat abban különbözik, hogy ki rendelkezik a kulcsok felett, és ki viseli az ezzel járó felelősséget. Egyik sem garantálja a biztonságot vagy a visszafordíthatóságot. Tekintse át a Tanulói útmutató 3. moduljának „Letétkezelőn keresztüli és letétkezelő nélküli használat” című részét.

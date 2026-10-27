@@ -25,7 +25,7 @@ Bitcoin lahko deluje kot denar na več načinov. Poraba je le eden od njih.
 
 Pri vsaki uporabi si zastavite tri vprašanja:
 
-1. Katero obstoječo težavo [Bitcoin rešuje](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) tukaj?
+1. Katero obstoječo težavo Bitcoin rešuje tukaj?
 1. Ali je Bitcoin v tem primeru boljši od razpoložljive alternative?
 1. Kakšno novo odgovornost ali tveganje prinaša Bitcoin?
 

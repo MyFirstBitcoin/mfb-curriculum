@@ -1,4 +1,4 @@
-# 1.10 Bakit Isang Pandaigdigang Reserbang Salapi ang Dolyar ng US?
+# 1.10 Bakit ang dolyar ng US ay isang reserbang salapi ng mundo
 
 Ang isang **reserbang [salapi](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency)** ay isang [salapi](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) na [iniingatan ng mga bangko sentral](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) at pamahalaan at ginagamit para sa mga pandaigdigang pagbabayad. Bago ang Unang Digmaang Pandaigdig, ang British pound ang pangunahing gumanap sa papel na ito. Pinahina ng digmaan ang mga [salapi](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) at sentrong pinansyal sa Europa, samantalang nagtustos ng mga kalakal ang Estados Unidos at nag-ipon ng [ginto](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold). Dahil dito, lumawak ang pandaigdigang paggamit ng dolyar.
 

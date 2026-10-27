@@ -20,13 +20,13 @@ Mọi người có thể nhận bitcoin thông qua công việc, khoản thanh t
 Trước khi so sánh một phương thức, hãy đặt câu hỏi:
 
 
-<!-- micrographic: ways-to-receive-bitcoin-01 -->
-[Một người có thể nhận bitcoin theo bốn cách khác nhau: kiếm bitcoin thông qua công việc hoặc bán hàng, đổi tiền mặt bằng nội tệ với một người khác, sử dụng sàn giao dịch hoặc nhà môi giới, hoặc sử dụng máy ATM. Mỗi cách đều dẫn đến việc tự lưu ký hoặc có số dư do bên thứ ba lưu ký, và không có cách nào được khuyến nghị hơn các cách còn lại.](/micrographics/ways-to-receive-bitcoin-01/vi.md)
-
-
-
 <!-- micrographic: exchange-risk-questions-01 -->
 [Sáu khía cạnh rủi ro cần kiểm tra trước khi mua hoặc trao đổi bitcoin, mỗi khía cạnh kèm theo một câu hỏi cần đặt ra: chi phí, lưu ký, danh tính và quyền riêng tư, rút tiền và quyết toán, đối tác giao dịch và sự an toàn, và bối cảnh địa phương.](/micrographics/exchange-risk-questions-01/vi.md)
+
+
+
+<!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Một người có thể nhận bitcoin theo bốn cách khác nhau: kiếm bitcoin thông qua công việc hoặc bán hàng, đổi tiền mặt bằng nội tệ với một người khác, sử dụng sàn giao dịch hoặc nhà môi giới, hoặc sử dụng máy ATM. Mỗi cách đều dẫn đến việc tự lưu ký hoặc có số dư do bên thứ ba lưu ký, và không có cách nào được khuyến nghị hơn các cách còn lại.](/micrographics/ways-to-receive-bitcoin-01/vi.md)
 
 
 Không có phương thức nào mặc nhiên là tốt nhất ở mọi nơi. Các ví dụ tại địa phương và hướng dẫn cụ thể cho từng nhà cung cấp thuộc nội dung của **Mô-đun 4**.

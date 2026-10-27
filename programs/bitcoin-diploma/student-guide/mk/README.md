@@ -22,7 +22,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.7 | [Фиат пари](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/mk/1/7.md) |
 |  | 1.8 | [Банкарство со делумни резерви](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/mk/1/8.md) |
 |  | 1.9 | [Инфлација и куповна моќ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/mk/1/9.md) |
-|  | 1.10 | [Зошто американскиот долар е светска резервна валута?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/mk/1/10.md) |
+|  | 1.10 | [Зошто американскиот долар е светска резервна валута](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/mk/1/10.md) |
 |  | 1.11 | [Алтернативи за штедење и зачувување на вредноста](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/mk/1/11.md) |
 |  | 1.12 | [Дигитални валути на централните банки (CBDCs)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/mk/1/12-cbdcs.md) |
 |  | 1.13 | [Повторување: Како можат парите да се расипат?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/mk/1/13.md) |

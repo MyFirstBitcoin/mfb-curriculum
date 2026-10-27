@@ -25,7 +25,7 @@ Bitcoin kan fungera som pengar på flera sätt. Att betala är bara ett av dem.
 
 Ställ tre frågor vid all användning:
 
-1. Vilket befintligt problem [löser Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) här?
+1. Vilket befintligt problem löser Bitcoin här?
 1. Är Bitcoin bättre än det tillgängliga alternativet i det här fallet?
 1. Vilket nytt ansvar eller vilken ny risk skapar Bitcoin?
 

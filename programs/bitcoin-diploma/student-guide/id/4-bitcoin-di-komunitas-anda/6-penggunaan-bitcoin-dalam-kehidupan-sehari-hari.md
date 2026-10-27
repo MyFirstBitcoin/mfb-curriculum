@@ -25,7 +25,7 @@ Bitcoin dapat berfungsi sebagai uang dalam beberapa cara. Membelanjakannya hanya
 
 Untuk penggunaan apa pun, ajukan tiga pertanyaan:
 
-1. Masalah apa yang dapat [diatasi Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) di sini?
+1. Masalah apa yang dapat diatasi Bitcoin di sini?
 1. Apakah Bitcoin lebih baik daripada alternatif yang tersedia untuk kasus ini?
 1. Tanggung jawab atau risiko baru apa yang ditimbulkan Bitcoin?
 

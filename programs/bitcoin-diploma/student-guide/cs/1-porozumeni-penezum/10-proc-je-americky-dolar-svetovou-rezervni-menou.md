@@ -1,4 +1,4 @@
-# 1.10 Proč je americký dolar světovou rezervní měnou?
+# 1.10 Proč je americký dolar světovou rezervní měnou
 
 Jedna **rezervní [měna](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency)** je [měna](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency), kterou [centrální banky](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) a vlády drží a používají k mezinárodním platbám. Před první světovou válkou tuto úlohu plnila především britská libra. Válka oslabila evropské [měny](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) a finanční centra, zatímco Spojené státy dodávaly zboží a hromadily [zlato](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold). Tím vzrostlo mezinárodní využití dolaru.
 

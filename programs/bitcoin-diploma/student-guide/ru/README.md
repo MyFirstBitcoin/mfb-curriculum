@@ -22,7 +22,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.7 | [Фиатные деньги](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ru/1/7.md) |
 |  | 1.8 | [Банковская система с частичным резервированием](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ru/1/8.md) |
 |  | 1.9 | [Инфляция и покупательная способность](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ru/1/9.md) |
-|  | 1.10 | [Почему доллар США является мировой резервной валютой?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ru/1/10.md) |
+|  | 1.10 | [Почему доллар США является мировой резервной валютой](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ru/1/10.md) |
 |  | 1.11 | [Альтернативные способы сбережения и сохранения стоимости](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ru/1/11.md) |
 |  | 1.12 | [Цифровые валюты центральных банков (ЦВЦБ)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ru/1/12.md) |
 |  | 1.13 | [Повторение: как деньги могут сломаться?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/staging/programs/bitcoin-diploma/student-guide/ru/1/13.md) |

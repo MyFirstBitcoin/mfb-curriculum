@@ -20,13 +20,13 @@ Ljudi mogu primiti bitcoin za rad, kroz plaćanje unutar zajednice, razmjenom s 
 Prije usporedbe načina zapitajte se:
 
 
-<!-- micrographic: ways-to-receive-bitcoin-01 -->
-[Osoba može primiti bitcoin na četiri različita načina: zaradom kroz rad ili prodaju, razmjenom lokalne gotovine s drugom osobom, putem mjenjačnice ili posrednika ili korištenjem bankomata. Svaki način završava samostalnim skrbništvom ili saldom kod skrbnika, a nijedan se ne preporučuje više od ostalih.](/micrographics/ways-to-receive-bitcoin-01/hr.md)
-
-
-
 <!-- micrographic: exchange-risk-questions-01 -->
 [Šest područja rizika koja treba provjeriti prije stjecanja ili razmjene bitcoina, svako s pitanjem koje treba postaviti: troškovi, skrbništvo, identitet i privatnost, povlačenje sredstava i namira, druga ugovorna strana i sigurnost te lokalni kontekst.](/micrographics/exchange-risk-questions-01/hr.md)
+
+
+
+<!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Osoba može primiti bitcoin na četiri različita načina: zaradom kroz rad ili prodaju, razmjenom lokalne gotovine s drugom osobom, putem mjenjačnice ili posrednika ili korištenjem bankomata. Svaki način završava samostalnim skrbništvom ili saldom kod skrbnika, a nijedan se ne preporučuje više od ostalih.](/micrographics/ways-to-receive-bitcoin-01/hr.md)
 
 
 Nijedan način nije automatski najbolji svugdje. Lokalni primjeri i smjernice za pojedine pružatelje usluga pripadaju u **Modul 4**.
