@@ -19,4 +19,17 @@ A [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) pathway may
 
 Compare the real path:
 
+
+| Question | KYC path | No-KYC path |
+| --- | --- | --- |
+| What identity data are collected? |  |  |
+| Who stores the data and for how long? |  |  |
+| Can the transaction be linked on-chain? |  |  |
+| What fraud protection exists? |  |  |
+| What counterparty risk exists? |  |  |
+| What limits and fees apply? |  |  |
+| What local law applies? |  |  |
+| What happens during a dispute? |  |  |
+
+
 [Privacy](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy) is not secrecy from every risk. It is the ability to control information about yourself. Do not break local law or expose yourself to physical danger in pursuit of [privacy](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy). Seek current local guidance from a qualified person when the rules are unclear.

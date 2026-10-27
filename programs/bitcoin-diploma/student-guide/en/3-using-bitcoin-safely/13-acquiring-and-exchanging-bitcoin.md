@@ -20,13 +20,13 @@ People may receive bitcoin through work, a community payment, a peer exchange, a
 Before comparing a path, ask:
 
 
-<!-- micrographic: ways-to-receive-bitcoin-01 -->
-[One person can receive bitcoin in four different ways: earning it through work or sales, exchanging local cash with another person, using an exchange or broker, or using an ATM. Each route ends in self-custody or a custodial balance, and none is recommended over the others.](/micrographics/ways-to-receive-bitcoin-01/en.md)
-
-
-
 <!-- micrographic: exchange-risk-questions-01 -->
 [Six risk areas to check before acquiring or exchanging bitcoin, each with a question to ask: costs, custody, identity and privacy, withdrawal and settlement, counterparty and safety, and local context.](/micrographics/exchange-risk-questions-01/en.md)
+
+
+
+<!-- micrographic: ways-to-receive-bitcoin-01 -->
+[One person can receive bitcoin in four different ways: earning it through work or sales, exchanging local cash with another person, using an exchange or broker, or using an ATM. Each route ends in self-custody or a custodial balance, and none is recommended over the others.](/micrographics/ways-to-receive-bitcoin-01/en.md)
 
 
 No pathway is automatically best everywhere. Local examples and provider-specific guidance belong in **Module 4**.
