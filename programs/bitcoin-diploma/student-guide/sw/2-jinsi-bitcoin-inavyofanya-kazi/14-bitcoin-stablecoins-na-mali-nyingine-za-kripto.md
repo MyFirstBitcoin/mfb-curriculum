@@ -7,8 +7,7 @@ Mnapolinganisha [mali yoyote ya kidijitali](https://curriculum.myfirstbitcoin.or
 Ulinganisho ulio hapa chini unatofautisha makundi na machaguo ya muundo. Si uidhinishaji, pendekezo, wala dai kwamba [mali yoyote](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) ni salama, inaaminika, au inawafaa ninyi.
 
 
-> **Dark**
->
+<!-- card: dark -->
 > Ulaghai, madai ya kupotosha, na huduma zisizo salama zinaweza kuathiri [mali yoyote ya kidijitali](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-asset) au njia yoyote ya malipo. Kagueni [mali](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) mahususi, huduma, na mpangilio wa [uhifadhi](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) husika badala ya kudhani kwamba kundi fulani lenyewe ni salama au si salama.
 
 

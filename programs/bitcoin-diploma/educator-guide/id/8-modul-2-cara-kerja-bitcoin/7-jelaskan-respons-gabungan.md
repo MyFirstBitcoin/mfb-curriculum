@@ -10,6 +10,7 @@ Gunakan peta yang terdiri atas lima bagian:
 
 
 <!-- micrographic: five-part-response-01 -->
+[Lima bagian berpadu untuk mengatasi masalah pembelanjaan ganda: jaringan antarrekan, tanda tangan digital, blok dan penambangan, verifikasi independen, serta riwayat bersama dengan akumulasi bukti kerja terbanyak. Bersama-sama, kelimanya memungkinkan jaringan menolak pembelanjaan kedua atas dana yang sama tanpa otoritas pusat.](/micrographics/five-part-response-01/id.md)
 
 
 Tidak ada satu bagian pun yang dapat menjamin bahwa Bitcoin memiliki [kelangkaan](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) dengan sendirinya. Hindari mengatakan “[blockchain](https://curriculum.myfirstbitcoin.org/lexicon/en/#blockchain) menyelesaikan segalanya.”

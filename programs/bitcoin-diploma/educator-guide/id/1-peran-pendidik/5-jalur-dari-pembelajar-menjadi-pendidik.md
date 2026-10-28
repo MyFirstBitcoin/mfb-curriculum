@@ -13,3 +13,4 @@ Sajikan jalur ini sebagai pilihan untuk melanjutkan pembelajaran setelah Diploma
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[Perjalanan belajar yang bersifat opsional dimulai dari Pengantar Bitcoin ke Diploma Bitcoin, lalu Program Pelatihan Pendidik, hingga menjadi pendidik yang mengajar menggunakan kurikulum My First Bitcoin, dan bergabung dengan Jaringan Pendidikan Bitcoin. Setiap langkah berikutnya merupakan pilihan, bukan persyaratan.](/micrographics/learner-journey-pathway-01/id.md)

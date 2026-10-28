@@ -24,6 +24,7 @@ Személyes váltáshoz válasszon nyilvános és megfelelő helyszínt, ne vigye
 
 
 <!-- micrographic: compare-local-pathways-01 -->
+[Üres táblázat három helyi lehetőség, A, B és C összehasonlításához név, KYC-követelmények, letétkezelési modell, támogatott hálózatok, hírnév és befizetési módok szerint, a megjegyzéseknek fenntartott hellyel.](/micrographics/compare-local-pathways-01/hu.md)
 
 
 

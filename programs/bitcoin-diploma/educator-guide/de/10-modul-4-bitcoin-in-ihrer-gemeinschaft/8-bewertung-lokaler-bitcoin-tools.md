@@ -19,6 +19,7 @@ Führen Sie ein Tool nicht einfach deshalb vor, weil es vor Ort beliebt ist. Nut
 
 
 
-> **Dark – Lokale Beispiele sind keine globalen Empfehlungen**
+<!-- card: dark -->
+> **Lokale Beispiele sind keine globalen Empfehlungen**
 >
 > Dieses Tool ist ein lokales Beispiel mit Stand zu einem bestimmten Zeitpunkt, das dem Lernen dient. Sein Einsatz im Unterricht ist weder eine globale Empfehlung von My First Bitcoin noch ein Versprechen, dass es geeignet bleibt.

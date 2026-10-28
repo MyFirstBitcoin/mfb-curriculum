@@ -21,6 +21,7 @@ Nejde o číselné známky. Před vydáním osvědčení o absolvování musí b
 
 
 <!-- micrographic: two-completion-gates-01 -->
+[Teoretické kompetence C1 až C5 i praktické kompetence C6 a C7 musí být hodnoceny jako Ano, než bude vydáno osvědčení o absolvování. Zatím ne znamená další procvičování a nové hodnocení; účast a reflexe nenahrazují splnění požadavků ani v jedné z obou oblastí.](/micrographics/two-completion-gates-01/cs.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/2783871f5851cf80c2e6e2a93eeb911607939507-1536x1024.svg)

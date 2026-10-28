@@ -24,6 +24,7 @@ Para sa harapang palitan, gumamit kayo ng pampubliko at angkop na lugar, iwasang
 
 
 <!-- micrographic: compare-local-pathways-01 -->
+[Isang blangkong talahanayan para sa paghahambing ng tatlong lokal na opsyon, A, B at C, batay sa pangalan, mga kinakailangan sa KYC, modelo ng pag-iingat ng pondo, mga suportadong network, reputasyon at mga paraan ng pagpopondo, na may espasyo para sa mga tala.](/micrographics/compare-local-pathways-01/tl.md)
 
 
 

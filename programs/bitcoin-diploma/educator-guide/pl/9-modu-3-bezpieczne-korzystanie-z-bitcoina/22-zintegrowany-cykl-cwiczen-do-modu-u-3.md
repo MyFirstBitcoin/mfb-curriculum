@@ -19,3 +19,4 @@ Proszę nie wykorzystywać stanowisk do formalnej oceny, chyba że zatwierdzono 
 
 
 <!-- micrographic: practice-circuit-stations-01 -->
+[Osoby uczące się przechodzą kolejno przez osiem stanowisk ćwiczeniowych: przechowywanie, publiczne czy tajne, odbieranie, wysyłanie, odzyskiwanie, eksplorator, oszustwo i ścieżka. Osobny tor obserwacyjny przebiega zgodnie z zatwierdzoną trasą, dzięki czemu ćwiczenia grupowe nigdy nie są mylone z formalną oceną.](/micrographics/practice-circuit-stations-01/pl.md)

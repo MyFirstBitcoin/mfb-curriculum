@@ -1,6 +1,7 @@
 # 6.3 Universal stop conditions
 
-> **Callout – Stop immediately when a safety check fails**
+<!-- card: callout -->
+> **Stop immediately when a safety check fails**
 >
 > Stopping is a successful safety behavior. Protect people and secrets, verify the issue, and use a prepared safe route or postpone the activity. Do not shame the learner who notices a problem.
 
@@ -20,6 +21,7 @@ Stop the activity immediately if:
 
 
 <!-- micrographic: stop-when-check-fails-01 -->
+[An unsafe or unexplained condition stops the activity. The educator protects people and secrets and verifies the issue; a safety-critical assessment error is logged as Not yet, and the learner resets, practises and is reassessed later.](/micrographics/stop-when-check-fails-01/en.md)
 
 
 ![The educator raises an open palm to pause an activity while the beginner lowers a phone and the technical learner partly closes a laptop.](https://cdn.sanity.io/images/vje9ehw2/production/adb5c936fe5622b3c0b62f060349af1097eee5b0-1055x1491.png)

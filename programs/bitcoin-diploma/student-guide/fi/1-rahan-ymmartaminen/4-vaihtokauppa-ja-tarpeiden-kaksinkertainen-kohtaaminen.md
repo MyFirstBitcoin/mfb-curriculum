@@ -1,5 +1,6 @@
 # 1.4 Vaihtokauppa ja tarpeiden kaksinkertainen kohtaaminen
 
+<!-- card: definition -->
 > **Definition – Vaihtokauppa**
 >
 > [Vaihtokauppa](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) on tavaran tai palvelun vaihtamista suoraan toiseen tavaraan tai palveluun. Se voi toimia hyvin pienimuotoisessa vaihdannassa, mutta vaikeutuu, kun mukana on paljon ihmisiä ja tuotteita.
@@ -11,6 +12,7 @@ Kuvitelkaa, että **Amina** omistaa riisiä ja haluaa kengät. **Luis** omistaa 
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina omistaa riisiä ja haluaa kengät, Luis omistaa kengät ja haluaa ruokaöljyä, ja Mei omistaa ruokaöljyä ja haluaa korjaustöitä. Mikään pari ei voi käydä suoraa vaihtokauppaa, koska parin kumpikaan osapuoli ei halua sitä, mitä toinen tarjoaa.](/micrographics/barter-mismatch-01/fi.md)
 
 
 Jotta [vaihtokauppa](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) toimisi suoraan, kummankin osapuolen on haluttava toisen tarjoamaa hyödykettä samaan aikaan ja sopivina määrinä. Taloustieteilijät kutsuvat tätä [**tarpeiden kaksinkertaiseksi yhteensattumaksi**](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-coincidence-of-wants).
@@ -31,3 +33,4 @@ Yleisesti hyväksytty raha erottaa myymisen ostamisesta. Amina voi myydä riisi�
 
 
 <!-- micrographic: sell-then-buy-01 -->
+[Amina myy riisiä yhdelle henkilölle yleisesti hyväksyttyä rahaa vastaan ja käyttää myöhemmin saamansa rahat ostaakseen kengät joltakulta toiselta. Myymisestä ja ostamisesta tulee erillisiä toimintoja.](/micrographics/sell-then-buy-01/fi.md)

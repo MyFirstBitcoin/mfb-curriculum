@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: daily-bitcoin-uses-01 -->
+[Tujuh cara berbeza Bitcoin boleh digunakan dalam kehidupan seharian: memperoleh pendapatan, menyimpan, menerima, menghantar, berbelanja, menderma, serta penetapan harga dan perakaunan. Setiap satunya ialah pilihan penggunaan, bukan langkah yang diwajibkan.](/micrographics/daily-bitcoin-uses-01/ms.md)
 
 
 Bitcoin boleh berfungsi sebagai wang dalam beberapa cara. Berbelanja hanyalah salah satu daripadanya.
@@ -24,7 +25,7 @@ Bitcoin boleh berfungsi sebagai wang dalam beberapa cara. Berbelanja hanyalah sa
 
 Untuk sebarang kegunaan, tanyakan tiga soalan:
 
-1. Apakah masalah sedia ada yang [ditangani oleh Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) di sini?
+1. Apakah masalah sedia ada yang ditangani oleh Bitcoin di sini?
 1. Adakah Bitcoin lebih baik daripada alternatif yang tersedia untuk keadaan ini?
 1. Apakah tanggungjawab atau risiko baharu yang diwujudkan oleh Bitcoin?
 

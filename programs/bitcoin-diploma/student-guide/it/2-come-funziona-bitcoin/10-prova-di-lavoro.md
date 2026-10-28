@@ -3,6 +3,7 @@
 ![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
+<!-- card: definition -->
 > **Definition – Proof of Work (PoW)**
 >
 > [La Proof of Work (PoW)](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) è il processo che i [miner](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) utilizzano per competere per il diritto di proporre il blocco successivo.
@@ -14,6 +15,7 @@ Quando un [miner](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) trova
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Un miner calcola ripetutamente l'hash di un blocco proposto finché un risultato non è inferiore al target della rete, poi trasmette il blocco. I nodi verificano rapidamente la prova e ogni regola prima che il blocco entri a far parte della blockchain: il lavoro è costoso da produrre e facile da verificare.](/micrographics/proof-of-work-process-01/it.md)
 
 
 [La Proof of Work (PoW)](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) svolge diverse funzioni:

@@ -1,5 +1,6 @@
 # 3.6 Skrbničko i neskrbničko korištenje
 
+<!-- card: definition -->
 > **Definition – Skrbništvo**
 >
 > [Skrbništvo](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) odgovara na praktično pitanje: tko kontrolira ključeve potrebne za trošenje bitcoina?
@@ -15,10 +16,12 @@ U **neskrbničkom** ili **samoskrbničkom** novčaniku VI kontrolirate ključeve
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[Pri korištenju uz skrbništvo pružatelj usluge kontrolira ključeve i odobrava trošenje, pa je stanje njegovo obećanje. Pri korištenju uz samostalno skrbništvo korisnik kontrolira ključeve i sigurnosne kopije; oba načina imaju svoje ovisnosti i rizike od gubitka pristupa ili prestanka rada.](/micrographics/who-controls-keys-01/hr.md)
 
 
 
 <!-- micrographic: custody-comparison-table-01 -->
+[Tablica koja uspoređuje korištenje uz skrbništvo i uz samostalno skrbništvo: tko čuva ključeve, tko je zadužen za oporavak i koji je glavni kompromis svakog modela. Nijedan model nije bez rizika.](/micrographics/custody-comparison-table-01/hr.md)
 
 
 [Skrbništvo](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) nije uvijek očito iz sučelja. Ako ne možete kontrolirati način oporavka pristupa i trebate odobrenje tvrtke za isplatu, vjerojatno se koristite uslugama [skrbnika](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian). [Samostalno skrbništvo](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) nije provjera osobne vrijednosti; važno je prepoznati potrebno povjerenje i povezane rizike.

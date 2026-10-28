@@ -24,6 +24,7 @@ Kwa ubadilishanaji wa ana kwa ana, tumieni mahali pa wazi na panapofaa, epukeni 
 
 
 <!-- micrographic: compare-local-pathways-01 -->
+[Jedwali tupu la kulinganisha njia tatu za ndani, A, B na C, kwa jina, mahitaji ya KYC, mfumo wa uhifadhi, mitandao inayotumika, sifa na njia za kuweka fedha, pamoja na nafasi ya maelezo.](/micrographics/compare-local-pathways-01/sw.md)
 
 
 

@@ -17,6 +17,7 @@ Fragen Sie:
 
 
 <!-- micrographic: bitcoin-atm-off-ramp-01 -->
+[Eine Person an einem Bitcoin-Geldautomaten sendet bitcoin von ihrem Smartphone und erhält Bargeld in lokaler Währung: ein Beispiel für einen Ausstiegsweg von bitcoin in lokales Geld. Es handelt sich um eine Veranschaulichung, nicht um eine Empfehlung.](/micrographics/bitcoin-atm-off-ramp-01/de.md)
 
 
 **Ergebnis:** Die lernende Person wählt für einen erfundenen Fall einen Weg, ordnet die sicheren Prüfschritte in eine Reihenfolge und erklärt, welches Risiko verringert und welches hinzugefügt wird.

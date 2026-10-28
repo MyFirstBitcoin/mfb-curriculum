@@ -18,6 +18,7 @@ Proberte:
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[Obchodník, který přijímá Bitcoin, působí ve čtyřech oblastech: marketingu, školení, účetnictví a prodeji.](/micrographics/merchant-payment-operations-01/cs.md)
 
 
 **Praktický úkol:** Studující provede nebo řídí modelovou situaci platby a vrácení peněz. Musí ověřit totožnost zákazníka, vyžádat si aktuální údaje pro vrácení peněz, zkontrolovat cílovou adresu a částku, určit, kdo zaplatí případný poplatek, a zaznamenat výsledek bez odhalení zbytečných údajů.

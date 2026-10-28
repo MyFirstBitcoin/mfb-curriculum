@@ -6,6 +6,7 @@ Qu’est-ce qui vous ferait vous arrêter avant un paiement ou une installation�
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Cinq signaux d’alerte d’une arnaque : urgence, usurpation d’identité, destination modifiée, rendements garantis et demandes d’informations secrètes.](/micrographics/scam-red-flags-01/fr-FR.md)
 
 
 La réaction sûre est toujours la même : **Faites une pause. Ne partagez rien. N’envoyez rien. Fermez le canal de communication. Vérifiez de manière indépendante auprès d’une source connue. Demandez de l’aide sans révéler d’informations secrètes.** Une source connue est un site officiel, une fiche d’application ou un moyen de contact auquel vous avez accédé de manière indépendante, et non par une publicité, un message privé ou un lien inattendu. Vérifiez l’éditeur et l’adresse web, comparez ces informations avec la documentation officielle et recherchez les coordonnées séparément. Si la source, les instructions ou les détails du paiement diffèrent de la procédure présentée, faites une pause et demandez de l’aide à votre enseignant ou à une assistance locale de confiance sans révéler de [phrase de récupération](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) ni de [clé privée](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key). Une véritable occasion peut résister à une vérification minutieuse ; une escroquerie repose souvent sur le fait de l’empêcher.

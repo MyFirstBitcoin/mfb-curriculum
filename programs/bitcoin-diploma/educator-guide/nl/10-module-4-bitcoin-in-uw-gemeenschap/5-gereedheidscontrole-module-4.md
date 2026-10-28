@@ -1,6 +1,7 @@
 # 10.5 Gereedheidscontrole module 4
 
-> **Callout – Voer geen live activiteit van Module 4 uit totdat alle controles zijn doorstaan**
+<!-- card: callout -->
+> **Voer geen live activiteit van Module 4 uit totdat alle controles zijn doorstaan**
 >
 > Als een van de onderstaande controles niet voldoende is, gebruik dan een simulatie, een geprinte route of een andere activiteit. Compenseer een onveilige of niet-geverifieerde route niet door deelnemers te vragen meer risico te aanvaarden.
 
@@ -22,3 +23,4 @@ Voer geen live module uit totdat elk vereist antwoord voldoende is.
 
 
 <!-- micrographic: module-4-readiness-gate-01 -->
+[Acht controles betreffen doel, competentie, bekwaamheid van de docent, tools, lokale regels, veiligheid, toegang en observatie. Elke controle moet voldoende zijn voor een live les; een tekortkoming leidt tot een veiligere route of een herzien plan en een nieuwe gereedheidsbeoordeling.](/micrographics/module-4-readiness-gate-01/nl.md)

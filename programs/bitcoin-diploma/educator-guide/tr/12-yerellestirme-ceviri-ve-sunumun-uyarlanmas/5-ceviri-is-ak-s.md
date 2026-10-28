@@ -14,6 +14,7 @@
 
 
 <!-- micrographic: translation-workflow-01 -->
+[Çeviri, gözden geçirme ve test etmeye dayalı bir süreçtir: açık bir İngilizce metin hazırlayın, anlamı çevirin, bir dil uzmanı ve bir eğitmenle gözden geçirin, güvenlik talimatlarını öğrencilerle test edin, ardından standartların eşdeğer olduğunu doğrulayın. Anlaşılmayan güvenlik talimatları yeniden ifade aşamasına gönderilir.](/micrographics/translation-workflow-01/tr.md)
 
 
 Başka dillere sorunsuz aktarılamayan deyimlerden ve mecazlardan kaçının. Bir benzetme kullanıyorsanız, neyi açıkladığını ve neyi açıklamadığını her zaman belirtin.

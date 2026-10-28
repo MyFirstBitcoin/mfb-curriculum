@@ -40,7 +40,8 @@ A hi ku yi tirhela, a hi ku yi tirhisa, kambe i ku anakanya hi leswi yi nga swon
 * Xana mali ya n’​wina yi xava swilo swo tala ku fana ni le ku sunguleni?
 
 
-> **Callout – Hlayisani tinhlamulo ta n’​wina**
+<!-- card: callout -->
+> **Hlayisani tinhlamulo ta n’​wina**
 >
 > Ts alani nhlamulo yo koma ya xivutiso xin’wana ni xin’wana. Mi ta tlhelela eka tona emakumu.
 
@@ -85,6 +86,7 @@ Vanhu havambirhi va fanele va lava leswi loyi un’wana a nga na swona, hi nkarh
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina u na rhayisi naswona u lava tintangu, Luis u na tintangu naswona u lava mafurha yo sweka, kasi Mei u na mafurha yo sweka naswona u lava ku endleriwa mintirho yo lunghisa swilo. A ku na vanhu vambirhi lava nga cincanaka swilo hi ku kongoma, hikuva eka mpatswa wun’wana ni wun’wana a ku na loyi a lavaka leswi un’wana a swi nyikelaka.](/micrographics/barter-mismatch-01/ts.md)
 
 <!-- notes: Tirhisani xikombiso xa buku ya nkongomiso: mi byala rhayisi naswona mi lava tintangu, kambe muendli wa tintangu u lava mafurha yo sweka, ku nga ri rhayisi. Vativi va ikhonomi va vula leswi ku fambelana ka swilaveko swa matlhelo mambirhi. -->
 
@@ -151,6 +153,7 @@ Loko vanhu va twa rito leri nge infulexini, hakanyingi va ehleketa hi ku tlakuka
 ## Ku tlakuka ka minxavo ni Matimba yo Xava
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Tiyuniti leti fanaka ta 100 ta mali ti xava xirhundzu hinkwaxo xa nhundzu ya xisekelo loko xi durha 100, kambe a ti swi koti loko xirhundzu lexi fanaka xi durha 110. Mpimo wa minxavo wu tlakukile naswona Matimba yo xava ya mali ma hungutekile.](/micrographics/same-money-smaller-basket-01/ts.md)
 
 <!-- notes: Infulexini ya minxavo i ku tlakuka loku yaka mahlweni ka mpimo wa minxavo hi ku angarhela. Tlhelo ra yona lerin’wana i ntamu wo xava: nhlayo ya swilo leswi yuniti yin’we ya mali yi nga swi xavaka. Loko nxavo wa basikiti ra swilo swa xisekelo wu tlakuka ku suka eka 100 wa tiyuniti ta mali ku ya eka 110, tiyuniti teto ta 100 a ta ha swi koti ku xava basikiti hinkwaro. -->
 
@@ -213,8 +216,7 @@ Mali leyi nga eka akhawunti ya bangi yi hambanile ni mali leyi nga evokweni ra n
 * Kambe nhlayo ya yona ni milawu ya yona swi nga cinca, naswona vanhu lava yi tirhisaka a va na rito lerikulu eka swiboho swa yona
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Hi yona mhaka leyi vanhu va lavaka tindlela tin’wana, ni leyi endleke leswaku Bitcoin yi tumbuluxiwa.
 
 ---
@@ -233,6 +235,7 @@ Mali ya xidijitali leyi nga lawuriwiki hi vulawuri byin'we, leyi nga ni nhlayo l
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Loko ku tirhisiwa khampani ya tihakelo, nhlangano wun’we wu hlayisa buku ya tirhekhodo naswona wu nyika mpfumelelo eka ku hundziseriwa kun’wana ni kun’wana ka mali. Loko ku tirhisiwa Bitcoin, murhumeri u sayina thiranzekixini, tinodi leti tiyimeleke ta yi kambela naswona vacheri va yi engetela ebukwini yin’we ya tirhekhodo leyi avelaniwaka, kutani muamukeri a nga titshegi ngopfu hi vulawuri bya le xikarhini.](/micrographics/central-ledger-vs-bitcoin-01/ts.md)
 
 <!-- notes: Loko Bitcoin yi nga si va kona, ku rhumela mali hi inthanete a swi titshege hi nhlangano lowu tshembiwaka minkarhi hinkwato: bangi kumbe khamphani ya tihakelo leyi a yi hlayisa buku ya tirhekhodo ta mali, yi pasisa tiakhawunti, naswona a yi kota ku hlwerisa, ku sivela kumbe ku tlherisela endzhaku hakelo. Rungula ra xidijitali ra olova ku ri kopa: loko mali ya nsimbi ya xidijitali a yi nga tirhisiwa kambirhi, a yi nga ta kota ku tirha tani hi mali. Lexi i xiphiqo xa ku tirhisa mali yin’we kambirhi. Satoshi Nakamoto i munhu kumbe ntlawa lowu tirhisaka vito rero. -->
 
@@ -253,6 +256,7 @@ A ku na khamphani leyi nga sivelaka ku tirhisiwa ka bitcoin leyi nga ehansi ka v
 ## Mpimo lowu un’wana ni un’wana a nga wu kambelaka
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Mpimo wa mphakelo lowu tsariweke eka webusayiti kumbe eka dathabeyisi ya muhum esi wu nga cinciwa hi muhum esi yoloye vanhu va nga swi tivi. Nawu wa mphakelo wa Bitcoin wu voniwa hi mani na mani, naswona minsayino, matimu lama voniwaka hi mani na mani, vumbhoni bya ku tirha ni ku tiyisisa hi tinodi swi tirha swin’we ku sivela ku tumbuluxiwa ka mali leyintshwa ya dijitali kumbe ku tirhisiwa ka bitcoin yin’we kambirhi.](/micrographics/claimed-or-verified-supply-01/ts.md)
 
 <!-- notes: Tibitcoin letintshwa ti humesiwa hi ku landza xiyimiso lexi tivekaka erivaleni, naswona tikhompyuta leti tiyimeleke leti vuriwaka tinodi ti ala buloko yihi na yihi leyi tlulaka nawu wolowo. Ndzilakana lowu wa tshembeleka hikuva un’wana ni un’wana a nga wu kambela. A hi nawu wa ntumbuluko: wu ya wu tirha hikuva vatekaxiave va hambeta va wu sindzisa. Mphakelo lowu pimiweke a wu tiyisekisi leswaku nxavo wu ta tlakuka; nxavo wu titshege hi xilaveko swin’we ni mphakelo. -->
 
@@ -264,6 +268,7 @@ bitcoin yin’we yi avanyisiwa yi va 100 000 000 wa tiyuniti letitsongo leti vur
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Tafula ra tikholomu timbirhi: 1 BTC yi ringana na 100 000 000 sats, 0,1 BTC yi ringana na 10 000 000 sats, 0,01 BTC yi ringana na 1 000 000 sats, 0,001 BTC yi ringana na 100 000 sats, naswona 0,00000001 BTC yi ringana na 1 sat.](/micrographics/bitcoin-and-sats-01/ts.md)
 
 <!-- notes: Ku va ni 100 000 sats ni ku va ni 0,001 bitcoin swi vula ntsengo lowu fanaka. Lulamisani mavonelo lama hoxeke ya leswaku Bitcoin a yi fikeleleki hikuva bitcoin yin’we ya durha. -->
 
@@ -272,6 +277,7 @@ bitcoin yin’we yi avanyisiwa yi va 100 000 000 wa tiyuniti letitsongo leti vur
 ## I mani la endlaka leswaku Bitcoin yi ya mahlweni yi tirha?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Swiphemu swa mune eka Bitcoin: vatirhisi va amukela, va hlayisa ni ku rhumela bitcoin, tinodi ti tiyisisa milawu hi toxe, vaceli va aka tibuloko leti ringanyetiweke hi vumbhoni bya ntchito, naswona vatumbuluxi va sofwere va ringanyeta sofwere. Ku hava xiphemu xin’we lexi lawulaka netiweke.](/micrographics/bitcoin-participant-roles-01/ts.md)
 
 <!-- notes: Vatirhisi va rhumela, va amukela ni ku hlayisa bitcoin; tinodi ti kambela nxaviselano wun’wana ni wun’wana ni buloko yin’wana ni yin’wana hi ku landza milawu; vayini va phikizana ku engetela buloko leyintshwa eka rhekhodo kwalomu ka khume ra timinete tin’wana ni tin’wana. Rhekhodo yoleyo, ku nga blockchain, yi le rivaleni naswona ku tlhela yi tsariwa swi durha swinene. Xitsundzuxo malunghana ni matsalelo: Bitcoin leyi sungulaka hi B leyikulu hi ntolovelo yi vula netiweke kumbe sisiteme; bitcoin leyi sungulaka hi b leyitsongo yi vula mali hi yoxe. -->
 
@@ -307,6 +313,7 @@ Xivutiso xo sungula malunghana ni xipachi xin’wana ni xin’wana: i mani la la
 ## Xipachi xi lawula swilotlelo
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Xipachi xi khoma swilotlelo. Hi swona mi nga amukela ni ku rhumela bitcoin, kasi bitcoin hi yoxe yi sala yi rhekhodiwile eka buku ya tirhekhodo leyi avelaniwaka, ku nga ri endzeni ka riqingho kumbe xitirhisiwa.](/micrographics/wallet-manages-keys-01/ts.md)
 
 <!-- notes: Xipachi xa Bitcoin i xitirhisiwa, hakanyingi apulikheshini, lexi mi pfumelelaka ku amukela, ku kambela ni ku rhumela bitcoin. Bitcoin ya n’wina a yi hlayisiwanga endzeni ka riqingho ra n’wina: yi tsariwile eka blockchain. Xipachi xi lawula swilotlelo leswi mi pfumelelaka ku tiyisekisa leswaku i ya n’wina ni ku pfumelela hakelo. -->
 
@@ -331,6 +338,7 @@ Nxaxamelo wa marito lama landzelelanisiweke, hakanyingi 12 kumbe 24, lowu nga tl
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Xivulwa xa mbewu i nxaxamelo wa marito lama landzelelanaka hi ndlela yo karhi; laha ku na marito ya khume-mbirhi ya xikombiso lama nga ni tinomboro, lama tsariweke ephepheni. Marito lama faneleke hi nandzelelano lowu faneleke ma nga vuyisela vulawuri bya xipachi lexi fambelanaka na wona, kutani xivulwa lexi xi hlayisiwa exihundleni ni le handle ka inthanete.](/micrographics/seed-phrase-on-paper-01/ts.md)
 
 <!-- notes: Xivulwana xa mbewu a hi kopi yo hlayisa ntsena: xi nyika mfikelelo lowu heleleke. Xi tsaleni kahle ephepheni loko mi tumbuluxa xipachi; xi hlayiseni xi nga ri eka inthanete, exihundleni ni le ndhawini leyi xi nga ta ka xi nga lahleki kumbe ku onhaka. Mi nga tshuki mi xi teka xifaniso, mi xi rhumela hi imeyili, mi xi hlayisa eka tinotsi ta le ka papa, mi xi rhumela hi rungula kumbe mi xi thayipa eka webusayiti. Marito lama kombisiweke i xikombiso ntsena; mi nga tshuki mi komba kumbe mi hlengeleta xivulwana xa mbewu xa xiviri. -->
 
@@ -365,6 +373,7 @@ Nxaxamelo wa marito lama landzelelanisiweke, hakanyingi 12 kumbe 24, lowu nga tl
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Tihakelo ta le ka ketani ti rhekhodiwa hi ku kongoma eka ketani ya tibuloko ya Bitcoin, kasi Lightning i netiweke ya tihakelo leyi akiweke ehenhla ka Bitcoin leswaku ku endliwa tihakelo ta xihatla, ta nkarhi na nkarhi leti na tona ti nga tsandzekaka. Eka ndlela yin'wana ni yin'wana, mali yi nga hlayisiwa hi muhlayisi kumbe hi n'wini wa yona.](/micrographics/on-chain-and-lightning-01/ts.md)
 
 ---
 
@@ -375,7 +384,8 @@ Nxaxamelo wa marito lama landzelelanisiweke, hakanyingi 12 kumbe 24, lowu nga tl
 * **Mi nga tshembeni, tiyisisani.** Kambisisani munhu, ndlela yo hakela, adirese ni ntsengo.
 
 
-> **Callout – Avelanani hi vuxokoxoko byo amukela mali, ku nga ri swihundla**
+<!-- card: callout -->
+> **Avelanani hi vuxokoxoko byo amukela mali, ku nga ri swihundla**
 >
 > Adirese kumbe xikombelo xo hakela swi nga averiwa van'wana. Xivulwana xa mbewu kumbe xilotlelo xa xihundla a swi fanelanga swi averiwa van'wana nikatsongo. Ku hava mudyondzisi wa xiviri, khamphani ya xipachi ya xiviri kumbe mutirhi wa mpfuno wa xiviri loyi a nga ta tshuka a mi kombela swona.
 
@@ -389,6 +399,7 @@ Yimani loko munhu a mi sindzisa ku hatlisa kumbe ku hlayisa mhaka yi ri xihundla
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Swikombiso swa ntlhanu swo lemukisa hi vukanganyisi: xihatla, ku tiendla munhu un'wana, ndhawu leyi ku rhumeriwaka eka yona leyi cinciweke, mbuyelo lowu tiyisisiweke ni ku kombela swihundla.](/micrographics/scam-red-flags-01/ts.md)
 
 ---
 
@@ -408,7 +419,8 @@ Lawa ko va masungulo ntsena.
 * **Lawa ko va masungulo ntsena.** Goza rin’we leri landzelaka leri hlayisekeke ri ringene.
 
 
-> **Callout – Nkarhi wo anakanyisisa**
+<!-- card: callout -->
+> **Nkarhi wo anakanyisisa**
 >
 > Tlhelelani eka swivutiso swa ntlhanu swa le ku sunguleni. Xana a mi ta hlamula yini sweswi?
 

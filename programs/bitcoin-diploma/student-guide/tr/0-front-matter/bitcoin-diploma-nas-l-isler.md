@@ -22,6 +22,7 @@ Her modül aynı düzeni izler:
 
 
 <!-- micrographic: learning-rhythm-strip-01 -->
+[Beş adımlı bir öğrenme ritmi: temel bir fikri öğrenin, neyi açıklayabildiğinizi veya uygulayabildiğinizi gösterin, fikri uygulayın, onu kendi sözlerinizle açıklayın ve bir sonraki modülle nasıl bağlantılı olduğunu gözden geçirin.](/micrographics/learning-rhythm-strip-01/tr.md)
 
 
 Sessizce okumaktan çok katılım göstererek daha fazla şey öğreneceksiniz. Bazı soruların tek bir doğru cevabı yoktur. Önemli olan, gerekçenizi açıklayabilmeniz, kanıtları inceleyebilmeniz ve yeni bir şey öğrendiğinizde görüşünüzü gözden geçirebilmenizdir.
@@ -81,7 +82,8 @@ Bir [Bitcoin cüzdanıyla](https://curriculum.myfirstbitcoin.org/lexicon/en/#bit
 ### Güvenlik, sorumluluk ve finansal tavsiye olmaması
 
 
-> **Callout – Önce öğrenin; bu bir öneri değildir**
+<!-- card: callout -->
+> **Önce öğrenin; bu bir öneri değildir**
 >
 > Bitcoin Diploması yalnızca eğitim amaçlıdır. Finansal, yatırım, hukuki veya vergi tavsiyesi vermez. Ayrıca bitcoin'in [fiyatının](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) artacağını vaat etmez; herhangi bir miktarda bitcoin almanızı, satmanızı, teminat göstererek borç almanızı veya elde tutmanızı da önermez.
 >
@@ -104,6 +106,7 @@ Diploma, dört aşamalı bir öğrenme yayından oluşur: **Sorun → Çözüm �
 
 
 <!-- micrographic: learning-path-roadmap-01 -->
+[Dört aşamalı bir yol haritası: Sorun, Parayı Anlamak; Çözüm, Bitcoin Nasıl Çalışır; Eylem, Bitcoin'i Güvenle Kullanmak; ve Bağlantı, Topluluğunuzda Bitcoin; her biri kendi yol gösterici sorusuyla birlikte.](/micrographics/learning-path-roadmap-01/tr.md)
 
 
 **4. Modül**, Diploma'nın eğitmen tarafından düzenlenen zorunlu bir parçasıdır. Eğitmenler, öğrencilerinin yerel kısıtlamaları, çözümleri, araçları, kaynakları, yasaları, dili, altyapısı ve ihtiyaçları konusunda uzmandır. Eğitmen tarafından düzenlenen Bağlantı deneyimi; kazanma, biriktirme, alma, harcama, [Katman 2](https://curriculum.myfirstbitcoin.org/lexicon/en/#layer-2) çözümlerini, yerel takas yollarını, satıcıları veya döngüsel ekonomileri içerebilir.
@@ -118,6 +121,7 @@ Dört modül, sabit bir ders programı değil, gerekli Sorun → Çözüm → Ey
 
 
 <!-- micrographic: four-module-table-01 -->
+[Dört modülü, her birinin rolünü, yol gösterici sorusunu ve öğrencinin neler uygulayacağını gösteren bir tablo: Parayı Anlamak, Bitcoin Nasıl Çalışır, Bitcoin&#x27;i Güvenle Kullanmak ve Topluluğunuzda Bitcoin.](/micrographics/four-module-table-01/tr.md)
 
 
 Diploma en az sekiz saat sürer. İki saatlik dört oturum, bir süre sınırı değil, planlanan en kısa biçimdir. Grubunuzun tartışma, uygulama, tekrar veya değerlendirme için daha fazla zamana ihtiyacı olduğunda eğitmeniniz bir modülü daha fazla oturuma bölebilir, daha önceki bir fikre geri dönebilir veya tek tek bölümlerin sırasını değiştirebilir. Üst süre sınırı yoktur: Öğrencilere ihtiyaç duydukları zamanı tanımak, gerekli tüm yeterlilikleri kapsamak ve modüller arasındaki bağlantıları açıkça ortaya koymak eğitmenin sorumluluğundadır.

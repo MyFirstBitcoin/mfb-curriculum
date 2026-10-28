@@ -6,6 +6,7 @@
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Pet znakova upozorenja na prijevaru: hitnost, lažno predstavljanje, promijenjeno odredište, zajamčeni prinosi i zahtjevi za tajnim podacima.](/micrographics/scam-red-flags-01/hr.md)
 
 
 Siguran odgovor uvijek glasi: **Zastanite. Ništa ne dijelite. Ništa ne šaljite. Prekinite komunikaciju. Provjerite neovisno putem poznatog izvora. Zatražite pomoć bez otkrivanja tajnih podataka.** Poznati izvor jest službena stranica, stranica aplikacije u trgovini ili način kontaktiranja do kojeg ste došli samostalno, a ne putem oglasa, izravne poruke ili neočekivane poveznice. Provjerite izdavača i mrežnu adresu, usporedite ih sa službenom dokumentacijom i zasebno pronađite podatke za kontakt. Ako se izvor, upute ili podaci za plaćanje razlikuju od prikazanog postupka, zastanite i zatražite pomoć svojeg edukatora ili pouzdane lokalne podrške bez otkrivanja [početne fraze](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) ili [privatnog ključa](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key). Prava prilika može izdržati pažljivu provjeru; prijevara često ovisi o tome da se takva provjera spriječi.

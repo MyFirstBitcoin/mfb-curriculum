@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: presentation-practice-production-01 -->
+[Pratik bir beceri soldan sağa üç aşamada öğrenilir: eğitmenin süreci ve risklerini gösterdiği Sunum; ardından güvenli eğitim materyalleriyle rehberli prova yapılan Uygulama; son olarak da öğrencinin bir görevi bağımsız olarak tamamladığı ya da bir kararı kendi başına açıkladığı Üretim.](/micrographics/presentation-practice-production-01/tr.md)
 
 
 Atölye çalışmanız şunları içerebilir:

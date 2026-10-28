@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: self-custody-responsibilities-01 -->
+[Kendali atas kunci berada di pusat delapan tanggung jawab: pencadangan, pemulihan, penerimaan, pengiriman, pemilihan alat, jalur perolehan, privasi, dan pemeriksaan penipuan. Masing-masing melindungi sesuatu, dan kegagalan dalam salah satunya dapat menyebabkan hilangnya akses, uang, atau privasi.](/micrographics/self-custody-responsibilities-01/id.md)
 
 
 
 <!-- micrographic: responsibility-checks-01 -->
+[Tabel berisi enam tugas penyimpanan mandiri, hal yang perlu dilindungi atau diperiksa untuk masing-masing tugas, dan hal yang dapat terjadi jika ada masalah: pencadangan, penerimaan, pengiriman, penyimpanan, pemilihan alat, dan perolehan.](/micrographics/responsibility-checks-01/id.md)
 
 
 Bayangkan seorang teman mengirimkan permintaan pembayaran kepada Anda, sementara akun dukungan yang tidak Anda kenal mengatakan bahwa Anda harus segera bertindak. Apa yang dapat Anda periksa sebelum melakukan apa pun? Dapatkah Anda melindungi rencana pemulihan, membedakan informasi untuk menerima pembayaran dari informasi rahasia, serta memverifikasi orang yang bersangkutan, metode pembayaran, tujuan, jumlah, dan layar terakhir sebelum mengirim? Baik penyedia layanan maupun Anda sendiri yang mengendalikan kunci, rangkuman langkah praktisnya tetap sama: lindungi informasi rahasia, lakukan verifikasi sebelum menyetujui, kenali tanda-tanda penipuan, dan batasi dampak kesalahan selama belajar.

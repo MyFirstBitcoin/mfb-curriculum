@@ -22,7 +22,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.7 | [ფიატური ფული](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/1/7.md) |
 |  | 1.8 | [ნაწილობრივი რეზერვირების საბანკო სისტემა](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/1/8.md) |
 |  | 1.9 | [ინფლაცია და მსყიდველობითი უნარი](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/1/9.md) |
-|  | 1.10 | [რატომ არის აშშ-ის დოლარი მსოფლიო სარეზერვო ვალუტა?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/1/10.md) |
+|  | 1.10 | [რატომ არის აშშ დოლარი მსოფლიო სარეზერვო ვალუტა](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/1/10.md) |
 |  | 1.11 | [დაზოგვისა და ღირებულების შენარჩუნების ალტერნატივები](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/1/11.md) |
 |  | 1.12 | [ცენტრალური ბანკების ციფრული ვალუტები (CBDC-ები)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/1/12-cbdc.md) |
 |  | 1.13 | [გამეორება: როგორ შეიძლება ფული გამოვიდეს მწყობრიდან?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ka/1/13.md) |

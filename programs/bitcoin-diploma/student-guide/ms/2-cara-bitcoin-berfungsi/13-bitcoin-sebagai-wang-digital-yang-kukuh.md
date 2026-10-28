@@ -6,6 +6,7 @@ Bitcoin menggabungkan sifat-sifat yang sebelum ini tidak pernah wujud bersama da
 
 
 <!-- micrographic: bitcoin-money-properties-01 -->
+[Bitcoin menggabungkan tujuh ciri wang dalam satu aset: ketahanan, kemudahalihan, kebolehbahagian, kebolehgantian, keterhadan, kebolehsahan dan kebolehterimaan. Setiap ciri mempunyai batasan praktikal, seperti keperluan untuk menyimpan kunci dengan selamat dan tahap penerimaan yang masih rendah dalam banyak komuniti.](/micrographics/bitcoin-money-properties-01/ms.md)
 
 
 

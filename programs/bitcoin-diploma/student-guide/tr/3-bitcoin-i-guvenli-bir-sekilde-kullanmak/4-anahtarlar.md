@@ -3,6 +3,7 @@
 Bitcoin sahipliği kriptografik anahtarlar aracılığıyla sağlanır.
 
 
+<!-- card: definition -->
 > **Definition – Özel anahtar**
 >
 > Bir [özel anahtar](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), bir cüzdanın geçerli [dijital imzalar](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) oluşturmasını sağlayan gizli bilgidir. Bir imza, ilgili anahtarın kontrol ettiği bitcoin'in harcanmasına yetki verir. [Özel anahtarı](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) ele geçiren herkes genellikle bu fonları harcayabilir.
@@ -21,10 +22,10 @@ Yeni başlayanlara yönelik cüzdanların çoğu [tek imzalı yapıyı](https://
 Hiçbir meşru eğitmen, cüzdan şirketi, borsa çalışanı, teknik destek personeli veya Bitcoin geliştiricisinin [özel anahtarınıza](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) veya [kurtarma ifadenize (seed phrase)](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) ihtiyacı yoktur. Bunu isteyen herkes bir tehdit olarak görülmelidir.
 
 
-> **Light**
->
+<!-- card: light -->
 > **Deneyin:** Hazırlanmış örnekleri üç gruba ayırın: alma işlemi için paylaşılması güvenli olanlar, gizli harcama bilgileri ve herkese açık olabilen ancak bir kişiyle ilişkilendirildiğinde yine de gizli tutulması gereken bilgiler.
 
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[Asla paylaşılmaması gereken gizli bir özel anahtar, paylaşılabilen açık bilgilere yol açar: ondan türetilen bir açık anahtar ve bu açık anahtardan oluşturulan bir alıcı adresi. Aynı özel anahtar, düğümlerin özel anahtarı hiçbir zaman öğrenmeden doğruladığı imzalar oluşturur.](/micrographics/private-key-public-info-01/tr.md)

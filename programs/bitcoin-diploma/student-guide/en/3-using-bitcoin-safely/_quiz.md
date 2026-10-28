@@ -41,12 +41,12 @@ Treat a seed phrase entered online as compromised. Create a new wallet with a ne
 
 ## Question 4
 
-Custody difference?
+What is the main difference between custodial and self-custodial use?
 
 * [x] Who controls keys
 * [ ] Payment reversibility
 * [ ] Supply limit
-* [ ] Responsibility
+* [ ] Transaction fees
 
 ### Explanation
 

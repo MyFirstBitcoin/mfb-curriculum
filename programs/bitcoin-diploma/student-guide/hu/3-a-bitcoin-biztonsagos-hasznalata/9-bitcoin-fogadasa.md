@@ -12,6 +12,7 @@ A fogadás nem ad felhatalmazást arra, hogy pénz kerüljön ki a tárcájábó
 
 
 <!-- micrographic: check-what-you-receive-01 -->
+[Egy telefonon megjelenő fogadási mintaképernyő a fizetési módot, a megosztandó fizetési kérelmet, az összeget és a függőben lévő állapotot mutatja. Az „elküldve” szöveget tartalmazó üzenet vagy képernyőkép nem bizonyíték: ellenőrizze az állapotot a saját tárcájában.](/micrographics/check-what-you-receive-01/hu.md)
 
 
 Az „elküldve” feliratot tartalmazó üzenet vagy képernyőkép nem bizonyíték. Milyen bizonyítékot tud saját maga ellenőrizni? Ellenőrizze a fogadó tárcát vagy a jóváhagyott [tranzakciós](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) nézetet. A [láncon belüli fizetések esetén](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), a tárca először függőben lévőként jelenítheti meg a [tranzakciót](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction). [A megerősítés](https://curriculum.myfirstbitcoin.org/lexicon/en/#confirmation) állapota növeli a teljesülés bizonyosságát; a hibás címet vagy a csalást azonban nem orvosolja. A tárca új címet ajánlhat fel egy újabb fizetés fogadásához; a régebbi címek továbbra is működhetnek, de ugyanannak a címnek az ismételt használata megkönnyítheti a különálló fizetések összekapcsolását. Az új cím használata megnehezíti ezt az egyszerű összekapcsolást; a fizetést azonban nem teszi névtelenné.

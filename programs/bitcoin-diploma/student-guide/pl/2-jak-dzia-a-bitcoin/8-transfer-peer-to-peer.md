@@ -8,6 +8,7 @@ Peer-to-peer nie zawsze oznacza, że tylko dwa komputery komunikują się bezpo�
 
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[Nadawca podpisuje transakcję i rozsyła ją do wielu węzłów sieci, które przekazują ją dalej, aż dotrze do odbiorcy. Żaden centralny operator sieci Bitcoin nie musi zatwierdzać nadawcy ani odbiorcy.](/micrographics/peer-to-peer-route-01/pl.md)
 
 
 Użytkownicy nadal mogą korzystać z usług [pośredników](https://curriculum.myfirstbitcoin.org/lexicon/en/#intermediary). Giełda może przechowywać bitcoin dla klientów. Usługa płatnicza może uprościć obsługę faktury. Portfel zarządzany przez usługodawcę może zarządzać kluczami. Takie usługi mogą być wygodne, ale użytkownik jest wtedy zależny od zasad i bezpieczeństwa danej usługi.

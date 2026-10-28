@@ -12,6 +12,7 @@ Hãy giảng giải các hệ quả:
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Cụm từ khôi phục là một danh sách các từ theo thứ tự, ở đây là mười hai từ mẫu được đánh số và viết trên giấy. Các từ chính xác theo đúng thứ tự có thể khôi phục quyền kiểm soát trong một ví tương thích, vì vậy cụm từ này cần được giữ bí mật và lưu trữ ngoại tuyến.](/micrographics/seed-phrase-on-paper-01/vi.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
@@ -43,10 +44,12 @@ Hãy giảng giải các hệ quả:
 
 
 <!-- micrographic: recovery-practice-lanes-01 -->
+[Người học thực hiện các bước thực hành khôi phục trong một khu vực riêng tư, kiểm tra kết quả mong đợi, xóa dữ liệu trên thiết bị và trả lại hoặc tiêu hủy tài liệu giả định. Giáo viên quan sát các quyết định và cách xử lý an toàn nhưng tuyệt đối không nhìn thấy các từ khôi phục bí mật.](/micrographics/recovery-practice-lanes-01/vi.md)
 
 
 
-> **Callout – Coi cụm từ hạt giống đã bị lộ là không còn an toàn**
+<!-- card: callout -->
+> **Coi cụm từ hạt giống đã bị lộ là không còn an toàn**
 >
 > Nếu cụm từ hạt giống thật có khả năng đã bị lộ, hãy ngừng coi đó là bản sao lưu an toàn, tạo một ví mới đáng tin cậy với thông tin khôi phục mới và chuyển tiền sau khi xác minh kỹ địa chỉ đích. Học viên nên tìm kiếm sự trợ giúp mà không tiết lộ bất kỳ cụm từ nào trong hai cụm từ.
 

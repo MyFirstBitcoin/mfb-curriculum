@@ -13,3 +13,4 @@ Każda część programu Bitcoin Diploma pełni odrębną funkcję.
 
 
 <!-- micrographic: learning-ecosystem-map-01 -->
+[Przewodnik dla ucznia zawiera wyjaśnienia, Przewodnik dla nauczyciela wspiera nauczanie, a wybrane ćwiczenia z Centrum zasobów pomagają utrwalać wiedzę. Arkusz ocen przechowuje poufne wyniki oceniania.](/micrographics/learning-ecosystem-map-01/pl.md)

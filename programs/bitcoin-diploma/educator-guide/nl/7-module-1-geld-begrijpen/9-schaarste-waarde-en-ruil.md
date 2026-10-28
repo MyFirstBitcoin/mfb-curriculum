@@ -9,6 +9,7 @@ Gebruik één beperkte lokale hulpbron om vier begrippen van elkaar te ondersche
 
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Een consument met beperkt geld bekijkt de opties die voor hem liggen: eten voor vandaag, vervoer of sparen voor later. Wie voor de ene optie kiest, ziet af van de andere; dat zijn de opportuniteitskosten. Geen enkele optie wordt als de juiste aangeduid.](/micrographics/one-choice-two-uses-01/nl.md)
 
 
 Vraag de cursisten uit te leggen waarom zeldzaamheid op zich geen [waarde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) creëert. Een zeldzaam voorwerp zonder nut of vraag kan ongewenst blijven.

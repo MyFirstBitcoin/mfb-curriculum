@@ -1,5 +1,6 @@
 # 1.12 ცენტრალური ბანკების ციფრული ვალუტები (CBDC-ები)
 
+<!-- card: definition -->
 > **Definition – ცენტრალური ბანკის ციფრული ვალუტა (CBDC)**
 >
 > ეს [ცენტრალური ბანკის ციფრული ვალუტა](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), ანუ [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), არის ციფრული ფორმა [ფიატური ფულისა](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money), რომელიც გამოშვებულია როგორც [ვალდებულება](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability) რომელიმე [ცენტრალური ბანკისა](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank): ეს არის მოთხოვნის უფლება, რომელიც [ცენტრალურმა ბანკმა](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) უნდა დაუკმაყოფილოს მის მფლობელს. ის განსხვავდება როგორც ფიზიკური ნაღდი ფულისგან, ისე კომერციულ ბანკში განთავსებული ჩვეულებრივი დეპოზიტისგან, თუმცა მომხმარებლისთვის მათი გამოყენების გამოცდილება შეიძლება მსგავსი იყოს.
@@ -13,6 +14,7 @@
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[ცხრილი, რომელიც ადარებს ნაღდ ფულს, საბანკო დეპოზიტებს, საცალო CBDC-სა და ბიტკოინს ემიტენტის, ფორმის, წვდომის, ხილვადობის, მიწოდების წესებისა და გადამოწმების მიხედვით. ციფრული არ ნიშნავს დეცენტრალიზებულს: CBDC-ს კვლავ ცენტრალური ბანკი უშვებს, ხოლო მასზე წვდომა, ხილვადობა და გადამოწმება მის მოწყობაზეა დამოკიდებული.](/micrographics/cbdc-comparison-table-01/ka.md)
 
 
 ციფრული ავტომატურად არ ნიშნავს დეცენტრალიზებულს, შეზღუდული რაოდენობით არსებულს, კონფიდენციალურს ან დამოუკიდებელი შემოწმებისთვის ღიას. [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) შეიძლება ციფრულ ტექნოლოგიას იყენებდეს, მაგრამ ის მაინც არის [ფიატური ფული](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money), თუ მისი [ემიტენტი](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer), მიწოდების წესები, წვდომის წესები და გადახდის ნებართვები კვლავ ცენტრალიზებულად იმართება.

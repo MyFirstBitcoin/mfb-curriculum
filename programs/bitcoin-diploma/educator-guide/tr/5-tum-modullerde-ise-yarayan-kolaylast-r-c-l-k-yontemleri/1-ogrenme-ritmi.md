@@ -14,3 +14,4 @@
 
 
 <!-- micrographic: learning-rhythm-01 -->
+[Eğitmen amacı belirler, ön bilgileri harekete geçirir, açıklar, kontrol eder, uygulamaya rehberlik eder, bağımsız üretime davet eder, değerlendirme yapar, yansıtmaya davet eder ve bir sonraki kavramla bağlantı kurar. Belirsiz yanıtlar açıklamaya veya alıştırmaya geri dönülmesini sağlar.](/micrographics/learning-rhythm-01/tr.md)

@@ -3,6 +3,7 @@
 Každý [centralizovaný systém](https://curriculum.myfirstbitcoin.org/lexicon/en/#centralized-system) má řídicí centrum. Banka spravuje svou zákaznickou [účetní knihu](https://curriculum.myfirstbitcoin.org/lexicon/en/#ledger). Platební společnost řídí svou síť. Vláda určuje pravidla vydávání své [měny](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency).
 
 
+<!-- card: definition -->
 > **Definition – Decentralizace**
 >
 > Každý [decentralizovaný systém](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralized-system) rozděluje role a vymáhání rozhodnutí mezi mnoho nezávislých účastníků. Bitcoin nemá žádné ústředí, které by mohlo vytvářet účty, měnit zůstatky nebo schvalovat členství.
@@ -22,6 +23,7 @@ U Bitcoinu [decentralizace](https://curriculum.myfirstbitcoin.org/lexicon/en/#de
 
 
 <!-- micrographic: powers-and-limits-01 -->
+[Uživatelé, uzly, těžaři, vývojáři i služby mají určitou moc v rámci sdílených pravidel a veřejné účetní knihy Bitcoinu, ale nikdo z nich nemůže sám změnit účetní knihu ani pravidla pro všechny.](/micrographics/powers-and-limits-01/cs.md)
 
 
 [Decentralizace](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) s sebou nese i náklady. Koordinace může být pomalejší. Uživatelé musí ověřovat informace a přebírat větší odpovědnost. Neexistuje žádné centrální středisko podpory pro [síť Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). Tyto [kompromisy](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) jsou součástí návrhu, nikoli náhodnými nedostatky, které lze odstranit beze změny systému.

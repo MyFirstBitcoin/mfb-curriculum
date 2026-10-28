@@ -1,6 +1,6 @@
 # Quiz – Zrozumieć pieniądz: krótki sprawdzian
 
-## Question 1
+## Pytanie 1
 
 Dlaczego pieniądz jest akceptowany?
 
@@ -9,11 +9,11 @@ Dlaczego pieniądz jest akceptowany?
 * [ ] Usuwa wszystkie zasady
 * [ ] Zamienia usługi w dobra
 
-### Explanation
+### Wyjaśnienie
 
 Pieniądz pomaga nieznajomym koordynować wymianę w czasie, ponieważ ludzie oczekują, że inni zaakceptują go w przyszłości. Nadal zależy on od zaufania, zasad i akceptacji społecznej. Proszę wrócić do podręcznika dla uczniów, modułu 1, „Dlaczego istnieje pieniądz”.
 
-## Question 2
+## Pytanie 2
 
 Wycena, płatność, oszczędzanie: jakie funkcje?
 
@@ -22,11 +22,11 @@ Wycena, płatność, oszczędzanie: jakie funkcje?
 * [ ] Środek wymiany; środek przechowywania wartości; jednostka rozrachunkowa
 * [ ] Rzadkość; rzadkość; rzadkość
 
-### Explanation
+### Wyjaśnienie
 
 Jednostka rozrachunkowa służy do wyrażania cen, środek wymiany jest akceptowany jako zapłata, a środek przechowywania wartości pozwala zachować wartość na przyszłość. Proszę wrócić do podręcznika dla uczniów, modułu 1, „Funkcje i właściwości pieniądza”.
 
-## Question 3
+## Pytanie 3
 
 Wymiana ryżu na buty nie dochodzi do skutku: dlaczego?
 
@@ -35,11 +35,11 @@ Wymiana ryżu na buty nie dochodzi do skutku: dlaczego?
 * [ ] Brak zgody banku
 * [ ] Ryżu nie można wymieniać
 
-### Explanation
+### Wyjaśnienie
 
 Bezpośredni barter jest trudny, gdy obie osoby nie chcą w tym samym czasie tego, co oferuje druga strona. Chodzi tu o podwójną zbieżność potrzeb. Proszę wrócić do podręcznika dla uczniów, modułu 1, „Barter i podwójna zbieżność potrzeb”.
 
-## Question 4
+## Pytanie 4
 
 Ceny +10%, dochód +5%: co z siłą nabywczą?
 
@@ -48,6 +48,6 @@ Ceny +10%, dochód +5%: co z siłą nabywczą?
 * [x] Spada
 * [ ] Nie da się określić
 
-### Explanation
+### Wyjaśnienie
 
 Siła nabywcza określa, co można kupić za pieniądze. Jeśli ceny rosną szybciej niż dochód, za ten dochód można kupić mniej. Proszę wrócić do podręcznika dla uczniów, modułu 1, „Inflacja i siła nabywcza”.

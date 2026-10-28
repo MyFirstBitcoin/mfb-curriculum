@@ -10,6 +10,7 @@ Proszę narysować uproszczony bilans:
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Uproszczony schemat kredytu bankowego: kredytobiorca składa wniosek, bank zatwierdza kredyt i zapisuje nowy depozyt na rachunku kredytobiorcy, a kredytobiorca później spłaca bankowi kapitał wraz z odsetkami.](/micrographics/bank-loan-deposit-01/pl.md)
 
 
 Proszę nie posługiwać się opowieścią o „mnożniku pieniężnym” opartą na wielokrotnym deponowaniu fizycznej gotówki, jak gdyby mechanicznie opisywała działanie każdego współczesnego systemu bankowego.
@@ -21,6 +22,7 @@ Proszę rozróżnić:
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Ryzyko płynności: wielu deponentów ustawia się w kolejce, by wypłacić pieniądze dzisiaj, a bank nie ma obecnie wystarczającej ilości gotówki, choć udzielone przez niego kredyty mogą zostać spłacone później. Ryzyko niewypłacalności: kredytobiorcy przestają spłacać kredyty mieszkaniowe, a wartość aktywów banku spada poniżej jego zobowiązań.](/micrographics/liquidity-vs-solvency-01/pl.md)
 
 
 Proszę zapytać:

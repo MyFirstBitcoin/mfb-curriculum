@@ -17,3 +17,4 @@ Hiçbir meşru eğitmen, cüzdan şirketi, borsa çalışanı, geliştirici, des
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[Asla paylaşılmaması gereken gizli bir özel anahtar, paylaşılabilen açık bilgilere yol açar: ondan türetilen bir açık anahtar ve bu açık anahtardan oluşturulan bir alıcı adresi. Aynı özel anahtar, düğümlerin özel anahtarı hiçbir zaman öğrenmeden doğruladığı imzalar oluşturur.](/micrographics/private-key-public-info-01/tr.md)

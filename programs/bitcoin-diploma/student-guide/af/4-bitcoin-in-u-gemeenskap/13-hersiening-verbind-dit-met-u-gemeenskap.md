@@ -1,10 +1,12 @@
 # 4.13 Hersiening: Verbind dit met u gemeenskap
 
 <!-- micrographic: community-review-path-01 -->
+[’n Beoordelingsroete vir ’n plaaslike Bitcoin-voorbeeld: begin by ’n werklike behoefte, bepaal of Bitcoin geskik is, beoordeel dan die betaalmetode, bewaring, totale koste, veiligheid en plaaslike omstandighede, en sluit af met bewyse van sukses.](/micrographics/community-review-path-01/af.md)
 
 
 
 <!-- micrographic: community-review-table-01 -->
+[’n Hersieningstabel vir die plaaslike voorbeeld: vir elke onderwerp, van die werklike behoefte tot ’n verantwoordelike volgende stap, is daar ’n vraag om te vra en ’n opsionele ruimte vir u eie aantekeninge.](/micrographics/community-review-table-01/af.md)
 
 
 Voltooi hierdie hersiening individueel en vergelyk dan u redenasie met dié van u span of leergroep. Oorweeg die plaaslike voorbeeld wat u bestudeer het: watter werklike behoefte het dit aangespreek, watter funksie van geld was betrokke, en is [waarde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) op die blokketting, deur Lightning, of albei verskuif? Vra wie die sleutels beheer het, wat die grootste voordeel en ernstigste risiko was, en hoe plaaslike wetgewing, infrastruktuur, taal of kultuur die uitkoms beïnvloed het. ’n Verantwoordelike volgende stap is een wat by die plaaslike konteks pas, koste en [bewaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) duidelik maak, foute en swendelary beperk en aan die hand van bewyse geëvalueer kan word.

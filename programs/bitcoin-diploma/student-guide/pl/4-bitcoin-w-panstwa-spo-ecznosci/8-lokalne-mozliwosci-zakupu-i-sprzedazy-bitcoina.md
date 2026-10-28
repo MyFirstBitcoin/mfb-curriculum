@@ -24,6 +24,7 @@ W przypadku wymiany osobistej proszę wybrać odpowiednie miejsce publiczne, uni
 
 
 <!-- micrographic: compare-local-pathways-01 -->
+[Pusta tabela do porównania trzech lokalnych opcji, A, B i C, pod względem nazwy, wymogów KYC, modelu przechowywania środków, obsługiwanych sieci, reputacji i metod zasilania konta, z miejscem na uwagi.](/micrographics/compare-local-pathways-01/pl.md)
 
 
 

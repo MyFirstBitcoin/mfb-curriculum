@@ -4,6 +4,7 @@ Huminto muna at pag-isipan ninyo kung paano tumutugon ang mga pampublikong tuntu
 
 
 <!-- micrographic: bitcoin-responses-tradeoffs-01 -->
+[Isang talahanayan na nagtatapat ng limang posibleng kahinaan ng mga makabagong sistema ng pera sa tugon ng Bitcoin at sa bagong responsibilidad o kapalit na limitasyong dulot ng bawat tugon. Pinapalitan ng Bitcoin ang ilang bahagi ng pagtitiwala sa mga institusyon ng beripikasyon at personal na responsibilidad, ngunit hindi nito inaalis ang panganib.](/micrographics/bitcoin-responses-tradeoffs-01/tl.md)
 
 
 **Mahalagang pag-isipan:** Batay sa inyong natutuhan tungkol sa Bitcoin sa modyul na ito, mayroon ba itong [halaga](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) para sa inyo? Ang kasalukuyang [presyo](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) ba ng bitcoin ay kumakatawan sa [halaga nito](https://curriculum.myfirstbitcoin.org/lexicon/en/#value)?

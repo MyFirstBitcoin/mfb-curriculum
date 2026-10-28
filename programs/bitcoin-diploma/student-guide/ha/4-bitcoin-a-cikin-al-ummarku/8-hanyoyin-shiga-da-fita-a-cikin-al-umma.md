@@ -24,6 +24,7 @@ Don musaya ido-da-ido, ku yi amfani da wurin jama'a da ya dace, ku guji ɗaukar 
 
 
 <!-- micrographic: compare-local-pathways-01 -->
+[Tebur marar komai don kwatanta hanyoyi uku na gida, A, B da C, bisa suna, bukatun KYC, tsarin riƙon kadarori, cibiyoyin sadarwar da ake tallafawa, ƙima a idon jama'a da hanyoyin saka kuɗi, tare da sarari don bayanan kula.](/micrographics/compare-local-pathways-01/ha.md)
 
 
 

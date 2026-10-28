@@ -4,12 +4,14 @@ Libatkan tiga orang yang barang dan kebutuhannya tidak saling cocok. Pertama, bi
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina memiliki beras dan menginginkan sepatu, Luis memiliki sepatu dan menginginkan minyak goreng, dan Mei memiliki minyak goreng dan menginginkan jasa perbaikan. Tidak ada pasangan yang dapat melakukan barter secara langsung karena dalam setiap pasangan tidak ada kecocokan antara yang diinginkan dan yang ditawarkan.](/micrographics/barter-mismatch-01/id.md)
 
 
 Kemudian perkenalkan alat tukar yang diterima secara umum.
 
 
 <!-- micrographic: sell-then-buy-01 -->
+[Amina menjual beras kepada seseorang untuk mendapatkan uang yang diterima secara umum, lalu menggunakan uang itu untuk membeli sepatu dari orang lain. Menjual dan membeli menjadi dua tindakan yang terpisah.](/micrographics/sell-then-buy-01/id.md)
 
 
 Tanyakan:

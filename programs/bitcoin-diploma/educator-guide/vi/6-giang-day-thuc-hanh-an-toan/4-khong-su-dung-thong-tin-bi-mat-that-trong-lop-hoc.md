@@ -1,6 +1,7 @@
 # 6.4 Không sử dụng thông tin bí mật thật trong lớp học
 
-> **Callout – Không sử dụng thông tin bí mật thật trong lớp học**
+<!-- card: callout -->
+> **Không sử dụng thông tin bí mật thật trong lớp học**
 >
 > Sử dụng các từ khôi phục đã chuẩn bị sẵn, tài liệu đào tạo được ghi nhãn rõ ràng hoặc ví dùng một lần không có tiền để thực hành khôi phục. Tuyệt đối không sử dụng ví cá nhân hoặc ví có tiền của học viên, cũng không tạo ra quy trình cho phép bất kỳ ai nhìn thấy thông tin khôi phục có giá trị sử dụng lâu dài.
 >

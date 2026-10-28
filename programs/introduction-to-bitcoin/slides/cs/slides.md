@@ -40,7 +40,8 @@ Ne ho vydělávat, ne ho utrácet, ale přemýšlet o tom, co to je a jak to fun
 * Koupíte si za své peníze stejné množství jako dříve?
 
 
-> **Callout – Uschovejte si své odpovědi**
+<!-- card: callout -->
+> **Uschovejte si své odpovědi**
 >
 > Na každou otázku napište krátkou odpověď. Na konci se k nim vrátíte.
 
@@ -85,6 +86,7 @@ Oba lidé musí chtít to, co má ten druhý, a to ve stejnou dobu a ve vhodném
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina má rýži a chce boty, Luis má boty a chce olej na vaření a Mei má olej na vaření a chce opravářské práce. Žádná dvojice nemůže směňovat přímo, protože ani jeden z dvojice nechce to, co nabízí ten druhý.](/micrographics/barter-mismatch-01/cs.md)
 
 <!-- notes: Použijte příklad z příručky: pěstujete rýži a potřebujete boty, ale švec chce olej na vaření, nikoli rýži. Ekonomové tomu říkají dvojí shoda potřeb. -->
 
@@ -151,6 +153,7 @@ Když lidé slyší slovo inflace, obvykle si představí růst cen.
 ## Inflace a kupní síla
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Za stejných 100 jednotek měny si můžete koupit celý koš základního zboží, když stojí 100, ale ne tehdy, když stejný koš stojí 110. Cenová hladina vzrostla a kupní síla peněz klesla.](/micrographics/same-money-smaller-basket-01/cs.md)
 
 <!-- notes: Cenová inflace je trvalý růst celkové cenové hladiny. Její druhou stranou je kupní síla: kolik si lze za jednotku peněz koupit. Pokud cena koše základního zboží vzroste ze 100 měnových jednotek na 110, za stejných 100 jednotek si již celý koš nekoupíte. -->
 
@@ -213,8 +216,7 @@ Zůstatek na bankovním účtu se liší od hotovosti, kterou máte v ruce: je t
 * Jeho nabídka a pravidla se však mohou měnit a lidé, kteří ho používají, do toho nemají příliš co mluvit
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Proto lidé hledají alternativy a proto vznikl Bitcoin.
 
 ---
@@ -233,6 +235,7 @@ Digitální peníze, které jsou decentralizované, mají omezenou zásobu a lze
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[U platební společnosti vede účetní knihu a schvaluje každý převod jedna organizace. V síti Bitcoin odesílatel podepisuje transakci, nezávislé uzly ji ověřují a těžaři ji přidávají do jedné sdílené účetní knihy, takže příjemce méně závisí na centrální autoritě.](/micrographics/central-ledger-vs-bitcoin-01/cs.md)
 
 <!-- notes: Před vznikem Bitcoinu záviselo posílání peněz přes internet vždy na důvěryhodné organizaci: bance nebo platební společnosti, která vedla účetní knihu, schvalovala účty a mohla platbu zpozdit, zablokovat nebo zvrátit. Digitální informace lze snadno kopírovat: pokud by se digitální mince dala utratit dvakrát, nemohla by fungovat jako peníze. Tomu se říká problém dvojí útraty. Satoshi Nakamoto je osoba nebo skupina používající toto jméno. -->
 
@@ -253,6 +256,7 @@ Digitální peníze, které jsou decentralizované, mají omezenou zásobu a lze
 ## Limit, který si může ověřit každý
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Limit množství v oběhu uvedený na webu nebo v databázi vydavatele může tento vydavatel potají změnit. Pravidlo Bitcoinu pro množství v oběhu je veřejné a podpisy, veřejná historie, důkaz prací a ověřování uzly společně brání svévolnému vytváření nových mincí i tomu, aby byl tentýž bitcoin utracen dvakrát.](/micrographics/claimed-or-verified-supply-01/cs.md)
 
 <!-- notes: Nové bitcoiny se uvolňují podle veřejně známého harmonogramu a nezávislé počítače zvané uzly odmítají každý blok, který toto pravidlo porušuje. Tento limit je důvěryhodný, protože si jej může kdokoli ověřit. Není to přírodní zákon: platí proto, že jej účastníci neustále vynucují. Omezená nabídka nezaručuje, že cena poroste; cena závisí nejen na nabídce, ale i na poptávce. -->
 
@@ -264,6 +268,7 @@ Jeden bitcoin se dělí na 100 000 000 menších jednotek zvaných satoshi, zkr�
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Tabulka se dvěma sloupci: 1 BTC je 100 000 000 sats, 0,1 BTC je 10 000 000 sats, 0,01 BTC je 1 000 000 sats, 0,001 BTC je 100 000 sats a 0,00000001 BTC je 1 sat.](/micrographics/bitcoin-and-sats-01/cs.md)
 
 <!-- notes: Vlastnit 100 000 sats a vlastnit 0,001 bitcoin znamená vlastnit stejnou částku. Vysvětlete mylnou představu, že Bitcoin je nedostupný, protože jeden bitcoin je drahý. -->
 
@@ -272,6 +277,7 @@ Jeden bitcoin se dělí na 100 000 000 menších jednotek zvaných satoshi, zkr�
 ## Kdo udržuje Bitcoin v chodu?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Čtyři role v síti Bitcoin: uživatelé přijímají, drží a odesílají bitcoin, uzly nezávisle ověřují dodržování pravidel, těžaři sestavují kandidátní bloky s důkazem prací a vývojáři navrhují software. Žádná jednotlivá role síť neovládá.](/micrographics/bitcoin-participant-roles-01/cs.md)
 
 <!-- notes: Uživatelé posílají, přijímají a uchovávají bitcoin; uzly kontrolují, zda každá transakce a každý blok splňují pravidla; těžaři soutěží o přidání nového bloku do záznamu přibližně každých deset minut. Tento záznam, blockchain, je veřejný a jeho přepsání je velmi nákladné. Poznámka k pravopisu: Bitcoin s velkým B obvykle označuje síť nebo systém; bitcoin s malým b označuje samotné peníze. -->
 
@@ -307,6 +313,7 @@ První otázka u každé peněženky: kdo má kontrolu nad klíči?
 ## Peněženka spravuje klíče
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Peněženka uchovává klíče. Pomocí nich můžete přijímat a odesílat bitcoin, zatímco samotný bitcoin zůstává zaznamenán ve sdílené účetní knize, nikoli uvnitř telefonu nebo zařízení.](/micrographics/wallet-manages-keys-01/cs.md)
 
 <!-- notes: Bitcoinová peněženka je nástroj, obvykle aplikace, který vám umožňuje přijímat bitcoin, kontrolovat zůstatek a odesílat bitcoin. Váš bitcoin není uložen ve vašem telefonu: je zaznamenán na blockchainu. Peněženka spravuje klíče, které vám umožňují prokázat, že bitcoin patří vám, a autorizovat platbu. -->
 
@@ -331,6 +338,7 @@ Uspořádaný seznam slov, často 12 nebo 24, pomocí kterého lze obnovit vaše
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Obnovovací fráze je uspořádaný seznam slov, zde dvanáct očíslovaných ukázkových slov napsaných na papíře. Správná slova ve správném pořadí umožňují obnovit kontrolu nad prostředky v kompatibilní peněžence, proto se fráze uchovává v tajnosti a offline.](/micrographics/seed-phrase-on-paper-01/cs.md)
 
 <!-- notes: Seed fráze není jen záloha: poskytuje plný přístup. Při vytváření peněženky si ji přesně zapište na papír; uchovávejte ji offline, v soukromí a na místě, kde se neztratí ani nepoškodí. Nikdy ji nefotografujte, neposílejte e-mailem, neukládejte do cloudových poznámek, neposílejte ve zprávě ani nezadávejte na webové stránce. Zobrazená slova jsou pouze ukázková; skutečnou seed frázi nikdy neukazujte ani od nikoho nevyžadujte. -->
 
@@ -365,6 +373,7 @@ Uspořádaný seznam slov, často 12 nebo 24, pomocí kterého lze obnovit vaše
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Platby na blockchainu se zaznamenávají přímo do blockchainu Bitcoinu, zatímco Lightning je platební síť postavená na Bitcoinu pro rychlé a časté platby, které však mohou i selhat. Obě možnosti mohou využívat správu prostředků třetí stranou nebo vlastní správu prostředků.](/micrographics/on-chain-and-lightning-01/cs.md)
 
 ---
 
@@ -375,7 +384,8 @@ Uspořádaný seznam slov, často 12 nebo 24, pomocí kterého lze obnovit vaše
 * **Nedůvěřujte, ověřujte.** Ověřte si danou osobu, platební metodu, adresu a částku.
 
 
-> **Callout – Sdílejte údaje pro příjem plateb, nikdy ne tajné údaje**
+<!-- card: callout -->
+> **Sdílejte údaje pro příjem plateb, nikdy ne tajné údaje**
 >
 > Adresu nebo žádost o platbu můžete sdílet. Obnovovací frázi ani soukromý klíč nikdy nesdílejte. Žádný důvěryhodný vzdělavatel, poskytovatel peněženky ani pracovník podpory vás o tyto údaje nikdy nepožádá.
 
@@ -389,6 +399,7 @@ Zastavte se, pokud někdo vytváří pocit naléhavosti nebo vyžaduje utajení,
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Pět varovných signálů podvodu: naléhavost, vydávání se za někoho jiného, změněný cíl platby, zaručené výnosy a žádosti o tajné údaje.](/micrographics/scam-red-flags-01/cs.md)
 
 ---
 
@@ -408,7 +419,8 @@ To je teprve začátek.
 * **Tohle je teprve začátek.** Stačí jeden další bezpečný krok.
 
 
-> **Callout – Chvilka k zamyšlení**
+<!-- card: callout -->
+> **Chvilka k zamyšlení**
 >
 > Vraťte se k pěti otázkám ze začátku. Jak byste odpověděli nyní?
 

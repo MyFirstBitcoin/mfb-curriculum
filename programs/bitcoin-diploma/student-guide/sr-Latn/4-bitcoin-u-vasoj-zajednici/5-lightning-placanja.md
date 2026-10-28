@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[Primalac na svom telefonu kreira zahtev za plaćanje putem mreže Lightning sa navedenim iznosom, pošiljalac ga skenira i plaća, a uplata trenutak kasnije stiže na telefon primaoca.](/micrographics/lightning-phone-payment-01/sr-Latn.md)
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Lightning plaćanje u šest koraka: primalac kreira zahtev, pošiljalac ga skenira, proverava primaoca, iznos, jedinicu, rok važenja i naknadu, odobrava plaćanje, plaćanje se usmerava kroz mrežu, a oba novčanika prikazuju rezultat. Svaki novčanik može biti kastodijalni ili samokastodijalni, a ako plaćanje ne uspe ili zahtev istekne, postupak počinje ponovo s novim zahtevom.](/micrographics/lightning-payment-sequence-01/sr-Latn.md)
 
 
 Lightning može učiniti brza, mala Bitcoin plaćanja praktičnim. Može biti pogodan za plaćanje na kasi, ponovljena lokalna plaćanja, onlajn usluge ili prenose kod kojih bi naknada za transakciju na lancu bila prevelika u odnosu na iznos plaćanja.

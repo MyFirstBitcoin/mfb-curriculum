@@ -14,6 +14,7 @@ Uang yang berguna juga cenderung memiliki beberapa sifat:
 
 
 <!-- micrographic: money-property-questions-01 -->
+[Tujuh sifat uang yang berguna, masing-masing disertai pertanyaan untuk diajukan saat membandingkan berbagai bentuk uang: daya tahan, kemudahan dibawa, keterbagian, kesepadanan, kelangkaan, keberterimaan, dan kemudahan verifikasi.](/micrographics/money-property-questions-01/id.md)
 
 
 Tidak ada bentuk uang yang mendapat nilai sempurna.
@@ -22,6 +23,7 @@ Orang juga membandingkan uang berdasarkan [**kesehatannya**](https://curriculum.
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Dua lapisan: tiga fungsi uang (alat tukar, satuan hitung, penyimpan nilai) bertumpu pada tujuh sifat (ketahanan, kemudahan dibawa, keterbagian, kesalingtergantian, kelangkaan, keberterimaan, dan keterverifikasian).](/micrographics/functions-and-properties-01/id.md)
 
 
 [Emas](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) tahan lama dan langka, tetapi sulit dibagi dan dibawa untuk pembayaran bernilai kecil. [Uang kertas](https://curriculum.myfirstbitcoin.org/lexicon/en/#paper-cash) mudah dibawa dan diterima secara lokal, tetapi dapat rusak dan jumlahnya dapat bertambah. Perbandingan yang paling tepat bergantung pada tujuan, tempat, dan waktu.

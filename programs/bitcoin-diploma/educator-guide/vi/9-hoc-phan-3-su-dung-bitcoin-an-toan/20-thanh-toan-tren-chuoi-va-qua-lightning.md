@@ -18,3 +18,4 @@ Lightning không phải là một đồng tiền riêng biệt. Một khoản th
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Các khoản thanh toán trên chuỗi được ghi lại trực tiếp trên chuỗi khối của Bitcoin, còn Lightning là một mạng thanh toán được xây dựng trên Bitcoin để thực hiện các khoản thanh toán nhanh chóng, thường xuyên nhưng cũng có thể thất bại. Cả hai phương thức đều có thể sử dụng dịch vụ lưu ký hoặc tự lưu ký.](/micrographics/on-chain-and-lightning-01/vi.md)

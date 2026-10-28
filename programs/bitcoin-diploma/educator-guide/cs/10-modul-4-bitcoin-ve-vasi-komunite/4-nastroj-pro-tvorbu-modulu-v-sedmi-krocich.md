@@ -1,6 +1,7 @@
 # 10.4 Nástroj pro tvorbu modulu v sedmi krocích
 
 <!-- micrographic: seven-step-module-builder-01 -->
+[Sedm kroků plánování vede od místního kontextu a potřeby k jasně zaměřenému a ověřenému úkolu, bezpečné posloupnosti výuky, jasnému hodnocení a závěrečné reflexi. Stávající alternativa zůstává na zřeteli a nevhodná možnost vede zpět k plánování.](/micrographics/seven-step-module-builder-01/cs.md)
 
 
 #### 1. Poznejte místní kontext

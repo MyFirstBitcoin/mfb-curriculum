@@ -6,6 +6,7 @@ Pinagsasama ng Bitcoin ang mga katangiang hindi dating magkakasamang taglay ng i
 
 
 <!-- micrographic: bitcoin-money-properties-01 -->
+[Pinagsasama ng Bitcoin ang pitong katangian ng pera sa iisang ari-arian: tibay, daling dalhin, kakayahang hatiin, kakayahang ipagpalit sa kaparehong yunit, limitadong suplay, kakayahang mapatunayan ang pagiging tunay, at pagtanggap bilang pambayad. Bawat isa ay may mga limitasyon sa aktuwal na paggamit, gaya ng pangangailangang panatilihing ligtas ang mga susi at pagtanggap na mababa pa rin sa maraming komunidad.](/micrographics/bitcoin-money-properties-01/tl.md)
 
 
 

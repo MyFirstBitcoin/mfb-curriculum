@@ -1,5 +1,6 @@
 # 1.12 Keskuspankkien digitaaliset valuutat (CBDC:t)
 
+<!-- card: definition -->
 > **Definition – Keskuspankin digitaalinen valuutta (CBDC)**
 >
 > Eräs [keskuspankin digitaalinen valuutta](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) eli [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) on digitaalista [fiat-rahaa](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money), joka lasketaan liikkeeseen [velkana](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability) ja jonka liikkeeseenlaskija on [keskuspankki](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank): se on saaminen, jonka [keskuspankki](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) on velkaa sen haltijalle. Se eroaa fyysisestä käteisestä ja tavallisesta liikepankkitalletuksesta, vaikka käyttökokemus voi vaikuttaa samankaltaiselta.
@@ -13,6 +14,7 @@ Kysykää seuraavaksi, mitä ratkaisu mahdollistaa. Säännöistä riippuen [CBD
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[Taulukko, jossa verrataan käteistä, pankkitalletuksia, yleisön käyttöön tarkoitettua digitaalista keskuspankkirahaa ja Bitcoinia liikkeeseenlaskijan, muodon, käyttömahdollisuuksien, maksujen näkyvyyden, rahan määrää koskevien sääntöjen ja varmentamisen osalta. Digitaalinen ei tarkoita samaa kuin hajautettu: digitaalinen keskuspankkiraha on edelleen keskuspankin liikkeeseen laskemaa, ja sen käyttömahdollisuudet, maksujen näkyvyys ja varmentaminen riippuvat sen toteutustavasta.](/micrographics/cbdc-comparison-table-01/fi.md)
 
 
 Digitaalisuus ei automaattisesti tarkoita hajautuneisuutta, niukkuutta, yksityisyyttä tai mahdollisuutta riippumattomaan todentamiseen. [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) voi hyödyntää digitaalista teknologiaa, mutta se on silti [fiat-rahaa](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money), jos sen [liikkeeseenlaskija](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer), rahan tarjontaa koskevat säännöt, käyttöoikeussäännöt ja maksuluvat pysyvät keskitetysti hallittuina.

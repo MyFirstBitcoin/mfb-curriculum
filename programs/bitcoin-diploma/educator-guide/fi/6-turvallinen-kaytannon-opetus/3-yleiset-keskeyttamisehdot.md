@@ -1,6 +1,7 @@
 # 6.3 Yleiset keskeyttämisehdot
 
-> **Callout – Keskeyttäkää heti, kun turvallisuustarkistus epäonnistuu**
+<!-- card: callout -->
+> **Keskeyttäkää heti, kun turvallisuustarkistus epäonnistuu**
 >
 > Keskeyttäminen on onnistunutta turvallista toimintaa. Suojelkaa ihmisiä ja salassa pidettäviä tietoja, varmistakaa ongelma ja käyttäkää ennalta valmisteltua turvallista toimintatapaa tai lykätkää harjoitusta. Älkää häpäiskö oppijaa, joka huomaa ongelman.
 
@@ -20,6 +21,7 @@ Keskeyttäkää harjoitus välittömästi, jos:
 
 
 <!-- micrographic: stop-when-check-fails-01 -->
+[Vaarallinen tai selittämätön tilanne keskeyttää toiminnan. Opettaja suojelee ihmisiä ja salaisuuksia sekä varmistaa ongelman; turvallisuuden kannalta kriittinen arviointivirhe kirjataan tuloksella Ei vielä, ja oppija palauttaa tilanteen lähtötilaan, harjoittelee ja arvioidaan uudelleen myöhemmin.](/micrographics/stop-when-check-fails-01/fi.md)
 
 
 ![Opettaja nostaa avoimen kämmenensä keskeyttääkseen harjoituksen, samalla kun aloittelija laskee puhelimensa ja teknisesti osaava oppija sulkee kannettavan tietokoneen kannen osittain.](https://cdn.sanity.io/images/vje9ehw2/production/adb5c936fe5622b3c0b62f060349af1097eee5b0-1055x1491.png)

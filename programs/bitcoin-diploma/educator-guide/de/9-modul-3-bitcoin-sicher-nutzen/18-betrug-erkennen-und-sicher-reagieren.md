@@ -19,6 +19,7 @@ Verwenden Sie die Standardreaktion:
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Fünf Warnsignale für Betrug: Zeitdruck, Identitätsbetrug, eine geänderte Zieladresse, garantierte Renditen und Forderungen nach Geheimnissen.](/micrographics/scam-red-flags-01/de.md)
 
 
 #### Aktivität: Betrugsstationen

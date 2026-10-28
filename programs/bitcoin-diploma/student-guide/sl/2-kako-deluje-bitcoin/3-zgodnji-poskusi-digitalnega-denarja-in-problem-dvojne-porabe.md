@@ -11,6 +11,7 @@ Bitcoin ni bil prvi poskus ustvarjanja digitalnega denarja. Temeljil je na štir
 Ti poskusi so skupaj razkrili uporabne koščke sestavljanke. Razjasnili so tudi težavo, ki je še ostala.
 
 
+<!-- card: definition -->
 > **Definition – Dvojna poraba**
 >
 > [Dvojna poraba](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending) je poskus pošiljanja iste digitalne enote dvema prejemnikoma. Digitalne podatke je mogoče popolnoma kopirati, zato digitalni denarni sistem potrebuje način za ugotavljanje, katera [transakcija](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) je veljavna.
@@ -28,6 +29,7 @@ Bela knjiga je združila značilnosti, potrebne za ta pristop:
 
 
 <!-- micrographic: five-part-response-01 -->
+[Pet sestavnih delov skupaj rešuje problem dvojne porabe: omrežje enakovrednih udeležencev, digitalni podpisi, bloki in rudarjenje, neodvisno preverjanje ter skupna zgodovina z največ zbranimi dokazi o delu. Skupaj omrežju omogočajo, da zavrne ponovno porabo brez osrednjega organa.](/micrographics/five-part-response-01/sl.md)
 
 
 Ta modul podrobneje pojasnjuje te koncepte. Skupaj so ponudili praktično rešitev za [problem dvojne porabe](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): omrežje lahko zavrne drugi poskus porabe istega bitcoina, ne da bi se zanašalo na osrednjo avtoriteto. Bitcoin je ponudil manjkajočo kombinacijo, ki so jo desetletja iskali s poskusi ustvarjanja digitalnega denarja.

@@ -1,5 +1,6 @@
 # 3.3 Adresser
 
+<!-- card: definition -->
 > **Definition – Bitcoin-adress**
 >
 > En [Bitcoin-adress](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) är offentlig mottagningsinformation för en [betalning på blockkedjan](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment). En plånbok visar den normalt som text och en QR-kod så att någon annan kan skicka bitcoin till er. Till skillnad från ett lösenord eller en [privat nyckel](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) kan en adress inte godkänna att medel spenderas.
@@ -7,6 +8,7 @@
 
 
 <!-- micrographic: address-two-formats-01 -->
+[En plånboks mottagningsskärm visar en exempeladress för Bitcoin två gånger: som QR-kod och som text. Båda visar samma offentliga mottagningsinformation, och ingen av dem kan godkänna utbetalningar.](/micrographics/address-two-formats-01/sv.md)
 
 
 Om ni vill ta emot en [betalning på blockkedjan](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), varifrån ska adressen komma? Öppna den avsedda plånboken och använd dess mottagningsvy. En avsändare kan skanna QR-koden eller kopiera adressen. På så sätt undviks de misstag som kan uppstå när långa teckensträngar skrivs in för hand.
@@ -15,9 +17,9 @@ Bekräfta den avsedda betalningsmetoden för varje betalningsbegäran. En adress
 
 
 <!-- micrographic: sample-lightning-invoice-01 -->
+[Ett exempel på en Lightning-faktura på en skärm visar betalningsmetod, mottagare och belopp bredvid dess QR-kod. De läsbara uppgifterna och QR-koden är samma betalningsbegäran i två format.](/micrographics/sample-lightning-invoice-01/sv.md)
 
 
 
-> **Light**
->
+<!-- card: light -->
 > När en betalning är viktig ska ni inte bedöma en adress som säker enbart för att den ser bekant ut. Bekräfta den avsedda mottagaren, rätt [Bitcoin-nätverk](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network), destination och betalningsmetod. Gör först en liten testbetalning när tillvägagångssättet eller beloppet är obekant.

@@ -29,3 +29,4 @@ Questa attività rende visibile la [privacy](https://curriculum.myfirstbitcoin.o
 
 
 <!-- micrographic: address-reuse-linkage-01 -->
+[Diversi pagamenti fittizi condividono un unico indirizzo riutilizzato e sono facilmente collegabili. Usare nuovi indirizzi di ricezione riduce questo collegamento diretto, ma informazioni esterne e ricerche sugli explorer possono comunque rivelare relazioni, e i dati pubblici non dimostrano di per sé l'identità di una persona.](/micrographics/address-reuse-linkage-01/it.md)

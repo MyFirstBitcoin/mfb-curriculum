@@ -1,5 +1,6 @@
 # 1.4 Blagovna menjava in dvojno sovpadanje želja
 
+<!-- card: definition -->
 > **Definition – Blagovna menjava**
 >
 > [Blagovna menjava](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) je neposredna izmenjava ene dobrine ali storitve za drugo. Dobro lahko deluje pri manjših izmenjavah, vendar postane težavna, ko je vključenih veliko ljudi in izdelkov.
@@ -11,6 +12,7 @@ Predstavljajte si, da **Amina** ima riž in želi čevlje. **Luis** ima čevlje,
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina ima riž in želi čevlje, Luis ima čevlje in želi jedilno olje, Mei pa ima jedilno olje in želi popravila. Noben par ne more opraviti neposredne menjave, saj nobena oseba v paru ne želi tega, kar ponuja druga.](/micrographics/barter-mismatch-01/sl.md)
 
 
 Da bi [blagovna menjava](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) delovala neposredno, si mora vsak želeti tisto, kar druga oseba ponuja, in sicer ob istem času in v ustreznih količinah. Ekonomisti to imenujejo [**dvojno sovpadanje potreb**](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-coincidence-of-wants).
@@ -31,3 +33,4 @@ Splošno sprejet denar loči prodajo od nakupa. Amina lahko eni osebi proda riž
 
 
 <!-- micrographic: sell-then-buy-01 -->
+[Amina proda riž eni osebi za splošno sprejet denar, nato pa s tem denarjem pozneje kupi čevlje od nekoga drugega. Prodaja in nakup postaneta ločeni dejanji.](/micrographics/sell-then-buy-01/sl.md)

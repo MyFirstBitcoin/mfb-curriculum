@@ -4,6 +4,7 @@ Présentez [l’inflation des prix](https://curriculum.myfirstbitcoin.org/lexico
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Les mêmes 100 unités de monnaie permettent d’acheter tout le panier de biens de première nécessité lorsqu’il coûte 100, mais pas lorsque ce même panier coûte 110. Le niveau des prix a augmenté et le pouvoir d’achat de la monnaie a diminué.](/micrographics/same-money-smaller-basket-01/fr-FR.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)

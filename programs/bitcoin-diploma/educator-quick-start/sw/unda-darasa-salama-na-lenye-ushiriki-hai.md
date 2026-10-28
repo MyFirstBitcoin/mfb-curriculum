@@ -1,6 +1,7 @@
 # Unda darasa salama na lenye ushiriki hai
 
-> **Callout – Walindeni wanafunzi kabla shughuli za vitendo hazijaanza**
+<!-- card: callout -->
+> **Walindeni wanafunzi kabla shughuli za vitendo hazijaanza**
 >
 > Kamwe msiombe, msitazame, msipige picha, msinakili, msirekodi, wala msihifadhi kifungu halisi cha maneno ya urejeshaji (seed phrase), ufunguo wa kibinafsi, nenosiri, au taarifa za kifedha zisizo za lazima. Msimshinikize mtu yeyote kununua, kuuza, kushikilia, au kutumia bitcoin. Simameni kila mwanafunzi anapokuwa na shaka, anaposhinikizwa, au anapokabiliwa na uwezekano wa utapeli.
 

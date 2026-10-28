@@ -1,53 +1,53 @@
-# Quiz – Utiliser Bitcoin en toute sécurité : vérification rapide
+# Quiz – Utiliser Bitcoin en toute sécurité : quiz rapide
 
 ## Question 1
 
 Un portefeuille Bitcoin :
 
 * [ ] Stocke des bitcoins
-* [x] Gère les clés et signe
+* [x] Gère les clés et signe les transactions
 * [ ] Supprime la protection des secrets
 * [ ] Annule les transactions
 
-### Explanation
+### Explication
 
-Bitcoin est enregistré dans le registre partagé ; un portefeuille gère les informations permettant d’y accéder et de l’utiliser. Consultez le Guide de l’étudiant, module 3, « Portefeuilles ».
+Bitcoin est enregistré dans le registre partagé ; un portefeuille gère les informations permettant d’y accéder et de l’utiliser. Consultez le guide de l’élève, module 3, « Portefeuilles ».
 
 ## Question 2
 
-Que partager pour recevoir des bitcoins ?
+À partager pour recevoir des bitcoins :
 
-* [ ] La phrase de récupération
-* [ ] La clé privée
-* [x] L’adresse de réception
-* [ ] Le mot de passe
+* [ ] Phrase de récupération
+* [ ] Clé privée
+* [x] Adresse de réception
+* [ ] Mot de passe
 
-### Explanation
+### Explication
 
-Une adresse de réception peut être partagée pour recevoir un paiement. Les phrases de récupération, les clés privées et les mots de passe doivent rester secrets. Consultez le Guide de l’étudiant, module 3, « Adresses » et « Clés ».
+Une adresse de réception peut être partagée pour recevoir un paiement. Les phrases de récupération, les clés privées et les mots de passe doivent rester secrets. Consultez le guide de l’élève, module 3, « Adresses » et « Clés ».
 
 ## Question 3
 
-Vous avez saisi votre phrase de récupération en ligne. Quelle est la prochaine étape la plus sûre ?
+Phrase de récupération saisie en ligne. Quelle est la prochaine étape la plus sûre ?
 
 * [ ] Attendre
 * [ ] L’envoyer à l’assistance
-* [x] Créer une nouvelle phrase de récupération, puis transférer les fonds
+* [x] Nouvelle phrase de récupération, puis transfert des fonds
 * [ ] Réutiliser la phrase de récupération
 
-### Explanation
+### Explication
 
-Considérez toute phrase de récupération saisie en ligne comme compromise. Créez un nouveau portefeuille avec une nouvelle phrase de récupération, puis transférez les fonds uniquement après avoir vérifié la destination. Consultez le Guide de l’étudiant, module 3, « Phrases de récupération ».
+Considérez toute phrase de récupération saisie en ligne comme compromise. Créez un nouveau portefeuille avec une nouvelle phrase de récupération, puis transférez les fonds uniquement après avoir vérifié la destination. Consultez le guide de l’élève, module 3, « Phrases de récupération ».
 
 ## Question 4
 
-Quelle différence entre garde par un tiers et garde autonome ?
+Quelle est la principale différence entre la garde par un tiers et la garde autonome ?
 
 * [x] Qui contrôle les clés
 * [ ] La réversibilité des paiements
 * [ ] La limite de l’offre
-* [ ] La responsabilité
+* [ ] Les frais de transaction
 
-### Explanation
+### Explication
 
-La garde par un tiers et la garde autonome diffèrent quant à la personne qui contrôle les clés et assume la responsabilité associée. Aucune des deux ne garantit la sécurité ni la réversibilité. Consultez le Guide de l’étudiant, module 3, « Utilisation avec ou sans garde par un tiers ».
+La garde par un tiers et la garde autonome se distinguent par la personne qui contrôle les clés et assume la responsabilité associée. Aucune des deux ne garantit la sécurité ni la réversibilité des transactions. Consultez le guide de l’élève, module 3, « Garde par un tiers et garde autonome ».

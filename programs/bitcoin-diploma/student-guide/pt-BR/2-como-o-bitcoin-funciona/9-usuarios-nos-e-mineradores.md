@@ -9,6 +9,7 @@ O Bitcoin funciona porque diferentes participantes desempenham diferentes papéi
 
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Quatro papéis no Bitcoin: usuários recebem, guardam e enviam bitcoin, nós verificam as regras de forma independente, mineradores montam blocos candidatos com prova de trabalho e desenvolvedores propõem software. Nenhum papel sozinho controla a rede.](/micrographics/bitcoin-participant-roles-01/pt-BR.md)
 
 
 Esses papéis limitam uns aos outros:

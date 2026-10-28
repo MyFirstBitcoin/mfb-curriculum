@@ -3,6 +3,7 @@
 Eräällä [keskitetyllä järjestelmällä](https://curriculum.myfirstbitcoin.org/lexicon/en/#centralized-system) on hallitseva keskipiste. Pankki hallitsee asiakkaidensa [tilikirjaa](https://curriculum.myfirstbitcoin.org/lexicon/en/#ledger). Maksuyhtiö hallitsee omaa verkkoaan. Valtio hallitsee liikkeeseenlaskun sääntöjä, jotka koskevat sen [valuuttaa](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency).
 
 
+<!-- card: definition -->
 > **Definition – Hajautuneisuus**
 >
 > Eräs [hajautettu järjestelmä](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralized-system) jakaa roolit ja päätösten toimeenpanon monien riippumattomien osallistujien kesken. Bitcoinilla ei ole keskustoimistoa, joka voisi luoda tilejä, muuttaa saldoja tai hyväksyä jäseniä.
@@ -22,6 +23,7 @@ Bitcoinin [hajautuneisuus](https://curriculum.myfirstbitcoin.org/lexicon/en/#dec
 
 
 <!-- micrographic: powers-and-limits-01 -->
+[Käyttäjillä, solmuilla, louhijoilla, kehittäjillä ja palveluilla on kullakin jonkin verran valtaa Bitcoinin yhteisiin sääntöihin ja julkiseen tilikirjaan, mutta mikään näistä ryhmistä ei voi yksin muuttaa tilikirjaa tai kaikkia koskevia sääntöjä.](/micrographics/powers-and-limits-01/fi.md)
 
 
 [Hajautuneisuus](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) aiheuttaa myös kustannuksia. Koordinointi voi olla hitaampaa. Käyttäjien on tarkistettava tiedot ja otettava enemmän vastuuta. Keskitettyä tukipalvelua ei ole olemassa [Bitcoin-verkolle](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). Nämä [kompromissit](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) ovat osa suunnittelua, eivät tahattomia puutteita, jotka voitaisiin poistaa muuttamatta järjestelmää.

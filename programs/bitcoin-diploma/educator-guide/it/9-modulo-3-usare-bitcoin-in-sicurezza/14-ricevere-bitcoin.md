@@ -16,6 +16,7 @@ Spieghi che un messaggio o uno screenshot con la scritta «inviato» non costitu
 
 
 <!-- micrographic: check-what-you-receive-01 -->
+[Un esempio di schermata di ricezione su un telefono mostra il metodo di pagamento, la richiesta di pagamento da condividere, l'importo e lo stato in attesa. Un messaggio o uno screenshot con scritto "inviato" non è una prova: controlli lo stato nel Suo wallet.](/micrographics/check-what-you-receive-01/it.md)
 
 
 #### Esercitazione: guida passo passo alla schermata di ricezione

@@ -1,5 +1,6 @@
 # 3.3 Indirizzi
 
+<!-- card: definition -->
 > **Definition – Indirizzo Bitcoin**
 >
 > Un [indirizzo Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) è un'informazione pubblica di ricezione per un [pagamento on-chain](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment). Di norma un wallet lo mostra come testo e come codice QR, in modo che un'altra persona possa inviarLe bitcoin. A differenza di una password o di una [chiave privata](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), un indirizzo non può autorizzare una spesa.
@@ -7,6 +8,7 @@
 
 
 <!-- micrographic: address-two-formats-01 -->
+[La schermata di ricezione di un wallet mostra due volte lo stesso indirizzo Bitcoin di esempio: come codice QR e come testo. Entrambi rappresentano le stesse informazioni pubbliche per la ricezione, e nessuno dei due può autorizzare spese.](/micrographics/address-two-formats-01/it.md)
 
 
 Se desidera ricevere un [pagamento on-chain](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), da dove dovrebbe provenire l'indirizzo? Apra il wallet previsto e utilizzi la sua schermata di ricezione. Chi invia può scansionare il codice QR o copiare l'indirizzo. In questo modo si evitano gli errori che possono verificarsi quando lunghe stringhe vengono digitate a mano.
@@ -15,9 +17,9 @@ Per ogni richiesta di pagamento, verifichi il metodo di pagamento previsto. Un i
 
 
 <!-- micrographic: sample-lightning-invoice-01 -->
+[Un esempio di fattura Lightning su uno schermo mostra il metodo di pagamento, il destinatario e l'importo accanto al relativo codice QR. I dettagli leggibili e il codice QR rappresentano la stessa richiesta di pagamento in due formati.](/micrographics/sample-lightning-invoice-01/it.md)
 
 
 
-> **Light**
->
+<!-- card: light -->
 > Quando un pagamento è importante, non consideri sicuro un indirizzo solo perché le sembra familiare. Verifichi il destinatario previsto, la corretta [rete Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network), la destinazione e il metodo di pagamento. Esegua prima un piccolo test quando la procedura o l'importo non Le sono familiari.

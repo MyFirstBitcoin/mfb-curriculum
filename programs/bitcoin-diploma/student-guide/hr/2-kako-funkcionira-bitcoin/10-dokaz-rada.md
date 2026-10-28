@@ -3,6 +3,7 @@
 ![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
+<!-- card: definition -->
 > **Definition – Dokaz rada**
 >
 > [Dokaz rada](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) je postupak kojim se [rudari](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) služe kako bi se natjecali za pravo predlaganja sljedećeg bloka.
@@ -14,6 +15,7 @@ Kada [rudar](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) pronađe [
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Rudar iznova izračunava sažetak predloženog bloka sve dok jedan rezultat ne bude manji od ciljne vrijednosti mreže, a zatim objavljuje blok mreži. Čvorovi brzo provjeravaju dokaz i poštovanje svakog pravila prije nego što se blok pridruži lancu blokova: rad je skupo obaviti, a lako provjeriti.](/micrographics/proof-of-work-process-01/hr.md)
 
 
 [Dokaz rada](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) služi u nekoliko svrha:

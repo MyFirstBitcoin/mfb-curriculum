@@ -40,7 +40,8 @@ Không phải kiếm tiền, cũng không phải tiêu tiền, mà là suy nghĩ
 * Tiền của quý vị có mua được cùng một lượng hàng hóa như trước đây không?
 
 
-> **Callout – Hãy giữ lại các câu trả lời của quý vị**
+<!-- card: callout -->
+> **Hãy giữ lại các câu trả lời của quý vị**
 >
 > Hãy viết một câu trả lời ngắn cho mỗi câu hỏi. Quý vị sẽ xem lại các câu trả lời này ở cuối bài.
 
@@ -85,6 +86,7 @@ Cả hai người đều phải muốn thứ mà người kia có, vào cùng m�
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina có gạo và muốn giày, Luis có giày và muốn dầu ăn, còn Mei có dầu ăn và muốn dịch vụ sửa chữa. Không cặp nào có thể trao đổi trực tiếp vì không có cặp nào mà cả hai người đều muốn thứ người kia cung cấp.](/micrographics/barter-mismatch-01/vi.md)
 
 <!-- notes: Hãy sử dụng ví dụ trong tài liệu hướng dẫn: quý vị trồng lúa và cần giày, nhưng người thợ đóng giày muốn dầu ăn chứ không phải gạo. Các nhà kinh tế học gọi đây là sự trùng khớp kép về nhu cầu. -->
 
@@ -151,6 +153,7 @@ Khi nghe đến từ lạm phát, mọi người thường nghĩ đến việc g
 ## Lạm phát và sức mua
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Cùng 100 đơn vị tiền tệ có thể mua toàn bộ giỏ hàng thiết yếu khi giỏ hàng có giá 100, nhưng không thể khi cùng giỏ hàng đó có giá 110. Mức giá đã tăng và sức mua của tiền đã giảm.](/micrographics/same-money-smaller-basket-01/vi.md)
 
 <!-- notes: Lạm phát giá cả là sự gia tăng kéo dài của mặt bằng giá chung. Mặt còn lại của hiện tượng này là sức mua: lượng hàng hóa và dịch vụ mà một đơn vị tiền tệ có thể mua được. Nếu giá một giỏ hàng hóa thiết yếu tăng từ 100 đơn vị tiền tệ lên 110, thì cùng 100 đơn vị tiền tệ đó không còn mua được toàn bộ giỏ hàng. -->
 
@@ -213,8 +216,7 @@ Số dư tài khoản ngân hàng khác với tiền mặt trong tay quý vị: 
 * Nhưng nguồn cung và các quy tắc của nó có thể thay đổi, còn những người sử dụng nó lại có ít quyền lên tiếng
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Đó là lý do mọi người tìm kiếm các giải pháp thay thế, và cũng là lý do Bitcoin ra đời.
 
 ---
@@ -233,6 +235,7 @@ Tiền kỹ thuật số có tính phi tập trung, có nguồn cung giới hạ
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Với công ty thanh toán, một tổ chức lưu giữ sổ cái và phê duyệt từng giao dịch chuyển tiền. Với Bitcoin, người gửi ký một giao dịch, các nút độc lập kiểm tra giao dịch đó và thợ đào thêm giao dịch vào một sổ cái dùng chung, nhờ đó người nhận ít phụ thuộc hơn vào một cơ quan trung ương.](/micrographics/central-ledger-vs-bitcoin-01/vi.md)
 
 <!-- notes: Trước khi Bitcoin ra đời, việc gửi tiền trực tuyến luôn phụ thuộc vào một tổ chức đáng tin cậy: một ngân hàng hoặc công ty thanh toán lưu giữ sổ cái, phê duyệt tài khoản và có thể trì hoãn, chặn hoặc đảo ngược một khoản thanh toán. Thông tin kỹ thuật số rất dễ sao chép: nếu một đồng tiền kỹ thuật số có thể được chi tiêu hai lần thì nó không thể đóng vai trò là tiền. Đây là vấn đề chi tiêu hai lần. Satoshi Nakamoto là một cá nhân hoặc một nhóm sử dụng tên gọi đó. -->
 
@@ -253,6 +256,7 @@ Không công ty nào có thể đóng băng số bitcoin mà quý vị tự ki�
 ## Một giới hạn mà bất kỳ ai cũng có thể kiểm chứng
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Giới hạn nguồn cung được ghi trên trang web hoặc trong cơ sở dữ liệu của một tổ chức phát hành có thể bị chính tổ chức đó âm thầm thay đổi. Quy tắc nguồn cung của Bitcoin là công khai; chữ ký, lịch sử công khai, bằng chứng công việc và hoạt động xác minh của các nút cùng nhau ngăn chặn việc tự ý tạo ra những đồng tiền mới hoặc chi tiêu cùng một bitcoin hai lần.](/micrographics/claimed-or-verified-supply-01/vi.md)
 
 <!-- notes: bitcoin mới được phát hành theo một lịch trình công khai, và các máy tính độc lập được gọi là nút sẽ từ chối bất kỳ khối nào vi phạm quy tắc đó. Giới hạn này đáng tin cậy vì bất kỳ ai cũng có thể kiểm chứng. Đây không phải là quy luật tự nhiên: giới hạn này được duy trì vì những người tham gia liên tục thực thi nó. Nguồn cung hữu hạn không bảo đảm rằng giá sẽ tăng; giá phụ thuộc vào cả cung lẫn cầu. -->
 
@@ -264,6 +268,7 @@ Một bitcoin được chia thành 100.000.000 đơn vị nhỏ hơn gọi là s
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Bảng hai cột: 1 BTC bằng 100.000.000 sats, 0,1 BTC bằng 10.000.000 sats, 0,01 BTC bằng 1.000.000 sats, 0,001 BTC bằng 100.000 sats và 0,00000001 BTC bằng 1 sat.](/micrographics/bitcoin-and-sats-01/vi.md)
 
 <!-- notes: Sở hữu 100.000 sats và sở hữu 0,001 bitcoin đều chỉ cùng một lượng. Hãy làm rõ quan niệm sai lầm rằng Bitcoin nằm ngoài tầm với chỉ vì một bitcoin có giá cao. -->
 
@@ -272,6 +277,7 @@ Một bitcoin được chia thành 100.000.000 đơn vị nhỏ hơn gọi là s
 ## Ai duy trì hoạt động của Bitcoin?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Bốn vai trò trong Bitcoin: người dùng nhận, nắm giữ và gửi bitcoin, các nút độc lập xác minh việc tuân thủ các quy tắc, thợ đào xây dựng các khối ứng viên bằng bằng chứng công việc, và nhà phát triển đề xuất phần mềm. Không một vai trò riêng lẻ nào kiểm soát mạng lưới.](/micrographics/bitcoin-participant-roles-01/vi.md)
 
 <!-- notes: Người dùng gửi, nhận và nắm giữ bitcoin; các nút kiểm tra mọi giao dịch và khối theo các quy tắc; thợ đào cạnh tranh để thêm một khối mới vào sổ ghi chép khoảng mười phút một lần. Sổ ghi chép đó, tức chuỗi khối, được công khai và rất tốn kém để viết lại. Lưu ý về cách viết: Bitcoin với chữ B viết hoa thường chỉ mạng lưới hoặc hệ thống; bitcoin với chữ b viết thường chỉ bản thân đồng tiền. -->
 
@@ -307,6 +313,7 @@ Câu hỏi đầu tiên về bất kỳ ví nào: ai kiểm soát các khóa?
 ## Ví quản lý khóa
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Ví lưu giữ các khóa. Với các khóa này, quý vị có thể nhận và gửi bitcoin, trong khi bản thân bitcoin vẫn được ghi nhận trên sổ cái dùng chung, chứ không nằm trong điện thoại hay thiết bị.](/micrographics/wallet-manages-keys-01/vi.md)
 
 <!-- notes: Ví Bitcoin là một công cụ, thường là một ứng dụng, cho phép quý vị nhận, kiểm tra và gửi bitcoin. Bitcoin của quý vị không được lưu trữ trong điện thoại mà được ghi nhận trên chuỗi khối. Ví quản lý các khóa giúp quý vị chứng minh số bitcoin đó thuộc về mình và cho phép thực hiện thanh toán. -->
 
@@ -331,6 +338,7 @@ Một danh sách các từ theo thứ tự, thường gồm 12 hoặc 24 từ, c
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Cụm từ khôi phục là một danh sách các từ theo thứ tự, ở đây là mười hai từ mẫu được đánh số và viết trên giấy. Các từ chính xác theo đúng thứ tự có thể khôi phục quyền kiểm soát trong một ví tương thích, vì vậy cụm từ này cần được giữ bí mật và lưu trữ ngoại tuyến.](/micrographics/seed-phrase-on-paper-01/vi.md)
 
 <!-- notes: Cụm từ khôi phục không chỉ là bản sao lưu: nó cho phép toàn quyền truy cập vào ví. Hãy ghi chính xác cụm từ này ra giấy khi quý vị tạo ví; giữ ngoại tuyến, bảo mật và cất ở nơi không bị thất lạc hay hư hại. Tuyệt đối không chụp ảnh, gửi qua email, lưu trong ghi chú trên đám mây, gửi qua tin nhắn hoặc nhập vào trang web. Các từ được hiển thị chỉ là ví dụ minh họa; tuyệt đối không hiển thị hoặc thu thập cụm từ khôi phục thật. -->
 
@@ -365,6 +373,7 @@ Một danh sách các từ theo thứ tự, thường gồm 12 hoặc 24 từ, c
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Các khoản thanh toán trên chuỗi được ghi lại trực tiếp trên chuỗi khối của Bitcoin, còn Lightning là một mạng thanh toán được xây dựng trên Bitcoin để thực hiện các khoản thanh toán nhanh chóng, thường xuyên nhưng cũng có thể thất bại. Cả hai phương thức đều có thể sử dụng dịch vụ lưu ký hoặc tự lưu ký.](/micrographics/on-chain-and-lightning-01/vi.md)
 
 ---
 
@@ -375,7 +384,8 @@ Một danh sách các từ theo thứ tự, thường gồm 12 hoặc 24 từ, c
 * **Đừng tin, hãy xác minh.** Hãy kiểm tra người giao dịch, phương thức thanh toán, địa chỉ và số tiền.
 
 
-> **Callout – Chia sẻ thông tin nhận tiền, tuyệt đối không chia sẻ thông tin bí mật**
+<!-- card: callout -->
+> **Chia sẻ thông tin nhận tiền, tuyệt đối không chia sẻ thông tin bí mật**
 >
 > Có thể chia sẻ địa chỉ hoặc yêu cầu thanh toán. Tuyệt đối không chia sẻ cụm từ khôi phục hoặc khóa riêng tư. Không một nhà giáo dục, công ty cung cấp ví hay nhân viên hỗ trợ chân chính nào yêu cầu quý vị cung cấp những thông tin bí mật này.
 
@@ -389,6 +399,7 @@ Hãy dừng lại nếu ai đó tạo cảm giác cấp bách hoặc yêu cầu 
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Năm dấu hiệu cảnh báo lừa đảo: tính cấp bách, mạo danh, thay đổi địa chỉ nhận, cam kết lợi nhuận và yêu cầu cung cấp thông tin bí mật.](/micrographics/scam-red-flags-01/vi.md)
 
 ---
 
@@ -408,7 +419,8 @@ Hãy dừng lại nếu ai đó tạo cảm giác cấp bách hoặc yêu cầu 
 * **Đây mới chỉ là khởi đầu.** Chỉ cần thêm một bước an toàn là đủ.
 
 
-> **Callout – Một phút suy ngẫm**
+<!-- card: callout -->
+> **Một phút suy ngẫm**
 >
 > Hãy quay lại năm câu hỏi ở phần đầu. Bây giờ quý vị sẽ trả lời thế nào?
 

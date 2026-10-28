@@ -1,5 +1,6 @@
 # 1.4 Trampa i dvostruka podudarnost želja
 
+<!-- card: definition -->
 > **Definition – Trampa**
 >
 > [Trampa](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) je izravna razmjena jednog dobra ili usluge za drugo dobro ili uslugu. Može dobro funkcionirati u maloj razmjeni, ali postaje otežana kada je uključeno mnogo ljudi i proizvoda.
@@ -11,6 +12,7 @@ Zamislite da **Amina** ima rižu i želi cipele. **Luis** ima cipele, ali želi 
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina ima rižu i želi cipele, Luis ima cipele i želi jestivo ulje, a Mei ima jestivo ulje i želi usluge popravka. Nijedan par ne može izravno razmjenjivati dobra jer nijedna osoba u paru ne želi ono što druga nudi.](/micrographics/barter-mismatch-01/hr.md)
 
 
 Kako bi [trampa](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) funkcionirala izravno, svaka osoba mora željeti ono što druga osoba nudi, i to u isto vrijeme i u odgovarajućim količinama. Ekonomisti to nazivaju [**dvostrukim podudaranjem želja**](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-coincidence-of-wants).
@@ -31,3 +33,4 @@ Općeprihvaćeni novac odvaja prodaju od kupnje. Amina može prodati rižu jedno
 
 
 <!-- micrographic: sell-then-buy-01 -->
+[Amina prodaje rižu jednoj osobi za općeprihvaćeni novac, a zatim kasnije tim novcem kupuje cipele od nekoga drugoga. Prodaja i kupnja postaju odvojene radnje.](/micrographics/sell-then-buy-01/hr.md)

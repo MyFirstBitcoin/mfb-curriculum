@@ -16,6 +16,7 @@ Explain that a message or screenshot saying “sent” is not proof of receipt. 
 
 
 <!-- micrographic: check-what-you-receive-01 -->
+[A sample receive screen on a phone shows the payment method, the payment request to share, the amount and a pending status. A message or screenshot saying "sent" is not proof: check the status in your own wallet.](/micrographics/check-what-you-receive-01/en.md)
 
 
 #### Practice: receive-screen walkthrough

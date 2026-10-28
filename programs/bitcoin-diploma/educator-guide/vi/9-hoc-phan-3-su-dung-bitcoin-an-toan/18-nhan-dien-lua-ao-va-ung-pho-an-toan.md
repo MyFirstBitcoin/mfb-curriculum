@@ -19,6 +19,7 @@ Hãy áp dụng cách ứng phó mặc định:
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Năm dấu hiệu cảnh báo lừa đảo: tính cấp bách, mạo danh, thay đổi địa chỉ nhận, cam kết lợi nhuận và yêu cầu cung cấp thông tin bí mật.](/micrographics/scam-red-flags-01/vi.md)
 
 
 #### Hoạt động: các trạm tình huống lừa đảo

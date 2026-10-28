@@ -14,6 +14,7 @@ Când comparați [prețurile](https://curriculum.myfirstbitcoin.org/lexicon/en/#
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Un tabel cu două coloane: 1 BTC înseamnă 100.000.000 sats, 0,1 BTC înseamnă 10.000.000 sats, 0,01 BTC înseamnă 1.000.000 sats, 0,001 BTC înseamnă 100.000 sats, iar 0,00000001 BTC înseamnă 1 sat.](/micrographics/bitcoin-and-sats-01/ro.md)
 
 
 **Demonstrați ce ați înțeles:** Câți [sats](https://curriculum.myfirstbitcoin.org/lexicon/en/#satoshi) sunt în 0,01 BTC? De ce [prețul](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) unui bitcoin întreg nu împiedică o persoană să folosească o sumă mai mică?

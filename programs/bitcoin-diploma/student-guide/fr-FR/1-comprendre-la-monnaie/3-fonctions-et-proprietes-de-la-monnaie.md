@@ -14,6 +14,7 @@ Une monnaie utile tend également à posséder plusieurs propriétés :
 
 
 <!-- micrographic: money-property-questions-01 -->
+[Sept propriétés d’une monnaie utile, chacune accompagnée d’une question à se poser pour comparer les formes de monnaie : durabilité, portabilité, divisibilité, fongibilité, rareté, acceptabilité et vérifiabilité.](/micrographics/money-property-questions-01/fr-FR.md)
 
 
 Aucune forme de monnaie n’obtient un résultat parfait.
@@ -22,6 +23,7 @@ Les personnes comparent aussi les monnaies selon leur [**solidité**](https://cu
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Deux niveaux : les trois fonctions de la monnaie (intermédiaire des échanges, unité de compte, réserve de valeur) reposent sur sept propriétés (durabilité, portabilité, divisibilité, fongibilité, rareté, acceptabilité et vérifiabilité).](/micrographics/functions-and-properties-01/fr-FR.md)
 
 
 [L’or](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) est durable et rare, mais difficile à diviser et à transporter pour de petits paiements. [Les billets de banque](https://curriculum.myfirstbitcoin.org/lexicon/en/#paper-cash) sont faciles à transporter et acceptés localement, mais ils peuvent être endommagés et leur offre peut augmenter. La comparaison la plus pertinente dépend de l’objectif, du lieu et du moment.

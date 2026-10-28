@@ -1,53 +1,53 @@
-# Quiz – Bitcoin sicher nutzen: Kurztest
+# Quiz – Bitcoin sicher nutzen: kurzer Test
 
-## Question 1
+## Frage 1
 
 Eine Bitcoin-Wallet:
 
 * [ ] Speichert bitcoin
 * [x] Verwaltet Schlüssel und signiert
-* [ ] Hebt den Geheimnisschutz auf
+* [ ] Hebt den Schutz von Geheimnissen auf
 * [ ] Macht Transaktionen rückgängig
 
-### Explanation
+### Erklärung
 
-Bitcoin wird im gemeinsamen Kassenbuch erfasst; eine Wallet verwaltet die Informationen, mit denen Sie darauf zugreifen und es nutzen. Lesen Sie dazu im Studienleitfaden, Modul 3, „Wallets“ nach.
+Bitcoin wird im gemeinsamen Hauptbuch erfasst; eine Wallet verwaltet die Informationen, die für den Zugriff und die Nutzung erforderlich sind. Wiederholen Sie im Leitfaden für Lernende, Modul 3, den Abschnitt „Wallets“.
 
-## Question 2
+## Frage 2
 
-Was teilen Sie, um bitcoin zu empfangen?
+Zum Empfangen von bitcoin weitergeben:
 
 * [ ] Seed-Phrase
 * [ ] Privater Schlüssel
 * [x] Empfangsadresse
 * [ ] Passwort
 
-### Explanation
+### Erklärung
 
-Eine Empfangsadresse kann für Zahlungen weitergegeben werden. Seed-Phrasen, private Schlüssel und Passwörter müssen geheim bleiben. Lesen Sie dazu im Studienleitfaden, Modul 3, „Adressen“ und „Schlüssel“ nach.
+Eine Empfangsadresse kann für eine Zahlung weitergegeben werden. Seed-Phrasen, private Schlüssel und Passwörter müssen geheim bleiben. Wiederholen Sie im Leitfaden für Lernende, Modul 3, die Abschnitte „Adressen“ und „Schlüssel“.
 
-## Question 3
+## Frage 3
 
 Seed online eingegeben. Sicherster nächster Schritt?
 
 * [ ] Abwarten
 * [ ] An den Support senden
 * [x] Neuer Seed, dann Guthaben übertragen
-* [ ] Seed weiterverwenden
+* [ ] Den Seed weiterverwenden
 
-### Explanation
+### Erklärung
 
-Betrachten Sie eine online eingegebene Seed-Phrase als kompromittiert. Erstellen Sie eine neue Wallet mit einem neuen Seed und übertragen Sie die Guthaben erst, nachdem Sie das Ziel überprüft haben. Lesen Sie dazu im Studienleitfaden, Modul 3, „Seed-Phrasen“ nach.
+Betrachten Sie eine online eingegebene Seed-Phrase als kompromittiert. Erstellen Sie eine neue Wallet mit einem neuen Seed und übertragen Sie die Guthaben erst, nachdem Sie das Ziel überprüft haben. Wiederholen Sie im Leitfaden für Lernende, Modul 3, den Abschnitt „Seed-Phrasen“.
 
-## Question 4
+## Frage 4
 
-Unterschied bei der Verwahrung?
+Was ist der Hauptunterschied zwischen verwahrter und selbstverwahrter Nutzung?
 
 * [x] Wer die Schlüssel kontrolliert
 * [ ] Umkehrbarkeit von Zahlungen
 * [ ] Mengenbegrenzung
-* [ ] Verantwortung
+* [ ] Transaktionsgebühren
 
-### Explanation
+### Erklärung
 
-Verwahrte Nutzung und Selbstverwahrung unterscheiden sich darin, wer die Schlüssel kontrolliert und die damit verbundene Verantwortung trägt. Keine der beiden garantiert Sicherheit oder Umkehrbarkeit. Lesen Sie dazu im Studienleitfaden, Modul 3, „Verwahrte und nicht verwahrte Nutzung“ nach.
+Verwahrte und selbstverwahrte Nutzung unterscheiden sich darin, wer die Schlüssel kontrolliert und die damit verbundene Verantwortung trägt. Keine der beiden garantiert Sicherheit oder Umkehrbarkeit. Wiederholen Sie im Leitfaden für Lernende, Modul 3, den Abschnitt „Verwahrte und nicht verwahrte Nutzung“.

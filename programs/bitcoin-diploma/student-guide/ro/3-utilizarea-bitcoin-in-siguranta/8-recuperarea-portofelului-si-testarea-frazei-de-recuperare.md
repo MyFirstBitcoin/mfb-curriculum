@@ -8,6 +8,7 @@ Un exercițiu sigur de pregătire pentru recuperare este simplu:
 
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[Un exercițiu în șase pași pentru recuperarea unui portofel de antrenament: urmați instrucțiunile oficiale, verificați compatibilitatea, lucrați în privat, folosiți metoda de recuperare aprobată, confirmați portofelul așteptat, apoi resetați. Folosiți doar materiale pregătite, goale sau simulate, iar cadrul didactic nu vede niciodată cuvintele de recuperare.](/micrographics/practice-wallet-recovery-01/ro.md)
 
 
 Nu folosiți un portofel de instruire sau informațiile sale de recuperare pentru a păstra în siguranță fonduri semnificative după încheierea programului Diploma. Un portofel personal, dacă alegeți să creați unul mai târziu, necesită o nouă configurare în condiții de confidențialitate și informații de recuperare noi.

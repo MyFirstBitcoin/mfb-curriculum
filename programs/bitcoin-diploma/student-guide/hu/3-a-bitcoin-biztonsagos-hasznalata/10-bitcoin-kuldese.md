@@ -5,7 +5,8 @@
 A küldés nagyobb körültekintést igényel, mert a Bitcoin rendszerében egy érvényes [tranzakció](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) visszafordítása általában nehéz vagy lehetetlen. Mielőtt megérintené a jóváhagyás gombot, el tudja magyarázni, hogy ki kapja meg a fizetést, és miért?
 
 
-> **Callout – Küldés előtt álljon meg és ellenőrizzen**
+<!-- card: callout -->
+> **Küldés előtt álljon meg és ellenőrizzen**
 >
 > Ellenőrizze a címzettet, a fizetési módot, a célcímet, az összeget és a mértékegységet, a díjat vagy a lejáratot, valamint a végső képernyőt. Ha bármi eltér a megbízható forrásból kapott kéréstől, vagy valaki sürgeti Önt, illetve helyreállítási adatokat kér, álljon meg, és végezzen független ellenőrzést. Ha nem ismeri a folyamatot, először végezzen kis összegű próbafizetést.
 
@@ -21,6 +22,7 @@ A küldés nagyobb körültekintést igényel, mert a Bitcoin rendszerében egy 
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[A fizetés jóváhagyása előtt a küldő ellenőrzi a címzettet és a fizetés célját, a fizetési módot, a célcímet, valamint az összeget, az egységet, a díjat vagy a lejáratot, és ha a folyamat ismeretlen számára, kis összegű próbát végez. Ha bármi eltér, megáll és ellenőriz; csak akkor hagyja jóvá, ha minden egyezik, majd ellenőrzi az eredményt.](/micrographics/pre-send-checklist-01/hu.md)
 
 
 Egy [láncon belüli fizetés](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment) esetén a **hálózati díj** megfizetése a [tranzakció](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) blokkba foglalásáért történik. A díj főként a [tranzakció](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) adataitól és a [blokkterület](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-space) iránti kereslettől függ, nem pusztán a küldött összegtől. A díjbecslések és az időzítés változhatnak, ezért olvassa el a végső összesítést, és ne feltételezze, hogy egy kis összegű fizetés díja is alacsony.

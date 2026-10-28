@@ -24,6 +24,7 @@ Per gli scambi di persona, scelga un luogo pubblico e adeguato, eviti di portare
 
 
 <!-- micrographic: compare-local-pathways-01 -->
+[Una tabella vuota per confrontare tre percorsi locali, A, B e C, in base a nome, requisiti KYC, modello di custodia, reti supportate, reputazione e metodi di finanziamento, con spazio per le note.](/micrographics/compare-local-pathways-01/it.md)
 
 
 

@@ -19,3 +19,4 @@ Güncel kurallar için yetkili birincil kaynakları tercih edin. Kanıtlar eksik
 
 
 <!-- micrographic: local-verification-cycle-01 -->
+[Eğitimciler değişebilecek her yerel iddiayı belirler, güncel bir kaynakla doğrular, tarihini ve sınırlarını kaydeder, ihtiyatlı bir dille öğretir ve yeniden kullanmadan önce tekrar kontrol eder. Bir bilgiden emin olunamadığında daha güvenli bir örnek veya alternatif kullanırlar.](/micrographics/local-verification-cycle-01/tr.md)

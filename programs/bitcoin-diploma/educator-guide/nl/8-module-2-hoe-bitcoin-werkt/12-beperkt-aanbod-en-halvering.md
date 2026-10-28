@@ -10,6 +10,7 @@ Behandel:
 
 
 <!-- micrographic: bitcoin-issuance-schedule-01 -->
+[De bloksubsidie begint bij 50 bitcoin en halveert elke 210.000 blokken, terwijl de totale hoeveelheid uitgegeven bitcoin stijgt richting de limiet van 21 miljoen. Transactiekosten worden daarbovenop betaald en zijn geen nieuwe bitcoin; er wordt geen koersvoorspelling gedaan.](/micrographics/bitcoin-issuance-schedule-01/nl.md)
 
 
 De limiet is een openbare netwerkregel, geen natuurwet. Iemand kan andere software schrijven, maar kan bestaande deelnemers niet dwingen die over te nemen. Incompatibele adoptie kan een ander netwerk creëren in plaats van Bitcoin ongemerkt voor iedereen te veranderen.

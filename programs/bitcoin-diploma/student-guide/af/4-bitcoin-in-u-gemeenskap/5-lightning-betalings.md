@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[Die ontvanger skep 'n Lightning-betalingsversoek met die bedrag op hul foon, die sender skandeer dit en betaal, en die betaling kom 'n oomblik later op die ontvanger se foon aan.](/micrographics/lightning-phone-payment-01/af.md)
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[’n Lightning-betaling in ses stappe: die ontvanger skep ’n versoek, die sender skandeer dit, kontroleer die ontvanger, bedrag, eenheid, vervaltyd en fooi, keur dit goed, die betaling word geroeteer, en albei beursies wys die resultaat. Elke beursie kan deur ’n bewaarder of deur die gebruiker self beheer word, en ’n mislukte of vervalde betaling begin weer met ’n nuwe versoek.](/micrographics/lightning-payment-sequence-01/af.md)
 
 
 Lightning kan vinnige, klein Bitcoin-betalings prakties maak. Dit kan geskik wees vir 'n handelaar se toonbank, herhaalde plaaslike betalings, aanlyndienste of oorplasings waar 'n fooi vir 'n transaksie op die blokketting te hoog sou wees in verhouding tot die betaling.

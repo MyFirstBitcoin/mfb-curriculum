@@ -6,11 +6,13 @@ Cuando un banco comercial aprueba un préstamo, normalmente crea un nuevo depós
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Un préstamo bancario simplificado: el prestatario solicita el préstamo, el banco lo aprueba y acredita un nuevo depósito en la cuenta del prestatario, quien posteriormente devuelve al banco el capital más los intereses.](/micrographics/bank-loan-deposit-01/es-419.md)
 
 
 Los bancos generalmente buscan obtener [ganancias](https://curriculum.myfirstbitcoin.org/lexicon/en/#bank-profit) al cobrar intereses y comisiones por préstamos e inversiones, mientras pagan sus costos operativos, de financiamiento y regulatorios, y absorben las pérdidas cuando los prestatarios no pagan. Estas actividades y limitaciones varían según el banco y la jurisdicción.
 
 
+<!-- card: definition -->
 > **Definition – Banca de reserva fraccionaria**
 >
 > [La banca de reserva fraccionaria](https://curriculum.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking) describe un sistema bancario en el que los bancos mantienen solo una fracción de sus obligaciones por depósitos como reservas de disponibilidad inmediata, mientras otorgan préstamos y mantienen otros [activos](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset). El nivel de reservas requerido y otros límites varían entre países y pueden cambiar con el tiempo.
@@ -23,6 +25,7 @@ Esto genera dos riesgos importantes:
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Riesgo de liquidez: muchos depositantes hacen fila para retirar su dinero hoy, y el banco no tiene suficiente efectivo ahora, aunque sus préstamos podrían pagarse más adelante. Riesgo de solvencia: los prestatarios dejan de pagar sus préstamos hipotecarios, y los activos del banco pasan a valer menos de lo que debe.](/micrographics/liquidity-vs-solvency-01/es-419.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)

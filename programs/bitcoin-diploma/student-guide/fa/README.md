@@ -22,7 +22,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.7 | [پول فیات](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/1/7.md) |
 |  | 1.8 | [بانکداری با ذخیرهٔ جزئی](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/1/8.md) |
 |  | 1.9 | [تورم و قدرت خرید](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/1/9.md) |
-|  | 1.10 | [چرا دلار آمریکا یکی از ارزهای ذخیره جهانی است؟](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/1/10.md) |
+|  | 1.10 | [چرا دلار آمریکا یک ارز ذخیرهٔ جهانی است](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/1/10.md) |
 |  | 1.11 | [گزینه‌های جایگزین برای پس‌انداز و حفظ ارزش](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/1/11.md) |
 |  | 1.12 | [ارزهای دیجیتال بانک مرکزی (CBDCs)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/1/12-cbdcs.md) |
 |  | 1.13 | [مرور: پول چگونه می‌تواند از کار بیفتد؟](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/1/13.md) |
@@ -62,7 +62,7 @@ introduction, learning objectives, or notes for educators.
 |  | 3.14 | [پرداخت‌های درون‌زنجیره‌ای و لایتنینگ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/3/14.md) |
 |  | 3.15 | [ارزیابی مهارت عملی با نظارت مربی](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/3/15.md) |
 |  | 3.16 | [مرور: مسئولیت خودامانی به چه معناست؟](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/3/16.md) |
-|  |  | [استفادهٔ ایمن از بیت‌کوین: ارزیابی سریع](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/3/_quiz.md) |
+|  |  | [استفادهٔ ایمن از بیت‌کوین: ارزیابی کوتاه](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/3/_quiz.md) |
 | **[بیت‌کوین در جامعهٔ شما](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/fa/4)** | 4.1 | [بیت‌کوین در جامعهٔ شما](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/4/1.md) |
 |  | 4.2 | [ماژول ۴ محلی شما](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/4/2.md) |
 |  | 4.3 | [کارگاه‌های عملی و نمایش‌های آموزشی](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/fa/4/3.md) |

@@ -4,12 +4,14 @@ Chọn ba người có hàng hóa và nhu cầu không khớp nhau. Trước ti�
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina có gạo và muốn giày, Luis có giày và muốn dầu ăn, còn Mei có dầu ăn và muốn dịch vụ sửa chữa. Không cặp nào có thể trao đổi trực tiếp vì không có cặp nào mà cả hai người đều muốn thứ người kia cung cấp.](/micrographics/barter-mismatch-01/vi.md)
 
 
 Sau đó, giới thiệu một phương tiện trao đổi được chấp nhận rộng rãi.
 
 
 <!-- micrographic: sell-then-buy-01 -->
+[Amina bán gạo cho một người để lấy một loại tiền được chấp nhận rộng rãi, rồi sau đó dùng số tiền đó để mua giày từ một người khác. Việc bán và mua trở thành những hành động riêng biệt.](/micrographics/sell-then-buy-01/vi.md)
 
 
 Đặt câu hỏi:

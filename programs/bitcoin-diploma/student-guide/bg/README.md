@@ -22,7 +22,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.7 | [Фиатни пари](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bg/1/7.md) |
 |  | 1.8 | [Банкиране с частичен резерв](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bg/1/8.md) |
 |  | 1.9 | [Инфлация и покупателна способност](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bg/1/9.md) |
-|  | 1.10 | [Защо щатският долар е световна резервна валута?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bg/1/10.md) |
+|  | 1.10 | [Защо щатският долар е световна резервна валута](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bg/1/10.md) |
 |  | 1.11 | [Алтернативи за спестяване и съхранение на стойност](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bg/1/11.md) |
 |  | 1.12 | [Цифрови валути на централните банки (CBDCs)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bg/1/12-cbdcs.md) |
 |  | 1.13 | [Преговор: Как могат да се провалят парите?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bg/1/13.md) |

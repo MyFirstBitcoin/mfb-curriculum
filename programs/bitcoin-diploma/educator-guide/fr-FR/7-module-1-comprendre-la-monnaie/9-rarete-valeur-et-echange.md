@@ -9,6 +9,7 @@ Utilisez une ressource locale disponible en quantité limitée pour distinguer q
 
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Une personne disposant de peu de monnaie examine les options qui s’offrent à elle : se nourrir aujourd’hui, se déplacer ou épargner pour plus tard. Choisir une option implique de renoncer aux autres, ce qui constitue le coût d’opportunité, et aucune option n’est présentée comme la bonne.](/micrographics/one-choice-two-uses-01/fr-FR.md)
 
 
 Demandez aux apprenants d’expliquer pourquoi la rareté seule ne crée pas de [valeur](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Un objet rare sans utilité ni demande peut rester indésirable.

@@ -10,6 +10,7 @@ Aktiviti tempatan **Modul 4** anda akan membantu anda:
 
 
 <!-- micrographic: local-module-four-actions-01 -->
+[Dalam Modul 4 setempat, pelajar melalui empat tindakan: mengaitkan idea daripada Modul 1 hingga 3 dengan keperluan setempat, membandingkan Bitcoin dengan pilihan sedia ada yang realistik, berlatih dengan selamat di bawah bimbingan, dan menjelaskan perkara yang telah dipelajari serta langkah seterusnya yang bertanggungjawab. Pendidik mereka, dan kadangkala pakar setempat, membimbing mereka sepanjang proses ini.](/micrographics/local-module-four-actions-01/ms.md)
 
 
 Aktiviti anda boleh meneroka soalan seperti:

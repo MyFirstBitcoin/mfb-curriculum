@@ -1,5 +1,6 @@
 # 3.6 Custodial en non-custodial gebruik
 
+<!-- card: definition -->
 > **Definition – Custody**
 >
 > [Custody](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) beantwoordt een praktische vraag: wie beheert de sleutels die nodig zijn om de bitcoin uit te geven?
@@ -15,10 +16,12 @@ Bij een **non-custodial** of **self-custodial** Wallet beheert U de sleutels. De
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[Bij bewaring door derden beheert een dienst de sleutels en keurt die uitgaven goed, waardoor het saldo een belofte van die dienst is. Bij zelfbewaring beheert de gebruiker zelf de sleutels en back-ups; beide routes kennen afhankelijkheden en risico's op falen.](/micrographics/who-controls-keys-01/nl.md)
 
 
 
 <!-- micrographic: custody-comparison-table-01 -->
+[Een tabel die custodial en self-custodial gebruik vergelijkt: wie de sleutels beheert, wie het herstel regelt en wat de belangrijkste afweging van elk model is. Geen van beide modellen is zonder risico.](/micrographics/custody-comparison-table-01/nl.md)
 
 
 [Custody](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) is niet altijd duidelijk aan de interface te zien. Als u de herstelmethode niet zelf beheert en een bedrijf een opname moet goedkeuren, maakt u waarschijnlijk gebruik van een [bewaarder](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian). [Self-custody](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) is geen test van persoonlijke waarde; de belangrijke stap is om het vertrouwen en het risico te herkennen die ermee gemoeid zijn.

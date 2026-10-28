@@ -35,6 +35,7 @@ Elija un recorrido práctico que resulte seguro y manejable para los estudiantes
 
 
 <!-- micrographic: cohort-capacity-check-01 -->
+[Para planificar el trabajo con un grupo, multiplique el número de estudiantes por el tiempo estimado de apoyo y observación; luego, agregue tiempo para la preparación, la retroalimentación, las necesidades de accesibilidad y la reevaluación. Si los educadores no tienen suficiente tiempo, cambie el plan: menos estudiantes, más educadores o más tiempo.](/micrographics/cohort-capacity-check-01/es-419.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
@@ -57,6 +58,7 @@ Elija un recorrido práctico que resulte seguro y manejable para los estudiantes
 
 
 <!-- micrographic: task-competency-map-01 -->
+[Las interacciones teóricas T1 a T3 aportan evidencia de las competencias C1 a C5, y las rutas prácticas P6a, P6b y P7 aportan evidencia de C6 y C7. Luego, cada competencia recibe un resultado de Sí o Todavía no.](/micrographics/task-competency-map-01/es-419.md)
 
 
 ### Reglas comunes de apoyo, seguridad y registro
@@ -65,10 +67,12 @@ Elija un recorrido práctico que resulte seguro y manejable para los estudiantes
 
 
 <!-- micrographic: support-boundary-01 -->
+[El educador puede brindar el apoyo permitido para la preparación y el acceso, y detener una acción insegura. Aun así, el estudiante debe dar la explicación que se evalúa, seleccionar los detalles pertinentes y tomar o indicar las decisiones requeridas.](/micrographics/support-boundary-01/es-419.md)
 
 
 
-> **Callout – Errores prácticos críticos para la seguridad**
+<!-- card: callout -->
+> **Errores prácticos críticos para la seguridad**
 >
 > Registre lo ocurrido y pause la tarea si el estudiante revela o intenta compartir una [frase semilla](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), [clave privada](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), contraseña o información personal innecesaria; continúa después de detectar una discrepancia en la dirección, la factura, el monto o el destinatario; acepta una estafa evidente o una solicitud urgente que exige guardar secreto; u omite un paso de verificación obligatorio. Explique el motivo con amabilidad, restablezca un entorno seguro, practique con el estudiante y vuelva a evaluarlo más adelante. El estudiante está desarrollando la competencia. Los materiales de capacitación preparados son la opción predeterminada; si un educador elige una actividad real de bajo riesgo, deje claros sus riesgos y proporcione una alternativa equivalente sin fondos.
 
@@ -181,3 +185,4 @@ Utilice los ejemplos y materiales de las actividades que se ajusten a su grupo. 
 
 
 <!-- micrographic: reassessment-calibration-moderation-01 -->
+[Tres procesos separados se llevan a cabo en paralelo. Los estudiantes con la valoración «Aún no» reciben retroalimentación privada, practican y aportan nueva evidencia; los evaluadores se calibran calificando ejemplos de forma independiente y acordando una interpretación; los educadores pueden solicitar una segunda revisión, que nunca sustituye el desempeño observado.](/micrographics/reassessment-calibration-moderation-01/es-419.md)

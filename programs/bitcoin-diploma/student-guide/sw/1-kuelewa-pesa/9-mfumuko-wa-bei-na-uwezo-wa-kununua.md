@@ -1,11 +1,13 @@
 # 1.9 Mfumuko wa bei na uwezo wa kununua
 
+<!-- card: definition -->
 > **Definition – Mfumuko wa bei**
 >
 > Watu hutumia neno “[mfumuko wa bei](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation)” kwa njia zaidi ya moja. Katika mwongozo huu, [mfumuko wa bei](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation) unamaanisha ongezeko endelevu la kiwango cha jumla cha [bei](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) za bidhaa na huduma. Ikiwa mapato na akiba yenu haviongezeki kwa kasi sawa na [bei](https://curriculum.myfirstbitcoin.org/lexicon/en/#price), pesa zenu hununua vitu vichache zaidi.
 
 
 
+<!-- card: definition -->
 > **Definition – Nguvu ya ununuzi**
 >
 > [Nguvu ya ununuzi](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) ni kiasi cha bidhaa na huduma ambacho kipimo kimoja cha pesa kinaweza kununua. Ikiwa bei ya kikapu cha bidhaa za msingi inapanda kutoka vipimo 100 vya [sarafu](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) hadi 110, vipimo vilevile 100 havinunui tena kikapu kizima. [Nguvu ya ununuzi](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) yake ikilinganishwa na kikapu hicho imeshuka.
@@ -15,6 +17,7 @@
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Vipimo 100 vilevile vya sarafu vinanunua kapu lote la bidhaa za msingi linapogharimu 100, lakini si pale kapu lilelile linapogharimu 110. Kiwango cha bei kimepanda na uwezo wa pesa wa kununua umeshuka.](/micrographics/same-money-smaller-basket-01/sw.md)
 
 
 Baadhi ya watu hutumia “[mfumuko wa bei](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation)” kumaanisha [upanuzi wa fedha](https://curriculum.myfirstbitcoin.org/lexicon/en/#monetary-inflation): ongezeko la pesa na mikopo. Upanuzi huo unaweza kuchangia [mfumuko wa bei](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation), pamoja na usumbufu katika ugavi, mabadiliko ya mahitaji, udhaifu wa [sarafu](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency), kodi, kanuni, na mabadiliko ya gharama za uzalishaji. Visababishi na athari zake mara nyingi hujadiliwa. Epukeni maelezo yanayohusisha kila mabadiliko ya [bei](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) na kipengele kimoja pekee.
@@ -24,7 +27,8 @@ Baadhi ya watu hutumia “[mfumuko wa bei](https://curriculum.myfirstbitcoin.org
 Kiwango cha [mfumuko wa bei](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation) ni wastani. Uzoefu wenu binafsi unaweza kutofautiana kwa sababu matumizi yenu hayafanani kabisa na kikapu kilichopimwa. Gharama za chakula, makazi, usafiri, elimu na afya zinaweza kubadilika kwa viwango tofauti.
 
 
-> **Light – Linganisha nguvu ya ununuzi katika eneo lenu**
+<!-- card: light -->
+> **Linganisha nguvu ya ununuzi katika eneo lenu**
 >
 > Chagueni bidhaa moja ya kawaida katika jamii yenu. Andikeni [bei](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) yake leo. Ulizeni ilikuwa inagharimu kiasi gani miaka kadhaa iliyopita, kisha hakikisheni katika kumbukumbu za kuaminika ikiwezekana. Je, kipato kilibadilika kwa kiwango kilekile? Ni mambo gani mengine yanayoweza kueleza mabadiliko hayo?
 >

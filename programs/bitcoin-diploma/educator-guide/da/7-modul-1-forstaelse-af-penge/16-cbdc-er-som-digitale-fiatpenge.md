@@ -12,6 +12,7 @@ Forklar, at en [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) er
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[En tabel, der sammenligner kontanter, bankindskud, en CBDC til borgere og virksomheder og Bitcoin med hensyn til udsteder, form, adgang, synlighed, regler for pengemængden og kontrol. Digital er ikke det samme som decentraliseret: En CBDC udstedes stadig af centralbanken, og adgangen til den, dens synlighed og mulighederne for kontrol afhænger af dens udformning.](/micrographics/cbdc-comparison-table-01/da.md)
 
 
 [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc)-udformninger varierer. Påstå ikke, at enhver [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) har eller mangler en bestemt egenskab. Skeln mellem en bekræftet lokal udformning, et offentliggjort forslag, kommentarer og spekulation.

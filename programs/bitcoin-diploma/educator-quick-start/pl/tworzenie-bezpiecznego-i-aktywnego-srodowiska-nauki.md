@@ -1,6 +1,7 @@
 # Tworzenie bezpiecznego i aktywnego środowiska nauki
 
-> **Callout – Proszę zadbać o bezpieczeństwo osób uczących się przed rozpoczęciem ćwiczeń praktycznych**
+<!-- card: callout -->
+> **Proszę zadbać o bezpieczeństwo osób uczących się przed rozpoczęciem ćwiczeń praktycznych**
 >
 > Proszę nigdy nie prosić o prawdziwą frazę odzyskiwania, klucz prywatny, hasło ani zbędne informacje finansowe, a także ich nie przeglądać, nie fotografować, nie kopiować, nie zapisywać ani nie przechowywać. Proszę nie wywierać na nikogo presji, by kupował, sprzedawał, przechowywał bitcoiny lub z nich korzystał. Proszę wstrzymać działanie zawsze, gdy osoba ucząca się ma wątpliwości, odczuwa presję lub jest narażona na potencjalne oszustwo.
 

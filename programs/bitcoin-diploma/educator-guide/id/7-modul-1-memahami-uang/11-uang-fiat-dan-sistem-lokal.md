@@ -15,6 +15,7 @@ Mintalah peserta didik mengidentifikasi:
 
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Para pelaku dalam sistem fiat dan aliran di antara mereka: bank sentral menetapkan kebijakan dan menyelesaikan transaksi antarbank, bank umum menyimpan dana yang menjadi kewajiban mereka kepada nasabah, layanan pembayaran meneruskan instruksi, pemerintah memungut pajak dan membelanjakan dana, serta warga dan pelaku usaha melakukan dan menerima pembayaran.](/micrographics/fiat-system-flows-01/id.md)
 
 
 Bersiaplah untuk menjelaskan sistem setempat. Sebutkan rincian mana yang bersifat umum dan mana yang khusus berlaku di wilayah hukum tersebut. Ajak peserta didik berbagi beragam pengalaman, termasuk pengalaman mengandalkan uang tunai dan memiliki akses terbatas ke layanan perbankan, tanpa mengarahkan diskusi pada suatu kesimpulan politik.

@@ -5,7 +5,8 @@
 Le persone possono ricevere bitcoin tramite il lavoro, un pagamento comunitario, uno scambio tra pari, un ATM o un servizio. Ogni percorso comporta costi, [custodia](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), privacy, rischi di frode, aspetti legali e operativi e [compromessi](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) diversi. Il Bitcoin Diploma non raccomanda alcun fornitore né Le indica quale percorso utilizzare.
 
 
-> **Light – Confronti un percorso di pagamento locale**
+<!-- card: light -->
+> **Confronti un percorso di pagamento locale**
 >
 > In uno scenario locale o fittizio preparato in anticipo, confronti [custodia](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), costo totale, dati identificativi, limiti di prelievo, sicurezza rispetto alla controparte e sicurezza fisica, e normative locali vigenti. Nessun percorso è automaticamente il migliore ovunque. Questo corso fornisce domande per il confronto, non una raccomandazione su un fornitore né una consulenza finanziaria personale.
 
@@ -19,16 +20,19 @@ Le persone possono ricevere bitcoin tramite il lavoro, un pagamento comunitario,
 Prima di confrontare un percorso, si chieda:
 
 
-<!-- micrographic: ways-to-receive-bitcoin-01 -->
-
-
-
 <!-- micrographic: exchange-risk-questions-01 -->
+[Sei aree di rischio da verificare prima di acquistare o scambiare bitcoin, ciascuna con una domanda da porsi: costi, custodia, identità e privacy, prelievo e regolamento, controparte e sicurezza, e contesto locale.](/micrographics/exchange-risk-questions-01/it.md)
+
+
+
+<!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Una persona può ricevere bitcoin in quattro modi diversi: guadagnandoli con il lavoro o con le vendite, scambiando contanti in valuta locale con un'altra persona, utilizzando un exchange o un broker, oppure utilizzando un ATM. Ogni percorso termina con l'autocustodia o con un saldo presso un custode, e nessuno è raccomandato rispetto agli altri.](/micrographics/ways-to-receive-bitcoin-01/it.md)
 
 
 Nessun percorso è automaticamente il migliore ovunque. Gli esempi locali e le indicazioni specifiche sui fornitori sono trattati nel **Modulo 4**.
 
 
+<!-- card: definition -->
 > **Definition – Know Your Customer (KYC)**
 >
 > [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) indica le verifiche dell'identità che un servizio regolamentato può richiedere. Può facilitare il recupero dell'account o la conformità legale, ma crea anche un registro che collega l'identità all'attività finanziaria. I percorsi che raccolgono meno dati identificativi possono comportare rischi diversi in termini di controparte, aspetti legali, sicurezza, costi o complessità.

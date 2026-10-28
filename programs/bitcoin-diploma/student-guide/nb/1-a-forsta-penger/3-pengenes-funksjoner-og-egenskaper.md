@@ -14,6 +14,7 @@ Penger som fungerer godt, har også gjerne flere egenskaper:
 
 
 <!-- micrographic: money-property-questions-01 -->
+[Sju egenskaper ved nyttige penger, hver med et spørsmål å stille når ulike former for penger sammenlignes: holdbarhet, portabilitet, delbarhet, fungibilitet, knapphet, aksept og verifiserbarhet.](/micrographics/money-property-questions-01/nb.md)
 
 
 Ingen form for penger oppnår full skår på alle egenskaper.
@@ -22,6 +23,7 @@ Folk sammenligner også penger ut fra deres [**soliditet**](https://curriculum.m
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[To lag: Pengens tre funksjoner (byttemiddel, regneenhet, verdioppbevaringsmiddel) hviler på sju egenskaper (holdbarhet, transportabilitet, delbarhet, ombyttbarhet, knapphet, aksept og verifiserbarhet).](/micrographics/functions-and-properties-01/nb.md)
 
 
 [Gull](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) er holdbart og finnes i begrensede mengder, men er vanskelig å dele opp og transportere ved små betalinger. [Papirpenger](https://curriculum.myfirstbitcoin.org/lexicon/en/#paper-cash) er lette å ta med seg og aksepteres lokalt, men de kan bli skadet, og mengden kan øke. Hvilken sammenligning som er best, avhenger av formålet, stedet og tidspunktet.

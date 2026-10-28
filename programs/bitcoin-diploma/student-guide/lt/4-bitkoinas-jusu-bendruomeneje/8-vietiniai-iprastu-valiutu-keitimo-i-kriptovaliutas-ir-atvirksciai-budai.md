@@ -24,6 +24,7 @@ Keisdamiesi gyvai, rinkitės viešą ir tinkamą vietą, nesineškite daugiau gr
 
 
 <!-- micrographic: compare-local-pathways-01 -->
+[Tuščia lentelė, skirta trims vietinėms galimybėms – A, B ir C – palyginti pagal pavadinimą, kliento tapatybės nustatymo (KYC) reikalavimus, lėšų saugojimo modelį, palaikomus tinklus, reputaciją ir sąskaitos papildymo būdus, su vieta pastaboms.](/micrographics/compare-local-pathways-01/lt.md)
 
 
 

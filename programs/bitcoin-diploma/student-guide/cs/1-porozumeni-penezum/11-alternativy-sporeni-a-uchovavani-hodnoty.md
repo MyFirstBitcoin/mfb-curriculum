@@ -4,6 +4,7 @@ Lidé často hledají alternativy k držení hotovosti, pokud se domnívají, ž
 
 
 <!-- micrographic: saving-alternatives-table-01 -->
+[Tabulka tří alternativ k držení hotovosti (drahé kovy, nemovitosti a akcie), u každé jsou uvedeny důvody, proč si ji lidé mohou zvolit, a její důležité nevýhody a omezení. Žádná není hodnocena lépe než ostatní.](/micrographics/saving-alternatives-table-01/cs.md)
 
 
 Za [aktivum](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) se považuje něco, co člověk může vlastnit nebo na co může mít nárok a co může mít [hodnotu](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); automaticky však neplní všechny funkce peněz. Dům může uchovávat [hodnotu](https://curriculum.myfirstbitcoin.org/lexicon/en/#value), ale pro nákup potravin není praktický. Akcii může být v jedné zemi snadné prodat, ale pro někoho bez účtu u obchodníka s cennými papíry může být nedostupná. [Zlato](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) sloužilo jako peníze po dlouhá historická období, ale při drobné směně může být obtížné ověřit jeho pravost nebo jej rozdělit.

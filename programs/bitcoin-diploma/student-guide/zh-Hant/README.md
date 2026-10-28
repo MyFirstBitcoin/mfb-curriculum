@@ -22,7 +22,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.7 | [法定貨幣](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/1/7.md) |
 |  | 1.8 | [部分準備金制度](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/1/8.md) |
 |  | 1.9 | [通貨膨脹與購買力](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/1/9.md) |
-|  | 1.10 | [為什麼美元是世界儲備貨幣？](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/1/10.md) |
+|  | 1.10 | [為何美元是世界儲備貨幣](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/1/10.md) |
 |  | 1.11 | [儲蓄與保值的替代方案](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/1/11.md) |
 |  | 1.12 | [央行數位貨幣（CBDC）](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/1/12-cbdc.md) |
 |  | 1.13 | [複習：貨幣如何崩壞？](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/zh-Hant/1/13.md) |

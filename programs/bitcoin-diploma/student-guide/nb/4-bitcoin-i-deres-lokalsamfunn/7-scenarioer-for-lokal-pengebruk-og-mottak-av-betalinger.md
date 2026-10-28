@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[En betaling på en kafé i fire trinn: Kunden bestiller, servitøren sender en faktura, kunden betaler i bitcoin fra telefonen sin, og servitøren leverer kaffen.](/micrographics/coffee-shop-payment-01/nb.md)
 
 
 Bruk varer og tjenester som er kjente lokalt. Det er ikke den konkrete varen som er viktig, men vurderingene rundt betalingen.

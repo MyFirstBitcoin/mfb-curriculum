@@ -14,6 +14,7 @@ Nie należy:
 Proszę używać sformułowań takich jak:
 
 
-> **Callout – Aktualne lokalne wytyczne, a nie indywidualna porada**
+<!-- card: callout -->
+> **Aktualne lokalne wytyczne, a nie indywidualna porada**
 >
 > Lokalne przepisy mogą mieć wpływ na ten sposób postępowania. Aktualne, publicznie dostępne wytyczne, które sprawdziliśmy w dniu [data], mówią: ________. Jest to podsumowanie o charakterze edukacyjnym, a nie porada dotycząca indywidualnej sytuacji. Na pytania dotyczące konkretnych przypadków powinien odpowiadać wykwalifikowany lokalny specjalista lub właściwy organ.

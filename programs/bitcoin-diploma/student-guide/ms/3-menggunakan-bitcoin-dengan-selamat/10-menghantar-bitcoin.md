@@ -5,7 +5,8 @@
 Penghantaran memerlukan lebih perhatian kerana dalam Bitcoin, [transaksi](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) yang sah biasanya sukar atau mustahil untuk dibatalkan. Sebelum anda menekan butang luluskan, bolehkah anda menjelaskan siapa yang akan menerima bayaran itu dan mengapa?
 
 
-> **Callout – Berhenti dan sahkan sebelum menghantar**
+<!-- card: callout -->
+> **Berhenti dan sahkan sebelum menghantar**
 >
 > Sahkan penerima, kaedah pembayaran, destinasi, jumlah dan unit, fi atau tamat tempoh, serta skrin akhir. Jika apa-apa berbeza daripada permintaan yang dipercayai, atau seseorang mendesak anda supaya bertindak segera atau meminta maklumat pemulihan, berhenti dan buat pengesahan secara bebas. Buat ujian dengan jumlah kecil jika anda belum biasa dengan proses tersebut.
 
@@ -21,6 +22,7 @@ Penghantaran memerlukan lebih perhatian kerana dalam Bitcoin, [transaksi](https:
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Sebelum meluluskan pembayaran, pengirim menyemak penerima dan tujuan, kaedah pembayaran, destinasi, serta amaun, unit, fi atau masa tamat tempoh, dengan membuat ujian kecil jika proses tersebut belum biasa dilakukan. Jika ada apa-apa yang berbeza, pengirim berhenti dan membuat pengesahan; pengirim meluluskan hanya apabila semuanya sepadan, kemudian menyemak hasilnya.](/micrographics/pre-send-checklist-01/ms.md)
 
 
 Bagi [pembayaran dalam rantaian](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), **fi rangkaian** dibayar untuk memasukkan [transaksi](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) ke dalam blok. Fi ini bergantung terutamanya pada data [transaksi](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) dan permintaan terhadap [ruang blok](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-space), bukan semata-mata pada jumlah yang dihantar. Anggaran fi dan masa boleh berubah, jadi baca ringkasan akhir dan jangan menganggap bahawa pembayaran bernilai rendah mempunyai fi yang rendah.

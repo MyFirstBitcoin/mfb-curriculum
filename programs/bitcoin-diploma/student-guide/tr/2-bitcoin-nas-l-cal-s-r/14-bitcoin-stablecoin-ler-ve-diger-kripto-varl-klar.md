@@ -7,8 +7,7 @@ Herhangi bir [dijital varlığı](https://curriculum.myfirstbitcoin.org/lexicon/
 Aşağıdaki karşılaştırma, kategorileri ve tasarım tercihlerini birbirinden ayırır. Bu karşılaştırma bir onay veya tavsiye değildir; herhangi bir [varlığın](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) güvenli, güvenilir ya da sizin için uygun olduğu iddiası da değildir.
 
 
-> **Dark**
->
+<!-- card: dark -->
 > Dolandırıcılıklar, yanıltıcı iddialar ve güvensiz hizmetler herhangi bir [dijital varlığı](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-asset) veya ödeme yolunu etkileyebilir. Bir kategorinin kendi başına güvenli ya da güvensiz olduğunu varsaymak yerine ilgili [varlığı](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset), hizmeti ve [saklama](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) düzenlemesini kontrol edin.
 
 

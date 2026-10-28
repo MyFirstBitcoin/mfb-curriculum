@@ -3,7 +3,8 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) and [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) pathways make different [trade-offs](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Neither label removes the need for careful evaluation.
 
 
-> **Callout – Privacy does not remove legal or physical-safety risk**
+<!-- card: callout -->
+> **Privacy does not remove legal or physical-safety risk**
 >
 > Neither [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) nor [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) is automatically best. Compare the actual pathway, use current local guidance when rules are unclear, and do not break local law or expose yourself to physical danger in pursuit of [privacy](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 
@@ -17,5 +18,18 @@ A [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) service may reque
 A [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) pathway may collect less identity information. This can improve financial [privacy](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy). It may also involve less regulated counterparties, lower liquidity, higher [prices](https://curriculum.myfirstbitcoin.org/lexicon/en/#price), reduced support, greater fraud risk, or legal restrictions.
 
 Compare the real path:
+
+
+| Question | KYC path | No-KYC path |
+| --- | --- | --- |
+| What identity data are collected? |  |  |
+| Who stores the data and for how long? |  |  |
+| Can the transaction be linked on-chain? |  |  |
+| What fraud protection exists? |  |  |
+| What counterparty risk exists? |  |  |
+| What limits and fees apply? |  |  |
+| What local law applies? |  |  |
+| What happens during a dispute? |  |  |
+
 
 [Privacy](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy) is not secrecy from every risk. It is the ability to control information about yourself. Do not break local law or expose yourself to physical danger in pursuit of [privacy](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy). Seek current local guidance from a qualified person when the rules are unclear.

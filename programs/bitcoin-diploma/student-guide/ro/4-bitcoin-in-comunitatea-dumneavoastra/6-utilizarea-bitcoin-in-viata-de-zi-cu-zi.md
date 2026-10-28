@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: daily-bitcoin-uses-01 -->
+[Șapte moduri distincte în care Bitcoin poate fi utilizat în viața de zi cu zi: obținerea de venituri, economisirea, primirea, trimiterea, cheltuirea, donarea, precum și stabilirea prețurilor și contabilitatea. Fiecare reprezintă o posibilă utilizare, nu un pas obligatoriu.](/micrographics/daily-bitcoin-uses-01/ro.md)
 
 
 Bitcoin poate funcționa ca bani în mai multe moduri. Cheltuirea este doar unul dintre ele.
@@ -24,7 +25,7 @@ Bitcoin poate funcționa ca bani în mai multe moduri. Cheltuirea este doar unul
 
 Pentru orice utilizare, puneți-vă trei întrebări:
 
-1. Ce problemă existentă [rezolvă Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) aici?
+1. Ce problemă existentă rezolvă Bitcoin aici?
 1. Este Bitcoin mai bun decât alternativa disponibilă în acest caz?
 1. Ce responsabilitate sau risc nou creează Bitcoin?
 

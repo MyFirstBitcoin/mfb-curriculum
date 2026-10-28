@@ -24,6 +24,7 @@ Para los intercambios en persona, use un lugar público y adecuado, evite llevar
 
 
 <!-- micrographic: compare-local-pathways-01 -->
+[Una tabla en blanco para comparar tres opciones locales, A, B y C, según su nombre, requisitos de KYC, modelo de custodia, redes compatibles, reputación y métodos de depósito de fondos, con espacio para notas.](/micrographics/compare-local-pathways-01/es-419.md)
 
 
 

@@ -14,6 +14,7 @@ Brugbare penge har også typisk flere egenskaber:
 
 
 <!-- micrographic: money-property-questions-01 -->
+[Syv egenskaber ved brugbare penge, hver med et spørgsmål til sammenligning af forskellige pengeformer: holdbarhed, transportabilitet, delelighed, fungibilitet, knaphed, acceptabilitet og verificerbarhed.](/micrographics/money-property-questions-01/da.md)
 
 
 Ingen form for penge klarer sig perfekt på alle punkter.
@@ -22,6 +23,7 @@ Folk sammenligner også penge ud fra deres [**soliditet**](https://curriculum.my
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[To lag: Penges tre funktioner (byttemiddel, regningsenhed, værdiopbevaringsmiddel) hviler på syv egenskaber (holdbarhed, transportabilitet, delelighed, fungibilitet, knaphed, acceptabilitet og verificerbarhed).](/micrographics/functions-and-properties-01/da.md)
 
 
 [Guld](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) er holdbart og en knap ressource, men vanskeligt at dele og transportere til små betalinger. [Pengesedler](https://curriculum.myfirstbitcoin.org/lexicon/en/#paper-cash) er nemme at transportere og accepteres lokalt, men de kan blive beskadiget, og mængden af dem kan øges. Den bedste sammenligning afhænger af formålet, stedet og tidspunktet.

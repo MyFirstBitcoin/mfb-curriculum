@@ -22,7 +22,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.7 | [Фіатні гроші](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/uk/1/7.md) |
 |  | 1.8 | [Банківська система з частковим резервуванням](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/uk/1/8.md) |
 |  | 1.9 | [Інфляція та купівельна спроможність](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/uk/1/9.md) |
-|  | 1.10 | [Чому долар США є світовою резервною валютою?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/uk/1/10.md) |
+|  | 1.10 | [Чому долар США є світовою резервною валютою](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/uk/1/10.md) |
 |  | 1.11 | [Альтернативні способи заощадження та збереження вартості](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/uk/1/11.md) |
 |  | 1.12 | [Цифрові валюти центральних банків (CBDC)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/uk/1/12-cbdc.md) |
 |  | 1.13 | [Повторення: як гроші можуть зламатися?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/uk/1/13.md) |

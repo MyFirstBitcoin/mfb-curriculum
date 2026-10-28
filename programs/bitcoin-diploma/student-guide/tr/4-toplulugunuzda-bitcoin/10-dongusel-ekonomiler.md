@@ -4,6 +4,7 @@ Bir [**Bitcoin döngüsel ekonomisi**](https://curriculum.myfirstbitcoin.org/lex
 
 
 <!-- micrographic: local-circular-economy-01 -->
+[Bir Bitcoin döngüsel ekonomisinde bitcoin; mallar, hizmetler ve zaman karşılığında kişiden kişiye geçer. Bir müşteri bir satıcıya ödeme yapar, satıcı bir hizmet sağlayıcıya ödeme yapar, hizmet sağlayıcı bir çalışana ödeme yapar ve çalışan da bu bitcoin'i bir müşteri olarak yeniden harcar.](/micrographics/local-circular-economy-01/tr.md)
 
 
 My First Bitcoin, [Bitcoin döngüsel ekonomilerini](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-circular-economy) destekler ve bunların birçoğu Bitcoin Eğitim Ağı'nın bir parçasıdır. Bu toplulukları [Ağ Panosu](https://network.myfirstbitcoin.org/?min10merchants=1) üzerinden keşfedin.

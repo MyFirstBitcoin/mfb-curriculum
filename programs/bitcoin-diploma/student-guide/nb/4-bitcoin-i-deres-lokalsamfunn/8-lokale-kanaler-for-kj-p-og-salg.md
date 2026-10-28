@@ -24,6 +24,7 @@ Ved veksling ansikt til ansikt bør De bruke et offentlig og egnet sted, unngå 
 
 
 <!-- micrographic: compare-local-pathways-01 -->
+[En tom tabell for å sammenligne tre lokale alternativer, A, B og C, etter navn, KYC-krav, oppbevaringsmodell, støttede nettverk, omdømme og innbetalingsmetoder, med plass til notater.](/micrographics/compare-local-pathways-01/nb.md)
 
 
 

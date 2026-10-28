@@ -6,6 +6,7 @@ Bitcoin, daha önce tek bir [varlıkta](https://curriculum.myfirstbitcoin.org/le
 
 
 <!-- micrographic: bitcoin-money-properties-01 -->
+[Bitcoin, paranın yedi özelliğini tek bir varlıkta birleştirir: dayanıklılık, taşınabilirlik, bölünebilirlik, misliyet, kıtlık, doğrulanabilirlik ve kabul edilebilirlik. Her birinin, anahtarları güvende tutmak ve pek çok toplulukta hâlâ düşük olan kabul düzeyi gibi pratik sınırları vardır.](/micrographics/bitcoin-money-properties-01/tr.md)
 
 
 

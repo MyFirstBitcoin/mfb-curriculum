@@ -13,6 +13,7 @@ Show the separation among:
 
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[A wallet holds the keys. With them you can receive and send bitcoin, while the bitcoin itself stays recorded on the shared ledger, not inside the phone or device.](/micrographics/wallet-manages-keys-01/en.md)
 
 
 Ask:

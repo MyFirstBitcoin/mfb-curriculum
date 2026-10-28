@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: self-custody-responsibilities-01 -->
+[Nadzor nad ključi je v središču osmih odgovornosti: varnostnega kopiranja, obnovitve, prejemanja, pošiljanja, izbire orodja, načina pridobitve, zasebnosti in preverjanja prevar. Vsaka od njih nekaj varuje, napaka pri kateri koli pa vas lahko stane dostopa, denarja ali zasebnosti.](/micrographics/self-custody-responsibilities-01/sl.md)
 
 
 
 <!-- micrographic: responsibility-checks-01 -->
+[Tabela s šestimi nalogami pri samostojni hrambi, s tem, kaj pri vsaki zaščititi ali preveriti in kaj se lahko zgodi, če gre kaj narobe: varnostna kopija, prejemanje, pošiljanje, hramba, izbira orodja in pridobivanje.](/micrographics/responsibility-checks-01/sl.md)
 
 
 Predstavljajte si, da vam prijatelj pošlje zahtevek za plačilo, medtem ko vam neznan račun za podporo sporoča, da morate ukrepati takoj. Kaj bi lahko preverili, preden kar koli storite? Ali znate zaščititi načrt za obnovitev dostopa, ločiti podatke za prejemanje od zaupnih podatkov ter pred pošiljanjem preveriti osebo, način plačila, cilj, znesek in končni zaslon? Ne glede na to, ali ključe nadzoruje ponudnik storitve ali vi, je praktični povzetek enak: varujte zaupne podatke, preverite pred potrditvijo, prepoznajte znake prevare in med učenjem omejite posledice napak.

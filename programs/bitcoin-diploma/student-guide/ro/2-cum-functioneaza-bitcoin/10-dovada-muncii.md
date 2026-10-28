@@ -3,6 +3,7 @@
 ![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
+<!-- card: definition -->
 > **Definition – Dovada Muncii**
 >
 > [Dovada Muncii](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) este procesul prin care [minerii](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) concurează pentru dreptul de a propune următorul bloc.
@@ -14,6 +15,7 @@ Când un [miner](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) găse�
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Un miner calculează în mod repetat hashul unui bloc propus până când un rezultat este sub ținta rețelei, apoi difuzează blocul. Nodurile verifică rapid dovada și respectarea fiecărei reguli înainte ca blocul să fie inclus în blockchain: munca este costisitoare de realizat și ușor de verificat.](/micrographics/proof-of-work-process-01/ro.md)
 
 
 [Dovada Muncii](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) îndeplinește mai multe scopuri:

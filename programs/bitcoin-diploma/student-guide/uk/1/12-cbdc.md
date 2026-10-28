@@ -1,5 +1,6 @@
 # 1.12 Цифрові валюти центральних банків (CBDC)
 
+<!-- card: definition -->
 > **Definition – Цифрова валюта центрального банку (CBDC)**
 >
 > Така [цифрова валюта центрального банку](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), або [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), є цифровою формою [фіатних грошей](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money), випущеною як [зобов’язання](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability) з боку [центрального банку](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank): це вимога, за якою [центральний банк](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) має зобов’язання перед її власником. Вона відрізняється від фізичної готівки та звичайного депозиту в комерційному банку, хоча досвід користування може здаватися подібним.
@@ -13,6 +14,7 @@
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[Таблиця, що порівнює готівку, банківські депозити, роздрібну цифрову валюту центрального банку та Біткоїн за емітентом, формою, доступом, видимістю платежів, правилами емісії та перевіркою. Цифровий не означає децентралізований: цифрову валюту центрального банку все одно випускає центральний банк, а доступ до неї, видимість платежів і можливість перевірки залежать від принципів її побудови.](/micrographics/cbdc-comparison-table-01/uk.md)
 
 
 Цифрова форма не означає автоматично децентралізованість, обмеженість пропозиції, приватність чи відкритість для незалежної перевірки. [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) може використовувати цифрові технології, але все одно залишається [фіатними грошима](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money), якщо її [емітент](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer), правила пропозиції, правила доступу та дозволи на платежі залишаються під централізованим управлінням.

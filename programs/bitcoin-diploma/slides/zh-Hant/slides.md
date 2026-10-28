@@ -75,7 +75,8 @@ theme: mfb
 * 跨越時間與距離的價值
 
 
-> **Callout – 隨堂提問**
+<!-- card: callout -->
+> **隨堂提問**
 >
 > 貨幣有助於解決哪些交換或協調上的問題？
 
@@ -108,7 +109,8 @@ theme: mfb
 沒有任何一種形式能在各方面都完美。「**健全貨幣**」是一種判斷：請明確說明標準，並以一致的方式進行比較。
 
 
-> **Callout – 批判性思考**
+<!-- card: callout -->
+> **批判性思考**
 >
 > 當您選擇某種貨幣或資產而非另一種時，哪些特性對您而言最為重要？
 
@@ -152,6 +154,7 @@ theme: mfb
 ---
 
 <!-- micrographic: same-water-different-value-01 -->
+[同一瓶乾淨的水，在容易取得水的商店冰箱裡很便宜，而在短缺期間的炎熱沙漠中則珍貴得多。可取得性、需求與情境都會改變價值與價格。](/micrographics/same-water-different-value-01/zh-Hant.md)
 
 ---
 
@@ -162,6 +165,7 @@ theme: mfb
 ---
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[一位金錢有限的購物者看著眼前的各種選擇：今天的食物、交通，或為日後儲蓄。選擇其中一項就意味著放棄其他選項，這就是機會成本；圖中並未將任何一個選項標示為正確答案。](/micrographics/one-choice-two-uses-01/zh-Hant.md)
 
 ---
 
@@ -195,6 +199,7 @@ theme: mfb
 ---
 
 <!-- micrographic: fiat-system-flows-01 -->
+[法定貨幣體系中的各個參與者及其相互之間的往來：中央銀行制定政策並為銀行進行清算，商業銀行持有存款，而這些存款是其對客戶的負債，支付服務傳遞支付指令，政府徵稅與支出，民眾與企業則進行付款與收款。](/micrographics/fiat-system-flows-01/zh-Hant.md)
 
 ---
 
@@ -230,10 +235,12 @@ theme: mfb
 ---
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[簡化的銀行貸款流程：借款人提出申請，銀行核准貸款並將一筆新的存款記入借款人的帳戶，之後借款人向銀行償還本金加上利息。](/micrographics/bank-loan-deposit-01/zh-Hant.md)
 
 ---
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[流動性風險：許多存款人今天排隊提款，儘管銀行的貸款日後仍可能獲得償還，但銀行目前缺乏足夠的現金。償付能力風險：借款人的房屋貸款違約，銀行資產的價值變得低於其負債。](/micrographics/liquidity-vs-solvency-01/zh-Hant.md)
 
 ---
 
@@ -255,6 +262,7 @@ theme: mfb
 ---
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[同樣 100 單位的貨幣，在一籃基本商品售價 100 時可以買下整籃，但當同一籃商品售價 110 時就買不起了。物價水準上升，貨幣的購買力隨之下降。](/micrographics/same-money-smaller-basket-01/zh-Hant.md)
 
 ---
 
@@ -308,7 +316,8 @@ CBDC（中央銀行數位貨幣）是以中央銀行負債形式發行的數位�
 各國設計不盡相同。數位化並不自動代表去中心化、稀缺、具隱私性或可獨立驗證。
 
 
-> **Callout – 檢視重點**
+<!-- card: callout -->
+> **檢視重點**
 >
 > 由誰發行？誰可以使用？蒐集哪些資料？誰能封鎖支付或更改規則？離線時會如何運作？又有哪些法律保障？
 
@@ -327,7 +336,8 @@ CBDC（中央銀行數位貨幣）是以中央銀行負債形式發行的數位�
 是什麼讓您的貨幣有用？又有哪些規則取決於您所信任的機構？
 
 
-> **Callout – 反思時刻**
+<!-- card: callout -->
+> **反思時刻**
 >
 > 關於貨幣，有哪一個問題是您現在會問、但以前不曾問過的？
 
@@ -357,6 +367,7 @@ CBDC（中央銀行數位貨幣）是以中央銀行負債形式發行的數位�
 ---
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[使用支付公司時，由單一機構保管帳本並核准每一筆轉帳。使用比特幣時，付款人簽署一筆交易，由獨立節點進行驗證，再由礦工將其加入同一本共享帳本，因此收款人較不需要依賴中央機構。](/micrographics/central-ledger-vs-bitcoin-01/zh-Hant.md)
 
 ---
 
@@ -393,6 +404,7 @@ CBDC（中央銀行數位貨幣）是以中央銀行負債形式發行的數位�
 ---
 
 <!-- micrographic: five-part-response-01 -->
+[五個部分結合起來，解決雙重支付問題：點對點網路、數位簽章、區塊與挖礦、獨立驗證，以及累積最多工作量證明的共同歷史。它們共同使網路無需中央機構，即可拒絕第二次支出。](/micrographics/five-part-response-01/zh-Hant.md)
 
 ---
 
@@ -411,6 +423,7 @@ CBDC（中央銀行數位貨幣）是以中央銀行負債形式發行的數位�
 ---
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[寫在網站上或發行方資料庫中的供應量上限，可能被該發行方悄悄更改。比特幣的供應規則是公開的，簽章、公開的交易紀錄、工作量證明與節點驗證共同防止憑空創造新幣，或同一枚比特幣被花用兩次。](/micrographics/claimed-or-verified-supply-01/zh-Hant.md)
 
 ---
 
@@ -452,12 +465,14 @@ CBDC（中央銀行數位貨幣）是以中央銀行負債形式發行的數位�
 ---
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[發送者簽署一筆交易，並將其廣播至網路中的許多節點，這些節點會逐一傳遞該交易，直到送達接收者。發送者與接收者都不需要經過任何比特幣中央營運者的核准。](/micrographics/peer-to-peer-route-01/zh-Hant.md)
 
 ---
 
 ![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[比特幣中的四種角色：使用者接收、持有並發送比特幣，節點獨立驗證規則，礦工以工作量證明建構候選區塊，開發者則提出軟體。沒有任何單一角色能控制整個網路。](/micrographics/bitcoin-participant-roles-01/zh-Hant.md)
 
 ---
 
@@ -466,7 +481,8 @@ CBDC（中央銀行數位貨幣）是以中央銀行負債形式發行的數位�
 礦工無法讓誠實節點接受無效的區塊。開發者無法強迫他人採用軟體。同一個人可以同時扮演多種角色。
 
 
-> **Callout – 隨堂提問**
+<!-- card: callout -->
+> **隨堂提問**
 >
 > 節點為什麼要驗證交易？請說出一項它會檢查的規則。
 
@@ -489,6 +505,7 @@ CBDC（中央銀行數位貨幣）是以中央銀行負債形式發行的數位�
 ![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 <!-- micrographic: proof-of-work-process-01 -->
+[礦工對一個提議的區塊反覆進行雜湊運算，直到某個結果低於網路的目標值，然後廣播該區塊。節點會快速驗證工作證明與每一項規則，之後該區塊才會加入區塊鏈：工作的產生成本高昂，但驗證卻十分容易。](/micrographics/proof-of-work-process-01/zh-Hant.md)
 
 ---
 
@@ -509,10 +526,12 @@ CBDC（中央銀行數位貨幣）是以中央銀行負債形式發行的數位�
 ---
 
 <!-- micrographic: bitcoin-issuance-supply-01 -->
+[區塊補貼從 50 比特幣開始，每 210,000 個區塊減半一次，而已發行的比特幣總量則逐步趨近 2,100 萬的上限。交易手續費另行支付，並非新發行的比特幣；本圖不代表任何價格預測。](/micrographics/bitcoin-issuance-supply-01/zh-Hant.md)
 
 ---
 
 <!-- micrographic: bitcoin-issuance-subsidy-01 -->
+[區塊補貼從 50 比特幣開始，每 210,000 個區塊減半一次，而已發行的比特幣總量則逐步趨近 2,100 萬的上限。交易手續費另行支付，並非新發行的比特幣；本圖不代表任何價格預測。](/micrographics/bitcoin-issuance-subsidy-01/zh-Hant.md)
 
 ---
 
@@ -528,7 +547,8 @@ CBDC（中央銀行數位貨幣）是以中央銀行負債形式發行的數位�
 **單位偏誤：** 每一整個單位的價格較低，並不能證明更有價值。請比較其占總供給量的比例、所涉及的價值以及風險。
 
 
-> **Callout – 展現您的理解**
+<!-- card: callout -->
+> **展現您的理解**
 >
 > 0.01 BTC 等於多少聰？為什麼可以使用少於一整枚比特幣的金額？
 
@@ -586,7 +606,8 @@ CBDC（中央銀行數位貨幣）是以中央銀行負債形式發行的數位�
 * 不構成任何買進、賣出或持有的指示
 
 
-> **Callout – 在地價值檢核**
+<!-- card: callout -->
+> **在地價值檢核**
 >
 > 區分市場價格、在地接受程度，以及個人偏好或偏見。
 
@@ -601,6 +622,7 @@ Satoshi Nakamoto（中本聰）是一個化名；其創造者是一人還是多�
 ---
 
 <!-- micrographic: bitcoin-origin-timeline-01 -->
+[比特幣起源的四個日期事件：2008年10月31日，中本聰（Satoshi Nakamoto）發表白皮書，描述無需金融中介的直接線上支付；2009年1月3日，創世區塊啟動了比特幣網路，其中附有一則關於銀行紓困的新聞標題；2009年1月12日，中本聰將比特幣發送給 Hal Finney，完成有紀錄以來的首筆個人對個人交易；2010年5月22日，一位使用者以 10,000 BTC 購買了兩個披薩，這一天如今被稱為比特幣披薩日。](/micrographics/bitcoin-origin-timeline-01/zh-Hant.md)
 
 ---
 
@@ -629,7 +651,8 @@ Satoshi Nakamoto（中本聰）是一個化名；其創造者是一人還是多�
 * 交易排序 → 工作量證明；設備與能源成本
 
 
-> **Callout – 反思時刻**
+<!-- card: callout -->
+> **反思時刻**
 >
 > 現在的您，會用不同的方式解釋比特幣設計中的哪一部分？為什麼？
 
@@ -674,6 +697,7 @@ Satoshi Nakamoto（中本聰）是一個化名；其創造者是一人還是多�
 ---
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[錢包保管的是金鑰。有了金鑰，您就能接收和傳送比特幣，而比特幣本身始終記錄在共享帳本上，並不存放在手機或裝置裡。](/micrographics/wallet-manages-keys-01/zh-Hant.md)
 
 ---
 
@@ -699,13 +723,15 @@ Satoshi Nakamoto（中本聰）是一個化名；其創造者是一人還是多�
 切勿分享私鑰、助記詞、密碼或復原碼。任何正當的教育者、客服人員、錢包公司、交易所員工或開發者都不需要這些資訊。
 
 
-> **Callout – 動手試試**
+<!-- card: callout -->
+> **動手試試**
 >
 > 請將準備好的範例分類為：收款資訊、機密資訊，以及一旦與個人連結便會變得敏感的公開資訊。
 
 ---
 
 <!-- micrographic: private-key-public-info-01 -->
+[一把絕不可分享的秘密私鑰，可衍生出能夠分享的公開資訊：由私鑰推導出的公鑰，以及再由公鑰產生的收款地址。同一把私鑰也會產生簽章，節點能驗證這些簽章，卻永遠不會得知私鑰。](/micrographics/private-key-public-info-01/zh-Hant.md)
 
 ---
 
@@ -738,7 +764,8 @@ Satoshi Nakamoto（中本聰）是一個化名；其創造者是一人還是多�
 公開的區塊鏈無法證明服務商對特定客戶負有多少債務。自我託管仍可能依賴軟體、硬體、伺服器與網路。
 
 
-> **Callout – 動手試試**
+<!-- card: callout -->
+> **動手試試**
 >
 > 請比較兩份預先準備的描述：誰掌控金鑰？誰負責恢復存取權限？又有哪些風險需要檢查？
 
@@ -749,6 +776,7 @@ Satoshi Nakamoto（中本聰）是一個化名；其創造者是一人還是多�
 ---
 
 <!-- micrographic: who-controls-keys-01 -->
+[在託管式使用中，由服務商掌控金鑰並核准支出，因此餘額只是它的承諾。在自主保管的使用中，由使用者掌控金鑰與備份；兩種方式都有其依賴條件與失敗風險。](/micrographics/who-controls-keys-01/zh-Hant.md)
 
 ---
 
@@ -776,6 +804,7 @@ Satoshi Nakamoto（中本聰）是一個化名；其創造者是一人還是多�
 ---
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[復原練習錢包的六步驟練習：遵循官方說明、確認相容性、在私密環境中操作、使用核可的復原方法、確認為預期的錢包，然後重設。僅限使用預先準備、空白或模擬的教材，且講師絕不會看到復原詞。](/micrographics/practice-wallet-recovery-01/zh-Hant.md)
 
 ---
 
@@ -804,6 +833,7 @@ Satoshi Nakamoto（中本聰）是一個化名；其創造者是一人還是多�
 ---
 
 <!-- micrographic: pre-send-checklist-01 -->
+[在核准付款之前，付款人會檢查收款人與付款目的、付款方式、目的地，以及金額、單位、手續費或有效期限；若不熟悉流程，則先進行小額測試。若有任何不一致，付款人會停下來查證；唯有一切相符時才核准，之後再檢查結果。](/micrographics/pre-send-checklist-01/zh-Hant.md)
 
 ---
 
@@ -823,6 +853,7 @@ Satoshi Nakamoto（中本聰）是一個化名；其創造者是一人還是多�
 ---
 
 <!-- micrographic: confirmation-timeline-01 -->
+[一筆交易先在待處理交易池中等待，尚未確認，接著被納入區塊 N，獲得第一次確認，之後每新增一個區塊，就再增加一次確認。](/micrographics/confirmation-timeline-01/zh-Hant.md)
 
 ---
 
@@ -835,7 +866,8 @@ Satoshi Nakamoto（中本聰）是一個化名；其創造者是一人還是多�
 **暫停。不分享任何資訊。不傳送任何東西。關閉該管道。獨立查證。在不洩露機密的情況下尋求協助。**
 
 
-> **Callout – 動手試試**
+<!-- card: callout -->
+> **動手試試**
 >
 > 請找出一則預先準備的訊息中的警訊、可能造成的損失，以及第一個安全的應對行動。
 
@@ -844,6 +876,7 @@ Satoshi Nakamoto（中本聰）是一個化名；其創造者是一人還是多�
 ---
 
 <!-- micrographic: scam-red-flags-01 -->
+[五個詐騙警訊：緊迫催促、冒充身分、更改收款目的地、保證報酬，以及索取機密資訊。](/micrographics/scam-red-flags-01/zh-Hant.md)
 
 ---
 
@@ -860,10 +893,12 @@ Satoshi Nakamoto（中本聰）是一個化名；其創造者是一人還是多�
 ---
 
 <!-- micrographic: ways-to-receive-bitcoin-01 -->
+[一個人可以透過四種不同方式取得比特幣：藉由工作或銷售賺取、與他人以當地現金交換、使用交易所或經紀商，或使用 ATM。每種途徑最終都會進入自行保管或託管餘額，且並未特別推薦其中任何一種。](/micrographics/ways-to-receive-bitcoin-01/zh-Hant.md)
 
 ---
 
 <!-- micrographic: exchange-risk-questions-01 -->
+[取得或兌換比特幣之前應檢查的六個風險面向，每個面向都附有一個應提出的問題：費用、保管、身分與隱私、提領與結算、交易對手與安全，以及在地情況。](/micrographics/exchange-risk-questions-01/zh-Hant.md)
 
 ---
 
@@ -909,7 +944,8 @@ Satoshi Nakamoto（中本聰）是一個化名；其創造者是一人還是多�
 一位朋友向您提出請求，同時一個陌生的客服要求您立即採取行動。在採取任何行動之前，您可以確認哪些事項？
 
 
-> **Callout – 反思時刻**
+<!-- card: callout -->
+> **反思時刻**
 >
 > 在採取行動之前，您會停下來進行哪一項安全確認？
 
@@ -928,6 +964,7 @@ Satoshi Nakamoto（中本聰）是一個化名；其創造者是一人還是多�
 ## 您的在地單元 4
 
 <!-- micrographic: local-module-four-actions-01 -->
+[在在地化的第 4 單元中，學習者依序進行四項行動：將第 1 至第 3 單元中的概念與在地需求連結起來；將比特幣與實際存在的現有選項進行比較；在指導下安全地練習；以及說明所學內容與負責任的下一步行動。整個過程中，都有他們的教育者（有時還有在地專家）從旁引導。](/micrographics/local-module-four-actions-01/zh-Hant.md)
 
 
 請記錄您所關注的在地重點：問題或機會、替代方案、安全情境、主要益處與風險，以及安全的下一步。
@@ -979,10 +1016,12 @@ Satoshi Nakamoto（中本聰）是一個化名；其創造者是一人還是多�
 ---
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[收款方在手機上建立一筆附有金額的閃電網路付款請求，付款方掃描後付款，片刻後款項便出現在收款方的手機上。](/micrographics/lightning-phone-payment-01/zh-Hant.md)
 
 ---
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[閃電網路付款的六個步驟：收款人建立付款請求，付款人掃描該請求，檢查收款人、金額、單位、有效期限與手續費後予以核准，付款經由網路傳送，雙方錢包隨即顯示結果。每個錢包可能是託管式或自主託管式；若付款失敗或過期，則須建立新的付款請求重新開始。](/micrographics/lightning-payment-sequence-01/zh-Hant.md)
 
 ---
 
@@ -1034,6 +1073,7 @@ Satoshi Nakamoto（中本聰）是一個化名；其創造者是一人還是多�
 ---
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[咖啡店付款的四個步驟：顧客點餐，店員傳送發票，顧客用手機以比特幣付款，店員交付咖啡。](/micrographics/coffee-shop-payment-01/zh-Hant.md)
 
 ---
 
@@ -1094,6 +1134,7 @@ Satoshi Nakamoto（中本聰）是一個化名；其創造者是一人還是多�
 ---
 
 <!-- micrographic: local-circular-economy-01 -->
+[在比特幣循環經濟中，比特幣在人與人之間流轉，用以交換商品、服務與時間。顧客支付給商家，商家支付給服務供應商，服務供應商支付給工作者，工作者再以顧客的身分將其花用。](/micrographics/local-circular-economy-01/zh-Hant.md)
 
 ---
 
@@ -1151,6 +1192,7 @@ _資源中心_
 * 有益的社群參與應出於自願，並保護每一個人
 
 
-> **Callout – 反思片刻**
+<!-- card: callout -->
+> **反思片刻**
 >
 > 在判斷比特幣方案是否符合在地需求之前，您會提出什麼問題？

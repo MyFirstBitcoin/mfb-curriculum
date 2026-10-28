@@ -10,6 +10,7 @@ Ensine:
 
 
 <!-- micrographic: bitcoin-issuance-schedule-01 -->
+[O subsídio por bloco começa em 50 bitcoins e cai pela metade a cada 210.000 blocos, enquanto o total de bitcoin emitido sobe em direção ao limite de 21 milhões. As taxas de transação são pagas à parte e não são bitcoins novos; nenhuma previsão de preço está implícita.](/micrographics/bitcoin-issuance-schedule-01/pt-BR.md)
 
 
 O limite é uma regra pública da rede, não uma lei da física. Uma pessoa pode escrever outro software, mas não pode obrigar os participantes existentes a adotá-lo. Uma adoção incompatível pode criar uma rede diferente, em vez de alterar silenciosamente o Bitcoin para todos.

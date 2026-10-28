@@ -4,6 +4,7 @@ Skozi delavnico boste napredovali v treh fazah: **Predstavitev**, pri kateri vam
 
 
 <!-- micrographic: presentation-practice-production-01 -->
+[Praktične spretnosti se učimo v treh fazah, od leve proti desni: predstavitev, pri kateri izobraževalec pokaže postopek in z njim povezana tveganja, nato vaja, vodeno utrjevanje z varnimi učnimi pripomočki, nato samostojna izvedba, pri kateri udeleženec samostojno opravi nalogo ali pojasni odločitev.](/micrographics/presentation-practice-production-01/sl.md)
 
 
 Vaša delavnica lahko vključuje:

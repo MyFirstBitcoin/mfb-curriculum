@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[Prekybininkas, priimantis Bitcoin, dirba keturiose srityse: rinkodaros, mokymų, apskaitos ir pardavimų.](/micrographics/merchant-payment-operations-01/lt.md)
 
 
 Prekybininkui reikia daugiau nei vien gavimo mygtuko. Visas mokėjimo procesas gali apimti kainodarą, darbuotojų mokymą, kvitus, lėšų grąžinimą, [lėšų saugojimą](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), konvertavimą, apskaitą, mokesčius, įrenginių saugumą ir pagalbą.

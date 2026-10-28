@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[Ang isang mangangalakal na tumatanggap ng Bitcoin ay gumagawa sa apat na larangan: pagmemerkado, pagsasanay, pagtutuos at pagbebenta.](/micrographics/merchant-payment-operations-01/tl.md)
 
 
 Higit pa sa isang pindutang pantanggap ang kailangan ng isang negosyante. Maaaring kabilang sa buong proseso ng pagbabayad ang pagtatakda ng presyo, pagsasanay ng mga kawani, mga resibo, pagsasauli ng bayad, [pangangalaga ng pondo](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), pagpapalit ng pera, pagtutuos, mga buwis, seguridad ng device, at suporta.

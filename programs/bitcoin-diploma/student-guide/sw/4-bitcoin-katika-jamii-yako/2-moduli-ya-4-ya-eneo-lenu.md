@@ -10,6 +10,7 @@ Shughuli yenu ya **Moduli 4** ya ndani itawasaidia:
 
 
 <!-- micrographic: local-module-four-actions-01 -->
+[Katika Moduli ya 4 ya kienyeji, mwanafunzi hupitia vitendo vinne: kuunganisha wazo kutoka Moduli ya 1 hadi ya 3 na hitaji la kienyeji, kulinganisha Bitcoin na chaguo halisi lililopo, kufanya mazoezi kwa usalama kwa mwongozo, na kueleza alichojifunza pamoja na hatua inayofuata ya kuwajibika. Mwalimu wake, na wakati mwingine mtaalamu wa kienyeji, humwongoza katika kipindi chote.](/micrographics/local-module-four-actions-01/sw.md)
 
 
 Shughuli yenu inaweza kuchunguza maswali kama vile:

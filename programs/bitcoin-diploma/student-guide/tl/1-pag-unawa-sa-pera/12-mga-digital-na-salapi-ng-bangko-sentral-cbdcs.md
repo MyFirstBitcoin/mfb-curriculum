@@ -1,5 +1,6 @@
 # 1.12 Mga Digital na Salapi ng Bangko Sentral (CBDCs)
 
+<!-- card: definition -->
 > **Definition – Digital na salapi ng bangko sentral (CBDC)**
 >
 > Ang [digital na salapi ng bangko sentral](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), o [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), ay isang digital na anyo ng [salaping fiat](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) na inilalabas bilang isang [pananagutan](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability) ng isang [bangko sentral](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank): ito ay kumakatawan sa halagang dapat bayaran ng [bangko sentral](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) sa may hawak nito. Naiiba ito sa pisikal na salapi at sa karaniwang deposito sa isang komersiyal na bangko, bagaman maaaring magkatulad ang karanasan sa paggamit ng mga ito.
@@ -13,6 +14,7 @@ Susunod, itanong ninyo kung ano ang pinahihintulutan ng disenyo. Depende sa mga 
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[Isang talahanayang naghahambing ng perang cash, mga deposito sa bangko, isang retail CBDC at Bitcoin batay sa kung sino ang nag-iisyu ng mga ito, sa kanilang anyo, kung sino ang maaaring gumamit, kung sino ang nakakakita ng mga pagbabayad, mga tuntunin sa suplay at paraan ng beripikasyon. Ang pagiging digital ay hindi katumbas ng pagiging desentralisado: ang CBDC ay iniisyu pa rin ng bangko sentral, at nakadepende sa disenyo nito kung sino ang maaaring gumamit, kung sino ang nakakakita ng mga pagbabayad at kung paano ito mabeberipika.](/micrographics/cbdc-comparison-table-01/tl.md)
 
 
 Ang pagiging digital ay hindi awtomatikong nangangahulugang desentralisado, limitado ang suplay, pribado, o bukas sa malayang pagberipika. Ang isang [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) ay maaaring gumamit ng digital na teknolohiya, ngunit ito ay nananatiling [salaping fiat](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) kung ang [tagapaglabas](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer) nito, mga tuntunin sa suplay, mga tuntunin sa akses, at mga pahintulot sa pagbabayad ay nananatiling pinamamahalaan sa sentralisadong paraan.

@@ -11,6 +11,7 @@ Bitcoin n’était pas la première tentative de création d’une monnaie numé
 Ensemble, ces expériences ont apporté des pièces utiles au puzzle. Elles ont aussi permis de préciser le problème qui restait à résoudre.
 
 
+<!-- card: definition -->
 > **Definition – Double dépense**
 >
 > [La double dépense](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending) consiste à tenter d’envoyer la même unité numérique à deux destinataires. Les données numériques peuvent être copiées à l’identique : un système de monnaie numérique doit donc disposer d’un moyen de déterminer quelle [transaction](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) est valide.
@@ -28,6 +29,7 @@ Le livre blanc réunissait les caractéristiques nécessaires à cette approche�
 
 
 <!-- micrographic: five-part-response-01 -->
+[Cinq éléments se combinent pour résoudre le problème de la double dépense : un réseau pair à pair, des signatures numériques, des blocs et le minage, une vérification indépendante et un historique partagé ayant le plus de preuves de travail cumulées. Ensemble, ils permettent au réseau de rejeter une seconde dépense sans autorité centrale.](/micrographics/five-part-response-01/fr-FR.md)
 
 
 Ce module explique ces concepts plus en détail. Ensemble, ils ont apporté une réponse concrète au [problème de la double dépense](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending) : le réseau peut rejeter une seconde tentative de dépenser le même bitcoin sans dépendre d’une autorité centrale. Bitcoin a apporté la combinaison manquante que des décennies d’expérimentations en matière de monnaie numérique avaient cherché à mettre au point.

@@ -1,7 +1,7 @@
 {
   "release": "26.10",
-  "rendererVersion": 10,
-  "syncedAt": "2026-10-26T20:47:57.341Z",
+  "rendererVersion": 11,
+  "syncedAt": "2026-10-28T00:15:21.428Z",
   "programs": [
     "advanced-modules",
     "bitcoin-diploma",

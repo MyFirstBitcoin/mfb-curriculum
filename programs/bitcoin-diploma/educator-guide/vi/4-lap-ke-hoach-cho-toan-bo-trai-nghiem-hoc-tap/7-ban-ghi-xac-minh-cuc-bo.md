@@ -19,3 +19,4 @@ Hãy ưu tiên các nguồn sơ cấp có thẩm quyền khi tra cứu quy đị
 
 
 <!-- micrographic: local-verification-cycle-01 -->
+[Nhà giáo xác định từng nhận định về địa phương có thể thay đổi, xác minh bằng nguồn thông tin hiện hành, ghi lại ngày kiểm tra và các giới hạn của thông tin, giảng dạy bằng cách diễn đạt có nêu rõ điều kiện và giới hạn, rồi kiểm tra lại trước khi sử dụng lại. Khi thông tin thực tế chưa chắc chắn, họ dùng ví dụ an toàn hơn hoặc phương án dự phòng.](/micrographics/local-verification-cycle-01/vi.md)

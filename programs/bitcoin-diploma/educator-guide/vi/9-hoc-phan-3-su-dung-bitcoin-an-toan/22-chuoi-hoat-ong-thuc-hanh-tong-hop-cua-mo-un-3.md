@@ -19,3 +19,4 @@ Không sử dụng các trạm để đánh giá chính thức trừ khi các nh
 
 
 <!-- micrographic: practice-circuit-stations-01 -->
+[Học viên luân phiên qua tám trạm thực hành: lưu ký, công khai hay bí mật, nhận, gửi, khôi phục, trình khám phá, lừa đảo và lộ trình. Một luồng quan sát riêng đi theo lộ trình đã được phê duyệt, để hoạt động thực hành nhóm không bao giờ bị nhầm là đánh giá chính thức.](/micrographics/practice-circuit-stations-01/vi.md)

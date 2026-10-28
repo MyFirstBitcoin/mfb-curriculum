@@ -22,7 +22,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.7 | [Ֆիատ փող](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hy/1/7.md) |
 |  | 1.8 | [Մասնակի պահուստավորմամբ բանկային համակարգ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hy/1/8.md) |
 |  | 1.9 | [Գնաճ և գնողունակություն](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hy/1/9.md) |
-|  | 1.10 | [Ինչո՞ւ է ԱՄՆ դոլարը համաշխարհային պահուստային արժույթ։](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hy/1/10.md) |
+|  | 1.10 | [Ինչու է ԱՄՆ դոլարը համաշխարհային պահուստային արժույթ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hy/1/10.md) |
 |  | 1.11 | [Խնայողության և արժեքի պահպանման այլընտրանքներ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hy/1/11.md) |
 |  | 1.12 | [Կենտրոնական բանկերի թվային արժույթներ (CBDCs)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hy/1/12-cbdcs.md) |
 |  | 1.13 | [Ամփոփում․ ինչպե՞ս կարող է փողը խափանվել](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hy/1/13.md) |
@@ -62,7 +62,7 @@ introduction, learning objectives, or notes for educators.
 |  | 3.14 | [Ներշղթայական և Լայթնինգ վճարումներ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hy/3/14.md) |
 |  | 3.15 | [Գործնական հմտությունների ստուգում՝ դասավանդողի դիտարկմամբ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hy/3/15.md) |
 |  | 3.16 | [Կրկնություն․ ի՞նչ է նշանակում ինքնուրույն պահառության պատասխանատվությունը։](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hy/3/16.md) |
-|  |  | [Բիթքոյնի անվտանգ օգտագործում. արագ ստուգում](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hy/3/_quiz.md) |
+|  |  | [Բիթքոյնի անվտանգ օգտագործումը․ արագ ստուգում](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hy/3/_quiz.md) |
 | **[Բիթքոյնը Ձեր համայնքում](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/main/programs/bitcoin-diploma/student-guide/hy/4)** | 4.1 | [Բիթքոյնը Ձեր համայնքում](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hy/4/1.md) |
 |  | 4.2 | [Ձեր տեղական մոդուլ 4-ը](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hy/4/2-4.md) |
 |  | 4.3 | [Գործնական աշխատաժողովներ և ցուցադրություններ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/hy/4/3.md) |

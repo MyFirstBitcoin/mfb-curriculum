@@ -8,6 +8,7 @@ Peer-to-peer neznamená vždy, že spolu přímo komunikují pouze dva počíta�
 
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[Odesílatel podepíše transakci a rozešle ji mnoha uzlům sítě, které ji předávají dál, dokud nedorazí k příjemci. Odesílatele ani příjemce nemusí schvalovat žádný centrální provozovatel sítě Bitcoin.](/micrographics/peer-to-peer-route-01/cs.md)
 
 
 Uživatelé si přesto mohou zvolit [zprostředkovatele](https://curriculum.myfirstbitcoin.org/lexicon/en/#intermediary). Směnárna může pro zákazníky držet bitcoin. Platební služba může zjednodušit vystavení faktury. Hostovaná peněženka může spravovat klíče. Tyto služby mohou být pohodlné, uživatel je však potom závislý na pravidlech a zabezpečení dané služby.

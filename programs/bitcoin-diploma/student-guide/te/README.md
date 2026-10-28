@@ -22,7 +22,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.7 | [ఫియట్ డబ్బు](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/te/1/7.md) |
 |  | 1.8 | [పాక్షిక నిల్వ బ్యాంకింగ్](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/te/1/8.md) |
 |  | 1.9 | [ద్రవ్యోల్బణం మరియు కొనుగోలు శక్తి](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/te/1/9.md) |
-|  | 1.10 | [అమెరికా డాలర్ ప్రపంచ రిజర్వ్ కరెన్సీగా ఎందుకు ఉంది?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/te/1/10.md) |
+|  | 1.10 | [అమెరికా డాలర్ ప్రపంచ రిజర్వ్ కరెన్సీగా ఎందుకు ఉంది](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/te/1/10.md) |
 |  | 1.11 | [పొదుపు చేయడానికి మరియు విలువను నిల్వ చేసుకోవడానికి ప్రత్యామ్నాయాలు](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/te/1/11.md) |
 |  | 1.12 | [కేంద్ర బ్యాంకు డిజిటల్ కరెన్సీలు (CBDCs)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/te/1/12-cbdcs.md) |
 |  | 1.13 | [సమీక్ష: డబ్బు ఎలా విఫలమవుతుంది?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/te/1/13.md) |

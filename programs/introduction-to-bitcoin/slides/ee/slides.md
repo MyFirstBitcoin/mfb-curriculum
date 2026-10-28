@@ -40,7 +40,8 @@ Menye be miakpɔe abe fetu ene alo miazãe o, ke boŋ be miabu nu si wònye kple
 * Ɖe miaƒe ga la ƒlea nu agbɔsɔsɔ si wòƒlea tsã la kea?
 
 
-> **Callout – Midzra miaƒe ŋuɖoɖowo ɖo**
+<!-- card: callout -->
+> **Midzra miaƒe ŋuɖoɖowo ɖo**
 >
 > Miŋlɔ ŋuɖoɖo kpui aɖe na biabia ɖe sia ɖe. Miagatrɔ ava wo gbɔ le nuwuwu.
 
@@ -85,6 +86,7 @@ Ele be ame eveawo siaa nadi nu si le ame bubu la si, le ɣeyiɣi ɖeka me eye le
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Mɔlu le Amina si eye wòdi afɔkpa, afɔkpa le Luis si eye wòdi nuɖaɖaƒe ami, eye nuɖaɖaƒe ami le Mei si eye wòdi nudzraɖodɔ. Wo dometɔ eve aɖeke mate ŋu atrɔ nuwo tẽ kple wo nɔewo o, elabena le ame eve ɖe sia ɖe dome la, ɖeke medi nusi ame bubu la le tsɔtsɔm na eya o.](/micrographics/barter-mismatch-01/ee.md)
 
 <!-- notes: Mizã kpɔɖeŋu si le mɔfiamegbalẽ la me: miedoa mɔli eye miehiã afɔkpa, gake afɔkpadzala la hiã nuɖaami, menye mɔli o. Ganyawo ŋuti nunyalawo yɔa esia be ame eve ƒe nuhiahiãwo ƒe ɖekpekpe. -->
 
@@ -151,6 +153,7 @@ Ne amewo se nya si nye ga ƒe asixɔxɔ ƒe ɖeɖi la, zi geɖe la wosusuna be n
 ## Asidzidede kple Nuƒleŋusẽ
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Ga ƒe akpa 100 ma ke ate ŋu aƒle nu veviwo katã le kusi la me ne woƒe asi nye 100, gake mate ŋu aƒle wo ne kusi ma ke me nuwo ƒe asi nye 110 o. Asiwo ƒe dzidzeme dzi ɖe edzi eye ga la ƒe nuƒleƒle ŋusẽ ɖiɖi.](/micrographics/same-money-smaller-basket-01/ee.md)
 
 <!-- notes: Asixɔxɔ ƒe dzidzeme nye nuwo ƒe asiwo katã ƒe dzidzeme si yi edzi ɖaa. Eƒe akpa bubu enye nuƒleŋusẽ: nu didi si ga ƒe dzidzenu ɖeka ate ŋu aƒle. Ne nu veviwo ƒe kusi ɖeka ƒe asi dzi tso ga ƒe dzidzenu 100 yi 110 la, ga ƒe dzidzenu 100 ma ke magate ŋu aƒle nu siwo katã le kusi la me o. -->
 
@@ -213,8 +216,7 @@ Ga si le miaƒe gadzraɖoƒe akɔnta dzi la to vovo na ga si le mia si: enye gad
 * Gake eƒe agbɔsɔsɔ kple sewo ate ŋu atrɔ, eye amesiwo zãnɛ la ƒe nya mekpɔa ŋusẽ geɖe le eŋu o
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Esia tae amewo le mɔ bubuwo dim, eye esia tae wowɔ Bitcoin.
 
 ---
@@ -233,6 +235,7 @@ Ga dijital si menɔa dziɖuɖuƒe ɖeka ƒe ŋusẽ te o, esi ƒe agbɔsɔsɔ ƒ
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Le gaxexe ƒe dɔwɔha gome la, habɔbɔ ɖeka léa akɔntaŋlɔɖi ƒe agbalẽ la ɖe asi eye wòɖoa asi ɖe gaɖoɖo ɖe sia ɖe dzi. Le Bitcoin gome la, gaɖola dea asi gaɖoɖo aɖe te, kɔmpiwuta siwo le kadodoa me eye wole wo ɖokui si la kɔa eme, eye bitcoin kɔlawo tsɔa ee kpena akɔntaŋlɔɖi ƒe agbalẽ ɖeka si wo katã zãna la ŋu, ale be gaxɔla ƒe ŋuɖoɖo ɖe dziɖuƒe ɖeka aɖe ŋu dzi ɖena kpɔtɔ.](/micrographics/central-ledger-vs-bitcoin-01/ee.md)
 
 <!-- notes: Hafi Bitcoin nadze, gaɖoɖo to internet dzi nɔa te ɖe habɔbɔ si dzi wokpɔa ŋu ɖo ŋu ɣesiaɣi: bank alo fexexe ƒe dɔwɔƒe si dzraa gaƒe nuŋlɔɖiwo ɖo, naa mɔɖeɖe akɔntawo, eye ate ŋu ana fexexe nade megbe, axe mɔ nɛ alo atrɔe megbe. Ele bɔbɔe be woawɔ dijital nyatakakawo ƒe kɔpi: ne woate ŋu azã dijital ga ɖeka zi eve la, mate ŋu awɔ dɔ abe ga ene o. Esiae nye ga ɖeka zãzã zi eve ƒe kuxi la. Satoshi Nakamoto nye ame ɖeka alo ameha aɖe si zãa ŋkɔ ma. -->
 
@@ -253,6 +256,7 @@ Kɔmpani aɖeke mate ŋu axe mɔ ɖe bitcoin si miawo ŋutɔ miele dzi kpɔm la 
 ## Seɖoƒe si ame sia ame ate ŋu aka ɖe edzi
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Ga ɖeɖe dɔwɔƒe ate ŋu atrɔ ga ƒe agbɔsɔsɔ ƒe se si woŋlɔ ɖe nyatakakadzraɖoƒe alo dɔwɔƒe la ƒe nyatakakadzraɖonu me adzaa. Bitcoin ƒe ga ƒe agbɔsɔsɔ ŋuti se le dutoƒo, eye asiŋɔŋlɔwo, ŋutinya si ame sia ame ate ŋu akpɔ, dɔwɔwɔ ƒe kpeɖodzi kple netwɔk mɔ̃wo ƒe emekɔkɔ wɔa dɔ ɖekae tsia ga yeye siwo se la meɖe mɔ na o ƒe wɔwɔ alo bitcoin ɖeka zazã zi eve nu.](/micrographics/claimed-or-verified-supply-01/ee.md)
 
 <!-- notes: Woɖea bitcoin yeye ɖe go le ɣeyiɣi ɖoɖo si ame sia ame ate ŋu akpɔ nu, eye kɔmputa siwo wɔa dɔ le wo ɖokui si, siwo woyɔna be kadodowo, gbea blɔk ɖesiaɖe si dzi se ma dzi o. Woate ŋu aka ɖe se si ɖo liƒo na bitcoin ƒe agbɔsɔsɔ dzi, elabena ame sia ame ate ŋu akpɔ egbɔ. Menye dzɔdzɔme ƒe se aɖe o: eli elabena ame siwo le gome kpɔm le ɖoɖoa me le edzi kpɔm be woawɔ ɖe edzi. Agbɔsɔsɔ si ŋu liƒo le mele efiãm be asi axɔ dzi godoo o; nu si dzi asi anɔ la nɔ te ɖe ale si amewo dii kple ale si wògbɔe siaa dzi. -->
 
@@ -264,6 +268,7 @@ Woate ŋu ama bitcoin ɖeka ɖe akpa sue 100,000,000 siwo woyɔna be satoshis al
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Tabela si me akpa eve le: 1 BTC nye 100,000,000 sats, 0.1 BTC nye 10,000,000 sats, 0.01 BTC nye 1,000,000 sats, 0.001 BTC nye 100,000 sats, eye 0.00000001 BTC nye 1 sat.](/micrographics/bitcoin-and-sats-01/ee.md)
 
 <!-- notes: Sats 100,000 nanɔ ame si kple bitcoin 0.001 nanɔ ame si fia ga ƒe agbɔsɔsɔ ɖeka. Miɖe susu vodada si nye be Bitcoin xɔ asi akpa le mia si elabena bitcoin ɖeka ƒe asi kɔ la ɖa. -->
 
@@ -272,6 +277,7 @@ Woate ŋu ama bitcoin ɖeka ɖe akpa sue 100,000,000 siwo woyɔna be satoshis al
 ## Ame ka naa Bitcoin wɔa dɔ?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Dɔ ene le Bitcoin me: zãlawo xɔa bitcoin, dzraa wo ɖo eye wodɔa wo ɖa, kadodoƒewo ŋutɔwo léa ŋku ɖe sewo dzi, blɔk kulawo wɔa blɔk siwo woate ŋu axɔ to dɔwɔwɔ ƒe kpeɖodzi me, eye sɔftwɛ wɔlawo ɖoa sɔftwɛ ŋu aɖaŋu. Dɔ ɖeka aɖeke mela ɖe kadodo blibo la dzi o.](/micrographics/bitcoin-participant-roles-01/ee.md)
 
 <!-- notes: Ezãlawo ɖoa bitcoin ɖa, xɔnɛ, eye wokpɔnɛ ɖe asi; node-wo léa ŋku ɖe gaɖoɖo ɖe sia ɖe kple block ɖe sia ɖe ŋu be woawɔ ɖe seawo nu; bitcoin kulawo doa ɖe wo nɔewo ŋu be woatsɔ block yeye akpe ɖe nuŋlɔɖia ŋu le miniti ewo ɖe sia ɖe me kloe. Ame sia ame ate ŋu akpɔ nuŋlɔɖi ma, si nye blockchain, eye egahi geɖe ŋutɔ be woagbugbɔ ae aŋlɔ. Nuxlɔɖi ŋuti nya aɖe: Bitcoin si wotsɔ ŋɔŋlɔdzesi gã B ŋlɔna la fia kadodomɔa alo ɖoɖoa zi geɖe; bitcoin si wotsɔ ŋɔŋlɔdzesi sue b ŋlɔna la fia ga la ŋutɔ. -->
 
@@ -307,6 +313,7 @@ Biabia gbã tso gakotoku ɖe sia ɖe ŋu: ame kae ɖua safuiawo dzi?
 ## Gakotoku kpɔa safuiwo dzi
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Gakotoku léa safuiwo ɖe asi. Miawoate ŋu axɔ bitcoin eye miaɖoe ɖa kple wo, ke bitcoin ŋutɔ ƒe nuŋlɔɖi nɔa akɔntagbalẽ si wo katã zãna la dzi, menɔa telefon alo mɔ̃a me o.](/micrographics/wallet-manages-keys-01/ee.md)
 
 <!-- notes: Bitcoin ƒe gakotoku nye dɔwɔnu, si nye app zi geɖe la, si naa mɔ mia be miaxɔ bitcoin, miakpɔ miaƒe bitcoin eye miaɖoe ɖa. Wometsɔ miaƒe bitcoin ɖoa miaƒe telefon me o: woŋlɔe ɖe blockchain dzi. Gakotoku la kpɔa safui siwo naa mɔ mia be miaɖo kpe edzi be mia tɔe eye miana mɔ fexexe la dzi. -->
 
@@ -331,6 +338,7 @@ Nyawo ƒe ɖoɖo aɖe, si me nya 12 alo 24 le zi geɖe la, si ate ŋu awɔ miaƒ
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Gbugbɔɖoanyi ƒe nyagbe nye nyawo ƒe xexlẽdzesi si woɖo ɖe ɖoɖo aɖe nu; le afisia la, enye kpɔɖeŋu nyawo wuieve siwo woŋlɔ ɖe agbalẽ dzi eye wode xexlẽdzesi wo ŋu. Ne nya siwo sɔ la le ɖoɖo si sɔ la me la, woate ŋu ana wòagbugbɔ akpɔ gaɖoƒe si wɔa dɔ kplii dzi, eyata wòle be woaɣla nyagbe la eye womagaɖoe ɖe internet dzi o.](/micrographics/seed-phrase-on-paper-01/ee.md)
 
 <!-- notes: Gɔmedzenyaƒoƒoa menye nudzraɖoɖo ko o: enye mɔ si naa ŋusẽ blibo mí be míage ɖe miaƒe gaɖevia me. Ne miele gaɖevia wɔm la, miŋlɔe ɖe agbalẽ dzi pɛpɛpɛ; midzrae ɖo le Internet megbe, le adzame, eye le teƒe si magabu alo agblẽ le o. Migaka eƒe foto gbeɖe o, migaɖoe to imeil dzi o, migadzrae ɖo ɖe lilikpo dzi nuŋɔŋlɔwo me o, migaɖoe ɖe gbedeasi me o, eye migatoe ɖe nyatakakadzraɖoƒe aɖeke me o. Nya siwo woɖe fia la nye kpɔɖeŋu ko; migafia alo ƒo gɔmedzenyaƒoƒo ŋutɔŋutɔ nu ƒu gbeɖe o. -->
 
@@ -365,6 +373,7 @@ Nyawo ƒe ɖoɖo aɖe, si me nya 12 alo 24 le zi geɖe la, si ate ŋu awɔ miaƒ
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Woŋlɔa fexexe siwo wowɔna le blockchain dzi ɖe Bitcoin ƒe blockchain me tẽ, ke Lightning nye fexexe ƒe netwɔk si wotu ɖe Bitcoin dzi hena fexexe siwo kpena ɖe eɖokui ŋu eye wowɔna zi geɖe, gake woate ŋu ado kpo hã. Le mɔ eveawo dometɔ ɖe sia ɖe me la, ame bubu ate ŋu akpɔ miaƒe ga dzi na mi alo miawo ŋutɔ miakpɔ edzi.](/micrographics/on-chain-and-lightning-01/ee.md)
 
 ---
 
@@ -375,7 +384,8 @@ Nyawo ƒe ɖoɖo aɖe, si me nya 12 alo 24 le zi geɖe la, si ate ŋu awɔ miaƒ
 * **Migaka ɖe edzi o, miɖo kpe edzi.** Mikpɔ ame la, gaxexe ƒe mɔnu la, adrɛs la kple ga home la me.
 
 
-> **Callout – Mima gaxɔxɔ ŋuti nyawo, ke migama nya ɣaɣlawo gbeɖe o**
+<!-- card: callout -->
+> **Mima gaxɔxɔ ŋuti nyawo, ke migama nya ɣaɣlawo gbeɖe o**
 >
 > Woate ŋu ama adrɛs alo gaxexe ƒe biabia. Womana woƒe gɔmeɖoanyi ƒe nyagbe alo safui ɣaɣla ame bubu gbeɖe o. Nufiala, gakotoku ƒe dɔwɔƒe alo kpekpeɖeŋudɔwɔla aɖeke si wɔa dɔ le mɔ dzɔdzɔe nu mabi wo tso mia si gbeɖe o.
 
@@ -389,6 +399,7 @@ Mitɔ ne ame aɖe le mia dzi dem be miawɔ nu kaba alo miawɔe le adzame, le vi�
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Bumabuma ƒe nuxlɔ̃amenyawo atɔ̃: kabakaba wɔwɔ, ame bubu ƒe ŋkɔ zazã, teƒe si nu la ayi trɔtrɔ, viɖe siwo ŋugbe wodo be woava godoo kple nya ɣaɣlawo biabia.](/micrographics/scam-red-flags-01/ee.md)
 
 ---
 
@@ -408,7 +419,8 @@ Esia nye gɔmedzedze koe.
 * **Esia nye gɔmedzedze ko.** Afɔɖeɖe si kplɔe ɖo ɖeka si le dedie la sɔ gbɔ.
 
 
-> **Callout – Ɣeyiɣi aɖe be miaɖe susu le nu ŋu**
+<!-- card: callout -->
+> **Ɣeyiɣi aɖe be miaɖe susu le nu ŋu**
 >
 > Mitrɔ yi biabia atɔ̃ siwo le gɔmedzedzea gbɔ. Aleke miaɖo wo ŋu fifia?
 

@@ -10,6 +10,7 @@ Undervis i sammenhængen, ikke i matematikken:
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+[En miner beregner hashes af en foreslået blok igen og igen, indtil et resultat er under netværkets mål, og udsender derefter blokken. Noder kontrollerer hurtigt beviset og alle regler, før blokken føjes til blockchainen: Arbejdet er dyrt at udføre og let at verificere.](/micrographics/proof-of-work-process-01/da.md)
 
 
 Undgå at sige, at [minere](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) løser nyttige ligninger fra andre områder. Undgå at hævde, at energiforbruget automatisk er berettiget eller automatisk er spild.

@@ -8,6 +8,7 @@ Ang peer-to-peer ay hindi laging nangangahulugang dalawang computer lamang ang d
 
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[Nilalagdaan ng isang nagpapadala ang isang transaksiyon at ipinapahayag ito sa maraming node ng network, na nagpapasa nito hanggang sa makarating ito sa tatanggap. Hindi kailangan ng pag-apruba ng isang sentral na tagapangasiwa ng Bitcoin para sa nagpapadala o sa tatanggap.](/micrographics/peer-to-peer-route-01/tl.md)
 
 
 Maaari pa ring pumili ang mga gumagamit ng mga [tagapamagitan](https://curriculum.myfirstbitcoin.org/lexicon/en/#intermediary). Maaaring maghawak ng bitcoin ang isang palitan para sa mga kostumer. Maaaring gawing mas simple ng isang serbisyo sa pagbabayad ang isang invoice. Maaaring mamahala ng mga susi ang isang wallet na pinapatakbo ng isang tagapagbigay ng serbisyo. Maaaring magbigay ng kaginhawahan ang mga serbisyong ito, ngunit nakadepende na ang gumagamit sa mga patakaran at seguridad ng serbisyo.

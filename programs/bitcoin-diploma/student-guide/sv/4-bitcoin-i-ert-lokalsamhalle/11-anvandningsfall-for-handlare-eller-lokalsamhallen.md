@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[En handlare som accepterar Bitcoin arbetar inom fyra områden: marknadsföring, utbildning, bokföring och försäljning.](/micrographics/merchant-payment-operations-01/sv.md)
 
 
 En handlare behöver mer än en mottagningsknapp. Hela betalningsprocessen kan omfatta prissättning, personalutbildning, kvitton, återbetalningar, [förvaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), växling, bokföring, skatter, enhetssäkerhet och support.

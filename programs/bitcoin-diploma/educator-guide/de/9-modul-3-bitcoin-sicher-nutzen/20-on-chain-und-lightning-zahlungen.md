@@ -18,3 +18,4 @@ Lightning ist keine eigene Münze. Eine erfolgreiche Lightning-Zahlung beweist n
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[On-Chain-Zahlungen werden direkt in der Bitcoin-Blockchain erfasst, während Lightning ein auf Bitcoin aufbauendes Zahlungsnetzwerk für schnelle, häufige Zahlungen ist, die allerdings auch fehlschlagen können. Beide Wege können mit Fremdverwahrung oder mit Selbstverwahrung genutzt werden.](/micrographics/on-chain-and-lightning-01/de.md)

@@ -4,6 +4,7 @@ Ku ɗan dakata ku yi la’akari da yadda ƙa’idojin da kowa zai iya gani, fita
 
 
 <!-- micrographic: bitcoin-responses-tradeoffs-01 -->
+[Tebur da ke haɗa matsaloli biyar da za su iya kasancewa a tsarin kuɗi na zamani da maganin da Bitcoin ke bayarwa, da kuma sabon nauyi ko abin da za a sadaukar sakamakon kowane magani. Bitcoin yana maye gurbin wani ɓangare na amincewa da hukumomi da tantancewa da ɗaukar nauyi na mutum, amma ba ya kawar da haɗari.](/micrographics/bitcoin-responses-tradeoffs-01/ha.md)
 
 
 **Muhimmin abin tunani:** Bisa ga abin da kuka koya game da Bitcoin a wannan kashi, shin yana da [ƙima](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) a gare ku? Shin [farashin](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) bitcoin na yanzu yana wakiltar [ƙimarsa](https://curriculum.myfirstbitcoin.org/lexicon/en/#value)?

@@ -15,6 +15,7 @@ Pyytäkää opiskelijoita tunnistamaan:
 
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Fiat-rahajärjestelmän toimijat ja niiden väliset virrat: keskuspankki määrittää rahapolitiikan ja selvittää pankkien väliset maksut, liikepankit pitävät hallussaan talletuksia, jotka ovat niiden velkaa asiakkaille, maksupalvelut välittävät maksuohjeita, valtio kerää veroja ja käyttää varoja, ja kansalaiset ja yritykset maksavat ja saavat maksuja.](/micrographics/fiat-system-flows-01/fi.md)
 
 
 Valmistautukaa selittämään paikallisen järjestelmän toimintaa. Kertokaa, mitkä yksityiskohdat ovat yleispäteviä ja mitkä koskevat juuri kyseistä lainkäyttöaluetta. Kannustakaa tuomaan esiin erilaisia kokemuksia, myös käteiseen tukeutuvien ja puutteellisten pankkipalvelujen varassa elävien arjesta, ohjaamatta keskustelua poliittiseen johtopäätökseen.

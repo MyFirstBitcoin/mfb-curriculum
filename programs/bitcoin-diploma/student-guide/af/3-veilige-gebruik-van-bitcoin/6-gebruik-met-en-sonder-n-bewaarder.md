@@ -1,5 +1,6 @@
 # 3.6 Gebruik met en sonder ’n bewaarder
 
+<!-- card: definition -->
 > **Definition – Bewaring**
 >
 > [Bewaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) beantwoord 'n praktiese vraag: wie beheer die sleutels wat nodig is om die bitcoin te bestee?
@@ -15,10 +16,12 @@ In 'n **niebewarende** of **selfbewarende** beursie beheer U die sleutels. Die b
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[By diensbewaring beheer ’n diens die sleutels en keur besteding goed, dus is die saldo sy belofte. By selfbewaring beheer die gebruiker die sleutels en rugsteune; albei opsies het afhanklikhede en risiko’s van mislukking.](/micrographics/who-controls-keys-01/af.md)
 
 
 
 <!-- micrographic: custody-comparison-table-01 -->
+[’n Tabel wat gebruik met derdepartybewaring en gebruik met selfbewaring vergelyk: wie die sleutels hou, wie herstel hanteer en die belangrikste afweging by elkeen. Geen van die twee modelle is risikovry nie.](/micrographics/custody-comparison-table-01/af.md)
 
 
 [Bewaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) is nie altyd duidelik uit die koppelvlak nie. As u nie die herstelmetode kan beheer nie en 'n maatskappy nodig het om 'n onttrekking goed te keur, gebruik u waarskynlik 'n [bewaarder](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian). [Selfbewaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) is nie 'n toets van persoonlike waarde nie; die belangrike stap is om die vertroue en risiko wat daarby betrokke is, te identifiseer.

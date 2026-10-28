@@ -17,3 +17,4 @@ No legitimate educator, wallet company, exchange employee, developer, support wo
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[A secret private key, which must never be shared, leads to public information that can be shared: a public key derived from it and a receiving address created from that. The same private key creates signatures that nodes verify without ever learning the private key.](/micrographics/private-key-public-info-01/en.md)

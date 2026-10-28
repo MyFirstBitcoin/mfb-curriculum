@@ -35,6 +35,7 @@ Choose a practical route that feels safe and manageable for the learners. Record
 
 
 <!-- micrographic: cohort-capacity-check-01 -->
+[To plan a cohort, multiply the number of learners by the likely support and observation time, then add time for setup, feedback, access needs and reassessment. If the educators do not have enough time, change the plan: fewer learners, more educators or more time.](/micrographics/cohort-capacity-check-01/en.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
@@ -57,6 +58,7 @@ Choose a practical route that feels safe and manageable for the learners. Record
 
 
 <!-- micrographic: task-competency-map-01 -->
+[Theory interactions T1 to T3 give evidence for competencies C1 to C5, and practical routes P6a, P6b and P7 give evidence for C6 and C7. Each competency then receives one Yes or Not yet result.](/micrographics/task-competency-map-01/en.md)
 
 
 ### Common support, safety, and record rules
@@ -65,10 +67,12 @@ Choose a practical route that feels safe and manageable for the learners. Record
 
 
 <!-- micrographic: support-boundary-01 -->
+[An educator may provide the permitted preparation and access support and stop unsafe action. The learner must still supply the assessed explanation, select the relevant details, and perform or direct the required decisions.](/micrographics/support-boundary-01/en.md)
 
 
 
-> **Callout – Safety-critical practical errors**
+<!-- card: callout -->
+> **Safety-critical practical errors**
 >
 > Record and pause the task if the learner reveals or attempts to share a [seed phrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), [private key](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), password, or unnecessary personal information; proceeds after a known address, invoice, amount, or recipient mismatch; accepts an obvious scam or urgent secret request; or bypasses a required verification step. Explain the reason kindly, reset to a safe environment, practise, and reassess later. The learner is building competency. Prepared training materials are the default; if an educator selects a live low-stakes activity, make its risks clear and provide a no-funds equivalent.
 
@@ -181,3 +185,4 @@ Use the examples and activity materials that fit your cohort. Review local tools
 
 
 <!-- micrographic: reassessment-calibration-moderation-01 -->
+[Three separate processes run side by side. Learners with Not yet receive private feedback, practise and provide new evidence; assessors calibrate by scoring examples independently and agreeing an interpretation; educators may ask for a second review, which never replaces observed performance.](/micrographics/reassessment-calibration-moderation-01/en.md)

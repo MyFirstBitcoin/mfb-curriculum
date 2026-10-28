@@ -40,7 +40,8 @@ Si kugikolera, si kugisaasaanya, wabula okulowooza ku kiki ky’eri n’engeri g
 * Ssente zammwe zigula ebintu ebyenkana n'ebyo ze zaagulanga emabega?
 
 
-> **Callout – Mukuume eby'okuddamu byammwe**
+<!-- card: callout -->
+> **Mukuume eby'okuddamu byammwe**
 >
 > Muwandiike eky'okuddamu ekimpi eri buli kibuuzo. Mujja kuddamu okubyetegereza ku nkomerero.
 
@@ -85,6 +86,7 @@ Abantu bombi balina okuba nga buli omu ayagala munne ky'alina, mu kiseera kye ki
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina alina omuceere era ayagala engatto, Luis alina engatto era ayagala amafuta g'okufumba, ate Mei alina amafuta g'okufumba era ayagala emirimu gy'okuddaabiriza. Tewali babiri basobola kuwaanyisiganya butereevu, kubanga tewali n'omu ku bombi ayagala ekyo munne ky'awaayo.](/micrographics/barter-mismatch-01/lg.md)
 
 <!-- notes: Mukozese ekyokulabirako ekiri mu kitabo ekirambika: mulima omuceere era mwetaaga engatto, naye omukozi w’engatto ayagala mafuta ga kufumba, so si muceere. Abakugu mu by’enfuna kino bakiyita okukwatagana kw’ebyetaago by’abantu ababiri, nga buli omu ayagala ekyo munne ky’alina. -->
 
@@ -151,6 +153,7 @@ Abantu bwe bawulira ekigambo okubumbulukuka kw'ebbeeyi, batera okulowooza ku bbe
 ## Okulinnya kw’ebbeeyi n’obusobozi bw’okugula
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Yuniti 100 ze zimu eza ssente zigula ekibbo kyonna eky'ebintu ebyetaagisa mu bulamu nga kigula 100, naye tezisobola kukigula nga ekibbo kye kimu kigula 110. Omutendera gw'emiwendo gulinnye era obusobozi bwa ssente obw'okugula bukendedde.](/micrographics/same-money-smaller-basket-01/lg.md)
 
 <!-- notes: Okw'ebbeeyi y'ebintu kwe kweyongera kw'ebbeeyi y'ebintu okutwalira awamu okumala ekiseera. Oludda lwakyo olulala ge maanyi g'ensimbi okugula: obungi bw'ebintu omuwendo gumu ogw'ensimbi bye gusobola okugula. Singa ekibbo ky'ebintu ebyetaagisa mu bulamu kirinnya okuva ku yuniti 100 ez'ensimbi okutuuka ku 110, yuniti 100 ze zimu ziba tezisobola kugula kibbo kyonna. -->
 
@@ -213,8 +216,7 @@ Ssente eziri ku akawunti yammwe mu bbanka za njawulo ku ssente enkalu ze mukutte
 * Naye obungi bwayo n’amateeka agagifuga bisobola okukyuka, era abantu abagikozesa tebalina buyinza bungi mu kusalawo
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Eno y’ensonga lwaki abantu banoonya ebirala bye bayinza okukozesa, era lwaki Bitcoin yatondebwawo.
 
 ---
@@ -233,6 +235,7 @@ Ssente za digito ezitafugibwa kitongole kimu, ezirina obungi obukoma, era ezisob
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Mu kkampuni ekola ku kusasula, ekitongole kimu kye kikuuma ekitabo ky'ebibalirizi era ne kikkiriza buli kusindika ssente. Mu Bitcoin, omusindisi assa omukono ku kikolwa ky'okusindika ssente, ennyingo z'omukutu ezeetongodde ne zikikebera era abasimi ne bakyongera mu kitabo ky'ebibalirizi kimu kye bakozesa bonna, bwe kityo afuna ssente ne yeesigama kitono ku buyinza obw'omu makkati.](/micrographics/central-ledger-vs-bitcoin-01/lg.md)
 
 <!-- notes: Nga Bitcoin tennabaawo, okuweereza ssente ku yintaneeti bulijjo kwali kwesigama ku kitongole ekyesigika: bbanka oba kkampuni ekola ku kusasula eyakuumanga ekitabo ky’ebitabo by’ensimbi, n’ekkiriza akawunti, era eyasobolanga okulwisa, okuziyiza oba okusazaamu okusasula. Amawulire agali mu ngeri ya digito kyangu okugakoppa: singa ekinusu kya digito kyali kisobola okukozesebwa okusasula emirundi ebiri, kyali tekisobola kukola nga ssente. Kino kye kizibu ky’okukozesa ssente ze zimu emirundi ebiri. Satoshi Nakamoto ye muntu oba ekibinja ekikozesa erinnya eryo. -->
 
@@ -253,6 +256,7 @@ Tewali kkampuni esobola okuziyiza okukozesebwa kwa bitcoin ze mwefugira mwekka. 
 ## Ekkomo buli muntu ly’asobola okukakasa
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Ekkomo ly'obungi bw'ensimbi eriwandiikiddwa ku mukutu gwa yintaneeti oba mu tterekero ly'ebikwata ku nsimbi ery'omufulumya liyinza okukyusibwa omufulumya oyo mu kyama. Etteeka ly'obungi bw'ensimbi erya Bitcoin liri mu lujjudde, era emikono gya digito, ebyafaayo ebiri mu lujjudde, obukakafu bw'omulimu n'okukakasa okukolebwa nodi bikolera wamu okuziyiza okuyiiya ensimbi empya oba okusaasaanya bitcoin y'emu emirundi ebiri.](/micrographics/claimed-or-verified-supply-01/lg.md)
 
 <!-- notes: bitcoin empya zifulumizibwa okusinziira ku nteekateeka emanyiddwa bonna, era kompyuta ezeetongodde eziyitibwa node zigaana buli bulooka emenya etteeka eryo. Ekkomo lino lyesigika kubanga omuntu yenna asobola okulikakasa. Si tteeka lya butonde: lisigala likola kubanga abeetabye mu nkola eno beeyongera okulissa mu nkola. Obungi obulina ekkomo tebukakasa nti bbeeyi ejja kulinnya; bbeeyi esinziira ku bwetaavu awamu n’obungi obuliwo. -->
 
@@ -264,6 +268,7 @@ bitcoin emu egabanyizibwamu obutundutundu obutonotono 100,000,000 obuyitibwa sat
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Emmeeza ey'ennyiriri bbiri ezeesimbye: 1 BTC yenkana 100,000,000 sats, 0.1 BTC yenkana 10,000,000 sats, 0.01 BTC yenkana 1,000,000 sats, 0.001 BTC yenkana 100,000 sats, ate 0.00000001 BTC yenkana 1 sat.](/micrographics/bitcoin-and-sats-01/lg.md)
 
 <!-- notes: Okuba ne sats 100,000 n’okuba ne bitcoin 0.001 kitegeeza omuwendo gwe gumu. Mutereeze endowooza enkyamu nti Bitcoin eri waggulu w’obusobozi bw’abantu kubanga bitcoin emu ya bbeeyi nnyo. -->
 
@@ -272,6 +277,7 @@ bitcoin emu egabanyizibwamu obutundutundu obutonotono 100,000,000 obuyitibwa sat
 ## Ani Akuuma Bitcoin ng’Ekola?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Emirimu ena mu Bitcoin: abakozesa bafuna, batereka era baweereza bitcoin, noodi zeekebereza amateeka ku bwazo, abasimi bazimba bulooka eziteesebwayo nga bakozesa obukakafu bw'omulimu, era abawandiisi ba pulogulaamu bateesa pulogulaamu za kompyuta. Tewali mulimu gumu gufuga mukutu.](/micrographics/bitcoin-participant-roles-01/lg.md)
 
 <!-- notes: Abakozesa basindika, bafuna era batereka bitcoin; nodi zikebera buli nkolagana ne buli bulooka okukakasa nti bigoberera amateeka; abasimi bavuganya okwongera bulooka empya ku kiwandiiko kumpi buli ddakiika kkumi. Ekiwandiiko ekyo, ekiyitibwa olujegere lwa bulooka, buli muntu asobola okukiraba era okukiddamu okukiwandiika kyetaagisa ensimbi nnyingi nnyo. Ekyokumanya ku mpandiika: Bitcoin etandika ne B ennene etera okutegeeza omukutu oba enkola; bitcoin etandika ne b entono etegeeza ssente zennyini. -->
 
@@ -307,6 +313,7 @@ Ekibuuzo ekisooka ku nsawo yonna: ani afuga ebisumuluzo?
 ## Waleti Eddukanya Ebisumuluzo
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Waleti ekuuma ebisumuluzo. Nga mubikozesa musobola okufuna n'okusindika bitcoin, ate nga bitcoin yennyini esigala ewandiikiddwa ku kitabo ky'ebiwandiiko eky'awamu, so si munda mu ssimu oba mu kyuma.](/micrographics/wallet-manages-keys-01/lg.md)
 
 <!-- notes: Waleti ya Bitcoin kye kikozesebwa, emirundi egisinga nga ye pulogulaamu, ekibasobozesa okufuna, okukebera n’okusindika bitcoin. Bitcoin yammwe teterekebwa munda mu ssimu yammwe: ewandiikibwa ku lujegere lw’ebiwandiiko oluyitibwa blockchain. Waleti efuga ebisumuluzo ebibabasobozesa okukakasa nti bitcoin yammwe n’okukkiriza okusasula. -->
 
@@ -331,6 +338,7 @@ Olukalala lw'ebigambo ebiri mu nsengeka, ebiseera ebisinga nga biri 12 oba 24, o
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Ekisoko eky’okuzzaawo waleti lwe lukalala lw’ebigambo ebisengekeddwa mu nsengeka entuufu; wano waliwo ebigambo kkumi na bibiri eby’ekyokulabirako ebiweereddwa ennamba ne biwandiikibwa ku lupapula. Ebigambo ebituufu mu nsengeka entuufu bisobola okubazza obuyinza ku waleti ekwatagana nabyo, n’olwekyo ekisoko kino kikuumibwa nga kya kyama era nga tekiri ku yintaneeti.](/micrographics/seed-phrase-on-paper-01/lg.md)
 
 <!-- notes: Ebigambo eby’okuzzaawo waleti si kopi ya kwekuumisa yokka: biwa obuyinza obujjuvu okugikozesa. Mubiwandiike bulungi ku lupapula nga mutondawo waleti; mubikuume nga tebiri ku yintaneeti, nga bya kyama, era mu kifo we bitajja kubulira oba kwonooneka. Temubikubanga kifaananyi, temubiweerezanga ku emeyiro, temubiterekanga mu biwandiiko ebikuumibwa ku bire, temubiweerezanga mu bubaka, era temubiwandiikanga ku mukutu gwa yintaneeti. Ebigambo ebiragiddwa bya kyakulabirako kyokka; temulaganga era temukung’aanyanga bigambo bya kuzzaawo waleti eya ddala. -->
 
@@ -365,6 +373,7 @@ Olukalala lw'ebigambo ebiri mu nsengeka, ebiseera ebisinga nga biri 12 oba 24, o
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Okusasula okukolebwa ku lujegere kuwandiikibwa butereevu mu lujegere lwa bulooka olwa Bitcoin, ate Lightning mukutu gw’okusasula ogwazimbibwa ku Bitcoin okusobozesa okusasula okw’amangu era okukolebwa enfunda nnyingi, naye okuyinza n’okulemererwa. Mu ngeri zombi, ensimbi zisobola okukuumibwa omuntu omulala oba mmwe bennyini.](/micrographics/on-chain-and-lightning-01/lg.md)
 
 ---
 
@@ -375,7 +384,8 @@ Olukalala lw'ebigambo ebiri mu nsengeka, ebiseera ebisinga nga biri 12 oba 24, o
 * **Temwesiga, mukakase.** Muke bere omuntu, enkola y'okusasula, endagiriro, n'omuwendo.
 
 
-> **Callout – Mugabane ebikwata ku kufuna ssente, so si byama**
+<!-- card: callout -->
+> **Mugabane ebikwata ku kufuna ssente, so si byama**
 >
 > Endagiriro oba okusaba okusasulwa bisobola okugabanyizibwa n'abalala. Ebigambo eby'okuzzaawo waleti oba ekisumuluzo eky'ekyama tebiteekwa kugabanyizibwa na muntu yenna. Tewali musomesa, kkampuni ya waleti, oba mukozi ayamba abakozesa akola mu mateeka alibibasaba.
 
@@ -389,6 +399,7 @@ Mukome singa omuntu abapapya oba abasaba okukuuma ebyama, abasuubiza amagoba aga
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Obubonero butaano obulabula ku bufere: okupapa, okwefuula omuntu omulala, ekifo eky'okuweerezaamu ekikyusiddwa, amagoba agakakasiddwa n'okusaba ebyama.](/micrographics/scam-red-flags-01/lg.md)
 
 ---
 
@@ -408,7 +419,8 @@ Eno ntandikwa yokka.
 * **Eno ntandikwa yokka.** Omutendera gumu oguddako ogutaliimu kabi gumala.
 
 
-> **Callout – Akaseera k’okufumiitiriza**
+<!-- card: callout -->
+> **Akaseera k’okufumiitiriza**
 >
 > Muddemu mutunuulire ebibuuzo ebitaano ebyali ku ntandikwa. Kati mwandizzeemu mutya?
 

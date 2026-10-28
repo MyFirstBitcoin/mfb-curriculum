@@ -14,6 +14,7 @@ Use this sequence:
 
 
 <!-- micrographic: translation-workflow-01 -->
+[Translation is a review-and-test process: prepare clear English, translate the meaning, review with a language specialist and an educator, test safety instructions with learners, then confirm the standards are equivalent. Unclear safety instructions go back to the wording.](/micrographics/translation-workflow-01/en.md)
 
 
 Avoid idioms and metaphors that cannot travel cleanly. If using an analogy, always state what it explains and what it does not.

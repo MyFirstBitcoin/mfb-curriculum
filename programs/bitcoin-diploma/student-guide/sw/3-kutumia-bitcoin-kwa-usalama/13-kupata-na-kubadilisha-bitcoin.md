@@ -5,7 +5,8 @@
 Watu wanaweza kupokea bitcoin kupitia kazi, malipo ya jamii, ubadilishanaji kati ya watu binafsi, ATM au huduma fulani. Kila njia ina tofauti zake katika gharama, [uhifadhi](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), faragha, ulaghai, masuala ya kisheria na ya kiutendaji, pamoja na [mizani ya faida na hasara](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Bitcoin Diploma haipendekezi mtoa huduma yeyote wala haiwaambii mtumie njia ipi.
 
 
-> **Light – Linganisheni njia ya malipo ya eneo lenu**
+<!-- card: light -->
+> **Linganisheni njia ya malipo ya eneo lenu**
 >
 > Katika hali iliyoandaliwa ya eneo lenu au ya kubuni, linganisheni [uhifadhi](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), gharama ya jumla, taarifa za utambulisho, vikomo vya kutoa pesa, usalama wa upande mwingine wa muamala na usalama wa kimwili, pamoja na kanuni za sasa za eneo lenu. Hakuna njia ambayo moja kwa moja ni bora kila mahali. Kozi hii inatoa maswali ya kulinganisha, si pendekezo la mtoa huduma wala ushauri wa kifedha binafsi.
 
@@ -19,16 +20,19 @@ Watu wanaweza kupokea bitcoin kupitia kazi, malipo ya jamii, ubadilishanaji kati
 Kabla ya kulinganisha njia, jiulizeni:
 
 
-<!-- micrographic: ways-to-receive-bitcoin-01 -->
-
-
-
 <!-- micrographic: exchange-risk-questions-01 -->
+[Maeneo sita ya hatari ya kukagua kabla ya kupata au kubadilisha bitcoin, kila moja likiwa na swali la kuuliza: gharama, uhifadhi, utambulisho na faragha, utoaji na ukamilishaji, mhusika mwingine na usalama, na muktadha wa mahali.](/micrographics/exchange-risk-questions-01/sw.md)
+
+
+
+<!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Mtu mmoja anaweza kupokea bitcoin kwa njia nne tofauti: kuipata kupitia kazi au mauzo, kubadilishana pesa taslimu za ndani na mtu mwingine, kutumia soko la ubadilishaji au dalali, au kutumia ATM. Kila njia inaishia kwenye uhifadhi binafsi au salio linaloshikiliwa na mtunzaji, na hakuna njia inayopendekezwa kuliko nyingine.](/micrographics/ways-to-receive-bitcoin-01/sw.md)
 
 
 Hakuna njia ambayo moja kwa moja ni bora kila mahali. Mifano ya eneo husika na mwongozo maalum kuhusu watoa huduma vimo katika **Moduli ya 4**.
 
 
+<!-- card: definition -->
 > **Definition – Mjue Mteja Wako (KYC)**
 >
 > [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) inaeleza ukaguzi wa utambulisho ambao huduma inayodhibitiwa inaweza kuhitaji. Inaweza kusaidia kurejesha akaunti au kutii sheria, huku pia ikitengeneza kumbukumbu inayounganisha utambulisho na shughuli za kifedha. Njia zinazokusanya taarifa chache za utambulisho zinaweza kuhusisha hatari tofauti zinazohusu upande mwingine wa muamala, sheria, usalama, gharama au utata.

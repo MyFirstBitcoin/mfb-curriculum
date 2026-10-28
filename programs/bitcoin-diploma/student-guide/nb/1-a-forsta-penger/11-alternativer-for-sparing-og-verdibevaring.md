@@ -4,6 +4,7 @@ Folk søker ofte alternativer til å holde kontanter når de tror at kontantene 
 
 
 <!-- micrographic: saving-alternatives-table-01 -->
+[En tabell med tre alternativer til å holde kontanter (edelmetaller, fast eiendom og aksjer), med grunner til at folk kan velge hvert alternativ, og viktige avveininger. Ingen er rangert over de andre.](/micrographics/saving-alternatives-table-01/nb.md)
 
 
 En [eiendel](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) er noe en person kan eie eller ha krav på, som kan ha [verdi](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); den oppfyller ikke automatisk alle pengenes funksjoner. En bolig kan bevare [verdi](https://curriculum.myfirstbitcoin.org/lexicon/en/#value), men er ikke praktisk å bruke til å kjøpe mat. En aksje kan være lett å selge i ett land, men utilgjengelig for noen uten en konto hos en aksjemegler. [Gull](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) har fungert som penger gjennom lange perioder av historien, men kan være vanskelig å kontrollere ektheten av eller dele opp ved en liten handel.

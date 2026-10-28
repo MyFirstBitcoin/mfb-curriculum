@@ -5,6 +5,7 @@ Magkakaiba ang mga tao sa kanilang kasanayan, pinagkukunan, pangangailangan, at 
 Madalas na mahirap ang direktang palitan. Maaaring hindi gusto ng taong may hawak ng kailangan ninyo ang iniaalok ninyo. Nilulutas ng pera ang problemang ito sa koordinasyon.
 
 
+<!-- card: definition -->
 > **Definition – Pera**
 >
 > Ang pera ay isang [ari-arian](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) na tinatanggap ng mga tao dahil inaasahan nilang tatanggapin din ito ng iba sa hinaharap. Tinutulungan nito ang mga taong hindi magkakakilala na mag-ugnayan sa palitan, magtala ng [mga presyo](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) at [mga utang](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt), at maglipat ng [halaga](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) sa iba't ibang panahon at lugar.

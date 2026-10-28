@@ -12,6 +12,7 @@ Laatikaa kerroksellinen tai toisiinsa kietoutuvista kehityskuluista koostuva aik
 
 
 <!-- micrographic: forms-of-money-01 -->
+[Kuusi rahan muotoa esitetään vasemmalta oikealle niiden syntyjärjestyksessä: suora vaihto, hyödykeraha, vakioidut kolikot, metalliin vaihdettava paperiraha, pankkien ja valtioiden raha sekä digitaalinen raha. Kukin uusi muoto syntyy myöhemmin, ja vanhemmat muodot jatkavat sen rinnalla, joten monet muodot ovat olemassa samanaikaisesti sen sijaan, että yksi korvaisi toisen.](/micrographics/forms-of-money-01/fi.md)
 
 
 Pyytäkää täydentämään aikajanaa paikallisilla esimerkeillä. Kysykää, mitkä muodot esiintyivät rinnakkain, sen sijaan että olettaisitte yhden korvanneen toisen kokonaan.

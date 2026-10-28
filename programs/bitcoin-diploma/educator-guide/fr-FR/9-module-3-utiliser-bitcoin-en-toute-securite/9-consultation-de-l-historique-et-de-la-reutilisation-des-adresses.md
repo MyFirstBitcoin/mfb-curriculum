@@ -29,3 +29,4 @@ Cette activité rend, sur un registre public, la [confidentialité](https://curr
 
 
 <!-- micrographic: address-reuse-linkage-01 -->
+[Plusieurs reçus fictifs partagent une même adresse réutilisée et sont faciles à relier. De nouvelles adresses de réception réduisent ce lien direct, mais des informations externes et des recherches dans un explorateur peuvent toujours révéler des liens, et les données publiques ne prouvent pas à elles seules l’identité d’une personne.](/micrographics/address-reuse-linkage-01/fr-FR.md)

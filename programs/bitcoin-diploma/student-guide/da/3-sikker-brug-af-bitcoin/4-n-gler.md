@@ -3,6 +3,7 @@
 Ejerskab af Bitcoin sikres gennem kryptografiske nøgler.
 
 
+<!-- card: definition -->
 > **Definition – Privat nøgle**
 >
 > En [privat nøgle](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) er hemmelig information, der gør det muligt for en wallet at oprette gyldige [digitale signaturer](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature). En signatur godkender brugen af de bitcoin, der kontrolleres af den tilhørende nøgle. Enhver, der får fat i den [private nøgle](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) kan som regel bruge disse midler.
@@ -21,10 +22,10 @@ De fleste wallets til begyndere bruger [enkeltsignatur](https://curriculum.myfir
 Ingen legitim underviser, walletvirksomhed, børsmedarbejder, teknisk supportmedarbejder eller Bitcoin-udvikler har brug for Deres [private nøgle](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) eller [seedfrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase). Enhver, der beder om disse oplysninger, bør betragtes som en trussel.
 
 
-> **Light**
->
+<!-- card: light -->
 > **Prøv selv:** Sortér de forberedte eksempler i tre grupper: oplysninger, der trygt kan deles til modtagelse, hemmelige oplysninger til brug af midler og oplysninger, der kan være offentlige, men som alligevel bør holdes private, når de er knyttet til en person.
 
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[En hemmelig privat nøgle, som aldrig må deles, danner grundlag for offentlige oplysninger, der kan deles: en offentlig nøgle afledt af den og en modtagelsesadresse oprettet ud fra den offentlige nøgle. Den samme private nøgle opretter signaturer, som noder verificerer uden nogensinde at få kendskab til den private nøgle.](/micrographics/private-key-public-info-01/da.md)

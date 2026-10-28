@@ -5,7 +5,8 @@
 Enviar exige mais cuidado porque uma [transação](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) válida de Bitcoin geralmente é difícil ou impossível de reverter. Antes de tocar no botão de aprovar, você consegue explicar quem vai receber o pagamento e por quê?
 
 
-> **Callout – Pare e verifique antes de enviar**
+<!-- card: callout -->
+> **Pare e verifique antes de enviar**
 >
 > Confirme o destinatário, o método de pagamento, o destino, o valor e a unidade, a taxa ou o prazo de validade, e a tela final. Se algo for diferente da solicitação confiável, ou se alguém criar urgência ou pedir informações de recuperação, pare e verifique de forma independente. Faça um pequeno teste quando o processo não for familiar.
 
@@ -21,6 +22,7 @@ Enviar exige mais cuidado porque uma [transação](https://curriculum.myfirstbit
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Antes de aprovar um pagamento, quem envia verifica o destinatário e o motivo, o método de pagamento, o destino e o valor, a unidade, a taxa ou o prazo de validade, fazendo um pequeno teste quando o processo não for familiar. Se algo estiver diferente, a pessoa para e verifica; só aprova quando tudo estiver de acordo e, depois, confere o resultado.](/micrographics/pre-send-checklist-01/pt-BR.md)
 
 
 Em um [pagamento on-chain](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), a **taxa de rede** é paga pela inclusão da [transação](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) em um bloco. Ela depende principalmente dos dados da [transação](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) e da demanda por [espaço em bloco](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-space), e não simplesmente do valor enviado. As estimativas de taxa e o tempo de confirmação podem mudar, então leia o resumo final em vez de presumir que um pagamento de baixo valor tem uma taxa baixa.

@@ -40,7 +40,8 @@ Bukan memperolehnya, bukan membelanjakannya, melainkan memikirkan apa itu uang d
 * Apakah uang Anda dapat membeli barang dalam jumlah yang sama seperti sebelumnya?
 
 
-> **Callout – Simpan jawaban Anda**
+<!-- card: callout -->
+> **Simpan jawaban Anda**
 >
 > Tuliskan jawaban singkat untuk setiap pertanyaan. Anda akan meninjau kembali jawaban tersebut di akhir.
 
@@ -85,6 +86,7 @@ Kedua orang harus menginginkan apa yang dimiliki satu sama lain, pada waktu yang
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina memiliki beras dan menginginkan sepatu, Luis memiliki sepatu dan menginginkan minyak goreng, dan Mei memiliki minyak goreng dan menginginkan jasa perbaikan. Tidak ada pasangan yang dapat melakukan barter secara langsung karena dalam setiap pasangan tidak ada kecocokan antara yang diinginkan dan yang ditawarkan.](/micrographics/barter-mismatch-01/id.md)
 
 <!-- notes: Gunakan contoh dari panduan ini: Anda menanam padi dan membutuhkan sepatu, tetapi pembuat sepatu menginginkan minyak goreng, bukan beras. Para ekonom menyebut kondisi ini sebagai kesesuaian ganda keinginan. -->
 
@@ -151,6 +153,7 @@ Ketika orang mendengar kata inflasi, mereka biasanya membayangkan harga-harga ya
 ## Inflasi dan Daya Beli
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Dengan 100 unit uang yang sama, Anda dapat membeli seluruh isi keranjang kebutuhan pokok saat harganya 100, tetapi tidak saat harga keranjang yang sama menjadi 110. Tingkat harga telah naik dan daya beli uang telah turun.](/micrographics/same-money-smaller-basket-01/id.md)
 
 <!-- notes: Inflasi harga adalah kenaikan tingkat harga secara umum yang berlangsung terus-menerus. Sisi lainnya adalah daya beli: seberapa banyak barang dan jasa yang dapat dibeli dengan satu unit uang. Jika harga sekeranjang barang kebutuhan pokok naik dari 100 satuan mata uang menjadi 110, maka 100 satuan mata uang yang sama tidak lagi cukup untuk membeli seluruh isi keranjang tersebut. -->
 
@@ -213,8 +216,7 @@ Saldo rekening bank berbeda dari uang tunai di tangan Anda: saldo tersebut merup
 * Namun, jumlah uang yang beredar dan aturannya dapat berubah, dan para penggunanya hanya memiliki sedikit suara dalam pengambilan keputusan
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Inilah alasan orang mencari alternatif, dan alasan Bitcoin diciptakan.
 
 ---
@@ -233,6 +235,7 @@ Uang digital yang terdesentralisasi, memiliki pasokan terbatas, dan dapat dikiri
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Pada perusahaan pembayaran, satu organisasi mengelola buku besar dan menyetujui setiap transfer. Pada Bitcoin, pengirim menandatangani transaksi, simpul-simpul independen memeriksanya, dan penambang menambahkannya ke satu buku besar bersama, sehingga penerima tidak terlalu bergantung pada otoritas pusat.](/micrographics/central-ledger-vs-bitcoin-01/id.md)
 
 <!-- notes: Sebelum Bitcoin, pengiriman uang secara daring selalu bergantung pada organisasi tepercaya: bank atau perusahaan pembayaran yang mengelola buku besar, menyetujui pembukaan rekening, dan dapat menunda, memblokir, atau membatalkan pembayaran. Informasi digital mudah disalin: jika koin digital dapat dibelanjakan dua kali, koin tersebut tidak dapat berfungsi sebagai uang. Inilah masalah pembelanjaan ganda. Satoshi Nakamoto adalah seseorang atau sekelompok orang yang menggunakan nama tersebut. -->
 
@@ -253,6 +256,7 @@ Tidak ada perusahaan yang dapat membekukan bitcoin yang Anda kendalikan sendiri.
 ## Batas yang Dapat Diverifikasi oleh Siapa Pun
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Batas pasokan yang tertulis di situs web atau dalam basis data penerbit dapat diubah secara diam-diam oleh penerbit tersebut. Aturan pasokan Bitcoin terbuka untuk umum, dan tanda tangan, riwayat yang terbuka untuk umum, bukti kerja, serta verifikasi oleh simpul bersama-sama mencegah penciptaan koin baru atau pembelanjaan bitcoin yang sama dua kali.](/micrographics/claimed-or-verified-supply-01/id.md)
 
 <!-- notes: bitcoin baru diterbitkan sesuai jadwal yang terbuka untuk umum, dan komputer-komputer independen yang disebut simpul menolak setiap blok yang melanggar aturan tersebut. Batas ini dapat dipercaya karena siapa pun dapat memeriksanya. Ini bukan hukum alam: batas ini tetap berlaku karena para peserta terus menegakkannya. Pasokan yang terbatas tidak menjamin bahwa harga akan naik; harga bergantung pada permintaan maupun pasokan. -->
 
@@ -264,6 +268,7 @@ Satu bitcoin dapat dibagi menjadi 100.000.000 unit yang lebih kecil yang disebut
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Tabel dua kolom: 1 BTC setara dengan 100.000.000 sats, 0,1 BTC setara dengan 10.000.000 sats, 0,01 BTC setara dengan 1.000.000 sats, 0,001 BTC setara dengan 100.000 sats, dan 0,00000001 BTC setara dengan 1 sat.](/micrographics/bitcoin-and-sats-01/id.md)
 
 <!-- notes: Memiliki 100.000 sats dan memiliki 0,001 bitcoin menunjukkan jumlah yang sama. Luruskan kesalahpahaman bahwa Bitcoin tidak terjangkau karena harga satu bitcoin mahal. -->
 
@@ -272,6 +277,7 @@ Satu bitcoin dapat dibagi menjadi 100.000.000 unit yang lebih kecil yang disebut
 ## Siapa yang Menjaga Bitcoin Tetap Berjalan?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Empat peran dalam Bitcoin: pengguna menerima, menyimpan, dan mengirim bitcoin, simpul memverifikasi aturan secara mandiri, penambang menyusun calon blok dengan bukti kerja, dan pengembang mengusulkan perangkat lunak. Tidak ada satu peran pun yang mengendalikan jaringan.](/micrographics/bitcoin-participant-roles-01/id.md)
 
 <!-- notes: Pengguna mengirim, menerima, dan menyimpan bitcoin; simpul memeriksa setiap transaksi dan blok berdasarkan aturan; penambang bersaing untuk menambahkan blok baru ke catatan kira-kira setiap sepuluh menit. Catatan tersebut, yang disebut blockchain, bersifat publik dan membutuhkan biaya sangat besar untuk ditulis ulang. Catatan tentang penulisan: Bitcoin dengan huruf B kapital biasanya merujuk pada jaringan atau sistemnya; bitcoin dengan huruf b kecil merujuk pada uang itu sendiri. -->
 
@@ -307,6 +313,7 @@ Pertanyaan pertama tentang dompet apa pun: siapa yang mengendalikan kuncinya?
 ## Dompet Mengelola Kunci
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Dompet menyimpan kunci. Dengan kunci tersebut, Anda dapat menerima dan mengirim bitcoin, sementara bitcoin itu sendiri tetap tercatat di buku besar bersama, bukan di dalam ponsel atau perangkat.](/micrographics/wallet-manages-keys-01/id.md)
 
 <!-- notes: Dompet Bitcoin adalah alat, biasanya berupa aplikasi, yang memungkinkan Anda menerima, memeriksa, dan mengirim bitcoin. Bitcoin milik Anda tidak disimpan di dalam ponsel Anda, melainkan dicatat di blockchain. Dompet ini mengelola kunci yang memungkinkan Anda membuktikan kepemilikan bitcoin tersebut dan mengotorisasi pembayaran. -->
 
@@ -331,6 +338,7 @@ Daftar kata yang berurutan, biasanya terdiri dari 12 atau 24 kata, yang dapat di
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Frasa pemulihan adalah daftar kata yang tersusun secara berurutan, di sini berupa dua belas kata contoh bernomor yang ditulis di atas kertas. Kata-kata yang tepat dalam urutan yang benar dapat memulihkan kendali atas dompet yang kompatibel, sehingga frasa ini harus tetap dirahasiakan dan disimpan secara luring.](/micrographics/seed-phrase-on-paper-01/id.md)
 
 <!-- notes: Frasa pemulihan bukan sekadar cadangan: frasa ini memberikan akses penuh. Tuliskan frasa tersebut dengan tepat di atas kertas saat Anda membuat dompet; simpan secara luring, rahasiakan, dan letakkan di tempat yang aman agar tidak hilang atau rusak. Jangan pernah memotretnya, mengirimkannya melalui surel, menyimpannya dalam catatan di layanan awan, mengirimkannya melalui pesan, atau mengetikkannya di situs web. Kata-kata yang ditampilkan hanyalah contoh; jangan pernah menampilkan atau mengumpulkan frasa pemulihan yang sebenarnya. -->
 
@@ -365,6 +373,7 @@ Daftar kata yang berurutan, biasanya terdiri dari 12 atau 24 kata, yang dapat di
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Pembayaran di blockchain dicatat langsung di blockchain Bitcoin, sedangkan Lightning adalah jaringan pembayaran yang dibangun di atas Bitcoin untuk pembayaran cepat dan berfrekuensi tinggi yang juga dapat gagal. Kedua jalur ini dapat menggunakan kustodi pihak ketiga atau kustodi mandiri.](/micrographics/on-chain-and-lightning-01/id.md)
 
 ---
 
@@ -375,7 +384,8 @@ Daftar kata yang berurutan, biasanya terdiri dari 12 atau 24 kata, yang dapat di
 * **Jangan Percaya, Verifikasi.** Periksa orangnya, metode pembayaran, alamat, dan jumlahnya.
 
 
-> **Callout – Bagikan informasi penerimaan, jangan pernah bagikan rahasia**
+<!-- card: callout -->
+> **Bagikan informasi penerimaan, jangan pernah bagikan rahasia**
 >
 > Alamat atau permintaan pembayaran boleh dibagikan. Frasa pemulihan atau kunci privat tidak boleh dibagikan kepada siapa pun. Tidak ada pendidik, perusahaan dompet, atau petugas dukungan yang sah yang akan memintanya.
 
@@ -389,6 +399,7 @@ Hentikan interaksi jika seseorang mendesak Anda untuk bertindak segera atau mera
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Lima tanda bahaya penipuan: desakan untuk segera bertindak, penyamaran identitas, perubahan tujuan pengiriman, jaminan imbal hasil, dan permintaan informasi rahasia.](/micrographics/scam-red-flags-01/id.md)
 
 ---
 
@@ -408,7 +419,8 @@ Ini baru permulaan.
 * **Ini baru permulaan.** Satu langkah lanjutan yang aman sudah cukup.
 
 
-> **Callout – Saatnya merenung**
+<!-- card: callout -->
+> **Saatnya merenung**
 >
 > Kembali ke lima pertanyaan di awal. Apa jawaban Anda sekarang?
 

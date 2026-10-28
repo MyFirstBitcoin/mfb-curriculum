@@ -10,6 +10,7 @@ Desenhe um balanço patrimonial simplificado:
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Um empréstimo bancário simplificado: o tomador faz a solicitação, o banco aprova o empréstimo e credita um novo depósito na conta do tomador, e depois o tomador paga ao banco o principal mais os juros.](/micrographics/bank-loan-deposit-01/pt-BR.md)
 
 
 Não use uma explicação de “multiplicador monetário” baseada em depósitos físicos repetidos como se ela descrevesse mecanicamente todo sistema bancário moderno.
@@ -21,6 +22,7 @@ Diferencie:
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Risco de liquidez: muitos depositantes fazem fila para sacar hoje, e o banco não tem dinheiro suficiente agora, mesmo que seus empréstimos possam ser pagos mais tarde. Risco de solvência: os tomadores deixam de pagar seus financiamentos imobiliários, e os ativos do banco passam a valer menos do que o banco deve.](/micrographics/liquidity-vs-solvency-01/pt-BR.md)
 
 
 Pergunte:

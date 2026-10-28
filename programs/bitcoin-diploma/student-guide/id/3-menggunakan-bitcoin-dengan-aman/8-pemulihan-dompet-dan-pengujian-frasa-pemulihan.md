@@ -8,6 +8,7 @@ Latihan kesiapan pemulihan yang aman itu sederhana:
 
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[Latihan enam langkah untuk memulihkan dompet latihan: ikuti petunjuk resmi, periksa kompatibilitas, bekerjalah secara privat, gunakan metode pemulihan yang disetujui, konfirmasikan dompet yang diharapkan, lalu atur ulang. Hanya gunakan materi yang telah disiapkan, kosong, atau berupa simulasi, dan pengajar tidak boleh melihat kata-kata pemulihan.](/micrographics/practice-wallet-recovery-01/id.md)
 
 
 Jangan gunakan dompet latihan atau informasi pemulihannya untuk mengamankan dana bernilai signifikan setelah menyelesaikan Diploma. Dompet pribadi, jika Anda memilih untuk membuatnya nanti, memerlukan penyiapan baru secara privat dan informasi pemulihan baru.

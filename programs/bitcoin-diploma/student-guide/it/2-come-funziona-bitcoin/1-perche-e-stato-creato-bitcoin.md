@@ -10,6 +10,7 @@ Bitcoin è stato creato per risolvere questo problema con una [rete Peer-to-Peer
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Con una società di pagamento, un'unica organizzazione tiene il registro e approva ogni trasferimento. Con Bitcoin, il mittente firma una transazione, nodi indipendenti la verificano e i miner la aggiungono a un unico registro condiviso, così il destinatario dipende meno da un'autorità centrale.](/micrographics/central-ledger-vs-bitcoin-01/it.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)

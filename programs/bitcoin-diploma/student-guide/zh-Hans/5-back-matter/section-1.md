@@ -36,6 +36,7 @@
 
 
 <!-- micrographic: final-safety-check-01 -->
+[一份已全部勾选的最终安全检查清单：保护机密信息、核实付款信息、先做小额测试、受到施压时立即停止。如有任何不清楚之处，请先停下来，进一步了解后再采取行动。](/micrographics/final-safety-check-01/zh-Hans.md)
 
 
 请牢记以下规则：
@@ -57,6 +58,7 @@
 
 
 <!-- micrographic: curriculum-source-panel-01 -->
+[一个面板，上面印有二维码和链接 github.com/MyFirstBitcoin/mfb-curriculum，这是比特币文凭课程的官方来源，您可在此核对版本并报告错误。](/micrographics/curriculum-source-panel-01/zh-Hans.md)
 
 
 比特币文凭是一套持续更新的开源课程。更正和改进可以公开审阅。

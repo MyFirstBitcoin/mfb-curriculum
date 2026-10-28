@@ -13,3 +13,4 @@ Jokaisella Bitcoin Diploma -koulutuksen osalla on oma tehtävänsä.
 
 
 <!-- micrographic: learning-ecosystem-map-01 -->
+[Opiskelijan opas tarjoaa selityksiä, Opettajan opas tukee opetusta, ja Materiaalipankin valikoidut tehtävät tukevat harjoittelua. Arviointitaulukko sisältää luottamukselliset arviointitulokset.](/micrographics/learning-ecosystem-map-01/fi.md)

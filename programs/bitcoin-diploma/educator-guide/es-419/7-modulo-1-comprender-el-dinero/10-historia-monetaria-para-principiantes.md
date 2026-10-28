@@ -12,6 +12,7 @@ Construya una línea de tiempo con capas o entrelazada, en lugar de una única f
 
 
 <!-- micrographic: forms-of-money-01 -->
+[Seis formas de dinero aparecen de izquierda a derecha en el orden en que surgieron: intercambio directo, dinero mercancía, monedas estandarizadas, papel moneda representativo, dinero bancario y gubernamental, y dinero digital. Cada nueva forma comienza más tarde, mientras que las formas anteriores continúan a su lado, por lo que muchas formas coexisten en lugar de que una reemplace a otra.](/micrographics/forms-of-money-01/es-419.md)
 
 
 Invite a incorporar ejemplos locales. Pregunte qué formas coexistieron, en lugar de suponer que una reemplazó a otra por completo.

@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[Kahvilamaksu neljässä vaiheessa: asiakas tilaa, tarjoilija lähettää laskun, asiakas maksaa bitcoineilla puhelimellaan ja tarjoilija ojentaa kahvin.](/micrographics/coffee-shop-payment-01/fi.md)
 
 
 Käyttäkää paikallisesti tuttuja tavaroita ja palveluja. Sillä, mikä tuote on kyseessä, ei ole merkitystä; maksutavan valinnan perusteluilla on.

@@ -11,6 +11,7 @@ A Bitcoin nem az első kísérlet volt a digitális pénz létrehozására. Nég
 Ezek a kísérletek együttesen a kirakós hasznos darabjait mutatták meg. Egyúttal a még megoldásra váró problémát is tisztázták.
 
 
+<!-- card: definition -->
 > **Definition – Kettős költés**
 >
 > [A kettős költés](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending) kísérlet ugyanannak a digitális egységnek két címzett részére történő elküldésére. A digitális adatok tökéletesen másolhatók, ezért egy digitális pénzrendszernek szüksége van egy módszerre annak megállapításához, hogy melyik [tranzakció](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) érvényes.
@@ -28,6 +29,7 @@ A fehér könyv egyesítette az ehhez a megközelítéshez szükséges jellemző
 
 
 <!-- micrographic: five-part-response-01 -->
+[Öt elem együtt oldja meg a kettős költés problémáját: egy egyenrangú felek közötti hálózat, digitális aláírások, blokkok és bányászat, független ellenőrzés, valamint a legtöbb felhalmozott munkabizonyítékkal rendelkező közös előzmények. Ezek együttesen teszik lehetővé, hogy a hálózat központi hatóság nélkül utasítsa el az ismételt költést.](/micrographics/five-part-response-01/hu.md)
 
 
 Ez a modul részletesebben ismerteti ezeket a fogalmakat. Együttesen gyakorlati választ adtak a [kettős költés problémájára](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): a hálózat központi hatóságra való támaszkodás nélkül is elutasíthatja az ugyanazon bitcoin elköltésére tett második kísérletet. A Bitcoin biztosította azt a hiányzó kombinációt, amelyet a digitális pénzzel folytatott kísérletek évtizedeken át kerestek.

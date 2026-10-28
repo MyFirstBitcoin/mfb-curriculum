@@ -12,6 +12,7 @@ Beş soru kullanın:
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[Nakit, banka mevduatı, perakende MBDP (merkez bankası dijital parası) ve Bitcoin'i; kimin ihraç ettiği, biçimleri, erişim, görünürlük, arz kuralları ve doğrulama açısından karşılaştıran bir tablo. Dijital olmak, merkeziyetsiz olmakla aynı şey değildir: Bir MBDP yine merkez bankası tarafından ihraç edilir ve erişimi, görünürlüğü ve doğrulanması tasarımına bağlıdır.](/micrographics/cbdc-comparison-table-01/tr.md)
 
 
 [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) tasarımları birbirinden farklıdır. Her [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc)'nin belirli bir özelliğe sahip olduğunu ya da olmadığını iddia etmeyin. Doğrulanmış yerel tasarımı, yayımlanmış öneriyi, yorumu ve spekülasyonu birbirinden ayırın.

@@ -3,6 +3,7 @@
 Bitcoinin omistajuus varmistetaan kryptografisilla avaimilla.
 
 
+<!-- card: definition -->
 > **Definition – Yksityinen avain**
 >
 > Yksittäinen [yksityinen avain](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) on salainen tieto, jonka avulla lompakko voi luoda kelvollisia [digitaalisia allekirjoituksia](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature). Allekirjoitus valtuuttaa vastaavan avaimen hallinnassa olevien bitcoinien käytön. Kuka tahansa, joka saa haltuunsa [yksityisen avaimen](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), voi yleensä käyttää kyseiset varat.
@@ -21,10 +22,10 @@ Useimmat aloittelijoille tarkoitetut lompakot käyttävät [yhden allekirjoituks
 Yksikään asianmukaisesti toimiva kouluttaja, lompakkoyritys, vaihtopalvelun työntekijä, teknisen tuen työntekijä tai Bitcoin-kehittäjä ei tarvitse [yksityistä avaintanne](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) tai [palautuslausettanne](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase). Jokaiseen, joka pyytää jompaakumpaa, on suhtauduttava uhkana.
 
 
-> **Light**
->
+<!-- card: light -->
 > **Kokeilkaa:** Lajitelkaa valmiit esimerkit kolmeen ryhmään: vastaanottamista varten turvallisesti jaettavat tiedot, salaiset varojen käyttötiedot sekä tiedot, jotka voivat olla julkisia mutta jotka tulisi silti pitää yksityisinä, kun ne liittyvät henkilöön.
 
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[Salaisesta yksityisestä avaimesta, jota ei saa koskaan jakaa, saadaan tietoja, joita voi jakaa: siitä johdettu julkinen avain ja sen tiedoista luotu vastaanotto-osoite. Sama yksityinen avain luo allekirjoituksia, jotka solmut tarkistavat saamatta koskaan tietää yksityistä avainta.](/micrographics/private-key-public-info-01/fi.md)

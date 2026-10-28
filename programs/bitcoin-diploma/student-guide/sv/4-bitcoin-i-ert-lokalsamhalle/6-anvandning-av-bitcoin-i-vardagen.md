@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: daily-bitcoin-uses-01 -->
+[Sju olika sätt att använda Bitcoin i vardagen: tjäna, spara, ta emot, skicka, spendera, donera samt prissättning och bokföring. Vart och ett är ett möjligt användningsområde, inte ett obligatoriskt steg.](/micrographics/daily-bitcoin-uses-01/sv.md)
 
 
 Bitcoin kan fungera som pengar på flera sätt. Att betala är bara ett av dem.
@@ -24,7 +25,7 @@ Bitcoin kan fungera som pengar på flera sätt. Att betala är bara ett av dem.
 
 Ställ tre frågor vid all användning:
 
-1. Vilket befintligt problem [löser Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) här?
+1. Vilket befintligt problem löser Bitcoin här?
 1. Är Bitcoin bättre än det tillgängliga alternativet i det här fallet?
 1. Vilket nytt ansvar eller vilken ny risk skapar Bitcoin?
 

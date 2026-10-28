@@ -1,10 +1,12 @@
 # 4.13 Pregled: Povežite ovo sa svojom zajednicom
 
 <!-- micrographic: community-review-path-01 -->
+[Koraci za analizu lokalnog primera primene Bitcoin-a: počnite od stvarne potrebe, proverite da li je Bitcoin prikladan, zatim razmotrite način plaćanja, čuvanje sredstava, ukupne troškove, bezbednost i lokalne uslove, a završite dokazima o uspehu.](/micrographics/community-review-path-01/sr-Latn.md)
 
 
 
 <!-- micrographic: community-review-table-01 -->
+[Tabela za analizu lokalnog primera: za svaku temu, od stvarne potrebe do odgovornog sledećeg koraka, dato je pitanje za razmatranje i prostor za vaše beleške, ako želite da ih zapišete.](/micrographics/community-review-table-01/sr-Latn.md)
 
 
 Uradite ovaj pregled samostalno, a zatim uporedite svoje obrazloženje sa svojim timom ili grupom. Razmotrite lokalni primer koji ste proučavali: na koju je stvarnu potrebu odgovorio, koja je funkcija novca bila uključena i da li je [vrednost](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) preneta na lancu, putem mreže Lightning ili na oba načina? Razmotrite ko je kontrolisao ključeve, koja je bila najveća korist, a koji najozbiljniji rizik i kako su lokalni propisi, infrastruktura, jezik ili kultura uticali na ishod. Odgovoran sledeći korak je onaj koji odgovara lokalnom kontekstu, jasno prikazuje troškove i [čuvanje sredstava](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), ograničava greške i prevare i može se proceniti na osnovu dokaza.

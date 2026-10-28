@@ -1,5 +1,6 @@
 # 1.12 Digitala centralbanksvalutor (CBDC)
 
+<!-- card: definition -->
 > **Definition – Digital centralbanksvaluta (CBDC)**
 >
 > En [digital centralbanksvaluta](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), eller [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), är en digital form av [fiatpengar](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) som ges ut som en [skuld](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability) hos en [centralbank](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank): det är en fordran som [centralbanken](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) är skyldig att betala till innehavaren. Den skiljer sig från fysiska kontanter och från en vanlig insättning i en affärsbank, även om användarupplevelsen kan vara likartad.
@@ -13,6 +14,7 @@ Fråga sedan vad utformningen tillåter. Beroende på reglerna kan en [CBDC](htt
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[En tabell som jämför kontanter, bankinsättningar, en CBDC för allmänheten och Bitcoin utifrån vem som ger ut dem, deras form, tillgång, insyn, regler för utbudet och verifiering. Digitalt är inte detsamma som decentraliserat: en CBDC ges fortfarande ut av centralbanken, och tillgången, insynen och verifieringen beror på dess utformning.](/micrographics/cbdc-comparison-table-01/sv.md)
 
 
 Att något är digitalt innebär inte automatiskt att det är decentraliserat, finns i begränsad mängd, skyddar den personliga integriteten eller kan verifieras oberoende. En [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) kan använda digital teknik, men är fortfarande [fiatpengar](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) om dess [utgivare](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer), regler för penningmängd, regler för tillgång och betalningsbehörigheter fortfarande styrs centralt.

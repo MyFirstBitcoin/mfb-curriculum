@@ -13,3 +13,4 @@ Presenti tutto ciò come una possibile progressione oltre il Bitcoin Diploma, no
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[Un percorso di apprendimento facoltativo va dall'Introduzione a Bitcoin al Diploma Bitcoin, poi al Programma di formazione per educatori, fino a diventare un educatore che insegna con il programma di My First Bitcoin, e infine all'adesione al Bitcoin Education Network. Ogni passo successivo è una scelta, non un obbligo.](/micrographics/learner-journey-pathway-01/it.md)

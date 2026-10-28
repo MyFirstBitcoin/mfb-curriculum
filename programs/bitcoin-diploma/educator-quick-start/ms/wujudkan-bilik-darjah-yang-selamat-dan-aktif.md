@@ -1,6 +1,7 @@
 # Wujudkan bilik darjah yang selamat dan aktif
 
-> **Callout – Lindungi pelajar sebelum aktiviti amali bermula**
+<!-- card: callout -->
+> **Lindungi pelajar sebelum aktiviti amali bermula**
 >
 > Jangan sekali-kali meminta, melihat, mengambil gambar, menyalin, merekodkan, atau menyimpan frasa benih sebenar, kunci peribadi sebenar, kata laluan sebenar, atau maklumat kewangan yang tidak diperlukan. Jangan mendesak sesiapa untuk membeli, menjual, memegang, atau menggunakan bitcoin. Hentikan aktiviti buat sementara waktu apabila pelajar berasa tidak pasti, tertekan, atau terdedah kepada kemungkinan penipuan.
 

@@ -11,6 +11,7 @@ Bitcoin nie był pierwszą próbą stworzenia pieniądza cyfrowego. Powstał na 
 Łącznie eksperymenty te dostarczyły przydatnych elementów układanki. Pomogły też sprecyzować problem, który wciąż pozostawał do rozwiązania.
 
 
+<!-- card: definition -->
 > **Definition – Podwójne wydawanie**
 >
 > [Podwójne wydawanie](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending) to próba wysłania tej samej jednostki cyfrowej do dwóch odbiorców. Dane cyfrowe można kopiować bez żadnych zmian, dlatego system pieniądza cyfrowego potrzebuje sposobu na ustalenie, która [transakcja](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) jest ważna.
@@ -28,6 +29,7 @@ Biała księga połączyła cechy niezbędne do zastosowania tego podejścia:
 
 
 <!-- micrographic: five-part-response-01 -->
+[Pięć elementów wspólnie rozwiązuje problem podwójnego wydawania środków: sieć peer-to-peer, podpisy cyfrowe, bloki i wydobywanie, niezależna weryfikacja oraz wspólna historia o największym skumulowanym dowodzie pracy. Razem pozwalają sieci odrzucić ponowne wydanie tych samych środków bez udziału centralnego organu.](/micrographics/five-part-response-01/pl.md)
 
 
 Ten moduł wyjaśnia te pojęcia bardziej szczegółowo. Razem dały one praktyczne rozwiązanie [problemu podwójnego wydawania](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): sieć może odrzucić drugą próbę wydania tego samego bitcoina bez polegania na centralnym organie. Bitcoin zaoferował brakujące połączenie rozwiązań, którego poszukiwano przez dziesięciolecia eksperymentów z pieniądzem cyfrowym.

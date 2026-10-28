@@ -40,7 +40,8 @@ Pa pou fè lajan ak li, pa pou depanse li, men pou reflechi sou sa li ye ak faso
 * Èske lajan ou achte menm kantite bagay tankou anvan?
 
 
-> **Callout – Kenbe repons ou yo**
+<!-- card: callout -->
+> **Kenbe repons ou yo**
 >
 > Ekri yon repons kout pou chak kesyon. W ap tounen sou yo nan fen an.
 
@@ -85,6 +86,7 @@ Toude moun yo dwe vle sa lòt la genyen, an menm tan epi nan kantite ki apwopriy
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina gen diri epi li vle soulye, Luis gen soulye epi li vle lwil pou kwit manje, epi Mei gen lwil pou kwit manje epi li vle travay reparasyon. Okenn pè pa ka fè echanj dirèkteman, paske nan chak pè, pèsonn pa vle sa lòt la ofri.](/micrographics/barter-mismatch-01/ht.md)
 
 <!-- notes: Sèvi ak egzanp gid la: ou plante diri epi ou bezwen soulye, men kòdonye a vle lwil pou kwit manje, li pa vle diri. Ekonomis yo rele sa doub koyensidans bezwen. -->
 
@@ -151,6 +153,7 @@ Lè moun tande mo enflasyon an, yo konn panse a pri k ap monte.
 ## Enflasyon ak pouvwa acha
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Menm 100 inite lajan yo achte tout panye pwodui debaz la lè li koute 100, men yo pa ka achte l lè menm panye a koute 110. Nivo pri a monte, epi pouvwa acha lajan an bese.](/micrographics/same-money-smaller-basket-01/ht.md)
 
 <!-- notes: Enflasyon pri se yon ogmantasyon ki dire nan nivo jeneral pri yo. Lòt bò meday la se pouvwa dachta: konbyen bagay yon inite lajan ka achte. Si yon panyen machandiz debaz monte soti 100 inite lajan pou rive 110, menm 100 inite yo pa ka achte tout panyen an ankò. -->
 
@@ -213,8 +216,7 @@ Yon balans labank diferan de lajan kach ou genyen nan men ou: se pwomès labank 
 * Men, kantite li ak règ li yo ka chanje, epi moun ki itilize l yo pa gen anpil mo pou yo di
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Se pou sa moun ap chèche lòt altènativ, e se pou sa yo te kreye Bitcoin.
 
 ---
@@ -233,6 +235,7 @@ Lajan dijital ki desantralize, ki gen yon kantite limite, epi ki ka voye dirèkt
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Avèk yon konpayi peman, yon sèl òganizasyon kenbe rejis la epi li apwouve chak transfè. Avèk Bitcoin, moun k ap voye a siyen yon tranzaksyon, nòd endepandan verifye l epi minè yo ajoute l nan yon sèl rejis pataje, konsa moun k ap resevwa a depann mwens de yon otorite santral.](/micrographics/central-ledger-vs-bitcoin-01/ht.md)
 
 <!-- notes: Anvan Bitcoin, voye lajan sou entènèt te toujou depann de yon òganizasyon moun te fè konfyans: yon bank oswa yon konpayi peman ki te kenbe liv kont lan, ki te apwouve kont yo, e ki te ka retade, bloke oswa anile yon peman. Enfòmasyon dijital fasil pou kopye: si yon moun te ka depanse yon pyès monnen dijital de fwa, li pa t ap ka sèvi kòm lajan. Sa a se pwoblèm depans doub la. Satoshi Nakamoto se yon moun oswa yon gwoup ki itilize non sa a. -->
 
@@ -253,6 +256,7 @@ Okenn konpayi pa ka bloke bitcoin ou kontwole tèt ou. Lòt bò libète sa a se 
 ## Yon limit tout moun ka verifye
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Yon limit sou kantite ki ekri sou yon sit entènèt oswa nan baz done yon emetè, emetè sa a ka chanje l an kachèt. Règ Bitcoin sou kantite a piblik, epi siyati yo, yon istwa piblik, prèv travay la ak verifikasyon nœud yo ansanm anpeche moun envante nouvo pyès oswa depanse menm bitcoin nan de fwa.](/micrographics/claimed-or-verified-supply-01/ht.md)
 
 <!-- notes: Nouvo bitcoin yo parèt dapre yon kalandriye piblik, epi kèk òdinatè endepandan yo rele nòd rejte nenpòt blòk ki vyole règ sa a. Limit la kredib paske nenpòt moun ka verifye l. Se pa yon lwa lanati: li kenbe paske patisipan yo kontinye fè respekte l. Yon kantite limite pa garanti pri a ap monte; pri a depann de demann nan osi byen ke de ofri a. -->
 
@@ -264,6 +268,7 @@ Yon bitcoin divize an 100 000 000 inite ki pi piti, yo rele yo satoshi, oswa sat
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Yon tablo ak de kolòn: 1 BTC se 100 000 000 sats, 0,1 BTC se 10 000 000 sats, 0,01 BTC se 1 000 000 sats, 0,001 BTC se 100 000 sats, epi 0,00000001 BTC se 1 sat.](/micrographics/bitcoin-and-sats-01/ht.md)
 
 <!-- notes: Posede 100 000 sats ak posede 0,001 bitcoin se menm kantite a. Korije move ide ki fè moun kwè Bitcoin pa aksesib paske yon bitcoin chè. -->
 
@@ -272,6 +277,7 @@ Yon bitcoin divize an 100 000 000 inite ki pi piti, yo rele yo satoshi, oswa sat
 ## Kiyès ki kenbe Bitcoin ap mache?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Kat wòl nan Bitcoin: itilizatè yo resevwa, kenbe epi voye bitcoin, ne yo verifye règ yo yon fason endepandan, minè yo konstwi blòk kandida ak prèv travay, epi devlopè yo pwopoze lojisyèl. Okenn wòl pou kont li pa kontwole rezo a.](/micrographics/bitcoin-participant-roles-01/ht.md)
 
 <!-- notes: Itilizatè yo voye, resevwa epi kenbe bitcoin; nòd yo verifye chak tranzaksyon ak chak blòk pou wè si yo respekte règ yo; minè yo fè konpetisyon pou ajoute yon nouvo blòk nan rejis la apeprè chak dis minit. Rejis sa a, blockchain nan, piblik, epi li koute anpil chè pou reekri l. Yon remak sou fason pou ekri mo a: Bitcoin ak yon B majiskil anjeneral vle di rezo a oswa sistèm nan; bitcoin ak yon b miniskil vle di lajan an limenm. -->
 
@@ -307,6 +313,7 @@ Premye kesyon pou nenpòt pòtfèy: kiyès ki kontwole kle yo?
 ## Yon Pòtfèy Jere Kle Yo
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Yon pòtfèy kenbe kle yo. Avèk yo, ou ka resevwa epi voye bitcoin, pandan bitcoin nan limenm rete anrejistre sou rejis pataje a, pa anndan telefòn nan oswa aparèy la.](/micrographics/wallet-manages-keys-01/ht.md)
 
 <!-- notes: Yon pòtfèy Bitcoin se yon zouti, anjeneral yon aplikasyon, ki pèmèt ou resevwa, verifye epi voye bitcoin. Bitcoin ou pa estoke andedan telefòn ou: li anrejistre sou blockchain lan. Pòtfèy la jere kle ki pèmèt ou pwouve se pou ou li ye epi otorize yon peman. -->
 
@@ -331,6 +338,7 @@ Yon lis mo ki nan yon lòd presi, souvan 12 oswa 24 mo, ki ka rekreye kle ou yo.
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Yon fraz seed se yon lis mo ki nan yon lòd presi, isit la se douz mo egzanp ki gen nimewo epi ki ekri sou papye. Bon mo yo nan bon lòd la ka retabli kontwòl la nan yon pòtfèy ki konpatib, se poutèt sa li dwe rete sekrè epi li pa dwe janm sou entènèt.](/micrographics/seed-phrase-on-paper-01/ht.md)
 
 <!-- notes: Fraz sekrè a (seed phrase) pa sèlman yon sovgad: li bay aksè total. Ekri l sou papye avèk presizyon lè ou kreye bous la; kenbe l lwen entènèt, an prive, epi yon kote li p ap pèdi ni domaje. Pa janm pran l an foto, voye l pa imèl, sere l nan nòt sou nwaj (cloud), voye l nan yon mesaj, oswa tape l sou yon sit entènèt. Mo ki parèt yo se yon egzanp sèlman; pa janm montre ni ranmase yon vrè fraz sekrè. -->
 
@@ -365,6 +373,7 @@ Yon lis mo ki nan yon lòd presi, souvan 12 oswa 24 mo, ki ka rekreye kle ou yo.
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Peman on-chain yo anrejistre dirèkteman nan blockchain Bitcoin nan, pandan Lightning se yon rezo peman ki bati sou Bitcoin pou peman rapid e souvan, men ki ka echwe tou. Toude chemen yo ka gen yon gadyen fon oswa ou ka gade fon yo tèt ou.](/micrographics/on-chain-and-lightning-01/ht.md)
 
 ---
 
@@ -375,7 +384,8 @@ Yon lis mo ki nan yon lòd presi, souvan 12 oswa 24 mo, ki ka rekreye kle ou yo.
 * **Pa fè konfyans, verifye.** Verifye moun nan, metòd peman an, adrès la, ak kantite lajan an.
 
 
-> **Callout – Pataje enfòmasyon pou resevwa, pa janm pataje sekrè**
+<!-- card: callout -->
+> **Pataje enfòmasyon pou resevwa, pa janm pataje sekrè**
 >
 > Ou ka pataje yon adrès oswa yon demann peman. Ou pa dwe janm pataje yon fraz sekrè (seed phrase) oswa yon kle prive. Okenn edikatè serye, okenn konpayi pòtfèy, ni okenn anplwaye sèvis sipò p ap janm mande ou li.
 
@@ -389,6 +399,7 @@ Kanpe si yon moun ap fè w prese oswa mande w kenbe sa an sekrè, si l pwomèt o
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Senk siy alèt ki montre yon eskwokri: ijans, imitasyon idantite, yon destinasyon ki chanje, pwofi garanti ak demann pou sekrè.](/micrographics/scam-red-flags-01/ht.md)
 
 ---
 
@@ -408,7 +419,8 @@ Se jis kòmansman an sa ye.
 * **Se sèlman kòmansman an.** Yon sèl pwochen etap ki san danje ase.
 
 
-> **Callout – Yon moman pou reflechi**
+<!-- card: callout -->
+> **Yon moman pou reflechi**
 >
 > Retounen sou senk kesyon ki te nan kòmansman an. Kisa nou ta reponn kounye a?
 

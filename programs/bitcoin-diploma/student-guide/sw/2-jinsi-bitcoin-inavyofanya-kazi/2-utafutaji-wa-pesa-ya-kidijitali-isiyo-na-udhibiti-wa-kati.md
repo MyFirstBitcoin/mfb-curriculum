@@ -3,6 +3,7 @@
 Kukua kwa kompyuta binafsi na intaneti kulileta fursa mpya za mawasiliano. Pia kulileta aina mpya za ufuatiliaji na udhibiti. Mwishoni mwa karne ya ishirini, kikundi cha watengenezaji programu, wanahisabati na wanaharakati waliojulikana kama [**Cypherpunks**](https://curriculum.myfirstbitcoin.org/lexicon/en/#cypherpunk) walichunguza jinsi [cryptography](https://curriculum.myfirstbitcoin.org/lexicon/en/#cryptography) inavyoweza kulinda [faragha](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy) na uhuru wa mtu binafsi katika mifumo ya kidijitali.
 
 
+<!-- card: definition -->
 > **Definition – Cryptography**
 >
 > [Cryptography](https://curriculum.myfirstbitcoin.org/lexicon/en/#cryptography) hutumia mbinu za kihisabati kulinda taarifa na kuthibitisha kwamba kitendo ni halisi. [Usimbaji fiche](https://curriculum.myfirstbitcoin.org/lexicon/en/#encryption) unaweza kuuweka ujumbe kuwa wa faragha. [Sahihi za kidijitali](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) zinaweza kuthibitisha kwamba ujumbe au agizo lilitoka kwa mmiliki wa ufunguo wa siri bila kuufichua ufunguo huo.
@@ -16,3 +17,4 @@ Bitcoin ilijengwa juu ya kazi ya miongo kadhaa ya watu wengi. Muundo wake uliung
 
 
 <!-- micrographic: chain-of-ideas-01 -->
+[Mnyororo wa mawazo: kriptografia ilisababisha utafiti kuhusu pesa taslimu za kidijitali, ambao ulielekea kwenye pesa za kidijitali zisizo na mamlaka kuu. Bitcoin iliunganisha kwa njia mpya kazi ya miongo kadhaa iliyofanywa awali na watu wengi.](/micrographics/chain-of-ideas-01/sw.md)

@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[Quy trình thanh toán tại quán cà phê gồm bốn bước: khách hàng gọi món, nhân viên gửi hóa đơn, khách hàng thanh toán bằng bitcoin trên điện thoại của mình và nhân viên giao cà phê.](/micrographics/coffee-shop-payment-01/vi.md)
 
 
 Sử dụng hàng hóa và dịch vụ quen thuộc tại địa phương. Mặt hàng cụ thể không quan trọng; điều quan trọng là cách cân nhắc phương thức thanh toán.

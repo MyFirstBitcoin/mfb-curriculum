@@ -13,6 +13,7 @@ Vis adskillelsen mellem:
 
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[En wallet opbevarer nøglerne. Med dem kan De modtage og sende bitcoin, mens selve bitcoinene forbliver registreret i den fælles hovedbog, ikke i telefonen eller enheden.](/micrographics/wallet-manages-keys-01/da.md)
 
 
 Spørg:

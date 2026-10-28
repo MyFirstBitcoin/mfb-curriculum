@@ -1,6 +1,7 @@
 # 6.3 Condições universais de interrupção
 
-> **Callout – Pare imediatamente quando uma verificação de segurança falhar**
+<!-- card: callout -->
+> **Pare imediatamente quando uma verificação de segurança falhar**
 >
 > Parar é um comportamento de segurança bem-sucedido. Proteja as pessoas e os segredos, verifique o problema e use uma alternativa segura preparada ou adie a atividade. Não constranja o aluno que perceber um problema.
 
@@ -20,6 +21,7 @@ Interrompa a atividade imediatamente se:
 
 
 <!-- micrographic: stop-when-check-fails-01 -->
+[Uma condição insegura ou inexplicável interrompe a atividade. O educador protege as pessoas e os segredos e verifica o problema; um erro de avaliação crítico para a segurança é registrado como Ainda não, e o aluno reinicia, pratica e é reavaliado mais tarde.](/micrographics/stop-when-check-fails-01/pt-BR.md)
 
 
 ![O educador levanta a palma da mão aberta para pausar uma atividade, enquanto o iniciante abaixa o celular e o aluno técnico fecha parcialmente o notebook.](https://cdn.sanity.io/images/vje9ehw2/production/adb5c936fe5622b3c0b62f060349af1097eee5b0-1055x1491.png)

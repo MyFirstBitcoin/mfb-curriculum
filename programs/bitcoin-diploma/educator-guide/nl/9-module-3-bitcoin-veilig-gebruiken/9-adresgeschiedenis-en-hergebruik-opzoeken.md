@@ -29,3 +29,4 @@ Deze activiteit maakt zichtbaar wat een openbaar Grootboek betekent voor de [pri
 
 
 <!-- micrographic: address-reuse-linkage-01 -->
+[Verschillende fictieve ontvangsten delen één hergebruikt adres en zijn gemakkelijk aan elkaar te koppelen. Nieuwe ontvangstadressen verminderen die directe koppeling, maar externe informatie en zoekopdrachten in een explorer kunnen nog steeds verbanden onthullen, en openbare gegevens bewijzen op zichzelf niet de identiteit van een persoon.](/micrographics/address-reuse-linkage-01/nl.md)

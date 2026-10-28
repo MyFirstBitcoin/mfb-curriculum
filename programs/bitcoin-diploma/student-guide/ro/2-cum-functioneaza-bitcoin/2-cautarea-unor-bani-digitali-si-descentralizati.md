@@ -3,6 +3,7 @@
 Dezvoltarea calculatoarelor personale și a internetului a creat noi oportunități de comunicare. A creat, de asemenea, noi forme de supraveghere și control. La sfârșitul secolului al XX-lea, un grup de programatori, matematicieni și activiști cunoscuți sub numele de [**Cypherpunks**](https://curriculum.myfirstbitcoin.org/lexicon/en/#cypherpunk) a explorat modul în care [criptografia](https://curriculum.myfirstbitcoin.org/lexicon/en/#cryptography) putea proteja [viața privată](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy) și libertatea individuală în sistemele digitale.
 
 
+<!-- card: definition -->
 > **Definition – Criptografie**
 >
 > [Criptografia](https://curriculum.myfirstbitcoin.org/lexicon/en/#cryptography) folosește metode matematice pentru a proteja informațiile și a dovedi că o acțiune este autentică. [Criptarea](https://curriculum.myfirstbitcoin.org/lexicon/en/#encryption) poate păstra confidențialitatea unui mesaj. [Semnăturile digitale](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) pot dovedi că un mesaj sau o instrucțiune provine de la deținătorul unei chei secrete, fără a dezvălui acea cheie.
@@ -16,3 +17,4 @@ Bitcoin a fost construit pe baza a decenii de muncă depusă de numeroși oameni
 
 
 <!-- micrographic: chain-of-ideas-01 -->
+[Un lanț de idei: criptografia a dus la cercetări privind numerarul digital, care au deschis calea către banii digitali descentralizați. Bitcoin a îmbinat într-un mod nou decenii de muncă anterioară a multor persoane.](/micrographics/chain-of-ideas-01/ro.md)

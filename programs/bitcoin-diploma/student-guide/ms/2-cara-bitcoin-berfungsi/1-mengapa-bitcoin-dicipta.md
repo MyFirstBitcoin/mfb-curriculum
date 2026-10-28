@@ -10,6 +10,7 @@ Bitcoin dicipta untuk menyelesaikan masalah ini melalui [rangkaian rakan ke raka
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Dengan syarikat pembayaran, satu organisasi menyimpan lejar dan meluluskan setiap pemindahan. Dengan Bitcoin, pengirim menandatangani transaksi, nod bebas menyemaknya dan pelombong menambahkannya pada satu lejar bersama, maka penerima kurang bergantung pada pihak berkuasa pusat.](/micrographics/central-ledger-vs-bitcoin-01/ms.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)

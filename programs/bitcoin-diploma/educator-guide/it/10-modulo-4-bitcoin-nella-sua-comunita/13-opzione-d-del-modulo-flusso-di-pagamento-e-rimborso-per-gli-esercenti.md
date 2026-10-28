@@ -18,6 +18,7 @@ Argomenti:
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[Un commerciante che accetta Bitcoin opera in quattro ambiti: marketing, formazione, contabilità e vendite.](/micrographics/merchant-payment-operations-01/it.md)
 
 
 **Elaborato:** Il discente esegue o dirige uno scenario di pagamento e rimborso. Deve autenticare il cliente, richiedere nuove informazioni per la restituzione, verificare destinazione e importo, stabilire chi paga eventuali commissioni e registrare l'esito senza esporre dati non necessari.

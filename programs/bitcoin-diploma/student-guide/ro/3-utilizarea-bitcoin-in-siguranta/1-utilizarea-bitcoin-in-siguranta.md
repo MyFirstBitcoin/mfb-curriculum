@@ -3,8 +3,7 @@
 Acest modul se concentrează pe primii pași în siguranță, nu pe a deveni expert sau pe asumarea unor riscuri financiare. Veți exersa folosind simulări pregătite, medii de testare, portofele de exercițiu sau, acolo unde cadrul didactic consideră potrivit, o activitate reală cu miză redusă.
 
 
-> **Dark**
->
+<!-- card: dark -->
 > Nu este nevoie să cumpărați sau să obțineți bitcoin în alt mod ori să folosiți fonduri personale pentru a finaliza Diploma Bitcoin.
 
 

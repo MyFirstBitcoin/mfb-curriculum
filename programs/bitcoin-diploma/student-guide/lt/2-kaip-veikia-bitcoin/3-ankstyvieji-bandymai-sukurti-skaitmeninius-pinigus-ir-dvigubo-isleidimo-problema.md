@@ -11,6 +11,7 @@ Bitcoin nebuvo pirmasis bandymas sukurti skaitmeninius pinigus. Jis buvo sukurta
 Visi šie eksperimentai atskleidė naudingas bendro sprendimo dalis. Jie taip pat padėjo aiškiau suprasti likusią problemą.
 
 
+<!-- card: definition -->
 > **Definition – Dvigubas išleidimas**
 >
 > [Dvigubas išleidimas](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending) yra bandymas tą patį skaitmeninį vienetą nusiųsti dviem gavėjams. Skaitmeninius duomenis galima tobulai nukopijuoti, todėl skaitmeninių pinigų sistemai reikia būdo nustatyti, kuris [sandoris](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) yra galiojantis.
@@ -28,6 +29,7 @@ Baltojoje knygoje buvo sujungtos šiam požiūriui įgyvendinti reikalingos savy
 
 
 <!-- micrographic: five-part-response-01 -->
+[Penkios dalys kartu išsprendžia dvigubo lėšų panaudojimo problemą: lygiarangių tinklas, skaitmeniniai parašai, blokai ir kasimas, nepriklausomas tikrinimas ir bendra istorija, kurioje sukaupta daugiausia darbo įrodymų. Kartu jos leidžia tinklui atmesti pakartotinį tų pačių lėšų panaudojimą be centrinės institucijos.](/micrographics/five-part-response-01/lt.md)
 
 
 Šiame modulyje šios sąvokos aiškinamos išsamiau. Kartu jos suteikė praktinį sprendimą, kaip išspręsti [dvigubo išleidimo problemą](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): tinklas gali atmesti antrą bandymą išleisti tą patį bitkoiną, nesiremdamas centrine institucija. Bitkoinas pasiūlė trūkstamą derinį, kurio dešimtmečius buvo ieškoma eksperimentuojant su skaitmeniniais pinigais.

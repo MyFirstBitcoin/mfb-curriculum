@@ -13,6 +13,5 @@ For en person, der vælger [selvforvaltning](https://curriculum.myfirstbitcoin.o
 [Selvforvaltning](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) er derfor ikke blot en teknisk funktion. Det kræver beskyttelse af sikkerhedskopier, verificering af adresser, kontrol af, hvordan en wallet fungerer, og udarbejdelse af en gendannelsesplan. Det næste modul forklarer, hvordan man opbevarer og bruger bitcoin med omtanke, herunder hvordan man håndterer disse risici og dette ansvar.
 
 
-> **Light**
->
+<!-- card: light -->
 > Personligt ansvar betyder ikke, at man skal handle alene eller afvise hjælp. En forsigtig kursist kan benytte sig af undervisning, gennemgang med andre, dokumenterede procedurer og små tests uden at give nogen adgang til hemmelige oplysninger.

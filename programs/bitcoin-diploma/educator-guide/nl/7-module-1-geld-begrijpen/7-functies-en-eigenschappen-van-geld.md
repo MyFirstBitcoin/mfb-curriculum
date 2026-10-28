@@ -7,6 +7,7 @@ Leer het verschil expliciet aan:
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Twee lagen: de drie functies van geld (ruilmiddel, rekeneenheid, oppotmiddel) rusten op zeven eigenschappen (duurzaamheid, draagbaarheid, deelbaarheid, fungibiliteit, schaarste, aanvaardbaarheid en verifieerbaarheid).](/micrographics/functions-and-properties-01/nl.md)
 
 
 Gebruik verschillende doelen. Vraag welke eigenschappen van belang zijn voor:

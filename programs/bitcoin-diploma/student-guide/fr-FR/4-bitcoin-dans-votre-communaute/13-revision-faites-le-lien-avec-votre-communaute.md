@@ -1,10 +1,12 @@
 # 4.13 Révision : faites le lien avec votre communauté
 
 <!-- micrographic: community-review-path-01 -->
+[Un parcours d’analyse d’un exemple local d’utilisation de Bitcoin : partez d’un besoin réel, vérifiez si Bitcoin est adapté, puis examinez le mode de paiement, la garde, le coût total, la sécurité et les conditions locales, et terminez par les preuves de réussite.](/micrographics/community-review-path-01/fr-FR.md)
 
 
 
 <!-- micrographic: community-review-table-01 -->
+[Un tableau d’analyse de l’exemple local : pour chaque thème, du besoin réel à une prochaine étape responsable, une question à se poser et un espace facultatif pour vos propres notes.](/micrographics/community-review-table-01/fr-FR.md)
 
 
 Effectuez cette révision individuellement, puis comparez votre raisonnement avec celui de votre équipe ou de votre groupe. Réfléchissez à l’exemple local que vous avez étudié : à quel besoin réel répondait-il, quelle fonction de la monnaie était concernée, et la [valeur](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) a-t-elle été transférée sur la blockchain, via Lightning, ou par les deux moyens ? Demandez-vous qui contrôlait les clés, quels étaient le principal avantage et le risque le plus sérieux, et comment la législation, les infrastructures, la langue ou la culture locales ont influencé le résultat. Une prochaine étape responsable est une étape qui s’adapte au contexte local, clarifie les coûts et les modalités de [garde](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), limite les erreurs et les escroqueries, et peut être évaluée à partir d’éléments probants.

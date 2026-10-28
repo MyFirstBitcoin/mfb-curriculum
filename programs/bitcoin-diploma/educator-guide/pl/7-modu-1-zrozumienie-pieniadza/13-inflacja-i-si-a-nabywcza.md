@@ -4,6 +4,7 @@ Proszę wyjaśnić [inflację cen](https://curriculum.myfirstbitcoin.org/lexicon
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Za te same 100 jednostek waluty można kupić cały koszyk podstawowych dóbr, gdy kosztuje on 100, ale nie wtedy, gdy ten sam koszyk kosztuje 110. Poziom cen wzrósł, a siła nabywcza pieniądza spadła.](/micrographics/same-money-smaller-basket-01/pl.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)

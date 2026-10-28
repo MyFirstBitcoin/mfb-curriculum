@@ -1,6 +1,7 @@
 # 12.1 Lokalkan Contoh, Bukan Standar Kebenaran
 
-> **Light – Sesuaikan contohnya dengan konteks lokal, bukan standar pembelajarannya**
+<!-- card: light -->
+> **Sesuaikan contohnya dengan konteks lokal, bukan standar pembelajarannya**
 >
 > Gunakan contoh lokal untuk membantu peserta didik memahami konsep yang sama. Untuk setiap penyesuaian, ajukan pertanyaan berikut:
 >

@@ -7,8 +7,7 @@ Kapag naghahambing ng anumang [digital na asset](https://curriculum.myfirstbitco
 Ipinapakita ng paghahambing sa ibaba ang pagkakaiba ng mga kategorya at mga pagpili sa disenyo. Hindi ito pag-endorso, rekomendasyon, o pahayag na ang anumang [asset](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) ay ligtas, maaasahan, o angkop para sa inyo.
 
 
-> **Dark**
->
+<!-- card: dark -->
 > Ang mga panloloko, mapanlinlang na pahayag, at hindi ligtas na serbisyo ay maaaring makaapekto sa anumang [digital na asset](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-asset) o paraan ng pagbabayad. Suriin ang partikular na [asset](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset), serbisyo, at [pagkakustodiya](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) at ang kaayusan nito sa halip na ipagpalagay na ang isang kategorya ay likas na ligtas o hindi ligtas.
 
 

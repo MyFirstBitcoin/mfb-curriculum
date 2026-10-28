@@ -35,6 +35,7 @@ Choisissez un parcours pratique que les apprenants jugent sûr et à leur porté
 
 
 <!-- micrographic: cohort-capacity-check-01 -->
+[Pour organiser la formation d’un groupe, multipliez le nombre d’apprenants par le temps d’accompagnement et d’observation prévu, puis ajoutez du temps pour la mise en place, les retours, les besoins d’accessibilité et la réévaluation. Si l’équipe pédagogique ne dispose pas de suffisamment de temps, modifiez le programme : moins d’apprenants, plus de membres dans l’équipe pédagogique ou plus de temps.](/micrographics/cohort-capacity-check-01/fr-FR.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
@@ -57,6 +58,7 @@ Choisissez un parcours pratique que les apprenants jugent sûr et à leur porté
 
 
 <!-- micrographic: task-competency-map-01 -->
+[Les échanges théoriques T1 à T3 fournissent des éléments d’évaluation pour les compétences C1 à C5, et les parcours pratiques P6a, P6b et P7 en fournissent pour C6 et C7. Chaque compétence reçoit ensuite un résultat Oui ou Pas encore.](/micrographics/task-competency-map-01/fr-FR.md)
 
 
 ### Règles communes d’aide, de sécurité et de consignation
@@ -65,10 +67,12 @@ Choisissez un parcours pratique que les apprenants jugent sûr et à leur porté
 
 
 <!-- micrographic: support-boundary-01 -->
+[L’enseignant peut apporter l’aide autorisée à la préparation et à l’accès, et interrompre une action dangereuse. L’apprenant doit néanmoins fournir l’explication évaluée, sélectionner les détails pertinents et prendre les décisions requises ou en diriger la mise en œuvre.](/micrographics/support-boundary-01/fr-FR.md)
 
 
 
-> **Callout – Erreurs pratiques critiques pour la sécurité**
+<!-- card: callout -->
+> **Erreurs pratiques critiques pour la sécurité**
 >
 > Consignez l’incident et suspendez la tâche si l’apprenant révèle ou tente de partager une [phrase de récupération](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), [clé privée](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), un mot de passe ou des informations personnelles non nécessaires ; poursuit malgré une incohérence connue concernant l’adresse, la facture, le montant ou le destinataire ; accepte une arnaque manifeste ou une demande urgente à garder secrète ; ou contourne une étape de vérification requise. Expliquez la raison avec bienveillance, rétablissez un environnement sûr, proposez un entraînement et réévaluez ultérieurement. L’apprenant est en train d’acquérir la compétence. Utilisez par défaut des supports de formation préparés ; si un éducateur choisit une activité en conditions réelles à faible enjeu, expliquez clairement les risques et proposez une activité équivalente sans fonds.
 
@@ -181,3 +185,4 @@ Utilisez les exemples et les supports d’activité adaptés à votre groupe. V�
 
 
 <!-- micrographic: reassessment-calibration-moderation-01 -->
+[Trois processus distincts se déroulent en parallèle. Les apprenants ayant obtenu la mention « Pas encore » reçoivent un retour individuel confidentiel, s’entraînent et fournissent de nouveaux éléments probants ; les évaluateurs harmonisent leurs pratiques en notant des exemples de manière indépendante et en s’accordant sur une interprétation ; les enseignants peuvent demander un second examen, qui ne remplace jamais la performance observée.](/micrographics/reassessment-calibration-moderation-01/fr-FR.md)

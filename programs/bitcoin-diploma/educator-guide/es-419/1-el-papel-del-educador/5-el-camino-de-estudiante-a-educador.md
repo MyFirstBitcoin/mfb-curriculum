@@ -13,3 +13,4 @@ Presente esta ruta como una opción para seguir avanzando después del Diplomado
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[Un recorrido de aprendizaje opcional comienza con Introducción a Bitcoin, continúa con el Diplomado en Bitcoin y luego con el Programa de Formación para Educadores, hasta convertirse en un educador que enseña con el plan de estudios de My First Bitcoin e integrarse a la Red de Educación sobre Bitcoin. Cada paso siguiente es una elección, no un requisito.](/micrographics/learner-journey-pathway-01/es-419.md)

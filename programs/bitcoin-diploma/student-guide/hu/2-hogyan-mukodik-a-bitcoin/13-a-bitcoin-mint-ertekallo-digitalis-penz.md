@@ -6,6 +6,7 @@ A Bitcoin olyan tulajdonságokat egyesít, amelyek korábban nem voltak együtte
 
 
 <!-- micrographic: bitcoin-money-properties-01 -->
+[A Bitcoin a pénz hét tulajdonságát egyesíti egyetlen eszközben: tartósság, hordozhatóság, oszthatóság, felcserélhetőség, szűkösség, ellenőrizhetőség és elfogadottság. Mindegyiknek vannak gyakorlati korlátai, például a kulcsok biztonságos megőrzése vagy a sok közösségben még mindig alacsony elfogadottság.](/micrographics/bitcoin-money-properties-01/hu.md)
 
 
 

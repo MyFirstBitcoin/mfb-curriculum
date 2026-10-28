@@ -4,6 +4,7 @@ U sal deur drie fases beweeg: **Aanbieding**, waar u opvoeder die proses en die 
 
 
 <!-- micrographic: presentation-practice-production-01 -->
+[’n Praktiese vaardigheid word in drie fases aangeleer, van links na regs: Aanbieding, waar die opvoeder die proses en die risiko’s daarvan demonstreer, dan Oefening, begeleide inoefening met veilige opleidingsmateriaal, en dan Toepassing, waar die leerder ’n taak selfstandig voltooi of ’n besluit selfstandig verduidelik.](/micrographics/presentation-practice-production-01/af.md)
 
 
 U werkswinkel kan die volgende insluit:

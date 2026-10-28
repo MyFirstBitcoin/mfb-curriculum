@@ -4,6 +4,7 @@ Một [**nền kinh tế tuần hoàn Bitcoin**](https://curriculum.myfirstbitco
 
 
 <!-- micrographic: local-circular-economy-01 -->
+[Trong nền kinh tế tuần hoàn Bitcoin, bitcoin được chuyển từ người này sang người khác để đổi lấy hàng hóa, dịch vụ và thời gian. Khách hàng thanh toán cho người bán, người bán thanh toán cho nhà cung cấp dịch vụ, nhà cung cấp dịch vụ trả công cho người lao động, và người lao động lại chi tiêu số bitcoin đó với tư cách là khách hàng.](/micrographics/local-circular-economy-01/vi.md)
 
 
 My First Bitcoin hỗ trợ [các nền kinh tế tuần hoàn Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-circular-economy), và nhiều nền kinh tế trong số đó là thành viên của Mạng lưới Giáo dục Bitcoin. Hãy khám phá những cộng đồng này trên [Bảng thông tin Mạng lưới](https://network.myfirstbitcoin.org/?min10merchants=1).

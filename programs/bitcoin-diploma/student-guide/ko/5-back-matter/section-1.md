@@ -36,6 +36,7 @@
 
 
 <!-- micrographic: final-safety-check-01 -->
+[항목마다 체크 표시가 된 최종 안전 점검 목록이에요: 비밀 정보 보호하기, 결제 정보 확인하기, 소액으로 먼저 시험하기, 압박을 느끼면 멈추기. 조금이라도 불분명한 점이 있다면 행동하기 전에 멈추고 더 알아보세요.](/micrographics/final-safety-check-01/ko.md)
 
 
 다음 규칙을 기억하세요:
@@ -57,6 +58,7 @@
 
 
 <!-- micrographic: curriculum-source-panel-01 -->
+[QR 코드와 인쇄된 링크 github.com/MyFirstBitcoin/mfb-curriculum이 있는 패널이에요. 이 링크는 비트코인 디플로마의 공식 출처로, 여기에서 판을 확인하고 오류를 신고할 수 있어요.](/micrographics/curriculum-source-panel-01/ko.md)
 
 
 비트코인 디플로마는 계속 발전하는 오픈 소스 커리큘럼이에요. 수정 사항과 개선 사항은 공개적으로 검토할 수 있어요.

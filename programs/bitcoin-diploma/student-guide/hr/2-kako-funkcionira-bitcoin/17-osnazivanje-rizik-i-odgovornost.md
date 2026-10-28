@@ -13,6 +13,5 @@ Za osobu koja odabere [samostalno skrbništvo](https://curriculum.myfirstbitcoin
 [Samostalno skrbništvo](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) stoga nije samo tehnička značajka. Ono zahtijeva zaštitu sigurnosnih kopija, provjeru adresa, provjeru ponašanja novčanika i izradu plana oporavka. Sljedeći modul objašnjava kako pažljivo čuvati i upotrebljavati bitcoin, uključujući kako upravljati tim rizicima i odgovornostima.
 
 
-> **Light**
->
+<!-- card: light -->
 > Osobna odgovornost ne znači djelovati samostalno ili odbijati pomoć. Oprezna osoba koja uči može se osloniti na edukaciju, provjeru drugih sudionika, dokumentirane postupke i male probne radnje, a da pritom nikome ne omogući pristup tajnim podacima.

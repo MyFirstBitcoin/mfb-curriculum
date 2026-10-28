@@ -17,6 +17,7 @@ Bao gồm việc kiếm bitcoin, trao đổi trực tiếp, sử dụng dịch v
 
 
 <!-- micrographic: bitcoin-atm-off-ramp-01 -->
+[Một người tại máy ATM Bitcoin gửi bitcoin từ điện thoại của mình và nhận tiền mặt bằng nội tệ: một ví dụ về cách chuyển từ bitcoin sang nội tệ. Đây là hình minh họa, không phải lời khuyến nghị.](/micrographics/bitcoin-atm-off-ramp-01/vi.md)
 
 
 **Sản phẩm học tập:** Người học chọn một phương thức cho tình huống giả định, sắp xếp các bước kiểm tra an toàn theo trình tự và giải thích rủi ro nào được giảm bớt, rủi ro nào phát sinh thêm.

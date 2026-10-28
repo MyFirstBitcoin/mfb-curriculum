@@ -24,6 +24,7 @@ Wählen Sie für einen persönlichen Tausch einen öffentlichen und geeigneten O
 
 
 <!-- micrographic: compare-local-pathways-01 -->
+[Eine leere Tabelle zum Vergleich von drei lokalen Zugangswegen, A, B und C, nach Name, KYC-Anforderungen, Verwahrungsmodell, unterstützten Netzwerken, Ruf und Einzahlungsmethoden, mit Platz für Notizen.](/micrographics/compare-local-pathways-01/de.md)
 
 
 

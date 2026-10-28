@@ -36,6 +36,7 @@ Bağımsız eğitmenler ve yerel öğrenme toplulukları, [Bitcoin Eğitim Ağı
 
 
 <!-- micrographic: final-safety-check-01 -->
+[İşaretlenmiş bir son güvenlik kontrol listesi: gizli bilgilerinizi koruyun, ödeme bilgilerini doğrulayın, küçük denemeler yapın ve baskı altındayken durun. Herhangi bir şey belirsizse durun ve harekete geçmeden önce daha fazla bilgi edinin.](/micrographics/final-safety-check-01/tr.md)
 
 
 Şu kuralları unutmayın:
@@ -57,6 +58,7 @@ Eğitim riski azaltır ancak ortadan kaldıramaz. Bir durum belirsizse durun ve 
 
 
 <!-- micrographic: curriculum-source-panel-01 -->
+[Bir QR kodu ve basılı github.com/MyFirstBitcoin/mfb-curriculum bağlantısını içeren bir pano; bu bağlantı, sürümü kontrol edip hataları bildirebileceğiniz Bitcoin Diploma'nın resmî kaynağıdır.](/micrographics/curriculum-source-panel-01/tr.md)
 
 
 Bitcoin Diploması, yaşayan bir açık kaynak müfredattır. Düzeltmeler ve iyileştirmeler herkese açık şekilde incelenebilir.

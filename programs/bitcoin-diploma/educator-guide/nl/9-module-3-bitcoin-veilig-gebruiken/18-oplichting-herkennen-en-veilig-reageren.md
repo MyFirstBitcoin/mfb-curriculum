@@ -19,6 +19,7 @@ Gebruik de standaardreactie:
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Vijf waarschuwingssignalen van oplichting: urgentie, imitatie, een gewijzigde bestemming, gegarandeerd rendement en verzoeken om geheimen.](/micrographics/scam-red-flags-01/nl.md)
 
 
 #### Activiteit: oplichtingsstations

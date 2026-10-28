@@ -17,3 +17,4 @@ Nessun educatore legittimo, nessuna azienda di wallet, nessun dipendente di un e
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[Una chiave privata segreta, che non va mai condivisa, porta a informazioni pubbliche che si possono condividere: una chiave pubblica derivata da essa e un indirizzo di ricezione creato a partire da quest'ultima. La stessa chiave privata crea firme che i nodi verificano senza mai venire a conoscenza della chiave privata.](/micrographics/private-key-public-info-01/it.md)

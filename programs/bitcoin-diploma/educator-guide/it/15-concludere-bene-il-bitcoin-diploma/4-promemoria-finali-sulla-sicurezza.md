@@ -12,3 +12,4 @@ Ricordi ai partecipanti di:
 
 
 <!-- micrographic: final-safety-check-01 -->
+[Una lista di controllo di sicurezza finale, con tutte le voci spuntate: proteggere i segreti, verificare i dettagli del pagamento, fare piccoli test e fermarsi se messi sotto pressione. Se qualcosa non è chiaro, si fermi e approfondisca prima di agire.](/micrographics/final-safety-check-01/it.md)

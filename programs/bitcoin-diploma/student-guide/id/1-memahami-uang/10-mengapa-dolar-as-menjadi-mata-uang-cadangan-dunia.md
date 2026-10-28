@@ -1,4 +1,4 @@
-# 1.10 Mengapa Dolar AS Menjadi Mata Uang Cadangan Dunia?
+# 1.10 Mengapa Dolar AS Menjadi Mata Uang Cadangan Dunia
 
 Sebuah **mata uang [cadangan](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency)** adalah [mata uang](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) yang [bank sentral](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) dan pemerintah simpan serta gunakan untuk pembayaran internasional. Sebelum Perang Dunia Pertama, pound Inggris paling dominan dalam menjalankan peran ini. Perang tersebut melemahkan berbagai [mata uang](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) dan pusat keuangan Eropa, sementara Amerika Serikat memasok barang dan mengumpulkan [emas](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold). Hal ini meningkatkan penggunaan dolar secara internasional.
 

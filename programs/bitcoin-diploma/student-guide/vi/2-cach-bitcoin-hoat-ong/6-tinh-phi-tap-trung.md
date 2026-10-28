@@ -3,6 +3,7 @@
 Một [hệ thống tập trung](https://curriculum.myfirstbitcoin.org/lexicon/en/#centralized-system) có một đầu mối kiểm soát. Ngân hàng kiểm soát dữ liệu khách hàng trong [sổ cái](https://curriculum.myfirstbitcoin.org/lexicon/en/#ledger). Công ty thanh toán kiểm soát mạng lưới của mình. Chính phủ kiểm soát các quy tắc phát hành [tiền tệ](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency).
 
 
+<!-- card: definition -->
 > **Definition – Tính phi tập trung**
 >
 > Một [hệ thống phi tập trung](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralized-system) phân bổ vai trò và việc thực thi các quyết định giữa nhiều bên tham gia độc lập. Bitcoin không có cơ quan trung tâm nào có thể tạo tài khoản, thay đổi số dư hoặc phê duyệt tư cách thành viên.
@@ -22,6 +23,7 @@ Bitcoin có tính [phi tập trung](https://curriculum.myfirstbitcoin.org/lexico
 
 
 <!-- micrographic: powers-and-limits-01 -->
+[Người dùng, nút, thợ đào, nhà phát triển và dịch vụ đều có một phần quyền hạn đối với các quy tắc chung và sổ cái công khai của Bitcoin, nhưng không bên nào có thể đơn phương thay đổi sổ cái hoặc các quy tắc cho tất cả mọi người.](/micrographics/powers-and-limits-01/vi.md)
 
 
 [Tính phi tập trung](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) cũng đi kèm với những cái giá phải trả. Việc phối hợp có thể chậm hơn. Người dùng phải xác minh thông tin và chịu trách nhiệm nhiều hơn. Không có bộ phận hỗ trợ trung tâm cho [mạng Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). Những [sự đánh đổi](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) này là một phần của thiết kế, chứ không phải những khiếm khuyết ngẫu nhiên có thể loại bỏ mà không làm thay đổi hệ thống.

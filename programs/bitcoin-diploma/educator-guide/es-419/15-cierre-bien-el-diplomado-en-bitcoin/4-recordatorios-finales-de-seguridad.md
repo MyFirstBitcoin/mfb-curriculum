@@ -12,3 +12,4 @@ Recuérdeles a los estudiantes:
 
 
 <!-- micrographic: final-safety-check-01 -->
+[Una lista final de verificación de seguridad, con todas las casillas marcadas: proteja sus secretos, verifique los detalles del pago, haga pruebas con montos pequeños y deténgase si siente presión. Si algo no está claro, deténgase e infórmese más antes de actuar.](/micrographics/final-safety-check-01/es-419.md)

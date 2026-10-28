@@ -8,6 +8,7 @@ Peer-to-peer betyder ikke altid, at kun to computere kommunikerer direkte. En [t
 
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[En afsender signerer en transaktion og udsender den til mange knudepunkter i netværket, som videresender den, indtil den når frem til modtageren. Ingen central Bitcoin-operatør behøver at godkende afsenderen eller modtageren.](/micrographics/peer-to-peer-route-01/da.md)
 
 
 Brugerne kan stadig vælge [mellemmænd](https://curriculum.myfirstbitcoin.org/lexicon/en/#intermediary). En børs kan opbevare bitcoin for kunder. En betalingstjeneste kan forenkle en faktura. En hosted wallet kan administrere nøgler. Disse tjenester kan være praktiske, men brugeren er så afhængig af tjenestens regler og sikkerhed.

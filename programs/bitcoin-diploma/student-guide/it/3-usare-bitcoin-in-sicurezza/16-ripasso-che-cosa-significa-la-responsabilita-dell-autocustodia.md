@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: self-custody-responsibilities-01 -->
+[Il controllo delle chiavi si trova al centro di otto responsabilità: backup, ripristino, ricezione, invio, scelta dello strumento, canale di acquisto, privacy e verifiche anti-truffa. Ciascuna protegge qualcosa, e una mancanza in una qualsiasi di esse può costare l'accesso, denaro o la privacy.](/micrographics/self-custody-responsibilities-01/it.md)
 
 
 
 <!-- micrographic: responsibility-checks-01 -->
+[Una tabella con sei attività di autocustodia, cosa proteggere o verificare per ciascuna e cosa può accadere se qualcosa va storto: backup, ricezione, invio, custodia, scelta dello strumento e acquisto.](/micrographics/responsibility-checks-01/it.md)
 
 
 Immagini che un amico Le invii una richiesta di pagamento mentre un account di assistenza sconosciuto Le dice che deve agire immediatamente. Che cosa potrebbe verificare prima di fare qualsiasi cosa? È in grado di proteggere un piano di recupero, distinguere le informazioni per ricevere dai segreti e verificare la persona, il metodo di pagamento, la destinazione, l'importo e la schermata finale prima di inviare? Che sia un servizio o Lei a controllare le chiavi, il riepilogo pratico è lo stesso: proteggere i segreti, verificare prima di approvare, riconoscere i segnali di truffa e mantenere piccoli gli errori mentre impara.

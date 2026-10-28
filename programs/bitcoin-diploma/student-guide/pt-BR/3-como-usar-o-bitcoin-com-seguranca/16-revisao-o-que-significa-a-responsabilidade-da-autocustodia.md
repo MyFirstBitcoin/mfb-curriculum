@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: self-custody-responsibilities-01 -->
+[O controle das chaves está no centro de oito responsabilidades: backup, recuperação, recebimento, envio, escolha da ferramenta, forma de aquisição, privacidade e verificação de golpes. Cada uma protege algo, e uma falha em qualquer uma delas pode custar acesso, dinheiro ou privacidade.](/micrographics/self-custody-responsibilities-01/pt-BR.md)
 
 
 
 <!-- micrographic: responsibility-checks-01 -->
+[Uma tabela com seis tarefas de autocustódia, o que proteger ou verificar em cada uma e o que pode acontecer se algo der errado: backup, recebimento, envio, custódia, escolha da ferramenta e aquisição.](/micrographics/responsibility-checks-01/pt-BR.md)
 
 
 Imagine que um amigo lhe envia uma solicitação de pagamento enquanto uma conta de suporte desconhecida diz que você precisa agir imediatamente. O que você poderia verificar antes de fazer qualquer coisa? Você consegue proteger um plano de recuperação, distinguir informações de recebimento de segredos e verificar a pessoa, o método de pagamento, o destino, o valor e a tela final antes de enviar? Seja um serviço ou você quem controla as chaves, o resumo prático é o mesmo: proteja os segredos, verifique antes de aprovar, reconheça sinais de golpe e mantenha os erros pequenos enquanto aprende.

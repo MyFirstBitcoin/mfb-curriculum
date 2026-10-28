@@ -5,7 +5,8 @@
 Slanje zahtijeva više opreza jer je valjanu Bitcoin [transakciju](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) obično teško ili nemoguće poništiti. Prije nego što dodirnete gumb za odobravanje, možete li objasniti tko će primiti uplatu i zašto?
 
 
-> **Callout – Zastanite i provjerite prije slanja**
+<!-- card: callout -->
+> **Zastanite i provjerite prije slanja**
 >
 > Potvrdite primatelja, način plaćanja, odredište, iznos i jedinicu, naknadu ili rok valjanosti te završni zaslon. Ako se bilo što razlikuje od pouzdanog zahtjeva ili netko stvara osjećaj hitnosti ili traži podatke za oporavak, zastanite i provjerite neovisnim putem. Ako vam postupak nije poznat, izvršite probno plaćanje malog iznosa.
 
@@ -21,6 +22,7 @@ Slanje zahtijeva više opreza jer je valjanu Bitcoin [transakciju](https://curri
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Prije odobravanja plaćanja pošiljatelj provjerava primatelja i svrhu, način plaćanja, odredište te iznos, jedinicu, naknadu ili rok valjanosti, uz malu probnu uplatu ako mu je postupak nepoznat. Ako se bilo što razlikuje, zastaje i provjerava; odobrava samo kada se sve podudara, a zatim provjerava rezultat.](/micrographics/pre-send-checklist-01/hr.md)
 
 
 Za [plaćanje na lancu](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), **mrežna naknada** plaća se za uključivanje [transakcije](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) u blok. Ovisi uglavnom o [transakcijskim](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) podacima i potražnji za [prostorom u bloku](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-space), a ne samo o iznosu koji se šalje. Procjene naknada i vremena obrade mogu se mijenjati, stoga pročitajte završni sažetak umjesto da pretpostavljate da plaćanje malog iznosa ima nisku naknadu.

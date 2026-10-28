@@ -1,5 +1,6 @@
 # 3.6 Utilizare cu custodie și fără custodie
 
+<!-- card: definition -->
 > **Definition – Custodia**
 >
 > [Custodia](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) răspunde la o întrebare practică: cine controlează cheile necesare pentru a cheltui bitcoin?
@@ -15,10 +16,12 @@ Această diferență este importantă pentru verificare. Regulile Bitcoin și of
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[În cazul custodiei, un serviciu controlează cheile și aprobă cheltuirea fondurilor, astfel încât soldul reprezintă promisiunea sa. În cazul autocustodiei, utilizatorul controlează cheile și copiile de siguranță; ambele variante implică dependențe și riscuri de eșec.](/micrographics/who-controls-keys-01/ro.md)
 
 
 
 <!-- micrographic: custody-comparison-table-01 -->
+[Un tabel care compară utilizarea cu custodie și utilizarea în autocustodie: cine deține cheile, cine se ocupă de recuperare și principalul compromis al fiecărui model. Niciunul dintre modele nu este lipsit de riscuri.](/micrographics/custody-comparison-table-01/ro.md)
 
 
 [Custodia](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) nu este întotdeauna evidentă din interfață. Dacă nu puteți controla metoda de recuperare și aveți nevoie de aprobarea unei companii pentru o retragere, probabil că apelați la un [custode](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian). [Autocustodia](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) nu este un test al valorii personale; pasul important este să identificați încrederea necesară și riscul implicat.

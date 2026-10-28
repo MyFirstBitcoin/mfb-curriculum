@@ -4,6 +4,7 @@ Ljudi često traže alternative držanju gotovine kada veruju da će ona izgubit
 
 
 <!-- micrographic: saving-alternatives-table-01 -->
+[Tabela sa tri alternative držanju gotovine (plemeniti metali, nekretnine i akcije), uz razloge zbog kojih ih ljudi mogu izabrati i važne kompromise koje svaka podrazumeva. Nijedna nije rangirana iznad ostalih.](/micrographics/saving-alternatives-table-01/sr-Latn.md)
 
 
 Jedno [sredstvo](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) je nešto što osoba može posedovati ili na šta može polagati pravo, a što može imati [vrednost](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); ono ne obavlja automatski sve funkcije novca. Kuća može čuvati [vrednost](https://curriculum.myfirstbitcoin.org/lexicon/en/#value), ali nije praktična za kupovinu hrane. Akciju je možda lako prodati u jednoj zemlji, ali ona može biti nedostupna nekome ko nema brokerski račun. [Zlato](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) je služilo kao novac tokom dugih istorijskih razdoblja, ali može biti teško proveriti njegovu autentičnost ili ga podeliti prilikom razmene male vrednosti.

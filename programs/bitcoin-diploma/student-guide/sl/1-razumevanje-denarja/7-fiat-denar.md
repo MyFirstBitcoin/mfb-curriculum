@@ -1,5 +1,6 @@
 # 1.7 Fiat denar
 
+<!-- card: definition -->
 > **Definition – Fiat denar**
 >
 > [Fiat denar](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) je [valuta,](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) izdana na podlagi državnih pooblastil, običajno prek [centralne banke](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank), ki je ni mogoče zamenjati za določeno količino surovine, kot je [zlato](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold). Vlade podpirajo — v nekaterih okoliščinah pa tudi vsiljujejo — njegovo uporabo tako, da ga zahtevajo za plačilo davkov in določajo pravila o zakonitem plačilnem sredstvu. Natančna pravila za sprejemanje plačil in poravnavo [dolgov](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt) se razlikujejo glede na pravni red.
@@ -11,12 +12,14 @@ Fiat sistem ima več glavnih udeležencev:
 
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Udeleženci v sistemu fiat denarja in kaj se prenaša med njimi: centralna banka določa denarno politiko in izvaja poravnave med bankami, poslovne banke hranijo vloge, ki so njihova obveznost do strank, plačilne storitve prenašajo naloge, država pobira davke in porablja sredstva, državljani in podjetja pa plačujejo in prejemajo plačila.](/micrographics/fiat-system-flows-01/sl.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
-> **Light – Preučite plačilo v svoji skupnosti**
+<!-- card: light -->
+> **Preučite plačilo v svoji skupnosti**
 >
 > Izberite eno vsakdanje plačilo v svoji skupnosti, na primer plačilo prevoza, hrane ali dobroimetja za telefon, prejem plače ali plačilo računa. Če želite, lahko uporabite realističen izmišljen primer. V treh ali štirih stavkih pojasnite:
 >

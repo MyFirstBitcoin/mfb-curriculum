@@ -18,3 +18,4 @@ Lightning ei ole erillinen kolikko. Onnistunut Lightning-maksu ei osoita, että 
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Lohkoketjumaksut kirjataan suoraan Bitcoinin lohkoketjuun, kun taas Lightning on Bitcoinin päälle rakennettu maksuverkko nopeisiin, toistuviin maksuihin, jotka voivat myös epäonnistua. Kumpikin vaihtoehto voi perustua ulkopuoliseen säilytyspalveluun tai omatoimiseen säilytykseen.](/micrographics/on-chain-and-lightning-01/fi.md)

@@ -15,6 +15,7 @@ Brug en fremgangsmåde med pauser og kontrol:
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Før afsenderen godkender en betaling, kontrollerer vedkommende modtageren og formålet, betalingsmetoden, destinationen samt beløb, enhed, gebyr eller udløbstidspunkt og foretager en lille test, hvis fremgangsmåden er ukendt. Hvis noget afviger, stopper afsenderen og kontrollerer det; vedkommende godkender kun, når alt stemmer overens, og kontrollerer derefter resultatet.](/micrographics/pre-send-checklist-01/da.md)
 
 
 Lær kursisterne at stoppe, hvis modtageren uventet ændrer modtageradressen, fraråder kontrol, skaber tidspres eller beder om gendannelsesoplysninger.

@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: daily-bitcoin-uses-01 -->
+[Bảy cách khác nhau để sử dụng Bitcoin trong cuộc sống hằng ngày: kiếm tiền, tiết kiệm, nhận tiền, gửi tiền, chi tiêu, quyên góp, và định giá và kế toán. Mỗi cách là một lựa chọn sử dụng, không phải một bước bắt buộc.](/micrographics/daily-bitcoin-uses-01/vi.md)
 
 
 Bitcoin có thể đóng vai trò là tiền theo nhiều cách. Chi tiêu chỉ là một trong số đó.
@@ -24,7 +25,7 @@ Bitcoin có thể đóng vai trò là tiền theo nhiều cách. Chi tiêu chỉ
 
 Với bất kỳ mục đích sử dụng nào, hãy đặt ra ba câu hỏi:
 
-1. Vấn đề hiện có nào được [Bitcoin giải quyết](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) trong trường hợp này?
+1. Vấn đề hiện có nào được Bitcoin giải quyết trong trường hợp này?
 1. Trong trường hợp này, Bitcoin có tốt hơn phương án thay thế sẵn có không?
 1. Bitcoin tạo ra trách nhiệm hoặc rủi ro mới nào?
 

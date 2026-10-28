@@ -3,6 +3,7 @@
 ![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
+<!-- card: definition -->
 > **Definition – Bukti kerja**
 >
 > [Bukti kerja](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) ialah proses yang [pelombong](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) gunakan untuk bersaing bagi mendapatkan hak mencadangkan blok seterusnya.
@@ -14,6 +15,7 @@ Apabila seorang [pelombong](https://curriculum.myfirstbitcoin.org/lexicon/en/#mi
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Pelombong mengira hash bagi blok yang dicadangkan berulang kali sehingga satu hasil berada di bawah sasaran rangkaian, kemudian menyiarkan blok itu. Nod menyemak bukti dan pematuhan terhadap setiap peraturan dengan pantas sebelum blok itu dimasukkan ke dalam rantaian blok: kerja tersebut memerlukan kos yang tinggi untuk dihasilkan tetapi mudah disahkan.](/micrographics/proof-of-work-process-01/ms.md)
 
 
 [Bukti kerja](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) mempunyai beberapa tujuan:

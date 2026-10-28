@@ -11,6 +11,7 @@ Lightningová peněženka může být spravována třetí stranou nebo samotným
 
 
 <!-- micrographic: hot-and-cold-wallets-01 -->
+[Online peněženka uchovává podpisové klíče v zařízení připojeném k internetu, například v telefonu; offline řešení je uchovává mimo jakékoli připojené zařízení. Kdo má nad klíči kontrolu, je samostatná otázka.](/micrographics/hot-and-cold-wallets-01/cs.md)
 
 
 Požádejte studenty, aby vybrali nástroj pro smyšlený účel, a poté od nich vyžadujte, aby uvedli jeho přínos i nové riziko. Nežádejte je, aby vybírali nástroj pro své skutečné prostředky.

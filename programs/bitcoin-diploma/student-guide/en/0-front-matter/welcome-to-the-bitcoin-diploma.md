@@ -18,7 +18,7 @@ Independent education is not controlled by a government, company, or financial s
 
 This approach matters because money affects every person. People should be able to study the systems they use without needing permission. They should also be able to inspect the educational material, question its claims, and help improve it.
 
-### What we stand for: accessibility, critical thinking, community, and self-sovereignty
+### What we stand for: accessibility, curiosity, critical thinking, community, and self-sovereignty
 
 **Accessibility** means that Bitcoin Diploma content can be taught in person, online, or through print/PDF delivery. Limited technology should not prevent participation in learning or certification. Local examples may change, but the required competencies and competency criteria remain the same.
 
@@ -28,6 +28,7 @@ This approach matters because money affects every person. People should be able 
 
 
 <!-- micrographic: critical-thinking-loop-01 -->
+[A repeatable critical-thinking loop: identify the claim, separate fact from preference, inspect the evidence and source, compare alternatives, name a trade-off or uncertainty, and form a provisional conclusion or question.](/micrographics/critical-thinking-loop-01/en.md)
 
 
 **Community** means that education becomes more useful when people discuss ideas and connect them to local life. Your educator and classmates may have experiences that no global book can contain. Listen carefully, ask questions, and explain your reasoning with respect.
@@ -75,7 +76,8 @@ You can use the course to:
 * prepare for more advanced study
 
 
-> **Callout – Knowledge comes before action**
+<!-- card: callout -->
+> **Knowledge comes before action**
 >
 > You do not need to buy or otherwise acquire bitcoin to complete the Bitcoin Diploma. You also do not need to install a [Bitcoin wallet](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet) or use personal funds. Required practical skills may be assessed with a prepared training wallet, simulation, test environment, physical model, or an educator-approved low-stakes activity.
 
@@ -84,3 +86,4 @@ If you have limited time or would like a first introduction to Bitcoin, begin wi
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[An optional learning journey runs from Introduction to Bitcoin to the Bitcoin Diploma, then the Educator Training Program, to becoming an educator who teaches from the My First Bitcoin curriculum, and joining the Bitcoin Education Network. Each next step is a choice, not a requirement.](/micrographics/learner-journey-pathway-01/en.md)

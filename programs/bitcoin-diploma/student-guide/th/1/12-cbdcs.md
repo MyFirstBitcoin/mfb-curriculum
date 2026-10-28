@@ -1,5 +1,6 @@
 # 1.12 สกุลเงินดิจิทัลของธนาคารกลาง (CBDCs)
 
+<!-- card: definition -->
 > **Definition – สกุลเงินดิจิทัลของธนาคารกลาง (CBDC)**
 >
 > สำหรับ [สกุลเงินดิจิทัลของธนาคารกลาง](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) หรือ [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) นั้น เป็นรูปแบบดิจิทัลของ [เงินเฟียต](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) ที่ออกในฐานะ [หนี้สิน](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability) ของ [ธนาคารกลาง](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank): เป็นสิทธิเรียกร้องที่ [ธนาคารกลาง](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) มีภาระผูกพันต่อผู้ถือ สกุลเงินนี้แตกต่างจากเงินสดที่จับต้องได้และเงินฝากธนาคารพาณิชย์ทั่วไป แม้ว่าประสบการณ์การใช้งานอาจดูคล้ายกัน
@@ -13,6 +14,7 @@
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[ตารางเปรียบเทียบเงินสด เงินฝากธนาคาร CBDC สำหรับรายย่อย และบิตคอยน์ ในด้านผู้ออก รูปแบบ การเข้าถึง การมองเห็นข้อมูล กฎเกณฑ์ด้านปริมาณเงิน และการตรวจสอบ การเป็นดิจิทัลไม่ได้หมายถึงการกระจายศูนย์: CBDC ยังคงออกโดยธนาคารกลาง และการเข้าถึง การมองเห็นข้อมูล และการตรวจสอบขึ้นอยู่กับการออกแบบ](/micrographics/cbdc-comparison-table-01/th.md)
 
 
 การเป็นดิจิทัลไม่ได้หมายความโดยอัตโนมัติว่าจะกระจายศูนย์ มีปริมาณจำกัด มีความเป็นส่วนตัว หรือเปิดให้ตรวจสอบได้อย่างอิสระ แม้ [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) อาจใช้เทคโนโลยีดิจิทัล แต่ก็ยังคงเป็น [เงินเฟียต](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) หาก [ผู้ออกเงิน](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer) กฎเกี่ยวกับปริมาณเงิน กฎการเข้าถึง และการอนุญาตให้ชำระเงิน ยังคงอยู่ภายใต้การจัดการจากส่วนกลาง

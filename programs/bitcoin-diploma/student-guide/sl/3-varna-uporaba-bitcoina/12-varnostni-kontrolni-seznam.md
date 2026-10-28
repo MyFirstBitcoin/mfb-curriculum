@@ -6,6 +6,7 @@ Kaj bi vas ustavilo pred plačilom ali namestitvijo? Naslednje obravnavajte kot 
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Pet opozorilnih znakov prevare: nujnost, lažno predstavljanje, spremenjen cilj nakazila, zajamčeni donosi in zahteve po zaupnih podatkih.](/micrographics/scam-red-flags-01/sl.md)
 
 
 Varen odziv je vedno: **Ustavite se. Ničesar ne razkrivajte. Ničesar ne pošiljajte. Prekinite komunikacijo. Vse neodvisno preverite pri znanem viru. Prosite za pomoč, ne da bi razkrili skrivnosti.** Znan vir je uradno spletno mesto, vnos aplikacije v trgovini ali način vzpostavitve stika, do katerega ste prišli neodvisno, ne prek oglasa, neposrednega sporočila ali nepričakovane povezave. Preverite izdajatelja in spletni naslov, primerjajte ju z uradno dokumentacijo ter ločeno poiščite kontaktne podatke. Če se vir, navodila ali podatki za plačilo razlikujejo od prikazanega postopka, se ustavite in poiščite pomoč pri svojem izobraževalcu ali zaupanja vredni lokalni podpori, ne da bi razkrili [semensko frazo](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) ali [zasebni ključ](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key). Prava priložnost bo prestala skrbno preverjanje; prevara je pogosto odvisna od tega, da ga prepreči.

@@ -4,6 +4,7 @@ Vermitteln Sie [Preisinflation](https://curriculum.myfirstbitcoin.org/lexicon/en
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Mit denselben 100 Währungseinheiten lässt sich der ganze Warenkorb mit Grundgütern kaufen, wenn er 100 kostet, aber nicht mehr, wenn derselbe Warenkorb 110 kostet. Das Preisniveau ist gestiegen und die Kaufkraft des Geldes ist gesunken.](/micrographics/same-money-smaller-basket-01/de.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)

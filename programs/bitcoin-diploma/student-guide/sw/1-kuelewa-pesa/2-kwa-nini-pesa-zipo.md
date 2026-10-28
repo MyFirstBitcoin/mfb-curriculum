@@ -5,6 +5,7 @@ Watu wana ujuzi, rasilimali, mahitaji na mipango tofauti. Ubadilishanaji huwawez
 Ubadilishanaji wa moja kwa moja mara nyingi ni mgumu. Mtu aliye na kile unachohitaji huenda asitake kile unachotoa. Pesa hutatua tatizo hili la uratibu.
 
 
+<!-- card: definition -->
 > **Definition – Pesa**
 >
 > Pesa ni [rasilimali](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) ambayo watu huikubali kwa sababu wanatarajia watu wengine kuikubali baadaye. Huwasaidia watu wasiofahamiana kuratibu ubadilishanaji, kurekodi [bei](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) na [madeni](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt), na kuhamisha [thamani](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) kupitia wakati na umbali.

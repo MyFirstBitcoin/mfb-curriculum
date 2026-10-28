@@ -15,6 +15,7 @@ Bed kursisterne om at identificere:
 
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Aktørerne i et fiatpengesystem, og hvad der udveksles mellem dem: Centralbanken fastlægger pengepolitikken og afvikler betalinger mellem bankerne, forretningsbankerne har indskud, som er deres forpligtelse over for kunderne, betalingstjenesterne formidler instrukser, staten opkræver skatter og afholder udgifter, og borgere og virksomheder betaler og modtager betalinger.](/micrographics/fiat-system-flows-01/da.md)
 
 
 Vær klar til at forklare det lokale system. Angiv, hvilke detaljer der er generelle, og hvilke der er specifikke for jurisdiktionen. Inddrag forskellige erfaringer, herunder fra kontantbaserede miljøer og fra mennesker med begrænset adgang til banktjenester, uden at lade diskussionen munde ud i en politisk konklusion.

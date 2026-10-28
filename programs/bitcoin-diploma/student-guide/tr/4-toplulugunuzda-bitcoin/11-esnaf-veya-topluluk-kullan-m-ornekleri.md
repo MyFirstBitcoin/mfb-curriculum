@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[Bitcoin kabul eden bir işletme dört alanda çalışır: pazarlama, eğitim, muhasebe ve satış.](/micrographics/merchant-payment-operations-01/tr.md)
 
 
 Bir esnafın bir ödeme alma düğmesinden fazlasına ihtiyacı vardır. Ödeme sürecinin tamamı fiyatlandırma, personel eğitimi, makbuzlar, iadeler, [saklama](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), dönüştürme, muhasebe, vergiler, cihaz güvenliği ve destek gibi unsurları içerebilir.

@@ -14,3 +14,4 @@ Verwenden Sie realistische, erfundene Figuren und örtliche Gegebenheiten. Frage
 
 
 <!-- micrographic: scenario-analysis-path-01 -->
+[Ein fiktives Szenario führt vom Ziel der Person und den überprüften Fakten über die Frage, wer die Kontrolle hat, die Optionen und das, was schiefgehen könnte, bis zum kleinsten sicheren nächsten Schritt. Wird eine Bedingung geändert, kehrt die Überlegung zu der Entscheidung zurück, die davon betroffen ist.](/micrographics/scenario-analysis-path-01/de.md)

@@ -4,6 +4,7 @@ Mfumo wa [**uchumi wa mzunguko wa Bitcoin**](https://curriculum.myfirstbitcoin.o
 
 
 <!-- micrographic: local-circular-economy-01 -->
+[Katika uchumi duara wa Bitcoin, bitcoin hupita kutoka mtu mmoja hadi mwingine kwa kubadilishana na bidhaa, huduma na muda. Mteja humlipa mfanyabiashara, mfanyabiashara humlipa mtoa huduma, mtoa huduma humlipa mfanyakazi, na mfanyakazi huitumia tena akiwa mteja.](/micrographics/local-circular-economy-01/sw.md)
 
 
 My First Bitcoin inaunga mkono [uchumi wa mzunguko wa Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-circular-economy), na jamii nyingi kati ya hizo ni sehemu ya Mtandao wa Elimu ya Bitcoin. Gundueni jamii hizi kwenye [Dashibodi ya Mtandao](https://network.myfirstbitcoin.org/?min10merchants=1).

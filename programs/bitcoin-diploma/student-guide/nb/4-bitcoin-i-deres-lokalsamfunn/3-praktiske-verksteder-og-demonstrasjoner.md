@@ -4,6 +4,7 @@ De skal gjennom tre faser: **Presentasjon**, der underviseren viser prosessen og
 
 
 <!-- micrographic: presentation-practice-production-01 -->
+[En praktisk ferdighet læres i tre trinn, fra venstre mot høyre: Presentasjon, der underviseren viser prosessen og risikoene ved den, deretter Øving, veiledet trening med trygt øvingsmateriell, og så Produksjon, der den lærende utfører en oppgave eller begrunner en beslutning på egen hånd.](/micrographics/presentation-practice-production-01/nb.md)
 
 
 Workshopen Deres kan omfatte:

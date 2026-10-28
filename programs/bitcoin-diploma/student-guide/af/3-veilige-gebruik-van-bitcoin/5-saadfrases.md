@@ -1,5 +1,6 @@
 # 3.5 Saadfrases
 
+<!-- card: definition -->
 > **Definition – Saadfrase**
 >
 > 'n [saadfrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), ook 'n [herstelfrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) genoem, is 'n geordende lys woorde wat baie beursies gebruik om 'n stel [privaat sleutels](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) af te lei en te herstel. 'n [privaat sleutel](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) magtig 'n besteding; die [saadfrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) is gewoonlik die rugsteun waarmee die beursie se sleutels herskep kan word. Algemene lengtes is 12 of 24 woorde, hoewel beursieontwerpe verskil.
@@ -8,13 +9,15 @@
 Die volgorde en spelling van die woorde is belangrik. As iemand die [saadfrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) het, kan daardie persoon dikwels die beursie op 'n ander versoenbare toestel herstel en die fondse bestee. Die [saadfrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) is dus nie net 'n rugsteun nie. Dit bied volle toegang.
 
 
-> **Callout – Moet nooit herstelinligting deel nie**
+<!-- card: callout -->
+> **Moet nooit herstelinligting deel nie**
 >
 > Openbare inligting vir die ontvangs van fondse kan gedeel word. 'n [privaat sleutel](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), [saadfrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), wagwoord of herstelkode moet geheim bly. Geen wettige opvoeder, beursiemaatskappy, beurswerknemer, ondersteuningsmedewerker of Bitcoin-ontwikkelaar het dit nodig nie. As 'n [saadfrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) moontlik gesien, gekopieer, aanlyn ingevoer of op 'n onbetroubare toestel gestoor is, beskou dit as gekompromitteer en soek hulp sonder om dit bekend te maak.
 
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[’n Saadfrase is ’n geordende lys woorde, hier twaalf genommerde voorbeeldwoorde wat op papier geskryf is. Die regte woorde in die regte volgorde kan beheer in ’n versoenbare beursie herstel, daarom word dit geheim en vanlyn gehou.](/micrographics/seed-phrase-on-paper-01/af.md)
 
 
 Beskerm 'n [saadfrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) met hierdie reëls:
@@ -30,6 +33,7 @@ Sommige beursies gebruik bykomende wagfrases, veelvuldige sleutels of ander rugs
 
 
 <!-- micrographic: seed-phrase-paper-backup-01 -->
+[Skryf ’n rugsteunkopie van ’n saadfrase in drie stappe neer: die beursieskerm wys die woorde, u skryf hulle met die hand in dieselfde volgorde op papier oor en kontroleer dan elke woord teen die skerm. Doen dit privaat en vanlyn.](/micrographics/seed-phrase-paper-backup-01/af.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)

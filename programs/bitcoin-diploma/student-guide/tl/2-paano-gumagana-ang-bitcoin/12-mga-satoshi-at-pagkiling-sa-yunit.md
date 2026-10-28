@@ -14,6 +14,7 @@ Kapag naghahambing ng mga [presyo](https://curriculum.myfirstbitcoin.org/lexicon
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Isang talahanayan na may dalawang kolum: ang 1 BTC ay katumbas ng 100,000,000 sats, ang 0.1 BTC ay katumbas ng 10,000,000 sats, ang 0.01 BTC ay katumbas ng 1,000,000 sats, ang 0.001 BTC ay katumbas ng 100,000 sats, at ang 0.00000001 BTC ay katumbas ng 1 sat.](/micrographics/bitcoin-and-sats-01/tl.md)
 
 
 **Ipakita ang inyong pagkaunawa:** Ilang [sats](https://curriculum.myfirstbitcoin.org/lexicon/en/#satoshi) ang nasa 0.01 BTC? Bakit hindi hadlang ang [presyo](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) ng isang buong bitcoin sa paggamit ng isang tao ng mas maliit na halaga?

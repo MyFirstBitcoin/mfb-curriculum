@@ -1,10 +1,12 @@
 # 4.13 Review: Connect this to your community
 
 <!-- micrographic: community-review-path-01 -->
+[A review path for a local Bitcoin example: start from a real need, check whether Bitcoin fits, then the payment method, custody, total cost, safety and local conditions, and end with evidence of success.](/micrographics/community-review-path-01/en.md)
 
 
 
 <!-- micrographic: community-review-table-01 -->
+[A review table for the local example: for each topic, from the real need to a responsible next step, a question to ask and an optional space for your own notes.](/micrographics/community-review-table-01/en.md)
 
 
 Complete this review individually, then compare your reasoning with your team or cohort. Consider the local example you studied: what real need did it address, which function of money was involved, and was [value](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) moved on-chain, through Lightning, or both? Ask who controlled the keys, what the strongest benefit and most serious risk were, and how local law, infrastructure, language, or culture affected the result. A responsible next step is one that fits the local context, makes costs and [custody](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) clear, limits errors and scams, and can be evaluated against evidence.

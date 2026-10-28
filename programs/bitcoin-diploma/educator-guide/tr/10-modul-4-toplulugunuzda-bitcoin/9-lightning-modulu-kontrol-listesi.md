@@ -13,10 +13,12 @@ Bir Lightning atölyesinden önce şunları doğrulayın ve açıklayın:
 * çevrimdışı simülasyon.
 
 
-> **Dark – Tek bir başarılı Lightning ödemesi, yalnızca bu güzergâhın bir kez çalıştığını kanıtlar**
+<!-- card: dark -->
+> **Tek bir başarılı Lightning ödemesi, yalnızca bu güzergâhın bir kez çalıştığını kanıtlar**
 >
 > Cüzdanın daha büyük bakiyeler için güvenli olduğunu ya da aynı yolun her yerde çalışacağını kanıtlamaz.
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Altı adımda bir Lightning ödemesi: alıcı bir talep oluşturur, gönderen talebi tarar, alıcıyı, tutarı, birimi, son geçerlilik süresini ve ücreti kontrol eder, onaylar, ödeme yönlendirilir ve her iki cüzdan da sonucu gösterir. Her cüzdan emanetçi veya kendi kendine saklama türünde olabilir; başarısız olan veya süresi dolan bir ödeme yeni bir taleple yeniden başlar.](/micrographics/lightning-payment-sequence-01/tr.md)

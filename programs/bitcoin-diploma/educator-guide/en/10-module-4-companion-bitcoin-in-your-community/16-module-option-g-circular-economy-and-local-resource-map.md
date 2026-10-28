@@ -16,6 +16,7 @@ Map:
 
 
 <!-- micrographic: local-circular-economy-01 -->
+[In a Bitcoin circular economy, bitcoin passes from person to person in exchange for goods, services and time. A customer pays a merchant, the merchant pays a service provider, the service provider pays a worker, and the worker spends it again as a customer.](/micrographics/local-circular-economy-01/en.md)
 
 
 For resource discovery, verify:

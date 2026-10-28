@@ -18,6 +18,7 @@ Käsiteltävät aiheet:
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[Bitcoinin hyväksyvä kauppias toimii neljällä osa-alueella: markkinointi, koulutus, kirjanpito ja myynti.](/micrographics/merchant-payment-operations-01/fi.md)
 
 
 **Suoritus:** Oppija toteuttaa tai ohjaa maksu- ja maksunpalautustilanteen. Hänen on todennettava asiakkaan henkilöllisyys, pyydettävä uudet palautustiedot, tarkistettava kohde ja summa, selvitettävä mahdollisten kulujen maksaja ja kirjattava lopputulos paljastamatta tarpeettomia tietoja.

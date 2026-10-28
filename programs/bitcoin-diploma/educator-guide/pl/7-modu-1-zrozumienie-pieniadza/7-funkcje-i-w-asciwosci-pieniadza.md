@@ -7,6 +7,7 @@ Proszę jasno wyjaśnić różnicę:
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Dwie warstwy: trzy funkcje pieniądza (środek wymiany, jednostka rozrachunkowa, środek przechowywania wartości) opierają się na siedmiu właściwościach (trwałości, przenośności, podzielności, zamienności, rzadkości, akceptowalności i weryfikowalności).](/micrographics/functions-and-properties-01/pl.md)
 
 
 Proszę uwzględnić różne cele. Proszę zapytać, które właściwości mają znaczenie w przypadku:

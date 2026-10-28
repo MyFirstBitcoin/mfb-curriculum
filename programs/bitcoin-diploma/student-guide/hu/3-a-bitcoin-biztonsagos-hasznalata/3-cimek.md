@@ -1,5 +1,6 @@
 # 3.3 Címek
 
+<!-- card: definition -->
 > **Definition – Bitcoin-cím**
 >
 > A [Bitcoin-cím](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) nyilvános fogadási adat egy [blokkláncon végrehajtott fizetéshez](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment). A tárca ezt általában szövegként és QR-kódként jeleníti meg, hogy mások bitcoint küldhessenek Önnek. A jelszóval vagy a [privát kulccsal](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) ellentétben a cím nem használható költés engedélyezésére.
@@ -7,6 +8,7 @@
 
 
 <!-- micrographic: address-two-formats-01 -->
+[Egy tárca fogadási képernyőjén ugyanaz a minta Bitcoin-cím kétszer jelenik meg: QR-kódként és szövegként. Mindkettő ugyanazt a nyilvános fogadási adatot tartalmazza, és egyik sem jogosít fel költésre.](/micrographics/address-two-formats-01/hu.md)
 
 
 Ha fogadni szeretne egy [blokkláncon végrehajtott fizetést](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), honnan kell származnia a címnek? Nyissa meg a használni kívánt tárcát, és lépjen annak fogadási képernyőjére. A küldő beolvashatja a QR-kódot, vagy kimásolhatja a címet. Így elkerülhetők a hosszú karaktersorozatok kézi beírásakor előforduló hibák.
@@ -15,9 +17,9 @@ Minden fizetési kérésnél ellenőrizze a használni kívánt fizetési módot
 
 
 <!-- micrographic: sample-lightning-invoice-01 -->
+[A képernyőn látható Lightning-mintaszámlán a QR-kód mellett szerepel a fizetési mód, a címzett és az összeg. Az olvasható adatok és a QR-kód ugyanazt a fizetési kérelmet tartalmazzák kétféle formátumban.](/micrographics/sample-lightning-invoice-01/hu.md)
 
 
 
-> **Light**
->
+<!-- card: light -->
 > Ha fontos fizetésről van szó, ne tekintsen egy címet biztonságosnak pusztán azért, mert ismerősnek tűnik. Ellenőrizze, hogy a kívánt címzett, a megfelelő [Bitcoin-hálózat](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network), a célcím és a fizetési mód van-e megadva. Ha a folyamat vagy az összeg szokatlan Önnek, először végezzen kis összegű próbafizetést.

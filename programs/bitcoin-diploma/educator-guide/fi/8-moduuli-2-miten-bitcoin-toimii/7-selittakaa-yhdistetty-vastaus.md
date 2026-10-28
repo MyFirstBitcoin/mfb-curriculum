@@ -10,6 +10,7 @@ Käyttäkää viisiosaista jäsennystä:
 
 
 <!-- micrographic: five-part-response-01 -->
+[Viisi osaa ratkaisee yhdessä kaksoiskulutusongelman: vertaisverkko, digitaaliset allekirjoitukset, lohkot ja louhinta, riippumaton varmentaminen sekä yhteinen historia, johon on kertynyt eniten työtodistetta. Yhdessä ne mahdollistavat sen, että verkko hylkää samojen varojen toistamiseen käyttämisen ilman keskusviranomaista.](/micrographics/five-part-response-01/fi.md)
 
 
 Mikään yksittäinen osa ei luo Bitcoinin uskottavaa [niukkuutta](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) yksin. Välttäkää sanomasta ”[lohkoketju](https://curriculum.myfirstbitcoin.org/lexicon/en/#blockchain) ratkaisee kaiken.”

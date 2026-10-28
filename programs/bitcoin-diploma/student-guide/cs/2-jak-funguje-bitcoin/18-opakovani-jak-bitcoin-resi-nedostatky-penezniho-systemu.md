@@ -4,6 +4,7 @@ Zastavte se a zamyslete se nad tím, jak veřejná pravidla, omezená emise, př
 
 
 <!-- micrographic: bitcoin-responses-tradeoffs-01 -->
+[Tabulka přiřazující pěti možným nedostatkům moderních peněžních systémů odpověď Bitcoinu a novou odpovědnost nebo kompromis, které každá odpověď přináší. Bitcoin nahrazuje část důvěry v instituce ověřováním a osobní odpovědností, ale neodstraňuje riziko.](/micrographics/bitcoin-responses-tradeoffs-01/cs.md)
 
 
 **Klíčová myšlenka:** Na základě toho, co jste se v tomto modulu o Bitcoinu dozvěděli, má [hodnotu](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) i pro vás? Představuje současná [cena](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) bitcoinu jeho [hodnotu](https://curriculum.myfirstbitcoin.org/lexicon/en/#value)?

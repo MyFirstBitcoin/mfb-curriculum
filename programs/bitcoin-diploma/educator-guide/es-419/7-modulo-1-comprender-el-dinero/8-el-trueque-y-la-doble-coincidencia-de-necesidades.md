@@ -4,12 +4,14 @@ Realice la actividad con tres personas cuyos bienes y deseos no coincidan. Prime
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina tiene arroz y quiere zapatos, Luis tiene zapatos y quiere aceite de cocina, y Mei tiene aceite de cocina y quiere servicios de reparación. Ninguna pareja puede intercambiar directamente, porque ninguna de las dos personas quiere lo que la otra ofrece.](/micrographics/barter-mismatch-01/es-419.md)
 
 
 Luego, introduzca un medio de intercambio comúnmente aceptado.
 
 
 <!-- micrographic: sell-then-buy-01 -->
+[Amina le vende arroz a una persona a cambio de dinero de aceptación general y después usa ese dinero para comprarle zapatos a otra persona. Vender y comprar se convierten en acciones separadas.](/micrographics/sell-then-buy-01/es-419.md)
 
 
 Pregunte:

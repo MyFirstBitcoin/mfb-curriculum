@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[Mokėjimas kavinėje keturiais žingsniais: klientas užsisako, padavėjas išsiunčia sąskaitą, klientas sumoka bitkoinais telefonu, o padavėjas paduoda kavą.](/micrographics/coffee-shop-payment-01/lt.md)
 
 
 Naudokite vietoje įprastas prekes ir paslaugas. Konkreti prekė nesvarbi; svarbu, kaip pasirenkamas ir atliekamas mokėjimas.

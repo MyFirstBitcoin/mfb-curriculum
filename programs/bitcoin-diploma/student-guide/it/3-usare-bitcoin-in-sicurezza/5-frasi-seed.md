@@ -1,5 +1,6 @@
 # 3.5 Frasi seed
 
+<!-- card: definition -->
 > **Definition – Seed phrase**
 >
 > Una [seed phrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), detta anche [frase di recupero](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), è un elenco ordinato di parole che molti wallet usano per derivare e recuperare un insieme di [chiavi private](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key). Una [chiave privata](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) autorizza una spesa; la [seed phrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) è di norma il backup che può ricreare le chiavi del wallet. Le lunghezze più comuni sono di 12 o 24 parole, anche se i wallet sono progettati in modi diversi.
@@ -8,13 +9,15 @@
 L'ordine e l'ortografia delle parole sono importanti. Se una persona possiede la [seed phrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), spesso può ripristinare il wallet su un altro dispositivo compatibile e spendere i fondi. La [seed phrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) non è quindi soltanto un backup. È l'accesso completo.
 
 
-> **Callout – Non condivida mai le informazioni di recupero**
+<!-- card: callout -->
+> **Non condivida mai le informazioni di recupero**
 >
 > Le informazioni pubbliche per ricevere pagamenti possono essere condivise. Una [chiave privata](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), una [seed phrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), una password o un codice di recupero devono restare segreti. Nessun educatore, azienda di wallet, dipendente di un exchange, operatore dell'assistenza o sviluppatore Bitcoin legittimo ne ha bisogno. Se una [seed phrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) potrebbe essere stata vista, copiata, inserita online o conservata su un dispositivo non affidabile, la consideri compromessa e chieda aiuto senza rivelarla.
 
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Una seed phrase è un elenco ordinato di parole, qui dodici parole di esempio numerate scritte su carta. Le parole giuste nell'ordine giusto possono ripristinare il controllo in un wallet compatibile, perciò deve rimanere segreta e offline.](/micrographics/seed-phrase-on-paper-01/it.md)
 
 
 Protegga una [seed phrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) seguendo queste regole:
@@ -30,6 +33,7 @@ Alcuni wallet utilizzano passphrase aggiuntive, chiavi multiple o altri sistemi 
 
 
 <!-- micrographic: seed-phrase-paper-backup-01 -->
+[Scrivere il backup di una seed phrase in tre passaggi: lo schermo del wallet mostra le parole, Lei le copia a mano su carta nello stesso ordine, poi controlla ogni parola confrontandola con lo schermo. Lo faccia in privato e offline.](/micrographics/seed-phrase-paper-backup-01/it.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)

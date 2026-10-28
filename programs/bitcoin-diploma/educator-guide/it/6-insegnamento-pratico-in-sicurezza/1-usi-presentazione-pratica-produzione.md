@@ -8,6 +8,7 @@
 
 
 <!-- micrographic: presentation-practice-production-01 -->
+[Un'abilità pratica si apprende in tre fasi, da sinistra a destra: Presentazione, in cui l'educatore mostra il processo e i relativi rischi, poi Pratica, un'esercitazione guidata con materiali didattici sicuri, e infine Produzione, in cui chi apprende svolge un compito o spiega una decisione in modo autonomo.](/micrographics/presentation-practice-production-01/it.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/3d2cf07203a6fd4017e7adbac198e73b190e99cf-1881x836.svg)

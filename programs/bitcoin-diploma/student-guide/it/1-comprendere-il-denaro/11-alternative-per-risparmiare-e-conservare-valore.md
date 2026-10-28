@@ -4,6 +4,7 @@ Spesso le persone cercano alternative al denaro contante quando ritengono che pe
 
 
 <!-- micrographic: saving-alternatives-table-01 -->
+[Una tabella con tre alternative alla detenzione di contanti (metalli preziosi, immobili e azioni), ciascuna con i motivi per cui le persone possono sceglierla e i relativi compromessi importanti. Nessuna è classificata al di sopra delle altre.](/micrographics/saving-alternatives-table-01/it.md)
 
 
 Un [asset](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) è qualcosa che una persona può possedere o rivendicare e che può avere [valore](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); non svolge automaticamente tutte le funzioni della moneta. Una casa può conservare [valore](https://curriculum.myfirstbitcoin.org/lexicon/en/#value), ma non è pratica per comprare cibo. Un'azione può essere facile da vendere in un Paese, ma inaccessibile a chi non dispone di un conto presso un intermediario finanziario. [L'oro](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) è stato usato come moneta per lunghi periodi della storia, ma può essere difficile da verificare o da dividere durante un piccolo scambio.

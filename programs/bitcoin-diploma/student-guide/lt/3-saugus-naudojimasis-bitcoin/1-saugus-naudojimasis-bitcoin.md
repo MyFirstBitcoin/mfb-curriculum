@@ -3,8 +3,7 @@
 Šiame modulyje mokysitės saugiai atlikti pirmuosius veiksmus, o ne tapti ekspertais ar prisiimti finansinę riziką. Praktikuositės naudodamiesi parengtomis simuliacijomis, bandymų aplinkomis, mokomosiomis piniginėmis arba, jei Jūsų mokytojas nuspręs, kad tai tinkama, atlikdami realius veiksmus su nedidelėmis sumomis.
 
 
-> **Dark**
->
+<!-- card: dark -->
 > Kad baigtumėte „Bitcoin Diploma“ programą, Jums nereikia pirkti ar kitaip įsigyti bitkoinų arba naudoti asmeninių lėšų.
 
 

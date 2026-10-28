@@ -3,6 +3,7 @@
 ![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
+<!-- card: definition -->
 > **Definition – Bằng chứng công việc**
 >
 > [Bằng chứng công việc](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) là quy trình [các thợ đào](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) sử dụng để cạnh tranh giành quyền đề xuất khối tiếp theo.
@@ -14,6 +15,7 @@ Khi một [thợ đào](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner)
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Thợ đào băm một khối được đề xuất liên tục cho đến khi một kết quả thấp hơn ngưỡng mục tiêu của mạng lưới, rồi phát tán khối đó. Các nút nhanh chóng kiểm tra bằng chứng và việc tuân thủ mọi quy tắc trước khi khối được đưa vào chuỗi khối: việc tạo ra bằng chứng công việc rất tốn kém, nhưng xác minh lại dễ dàng.](/micrographics/proof-of-work-process-01/vi.md)
 
 
 [Bằng chứng công việc](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) phục vụ một số mục đích:

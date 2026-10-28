@@ -3,6 +3,7 @@
 Các quy tắc của Bitcoin xác định một [lịch phát hành có thể dự đoán trước](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuance-schedule) và một [nguồn cung tối đa](https://curriculum.myfirstbitcoin.org/lexicon/en/#maximum-supply) là 21 triệu bitcoin (21.000.000 BTC). bitcoin mới được đưa vào lưu thông thông qua [trợ cấp khối](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-subsidy) được trả cho [thợ đào](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) tạo ra các khối hợp lệ.
 
 
+<!-- card: definition -->
 > **Definition – Giảm một nửa**
 >
 > Cứ sau 210.000 khối, trợ cấp lại giảm một nửa. Sự kiện này được gọi là [giảm một nửa](https://curriculum.myfirstbitcoin.org/lexicon/en/#halving). Vì trung bình cứ khoảng mười phút lại có một khối được tạo ra, nên một lần [giảm một nửa](https://curriculum.myfirstbitcoin.org/lexicon/en/#halving) diễn ra khoảng bốn năm một lần. Ngày diễn ra chính xác theo lịch không cố định.
@@ -22,12 +23,14 @@ Trợ cấp ban đầu là 50 BTC cho mỗi khối. Khoản trợ cấp này li�
 
 
 <!-- micrographic: bitcoin-issuance-schedule-01 -->
+[Trợ cấp khối bắt đầu ở mức 50 bitcoin và giảm một nửa sau mỗi 210.000 khối, trong khi tổng lượng bitcoin đã phát hành tăng dần đến giới hạn 21 triệu. Phí giao dịch được trả thêm và không phải là bitcoin mới; nội dung này không hàm ý dự báo giá.](/micrographics/bitcoin-issuance-schedule-01/vi.md)
 
 
 Giới hạn 21 triệu được thực thi bởi [các nút](https://curriculum.myfirstbitcoin.org/lexicon/en/#node). Nếu một [thợ đào](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) tạo ra nhiều bitcoin hơn mức quy tắc cho phép, [các nút xác thực](https://curriculum.myfirstbitcoin.org/lexicon/en/#full-node) sẽ từ chối khối đó. Một nhà phát triển phần mềm có thể viết mã khác, nhưng không thể buộc người khác chạy mã đó.
 
 
-> **Dark – Nguồn cung cố định là một quy tắc của mạng lưới, không phải lời hứa về giá**
+<!-- card: dark -->
+> **Nguồn cung cố định là một quy tắc của mạng lưới, không phải lời hứa về giá**
 >
 > Quy tắc về nguồn cung của Bitcoin được công khai, có thể được kiểm chứng độc lập và khó bị một bên đơn lẻ thay đổi vì [các nút xác thực](https://curriculum.myfirstbitcoin.org/lexicon/en/#full-node) thực thi quy tắc đó. Đây không phải là một định luật vật lý: quy tắc này vẫn có hiệu lực chừng nào những người tham gia còn tiếp tục thực thi nó. Nguồn cung giới hạn không bảo đảm thị trường sẽ có sự gia tăng về [giá](https://curriculum.myfirstbitcoin.org/lexicon/en/#price); [giá](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) còn phụ thuộc vào nhu cầu.
 >
@@ -37,8 +40,7 @@ Giới hạn 21 triệu được thực thi bởi [các nút](https://curriculum
 **Câu hỏi nhanh:** Việc Bitcoin có nguồn cung giới hạn mang lại những lợi ích gì? Việc tăng nguồn cung của Bitcoin sẽ ảnh hưởng thế nào đến [sức mua](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power)? Ai sẽ từ chối việc tăng nguồn cung?
 
 
-> **Light**
->
+<!-- card: light -->
 > Nguồn cung hữu hạn cũng không có nghĩa là mọi bitcoin đều sẵn có để bán; một phần có thể được nắm giữ dài hạn hoặc trở nên không thể truy cập do khóa đã bị mất.
 
 

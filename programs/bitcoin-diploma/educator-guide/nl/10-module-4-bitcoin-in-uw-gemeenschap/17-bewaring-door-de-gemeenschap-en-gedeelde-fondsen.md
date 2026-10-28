@@ -15,3 +15,4 @@ Maak van het ontwerp van [gemeenschappelijke bewaring](https://curriculum.myfirs
 
 
 <!-- micrographic: shared-funds-role-map-01 -->
+[Bijdragers en begunstigden zijn afhankelijk van degene die gezamenlijke middelen beheert. Beheer van de sleutels, goedkeuring van uitgaven, administratie en controle zijn afzonderlijke rollen; wanneer één persoon er meerdere vervult, is het vertrouwen geconcentreerd, en vragen over continuïteit, privacy, geschillen en juridische status moeten nog steeds worden beantwoord.](/micrographics/shared-funds-role-map-01/nl.md)

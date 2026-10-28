@@ -9,6 +9,7 @@ Dört kavramı birbirinden ayırt etmek için sınırlı bir yerel kaynak kullan
 
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Parası kısıtlı bir alışverişçi önündeki seçeneklere bakıyor: bugün için yiyecek, ulaşım ya da sonrası için birikim. Birini seçmek diğerlerinden vazgeçmek anlamına gelir; bu da fırsat maliyetidir. Hiçbir seçenek doğru seçenek olarak işaretlenmemiştir.](/micrographics/one-choice-two-uses-01/tr.md)
 
 
 Öğrencilerden, nadirliğin tek başına neden [değer](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) yaratmadığını açıklamalarını isteyin. Kullanımı veya talebi olmayan nadir bir nesne istenmeyen olarak kalabilir.

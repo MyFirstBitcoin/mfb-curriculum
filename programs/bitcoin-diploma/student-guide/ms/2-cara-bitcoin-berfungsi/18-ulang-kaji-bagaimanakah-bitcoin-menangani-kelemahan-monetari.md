@@ -4,6 +4,7 @@ Berhenti sejenak dan fikirkan bagaimana peraturan awam, penerbitan terhad, pemin
 
 
 <!-- micrographic: bitcoin-responses-tradeoffs-01 -->
+[Jadual yang memadankan lima kemungkinan kelemahan sistem wang moden dengan penyelesaian Bitcoin serta tanggungjawab atau kompromi baharu yang dibawa oleh setiap penyelesaian. Bitcoin menggantikan sebahagian kepercayaan terhadap institusi dengan pengesahan dan tanggungjawab peribadi, tetapi tidak menghapuskan risiko.](/micrographics/bitcoin-responses-tradeoffs-01/ms.md)
 
 
 **Persoalan utama:** Berdasarkan apa yang telah anda pelajari tentang Bitcoin dalam modul ini, adakah ia mempunyai [nilai](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) bagi anda? Adakah [harga](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) semasa bitcoin mencerminkan [nilainya](https://curriculum.myfirstbitcoin.org/lexicon/en/#value)?

@@ -1,5 +1,6 @@
 # 1.12 Կենտրոնական բանկերի թվային արժույթներ (CBDCs)
 
+<!-- card: definition -->
 > **Definition – Կենտրոնական բանկի թվային արժույթ (CBDC)**
 >
 > Մի [կենտրոնական բանկի թվային արժույթ](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), կամ [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), թվային ձևն է [ֆիատ փողի](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money)՝ թողարկված որպես [պարտավորություն](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability)՝ որևէ [կենտրոնական բանկի կողմից](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank)․ դա պահանջ է, որը [կենտրոնական բանկը](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) պարտք է դրա տիրապետողին։ Այն տարբերվում է ֆիզիկական կանխիկ փողից և առևտրային բանկի սովորական ավանդից, թեև օգտագործողի փորձառությունը կարող է նման լինել։
@@ -13,6 +14,7 @@
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[Աղյուսակը համեմատում է կանխիկը, բանկային ավանդները, մանրածախ ԿԲ թվային արժույթը և Բիթքոյնը՝ ըստ թողարկողի, ձևի, հասանելիության, վճարումների տեսանելիության, առաջարկի կանոնների և ստուգման եղանակի։ Թվային լինելը նույնը չէ, ինչ ապակենտրոնացված լինելը. ԿԲ թվային արժույթը շարունակում է թողարկվել կենտրոնական բանկի կողմից, իսկ դրա հասանելիությունը, վճարումների տեսանելիությունն ու ստուգումը կախված են դրա կառուցվածքից։](/micrographics/cbdc-comparison-table-01/hy.md)
 
 
 Թվային լինելն ինքնաբերաբար չի նշանակում լինել ապակենտրոնացված, սակավ, գաղտնի կամ անկախ ստուգման համար բաց։ [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc)-ն կարող է օգտագործել թվային տեխնոլոգիա, բայց այն միևնույն է [ֆիատ փող է](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money), եթե դրա [թողարկողը](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer), առաջարկի կանոնները, հասանելիության կանոնները և վճարումների թույլտվությունները շարունակում են կենտրոնացված կերպով կառավարվել։

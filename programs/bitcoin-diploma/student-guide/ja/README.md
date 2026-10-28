@@ -22,7 +22,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.7 | [法定通貨](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ja/1/7.md) |
 |  | 1.8 | [部分準備銀行制度](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ja/1/8.md) |
 |  | 1.9 | [インフレと購買力](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ja/1/9.md) |
-|  | 1.10 | [なぜ米ドルは世界の準備通貨なのでしょうか？](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ja/1/10.md) |
+|  | 1.10 | [なぜ米ドルは世界の準備通貨なのか](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ja/1/10.md) |
 |  | 1.11 | [貯蓄と価値保存のための代替手段](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ja/1/11.md) |
 |  | 1.12 | [中央銀行デジタル通貨（CBDC）](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ja/1/12-cbdc.md) |
 |  | 1.13 | [復習：お金はどのようにして壊れるのでしょうか？](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ja/1/13.md) |

@@ -40,7 +40,8 @@ Kozwa yango na mosala te, kobimisa yango te, kasi kokanisa na ntina na yango: ez
 * Mbongo na bino esombaka biloko ya motango moko na oyo ezalaki kosomba liboso?
 
 
-> **Callout – Bobatela biyano na bino**
+<!-- card: callout -->
+> **Bobatela biyano na bino**
 >
 > Bokoma eyano ya mokuse na motuna mokomoko. Bokozongela biyano yango na nsuka.
 
@@ -85,6 +86,7 @@ Bato yango mibale basengeli kolinga biloko oyo mosusu azali na yango, na ntango 
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina azali na loso mpe alingi sapato, Luis azali na sapato mpe alingi mafuta ya kolamba, mpe Mei azali na mafuta ya kolamba mpe alingi kobongiselama biloko. Na kati ya bato yango, bato mibale bakoki kosɛngiselana biloko mbala moko te, mpo moko te alingi eloko oyo mosusu azali kopesa.](/micrographics/barter-mismatch-01/ln.md)
 
 <!-- notes: Bosalela ndakisa ya buku ya malako: bolonaka loso mpe bozali na mposa ya sapato, kasi mosali ya sapato alingi mafuta ya kolamba, kasi loso te. Bato ya mayele na makambo ya nkita babengaka yango bokokani ya bamposa ya ngámbo mibale. -->
 
@@ -151,6 +153,7 @@ Ntango bato bayokaka liloba inflation, mbala mingi bakanisaka ete bantalo ezali 
 ## Bomatami ya ntalo mpe nguya ya kosomba
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Biteni 100 ya mbongo yango moko ekoki kosomba biloko nyonso ya ntina oyo ezali na kitunga ntango ntalo na yango ezali 100, kasi te ntango kitunga yango moko ezali na ntalo ya 110. Nivo ya bantalo emati mpe makoki ya mbongo ya kosomba ekiti.](/micrographics/same-money-smaller-basket-01/ln.md)
 
 <!-- notes: Inflation ya ntalo ezali bomati ya ntalo ya biloko na mobimba oyo ezali kokoba. Ngámbo na yango mosusu ezali makoki ya kosomba: motángo ya biloko oyo unité moko ya mbongo ekoki kosomba. Soki ntalo ya kitunga ya biloko ya ntina emati longwa na ba unité 100 ya mbongo kino na 110, ba unité 100 yango ekoki lisusu te kosomba kitunga yango mobimba. -->
 
@@ -213,8 +216,7 @@ Mbongo oyo ezali na kɔnti na bino na banki ekeseni na mbongo oyo bosimbi na lob
 * Kasi motango ya mbongo yango mpe mibeko na yango ekoki kobongwana, mpe bato oyo basalelaka yango bazali na makoki mingi te ya kopesa makanisi na bikateli
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Yango wana bato balukaka banzela mosusu, mpe yango wana Bitcoin ekelamaki.
 
 ---
@@ -233,6 +235,7 @@ Mbongo ya nimero oyo etambwisami na bokonzi ya kati te, motángo na yango ezali 
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Na kompanyi ya kofuta mbongo, ebongiseli moko ebatelaka buku ya mituya mpe epesaka ndingisa mpo na botindiki nyonso ya mbongo. Na Bitcoin, motindi atyaka sinyatire na mosala ya kotinda mbongo, baordinatɛrɛ ya réseau oyo esalaka na lipanda etalelaka yango mpe batimoli bakɔtisaka yango na buku moko ya mituya oyo bato nyonso bakabolaka, yango wana mozwi atalelaka mingi te bokonzi ya katikati.](/micrographics/central-ledger-vs-bitcoin-01/ln.md)
 
 <!-- notes: Liboso ya Bitcoin, kotinda mbongo na nzela ya Internet ezalaki ntango nyonso kosɛnga ebongiseli oyo bato batyelaka motema: banki to kompanyi ya kofuta mbongo oyo ezalaki kobatela buku ya baoyo bafuti mpe bazwi mbongo, kondima bakɔnti, mpe ekokaki koumisa, kopekisa to kozongisa nsima kofuta moko. Ezali pɛtɛɛ kosala kopi ya makambo ya nimero: soki mbongo moko ya nimero ekokaki kosalelama mpo na kofuta mbala mibale, elingaki kokoka kosala lokola mbongo te. Yango nde mokakatano ya kosalela mbongo moko mpo na kofuta mbala mibale. Satoshi Nakamoto azali moto moko to etuluku ya bato oyo basalelaka nkombo yango. -->
 
@@ -253,6 +256,7 @@ Kompanyi moko te ekoki kokanga bitcoin oyo bino moko bozali kotambwisa. Kasi bon
 ## Ndelo oyo moto nyonso akoki kotala
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Mobimisi akoki kobongola ndelo ya motango ya mbongo oyo ekomami na site ya Internet to na base na ye ya ba données kozanga ete bato báyeba. Mobeko ya Bitcoin mpo na motango ya mbongo ezali ya polele, mpe basinatire, lisolo ya polele, elembeteli ya mosala mpe botali ya banode esalaka elongo mpo na kopekisa bato básala mbongo ya sika na ndenge oyo etosi mibeko te to básalela bitcoin moko mbala mibale mpo na kofuta.](/micrographics/claimed-or-verified-supply-01/ln.md)
 
 <!-- notes: Babitcoin ya sika ebimisamaka na kolanda manaka oyo eyebani na bato nyonso, mpe baordinatɛrɛ ya nsɔ́mi oyo babengaka ba nœud eboyaka blɔki nyonso oyo ebuki mobeko yango. Ndelo yango ebongi kotyelama motema mpo moto nyonso akoki kotala soki etosami. Ezali mobeko ya biloko bizalisamá te: etikalaka mpo bato oyo bazali kosangana na réseau bakobaka kosala ete etosama. Motángo ya ndelo ya bitcoin epesaka ndanga te ete ntalo ekomata; ntalo etalelaka ezala bosɛnga ya kosomba to motángo oyo ezali mpo na kotɛka. -->
 
@@ -264,6 +268,7 @@ bitcoin moko ekabolamaka na biteni ya mike 100 000 000 oyo babengaka satoshis, t
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Tablo ya makonzi mibale: 1 BTC ekokani na 100 000 000 sats, 0,1 BTC ekokani na 10 000 000 sats, 0,01 BTC ekokani na 1 000 000 sats, 0,001 BTC ekokani na 100 000 sats, mpe 0,00000001 BTC ekokani na 1 sat.](/micrographics/bitcoin-and-sats-01/ln.md)
 
 <!-- notes: Kozala na 100 000 sats mpe kozala na 0,001 bitcoin ezali kaka motuya moko. Bósɛmbɔla likanisi ya libunga oyo elobaka ete Bitcoin eleki makoki ya bato mpo bitcoin moko ezali ntalo mingi. -->
 
@@ -272,6 +277,7 @@ bitcoin moko ekabolamaka na biteni ya mike 100 000 000 oyo babengaka satoshis, t
 ## Nani asalaka ete Bitcoin ekoba kosala?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Mikumba minei na Bitcoin: basaleli bazwaka, babombaka mpe batindaka bitcoin, ba-nɔ́di etalaka yango moko soki mibeko etosami, basali ya minage basangisaka ba-blɔki oyo ekoki kondimama na elembeteli ya mosala, mpe bakeli ya programɛ bapesaka makanisi ya programɛ. Mokumba moko te ekambaka réseau yango mobimba.](/micrographics/bitcoin-participant-roles-01/ln.md)
 
 <!-- notes: Basaleli batindaka, bayambaka mpe babombaka bitcoin; banœud etalaka soki tranzaksyon nyonso mpe blɔkɛ nyonso ezali kolanda mibeko; bamineur bawelanaka mpo na kobakisa blɔkɛ ya sika na buku ya mikomá pene na nsima ya miniti zomi nyonso. Buku yango ya mikomá, oyo babengaka blockchain, ezali polele mpo na bato nyonso, mpe kokoma yango lisusu esɛngaka mbongo mingi mpenza. Liyebisi na ntina ya ndenge ya kokoma: Bitcoin oyo ebandi na B ya monɛnɛ elakisaka mbala mingi réseau to ebongiseli; bitcoin oyo ebandi na b ya moke elakisaka mbongo yango moko. -->
 
@@ -307,6 +313,7 @@ Motuna ya liboso mpo na libenga nyonso ya mbongo: nani azali na bokonzi likoló 
 ## Pɔtɔmɔni etambwisaka bafungola
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Potomɔni ebatelaka bafungola. Na bafungola yango, bokoki koyamba mpe kotinda bitcoin, nzokande bitcoin yango moko etikalaka ekomami na registre ya lisanga, kasi te na kati ya telefone to aparɛyi.](/micrographics/wallet-manages-keys-01/ln.md)
 
 <!-- notes: Pɔtɔmɔni ya Bitcoin ezali esaleli, mbala mingi programɛ ya telefone, oyo epesaka bino nzela ya kozwa, kotala mpe kotinda bitcoin. Bitcoin na bino ebombamaka te na kati ya telefone na bino: ekomamaka na monyɔlɔlɔ ya biteni ya ba-donnée. Pɔtɔmɔni etambwisaka bafungola oyo epesaka bino nzela ya komonisa ete bitcoin yango ezali ya bino mpe ya kopesa ndingisa ya kofuta. -->
 
@@ -331,6 +338,7 @@ Liste ya maloba oyo etyami na molɔngɔ, mbala mingi 12 to 24, oyo ekoki kosala 
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Fraze ya bozongisi ezali liste ya maloba oyo elandani na molɔngɔ moko boye; awa ezali maloba zomi na mibale ya ndakisa oyo ezali na mitángo mpe ekomami na papye. Maloba ya malamu na molɔngɔ ya malamu ekoki kozongisa bokonzi na portefeuille oyo eyokani na yango, yango wana esengeli kobomba yango na nkuku mpe kozanga kotya yango na Internet.](/micrographics/seed-phrase-on-paper-01/ln.md)
 
 <!-- notes: Fraze ya bozongisi ezali kaka te kopi ya kobatela: epesaka nzela ya kokɔta mpe kosalela nyonso oyo ezali na portefeuilles. Ntango bozali kosala portefeuille, bokoma yango na bosikisiki na papye; bobomba yango mosika na internet, na kobombana, mpe na esika oyo ekobunga te to ekobeba te. Bózwa yango ata mokolo moko te na fɔtɔ, bótinda yango te na email, bóbomba yango te na banɔti ya cloud, bótinda yango te na mesaje, mpe bókɔtisa yango te na site internet. Maloba oyo elakisami ezali kaka ndakisa; bólakisa to bósangisa ata mokolo moko te fraze ya bozongisi ya solo. -->
 
@@ -365,6 +373,7 @@ Liste ya maloba oyo etyami na molɔngɔ, mbala mingi 12 to 24, oyo ekoki kosala 
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Kofuta na blockchain ekomamaka na blockchain ya Bitcoin yango moko, nzokande Lightning ezali réseau ya kofuta oyo etongami likoló ya Bitcoin mpo na kofuta nokinoki mpe mbala mingi, kasi kofuta yango ekoki mpe kosimba te. Na nzela nyonso mibale, mosaleli akoki kotikela moto mosusu kobatela misolo na ye to kobatela yango ye moko.](/micrographics/on-chain-and-lightning-01/ln.md)
 
 ---
 
@@ -375,7 +384,8 @@ Liste ya maloba oyo etyami na molɔngɔ, mbala mingi 12 to 24, oyo ekoki kosala 
 * **Botyela motema te, botala soki ezali solo.** Boluka koyeba soki moto yango azali nani, mpe botala malamu lolenge ya kofuta, adrɛsi, mpe motuya ya mbongo.
 
 
-> **Callout – Bokabola makambo ya koyamba mbongo, kasi bokabola ata moke te makambo ya sekele**
+<!-- card: callout -->
+> **Bokabola makambo ya koyamba mbongo, kasi bokabola ata moke te makambo ya sekele**
 >
 > Adrɛsi to bosɛngi ya kofutama ekoki kokabolama. Molɔngɔ ya maloba ya kozongisa portefeuille to fungola ya sekele esengeli kokabolama ata moke te. Molakisi moko te ya sembo, kompanyi moko te ya portefeuille, to mosali moko te ya lisungi akosɛnga bino yango.
 
@@ -389,6 +399,7 @@ Botika soki moto azali kotinda bino bósala nokinoki to bóbatela likambo na nku
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Bilembo mitano ya likebisi ya bokosi: kosɛnga kosala nokinoki, komikómisa moto mosusu, esika ya kotinda ebongwani, kopesa ndanga ya litomba mpe kosɛnga makambo ya sekele.](/micrographics/scam-red-flags-01/ln.md)
 
 ---
 
@@ -408,7 +419,8 @@ Oyo ezali kaka ebandeli.
 * **Oyo ezali kaka ebandeli.** Litambe moko ya liboso oyo ezali na bokengi ekoki.
 
 
-> **Callout – Ntango ya kokanisa**
+<!-- card: callout -->
+> **Ntango ya kokanisa**
 >
 > Bózonga na mituna mitano ya ebandeli. Bokopesa biyano nini sikoyo?
 

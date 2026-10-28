@@ -5,7 +5,8 @@
 Žmonės gali gauti bitkoinų už darbą, kaip bendruomenės mokėjimą, keisdamiesi su kitu asmeniu, naudodamiesi bankomatu ar paslauga. Kiekvienas būdas susijęs su skirtingomis išlaidomis, [lėšų saugojimo](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), privatumo, sukčiavimo, teisiniais ir veiklos [kompromisais](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). „Bitkoino diplomas“ nerekomenduoja jokio paslaugų teikėjo ir nenurodo, kurį būdą rinktis.
 
 
-> **Light – Palyginkite vietinį mokėjimo būdą**
+<!-- card: light -->
+> **Palyginkite vietinį mokėjimo būdą**
 >
 > Remdamiesi parengtu vietiniu arba išgalvotu scenarijumi, palyginkite [lėšų saugojimą](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), bendras išlaidas, tapatybės duomenis, lėšų išėmimo limitus, sandorio šalies patikimumą ir fizinį saugumą bei galiojančias vietos taisykles. Nė vienas būdas savaime nėra geriausias visur. Šiame kurse pateikiami palyginimui skirti klausimai, o ne paslaugų teikėjo rekomendacija ar asmeninė finansinė konsultacija.
 
@@ -19,16 +20,19 @@
 Prieš lygindami būdą, paklauskite:
 
 
-<!-- micrographic: ways-to-receive-bitcoin-01 -->
-
-
-
 <!-- micrographic: exchange-risk-questions-01 -->
+[Šešios rizikos sritys, kurias reikia patikrinti prieš įsigyjant ar keičiant bitkoinus, kiekviena su klausimu, kurį reikėtų užduoti: išlaidos, saugojimas, tapatybė ir privatumas, lėšų išėmimas ir atsiskaitymas, sandorio šalis ir saugumas bei vietos aplinkybės.](/micrographics/exchange-risk-questions-01/lt.md)
+
+
+
+<!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Vienas asmuo gali gauti bitkoinų keturiais skirtingais būdais: uždirbdamas jų iš darbo ar pardavimo, keisdamas vietinius grynuosius pinigus su kitu asmeniu, naudodamasis keitykla ar brokerio paslaugomis arba bankomatu. Kiekvienu atveju bitkoinai galiausiai saugomi savarankiškai arba kaip pas saugotoją laikomas likutis, ir nė vienam iš šių būdų neteikiama pirmenybė.](/micrographics/ways-to-receive-bitcoin-01/lt.md)
 
 
 Nė vienas būdas savaime nėra geriausias visur. Vietiniai pavyzdžiai ir konkretiems paslaugų teikėjams skirtos gairės pateikiami **4 modulyje**.
 
 
+<!-- card: definition -->
 > **Definition – Pažink savo klientą (KYC)**
 >
 > [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) apibūdina tapatybės patikras, kurių gali reikalauti reguliuojamas paslaugų teikėjas. Tai gali padėti atkurti prieigą prie paskyros arba laikytis teisės aktų reikalavimų, tačiau kartu sukuriamas įrašas, susiejantis tapatybę su finansine veikla. Būdai, kuriais surenkama mažiau tapatybės duomenų, gali kelti kitokią su sandorio šalimi, teisiniais klausimais, saugumu, išlaidomis ar sudėtingumu susijusią riziką.

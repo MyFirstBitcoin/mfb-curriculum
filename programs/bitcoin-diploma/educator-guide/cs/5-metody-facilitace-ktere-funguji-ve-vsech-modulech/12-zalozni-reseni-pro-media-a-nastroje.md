@@ -24,6 +24,7 @@ Výuka i hodnocení offline jsou plnohodnotné. Při omezeném připojení použ
 
 
 <!-- micrographic: same-competency-any-route-01 -->
+[Nástroje v reálném provozu, papírové simulace a schválené přístupné varianty mohou podporovat rozvoj stejné kompetence, pokud studující nadále činí požadovaná rozhodnutí a vyučující může hodnotit rovnocenné doklady o jejím zvládnutí. Pokud rovnocennost není zajištěna, před certifikací připravte jinou variantu.](/micrographics/same-competency-any-route-01/cs.md)
 
 
 Příručka pro studenty vysvětluje dlouhodobě platné koncepty. Než představíte poplatky, zákony, daně, dostupné služby, funkce peněženek nebo seznamy obchodníků, ověřte si aktuální místní údaje a u použitých informací uveďte datum.

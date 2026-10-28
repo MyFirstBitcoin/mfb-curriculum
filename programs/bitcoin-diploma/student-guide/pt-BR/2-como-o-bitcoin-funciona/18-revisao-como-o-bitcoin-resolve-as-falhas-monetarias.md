@@ -4,6 +4,7 @@ Pare e reflita sobre como regras públicas, emissão finita, transferência Peer
 
 
 <!-- micrographic: bitcoin-responses-tradeoffs-01 -->
+[Uma tabela que relaciona cinco possíveis falhas dos sistemas monetários modernos à resposta do Bitcoin e à nova responsabilidade ou contrapartida que cada resposta traz. O Bitcoin substitui parte da confiança institucional por verificação e responsabilidade pessoal, mas não elimina os riscos.](/micrographics/bitcoin-responses-tradeoffs-01/pt-BR.md)
 
 
 **Reflexão principal:** Com base no que você aprendeu sobre o Bitcoin neste módulo, ele tem [valor](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) para você? O [preço](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) atual do bitcoin representa o seu [valor](https://curriculum.myfirstbitcoin.org/lexicon/en/#value)?

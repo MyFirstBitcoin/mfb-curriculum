@@ -13,3 +13,4 @@ Ogni componente del Bitcoin Diploma svolge una funzione specifica.
 
 
 <!-- micrographic: learning-ecosystem-map-01 -->
+[La Guida per lo studente fornisce le spiegazioni, la Guida per l'educatore supporta l'insegnamento e alcune attività selezionate del Centro risorse supportano l'esercitazione. La Griglia di valutazione contiene i risultati riservati della valutazione.](/micrographics/learning-ecosystem-map-01/it.md)

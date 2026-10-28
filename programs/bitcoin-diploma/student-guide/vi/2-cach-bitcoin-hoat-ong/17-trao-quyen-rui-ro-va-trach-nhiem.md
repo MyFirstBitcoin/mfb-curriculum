@@ -13,6 +13,5 @@ Những đặc tính này có thể trao quyền cho người tham gia, nhưng c
 [Tự lưu ký](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) vì vậy không chỉ là một tính năng kỹ thuật. Việc này đòi hỏi phải bảo vệ các bản sao lưu, xác minh địa chỉ, kiểm tra cách ví hoạt động và lập kế hoạch khôi phục. Mô-đun tiếp theo giải thích cách nắm giữ và sử dụng bitcoin một cách cẩn trọng, bao gồm cách quản lý những rủi ro và trách nhiệm này.
 
 
-> **Light**
->
+<!-- card: light -->
 > Trách nhiệm cá nhân không có nghĩa là hành động đơn độc hay từ chối sự giúp đỡ. Một người học thận trọng có thể học hỏi, nhờ người cùng học kiểm tra chéo, áp dụng các quy trình đã được ghi chép và thực hiện những thử nghiệm nhỏ mà không cho bất kỳ ai quyền truy cập thông tin bí mật.

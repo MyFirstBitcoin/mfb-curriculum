@@ -4,6 +4,7 @@ Mensen zoeken vaak alternatieven voor het aanhouden van contant geld wanneer zij
 
 
 <!-- micrographic: saving-alternatives-table-01 -->
+[Een tabel met drie alternatieven voor het aanhouden van contant geld (edelmetalen, vastgoed en aandelen), elk met de redenen waarom mensen ervoor kunnen kiezen en de belangrijke afwegingen. Geen enkel alternatief wordt boven de andere geplaatst.](/micrographics/saving-alternatives-table-01/nl.md)
 
 
 Een [bezit](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) is iets wat iemand kan hebben of waarop iemand aanspraak kan maken en dat [waarde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) kan hebben; het vervult niet automatisch elke functie van geld. Een woning kan [waarde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) bewaren, maar is niet praktisch om voedsel mee te kopen. Een aandeel kan in het ene land gemakkelijk te verkopen zijn, maar onbereikbaar voor iemand zonder beleggingsrekening. [Goud](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) heeft gedurende lange perioden in de geschiedenis als geld gediend, maar kan bij een kleine ruil moeilijk te controleren of te verdelen zijn.

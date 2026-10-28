@@ -3,6 +3,7 @@
 Eierskap til bitcoin håndheves gjennom kryptografiske nøkler.
 
 
+<!-- card: definition -->
 > **Definition – Privat nøkkel**
 >
 > En [privat nøkkel](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) er hemmelig informasjon som gjør det mulig for en lommebok å opprette gyldige [digitale signaturer](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature). En signatur godkjenner bruk av bitcoin som kontrolleres av den tilhørende nøkkelen. Alle som får tak i den [private nøkkelen](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) kan vanligvis bruke disse midlene.
@@ -21,10 +22,10 @@ De fleste lommebøker for nybegynnere bruker [enkeltsignatur](https://curriculum
 Ingen legitim underviser, lommebokleverandør, børsansatt, teknisk støttemedarbeider eller Bitcoin-utvikler trenger Deres [private nøkkel](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) eller [gjenopprettingsfrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase). Alle som ber om dette, bør betraktes som en trussel.
 
 
-> **Light**
->
+<!-- card: light -->
 > **Prøv selv:** Sorter ferdiglagde eksempler i tre grupper: informasjon som trygt kan deles for å motta midler, hemmelig informasjon som gir tilgang til å bruke midler, og informasjon som kan være offentlig, men som likevel bør holdes privat når den er knyttet til en person.
 
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[En hemmelig privat nøkkel, som aldri må deles, danner grunnlaget for offentlig informasjon som kan deles: en offentlig nøkkel avledet fra den og en mottaksadresse opprettet fra denne. Den samme private nøkkelen oppretter signaturer som noder verifiserer uten noen gang å få kjennskap til den private nøkkelen.](/micrographics/private-key-public-info-01/nb.md)

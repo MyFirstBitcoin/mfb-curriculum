@@ -1,6 +1,7 @@
 # 10.5 Verifica di preparazione per il Modulo 4
 
-> **Callout – Non svolga un'attività dal vivo del Modulo 4 finché tutte le verifiche non risultano superate**
+<!-- card: callout -->
+> **Non svolga un'attività dal vivo del Modulo 4 finché tutte le verifiche non risultano superate**
 >
 > Se una delle verifiche seguenti non risulta soddisfacente, utilizzi una simulazione, un percorso stampato o un'attività diversa. Non compensi un percorso non sicuro o non verificato chiedendo ai partecipanti di accettare un rischio maggiore.
 
@@ -22,3 +23,4 @@ Non svolga un modulo dal vivo finché tutte le risposte richieste non sono soddi
 
 
 <!-- micrographic: module-4-readiness-gate-01 -->
+[Otto verifiche riguardano scopo, competenza, capacità del formatore, strumenti, norme locali, sicurezza, accesso e osservazione. Ogni verifica deve risultare soddisfacente per l'attività dal vivo; una lacuna porta a un percorso più sicuro o a un piano rivisto e a un'ulteriore verifica di preparazione.](/micrographics/module-4-readiness-gate-01/it.md)

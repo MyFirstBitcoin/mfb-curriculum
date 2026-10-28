@@ -16,6 +16,7 @@ Proszę nanieść na mapę:
 
 
 <!-- micrographic: local-circular-economy-01 -->
+[W gospodarce obiegu zamkniętego opartej na Bitcoinie bitcoiny przechodzą z rąk do rąk w zamian za towary, usługi i czas. Klient płaci sprzedawcy, sprzedawca płaci usługodawcy, usługodawca płaci pracownikowi, a pracownik ponownie wydaje je jako klient.](/micrographics/local-circular-economy-01/pl.md)
 
 
 Przy wyszukiwaniu zasobów proszę sprawdzić:

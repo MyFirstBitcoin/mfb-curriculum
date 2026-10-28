@@ -19,6 +19,7 @@ Utilice la respuesta predeterminada:
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Cinco señales de alerta de estafa: urgencia, suplantación de identidad, un cambio de destino, rendimientos garantizados y solicitudes de información secreta.](/micrographics/scam-red-flags-01/es-419.md)
 
 
 #### Actividad: estaciones sobre estafas

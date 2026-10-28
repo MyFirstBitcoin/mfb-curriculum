@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: daily-bitcoin-uses-01 -->
+[Septyni skirtingi būdai naudoti „Bitcoin“ kasdieniame gyvenime: uždarbis, taupymas, gavimas, siuntimas, išlaidos, aukojimas, kainodara ir apskaita. Kiekvienas jų yra galimas naudojimo būdas, o ne privalomas žingsnis.](/micrographics/daily-bitcoin-uses-01/lt.md)
 
 
 Bitcoin gali atlikti pinigų funkciją keliais būdais. Atsiskaitymas yra tik vienas iš jų.
@@ -24,7 +25,7 @@ Bitcoin gali atlikti pinigų funkciją keliais būdais. Atsiskaitymas yra tik vi
 
 Kiekvienu naudojimo atveju užduokite tris klausimus:
 
-1. Kokią esamą problemą [sprendžia Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) šiuo atveju?
+1. Kokią esamą problemą sprendžia Bitcoin šiuo atveju?
 1. Ar Bitcoin šiuo atveju yra geresnis pasirinkimas nei prieinama alternatyva?
 1. Kokią naują atsakomybę ar riziką sukuria Bitcoin?
 

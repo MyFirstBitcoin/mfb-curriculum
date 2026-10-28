@@ -5,6 +5,7 @@ Ihmisillä on erilaisia taitoja, resursseja, tarpeita ja suunnitelmia. Vaihdanta
 Suora vaihdanta on usein vaikeaa. Henkilö, jolla on tarvitsemaanne, ei välttämättä halua sitä, mitä tarjoatte. Raha ratkaisee tämän koordinointiongelman.
 
 
+<!-- card: definition -->
 > **Definition – Raha**
 >
 > Raha on [omaisuuserä](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset), jonka ihmiset hyväksyvät, koska he odottavat muidenkin hyväksyvän sen myöhemmin. Se auttaa toisilleen vieraita ihmisiä koordinoimaan vaihdantaa, kirjaamaan [hintoja](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) ja [velkoja](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt) sekä siirtämään [arvoa](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) ajan ja etäisyyksien yli.

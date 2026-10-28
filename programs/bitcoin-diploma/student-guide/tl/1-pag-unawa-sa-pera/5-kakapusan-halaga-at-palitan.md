@@ -3,6 +3,7 @@
 Limitado ang mga yaman, samantalang walang hanggan ang mga kagustuhan ng tao.
 
 
+<!-- card: definition -->
 > **Definition – Kakapusan**
 >
 > [Kakapusan](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) ay nangangahulugang ang pagpili ng isang gamit para sa isang yaman ay humahadlang sa ibang paggamit nito. Ang oras, lupa, enerhiya, mabuting kalusugan, mga kasangkapan, at [matatag na salapi](https://curriculum.myfirstbitcoin.org/lexicon/en/#sound-money) ay pawang may kakapusan.
@@ -14,6 +15,7 @@ Ang [halaga](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) ng isang k
 
 
 <!-- micrographic: same-water-different-value-01 -->
+[Ang parehong bote ng malinis na tubig ay mura sa refrigerator ng tindahan kung saan madaling makahanap ng tubig, at higit na mas mahalaga sa isang mainit na disyerto sa panahon ng kakulangan. Nagbabago ang halaga at presyo batay sa pagkakaroon ng suplay, pangangailangan, at mga kalagayan.](/micrographics/same-water-different-value-01/tl.md)
 
 
 Nagaganap ang palitan kapag mas gusto ng magkabilang panig ang kanilang matatanggap kaysa sa kanilang ibibigay. Hindi nila kailangang magkasundo na ang dalawang bagay ay may magkaparehong personal na [halaga](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Kailangan lamang nilang magkasundo sa mga tuntunin.
@@ -26,6 +28,7 @@ Nakatutulong ang tatlong ideya upang ipaliwanag ang mga pang-araw-araw na pagpil
 
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Tinitingnan ng isang mamimiling may limitadong pera ang mga pagpipilian sa harap niya: pagkain para sa ngayon, transportasyon, o pag-iipon para sa susunod. Kapag pinili ang isa, isinusuko ang iba pa—ito ang kapalit na halaga—at walang pagpipiliang minarkahang tama.](/micrographics/one-choice-two-uses-01/tl.md)
 
 
 [Kakapusan](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) lamang ay hindi garantiya ng [halaga](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Maaaring bihira ang isang bagay ngunit wala pa ring naghahangad nito. Ang isang kapaki-pakinabang na pinansiyal na [ari-arian](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) ay may limitadong suplay, kasabay ng mga katangian at demand na naghihikayat sa mga tao na hawakan o ipagpalit ito.

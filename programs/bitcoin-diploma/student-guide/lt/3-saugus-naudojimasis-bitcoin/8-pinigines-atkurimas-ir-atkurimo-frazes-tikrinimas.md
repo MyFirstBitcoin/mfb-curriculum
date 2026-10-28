@@ -8,6 +8,7 @@ Saugiai pasirengti atkūrimui paprasta:
 
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[Šešių žingsnių mokomosios piniginės atkūrimo praktika: laikykitės oficialių instrukcijų, patikrinkite suderinamumą, dirbkite privačiai, naudokite patvirtintą atkūrimo būdą, patikrinkite, ar piniginė yra ta, kurios tikėjotės, tada nustatykite iš naujo. Naudokite tik paruoštą, tuščią arba imituotą medžiagą, o mokytojas niekada nemato atkūrimo frazės žodžių.](/micrographics/practice-wallet-recovery-01/lt.md)
 
 
 Baigę diplomo kursą, nenaudokite mokomosios piniginės ar jos atkūrimo informacijos reikšmingoms lėšoms saugoti. Jei vėliau nuspręsite susikurti asmeninę piniginę, ją reikės iš naujo sukonfigūruoti privačiai ir pasirūpinti nauja atkūrimo informacija.

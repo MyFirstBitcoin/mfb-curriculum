@@ -15,3 +15,4 @@ Lütfen [topluluk emaneti](https://curriculum.myfirstbitcoin.org/lexicon/en/#com
 
 
 <!-- micrographic: shared-funds-role-map-01 -->
+[Katkıda bulunanlar ve yararlanıcılar, ortak fonları kim kontrol ediyorsa ona bağımlıdır. Anahtar kontrolü, harcama onayı, kayıtlar ve denetim ayrı rollerdir; bunlardan birkaçını tek bir kişi üstlendiğinde güven tek elde yoğunlaşır; süreklilik, gizlilik, anlaşmazlıklar ve yasal statü ise yine de yanıt bekleyen konular olarak kalır.](/micrographics/shared-funds-role-map-01/tr.md)

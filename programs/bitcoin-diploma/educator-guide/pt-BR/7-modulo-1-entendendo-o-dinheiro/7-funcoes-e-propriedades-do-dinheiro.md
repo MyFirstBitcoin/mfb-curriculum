@@ -7,6 +7,7 @@ Ensine a diferença explicitamente:
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Duas camadas: as três funções do dinheiro (meio de troca, unidade de conta, reserva de valor) apoiam-se em sete propriedades (durabilidade, portabilidade, divisibilidade, fungibilidade, escassez, aceitabilidade e verificabilidade).](/micrographics/functions-and-properties-01/pt-BR.md)
 
 
 Use finalidades diferentes. Pergunte quais propriedades importam para:

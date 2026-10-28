@@ -10,6 +10,7 @@ Activitatea dumneavoastră locală din **Modulul 4** vă va ajuta:
 
 
 <!-- micrographic: local-module-four-actions-01 -->
+[În modulul 4, adaptat contextului local, cursantul parcurge patru acțiuni: corelează o idee din modulele 1–3 cu o nevoie locală, compară Bitcoin cu o alternativă existentă realistă, exersează în siguranță sub îndrumare și explică ce a învățat și care ar fi un pas următor responsabil. Cadrul didactic și, uneori, un expert local îl îndrumă pe tot parcursul.](/micrographics/local-module-four-actions-01/ro.md)
 
 
 Activitatea dumneavoastră poate explora întrebări precum:

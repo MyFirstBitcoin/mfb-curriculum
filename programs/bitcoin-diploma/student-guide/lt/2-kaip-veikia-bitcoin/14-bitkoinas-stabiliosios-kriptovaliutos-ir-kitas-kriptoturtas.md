@@ -7,8 +7,7 @@ Lygindami bet kokį [skaitmeninį turtą](https://curriculum.myfirstbitcoin.org/
 Toliau pateiktame palyginime atskiriamos kategorijos ir projektavimo sprendimai. Tai nėra pritarimas, rekomendacija ar teiginys, kad bet kuris [turtas](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) yra saugus, patikimas ar Jums tinkamas.
 
 
-> **Dark**
->
+<!-- card: dark -->
 > Sukčiavimas, klaidinantys teiginiai ir nesaugios paslaugos gali būti susiję su bet kokiu [skaitmeniniu turtu](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-asset) ar mokėjimo būdu. Tikrinkite konkretų [turtą](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset), paslaugą ir [saugojimo](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) tvarką, užuot manę, kad kuri nors kategorija savaime yra saugi ar nesaugi.
 
 

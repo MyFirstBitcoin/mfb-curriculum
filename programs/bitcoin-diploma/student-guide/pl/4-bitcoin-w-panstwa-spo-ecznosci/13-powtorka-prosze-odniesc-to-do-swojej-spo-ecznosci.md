@@ -1,10 +1,12 @@
 # 4.13 Powtórka: proszę odnieść to do swojej społeczności
 
 <!-- micrographic: community-review-path-01 -->
+[Ścieżka analizy lokalnego przykładu wykorzystania Bitcoina: od rzeczywistej potrzeby, przez ocenę dopasowania Bitcoina, metodę płatności, przechowywanie środków, całkowity koszt, bezpieczeństwo i warunki lokalne, aż po dowody powodzenia.](/micrographics/community-review-path-01/pl.md)
 
 
 
 <!-- micrographic: community-review-table-01 -->
+[Tabela do analizy lokalnego przykładu: dla każdego tematu, od rzeczywistej potrzeby po odpowiedzialny kolejny krok, podano pytanie do rozważenia i opcjonalne miejsce na własne notatki.](/micrographics/community-review-table-01/pl.md)
 
 
 Proszę wykonać to powtórzenie samodzielnie, a następnie porównać swoje rozumowanie z rozumowaniem zespołu lub grupy kursowej. Proszę rozważyć przeanalizowany lokalny przykład: na jaką rzeczywistą potrzebę odpowiadał, jaką funkcję pełnił w nim pieniądz i czy [wartość](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) była przesyłana on-chain, przez Lightning, czy na oba sposoby? Proszę zastanowić się, kto kontrolował klucze, jaka była największa korzyść i najpoważniejsze ryzyko oraz jak lokalne prawo, infrastruktura, język lub kultura wpłynęły na wynik. Odpowiedzialny kolejny krok to taki, który pasuje do lokalnego kontekstu, jasno określa koszty i [sposób przechowywania środków](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), ogranicza błędy i oszustwa oraz daje się ocenić na podstawie dowodów.

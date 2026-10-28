@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[Příjemce na svém telefonu vytvoří žádost o platbu přes Lightning s uvedenou částkou, odesílatel ji naskenuje a zaplatí a platba o chvíli později dorazí na telefon příjemce.](/micrographics/lightning-phone-payment-01/cs.md)
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Platba přes Lightning v šesti krocích: příjemce vytvoří žádost, odesílatel ji naskenuje, zkontroluje příjemce, částku, jednotku, dobu platnosti a poplatek, schválí platbu, platba se směruje sítí a obě peněženky zobrazí výsledek. U každé peněženky může správu klíčů zajišťovat třetí strana, nebo sám uživatel. Pokud platba selže nebo vyprší její platnost, postup začíná znovu novou žádostí.](/micrographics/lightning-payment-sequence-01/cs.md)
 
 
 Lightning umožňuje prakticky využívat rychlé a drobné platby v síti Bitcoin. Může se hodit pro platby u pokladny, opakované místní platby, online služby nebo převody, u nichž by byl poplatek za on-chain transakci vzhledem k výši platby příliš vysoký.

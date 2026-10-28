@@ -36,6 +36,7 @@ Le [Réseau d’éducation à Bitcoin](https://myfirstbitcoin.org/about/network)
 
 
 <!-- micrographic: final-safety-check-01 -->
+[Une dernière liste de vérification de sécurité, dont toutes les cases sont cochées : protégez vos secrets, vérifiez les détails du paiement, faites de petits tests et arrêtez-vous en cas de pression. Si quelque chose n’est pas clair, arrêtez-vous et renseignez-vous davantage avant d’agir.](/micrographics/final-safety-check-01/fr-FR.md)
 
 
 Gardez ces règles à l’esprit :
@@ -57,6 +58,7 @@ L’éducation réduit les risques, mais ne peut pas les éliminer. Si une situa
 
 
 <!-- micrographic: curriculum-source-panel-01 -->
+[Un panneau avec un QR code et le lien imprimé github.com/MyFirstBitcoin/mfb-curriculum, la source de référence du diplôme Bitcoin, où vous pouvez vérifier l’édition et signaler des erreurs.](/micrographics/curriculum-source-panel-01/fr-FR.md)
 
 
 Le Diplôme Bitcoin est un programme pédagogique vivant et open source. Les corrections et les améliorations peuvent être examinées publiquement.
@@ -101,7 +103,7 @@ Les ressources pédagogiques de My First Bitcoin sont gratuites et open source. 
 
 https://donate.myfirstbitcoin.org
 
-_Support My First Bitcoin_
+_Soutenir My First Bitcoin_
 
 
 Si vous choisissez de contribuer, utilisez la [page officielle de dons](https://donate.myfirstbitcoin.org). Avant de payer, confirmez que la destination utilise le domaine officiel ou une page de paiement officielle accessible depuis celui-ci. Vérifiez le destinataire et le montant dans votre portefeuille. Un don est facultatif et n’est pas requis pour terminer le cours ou obtenir un certificat.

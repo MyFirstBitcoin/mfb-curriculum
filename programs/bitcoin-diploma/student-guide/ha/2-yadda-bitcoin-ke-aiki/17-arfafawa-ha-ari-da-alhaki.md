@@ -13,6 +13,5 @@ Ga mutumin da ya zaɓi [riƙe bitcoin da kansa](https://curriculum.myfirstbitcoi
 [Riƙe bitcoin da kai](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) ba fasalin fasaha kawai ba ne. Yana buƙatar kare kwafin ajiya, tabbatar da adiresoshi, duba yadda walat ke aiki, da tsara yadda za a dawo da damar shiga. Darasi na gaba yana bayyana yadda za a riƙe bitcoin da amfani da shi cikin tsanaki, har da yadda za a tafiyar da waɗannan haɗari da nauye-nauye.
 
 
-> **Light**
->
+<!-- card: light -->
 > Ɗaukar alhakin kai ba ya nufin yin komai kai kaɗai ko ƙin karɓar taimako. Ɗalibi mai taka tsantsan zai iya amfana da ilimi, bitar abokan koyo, rubutattun hanyoyin aiki, da ƙananan gwaje-gwaje ba tare da ba kowa damar samun bayanan sirri ba.

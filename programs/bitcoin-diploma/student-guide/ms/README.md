@@ -22,7 +22,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.7 | [Wang fiat](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ms/1-memahami-wang/7-wang-fiat.md) |
 |  | 1.8 | [Perbankan Rizab Pecahan](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ms/1-memahami-wang/8-perbankan-rizab-pecahan.md) |
 |  | 1.9 | [Inflasi dan Kuasa Beli](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ms/1-memahami-wang/9-inflasi-dan-kuasa-beli.md) |
-|  | 1.10 | [Mengapakah dolar AS merupakan mata wang rizab dunia?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ms/1-memahami-wang/10-mengapakah-dolar-as-merupakan-mata-wang-rizab-dunia.md) |
+|  | 1.10 | [Mengapa dolar AS merupakan mata wang rizab dunia](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ms/1-memahami-wang/10-mengapa-dolar-as-merupakan-mata-wang-rizab-dunia.md) |
 |  | 1.11 | [Alternatif untuk menabung dan menyimpan nilai](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ms/1-memahami-wang/11-alternatif-untuk-menabung-dan-menyimpan-nilai.md) |
 |  | 1.12 | [Mata Wang Digital Bank Pusat (CBDC)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ms/1-memahami-wang/12-mata-wang-digital-bank-pusat-cbdc.md) |
 |  | 1.13 | [Ulang kaji: Bagaimanakah wang boleh gagal berfungsi?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ms/1-memahami-wang/13-ulang-kaji-bagaimanakah-wang-boleh-gagal-berfungsi.md) |

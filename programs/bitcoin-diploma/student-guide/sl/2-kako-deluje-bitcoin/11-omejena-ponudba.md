@@ -3,6 +3,7 @@
 Pravila Bitcoina določajo predvidljiv [urnik izdajanja](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuance-schedule) in [največjo ponudbo](https://curriculum.myfirstbitcoin.org/lexicon/en/#maximum-supply) v višini 21 milijonov bitcoinov (21.000.000 BTC). Novi bitcoini prihajajo v obtok prek [subvencije za blok](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-subsidy), izplačane [rudarjem](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner), ki ustvarjajo veljavne bloke.
 
 
+<!-- card: definition -->
 > **Definition – Razpolovitev**
 >
 > Vsakih 210.000 blokov se subvencija prepolovi. Ta dogodek se imenuje [razpolovitev](https://curriculum.myfirstbitcoin.org/lexicon/en/#halving). Ker se bloki v povprečju ustvarjajo približno vsakih deset minut, se [razpolovitev](https://curriculum.myfirstbitcoin.org/lexicon/en/#halving) zgodi približno vsaka štiri leta. Točen koledarski datum ni določen.
@@ -22,12 +23,14 @@ Subvencija je na začetku znašala 50 BTC na blok. V ponavljajočih se korakih s
 
 
 <!-- micrographic: bitcoin-issuance-schedule-01 -->
+[Subvencija za blok se začne pri 50 bitcoinih in se prepolovi vsakih 210.000 blokov, medtem ko se skupna količina izdanih bitcoinov približuje omejitvi 21 milijonov. Transakcijske provizije se plačajo dodatno in niso novi bitcoini; prikaz ne nakazuje nobene napovedi cene.](/micrographics/bitcoin-issuance-schedule-01/sl.md)
 
 
 Omejitev na 21 milijonov uveljavljajo [vozlišča](https://curriculum.myfirstbitcoin.org/lexicon/en/#node). Če [rudar](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) ustvari več bitcoinov, kot dovoljujejo pravila, [vozlišča, ki preverjajo veljavnost](https://curriculum.myfirstbitcoin.org/lexicon/en/#full-node) zavrnejo blok. Razvijalec programske opreme lahko napiše drugačno kodo, vendar drugih ljudi ne more prisiliti, da jo izvajajo.
 
 
-> **Dark – Nespremenljiva ponudba je pravilo omrežja, ne obljuba glede cene**
+<!-- card: dark -->
+> **Nespremenljiva ponudba je pravilo omrežja, ne obljuba glede cene**
 >
 > Bitcoinovo pravilo o ponudbi je javno, neodvisno preverljivo in ga posamezna stran težko spremeni, ker [validacijska vozlišča](https://curriculum.myfirstbitcoin.org/lexicon/en/#full-node) uveljavljajo to pravilo. To ni fizikalni zakon: velja, dokler ga udeleženci še naprej uveljavljajo. Omejena ponudba ne zagotavlja rasti tržne [cene](https://curriculum.myfirstbitcoin.org/lexicon/en/#price); [cena](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) je odvisna tudi od povpraševanja.
 >
@@ -37,8 +40,7 @@ Omejitev na 21 milijonov uveljavljajo [vozlišča](https://curriculum.myfirstbit
 **Vprašanje za razmislek:** Katere so prednosti omejene ponudbe Bitcoina? Kako bi povečanje ponudbe Bitcoina vplivalo na [kupno moč](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power)? Kdo bi zavrnil povečanje ponudbe?
 
 
-> **Light**
->
+<!-- card: light -->
 > Omejena ponudba tudi ne pomeni, da je vsak bitcoin na voljo za prodajo; nekateri se lahko hranijo dolgoročno ali postanejo nedostopni zaradi izgubljenih ključev.
 
 

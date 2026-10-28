@@ -3,6 +3,7 @@
 Un [Sistem Centralizat](https://curriculum.myfirstbitcoin.org/lexicon/en/#centralized-system) are un punct de control. O bancă controlează propriul [Registru al clienților](https://curriculum.myfirstbitcoin.org/lexicon/en/#ledger). O companie de plăți își controlează rețeaua. Un guvern controlează regulile de emitere a propriei [monede](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency).
 
 
+<!-- card: definition -->
 > **Definition – Decentralizare**
 >
 > Un [Sistem Decentralizat](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralized-system) distribuie rolurile și aplicarea deciziilor între numeroși participanți independenți. Bitcoin nu are un birou central care să poată crea conturi, modifica solduri sau aproba aderarea.
@@ -22,6 +23,7 @@ Un [Sistem Centralizat](https://curriculum.myfirstbitcoin.org/lexicon/en/#centra
 
 
 <!-- micrographic: powers-and-limits-01 -->
+[Utilizatorii, nodurile, minerii, dezvoltatorii și serviciile au fiecare o anumită putere în raport cu regulile comune și registrul public ale Bitcoin, dar niciunul nu poate modifica singur registrul sau regulile pentru toată lumea.](/micrographics/powers-and-limits-01/ro.md)
 
 
 [Decentralizarea](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) generează și costuri. Coordonarea poate fi mai lentă. Utilizatorii trebuie să verifice informațiile și să își asume mai multă responsabilitate. Nu există un serviciu central de asistență pentru [rețeaua Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). Aceste [compromisuri](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) fac parte din proiectarea sistemului, nu sunt defecte accidentale care pot fi eliminate fără a schimba sistemul.

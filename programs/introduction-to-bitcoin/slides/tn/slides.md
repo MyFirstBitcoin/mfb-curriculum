@@ -40,7 +40,8 @@ E seng go e berekela, e seng go e dirisa, mme go akanya ka gore ke eng le gore e
 * A madi a lona a reka selekanyo se se tshwanang sa dilo le sa pele?
 
 
-> **Callout – Bolokang dikarabo tsa lona**
+<!-- card: callout -->
+> **Bolokang dikarabo tsa lona**
 >
 > Kwalang karabo e khutshwane ya potso nngwe le nngwe. Lo tla boela mo go tsone kwa bokhutlong.
 
@@ -85,6 +86,7 @@ Batho ka bobedi ba tshwanetse go batla se yo mongwe a nang le sone, ka nako e le
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina o na le reisi mme o batla ditlhako, Luis o na le ditlhako mme o batla oli ya go apaya, mme Mei o na le oli ya go apaya mme o batla go direlwa ditokiso. Ga go na batho ba babedi ba ba ka ananyang ka tlhamalalo, ka gonne mo setlhopheng sengwe le sengwe sa batho ba babedi, ga go ope yo o batlang se yo mongwe a se nayang.](/micrographics/barter-mismatch-01/tn.md)
 
 <!-- notes: Dirisang sekai se se mo kaelong: lo lema reisi e bile lo tlhoka ditlhako, mme modiri wa ditlhako o batla leokwane la go apaya, e seng reisi. Baitshokonomi ba bitsa seno go nyalana gabedi ga dikeletso. -->
 
@@ -151,6 +153,7 @@ Fa batho ba utlwa lefoko tlhatlogo ya ditlhwatlhwa, gantsi ba akanya ka ditlhwat
 ## Tlhatlogo ya Ditlhwatlhwa le Maatla a go Reka
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Tsone diyuniti tse 100 tsa madi di reka seroto sotlhe sa dithoto tsa motheo fa se ja 100, mme ga di kgone fa sone seroto seo se ja 110. Selekanyo sa ditlhwatlhwa se tlhatlogile mme bokgoni jwa madi jwa go reka bo fokotsegile.](/micrographics/same-money-smaller-basket-01/tn.md)
 
 <!-- notes: Tlhatlogo ya ditlhwatlhwa ke koketsego e e tswelelang mo selekanyong sa kakaretso sa ditlhwatlhwa. Letlhakore le lengwe la yone ke maatla a go reka: selekanyo sa dilo tse yuniti e le nngwe ya madi e ka di rekang. Fa tlhwatlhwa ya seroto sa dithoto tsa motheo e tlhatloga go tswa go diyuniti tsa madi di le 100 go ya go di le 110, diyuniti tseo tse 100 ga di tlhole di kgona go reka seroto seo sotlhe. -->
 
@@ -213,8 +216,7 @@ Madi a a mo akhaontong ya banka a farologane le madi a a mo seatleng sa lona: ke
 * Mme tlamelo ya yona le melao ya yona di ka fetoga, mme batho ba ba e dirisang ga ba na tshusumetso e kalo mo ditshwetsong
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Ke ka moo batho ba batlang ditsela tse dingwe, e bile ke ka moo Bitcoin e neng ya tlhamiwa.
 
 ---
@@ -233,6 +235,7 @@ Madi a dijithale a a sa laolweng ke setheo se le sengwe, a a nang le selekanyo s
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Fa go dirisiwa khamphani ya dituelo, mokgatlho o le mongwe o boloka buka ya direkoto e bile o letlelela phetisetso nngwe le nngwe. Fa go dirisiwa Bitcoin, moromedi o saena tirisano, dinoute tse di ikemetseng di a e tlhatlhoba mme baepi ba e tsenya mo bukeng e le nngwe ya direkoto e e abelanwang, ka jalo moamogedi ga a ikaega thata ka taolo e e mo bogareng.](/micrographics/central-ledger-vs-bitcoin-01/tn.md)
 
 <!-- notes: Pele ga Bitcoin, go romela madi ka inthanete go ne go ikaegile ka metlha ka mokgatlho o o ikanngwang: banka kgotsa khamphani ya dituelo e e neng e boloka buka ya direkoto tsa ditirisano, e amogela diakhaonto, e bile e kgona go diegisa, go thibela kgotsa go busetsa tuelo morago. Tshedimosetso ya dijithale e bonolo go e kopolola: fa ledi la dijithale le ne le ka dirisiwa gabedi, le ne le ka se kgone go dira jaaka madi. Seno ke bothata jwa go dirisa madi a le mangwe gabedi. Satoshi Nakamoto ke motho kgotsa setlhopha se se dirisang leina leo. -->
 
@@ -253,6 +256,7 @@ Ga go na khampani e e ka thibelang tiriso ya bitcoin e lo e laolang ka bolona. K
 ## Tekanyetso e Mongwe le Mongwe a ka e Tlhomamisang
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Tekanyetso ya tlamelo e e kwadilweng mo webosaeteng kgotsa mo bobolokelong jwa tshedimosetso jwa montshi e ka fetolwa mo sephiring ke montshi yoo. Molao wa tlamelo wa Bitcoin o bonwa ke botlhe, mme mesaeno, hisetori e e bonwang ke botlhe, bosupi jwa tiro le tlhatlhobo ya dinoute di dira mmogo go thibela go itlhamelwa ga madi a masha kgotsa go dirisiwa ga bitcoin e le nngwe gabedi.](/micrographics/claimed-or-verified-supply-01/tn.md)
 
 <!-- notes: bitcoin e ntšha e gololwa go ya ka thulaganyo ya nako e e itsisiweng phatlalatsa, mme dikhomphiutha tse di ikemetseng tse di bidiwang di-node di gana boloko bongwe le bongwe jo bo tlolang molao oo. Tekanyetso eno e a ikanyega ka gonne mongwe le mongwe a ka e tlhatlhoba. Ga se molao wa tlholego: e tswelela e dira ka gonne batsayakarolo ba nna ba e diragatsa. Tlamelo e e lekanyeditsweng ga e tlhomamise gore tlhwatlhwa e tla tlhatloga; tlhwatlhwa e ikaegile ka tlhokego mmogo le tlamelo. -->
 
@@ -264,6 +268,7 @@ bitcoin e le nngwe e kgaoganngwa ka diyuniti tse dinnye di le 100 000 000 tse di
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Tafole e e nang le dikholomo tse pedi: 1 BTC e lekana le 100 000 000 sats, 0,1 BTC e lekana le 10 000 000 sats, 0,01 BTC e lekana le 1 000 000 sats, 0,001 BTC e lekana le 100 000 sats, mme 0,00000001 BTC e lekana le 1 sat.](/micrographics/bitcoin-and-sats-01/tn.md)
 
 <!-- notes: Go nna le 100 000 sats le go nna le 0,001 bitcoin go kaya selekanyo se se tshwanang. Tlhalosang mogopolo o o phoso wa gore Bitcoin ga e ka ke ya fitlhelelwa ka gonne bitcoin e le nngwe e tura. -->
 
@@ -272,6 +277,7 @@ bitcoin e le nngwe e kgaoganngwa ka diyuniti tse dinnye di le 100 000 000 tse di
 ## Ke mang yo o dirang gore Bitcoin e tswelele e dira?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Dikarolo tse nne mo Bitcoin: badirisi ba amogela, ba boloka e bile ba romela bitcoin, dinoutu di itlhomamisetsa ka nosi gore melao e a latelwa, baepi ba aga diboloko tse di tshitshinngwang ka bosupi jwa tiro, mme batlhabolodi ba tshitshinya dirweboleta. Ga go na karolo e le nngwe e e laolang netweke.](/micrographics/bitcoin-participant-roles-01/tn.md)
 
 <!-- notes: Badirisi ba romela, ba amogela e bile ba boloka bitcoin; dikhomphiutha tse di mo netwekeng di tlhatlhoba tirisano nngwe le nngwe le boloko bongwe le bongwe go netefatsa gore di latela melao; baepi ba gaisanela go tsenya boloko jo bosha mo rekotong mo e ka nnang metsotso mengwe le mengwe e le lesome. Rekoto eo, e leng ketane ya diboloko, e ka bonwa ke mongwe le mongwe mme go e kwala sesha go ja madi a mantsi thata. Tlhokomeliso ka mokwalo: Bitcoin e e simololang ka tlhaka e kgolo ya B gantsi e kaya netweke kgotsa tsamaiso; bitcoin e e simololang ka tlhaka e nnye ya b e kaya madi ka boone. -->
 
@@ -307,6 +313,7 @@ Potso ya ntlha ka ga sepache sengwe le sengwe: ke mang yo o laolang dinotlolo?
 ## Sepache se Laola Dinotlolo
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Sekgwama se boloka dinotlolo. Ka tsone lo ka amogela le go romela bitcoin, fa bitcoin ka boyone e sala e kwadilwe mo rejisetareng e e abelanwang, e seng mo teng ga founo kgotsa sedirisiwa.](/micrographics/wallet-manages-keys-01/tn.md)
 
 <!-- notes: Sepache sa Bitcoin ke sediriswa, gantsi e le tiriso, se se lo letlang go amogela, go lekola le go romela bitcoin. Madi a lona a bitcoin ga a bolokiwe mo teng ga mogala wa lona: a kwadilwe mo ketaneng ya diboloko. Sepache se laola dilotlolo tse di lo letlang go supa gore madi ao ke a lona le go letlelela tuelo. -->
 
@@ -331,6 +338,7 @@ Lenaane le le rulagantsweng la mafoko, gantsi a le 12 kgotsa 24, le le ka tlhagi
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Polelwana ya peo ke lenaane la mafoko a a rulagantsweng ka tatelano; fano go bontshitswe mafoko a le lesome le bobedi a sekao a a nomorilweng, a kwadilwe mo pampiring. Mafoko a a nepagetseng ka tatelano e e nepagetseng a ka busetsa taolo ya walete e e tsamaelanang le one, ka jalo polelwana eno e bolokiwa e le sephiri e bile e se mo inthaneteng.](/micrographics/seed-phrase-on-paper-01/tn.md)
 
 <!-- notes: Polelwana ya peo ga se khopi ya polokelo fela: e naya phitlhelelo e e feletseng. E kwaleng ka nepagalo mo pampiring fa lo dira sepache; e bolokeng e sa golaganngwa le inthanete, e le sephiri, e bile e le mo lefelong le e ka se latlhegeng kgotsa ya senyega mo go lone. Le ka motlha lo se ka lwa e tsaya setshwantsho, lwa e romela ka imeile, lwa e boloka mo dintlheng tsa mo lerung, lwa e romela ka molaetsa, kgotsa lwa e tlanya mo webosaeteng. Mafoko a a bontshitsweng ke sekai fela; le ka motlha lo se ka lwa bontsha kgotsa lwa kokoanya polelwana ya peo ya mmatota. -->
 
@@ -365,6 +373,7 @@ Lenaane le le rulagantsweng la mafoko, gantsi a le 12 kgotsa 24, le le ka tlhagi
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Dituelo tsa mo ketaneng di rekotiwa ka tlhamalalo mo ketaneng ya diboloko ya Bitcoin, fa Lightning yone e le neteweke ya dituelo e e agilweng mo godimo ga Bitcoin bakeng sa dituelo tse di bonako, tse di dirwang gangwe le gape mme gape di ka palelwa. Mo mokgweng mongwe le mongwe, matlole a ka laolwa ke motho yo mongwe kgotsa ke mong wa one.](/micrographics/on-chain-and-lightning-01/tn.md)
 
 ---
 
@@ -375,7 +384,8 @@ Lenaane le le rulagantsweng la mafoko, gantsi a le 12 kgotsa 24, le le ka tlhagi
 * **Lo se ka lwa ikanya, tlhomamisang.** Tlhomamisang motho, mokgwa wa go duela, aterese le selekanyo sa madi.
 
 
-> **Callout – Abelanang ka tshedimosetso ya go amogela madi, le ka motlha e seng diphiri**
+<!-- card: callout -->
+> **Abelanang ka tshedimosetso ya go amogela madi, le ka motlha e seng diphiri**
 >
 > Aterese kgotsa kopo ya tuelo e ka abelanwa. Polelwana ya peo kgotsa selotlolo sa poraefete ga di a tshwanela go abelanwa le ka motlha. Ga go na morutabana, khamphani ya sepatšhe kgotsa modiri wa tshegetso yo o dirang ka fa molaong yo o tla tsamayang a di kopa.
 
@@ -389,6 +399,7 @@ Emisang fa mongwe a lo potlakisa kgotsa a lo kopa go boloka sephiri, a solofetsa
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Matshwao a le matlhano a a tlhagisang ka tsietso: go potlakisiwa, go itira motho yo mongwe, go fetolwa ga lefelo le go romelwang kwa go lone, dipoelo tse di tlhomamisitsweng le go kopa tshedimosetso ya sephiri.](/micrographics/scam-red-flags-01/tn.md)
 
 ---
 
@@ -408,7 +419,8 @@ Seno ke tshimologo fela.
 * **Seno ke tshimologo fela.** Kgato e le nngwe e e latelang e e babalesegileng e lekane.
 
 
-> **Callout – Nako ya go akanya**
+<!-- card: callout -->
+> **Nako ya go akanya**
 >
 > Boelang kwa dipotsong tse tlhano tsa kwa tshimologong. Lo ne lo tla araba jang jaanong?
 

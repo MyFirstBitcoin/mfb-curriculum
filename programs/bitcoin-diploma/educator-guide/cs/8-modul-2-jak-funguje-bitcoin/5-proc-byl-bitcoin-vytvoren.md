@@ -6,6 +6,7 @@ Centralizovaný systém digitálních plateb může vést jednu závaznou [úče
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[U platební společnosti vede účetní knihu a schvaluje každý převod jedna organizace. V síti Bitcoin odesílatel podepisuje transakci, nezávislé uzly ji ověřují a těžaři ji přidávají do jedné sdílené účetní knihy, takže příjemce méně závisí na centrální autoritě.](/micrographics/central-ledger-vs-bitcoin-01/cs.md)
 
 
 Zeptejte se:

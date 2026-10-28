@@ -1,5 +1,6 @@
 # 3.6 Utilisation avec et sans dépositaire
 
+<!-- card: definition -->
 > **Definition – Garde**
 >
 > [La garde](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) répond à une question pratique : qui contrôle les clés nécessaires pour dépenser les bitcoins ?
@@ -15,10 +16,12 @@ Dans le cadre d’une utilisation **sans garde par un tiers** ou **en autogarde*
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[Dans le cas de la garde par un tiers, un service contrôle les clés et approuve les dépenses : le solde représente donc sa promesse. Dans le cas de la garde autonome, vous contrôlez les clés et les sauvegardes ; les deux modes présentent des dépendances et des risques de défaillance.](/micrographics/who-controls-keys-01/fr-FR.md)
 
 
 
 <!-- micrographic: custody-comparison-table-01 -->
+[Un tableau comparant l’utilisation avec garde par un tiers et l’utilisation en garde autonome : qui détient les clés, qui gère la récupération et le principal compromis de chaque modèle. Aucun des deux modèles n’est sans risque.](/micrographics/custody-comparison-table-01/fr-FR.md)
 
 
 [Le mode de garde](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) n’est pas toujours évident à déterminer à partir de l’interface. Si vous ne pouvez pas contrôler la méthode de récupération et avez besoin de l’approbation d’une entreprise pour effectuer un retrait, vous faites probablement appel à un [dépositaire](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian). [L’autogarde](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) n’est pas une épreuve qui mesure votre valeur personnelle ; l’essentiel est de déterminer la confiance requise et les risques encourus.

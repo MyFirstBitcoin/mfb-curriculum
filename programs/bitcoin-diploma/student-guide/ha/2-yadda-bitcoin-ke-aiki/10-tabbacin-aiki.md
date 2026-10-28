@@ -3,6 +3,7 @@
 ![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
+<!-- card: definition -->
 > **Definition – Tabbacin aiki**
 >
 > [Tabbacin aiki](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) shi ne tsarin da [masu haƙa](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) ke amfani da shi don yin gasa kan samun damar gabatar da tubali na gaba.
@@ -14,6 +15,7 @@ Lokacin da wani [mai haƙa](https://curriculum.myfirstbitcoin.org/lexicon/en/#mi
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Mai haƙa yana lissafin hash na tubalin da aka gabatar akai-akai har sai wani sakamako ya yi ƙasa da iyakar da cibiyar sadarwa ta ƙayyade, sannan ya watsa tubalin. Kullin sadarwa suna bincika hujjar da kowace ƙa'ida cikin sauri kafin tubalin ya shiga sarkar tubalai: yin aikin yana da tsada, amma tabbatar da shi yana da sauƙi.](/micrographics/proof-of-work-process-01/ha.md)
 
 
 [Tabbacin aiki](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) yana da manufofi da dama:

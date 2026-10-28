@@ -10,6 +10,7 @@ Zeichnen Sie eine vereinfachte Bilanz:
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Ein vereinfachter Bankkredit: Der Kreditnehmer stellt einen Antrag, die Bank genehmigt den Kredit und schreibt dem Konto des Kreditnehmers eine neue Einlage gut, und der Kreditnehmer zahlt der Bank später den Kreditbetrag zuzüglich Zinsen zurück.](/micrographics/bank-loan-deposit-01/de.md)
 
 
 Verwenden Sie keine Erzählung vom „Geldmultiplikator“ mit wiederholten physischen Einlagen, als würde sie jedes moderne Bankensystem mechanisch beschreiben.
@@ -21,6 +22,7 @@ Unterscheiden Sie:
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Liquiditätsrisiko: Viele Einleger stehen Schlange, um heute Geld abzuheben, und der Bank fehlt jetzt genug Bargeld, obwohl ihre Kredite später womöglich zurückgezahlt werden. Solvenzrisiko: Kreditnehmer zahlen ihre Immobilienkredite nicht mehr zurück, und die Vermögenswerte der Bank sind weniger wert als ihre Verbindlichkeiten.](/micrographics/liquidity-vs-solvency-01/de.md)
 
 
 Fragen Sie:

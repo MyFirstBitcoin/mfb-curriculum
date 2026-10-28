@@ -21,6 +21,7 @@ Nämä eivät ole numeroarvosanoja. Molempien osa-alueiden on oltava suoritettui
 
 
 <!-- micrographic: two-completion-gates-01 -->
+[Teoreettiset osaamisalueet C1–C5 ja käytännön osaamisalueet C6 ja C7 on kaikki hyväksyttävä ennen suoritustodistuksen myöntämistä. Ei vielä tarkoittaa lisäharjoittelua ja uutta arviointia; läsnäolo ja pohdinta eivät korvaa kumpaakaan arviointivaihetta.](/micrographics/two-completion-gates-01/fi.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/2783871f5851cf80c2e6e2a93eeb911607939507-1536x1024.svg)

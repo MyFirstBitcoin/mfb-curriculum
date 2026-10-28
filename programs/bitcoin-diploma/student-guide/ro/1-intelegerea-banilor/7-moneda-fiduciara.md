@@ -1,5 +1,6 @@
 # 1.7 Monedă fiduciară
 
+<!-- card: definition -->
 > **Definition – Banii fiat**
 >
 > [Banii fiat](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) sunt [monedă](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) emisă sub autoritatea statului, de obicei prin intermediul unei [bănci centrale](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank), care nu poate fi preschimbată într-o cantitate fixă dintr-o marfă precum [aurul](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold). Guvernele susțin — și, în anumite contexte, impun — utilizarea acesteia, cerând folosirea ei pentru plata impozitelor și stabilind reguli privind cursul legal. Regulile exacte pentru acceptarea plăților și stingerea [datoriilor](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt) variază în funcție de jurisdicție.
@@ -11,12 +12,14 @@ Sistemul fiat are mai mulți participanți principali:
 
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Actorii dintr-un sistem monetar fiat și ceea ce circulă între ei: banca centrală stabilește politica monetară și decontează plățile dintre bănci, băncile comerciale dețin depozite care reprezintă datorii față de clienți, serviciile de plată transmit instrucțiuni, guvernul colectează impozite și efectuează cheltuieli, iar cetățenii și întreprinderile efectuează și încasează plăți.](/micrographics/fiat-system-flows-01/ro.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
-> **Light – Analizați o plată din comunitatea dumneavoastră**
+<!-- card: light -->
+> **Analizați o plată din comunitatea dumneavoastră**
 >
 > Alegeți o plată obișnuită din comunitatea dumneavoastră, precum plata transportului, a alimentelor sau a creditului telefonic; primirea salariului; ori plata unei facturi. Dacă preferați, folosiți un scenariu inventat, dar realist. În trei sau patru propoziții, explicați:
 >

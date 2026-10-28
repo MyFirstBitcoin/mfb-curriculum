@@ -19,3 +19,4 @@ No utilice las estaciones como evaluación formal a menos que se hayan aprobado 
 
 
 <!-- micrographic: practice-circuit-stations-01 -->
+[Los estudiantes rotan por ocho estaciones de práctica: custodia, público o secreto, recibir, enviar, recuperación, explorador, estafa y ruta. Un circuito de observación separado sigue una ruta aprobada, de modo que la práctica grupal nunca se confunda con una evaluación formal.](/micrographics/practice-circuit-stations-01/es-419.md)

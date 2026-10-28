@@ -13,6 +13,5 @@ Vir iemand wat kies vir [selfbewaring](https://curriculum.myfirstbitcoin.org/lex
 [Selfbewaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) is dus nie bloot ’n tegniese kenmerk nie. Dit vereis die beskerming van rugsteunkopieë, die verifiëring van adresse, die nagaan van die Beursie se werking en die opstel van ’n herstelplan. Die volgende module verduidelik hoe om bitcoin versigtig te bewaar en te gebruik, insluitend hoe om hierdie risiko’s en verantwoordelikhede te bestuur.
 
 
-> **Light**
->
+<!-- card: light -->
 > Persoonlike verantwoordelikheid beteken nie dat u alleen moet optree of hulp moet weier nie. ’n Versigtige leerder kan van opleiding, ewekniebeoordeling, gedokumenteerde prosedures en klein toetse gebruik maak sonder om enigiemand toegang tot geheime inligting te gee.

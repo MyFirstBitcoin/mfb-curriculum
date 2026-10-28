@@ -3,8 +3,7 @@
 Học phần này tập trung vào những bước đầu an toàn, chứ không phải trở thành chuyên gia hay chấp nhận rủi ro tài chính. Quý vị sẽ thực hành với các mô phỏng được chuẩn bị sẵn, môi trường thử nghiệm, ví thực hành hoặc một hoạt động thực tế có mức rủi ro thấp nếu giảng viên đánh giá là phù hợp.
 
 
-> **Dark**
->
+<!-- card: dark -->
 > Quý vị không cần mua hay có được bitcoin bằng bất kỳ cách nào khác, cũng không cần dùng tiền cá nhân, để hoàn thành chương trình Văn bằng Bitcoin.
 
 

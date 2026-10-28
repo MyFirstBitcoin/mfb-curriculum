@@ -14,6 +14,7 @@ Pri primerjavi [cen](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) se
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Tabela z dvema stolpcema: 1 BTC je 100.000.000 sats, 0,1 BTC je 10.000.000 sats, 0,01 BTC je 1.000.000 sats, 0,001 BTC je 100.000 sats in 0,00000001 BTC je 1 sat.](/micrographics/bitcoin-and-sats-01/sl.md)
 
 
 **Pokažite svoje razumevanje:** Koliko [satov](https://curriculum.myfirstbitcoin.org/lexicon/en/#satoshi) je v 0,01 BTC? Zakaj [cena](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) enega celega bitcoina posamezniku ne preprečuje uporabe manjšega zneska?

@@ -1,4 +1,4 @@
-# 1.10 Perché il dollaro statunitense è una valuta di riserva mondiale?
+# 1.10 Perché il dollaro statunitense è una valuta di riserva mondiale
 
 Una **valuta [di riserva](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency)** è una [valuta](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) che [le banche centrali](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) e i governi detengono e utilizzano per i pagamenti internazionali. Prima della Prima guerra mondiale era soprattutto la sterlina britannica a svolgere questo ruolo. La guerra indebolì le [valute](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) e i centri finanziari europei, mentre gli Stati Uniti fornivano merci e accumulavano [oro](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold). Ciò aumentò l'uso internazionale del dollaro.
 

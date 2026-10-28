@@ -21,6 +21,7 @@
 
 
 <!-- micrographic: two-completion-gates-01 -->
+[理論のコンピテンシーC1〜C5と実践のコンピテンシーC6およびC7は、修了証が発行される前に、それぞれ「はい」の評価を受ける必要があります。「まだ」の場合は、さらに実践を重ねて再評価を受けます。出席や振り返りは、どちらの関門の代わりにもなりません。](/micrographics/two-completion-gates-01/ja.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/2783871f5851cf80c2e6e2a93eeb911607939507-1536x1024.svg)

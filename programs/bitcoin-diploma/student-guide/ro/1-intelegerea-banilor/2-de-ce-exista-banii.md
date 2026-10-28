@@ -5,6 +5,7 @@ Oamenii au abilități, resurse, nevoi și planuri diferite. Schimbul le permite
 Schimbul direct este adesea dificil. Persoana care are ceea ce vă trebuie s-ar putea să nu dorească ceea ce oferiți. Banii rezolvă această problemă de coordonare.
 
 
+<!-- card: definition -->
 > **Definition – Banii**
 >
 > Banii sunt un [activ](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) pe care oamenii îl acceptă deoarece se așteaptă ca și alții să îl accepte mai târziu. Banii ajută persoane care nu se cunosc să coordoneze schimburile, să înregistreze [prețuri](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) și [datorii](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt) și să transfere [valoare](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) în timp și la distanță.

@@ -3,6 +3,7 @@
 A személyi számítógépek és az internet elterjedése új kommunikációs lehetőségeket teremtett. Emellett a megfigyelés és az ellenőrzés új formáit is létrehozta. A huszadik század végén programozók, matematikusok és aktivisták egy csoportja, a [**Cypherpunks**](https://curriculum.myfirstbitcoin.org/lexicon/en/#cypherpunk) azt vizsgálta, hogy a [kriptográfia](https://curriculum.myfirstbitcoin.org/lexicon/en/#cryptography) miként védheti a [magánszférát](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy) és az egyéni szabadságot a digitális rendszerekben.
 
 
+<!-- card: definition -->
 > **Definition – Kriptográfia**
 >
 > [A kriptográfia](https://curriculum.myfirstbitcoin.org/lexicon/en/#cryptography) matematikai módszerekkel védi az információkat és igazolja egy művelet hitelességét. [A titkosítás](https://curriculum.myfirstbitcoin.org/lexicon/en/#encryption) biztosíthatja egy üzenet bizalmasságát. [A digitális aláírások](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) igazolhatják, hogy egy üzenet vagy utasítás egy titkos kulcs birtokosától származik, anélkül, hogy magát a kulcsot felfednék.
@@ -16,3 +17,4 @@ A Bitcoin sok ember több évtizedes munkájára épült. Felépítése új mód
 
 
 <!-- micrographic: chain-of-ideas-01 -->
+[Ötletek láncolata: a kriptográfia a digitális készpénz kutatásához vezetett, amely a decentralizált digitális pénz felé mutatott. A Bitcoin új módon kapcsolta össze sok ember több évtizedes korábbi munkáját.](/micrographics/chain-of-ideas-01/hu.md)

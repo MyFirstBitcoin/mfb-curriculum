@@ -1,4 +1,4 @@
-# 1.10 Kodėl JAV doleris yra pasaulinė rezervinė valiuta?
+# 1.10 Kodėl JAV doleris yra pasaulinė rezervinė valiuta
 
 Viena **rezervinė [valiuta](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency)** yra [valiuta](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency), kurią [centriniai bankai](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) ir vyriausybės laiko ir naudoja tarptautiniams mokėjimams. Iki Pirmojo pasaulinio karo šį vaidmenį daugiausia atliko Didžiosios Britanijos svaras. Karas susilpnino Europos [valiutas](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) ir finansų centrus, o Jungtinės Valstijos tiekė prekes ir kaupė [auksą](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold). Tai paskatino platesnį dolerio naudojimą tarptautiniu mastu.
 

@@ -3,6 +3,7 @@
 Bayanan dijital galibi suna da sauƙin kwafewa.
 
 
+<!-- card: definition -->
 > **Definition – Ƙaranci a tsarin dijital**
 >
 > A tsarin dijital, [ƙaranci](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) yana nufin cewa tsarin zai iya bambance sahihin raka'a da kwafin da ba shi da inganci, kuma ya hana kashe raka'a ɗaya sau biyu.
@@ -14,6 +15,7 @@ A tsarin dijital, Bitcoin yana samar da [ƙaranci](https://curriculum.myfirstbit
 
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Mai fitar da kuɗi zai iya sauya iyakar adadin kuɗin da aka rubuta a shafin yanar gizo ko a ma'ajiyar bayanansa ba tare da kowa ya sani ba. Ƙa'idar adadin kuɗin da ake samarwa a Bitcoin tana a bayyane, kuma sa hannu, tarihin da ke a bayyane, hujjar aiki da tantancewar na'urorin hanyar sadarwa suna aiki tare don hana ƙirƙirar sababbin kuɗi ko kashe bitcoin ɗaya sau biyu.](/micrographics/claimed-or-verified-supply-01/ha.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)

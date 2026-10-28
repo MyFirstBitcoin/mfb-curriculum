@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: self-custody-responsibilities-01 -->
+[Controlul cheilor se află în centrul a opt responsabilități: realizarea copiilor de siguranță, recuperarea, primirea, trimiterea, alegerea instrumentelor, metoda de achiziție, confidențialitatea și verificarea tentativelor de înșelăciune. Fiecare protejează ceva, iar o greșeală în oricare dintre ele poate duce la pierderea accesului, a banilor sau a confidențialității.](/micrographics/self-custody-responsibilities-01/ro.md)
 
 
 
 <!-- micrographic: responsibility-checks-01 -->
+[Un tabel cu șase sarcini legate de autocustodie, ce trebuie protejat sau verificat pentru fiecare și ce se poate întâmpla dacă ceva nu merge bine: copie de siguranță, primire, trimitere, custodie, alegerea instrumentului și achiziție.](/micrographics/responsibility-checks-01/ro.md)
 
 
 Imaginați-vă că un prieten vă trimite o cerere de plată, în timp ce un cont de asistență necunoscut vă spune că trebuie să acționați imediat. Ce ați putea verifica înainte de a face ceva? Puteți să protejați un plan de recuperare, să deosebiți informațiile pentru primirea plăților de cele secrete și să verificați persoana, metoda de plată, destinația, suma și ecranul final înainte de a trimite? Indiferent dacă un serviciu sau dumneavoastră controlați cheile, recomandările practice rămân aceleași: protejați informațiile secrete, verificați înainte de a aproba, recunoașteți semnalele de fraudă și limitați consecințele greșelilor în timp ce învățați.

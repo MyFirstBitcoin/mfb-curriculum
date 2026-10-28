@@ -10,6 +10,7 @@ Vẽ một bảng cân đối kế toán đơn giản:
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Quy trình cho vay ngân hàng được đơn giản hóa: người vay đăng ký vay, ngân hàng phê duyệt khoản vay và ghi có một khoản tiền gửi mới vào tài khoản của người vay, sau đó người vay hoàn trả cho ngân hàng cả tiền gốc lẫn tiền lãi.](/micrographics/bank-loan-deposit-01/vi.md)
 
 
 Không sử dụng câu chuyện về “số nhân tiền tệ” dựa trên việc gửi đi gửi lại tiền mặt như thể câu chuyện đó mô tả cách vận hành máy móc của mọi hệ thống ngân hàng hiện đại.
@@ -21,6 +22,7 @@ Phân biệt:
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Rủi ro thanh khoản: nhiều người gửi tiền xếp hàng rút tiền hôm nay, và ngân hàng hiện không có đủ tiền mặt dù các khoản cho vay của ngân hàng có thể được hoàn trả sau này. Rủi ro mất khả năng thanh toán: người vay không trả được nợ vay mua nhà, và giá trị tài sản của ngân hàng trở nên thấp hơn số tiền ngân hàng đang nợ.](/micrographics/liquidity-vs-solvency-01/vi.md)
 
 
 Đặt câu hỏi:

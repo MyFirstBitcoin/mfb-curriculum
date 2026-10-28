@@ -22,7 +22,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.7 | [Παραστατικό χρήμα](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/1/7.md) |
 |  | 1.8 | [Τραπεζικό σύστημα κλασματικών αποθεματικών](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/1/8.md) |
 |  | 1.9 | [Πληθωρισμός και αγοραστική δύναμη](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/1/9.md) |
-|  | 1.10 | [Γιατί το δολάριο ΗΠΑ είναι παγκόσμιο αποθεματικό νόμισμα;](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/1/10.md) |
+|  | 1.10 | [Γιατί το δολάριο ΗΠΑ είναι παγκόσμιο αποθεματικό νόμισμα](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/1/10.md) |
 |  | 1.11 | [Εναλλακτικές για αποταμίευση και διατήρηση της αξίας](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/1/11.md) |
 |  | 1.12 | [Ψηφιακά Νομίσματα Κεντρικών Τραπεζών (CBDCs)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/1/12-cbdcs.md) |
 |  | 1.13 | [Ανασκόπηση: Πώς μπορεί να χαλάσει το χρήμα;](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/el/1/13.md) |

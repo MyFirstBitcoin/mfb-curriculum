@@ -12,6 +12,7 @@ Bij ontvangen geeft u geen toestemming om geld uit uw wallet te laten vertrekken
 
 
 <!-- micrographic: check-what-you-receive-01 -->
+[Een voorbeeld van een ontvangstscherm op een telefoon toont de betaalmethode, het betaalverzoek om te delen, het bedrag en de status 'in afwachting'. Een bericht of screenshot met "verzonden" is geen bewijs: controleer de status in uw eigen Wallet.](/micrographics/check-what-you-receive-01/nl.md)
 
 
 Een bericht of screenshot met de tekst ‘verzonden’ is geen bewijs. Welk bewijs kunt u zelf zien? Controleer de ontvangende wallet of het goedgekeurde [transactie](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction)overzicht. Bij [on-chainbetalingen](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment) kan een wallet de [transactie](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) eerst als in behandeling weergeven. [Bevestigings](https://curriculum.myfirstbitcoin.org/lexicon/en/#confirmation)status geeft meer zekerheid over de afwikkeling; het herstelt geen verkeerd adres of oplichting. Een wallet kan een nieuw adres aanbieden voor een nieuwe ontvangst; oudere adressen kunnen nog steeds werken, maar het hergebruiken van één adres kan het gemakkelijker maken om afzonderlijke betalingen aan elkaar te koppelen. Een nieuw adres maakt die koppeling minder eenvoudig; het maakt een betaling niet anoniem.

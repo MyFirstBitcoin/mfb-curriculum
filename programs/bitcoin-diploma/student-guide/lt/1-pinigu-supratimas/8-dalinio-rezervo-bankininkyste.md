@@ -6,11 +6,13 @@ Kai komercinis bankas patvirtina paskolą, jis paprastai sukuria naują indėlį
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Supaprastinta banko paskolos schema: paskolos gavėjas pateikia paraišką, bankas patvirtina paskolą ir į paskolos gavėjo sąskaitą įskaito naują indėlį, o vėliau paskolos gavėjas grąžina bankui pagrindinę paskolos sumą ir sumoka palūkanas.](/micrographics/bank-loan-deposit-01/lt.md)
 
 
 Bankai paprastai siekia [pelno](https://curriculum.myfirstbitcoin.org/lexicon/en/#bank-profit) uždirbdami palūkanas ir mokesčius už paskolas bei investicijas, kartu padengdami veiklos, finansavimo ir reguliavimo reikalavimų laikymosi sąnaudas bei prisiimdami nuostolius, kai paskolų gavėjai negrąžina paskolų. Ši veikla ir apribojimai skiriasi priklausomai nuo banko ir jurisdikcijos.
 
 
+<!-- card: definition -->
 > **Definition – Dalinių atsargų bankininkystė**
 >
 > [Dalinių atsargų bankininkystė](https://curriculum.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking) apibūdina bankininkystę, kai bankai tik dalį savo įsipareigojimų indėlininkams dengia iš karto prieinamomis atsargomis, kartu teikdami paskolas ir laikydami kitą [turtą](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset). Privalomųjų atsargų lygis ir kiti apribojimai skirtingose šalyse skiriasi ir laikui bėgant gali keistis.
@@ -23,6 +25,7 @@ Dėl to kyla dvi svarbios rizikos:
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Likvidumo rizika: daug indėlininkų šiandien stoja į eilę atsiimti pinigų, o bankui dabar nepakanka grynųjų pinigų, nors jo suteiktos paskolos gali būti grąžintos vėliau. Mokumo rizika: paskolų gavėjai nebevykdo būsto paskolų įsipareigojimų, o banko turto vertė tampa mažesnė už jo įsipareigojimus.](/micrographics/liquidity-vs-solvency-01/lt.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)

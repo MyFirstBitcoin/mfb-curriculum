@@ -4,6 +4,7 @@ Ihmiset etsivät usein vaihtoehtoja käteisen hallussapidolle, kun he uskovat se
 
 
 <!-- micrographic: saving-alternatives-table-01 -->
+[Taulukko kolmesta vaihtoehdosta käteisen hallussapidolle (jalometallit, kiinteistöt ja osakkeet). Kunkin kohdalla kerrotaan, miksi ihmiset saattavat valita sen ja mitkä ovat sen keskeiset haittapuolet. Mitään vaihtoehtoa ei aseteta muiden edelle.](/micrographics/saving-alternatives-table-01/fi.md)
 
 
 Yksittäinen [omaisuuserä](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) on jotakin, jonka henkilö voi omistaa tai johon hänellä voi olla oikeus ja jolla voi olla [arvoa](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); se ei automaattisesti täytä kaikkia rahan tehtäviä. Asunto voi säilyttää [arvoa](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) mutta ei ole käytännöllinen ruoan ostamiseen. Osake voi olla helppo myydä yhdessä maassa, mutta se ei välttämättä ole sellaisen henkilön saatavilla, jolla ei ole arvopaperitiliä. [Kulta](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) on toiminut rahana pitkinä ajanjaksoina historiassa, mutta sen aitouden varmistaminen tai sen jakaminen osiin voi olla vaikeaa pienessä vaihtokaupassa.

@@ -7,8 +7,7 @@ Stel bij het vergelijken van een [digitaal bezit](https://curriculum.myfirstbitc
 De onderstaande vergelijking onderscheidt categorieën en ontwerpkeuzes. Ze is geen goedkeuring, geen aanbeveling en geen bewering dat enig [bezit](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) veilig, betrouwbaar of geschikt voor u is.
 
 
-> **Dark**
->
+<!-- card: dark -->
 > Oplichting, misleidende beweringen en onveilige diensten kunnen elk [digitaal bezit](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-asset) of elke betaalroute treffen. Controleer het specifieke [bezit](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset), de specifieke dienst en de regeling voor [bewaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), in plaats van aan te nemen dat een categorie op zichzelf veilig of onveilig is.
 
 

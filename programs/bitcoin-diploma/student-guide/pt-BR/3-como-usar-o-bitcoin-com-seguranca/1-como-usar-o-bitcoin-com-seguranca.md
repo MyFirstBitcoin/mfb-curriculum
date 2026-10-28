@@ -3,8 +3,7 @@
 Este módulo trata de primeiras ações seguras, e não de se tornar um especialista ou assumir riscos financeiros. Você vai praticar com simulações preparadas, ambientes de teste, carteiras de treinamento ou, quando seu educador julgar apropriado, uma atividade real de baixo risco.
 
 
-> **Dark**
->
+<!-- card: dark -->
 > Você não precisa comprar nem adquirir bitcoin de outra forma, nem usar recursos pessoais, para concluir o Bitcoin Diploma.
 
 

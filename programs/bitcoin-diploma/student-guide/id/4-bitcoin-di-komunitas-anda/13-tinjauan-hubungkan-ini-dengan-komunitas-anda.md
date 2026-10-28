@@ -1,10 +1,12 @@
 # 4.13 Tinjauan: Hubungkan Ini dengan Komunitas Anda
 
 <!-- micrographic: community-review-path-01 -->
+[Alur peninjauan contoh penggunaan Bitcoin setempat: mulai dari kebutuhan nyata, periksa apakah Bitcoin sesuai, lalu tinjau metode pembayaran, kustodi, biaya total, keamanan dan kondisi setempat, serta akhiri dengan bukti keberhasilan.](/micrographics/community-review-path-01/id.md)
 
 
 
 <!-- micrographic: community-review-table-01 -->
+[Tabel tinjauan untuk contoh setempat: untuk setiap topik, mulai dari kebutuhan nyata hingga langkah selanjutnya yang bertanggung jawab, tersedia pertanyaan untuk diajukan dan ruang opsional untuk catatan Anda sendiri.](/micrographics/community-review-table-01/id.md)
 
 
 Selesaikan tinjauan ini secara mandiri, lalu bandingkan penalaran Anda dengan tim atau kelompok belajar Anda. Pertimbangkan contoh lokal yang Anda pelajari: kebutuhan nyata apa yang dipenuhi, fungsi uang mana yang terlibat, dan apakah [nilai](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) dipindahkan secara on-chain, melalui Lightning, atau keduanya? Tanyakan siapa yang mengendalikan kunci, apa manfaat terbesar dan risiko paling seriusnya, serta bagaimana hukum, infrastruktur, bahasa, atau budaya setempat memengaruhi hasilnya. Langkah lanjutan yang bertanggung jawab adalah langkah yang sesuai dengan konteks lokal, memperjelas biaya dan [kustodi](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), membatasi kesalahan dan penipuan, serta dapat dievaluasi berdasarkan bukti.

@@ -4,6 +4,7 @@ Stanna upp och fundera över hur offentliga regler, begränsad utgivning, överf
 
 
 <!-- micrographic: bitcoin-responses-tradeoffs-01 -->
+[En tabell som kopplar fem möjliga svagheter i moderna penningsystem till Bitcoins svar och det nya ansvar eller den avvägning som varje svar medför. Bitcoin ersätter en del av tilliten till institutioner med verifiering och personligt ansvar, men eliminerar inte risk.](/micrographics/bitcoin-responses-tradeoffs-01/sv.md)
 
 
 **Viktig tankeställare:** Utifrån det ni har lärt er om Bitcoin i den här modulen, har det något [värde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) för er? Återspeglar det nuvarande [priset](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) på bitcoin dess [värde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value)?

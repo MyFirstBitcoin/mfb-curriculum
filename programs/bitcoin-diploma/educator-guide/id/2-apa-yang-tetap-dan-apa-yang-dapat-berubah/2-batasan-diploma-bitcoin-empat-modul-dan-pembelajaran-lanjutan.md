@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: four-module-diploma-01 -->
+[Diploma Bitcoin mengikuti empat tahap secara berurutan: Masalah, Solusi, Tindakan, dan Terhubung.](/micrographics/four-module-diploma-01/id.md)
 
 
 **Modul 4** merupakan pembelajaran wajib dalam Diploma Bitcoin, yang dikurasi oleh pendidik sebagai ahli materi setempat. Skenario atau alat dapat berubah, tetapi setiap peserta didik yang ingin memperoleh sertifikasi harus memenuhi `C7` melalui kegiatan setempat yang mencakup tujuan `C7.1` dan `C7.2`.

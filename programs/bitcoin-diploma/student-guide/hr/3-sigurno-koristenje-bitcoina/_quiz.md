@@ -1,6 +1,6 @@
-# Quiz – Sigurno korištenje Bitcoina: kratka provjera
+# Quiz – Sigurna upotreba Bitcoina: kratka provjera
 
-## Question 1
+## Pitanje 1
 
 Bitcoin novčanik:
 
@@ -9,11 +9,11 @@ Bitcoin novčanik:
 * [ ] Uklanja zaštitu tajnih podataka
 * [ ] Poništava transakcije
 
-### Explanation
+### Objašnjenje
 
-Bitcoin je zabilježen u zajedničkoj glavnoj knjizi; novčanik upravlja informacijama koje se koriste za pristup i korištenje Bitcoina. Pogledajte Vodič za polaznike, modul 3, „Novčanici”.
+Bitcoin je zabilježen u zajedničkoj knjizi transakcija; novčanik upravlja informacijama koje se upotrebljavaju za pristup i korištenje. Pogledajte Vodič za učenike, modul 3, „Novčanici”.
 
-## Question 2
+## Pitanje 2
 
 Za primanje bitcoina podijelite:
 
@@ -22,32 +22,32 @@ Za primanje bitcoina podijelite:
 * [x] Adresu za primanje
 * [ ] Lozinku
 
-### Explanation
+### Objašnjenje
 
-Adresu za primanje možete podijeliti radi uplate. Fraze za oporavak, privatni ključevi i lozinke moraju ostati tajni. Pogledajte Vodič za polaznike, modul 3, „Adrese” i „Ključevi”.
+Adresu za primanje možete podijeliti radi primanja uplate. Fraze za oporavak, privatni ključevi i lozinke moraju ostati tajni. Pogledajte Vodič za učenike, modul 3, „Adrese” i „Ključevi”.
 
-## Question 3
+## Pitanje 3
 
 Fraza za oporavak unesena je na internetu. Koji je najsigurniji sljedeći korak?
 
 * [ ] Pričekajte
 * [ ] Pošaljite je korisničkoj podršci
-* [x] Nova fraza za oporavak, zatim prijenos sredstava
+* [x] Izradite novu frazu za oporavak, a zatim prenesite sredstva
 * [ ] Ponovno upotrijebite istu frazu za oporavak
 
-### Explanation
+### Objašnjenje
 
-Frazu za oporavak unesenu na internetu smatrajte kompromitiranom. Izradite novi novčanik s novom frazom za oporavak, a zatim prenesite sredstva tek nakon provjere odredišta. Pogledajte Vodič za polaznike, modul 3, „Fraze za oporavak”.
+Frazu za oporavak unesenu na internetu smatrajte kompromitiranom. Izradite novi novčanik s novom frazom za oporavak, a zatim prenesite sredstva tek nakon što provjerite odredište. Pogledajte Vodič za učenike, modul 3, „Fraze za oporavak”.
 
-## Question 4
+## Pitanje 4
 
-Koja je razlika između skrbništva i samostalnog skrbništva?
+Koja je glavna razlika između skrbničke i samostalne upotrebe?
 
 * [x] Tko kontrolira ključeve
 * [ ] Mogućnost poništavanja plaćanja
 * [ ] Ograničenje ponude
-* [ ] Odgovornost
+* [ ] Transakcijske naknade
 
-### Explanation
+### Objašnjenje
 
-Korištenje uz skrbništvo i korištenje uz samostalno skrbništvo razlikuju se po tome tko kontrolira ključeve i snosi pripadajuću odgovornost. Nijedan način ne jamči sigurnost ni mogućnost poništavanja transakcija. Pogledajte Vodič za polaznike, modul 3, „Skrbničko i neskrbničko korištenje”.
+Skrbnička i samostalna upotreba razlikuju se po tome tko kontrolira ključeve i snosi povezanu odgovornost. Nijedna ne jamči sigurnost ni mogućnost poništavanja transakcija. Pogledajte Vodič za učenike, modul 3, „Skrbnička i neskrbnička upotreba”.

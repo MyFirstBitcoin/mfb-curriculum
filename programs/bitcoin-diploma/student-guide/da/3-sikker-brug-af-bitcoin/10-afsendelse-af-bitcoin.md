@@ -5,7 +5,8 @@
 Afsendelse kræver større omhu, fordi en gyldig [Bitcoin-transaktion](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) som regel er vanskelig eller umulig at tilbageføre. Kan De forklare, hvem der vil modtage betalingen og hvorfor, før De trykker på godkendelsesknappen?
 
 
-> **Callout – Stop op og verificér før afsendelse**
+<!-- card: callout -->
+> **Stop op og verificér før afsendelse**
 >
 > Bekræft modtageren, betalingsmetoden, destinationen, beløbet og enheden, gebyret eller udløbstidspunktet samt det sidste skærmbillede. Hvis noget afviger fra den betroede anmodning, eller nogen skaber tidspres eller beder om gendannelsesoplysninger, skal De stoppe op og verificere anmodningen ad uafhængig vej. Foretag en lille testbetaling, når fremgangsmåden er ukendt.
 
@@ -21,6 +22,7 @@ Afsendelse kræver større omhu, fordi en gyldig [Bitcoin-transaktion](https://c
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Før afsenderen godkender en betaling, kontrollerer vedkommende modtageren og formålet, betalingsmetoden, destinationen samt beløb, enhed, gebyr eller udløbstidspunkt og foretager en lille test, hvis fremgangsmåden er ukendt. Hvis noget afviger, stopper afsenderen og kontrollerer det; vedkommende godkender kun, når alt stemmer overens, og kontrollerer derefter resultatet.](/micrographics/pre-send-checklist-01/da.md)
 
 
 Ved en [on-chain-betaling](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), bliver **netværksgebyret** betalt for at inkludere [transaktionen](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) i en blok. Det afhænger primært af [transaktionens](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) data og efterspørgslen efter [blokplads](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-space), ikke blot af det beløb, der sendes. Gebyroverslag og tidsrammer kan ændre sig, så læs den endelige oversigt frem for at antage, at en betaling på et lille beløb har et lavt gebyr.

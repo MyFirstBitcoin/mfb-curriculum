@@ -13,6 +13,7 @@ Vertaisverkko ei tarkoita, että vain kaksi tietokonetta viestii suoraan kesken�
 
 
 <!-- micrographic: powers-and-limits-01 -->
+[Käyttäjillä, solmuilla, louhijoilla, kehittäjillä ja palveluilla on kullakin jonkin verran valtaa Bitcoinin yhteisiin sääntöihin ja julkiseen tilikirjaan, mutta mikään näistä ryhmistä ei voi yksin muuttaa tilikirjaa tai kaikkia koskevia sääntöjä.](/micrographics/powers-and-limits-01/fi.md)
 
 
 ![Opettaja selittää taululla esitettyä verkkoa aloittelijoille ja teknisesti suuntautuneille oppijoille osoitinta käyttäen.](https://cdn.sanity.io/images/vje9ehw2/production/3999e88f5f80f010b5cd6238a4fe41d1aed8bdb2-1054x1492.png)

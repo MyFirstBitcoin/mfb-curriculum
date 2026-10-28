@@ -12,6 +12,7 @@
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[현금, 은행 예금, 소매용 CBDC, 비트코인을 발행 주체, 형태, 접근성, 공개 범위, 공급 규칙, 검증 방법 측면에서 비교한 표예요. 디지털이라고 해서 탈중앙화된 것은 아니에요. CBDC는 여전히 중앙은행이 발행하며, 접근성, 공개 범위, 검증 방법은 그 설계에 따라 달라져요.](/micrographics/cbdc-comparison-table-01/ko.md)
 
 
 [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) 설계는 저마다 달라요. 모든 [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc)가 어떤 기능을 갖추고 있다거나 갖추고 있지 않다고 단정하지 마세요. 확인된 현지 설계, 공개된 제안, 논평, 추측을 구분하세요.

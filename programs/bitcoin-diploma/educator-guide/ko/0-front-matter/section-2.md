@@ -21,6 +21,7 @@
 
 
 <!-- micrographic: two-completion-gates-01 -->
+[이론 역량 C1~C5와 실습 역량 C6, C7이 각각 '예'를 받아야 수료증이 발급돼요. '아직'은 추가 실습과 재평가가 필요하다는 뜻이에요. 출석과 성찰은 어느 관문도 대신할 수 없어요.](/micrographics/two-completion-gates-01/ko.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/2783871f5851cf80c2e6e2a93eeb911607939507-1536x1024.svg)

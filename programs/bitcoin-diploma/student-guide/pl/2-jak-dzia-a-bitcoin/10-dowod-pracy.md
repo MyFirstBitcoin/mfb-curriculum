@@ -3,6 +3,7 @@
 ![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
+<!-- card: definition -->
 > **Definition – Dowód pracy**
 >
 > [Dowód pracy](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) to proces, który [górnicy](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) wykorzystują do rywalizacji o prawo do zaproponowania następnego bloku.
@@ -14,6 +15,7 @@ Gdy [górnik](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) znajdzie 
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Górnik wielokrotnie oblicza skrót proponowanego bloku, aż jeden z wyników będzie niższy od wartości docelowej sieci, a następnie rozsyła blok. Węzły szybko sprawdzają dowód i zgodność z każdą regułą, zanim blok dołączy do łańcucha bloków: wykonanie pracy jest kosztowne, a jej weryfikacja — łatwa.](/micrographics/proof-of-work-process-01/pl.md)
 
 
 [Dowód pracy](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) służy kilku celom:

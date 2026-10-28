@@ -12,6 +12,7 @@ Jelaskan bahwa [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) ba
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[Tabel yang membandingkan uang tunai, simpanan bank, CBDC ritel, dan Bitcoin berdasarkan penerbit, bentuk, akses, keterlihatan transaksi, aturan pasokan, dan verifikasinya. Digital tidak sama dengan terdesentralisasi: CBDC tetap diterbitkan oleh bank sentral, dan akses, keterlihatan transaksi, serta verifikasinya bergantung pada desainnya.](/micrographics/cbdc-comparison-table-01/id.md)
 
 
 [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) memiliki desain yang berbeda-beda. Jangan menyatakan bahwa setiap [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) memiliki atau tidak memiliki fitur tertentu. Bedakan antara desain lokal yang telah dikonfirmasi, usulan yang telah dipublikasikan, komentar, dan spekulasi.

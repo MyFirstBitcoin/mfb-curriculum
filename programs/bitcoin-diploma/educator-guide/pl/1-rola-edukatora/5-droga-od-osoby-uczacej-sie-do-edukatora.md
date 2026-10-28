@@ -13,3 +13,4 @@ Proszę przedstawić tę ścieżkę jako dostępną możliwość dalszego rozwoj
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[Opcjonalna ścieżka edukacyjna prowadzi od Wprowadzenia do Bitcoina przez Dyplom z wiedzy o Bitcoinie i Program szkoleniowy dla edukatorów do roli edukatora nauczającego według programu My First Bitcoin oraz dołączenia do Sieci Edukacji o Bitcoinie. Każdy kolejny krok jest wyborem, a nie wymogiem.](/micrographics/learner-journey-pathway-01/pl.md)

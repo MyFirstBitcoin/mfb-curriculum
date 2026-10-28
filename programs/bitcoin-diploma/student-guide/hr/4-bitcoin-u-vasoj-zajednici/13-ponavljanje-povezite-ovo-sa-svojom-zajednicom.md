@@ -1,10 +1,12 @@
 # 4.13 Ponavljanje: Povežite ovo sa svojom zajednicom
 
 <!-- micrographic: community-review-path-01 -->
+[Postupak analize lokalnog primjera primjene Bitcoina: krenite od stvarne potrebe, provjerite je li Bitcoin prikladan, zatim razmotrite način plaćanja, skrbništvo, ukupne troškove, sigurnost i lokalne uvjete te završite dokazima uspjeha.](/micrographics/community-review-path-01/hr.md)
 
 
 
 <!-- micrographic: community-review-table-01 -->
+[Tablica za osvrt na lokalni primjer: za svaku temu, od stvarne potrebe do odgovornog sljedećeg koraka, navedeno je pitanje za razmišljanje i prostor za vlastite bilješke koji možete, ali ne morate ispuniti.](/micrographics/community-review-table-01/hr.md)
 
 
 Samostalno riješite ovaj pregled, a zatim usporedite svoje obrazloženje sa svojim timom ili skupinom polaznika. Razmotrite lokalni primjer koji ste proučavali: na koju je stvarnu potrebu odgovorio, koja je funkcija novca bila uključena i je li [vrijednost](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) prenesena na lancu blokova, putem Lightninga ili na oba načina? Razmotrite tko je imao kontrolu nad ključevima, koja je bila najveća korist, a koji najozbiljniji rizik te kako su lokalni zakoni, infrastruktura, jezik ili kultura utjecali na rezultat. Odgovoran sljedeći korak jest onaj koji odgovara lokalnom kontekstu, jasno objašnjava troškove i [skrbništvo](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), ograničava pogreške i prijevare te se može vrednovati na temelju dokaza.

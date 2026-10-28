@@ -1,5 +1,6 @@
 # 1.12 מטבעות דיגיטליים של בנקים מרכזיים (CBDCs)
 
+<!-- card: definition -->
 > **Definition – מטבע דיגיטלי של בנק מרכזי (CBDC)**
 >
 > מטבע [דיגיטלי של בנק מרכזי](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), או [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), הוא צורה דיגיטלית של [כסף פיאט](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) המונפק בתור [התחייבות](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability) של [בנק מרכזי](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank): זוהי זכות תביעה כלפי [הבנק המרכזי](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) העומדת לרשות המחזיק במטבע. הוא שונה ממזומן פיזי ומפיקדון רגיל בבנק מסחרי, אף שחוויית המשתמש עשויה להיראות דומה.
@@ -13,6 +14,7 @@
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[טבלה המשווה בין מזומן, פיקדונות בנקאיים, מטבע דיגיטלי קמעונאי של בנק מרכזי וביטקוין מבחינת זהות המנפיק, צורתם, הגישה אליהם, נראות התשלומים, כללי ההיצע והאימות. דיגיטלי אינו בהכרח מבוזר: מטבע דיגיטלי של בנק מרכזי עדיין מונפק בידי הבנק המרכזי, והגישה אליו, נראות התשלומים ואופן האימות תלויים באופן תכנונו.](/micrographics/cbdc-comparison-table-01/he.md)
 
 
 דיגיטלי אין פירושו בהכרח מבוזר, נדיר, פרטי או פתוח לאימות עצמאי. [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) עשוי להשתמש בטכנולוגיה דיגיטלית, אך הוא עדיין [כסף פיאט](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) אם [המנפיק](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer) שלו, כללי ההיצע, כללי הגישה והרשאות התשלום נותרים מנוהלים באופן ריכוזי.

@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: daily-bitcoin-uses-01 -->
+[Sewe verskillende maniere waarop Bitcoin in die daaglikse lewe gebruik kan word: verdien, spaar, ontvang, stuur, bestee, skenk, en prysbepaling en rekeningkunde. Elkeen is 'n moontlike gebruik, nie 'n vereiste stap nie.](/micrographics/daily-bitcoin-uses-01/af.md)
 
 
 Bitcoin kan op verskeie maniere as geld funksioneer. Besteding is slegs een daarvan.
@@ -24,7 +25,7 @@ Bitcoin kan op verskeie maniere as geld funksioneer. Besteding is slegs een daar
 
 Vra by enige gebruik drie vrae:
 
-1. Watter bestaande probleem spreek [Bitcoin aan](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) hier?
+1. Watter bestaande probleem spreek Bitcoin aan hier?
 1. Is Bitcoin in hierdie geval beter as die beskikbare alternatief?
 1. Watter nuwe verantwoordelikheid of risiko skep Bitcoin?
 

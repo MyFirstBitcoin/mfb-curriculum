@@ -3,6 +3,7 @@
 Własność bitcoinów jest zabezpieczana za pomocą kluczy kryptograficznych.
 
 
+<!-- card: definition -->
 > **Definition – Klucz prywatny**
 >
 > Taki [klucz prywatny](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) to tajna informacja, która umożliwia portfelowi tworzenie prawidłowych [podpisów cyfrowych](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature). Podpis autoryzuje wydanie bitcoinów kontrolowanych przez odpowiedni klucz. Każdy, kto uzyska [klucz prywatny](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), może zazwyczaj wydać te środki.
@@ -21,10 +22,10 @@ Większość portfeli dla początkujących wykorzystuje [pojedynczy podpis](http
 Żaden rzetelny edukator, firma tworząca portfele, pracownik giełdy, pracownik pomocy technicznej ani deweloper Bitcoina nie potrzebuje Państwa [klucza prywatnego](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) ani [frazy odzyskiwania](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase). Każdego, kto o nie prosi, należy traktować jako zagrożenie.
 
 
-> **Light**
->
+<!-- card: light -->
 > **Ćwiczenie:** Proszę podzielić przygotowane przykłady na trzy grupy: informacje, które można bezpiecznie udostępniać w celu otrzymywania środków, tajne informacje umożliwiające wydawanie środków oraz informacje, które mogą być publiczne, ale powinny pozostać prywatne, gdy są powiązane z konkretną osobą.
 
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[Tajny klucz prywatny, którego nigdy nie wolno udostępniać, służy do uzyskania informacji publicznych, które można udostępniać: wyprowadzonego z niego klucza publicznego oraz utworzonego na tej podstawie adresu do odbioru. Ten sam klucz prywatny służy do tworzenia podpisów, które węzły weryfikują, nigdy nie poznając klucza prywatnego.](/micrographics/private-key-public-info-01/pl.md)

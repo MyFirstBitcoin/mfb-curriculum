@@ -24,6 +24,7 @@ For in-person exchange, use a public and appropriate location, avoid carrying un
 
 
 <!-- micrographic: compare-local-pathways-01 -->
+[A blank table for comparing three local pathways, A, B and C, on name, KYC requirements, custody model, networks supported, reputation and funding methods, with room for notes.](/micrographics/compare-local-pathways-01/en.md)
 
 
 

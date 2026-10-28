@@ -4,6 +4,7 @@ Madalas maghanap ang mga tao ng mga alternatibo sa paghawak ng salaping hawak ka
 
 
 <!-- micrographic: saving-alternatives-table-01 -->
+[Isang talahanayan ng tatlong alternatibo sa paghawak ng salaping hawak (mahahalagang metal, lupa at ari-arian, at mga sapi), kasama ang mga dahilan kung bakit maaaring piliin ng mga tao ang bawat isa at ang mahahalagang kapalit na limitasyon nito. Walang itinuturing na mas mataas kaysa sa iba.](/micrographics/saving-alternatives-table-01/tl.md)
 
 
 Ang isang [ari-arian](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) ay isang bagay na maaaring pagmay-arian o angkinin ng isang tao at maaaring may [halaga](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); hindi nito awtomatikong nagagampanan ang lahat ng tungkulin ng pera. Maaaring mag-imbak ng [halaga](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) ang isang bahay ngunit hindi ito praktikal na gamitin sa pagbili ng pagkain. Maaaring madaling ibenta ang isang sapi sa isang bansa ngunit hindi ito makuha ng isang taong walang account sa isang broker. [Ang ginto](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) ay nagsilbing pera sa mahahabang panahon ng kasaysayan ngunit maaaring mahirap tiyakin ang pagiging tunay nito o hatiin ito sa isang maliit na palitan.

@@ -10,6 +10,7 @@ Vermitteln Sie:
 
 
 <!-- micrographic: bitcoin-issuance-schedule-01 -->
+[Die Blocksubvention beginnt bei 50 bitcoin und halbiert sich alle 210.000 Blöcke, während die Gesamtmenge der ausgegebenen bitcoin auf die Obergrenze von 21 Millionen zusteigt. Transaktionsgebühren werden zusätzlich gezahlt und sind keine neuen bitcoin; eine Preisprognose ist damit nicht verbunden.](/micrographics/bitcoin-issuance-schedule-01/de.md)
 
 
 Die Begrenzung ist eine öffentliche Netzwerkregel, kein Naturgesetz. Jemand kann andere Software schreiben, aber die bestehenden Teilnehmer nicht zwingen, sie zu übernehmen. Eine inkompatible Übernahme kann ein anderes Netzwerk hervorbringen, statt Bitcoin unbemerkt für alle zu verändern.

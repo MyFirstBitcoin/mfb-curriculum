@@ -3,6 +3,7 @@
 Zasady Bitcoina określają przewidywalny [harmonogram emisji](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuance-schedule) i [maksymalną podaż](https://curriculum.myfirstbitcoin.org/lexicon/en/#maximum-supply) wynoszącą 21 milionów bitcoinów (21 000 000 BTC). Nowe bitcoiny trafiają do obiegu poprzez [subsydium blokowe](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-subsidy) wypłacane [górnikom](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) tworzącym prawidłowe bloki.
 
 
+<!-- card: definition -->
 > **Definition – Halving**
 >
 > Co 210 000 bloków subsydium zmniejsza się o połowę. To wydarzenie nazywa się [halvingiem](https://curriculum.myfirstbitcoin.org/lexicon/en/#halving). Ponieważ bloki powstają średnio co około dziesięć minut, [halving](https://curriculum.myfirstbitcoin.org/lexicon/en/#halving) następuje mniej więcej co cztery lata. Dokładna data kalendarzowa nie jest ustalona.
@@ -22,12 +23,14 @@ Subsydium początkowo wynosiło 50 BTC na blok. Jest ono stopniowo zmniejszane o
 
 
 <!-- micrographic: bitcoin-issuance-schedule-01 -->
+[Subwencja blokowa wynosi początkowo 50 bitcoinów i zmniejsza się o połowę co 210 000 bloków, podczas gdy łączna ilość wyemitowanych bitcoinów rośnie, zbliżając się do limitu 21 milionów. Opłaty transakcyjne są wypłacane dodatkowo i nie stanowią nowych bitcoinów; wykres nie sugeruje żadnej prognozy ceny.](/micrographics/bitcoin-issuance-schedule-01/pl.md)
 
 
 Limit 21 milionów jest egzekwowany przez [węzły](https://curriculum.myfirstbitcoin.org/lexicon/en/#node). Jeśli [górnik](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) stworzy więcej bitcoinów, niż pozwalają na to zasady, [węzły walidujące](https://curriculum.myfirstbitcoin.org/lexicon/en/#full-node) odrzucą blok. Programista może napisać inny kod, ale nie może zmusić innych osób do jego uruchomienia.
 
 
-> **Dark – Stała podaż to reguła sieci, a nie obietnica ceny**
+<!-- card: dark -->
+> **Stała podaż to reguła sieci, a nie obietnica ceny**
 >
 > Reguła podaży Bitcoina jest jawna, możliwa do niezależnego zweryfikowania i trudna do zmiany przez pojedynczy podmiot, ponieważ [węzły walidujące](https://curriculum.myfirstbitcoin.org/lexicon/en/#full-node) ją egzekwują. Nie jest to prawo fizyki: pozostaje skuteczna, dopóki uczestnicy nadal ją egzekwują. Ograniczona podaż nie gwarantuje wzrostu rynkowej [ceny](https://curriculum.myfirstbitcoin.org/lexicon/en/#price); [cena](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) zależy również od popytu.
 >
@@ -37,8 +40,7 @@ Limit 21 milionów jest egzekwowany przez [węzły](https://curriculum.myfirstbi
 **Pytanie kontrolne:** Jakie są zalety ograniczonej podaży Bitcoina? Jaki wpływ miałoby zwiększenie podaży Bitcoina na [siłę nabywczą](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power)? Kto odrzuciłby zwiększenie podaży?
 
 
-> **Light**
->
+<!-- card: light -->
 > Skończona podaż nie oznacza też, że każdy bitcoin jest dostępny na sprzedaż; niektóre mogą być przechowywane długoterminowo lub stać się niedostępne z powodu utraty kluczy.
 
 

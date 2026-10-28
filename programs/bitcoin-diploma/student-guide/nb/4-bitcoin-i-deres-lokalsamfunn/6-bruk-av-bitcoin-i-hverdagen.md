@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: daily-bitcoin-uses-01 -->
+[Sju ulike måter Bitcoin kan brukes på i hverdagen: inntjening, sparing, mottak, sending, betaling, donering og prissetting og regnskapsføring. Hver av disse er en mulig bruksmåte, ikke et påkrevd trinn.](/micrographics/daily-bitcoin-uses-01/nb.md)
 
 
 Bitcoin kan fungere som penger på flere måter. Å bruke bitcoin til betaling er bare én av dem.
@@ -24,7 +25,7 @@ Bitcoin kan fungere som penger på flere måter. Å bruke bitcoin til betaling e
 
 Ved enhver bruk bør De stille tre spørsmål:
 
-1. Hvilket eksisterende problem kan [Bitcoin løse](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) her?
+1. Hvilket eksisterende problem kan Bitcoin løse her?
 1. Er Bitcoin bedre enn det tilgjengelige alternativet i dette tilfellet?
 1. Hvilket nytt ansvar eller hvilken ny risiko skaper Bitcoin?
 

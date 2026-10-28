@@ -35,6 +35,7 @@ Zvolte praktický postup, který studující vnímají jako bezpečný a zvládn
 
 
 <!-- micrographic: cohort-capacity-check-01 -->
+[Při plánování výuky pro skupinu vynásobte počet studujících předpokládaným časem na podporu a pozorování každého z nich. Poté přidejte čas na přípravu, zpětnou vazbu, zajištění přístupnosti a opakované hodnocení. Pokud vyučující nemají dostatek času, upravte plán: méně studujících, více vyučujících nebo více času.](/micrographics/cohort-capacity-check-01/cs.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
@@ -57,6 +58,7 @@ Zvolte praktický postup, který studující vnímají jako bezpečný a zvládn
 
 
 <!-- micrographic: task-competency-map-01 -->
+[Teoretické aktivity T1 až T3 poskytují podklady pro hodnocení kompetencí C1 až C5 a praktické postupy P6a, P6b a P7 poskytují podklady pro hodnocení C6 a C7. Každá kompetence pak získá jedno hodnocení Ano nebo Zatím ne.](/micrographics/task-competency-map-01/cs.md)
 
 
 ### Společná pravidla pro podporu, bezpečnost a vedení záznamů
@@ -65,10 +67,12 @@ Zvolte praktický postup, který studující vnímají jako bezpečný a zvládn
 
 
 <!-- micrographic: support-boundary-01 -->
+[Vyučující smí poskytnout povolenou přípravu a podporu přístupnosti a zastavit nebezpečné jednání. Studující však musí samostatně podat hodnocené vysvětlení, vybrat relevantní údaje a učinit požadovaná rozhodnutí nebo určit, jak se mají provést.](/micrographics/support-boundary-01/cs.md)
 
 
 
-> **Callout – Praktické chyby zásadní pro bezpečnost**
+<!-- card: callout -->
+> **Praktické chyby zásadní pro bezpečnost**
 >
 > Zaznamenejte chybu a přerušte úkol, pokud studující odhalí nebo se pokusí sdílet [obnovovací frázi](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), [soukromý klíč](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), heslo nebo zbytečné osobní údaje; pokračuje navzdory známému nesouladu v adrese, faktuře, částce nebo příjemci; naletí zjevnému podvodu nebo naléhavé žádosti, kterou má udržet v tajnosti; nebo obejde požadovaný ověřovací krok. Vlídně vysvětlete důvod, obnovte bezpečné prostředí, procvičujte a hodnocení zopakujte později. Studující si kompetenci teprve osvojuje. Standardně používejte připravené výukové materiály; pokud vyučující zvolí činnost v reálném prostředí s malým finančním rizikem, jasně vysvětlete její rizika a poskytněte rovnocennou variantu bez použití finančních prostředků.
 
@@ -181,3 +185,4 @@ Používejte příklady a materiály k aktivitám, které odpovídají vaší sk
 
 
 <!-- micrographic: reassessment-calibration-moderation-01 -->
+[Souběžně probíhají tři samostatné procesy. Studující s hodnocením „Zatím nesplněno“ dostávají soukromou zpětnou vazbu, procvičují a předkládají nové důkazy; hodnotitelé sjednocují svá měřítka tím, že nezávisle hodnotí ukázky a dohodnou se na interpretaci; vyučující mohou požádat o druhé posouzení, které nikdy nenahrazuje pozorovaný výkon.](/micrographics/reassessment-calibration-moderation-01/cs.md)

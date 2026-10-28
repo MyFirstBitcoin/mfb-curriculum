@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[Pagbabayad sa isang kapihan sa apat na hakbang: umorder ang kostumer, nagpadala ng invoice ang tagapagsilbi, nagbayad ang kostumer gamit ang bitcoin mula sa kaniyang telepono, at iniabot ng tagapagsilbi ang kape.](/micrographics/coffee-shop-payment-01/tl.md)
 
 
 Gumamit ng mga produkto at serbisyong pamilyar sa inyong lugar. Hindi mahalaga kung ano mismo ang produkto; ang mahalaga ay ang pangangatwiran sa pagpili ng paraan ng pagbabayad.

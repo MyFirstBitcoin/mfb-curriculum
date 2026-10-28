@@ -40,7 +40,8 @@ Non guadagnarlo, non spenderlo, ma riflettere su che cosa sia e su come funzioni
 * Il Suo denaro compra la stessa quantità di prima?
 
 
-> **Callout – Conservi le Sue risposte**
+<!-- card: callout -->
+> **Conservi le Sue risposte**
 >
 > Scriva una breve risposta a ciascuna domanda. Ci tornerà alla fine.
 
@@ -85,6 +86,7 @@ Entrambe le persone devono desiderare ciò che l'altra possiede, nello stesso mo
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina ha del riso e vuole delle scarpe, Luis ha delle scarpe e vuole dell'olio da cucina, e Mei ha dell'olio da cucina e vuole dei lavori di riparazione. Nessuna coppia può scambiare direttamente, perché in ogni coppia nessuno dei due vuole ciò che l'altro offre.](/micrographics/barter-mismatch-01/it.md)
 
 <!-- notes: Utilizzi l'esempio della guida: Lei coltiva riso e ha bisogno di scarpe, ma il calzolaio vuole olio da cucina, non riso. Gli economisti chiamano questo fenomeno doppia coincidenza dei bisogni. -->
 
@@ -151,6 +153,7 @@ Quando le persone sentono la parola inflazione, di solito pensano all'aumento de
 ## Inflazione e potere d'acquisto
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Le stesse 100 unità di valuta permettono di acquistare l'intero paniere di beni di prima necessità quando costa 100, ma non quando lo stesso paniere costa 110. Il livello dei prezzi è aumentato e il potere d'acquisto del denaro è diminuito.](/micrographics/same-money-smaller-basket-01/it.md)
 
 <!-- notes: L'inflazione dei prezzi è un aumento persistente del livello generale dei prezzi. Il suo rovescio è il potere d'acquisto: quanto si può acquistare con un'unità di moneta. Se un paniere di beni di prima necessità passa da 100 a 110 unità di valuta, le stesse 100 unità non bastano più per acquistare l'intero paniere. -->
 
@@ -213,8 +216,7 @@ Un saldo bancario è diverso dal contante che ha in mano: è la promessa della b
 * Ma la sua offerta e le sue regole possono cambiare, e chi la utilizza ha poca voce in capitolo
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Ecco perché le persone cercano alternative, ed ecco perché è nato Bitcoin.
 
 ---
@@ -233,6 +235,7 @@ Denaro digitale decentralizzato, con un'offerta limitata, che può essere inviat
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Con una società di pagamento, un'unica organizzazione tiene il registro e approva ogni trasferimento. Con Bitcoin, il mittente firma una transazione, nodi indipendenti la verificano e i miner la aggiungono a un unico registro condiviso, così il destinatario dipende meno da un'autorità centrale.](/micrographics/central-ledger-vs-bitcoin-01/it.md)
 
 <!-- notes: Prima di Bitcoin, inviare denaro online dipendeva sempre da un'organizzazione fidata: una banca o una società di pagamento che teneva il registro contabile, approvava i conti e poteva ritardare, bloccare o annullare un pagamento. L'informazione digitale è facile da copiare: se una moneta digitale potesse essere spesa due volte, non potrebbe funzionare come denaro. Questo è il problema della doppia spesa. Satoshi Nakamoto è una persona o un gruppo che usa questo nome. -->
 
@@ -253,6 +256,7 @@ Nessuna azienda può congelare i bitcoin che Lei controlla personalmente. L'altr
 ## Un limite che chiunque può verificare
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Un limite all'offerta scritto su un sito web o nel database di un emittente può essere modificato di nascosto da quell'emittente. La regola sull'offerta di Bitcoin è pubblica, e firme, uno storico pubblico, la proof of work e la verifica dei nodi impediscono insieme che vengano create nuove monete dal nulla o che lo stesso bitcoin venga speso due volte.](/micrographics/claimed-or-verified-supply-01/it.md)
 
 <!-- notes: I nuovi bitcoin vengono emessi secondo un calendario pubblico, e computer indipendenti chiamati nodi rifiutano qualsiasi blocco che violi questa regola. Il limite è credibile perché chiunque può verificarlo. Non è una legge di natura: regge perché i partecipanti continuano a farlo rispettare. Un'offerta limitata non garantisce che il prezzo salga; il prezzo dipende dalla domanda oltre che dall'offerta. -->
 
@@ -264,6 +268,7 @@ Un bitcoin si divide in 100.000.000 di unità più piccole chiamate satoshi, o s
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Una tabella a due colonne: 1 BTC equivale a 100.000.000 sats, 0,1 BTC equivale a 10.000.000 sats, 0,01 BTC equivale a 1.000.000 sats, 0,001 BTC equivale a 100.000 sats e 0,00000001 BTC equivale a 1 sat.](/micrographics/bitcoin-and-sats-01/it.md)
 
 <!-- notes: Possedere 100.000 sats e possedere 0,001 bitcoin corrispondono alla stessa quantità. Affronti il malinteso secondo cui Bitcoin sarebbe fuori portata perché un bitcoin costa molto. -->
 
@@ -272,6 +277,7 @@ Un bitcoin si divide in 100.000.000 di unità più piccole chiamate satoshi, o s
 ## Chi mantiene in funzione Bitcoin?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Quattro ruoli in Bitcoin: gli utenti ricevono, conservano e inviano bitcoin, i nodi verificano le regole in modo indipendente, i miner costruiscono i blocchi candidati con la proof of work e gli sviluppatori propongono software. Nessun singolo ruolo controlla la rete.](/micrographics/bitcoin-participant-roles-01/it.md)
 
 <!-- notes: Gli utenti inviano, ricevono e detengono bitcoin; i nodi verificano ogni transazione e ogni blocco rispetto alle regole; i miner competono per aggiungere un nuovo blocco al registro circa ogni dieci minuti. Quel registro, la blockchain, è pubblico e molto costoso da riscrivere. Una nota sulla grafia: Bitcoin con la B maiuscola indica di solito la rete o il sistema; bitcoin con la b minuscola indica la moneta stessa. -->
 
@@ -307,6 +313,7 @@ La prima domanda da porsi su qualsiasi wallet: chi controlla le chiavi?
 ## Un wallet gestisce le chiavi
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Un wallet custodisce le chiavi. Con esse Lei può ricevere e inviare bitcoin, mentre i bitcoin stessi restano registrati sul registro condiviso, non all'interno del telefono o del dispositivo.](/micrographics/wallet-manages-keys-01/it.md)
 
 <!-- notes: Un wallet Bitcoin è uno strumento, di solito un'app, che Le permette di ricevere, controllare e inviare bitcoin. I Suoi bitcoin non sono conservati nel Suo telefono: sono registrati sulla blockchain. Il wallet gestisce le chiavi che Le consentono di dimostrare che sono Suoi e di autorizzare un pagamento. -->
 
@@ -331,6 +338,7 @@ Un elenco ordinato di parole, spesso 12 o 24, che può ricreare le Sue chiavi. C
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Una seed phrase è un elenco ordinato di parole, qui dodici parole di esempio numerate scritte su carta. Le parole giuste nell'ordine giusto possono ripristinare il controllo in un wallet compatibile, perciò deve rimanere segreta e offline.](/micrographics/seed-phrase-on-paper-01/it.md)
 
 <!-- notes: La seed phrase non è solo un backup: dà accesso completo. La trascriva con precisione su carta al momento della creazione del wallet; la conservi offline, in modo riservato e in un luogo dove non possa andare persa o danneggiata. Non la fotografi mai, non la invii via e-mail, non la salvi in note sul cloud, non la mandi in un messaggio e non la digiti in un sito web. Le parole mostrate sono solo un esempio; non mostri né raccolga mai una seed phrase reale. -->
 
@@ -365,6 +373,7 @@ Un elenco ordinato di parole, spesso 12 o 24, che può ricreare le Sue chiavi. C
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[I pagamenti on-chain sono registrati direttamente nella blockchain di Bitcoin, mentre Lightning è una rete di pagamento costruita su Bitcoin per pagamenti rapidi e frequenti, che possono però anche fallire. Entrambe le soluzioni possono essere custodiali o in autocustodia.](/micrographics/on-chain-and-lightning-01/it.md)
 
 ---
 
@@ -375,7 +384,8 @@ Un elenco ordinato di parole, spesso 12 o 24, che può ricreare le Sue chiavi. C
 * **Don't Trust, Verify.** Verifichi la persona, il metodo di pagamento, l'indirizzo e l'importo.
 
 
-> **Callout – Condivida le informazioni per ricevere, mai i segreti**
+<!-- card: callout -->
+> **Condivida le informazioni per ricevere, mai i segreti**
 >
 > Un indirizzo o una richiesta di pagamento possono essere condivisi. Una seed phrase o una chiave privata non devono mai essere condivise. Nessun educatore, nessuna società di wallet e nessun addetto all'assistenza legittimo Gliele chiederà mai.
 
@@ -389,6 +399,7 @@ Si fermi se qualcuno crea urgenza o segretezza, promette rendimenti garantiti, L
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Cinque segnali d'allarme di una truffa: urgenza, furto d'identità, una destinazione modificata, rendimenti garantiti e richieste di segreti.](/micrographics/scam-red-flags-01/it.md)
 
 ---
 
@@ -408,7 +419,8 @@ Questo è solo l'inizio.
 * **Questo è solo l'inizio.** Basta un primo passo sicuro.
 
 
-> **Callout – Un momento di riflessione**
+<!-- card: callout -->
+> **Un momento di riflessione**
 >
 > Torni alle cinque domande dell'inizio. Che cosa risponderebbe ora?
 

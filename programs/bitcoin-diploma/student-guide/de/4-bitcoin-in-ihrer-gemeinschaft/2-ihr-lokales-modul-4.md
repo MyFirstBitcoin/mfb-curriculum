@@ -10,6 +10,7 @@ Ihre lokale Aktivität zu **Modul 4** wird Ihnen helfen:
 
 
 <!-- micrographic: local-module-four-actions-01 -->
+[Im lokalen Modul 4 durchlaufen die Lernenden vier Schritte: eine Idee aus den Modulen 1 bis 3 mit einem lokalen Bedarf verknüpfen, Bitcoin mit einer realistischen bestehenden Alternative vergleichen, unter Anleitung sicher üben und erklären, was sie gelernt haben und was ein verantwortungsvoller nächster Schritt ist. Ihre Lehrkraft und manchmal eine lokale Fachperson begleiten sie dabei durchgehend.](/micrographics/local-module-four-actions-01/de.md)
 
 
 Ihre Aktivität kann beispielsweise folgende Fragen untersuchen:

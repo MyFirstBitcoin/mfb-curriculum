@@ -22,7 +22,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.7 | [ফিয়াট অর্থ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bn/1/7.md) |
 |  | 1.8 | [আংশিক রিজার্ভ ব্যাংকিং](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bn/1/8.md) |
 |  | 1.9 | [মুদ্রাস্ফীতি ও ক্রয়ক্ষমতা](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bn/1/9.md) |
-|  | 1.10 | [মার্কিন ডলার কেন বিশ্বের একটি রিজার্ভ মুদ্রা?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bn/1/10.md) |
+|  | 1.10 | [মার্কিন ডলার কেন বিশ্বের একটি রিজার্ভ মুদ্রা](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bn/1/10.md) |
 |  | 1.11 | [সঞ্চয় ও মূল্য সংরক্ষণের বিকল্পসমূহ](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bn/1/11.md) |
 |  | 1.12 | [কেন্দ্রীয় ব্যাংকের ডিজিটাল মুদ্রা (CBDCs)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bn/1/12-cbdcs.md) |
 |  | 1.13 | [পর্যালোচনা: অর্থ কীভাবে অকার্যকর হয়ে পড়তে পারে?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/bn/1/13.md) |

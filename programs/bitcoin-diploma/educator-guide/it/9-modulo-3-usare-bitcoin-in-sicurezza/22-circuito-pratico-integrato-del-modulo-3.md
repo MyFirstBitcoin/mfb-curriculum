@@ -19,3 +19,4 @@ Non utilizzi le postazioni come valutazione formale a meno che i compiti esatti,
 
 
 <!-- micrographic: practice-circuit-stations-01 -->
+[I partecipanti ruotano tra otto postazioni pratiche: custodia, pubblico o segreto, ricevere, inviare, recupero, explorer, truffa e percorso. Un corridoio di osservazione separato segue un percorso approvato, in modo che l'esercitazione di gruppo non venga mai scambiata per una valutazione formale.](/micrographics/practice-circuit-stations-01/it.md)

@@ -21,6 +21,7 @@ Estas não são notas numéricas. Ambos os componentes precisam ser concluídos,
 
 
 <!-- micrographic: two-completion-gates-01 -->
+[As competências teóricas C1 a C5 e as competências práticas C6 e C7 precisam, cada uma, receber um Sim antes da emissão do certificado de conclusão. Ainda não significa mais prática e reavaliação; frequência e reflexão não substituem nenhuma das etapas.](/micrographics/two-completion-gates-01/pt-BR.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/2783871f5851cf80c2e6e2a93eeb911607939507-1536x1024.svg)

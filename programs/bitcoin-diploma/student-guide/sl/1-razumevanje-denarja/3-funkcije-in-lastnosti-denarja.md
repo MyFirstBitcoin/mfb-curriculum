@@ -14,6 +14,7 @@ Uporaben denar ima običajno tudi več lastnosti:
 
 
 <!-- micrographic: money-property-questions-01 -->
+[Sedem lastnosti uporabnega denarja, vsaka z vprašanjem, ki si ga zastavite pri primerjanju oblik denarja: trajnost, prenosljivost, deljivost, zamenljivost, redkost, sprejemljivost in preverljivost.](/micrographics/money-property-questions-01/sl.md)
 
 
 Nobena oblika denarja ni popolna v vseh pogledih.
@@ -22,6 +23,7 @@ Ljudje denar primerjajo tudi po njegovi [**trdnosti**](https://curriculum.myfirs
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Dve plasti: tri funkcije denarja (menjalno sredstvo, obračunska enota, hranilec vrednosti) temeljijo na sedmih lastnostih (trajnosti, prenosljivosti, deljivosti, zamenljivosti, redkosti, sprejemljivosti in preverljivosti).](/micrographics/functions-and-properties-01/sl.md)
 
 
 [Zlato](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) je obstojno in redko, vendar ga je za manjša plačila težko deliti in prenašati. [Papirnata gotovina](https://curriculum.myfirstbitcoin.org/lexicon/en/#paper-cash) je prenosljiva in sprejeta v lokalnem okolju, vendar se lahko poškoduje, njena ponudba pa se lahko poveča. Najboljša primerjava je odvisna od namena, kraja in časa.

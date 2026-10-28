@@ -8,6 +8,7 @@ Lygiaverčių dalyvių ryšys ne visada reiškia, kad tiesiogiai bendrauja tik d
 
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[Siuntėjas pasirašo sandorį ir išplatina jį daugeliui tinklo mazgų, kurie jį persiunčia toliau, kol jis pasiekia gavėją. Siuntėjui ar gavėjui nereikia jokio centrinio „Bitcoin“ tinklo operatoriaus patvirtinimo.](/micrographics/peer-to-peer-route-01/lt.md)
 
 
 Naudotojai vis tiek gali rinktis [tarpininkus](https://curriculum.myfirstbitcoin.org/lexicon/en/#intermediary). Keitykla gali saugoti klientų bitkoinus. Mokėjimo paslauga gali supaprastinti sąskaitos pateikimą. Paslaugų teikėjo valdoma piniginė gali tvarkyti raktus. Šios paslaugos gali būti patogios, tačiau tuomet naudotojas priklauso nuo paslaugos taisyklių ir saugumo.

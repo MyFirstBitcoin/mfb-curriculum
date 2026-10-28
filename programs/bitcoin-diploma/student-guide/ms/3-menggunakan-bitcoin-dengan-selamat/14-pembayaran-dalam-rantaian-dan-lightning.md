@@ -4,22 +4,26 @@
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Pembayaran dalam rantaian direkodkan secara langsung dalam rantaian blok Bitcoin, manakala Lightning ialah rangkaian pembayaran yang dibina di atas Bitcoin untuk pembayaran pantas dan kerap yang juga boleh gagal. Kedua-dua kaedah ini boleh menggunakan jagaan pihak ketiga atau jagaan kendiri.](/micrographics/on-chain-and-lightning-01/ms.md)
 
 
 
+<!-- card: definition -->
 > **Definition – Pembayaran dalam rantaian dan Lightning**
 >
 > [Pembayaran dalam rantaian](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment) direkodkan dalam [rantaian blok Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#blockchain) dan memperoleh [pengesahan](https://curriculum.myfirstbitcoin.org/lexicon/en/#confirmation). Lightning ialah rangkaian pembayaran yang dibina di atas Bitcoin yang boleh menyokong pembayaran pantas dan kerap. Pembayaran Lightning mungkin selesai dengan cepat atau gagal, dan dompetnya masih boleh berupa dompet jagaan pihak ketiga atau jagaan kendiri.
 
 
 
-> **Dark – Laluan pembayaran tidak menentukan penjagaan**
+<!-- card: dark -->
+> **Laluan pembayaran tidak menentukan penjagaan**
 >
 > Pembayaran dalam rantaian dan Lightning melibatkan pelbagai [kompromi](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Dompet Lightning boleh berupa dompet jagaan pihak ketiga atau jagaan kendiri, dan pembayaran yang berjaya dengan pantas tidak membuktikan bahawa sesuatu perkhidmatan sesuai untuk baki yang lebih besar atau setiap situasi.
 
 
 
 <!-- micrographic: onchain-lightning-table-01 -->
+[Jadual yang membandingkan Bitcoin dalam rantaian dengan Lightning: maklumat penerimaan, hasil pembayaran, kegunaan lazim dan semakan untuk pemula. Kedua-dua kaedah boleh menggunakan penjagaan aset oleh pihak ketiga atau penjagaan aset sendiri.](/micrographics/onchain-lightning-table-01/ms.md)
 
 
 Laluan manakah yang dijangkakan oleh penerima? Sahkan sama ada mereka telah memberikan alamat dalam rantaian atau [invois Lightning](https://curriculum.myfirstbitcoin.org/lexicon/en/#lightning-invoice) atau permintaan sebelum membuat pembayaran. Dompet dalam rantaian tidak boleh membayar setiap [invois Lightning](https://curriculum.myfirstbitcoin.org/lexicon/en/#lightning-invoice) secara langsung, dan dompet Lightning mungkin tidak menyokong setiap tindakan dalam rantaian. Sesetengah aplikasi menyokong kedua-dua laluan tetapi mungkin mengenakan fi tambahan atau menambah kebergantungan pada perkhidmatan. Persediaan Lightning secara terperinci, saluran, penghalaan dan [kecairan](https://curriculum.myfirstbitcoin.org/lexicon/en/#lightning-liquidity) tergolong dalam [Pembelajaran Lanjutan](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/); latihan amali secara langsung di lokasi setempat merupakan sebahagian daripada **Modul 4** apabila selamat dan sesuai.

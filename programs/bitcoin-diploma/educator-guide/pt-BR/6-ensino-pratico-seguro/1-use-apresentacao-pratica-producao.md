@@ -8,6 +8,7 @@
 
 
 <!-- micrographic: presentation-practice-production-01 -->
+[Uma habilidade prática é aprendida em três etapas, da esquerda para a direita: Apresentação, em que o educador mostra o processo e seus riscos; depois, Prática, um ensaio guiado com materiais de treinamento seguros; e, por fim, Produção, em que o aluno conclui uma tarefa ou explica uma decisão de forma independente.](/micrographics/presentation-practice-production-01/pt-BR.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/3d2cf07203a6fd4017e7adbac198e73b190e99cf-1881x836.svg)

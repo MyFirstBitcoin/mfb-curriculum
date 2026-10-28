@@ -13,3 +13,4 @@ Hãy trình bày đây là một lộ trình phát triển mà người học c�
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[Một lộ trình học tập tùy chọn bắt đầu từ Nhập môn Bitcoin đến Văn bằng Bitcoin, tiếp theo là Chương trình đào tạo nhà giáo dục, rồi trở thành nhà giáo dục giảng dạy theo chương trình của My First Bitcoin và tham gia Mạng lưới giáo dục Bitcoin. Mỗi bước tiếp theo đều là một lựa chọn, không phải yêu cầu bắt buộc.](/micrographics/learner-journey-pathway-01/vi.md)

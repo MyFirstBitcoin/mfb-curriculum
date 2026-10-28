@@ -13,6 +13,7 @@ Zeigen Sie die Trennung zwischen:
 
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Eine Wallet verwahrt die Schlüssel. Mit ihnen können Sie bitcoin empfangen und senden, während die bitcoin selbst im gemeinsamen Kassenbuch verzeichnet bleiben, nicht im Telefon oder Gerät.](/micrographics/wallet-manages-keys-01/de.md)
 
 
 Fragen Sie:

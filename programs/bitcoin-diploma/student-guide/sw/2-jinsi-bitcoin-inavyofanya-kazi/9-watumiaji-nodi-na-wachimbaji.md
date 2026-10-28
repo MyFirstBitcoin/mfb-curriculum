@@ -9,6 +9,7 @@ Bitcoin hufanya kazi kwa sababu washiriki tofauti hutekeleza majukumu tofauti.
 
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Majukumu manne katika Bitcoin: watumiaji hupokea, huhifadhi na kutuma bitcoin, nodi huthibitisha kanuni kwa kujitegemea, wachimbaji huunda bloku pendekezwa kwa uthibitisho wa kazi, na wasanidi programu hupendekeza programu. Hakuna jukumu moja linalodhibiti mtandao.](/micrographics/bitcoin-participant-roles-01/sw.md)
 
 
 Majukumu haya hudhibitiana:

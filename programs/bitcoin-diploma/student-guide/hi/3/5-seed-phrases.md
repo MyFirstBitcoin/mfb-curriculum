@@ -1,5 +1,6 @@
 # 3.5 Seed phrases
 
+<!-- card: definition -->
 > **Definition – सीड फ़्रेज़**
 >
 > एक [सीड फ़्रेज़](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), जिसे [रिकवरी फ़्रेज़](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) भी कहा जाता है, शब्दों की एक क्रमबद्ध सूची है, जिसका उपयोग करके कई वॉलेट बनाते और पुनः प्राप्त करते हैं [निजी कुंजियों का एक समूह](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key)। एक [निजी कुंजी](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) धन खर्च करने की अनुमति देती है; [सीड फ़्रेज़](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) आम तौर पर वह बैकअप होता है जिससे वॉलेट की कुंजियाँ दोबारा बनाई जा सकती हैं। इसमें आम तौर पर 12 या 24 शब्द होते हैं, हालाँकि वॉलेट की बनावट अलग-अलग होती है।
@@ -8,13 +9,15 @@
 शब्दों का क्रम और उनकी वर्तनी महत्वपूर्ण हैं। यदि किसी व्यक्ति के पास [सीड फ़्रेज़](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) है, तो वह अक्सर किसी अन्य संगत डिवाइस पर वॉलेट को पुनः स्थापित करके धन खर्च कर सकता है। इसलिए [सीड फ़्रेज़](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) केवल बैकअप नहीं है। यह पूर्ण पहुँच देता है।
 
 
-> **Callout – रिकवरी संबंधी जानकारी कभी साझा न करें**
+<!-- card: callout -->
+> **रिकवरी संबंधी जानकारी कभी साझा न करें**
 >
 > धन प्राप्त करने की सार्वजनिक जानकारी साझा की जा सकती है। एक [निजी कुंजी](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), [सीड फ़्रेज़](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), पासवर्ड या रिकवरी कोड गुप्त रहना चाहिए। किसी भी वैध शिक्षक, वॉलेट कंपनी, एक्सचेंज कर्मचारी, सहायता कर्मी या बिटकॉइन डेवलपर को इसकी आवश्यकता नहीं होती। यदि किसी [सीड फ़्रेज़](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) को किसी ने देखा या कॉपी किया हो सकता है, उसे ऑनलाइन दर्ज किया गया हो सकता है या किसी अविश्वसनीय डिवाइस पर सहेजा गया हो सकता है, तो उसे असुरक्षित मानें और उसे बताए बिना सहायता लें।
 
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[सीड फ़्रेज़ शब्दों की एक क्रमबद्ध सूची होती है; यहाँ कागज़ पर नमूने के तौर पर बारह शब्द क्रमांक सहित लिखे गए हैं। सही क्रम में सही शब्द किसी संगत वॉलेट में नियंत्रण बहाल कर सकते हैं, इसलिए इसे गुप्त और ऑफ़लाइन रखा जाता है।](/micrographics/seed-phrase-on-paper-01/hi.md)
 
 
 सुरक्षित रखें एक [सीड फ़्रेज़](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) को इन नियमों का पालन करके:
@@ -30,6 +33,7 @@
 
 
 <!-- micrographic: seed-phrase-paper-backup-01 -->
+[तीन चरणों में सीड फ़्रेज़ का बैकअप लिखना: वॉलेट की स्क्रीन पर शब्द दिखाई देते हैं, आप उन्हें उसी क्रम में हाथ से कागज़ पर लिखते हैं, फिर हर शब्द का स्क्रीन से मिलान करते हैं। यह काम निजी तौर पर और ऑफ़लाइन करें।](/micrographics/seed-phrase-paper-backup-01/hi.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)

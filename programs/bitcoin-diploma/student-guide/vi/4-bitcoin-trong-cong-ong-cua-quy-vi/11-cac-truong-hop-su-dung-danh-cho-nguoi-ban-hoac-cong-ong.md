@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[Một thương nhân chấp nhận Bitcoin hoạt động trong bốn lĩnh vực: tiếp thị, đào tạo, kế toán và bán hàng.](/micrographics/merchant-payment-operations-01/vi.md)
 
 
 Một đơn vị kinh doanh cần nhiều hơn một nút nhận tiền. Toàn bộ quy trình thanh toán có thể bao gồm định giá, đào tạo nhân viên, biên nhận, hoàn tiền, [lưu ký](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), chuyển đổi, kế toán, thuế, bảo mật thiết bị và hỗ trợ.

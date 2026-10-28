@@ -5,7 +5,8 @@
 Ludzie mogą otrzymywać bitcoiny za pracę, w ramach płatności wewnątrz społeczności, poprzez wymianę z inną osobą, bankomat lub usługę. Każda ścieżka ma inne koszty, [zasady przechowywania środków](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), uwarunkowania dotyczące prywatności, oszustw, prawa i obsługi oraz związane z nimi [kompromisy](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Program Bitcoin Diploma nie poleca żadnego usługodawcy ani nie wskazuje Państwu, którą ścieżkę wybrać.
 
 
-> **Light – Porównanie lokalnych sposobów płatności**
+<!-- card: light -->
+> **Porównanie lokalnych sposobów płatności**
 >
 > Na podstawie przygotowanego scenariusza lokalnego lub fikcyjnego proszę porównać [zasady przechowywania środków](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), całkowity koszt, dane dotyczące tożsamości, limity wypłat, bezpieczeństwo w relacji z kontrahentem i bezpieczeństwo fizyczne oraz aktualne lokalne przepisy. Żadna ścieżka nie jest z założenia najlepsza w każdym miejscu. Ten kurs dostarcza pytań pomocnych przy porównywaniu, a nie rekomendacji usługodawcy czy osobistych porad finansowych.
 
@@ -19,16 +20,19 @@ Ludzie mogą otrzymywać bitcoiny za pracę, w ramach płatności wewnątrz spo�
 Przed porównaniem danej ścieżki proszę zadać pytania:
 
 
-<!-- micrographic: ways-to-receive-bitcoin-01 -->
-
-
-
 <!-- micrographic: exchange-risk-questions-01 -->
+[Sześć obszarów ryzyka, które należy sprawdzić przed nabyciem lub wymianą bitcoinów, wraz z pytaniem dotyczącym każdego z nich: koszty, przechowywanie, tożsamość i prywatność, wypłata i rozliczenie, kontrahent i bezpieczeństwo oraz lokalne uwarunkowania.](/micrographics/exchange-risk-questions-01/pl.md)
+
+
+
+<!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Jedna osoba może otrzymać bitcoiny na cztery różne sposoby: zarabiając je poprzez pracę lub sprzedaż, wymieniając gotówkę w lokalnej walucie z inną osobą, korzystając z giełdy lub brokera albo z bitomatu. Każda z tych dróg kończy się samodzielnym przechowywaniem lub saldem u powiernika i żadna nie jest zalecana bardziej niż pozostałe.](/micrographics/ways-to-receive-bitcoin-01/pl.md)
 
 
 Żadna ścieżka nie jest z założenia najlepsza w każdym miejscu. Lokalne przykłady i wskazówki dotyczące konkretnych usługodawców znajdują się w **module 4**.
 
 
+<!-- card: definition -->
 > **Definition – Poznaj swojego klienta (KYC)**
 >
 > [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) oznacza weryfikację tożsamości, której może wymagać usługodawca podlegający regulacjom. Może ona wspierać odzyskiwanie dostępu do konta lub zapewnianie zgodności z prawem, a jednocześnie tworzy zapis łączący tożsamość z aktywnością finansową. Ścieżki, w których gromadzi się mniej danych dotyczących tożsamości, mogą wiązać się z innymi rodzajami ryzyka dotyczącymi kontrahenta, prawa, bezpieczeństwa, kosztów lub złożoności.

@@ -1,5 +1,6 @@
 # 3.6 Kastodijalno i nekastodijalno korišćenje
 
+<!-- card: definition -->
 > **Definition – Čuvanje sredstava**
 >
 > [Čuvanje sredstava](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) daje odgovor na praktično pitanje: ko kontroliše ključeve potrebne za trošenje bitcoina?
@@ -15,10 +16,12 @@ U **nekastodijalnom** ili **samostalno kontrolisanom** novčaniku, vi kontroliš
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[Kod poverenog čuvanja, pružalac usluge kontroliše ključeve i odobrava trošenje, pa stanje predstavlja njegovo obećanje. Kod samostalnog čuvanja, korisnik kontroliše ključeve i rezervne kopije; oba pristupa imaju zavisnosti i rizike od otkaza.](/micrographics/who-controls-keys-01/sr-Latn.md)
 
 
 
 <!-- micrographic: custody-comparison-table-01 -->
+[Tabela koja poredi korišćenje uz posredničko i samostalno čuvanje: ko čuva ključeve, ko se brine o oporavku i koji je glavni kompromis kod svakog modela. Nijedan model nije bez rizika.](/micrographics/custody-comparison-table-01/sr-Latn.md)
 
 
 [Čuvanje sredstava](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) nije uvek očigledno iz interfejsa. Ako ne možete da kontrolišete način oporavka pristupa i potrebno vam je da kompanija odobri povlačenje sredstava, verovatno koristite usluge [čuvara sredstava](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian). [Samostalno čuvanje sredstava](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) nije test lične vrednosti; važan korak je da prepoznate kome morate da verujete i koji rizici postoje.

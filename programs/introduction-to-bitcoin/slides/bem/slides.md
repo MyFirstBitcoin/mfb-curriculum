@@ -40,7 +40,8 @@ Te kuisangila, te kuibomfya mu kushita ifintu, lelo kutontonkanya pa co ili na f
 * Bushe indalama shenu shishita ifintu ubwingi bumo bwine nga kale?
 
 
-> **Callout – Sungeni amasuko yenu**
+<!-- card: callout -->
+> **Sungeni amasuko yenu**
 >
 > Lembeni icasuko icipi kuli cila cipusho. Mukabwelela ku masuko aya ku mpela.
 
@@ -85,6 +86,7 @@ Abantu bonse babili bafwile ukufwaya ifyo umunabo akwete, pa nshita imo ine kabi
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina alikwata umupunga kabili alefwaya insapato, Luis alikwata insapato kabili alefwaya amafuta ya kwipikila, na Mei alikwata amafuta ya kwipikila kabili alefwaya ukulungika ifintu. Tapali babili abengakabushanya ifintu ukwabula ukupitila ku muntu umbi, pantu muli cila babili tamuli nangu umo ulefwaya ico umunankwe apeela.](/micrographics/barter-mismatch-01/bem.md)
 
 <!-- notes: Bomfyeni icilangililo ca mu buku lya kutungulula: mulima umupunga kabili mulefwaya insapato, lelo kapanga wa nsapato afwaya amafuta ya kwipikila, te mupunga iyo. Abasambilila pa fyacuma baita ici ukwampana kwa fyo abantu babili bafwaya. -->
 
@@ -151,6 +153,7 @@ Nga abantu baumfwa ishiwi lyakuti ukupwa kwa maka ya ndalama, ilingi batontonkan
 ## Ukukwela kwa Mitengo na Maka ya Kushita
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Amayuniti 100 yamo yene aya ndalama kuti yashita icisepe conse ica fintu ifya kukabila ilyo umutengo waciko uli 100, lelo tayengashita icisepe cimo cine ilyo umutengo waciko uli 110. Imitengo yalunda, kabili amaka ya ndalama aya kushita yacepa.](/micrographics/same-money-smaller-basket-01/bem.md)
 
 <!-- notes: Ukukwela kwa mitengo ni kukwela ukutwalilila kwa mitengo ya fintu mu cilinganyo. Ulubali lumbi lwa ici ni maka ya ndalama aya kushita: ubwingi bwa fintu ifyo iciputulwa cimo ca ndalama cingashita. Nga umutengo wa luseke lwa fintu ifikankala wakwela ukufuma pa fiputulwa 100 fya ndalama ukuya pa 110, ifiputulwa 100 fimo fine tafingashita na kabili ifintu fyonse ifili mu luseke. -->
 
@@ -213,8 +216,7 @@ Indalama muli na ku banki shalipusana ne ndalama muli na mu minwe: ni bulayo bwa
 * Lelo ubwingi bwa ndalama na mafunde ya shiko fingaluka, kabili abantu abashibomfya tabakwata sana amaka ya kusalapo
 
 
-> **Callout**
->
+<!-- card: callout -->
 > E ico abantu bafwaila inshila shimbi, kabili e calengele Bitcoin ukupangwa.
 
 ---
@@ -233,6 +235,7 @@ Impiya sha pa kompyuta ishabula ubutungulushi bwa cifulo cimo, ishikwete impendw
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Ku kampani ya malipilo, ibumba limo lilasunga icitaabo ca ndalama no kusuminisha ukutumina indalama konse. Muli Bitcoin, uwatuma indalama alasaina icicitwa ca ndalama, amanodi yaiminina yalacisuzuma kabili abakumba balacilunda ku citaabo ca ndalama cimo ico bonse babomfya, e co uwapokelela tashintilila sana pa buteko bumo ubwa pakati.](/micrographics/central-ledger-vs-bitcoin-01/bem.md)
 
 <!-- notes: Ilyo Bitcoin talaisa, ukutuma indalama pa intaneti lyonse kwashintilile pa cilonganino ico abantu bacetekela: ibanki nangu kampani ya malipilo iyo yasunganga icitabo ca ndalama ishingila na shifuma, yasuminishanga amaakaunti, kabili yali na maka ya kukokola, ukulesha, nangu ukubwesesha ubulipilo. Ifyebo fya pa kompyuta fyalyanguka ukukopolola: nga ulupiya lwa pa kompyuta lwingabomfiwa ukulipila imiku ibili, tekuti lubombe nga indalama. Ici e cifule ca kubomfya indalama shimo ukulipila imiku ibili. Satoshi Nakamoto ni muntu umo nangu libumba lya bantu ababomfya ili ishina. -->
 
@@ -253,6 +256,7 @@ Takuli kampani ingakanya ukubomfya bitcoin iyo imwe bene mutungulula. Nomba ubu 
 ## Umupaka Uyo Uuli Onse Engasuzuma
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Umupaka wa bwingi bwa ndalama uwalembwa pa webusayiti nangu mu busungilo bwa fyaishibikwa ubwa wafumya ndalama kuti wapilibulwa na mwine ukwabula ukulanga abantu. Ifunde lya bwingi bwa ndalama mu Bitcoin lyaishibikwa kuli bonse, kabili amasaini, ilyashi lya kale ilyamoneka kuli bonse, icishininkisho ca mulimo no kushininkisha kwa manodi, pamo fyalecingilila ukupangwa kwa ndalama ishipya ishalakonka amafunde nangu ukubomfya bitcoin imo imiku ibili.](/micrographics/claimed-or-verified-supply-01/bem.md)
 
 <!-- notes: Ama bitcoin ayapya yalafumishiwa ukukonka indondomeko ya nshita iyishibikwa ku bantu bonse, kabili amakompyuta ayaibombela, ayitwa ama node, yalakana buloko ili yonse iyatoba ifunde ilyo. Ulu lupaka lwa kutetekelwa pantu umuntu uuli onse kuti alushininkisha. Te funde lya cilengedwe: lulakonka pantu ababombamo batwalilila ukulakakilisha ukuti lwalakonkwa. Ukukwata umupendwa uwapimwa tekuti kushininkishe ukuti umutengo ukalafulilako; umutengo washintilila pa kufwaikwa kwa bitcoin na pa bwingi bwa shilipo. -->
 
@@ -264,6 +268,7 @@ bitcoin imo ilapatululwa mu tupimfya tunono 100,000,000 utwitwa satoshis, nangu 
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Itebulo lya mikolamu ibili: 1 BTC ni 100,000,000 sats, 0.1 BTC ni 10,000,000 sats, 0.01 BTC ni 1,000,000 sats, 0.001 BTC ni 100,000 sats, na 0.00000001 BTC ni 1 sat.](/micrographics/bitcoin-and-sats-01/bem.md)
 
 <!-- notes: Ukukwata 100,000 sats no kukwata 0.001 bitcoin ni fimo fine. Lungikeni imyumfwile ya kulufyanya iyakuti abantu teti bakwanishe ukushita Bitcoin pantu bitcoin imo iladula. -->
 
@@ -272,6 +277,7 @@ bitcoin imo ilapatululwa mu tupimfya tunono 100,000,000 utwitwa satoshis, nangu 
 ## Ni Bani Abalenga Bitcoin Ukutwalilila Ukubomba?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Imilimo ine muli Bitcoin: ababomfya bapokelela, basunga no kutuma bitcoin, amanodi yashininikisha imikalile ya makonko pa lwawo, abemba bapanga amabuloko ayengasuminishiwa ukupitila mu bushininkisho bwa mulimo, kabili abapanga amaporogilamu balangisha amaporogilamu ayengabomfiwa. Takuli mulimo umo uwatungulula umulumikizano onse.](/micrographics/bitcoin-participant-roles-01/bem.md)
 
 <!-- notes: Ababomfya bitcoin balaituma, balaipokelela, no kuisunga; amanodi yasuzuma ukutumya konse ukwa ndalama ne buloko lyonse nga filekonka amafunde; abakwimba bitcoin balapikisana pa kulundapo ibuloko lipya ku fyabikwa mu mbila pa numa ya mineti ikumi. Ifyo ifyabikwa mu mbila, ifiitwa blockchain, umuntu onse kuti afimona, kabili ukufilembulula kufwaya indalama ishingi sana. Ishiwi pa myandikile: Bitcoin uulembwa na B mukalamba ilingi ilola ku mulumikizano nangu ku musango uwabombelamo; bitcoin uulembwa na b munono ilola ku ndalama ishine. -->
 
@@ -307,6 +313,7 @@ Ilipusho lya kubalilapo pa cikwama conse: ni nani akwata amaka pa mfungulo?
 ## Icipatashi Cilatungulula Imfungulo
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Icikwama cisunga imfungulo. Ukubomfya ishi mfungulo kuti mwapokelela no kutuma bitcoin, lelo bitcoin ine ishala ilembelwe mu citabo ca malembelo ico bonse babomfya pamo, te mukati ka foni nangu icepasho.](/micrographics/wallet-manages-keys-01/bem.md)
 
 <!-- notes: Icikwama ca Bitcoin ni cibomfya, ilingi pulogilamu, icimusuminisha ukupokelela, ukusuzuma no kutuma bitcoin. bitcoin yenu taisungilwa mu foni yenu: ilembwa pa blockchain. Icikwama cisunga no kwendesha impfungulo ishimusuminisha ukushininkisha ukuti ni yenu no kusuminisha ukulipila. -->
 
@@ -331,6 +338,7 @@ Ulundanda lwa mashiwi ayabikwa mu kulondana, ilingi 12 nangu 24, ayengapanga imf
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Amashiwi ya kubweseshapo icola ca ndalama ni ndandalika ya mashiwi ayakonkonkana; pano pali amashiwi ikumi na yabili aya ca kumwenako, ayapeelwa amanambala no kulembwa pa pepala. Amashiwi ayalungama, nga yakonkonkana bwino, kuti yabwekesha amaka ya kubomfya icola ca ndalama iciyasuminisha, e ico yafwile ukusungwa mu nkama kabili ukwabula ukulundwa ku intaneti.](/micrographics/seed-phrase-on-paper-01/bem.md)
 
 <!-- notes: Amashiwi ya kubweseshapo icikwama tayaba ya kusungilila fye: yalapela insambu shonse sha kwingila mu cikwama no kucibomfya. Yalembeni bwino pa pepala ilyo mulepanga icikwama; yasungilileni ukwabula ukuyabika pa intaneti, mu nkama, na mu ncende umo tayakapone nangu ukonaika. Mwileya kosa icikope, ukuyatuma pa imeyili, ukuyasunga mu manoti ya mu cloud, ukuyatuma mu butumwa, nangu ukuyalemba pa webusaiti. Amashiwi ayalangishiwa ya cakulangilila fye; mwilelangisha nangu ukulonganika amashiwi ya cine ya kubweseshapo icikwama. -->
 
@@ -365,6 +373,7 @@ Ulundanda lwa mashiwi ayabikwa mu kulondana, ilingi 12 nangu 24, ayengapanga imf
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Amalipilo ya pa blockchain yalembwa mu blockchain ya Bitcoin mwine, lelo Lightning lupanda lwa kulipililamo ulwasekelwa pali Bitcoin pa kulipila bwangu kabili libili libili, nangu amalipilo aya kuti yafilwa ukucitika. Mu nshila shonse shibili, indalama shenu kuti shasungwa na bambi nangu imwe bene.](/micrographics/on-chain-and-lightning-01/bem.md)
 
 ---
 
@@ -375,7 +384,8 @@ Ulundanda lwa mashiwi ayabikwa mu kulondana, ilingi 12 nangu 24, ayengapanga imf
 * **Mwitetekela fye, Shininisheni.** Shininisheni umuntu, inshila ya kulipilamo, adilesi, no bwingi bwa ndalama.
 
 
-> **Callout – Peleni bambi ifishibilo fya kupokelelako ndalama, lelo tamufwile ukupela ifya nkama**
+<!-- card: callout -->
+> **Peleni bambi ifishibilo fya kupokelelako ndalama, lelo tamufwile ukupela ifya nkama**
 >
 > Adilesi nangu ubulombo bwa kulipilwa kuti fyapelwa bambi. Amashiwi ya kubweseshapo icikwama nangu ulufungulo lwa nkama tafifwile ukupelwa bambi nakalya. Takuli kafundisha wa cine, kampani ya fikwama fya ndalama, nangu umubomfi wa kwafwilisha abantu uwingamwipusha ifi.
 
@@ -389,6 +399,7 @@ Lekeniko nga umuntu alemitunkila ukucita icintu bwangu nangu mu nkama, alemilaya
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Ifishibilo fisano ifya bucenjeshi: ukufulumizya, ukuicitila kwati ni umuntu umbi, ukucinjwa kwa ncende ya kutuminako, inonshi ishininkishiwe no kulomba ifyankama.](/micrographics/scam-red-flags-01/bem.md)
 
 ---
 
@@ -408,7 +419,8 @@ Uku ni kutendeka fye.
 * **Uku e kutendeka fye.** Ulutampulo lumo ulwakonkapo ulwa kucingililwa lwalinga.
 
 
-> **Callout – Aka nshita ka kutontonkanya**
+<!-- card: callout -->
+> **Aka nshita ka kutontonkanya**
 >
 > Bwelel eni ku mepusho yasano aya ku ntendekelo. Bushe nomba kuti mwasuka shani?
 

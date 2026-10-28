@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: self-custody-responsibilities-01 -->
+[Beheer oor sleutels staan sentraal in agt verantwoordelikhede: rugsteun, herwinning, ontvangs, versending, keuse van hulpmiddels, verkrygingsroete, privaatheid en bedrogkontroles. Elkeen beskerm iets, en ’n mislukking in enigeen daarvan kan toegang, geld of privaatheid kos.](/micrographics/self-custody-responsibilities-01/af.md)
 
 
 
 <!-- micrographic: responsibility-checks-01 -->
+['n Tabel met ses take vir selfbewaring, wat om by elkeen te beskerm of na te gaan, en wat kan gebeur as dit verkeerd loop: rugsteun, ontvang, stuur, bewaring, keuse van hulpmiddel en verkryging.](/micrographics/responsibility-checks-01/af.md)
 
 
 Stel u voor dat 'n vriend vir u 'n betalingsversoek stuur terwyl 'n onbekende ondersteuningsrekening sê dat u onmiddellik moet optree. Wat kan u nagaan voordat u enigiets doen? Kan u 'n herstelplan beskerm, inligting vir die ontvangs van betalings van geheime onderskei, en die persoon, betaalmetode, bestemming, bedrag en finale skerm verifieer voordat u stuur? Of 'n diens of u self die sleutels beheer, die praktiese opsomming bly dieselfde: beskerm geheime, verifieer voordat u goedkeur, herken tekens van bedrog en beperk foute terwyl u leer.

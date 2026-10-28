@@ -4,6 +4,7 @@ Ni kommer att gå igenom tre steg: **Presentation**, där er lärare visar proce
 
 
 <!-- micrographic: presentation-practice-production-01 -->
+[En praktisk färdighet lärs in i tre steg, från vänster till höger: Presentation, där läraren visar processen och dess risker, sedan Övning, handledd träning med säkert övningsmaterial, och därefter Produktion, där den studerande självständigt utför en uppgift eller förklarar ett beslut.](/micrographics/presentation-practice-production-01/sv.md)
 
 
 Er workshop kan innehålla följande:

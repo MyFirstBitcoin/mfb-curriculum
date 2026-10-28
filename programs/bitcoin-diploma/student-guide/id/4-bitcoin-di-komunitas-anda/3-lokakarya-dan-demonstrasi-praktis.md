@@ -4,6 +4,7 @@ Anda akan melalui tiga tahap: **Presentasi**, saat pendidik Anda memperagakan pr
 
 
 <!-- micrographic: presentation-practice-production-01 -->
+[Keterampilan praktis dipelajari dalam tiga tahap, dari kiri ke kanan: Penyajian, ketika pendidik menunjukkan proses dan risikonya, lalu Latihan, yaitu latihan terbimbing dengan bahan pelatihan yang aman, lalu Penerapan, ketika peserta didik menyelesaikan tugas atau menjelaskan keputusan secara mandiri.](/micrographics/presentation-practice-production-01/id.md)
 
 
 Lokakarya Anda dapat mencakup:

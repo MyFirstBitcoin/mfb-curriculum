@@ -24,6 +24,7 @@ Pour un échange en personne, choisissez un lieu public et adapté, évitez de t
 
 
 <!-- micrographic: compare-local-pathways-01 -->
+[Un tableau vierge permettant de comparer trois options locales, A, B et C, selon leur nom, leurs exigences KYC, leur modèle de garde, les réseaux pris en charge, leur réputation et leurs modes d’approvisionnement, avec un espace pour les notes.](/micrographics/compare-local-pathways-01/fr-FR.md)
 
 
 

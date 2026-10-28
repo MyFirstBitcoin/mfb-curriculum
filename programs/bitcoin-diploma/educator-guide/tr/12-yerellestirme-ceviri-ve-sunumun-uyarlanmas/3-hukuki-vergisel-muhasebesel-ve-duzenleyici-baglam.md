@@ -14,6 +14,7 @@
 Şuna benzer ifadeler kullanın:
 
 
-> **Callout – Bireysel tavsiye değil, güncel yerel rehberlik**
+<!-- card: callout -->
+> **Bireysel tavsiye değil, güncel yerel rehberlik**
 >
 > Yerel kurallar bu yolu etkileyebilir. [tarih] tarihinde kontrol ettiğimiz güncel kamuya açık rehberliğe göre ________. Bu, bireysel bir duruma yönelik tavsiye değil, eğitim amaçlı bir özettir. Duruma özgü soruları nitelikli bir yerel uzman veya yetkili makam yanıtlamalıdır.

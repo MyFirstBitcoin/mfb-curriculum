@@ -22,6 +22,7 @@ Varje modul följer samma upplägg:
 
 
 <!-- micrographic: learning-rhythm-strip-01 -->
+[En läranderytm i fem steg: lär er en central idé, visa vad ni kan förklara eller tillämpa, tillämpa idén, förklara den med era egna ord och gå igenom hur den hänger ihop med nästa modul.](/micrographics/learning-rhythm-strip-01/sv.md)
 
 
 Ni lär er mer genom att delta än genom att läsa tyst. Vissa frågor har inte ett enda rätt svar. Det viktiga är att ni kan förklara ert resonemang, granska belägg och ompröva er uppfattning när ni lär er något nytt.
@@ -81,7 +82,8 @@ När det är dags att öva med en [Bitcoin-plånbok](https://curriculum.myfirstb
 ### Säkerhet, ansvar och ingen finansiell rådgivning
 
 
-> **Callout – Lär er först; detta är inte en rekommendation**
+<!-- card: callout -->
+> **Lär er först; detta är inte en rekommendation**
 >
 > Bitcoin-diplomet är endast avsett för utbildning. Det ger inte finansiell rådgivning, investeringsrådgivning, juridisk rådgivning eller skatterådgivning. Det utlovar inte att bitcoin kommer att stiga i [pris](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) och rekommenderar inte heller att ni köper, säljer, belånar eller innehar någon mängd bitcoin.
 >
@@ -104,6 +106,7 @@ Diplomutbildningen består av en lärandeprocess i fyra steg: **Problem → Lös
 
 
 <!-- micrographic: learning-path-roadmap-01 -->
+[En färdplan i fyra steg: Problem, Förstå pengar; Lösning, Så fungerar Bitcoin; Handling, Använda Bitcoin säkert; och Koppla samman, Bitcoin i Ert lokalsamhälle, vart och ett med sin vägledande fråga.](/micrographics/learning-path-roadmap-01/sv.md)
 
 
 **Modul 4** är en obligatorisk del av diplomutbildningen som utformas av utbildaren. Utbildare är sakkunniga när det gäller deltagarnas lokala begränsningar, lösningar, verktyg, resurser, lagar, språk, infrastruktur och behov. Steget Koppla samman, som utformas av utbildaren, kan omfatta att tjäna, spara, ta emot och spendera pengar, [lager 2](https://curriculum.myfirstbitcoin.org/lexicon/en/#layer-2) som lösning, lokala växlingsmöjligheter, handlare eller cirkulära ekonomier.
@@ -118,6 +121,7 @@ De fyra modulerna ger den obligatoriska lärandevägen Problem → Lösning → 
 
 
 <!-- micrographic: four-module-table-01 -->
+[En tabell över de fyra modulerna med respektive moduls roll, vägledande fråga och vad deltagaren kommer att öva på: Förstå pengar, Så fungerar Bitcoin, Använd Bitcoin säkert och Bitcoin i ert lokalsamhälle.](/micrographics/four-module-table-01/sv.md)
 
 
 Diplomutbildningen tar minst åtta timmar. Fyra tvåtimmarspass är det kortaste planerade upplägget, inte en tidsgräns. Er utbildare kan fördela en modul över fler pass, återkomma till en tidigare idé eller ändra ordningen på enskilda avsnitt när er grupp behöver mer tid för diskussion, övning, repetition eller bedömning. Det finns ingen övre tidsgräns: utbildaren ansvarar fortfarande för att ge deltagarna den tid de behöver, täcka alla obligatoriska kompetenser och tydliggöra sambanden mellan modulerna.

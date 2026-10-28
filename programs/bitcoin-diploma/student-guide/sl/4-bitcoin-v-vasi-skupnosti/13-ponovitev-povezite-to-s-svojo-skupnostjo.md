@@ -1,10 +1,12 @@
 # 4.13 Ponovitev: Povežite to s svojo skupnostjo
 
 <!-- micrographic: community-review-path-01 -->
+[Postopek pregleda lokalnega primera uporabe Bitcoina: začnite pri dejanski potrebi, preverite, ali je Bitcoin primeren, nato pa še način plačila, skrbništvo, skupne stroške, varnost in lokalne razmere ter zaključite z dokazi o uspehu.](/micrographics/community-review-path-01/sl.md)
 
 
 
 <!-- micrographic: community-review-table-01 -->
+[Preglednica za analizo lokalnega primera: za vsako temo, od dejanske potrebe do odgovornega naslednjega koraka, vsebuje vprašanje za razmislek in neobvezen prostor za vaše zapiske.](/micrographics/community-review-table-01/sl.md)
 
 
 To ponovitev opravite samostojno, nato pa svoje razmišljanje primerjajte z razmišljanjem svoje ekipe ali učne skupine. Razmislite o lokalnem primeru, ki ste ga preučili: katero dejansko potrebo je obravnaval, katera funkcija denarja je bila vključena in ali se je [vrednost](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) prenašala v verigi blokov, prek omrežja Lightning ali na oba načina? Vprašajte se, kdo je nadzoroval ključe, katera je bila največja korist in katero najresnejše tveganje ter kako so lokalna zakonodaja, infrastruktura, jezik ali kultura vplivali na rezultat. Odgovoren naslednji korak je tak, ki ustreza lokalnim okoliščinam, jasno opredeljuje stroške in [skrbništvo](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), omejuje napake in prevare ter ga je mogoče ovrednotiti na podlagi dokazov.

@@ -12,6 +12,7 @@ Ensine as consequências:
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Uma frase-semente é uma lista ordenada de palavras, aqui doze palavras de exemplo numeradas e escritas em papel. As palavras certas na ordem certa podem restaurar o controle em uma carteira compatível, por isso ela deve permanecer secreta e offline.](/micrographics/seed-phrase-on-paper-01/pt-BR.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
@@ -43,10 +44,12 @@ Ensine as consequências:
 
 
 <!-- micrographic: recovery-practice-lanes-01 -->
+[O aluno segue as etapas da prática de recuperação em uma área privada, verifica o resultado esperado, limpa o dispositivo e devolve ou destrói o material fictício. O educador observa as decisões e o manuseio seguro, mas nunca vê as palavras secretas de recuperação.](/micrographics/recovery-practice-lanes-01/pt-BR.md)
 
 
 
-> **Callout – Trate uma frase-semente exposta como comprometida**
+<!-- card: callout -->
+> **Trate uma frase-semente exposta como comprometida**
 >
 > Se uma semente real possa ter sido exposta, pare de usá-la como backup seguro, crie uma nova carteira confiável com novas informações de recuperação e transfira os fundos depois de verificar cuidadosamente o destino. O aluno deve buscar ajuda sem revelar nenhuma das frases.
 

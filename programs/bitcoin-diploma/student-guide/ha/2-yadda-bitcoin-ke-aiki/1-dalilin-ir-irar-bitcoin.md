@@ -10,6 +10,7 @@ An ƙirƙiri Bitcoin don magance wannan matsala ta hanyar [hanyar sadarwa ta tsa
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[A tsarin kamfanin biyan kuɗi, ƙungiya guda ɗaya ce ke adana kundin lissafi kuma take amincewa da kowane tura kuɗi. A tsarin Bitcoin kuwa, mai aikawa yana sanya hannu a kan ma'amala, kwamfutocin hanyar sadarwa masu zaman kansu suna tantance ta, masu haƙar bitcoin kuma suna ƙara ta a kundin lissafi guda ɗaya na bai ɗaya, don haka mai karɓa ba ya dogaro sosai da hukuma ta tsakiya.](/micrographics/central-ledger-vs-bitcoin-01/ha.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)

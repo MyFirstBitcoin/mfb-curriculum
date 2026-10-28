@@ -15,3 +15,4 @@ Não transforme o planejamento de [custódia comunitária](https://curriculum.my
 
 
 <!-- micrographic: shared-funds-role-map-01 -->
+[Contribuintes e beneficiários dependem de quem controla os fundos compartilhados. Controle das chaves, aprovação de gastos, registros e revisão são papéis distintos; quando uma única pessoa ocupa vários deles, a confiança fica concentrada, e questões como continuidade, privacidade, disputas e situação jurídica ainda precisam de respostas.](/micrographics/shared-funds-role-map-01/pt-BR.md)

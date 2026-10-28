@@ -1,21 +1,35 @@
 # 4.9 Prednosti i nedostaci KYC-a i pristupa bez KYC-a
 
-[KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) i [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) pristupi podrazumijevaju različite [kompromise](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Nijedna oznaka ne uklanja potrebu za pažljivom procjenom.
+[KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) i [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) načini podrazumijevaju različite [kompromise](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Nijedna oznaka ne uklanja potrebu za pažljivom procjenom.
 
 
-> **Callout – Privatnost ne uklanja pravne rizike ni rizike za fizičku sigurnost**
+<!-- card: callout -->
+> **Privatnost ne uklanja pravne rizike ni rizike za fizičku sigurnost**
 >
-> Ni [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) ni [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) nije automatski najbolji izbor. Usporedite konkretne pristupe, oslonite se na aktualne lokalne smjernice kada pravila nisu jasna i nemojte kršiti lokalne zakone niti se izlagati fizičkoj opasnosti radi [privatnosti](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
+> Ni [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) ni [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) nije automatski najbolji izbor. Usporedite konkretan način, oslonite se na aktualne lokalne smjernice kada su pravila nejasna i nemojte kršiti lokalne zakone niti se izlagati fizičkoj opasnosti radi [privatnosti](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
-Pojedina [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) usluga može zahtijevati službeno ime i prezime, identifikacijski dokument, adresu, fotografiju, podatke o izvoru sredstava ili druge evidencije. To pružatelju usluge može omogućiti usklađivanje s lokalnim propisima, povezivanje s bankama, postavljanje viših ograničenja ili podršku pri oporavku računa.
+Jedna [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) usluga može zatražiti službeno ime i prezime, identifikacijski dokument, adresu, fotografiju, podatke o izvoru sredstava ili drugu dokumentaciju. To usluzi može omogućiti usklađivanje s lokalnim propisima, povezivanje s bankama, postavljanje viših ograničenja ili podršku pri oporavku računa.
 
-[KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) također stvara rizike za podatke. Pružatelj usluge može pohraniti trajnu poveznicu između identiteta, načina plaćanja i bitcoin [transakcija](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction). Povreda sigurnosti podataka, pravni zahtjev, interna zlouporaba ili promjena pravila mogu razotkriti te podatke ili ograničiti pristup njima.
+[KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) također stvara rizik za podatke. Usluga može pohraniti trajnu vezu između identiteta, načina plaćanja i bitcoinskih [transakcija](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction). Povreda sigurnosti podataka, pravni zahtjev, interna zlouporaba ili promjena pravila mogu razotkriti te podatke ili ograničiti pristup njima.
 
-Pojedini [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) pristup može prikupljati manje podataka o identitetu. To može poboljšati financijsku [privatnost](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy). Može uključivati i manje regulirane druge ugovorne strane, nižu likvidnost, više [cijene](https://curriculum.myfirstbitcoin.org/lexicon/en/#price), slabiju podršku, veći rizik od prijevare ili zakonska ograničenja.
+Jedan [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) način može prikupljati manje podataka o identitetu. To može poboljšati financijsku [privatnost](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy). Može uključivati i slabije regulirane druge ugovorne strane, manju likvidnost, više [cijene](https://curriculum.myfirstbitcoin.org/lexicon/en/#price), slabiju podršku, veći rizik od prijevare ili zakonska ograničenja.
 
-Usporedite konkretne pristupe:
+Usporedite konkretne načine:
 
-[Privatnost](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy) ne znači tajnost koja štiti od svakog rizika. To je mogućnost da upravljate informacijama o sebi. Nemojte kršiti lokalne zakone niti se izlagati fizičkoj opasnosti radi [privatnosti](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy). Kada pravila nisu jasna, zatražite aktualne lokalne smjernice od stručne osobe.
+
+| Pitanje | KYC način | No-KYC način |
+| --- | --- | --- |
+| Koji se podaci o identitetu prikupljaju? |  |  |
+| Tko pohranjuje podatke i koliko dugo? |  |  |
+| Može li se transakcija povezati s identitetom na lancu blokova? |  |  |
+| Kakva zaštita od prijevare postoji? |  |  |
+| Kakav rizik druge ugovorne strane postoji? |  |  |
+| Koja ograničenja i naknade vrijede? |  |  |
+| Koji se lokalni zakoni primjenjuju? |  |  |
+| Što se događa u slučaju spora? |  |  |
+
+
+[Privatnost](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy) ne znači tajnost koja štiti od svakog rizika. Ona je mogućnost kontrole podataka o sebi. Nemojte kršiti lokalne zakone niti se izlagati fizičkoj opasnosti radi [privatnosti](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy). Kada su pravila nejasna, zatražite aktualne lokalne smjernice od stručne osobe.

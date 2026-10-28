@@ -13,6 +13,7 @@ Birkaç dönüşüm örneği kullanın:
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[İki sütunlu bir tablo: 1 BTC 100.000.000 sat, 0,1 BTC 10.000.000 sat, 0,01 BTC 1.000.000 sat, 0,001 BTC 100.000 sat ve 0,00000001 BTC 1 sat eder.](/micrographics/bitcoin-and-sats-01/tr.md)
 
 
 Bir bitcoin'i daha küçük birimlere bölmenin neden daha fazla bitcoin yaratmadığını sorun. Ölçülmüş bir miktarı daha küçük birimlere ayırmakla karşılaştırma yapın, ancak bu fiziksel benzetmenin protokolü açıkladığını iddia etmeyin.

@@ -7,6 +7,7 @@ Opettakaa ero selkeästi:
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Kaksi tasoa: rahan kolme tehtävää (vaihdon väline, laskentayksikkö, arvon säilyttäjä) perustuvat seitsemään ominaisuuteen (kestävyys, siirrettävyys, jaettavuus, keskinäinen vaihdettavuus, niukkuus, hyväksyttävyys ja todennettavuus).](/micrographics/functions-and-properties-01/fi.md)
 
 
 Käyttäkää erilaisia käyttötarkoituksia. Kysykää, mitkä ominaisuudet ovat tärkeitä seuraavissa tilanteissa:

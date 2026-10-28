@@ -4,6 +4,7 @@ Wani [**tsarin tattalin arzikin Bitcoin mai zagayawa**](https://curriculum.myfir
 
 
 <!-- micrographic: local-circular-economy-01 -->
+[A cikin tattalin arzikin Bitcoin mai zagayawa, bitcoin yana wucewa daga mutum zuwa mutum a madadin kayayyaki, sabis da lokacin aiki. Abokin ciniki yana biyan ɗan kasuwa, ɗan kasuwa yana biyan mai ba da sabis, mai ba da sabis yana biyan ma'aikaci, sannan ma'aikacin yana sake kashe shi a matsayinsa na abokin ciniki.](/micrographics/local-circular-economy-01/ha.md)
 
 
 My First Bitcoin yana tallafa wa [tsare-tsaren tattalin arzikin Bitcoin masu zagayawa](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-circular-economy), kuma da yawa daga cikinsu suna cikin Cibiyar Ilimin Bitcoin. Ku binciki waɗannan al'ummomi a kan [Allon Bayanan Cibiyar](https://network.myfirstbitcoin.org/?min10merchants=1).

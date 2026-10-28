@@ -4,6 +4,7 @@ En [**Bitcoin-sirkulærøkonomi**](https://curriculum.myfirstbitcoin.org/lexicon
 
 
 <!-- micrographic: local-circular-economy-01 -->
+[I en sirkulær Bitcoin-økonomi går bitcoin fra person til person i bytte mot varer, tjenester og tid. En kunde betaler en forhandler, forhandleren betaler en tjenesteleverandør, tjenesteleverandøren betaler en arbeidstaker, og arbeidstakeren bruker dem videre som kunde.](/micrographics/local-circular-economy-01/nb.md)
 
 
 My First Bitcoin støtter [Bitcoin-sirkulærøkonomier](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-circular-economy), og mange er en del av Bitcoin Education Network. Utforsk disse lokalsamfunnene på [nettverkets oversiktsside](https://network.myfirstbitcoin.org/?min10merchants=1).

@@ -29,3 +29,4 @@ To ćwiczenie sprawia, że w publicznym rejestrze [prywatność](https://curricu
 
 
 <!-- micrographic: address-reuse-linkage-01 -->
+[Kilka fikcyjnych potwierdzeń płatności wskazuje ten sam, ponownie użyty adres, co pozwala łatwo je powiązać. Nowe adresy do odbioru płatności ograniczają to bezpośrednie powiązanie, ale informacje zewnętrzne i wyszukiwania w eksploratorze nadal mogą ujawnić zależności, a publiczne dane same w sobie nie potwierdzają tożsamości osoby.](/micrographics/address-reuse-linkage-01/pl.md)

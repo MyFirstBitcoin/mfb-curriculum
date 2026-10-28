@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: daily-bitcoin-uses-01 -->
+[Seitsemän erilaista tapaa käyttää Bitcoinia arjessa: ansaitseminen, säästäminen, vastaanottaminen, lähettäminen, kuluttaminen, lahjoittaminen sekä hinnoittelu ja kirjanpito. Kukin on mahdollinen käyttötapa, ei pakollinen vaihe.](/micrographics/daily-bitcoin-uses-01/fi.md)
 
 
 Bitcoin voi toimia rahana monin tavoin. Kuluttaminen on vain yksi niistä.
@@ -24,7 +25,7 @@ Bitcoin voi toimia rahana monin tavoin. Kuluttaminen on vain yksi niistä.
 
 Esittäkää jokaisen käyttötavan kohdalla kolme kysymystä:
 
-1. Minkä olemassa olevan ongelman [Bitcoin ratkaisee](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) tässä?
+1. Minkä olemassa olevan ongelman Bitcoin ratkaisee tässä?
 1. Onko Bitcoin tässä tapauksessa parempi kuin käytettävissä oleva vaihtoehto?
 1. Minkä uuden vastuun tai riskin Bitcoin luo?
 

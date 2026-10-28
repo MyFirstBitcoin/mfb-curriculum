@@ -4,6 +4,7 @@ Mara nyingi watu hutafuta njia mbadala za kushikilia pesa taslimu wanapoamini kw
 
 
 <!-- micrographic: saving-alternatives-table-01 -->
+[Jedwali la njia tatu mbadala za kushikilia pesa taslimu (madini ya thamani, mali isiyohamishika na hisa), kila moja ikiwa na sababu za watu kuichagua na mambo yake muhimu ya kuzingatia. Hakuna njia iliyopewa nafasi ya juu kuliko nyingine.](/micrographics/saving-alternatives-table-01/sw.md)
 
 
 Kwa ujumla, [mali](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) ni kitu ambacho mtu anaweza kumiliki au kudai, ambacho kinaweza kuwa na [thamani](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); haitekelezi kiotomatiki kila kazi ya pesa. Nyumba inaweza kuhifadhi [thamani](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) lakini haifai kwa kununulia chakula. Hisa inaweza kuwa rahisi kuuza katika nchi moja lakini isipatikane kwa mtu asiye na akaunti ya udalali. [Dhahabu](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) imetumika kama pesa katika vipindi virefu vya historia lakini inaweza kuwa vigumu kuithibitisha au kuigawanya wakati wa ubadilishanaji mdogo.

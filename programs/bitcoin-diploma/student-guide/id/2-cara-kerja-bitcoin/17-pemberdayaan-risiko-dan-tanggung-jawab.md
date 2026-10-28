@@ -13,6 +13,5 @@ Bagi seseorang yang memilih [penyimpanan mandiri](https://curriculum.myfirstbitc
 [Penyimpanan mandiri](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) karena itu bukan sekadar fitur teknis. Hal ini memerlukan perlindungan cadangan, verifikasi alamat, pemeriksaan perilaku dompet, dan penyusunan rencana pemulihan. Modul berikutnya menjelaskan cara menyimpan dan menggunakan bitcoin dengan hati-hati, termasuk cara mengelola risiko dan tanggung jawab ini.
 
 
-> **Light**
->
+<!-- card: light -->
 > Tanggung jawab pribadi bukan berarti bertindak sendirian atau menolak bantuan. Peserta didik yang berhati-hati dapat memanfaatkan pendidikan, tinjauan sejawat, prosedur terdokumentasi, dan pengujian skala kecil tanpa memberi siapa pun akses ke informasi rahasia.

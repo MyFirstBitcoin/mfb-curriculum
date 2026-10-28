@@ -1,5 +1,6 @@
 # 1.7 Salaping fiat
 
+<!-- card: definition -->
 > **Definition – Perang fiat**
 >
 > [Ang perang fiat](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) ay [salapi](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) na inilalabas sa ilalim ng awtoridad ng pamahalaan, karaniwan sa pamamagitan ng isang [bangko sentral](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank), na hindi maaaring ipalit sa isang takdang dami ng kalakal tulad ng [ginto](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold). Sinusuportahan ng mga pamahalaan—at sa ilang konteksto ay ipinag-uutos—ang paggamit nito sa pamamagitan ng pag-aatas na gamitin ito sa pagbabayad ng buwis at pagtatakda ng mga tuntunin sa legal na pambayad. Ang mga tiyak na tuntunin sa pagtanggap ng mga bayad at pag-aayos ng mga [utang](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt) ay nagkakaiba ayon sa hurisdiksiyon.
@@ -11,12 +12,14 @@ May ilang pangunahing kalahok ang sistemang fiat:
 
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Ang mga kalahok sa isang sistemang fiat at kung ano ang dumadaloy sa pagitan nila: nagtatakda ng patakaran ang bangko sentral at nagsasagawa ng pinal na pag-aayos ng mga bayaran sa pagitan ng mga bangko, humahawak ang mga komersiyal na bangko ng mga depositong pananagutan nila sa mga kliyente, naghahatid ng mga tagubilin ang mga serbisyo sa pagbabayad, nangongolekta ng buwis at gumagastos ang pamahalaan, at nagbabayad at tumatanggap ng bayad ang mga mamamayan at negosyo.](/micrographics/fiat-system-flows-01/tl.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
-> **Light – Suriin ang isang lokal na pagbabayad**
+<!-- card: light -->
+> **Suriin ang isang lokal na pagbabayad**
 >
 > Pumili ng isang karaniwang pagbabayad sa inyong komunidad, tulad ng pagbabayad ng pamasahe, pagbili ng pagkain o load sa telepono; pagtanggap ng sahod; o pagbabayad ng bayarin. Gumamit ng isang kathang-isip ngunit makatotohanang sitwasyon kung nais ninyo. Sa tatlo o apat na pangungusap, ipaliwanag:
 >

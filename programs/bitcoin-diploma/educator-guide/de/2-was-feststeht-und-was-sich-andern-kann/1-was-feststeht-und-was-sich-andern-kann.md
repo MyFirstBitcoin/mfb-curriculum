@@ -32,3 +32,4 @@ Sie dürfen nicht:
 
 
 <!-- micrographic: fixed-adaptable-flexible-01 -->
+[Lokale Beispiele und Unterrichtsmethoden können sich innerhalb fester Grenzen für Kompetenzen, Nachweise, Sicherheit und Abschluss ändern. Änderungen, die die Prüfung betreffen, erfordern einen genehmigten gleichwertigen Weg, der dieselbe Handlung der Lernenden und denselben Sicherheitszweck beibehält.](/micrographics/fixed-adaptable-flexible-01/de.md)

@@ -1,5 +1,6 @@
 # 3.5 Atkūrimo frazės
 
+<!-- card: definition -->
 > **Definition – Pradinė frazė**
 >
 > Ši [pradinė frazė](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), dar vadinama [atkūrimo fraze](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), yra nustatyta tvarka išdėstytų žodžių sąrašas, kurį daugelis piniginių naudoja [privačiųjų raktų](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) rinkiniui išvesti ir atkurti. [Privatusis raktas](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) leidžia išleisti lėšas; [pradinė frazė](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) paprastai yra atsarginė kopija, leidžianti atkurti piniginės raktus. Dažniausiai ją sudaro 12 arba 24 žodžiai, nors piniginių sandara skiriasi.
@@ -8,13 +9,15 @@
 Žodžių tvarka ir rašyba yra svarbios. Jei asmuo turi [pradinę frazę](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), jis dažnai gali atkurti piniginę kitame suderinamame įrenginyje ir išleisti lėšas. Todėl [pradinė frazė](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) yra ne tik atsarginė kopija. Ji suteikia visišką prieigą.
 
 
-> **Callout – Niekada nesidalykite atkūrimo informacija**
+<!-- card: callout -->
+> **Niekada nesidalykite atkūrimo informacija**
 >
 > Vieša informacija, skirta lėšoms gauti, galima dalytis. [Privatusis raktas](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), [pradinė frazė](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), slaptažodis ar atkūrimo kodas turi likti paslaptyje. Jokiam teisėtai veikiančiam švietėjui, piniginės bendrovei, keityklos darbuotojui, pagalbos tarnybos darbuotojui ar „Bitcoin“ kūrėjui šios informacijos nereikia. Jei [pradinė frazė](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) galėjo būti pamatyta, nukopijuota, įvesta internete ar išsaugota nepatikimame įrenginyje, laikykite ją atskleista ir kreipkitės pagalbos jos neatskleisdami.
 
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Atkūrimo frazė – tai nustatyta tvarka išdėstytų žodžių sąrašas; čia pateikta dvylika sunumeruotų pavyzdinių žodžių, užrašytų ant popieriaus. Tinkami žodžiai tinkama tvarka leidžia atkurti prieigą suderinamoje piniginėje, todėl frazė laikoma paslaptyje ir neprisijungus prie interneto.](/micrographics/seed-phrase-on-paper-01/lt.md)
 
 
 Saugokite [pradinę frazę](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) laikydamiesi šių taisyklių:
@@ -30,6 +33,7 @@ Kai kuriose piniginėse naudojamos papildomos slaptafrazės, keli raktai ar kito
 
 
 <!-- micrographic: seed-phrase-paper-backup-01 -->
+[Atkūrimo frazės atsarginės kopijos užrašymas trimis žingsniais: piniginės ekrane rodomi žodžiai, juos ranka perrašote ant popieriaus ta pačia tvarka, tada kiekvieną žodį palyginate su tekstu ekrane. Darykite tai privačiai ir neprisijungę prie interneto.](/micrographics/seed-phrase-paper-backup-01/lt.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)

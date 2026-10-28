@@ -1,10 +1,12 @@
 # 4.13 Bita: Haɗa wannan da al'ummarku
 
 <!-- micrographic: community-review-path-01 -->
+[Hanyar nazarin misalin amfani da Bitcoin a wani yanki: ku fara daga ainihin buƙata, ku bincika ko Bitcoin ya dace, sannan ku duba hanyar biyan kuɗi, riƙon maɓallai, jimillar kuɗin da ake kashewa, tsaro da yanayin yankin, ku kuma ƙare da shaidar nasara.](/micrographics/community-review-path-01/ha.md)
 
 
 
 <!-- micrographic: community-review-table-01 -->
+[Teburin bitar misalin yankin: ga kowane jigo, daga ainihin buƙata zuwa mataki na gaba da ya dace a ɗauka cikin taka tsantsan, akwai tambayar da za ku yi da kuma fili na zaɓi don rubuta bayanan kulawarku.](/micrographics/community-review-table-01/ha.md)
 
 
 Ku kammala wannan bita da kanku, sannan ku kwatanta dalilanku da na ƙungiyarku ko rukunin karatunku. Ku yi la'akari da misalin yankinku da kuka nazarta: wace buƙata ta gaske ya biya, wane aikin kuɗi aka yi amfani da shi, kuma an tura [ƙima](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) a kan sarkar, ta hanyar Lightning, ko ta hanyoyin biyu? Ku tambayi wanda yake da iko da maɓallan, mene ne babbar fa'ida da haɗari mafi tsanani, da yadda dokokin yankin, ababen more rayuwa, harshe, ko al'ada suka shafi sakamakon. Mataki na gaba mai nuna ɗaukar nauyi shi ne wanda ya dace da yanayin yankin, ya bayyana farashi da [riƙon kadarori](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) a sarari, ya rage kurakurai da zamba, kuma za a iya tantance shi bisa hujjoji.

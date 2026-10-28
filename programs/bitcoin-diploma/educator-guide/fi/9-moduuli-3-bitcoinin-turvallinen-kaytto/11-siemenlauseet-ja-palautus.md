@@ -12,6 +12,7 @@ Opettakaa seuraukset:
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Palautuslause on järjestetty sanalista, tässä kaksitoista numeroitua esimerkkisanaa paperille kirjoitettuina. Oikeilla sanoilla oikeassa järjestyksessä voi palauttaa hallinnan yhteensopivassa lompakossa, joten palautuslause pidetään salassa ja verkon ulkopuolella.](/micrographics/seed-phrase-on-paper-01/fi.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
@@ -43,10 +44,12 @@ Opettakaa seuraukset:
 
 
 <!-- micrographic: recovery-practice-lanes-01 -->
+[Oppija noudattaa palautusharjoituksen vaiheita yksityisessä tilassa, tarkistaa odotetun tuloksen, tyhjentää laitteen ja palauttaa tai tuhoaa kuvitteellisen materiaalin. Kouluttaja tarkkailee päätöksiä ja turvallista käsittelyä, mutta ei koskaan näe salaisia palautussanoja.](/micrographics/recovery-practice-lanes-01/fi.md)
 
 
 
-> **Callout – Pitäkää paljastunutta siemenlausetta vaarantuneena**
+<!-- card: callout -->
+> **Pitäkää paljastunutta siemenlausetta vaarantuneena**
 >
 > Jos oikea siemenlause on saattanut paljastua, lakatkaa käyttämästä sitä turvallisena varmuuskopiona, luokaa uusi luotettu lompakko uusilla palautustiedoilla ja siirtäkää varat tarkistettuanne ensin kohteen huolellisesti. Oppijan tulisi hakea apua paljastamatta kumpaakaan lausetta.
 

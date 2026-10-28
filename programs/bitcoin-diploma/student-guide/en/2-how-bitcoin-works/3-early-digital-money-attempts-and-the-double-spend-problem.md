@@ -11,6 +11,7 @@ Bitcoin was not the first attempt at digital money. It was built on four decades
 Together, these experiments showed useful pieces of the puzzle. They also clarified the remaining problem.
 
 
+<!-- card: definition -->
 > **Definition – Double spending**
 >
 > [Double spending](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending) is an attempt to send the same digital unit to two recipients. Digital data can be copied perfectly, so a digital money system needs a way to establish which [transaction](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) is valid.
@@ -28,6 +29,7 @@ The whitepaper brought together the features needed for that approach:
 
 
 <!-- micrographic: five-part-response-01 -->
+[Five parts combine to answer the double-spend problem: a peer-to-peer network, digital signatures, blocks and mining, independent verification, and a shared history with the most accumulated proof of work. Together they let the network reject a second spend without a central authority.](/micrographics/five-part-response-01/en.md)
 
 
 This module explains these concepts in more detail. Together, they gave a practical answer to the [double-spend problem](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): the network can reject a second attempt to spend the same bitcoin without relying on a central authority. Bitcoin offered the missing combination that decades of digital-money experiments had been seeking.

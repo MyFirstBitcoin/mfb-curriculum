@@ -1,6 +1,7 @@
 # 10.4 Công cụ xây dựng mô-đun theo bảy bước
 
 <!-- micrographic: seven-step-module-builder-01 -->
+[Bảy bước lập kế hoạch đi từ bối cảnh và nhu cầu địa phương đến một nhiệm vụ có trọng tâm, đã được xác minh, một trình tự giảng dạy an toàn, cách đánh giá rõ ràng và phần tổng kết. Phương án hiện có luôn được cân nhắc, và nếu một phương án không phù hợp thì quay lại lập kế hoạch.](/micrographics/seven-step-module-builder-01/vi.md)
 
 
 #### 1. Tìm hiểu bối cảnh địa phương

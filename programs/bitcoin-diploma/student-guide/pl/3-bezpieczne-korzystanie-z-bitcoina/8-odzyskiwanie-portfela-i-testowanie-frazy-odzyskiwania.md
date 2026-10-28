@@ -8,6 +8,7 @@ Bezpieczne ćwiczenie przygotowujące do odzyskiwania portfela jest proste:
 
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[Sześcioetapowe ćwiczenie odzyskiwania portfela szkoleniowego: proszę postępować zgodnie z oficjalnymi instrukcjami, sprawdzić zgodność, pracować z zachowaniem prywatności, użyć zatwierdzonej metody odzyskiwania, potwierdzić, że jest to oczekiwany portfel, a następnie zresetować środowisko. Proszę używać wyłącznie przygotowanych, pustych lub symulowanych materiałów. Osoba prowadząca zajęcia nigdy nie widzi słów odzyskiwania.](/micrographics/practice-wallet-recovery-01/pl.md)
 
 
 Po uzyskaniu Dyplomu nie należy używać portfela ćwiczeniowego ani informacji potrzebnych do jego odzyskania do zabezpieczania znacznych środków. Osobisty portfel, jeśli zdecydują się Państwo później go utworzyć, wymaga nowej konfiguracji przeprowadzonej w warunkach zapewniających prywatność oraz nowych informacji potrzebnych do odzyskiwania.

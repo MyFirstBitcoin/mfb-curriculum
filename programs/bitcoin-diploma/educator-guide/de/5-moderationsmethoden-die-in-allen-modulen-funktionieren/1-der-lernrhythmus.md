@@ -14,3 +14,4 @@ Verwenden Sie für die meisten Konzepte diese Abfolge:
 
 
 <!-- micrographic: learning-rhythm-01 -->
+[Die Lehrkraft legt den Zweck fest, aktiviert Vorwissen, erklärt, überprüft, leitet die Anwendung an, regt zur eigenständigen Erarbeitung an, bespricht nach, lädt zur Reflexion ein und verknüpft mit dem nächsten Konzept. Unklare Antworten führen zurück zur Erklärung oder zum Üben.](/micrographics/learning-rhythm-01/de.md)

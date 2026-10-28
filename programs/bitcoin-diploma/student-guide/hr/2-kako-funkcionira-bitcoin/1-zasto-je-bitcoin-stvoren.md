@@ -10,6 +10,7 @@ Bitcoin je stvoren kako bi riješio taj problem uz pomoć [mreže ravnopravnih s
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Kod tvrtke za platni promet jedna organizacija vodi glavnu knjigu i odobrava svaki prijenos. Kod Bitcoina pošiljatelj potpisuje transakciju, neovisni čvorovi je provjeravaju, a rudari je dodaju u jednu zajedničku glavnu knjigu, pa primatelj manje ovisi o središnjem tijelu.](/micrographics/central-ledger-vs-bitcoin-01/hr.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)

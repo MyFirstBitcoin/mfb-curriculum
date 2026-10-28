@@ -4,6 +4,7 @@ As pessoas costumam buscar alternativas a manter dinheiro em espécie quando acr
 
 
 <!-- micrographic: saving-alternatives-table-01 -->
+[Uma tabela com três alternativas a manter dinheiro em espécie (metais preciosos, imóveis e ações), cada uma com os motivos pelos quais as pessoas podem escolhê-la e suas contrapartidas importantes. Nenhuma é classificada acima das outras.](/micrographics/saving-alternatives-table-01/pt-BR.md)
 
 
 Um [ativo](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) é algo que uma pessoa pode possuir ou reivindicar e que pode ter [valor](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); ele não cumpre automaticamente todas as funções do dinheiro. Uma casa pode armazenar [valor](https://curriculum.myfirstbitcoin.org/lexicon/en/#value), mas não é prática para comprar comida. Uma ação pode ser fácil de vender em um país, mas inacessível para alguém sem conta em uma corretora. [O ouro](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) serviu como dinheiro durante longos períodos da história, mas pode ser difícil de verificar ou dividir em uma troca pequena.

@@ -6,6 +6,7 @@ Kas paskatintų Jus sustoti prieš atliekant mokėjimą ar diegiant programą? �
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Penki sukčiavimo požymiai: skubinimas, apsimetimas kitu asmeniu, pakeistas gavėjo adresas, garantuota grąža ir prašymai atskleisti slaptą informaciją.](/micrographics/scam-red-flags-01/lt.md)
 
 
 Saugi reakcija visada tokia: **Sustokite. Niekuo nesidalykite. Nieko nesiųskite. Nutraukite ryšį. Patikrinkite informaciją savarankiškai, pasitelkdami žinomą šaltinį. Prašykite pagalbos neatskleisdami paslapčių.** Žinomas šaltinis – tai oficiali svetainė, programėlės puslapis parduotuvėje ar susisiekimo būdas, kurį radote savarankiškai, o ne per reklamą, privačią žinutę ar netikėtą nuorodą. Patikrinkite leidėją ir svetainės adresą, palyginkite šią informaciją su oficialia dokumentacija, o kontaktinius duomenis susiraskite atskirai. Jei šaltinis, instrukcijos ar mokėjimo duomenys neatitinka parodytos veiksmų eigos, sustokite ir kreipkitės pagalbos į savo mokytoją ar patikimus vietinius pagalbos teikėjus, neatskleisdami [atkūrimo frazės](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) ar [privačiojo rakto](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key). Tikra galimybė niekur nedings dėl kruopštaus patikrinimo; sukčiavimo sėkmė dažnai priklauso nuo to, ar pavyksta tokio patikrinimo išvengti.

@@ -9,6 +9,7 @@ Utilizzi una risorsa locale limitata per distinguere quattro concetti:
 
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Un acquirente con un budget limitato osserva le opzioni che ha davanti: il cibo per oggi, i trasporti o il risparmio per il futuro. Sceglierne una significa rinunciare alle altre, e questo è il costo opportunità; nessuna opzione è indicata come quella giusta.](/micrographics/one-choice-two-uses-01/it.md)
 
 
 Chieda ai partecipanti di spiegare perché la sola rarità non crea [valore](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Un oggetto raro senza utilità né domanda può restare indesiderato.

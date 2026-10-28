@@ -13,6 +13,5 @@ Voor iemand die kiest voor [Self-custody](https://curriculum.myfirstbitcoin.org/
 [Self-custody](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) is daarom niet slechts een technische functie. Het vereist dat u back-ups beschermt, adressen verifieert, het gedrag van uw Wallet controleert en een herstelplan opstelt. De volgende module legt uit hoe u bitcoin zorgvuldig bewaart en gebruikt, inclusief hoe u deze risico's en verantwoordelijkheden beheert.
 
 
-> **Light**
->
+<!-- card: light -->
 > Persoonlijke verantwoordelijkheid betekent niet dat u alleen moet handelen of hulp moet weigeren. Een voorzichtige leerling kan gebruikmaken van educatie, beoordeling door anderen, gedocumenteerde procedures en kleine tests, zonder iemand toegang te geven tot geheime informatie.

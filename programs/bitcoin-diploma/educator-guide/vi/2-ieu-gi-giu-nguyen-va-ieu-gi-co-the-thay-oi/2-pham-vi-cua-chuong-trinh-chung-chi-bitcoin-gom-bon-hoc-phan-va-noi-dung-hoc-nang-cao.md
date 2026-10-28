@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: four-module-diploma-01 -->
+[Chương trình cấp chứng chỉ Bitcoin gồm bốn giai đoạn theo thứ tự: Vấn đề, Giải pháp, Hành động và Kết nối.](/micrographics/four-module-diploma-01/vi.md)
 
 
 **Mô-đun 4** là phần học bắt buộc của chương trình Văn bằng Bitcoin, do các nhà giáo tuyển chọn nội dung với vai trò là chuyên gia về lĩnh vực này tại địa phương. Tình huống hoặc công cụ có thể thay đổi, nhưng mọi người học muốn được cấp chứng nhận đều phải đáp ứng `C7` thông qua một hoạt động tại địa phương bao quát mục đích của `C7.1` và `C7.2`.

@@ -6,6 +6,7 @@ Use a generic guided table rather than promoting named [assets](https://curricul
 
 
 <!-- micrographic: compare-trust-models-01 -->
+[Bitcoin, a generic stablecoin model and a generic other token model are compared by who controls supply, what supports it, what a learner can verify and which counterparties exist. Wallets and services add their own risk to all three, so a similar screen does not mean the same trust model.](/micrographics/compare-trust-models-01/en.md)
 
 
 Do not imply that every non-Bitcoin [asset](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) has the same structure. The learner's task is to ask consistent questions about [issuer](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer), control, supply, verification, [custody](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), and counterparty dependence.

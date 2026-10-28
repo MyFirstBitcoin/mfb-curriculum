@@ -24,6 +24,7 @@ Untuk setiap jalur, ajukan pertanyaan berikut:
 
 
 <!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Seseorang dapat menerima bitcoin melalui empat cara berbeda: memperolehnya dari pekerjaan atau penjualan, menukarkan uang tunai lokal dengan orang lain, menggunakan bursa atau pialang, atau menggunakan ATM. Setiap cara berakhir pada penyimpanan mandiri atau saldo kustodial, dan tidak ada cara yang lebih direkomendasikan daripada yang lain.](/micrographics/ways-to-receive-bitcoin-01/id.md)
 
 
 Gunakan istilah [**no-KYC**](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) secara konsisten untuk jalur yang mengumpulkan lebih sedikit informasi identitas standar atau tidak mengumpulkannya sama sekali. Jangan menyiratkan bahwa [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) menghilangkan risiko penipuan, hukum, pihak lawan transaksi, atau keselamatan fisik. Jangan menganjurkan pengelakan hukum setempat.

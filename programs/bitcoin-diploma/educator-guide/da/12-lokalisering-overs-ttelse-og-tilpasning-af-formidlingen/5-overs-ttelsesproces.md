@@ -14,6 +14,7 @@ Brug denne rækkefølge:
 
 
 <!-- micrographic: translation-workflow-01 -->
+[Oversættelse er en proces med gennemgang og afprøvning: Forbered en klar engelsk tekst, oversæt betydningen, gennemgå oversættelsen med en sprogspecialist og en underviser, afprøv sikkerhedsanvisningerne med kursister, og bekræft derefter, at standarderne er på samme niveau. Uklare sikkerhedsanvisninger sendes tilbage til omformulering.](/micrographics/translation-workflow-01/da.md)
 
 
 Undgå idiomer og metaforer, der ikke let kan overføres til andre sprog og kulturer. Hvis der bruges en analogi, skal det altid angives, hvad den forklarer, og hvad den ikke forklarer.

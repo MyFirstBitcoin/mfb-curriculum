@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: daily-bitcoin-uses-01 -->
+[Sedam različitih načina korištenja Bitcoina u svakodnevnom životu: zarađivanje, štednja, primanje, slanje, trošenje, doniranje te određivanje cijena i računovodstvo. Svaki je mogući način korištenja, a ne obvezan korak.](/micrographics/daily-bitcoin-uses-01/hr.md)
 
 
 Bitcoin može funkcionirati kao novac na nekoliko načina. Trošenje je samo jedan od njih.
@@ -24,7 +25,7 @@ Bitcoin može funkcionirati kao novac na nekoliko načina. Trošenje je samo jed
 
 Za svaku upotrebu postavite tri pitanja:
 
-1. Koji postojeći problem [Bitcoin rješava](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) u ovom slučaju?
+1. Koji postojeći problem Bitcoin rješava u ovom slučaju?
 1. Je li Bitcoin u ovom slučaju bolji od dostupne alternative?
 1. Koju novu odgovornost ili rizik Bitcoin stvara?
 

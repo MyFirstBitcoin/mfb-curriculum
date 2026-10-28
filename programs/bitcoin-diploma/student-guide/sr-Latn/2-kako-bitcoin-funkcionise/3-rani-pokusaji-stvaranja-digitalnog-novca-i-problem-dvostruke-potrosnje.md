@@ -11,6 +11,7 @@ Bitcoin nije bio prvi pokušaj stvaranja digitalnog novca. Nastao je na osnovu �
 Zajedno, ovi eksperimenti su pokazali korisne delove slagalice. Takođe su razjasnili preostali problem.
 
 
+<!-- card: definition -->
 > **Definition – Dvostruko trošenje**
 >
 > [Dvostruko trošenje](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending) je pokušaj slanja iste digitalne jedinice dvama primaocima. Digitalni podaci mogu se savršeno kopirati, pa je sistemu digitalnog novca potreban način da utvrdi koja [transakcija](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) je važeća.
@@ -28,6 +29,7 @@ Beli papir je objedinio karakteristike potrebne za taj pristup:
 
 
 <!-- micrographic: five-part-response-01 -->
+[Pet delova zajedno rešava problem dvostrukog trošenja: mreža ravnopravnih učesnika, digitalni potpisi, blokovi i rudarenje, nezavisna provera i zajednička istorija sa najviše akumuliranog dokaza o radu. Zajedno omogućavaju mreži da odbaci ponovno trošenje istih sredstava bez centralnog autoriteta.](/micrographics/five-part-response-01/sr-Latn.md)
 
 
 Ovaj modul detaljnije objašnjava ove pojmove. Zajedno su pružili praktičan odgovor na [problem dvostruke potrošnje](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): mreža može da odbije drugi pokušaj trošenja istog bitcoina bez oslanjanja na centralni autoritet. Bitcoin je ponudio kombinaciju koja je nedostajala i za kojom se tragalo tokom decenija eksperimenata sa digitalnim novcem.

@@ -22,7 +22,7 @@ introduction, learning objectives, or notes for educators.
 |  | 1.7 | [அரசாணைப் பணம்](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/1/7.md) |
 |  | 1.8 | [பகுதியளவு இருப்பு வங்கி முறை](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/1/8.md) |
 |  | 1.9 | [பணவீக்கமும் வாங்கும் திறனும்](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/1/9.md) |
-|  | 1.10 | [அமெரிக்க டாலர் ஏன் உலகின் இருப்பு நாணயமாக உள்ளது?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/1/10.md) |
+|  | 1.10 | [அமெரிக்க டாலர் ஏன் உலக இருப்பு நாணயமாக உள்ளது](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/1/10.md) |
 |  | 1.11 | [சேமிப்பதற்கும் மதிப்பைத் தக்கவைப்பதற்குமான மாற்று வழிகள்](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/1/11.md) |
 |  | 1.12 | [மத்திய வங்கி டிஜிட்டல் நாணயங்கள் (CBDCs)](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/1/12-cbdcs.md) |
 |  | 1.13 | [மீளாய்வு: பணம் எவ்வாறு செயலிழக்கக்கூடும்?](https://github.com/MyFirstBitcoin/mfb-curriculum/blob/main/programs/bitcoin-diploma/student-guide/ta/1/13.md) |

@@ -4,6 +4,7 @@ Ludzie często szukają alternatyw dla trzymania gotówki, gdy sądzą, że stra
 
 
 <!-- micrographic: saving-alternatives-table-01 -->
+[Tabela przedstawiająca trzy alternatywy dla trzymania gotówki (metale szlachetne, nieruchomości i akcje), wraz z powodami, dla których ludzie mogą je wybierać, oraz istotnymi kompromisami, z jakimi się wiążą. Żadna z nich nie jest oceniana wyżej od pozostałych.](/micrographics/saving-alternatives-table-01/pl.md)
 
 
 Pojedynczy [składnik aktywów](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) to coś, co dana osoba może posiadać lub do czego może mieć prawo i co może mieć [wartość](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); nie pełni on automatycznie wszystkich funkcji pieniądza. Dom może przechowywać [wartość](https://curriculum.myfirstbitcoin.org/lexicon/en/#value), ale nie jest praktycznym środkiem do kupowania żywności. Akcję może być łatwo sprzedać w jednym kraju, ale może ona być niedostępna dla osoby bez rachunku maklerskiego. [Złoto](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) służyło jako pieniądz przez długie okresy w historii, ale podczas drobnej wymiany trudno może być sprawdzić jego autentyczność lub je podzielić.

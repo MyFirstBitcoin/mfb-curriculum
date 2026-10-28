@@ -4,6 +4,7 @@ Ensine a [inflação de preços](https://curriculum.myfirstbitcoin.org/lexicon/e
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[As mesmas 100 unidades de moeda compram a cesta inteira de bens básicos quando ela custa 100, mas não quando a mesma cesta custa 110. O nível de preços subiu e o poder de compra do dinheiro caiu.](/micrographics/same-money-smaller-basket-01/pt-BR.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)

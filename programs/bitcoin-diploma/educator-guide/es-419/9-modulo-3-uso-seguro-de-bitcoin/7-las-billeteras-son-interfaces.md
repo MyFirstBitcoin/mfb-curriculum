@@ -13,6 +13,7 @@ Muestre la separación entre:
 
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Una billetera guarda las claves. Con ellas usted puede recibir y enviar bitcoin, mientras que el bitcoin en sí permanece registrado en el registro compartido, no dentro del celular o dispositivo.](/micrographics/wallet-manages-keys-01/es-419.md)
 
 
 Pregunte:

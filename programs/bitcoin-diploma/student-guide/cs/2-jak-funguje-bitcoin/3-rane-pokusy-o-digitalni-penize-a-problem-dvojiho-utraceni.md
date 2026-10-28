@@ -11,6 +11,7 @@ Bitcoin nebyl prvním pokusem o digitální peníze. Vycházel ze čtyř desetil
 Tyto experimenty společně ukázaly užitečné dílky skládačky. Také objasnily zbývající problém.
 
 
+<!-- card: definition -->
 > **Definition – Dvojí utrácení**
 >
 > [Dvojí utrácení](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending) je pokus o odeslání téže digitální jednotky dvěma příjemcům. Digitální data lze dokonale kopírovat, a proto systém digitálních peněz potřebuje způsob, jak určit, která [transakce](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) je platná.
@@ -28,6 +29,7 @@ Whitepaper spojil vlastnosti potřebné pro tento přístup:
 
 
 <!-- micrographic: five-part-response-01 -->
+[Pět prvků společně řeší problém dvojího utracení: síť typu peer-to-peer, digitální podpisy, bloky a těžba, nezávislé ověřování a sdílená historie s největším množstvím nahromaděné práce doložené důkazem prací. Společně umožňují síti odmítnout opětovné utracení stejných prostředků bez centrální autority.](/micrographics/five-part-response-01/cs.md)
 
 
 Tento modul vysvětluje tyto pojmy podrobněji. Společně přinesly praktické řešení [problému dvojího utrácení](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): síť může odmítnout druhý pokus utratit tentýž bitcoin, aniž by se spoléhala na centrální autoritu. Bitcoin nabídl chybějící kombinaci, kterou se po desetiletí snažily najít experimenty s digitálními penězi.

@@ -5,7 +5,8 @@
 Verzenden vraagt meer zorg, omdat een geldige Bitcoin-[transactie](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) meestal moeilijk of onmogelijk terug te draaien is. Kunt u, voordat u op de knop voor goedkeuring drukt, uitleggen wie de betaling ontvangt en waarom?
 
 
-> **Callout – Stop en controleer vóór het verzenden**
+<!-- card: callout -->
+> **Stop en controleer vóór het verzenden**
 >
 > Controleer de ontvanger, de betaalmethode, de bestemming, het bedrag en de eenheid, de kosten of de vervaltijd, en het laatste scherm. Als iets afwijkt van het vertrouwde verzoek, of als iemand haast maakt of om herstelgegevens vraagt, stop dan en controleer het verzoek zelfstandig. Doe een kleine test als het proces u onbekend is.
 
@@ -21,6 +22,7 @@ Verzenden vraagt meer zorg, omdat een geldige Bitcoin-[transactie](https://curri
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Voordat de verzender een betaling goedkeurt, controleert hij de ontvanger en het doel, de betaalmethode, de bestemming en het bedrag, de eenheid, de transactiekosten of de vervaltijd, met een kleine test als het proces onbekend is. Wijkt er iets af, dan stopt hij en controleert hij; hij keurt alleen goed als alles overeenkomt en controleert daarna het resultaat.](/micrographics/pre-send-checklist-01/nl.md)
 
 
 Bij een [on-chain betaling](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment) worden de **netwerkkosten** betaald voor het opnemen van de [transactie](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) in een block. Ze hangen vooral af van de [transactie](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction)gegevens en de vraag naar [blockruimte](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-space), en niet simpelweg van het verzonden bedrag. Kostenschattingen en verwerkingstijden kunnen veranderen, dus lees het eindoverzicht in plaats van aan te nemen dat een betaling met een lage waarde ook lage kosten heeft.

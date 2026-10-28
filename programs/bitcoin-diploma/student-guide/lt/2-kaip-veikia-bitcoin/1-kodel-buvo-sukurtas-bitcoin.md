@@ -10,6 +10,7 @@ Bitkoinas buvo sukurtas šiai problemai išspręsti pasitelkiant [lygiaverčių 
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Naudojantis mokėjimų bendrove, viena organizacija tvarko apskaitos žurnalą ir patvirtina kiekvieną pervedimą. Naudojantis Bitkoinu, siuntėjas pasirašo sandorį, nepriklausomi mazgai jį patikrina, o kasėjai įtraukia į vieną bendrą apskaitos žurnalą, todėl gavėjas mažiau priklauso nuo centrinės institucijos.](/micrographics/central-ledger-vs-bitcoin-01/lt.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)

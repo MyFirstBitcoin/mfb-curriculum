@@ -1,5 +1,6 @@
 # 3.3 Alamat
 
+<!-- card: definition -->
 > **Definition – Alamat Bitcoin**
 >
 > Sesuatu [alamat Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) ialah maklumat penerimaan awam untuk [pembayaran dalam rantaian](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment). Dompet biasanya memaparkannya sebagai teks dan kod QR supaya orang lain boleh menghantar bitcoin kepada anda. Tidak seperti kata laluan atau [kunci peribadi](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), alamat tidak boleh membenarkan perbelanjaan.
@@ -7,6 +8,7 @@
 
 
 <!-- micrographic: address-two-formats-01 -->
+[Skrin penerimaan dompet memaparkan satu contoh alamat Bitcoin sebanyak dua kali: sebagai kod QR dan sebagai teks. Kedua-duanya ialah maklumat penerimaan awam yang sama, dan kedua-duanya tidak boleh membenarkan perbelanjaan.](/micrographics/address-two-formats-01/ms.md)
 
 
 Jika anda ingin menerima [pembayaran dalam rantaian](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), dari manakah alamat itu patut diperoleh? Buka dompet yang ingin digunakan dan gunakan skrin penerimaannya. Pengirim boleh mengimbas kod QR atau menyalin alamat tersebut. Ini mengelakkan kesilapan yang boleh berlaku apabila rentetan aksara yang panjang ditaip secara manual.
@@ -15,9 +17,9 @@ Bagi setiap permintaan pembayaran, sahkan kaedah pembayaran yang dimaksudkan. Al
 
 
 <!-- micrographic: sample-lightning-invoice-01 -->
+[Contoh invois Lightning pada skrin menunjukkan kaedah pembayaran, penerima dan amaun di sebelah kod QRnya. Butiran yang boleh dibaca dan kod QR tersebut merupakan permintaan pembayaran yang sama dalam dua format.](/micrographics/sample-lightning-invoice-01/ms.md)
 
 
 
-> **Light**
->
+<!-- card: light -->
 > Apabila sesuatu pembayaran itu penting, jangan anggap sesuatu alamat selamat hanya kerana alamat itu kelihatan biasa. Sahkan penerima yang dimaksudkan, [rangkaian Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network) yang betul, destinasi dan kaedah pembayaran. Lakukan ujian dengan amaun kecil terlebih dahulu apabila anda kurang biasa dengan proses atau amaun tersebut.

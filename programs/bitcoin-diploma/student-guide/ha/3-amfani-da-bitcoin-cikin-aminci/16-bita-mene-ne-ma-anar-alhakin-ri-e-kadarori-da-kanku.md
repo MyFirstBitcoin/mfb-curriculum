@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: self-custody-responsibilities-01 -->
+[Ikon maɓallai yana tsakiyar nauyi takwas: yin kwafin ajiya, dawo da damar shiga, karɓa, aikawa, zaɓin kayan aiki, hanyar saye, sirri da binciken zamba. Kowannensu yana kare wani abu, kuma gazawa a kowane ɗayansu na iya jawo asarar damar shiga, kuɗi ko sirri.](/micrographics/self-custody-responsibilities-01/ha.md)
 
 
 
 <!-- micrographic: responsibility-checks-01 -->
+[Tebur mai nuna ayyuka shida na riƙon dukiya da kanku, abin da za a kare ko a bincika a kowane aiki, da abin da zai iya faruwa idan aka samu matsala: ajiyar madadi, karɓa, aikawa, riƙon dukiya, zaɓin kayan aiki da samowa.](/micrographics/responsibility-checks-01/ha.md)
 
 
 Ku yi tunanin wani abokinku ya aiko muku da buƙatar biyan kuɗi, a daidai lokacin da wani asusun tallafi da ba ku sani ba yake cewa dole ku ɗauki mataki nan take. Me za ku iya bincikawa kafin yin komai? Za ku iya kare tsarin farfaɗowa, bambance bayanan karɓar kuɗi da bayanan sirri, sannan ku tabbatar da mutumin, hanyar biyan kuɗi, inda za a aika, adadin kuɗi, da abin da ke allon ƙarshe kafin aikawa? Ko sabis ne ke sarrafa maɓallan ko kuma ku ne, taƙaitaccen abin yi bai bambanta ba: ku kare bayanan sirri, ku tabbatar kafin amincewa, ku gane alamun zamba, sannan ku rage girman kurakurai yayin koyo.

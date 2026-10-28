@@ -10,6 +10,7 @@ Tại địa phương của quý vị, **Mô-đun 4** có hoạt động giúp q
 
 
 <!-- micrographic: local-module-four-actions-01 -->
+[Trong Mô-đun 4 gắn với địa phương, người học lần lượt thực hiện bốn hành động: liên hệ một ý tưởng từ Mô-đun 1 đến 3 với một nhu cầu tại địa phương, so sánh Bitcoin với một lựa chọn hiện có và khả thi, thực hành an toàn với sự hướng dẫn, và giải thích những điều đã học cùng một bước tiếp theo có trách nhiệm. Nhà giáo dục phụ trách, và đôi khi cả một chuyên gia địa phương, hướng dẫn họ trong suốt quá trình.](/micrographics/local-module-four-actions-01/vi.md)
 
 
 Hoạt động của quý vị có thể tìm hiểu những câu hỏi như:

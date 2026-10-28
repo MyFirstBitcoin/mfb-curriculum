@@ -40,7 +40,8 @@ Du ko am ci liggéey, du ko jëndee dara, waaye xalaat ci lan la ak ni muy doxee
 * Ndax seen xaalis mën na jënd lu tollu ni li mu daan jënd woon?
 
 
-> **Callout – Dencleen seeni tontu**
+<!-- card: callout -->
+> **Dencleen seeni tontu**
 >
 > Bindleen tontu bu gàtt ci bépp laaj. Dinañu ci dellusi ci mujj gi.
 
@@ -85,6 +86,7 @@ Nit ñaar ñi, ku nekk war na bëgg li ki ci des am, ci benn jamono te ci ay day
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina am na ceeb te bëgg dàll, Luis am na dàll te bëgg diwu togg, te Mei am na diwu togg te bëgg liggéeyu defar. Amul ñaar ñu mën a weccante ci seen biir, ndax kenn ci ñoom bëggul li keneen ki di joxe.](/micrographics/barter-mismatch-01/wo.md)
 
 <!-- notes: Jëfandikuleen misaal bi ci téereb gindikaay bi: dangeen di bey ceeb te soxla dàll, waaye defarkatu dàll bi diwlin rekk la bëgg, du ceeb. Boroom xam-xamu koom-koom yi dañuy woowe loolu dëppook soxlay ñaari nit. -->
 
@@ -151,6 +153,7 @@ Bu nit ñi déggee baatu inflasiyoŋ, dañuy faral di xalaat ne njëg yi dañuy 
 ## Yokku njëg yi ak kàttanu jënd
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[100 i inite yu xaalis yooyu mën nañu jënd lépp li nekk ci dàmba gu ëmb soxlay dund yi, bu fekkee 100 la jar, waaye duñu ko mën bu fekkee dàmba googu 110 la jar. Tolluwaayu njëg yi yegg na te kàttanu jëndu xaalis bi wàññiku na.](/micrographics/same-money-smaller-basket-01/wo.md)
 
 <!-- notes: Yéegug njëg mooy yéeg gu sax ci tolluwaayu njëgi mbir yi ci seen mboolem. Wàllam wi ci des mooy dooley jënd: limu mbir yi benn wàllu xaalis man a jënd. Su njëgu dàmbu mbir yu ñu soxla yéegee, jóge ci 100 wàllu xaalis ba 110, 100 wàllu xaalis yooyu dootuñu man a jënd dàmb bi bépp. -->
 
@@ -213,8 +216,7 @@ Xaalis bi nekk ci seen koontu bànk du benn ak xaalis bi nekk ci seen loxo: mooy
 * Waaye limu xaalis bi ak sàrtam yi man nañu soppeeku, te ñi koy jëfandikoo amuñu ci kàddu gu bari
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Looloo tax nit ñi di wut yeneen wuutukaay, te moo tax ñu sos Bitcoin.
 
 ---
@@ -233,6 +235,7 @@ Xaalis bu dijitaal bu amul benn kilifa gu ko doxal, bu limam am àpp, te ñu më
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Ci kompani buy def ay pey, benn mbootaay moo yor téereb kont bi te di nangu yónnee xaalis gu nekk. Ci Bitcoin, ki yónnee dafay xaatim ab joxante, ponki lëkkale yu boppam seetlu ko, te gaskat yi yokk ko ci benn téereb kont bu ñépp bokk, ba tax ki war a jot gën a bañ a sukkandiku ci benn kilifa gu digg bi.](/micrographics/central-ledger-vs-bitcoin-01/wo.md)
 
 <!-- notes: Bala Bitcoin di am, yónnee xaalis ci internet daan na sukkandiku saa su nekk ci këru liggéey gu ñu wóolu: ab bànk walla ab këru feyukaay buy yor téereb bindug xaalis bi, di nangu koont yi, te man a yéexal, tëye walla delloo ab pey. Xibaar bu dijitaal yomb na a sotti: bu ñu manoon a feye ñaari yoon ak benn weccitu xaalis bu dijitaal, du man a nekk xaalis. Loolu mooy jafe-jafeb feye ñaari yoon ak benn xaalis. Satoshi Nakamoto mooy nit walla mbooloo muy jëfandikoo tur woowu. -->
 
@@ -253,6 +256,7 @@ Amul benn antepriis bu mën a tëye bitcoin yi ngeen di saytu seen bopp. Beneen 
 ## Ab àpp bu ku nekk mën a wóoral
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Kem bu ñu bind ci dalub web walla ci dencukaayu njoxe yu ki génne xaalis bi, ki ko génne mën na koo soppi te kenn yëgu ko. Sàrtu limu xaalisu Bitcoin, ñépp mën nañu koo gis, te xaatim yi, jaar-jaar bu ñépp mën a gis, firndey liggéey ak saytu gi nóod yi di def dañuy ànd di tere ñu sos xaalis bu bees walla ñu fey ñaari yoon ak benn bitcoin bi.](/micrographics/claimed-or-verified-supply-01/wo.md)
 
 <!-- notes: Bitcoin yu bees dañuy génn ci ab tëralinu waxtu bu ñépp mën a xool, te ordinatëër yu moom seen bopp, ñuy woowe «nodes», dañuy bañ bépp bolok buy moy sàrt boobu. Mën nañu wóolu kem gu ñu tëral, ndax ku nekk mën na ko seetlu. Du sàrtu mbind mi: dafay sax ndax ñi ci bokk dañuy wéy di ko sàmm. Lim bu am kem ci bitcoin yi mën a am du firnde ne njëg gi dina yéeg; njëg gi aju na ci laaj bi ak li ñu mën a joxe. -->
 
@@ -264,6 +268,7 @@ Benn bitcoin mën nañu ko séddale ci 100 000 000 cér yu gën a ndaw yu ñuy w
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Tablo bu am ñaari kolon: 1 BTC day tollook 100 000 000 sats, 0,1 BTC day tollook 10 000 000 sats, 0,01 BTC day tollook 1 000 000 sats, 0,001 BTC day tollook 100 000 sats, te 0,00000001 BTC day tollook 1 sat.](/micrographics/bitcoin-and-sats-01/wo.md)
 
 <!-- notes: Yor 100 000 sats ak yor 0,001 bitcoin benn dayob xaalis la. Jubbantileen xalaat bu juum bi ne Bitcoin lu nit ñi mënta am la ndax benn bitcoin dafa seer. -->
 
@@ -272,6 +277,7 @@ Benn bitcoin mën nañu ko séddale ci 100 000 000 cér yu gën a ndaw yu ñuy w
 ## Kan mooy doxal Bitcoin?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Ñeenti sas ci Bitcoin: jëfandikukat yi dañuy jot, denc te yónnee bitcoin, jokkuwaay yi di seet ci seen bopp ndax ñu topp nañu sàrt yi, gaskat yi di tabax blook yu ñuy jébbal ak firndeg liggéey, te defarkati porogaraam yi di jébbal porogaraam. Amul benn sas bu moom rekk di jiite lëkkale gi.](/micrographics/bitcoin-participant-roles-01/wo.md)
 
 <!-- notes: Jëfandikukat yi dañuy yónnee, jot ak denc bitcoin; nod yi di seet ndax bépp toxal ak bépp bolok dëppoo nañu ak sàrt yi; gasukati bitcoin yi di joŋante ngir yokk bolok bu bees ci dencukaayu bind yi lu tollu ci fukki simili yu nekk. Dencukaay boobu, di blockchain bi, ñépp a ko man a gis, te soppali bind yi ci nekk dafay laaj coono ak xaalis lu bare. Benn leeral ci mbind mi: Bitcoin bu tàmbalee ak B bu mag dafa faral di tekki lëkkale gi walla sistem bi; bitcoin bu tàmbalee ak b bu ndaw mooy xaalis bi ci boppam. -->
 
@@ -307,6 +313,7 @@ Laaj bi jëkk ci bépp dencukaayu xaalis: kan moo yilif caabi yi?
 ## Ab mbuus dafay saytu caabi yi
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Portefeey day yor caabi yi. Ak caabi yooyu, mën ngeen a jot bitcoin te yónnee ko, fekk bitcoin bi ci boppam bindu ci téereb kont bi ñu bokk, te nekkul ci biir telefon bi walla jumtukaay bi.](/micrographics/wallet-manages-keys-01/wo.md)
 
 <!-- notes: Mbuusum Bitcoin ab jumtukaay la, di faral di ab aplikaasiyoŋ bu leen may ngeen jot, seet te yónnee bitcoin. Seen bitcoin dencuwul ci biir seen telefon: ci blockchain bi lañu ko bind. Mbuus bi moo di toppatoo caabi yi leen di may ngeen firndeel ne moom ngeen bitcoin bi te may ndigal ngir peyoor. -->
 
@@ -331,6 +338,7 @@ Ab limu baat yu tërtoo, yu faral di doon 12 walla 24, te mën a sàkkaat seen c
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Ab waxu delloo saaku mooy limu baat yu ñu tëral ci toftal bu wér; fii, fukki baat ak ñaar yu ñu jox nimero te bind leen ci kayit lañu joxe ci misaal. Baat yi war ci toftal bi war mën nañu delloo sañ-sañu saytu ab saaku bu leen àndal, moo tax ñu war leen a denc ci sutura te bañ leen a lëkkale ak internet.](/micrographics/seed-phrase-on-paper-01/wo.md)
 
 <!-- notes: Baati ndëkkital yi duñu rekk sottib kaaraange: dañuy may ku leen am mu man a dugg ci lépp. Bindleen leen bu baax ci kayit bi ngeen di sos mbuusum xaalis bi; dencleen leen ci lu lëkkalul ak internet, bañ leen a séddale ak kenn, te teg leen fu ñu dul réer walla yàqu. Buleen leen mukk nataal, yónnee ci imeel, denc ci kaye yu nekk ci niirug internet, yónnee ci bataaxal, walla bind ci dalub web. Baat yi ñu wone ay misaal rekk lañu; buleen mukk wone walla dajale ay baati ndëkkital yu dëgg. -->
 
@@ -365,6 +373,7 @@ Ab limu baat yu tërtoo, yu faral di doon 12 walla 24, te mën a sàkkaat seen c
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Fey yi jaar ci blockchain bi, ñu ngi leen di bind ci blockchain bu Bitcoin bi ci lu jub, fekk Lightning mooy lëkkale gu fey xaalis gu ñu tabax ci Bitcoin ngir fey yu gaaw te di faral di am, te man nañu lajj itam. Ci yoon wu nekk, mën na am ñeneen ñoo denc xaalis bi walla boroom bi mooy dencal boppam.](/micrographics/on-chain-and-lightning-01/wo.md)
 
 ---
 
@@ -375,7 +384,8 @@ Ab limu baat yu tërtoo, yu faral di doon 12 walla 24, te mën a sàkkaat seen c
 * **Buleen wóolu, wóorleel-leen.** Seetleen nit ki, anam gi ñuy faye, màkkaane bi ak limu xaalis bi.
 
 
-> **Callout – Séddooleen xibaar yi ñuy jëfandikoo ngir jot, waaye buleen séddoo kumpa yi mukk**
+<!-- card: callout -->
+> **Séddooleen xibaar yi ñuy jëfandikoo ngir jot, waaye buleen séddoo kumpa yi mukk**
 >
 > Mën nañu séddoo màkkaane walla laajub fay. Baat yi ñuy jëfandikoo ngir delloo caabi yi walla caabi bu kenn moom rekk, waruñu leen séddoo mukk. Benn jàngalekat, këmpani bu sàmmukaayu xaalis walla liggéeykat buy jàppale, bu dëggu, du leen ko laaj mukk.
 
@@ -389,6 +399,7 @@ Taxawleen su kenn di leen gaawal walla di leen laaj ngeen def lépp ci kumpa, di
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Juróomi màndargay njublaŋ: gaawantu, sàngoo turu keneen, jubluwaay bu soppeeku, njarin lu ñu dëggal ak laaj ay kumpa.](/micrographics/scam-red-flags-01/wo.md)
 
 ---
 
@@ -408,7 +419,8 @@ Lii tàmbali bi rekk la.
 * **Lii ndorteel rekk la.** Benn jéego bu am kaarange ngir jëm kanam doy na.
 
 
-> **Callout – Ab diir ngir xalaat**
+<!-- card: callout -->
+> **Ab diir ngir xalaat**
 >
 > Dellu ci juróomi laaj yi ci njàlbéen gi. Lan ngeen ciy tontu léegi?
 

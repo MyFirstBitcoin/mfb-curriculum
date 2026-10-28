@@ -6,11 +6,13 @@ Lokacin da bankin kasuwanci ya amince da lamuni, yawanci yana ƙirƙirar sabon a
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Bayani mai sauƙi kan rancen banki: mai karɓar rance yana neman rance, bankin ya amince da rancen kuma ya ƙara sabon kuɗin ajiya a asusun mai karɓar rancen, sannan daga baya mai karɓar rancen ya mayar wa bankin ainihin kuɗin rancen tare da ruwa.](/micrographics/bank-loan-deposit-01/ha.md)
 
 
 Bankuna gabaɗaya suna neman [riba](https://curriculum.myfirstbitcoin.org/lexicon/en/#bank-profit) ta hanyar samun kuɗin ruwa da kuɗaɗen caji daga lamuni da zuba jari, yayin da suke biyan kuɗaɗen gudanarwa, na samun jarin gudanarwa, da na bin dokokin sa ido, tare da ɗaukar asara idan masu karɓar lamuni ba su biya ba. Waɗannan ayyuka da iyakoki sun bambanta daga banki zuwa banki da kuma tsakanin yankunan da ke ƙarƙashin dokoki daban-daban.
 
 
+<!-- card: definition -->
 > **Definition – Tsarin banki na riƙe wani kaso na ajiya**
 >
 > [Tsarin banki na riƙe wani kaso na ajiya](https://curriculum.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking) yana bayyana tsarin da bankuna ke riƙe wani kaso kawai na kuɗin ajiyar da suke da wajibcin biya a matsayin ajiyar da za a iya amfani da ita nan take, yayin da suke bayar da lamuni da riƙe wasu [kadarori](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset). Adadin ajiyar da ake buƙata da sauran iyakoki sun bambanta tsakanin ƙasashe kuma suna iya sauyawa da shigewar lokaci.
@@ -23,6 +25,7 @@ Wannan yana haifar da muhimman haɗari guda biyu:
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Haɗarin ƙarancin kuɗin hannu: masu ajiya da yawa sun yi layi don cire kuɗi yau, kuma bankin ba shi da isassun kuɗin hannu yanzu duk da cewa ana iya biyan bashin da ya bayar daga baya. Haɗarin kasa biyan basussuka: masu karɓar bashi sun kasa biyan bashin gidajensu, kuma ƙimar kadarorin bankin ta yi ƙasa da bashin da ake binsa.](/micrographics/liquidity-vs-solvency-01/ha.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)

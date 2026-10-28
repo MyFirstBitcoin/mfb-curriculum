@@ -15,6 +15,7 @@ Use uma sequência de pausa e verificação:
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Antes de aprovar um pagamento, quem envia verifica o destinatário e o motivo, o método de pagamento, o destino e o valor, a unidade, a taxa ou o prazo de validade, fazendo um pequeno teste quando o processo não for familiar. Se algo estiver diferente, a pessoa para e verifica; só aprova quando tudo estiver de acordo e, depois, confere o resultado.](/micrographics/pre-send-checklist-01/pt-BR.md)
 
 
 Ensine os alunos a interromper o processo se o destinatário alterar o destino inesperadamente, desencorajar a verificação, criar urgência ou pedir informações de recuperação.

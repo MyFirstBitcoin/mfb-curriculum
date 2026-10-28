@@ -16,6 +16,7 @@ Kortlæg:
 
 
 <!-- micrographic: local-circular-economy-01 -->
+[I en cirkulær Bitcoin-økonomi går bitcoin fra person til person i bytte for varer, tjenester og tid. En kunde betaler en forhandler, forhandleren betaler en tjenesteudbyder, tjenesteudbyderen betaler en medarbejder, og medarbejderen bruger dem igen som kunde.](/micrographics/local-circular-economy-01/da.md)
 
 
 Ved søgning efter ressourcer skal De kontrollere:

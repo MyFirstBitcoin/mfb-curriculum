@@ -14,3 +14,4 @@ Verander één omstandigheid na het eerste antwoord. Bijvoorbeeld: het internet 
 
 
 <!-- micrographic: scenario-analysis-path-01 -->
+[Een fictief scenario loopt van het doel van de persoon en de geverifieerde feiten naar wie de controle heeft, de opties, wat er mis kan gaan en de kleinste veilige volgende stap. Als één voorwaarde verandert, keert de redenering terug naar de beslissing waarop die van invloed is.](/micrographics/scenario-analysis-path-01/nl.md)

@@ -1,5 +1,6 @@
 # 1.4 Barter dan Kebetulan Ganda Kebutuhan
 
+<!-- card: definition -->
 > **Definition – Barter**
 >
 > [Barter](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) adalah pertukaran langsung suatu barang atau jasa dengan barang atau jasa lainnya. Barter dapat berjalan dengan baik dalam pertukaran berskala kecil, tetapi menjadi sulit ketika melibatkan banyak orang dan produk.
@@ -11,6 +12,7 @@ Bayangkan bahwa **Amina** memiliki beras dan menginginkan sepatu. **Luis** memil
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina memiliki beras dan menginginkan sepatu, Luis memiliki sepatu dan menginginkan minyak goreng, dan Mei memiliki minyak goreng dan menginginkan jasa perbaikan. Tidak ada pasangan yang dapat melakukan barter secara langsung karena dalam setiap pasangan tidak ada kecocokan antara yang diinginkan dan yang ditawarkan.](/micrographics/barter-mismatch-01/id.md)
 
 
 Agar [barter](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) dapat berlangsung secara langsung, setiap orang harus menginginkan apa yang ditawarkan oleh pihak lain pada saat yang sama dan dalam jumlah yang sesuai. Para ekonom menyebut kondisi ini sebagai [**kecocokan ganda keinginan**](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-coincidence-of-wants).
@@ -31,3 +33,4 @@ Uang yang diterima secara umum memisahkan kegiatan menjual dari kegiatan membeli
 
 
 <!-- micrographic: sell-then-buy-01 -->
+[Amina menjual beras kepada seseorang untuk mendapatkan uang yang diterima secara umum, lalu menggunakan uang itu untuk membeli sepatu dari orang lain. Menjual dan membeli menjadi dua tindakan yang terpisah.](/micrographics/sell-then-buy-01/id.md)

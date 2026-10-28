@@ -12,3 +12,4 @@ Mind kursisterne om:
 
 
 <!-- micrographic: final-safety-check-01 -->
+[En sidste sikkerhedstjekliste med afkrydsninger: beskyt hemmeligheder, kontrollér betalingsoplysninger, test med små beløb, og stop, hvis De bliver presset. Hvis noget er uklart, skal De stoppe og lære mere, før De handler.](/micrographics/final-safety-check-01/da.md)

@@ -13,10 +13,12 @@ Before a Lightning workshop, verify and explain:
 * the offline simulation.
 
 
-> **Dark – One successful Lightning payment proves only that this route worked once**
+<!-- card: dark -->
+> **One successful Lightning payment proves only that this route worked once**
 >
 > It does not prove that the wallet is safe for larger balances or that the same path will work in every place.
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[A Lightning payment in six steps: the receiver creates a request, the sender scans it, checks recipient, amount, unit, expiry and fee, approves, the payment routes, and both wallets show the result. Each wallet may be custodial or self-custodial, and a failed or expired payment starts again with a new request.](/micrographics/lightning-payment-sequence-01/en.md)

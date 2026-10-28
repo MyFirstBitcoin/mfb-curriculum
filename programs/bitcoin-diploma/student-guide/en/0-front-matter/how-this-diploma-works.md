@@ -22,6 +22,7 @@ Each module follows the same rhythm:
 
 
 <!-- micrographic: learning-rhythm-strip-01 -->
+[A five-step learning rhythm: learn a key idea, show what you can explain or apply, apply the idea, explain it in your own words, and review how it connects to the next module.](/micrographics/learning-rhythm-strip-01/en.md)
 
 
 You will learn more by participating than by reading silently. Some questions do not have one correct answer. What matters is whether you can explain your reasoning, examine evidence, and revise your view when you learn something new.
@@ -81,7 +82,8 @@ When it is time to practice with a [Bitcoin wallet](https://curriculum.myfirstbi
 ### Safety, responsibility, and no financial advice
 
 
-> **Callout – Learn first; this is not a recommendation**
+<!-- card: callout -->
+> **Learn first; this is not a recommendation**
 >
 > The Bitcoin Diploma is for educational purposes only. It does not provide financial, investment, legal, or tax advice. It does not promise that bitcoin will increase in [price](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) or recommend that you buy, sell, borrow against, or hold any amount of bitcoin.
 >
@@ -104,6 +106,7 @@ The Diploma consists of a four-stage learning arc: **Problem → Solution → Ac
 
 
 <!-- micrographic: learning-path-roadmap-01 -->
+[A four-stage roadmap: Problem, Understanding Money; Solution, How Bitcoin Works; Action, Using Bitcoin Safely; and Connect, Bitcoin in Your Community, each with its guiding question.](/micrographics/learning-path-roadmap-01/en.md)
 
 
 **Module 4** is a required part of the Diploma, curated by the educator. Educators are the subject-matter experts on their students' local constraints, solutions, tools, resources, laws, language, infrastructure, and needs. The educator-curated Connect experience may include earning, saving, receiving, spending, [Layer 2](https://curriculum.myfirstbitcoin.org/lexicon/en/#layer-2) solutions, local exchange pathways, merchants, or circular economies.
@@ -118,6 +121,7 @@ The four modules provide the required Problem → Solution → Action → Connec
 
 
 <!-- micrographic: four-module-table-01 -->
+[A table of the four modules with each one's role, guiding question and what the learner will practise: Understanding Money, How Bitcoin Works, Using Bitcoin Safely and Bitcoin in Your Community.](/micrographics/four-module-table-01/en.md)
 
 
 The Diploma takes at least eight hours. Four two-hour sessions are the shortest planned format, not a time limit. Your educator may divide a module across more sessions, revisit an earlier idea, or change the order of individual sections when your cohort needs more time for discussion, practice, review, or assessment. There is no upper time limit: the educator remains responsible for giving learners the time they need, covering all required competencies, and making the connections among the modules clear.

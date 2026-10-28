@@ -3,6 +3,7 @@
 Asmeninių kompiuterių ir interneto plėtra atvėrė naujų bendravimo galimybių. Ji taip pat sukūrė naujų stebėjimo ir kontrolės formų. XX amžiaus pabaigoje programuotojų, matematikų ir aktyvistų grupė, vadinama [**šifropankais,**](https://curriculum.myfirstbitcoin.org/lexicon/en/#cypherpunk) tyrinėjo, kaip [kriptografija](https://curriculum.myfirstbitcoin.org/lexicon/en/#cryptography) galėtų apsaugoti [privatumą](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy) ir asmens laisvę skaitmeninėse sistemose.
 
 
+<!-- card: definition -->
 > **Definition – Kriptografija**
 >
 > [Kriptografija](https://curriculum.myfirstbitcoin.org/lexicon/en/#cryptography) naudoja matematinius metodus informacijai apsaugoti ir veiksmo autentiškumui įrodyti. [Šifravimas](https://curriculum.myfirstbitcoin.org/lexicon/en/#encryption) gali užtikrinti žinutės privatumą. [Skaitmeniniai parašai](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) gali įrodyti, kad žinutę ar nurodymą pateikė slaptojo rakto turėtojas, neatskleidžiant paties rakto.
@@ -16,3 +17,4 @@ Bitcoin buvo sukurtas remiantis daugelio žmonių dešimtmečius trukusiu darbu.
 
 
 <!-- micrographic: chain-of-ideas-01 -->
+[Idėjų grandinė: kriptografija paskatino skaitmeninių grynųjų pinigų tyrimus, kurie vedė link decentralizuotų skaitmeninių pinigų. Bitcoin nauju būdu sujungė daugelio žmonių per ankstesnius dešimtmečius atliktus darbus.](/micrographics/chain-of-ideas-01/lt.md)

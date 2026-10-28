@@ -3,6 +3,7 @@
 ![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
+<!-- card: definition -->
 > **Definition – Proof-of-Work**
 >
 > [Proof-of-Work](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) ni mchakato ambao [wachimbaji](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) hutumia kushindana kupata haki ya kupendekeza bloku inayofuata.
@@ -14,6 +15,7 @@ Wakati [mchimbaji](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) anap
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Mchimbaji anafanya hashi ya bloku linalopendekezwa tena na tena hadi tokeo moja liwe chini ya lengo la mtandao, kisha analitangaza bloku hilo. Nodi zinakagua uthibitisho na kila sheria haraka kabla bloku halijaunganishwa kwenye blockchain: kazi ni ghali kuzalisha na rahisi kuthibitisha.](/micrographics/proof-of-work-process-01/sw.md)
 
 
 [Proof-of-Work](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) ina malengo kadhaa:

@@ -14,6 +14,7 @@ Wenn die Gleichwertigkeit unsicher ist, nutzen Sie die Anpassung zum Üben und w
 
 
 <!-- micrographic: adapt-practice-or-assessment-01 -->
+[Übungsaktivitäten können an die Lernenden und den Kontext angepasst werden. Eine Aktivität, die zur Bewertung dient, muss Kompetenz, Nachweis, Selbstständigkeit, Sicherheit und Mindeststandard beibehalten; ist die Gleichwertigkeit unsicher, nutzen Sie die Anpassung für die Übung und wählen Sie eine eindeutigere Bewertungsaufgabe.](/micrographics/adapt-practice-or-assessment-01/de.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/8444d4c2c23ce8cb5b0103bb646ce8c50c4594c3-1536x1024.svg)

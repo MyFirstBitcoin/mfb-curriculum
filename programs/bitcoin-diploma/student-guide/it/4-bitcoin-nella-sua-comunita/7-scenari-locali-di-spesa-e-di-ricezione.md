@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[Un pagamento al bar in quattro passaggi: il cliente ordina, il barista invia una fattura, il cliente paga in bitcoin dal proprio telefono e il barista consegna il caffè.](/micrographics/coffee-shop-payment-01/it.md)
 
 
 Utilizzi beni e servizi familiari nel contesto locale. L'articolo specifico non conta; conta il ragionamento sul pagamento.

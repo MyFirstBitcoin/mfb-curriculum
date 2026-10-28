@@ -1,5 +1,6 @@
 # 3.6 Penggunaan dengan dan tanpa kustodian
 
+<!-- card: definition -->
 > **Definition – Penjagaan**
 >
 > [Penjagaan](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) menjawab satu soalan praktikal: siapakah yang mengawal kunci yang diperlukan untuk membelanjakan bitcoin?
@@ -15,10 +16,12 @@ Dalam dompet **bukan kustodial** atau **jagaan kendiri** ini, ANDA mengawal kunc
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[Dalam penggunaan kustodian, penyedia perkhidmatan mengawal kunci dan meluluskan perbelanjaan, maka baki tersebut merupakan janjinya. Dalam penggunaan kustodian kendiri, pengguna mengawal kunci dan sandaran; kedua-dua kaedah mempunyai kebergantungan dan risiko kegagalan.](/micrographics/who-controls-keys-01/ms.md)
 
 
 
 <!-- micrographic: custody-comparison-table-01 -->
+[Jadual yang membandingkan penggunaan dengan jagaan pihak ketiga dan jagaan kendiri: siapa yang memegang kunci, siapa yang menguruskan pemulihan, dan kompromi utama bagi setiap model. Kedua-dua model tidak bebas daripada risiko.](/micrographics/custody-comparison-table-01/ms.md)
 
 
 [Penjagaan](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) tidak semestinya jelas daripada antara muka. Jika anda tidak dapat mengawal kaedah pemulihan dan memerlukan syarikat untuk meluluskan pengeluaran, anda mungkin sedang menggunakan [kustodian](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian). [Penjagaan kendiri](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) bukanlah ujian nilai diri; langkah yang penting ialah mengenal pasti kepercayaan dan risiko yang terlibat.

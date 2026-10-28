@@ -10,6 +10,7 @@ Vermitteln Sie den Zusammenhang, nicht die Mathematik:
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Ein Miner berechnet immer wieder den Hash eines vorgeschlagenen Blocks, bis ein Ergebnis unter dem Zielwert des Netzwerks liegt, und verbreitet den Block dann. Nodes prüfen den Nachweis und jede Regel schnell, bevor der Block Teil der Blockchain wird: Arbeit ist aufwendig zu erbringen und leicht zu überprüfen.](/micrographics/proof-of-work-process-01/de.md)
 
 
 Vermeiden Sie die Aussage, [Miner](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) würden nützliche externe Gleichungen lösen. Vermeiden Sie die Behauptung, die Energiekosten seien automatisch gerechtfertigt oder automatisch verschwenderisch.

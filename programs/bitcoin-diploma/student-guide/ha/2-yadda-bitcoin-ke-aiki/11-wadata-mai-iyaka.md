@@ -3,6 +3,7 @@
 Dokokin Bitcoin sun ƙayyade wani tabbataccen [jadawalin fitar da sabbin kuɗaɗe](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuance-schedule) da kuma [iyakar adadin da za a samu](https://curriculum.myfirstbitcoin.org/lexicon/en/#maximum-supply) na bitcoin miliyan 21 (21,000,000 BTC). Sabbin bitcoin suna shiga zagayawa ta hanyar [tallafin bulok](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-subsidy) da ake biya wa [masu haƙar ma'adinai](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) waɗanda ke samar da ingantattun bulok.
 
 
+<!-- card: definition -->
 > **Definition – Ragewa zuwa rabi**
 >
 > Bayan kowane bulok 210,000, ana rage tallafin zuwa rabi. Ana kiran wannan lamari [ragewa zuwa rabi](https://curriculum.myfirstbitcoin.org/lexicon/en/#halving). Domin ana samar da bulok kusan kowane minti goma a matsakaici, [ragewa zuwa rabi](https://curriculum.myfirstbitcoin.org/lexicon/en/#halving) yana faruwa kusan duk shekara huɗu. Ba a ƙayyade takamaiman ranar da zai faru a kalanda ba.
@@ -22,12 +23,14 @@ Tallafin ya fara ne da 50 BTC ga kowane bulok. Yana raguwa zuwa rabi a matakai m
 
 
 <!-- micrographic: bitcoin-issuance-schedule-01 -->
+[Tallafin buloki yana farawa da bitcoin 50 kuma yana raguwa zuwa rabi a kowane buloki 210,000, yayin da jimillar bitcoin da aka fitar take ƙaruwa tana kusantar iyakar miliyan 21. Ana biyan kuɗaɗen mu'amala a ƙari, kuma ba sababbin bitcoin ba ne; wannan ba yana nufin an yi hasashen farashi ba.](/micrographics/bitcoin-issuance-schedule-01/ha.md)
 
 
 Ana tabbatar da bin iyakar miliyan 21 ta hanyar [na'urorin cibiyar sadarwa](https://curriculum.myfirstbitcoin.org/lexicon/en/#node). Idan wani [mai haƙar ma'adinai](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) ya ƙirƙiri bitcoin fiye da abin da dokoki suka yarda, [na'urorin cibiyar sadarwa masu tantance inganci](https://curriculum.myfirstbitcoin.org/lexicon/en/#full-node) za su ƙi amincewa da bulok ɗin. Mai haɓaka manhaja zai iya rubuta wata lambar shirye-shirye dabam, amma ba zai iya tilasta wa sauran mutane amfani da ita ba.
 
 
-> **Dark – Ƙayyadaddiyar wadatar kuɗi ƙa'ida ce ta hanyar sadarwa, ba alƙawarin farashi ba**
+<!-- card: dark -->
+> **Ƙayyadaddiyar wadatar kuɗi ƙa'ida ce ta hanyar sadarwa, ba alƙawarin farashi ba**
 >
 > Ƙa'idar wadatar Bitcoin a bayyane take, ana iya tabbatar da ita da kansa, kuma yana da wuya ɓangare guda ya canza ta saboda [na'urorin sadarwa masu tantancewa](https://curriculum.myfirstbitcoin.org/lexicon/en/#full-node) suna tabbatar da bin ta. Ba dokar yanayi ba ce: tana ci gaba da aiki muddin mahalarta suna ci gaba da tabbatar da bin ta. Wadatar da ke da iyaka ba ta ba da tabbacin hauhawar [farashin kasuwa](https://curriculum.myfirstbitcoin.org/lexicon/en/#price); [farashi](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) kuma ya dogara da buƙata.
 >
@@ -37,8 +40,7 @@ Ana tabbatar da bin iyakar miliyan 21 ta hanyar [na'urorin cibiyar sadarwa](http
 **Tambayar nan take:** Waɗanne fa'idodi ne ke tattare da kasancewar wadatar Bitcoin tana da iyaka? Wane tasiri ƙara wadatar Bitcoin zai yi ga [ikon saye](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power)? Su wa za su ƙi amincewa da ƙarin wadatar?
 
 
-> **Light**
->
+<!-- card: light -->
 > Wadatar da ke da iyaka kuma ba tana nufin kowane bitcoin yana nan don sayarwa ba; ana iya riƙe wasu na dogon lokaci ko kuma a kasa samun damar amfani da su saboda an rasa maɓallansu.
 
 

@@ -5,7 +5,8 @@
 Trimiterea necesită mai multă atenție, deoarece, în Bitcoin, o [tranzacție](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) validă este de obicei dificil sau imposibil de anulat. Înainte de a apăsa butonul de aprobare, puteți explica cine va primi plata și de ce?
 
 
-> **Callout – Opriți-vă și verificați înainte de a trimite**
+<!-- card: callout -->
+> **Opriți-vă și verificați înainte de a trimite**
 >
 > Confirmați destinatarul, metoda de plată, destinația, suma și unitatea, comisionul sau termenul de expirare și ecranul final. Dacă ceva diferă de cererea de încredere sau dacă cineva vă presează să acționați urgent ori vă cere informații de recuperare, opriți-vă și verificați independent. Efectuați un test cu o sumă mică atunci când procedura nu vă este familiară.
 
@@ -21,6 +22,7 @@ Trimiterea necesită mai multă atenție, deoarece, în Bitcoin, o [tranzacție]
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Înainte de a aproba o plată, expeditorul verifică destinatarul și scopul, metoda de plată, destinația, precum și suma, unitatea, comisionul sau termenul de expirare, efectuând un test cu o sumă mică atunci când procesul îi este necunoscut. Dacă ceva diferă, se oprește și verifică; aprobă numai când toate datele corespund, apoi verifică rezultatul.](/micrographics/pre-send-checklist-01/ro.md)
 
 
 Pentru o [plată on-chain](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), **comisionul de rețea** este plătit pentru includerea [tranzacției](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) într-un bloc. Acesta depinde în principal de [tranzacție](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) — de datele acesteia — și de cererea de [spațiu în blocuri](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-space), nu doar de suma trimisă. Estimările comisioanelor și ale duratei se pot schimba, așa că citiți rezumatul final în loc să presupuneți că o plată de valoare mică are un comision mic.

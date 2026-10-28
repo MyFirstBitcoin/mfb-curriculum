@@ -11,6 +11,7 @@ Hindi ang Bitcoin ang unang pagtatangka sa paglikha ng digital na pera. Nabuo it
 Sama-sama, ipinakita ng mga eksperimentong ito ang mahahalagang bahagi ng palaisipan. Nilinaw rin ng mga ito ang natitirang problema.
 
 
+<!-- card: definition -->
 > **Definition – Dobleng paggastos**
 >
 > [Ang dobleng paggastos](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending) ay isang pagtatangkang ipadala ang iisang digital na yunit sa dalawang tatanggap. Maaaring kopyahin nang eksakto ang digital na datos, kaya kailangan ng isang sistema ng digital na pera ng paraan upang matukoy kung aling [transaksiyon](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) ang may bisa.
@@ -28,6 +29,7 @@ Pinagsama-sama ng whitepaper ang mga katangiang kailangan para sa pamamaraang iy
 
 
 <!-- micrographic: five-part-response-01 -->
+[Nagtutulungan ang limang bahagi upang lutasin ang problema ng dobleng paggastos: isang peer-to-peer na network, mga digital na lagda, mga bloke at pagmimina, malayang beripikasyon, at isang pinagsasaluhang kasaysayan na may pinakamaraming naipong patunay ng trabaho. Sama-sama, pinahihintulutan ng mga ito ang network na tanggihan ang pangalawang paggastos nang walang sentral na awtoridad.](/micrographics/five-part-response-01/tl.md)
 
 
 Ipinapaliwanag ng modyul na ito ang mga konseptong ito nang mas detalyado. Sama-sama, nagbigay ang mga ito ng praktikal na sagot sa [problema ng dobleng paggastos](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): maaaring tanggihan ng network ang ikalawang pagtatangkang gastusin ang parehong bitcoin nang hindi umaasa sa isang sentral na awtoridad. Inialok ng Bitcoin ang nawawalang kombinasyon na ilang dekada nang hinahanap sa mga eksperimento sa digital na pera.

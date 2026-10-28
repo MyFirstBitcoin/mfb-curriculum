@@ -29,3 +29,4 @@ Tämä harjoitus tekee julkisen tilikirjan [yksityisyydensuojan](https://curricu
 
 
 <!-- micrographic: address-reuse-linkage-01 -->
+[Useat kuvitteelliset maksut käyttävät samaa osoitetta, ja ne on helppo yhdistää toisiinsa. Uudet vastaanotto-osoitteet vähentävät tätä suoraa yhteyttä, mutta ulkopuoliset tiedot ja lohkoselaimen haut voivat silti paljastaa yhteyksiä, eivätkä julkiset tiedot yksinään todista henkilön henkilöllisyyttä.](/micrographics/address-reuse-linkage-01/fi.md)

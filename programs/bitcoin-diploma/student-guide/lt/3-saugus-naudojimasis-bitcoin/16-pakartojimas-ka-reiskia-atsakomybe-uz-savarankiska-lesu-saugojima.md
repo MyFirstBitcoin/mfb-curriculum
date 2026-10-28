@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: self-custody-responsibilities-01 -->
+[Raktų kontrolė yra aštuonių atsakomybės sričių centre: atsarginių kopijų kūrimo, prieigos atkūrimo, gavimo, siuntimo, priemonių pasirinkimo, įsigijimo būdo, privatumo ir sukčiavimo patikrų. Kiekviena iš jų ką nors saugo, o nesėkmė bet kurioje iš jų gali kainuoti prieigą, pinigus ar privatumą.](/micrographics/self-custody-responsibilities-01/lt.md)
 
 
 
 <!-- micrographic: responsibility-checks-01 -->
+[Lentelė, kurioje pateikiamos šešios savarankiško saugojimo užduotys, ką kiekvienu atveju saugoti ar tikrinti ir kas gali nutikti, jei kas nors nepavyksta: atsarginė kopija, gavimas, siuntimas, saugojimas, įrankio pasirinkimas ir įsigijimas.](/micrographics/responsibility-checks-01/lt.md)
 
 
 Įsivaizduokite, kad draugas atsiunčia jums mokėjimo prašymą, o nepažįstama pagalbos paskyra teigia, kad turite veikti nedelsdami. Ką galėtumėte patikrinti prieš ką nors darydami? Ar galite apsaugoti atkūrimo planą, atskirti lėšoms gauti skirtą informaciją nuo slaptos informacijos ir prieš siųsdami patikrinti asmenį, mokėjimo būdą, paskirties vietą, sumą ir galutiniame ekrane pateiktą informaciją? Nesvarbu, ar raktus valdo paslaugos teikėjas, ar jūs, praktinė santrauka ta pati: saugokite slaptą informaciją, patikrinkite prieš patvirtindami, atpažinkite sukčiavimo požymius ir mokydamiesi stenkitės, kad klaidų pasekmės būtų nedidelės.

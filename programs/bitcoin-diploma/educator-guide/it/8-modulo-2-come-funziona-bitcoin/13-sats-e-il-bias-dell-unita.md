@@ -13,6 +13,7 @@ Utilizzi alcune conversioni:
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Una tabella a due colonne: 1 BTC equivale a 100.000.000 sats, 0,1 BTC equivale a 10.000.000 sats, 0,01 BTC equivale a 1.000.000 sats, 0,001 BTC equivale a 100.000 sats e 0,00000001 BTC equivale a 1 sat.](/micrographics/bitcoin-and-sats-01/it.md)
 
 
 Chieda perché dividere un bitcoin in unità più piccole non crea più bitcoin. Faccia il paragone con il taglio di una quantità misurata in unità più piccole, senza sostenere che l'analogia fisica spieghi il protocollo.

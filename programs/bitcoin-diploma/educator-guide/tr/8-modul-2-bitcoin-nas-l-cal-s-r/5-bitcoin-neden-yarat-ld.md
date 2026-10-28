@@ -6,6 +6,7 @@ Merkezi bir dijital ödeme sistemi tek bir yetkili [defter](https://curriculum.m
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Bir ödeme şirketinde defteri tek bir kuruluş tutar ve her transferi o onaylar. Bitcoin'de ise gönderen bir işlemi imzalar, bağımsız düğümler işlemi kontrol eder ve madenciler onu tek bir ortak deftere ekler; böylece alıcı merkezi bir otoriteye daha az bağımlı olur.](/micrographics/central-ledger-vs-bitcoin-01/tr.md)
 
 
 Şunu sorun:

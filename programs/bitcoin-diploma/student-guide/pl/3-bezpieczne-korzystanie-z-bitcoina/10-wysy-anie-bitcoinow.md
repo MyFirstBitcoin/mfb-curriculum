@@ -5,7 +5,8 @@
 Wysyłanie wymaga większej ostrożności, ponieważ poprawnie zrealizowana w sieci Bitcoin [transakcja](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) jest zazwyczaj trudna lub niemożliwa do cofnięcia. Czy przed naciśnięciem przycisku zatwierdzenia potrafią Państwo wyjaśnić, kto otrzyma płatność i dlaczego?
 
 
-> **Callout – Proszę się zatrzymać i zweryfikować dane przed wysłaniem**
+<!-- card: callout -->
+> **Proszę się zatrzymać i zweryfikować dane przed wysłaniem**
 >
 > Proszę potwierdzić odbiorcę, metodę płatności, adres docelowy, kwotę i jednostkę, opłatę lub termin ważności oraz dane na ekranie końcowym. Jeśli cokolwiek różni się od zaufanej prośby o płatność albo ktoś wywiera presję czasu lub prosi o dane do odzyskiwania portfela, proszę się zatrzymać i przeprowadzić niezależną weryfikację. Jeśli procedura jest Państwu nieznana, proszę wykonać próbę z niewielką kwotą.
 
@@ -21,6 +22,7 @@ Wysyłanie wymaga większej ostrożności, ponieważ poprawnie zrealizowana w si
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Przed zatwierdzeniem płatności osoba wysyłająca sprawdza odbiorcę i cel, metodę płatności, dane docelowe oraz kwotę, jednostkę, opłatę lub termin ważności, a jeśli proces jest jej nieznany, wykonuje próbę z niewielką kwotą. Jeśli coś się nie zgadza, zatrzymuje się i to weryfikuje; zatwierdza tylko wtedy, gdy wszystko się zgadza, a następnie sprawdza wynik.](/micrographics/pre-send-checklist-01/pl.md)
 
 
 W przypadku [płatności on-chain](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), **opłatę sieciową** uiszcza się za uwzględnienie [transakcji](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) w bloku. Jej wysokość zależy głównie od danych [transakcji](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) oraz zapotrzebowania na [miejsce w bloku](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-space), a nie po prostu od wysyłanej kwoty. Szacowane opłaty i czas realizacji mogą się zmieniać, dlatego proszę przeczytać końcowe podsumowanie, zamiast zakładać, że płatność o niewielkiej wartości wiąże się z niską opłatą.

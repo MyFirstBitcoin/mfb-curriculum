@@ -33,7 +33,8 @@ Which wallet best fits the stated need, what trade-offs remain, and what would n
 
 #### Notes
 
-> **Callout – Compare tools; do not recommend or activate one**
+<!-- card: callout -->
+> **Compare tools; do not recommend or activate one**
 >
 > Use prepared information and fictional needs. Do not ask learners to choose a real service, use personal funds, or disclose private information. A local example is not a global My First Bitcoin recommendation.
 

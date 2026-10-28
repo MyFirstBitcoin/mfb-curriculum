@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[De ontvanger maakt op zijn telefoon een Lightning-betaalverzoek aan met het bedrag, de verzender scant het en betaalt, en de betaling komt een ogenblik later binnen op de telefoon van de ontvanger.](/micrographics/lightning-phone-payment-01/nl.md)
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Een Lightning-betaling in zes stappen: de ontvanger maakt een verzoek aan, de verzender scant het, controleert ontvanger, bedrag, eenheid, vervaltijd en kosten, en keurt het goed, de betaling wordt gerouteerd en beide Wallets tonen het resultaat. Elke Wallet kan custodial of self-custodial zijn, en een mislukte of verlopen betaling begint opnieuw met een nieuw verzoek.](/micrographics/lightning-payment-sequence-01/nl.md)
 
 
 Lightning kan snelle, kleine Bitcoin-betalingen praktisch maken. Het kan geschikt zijn voor een winkelbalie, herhaalde lokale betalingen, onlinediensten of overboekingen waarbij een on-chain transactiekosten te hoog zouden zijn in verhouding tot de betaling.

@@ -19,3 +19,4 @@ Prefer authoritative primary sources for current rules. If the evidence is incom
 
 
 <!-- micrographic: local-verification-cycle-01 -->
+[Educators identify each changing local claim, verify it with a current source, record the date and its limits, teach it with qualified wording, and recheck it before reuse. When a fact is uncertain, they use a safer example or fallback.](/micrographics/local-verification-cycle-01/en.md)

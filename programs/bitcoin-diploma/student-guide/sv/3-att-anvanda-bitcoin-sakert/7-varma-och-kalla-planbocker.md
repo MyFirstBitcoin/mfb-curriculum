@@ -1,11 +1,13 @@
 # 3.7 Varma och kalla plånböcker
 
+<!-- card: definition -->
 > **Definition – Varm plånbok**
 >
 > En [varm plånbok](https://curriculum.myfirstbitcoin.org/lexicon/en/#hot-wallet) hanterar nycklar på en enhet som är ansluten till internet, till exempel en telefon eller dator. Den är praktisk för regelbundna betalningar, men har en större attackyta eftersom skadlig programvara, osäkra uppdateringar, nätfiske, fysisk åtkomst eller intrång i enheten kan utsätta plånboken för risker.
 
 
 
+<!-- card: definition -->
 > **Definition – Kall plånbok**
 >
 > En [kall plånbok](https://curriculum.myfirstbitcoin.org/lexicon/en/#cold-wallet) betecknar ett upplägg där signeringsnycklar hålls åtskilda från en internetansluten enhet för allmänt bruk.
@@ -13,9 +15,11 @@
 
 
 <!-- micrographic: hot-and-cold-wallets-01 -->
+[En varm plånbok lagrar signeringsnycklar på en internetansluten enhet, till exempel en telefon; en kall lösning håller dem borta från alla uppkopplade enheter. Vem som kontrollerar nycklarna är en separat fråga.](/micrographics/hot-and-cold-wallets-01/sv.md)
 
 
 
+<!-- card: definition -->
 > **Definition – Hårdvaruplånbok**
 >
 > En [hårdvaruplånbok](https://curriculum.myfirstbitcoin.org/lexicon/en/#hardware-wallet) betecknar en särskild enhet som är utformad för att generera, skydda och använda nycklar samtidigt som de hålls isolerade från den anslutna datorn eller telefonen. En [hårdvaruplånbok](https://curriculum.myfirstbitcoin.org/lexicon/en/#hardware-wallet) kan stödja ett kallt upplägg, men begreppen är inte utbytbara; [förvaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) och återställning är separata frågor.
@@ -23,6 +27,7 @@
 
 
 <!-- micrographic: wallet-arrangements-table-01 -->
+[En tabell över tre plånboksupplägg (varm plånbok, hårdvaruplånbok eller kallt upplägg, konto hos en förvaringstjänst), vart och ett med en typisk styrka och ett ansvar att tänka på. Kontroll över nycklarna och signeringsmiljön är separata frågor.](/micrographics/wallet-arrangements-table-01/sv.md)
 
 
 **Prova själv:** Förklara vilken [avvägning](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) som väger tyngst för en liten, fiktiv betalning respektive en mer sällan förekommande fiktiv betalning. Välj inte något verktyg eller belopp för era egna medel.

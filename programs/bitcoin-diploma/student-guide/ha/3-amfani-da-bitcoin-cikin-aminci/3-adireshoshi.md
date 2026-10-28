@@ -1,5 +1,6 @@
 # 3.3 Adireshoshi
 
+<!-- card: definition -->
 > **Definition – Adireshin Bitcoin**
 >
 > Wani [adireshin Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) bayanai ne na karɓar kuɗi da kowa zai iya gani don [biyan kuɗi a kan sarkar](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment). Walat yakan nuna shi a matsayin rubutu da lambar QR domin wani ya iya tura muku bitcoin. Ba kamar kalmar sirri ko [maɓallin sirri](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) ba, adireshi ba zai iya ba da izinin kashe kuɗi ba.
@@ -7,6 +8,7 @@
 
 
 <!-- micrographic: address-two-formats-01 -->
+[Allon karɓa na walat yana nuna adireshin Bitcoin na misali guda ɗaya sau biyu: a matsayin lambar QR da kuma rubutu. Dukansu bayanan karɓa iri ɗaya ne da kowa zai iya gani, kuma babu wanda zai iya ba da izinin kashe kuɗi a cikinsu.](/micrographics/address-two-formats-01/ha.md)
 
 
 Idan kuna son karɓar [biyan kuɗi a kan sarkar](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), daga ina ya kamata adireshin ya fito? Ku buɗe walat ɗin da kuke son amfani da shi, sannan ku yi amfani da shafinsa na karɓar kuɗi. Mai aikawa zai iya sikanin lambar QR ko kwafe adireshin. Wannan yana kauce wa kurakuran da za su iya faruwa yayin rubuta dogayen jerin haruffa da hannu.
@@ -15,9 +17,9 @@ Ga kowace buƙatar biyan kuɗi, ku tabbatar da hanyar biyan kuɗin da ake son am
 
 
 <!-- micrographic: sample-lightning-invoice-01 -->
+[Wani samfurin daftarin biyan kuɗi na Lightning a kan allo yana nuna hanyar biyan kuɗi, mai karɓa da adadi a gefen lambar QR ɗinsa. Bayanan da za a iya karantawa da lambar QR suna wakiltar buƙatar biyan kuɗi ɗaya ne a siffofi biyu.](/micrographics/sample-lightning-invoice-01/ha.md)
 
 
 
-> **Light**
->
+<!-- card: light -->
 > Idan biyan kuɗi yana da muhimmanci, kada ku yanke shawarar cewa adireshi yana da aminci don kawai ya yi kama da wanda kuka sani. Ku tabbatar da wanda ake son ya karɓi kuɗin, sahihiyar [hanyar sadarwar Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network), inda kuɗin za su je, da hanyar biyan kuɗin. Ku fara da gwajin biyan kuɗi kaɗan idan ba ku saba da tsarin ko adadin kuɗin ba.

@@ -22,6 +22,7 @@ Mỗi học phần đều theo cùng một nhịp học:
 
 
 <!-- micrographic: learning-rhythm-strip-01 -->
+[Một chu trình học tập gồm năm bước: tìm hiểu một ý tưởng cốt lõi, thể hiện những gì quý vị có thể giải thích hoặc áp dụng, áp dụng ý tưởng, giải thích bằng lời của quý vị và ôn lại mối liên hệ với học phần tiếp theo.](/micrographics/learning-rhythm-strip-01/vi.md)
 
 
 Quý vị sẽ học được nhiều hơn khi tham gia hoạt động thay vì chỉ đọc thầm. Một số câu hỏi không có một đáp án đúng duy nhất. Điều quan trọng là quý vị có thể giải thích lập luận của mình, xem xét bằng chứng và điều chỉnh quan điểm khi học được điều mới hay không.
@@ -81,7 +82,8 @@ Khi đến lúc thực hành với [ví Bitcoin](https://curriculum.myfirstbitco
 ### An toàn, trách nhiệm và không đưa ra lời khuyên tài chính
 
 
-> **Callout – Học trước; đây không phải là khuyến nghị**
+<!-- card: callout -->
+> **Học trước; đây không phải là khuyến nghị**
 >
 > Chương trình Bitcoin Diploma chỉ phục vụ mục đích giáo dục. Chương trình không cung cấp lời khuyên về tài chính, đầu tư, pháp lý hay thuế. Chương trình không hứa hẹn rằng bitcoin sẽ tăng [giá](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) hoặc khuyến nghị quý vị mua, bán, dùng làm tài sản bảo đảm để vay hay nắm giữ bất kỳ lượng bitcoin nào.
 >
@@ -104,6 +106,7 @@ Chương trình Diploma gồm một lộ trình học tập bốn giai đoạn: 
 
 
 <!-- micrographic: learning-path-roadmap-01 -->
+[Lộ trình bốn giai đoạn: Vấn đề, Hiểu về tiền tệ; Giải pháp, Cách Bitcoin hoạt động; Hành động, Sử dụng Bitcoin an toàn; và Kết nối, Bitcoin trong cộng đồng của quý vị, mỗi giai đoạn đều có câu hỏi định hướng riêng.](/micrographics/learning-path-roadmap-01/vi.md)
 
 
 **Học phần 4** là phần bắt buộc của chương trình Diploma, do nhà giáo dục tuyển chọn và thiết kế. Nhà giáo dục là những chuyên gia am hiểu các hạn chế, giải pháp, công cụ, tài nguyên, luật pháp, ngôn ngữ, cơ sở hạ tầng và nhu cầu tại địa phương của người học. Trải nghiệm Kết nối do nhà giáo dục tuyển chọn và thiết kế có thể bao gồm việc kiếm tiền, tiết kiệm, nhận tiền, chi tiêu, các giải pháp [Lớp 2](https://curriculum.myfirstbitcoin.org/lexicon/en/#layer-2), các phương thức trao đổi tại địa phương, các đơn vị kinh doanh hoặc các nền kinh tế tuần hoàn.
@@ -118,6 +121,7 @@ Bốn học phần tạo thành lộ trình học tập bắt buộc Vấn đề
 
 
 <!-- micrographic: four-module-table-01 -->
+[Bảng trình bày bốn học phần cùng vai trò, câu hỏi định hướng và nội dung người học sẽ thực hành trong từng học phần: Tìm hiểu về tiền tệ, Cách Bitcoin hoạt động, Sử dụng Bitcoin an toàn và Bitcoin trong cộng đồng của quý vị.](/micrographics/four-module-table-01/vi.md)
 
 
 Chương trình Diploma cần ít nhất tám giờ. Bốn buổi học, mỗi buổi hai giờ, là hình thức tổ chức ngắn nhất theo kế hoạch, không phải giới hạn thời gian. Nhà giáo dục phụ trách quý vị có thể chia một học phần thành nhiều buổi hơn, ôn lại một ý đã học hoặc thay đổi thứ tự các phần riêng lẻ khi nhóm học của quý vị cần thêm thời gian để thảo luận, thực hành, ôn tập hoặc đánh giá. Không có giới hạn thời gian tối đa: nhà giáo dục vẫn có trách nhiệm dành đủ thời gian cần thiết cho người học, giảng dạy đầy đủ tất cả các năng lực bắt buộc và làm rõ mối liên hệ giữa các học phần.

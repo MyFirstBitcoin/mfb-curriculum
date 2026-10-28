@@ -14,6 +14,7 @@ Kun vertaatte [hintoja](https://curriculum.myfirstbitcoin.org/lexicon/en/#price)
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Kaksisarakkeinen taulukko: 1 BTC on 100 000 000 satoshia, 0,1 BTC on 10 000 000 satoshia, 0,01 BTC on 1 000 000 satoshia, 0,001 BTC on 100 000 satoshia ja 0,00000001 BTC on 1 satoshi.](/micrographics/bitcoin-and-sats-01/fi.md)
 
 
 **Osoittakaa ymmärtäneenne:** Kuinka monta [satoshia](https://curriculum.myfirstbitcoin.org/lexicon/en/#satoshi) on 0,01 BTC:ssä? Miksi [hinta](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) yhdestä kokonaisesta bitcoinista ei estä ihmistä käyttämästä pienempää määrää?

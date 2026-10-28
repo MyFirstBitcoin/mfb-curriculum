@@ -1,5 +1,6 @@
 # 1.12 중앙은행 디지털 화폐(CBDC)
 
+<!-- card: definition -->
 > **Definition – 중앙은행 디지털 화폐(CBDC)**
 >
 > 이른바 [중앙은행 디지털 화폐](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), 즉 [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc)는 디지털 형태의 [법정화폐](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money)로, [부채](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability)로서 발행되며 그 주체는 [중앙은행](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank)이에요. 즉, 이는 [중앙은행](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank)이 보유자에게 지고 있는 청구권이에요. 사용자 경험은 비슷해 보일 수 있지만, 실물 현금이나 일반 상업은행 예금과는 달라요.
@@ -13,6 +14,7 @@
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[현금, 은행 예금, 소매용 CBDC, 비트코인을 발행 주체, 형태, 접근성, 공개 범위, 공급 규칙, 검증 방법 측면에서 비교한 표예요. 디지털이라고 해서 탈중앙화된 것은 아니에요. CBDC는 여전히 중앙은행이 발행하며, 접근성, 공개 범위, 검증 방법은 그 설계에 따라 달라져요.](/micrographics/cbdc-comparison-table-01/ko.md)
 
 
 디지털이라고 해서 자동으로 탈중앙화되어 있거나, 희소하거나, 사적이거나, 독립적인 검증에 열려 있다는 뜻은 아니에요. [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc)는 디지털 기술을 사용할 수는 있지만, 여전히 [법정화폐예요](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money). 그 [발행자](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer), 공급 규칙, 접근 규칙, 결제 권한이 중앙에서 관리되는 한 말이에요.

@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[Un paiement dans un café en quatre étapes : le client commande, le serveur envoie une facture, le client paie en bitcoin depuis son téléphone et le serveur lui remet le café.](/micrographics/coffee-shop-payment-01/fr-FR.md)
 
 
 Utilisez des biens et services familiers dans le contexte local. L’article précis importe peu ; c’est le raisonnement sur le paiement qui compte.

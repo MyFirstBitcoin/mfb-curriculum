@@ -1,4 +1,4 @@
-# 1.10 ¿Por qué el dólar estadounidense es una moneda de reserva mundial?
+# 1.10 Por qué el dólar estadounidense es una moneda de reserva mundial
 
 Una **moneda de [reserva](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency)** es una [moneda](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) que [los bancos centrales](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) y los gobiernos mantienen y utilizan para realizar pagos internacionales. Antes de la Primera Guerra Mundial, la libra esterlina desempeñaba este papel de forma predominante. La guerra debilitó las [monedas](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) y los centros financieros europeos, mientras que Estados Unidos suministraba bienes y acumulaba [oro](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold). Esto incrementó el uso internacional del dólar.
 

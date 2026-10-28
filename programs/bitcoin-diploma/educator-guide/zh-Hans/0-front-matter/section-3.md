@@ -35,6 +35,7 @@
 
 
 <!-- micrographic: cohort-capacity-check-01 -->
+[规划一个学员批次时，将学员人数乘以可能需要的辅导与观察时间，再加上准备工作、反馈、无障碍需求及重新评估所需的时间。如果教育者的时间不够，请调整计划：减少学员人数、增加教育者人数或延长时间。](/micrographics/cohort-capacity-check-01/zh-Hans.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
@@ -57,6 +58,7 @@
 
 
 <!-- micrographic: task-competency-map-01 -->
+[理论互动T1至T3为能力C1至C5提供证据，实践路径P6a、P6b和P7为C6和C7提供证据。随后，每项能力获得一个「是」或「尚未」的结果。](/micrographics/task-competency-map-01/zh-Hans.md)
 
 
 ### 通用的支持、安全与记录规则
@@ -65,10 +67,12 @@
 
 
 <!-- micrographic: support-boundary-01 -->
+[教育者可以提供许可范围内的准备与无障碍支持，并制止不安全的操作。但被评估的解释仍须由学习者本人给出，相关信息须由学习者自行选择，所需的决定也须由学习者亲自执行或指导完成。](/micrographics/support-boundary-01/zh-Hans.md)
 
 
 
-> **Callout – 涉及安全的关键实践错误**
+<!-- card: callout -->
+> **涉及安全的关键实践错误**
 >
 > 如果学习者泄露或试图分享[助记词](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase)、[私钥](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key)、密码或不必要的个人信息；在已知地址、发票、金额或收款人不一致的情况下仍继续操作；接受明显的骗局或紧急的秘密请求；或跳过必需的验证步骤，请记录并暂停该任务。请友善地解释原因，重置到安全环境，进行练习，并在之后重新评估。学习者正在培养能力。默认使用事先准备好的培训材料；如果教育者选择开展真实的低风险活动，应明确说明其风险，并提供不涉及资金的等效方案。
 
@@ -181,3 +185,4 @@
 
 
 <!-- micrographic: reassessment-calibration-moderation-01 -->
+[三个独立的流程并行进行。获评「尚未达到」的学习者会收到私下反馈，进行练习并提供新的证据；评估者通过独立为示例评分并就解读达成一致来进行校准；教育者可以申请二次审核，但二次审核绝不能取代对实际表现的观察。](/micrographics/reassessment-calibration-moderation-01/zh-Hans.md)

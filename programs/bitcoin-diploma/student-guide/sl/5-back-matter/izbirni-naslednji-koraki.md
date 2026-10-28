@@ -36,6 +36,7 @@ Ta [mreža za izobraževanje o Bitcoinu](https://myfirstbitcoin.org/about/networ
 
 
 <!-- micrographic: final-safety-check-01 -->
+[Končni varnostni kontrolni seznam z odkljukanimi postavkami: zaščitite skrivnosti, preverite podatke o plačilu, opravite preizkuse z majhnimi zneski in se ustavite, če ste pod pritiskom. Če je kar koli nejasno, se ustavite in pred ukrepanjem pridobite več informacij.](/micrographics/final-safety-check-01/sl.md)
 
 
 Zapomnite si ta pravila:
@@ -57,6 +58,7 @@ Izobraževanje zmanjšuje tveganje, vendar ga ne more odpraviti. Če je situacij
 
 
 <!-- micrographic: curriculum-source-panel-01 -->
+[Plošča s kodo QR in natisnjeno povezavo github.com/MyFirstBitcoin/mfb-curriculum, uradnim virom za diplomo iz Bitcoina, kjer lahko preverite izdajo in prijavite napake.](/micrographics/curriculum-source-panel-01/sl.md)
 
 
 Bitcoin Diploma je živ, odprtokodni učni načrt. Popravke in izboljšave je mogoče javno pregledovati.

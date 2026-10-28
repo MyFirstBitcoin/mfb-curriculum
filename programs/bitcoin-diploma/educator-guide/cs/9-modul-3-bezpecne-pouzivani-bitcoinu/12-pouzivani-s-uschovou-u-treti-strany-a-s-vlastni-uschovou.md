@@ -20,3 +20,4 @@ Nepovažujte [vlastní správu](https://curriculum.myfirstbitcoin.org/lexicon/en
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[Při úschově u poskytovatele má poskytovatel kontrolu nad klíči a schvaluje platby, takže zůstatek je jeho příslibem. Při vlastní úschově má uživatel kontrolu nad klíči a zálohami; oba způsoby mají své závislosti a rizika selhání.](/micrographics/who-controls-keys-01/cs.md)

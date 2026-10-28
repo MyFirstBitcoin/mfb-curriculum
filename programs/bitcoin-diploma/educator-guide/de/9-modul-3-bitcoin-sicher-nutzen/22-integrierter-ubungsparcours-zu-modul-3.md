@@ -19,3 +19,4 @@ Verwenden Sie die Stationen nicht als formale Leistungsbewertung, es sei denn, d
 
 
 <!-- micrographic: practice-circuit-stations-01 -->
+[Die Lernenden durchlaufen nacheinander acht Übungsstationen: Verwahrung, öffentlich oder geheim, Empfangen, Senden, Wiederherstellung, Explorer, Betrug und Lernpfad. Ein separater Beobachtungsbereich folgt einer festgelegten Route, sodass Gruppenübungen nie mit einer formellen Leistungsbewertung verwechselt werden.](/micrographics/practice-circuit-stations-01/de.md)

@@ -35,6 +35,7 @@ Kies een praktische route die voor de cursisten veilig en haalbaar aanvoelt. Not
 
 
 <!-- micrographic: cohort-capacity-check-01 -->
+[Om een groep te plannen, vermenigvuldigt u het aantal deelnemers met de verwachte begeleidings- en observatietijd en telt u daar tijd bij op voor voorbereiding, feedback, toegankelijkheidsbehoeften en herbeoordeling. Als de docenten niet genoeg tijd hebben, past u het plan aan: minder deelnemers, meer docenten of meer tijd.](/micrographics/cohort-capacity-check-01/nl.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
@@ -57,6 +58,7 @@ Kies een praktische route die voor de cursisten veilig en haalbaar aanvoelt. Not
 
 
 <!-- micrographic: task-competency-map-01 -->
+[De theorie-interacties T1 tot en met T3 leveren bewijs voor de competenties C1 tot en met C5, en de praktijkroutes P6a, P6b en P7 leveren bewijs voor C6 en C7. Elke competentie krijgt vervolgens één resultaat: Ja of Nog niet.](/micrographics/task-competency-map-01/nl.md)
 
 
 ### Algemene regels voor ondersteuning, veiligheid en registratie
@@ -65,10 +67,12 @@ Kies een praktische route die voor de cursisten veilig en haalbaar aanvoelt. Not
 
 
 <!-- micrographic: support-boundary-01 -->
+[Een docent mag de toegestane voorbereiding en toegangsondersteuning bieden en onveilig handelen stoppen. De leerling moet echter zelf de beoordeelde uitleg geven, de relevante gegevens selecteren en de vereiste beslissingen nemen of aansturen.](/micrographics/support-boundary-01/nl.md)
 
 
 
-> **Callout – Veiligheidskritieke praktische fouten**
+<!-- card: callout -->
+> **Veiligheidskritieke praktische fouten**
 >
 > Noteer het en onderbreek de taak als de lerende een [seedphrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), [privé sleutel](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), wachtwoord of onnodige persoonlijke informatie onthult of probeert te delen; doorgaat na een bekende afwijking in adres, factuur, bedrag of ontvanger; een duidelijke oplichting of een dringend geheim verzoek accepteert; of een vereiste verificatiestap overslaat. Leg de reden vriendelijk uit, keer terug naar een veilige omgeving, oefen en beoordeel later opnieuw. De lerende is competentie aan het opbouwen. Voorbereid trainingsmateriaal is de standaard; als een docent kiest voor een live activiteit met weinig risico, maak de risico's dan duidelijk en bied een gelijkwaardig alternatief zonder geld aan.
 
@@ -181,3 +185,4 @@ Gebruik de voorbeelden en het activiteitenmateriaal die bij uw groep passen. Con
 
 
 <!-- micrographic: reassessment-calibration-moderation-01 -->
+[Drie afzonderlijke processen verlopen naast elkaar. Leerlingen met 'Nog niet' krijgen persoonlijke feedback, oefenen en leveren nieuw bewijs; beoordelaars kalibreren door voorbeelden onafhankelijk te scoren en het eens te worden over een interpretatie; docenten kunnen om een tweede beoordeling vragen, die nooit in de plaats komt van waargenomen prestaties.](/micrographics/reassessment-calibration-moderation-01/nl.md)

@@ -1,5 +1,6 @@
 # 3.6 Nutzung mit Fremdverwahrung und Selbstverwahrung
 
+<!-- card: definition -->
 > **Definition – Verwahrung**
 >
 > [Verwahrung](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) beantwortet eine praktische Frage: Wer kontrolliert die Schlüssel, die zum Ausgeben der bitcoin erforderlich sind?
@@ -15,10 +16,12 @@ Bei einer **nicht verwahrenden** oder **selbstverwahrten** Wallet kontrollieren 
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[Bei der Fremdverwahrung kontrolliert ein Dienst die Schlüssel und genehmigt Ausgaben, sodass das Guthaben lediglich sein Versprechen ist. Bei der Selbstverwahrung kontrolliert der Nutzer die Schlüssel und Backups; beide Wege haben Abhängigkeiten und Ausfallrisiken.](/micrographics/who-controls-keys-01/de.md)
 
 
 
 <!-- micrographic: custody-comparison-table-01 -->
+[Eine Tabelle, die verwahrte und selbstverwahrte Nutzung vergleicht: wer die Schlüssel hält, wer für die Wiederherstellung zuständig ist und welcher Kompromiss jeweils der wichtigste ist. Keines der beiden Modelle ist risikofrei.](/micrographics/custody-comparison-table-01/de.md)
 
 
 [Die Verwahrung](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) ist an der Benutzeroberfläche nicht immer erkennbar. Wenn Sie die Wiederherstellungsmethode nicht selbst kontrollieren können und ein Unternehmen eine Auszahlung genehmigen muss, nutzen Sie wahrscheinlich einen [Verwahrer](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian). [Selbstverwahrung](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) ist kein Maßstab für den persönlichen Wert; entscheidend ist, das damit verbundene Vertrauen und die Risiken zu erkennen.

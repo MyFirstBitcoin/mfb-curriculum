@@ -5,6 +5,7 @@ Mensen hebben verschillende vaardigheden, middelen, behoeften en plannen. Ruil s
 Directe ruil is vaak lastig. De persoon die heeft wat u nodig hebt, wil misschien niet wat u aanbiedt. Geld lost dit coördinatieprobleem op.
 
 
+<!-- card: definition -->
 > **Definition – Geld**
 >
 > Geld is een [bezitting](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) die mensen accepteren omdat ze verwachten dat anderen die later ook zullen accepteren. Het helpt vreemden om ruil te coördineren, [prijzen](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) en [schulden](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt) vast te leggen en [waarde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) over tijd en afstand te verplaatsen.

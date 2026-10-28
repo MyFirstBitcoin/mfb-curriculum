@@ -1,6 +1,7 @@
 # 10.5 Verificação de prontidão do Módulo 4
 
-> **Callout – Não realize uma atividade ao vivo do Módulo 4 até que todas as verificações sejam aprovadas**
+<!-- card: callout -->
+> **Não realize uma atividade ao vivo do Módulo 4 até que todas as verificações sejam aprovadas**
 >
 > Se alguma verificação abaixo não for satisfatória, use uma simulação, um roteiro impresso ou uma atividade diferente. Não compense um roteiro inseguro ou não verificado pedindo aos alunos que aceitem mais riscos.
 
@@ -22,3 +23,4 @@ Não realize um módulo ao vivo até que todas as respostas exigidas sejam satis
 
 
 <!-- micrographic: module-4-readiness-gate-01 -->
+[Oito verificações abrangem propósito, competência, capacidade do educador, ferramentas, regras locais, segurança, acesso e observação. Todas as verificações devem ser satisfatórias para a realização ao vivo; uma lacuna leva a um caminho mais seguro ou a um plano revisado e a uma nova análise de prontidão.](/micrographics/module-4-readiness-gate-01/pt-BR.md)

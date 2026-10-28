@@ -35,6 +35,7 @@ Hazırlık, sorun giderme, geri bildirim, erişilebilirlik düzenlemeleri ve yen
 
 
 <!-- micrographic: cohort-capacity-check-01 -->
+[Bir grubu planlamak için öğrenci sayısını tahmini destek ve gözlem süresiyle çarpın, ardından hazırlık, geri bildirim, erişim ihtiyaçları ve yeniden değerlendirme için süre ekleyin. Eğitmenlerin yeterli zamanı yoksa planı değiştirin: daha az öğrenci, daha fazla eğitmen ya da daha fazla süre.](/micrographics/cohort-capacity-check-01/tr.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
@@ -57,6 +58,7 @@ Hazırlık, sorun giderme, geri bildirim, erişilebilirlik düzenlemeleri ve yen
 
 
 <!-- micrographic: task-competency-map-01 -->
+[T1 ile T3 arasındaki teori etkileşimleri C1 ile C5 arasındaki yetkinlikler için kanıt sağlar; P6a, P6b ve P7 uygulama yolları ise C6 ve C7 için kanıt sağlar. Ardından her yetkinlik bir Evet veya Henüz değil sonucu alır.](/micrographics/task-competency-map-01/tr.md)
 
 
 ### Ortak destek, güvenlik ve kayıt kuralları
@@ -65,10 +67,12 @@ Hazırlık, sorun giderme, geri bildirim, erişilebilirlik düzenlemeleri ve yen
 
 
 <!-- micrographic: support-boundary-01 -->
+[Eğitmen, izin verilen hazırlık ve erişim desteğini sağlayabilir ve güvenli olmayan eylemleri durdurabilir. Bununla birlikte, değerlendirilen açıklamayı yapmak, ilgili bilgileri seçmek ve gerekli kararları uygulamak ya da yönlendirmek yine öğrenciye aittir.](/micrographics/support-boundary-01/tr.md)
 
 
 
-> **Callout – Güvenlik açısından kritik uygulama hataları**
+<!-- card: callout -->
+> **Güvenlik açısından kritik uygulama hataları**
 >
 > Öğrenci şunları yaparsa durumu kaydedin ve görevi duraklatın: bir [kurtarma ifadesini (seed phrase)](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), [özel anahtarı](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), parolayı veya gereksiz kişisel bilgileri ifşa ederse ya da paylaşmaya çalışırsa; bilinen bir adres, fatura, tutar veya alıcı uyumsuzluğuna rağmen devam ederse; açık bir dolandırıcılığı veya acil ve gizli bir talebi kabul ederse; ya da gerekli bir doğrulama adımını atlarsa. Nedenini nazikçe açıklayın, güvenli bir ortama geri dönün, alıştırma yaptırın ve daha sonra yeniden değerlendirin. Öğrenci yetkinlik geliştirme sürecindedir. Varsayılan olarak hazırlanmış eğitim materyalleri kullanılır; bir eğitmen gerçek ve düşük riskli bir etkinlik seçerse, risklerini açıkça belirtin ve fon gerektirmeyen bir eşdeğerini sunun.
 
@@ -181,3 +185,4 @@ Grubunuza uyan örnekleri ve etkinlik materyallerini kullanın. Uygulamadan önc
 
 
 <!-- micrographic: reassessment-calibration-moderation-01 -->
+[Üç ayrı süreç yan yana işler. "Henüz değil" sonucunu alan öğrenciler kişiye özel geri bildirim alır, alıştırma yapar ve yeni kanıt sunar; değerlendiriciler örnekleri bağımsız olarak puanlayıp ortak bir yorumda uzlaşarak uyum sağlar; eğitimciler ikinci bir inceleme isteyebilir, ancak bu inceleme hiçbir zaman gözlemlenen performansın yerini almaz.](/micrographics/reassessment-calibration-moderation-01/tr.md)

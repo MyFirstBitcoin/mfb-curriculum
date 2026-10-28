@@ -19,3 +19,4 @@ Suosikaa ajantasaisia sääntöjä tarkistaessanne luotettavia ensisijaisia läh
 
 
 <!-- micrographic: local-verification-cycle-01 -->
+[Opettajat tunnistavat jokaisen muuttuvan paikallisen väitteen, tarkistavat sen ajantasaisesta lähteestä, kirjaavat päivämäärän ja tiedon rajaukset, opettavat asian tiedon varaukset esiin tuovin sanamuodoin ja tarkistavat tiedon uudelleen ennen sen seuraavaa käyttökertaa. Jos tieto on epävarma, he käyttävät turvallisempaa esimerkkiä tai varavaihtoehtoa.](/micrographics/local-verification-cycle-01/fi.md)

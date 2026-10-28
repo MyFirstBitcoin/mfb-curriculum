@@ -22,6 +22,7 @@ Cada módulo sigue el mismo ritmo:
 
 
 <!-- micrographic: learning-rhythm-strip-01 -->
+[Un ciclo de aprendizaje de cinco pasos: aprenda una idea clave, demuestre lo que puede explicar o aplicar, aplique la idea, explíquela con sus propias palabras y repase cómo se conecta con el siguiente módulo.](/micrographics/learning-rhythm-strip-01/es-419.md)
 
 
 Usted aprenderá más participando que leyendo en silencio. Algunas preguntas no tienen una única respuesta correcta. Lo importante es que pueda explicar su razonamiento, examinar la evidencia y revisar su punto de vista cuando aprenda algo nuevo.
@@ -81,7 +82,8 @@ Cuando llegue el momento de practicar con una [billetera de Bitcoin](https://cur
 ### Seguridad, responsabilidad y ausencia de asesoría financiera
 
 
-> **Callout – Aprenda primero; esto no es una recomendación**
+<!-- card: callout -->
+> **Aprenda primero; esto no es una recomendación**
 >
 > El Diplomado en Bitcoin tiene fines exclusivamente educativos. No proporciona asesoría financiera, de inversión, legal ni fiscal. No promete que bitcoin aumentará de [precio](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) ni recomienda que usted compre, venda, solicite préstamos con bitcoin como garantía o mantenga cantidad alguna de bitcoin.
 >
@@ -104,6 +106,7 @@ El Diplomado consta de un recorrido de aprendizaje de cuatro etapas: **Problema 
 
 
 <!-- micrographic: learning-path-roadmap-01 -->
+[Una hoja de ruta de cuatro etapas: Problema, Comprender el dinero; Solución, Cómo funciona Bitcoin; Acción, Usar Bitcoin de forma segura; y Conexión, Bitcoin en su comunidad, cada una con su pregunta guía.](/micrographics/learning-path-roadmap-01/es-419.md)
 
 
 **El módulo 4** es una parte obligatoria del Diplomado, diseñada por el educador. Los educadores son quienes mejor conocen las limitaciones, soluciones, herramientas, recursos, leyes, idioma, infraestructura y necesidades del entorno local de sus estudiantes. La experiencia de Conexión diseñada por el educador puede incluir ganar, ahorrar, recibir y gastar dinero, soluciones de [capa 2](https://curriculum.myfirstbitcoin.org/lexicon/en/#layer-2), vías de intercambio locales, comercios o economías circulares.
@@ -118,6 +121,7 @@ Los cuatro módulos ofrecen el recorrido de aprendizaje obligatorio Problema →
 
 
 <!-- micrographic: four-module-table-01 -->
+[Una tabla de los cuatro módulos con la función, la pregunta guía y lo que practicará el estudiante en cada uno: Comprender el dinero, Cómo funciona Bitcoin, Usar Bitcoin de forma segura y Bitcoin en su comunidad.](/micrographics/four-module-table-01/es-419.md)
 
 
 El Diplomado requiere al menos ocho horas. Cuatro sesiones de dos horas constituyen el formato previsto más breve, no un límite de tiempo. Su educador puede distribuir un módulo en más sesiones, retomar una idea anterior o cambiar el orden de secciones individuales cuando su grupo necesite más tiempo para el diálogo, la práctica, el repaso o la evaluación. No hay un límite máximo de tiempo: el educador sigue siendo responsable de dar a los estudiantes el tiempo que necesitan, cubrir todas las competencias requeridas y dejar claras las conexiones entre los módulos.

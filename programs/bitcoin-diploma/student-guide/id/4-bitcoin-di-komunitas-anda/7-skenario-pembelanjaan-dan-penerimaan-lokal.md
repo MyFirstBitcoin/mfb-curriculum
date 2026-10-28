@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[Pembayaran di kedai kopi dalam empat langkah: pelanggan memesan, pelayan mengirimkan tagihan, pelanggan membayar dengan bitcoin melalui ponselnya, dan pelayan menyerahkan kopi.](/micrographics/coffee-shop-payment-01/id.md)
 
 
 Gunakan barang dan jasa yang dikenal di lingkungan setempat. Barang atau jasa yang dipilih tidak terlalu penting; yang penting adalah pertimbangan dalam melakukan pembayaran.

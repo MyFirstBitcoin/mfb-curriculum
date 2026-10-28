@@ -11,6 +11,7 @@ En Lightning-wallet kan være tredjepartsforvaltet eller selvforvaltet. En [hard
 
 
 <!-- micrographic: hot-and-cold-wallets-01 -->
+[En varm wallet opbevarer signeringsnøgler på en internetforbundet enhed såsom en telefon; en kold opbevaringsløsning holder dem adskilt fra alle internetforbundne enheder. Hvem der kontrollerer nøglerne, er et særskilt spørgsmål.](/micrographics/hot-and-cold-wallets-01/da.md)
 
 
 Bed kursisterne om at vælge et værktøj til et tænkt formål, og kræv derefter, at de angiver fordelen og den nye risiko. Bed dem ikke om at vælge til deres faktiske beholdninger.

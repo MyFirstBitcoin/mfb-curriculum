@@ -3,6 +3,7 @@
 Maklumat digital biasanya mudah disalin.
 
 
+<!-- card: definition -->
 > **Definition – Kelangkaan digital**
 >
 > Dalam bentuk digital, [kelangkaan](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) bermaksud sesuatu sistem boleh membezakan unit yang sah daripada salinan yang tidak sah dan menghalang unit yang sama daripada dibelanjakan dua kali.
@@ -14,6 +15,7 @@ Bitcoin mewujudkan secara digital [kelangkaan](https://curriculum.myfirstbitcoin
 
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Had bekalan yang ditulis di laman web atau dalam pangkalan data penerbit boleh diubah secara senyap oleh penerbit tersebut. Peraturan bekalan Bitcoin terbuka kepada umum, dan tandatangan, sejarah awam, bukti kerja serta pengesahan nod bersama-sama menghalang syiling baharu daripada dicipta atau bitcoin yang sama daripada dibelanjakan dua kali.](/micrographics/claimed-or-verified-supply-01/ms.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)

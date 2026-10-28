@@ -15,3 +15,4 @@ Ne transformez pas [la garde communautaire](https://curriculum.myfirstbitcoin.or
 
 
 <!-- micrographic: shared-funds-role-map-01 -->
+[Les contributeurs et les bénéficiaires dépendent de la personne qui contrôle les fonds communs. Le contrôle des clés, l’approbation des dépenses, la tenue des registres et la vérification sont des rôles distincts ; lorsqu’une même personne en cumule plusieurs, la confiance est concentrée, et les questions de continuité, de confidentialité, de litiges et de statut juridique restent à résoudre.](/micrographics/shared-funds-role-map-01/fr-FR.md)

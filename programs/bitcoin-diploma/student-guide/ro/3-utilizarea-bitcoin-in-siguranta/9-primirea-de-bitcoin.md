@@ -12,6 +12,7 @@ Primirea fondurilor nu autorizează ieșirea acestora din portofelul dumneavoast
 
 
 <!-- micrographic: check-what-you-receive-01 -->
+[Un exemplu de ecran de primire pe un telefon afișează metoda de plată, cererea de plată de partajat, suma și starea în așteptare. Un mesaj sau o captură de ecran cu mențiunea "trimis" nu este o dovadă: verificați starea în propriul portofel.](/micrographics/check-what-you-receive-01/ro.md)
 
 
 Un mesaj sau o captură de ecran care indică „trimis” nu constituie o dovadă. Ce dovezi puteți vedea personal? Verificați portofelul în care primiți fondurile sau vizualizarea aprobată pentru [Tranzacție](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction). Pentru [plățile on-chain](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), un portofel poate afișa inițial o [Tranzacție](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) ca fiind în așteptare. [Confirmare](https://curriculum.myfirstbitcoin.org/lexicon/en/#confirmation) — acest statut sporește încrederea în decontare; nu remediază o adresă greșită sau o înșelătorie. Un portofel poate oferi o adresă nouă pentru o nouă încasare; adresele mai vechi pot funcționa în continuare, dar reutilizarea aceleiași adrese poate facilita asocierea unor plăți separate. O adresă nouă reduce posibilitatea acestei asocieri facile; nu face ca o plată să fie anonimă.

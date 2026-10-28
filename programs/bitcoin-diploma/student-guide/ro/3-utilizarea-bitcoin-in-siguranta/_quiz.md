@@ -1,19 +1,19 @@
 # Quiz – Utilizarea Bitcoin în siguranță: verificare rapidă
 
-## Question 1
+## Întrebare 1
 
 Un portofel Bitcoin:
 
 * [ ] Stochează bitcoin
-* [x] Gestionează chei și semnează
-* [ ] Elimină protecția informațiilor secrete
-* [ ] Anulează tranzacții
+* [x] Gestionează cheile și semnează
+* [ ] Elimină protecția secretelor
+* [ ] Anulează tranzacțiile
 
-### Explanation
+### Explicație
 
-Bitcoin este înregistrat în registrul partajat; un portofel gestionează informațiile folosite pentru a-l accesa și utiliza. Consultați Ghidul cursantului, Modulul 3, „Portofele”.
+Bitcoin este înregistrat în registrul partajat; un portofel gestionează informațiile folosite pentru accesarea și utilizarea acestuia. Recapitulați Ghidul cursantului, Modulul 3, „Portofele”.
 
-## Question 2
+## Întrebare 2
 
 Ce puteți partaja pentru a primi bitcoin:
 
@@ -22,32 +22,32 @@ Ce puteți partaja pentru a primi bitcoin:
 * [x] Adresa de primire
 * [ ] Parola
 
-### Explanation
+### Explicație
 
-O adresă de primire poate fi partajată pentru a primi o plată. Frazele de recuperare, cheile private și parolele trebuie să rămână secrete. Consultați Ghidul cursantului, Modulul 3, „Adrese” și „Chei”.
+O adresă de primire poate fi partajată pentru efectuarea unei plăți. Frazele de recuperare, cheile private și parolele trebuie să rămână secrete. Recapitulați Ghidul cursantului, Modulul 3, „Adrese” și „Chei”.
 
-## Question 3
+## Întrebare 3
 
 Ați introdus fraza de recuperare online. Care este cel mai sigur pas următor?
 
 * [ ] Așteptați
-* [ ] Trimiteți-o echipei de asistență
+* [ ] Trimiteți-o serviciului de asistență
 * [x] Creați o frază de recuperare nouă, apoi transferați fondurile
 * [ ] Reutilizați fraza de recuperare
 
-### Explanation
+### Explicație
 
-Considerați compromisă orice frază de recuperare introdusă online. Creați un portofel nou cu o frază de recuperare nouă, apoi transferați fondurile numai după ce verificați destinația. Consultați Ghidul cursantului, Modulul 3, „Fraze de recuperare”.
+Considerați compromisă orice frază de recuperare introdusă online. Creați un portofel nou cu o frază de recuperare nouă, apoi transferați fondurile numai după ce verificați destinația. Recapitulați Ghidul cursantului, Modulul 3, „Fraze de recuperare”.
 
-## Question 4
+## Întrebare 4
 
-Care este diferența dintre custodie și autocustodie?
+Care este principala diferență dintre utilizarea în custodie și utilizarea în autocustodie?
 
 * [x] Cine controlează cheile
 * [ ] Reversibilitatea plăților
-* [ ] Limita ofertei
-* [ ] Responsabilitatea
+* [ ] Limita ofertei monetare
+* [ ] Comisioanele de tranzacție
 
-### Explanation
+### Explicație
 
-Utilizarea cu custodie și cea cu autocustodie diferă prin cine controlează cheile și își asumă responsabilitatea aferentă. Niciuna nu garantează siguranța sau reversibilitatea. Consultați Ghidul cursantului, Modulul 3, „Utilizarea cu și fără custodie”.
+Utilizarea în custodie și cea în autocustodie diferă prin cine controlează cheile și își asumă responsabilitatea aferentă. Niciuna nu garantează siguranța sau reversibilitatea. Recapitulați Ghidul cursantului, Modulul 3, „Utilizarea în custodie și fără custodie”.

@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: self-custody-responsibilities-01 -->
+[Kontrola nad ključevima nalazi se u središtu osam odgovornosti: pravljenje rezervne kopije, oporavak, primanje, slanje, izbor alata, način nabavke, privatnost i provera prevara. Svaka od njih nešto štiti, a propust u bilo kojoj može vas koštati pristupa, novca ili privatnosti.](/micrographics/self-custody-responsibilities-01/sr-Latn.md)
 
 
 
 <!-- micrographic: responsibility-checks-01 -->
+[Tabela sa šest zadataka u vezi sa samostalnim čuvanjem sredstava, sa prikazom onoga što treba zaštititi ili proveriti za svaki zadatak i onoga što može da se desi ako nešto pođe po zlu: rezervna kopija, primanje, slanje, čuvanje sredstava, izbor alata i nabavka.](/micrographics/responsibility-checks-01/sr-Latn.md)
 
 
 Zamislite da vam prijatelj šalje zahtev za plaćanje dok nepoznat nalog podrške tvrdi da morate odmah da reagujete. Šta biste mogli da proverite pre nego što bilo šta preduzmete? Možete li da zaštitite plan oporavka, razlikujete informacije za prijem od tajnih podataka i proverite osobu, način plaćanja, odredište, iznos i završni ekran pre slanja? Bez obzira na to da li ključeve kontroliše servis ili vi, praktičan rezime je isti: čuvajte tajne podatke, proveravajte pre odobravanja, prepoznajte znake prevare i ograničite posledice grešaka dok učite.

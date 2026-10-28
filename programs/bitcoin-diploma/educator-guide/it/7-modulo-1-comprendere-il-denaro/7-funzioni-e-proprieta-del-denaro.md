@@ -7,6 +7,7 @@ Insegni la differenza in modo esplicito:
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Due livelli: le tre funzioni della moneta (mezzo di scambio, unità di conto, riserva di valore) poggiano su sette proprietà (durevolezza, trasportabilità, divisibilità, fungibilità, scarsità, accettabilità e verificabilità).](/micrographics/functions-and-properties-01/it.md)
 
 
 Utilizzi scopi diversi. Chieda quali proprietà contano per:

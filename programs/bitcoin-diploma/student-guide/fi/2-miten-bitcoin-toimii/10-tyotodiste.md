@@ -3,6 +3,7 @@
 ![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
+<!-- card: definition -->
 > **Definition – Työntodiste**
 >
 > [Työntodiste](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) on prosessi, jota [louhijat](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) käyttävät kilpaillakseen oikeudesta ehdottaa seuraavaa lohkoa.
@@ -14,6 +15,7 @@ Kun [louhija](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) löytää
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Louhija laskee ehdotetusta lohkosta tiivisteitä yhä uudelleen, kunnes yksi tulos alittaa verkon tavoitearvon, ja lähettää sitten lohkon verkkoon. Solmut tarkistavat nopeasti todisteen ja kaikkien sääntöjen noudattamisen ennen kuin lohko liitetään lohkoketjuun: työn tekeminen on kallista ja sen todentaminen helppoa.](/micrographics/proof-of-work-process-01/fi.md)
 
 
 [Työntodiste](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) palvelee useita tarkoituksia:

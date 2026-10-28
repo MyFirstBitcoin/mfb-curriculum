@@ -12,6 +12,7 @@ Build a layered or braided timeline rather than a single arrow of progress. Incl
 
 
 <!-- micrographic: forms-of-money-01 -->
+[Six forms of money appear left to right in the order they arose: direct exchange, commodity money, standard coins, representative paper, bank and government money, and digital money. Each new form starts later while the older forms carry on beside it, so many forms coexist rather than one replacing another.](/micrographics/forms-of-money-01/en.md)
 
 
 Invite local additions. Ask which forms coexisted rather than assuming one replaced another completely.

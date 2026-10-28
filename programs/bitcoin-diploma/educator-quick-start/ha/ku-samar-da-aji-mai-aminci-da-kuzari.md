@@ -1,6 +1,7 @@
 # Ku samar da aji mai aminci da kuzari
 
-> **Callout – Ku kare ɗalibai kafin a fara ayyukan gwaji**
+<!-- card: callout -->
+> **Ku kare ɗalibai kafin a fara ayyukan gwaji**
 >
 > Kada ku taɓa nema, duba, ɗaukar hoto, kwafa, rubutawa, ko adana ainihin jerin kalmomin dawo da walat, maɓallin sirri, kalmar sirri, ko bayanan kuɗi da ba a buƙata ba. Kada ku matsa wa kowa ya saya, ya sayar, ya riƙe, ko ya yi amfani da bitcoin. Ku dakata a duk lokacin da ɗalibi yake cikin rashin tabbas, ake matsa masa, ko yake fuskantar yiwuwar zamba.
 

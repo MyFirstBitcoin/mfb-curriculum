@@ -1,6 +1,6 @@
 # Quiz – Razumevanje novca: kratka provera
 
-## Question 1
+## Pitanje 1
 
 Zašto se novac prihvata?
 
@@ -9,11 +9,11 @@ Zašto se novac prihvata?
 * [ ] Ukida sva pravila
 * [ ] Pretvara usluge u robu
 
-### Explanation
+### Objašnjenje
 
 Novac pomaže ljudima koji se ne poznaju da usklade razmenu kroz vreme jer očekuju da će ga i drugi kasnije prihvatiti. On i dalje zavisi od poverenja, pravila i društvene prihvaćenosti. Pogledajte Vodič za učenike, Modul 1, „Zašto novac postoji“.
 
-## Question 2
+## Pitanje 2
 
 Određivanje cena, plaćanje, štednja: koje su to funkcije?
 
@@ -22,11 +22,11 @@ Određivanje cena, plaćanje, štednja: koje su to funkcije?
 * [ ] Sredstvo razmene; čuvar vrednosti; obračunska jedinica
 * [ ] Oskudnost; oskudnost; oskudnost
 
-### Explanation
+### Objašnjenje
 
 Obračunska jedinica služi za izražavanje cena, sredstvo razmene prihvata se pri plaćanju, a čuvar vrednosti prenosi vrednost u budućnost. Pogledajte Vodič za učenike, Modul 1, „Funkcije i svojstva novca“.
 
-## Question 3
+## Pitanje 3
 
 Razmena pirinča za cipele ne uspeva: zašto?
 
@@ -35,11 +35,11 @@ Razmena pirinča za cipele ne uspeva: zašto?
 * [ ] Nema odobrenja banke
 * [ ] Pirinač se ne može razmenjivati
 
-### Explanation
+### Objašnjenje
 
 Direktna trampa je teška kada obe osobe ne žele istovremeno ono što druga nudi. To je problem dvostrukog podudaranja želja. Pogledajte Vodič za učenike, Modul 1, „Trampa i dvostruko podudaranje želja“.
 
-## Question 4
+## Pitanje 4
 
 Cene +10%, prihod +5%: šta se dešava sa kupovnom moći?
 
@@ -48,6 +48,6 @@ Cene +10%, prihod +5%: šta se dešava sa kupovnom moći?
 * [x] Opada
 * [ ] Ne može se utvrditi
 
-### Explanation
+### Objašnjenje
 
 Kupovna moć predstavlja ono što se novcem može kupiti. Ako cene rastu brže od prihoda, tim prihodom može se kupiti manje. Pogledajte Vodič za učenike, Modul 1, „Inflacija i kupovna moć“.

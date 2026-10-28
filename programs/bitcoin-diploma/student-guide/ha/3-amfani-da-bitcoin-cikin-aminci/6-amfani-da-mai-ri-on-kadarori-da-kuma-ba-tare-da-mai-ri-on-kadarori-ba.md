@@ -1,5 +1,6 @@
 # 3.6 Amfani da mai riƙon kadarori da kuma ba tare da mai riƙon kadarori ba
 
+<!-- card: definition -->
 > **Definition – Riƙon maɓallai**
 >
 > [Riƙon maɓallai](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) yana amsa wata tambaya ta zahiri: wa ke sarrafa maɓallan da ake buƙata don kashe bitcoin?
@@ -15,10 +16,12 @@ A cikin **tsarin da babu mai riƙon maɓallai a madadin mai amfani** ko **tsarin
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[A tsarin riƙon wani, mai ba da sabis ne yake sarrafa maɓallan kuma yake amincewa da kashe kuɗi, don haka ma'aunin alƙawarinsa ne. A tsarin riƙon kai, mai amfani ne yake sarrafa maɓallan da kwafin ajiya; dukkan hanyoyin biyu suna da abubuwan da suka dogara da su da kuma haɗarin gazawa.](/micrographics/who-controls-keys-01/ha.md)
 
 
 
 <!-- micrographic: custody-comparison-table-01 -->
+[Tebur da ke kwatanta amfani da mai kula da maɓallai da kuma kula da maɓallai da kai: wa ke riƙe da maɓallan, wa ke kula da maidowa, da babban abin da ake samu da abin da ake sadaukarwa a kowanne. Babu tsarin da ba shi da haɗari.](/micrographics/custody-comparison-table-01/ha.md)
 
 
 [Riƙon maɓallai](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) ba koyaushe yake bayyana daga fuskar manhajar ba. Idan ba za ku iya sarrafa hanyar dawo da damar shiga ba kuma kuna buƙatar kamfani ya amince da cire kuɗi, mai yiwuwa kuna amfani da [mai riƙon maɓallai](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian). [Riƙon maɓallai da kai](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) ba gwajin kimar mutum ba ne; muhimmin mataki shi ne gano irin amincewa da haɗarin da ke tattare da hakan.

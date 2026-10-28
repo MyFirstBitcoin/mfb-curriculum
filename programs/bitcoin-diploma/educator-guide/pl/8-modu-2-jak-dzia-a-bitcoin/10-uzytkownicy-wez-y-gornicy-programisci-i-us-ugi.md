@@ -14,6 +14,7 @@ Proszę stosować dokładnie te rozgraniczenia ról dla początkujących:
 
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Cztery role w sieci Bitcoin: użytkownicy odbierają, przechowują i wysyłają bitcoin, węzły niezależnie sprawdzają zgodność z regułami, górnicy tworzą bloki kandydujące z dowodem pracy, a programiści proponują oprogramowanie. Żadna pojedyncza rola nie kontroluje sieci.](/micrographics/bitcoin-participant-roles-01/pl.md)
 
 
 #### Ćwiczenie: nieprawidłowy blok

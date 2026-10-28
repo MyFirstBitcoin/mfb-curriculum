@@ -5,7 +5,8 @@
 Pengiriman memerlukan kehati-hatian lebih karena suatu [transaksi](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) Bitcoin yang valid biasanya sulit atau mustahil dibatalkan. Sebelum Anda menyentuh tombol persetujuan, dapatkah Anda menjelaskan siapa yang akan menerima pembayaran tersebut dan untuk tujuan apa?
 
 
-> **Callout – Berhenti dan verifikasi sebelum mengirim**
+<!-- card: callout -->
+> **Berhenti dan verifikasi sebelum mengirim**
 >
 > Pastikan penerima, metode pembayaran, tujuan, jumlah dan satuan, biaya atau batas waktu berlaku, serta layar akhir. Jika ada hal yang berbeda dari permintaan tepercaya, atau seseorang mendesak Anda atau meminta informasi pemulihan, berhenti dan lakukan verifikasi secara independen. Lakukan uji coba dengan jumlah kecil jika Anda belum terbiasa dengan prosesnya.
 
@@ -21,6 +22,7 @@ Pengiriman memerlukan kehati-hatian lebih karena suatu [transaksi](https://curri
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Sebelum menyetujui pembayaran, pengirim memeriksa penerima dan tujuan pembayaran, metode pembayaran, tujuan pengiriman, serta jumlah, satuan, biaya atau batas waktu kedaluwarsa, dengan melakukan uji coba kecil jika belum terbiasa. Jika ada yang berbeda, pengirim berhenti dan melakukan verifikasi; pengirim hanya menyetujui jika semuanya sesuai, lalu memeriksa hasilnya.](/micrographics/pre-send-checklist-01/id.md)
 
 
 Untuk [pembayaran on-chain](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), **biaya jaringan** dibayarkan agar [transaksi](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) dimasukkan ke dalam sebuah blok. Besarnya terutama bergantung pada data [transaksi](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) dan permintaan akan [ruang blok](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-space), bukan hanya pada jumlah yang dikirim. Perkiraan biaya dan waktu pemrosesan dapat berubah, jadi bacalah ringkasan akhir alih-alih berasumsi bahwa pembayaran bernilai kecil memiliki biaya yang rendah.

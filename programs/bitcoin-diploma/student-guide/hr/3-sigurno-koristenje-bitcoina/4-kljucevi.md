@@ -3,6 +3,7 @@
 Vlasništvo nad Bitcoinom osigurava se kriptografskim ključevima.
 
 
+<!-- card: definition -->
 > **Definition – Privatni ključ**
 >
 > Jedan [privatni ključ](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) tajni je podatak koji novčaniku omogućuje stvaranje valjanih [digitalnih potpisa](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature). Potpis odobrava trošenje bitcoina pod kontrolom odgovarajućeg ključa. Svatko tko dođe do [privatnog ključa](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) obično može potrošiti ta sredstva.
@@ -21,10 +22,10 @@ Većina novčanika za početnike koristi [jedan potpis](https://curriculum.myfir
 Nijednom vjerodostojnom edukatoru, tvrtki koja razvija novčanik, zaposleniku mjenjačnice, djelatniku tehničke podrške ni programeru Bitcoina nije potreban vaš [privatni ključ](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) ili [početna fraza](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase). Svakoga tko to zatraži trebate smatrati prijetnjom.
 
 
-> **Light**
->
+<!-- card: light -->
 > **Isprobajte:** Razvrstajte pripremljene primjere u tri skupine: podaci koje je sigurno dijeliti radi primanja, tajni podaci za trošenje i podaci koji mogu biti javni, ali bi ipak trebali ostati privatni kada su povezani s nekom osobom.
 
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[Iz tajnog privatnog ključa, koji se nikada ne smije dijeliti, nastaju javni podaci koji se mogu dijeliti: javni ključ izveden iz njega i adresa za primanje stvorena iz tog javnog ključa. Isti privatni ključ stvara potpise koje čvorovi provjeravaju, a da pritom nikada ne saznaju privatni ključ.](/micrographics/private-key-public-info-01/hr.md)

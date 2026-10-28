@@ -14,6 +14,7 @@ Thực hiện theo trình tự sau:
 
 
 <!-- micrographic: translation-workflow-01 -->
+[Dịch thuật là một quá trình rà soát và thử nghiệm: chuẩn bị bản tiếng Anh rõ ràng, dịch theo ý nghĩa, rà soát cùng một chuyên gia ngôn ngữ và một nhà giáo dục, thử nghiệm các hướng dẫn an toàn với người học, sau đó xác nhận các tiêu chuẩn là tương đương. Nếu hướng dẫn an toàn chưa rõ, quay lại chỉnh sửa cách diễn đạt.](/micrographics/translation-workflow-01/vi.md)
 
 
 Tránh các thành ngữ và ẩn dụ khó chuyển tải trọn vẹn sang ngôn ngữ khác. Nếu sử dụng phép loại suy, luôn nêu rõ phép loại suy đó giải thích được điều gì và không giải thích được điều gì.

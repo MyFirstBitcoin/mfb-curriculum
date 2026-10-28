@@ -40,7 +40,8 @@ Asikokuyirhola, asikokuyichitha, kodwa kukucinga ngokuba iyintoni na nokuba iseb
 * Ngaba imali yenu ithenga umlinganiselo ofanayo wezinto njengangaphambili?
 
 
-> **Callout – Gcina iimpendulo zenu**
+<!-- card: callout -->
+> **Gcina iimpendulo zenu**
 >
 > Bhalani impendulo emfutshane kumbuzo ngamnye. Niya kubuyela kuzo ekupheleni.
 
@@ -85,6 +86,7 @@ Abantu bobabini kufuneka bafune oko omnye anako, ngaxeshanye nangobungakanani ob
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[UAmina unerayisi kwaye ufuna izihlangu, uLuis unezihlangu kwaye ufuna ioli yokupheka, kanti uMei uneoli yokupheka kwaye ufuna ukulungiselwa izinto. Akukho sibini sinokutshintshiselana ngokuthe ngqo, kuba akukho namnye kwabo babini ofuna oko kunikelwa ngomnye.](/micrographics/barter-mismatch-01/xh.md)
 
 <!-- notes: Sebenzisani umzekelo okwisikhokelo: nilima irayisi kwaye nifuna izihlangu, kodwa umenzi wezihlangu ufuna ioli yokupheka, hayi irayisi. Iingcali zezoqoqosho zikubiza oku ngokuba kukungqamana kabini kweemfuno. -->
 
@@ -151,6 +153,7 @@ Xa abantu besiva igama elithi ukunyuka kwamaxabiso, badla ngokucinga ngamaxabiso
 ## Ukunyuka kwamaxabiso namandla okuthenga
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Ngeeyunithi eziyi-100 ezifanayo zemali kunokuthengwa yonke ibhasikithi yeempahla ezisisiseko xa ixabisa i-100, kodwa akunakuthengwa yonke xa kwale bhasikithi ixabisa i-110. Inqanaba lamaxabiso linyukile yaye amandla okuthenga emali ehlile.](/micrographics/same-money-smaller-basket-01/xh.md)
 
 <!-- notes: Ukunyuka kwamaxabiso kukunyuka okuqhubekayo kwinqanaba lamaxabiso ngokubanzi. Elinye icala lako ngamandla okuthenga: ubungakanani bezinto ezinokuthengwa yiyunithi enye yemali. Ukuba ixabiso lebhaskithi yeempahla ezisisiseko linyuka lisuka kwiiyunithi ezili-100 zemali liye kwezili-110, kwaezo yunithi zili-100 azisakwazi ukuthenga yonke loo bhaskithi. -->
 
@@ -213,8 +216,7 @@ Isixa semali ekwiakhawunti yebhanki sahlukile kwimali ezinkozo eniyiphethe ngesa
 * Kodwa ubungakanani bayo obukhoyo nemithetho yayo zinokutshintsha, yaye abantu abayisebenzisayo abanalo kangako ilizwi kwizigqibo
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Yiloo nto abantu befuna ezinye iindlela, nesizathu sokuba iBitcoin yadalwa.
 
 ---
@@ -233,6 +235,7 @@ Imali yedijithali engalawulwa liziko elinye, enesixa esiqingqiweyo, nenokuthunye
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Kwinkampani yeentlawulo, ngumbutho omnye ogcina ileja novuma udluliselo ngalunye. KwiBitcoin, umthumeli utyikitya intengiselwano, iinodi ezizimeleyo ziyayijonga baze abembi bayifake kwileja enye ekwabelwana ngayo, ngoko umamkeli akaxhomekeki kakhulu kugunyaziwe osembindini.](/micrographics/central-ledger-vs-bitcoin-01/xh.md)
 
 <!-- notes: Ngaphambi kweBitcoin, ukuthumela imali kwi-intanethi kwakusoloko kuxhomekeke kumbutho othenjiweyo: ibhanki okanye inkampani yeentlawulo eyayigcina incwadi yeerekhodi, ivume iiakhawunti, yaye inokulibazisa, ithintele okanye irhoxise intlawulo. Kulula ukukopa inkcazelo yedijithali: ukuba ingqekembe yedijithali ibinokusetyenziswa kabini, ibingenakusebenza njengemali. Le yingxaki yokuchitha imali enye kabini. USatoshi Nakamoto ngumntu okanye liqela elisebenzisa elo gama. -->
 
@@ -253,6 +256,7 @@ Akukho nkampani inokumisa ukusetyenziswa kwe-bitcoin eniyilawulayo ngokwenu. Eny
 ## Umda Onokuqinisekiswa Nguye Nabani Na
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Umda wobonelelo obhalwe kwiwebhusayithi okanye kumthombo wedatha womkhuphi unokutshintshwa ngokufihlakeleyo nguloo mkhuphi. Umgaqo wobonelelo weBitcoin usesidlangalaleni, yaye utyikityo, imbali esesidlangalaleni, ubungqina bomsebenzi kunye nokuqinisekiswa ziinodi zisebenza kunye ukuthintela ukuyilwa kweengqekembe ezintsha okanye ukusetyenziswa kwe-bitcoin enye kabini.](/micrographics/claimed-or-verified-supply-01/xh.md)
 
 <!-- notes: Ii-bitcoin ezintsha zikhutshwa ngokweshedyuli kawonke-wonke, yaye iikhompyutha ezizimeleyo ezibizwa ngokuba zii-node ziyayala nayiphi na ibhloko eyaphula loo mgaqo. Lo mda uthembekile kuba nabani na unokuwuqinisekisa. Ayingomthetho wendalo: uhlala usebenza kuba abathathi-nxaxheba beqhubeka bewunyanzelisa. Isixa esilinganiselweyo asiqinisekisi ukuba ixabiso liza kunyuka; ixabiso lixhomekeke kwimfuno nakwisixa esikhoyo. -->
 
@@ -264,6 +268,7 @@ I-bitcoin enye yahlulahlulwa ibe ziiyunithi ezincinane eziyi-100 000 000 ezibizw
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Itheyibhile eneekholamu ezimbini: i-1 BTC ilingana ne-100 000 000 sats, i-0,1 BTC ilingana ne-10 000 000 sats, i-0,01 BTC ilingana ne-1 000 000 sats, i-0,001 BTC ilingana ne-100 000 sats, yaye i-0,00000001 BTC ilingana ne-1 sat.](/micrographics/bitcoin-and-sats-01/xh.md)
 
 <!-- notes: Ukuba ne-100 000 sats nokuba ne-0,001 bitcoin kuchaza isixa esifanayo. Lungisani ingcamango ephosakeleyo yokuba i-Bitcoin ayifikeleleki kuba i-bitcoin enye ibiza kakhulu. -->
 
@@ -272,6 +277,7 @@ I-bitcoin enye yahlulahlulwa ibe ziiyunithi ezincinane eziyi-100 000 000 ezibizw
 ## Ngubani ogcina i-Bitcoin isebenza?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Iindima ezine kwi-Bitcoin: abasebenzisi bafumana, bagcine baze bathumele i-bitcoin, iinodi ziqinisekisa imithetho ngokuzimeleyo, abagodi bakha iibhloko ezicetywayo ngobungqina bomsebenzi, yaye abaphuhlisi bacebisa isoftwe. Akukho ndima inye ilawula uthungelwano.](/micrographics/bitcoin-participant-roles-01/xh.md)
 
 <!-- notes: Abasebenzisi bathumela, bamkele baze bagcine i-bitcoin; iindawo zothungelwano zihlola intengiselwano nganye nebhloko nganye ukuqinisekisa ukuba ziyahambelana nemithetho; abembi bakhuphisana ngokongeza ibhloko entsha kwirekhodi malunga nemizuzu elishumi nganye. Loo rekhodi, ikhonkco leebhloko, iyafumaneka esidlangalaleni yaye kubiza kakhulu ukuyibhala ngokutsha. Ingcaciso ngopelo: i-Bitcoin eno-B omkhulu idla ngokuthetha uthungelwano okanye inkqubo; i-bitcoin eno-b omncinane ithetha imali ngokwayo. -->
 
@@ -307,6 +313,7 @@ Umbuzo wokuqala ngaso nasiphi na isipaji: ngubani olawula izitshixo?
 ## Isipaji Silawula Izitshixo
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Isipaji sigcina izitshixo. Ngazo ninokwamkela nize nithumele i-bitcoin, ngoxa i-bitcoin ngokwayo ihlala ibhaliwe kwileja ekwabelwana ngayo, kungekhona ngaphakathi efowunini okanye kwisixhobo.](/micrographics/wallet-manages-keys-01/xh.md)
 
 <!-- notes: Isipaji se-Bitcoin sisixhobo, esidla ngokuba lusetyenziso, esinivumela ukuba nifumane, nijonge, nithumele i-bitcoin. I-bitcoin yenu ayigcinwanga ngaphakathi kwifowuni yenu: irekhodwa kwikhonkco leebhloko. Isipaji silawula izitshixo ezinivumela ukuba ningqine ukuba yeyenu nize nigunyazise intlawulo. -->
 
@@ -331,6 +338,7 @@ Uluhlu lwamagama alandelelanayo, adla ngokuba li-12 okanye angama-24, olunokuphi
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Ibinzana lembewu luluhlu lwamagama alandelelaniswe ngendlela ethile; apha ngamagama omzekelo alishumi elinesibini aneenombolo abhalwe ephepheni. Amagama achanekileyo alandelelaniswe ngokuchanekileyo anokubuyisela ulawulo kwisipaji esihambelanayo, ngoko eli binzana ligcinwa liyimfihlo yaye lingekho kwi-intanethi.](/micrographics/seed-phrase-on-paper-01/xh.md)
 
 <!-- notes: Ibinzana lembewu alilogcino nje kuphela: linika ufikelelo olupheleleyo. Libhaleni ngokuchanekileyo ephepheni xa nisenza isipaji; ligcineni lingekho kwi-intanethi, liyimfihlo, kwaye likwindawo apho lingayi kulahleka okanye lonakale khona. Ningaze nilifote, nilithumele nge-imeyile, niligcine kumanqaku asefini, nilithumele kumyalezo, okanye nilichwetheze kwiwebhusayithi. Amagama abonisiweyo ngumzekelo kuphela; ningaze nibonise okanye niqokelele ibinzana lembewu lokwenene. -->
 
@@ -365,6 +373,7 @@ Uluhlu lwamagama alandelelanayo, adla ngokuba li-12 okanye angama-24, olunokuphi
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Iintlawulo ezikwikhonkco leebhloko zirekhodwa ngqo kwikhonkco leebhloko leBitcoin, ngoxa iLightning iluthungelwano lweentlawulo olwakhelwe kwiBitcoin ukulungiselela iintlawulo ezikhawulezayo, ezenziwa rhoqo nezinokungaphumeleli. Kuzo zombini ezi ndlela, imali inokugcinwa ngomnye umntu okanye igcinwe ngumniniyo ngokwakhe.](/micrographics/on-chain-and-lightning-01/xh.md)
 
 ---
 
@@ -375,7 +384,8 @@ Uluhlu lwamagama alandelelanayo, adla ngokuba li-12 okanye angama-24, olunokuphi
 * **Musani Ukuthemba, Qinisekisani.** Jongani umntu, indlela yokuhlawula, idilesi, nesixa semali.
 
 
-> **Callout – Yabelanani ngolwazi lokwamkela iintlawulo, ningaze nabelane ngeemfihlo**
+<!-- card: callout -->
+> **Yabelanani ngolwazi lokwamkela iintlawulo, ningaze nabelane ngeemfihlo**
 >
 > Idilesi okanye isicelo sentlawulo sinokwabelwana ngaso. Ibinzana lembewu okanye isitshixo sabucala masingaze kwabelwane ngaso. Akukho titshala, nkampani yesipaji, okanye msebenzi wenkxaso osemthethweni oya kuze anicele loo nto.
 
@@ -389,6 +399,7 @@ Yekani ukuba umntu uninyanzela ukuba nikhawuleze okanye nigcine izinto ziyimfihl
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Iimpawu ezintlanu ezilumkisa ngobuqhetseba: ukungxamiseka, ukuzenza omnye umntu, indawo ekuthunyelwa kuyo etshintshiweyo, iimbuyekezo eziqinisekisiweyo kunye nezicelo zeemfihlo.](/micrographics/scam-red-flags-01/xh.md)
 
 ---
 
@@ -408,7 +419,8 @@ Esi sisiqalo nje.
 * **Esi sisiqalo nje.** Inyathelo elinye elilandelayo elikhuselekileyo lanele.
 
 
-> **Callout – Ithuba lokucamngca**
+<!-- card: callout -->
+> **Ithuba lokucamngca**
 >
 > Buyelani kwimibuzo emihlanu esekuqaleni. Beninokuphendula nithini ngoku?
 

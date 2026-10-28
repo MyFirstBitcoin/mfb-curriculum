@@ -3,6 +3,7 @@
 Rozšíření osobních počítačů a internetu přineslo nové možnosti komunikace. Přineslo také nové formy sledování a kontroly. Na konci dvacátého století skupina programátorů, matematiků a aktivistů známá jako [**Cypherpunks**](https://curriculum.myfirstbitcoin.org/lexicon/en/#cypherpunk) zkoumala, jak by [kryptografie](https://curriculum.myfirstbitcoin.org/lexicon/en/#cryptography) mohla chránit [soukromí](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy) a svobodu jednotlivce v digitálních systémech.
 
 
+<!-- card: definition -->
 > **Definition – Kryptografie**
 >
 > [Kryptografie](https://curriculum.myfirstbitcoin.org/lexicon/en/#cryptography) používá matematické metody k ochraně informací a k prokázání pravosti určitého úkonu. [Šifrování](https://curriculum.myfirstbitcoin.org/lexicon/en/#encryption) může zajistit důvěrnost zprávy. [Digitální podpisy](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) mohou prokázat, že zpráva nebo pokyn pochází od držitele tajného klíče, aniž by tento klíč odhalily.
@@ -16,3 +17,4 @@ Bitcoin vznikl na základě desítek let práce mnoha lidí. Jeho návrh novým 
 
 
 <!-- micrographic: chain-of-ideas-01 -->
+[Řetězec myšlenek: kryptografie vedla k výzkumu digitální hotovosti, který směřoval k decentralizovaným digitálním penězům. Bitcoin novým způsobem propojil desítky let předchozí práce mnoha lidí.](/micrographics/chain-of-ideas-01/cs.md)

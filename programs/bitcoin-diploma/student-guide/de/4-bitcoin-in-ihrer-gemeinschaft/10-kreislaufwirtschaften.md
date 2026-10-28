@@ -4,6 +4,7 @@ Eine [**Bitcoin-Kreislaufwirtschaft**](https://curriculum.myfirstbitcoin.org/lex
 
 
 <!-- micrographic: local-circular-economy-01 -->
+[In einer Bitcoin-Kreislaufwirtschaft wandern bitcoin von Person zu Person im Austausch gegen Waren, Dienstleistungen und Zeit. Ein Kunde bezahlt einen Händler, der Händler bezahlt einen Dienstleister, der Dienstleister bezahlt eine Arbeitskraft, und die Arbeitskraft gibt die bitcoin als Kunde wieder aus.](/micrographics/local-circular-economy-01/de.md)
 
 
 My First Bitcoin unterstützt [Bitcoin-Kreislaufwirtschaften](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-circular-economy), und viele davon sind Teil des Bitcoin Education Network. Entdecken Sie diese Gemeinschaften im [Network Dashboard](https://network.myfirstbitcoin.org/?min10merchants=1).

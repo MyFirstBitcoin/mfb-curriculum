@@ -14,6 +14,7 @@ Nützliches Geld weist zudem meist mehrere Eigenschaften auf:
 
 
 <!-- micrographic: money-property-questions-01 -->
+[Sieben Eigenschaften nützlichen Geldes, jeweils mit einer Frage, die man sich beim Vergleich verschiedener Geldformen stellen sollte: Haltbarkeit, Übertragbarkeit, Teilbarkeit, Fungibilität, Knappheit, Akzeptanz und Überprüfbarkeit.](/micrographics/money-property-questions-01/de.md)
 
 
 Keine Form von Geld schneidet perfekt ab.
@@ -22,6 +23,7 @@ Man vergleicht Geld auch nach seiner [**Solidität**](https://curriculum.myfirst
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Zwei Ebenen: Die drei Funktionen des Geldes (Tauschmittel, Recheneinheit, Wertaufbewahrungsmittel) beruhen auf sieben Eigenschaften (Haltbarkeit, Transportierbarkeit, Teilbarkeit, Fungibilität, Knappheit, Akzeptanz und Überprüfbarkeit).](/micrographics/functions-and-properties-01/de.md)
 
 
 [Gold](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) ist langlebig und knapp, aber für kleine Zahlungen schwer zu teilen und zu transportieren. [Papiergeld](https://curriculum.myfirstbitcoin.org/lexicon/en/#paper-cash) ist leicht zu transportieren und wird vor Ort akzeptiert, kann aber beschädigt werden, und seine Menge kann ausgeweitet werden. Der beste Vergleich hängt vom Zweck, vom Ort und von der Zeit ab.

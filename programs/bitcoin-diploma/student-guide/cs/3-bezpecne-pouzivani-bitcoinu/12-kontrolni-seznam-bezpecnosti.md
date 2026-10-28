@@ -6,6 +6,7 @@ Co by vás přimělo zastavit se před platbou nebo instalací? Za varovné sign
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Pět varovných signálů podvodu: naléhavost, vydávání se za někoho jiného, změněný cíl platby, zaručené výnosy a žádosti o tajné údaje.](/micrographics/scam-red-flags-01/cs.md)
 
 
 Bezpečný postup je vždy stejný: **Zastavte se. Nic nesdílejte. Nic neposílejte. Ukončete komunikaci. Vše si nezávisle ověřte prostřednictvím známého zdroje. Požádejte o pomoc, aniž byste prozradili tajné údaje.** Známým zdrojem je oficiální web, stránka aplikace v obchodě s aplikacemi nebo způsob kontaktu, který jste si našli nezávisle, nikoli prostřednictvím reklamy, soukromé zprávy nebo nečekaného odkazu. Zkontrolujte vydavatele a webovou adresu, porovnejte je s oficiální dokumentací a kontaktní údaje si vyhledejte samostatně. Pokud se zdroj, pokyny nebo platební údaje liší od předvedeného postupu, zastavte se a požádejte o pomoc svého vyučujícího nebo důvěryhodnou místní podporu, aniž byste prozradili [obnovovací frázi](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) nebo [soukromý klíč](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key). Skutečná příležitost obstojí i při pečlivém ověření; podvod často závisí na tom, že vám v ověření zabrání.

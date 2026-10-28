@@ -9,6 +9,7 @@ Use one limited local resource to distinguish four ideas:
 
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[A shopper with limited money looks at the options in front of them: food for today, transport, or saving for later. Choosing one gives up the others, which is the opportunity cost, and no option is marked as the right one.](/micrographics/one-choice-two-uses-01/en.md)
 
 
 Ask learners to explain why rarity alone does not create [value](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). A rare item with no use or demand may remain unwanted.

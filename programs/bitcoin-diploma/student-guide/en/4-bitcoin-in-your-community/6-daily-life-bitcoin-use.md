@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: daily-bitcoin-uses-01 -->
+[Seven distinct ways Bitcoin can be used in daily life: earning, saving, receiving, sending, spending, donating, and pricing and accounting. Each is a possible use, not a required step.](/micrographics/daily-bitcoin-uses-01/en.md)
 
 
 Bitcoin can function as money in several ways. Spending is only one of them.
@@ -24,7 +25,7 @@ Bitcoin can function as money in several ways. Spending is only one of them.
 
 For any use, ask three questions:
 
-1. What existing problem does [Bitcoin address](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) here?
+1. What existing problem does Bitcoin address here?
 1. Is Bitcoin better than the available alternative for this case?
 1. What new responsibility or risk does Bitcoin create?
 

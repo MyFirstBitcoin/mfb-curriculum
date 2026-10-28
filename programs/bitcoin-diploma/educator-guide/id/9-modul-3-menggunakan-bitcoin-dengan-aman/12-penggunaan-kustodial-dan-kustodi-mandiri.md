@@ -20,3 +20,4 @@ Jangan perlakukan [kustodi mandiri](https://curriculum.myfirstbitcoin.org/lexico
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[Dalam penggunaan kustodial, penyedia layanan mengendalikan kunci dan menyetujui pengeluaran, sehingga saldo merupakan janji dari penyedia layanan. Dalam penggunaan kustodi mandiri, pengguna mengendalikan kunci dan cadangan; kedua cara ini memiliki ketergantungan dan risiko kegagalan.](/micrographics/who-controls-keys-01/id.md)

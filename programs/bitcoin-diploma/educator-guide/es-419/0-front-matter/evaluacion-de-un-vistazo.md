@@ -21,6 +21,7 @@ Estas no son calificaciones numéricas. Ambos componentes deben estar completos 
 
 
 <!-- micrographic: two-completion-gates-01 -->
+[Tanto las competencias teóricas C1 a C5 como las competencias prácticas C6 y C7 deben recibir un Sí antes de que se emita el certificado de finalización. Todavía no significa que se necesita más práctica y una reevaluación; la asistencia y la reflexión no sustituyen ninguno de los dos criterios.](/micrographics/two-completion-gates-01/es-419.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/2783871f5851cf80c2e6e2a93eeb911607939507-1536x1024.svg)

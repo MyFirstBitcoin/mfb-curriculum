@@ -1,5 +1,6 @@
 # 1.4 Směnný obchod a dvojí shoda potřeb
 
+<!-- card: definition -->
 > **Definition – Směnný obchod**
 >
 > [Směnný obchod](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) je přímá výměna jednoho zboží nebo služby za jiné zboží nebo službu. Při výměně v malém rozsahu může dobře fungovat, ale stává se obtížným, když se do něj zapojí mnoho lidí a produktů.
@@ -11,6 +12,7 @@ Představte si, že **Amina** má rýži a chce boty. **Luis** má boty, ale chc
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina má rýži a chce boty, Luis má boty a chce olej na vaření a Mei má olej na vaření a chce opravářské práce. Žádná dvojice nemůže směňovat přímo, protože ani jeden z dvojice nechce to, co nabízí ten druhý.](/micrographics/barter-mismatch-01/cs.md)
 
 
 Aby [směnný obchod](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) fungoval přímo, musí každý chtít to, co druhý nabízí, a to ve stejnou dobu a v odpovídajícím množství. Ekonomové tomu říkají [**dvojí shoda potřeb**](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-coincidence-of-wants).
@@ -31,3 +33,4 @@ Všeobecně přijímané peníze oddělují prodej od nákupu. Amina může prod
 
 
 <!-- micrographic: sell-then-buy-01 -->
+[Amina prodává rýži jedné osobě za běžně přijímané peníze a později si za tyto peníze kupuje boty od někoho jiného. Prodej a nákup se stávají oddělenými činnostmi.](/micrographics/sell-then-buy-01/cs.md)

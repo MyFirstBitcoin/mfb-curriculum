@@ -1,10 +1,12 @@
 # 4.13 Gözden Geçirme: Bunu Topluluğunuzla İlişkilendirin
 
 <!-- micrographic: community-review-path-01 -->
+[Yerel bir Bitcoin örneği için değerlendirme yolu: gerçek bir ihtiyaçtan başlayın, Bitcoin'in uygun olup olmadığını kontrol edin, ardından ödeme yöntemini, saklamayı, toplam maliyeti, güvenliği ve yerel koşulları inceleyin ve başarının kanıtıyla bitirin.](/micrographics/community-review-path-01/tr.md)
 
 
 
 <!-- micrographic: community-review-table-01 -->
+[Yerel örnek için bir değerlendirme tablosu: gerçek ihtiyaçtan sorumlu bir sonraki adıma kadar her konu için sorulacak bir soru ve kendi notlarınız için isteğe bağlı bir alan.](/micrographics/community-review-table-01/tr.md)
 
 
 Bu değerlendirmeyi bireysel olarak tamamlayın, ardından akıl yürütmenizi ekibiniz veya grubunuzla karşılaştırın. İncelediğiniz yerel örneği düşünün: Hangi gerçek ihtiyacı karşıladı, paranın hangi işlevi söz konusuydu ve [değer](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) zincir üstünde mi, Lightning üzerinden mi yoksa her ikisiyle mi aktarıldı? Anahtarları kimin kontrol ettiğini, en güçlü faydanın ve en ciddi riskin ne olduğunu, yerel yasaların, altyapının, dilin veya kültürün sonucu nasıl etkilediğini sorgulayın. Sorumlu bir sonraki adım; yerel bağlama uyan, maliyetleri ve [saklamayı](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) netleştiren, hataları ve dolandırıcılıkları sınırlayan ve kanıtlara göre değerlendirilebilen adımdır.

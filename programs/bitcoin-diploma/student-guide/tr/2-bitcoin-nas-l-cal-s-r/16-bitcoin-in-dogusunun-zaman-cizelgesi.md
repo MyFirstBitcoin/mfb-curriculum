@@ -4,6 +4,7 @@ Bitcoin, kısa bir dizi kamuya açık olayla ortaya çıktı.
 
 
 <!-- micrographic: bitcoin-origin-timeline-01 -->
+[Tarihli dört olayla Bitcoin'in kökeni: 31 Ekim 2008'de Satoshi Nakamoto, bir finansal aracı olmadan doğrudan çevrimiçi ödemeleri anlatan teknik makaleyi yayımladı; 3 Ocak 2009'da Genesis Bloğu, banka kurtarma paketleriyle ilgili bir gazete manşetiyle Bitcoin ağını başlattı; 12 Ocak 2009'da Satoshi, kayıtlara geçen ilk kişiden kişiye işlemle Hal Finney'ye bitcoin gönderdi; 22 Mayıs 2010'da bir kullanıcı iki pizza için 10.000 BTC ödedi ve bu gün bugün Bitcoin Pizza Günü olarak anılıyor.](/micrographics/bitcoin-origin-timeline-01/tr.md)
 
 
 Kaynak kayıtları inceleyin: [Bitcoin teknik raporunu](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-whitepaper) ([kaynak PDF](https://bitcoin.org/bitcoin.pdf)) okuyun; [Genesis Bloğu'nu](https://curriculum.myfirstbitcoin.org/lexicon/en/#genesis-block) ([blok kaydı](https://mempool.space/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f)) ve kaydedilen ilk [kişiden kişiye işlemi](https://curriculum.myfirstbitcoin.org/lexicon/en/#person-to-person-transaction) ([işlem kaydı](https://mempool.space/tx/f4184fc596403b9d638783cf57adfe4c75c605f6356fbc91338530e9831e9e16)) inceleyin ve [orijinal pizza talebini](https://bitcointalk.org/index.php?topic=137.0) okuyun. Bir [blok gezgini](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-explorer), kamuya açık verilere erişim için kullanışlı bir arayüzdür; Bitcoin'in kuralları üzerinde birincil bir otorite değildir.

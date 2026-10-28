@@ -15,6 +15,7 @@ Peça aos alunos que identifiquem:
 
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Os agentes de um sistema fiduciário e o que circula entre eles: o banco central define a política e realiza a liquidação entre os bancos, os bancos comerciais mantêm depósitos que são um passivo deles perante os clientes, os serviços de pagamento transmitem instruções, o governo arrecada impostos e realiza gastos, e os cidadãos e as empresas pagam e recebem pagamentos.](/micrographics/fiat-system-flows-01/pt-BR.md)
 
 
 Esteja preparado para explicar o sistema local. Indique quais detalhes são gerais e quais são específicos da jurisdição. Incentive a troca de diversas experiências, incluindo realidades baseadas em dinheiro em espécie e de pessoas com pouco acesso a serviços bancários, sem transformar a discussão em uma conclusão política.

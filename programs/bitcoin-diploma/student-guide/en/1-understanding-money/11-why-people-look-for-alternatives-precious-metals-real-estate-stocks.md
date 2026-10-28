@@ -4,6 +4,7 @@ People often seek alternatives to holding cash when they believe it will lose [p
 
 
 <!-- micrographic: saving-alternatives-table-01 -->
+[A table of three alternatives to holding cash (precious metals, real estate and stocks), each with why people may choose it and its important trade-offs. None is ranked above the others.](/micrographics/saving-alternatives-table-01/en.md)
 
 
 An [asset](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) is something a person can own or claim that may have [value](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); it does not automatically perform every function of money. A home may store [value](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) but is not practical for buying food. A share may be easy to sell in one country but unavailable to someone without a brokerage account. [Gold](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) has served as money across long periods of history but can be difficult to verify or divide during a small exchange.

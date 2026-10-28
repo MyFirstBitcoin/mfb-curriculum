@@ -13,6 +13,5 @@ Dla osoby, która wybiera [samodzielne przechowywanie środków](https://curricu
 [Samodzielne przechowywanie środków](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) nie jest zatem jedynie funkcją techniczną. Wymaga ochrony kopii zapasowych, weryfikowania adresów, sprawdzania działania portfela i opracowania planu odzyskiwania dostępu. Następny moduł wyjaśnia, jak ostrożnie przechowywać bitcoiny i z nich korzystać, w tym jak zarządzać związanym z tym ryzykiem i obowiązkami.
 
 
-> **Light**
->
+<!-- card: light -->
 > Osobista odpowiedzialność nie oznacza działania w pojedynkę ani odmawiania pomocy. Ostrożna osoba ucząca się może korzystać z edukacji, weryfikacji przez innych uczestników, udokumentowanych procedur i testów na małą skalę, nie udostępniając nikomu poufnych informacji.

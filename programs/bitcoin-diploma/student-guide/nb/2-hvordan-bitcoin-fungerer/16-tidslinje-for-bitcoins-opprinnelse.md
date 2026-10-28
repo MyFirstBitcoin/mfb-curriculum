@@ -4,6 +4,7 @@ Bitcoin oppsto gjennom en kort rekke offentlige hendelser.
 
 
 <!-- micrographic: bitcoin-origin-timeline-01 -->
+[Bitcoins opprinnelse gjennom fire daterte hendelser: 31. oktober 2008 publiserte Satoshi Nakamoto hvitboken, som beskrev direkte nettbetalinger uten et finansielt mellomledd; 3. januar 2009 startet genesisblokken Bitcoin-nettverket, med en avisoverskrift om redningspakker til banker; 12. januar 2009 sendte Satoshi bitcoin til Hal Finney i den første registrerte transaksjonen mellom to personer; 22. mai 2010 betalte en bruker 10 000 BTC for to pizzaer, en dag som nå er kjent som Bitcoin Pizza Day.](/micrographics/bitcoin-origin-timeline-01/nb.md)
 
 
 Utforsk kildematerialet: les [Bitcoins hvitbok](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-whitepaper) ([original PDF](https://bitcoin.org/bitcoin.pdf)), undersøk [genesisblokken](https://curriculum.myfirstbitcoin.org/lexicon/en/#genesis-block) ([blokkoppføring](https://mempool.space/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f)) og den første registrerte [person-til-person-transaksjonen](https://curriculum.myfirstbitcoin.org/lexicon/en/#person-to-person-transaction) ([transaksjonsoppføring](https://mempool.space/tx/f4184fc596403b9d638783cf57adfe4c75c605f6356fbc91338530e9831e9e16)), og les den [opprinnelige pizzaforespørselen](https://bitcointalk.org/index.php?topic=137.0). En [blokkutforsker](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-explorer) er et praktisk grensesnitt for offentlige data, ikke en overordnet autoritet over Bitcoins regler.

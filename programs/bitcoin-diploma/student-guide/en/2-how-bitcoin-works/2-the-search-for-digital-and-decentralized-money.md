@@ -3,6 +3,7 @@
 The growth of personal computers and the internet created new opportunities for communication. It also created new forms of surveillance and control. In the late twentieth century, a group of programmers, mathematicians, and activists known as [**Cypherpunks**](https://curriculum.myfirstbitcoin.org/lexicon/en/#cypherpunk) explored how [cryptography](https://curriculum.myfirstbitcoin.org/lexicon/en/#cryptography) could protect [privacy](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy) and individual freedom in digital systems.
 
 
+<!-- card: definition -->
 > **Definition – Cryptography**
 >
 > [Cryptography](https://curriculum.myfirstbitcoin.org/lexicon/en/#cryptography) uses mathematical methods to protect information and prove that an action is authentic. [Encryption](https://curriculum.myfirstbitcoin.org/lexicon/en/#encryption) can keep a message private. [Digital signatures](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) can prove that a message or instruction came from the holder of a secret key without revealing that key.
@@ -16,3 +17,4 @@ Bitcoin was built upon decades of work by many people. Its design joined earlier
 
 
 <!-- micrographic: chain-of-ideas-01 -->
+[A chain of ideas: cryptography led to research on digital cash, which led toward decentralized digital money. Bitcoin joined decades of earlier work by many people in a new way.](/micrographics/chain-of-ideas-01/en.md)

@@ -1,6 +1,6 @@
 # Quiz – Ligtas na Paggamit ng Bitcoin: maikling pagsusulit
 
-## Question 1
+## Tanong 1
 
 Ang isang Bitcoin wallet ay:
 
@@ -9,45 +9,45 @@ Ang isang Bitcoin wallet ay:
 * [ ] Nag-aalis ng proteksiyon sa mga lihim
 * [ ] Nagpapawalang-bisa ng mga transaksiyon
 
-### Explanation
+### Paliwanag
 
 Nakatala ang Bitcoin sa pinagsasaluhang talaan; pinamamahalaan ng wallet ang impormasyong ginagamit upang ma-access at magamit ito. Balikan ninyo ang Gabay ng Mag-aaral, Modyul 3, “Mga Wallet.”
 
-## Question 2
+## Tanong 2
 
-Ibahagi ninyo ito upang makatanggap ng bitcoin:
+Ibahagi upang makatanggap ng bitcoin:
 
 * [ ] Seed phrase
 * [ ] Pribadong susi
 * [x] Address sa pagtanggap
 * [ ] Password
 
-### Explanation
+### Paliwanag
 
-Maaaring ibahagi ang address sa pagtanggap upang makatanggap ng bayad. Dapat manatiling lihim ang mga seed phrase, pribadong susi, at password. Balikan ninyo ang Gabay ng Mag-aaral, Modyul 3, “Mga Address” at “Mga Susi.”
+Maaaring ibahagi ang address sa pagtanggap upang mabayaran. Dapat manatiling lihim ang mga seed phrase, pribadong susi, at password. Balikan ninyo ang Gabay ng Mag-aaral, Modyul 3, “Mga Address” at “Mga Susi.”
 
-## Question 3
+## Tanong 3
 
 Nailagay ang seed online. Ano ang pinakaligtas na susunod na hakbang?
 
 * [ ] Maghintay
 * [ ] Ipadala ito sa pangkat ng suporta
-* [x] Gumawa ng bagong seed, saka ilipat ang pondo
+* [x] Bagong seed, saka ilipat ang pondo
 * [ ] Gamitin muli ang seed
 
-### Explanation
+### Paliwanag
 
-Ituring ninyong hindi na ligtas ang isang seed phrase na nailagay online. Gumawa kayo ng bagong wallet na may bagong seed, at ilipat lamang ang pondo matapos matiyak na tama ang patutunguhan nito. Balikan ninyo ang Gabay ng Mag-aaral, Modyul 3, “Mga Seed Phrase.”
+Ituring ninyong hindi na ligtas ang isang seed phrase na nailagay online. Gumawa kayo ng bagong wallet na may bagong seed, at ilipat lamang ang pondo matapos tiyakin ang patutunguhan nito. Balikan ninyo ang Gabay ng Mag-aaral, Modyul 3, “Mga Seed Phrase.”
 
-## Question 4
+## Tanong 4
 
-Ano ang pagkakaiba sa pag-iingat ng pondo?
+Ano ang pangunahing pagkakaiba ng paggamit na may tagapangalaga at paggamit na may sariling pangangalaga?
 
-* [x] Kung sino ang may kontrol sa mga susi
+* [x] Kung sino ang kumokontrol sa mga susi
 * [ ] Kakayahang magpawalang-bisa ng bayad
 * [ ] Limitasyon sa suplay
-* [ ] Pananagutan
+* [ ] Mga bayarin sa transaksiyon
 
-### Explanation
+### Paliwanag
 
-Ang paggamit na may tagapag-ingat at ang paggamit na may sariling pag-iingat ay nagkakaiba sa kung sino ang may kontrol sa mga susi at may kaakibat na pananagutan. Walang alinman sa dalawa ang gumagarantiya ng kaligtasan o kakayahang magpawalang-bisa ng mga transaksiyon. Balikan ninyo ang Gabay ng Mag-aaral, Modyul 3, “Paggamit na may tagapag-ingat at walang tagapag-ingat.”
+Nagkakaiba ang paggamit na may tagapangalaga at paggamit na may sariling pangangalaga sa kung sino ang kumokontrol sa mga susi at umaako sa kaugnay na pananagutan. Hindi ginagarantiyahan ng alinman ang kaligtasan o ang kakayahang magpawalang-bisa ng transaksiyon. Balikan ninyo ang Gabay ng Mag-aaral, Modyul 3, “Paggamit na may tagapangalaga at walang tagapangalaga.”

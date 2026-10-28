@@ -21,6 +21,7 @@
 
 
 <!-- micrographic: two-completion-gates-01 -->
+[הכשירויות התיאורטיות C1 עד C5 והכשירויות המעשיות C6 ו-C7 חייבות לקבל כל אחת אישור לפני הנפקת תעודת הסיום. עדיין לא פירושו שנדרשים תרגול נוסף והערכה חוזרת; נוכחות ורפלקציה אינן מחליפות אף אחד משני תנאי הסף.](/micrographics/two-completion-gates-01/he.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/2783871f5851cf80c2e6e2a93eeb911607939507-1536x1024.svg)

@@ -1,5 +1,6 @@
 # 1.7 Fiatgeld
 
+<!-- card: definition -->
 > **Definition – Fiatgeld**
 >
 > [Fiatgeld](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) ist eine [Währung](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency), die unter staatlicher Autorität ausgegeben wird, meist über eine [Zentralbank](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank), und die nicht in eine feste Menge eines Rohstoffs wie [Gold](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) eingelöst werden kann. Regierungen fördern – und in manchen Kontexten erzwingen – ihre Verwendung, indem sie sie für Steuerzahlungen vorschreiben und Regeln zum gesetzlichen Zahlungsmittel festlegen. Die genauen Regeln für die Annahme von Zahlungen und die Begleichung von [Schulden](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt) unterscheiden sich je nach Rechtsordnung.
@@ -11,12 +12,14 @@ Das Fiat-System hat mehrere Hauptakteure:
 
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Die Akteure in einem Fiat-Geldsystem und was zwischen ihnen fließt: Die Zentralbank legt die Geldpolitik fest und wickelt Zahlungen zwischen Banken ab, Geschäftsbanken halten Einlagen, die ihre Verbindlichkeiten gegenüber den Kunden sind, Zahlungsdienste übermitteln Anweisungen, der Staat erhebt Steuern und tätigt Ausgaben, und Bürger und Unternehmen zahlen und erhalten Zahlungen.](/micrographics/fiat-system-flows-01/de.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
-> **Light – Untersuchen Sie eine Zahlung vor Ort**
+<!-- card: light -->
+> **Untersuchen Sie eine Zahlung vor Ort**
 >
 > Wählen Sie eine alltägliche Zahlung in Ihrem Umfeld, etwa den Kauf eines Fahrscheins, von Lebensmitteln oder Handyguthaben, den Erhalt von Lohn oder das Bezahlen einer Rechnung. Wenn Sie möchten, verwenden Sie ein realistisches, erfundenes Szenario. Erklären Sie in drei oder vier Sätzen:
 >

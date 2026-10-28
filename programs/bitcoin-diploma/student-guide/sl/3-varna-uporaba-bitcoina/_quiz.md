@@ -1,19 +1,19 @@
-# Quiz – Varna uporaba Bitcoina: kratko preverjanje
+# Quiz – Varna uporaba Bitcoina: kratko preverjanje znanja
 
-## Question 1
+## Vprašanje 1
 
 Denarnica za Bitcoin:
 
 * [ ] Hrani bitcoin
 * [x] Upravlja ključe in podpisuje
-* [ ] Odstranjuje zaščito skrivnosti
+* [ ] Odstrani zaščito skrivnosti
 * [ ] Razveljavlja transakcije
 
-### Explanation
+### Pojasnilo
 
-Bitcoin je zabeležen v skupni evidenci; denarnica upravlja podatke, ki se uporabljajo za dostop do njega in njegovo uporabo. Oglejte si priročnik za učence, 3. modul, »Denarnice«.
+Bitcoin je zabeležen v skupni evidenci; denarnica upravlja podatke, ki omogočajo dostop do njega in njegovo uporabo. Ponovite razdelek »Denarnice« v 3. modulu priročnika za udeležence.
 
-## Question 2
+## Vprašanje 2
 
 Za prejem bitcoina delite:
 
@@ -22,32 +22,32 @@ Za prejem bitcoina delite:
 * [x] Prejemni naslov
 * [ ] Geslo
 
-### Explanation
+### Pojasnilo
 
-Prejemni naslov lahko delite za prejem plačila. Obnovitvene fraze, zasebni ključi in gesla morajo ostati skrivni. Oglejte si priročnik za učence, 3. modul, »Naslovi« in »Ključi«.
+Prejemni naslov lahko delite za prejem plačila. Obnovitvene fraze, zasebni ključi in gesla morajo ostati tajni. Ponovite razdelka »Naslovi« in »Ključi« v 3. modulu priročnika za udeležence.
 
-## Question 3
+## Vprašanje 3
 
-Obnovitveno frazo ste vnesli na spletu. Kateri je najvarnejši naslednji korak?
+Obnovitveno frazo ste vnesli na spletu. Kateri naslednji korak je najvarnejši?
 
 * [ ] Počakajte
-* [ ] Pošljite jo podpori
+* [ ] Pošljite jo podporni službi
 * [x] Ustvarite novo obnovitveno frazo, nato prenesite sredstva
-* [ ] Znova uporabite isto obnovitveno frazo
+* [ ] Ponovno uporabite isto obnovitveno frazo
 
-### Explanation
+### Pojasnilo
 
-Obnovitveno frazo, ki ste jo vnesli na spletu, obravnavajte kot razkrito. Ustvarite novo denarnico z novo obnovitveno frazo, nato pa sredstva prenesite šele po preverjanju ciljnega naslova. Oglejte si priročnik za učence, 3. modul, »Obnovitvene fraze«.
+Obnovitveno frazo, vneseno na spletu, obravnavajte kot razkrito. Ustvarite novo denarnico z novo obnovitveno frazo, nato pa sredstva prenesite šele po preverjanju ciljnega naslova. Ponovite razdelek »Obnovitvene fraze« v 3. modulu priročnika za udeležence.
 
-## Question 4
+## Vprašanje 4
 
-V čem se razlikujeta skrbništvo in samostojno skrbništvo?
+Kakšna je glavna razlika med skrbniško uporabo in uporabo z lastno hrambo?
 
 * [x] Kdo nadzoruje ključe
 * [ ] Možnost razveljavitve plačil
 * [ ] Omejitev ponudbe
-* [ ] Odgovornost
+* [ ] Transakcijske provizije
 
-### Explanation
+### Pojasnilo
 
-Uporaba s skrbništvom in uporaba s samostojnim skrbništvom se razlikujeta po tem, kdo nadzoruje ključe in nosi s tem povezano odgovornost. Nobena ne zagotavlja varnosti ali možnosti razveljavitve transakcij. Oglejte si priročnik za učence, 3. modul, »Skrbniška in neskrbniška uporaba«.
+Skrbniška uporaba in uporaba z lastno hrambo se razlikujeta po tem, kdo nadzoruje ključe in nosi s tem povezano odgovornost. Nobena ne zagotavlja varnosti ali možnosti razveljavitve transakcij. Ponovite razdelek »Skrbniška in neskrbniška uporaba« v 3. modulu priročnika za udeležence.

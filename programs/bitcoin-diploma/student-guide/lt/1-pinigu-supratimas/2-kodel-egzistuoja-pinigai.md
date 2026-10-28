@@ -5,6 +5,7 @@
 Tiesioginiai mainai dažnai būna sudėtingi. Žmogus, turintis tai, ko Jums reikia, gali nenorėti to, ką Jūs siūlote. Pinigai išsprendžia šią koordinavimo problemą.
 
 
+<!-- card: definition -->
 > **Definition – Pinigai**
 >
 > Pinigai yra [turtas,](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) kurį žmonės priima, nes tikisi, kad vėliau jį priims ir kiti. Pinigai padeda nepažįstamiems žmonėms koordinuoti mainus, fiksuoti [kainas](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) ir [skolas](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt), taip pat perkelti [vertę](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) laike ir erdvėje.

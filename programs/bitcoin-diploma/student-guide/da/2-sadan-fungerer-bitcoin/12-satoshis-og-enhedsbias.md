@@ -14,6 +14,7 @@ Når De sammenligner [priser](https://curriculum.myfirstbitcoin.org/lexicon/en/#
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[En tabel med to kolonner: 1 BTC er 100.000.000 sats, 0,1 BTC er 10.000.000 sats, 0,01 BTC er 1.000.000 sats, 0,001 BTC er 100.000 sats, og 0,00000001 BTC er 1 sat.](/micrographics/bitcoin-and-sats-01/da.md)
 
 
 **Vis Deres forståelse:** Hvor mange [sats](https://curriculum.myfirstbitcoin.org/lexicon/en/#satoshi) er der i 0,01 BTC? Hvorfor forhindrer [prisen](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) på én hel bitcoin ikke en person i at bruge et mindre beløb?

@@ -18,3 +18,4 @@ Lightning er ikke en særskilt mønt. En vellykket Lightning-betaling beviser ik
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[On-chain-betalinger registreres direkte i Bitcoins blockchain, mens Lightning er et betalingsnetværk bygget på Bitcoin til hurtige, hyppige betalinger, som også kan mislykkes. Begge løsninger kan være med tredjepartsopbevaring eller egen opbevaring.](/micrographics/on-chain-and-lightning-01/da.md)

@@ -3,6 +3,7 @@
 Wani [tsari mai cibiyar iko](https://curriculum.myfirstbitcoin.org/lexicon/en/#centralized-system) yana da wurin da ke sarrafa shi. Banki yana sarrafa bayanan kwastomominsa a [kundin rajista](https://curriculum.myfirstbitcoin.org/lexicon/en/#ledger). Kamfanin biyan kuɗi yana sarrafa hanyar sadarwarsa. Gwamnati tana sarrafa ƙa'idojin fitar da [kuɗinta](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency).
 
 
+<!-- card: definition -->
 > **Definition – Rarraba iko**
 >
 > Wani [tsari mai rarraba iko](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralized-system) yana raba ayyuka da aiwatar da shawarwari tsakanin mahalarta masu zaman kansu da yawa. Bitcoin ba shi da wani babban ofishi da zai iya buɗe asusu, canja ragowar kuɗin asusu, ko amincewa da zama mamba.
@@ -22,6 +23,7 @@ A Bitcoin, [rarraba iko](https://curriculum.myfirstbitcoin.org/lexicon/en/#decen
 
 
 <!-- micrographic: powers-and-limits-01 -->
+[Masu amfani, kwamfutocin sadarwa, masu haƙar ma'adinai, masu haɓaka manhajoji da sabis-sabis kowannensu yana da wani iko game da dokokin bai ɗaya da kundin bayanan mu'amala na jama'a na Bitcoin, amma babu wanda zai iya sauya kundin ko dokokin ga kowa shi kaɗai.](/micrographics/powers-and-limits-01/ha.md)
 
 
 [Rarraba iko](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) yana kuma haifar da tsada. Haɗa kai wajen gudanar da ayyuka na iya ɗaukar lokaci mai tsawo. Dole ne masu amfani su tantance bayanai kuma su ɗauki ƙarin nauyi. Babu wata cibiyar taimako ta bai ɗaya ga [hanyar sadarwar Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). Waɗannan [sadaukarwar da ake yi don samun wasu fa'idodi](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) suna cikin tsarin da aka tsara, ba kurakuran da suka faru ba da gangan ba ne waɗanda za a iya kawar da su ba tare da canja tsarin ba.

@@ -1,6 +1,7 @@
 # 12.1 Mukauttakaa esimerkit paikalliseen kontekstiin, älkää totuuden kriteerejä
 
-> **Light – Mukauttakaa esimerkki paikallisiin oloihin, älkää oppimisvaatimusta**
+<!-- card: light -->
+> **Mukauttakaa esimerkki paikallisiin oloihin, älkää oppimisvaatimusta**
 >
 > Käyttäkää paikallisia esimerkkejä auttaaksenne oppijoita hahmottamaan yhteinen käsite. Kysykää jokaisen mukautuksen kohdalla:
 >

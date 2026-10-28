@@ -11,6 +11,7 @@ Bitcoin ba shi ne yunƙuri na farko na samar da kuɗin dijital ba. An gina shi b
 A haɗe, waɗannan gwaje-gwaje sun nuna sassa masu amfani na mafitar da ake nema. Sun kuma fayyace matsalar da ta rage.
 
 
+<!-- card: definition -->
 > **Definition – Kashe kuɗi sau biyu**
 >
 > [Kashe kuɗi sau biyu](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending) yunƙuri ne na aika raka'ar dijital guda ɗaya ga masu karɓa biyu. Ana iya yin kwafin bayanan dijital daidai da na asali, don haka tsarin kuɗin dijital yana buƙatar hanyar tantance wace [mu'amala](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) ce ingantacciya.
@@ -28,6 +29,7 @@ Farar takardar ta haɗa fasalolin da ake buƙata don wannan hanya:
 
 
 <!-- micrographic: five-part-response-01 -->
+[Sassa biyar suna haɗuwa don magance matsalar kashe kuɗi ɗaya sau biyu: cibiyar sadarwa ta takwara-da-takwara, sa hannun dijital, tubalai da haƙowa, tabbatarwa mai zaman kanta, da tarihin bai ɗaya mai tarin hujjar aiki mafi yawa. Tare, suna bai wa cibiyar sadarwar damar ƙin sake kashe kuɗi ɗaya ba tare da wata hukuma ta tsakiya ba.](/micrographics/five-part-response-01/ha.md)
 
 
 Wannan sashe yana bayyana waɗannan ra'ayoyi dalla-dalla. A tare, sun samar da mafita mai amfani ga [matsalar kashe kuɗi ɗaya sau biyu](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): hanyar sadarwar za ta iya ƙin amincewa da yunƙurin kashe bitcoin ɗaya a karo na biyu ba tare da dogaro da wata hukuma ta tsakiya ba. Bitcoin ya samar da haɗin abubuwan da aka rasa, wanda gwaje-gwajen kuɗin dijital suka shafe shekaru da dama suna nema.

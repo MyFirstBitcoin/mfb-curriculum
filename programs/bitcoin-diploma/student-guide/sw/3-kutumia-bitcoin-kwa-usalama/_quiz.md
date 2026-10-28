@@ -1,6 +1,6 @@
 # Quiz – Kutumia Bitcoin kwa Usalama: jaribio fupi
 
-## Question 1
+## Swali 1
 
 Pochi ya Bitcoin:
 
@@ -9,45 +9,45 @@ Pochi ya Bitcoin:
 * [ ] Huondoa ulinzi wa siri
 * [ ] Hubatilisha miamala
 
-### Explanation
+### Maelezo
 
-Bitcoin hurekodiwa kwenye leja ya pamoja; pochi husimamia taarifa zinazotumika kuifikia na kuitumia. Pitia Mwongozo wa Mwanafunzi, Moduli 3, “Pochi.”
+Bitcoin hurekodiwa kwenye leja ya pamoja; pochi husimamia taarifa zinazotumika kuifikia na kuitumia. Pitia tena Mwongozo wa Mwanafunzi, Moduli ya 3, “Pochi.”
 
-## Question 2
+## Swali 2
 
 Shiriki ili kupokea bitcoin:
 
-* [ ] Kirai cha mbegu
+* [ ] Maneno ya mbegu
 * [ ] Ufunguo binafsi
 * [x] Anwani ya kupokea
-* [ ] Nenosiri
+* [ ] Nywila
 
-### Explanation
+### Maelezo
 
-Anwani ya kupokea inaweza kushirikiwa kwa ajili ya malipo. Kirai cha mbegu, funguo binafsi na manenosiri lazima vibaki siri. Pitia Mwongozo wa Mwanafunzi, Moduli 3, “Anwani” na “Funguo.”
+Anwani ya kupokea inaweza kushirikiwa kwa ajili ya malipo. Maneno ya mbegu, funguo binafsi na nywila lazima zibaki siri. Pitia tena Mwongozo wa Mwanafunzi, Moduli ya 3, “Anwani” na “Funguo.”
 
-## Question 3
+## Swali 3
 
-Kirai cha mbegu kimeingizwa mtandaoni. Hatua inayofuata iliyo salama zaidi?
+Maneno ya mbegu yaliingizwa mtandaoni. Hatua salama zaidi inayofuata ni ipi?
 
 * [ ] Subiri
-* [ ] Kitume kwa huduma kwa wateja
-* [x] Kirai kipya cha mbegu, kisha hamisha fedha
-* [ ] Tumia tena kirai hicho
+* [ ] Yatume kwa huduma kwa wateja
+* [x] Maneno mapya ya mbegu, kisha hamisha fedha
+* [ ] Tumia tena maneno yale yale ya mbegu
 
-### Explanation
+### Maelezo
 
-Chukulieni kirai cha mbegu kilichoingizwa mtandaoni kuwa kimeathiriwa. Undeni pochi mpya yenye kirai kipya cha mbegu, kisha hamisheni fedha baada tu ya kuthibitisha mahali zinapokwenda. Pitia Mwongozo wa Mwanafunzi, Moduli 3, “Virai vya mbegu.”
+Chukulia kwamba maneno ya mbegu yaliyoingizwa mtandaoni yameathiriwa. Unda pochi mpya yenye maneno mapya ya mbegu, kisha hamisha fedha baada tu ya kuthibitisha mahali zinapoelekezwa. Pitia tena Mwongozo wa Mwanafunzi, Moduli ya 3, “Maneno ya mbegu.”
 
-## Question 4
+## Swali 4
 
-Tofauti katika uhifadhi?
+Tofauti kuu kati ya matumizi ya uhifadhi wa mtu mwingine na uhifadhi binafsi ni ipi?
 
 * [x] Nani anadhibiti funguo
 * [ ] Uwezekano wa kubatilisha malipo
 * [ ] Kikomo cha ugavi
-* [ ] Jukumu
+* [ ] Ada za miamala
 
-### Explanation
+### Maelezo
 
-Uhifadhi kupitia mtunzaji na kujihifadhi mwenyewe hutofautiana katika nani anadhibiti funguo na kubeba jukumu linalohusiana. Hakuna kati ya hivyo kinachohakikisha usalama au uwezekano wa kubatilisha malipo. Pitia Mwongozo wa Mwanafunzi, Moduli 3, “Matumizi kupitia mtunzaji na bila mtunzaji.”
+Matumizi ya uhifadhi wa mtu mwingine na uhifadhi binafsi yanatofautiana kwa nani anayedhibiti funguo na kubeba jukumu linalohusiana. Hakuna kati ya hayo kinachohakikisha usalama au uwezekano wa kubatilisha malipo. Pitia tena Mwongozo wa Mwanafunzi, Moduli ya 3, “Matumizi ya uhifadhi wa mtu mwingine na yasiyo ya uhifadhi wa mtu mwingine.”

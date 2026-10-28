@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[En erhvervsdrivende, der accepterer Bitcoin, arbejder inden for fire områder: markedsføring, oplæring, regnskab og salg.](/micrographics/merchant-payment-operations-01/da.md)
 
 
 En forhandler har brug for mere end en modtagelsesknap. Den samlede betalingsproces kan omfatte prisfastsættelse, personaleoplæring, kvitteringer, tilbagebetalinger, [opbevaring af midler](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), veksling, bogføring, skat, enhedssikkerhed og support.

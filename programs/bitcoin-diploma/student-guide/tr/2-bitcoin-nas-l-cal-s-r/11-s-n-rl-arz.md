@@ -3,6 +3,7 @@
 Bitcoin'in kuralları öngörülebilir bir [ihraç takvimi](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuance-schedule) ve bir [azami arz](https://curriculum.myfirstbitcoin.org/lexicon/en/#maximum-supply) belirler: 21 milyon bitcoin (21.000.000 BTC). Yeni bitcoin'ler dolaşıma [blok sübvansiyonu](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-subsidy) yoluyla girer; bu sübvansiyon [madencilere](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner), yani geçerli bloklar üretenlere ödenir.
 
 
+<!-- card: definition -->
 > **Definition – Yarılanma (halving)**
 >
 > Her 210.000 blokta bir sübvansiyon yarıya iner. Bu olaya [yarılanma (halving)](https://curriculum.myfirstbitcoin.org/lexicon/en/#halving) denir. Bloklar ortalama olarak yaklaşık on dakikada bir üretildiğinden, bir [yarılanma](https://curriculum.myfirstbitcoin.org/lexicon/en/#halving) kabaca dört yılda bir gerçekleşir. Kesin takvim tarihi sabit değildir.
@@ -22,12 +23,14 @@ Sübvansiyon blok başına 50 BTC olarak başladı. Devam edemeyecek kadar küç
 
 
 <!-- micrographic: bitcoin-issuance-schedule-01 -->
+[Blok sübvansiyonu 50 bitcoin ile başlar ve her 210.000 blokta bir yarıya iner; bu sırada toplam çıkarılan bitcoin miktarı 21 milyon sınırına doğru yükselir. İşlem ücretleri bunun üzerine ödenir ve yeni bitcoin değildir; herhangi bir fiyat tahmini ima edilmemektedir.](/micrographics/bitcoin-issuance-schedule-01/tr.md)
 
 
 21 milyonluk sınır, [düğümler](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) tarafından uygulanır. Bir [madenci](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) kuralların izin verdiğinden fazla bitcoin oluşturursa, [doğrulayan düğümler](https://curriculum.myfirstbitcoin.org/lexicon/en/#full-node) bloğu reddeder. Bir yazılım geliştirici farklı bir kod yazabilir, ancak başkalarını bu kodu çalıştırmaya zorlayamaz.
 
 
-> **Dark – Sabit arz bir fiyat vaadi değil, bir ağ kuralıdır**
+<!-- card: dark -->
+> **Sabit arz bir fiyat vaadi değil, bir ağ kuralıdır**
 >
 > Bitcoin'in arz kuralı herkese açıktır, bağımsız olarak doğrulanabilir ve tek bir tarafın bu kuralı değiştirmesi zordur; çünkü [doğrulayıcı düğümler](https://curriculum.myfirstbitcoin.org/lexicon/en/#full-node) bu kuralı uygular. Bu bir fizik yasası değildir: katılımcılar kuralı uygulamaya devam ettikçe geçerliliğini korur. Sınırlı arz, piyasa [fiyatının](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) yükseleceğini garanti etmez; [fiyat](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) talebe de bağlıdır.
 >
@@ -37,8 +40,7 @@ Sübvansiyon blok başına 50 BTC olarak başladı. Devam edemeyecek kadar küç
 **Hızlı soru:** Bitcoin'in sınırlı bir arza sahip olmasının avantajları nelerdir? Bitcoin arzının artırılmasının [satın alma gücü](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) üzerinde nasıl bir etkisi olurdu? Arz artışını kim reddederdi?
 
 
-> **Light**
->
+<!-- card: light -->
 > Sınırlı arz, her bitcoin'in satışa sunulduğu anlamına da gelmez; bazıları uzun vadeli olarak elde tutulabilir ya da anahtarlar kaybolduğu için erişilemez hale gelebilir.
 
 

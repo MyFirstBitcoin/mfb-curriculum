@@ -1,11 +1,13 @@
 # 3.7 Vrući i hladni novčanici
 
+<!-- card: definition -->
 > **Definition – Vrući novčanik**
 >
 > Jedan [vrući novčanik](https://curriculum.myfirstbitcoin.org/lexicon/en/#hot-wallet) upravlja ključevima na uređaju povezanom sa internetom, kao što su telefon ili računar. Praktičan je za redovna plaćanja, ali ima širu površinu za napad jer zlonamerni softver, nebezbedna ažuriranja, fišing, fizički pristup ili kompromitovanje uređaja mogu ugroziti novčanik.
 
 
 
+<!-- card: definition -->
 > **Definition – Hladni novčanik**
 >
 > Jedan [hladni novčanik](https://curriculum.myfirstbitcoin.org/lexicon/en/#cold-wallet) označava postavku u kojoj se ključevi za potpisivanje drže odvojeno od uređaja opšte namene povezanog sa internetom.
@@ -13,9 +15,11 @@
 
 
 <!-- micrographic: hot-and-cold-wallets-01 -->
+[Vrući novčanik čuva ključeve za potpisivanje na uređaju povezanom na internet, poput telefona; hladni način čuvanja drži ih van svakog povezanog uređaja. Ko kontroliše ključeve zasebno je pitanje.](/micrographics/hot-and-cold-wallets-01/sr-Latn.md)
 
 
 
+<!-- card: definition -->
 > **Definition – Hardverski novčanik**
 >
 > Jedan [hardverski novčanik](https://curriculum.myfirstbitcoin.org/lexicon/en/#hardware-wallet) označava namenski uređaj osmišljen da generiše, štiti i koristi ključeve, držeći ih izolovanim od povezanog računara ili telefona. Jedan [hardverski novčanik](https://curriculum.myfirstbitcoin.org/lexicon/en/#hardware-wallet) može podržavati hladnu postavku, ali ti pojmovi nisu međusobno zamenljivi; [čuvanje sredstava](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) i oporavak su zasebna pitanja.
@@ -23,6 +27,7 @@
 
 
 <!-- micrographic: wallet-arrangements-table-01 -->
+[Tabela sa tri načina čuvanja sredstava (vrući novčanik, hardverski novčanik ili hladni način čuvanja, skrbnički nalog), od kojih svaki ima uobičajenu prednost i odgovornost koju treba imati na umu. Kontrola nad ključevima i okruženje za potpisivanje su odvojena pitanja.](/micrographics/wallet-arrangements-table-01/sr-Latn.md)
 
 
 **Probajte:** Za jedno malo, izmišljeno plaćanje i jedno ređe izmišljeno plaćanje objasnite koji [kompromis](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) ima veći značaj. Nemojte birati alat niti iznos za sopstvena sredstva.

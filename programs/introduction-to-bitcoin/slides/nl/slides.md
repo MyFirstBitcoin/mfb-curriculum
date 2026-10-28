@@ -40,7 +40,8 @@ Niet het verdienen, niet het uitgeven, maar nadenken over wat het is en hoe het 
 * Kunt u met uw geld nog evenveel kopen als vroeger?
 
 
-> **Callout – Bewaar uw antwoorden**
+<!-- card: callout -->
+> **Bewaar uw antwoorden**
 >
 > Schrijf bij elke vraag een kort antwoord op. U komt er aan het einde op terug.
 
@@ -85,6 +86,7 @@ Beide personen moeten willen wat de ander heeft, op hetzelfde moment en in passe
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina heeft rijst en wil schoenen, Luis heeft schoenen en wil bakolie, en Mei heeft bakolie en wil reparatiewerk. Geen enkel tweetal kan rechtstreeks ruilen, omdat geen van beide personen in een tweetal wil wat de ander aanbiedt.](/micrographics/barter-mismatch-01/nl.md)
 
 <!-- notes: Gebruik het voorbeeld uit de gids: u verbouwt rijst en hebt schoenen nodig, maar de schoenmaker wil bakolie, geen rijst. Economen noemen dit de dubbele coïncidentie van behoeften. -->
 
@@ -151,6 +153,7 @@ Wanneer mensen het woord inflatie horen, denken ze meestal aan stijgende prijzen
 ## Inflatie en koopkracht
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Met dezelfde 100 geldeenheden koopt u het hele mandje basisgoederen wanneer het 100 kost, maar niet wanneer hetzelfde mandje 110 kost. Het prijsniveau is gestegen en de koopkracht van het geld is gedaald.](/micrographics/same-money-smaller-basket-01/nl.md)
 
 <!-- notes: Prijsinflatie is een aanhoudende stijging van het algemene prijsniveau. De keerzijde ervan is koopkracht: hoeveel er met een eenheid geld gekocht kan worden. Als een mandje basisgoederen stijgt van 100 munteenheden naar 110, kunt u met dezelfde 100 eenheden niet langer het volledige mandje kopen. -->
 
@@ -213,8 +216,7 @@ Een banktegoed is iets anders dan contant geld in uw hand: het is de belofte van
 * Maar de hoeveelheid en de regels kunnen veranderen, en de mensen die het gebruiken hebben weinig inspraak
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Daarom zoeken mensen naar alternatieven, en daarom is Bitcoin ontstaan.
 
 ---
@@ -233,6 +235,7 @@ Digitaal geld dat gedecentraliseerd is, een beperkte voorraad heeft en Peer-to-P
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Bij een betalingsbedrijf houdt één organisatie het grootboek bij en keurt zij elke overboeking goed. Bij Bitcoin ondertekent de verzender een transactie, controleren onafhankelijke Nodes deze en voegen miners deze toe aan één gedeeld grootboek, waardoor de ontvanger minder afhankelijk is van een centrale autoriteit.](/micrographics/central-ledger-vs-bitcoin-01/nl.md)
 
 <!-- notes: Vóór Bitcoin was het online versturen van geld altijd afhankelijk van een vertrouwde organisatie: een bank of betaalbedrijf dat het grootboek bijhield, rekeningen goedkeurde en een betaling kon vertragen, blokkeren of terugdraaien. Digitale informatie is gemakkelijk te kopiëren: als een digitale munt twee keer uitgegeven kon worden, zou die niet als geld kunnen functioneren. Dit is het probleem van dubbele uitgaven. Satoshi Nakamoto is een persoon of groep die die naam gebruikt. -->
 
@@ -253,6 +256,7 @@ Geen enkel bedrijf kan bitcoin bevriezen die u zelf beheert. De keerzijde van di
 ## Een limiet die iedereen kan controleren
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Een limiet op het aanbod die op een website of in de database van een uitgever staat, kan door die uitgever ongemerkt worden gewijzigd. De regel voor het aanbod van Bitcoin is openbaar, en handtekeningen, een openbare geschiedenis, proof of work en verificatie door nodes voorkomen samen dat er nieuwe munten worden verzonnen of dat dezelfde bitcoin twee keer wordt uitgegeven.](/micrographics/claimed-or-verified-supply-01/nl.md)
 
 <!-- notes: Nieuwe bitcoin worden volgens een openbaar schema uitgegeven, en onafhankelijke computers, Nodes genoemd, weigeren elk blok dat die regel overtreedt. De limiet is geloofwaardig omdat iedereen hem kan controleren. Het is geen natuurwet: hij blijft gelden omdat deelnemers hem blijven handhaven. Een beperkt aanbod garandeert niet dat de prijs zal stijgen; de prijs hangt zowel van de vraag als van het aanbod af. -->
 
@@ -264,6 +268,7 @@ Eén bitcoin is onderverdeeld in 100.000.000 kleinere eenheden, satoshi's of sat
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Een tabel met twee kolommen: 1 BTC is 100.000.000 sats, 0,1 BTC is 10.000.000 sats, 0,01 BTC is 1.000.000 sats, 0,001 BTC is 100.000 sats en 0,00000001 BTC is 1 sat.](/micrographics/bitcoin-and-sats-01/nl.md)
 
 <!-- notes: 100.000 sats bezitten en 0,001 bitcoin bezitten komt op hetzelfde bedrag neer. Weerleg de misvatting dat Bitcoin onbereikbaar is omdat één bitcoin duur is. -->
 
@@ -272,6 +277,7 @@ Eén bitcoin is onderverdeeld in 100.000.000 kleinere eenheden, satoshi's of sat
 ## Wie houdt Bitcoin draaiende?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Vier rollen in Bitcoin: gebruikers ontvangen, bewaren en versturen bitcoin, nodes controleren zelfstandig de regels, miners stellen kandidaat-blokken samen met proof of work en ontwikkelaars stellen software voor. Geen enkele rol heeft zeggenschap over het netwerk.](/micrographics/bitcoin-participant-roles-01/nl.md)
 
 <!-- notes: Gebruikers verzenden, ontvangen en bewaren bitcoin; nodes controleren elke transactie en elk blok aan de hand van de regels; miners wedijveren om ongeveer elke tien minuten een nieuw blok aan het register toe te voegen. Dat register, de blockchain, is openbaar en zeer kostbaar om te herschrijven. Een opmerking over de spelling: Bitcoin met een hoofdletter B verwijst meestal naar het netwerk of het systeem; bitcoin met een kleine letter b verwijst naar het geld zelf. -->
 
@@ -307,6 +313,7 @@ De eerste vraag bij elke wallet: wie beheert de sleutels?
 ## Een Wallet beheert sleutels
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Een Wallet bewaart de sleutels. Daarmee kunt u bitcoin ontvangen en verzenden, terwijl de bitcoin zelf geregistreerd blijft op het gedeelde grootboek, niet in de telefoon of het apparaat.](/micrographics/wallet-manages-keys-01/nl.md)
 
 <!-- notes: Een Bitcoin-Wallet is een hulpmiddel, meestal een app, waarmee u bitcoin kunt ontvangen, controleren en verzenden. Uw bitcoin wordt niet in uw telefoon opgeslagen: deze wordt vastgelegd op de blockchain. De Wallet beheert de sleutels waarmee u kunt bewijzen dat de bitcoin van u is en een betaling kunt autoriseren. -->
 
@@ -331,6 +338,7 @@ Een geordende lijst van woorden, vaak 12 of 24, waarmee uw sleutels opnieuw kunn
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Een herstelzin is een geordende lijst woorden, hier twaalf genummerde voorbeeldwoorden die op papier zijn geschreven. Met de juiste woorden in de juiste volgorde kan de controle in een compatibele Wallet worden hersteld; daarom blijft de herstelzin geheim en offline.](/micrographics/seed-phrase-on-paper-01/nl.md)
 
 <!-- notes: De seed phrase is niet alleen een back-up: het is volledige toegang. Schrijf hem nauwkeurig op papier op wanneer u de Wallet aanmaakt; bewaar hem offline, privé en op een plek waar hij niet verloren kan gaan of beschadigd kan raken. Maak er nooit een foto van, e-mail hem nooit, sla hem nooit op in notities in de cloud, verstuur hem nooit in een bericht en typ hem nooit in op een website. De getoonde woorden zijn slechts een voorbeeld; toon of verzamel nooit een echte seed phrase. -->
 
@@ -365,6 +373,7 @@ Een geordende lijst van woorden, vaak 12 of 24, waarmee uw sleutels opnieuw kunn
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[On-chain-betalingen worden rechtstreeks vastgelegd in de blockchain van Bitcoin, terwijl Lightning een betaalnetwerk is dat op Bitcoin is gebouwd voor snelle, frequente betalingen die ook kunnen mislukken. Beide routes kunnen custodial (bewaring door een derde partij) of self-custodial (in eigen beheer) zijn.](/micrographics/on-chain-and-lightning-01/nl.md)
 
 ---
 
@@ -375,7 +384,8 @@ Een geordende lijst van woorden, vaak 12 of 24, waarmee uw sleutels opnieuw kunn
 * **Vertrouw niet, controleer.** Controleer de persoon, de betaalmethode, het adres en het bedrag.
 
 
-> **Callout – Deel ontvangstgegevens, nooit geheimen**
+<!-- card: callout -->
+> **Deel ontvangstgegevens, nooit geheimen**
 >
 > Een adres of een betalingsverzoek mag u delen. Een seedphrase of privé sleutel mag u nooit delen. Geen enkele betrouwbare docent, Wallet-aanbieder of ondersteuningsmedewerker zal u er ooit om vragen.
 
@@ -389,6 +399,7 @@ Stop als iemand haast of geheimhouding oplegt, gegarandeerd rendement belooft, u
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Vijf waarschuwingssignalen van oplichting: urgentie, imitatie, een gewijzigde bestemming, gegarandeerd rendement en verzoeken om geheimen.](/micrographics/scam-red-flags-01/nl.md)
 
 ---
 
@@ -408,7 +419,8 @@ Dit is pas het begin.
 * **Dit is pas het begin.** Eén veilige volgende stap is genoeg.
 
 
-> **Callout – Een moment van reflectie**
+<!-- card: callout -->
+> **Een moment van reflectie**
 >
 > Ga terug naar de vijf vragen van het begin. Wat zou u nu antwoorden?
 
