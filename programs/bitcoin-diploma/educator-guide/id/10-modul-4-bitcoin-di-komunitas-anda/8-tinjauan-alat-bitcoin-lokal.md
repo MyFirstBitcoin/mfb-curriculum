@@ -19,7 +19,6 @@ Jangan mendemonstrasikan suatu alat hanya karena alat tersebut populer secara lo
 
 
 
-<!-- card: dark -->
-> **Contoh lokal bukan rekomendasi global**
+> **Dark – Contoh lokal bukan rekomendasi global**
 >
 > Alat ini merupakan contoh lokal bertanggal untuk pembelajaran. Penggunaannya di kelas bukan merupakan rekomendasi global dari My First Bitcoin ataupun janji bahwa alat tersebut akan tetap sesuai.

@@ -19,7 +19,6 @@ Do not demonstrate a tool simply because it is popular locally. Use this compari
 
 
 
-<!-- card: dark -->
-> **Local examples are not global recommendations**
+> **Dark – Local examples are not global recommendations**
 >
 > This tool is a dated local example for learning. Its use in class is not a global recommendation by My First Bitcoin or a promise that it will remain suitable.

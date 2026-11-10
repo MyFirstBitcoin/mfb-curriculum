@@ -1,6 +1,6 @@
 # Quiz – Veilige gebruik van Bitcoin: vinnige toets
 
-## Vraag 1
+## Question 1
 
 'n Bitcoin-beursie:
 
@@ -9,11 +9,11 @@
 * [ ] Verwyder die beskerming van geheime
 * [ ] Keer transaksies om
 
-### Verduideliking
+### Explanation
 
 Bitcoin word in die gedeelde grootboek aangeteken; 'n beursie bestuur die inligting wat gebruik word om toegang daartoe te verkry en dit te gebruik. Hersien die Studentehandleiding, Module 3, “Beursies.”
 
-## Vraag 2
+## Question 2
 
 Deel dit om bitcoin te ontvang:
 
@@ -22,11 +22,11 @@ Deel dit om bitcoin te ontvang:
 * [x] Ontvangsadres
 * [ ] Wagwoord
 
-### Verduideliking
+### Explanation
 
 'n Ontvangsadres kan vir betaling gedeel word. Saadfrases, private sleutels en wagwoorde moet geheim bly. Hersien die Studentehandleiding, Module 3, “Adresse” en “Sleutels.”
 
-## Vraag 3
+## Question 3
 
 Saadfrase aanlyn ingevoer. Wat is die veiligste volgende stap?
 
@@ -35,11 +35,11 @@ Saadfrase aanlyn ingevoer. Wat is die veiligste volgende stap?
 * [x] Nuwe saadfrase, skuif dan fondse
 * [ ] Hergebruik die saadfrase
 
-### Verduideliking
+### Explanation
 
 Beskou 'n saadfrase wat aanlyn ingevoer is as gekompromitteer. Skep 'n nuwe beursie met 'n nuwe saadfrase en skuif fondse eers nadat u die bestemming geverifieer het. Hersien die Studentehandleiding, Module 3, “Saadfrases.”
 
-## Vraag 4
+## Question 4
 
 Wat is die belangrikste verskil tussen bewaring deur 'n derde party en selfbewaring?
 
@@ -48,6 +48,6 @@ Wat is die belangrikste verskil tussen bewaring deur 'n derde party en selfbewar
 * [ ] Aanbodlimiet
 * [ ] Transaksiefooie
 
-### Verduideliking
+### Explanation
 
 Bewaring deur 'n derde party en selfbewaring verskil ten opsigte van wie die sleutels beheer en die gepaardgaande verantwoordelikheid dra. Nie een waarborg veiligheid of omkeerbaarheid nie. Hersien die Studentehandleiding, Module 3, “Gebruik met en sonder bewaring deur 'n derde party.”

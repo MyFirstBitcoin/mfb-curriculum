@@ -3,8 +3,7 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc)- en [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc)-routes maken verschillende [afwegingen](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Geen van beide labels neemt de noodzaak van een zorgvuldige beoordeling weg.
 
 
-<!-- card: callout -->
-> **Privacy neemt juridische risico's en risico's voor uw fysieke veiligheid niet weg**
+> **Callout – Privacy neemt juridische risico's en risico's voor uw fysieke veiligheid niet weg**
 >
 > Noch [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) noch [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) is automatisch de beste keuze. Vergelijk de daadwerkelijke route, raadpleeg actuele lokale richtlijnen wanneer de regels onduidelijk zijn, en overtreed geen lokale wetgeving en stel uzelf niet bloot aan fysiek gevaar in het streven naar [privacy](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 

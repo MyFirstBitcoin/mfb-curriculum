@@ -1,6 +1,6 @@
 # Quiz – Kutumia Bitcoin kwa Usalama: jaribio fupi
 
-## Swali 1
+## Question 1
 
 Pochi ya Bitcoin:
 
@@ -9,11 +9,11 @@ Pochi ya Bitcoin:
 * [ ] Huondoa ulinzi wa siri
 * [ ] Hubatilisha miamala
 
-### Maelezo
+### Explanation
 
 Bitcoin hurekodiwa kwenye leja ya pamoja; pochi husimamia taarifa zinazotumika kuifikia na kuitumia. Pitia tena Mwongozo wa Mwanafunzi, Moduli ya 3, “Pochi.”
 
-## Swali 2
+## Question 2
 
 Shiriki ili kupokea bitcoin:
 
@@ -22,11 +22,11 @@ Shiriki ili kupokea bitcoin:
 * [x] Anwani ya kupokea
 * [ ] Nywila
 
-### Maelezo
+### Explanation
 
 Anwani ya kupokea inaweza kushirikiwa kwa ajili ya malipo. Maneno ya mbegu, funguo binafsi na nywila lazima zibaki siri. Pitia tena Mwongozo wa Mwanafunzi, Moduli ya 3, “Anwani” na “Funguo.”
 
-## Swali 3
+## Question 3
 
 Maneno ya mbegu yaliingizwa mtandaoni. Hatua salama zaidi inayofuata ni ipi?
 
@@ -35,11 +35,11 @@ Maneno ya mbegu yaliingizwa mtandaoni. Hatua salama zaidi inayofuata ni ipi?
 * [x] Maneno mapya ya mbegu, kisha hamisha fedha
 * [ ] Tumia tena maneno yale yale ya mbegu
 
-### Maelezo
+### Explanation
 
 Chukulia kwamba maneno ya mbegu yaliyoingizwa mtandaoni yameathiriwa. Unda pochi mpya yenye maneno mapya ya mbegu, kisha hamisha fedha baada tu ya kuthibitisha mahali zinapoelekezwa. Pitia tena Mwongozo wa Mwanafunzi, Moduli ya 3, “Maneno ya mbegu.”
 
-## Swali 4
+## Question 4
 
 Tofauti kuu kati ya matumizi ya uhifadhi wa mtu mwingine na uhifadhi binafsi ni ipi?
 
@@ -48,6 +48,6 @@ Tofauti kuu kati ya matumizi ya uhifadhi wa mtu mwingine na uhifadhi binafsi ni 
 * [ ] Kikomo cha ugavi
 * [ ] Ada za miamala
 
-### Maelezo
+### Explanation
 
 Matumizi ya uhifadhi wa mtu mwingine na uhifadhi binafsi yanatofautiana kwa nani anayedhibiti funguo na kubeba jukumu linalohusiana. Hakuna kati ya hayo kinachohakikisha usalama au uwezekano wa kubatilisha malipo. Pitia tena Mwongozo wa Mwanafunzi, Moduli ya 3, “Matumizi ya uhifadhi wa mtu mwingine na yasiyo ya uhifadhi wa mtu mwingine.”

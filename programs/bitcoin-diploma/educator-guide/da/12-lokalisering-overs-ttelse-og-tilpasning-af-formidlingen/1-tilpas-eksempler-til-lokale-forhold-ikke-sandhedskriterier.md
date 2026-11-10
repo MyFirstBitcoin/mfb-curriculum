@@ -1,7 +1,6 @@
 # 12.1 Tilpas eksempler til lokale forhold, ikke sandhedskriterier
 
-<!-- card: light -->
-> **Tilpas eksemplet til lokale forhold, ikke læringsstandarden**
+> **Light – Tilpas eksemplet til lokale forhold, ikke læringsstandarden**
 >
 > Brug lokale eksempler til at hjælpe kursisterne med at forstå et fælles begreb. Stil følgende spørgsmål ved hver tilpasning:
 >

@@ -7,7 +7,8 @@ Pri primerjavi katerega koli [digitalnega sredstva](https://curriculum.myfirstbi
 Spodnja primerjava razlikuje med kategorijami in oblikovalskimi odločitvami. Ne pomeni podpore, priporočila ali trditve, da je katero koli [sredstvo](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) varno, zanesljivo ali primerno za vas.
 
 
-<!-- card: dark -->
+> **Dark**
+>
 > Prevare, zavajajoče trditve in nevarne storitve lahko prizadenejo katero koli [digitalno sredstvo](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-asset) ali plačilno pot. Preverite konkretno [sredstvo](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset), storitev in način [hrambe](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), namesto da predpostavljate, da je neka kategorija sama po sebi varna ali nevarna.
 
 

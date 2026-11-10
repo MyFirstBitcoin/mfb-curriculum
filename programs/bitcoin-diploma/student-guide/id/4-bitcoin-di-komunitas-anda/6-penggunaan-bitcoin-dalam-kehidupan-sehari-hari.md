@@ -4,7 +4,6 @@
 
 
 <!-- micrographic: daily-bitcoin-uses-01 -->
-[Tujuh cara berbeda untuk menggunakan Bitcoin dalam kehidupan sehari-hari: memperoleh penghasilan, menabung, menerima, mengirim, berbelanja, berdonasi, serta penetapan harga dan akuntansi. Masing-masing merupakan pilihan penggunaan, bukan langkah yang wajib dilakukan.](/micrographics/daily-bitcoin-uses-01/id.md)
 
 
 Bitcoin dapat berfungsi sebagai uang dalam beberapa cara. Membelanjakannya hanyalah salah satunya.

@@ -1,7 +1,6 @@
 # 12.1 Doğruluk standartlarını değil, örnekleri yerelleştirin
 
-<!-- card: light -->
-> **Öğrenme standardını değil, örneği yerelleştirin**
+> **Light – Öğrenme standardını değil, örneği yerelleştirin**
 >
 > Öğrencilerin ortak bir kavramı görmelerine yardımcı olmak için yerel örnekler kullanın. Her uyarlama için şunları sorun:
 >

@@ -12,4 +12,3 @@ Remind learners:
 
 
 <!-- micrographic: final-safety-check-01 -->
-[A final safety checklist, ticked off: protect secrets, verify payment details, use small tests, and stop under pressure. If anything is unclear, stop and learn more before acting.](/micrographics/final-safety-check-01/en.md)

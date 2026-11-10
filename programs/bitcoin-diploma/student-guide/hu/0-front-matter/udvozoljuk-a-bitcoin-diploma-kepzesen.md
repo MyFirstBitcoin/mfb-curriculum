@@ -28,7 +28,6 @@ Ez a megközelítés azért fontos, mert a pénz minden embert érint. Mindenkin
 
 
 <!-- micrographic: critical-thinking-loop-01 -->
-[A kritikus gondolkodás ismételhető ciklusa: azonosítsa az állítást, válassza külön a tényeket a preferenciáktól, vizsgálja meg a bizonyítékokat és a forrást, hasonlítsa össze az alternatívákat, nevezzen meg egy kompromisszumot vagy bizonytalanságot, majd fogalmazzon meg egy előzetes következtetést vagy kérdést.](/micrographics/critical-thinking-loop-01/hu.md)
 
 
 **Közösség** alatt azt értjük, hogy az oktatás hasznosabbá válik, ha az emberek megvitatják az elképzeléseiket, és összekapcsolják őket a helyi élettel. Oktatójának és tanulótársainak lehetnek olyan tapasztalatai, amelyeket egyetlen, az egész világnak szóló könyv sem tartalmazhat. Figyelmesen hallgassa meg őket, tegyen fel kérdéseket, és tisztelettel fejtse ki érveit.
@@ -76,8 +75,7 @@ A kurzus segítségével Ön képes lesz:
 * felkészülni a haladóbb tanulmányokra
 
 
-<!-- card: callout -->
-> **A tudás megelőzi a cselekvést**
+> **Callout – A tudás megelőzi a cselekvést**
 >
 > A Bitcoin-diploma elvégzéséhez nem kell bitcoint vásárolnia vagy más módon szereznie. Nem kell telepítenie egy [Bitcoin-tárcát](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet) vagy saját pénzt használnia sem. A szükséges gyakorlati készségek előkészített gyakorlótárcával, szimulációval, tesztkörnyezettel, fizikai modellel vagy az oktató által jóváhagyott, kis téttel járó tevékenységgel is felmérhetők.
 
@@ -86,4 +84,3 @@ Ha kevés ideje van, vagy először szeretne megismerkedni a Bitcoinnal, kezdje 
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
-[Egy választható tanulási út a Bevezetés a Bitcoinba képzéstől a Bitcoin-diplomán, majd az oktatóképzési programon át vezet odáig, hogy Ön a My First Bitcoin tanterve alapján tanító oktatóvá váljon, és csatlakozzon a Bitcoin-oktatási hálózathoz. Minden következő lépés választás kérdése, nem követelmény.](/micrographics/learner-journey-pathway-01/hu.md)

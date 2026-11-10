@@ -19,7 +19,6 @@ Käyttäkää seuraavaa vakiotoimintatapaa:
 
 
 <!-- micrographic: scam-red-flags-01 -->
-[Viisi huijauksen varoitusmerkkiä: kiireellisyys, toisena esiintyminen, muuttunut maksukohde, taatut tuotot ja salaisia tietoja koskevat pyynnöt.](/micrographics/scam-red-flags-01/fi.md)
 
 
 #### Tehtävä: huijausrastit

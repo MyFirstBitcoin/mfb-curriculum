@@ -28,8 +28,7 @@ Explain that Bitcoin Core is one option for running a node and that it downloads
 
 #### Notes
 
-<!-- card: callout -->
-> **View and discuss; do not require installation**
+> **Callout – View and discuss; do not require installation**
 >
 > This activity teaches the role of a node. Do not require learners to install software, run infrastructure, use personal devices, or expose personal network information.
 

@@ -40,8 +40,7 @@ Gan é a thuilleamh, gan é a chaitheamh, ach machnamh a dhéanamh ar céard at�
 * An gceannaíonn bhur n-airgead an méid céanna agus a cheannaigh sé roimhe seo?
 
 
-<!-- card: callout -->
-> **Coinnígí bhur bhfreagraí**
+> **Callout – Coinnígí bhur bhfreagraí**
 >
 > Scríobhaigí freagra gairid ar gach ceist. Fillfidh sibh orthu ag an deireadh.
 
@@ -86,7 +85,6 @@ Caithfidh gach duine den bheirt a bheith ag iarraidh a bhfuil ag an duine eile, 
 
 
 <!-- micrographic: barter-mismatch-01 -->
-[Tá rís ag Amina agus teastaíonn bróga uaithi, tá bróga ag Luis agus teastaíonn ola chócaireachta uaidh, agus tá ola chócaireachta ag Mei agus teastaíonn obair dheisiúcháin uaithi. Ní féidir le haon bheirt acu trádáil go díreach lena chéile, mar ní theastaíonn ó cheachtar duine i ngach beirt an rud atá á thairiscint ag an duine eile.](/micrographics/barter-mismatch-01/ga.md)
 
 <!-- notes: Úsáidigí sampla na treorach: saothraíonn sibh rís agus teastaíonn bróga uaibh, ach teastaíonn ola chócaireachta ón ngréasaí, ní rís. Tugann eacnamaithe comhtharlú dúbailte mianta air seo. -->
 
@@ -153,7 +151,6 @@ Nuair a chloiseann daoine an focal boilsciú, is gnách go smaoiníonn siad ar p
 ## Boilsciú agus Cumhacht Cheannaigh
 
 <!-- micrographic: same-money-smaller-basket-01 -->
-[Is féidir an ciseán iomlán d’earraí bunúsacha a cheannach leis an 100 aonad airgeadra céanna nuair a chosnaíonn sé 100, ach ní féidir nuair a chosnaíonn an ciseán céanna 110. Tá leibhéal na bpraghsanna ardaithe agus tá cumhacht cheannaigh an airgid laghdaithe.](/micrographics/same-money-smaller-basket-01/ga.md)
 
 <!-- notes: Is éard is boilsciú praghsanna ann ná ardú leanúnach ar leibhéal ginearálta na bpraghsanna. Is í an chumhacht ceannaigh an taobh eile de sin: an méid is féidir le haonad airgid a cheannach. Má ardaíonn praghas ciseáin d’earraí bunúsacha ó 100 aonad airgeadra go 110, ní féidir leis an 100 aonad céanna an ciseán iomlán a cheannach a thuilleadh. -->
 
@@ -216,7 +213,8 @@ Ní hionann iarmhéid bainc agus airgead tirim in bhur lámh: is gealltanas ón 
 * Ach is féidir a sholáthar agus a rialacha a athrú, agus is beag tionchar atá ag na daoine a úsáideann é ar na cinntí sin
 
 
-<!-- card: callout -->
+> **Callout**
+>
 > Sin an fáth a lorgaíonn daoine roghanna eile, agus an fáth ar cruthaíodh Bitcoin.
 
 ---
@@ -235,7 +233,6 @@ Airgead digiteach atá díláraithe, a bhfuil soláthar teoranta aige, agus ar f
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
-[Le cuideachta íocaíochta, coinníonn eagraíocht amháin an mórleabhar agus ceadaíonn sí gach aistriú. Le Bitcoin, síníonn an seoltóir idirbheart, seiceálann nóid neamhspleácha é agus cuireann mianadóirí le mórleabhar comhroinnte amháin é, mar sin bíonn an faighteoir ag brath níos lú ar údarás lárnach.](/micrographics/central-ledger-vs-bitcoin-01/ga.md)
 
 <!-- notes: Roimh Bitcoin, bhraith seoladh airgid ar líne i gcónaí ar eagraíocht iontaofa: banc nó cuideachta íocaíochta a choinnigh an mórleabhar, a cheadaigh cuntais, agus a d’fhéadfadh moill a chur ar íocaíocht, í a bhac nó í a aisiompú. Is furasta faisnéis dhigiteach a chóipeáil: dá bhféadfaí bonn digiteach a chaitheamh faoi dhó, ní fhéadfadh sé feidhmiú mar airgead. Is í seo fadhb an chaiteachais dhúbailte. Is duine nó grúpa a úsáideann an t-ainm sin é Satoshi Nakamoto. -->
 
@@ -256,7 +253,6 @@ Ní féidir le haon chuideachta bitcoin atá faoi bhur smacht féin a reo. Is í
 ## Teorainn ar féidir le duine ar bith í a sheiceáil
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
-[Is féidir le heisitheoir teorainn soláthair atá scríofa ar shuíomh gréasáin nó ina bhunachar sonraí féin a athrú i ngan fhios. Tá riail soláthair Bitcoin poiblí, agus cuireann sínithe, stair phoiblí, cruthúnas oibre agus fíorú ag nóid le chéile cosc ar bhoinn nua a chumadh nó ar an bitcoin céanna a chaitheamh faoi dhó.](/micrographics/claimed-or-verified-supply-01/ga.md)
 
 <!-- notes: Scaoiltear bitcoin nua de réir sceidil phoiblí, agus diúltaíonn ríomhairí neamhspleácha ar a dtugtar nóid d’aon bhloc a sháraíonn an riail sin. Tá an teorainn inchreidte mar is féidir le duine ar bith í a sheiceáil. Ní dlí de chuid an nádúir í: fanann sí i bhfeidhm toisc go leanann na rannpháirtithe dá cur i bhfeidhm. Ní ráthaíonn soláthar teoranta go n-ardóidh an praghas; braitheann an praghas ar an éileamh chomh maith leis an soláthar. -->
 
@@ -268,7 +264,6 @@ Is féidir bitcoin amháin a roinnt ina 100,000,000 aonad níos lú ar a dtugtar
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
-[Tábla dhá cholún: is ionann 1 BTC agus 100,000,000 sats, is ionann 0.1 BTC agus 10,000,000 sats, is ionann 0.01 BTC agus 1,000,000 sats, is ionann 0.001 BTC agus 100,000 sats, agus is ionann 0.00000001 BTC agus 1 sat.](/micrographics/bitcoin-and-sats-01/ga.md)
 
 <!-- notes: Is ionann seilbh ar 100,000 sats agus seilbh ar 0.001 bitcoin ó thaobh méide de. Téigí i ngleic leis an míthuiscint nach bhfuil teacht ar Bitcoin toisc go bhfuil bitcoin amháin costasach. -->
 
@@ -277,7 +272,6 @@ Is féidir bitcoin amháin a roinnt ina 100,000,000 aonad níos lú ar a dtugtar
 ## Cé a choinníonn Bitcoin ag feidhmiú?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
-[Ceithre ról in Bitcoin: faigheann, coinníonn agus seolann úsáideoirí bitcoin, fíoraíonn nóid na rialacha go neamhspleách, tógann mianadóirí bloic iarrthacha le cruthúnas oibre, agus molann forbróirí bogearraí. Níl an líonra faoi smacht aon róil amháin.](/micrographics/bitcoin-participant-roles-01/ga.md)
 
 <!-- notes: Seolann úsáideoirí bitcoin, faigheann siad é agus coinníonn siad é; seiceálann nóid gach idirbheart agus gach bloc de réir na rialacha; bíonn mianadóirí in iomaíocht le chéile chun bloc nua a chur leis an taifead thart ar gach deich nóiméad. Tá an taifead sin, an blocshlabhra, poiblí agus tá sé an-chostasach é a athscríobh. Nóta faoin litriú: is gnách go gciallaíonn Bitcoin le B mór an líonra nó an córas; ciallaíonn bitcoin le b beag an t-airgead féin. -->
 
@@ -313,7 +307,6 @@ An chéad cheist faoi aon sparán: cé a rialaíonn na heochracha?
 ## Bainistíonn Sparán Eochracha
 
 <!-- micrographic: wallet-manages-keys-01 -->
-[Coinníonn sparán na heochracha. Leo sin is féidir libh bitcoin a fháil agus a sheoladh, agus fanann an bitcoin féin taifeadta ar an mórleabhar comhroinnte, ní istigh sa ghuthán ná sa ghléas.](/micrographics/wallet-manages-keys-01/ga.md)
 
 <!-- notes: Is uirlis é sparán Bitcoin, ar aip é de ghnáth, a ligeann daoibh bitcoin a fháil, a sheiceáil agus a sheoladh. Ní stóráiltear bhur gcuid bitcoin taobh istigh de bhur bhfón: déantar é a thaifeadadh ar an mblocshlabhra. Bainistíonn an sparán na heochracha a ligeann daoibh a chruthú gur libh é agus íocaíocht a údarú. -->
 
@@ -338,7 +331,6 @@ Liosta ordaithe focal, 12 nó 24 go minic, lenar féidir bhur n-eochracha a athc
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
-[Is éard is frása síl ann ná liosta ordaithe focal; sa chás seo, dhá fhocal déag shamplacha uimhrithe atá scríofa ar pháipéar. Is féidir leis na focail chearta san ord ceart smacht a athbhunú i sparán comhoiriúnach, mar sin coinnítear faoi rún agus as líne é.](/micrographics/seed-phrase-on-paper-01/ga.md)
 
 <!-- notes: Ní cúltaca amháin atá sa fhrása síl: tugann sé rochtain iomlán. Scríobhaigí síos go cruinn ar pháipéar é agus an sparán á chruthú agaibh; coinnígí as líne é, faoi rún, agus in áit nach gcaillfear é ná nach ndéanfar damáiste dó. Ná tógaigí grianghraf de choíche, ná seolaigí le ríomhphost é, ná stórálaigí i nótaí néil é, ná seolaigí i dteachtaireacht é, agus ná clóscríobhaigí isteach ar shuíomh gréasáin é. Níl sna focail a thaispeántar ach sampla; ná taispeánaigí ná ná bailígí fíorfhrása síl choíche. -->
 
@@ -373,7 +365,6 @@ Liosta ordaithe focal, 12 nó 24 go minic, lenar féidir bhur n-eochracha a athc
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
-[Déantar íocaíochtaí ar an slabhra a thaifeadadh go díreach i mblocshlabhra Bitcoin, agus is líonra íocaíochta é Lightning atá tógtha ar Bitcoin le haghaidh íocaíochtaí tapa, minice a bhféadfadh teip orthu freisin. Is féidir ceachtar den dá bhealach a úsáid le coimeád nó le féinchoimeád.](/micrographics/on-chain-and-lightning-01/ga.md)
 
 ---
 
@@ -384,8 +375,7 @@ Liosta ordaithe focal, 12 nó 24 go minic, lenar féidir bhur n-eochracha a athc
 * **Ná cuirigí bhur muinín ann, fíoraígí.** Seiceálaigí an duine, an modh íocaíochta, an seoladh agus an méid.
 
 
-<!-- card: callout -->
-> **Roinnigí sonraí chun íocaíochtaí a fháil, ach ná roinnigí rúin riamh**
+> **Callout – Roinnigí sonraí chun íocaíochtaí a fháil, ach ná roinnigí rúin riamh**
 >
 > Is féidir seoladh nó iarratas ar íocaíocht a roinnt. Níor cheart frása síl ná eochair phríobháideach a roinnt riamh. Ní iarrfaidh aon oideoir dlisteanach, cuideachta sparáin ná oibrí tacaíochta oraibh iad sin a thabhairt dóibh go deo.
 
@@ -399,7 +389,6 @@ Stadaigí má chuireann duine éigin brú oraibh gníomhú go práinneach nó ru
 
 
 <!-- micrographic: scam-red-flags-01 -->
-[Cúig chomhartha rabhaidh de chamscéim: práinn, bréagphearsanú, ceann scríbe athraithe, torthaí ráthaithe agus iarrataí ar rúin.](/micrographics/scam-red-flags-01/ga.md)
 
 ---
 
@@ -419,8 +408,7 @@ Níl anseo ach an tús.
 * **Níl anseo ach an tús.** Is leor céim shábháilte amháin eile.
 
 
-<!-- card: callout -->
-> **Nóiméad machnaimh**
+> **Callout – Nóiméad machnaimh**
 >
 > Téigí ar ais chuig na cúig cheist ag an tús. Cad iad na freagraí a thabharfadh sibh anois?
 

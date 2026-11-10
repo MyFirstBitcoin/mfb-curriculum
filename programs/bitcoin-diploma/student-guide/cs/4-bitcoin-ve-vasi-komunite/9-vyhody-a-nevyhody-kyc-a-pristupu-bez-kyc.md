@@ -3,8 +3,7 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) a [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) postupy přinášejí různé [kompromisy](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Ani jedno označení neodstraňuje potřebu pečlivého posouzení.
 
 
-<!-- card: callout -->
-> **Soukromí neodstraňuje právní rizika ani rizika pro fyzickou bezpečnost**
+> **Callout – Soukromí neodstraňuje právní rizika ani rizika pro fyzickou bezpečnost**
 >
 > Ani [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc), ani [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) není automaticky nejlepší volbou. Porovnejte konkrétní postup, při nejasných pravidlech se řiďte aktuálními místními doporučeními a ve snaze o ochranu [soukromí](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy) neporušujte místní zákony ani se nevystavujte fyzickému nebezpečí.
 

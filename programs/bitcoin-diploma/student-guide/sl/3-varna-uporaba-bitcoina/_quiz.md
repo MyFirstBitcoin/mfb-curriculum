@@ -1,6 +1,6 @@
 # Quiz – Varna uporaba Bitcoina: kratko preverjanje znanja
 
-## Vprašanje 1
+## Question 1
 
 Denarnica za Bitcoin:
 
@@ -9,11 +9,11 @@ Denarnica za Bitcoin:
 * [ ] Odstrani zaščito skrivnosti
 * [ ] Razveljavlja transakcije
 
-### Pojasnilo
+### Explanation
 
 Bitcoin je zabeležen v skupni evidenci; denarnica upravlja podatke, ki omogočajo dostop do njega in njegovo uporabo. Ponovite razdelek »Denarnice« v 3. modulu priročnika za udeležence.
 
-## Vprašanje 2
+## Question 2
 
 Za prejem bitcoina delite:
 
@@ -22,11 +22,11 @@ Za prejem bitcoina delite:
 * [x] Prejemni naslov
 * [ ] Geslo
 
-### Pojasnilo
+### Explanation
 
 Prejemni naslov lahko delite za prejem plačila. Obnovitvene fraze, zasebni ključi in gesla morajo ostati tajni. Ponovite razdelka »Naslovi« in »Ključi« v 3. modulu priročnika za udeležence.
 
-## Vprašanje 3
+## Question 3
 
 Obnovitveno frazo ste vnesli na spletu. Kateri naslednji korak je najvarnejši?
 
@@ -35,11 +35,11 @@ Obnovitveno frazo ste vnesli na spletu. Kateri naslednji korak je najvarnejši?
 * [x] Ustvarite novo obnovitveno frazo, nato prenesite sredstva
 * [ ] Ponovno uporabite isto obnovitveno frazo
 
-### Pojasnilo
+### Explanation
 
 Obnovitveno frazo, vneseno na spletu, obravnavajte kot razkrito. Ustvarite novo denarnico z novo obnovitveno frazo, nato pa sredstva prenesite šele po preverjanju ciljnega naslova. Ponovite razdelek »Obnovitvene fraze« v 3. modulu priročnika za udeležence.
 
-## Vprašanje 4
+## Question 4
 
 Kakšna je glavna razlika med skrbniško uporabo in uporabo z lastno hrambo?
 
@@ -48,6 +48,6 @@ Kakšna je glavna razlika med skrbniško uporabo in uporabo z lastno hrambo?
 * [ ] Omejitev ponudbe
 * [ ] Transakcijske provizije
 
-### Pojasnilo
+### Explanation
 
 Skrbniška uporaba in uporaba z lastno hrambo se razlikujeta po tem, kdo nadzoruje ključe in nosi s tem povezano odgovornost. Nobena ne zagotavlja varnosti ali možnosti razveljavitve transakcij. Ponovite razdelek »Skrbniška in neskrbniška uporaba« v 3. modulu priročnika za udeležence.

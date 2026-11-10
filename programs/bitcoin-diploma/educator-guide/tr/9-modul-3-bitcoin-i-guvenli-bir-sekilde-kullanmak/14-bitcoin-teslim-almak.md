@@ -16,7 +16,6 @@ Gösterin:
 
 
 <!-- micrographic: check-what-you-receive-01 -->
-[Telefondaki örnek bir alma ekranında ödeme yöntemi, paylaşılacak ödeme talebi, tutar ve bekleyen bir durum görülüyor. "Gönderildi" yazan bir mesaj veya ekran görüntüsü kanıt değildir: durumu kendi cüzdanınızda kontrol edin.](/micrographics/check-what-you-receive-01/tr.md)
 
 
 #### Uygulama: alma ekranında adım adım ilerleme

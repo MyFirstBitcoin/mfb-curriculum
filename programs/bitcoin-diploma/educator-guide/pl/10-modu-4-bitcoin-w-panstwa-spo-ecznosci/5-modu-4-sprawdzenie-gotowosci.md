@@ -1,7 +1,6 @@
 # 10.5 Moduł 4: sprawdzenie gotowości
 
-<!-- card: callout -->
-> **Proszę nie prowadzić ćwiczenia z modułu 4 w rzeczywistych warunkach, dopóki wszystkie warunki nie zostaną spełnione**
+> **Callout – Proszę nie prowadzić ćwiczenia z modułu 4 w rzeczywistych warunkach, dopóki wszystkie warunki nie zostaną spełnione**
 >
 > Jeśli którykolwiek z poniższych warunków nie jest spełniony, proszę zastosować symulację, instrukcję postępowania w wersji drukowanej lub inne ćwiczenie. Proszę nie rekompensować niebezpiecznego lub niezweryfikowanego sposobu postępowania, prosząc osoby uczące się o zaakceptowanie większego ryzyka.
 
@@ -23,4 +22,3 @@ Proszę nie prowadzić modułu w rzeczywistych warunkach, dopóki wszystkie wyma
 
 
 <!-- micrographic: module-4-readiness-gate-01 -->
-[Osiem kryteriów obejmuje cel, kompetencję, umiejętności osoby prowadzącej, narzędzia, lokalne przepisy, bezpieczeństwo, dostęp i obserwację. Aby prowadzić zajęcia na żywo, trzeba spełnić każde kryterium; wykrycie braków oznacza wybór bezpieczniejszej ścieżki lub modyfikację planu, a następnie ponowną ocenę gotowości.](/micrographics/module-4-readiness-gate-01/pl.md)

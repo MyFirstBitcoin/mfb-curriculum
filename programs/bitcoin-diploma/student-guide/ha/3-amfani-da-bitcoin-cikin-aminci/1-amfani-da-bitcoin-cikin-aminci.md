@@ -3,7 +3,8 @@
 Wannan sashe ya shafi matakan farko na amfani cikin aminci, ba zama ƙwararre ko shiga haɗarin kuɗi ba. Za ku yi atisaye da kwaikwayon da aka shirya, wuraren gwaji, jakunkunan kuɗi na horo, ko kuma, idan malamin ku ya ga ya dace, wani aiki na zahiri da ɗan kuɗi kaɗan.
 
 
-<!-- card: dark -->
+> **Dark**
+>
 > Ba sai kun saya ko kun sami bitcoin ta wata hanya ba, ko kun yi amfani da kuɗin kanku, domin kammala Difloma ta Bitcoin.
 
 

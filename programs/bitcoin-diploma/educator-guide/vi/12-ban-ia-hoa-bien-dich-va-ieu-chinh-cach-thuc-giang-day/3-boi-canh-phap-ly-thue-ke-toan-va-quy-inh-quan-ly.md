@@ -14,7 +14,6 @@ Không được:
 Sử dụng cách diễn đạt như:
 
 
-<!-- card: callout -->
-> **Hướng dẫn hiện hành tại địa phương, không phải tư vấn cá nhân**
+> **Callout – Hướng dẫn hiện hành tại địa phương, không phải tư vấn cá nhân**
 >
 > Các quy định tại địa phương có thể ảnh hưởng đến cách làm này. Hướng dẫn công khai hiện hành mà chúng tôi đã kiểm tra vào [ngày] nêu rõ ________. Đây là bản tóm tắt phục vụ mục đích giáo dục, không phải lời tư vấn cho một tình huống cá nhân. Các câu hỏi về trường hợp cụ thể cần được giải đáp bởi chuyên gia có đủ trình độ hoặc cơ quan có thẩm quyền tại địa phương.

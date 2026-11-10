@@ -12,7 +12,6 @@ Bir [blok gezgini](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-explo
 
 
 <!-- micrographic: confirmation-timeline-01 -->
-[Bir işlem, bekleyen havuzda onaylanmamış olarak bekler, ardından ilk onayı olarak Blok N'ye dahil edilir ve sonraki her blok bir onay daha ekler.](/micrographics/confirmation-timeline-01/tr.md)
 
 
 Ardından şunları sorun:

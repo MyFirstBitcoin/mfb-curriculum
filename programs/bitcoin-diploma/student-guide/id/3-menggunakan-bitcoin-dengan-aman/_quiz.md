@@ -1,6 +1,6 @@
 # Quiz – Menggunakan Bitcoin dengan Aman: kuis singkat
 
-## Pertanyaan 1
+## Question 1
 
 Dompet Bitcoin:
 
@@ -9,11 +9,11 @@ Dompet Bitcoin:
 * [ ] Menghapus perlindungan rahasia
 * [ ] Membatalkan transaksi
 
-### Penjelasan
+### Explanation
 
 Bitcoin dicatat dalam buku besar bersama; dompet mengelola informasi yang digunakan untuk mengakses dan menggunakannya. Tinjau kembali Panduan Siswa, Modul 3, “Dompet.”
 
-## Pertanyaan 2
+## Question 2
 
 Yang dibagikan untuk menerima bitcoin:
 
@@ -22,11 +22,11 @@ Yang dibagikan untuk menerima bitcoin:
 * [x] Alamat penerimaan
 * [ ] Kata sandi
 
-### Penjelasan
+### Explanation
 
 Alamat penerimaan dapat dibagikan untuk menerima pembayaran. Frasa pemulihan, kunci privat, dan kata sandi harus tetap dirahasiakan. Tinjau kembali Panduan Siswa, Modul 3, “Alamat” dan “Kunci.”
 
-## Pertanyaan 3
+## Question 3
 
 Frasa pemulihan telah dimasukkan secara daring. Apa langkah selanjutnya yang paling aman?
 
@@ -35,11 +35,11 @@ Frasa pemulihan telah dimasukkan secara daring. Apa langkah selanjutnya yang pal
 * [x] Membuat frasa pemulihan baru, lalu memindahkan dana
 * [ ] Menggunakan kembali frasa pemulihan tersebut
 
-### Penjelasan
+### Explanation
 
 Anggap frasa pemulihan yang dimasukkan secara daring telah bocor. Buat dompet baru dengan frasa pemulihan baru, lalu pindahkan dana hanya setelah memverifikasi alamat tujuan. Tinjau kembali Panduan Siswa, Modul 3, “Frasa pemulihan.”
 
-## Pertanyaan 4
+## Question 4
 
 Apa perbedaan utama antara penggunaan kustodial dan kustodi mandiri?
 
@@ -48,6 +48,6 @@ Apa perbedaan utama antara penggunaan kustodial dan kustodi mandiri?
 * [ ] Batas pasokan
 * [ ] Biaya transaksi
 
-### Penjelasan
+### Explanation
 
 Penggunaan kustodial dan kustodi mandiri berbeda dalam hal siapa yang mengendalikan kunci dan memikul tanggung jawab terkait. Keduanya tidak menjamin keamanan atau kemampuan untuk membatalkan transaksi. Tinjau kembali Panduan Siswa, Modul 3, “Penggunaan kustodial dan nonkustodial.”

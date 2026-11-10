@@ -1,7 +1,6 @@
 # 12.1 Bản địa hóa các ví dụ, không phải các tiêu chuẩn về sự thật
 
-<!-- card: light -->
-> **Bản địa hóa ví dụ, không phải chuẩn học tập**
+> **Light – Bản địa hóa ví dụ, không phải chuẩn học tập**
 >
 > Sử dụng các ví dụ tại địa phương để giúp người học hiểu cùng một khái niệm. Với mỗi điều chỉnh, hãy đặt câu hỏi:
 >

@@ -1,7 +1,6 @@
 # Creați un mediu de învățare sigur și activ
 
-<!-- card: callout -->
-> **Protejați cursanții înainte de începerea activității practice**
+> **Callout – Protejați cursanții înainte de începerea activității practice**
 >
 > Nu solicitați, nu vizualizați, nu fotografiați, nu copiați, nu înregistrați și nu stocați niciodată o frază de recuperare reală, o Cheie Privată reală, o parolă reală sau informații financiare care nu sunt necesare. Nu presați pe nimeni să cumpere, să vândă, să păstreze sau să folosească bitcoin. Întrerupeți activitatea ori de câte ori un cursant este nesigur, se simte presat sau este expus unei posibile înșelătorii.
 

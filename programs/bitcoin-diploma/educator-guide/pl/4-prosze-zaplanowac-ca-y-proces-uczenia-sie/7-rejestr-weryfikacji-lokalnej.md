@@ -19,4 +19,3 @@ W odniesieniu do aktualnych przepisów proszę korzystać przede wszystkim z wia
 
 
 <!-- micrographic: local-verification-cycle-01 -->
-[Nauczyciele wskazują każde twierdzenie dotyczące lokalnych warunków, które mogą się zmienić, weryfikują je w aktualnym źródle, zapisują datę i ograniczenia jego stosowalności, przekazują je z odpowiednimi zastrzeżeniami i sprawdzają ponownie przed kolejnym wykorzystaniem. Gdy fakt jest niepewny, używają bezpieczniejszego przykładu lub rozwiązania zastępczego.](/micrographics/local-verification-cycle-01/pl.md)

@@ -1,6 +1,6 @@
 # Quiz – Saugus „Bitcoin“ naudojimas: trumpas žinių patikrinimas
 
-## Klausimas 1
+## Question 1
 
 „Bitcoin“ piniginė:
 
@@ -9,11 +9,11 @@
 * [ ] Panaikina slaptos informacijos apsaugą
 * [ ] Atšaukia operacijas
 
-### Paaiškinimas
+### Explanation
 
 „Bitcoin“ įrašai saugomi bendrame operacijų registre; piniginė valdo informaciją, reikalingą prieigai prie lėšų ir jų naudojimui. Peržiūrėkite mokinio vadovo 3 modulio skiltį „Piniginės“.
 
-## Klausimas 2
+## Question 2
 
 Kuo galite pasidalyti, kad gautumėte bitkoinų?
 
@@ -22,11 +22,11 @@ Kuo galite pasidalyti, kad gautumėte bitkoinų?
 * [x] Gavimo adresu
 * [ ] Slaptažodžiu
 
-### Paaiškinimas
+### Explanation
 
 Norėdami gauti mokėjimą, galite pasidalyti gavimo adresu. Atkūrimo frazės, privatieji raktai ir slaptažodžiai turi likti paslaptyje. Peržiūrėkite mokinio vadovo 3 modulio skiltis „Adresai“ ir „Raktai“.
 
-## Klausimas 3
+## Question 3
 
 Atkūrimo frazė įvesta internete. Koks būtų saugiausias kitas žingsnis?
 
@@ -35,11 +35,11 @@ Atkūrimo frazė įvesta internete. Koks būtų saugiausias kitas žingsnis?
 * [x] Sukurti naują atkūrimo frazę, tada pervesti lėšas
 * [ ] Pakartotinai naudoti tą pačią atkūrimo frazę
 
-### Paaiškinimas
+### Explanation
 
 Internete įvestą atkūrimo frazę laikykite atskleista. Sukurkite naują piniginę su nauja atkūrimo fraze, tada perveskite lėšas tik patikrinę gavimo adresą. Peržiūrėkite mokinio vadovo 3 modulio skiltį „Atkūrimo frazės“.
 
-## Klausimas 4
+## Question 4
 
 Kuo iš esmės skiriasi naudojimasis patikėjus raktų saugojimą kitam ir saugant juos patiems?
 
@@ -48,6 +48,6 @@ Kuo iš esmės skiriasi naudojimasis patikėjus raktų saugojimą kitam ir sauga
 * [ ] Pasiūlos riba
 * [ ] Operacijų mokesčiais
 
-### Paaiškinimas
+### Explanation
 
 Naudojimasis patikėjus raktų saugojimą kitam ir saugant juos patiems skiriasi tuo, kas kontroliuoja raktus ir prisiima su tuo susijusią atsakomybę. Nė vienas būdas negarantuoja saugumo ar galimybės atšaukti operacijas. Peržiūrėkite mokinio vadovo 3 modulio skiltį „Naudojimasis patikėjus raktų saugojimą kitam ir saugant juos patiems“.

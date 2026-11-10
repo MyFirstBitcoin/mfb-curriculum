@@ -14,7 +14,6 @@ No debe:
 Use expresiones como:
 
 
-<!-- card: callout -->
-> **Orientación local vigente, no asesoramiento individual**
+> **Callout – Orientación local vigente, no asesoramiento individual**
 >
 > Las normas locales pueden afectar esta vía. La orientación pública vigente que verificamos el [fecha] indica ________. Este es un resumen educativo, no asesoramiento para una situación individual. Un profesional local calificado o una autoridad competente debe responder las preguntas sobre casos específicos.

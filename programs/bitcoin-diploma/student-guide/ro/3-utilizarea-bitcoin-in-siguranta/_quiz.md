@@ -1,6 +1,6 @@
 # Quiz – Utilizarea Bitcoin în siguranță: verificare rapidă
 
-## Întrebare 1
+## Question 1
 
 Un portofel Bitcoin:
 
@@ -9,11 +9,11 @@ Un portofel Bitcoin:
 * [ ] Elimină protecția secretelor
 * [ ] Anulează tranzacțiile
 
-### Explicație
+### Explanation
 
 Bitcoin este înregistrat în registrul partajat; un portofel gestionează informațiile folosite pentru accesarea și utilizarea acestuia. Recapitulați Ghidul cursantului, Modulul 3, „Portofele”.
 
-## Întrebare 2
+## Question 2
 
 Ce puteți partaja pentru a primi bitcoin:
 
@@ -22,11 +22,11 @@ Ce puteți partaja pentru a primi bitcoin:
 * [x] Adresa de primire
 * [ ] Parola
 
-### Explicație
+### Explanation
 
 O adresă de primire poate fi partajată pentru efectuarea unei plăți. Frazele de recuperare, cheile private și parolele trebuie să rămână secrete. Recapitulați Ghidul cursantului, Modulul 3, „Adrese” și „Chei”.
 
-## Întrebare 3
+## Question 3
 
 Ați introdus fraza de recuperare online. Care este cel mai sigur pas următor?
 
@@ -35,11 +35,11 @@ Ați introdus fraza de recuperare online. Care este cel mai sigur pas următor?
 * [x] Creați o frază de recuperare nouă, apoi transferați fondurile
 * [ ] Reutilizați fraza de recuperare
 
-### Explicație
+### Explanation
 
 Considerați compromisă orice frază de recuperare introdusă online. Creați un portofel nou cu o frază de recuperare nouă, apoi transferați fondurile numai după ce verificați destinația. Recapitulați Ghidul cursantului, Modulul 3, „Fraze de recuperare”.
 
-## Întrebare 4
+## Question 4
 
 Care este principala diferență dintre utilizarea în custodie și utilizarea în autocustodie?
 
@@ -48,6 +48,6 @@ Care este principala diferență dintre utilizarea în custodie și utilizarea �
 * [ ] Limita ofertei monetare
 * [ ] Comisioanele de tranzacție
 
-### Explicație
+### Explanation
 
 Utilizarea în custodie și cea în autocustodie diferă prin cine controlează cheile și își asumă responsabilitatea aferentă. Niciuna nu garantează siguranța sau reversibilitatea. Recapitulați Ghidul cursantului, Modulul 3, „Utilizarea în custodie și fără custodie”.

@@ -1,7 +1,6 @@
 # Ciptakan Kelas yang Aman dan Aktif
 
-<!-- card: callout -->
-> **Lindungi peserta didik sebelum kegiatan praktik dimulai**
+> **Callout – Lindungi peserta didik sebelum kegiatan praktik dimulai**
 >
 > Jangan pernah meminta, melihat, memotret, menyalin, merekam, atau menyimpan frasa pemulihan, kunci privat, atau kata sandi yang benar-benar digunakan, maupun informasi keuangan yang tidak diperlukan. Jangan menekan siapa pun untuk membeli, menjual, menyimpan, atau menggunakan bitcoin. Hentikan kegiatan sementara setiap kali peserta didik merasa ragu, tertekan, atau menghadapi kemungkinan penipuan.
 

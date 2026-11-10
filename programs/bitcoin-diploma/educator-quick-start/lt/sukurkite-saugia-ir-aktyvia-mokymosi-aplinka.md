@@ -1,7 +1,6 @@
 # Sukurkite saugią ir aktyvią mokymosi aplinką
 
-<!-- card: callout -->
-> **Pasirūpinkite besimokančiųjų saugumu prieš pradėdami praktinę veiklą**
+> **Callout – Pasirūpinkite besimokančiųjų saugumu prieš pradėdami praktinę veiklą**
 >
 > Niekada neprašykite pateikti tikros atkūrimo frazės, privačiojo rakto, slaptažodžio ar nebūtinos finansinės informacijos, jų neperžiūrėkite, nefotografuokite, nekopijuokite, nefiksuokite ir nesaugokite. Nespauskite nieko pirkti, parduoti, laikyti ar naudoti bitkoinus. Sustabdykite veiklą, kai besimokantysis abejoja, patiria spaudimą ar susiduria su galimu sukčiavimu.
 

@@ -13,7 +13,6 @@ Tunjukkan perbedaan antara:
 
 
 <!-- micrographic: wallet-manages-keys-01 -->
-[Dompet menyimpan kunci. Dengan kunci tersebut, Anda dapat menerima dan mengirim bitcoin, sementara bitcoin itu sendiri tetap tercatat di buku besar bersama, bukan di dalam ponsel atau perangkat.](/micrographics/wallet-manages-keys-01/id.md)
 
 
 Tanyakan:

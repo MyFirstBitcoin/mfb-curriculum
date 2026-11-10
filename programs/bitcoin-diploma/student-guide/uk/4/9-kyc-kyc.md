@@ -3,8 +3,7 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) та [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) підходи передбачають різні [компроміси](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Жодна з цих позначок не скасовує потреби в ретельному оцінюванні.
 
 
-<!-- card: callout -->
-> **Приватність не усуває правових ризиків чи загроз фізичній безпеці**
+> **Callout – Приватність не усуває правових ризиків чи загроз фізичній безпеці**
 >
 > Ні [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc), ні [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) не є автоматично найкращим варіантом. Порівнюйте конкретні способи дій, користуйтеся актуальними місцевими рекомендаціями, коли правила незрозумілі, і не порушуйте місцевого законодавства та не наражайте себе на фізичну небезпеку заради [приватності](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 

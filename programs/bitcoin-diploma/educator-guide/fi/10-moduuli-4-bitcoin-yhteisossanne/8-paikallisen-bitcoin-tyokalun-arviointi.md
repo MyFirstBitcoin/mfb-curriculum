@@ -19,7 +19,6 @@
 
 
 
-<!-- card: dark -->
-> **Paikalliset esimerkit eivät ole maailmanlaajuisia suosituksia**
+> **Dark – Paikalliset esimerkit eivät ole maailmanlaajuisia suosituksia**
 >
 > Tämä työkalu on tiettyyn ajankohtaan sidottu paikallinen esimerkki oppimista varten. Sen käyttö opetuksessa ei ole My First Bitcoin -ohjelman maailmanlaajuinen suositus eikä lupaus siitä, että se pysyy soveltuvana.

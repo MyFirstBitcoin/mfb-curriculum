@@ -12,7 +12,6 @@ Usando um [_txid_](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction
 
 
 <!-- micrographic: confirmation-timeline-01 -->
-[Uma transação aguarda sem confirmação no pool de pendentes, depois é incluída no Bloco N como sua primeira confirmação, e cada bloco seguinte acrescenta mais uma.](/micrographics/confirmation-timeline-01/pt-BR.md)
 
 
 Em seguida, pergunte:

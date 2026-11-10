@@ -19,7 +19,6 @@ Não demonstre uma ferramenta apenas porque ela é popular localmente. Use esta 
 
 
 
-<!-- card: dark -->
-> **Exemplos locais não são recomendações globais**
+> **Dark – Exemplos locais não são recomendações globais**
 >
 > Esta ferramenta é um exemplo local, válido para um determinado momento, usado para fins de aprendizado. Seu uso em aula não é uma recomendação global da My First Bitcoin nem uma promessa de que ela continuará adequada.

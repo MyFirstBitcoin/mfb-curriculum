@@ -1,7 +1,6 @@
 # 12.1 Beispiele lokalisieren, nicht Wahrheitsmaßstäbe
 
-<!-- card: light -->
-> **Lokalisieren Sie das Beispiel, nicht den Lernstandard**
+> **Light – Lokalisieren Sie das Beispiel, nicht den Lernstandard**
 >
 > Nutzen Sie lokale Beispiele, um Lernenden zu helfen, ein gemeinsames Konzept zu erfassen. Fragen Sie sich bei jeder Anpassung:
 >

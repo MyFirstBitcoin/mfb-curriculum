@@ -28,7 +28,6 @@ Dieser Ansatz ist wichtig, weil Geld jeden Menschen betrifft. Menschen sollten d
 
 
 <!-- micrographic: critical-thinking-loop-01 -->
-[Ein wiederholbarer Kreislauf des kritischen Denkens: die Behauptung erkennen, Fakten von Vorlieben trennen, Belege und Quelle prüfen, Alternativen vergleichen, einen Zielkonflikt oder eine Unsicherheit benennen und eine vorläufige Schlussfolgerung oder Frage formulieren.](/micrographics/critical-thinking-loop-01/de.md)
 
 
 **Gemeinschaft** bedeutet, dass Bildung nützlicher wird, wenn Menschen Ideen diskutieren und sie mit ihrem Alltag vor Ort verbinden. Ihre Lehrkraft und Ihre Mitlernenden haben vielleicht Erfahrungen, die kein weltweit verwendetes Buch enthalten kann. Hören Sie aufmerksam zu, stellen Sie Fragen und erläutern Sie Ihre Überlegungen respektvoll.
@@ -76,8 +75,7 @@ Sie können den Kurs nutzen, um:
 * sich auf ein vertiefendes Studium vorzubereiten
 
 
-<!-- card: callout -->
-> **Wissen kommt vor dem Handeln**
+> **Callout – Wissen kommt vor dem Handeln**
 >
 > Sie müssen kein bitcoin kaufen oder anderweitig erwerben, um das Bitcoin Diploma abzuschließen. Sie müssen auch keine [Bitcoin-Wallet](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet) installieren oder eigene Mittel einsetzen. Erforderliche praktische Fähigkeiten können mit einer vorbereiteten Übungs-Wallet, einer Simulation, einer Testumgebung, einem physischen Modell oder einer von der Lehrkraft genehmigten Aktivität mit geringem Risiko geprüft werden.
 
@@ -86,4 +84,3 @@ Wenn Sie wenig Zeit haben oder eine erste Einführung in Bitcoin wünschen, begi
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
-[Ein optionaler Lernweg führt von der Einführung in Bitcoin zum Bitcoin-Diplom, dann zum Ausbildungsprogramm für Lehrkräfte, weiter zur Tätigkeit als Lehrkraft, die mit dem Lehrplan von My First Bitcoin unterrichtet, und schließlich zum Beitritt zum Bitcoin-Bildungsnetzwerk. Jeder weitere Schritt ist eine Wahl, keine Pflicht.](/micrographics/learner-journey-pathway-01/de.md)

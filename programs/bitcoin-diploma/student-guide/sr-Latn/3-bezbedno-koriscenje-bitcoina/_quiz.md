@@ -1,6 +1,6 @@
 # Quiz – Bezbedno korišćenje Bitcoin-a: kratka provera
 
-## Pitanje 1
+## Question 1
 
 Bitcoin novčanik:
 
@@ -9,11 +9,11 @@ Bitcoin novčanik:
 * [ ] Uklanja zaštitu tajnih podataka
 * [ ] Poništava transakcije
 
-### Objašnjenje
+### Explanation
 
 Bitcoin se beleži u zajedničkoj evidenciji; novčanik upravlja informacijama koje se koriste za pristup i korišćenje. Pogledajte Vodič za učenike, modul 3, „Novčanici“.
 
-## Pitanje 2
+## Question 2
 
 Da biste primili bitcoin, podelite:
 
@@ -22,11 +22,11 @@ Da biste primili bitcoin, podelite:
 * [x] Adresu za prijem
 * [ ] Lozinku
 
-### Objašnjenje
+### Explanation
 
 Adresu za prijem možete podeliti radi uplate. Fraze za oporavak, privatni ključevi i lozinke moraju ostati tajni. Pogledajte Vodič za učenike, modul 3, „Adrese“ i „Ključevi“.
 
-## Pitanje 3
+## Question 3
 
 Frazu za oporavak ste uneli na internetu. Koji je najbezbedniji sledeći korak?
 
@@ -35,11 +35,11 @@ Frazu za oporavak ste uneli na internetu. Koji je najbezbedniji sledeći korak?
 * [x] Napravite novu frazu za oporavak, pa prebacite sredstva
 * [ ] Ponovo koristite istu frazu za oporavak
 
-### Objašnjenje
+### Explanation
 
 Frazu za oporavak unetu na internetu smatrajte kompromitovanom. Napravite novi novčanik sa novom frazom za oporavak, a zatim prebacite sredstva tek nakon što proverite odredište. Pogledajte Vodič za učenike, modul 3, „Fraze za oporavak“.
 
-## Pitanje 4
+## Question 4
 
 Koja je glavna razlika između korišćenja uz staratelja i samostalnog čuvanja?
 
@@ -48,6 +48,6 @@ Koja je glavna razlika između korišćenja uz staratelja i samostalnog čuvanja
 * [ ] Ograničenje ponude
 * [ ] Naknade za transakcije
 
-### Objašnjenje
+### Explanation
 
 Korišćenje uz staratelja i samostalno čuvanje razlikuju se po tome ko kontroliše ključeve i snosi odgovornost za njih. Nijedno ne garantuje bezbednost ni mogućnost poništavanja transakcija. Pogledajte Vodič za učenike, modul 3, „Korišćenje uz staratelja i bez staratelja“.

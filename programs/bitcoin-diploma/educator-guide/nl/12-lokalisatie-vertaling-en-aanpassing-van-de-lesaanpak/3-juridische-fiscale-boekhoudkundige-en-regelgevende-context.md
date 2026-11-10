@@ -14,7 +14,6 @@ Doe het volgende niet:
 Gebruik formuleringen zoals:
 
 
-<!-- card: callout -->
-> **Actuele lokale richtlijnen, geen individueel advies**
+> **Callout – Actuele lokale richtlijnen, geen individueel advies**
 >
 > Lokale regels kunnen van invloed zijn op deze route. De actuele openbare richtlijnen die wij op [datum] hebben gecontroleerd, zeggen ________. Dit is een educatieve samenvatting, geen advies voor een individuele situatie. Vragen over specifieke gevallen moeten worden beantwoord door een gekwalificeerde lokale professional of instantie.

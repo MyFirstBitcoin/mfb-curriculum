@@ -1,7 +1,6 @@
 # Stvorite bezbedno i aktivno okruženje u učionici
 
-<!-- card: callout -->
-> **Zaštitite polaznike pre početka praktične aktivnosti**
+> **Callout – Zaštitite polaznike pre početka praktične aktivnosti**
 >
 > Nikada ne tražite, ne pregledajte, ne fotografišite, ne kopirajte, ne beležite niti čuvajte stvarnu frazu za oporavak, privatni ključ, lozinku ili nepotrebne finansijske podatke. Ne vršite pritisak ni na koga da kupuje, prodaje, drži ili koristi bitcoin. Napravite pauzu kad god je polaznik nesiguran, pod pritiskom ili izložen mogućoj prevari.
 

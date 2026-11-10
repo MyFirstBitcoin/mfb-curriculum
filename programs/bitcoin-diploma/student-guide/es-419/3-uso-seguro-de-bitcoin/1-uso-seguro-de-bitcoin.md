@@ -3,7 +3,8 @@
 Este módulo trata sobre dar los primeros pasos de forma segura, no sobre convertirse en experto ni asumir riesgos financieros. Usted practicará con simulaciones preparadas, entornos de prueba, billeteras de práctica o, cuando su docente lo considere apropiado, una actividad real de bajo riesgo.
 
 
-<!-- card: dark -->
+> **Dark**
+>
 > No necesita comprar ni adquirir bitcoin de ninguna otra manera, ni usar fondos personales, para completar el Diplomado en Bitcoin.
 
 

@@ -1,6 +1,6 @@
 # Quiz – Rahan ymmärtäminen: pikatesti
 
-## Kysymys 1
+## Question 1
 
 Miksi raha hyväksytään maksuvälineenä?
 
@@ -9,11 +9,11 @@ Miksi raha hyväksytään maksuvälineenä?
 * [ ] Se poistaa kaikki säännöt
 * [ ] Se muuttaa palvelut tavaroiksi
 
-### Selitys
+### Explanation
 
 Raha auttaa toisilleen tuntemattomia ihmisiä käymään kauppaa eri ajankohtina, koska ihmiset odottavat muiden hyväksyvän sen myöhemmin. Raha on silti riippuvainen luottamuksesta, säännöistä ja yhteiskunnallisesta hyväksynnästä. Kerratkaa opiskelijan oppaan moduulin 1 kohta ”Miksi raha on olemassa”.
 
-## Kysymys 2
+## Question 2
 
 Hinnoittelu, maksaminen, säästäminen: mitkä rahan tehtävät?
 
@@ -22,11 +22,11 @@ Hinnoittelu, maksaminen, säästäminen: mitkä rahan tehtävät?
 * [ ] Vaihdon väline; arvon säilyttäjä; laskentayksikkö
 * [ ] Niukkuus; niukkuus; niukkuus
 
-### Selitys
+### Explanation
 
 Laskentayksikkö ilmaisee hinnat, vaihdon väline hyväksytään maksuksi ja arvon säilyttäjä siirtää arvoa tulevaisuuteen. Kerratkaa opiskelijan oppaan moduulin 1 kohta ”Rahan tehtävät ja ominaisuudet”.
 
-## Kysymys 3
+## Question 3
 
 Riisin vaihtaminen kenkiin ei onnistu: miksi?
 
@@ -35,11 +35,11 @@ Riisin vaihtaminen kenkiin ei onnistu: miksi?
 * [ ] Pankin hyväksyntä puuttuu
 * [ ] Riisiä ei voi käyttää vaihtokaupassa
 
-### Selitys
+### Explanation
 
 Suora vaihtokauppa on vaikeaa, jos kumpikin osapuoli ei halua toisen tarjoamaa asiaa samaan aikaan. Tätä kutsutaan tarpeiden kaksinkertaisen yhteensattuman ongelmaksi. Kerratkaa opiskelijan oppaan moduulin 1 kohta ”Vaihtokauppa ja tarpeiden kaksinkertainen yhteensattuma”.
 
-## Kysymys 4
+## Question 4
 
 Hinnat +10 %, tulot +5 %: mitä ostovoimalle tapahtuu?
 
@@ -48,6 +48,6 @@ Hinnat +10 %, tulot +5 %: mitä ostovoimalle tapahtuu?
 * [x] Heikkenee
 * [ ] Ei voida päätellä
 
-### Selitys
+### Explanation
 
 Ostovoima tarkoittaa sitä, mitä rahalla voi ostaa. Jos hinnat nousevat tuloja nopeammin, tuloilla saa vähemmän. Kerratkaa opiskelijan oppaan moduulin 1 kohta ”Inflaatio ja ostovoima”.

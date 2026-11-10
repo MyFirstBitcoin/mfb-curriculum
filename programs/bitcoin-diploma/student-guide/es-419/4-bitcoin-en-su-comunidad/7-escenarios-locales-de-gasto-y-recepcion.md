@@ -4,7 +4,6 @@
 
 
 <!-- micrographic: coffee-shop-payment-01 -->
-[Un pago en una cafetería en cuatro pasos: el cliente hace su pedido, el mesero envía una factura, el cliente paga en bitcoin desde su celular y el mesero entrega el café.](/micrographics/coffee-shop-payment-01/es-419.md)
 
 
 Utilice bienes y servicios conocidos en su comunidad. El artículo específico no importa; lo que importa es el razonamiento sobre el pago.

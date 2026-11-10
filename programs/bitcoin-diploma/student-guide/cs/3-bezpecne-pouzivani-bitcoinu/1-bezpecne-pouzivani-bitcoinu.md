@@ -3,7 +3,8 @@
 Tento modul se zaměřuje na bezpečné první kroky, nikoli na to, abyste se stali odborníky nebo podstupovali finanční riziko. Budete procvičovat pomocí připravených simulací, testovacích prostředí, cvičných peněženek nebo, pokud to vyučující uzná za vhodné, při skutečné transakci s malou částkou.
 
 
-<!-- card: dark -->
+> **Dark**
+>
 > K absolvování kurzu Bitcoin Diploma nemusíte kupovat ani jinak získávat bitcoin ani používat vlastní finanční prostředky.
 
 

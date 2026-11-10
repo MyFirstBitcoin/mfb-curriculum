@@ -1,6 +1,6 @@
 # Quiz – Miten Bitcoin toimii: pikatesti
 
-## Kysymys 1
+## Question 1
 
 Samalla digitaalisella rahayksiköllä maksetaan kahdesti. Järjestelmän on:
 
@@ -9,11 +9,11 @@ Samalla digitaalisella rahayksiköllä maksetaan kahdesti. Järjestelmän on:
 * [ ] Nostettava sen hintaa
 * [ ] Poistettava maksut
 
-### Selitys
+### Explanation
 
 Digitaalista tietoa voi kopioida, joten rahajärjestelmän on estettävä saman yksikön käyttäminen kahdesti ja määritettävä, mikä siirto on kelvollinen. Kerratkaa opiskelijan oppaan moduulin 2 kohta ”Varhaiset digitaalisen rahan kokeilut ja kaksinkertaisen kulutuksen ongelma”.
 
-## Kysymys 2
+## Question 2
 
 Bitcoinin hajautuneisuus tarkoittaa:
 
@@ -22,11 +22,11 @@ Bitcoinin hajautuneisuus tarkoittaa:
 * [ ] Louhijat muuttavat sääntöjä vapaasti
 * [ ] Yhtä paljon vaikutusvaltaa kaikille
 
-### Selitys
+### Explanation
 
 Bitcoin hajauttaa tarkistamisen ja sääntöjen valvonnan riippumattomille osallistujille. Hajautuneisuus ei tarkoita, että yksi yritys hallitsee verkkoa tai että kaikilla on yhtä paljon vaikutusvaltaa. Kerratkaa opiskelijan oppaan moduulin 2 kohta ”Hajautuneisuus”.
 
-## Kysymys 3
+## Question 3
 
 Bitcoin-solmu:
 
@@ -35,11 +35,11 @@ Bitcoin-solmu:
 * [ ] Säilyttää bitcoineja
 * [ ] Takaa maksun
 
-### Selitys
+### Explanation
 
 Solmut tarkistavat itsenäisesti Bitcoinin sääntöjen noudattamisen ja hylkäävät virheelliset tiedot. Ne eivät luo bitcoineja pyynnöstä eivätkä säilytä bitcoineja puhelimen sisällä. Kerratkaa opiskelijan oppaan moduulin 2 kohta ”Käyttäjät, solmut ja louhijat”.
 
-## Kysymys 4
+## Question 4
 
 Miksi Bitcoinia kutsutaan terveeksi rahaksi?
 
@@ -48,6 +48,6 @@ Miksi Bitcoinia kutsutaan terveeksi rahaksi?
 * [ ] Yksi yritys hallitsee sitä
 * [ ] Maksut ovat yksityisiä
 
-### Selitys
+### Explanation
 
 Jotkut kuvaavat Bitcoinia terveeksi rahaksi, koska sen tarjontaa koskevat säännöt ovat julkisia ja sen liikkeeseenlasku on rajattua. Tämä on perusteltu arvio, ei lupaus hinnasta tai yksityisyydestä. Kerratkaa opiskelijan oppaan moduulin 2 kohta ”Bitcoin terveenä digitaalisena rahana”.

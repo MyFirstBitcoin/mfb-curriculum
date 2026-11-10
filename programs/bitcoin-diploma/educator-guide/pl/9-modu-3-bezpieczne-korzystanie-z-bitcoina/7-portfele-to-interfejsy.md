@@ -13,7 +13,6 @@ Proszę przedstawić jako odrębne elementy:
 
 
 <!-- micrographic: wallet-manages-keys-01 -->
-[Portfel przechowuje klucze. Dzięki nim mogą Państwo odbierać i wysyłać bitcoiny, podczas gdy same bitcoiny pozostają zapisane we wspólnym rejestrze, a nie w telefonie czy urządzeniu.](/micrographics/wallet-manages-keys-01/pl.md)
 
 
 Proszę zapytać:

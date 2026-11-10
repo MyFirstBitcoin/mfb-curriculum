@@ -9,7 +9,6 @@ Bitcoin works because different participants perform different roles.
 
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
-[Four roles in Bitcoin: users receive, hold and send bitcoin, nodes independently verify the rules, miners build candidate blocks with proof of work, and developers propose software. No single role controls the network.](/micrographics/bitcoin-participant-roles-01/en.md)
 
 
 These roles limit one another:

@@ -40,8 +40,7 @@ Inte att tjäna det, inte att spendera det, utan att fundera över vad det är o
 * Kan Ni köpa lika mycket för Era pengar som tidigare?
 
 
-<!-- card: callout -->
-> **Spara Era svar**
+> **Callout – Spara Era svar**
 >
 > Skriv ett kort svar på varje fråga. Ni kommer att återkomma till dem i slutet.
 
@@ -86,7 +85,6 @@ Båda personerna måste vilja ha det som den andra har, vid samma tidpunkt och i
 
 
 <!-- micrographic: barter-mismatch-01 -->
-[Amina har ris och vill ha skor, Luis har skor och vill ha matolja, och Mei har matolja och vill få reparationer utförda. Inget par kan byta direkt med varandra, eftersom ingen av personerna i ett par vill ha det som den andra erbjuder.](/micrographics/barter-mismatch-01/sv.md)
 
 <!-- notes: Använd exemplet i handledningen: ni odlar ris och behöver skor, men skomakaren vill ha matolja, inte ris. Ekonomer kallar detta dubbel behovsöverensstämmelse. -->
 
@@ -153,7 +151,6 @@ När människor hör ordet inflation tänker de vanligtvis på att priserna stig
 ## Inflation och köpkraft
 
 <!-- micrographic: same-money-smaller-basket-01 -->
-[Samma 100 valutaenheter räcker till hela varukorgen med basvaror när den kostar 100, men inte när samma varukorg kostar 110. Prisnivån har stigit och pengarnas köpkraft har sjunkit.](/micrographics/same-money-smaller-basket-01/sv.md)
 
 <!-- notes: Prisinflation är en varaktig ökning av den allmänna prisnivån. Dess andra sida är köpkraften: hur mycket en penningenhet kan köpa. Om priset på en korg med basvaror stiger från 100 valutaenheter till 110, räcker samma 100 valutaenheter inte längre till hela korgen. -->
 
@@ -216,7 +213,8 @@ Ett banksaldo skiljer sig från kontanter i handen: det är bankens löfte att b
 * Men dess utbud och regler kan ändras, och de som använder det har lite att säga till om
 
 
-<!-- card: callout -->
+> **Callout**
+>
 > Det är därför människor söker alternativ, och därför Bitcoin skapades.
 
 ---
@@ -235,7 +233,6 @@ Digitala pengar som är decentraliserade, har ett begränsat utbud och kan skick
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
-[Med ett betalningsföretag för en enda organisation huvudboken och godkänner varje överföring. Med Bitcoin signerar avsändaren en transaktion, oberoende noder kontrollerar den och utvinnare lägger till den i en gemensam huvudbok, så att mottagaren är mindre beroende av en central instans.](/micrographics/central-ledger-vs-bitcoin-01/sv.md)
 
 <!-- notes: Före Bitcoin var överföringar av pengar på nätet alltid beroende av en betrodd organisation: en bank eller ett betalningsföretag som förde bok över transaktionerna, godkände konton och kunde fördröja, blockera eller återkalla en betalning. Digital information är lätt att kopiera: om ett digitalt mynt kunde spenderas två gånger skulle det inte kunna fungera som pengar. Detta är problemet med dubbelspendering. Satoshi Nakamoto är en person eller grupp som använder det namnet. -->
 
@@ -256,7 +253,6 @@ Inget företag kan frysa bitcoin som ni själva kontrollerar. Den andra sidan av
 ## En gräns som vem som helst kan kontrollera
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
-[En utbudsgräns som anges på en webbplats eller i en utgivares databas kan ändras i det tysta av utgivaren. Bitcoins regel för utbudet är offentlig, och signaturer, en offentlig historik, arbetsbevis och nodernas verifiering hindrar tillsammans att nya mynt skapas godtyckligt eller att samma bitcoin spenderas två gånger.](/micrographics/claimed-or-verified-supply-01/sv.md)
 
 <!-- notes: Nya bitcoin ges ut enligt en offentlig tidsplan, och oberoende datorer som kallas noder avvisar varje block som bryter mot den regeln. Gränsen är trovärdig eftersom vem som helst kan kontrollera den. Det är ingen naturlag: den gäller eftersom deltagarna fortsätter att upprätthålla den. Ett begränsat utbud garanterar inte att priset stiger; priset beror på både efterfrågan och utbud. -->
 
@@ -268,7 +264,6 @@ En bitcoin kan delas upp i 100 000 000 mindre enheter som kallas satoshis, eller
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
-[En tabell med två kolumner: 1 BTC är 100 000 000 sats, 0,1 BTC är 10 000 000 sats, 0,01 BTC är 1 000 000 sats, 0,001 BTC är 100 000 sats och 0,00000001 BTC är 1 sat.](/micrographics/bitcoin-and-sats-01/sv.md)
 
 <!-- notes: Att äga 100 000 sats och att äga 0,001 bitcoin innebär att äga samma belopp. Bemöt missuppfattningen att Bitcoin är utom räckhåll eftersom en bitcoin är dyr. -->
 
@@ -277,7 +272,6 @@ En bitcoin kan delas upp i 100 000 000 mindre enheter som kallas satoshis, eller
 ## Vem håller Bitcoin igång?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
-[Fyra roller i Bitcoin: användare tar emot, innehar och skickar bitcoin, noder verifierar självständigt att reglerna följs, miners bygger kandidatblock med arbetsbevis och utvecklare föreslår programvara. Ingen enskild roll kontrollerar nätverket.](/micrographics/bitcoin-participant-roles-01/sv.md)
 
 <!-- notes: Användare skickar, tar emot och innehar bitcoin; noder kontrollerar varje transaktion och block mot reglerna; utvinnare tävlar om att lägga till ett nytt block i registret ungefär var tionde minut. Detta register, blockkedjan, är offentligt och mycket kostsamt att skriva om. En anmärkning om stavningen: Bitcoin med stort B avser vanligtvis nätverket eller systemet; bitcoin med litet b avser själva pengarna. -->
 
@@ -313,7 +307,6 @@ Den första frågan om varje plånbok: vem kontrollerar nycklarna?
 ## En plånbok hanterar nycklar
 
 <!-- micrographic: wallet-manages-keys-01 -->
-[En plånbok innehåller nycklarna. Med dem kan ni ta emot och skicka bitcoin, medan bitcoin i sig förblir registrerade i den gemensamma liggaren, inte i telefonen eller enheten.](/micrographics/wallet-manages-keys-01/sv.md)
 
 <!-- notes: En Bitcoin-plånbok är ett verktyg, vanligtvis en app, som låter er ta emot, kontrollera och skicka bitcoin. Era bitcoin lagras inte i er telefon: de registreras på blockkedjan. Plånboken hanterar nycklarna som låter er bevisa att era bitcoin tillhör er och godkänna en betalning. -->
 
@@ -338,7 +331,6 @@ En ordnad lista med ord, ofta 12 eller 24, som kan återskapa Era nycklar. Alla 
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
-[En återställningsfras är en ordnad lista med ord, här tolv numrerade exempelord skrivna på papper. Rätt ord i rätt ordning kan återställa kontrollen i en kompatibel plånbok, så frasen hålls hemlig och offline.](/micrographics/seed-phrase-on-paper-01/sv.md)
 
 <!-- notes: Återställningsfrasen är inte bara en säkerhetskopia: den ger fullständig åtkomst. Skriv ned den noggrant på papper när Ni skapar plånboken. Förvara den offline, skyddad från insyn och på en plats där den inte riskerar att försvinna eller skadas. Fotografera den aldrig, skicka den aldrig via e-post eller i ett meddelande, lagra den aldrig i molnanteckningar och skriv aldrig in den på en webbplats. Orden som visas är endast ett exempel. Visa eller samla aldrig in en riktig återställningsfras. -->
 
@@ -373,7 +365,6 @@ En ordnad lista med ord, ofta 12 eller 24, som kan återskapa Era nycklar. Alla 
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
-[Betalningar på kedjan registreras direkt i Bitcoins blockkedja, medan Lightning är ett betalningsnätverk byggt på Bitcoin för snabba, frekventa betalningar som också kan misslyckas. Båda alternativen kan användas med antingen tredjepartsförvaring eller egen förvaring.](/micrographics/on-chain-and-lightning-01/sv.md)
 
 ---
 
@@ -384,8 +375,7 @@ En ordnad lista med ord, ofta 12 eller 24, som kan återskapa Era nycklar. Alla 
 * **Lita inte, verifiera.** Kontrollera personen, betalningsmetoden, adressen och beloppet.
 
 
-<!-- card: callout -->
-> **Dela mottagningsuppgifter, aldrig hemligheter**
+> **Callout – Dela mottagningsuppgifter, aldrig hemligheter**
 >
 > En adress eller en betalningsbegäran kan delas. En återställningsfras eller privat nyckel får aldrig delas. Ingen seriös utbildare, plånboksleverantör eller supportmedarbetare kommer någonsin att be om den.
 
@@ -399,7 +389,6 @@ Avbryt om någon skapar en känsla av brådska eller hemlighetsmakeri, lovar gar
 
 
 <!-- micrographic: scam-red-flags-01 -->
-[Fem varningssignaler för bedrägerier: brådska, falsk identitet, en ändrad destination, garanterad avkastning och begäran om hemliga uppgifter.](/micrographics/scam-red-flags-01/sv.md)
 
 ---
 
@@ -419,8 +408,7 @@ Det här är bara början.
 * **Det här är bara början.** Ett tryggt nästa steg räcker.
 
 
-<!-- card: callout -->
-> **En stund för eftertanke**
+> **Callout – En stund för eftertanke**
 >
 > Gå tillbaka till de fem frågorna i början. Vad skulle ni svara nu?
 

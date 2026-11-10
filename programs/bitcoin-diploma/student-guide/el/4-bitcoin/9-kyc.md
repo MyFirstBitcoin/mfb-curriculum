@@ -3,8 +3,7 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) και [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) ως διαδικασίες συνεπάγονται διαφορετικούς [συμβιβασμούς](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Κανένας από τους δύο χαρακτηρισμούς δεν αναιρεί την ανάγκη προσεκτικής αξιολόγησης.
 
 
-<!-- card: callout -->
-> **Η ιδιωτικότητα δεν εξαλείφει τους νομικούς κινδύνους ούτε τους κινδύνους για τη σωματική ασφάλεια**
+> **Callout – Η ιδιωτικότητα δεν εξαλείφει τους νομικούς κινδύνους ούτε τους κινδύνους για τη σωματική ασφάλεια**
 >
 > Ούτε η διαδικασία [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) ούτε η διαδικασία [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) είναι αυτομάτως η καλύτερη επιλογή. Συγκρίνετε την πραγματική διαδικασία, αναζητήστε επικαιροποιημένη καθοδήγηση για τα τοπικά δεδομένα όταν οι κανόνες είναι ασαφείς και μην παραβιάζετε την τοπική νομοθεσία ούτε να εκθέτετε τον εαυτό σας σε σωματικό κίνδυνο επιδιώκοντας την [ιδιωτικότητα](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 

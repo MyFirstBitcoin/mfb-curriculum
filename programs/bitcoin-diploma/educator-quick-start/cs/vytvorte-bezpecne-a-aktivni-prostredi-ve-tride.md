@@ -1,7 +1,6 @@
 # Vytvořte bezpečné a aktivní prostředí ve třídě
 
-<!-- card: callout -->
-> **Chraňte studenty ještě před zahájením praktické činnosti**
+> **Callout – Chraňte studenty ještě před zahájením praktické činnosti**
 >
 > Nikdy nevyžadujte, neprohlížejte, nefotografujte, nekopírujte, nezaznamenávejte ani neukládejte skutečnou obnovovací frázi, soukromý klíč, heslo ani nepotřebné finanční údaje. Nikoho nenuťte k nákupu, prodeji, držení ani používání bitcoinu. Přerušte činnost, kdykoli si student není jistý, je pod tlakem nebo mu hrozí, že se stane obětí podvodu.
 

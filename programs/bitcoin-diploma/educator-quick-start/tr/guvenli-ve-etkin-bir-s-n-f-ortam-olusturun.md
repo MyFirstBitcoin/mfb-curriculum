@@ -1,7 +1,6 @@
 # Güvenli ve etkin bir sınıf ortamı oluşturun
 
-<!-- card: callout -->
-> **Uygulamalı etkinlik başlamadan önce öğrencileri koruyun**
+> **Callout – Uygulamalı etkinlik başlamadan önce öğrencileri koruyun**
 >
 > Gerçek bir kurtarma ifadesini (seed phrase), özel anahtarı, parolayı veya gereksiz finansal bilgileri asla istemeyin, görüntülemeyin, fotoğraflamayın, kopyalamayın, kaydetmeyin veya saklamayın. Hiç kimseyi bitcoin satın almaya, satmaya, elde tutmaya veya kullanmaya zorlamayın. Bir öğrenci emin olamadığında, baskı altında hissettiğinde veya olası bir dolandırıcılıkla karşı karşıya kaldığında her seferinde ara verin.
 

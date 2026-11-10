@@ -1,7 +1,6 @@
 # 12.1 Dostosowanie przykładów do lokalnych realiów, nie kryteriów prawdy
 
-<!-- card: light -->
-> **Należy dostosowywać przykład, a nie standard kształcenia**
+> **Light – Należy dostosowywać przykład, a nie standard kształcenia**
 >
 > Proszę korzystać z lokalnych przykładów, aby pomóc osobom uczącym się zrozumieć wspólne pojęcie. Przy każdym dostosowaniu proszę zadać sobie pytania:
 >

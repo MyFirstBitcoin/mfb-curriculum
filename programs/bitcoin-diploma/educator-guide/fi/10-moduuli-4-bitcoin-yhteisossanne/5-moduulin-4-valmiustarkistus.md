@@ -1,7 +1,6 @@
 # 10.5 Moduulin 4 valmiustarkistus
 
-<!-- card: callout -->
-> **Älkää toteuttako moduulin 4 toimintaa todellisessa käyttöympäristössä ennen kuin kaikki tarkistukset on läpäisty**
+> **Callout – Älkää toteuttako moduulin 4 toimintaa todellisessa käyttöympäristössä ennen kuin kaikki tarkistukset on läpäisty**
 >
 > Jos jokin alla olevista tarkistuksista ei anna tyydyttävää tulosta, käyttäkää simulaatiota, painettua toimintaohjetta tai toisenlaista toimintaa. Älkää korvatko toimintatavan turvattomuutta tai varmistamattomuutta pyytämällä oppijoita hyväksymään suurempaa riskiä.
 
@@ -23,4 +22,3 @@
 
 
 <!-- micrographic: module-4-readiness-gate-01 -->
-[Kahdeksan tarkistusta kattavat tarkoituksen, osaamistavoitteen, opettajan valmiudet, työkalut, paikalliset säännöt, turvallisuuden, osallistumismahdollisuudet ja havainnoinnin. Jokaisen tarkistuksen tuloksen on oltava hyväksyttävä, jotta opetus voidaan toteuttaa aidossa ympäristössä. Puute johtaa turvallisempaan toimintatapaan tai suunnitelman muuttamiseen ja uuteen valmiusarviointiin.](/micrographics/module-4-readiness-gate-01/fi.md)

@@ -1,6 +1,6 @@
 # Quiz – Cómo funciona Bitcoin: evaluación rápida
 
-## Pregunta 1
+## Question 1
 
 Una misma unidad digital se usa para pagar dos veces. El sistema debe:
 
@@ -9,11 +9,11 @@ Una misma unidad digital se usa para pagar dos veces. El sistema debe:
 * [ ] Aumentar su precio
 * [ ] Eliminar las comisiones
 
-### Explicación
+### Explanation
 
 La información digital se puede copiar, por lo que un sistema monetario debe impedir que la misma unidad se gaste dos veces y establecer qué transacción es válida. Revise la Guía del estudiante, Módulo 2, “Primeros intentos de dinero digital y el problema del doble gasto”.
 
-## Pregunta 2
+## Question 2
 
 La descentralización de Bitcoin significa:
 
@@ -22,11 +22,11 @@ La descentralización de Bitcoin significa:
 * [ ] Los mineros cambian las reglas libremente
 * [ ] La misma influencia para todos
 
-### Explicación
+### Explanation
 
 Bitcoin distribuye la verificación y la aplicación de las reglas entre participantes independientes. La descentralización no significa que una empresa controle la red ni que todos tengan la misma influencia. Revise la Guía del estudiante, Módulo 2, “Descentralización”.
 
-## Pregunta 3
+## Question 3
 
 Un nodo de Bitcoin:
 
@@ -35,11 +35,11 @@ Un nodo de Bitcoin:
 * [ ] Almacena bitcoin
 * [ ] Garantiza el pago
 
-### Explicación
+### Explanation
 
 Los nodos verifican de forma independiente las reglas de Bitcoin y rechazan los datos inválidos. No crean bitcoin a pedido ni almacenan bitcoin dentro de un celular. Revise la Guía del estudiante, Módulo 2, “Usuarios, nodos y mineros”.
 
-## Pregunta 4
+## Question 4
 
 ¿Por qué se considera a Bitcoin dinero sólido?
 
@@ -48,6 +48,6 @@ Los nodos verifican de forma independiente las reglas de Bitcoin y rechazan los 
 * [ ] Una empresa lo controla
 * [ ] Los pagos son privados
 
-### Explicación
+### Explanation
 
 Algunas personas describen a Bitcoin como dinero sólido porque las reglas que rigen su oferta son públicas y su emisión es limitada. Esta es una valoración razonada, no una promesa sobre su precio o privacidad. Revise la Guía del estudiante, Módulo 2, “Bitcoin como dinero digital sólido”.

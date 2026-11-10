@@ -9,7 +9,6 @@ Bitcoin funcționează deoarece diferiți participanți îndeplinesc roluri dife
 
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
-[Patru roluri în Bitcoin: utilizatorii primesc, dețin și trimit bitcoin, nodurile verifică în mod independent respectarea regulilor, minerii construiesc blocuri candidate folosind dovada muncii, iar dezvoltatorii propun software. Niciun rol nu controlează singur rețeaua.](/micrographics/bitcoin-participant-roles-01/ro.md)
 
 
 Aceste roluri se limitează reciproc:

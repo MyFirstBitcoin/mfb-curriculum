@@ -49,8 +49,7 @@ The nodes check that the candidate classroom block follows the model's rules, in
 
 #### Notes
 
-<!-- card: dark -->
-> **This is a simplified model**
+> **Dark – This is a simplified model**
 >
 > Bitcoin uses digital signatures, transaction rules, peer-to-peer communication, proof of work, and independent node validation. The classroom model shows only selected roles and checks.
 

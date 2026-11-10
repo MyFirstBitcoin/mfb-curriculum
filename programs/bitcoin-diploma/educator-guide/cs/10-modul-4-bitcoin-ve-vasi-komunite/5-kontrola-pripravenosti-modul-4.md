@@ -1,7 +1,6 @@
 # 10.5 Kontrola připravenosti – modul 4
 
-<!-- card: callout -->
-> **Neprovádějte aktivitu z modulu 4 v reálném prostředí, dokud nebudou splněny všechny kontrolní podmínky**
+> **Callout – Neprovádějte aktivitu z modulu 4 v reálném prostředí, dokud nebudou splněny všechny kontrolní podmínky**
 >
 > Pokud některá z níže uvedených kontrol nedopadne uspokojivě, použijte simulaci, tištěný postup nebo jinou aktivitu. Nesnažte se nebezpečný nebo neověřený postup kompenzovat tím, že účastníky požádáte, aby přijali vyšší riziko.
 
@@ -23,4 +22,3 @@ Neprovádějte modul v reálném prostředí, dokud nebudou všechny požadovan�
 
 
 <!-- micrographic: module-4-readiness-gate-01 -->
-[Osm kontrol pokrývá účel, kompetenci, schopnosti vyučujícího, nástroje, místní pravidla, bezpečnost, přístup a pozorování. Pro výuku naživo musí všechny kontroly dopadnout uspokojivě; při zjištění nedostatku je třeba zvolit bezpečnější postup nebo upravit plán a znovu posoudit připravenost.](/micrographics/module-4-readiness-gate-01/cs.md)

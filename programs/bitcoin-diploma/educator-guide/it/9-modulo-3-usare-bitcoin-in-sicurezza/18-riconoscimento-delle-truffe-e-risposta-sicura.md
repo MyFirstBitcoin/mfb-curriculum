@@ -19,7 +19,6 @@ Utilizzi la risposta predefinita:
 
 
 <!-- micrographic: scam-red-flags-01 -->
-[Cinque segnali d'allarme di una truffa: urgenza, furto d'identità, una destinazione modificata, rendimenti garantiti e richieste di segreti.](/micrographics/scam-red-flags-01/it.md)
 
 
 #### Attività: le postazioni delle truffe

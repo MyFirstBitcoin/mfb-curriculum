@@ -3,8 +3,7 @@
 [Njia za KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) na [zisizo za KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) zina [faida na hasara](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) tofauti. Hakuna kati ya lebo hizi inayoondoa haja ya tathmini makini.
 
 
-<!-- card: callout -->
-> **Faragha haiondoi hatari za kisheria au za usalama wa mwili**
+> **Callout – Faragha haiondoi hatari za kisheria au za usalama wa mwili**
 >
 > Si [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) wala [njia isiyo ya KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) iliyo bora moja kwa moja. Linganisha njia halisi, tumia mwongozo wa sasa wa eneo lako pale sheria zisipokuwa wazi, na usivunje sheria za eneo lako wala kujiweka katika hatari ya kimwili kwa ajili ya kutafuta [faragha](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 

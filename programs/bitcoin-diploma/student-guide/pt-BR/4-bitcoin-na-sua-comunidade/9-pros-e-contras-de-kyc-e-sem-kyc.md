@@ -3,8 +3,7 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) e [sem KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) são caminhos que envolvem diferentes [concessões](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Nenhum dos dois rótulos elimina a necessidade de uma avaliação cuidadosa.
 
 
-<!-- card: callout -->
-> **A privacidade não elimina riscos legais ou de segurança física**
+> **Callout – A privacidade não elimina riscos legais ou de segurança física**
 >
 > Nem o caminho [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) nem o [sem KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) é automaticamente o melhor. Compare o caminho real, consulte orientações locais atualizadas quando as regras não estiverem claras e não infrinja a lei local nem se exponha a perigos físicos em busca de [privacidade](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 

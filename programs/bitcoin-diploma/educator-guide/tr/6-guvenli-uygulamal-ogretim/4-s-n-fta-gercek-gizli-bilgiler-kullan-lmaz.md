@@ -1,7 +1,6 @@
 # 6.4 Sınıfta gerçek gizli bilgiler kullanılmaz
 
-<!-- card: callout -->
-> **Derste gerçek sırlar kullanılmaz**
+> **Callout – Derste gerçek sırlar kullanılmaz**
 >
 > Kurtarma alıştırmaları için önceden hazırlanmış kurtarma kelimeleri, açıkça işaretlenmiş eğitim materyalleri veya boş, tek kullanımlık bir cüzdan kullanın. Hiçbir zaman bir öğrencinin kişisel cüzdanını veya içinde fon bulunan bir cüzdanı kullanmayın; herhangi birinin kalıcı kurtarma bilgilerini görebileceği bir süreç de oluşturmayın.
 >

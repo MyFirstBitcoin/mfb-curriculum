@@ -3,7 +3,8 @@
 Modul ini membahas langkah-langkah awal yang aman, bukan cara menjadi ahli atau mengambil risiko keuangan. Anda akan berlatih menggunakan simulasi yang telah disiapkan, lingkungan pengujian, dompet latihan, atau, jika pendidik Anda menilainya sesuai, kegiatan nyata dengan risiko kecil.
 
 
-<!-- card: dark -->
+> **Dark**
+>
 > Anda tidak perlu membeli atau memperoleh bitcoin dengan cara lain, ataupun menggunakan dana pribadi, untuk menyelesaikan Diploma Bitcoin.
 
 

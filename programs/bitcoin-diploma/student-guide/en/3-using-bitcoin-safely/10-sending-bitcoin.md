@@ -5,8 +5,7 @@
 Sending needs more care because a valid Bitcoin [transaction](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) is usually difficult or impossible to reverse. Before you touch the approve button, can you explain who will receive the payment and why?
 
 
-<!-- card: callout -->
-> **Stop and verify before sending**
+> **Callout – Stop and verify before sending**
 >
 > Confirm the recipient, payment method, destination, amount and unit, fee or expiry, and final screen. If anything differs from the trusted request, or someone creates urgency or asks for recovery information, stop and verify independently. Use a small test when the process is unfamiliar.
 
@@ -22,7 +21,6 @@ Sending needs more care because a valid Bitcoin [transaction](https://curriculum
 
 
 <!-- micrographic: pre-send-checklist-01 -->
-[Before approving a payment, the sender checks the recipient and purpose, the payment method, the destination, and the amount, unit, fee or expiry, using a small test when unfamiliar. If anything differs, they stop and verify; they approve only when everything matches, then check the result.](/micrographics/pre-send-checklist-01/en.md)
 
 
 For an [on-chain payment](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), the **network fee** is paid for including the [transaction](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) in a block. It depends mainly on the [transaction](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) data and demand for [block space](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-space), not simply on the amount being sent. Fee estimates and timing can change, so read the final summary rather than assuming that a low-value payment has a low fee.

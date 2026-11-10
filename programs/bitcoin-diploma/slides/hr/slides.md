@@ -75,8 +75,7 @@ Novac je imovina koju ljudi prihvaćaju jer očekuju da će je drugi prihvatiti 
 * Vrijednost kroz vrijeme i prostor
 
 
-<!-- card: callout -->
-> **Kratko pitanje**
+> **Callout – Kratko pitanje**
 >
 > Koji problem razmjene ili koordinacije novac pomaže riješiti?
 
@@ -109,8 +108,7 @@ Jedan oblik može ispunjavati određenu funkciju bolje od drugoga. Svaki oblik n
 Nijedan oblik ne zadovoljava savršeno sve kriterije. “**Zdrav novac**” je stvar procjene: navedite kriterije i dosljedno uspoređujte.
 
 
-<!-- card: callout -->
-> **Razmišljajte kritički**
+> **Callout – Razmišljajte kritički**
 >
 > Koja su vam svojstva bila važna kada ste birali jednu vrstu novca ili imovine umjesto druge?
 
@@ -154,7 +152,6 @@ Sama oskudnost ne jamči vrijednost; važna je i potražnja.
 ---
 
 <!-- micrographic: same-water-different-value-01 -->
-[Ista boca čiste vode jeftina je u hladnjaku trgovine gdje je vodu lako pronaći, a mnogo je vrjednija u vrućoj pustinji tijekom nestašice. Dostupnost, potreba i okolnosti mijenjaju vrijednost i cijenu.](/micrographics/same-water-different-value-01/hr.md)
 
 ---
 
@@ -165,7 +162,6 @@ Sama oskudnost ne jamči vrijednost; važna je i potražnja.
 ---
 
 <!-- micrographic: one-choice-two-uses-01 -->
-[Kupac s ograničenim novčanim sredstvima razmatra mogućnosti pred sobom: hranu za danas, prijevoz ili štednju za kasnije. Odabir jedne mogućnosti znači odricanje od ostalih, što predstavlja oportunitetni trošak, a nijedna mogućnost nije označena kao ispravna.](/micrographics/one-choice-two-uses-01/hr.md)
 
 ---
 
@@ -199,7 +195,6 @@ Praktična plaćanja i fleksibilno kreditiranje donose ovisnost o institucijama.
 ---
 
 <!-- micrographic: fiat-system-flows-01 -->
-[Sudionici u sustavu fiat novca i ono što se među njima razmjenjuje: središnja banka određuje monetarnu politiku i provodi namiru među bankama, poslovne banke drže depozite koji su njihove obveze prema klijentima, platne usluge prenose naloge, država prikuplja poreze i troši, a građani i poduzeća plaćaju i primaju uplate.](/micrographics/fiat-system-flows-01/hr.md)
 
 ---
 
@@ -235,12 +230,10 @@ Navale na banke mogu otežati pristup novcu. Osiguranje depozita i kreditiranje 
 ---
 
 <!-- micrographic: bank-loan-deposit-01 -->
-[Pojednostavljeni prikaz bankovnog kredita: zajmoprimac podnosi zahtjev, banka odobrava kredit i knjiži novi depozit na račun zajmoprimca, a zajmoprimac kasnije vraća banci glavnicu i kamate.](/micrographics/bank-loan-deposit-01/hr.md)
 
 ---
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
-[Rizik likvidnosti: mnogi deponenti danas čekaju u redu za podizanje novca, a banka trenutačno nema dovoljno gotovine iako njezini krediti mogu biti otplaćeni kasnije. Rizik solventnosti: dužnici ne otplaćuju stambene kredite, a imovina banke postaje manje vrijedna od onoga što banka duguje.](/micrographics/liquidity-vs-solvency-01/hr.md)
 
 ---
 
@@ -262,7 +255,6 @@ Povećanje količine novca i kredita može pridonijeti inflaciji, uz ponudu, pot
 ---
 
 <!-- micrographic: same-money-smaller-basket-01 -->
-[Istih 100 novčanih jedinica dovoljno je za kupnju cijele košarice osnovnih dobara kada ona košta 100, ali ne i kada ista košarica košta 110. Razina cijena porasla je, a kupovna moć novca pala je.](/micrographics/same-money-smaller-basket-01/hr.md)
 
 ---
 
@@ -316,8 +308,7 @@ CBDC je digitalni fiat novac izdan kao obveza središnje banke: potraživanje nj
 Modeli se razlikuju. Digitalno ne znači automatski decentralizirano, oskudno, privatno ili neovisno provjerljivo.
 
 
-<!-- card: callout -->
-> **Provjerite**
+> **Callout – Provjerite**
 >
 > Tko ga izdaje, tko ga može upotrebljavati, koji se podaci prikupljaju i tko može blokirati plaćanja ili mijenjati pravila? Što se događa bez internetske veze i kakva pravna zaštita postoji?
 
@@ -336,8 +327,7 @@ Modeli se razlikuju. Digitalno ne znači automatski decentralizirano, oskudno, p
 Što vaš novac čini korisnim i koja pravila ovise o institucijama kojima vjerujete?
 
 
-<!-- card: callout -->
-> **Trenutak za razmišljanje**
+> **Callout – Trenutak za razmišljanje**
 >
 > Koje pitanje o novcu sada postavljate, a prije ga niste postavljali?
 
@@ -367,7 +357,6 @@ Bitcoin smanjuje potrebu za povjerenjem u središnje tijelo pri izdavanju i nami
 ---
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
-[Kod tvrtke za platni promet jedna organizacija vodi glavnu knjigu i odobrava svaki prijenos. Kod Bitcoina pošiljatelj potpisuje transakciju, neovisni čvorovi je provjeravaju, a rudari je dodaju u jednu zajedničku glavnu knjigu, pa primatelj manje ovisi o središnjem tijelu.](/micrographics/central-ledger-vs-bitcoin-01/hr.md)
 
 ---
 
@@ -404,7 +393,6 @@ Dvostruka potrošnja pokušaj je slanja iste digitalne jedinice dvama primatelji
 ---
 
 <!-- micrographic: five-part-response-01 -->
-[Pet dijelova zajedno rješava problem dvostrukog trošenja: mreža ravnopravnih sudionika, digitalni potpisi, blokovi i rudarenje, neovisna provjera te zajednička povijest s najviše akumuliranog dokaza rada. Zajedno omogućuju mreži da odbije ponovno trošenje bez središnjeg tijela.](/micrographics/five-part-response-01/hr.md)
 
 ---
 
@@ -423,7 +411,6 @@ Pisana tvrdnja o ponudi nije dovoljna: tko je može provjeriti i tko bi je mogao
 ---
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
-[Ograničenje ponude zapisano na mrežnoj stranici ili u bazi podataka izdavatelja taj izdavatelj može neprimjetno promijeniti. Pravilo o ponudi Bitcoina javno je, a potpisi, javna povijest, dokaz rada i provjera koju provode čvorovi zajedno sprječavaju stvaranje novih kovanica mimo pravila ili trošenje istog bitcoina dvaput.](/micrographics/claimed-or-verified-supply-01/hr.md)
 
 ---
 
@@ -465,14 +452,12 @@ Posredničke usluge ostaju neobvezne; odabirom takve usluge prihvaćate i njezin
 ---
 
 <!-- micrographic: peer-to-peer-route-01 -->
-[Pošiljatelj potpisuje transakciju i emitira je brojnim mrežnim čvorovima, koji je prosljeđuju dok ne stigne do primatelja. Nijedan središnji operator mreže Bitcoin ne mora odobriti pošiljatelja ni primatelja.](/micrographics/peer-to-peer-route-01/hr.md)
 
 ---
 
 ![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
-[Četiri uloge u Bitcoinu: korisnici primaju, čuvaju i šalju bitcoin, čvorovi neovisno provjeravaju pravila, rudari sastavljaju blokove kandidate uz dokaz rada, a razvojni programeri predlažu softver. Nijedna uloga sama ne kontrolira mrežu.](/micrographics/bitcoin-participant-roles-01/hr.md)
 
 ---
 
@@ -481,8 +466,7 @@ Posredničke usluge ostaju neobvezne; odabirom takve usluge prihvaćate i njezin
 Rudari ne mogu učiniti nevaljane blokove prihvatljivima poštenim čvorovima. Razvojni programeri ne mogu nametnuti usvajanje softvera. Jedna osoba može obavljati više uloga.
 
 
-<!-- card: callout -->
-> **Brzo pitanje**
+> **Callout – Brzo pitanje**
 >
 > Zašto čvor provjerava transakcije? Navedite jedno pravilo koje provjerava.
 
@@ -505,7 +489,6 @@ Rudarenje osigurava redoslijed transakcija; ne rješava jednadžbe izvan sustava
 ![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 <!-- micrographic: proof-of-work-process-01 -->
-[Rudar iznova izračunava sažetak predloženog bloka sve dok jedan rezultat ne bude manji od ciljne vrijednosti mreže, a zatim objavljuje blok mreži. Čvorovi brzo provjeravaju dokaz i poštovanje svakog pravila prije nego što se blok pridruži lancu blokova: rad je skupo obaviti, a lako provjeriti.](/micrographics/proof-of-work-process-01/hr.md)
 
 ---
 
@@ -526,12 +509,10 @@ Rudarenje osigurava redoslijed transakcija; ne rješava jednadžbe izvan sustava
 ---
 
 <!-- micrographic: bitcoin-issuance-supply-01 -->
-[Subvencija za blok počinje s 50 bitcoina i prepolovljuje se svakih 210.000 blokova, dok se ukupna količina izdanih bitcoina približava ograničenju od 21 milijun. Naknade za transakcije plaćaju se dodatno i nisu novi bitcoini; time se ne predviđa cijena.](/micrographics/bitcoin-issuance-supply-01/hr.md)
 
 ---
 
 <!-- micrographic: bitcoin-issuance-subsidy-01 -->
-[Subvencija za blok počinje s 50 bitcoina i prepolovljuje se svakih 210.000 blokova, dok se ukupna količina izdanih bitcoina približava ograničenju od 21 milijun. Naknade za transakcije plaćaju se dodatno i nisu novi bitcoini; time se ne predviđa cijena.](/micrographics/bitcoin-issuance-subsidy-01/hr.md)
 
 ---
 
@@ -547,8 +528,7 @@ Rudarenje osigurava redoslijed transakcija; ne rješava jednadžbe izvan sustava
 **Pristranost prema cijelim jedinicama:** niska cijena po cijeloj jedinici ne dokazuje bolju vrijednost. Usporedite udio u ukupnoj ponudi, vrijednost o kojoj je riječ i rizike.
 
 
-<!-- card: callout -->
-> **Pokažite svoje razumijevanje**
+> **Callout – Pokažite svoje razumijevanje**
 >
 > Koliko satova ima u 0,01 BTC? Zašto netko može koristiti manje od cijelog bitcoina?
 
@@ -606,8 +586,7 @@ Poznata burzovna oznaka, naizgled stabilna cijena ili dotjerana aplikacija nisu 
 * Bez uputa za kupnju, prodaju ili držanje
 
 
-<!-- card: callout -->
-> **Provjera lokalne vrijednosti**
+> **Callout – Provjera lokalne vrijednosti**
 >
 > Razlikujte tržišnu cijenu, lokalnu prihvaćenost i osobne sklonosti ili pristranost.
 
@@ -622,7 +601,6 @@ Procijenite dizajn i način rada, kao i priču o njezinu nastanku.
 ---
 
 <!-- micrographic: bitcoin-origin-timeline-01 -->
-[Nastanak Bitcoina kroz četiri datirana događaja: 31. listopada 2008. Satoshi Nakamoto objavio je bijelu knjigu koja opisuje izravna internetska plaćanja bez financijskog posrednika; 3. siječnja 2009. blok postanka pokrenuo je mrežu Bitcoin, uz novinski naslov o spašavanju banaka; 12. siječnja 2009. Satoshi je poslao bitcoin korisniku Hal Finney u prvoj zabilježenoj transakciji između dviju osoba; 22. svibnja 2010. jedan je korisnik platio 10.000 BTC za dvije pizze, a taj se dan danas obilježava kao Bitcoin Pizza Day.](/micrographics/bitcoin-origin-timeline-01/hr.md)
 
 ---
 
@@ -651,8 +629,7 @@ Osobna odgovornost može uključivati edukaciju, provjeru među kolegama, postup
 * Određivanje redoslijeda transakcija → dokaz rada; troškovi opreme i energije
 
 
-<!-- card: callout -->
-> **Trenutak za razmišljanje**
+> **Callout – Trenutak za razmišljanje**
 >
 > Koji biste dio dizajna Bitcoina sada objasnili drukčije i zašto?
 
@@ -697,7 +674,6 @@ Novčanici za obuku ne smiju se upotrebljavati za čuvanje značajnih iznosa. Os
 ---
 
 <!-- micrographic: wallet-manages-keys-01 -->
-[Novčanik čuva ključeve. Njima možete primati i slati bitcoin, dok sam bitcoin ostaje zabilježen u zajedničkoj glavnoj knjizi, a ne u telefonu ili uređaju.](/micrographics/wallet-manages-keys-01/hr.md)
 
 ---
 
@@ -723,15 +699,13 @@ Zlonamjerni softver može zamijeniti kopirana odredišta. Poznat izgled nije dov
 Nikada ne dijelite privatne ključeve, izraze za oporavak, lozinke ni kodove za oporavak. Nijednom legitimnom edukatoru, djelatniku podrške, tvrtki koja razvija novčanike, zaposleniku mjenjačnice ni razvojnom programeru ti podaci nisu potrebni.
 
 
-<!-- card: callout -->
-> **Isprobajte**
+> **Callout – Isprobajte**
 >
 > Razvrstajte pripremljene primjere u podatke za primanje, tajne podatke i javne podatke koji postaju osjetljivi kada se povežu s osobom.
 
 ---
 
 <!-- micrographic: private-key-public-info-01 -->
-[Iz tajnog privatnog ključa, koji se nikada ne smije dijeliti, nastaju javni podaci koji se mogu dijeliti: javni ključ izveden iz njega i adresa za primanje stvorena iz tog javnog ključa. Isti privatni ključ stvara potpise koje čvorovi provjeravaju, a da pritom nikada ne saznaju privatni ključ.](/micrographics/private-key-public-info-01/hr.md)
 
 ---
 
@@ -764,8 +738,7 @@ Ako postoji mogućnost da je fraza viđena, kopirana, unesena na internetu ili p
 Javni lanac blokova ne može dokazati što pružatelj usluge duguje određenom korisniku. Samostalno skrbništvo i dalje može uključivati ovisnost o softveru, hardveru, poslužiteljima i mreži.
 
 
-<!-- card: callout -->
-> **Isprobajte**
+> **Callout – Isprobajte**
 >
 > Usporedite dva pripremljena opisa: tko upravlja ključevima, tko vraća pristup i koji rizik treba provjeriti?
 
@@ -776,7 +749,6 @@ Javni lanac blokova ne može dokazati što pružatelj usluge duguje određenom k
 ---
 
 <!-- micrographic: who-controls-keys-01 -->
-[Pri korištenju uz skrbništvo pružatelj usluge kontrolira ključeve i odobrava trošenje, pa je stanje njegovo obećanje. Pri korištenju uz samostalno skrbništvo korisnik kontrolira ključeve i sigurnosne kopije; oba načina imaju svoje ovisnosti i rizike od gubitka pristupa ili prestanka rada.](/micrographics/who-controls-keys-01/hr.md)
 
 ---
 
@@ -804,7 +776,6 @@ Upotrebljavajte samo unaprijed pripremljene, prazne ili simulirane materijale. N
 ---
 
 <!-- micrographic: practice-wallet-recovery-01 -->
-[Vježba oporavka novčanika za vježbu u šest koraka: slijedite službene upute, provjerite kompatibilnost, radite u privatnosti, koristite odobrenu metodu oporavka, potvrdite da je riječ o očekivanom novčaniku, a zatim vratite okruženje na početno stanje. Koristite samo unaprijed pripremljene, prazne ili simulirane materijale, a edukator nikada ne vidi riječi za oporavak.](/micrographics/practice-wallet-recovery-01/hr.md)
 
 ---
 
@@ -833,7 +804,6 @@ Odobrite slanje tek kada se svi provjereni podaci podudaraju. Ako se pojedinosti
 ---
 
 <!-- micrographic: pre-send-checklist-01 -->
-[Prije odobravanja plaćanja pošiljatelj provjerava primatelja i svrhu, način plaćanja, odredište te iznos, jedinicu, naknadu ili rok valjanosti, uz malu probnu uplatu ako mu je postupak nepoznat. Ako se bilo što razlikuje, zastaje i provjerava; odobrava samo kada se sve podudara, a zatim provjerava rezultat.](/micrographics/pre-send-checklist-01/hr.md)
 
 ---
 
@@ -853,7 +823,6 @@ Upotrebljavajte pripremljene primjere; nemojte pretraživati osobnu adresu ili t
 ---
 
 <!-- micrographic: confirmation-timeline-01 -->
-[Transakcija čeka nepotvrđena u skupu nepotvrđenih transakcija, zatim se uključuje u blok N, čime dobiva prvu potvrdu, a svaki sljedeći blok dodaje još jednu.](/micrographics/confirmation-timeline-01/hr.md)
 
 ---
 
@@ -866,8 +835,7 @@ Upotrebljavajte pripremljene primjere; nemojte pretraživati osobnu adresu ili t
 **Zastanite. Ništa ne dijelite. Ništa ne šaljite. Zatvorite komunikacijski kanal. Provjerite neovisno. Zatražite pomoć bez otkrivanja tajni.**
 
 
-<!-- card: callout -->
-> **Isprobajte**
+> **Callout – Isprobajte**
 >
 > U pripremljenoj poruci prepoznajte znak upozorenja, mogući gubitak i prvi siguran korak.
 
@@ -876,7 +844,6 @@ Upotrebljavajte pripremljene primjere; nemojte pretraživati osobnu adresu ili t
 ---
 
 <!-- micrographic: scam-red-flags-01 -->
-[Pet znakova upozorenja na prijevaru: hitnost, lažno predstavljanje, promijenjeno odredište, zajamčeni prinosi i zahtjevi za tajnim podacima.](/micrographics/scam-red-flags-01/hr.md)
 
 ---
 
@@ -893,12 +860,10 @@ Nijedan način ni pružatelj usluga nije automatski najbolji. **KYC** znači pro
 ---
 
 <!-- micrographic: ways-to-receive-bitcoin-01 -->
-[Osoba može primiti bitcoin na četiri različita načina: zaradom kroz rad ili prodaju, razmjenom lokalne gotovine s drugom osobom, putem mjenjačnice ili posrednika ili korištenjem bankomata. Svaki način završava samostalnim skrbništvom ili saldom kod skrbnika, a nijedan se ne preporučuje više od ostalih.](/micrographics/ways-to-receive-bitcoin-01/hr.md)
 
 ---
 
 <!-- micrographic: exchange-risk-questions-01 -->
-[Šest područja rizika koja treba provjeriti prije stjecanja ili razmjene bitcoina, svako s pitanjem koje treba postaviti: troškovi, skrbništvo, identitet i privatnost, povlačenje sredstava i namira, druga ugovorna strana i sigurnost te lokalni kontekst.](/micrographics/exchange-risk-questions-01/hr.md)
 
 ---
 
@@ -944,8 +909,7 @@ Koristite dogovoreno okruženje za vježbu. Zastanite ako uočite nepodudaranje;
 Prijatelj šalje zahtjev dok nepoznata služba za podršku zahtijeva da odmah djelujete. Što biste mogli provjeriti prije nego što išta poduzmete?
 
 
-<!-- card: callout -->
-> **Trenutak za razmišljanje**
+> **Callout – Trenutak za razmišljanje**
 >
 > Koju ćete sigurnosnu provjeru zastati obaviti prije nego što djelujete?
 
@@ -964,7 +928,6 @@ Prijatelj šalje zahtjev dok nepoznata služba za podršku zahtijeva da odmah dj
 ## Vaš lokalni modul 4
 
 <!-- micrographic: local-module-four-actions-01 -->
-[U lokalnom modulu 4 polaznici prolaze kroz četiri aktivnosti: povezuju ideju iz modula 1 do 3 s lokalnom potrebom, uspoređuju Bitcoin s realnom postojećom alternativom, sigurno vježbaju uz vodstvo te objašnjavaju što su naučili i koji bi bio odgovoran sljedeći korak. Kroz cijeli ih proces vodi njihov edukator, a ponekad i lokalni stručnjak.](/micrographics/local-module-four-actions-01/hr.md)
 
 
 Zabilježite na što ste usmjereni u lokalnom kontekstu: problem ili priliku, alternativu, siguran scenarij, glavnu korist i rizik te siguran sljedeći korak.
@@ -1016,12 +979,10 @@ Uspješno plaćanje malog iznosa ne dokazuje sigurnost većih salda.
 ---
 
 <!-- micrographic: lightning-phone-payment-01 -->
-[Primatelj na svojem telefonu izrađuje zahtjev za plaćanje putem mreže Lightning s navedenim iznosom, pošiljatelj ga skenira i plaća, a uplata trenutak kasnije stiže na primateljev telefon.](/micrographics/lightning-phone-payment-01/hr.md)
 
 ---
 
 <!-- micrographic: lightning-payment-sequence-01 -->
-[Plaćanje putem mreže Lightning u šest koraka: primatelj izrađuje zahtjev, pošiljatelj ga skenira, provjerava primatelja, iznos, jedinicu, rok valjanosti i naknadu te odobrava plaćanje, plaćanje se usmjerava, a oba novčanika prikazuju rezultat. Svaki novčanik može biti skrbnički ili samoskrbnički, a ako plaćanje ne uspije ili zahtjev istekne, postupak počinje iznova s novim zahtjevom.](/micrographics/lightning-payment-sequence-01/hr.md)
 
 ---
 
@@ -1073,7 +1034,6 @@ Odaberite ili prilagodite scenarije iz vodiča lokalnom zadatku. Upute oblikujte
 ---
 
 <!-- micrographic: coffee-shop-payment-01 -->
-[Plaćanje u kafiću u četiri koraka: kupac naručuje, konobar šalje račun, kupac plaća bitcoinom putem svojeg telefona, a konobar predaje kavu.](/micrographics/coffee-shop-payment-01/hr.md)
 
 ---
 
@@ -1134,7 +1094,6 @@ Same brojke o prihvaćenosti ne dokazuju korisnost. Slaba potražnja, neodgovara
 ---
 
 <!-- micrographic: local-circular-economy-01 -->
-[U kružnom gospodarstvu Bitcoina bitcoin prelazi od osobe do osobe u zamjenu za robu, usluge i vrijeme. Kupac plaća trgovcu, trgovac plaća pružatelju usluga, pružatelj usluga plaća radniku, a radnik ga ponovno troši kao kupac.](/micrographics/local-circular-economy-01/hr.md)
 
 ---
 
@@ -1192,7 +1151,6 @@ Riješite samostalno, a zatim usporedite svoja obrazloženja s grupom.
 * Korisno sudjelovanje u zajednici dobrovoljno je i štiti ljude
 
 
-<!-- card: callout -->
-> **Trenutak za razmišljanje**
+> **Callout – Trenutak za razmišljanje**
 >
 > Koje biste pitanje postavili prije nego što odlučite odgovara li rješenje koje se temelji na Bitcoinu lokalnoj potrebi?

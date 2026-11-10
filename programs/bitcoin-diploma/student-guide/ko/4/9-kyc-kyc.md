@@ -3,8 +3,7 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) 경로와 [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) 경로는 서로 다른 [트레이드오프](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off)를 가지고 있어요. 어느 쪽 이름표도 신중하게 평가해야 할 필요성을 없애 주지는 않아요.
 
 
-<!-- card: callout -->
-> **프라이버시가 법적 위험이나 신체적 안전 위험을 없애 주지는 않아요**
+> **Callout – 프라이버시가 법적 위험이나 신체적 안전 위험을 없애 주지는 않아요**
 >
 > 이름이 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc)든 [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc)든 저절로 최선이 되는 것은 아니에요. 실제 경로를 비교하고, 규칙이 불분명할 때는 최신 현지 지침을 참고하세요. 또한 [프라이버시](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy)를 추구하느라 현지 법을 어기거나 스스로를 신체적 위험에 노출하지 마세요.
 

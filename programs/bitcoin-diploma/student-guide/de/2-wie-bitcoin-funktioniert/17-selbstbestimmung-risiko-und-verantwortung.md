@@ -13,5 +13,6 @@ Für eine Person, die sich für [Selbstverwahrung](https://curriculum.myfirstbit
 [Selbstverwahrung](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) ist daher nicht nur eine technische Funktion. Sie erfordert, Backups zu schützen, Adressen zu verifizieren, das Verhalten der Wallet zu prüfen und einen Wiederherstellungsplan zu erstellen. Das nächste Modul erklärt, wie man bitcoin sorgfältig hält und nutzt, einschließlich des Umgangs mit diesen Risiken und Verantwortlichkeiten.
 
 
-<!-- card: light -->
+> **Light**
+>
 > Persönliche Verantwortung bedeutet nicht, allein zu handeln oder Hilfe abzulehnen. Ein umsichtiger Lernender kann Bildungsangebote, gegenseitige Überprüfung, dokumentierte Abläufe und kleine Tests nutzen, ohne jemandem Zugang zu geheimen Informationen zu gewähren.

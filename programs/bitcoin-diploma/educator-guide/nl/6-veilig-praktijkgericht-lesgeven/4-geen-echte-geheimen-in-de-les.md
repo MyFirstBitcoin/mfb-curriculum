@@ -1,7 +1,6 @@
 # 6.4 Geen echte geheimen in de les
 
-<!-- card: callout -->
-> **Geen echte geheimen in de klas**
+> **Callout – Geen echte geheimen in de klas**
 >
 > Gebruik voorbereide herstelwoorden, duidelijk gemarkeerd oefenmateriaal of een lege wegwerp-Wallet om herstel te oefenen. Gebruik nooit de persoonlijke Wallet van een cursist of een Wallet met tegoed, en zet nooit een werkwijze op waarbij iemand blijvende herstelinformatie kan inzien.
 >

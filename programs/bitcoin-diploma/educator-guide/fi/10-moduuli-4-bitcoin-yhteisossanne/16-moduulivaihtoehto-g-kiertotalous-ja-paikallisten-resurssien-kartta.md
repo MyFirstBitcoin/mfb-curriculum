@@ -16,7 +16,6 @@ Kartoittakaa:
 
 
 <!-- micrographic: local-circular-economy-01 -->
-[Bitcoin-kiertotaloudessa bitcoin siirtyy ihmiseltä toiselle vastineeksi tavaroista, palveluista ja ajasta. Asiakas maksaa kauppiaalle, kauppias maksaa palveluntarjoajalle, palveluntarjoaja maksaa työntekijälle, ja työntekijä käyttää saamansa bitcoinit jälleen asiakkaana.](/micrographics/local-circular-economy-01/fi.md)
 
 
 Kun etsitte resursseja, varmistakaa:

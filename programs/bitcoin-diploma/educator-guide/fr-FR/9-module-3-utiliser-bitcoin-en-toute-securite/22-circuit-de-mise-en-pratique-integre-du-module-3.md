@@ -19,4 +19,3 @@ N’utilisez pas les postes comme évaluation formelle, sauf si les tâches exac
 
 
 <!-- micrographic: practice-circuit-stations-01 -->
-[Les apprenants passent successivement par huit ateliers pratiques : garde, public ou secret, recevoir, envoyer, récupération, explorateur, arnaque et parcours. Un circuit d’observation distinct suit un itinéraire approuvé, afin que la pratique en groupe ne soit jamais confondue avec une évaluation formelle.](/micrographics/practice-circuit-stations-01/fr-FR.md)

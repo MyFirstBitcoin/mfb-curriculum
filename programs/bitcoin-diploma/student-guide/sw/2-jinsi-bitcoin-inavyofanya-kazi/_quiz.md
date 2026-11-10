@@ -1,6 +1,6 @@
 # Quiz – Jinsi Bitcoin Inavyofanya Kazi: jaribio fupi
 
-## Swali 1
+## Question 1
 
 Kipimo kimoja cha kidijitali kinalipwa mara mbili. Mfumo lazima:
 
@@ -9,11 +9,11 @@ Kipimo kimoja cha kidijitali kinalipwa mara mbili. Mfumo lazima:
 * [ ] Upandishe bei yake
 * [ ] Uondoe ada
 
-### Maelezo
+### Explanation
 
 Taarifa za kidijitali zinaweza kunakiliwa, kwa hiyo mfumo wa pesa lazima uzuie kipimo kilekile kutumika mara mbili na kuthibitisha ni muamala upi halali. Tafadhali pitia Mwongozo wa Mwanafunzi, Moduli ya 2, “Majaribio ya awali ya pesa za kidijitali na tatizo la matumizi mara mbili.”
 
-## Swali 2
+## Question 2
 
 Ugatuzi wa Bitcoin unamaanisha:
 
@@ -22,11 +22,11 @@ Ugatuzi wa Bitcoin unamaanisha:
 * [ ] Wachimbaji hubadilisha kanuni wapendavyo
 * [ ] Ushawishi sawa kwa kila mtu
 
-### Maelezo
+### Explanation
 
 Bitcoin husambaza uhakiki na utekelezaji wa kanuni kwa washiriki huru. Ugatuzi haumaanishi kwamba kampuni moja inadhibiti mtandao au kwamba kila mtu ana ushawishi sawa. Tafadhali pitia Mwongozo wa Mwanafunzi, Moduli ya 2, “Ugatuzi.”
 
-## Swali 3
+## Question 3
 
 Nodi ya Bitcoin:
 
@@ -35,11 +35,11 @@ Nodi ya Bitcoin:
 * [ ] Huhifadhi bitcoin
 * [ ] Huhakikisha malipo
 
-### Maelezo
+### Explanation
 
 Nodi hukagua kanuni za Bitcoin kwa kujitegemea na kukataa data batili. Hazitengenezi bitcoin kwa ombi wala kuhifadhi bitcoin ndani ya simu. Tafadhali pitia Mwongozo wa Mwanafunzi, Moduli ya 2, “Watumiaji, nodi na wachimbaji.”
 
-## Swali 4
+## Question 4
 
 Kwa nini Bitcoin huitwa pesa imara?
 
@@ -48,6 +48,6 @@ Kwa nini Bitcoin huitwa pesa imara?
 * [ ] Kampuni moja inaidhibiti
 * [ ] Malipo ni ya faragha
 
-### Maelezo
+### Explanation
 
 Baadhi ya watu huieleza Bitcoin kama pesa imara kwa sababu kanuni zake za ugavi ziko wazi kwa umma na utoaji wake una kikomo. Huu ni uamuzi wa kufikiriwa, si ahadi kuhusu bei au faragha. Tafadhali pitia Mwongozo wa Mwanafunzi, Moduli ya 2, “Bitcoin kama pesa imara ya kidijitali.”

@@ -28,7 +28,6 @@ Mahalaga ang pamamaraang ito dahil nakaaapekto ang pera sa bawat tao. Dapat mapa
 
 
 <!-- micrographic: critical-thinking-loop-01 -->
-[Isang nauulit na siklo ng mapanuring pag-iisip: tukuyin ang pahayag, ihiwalay ang katotohanan sa kagustuhan, suriin ang ebidensiya at pinagmulan, ihambing ang mga alternatibo, tukuyin ang isang kapalit o kawalang-katiyakan, at bumuo ng pansamantalang konklusyon o tanong.](/micrographics/critical-thinking-loop-01/tl.md)
 
 
 **Ang komunidad** ay nangangahulugang nagiging mas kapaki-pakinabang ang edukasyon kapag tinatalakay ng mga tao ang mga ideya at iniuugnay ang mga ito sa lokal na pamumuhay. Maaaring may mga karanasan ang inyong tagapagturo at mga kaklase na hindi kayang saklawin ng anumang aklat na para sa buong mundo. Makinig nang mabuti, magtanong, at ipaliwanag ang inyong pangangatwiran nang may paggalang.
@@ -76,8 +75,7 @@ Magagamit ninyo ang kurso upang:
 * maghanda para sa mas mataas na antas ng pag-aaral
 
 
-<!-- card: callout -->
-> **Nauuna ang kaalaman bago ang pagkilos**
+> **Callout – Nauuna ang kaalaman bago ang pagkilos**
 >
 > Hindi ninyo kailangang bumili o kumuha ng bitcoin sa anumang ibang paraan upang makumpleto ang Diploma sa Bitcoin. Hindi rin ninyo kailangang mag-install ng [Bitcoin wallet](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet) o gumamit ng sariling pondo. Maaaring tasahin ang mga kinakailangang praktikal na kasanayan gamit ang isang wallet na inihanda para sa pagsasanay, simulasyon, kapaligiran para sa pagsubok, pisikal na modelo, o gawaing may maliit na nakataya na inaprubahan ng tagapagturo.
 
@@ -86,4 +84,3 @@ Kung limitado ang inyong oras o nais ninyo ng paunang pagpapakilala sa Bitcoin, 
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
-[Isang opsyonal na landas ng pag-aaral ang nagsisimula sa Panimula sa Bitcoin patungo sa Diploma sa Bitcoin, pagkatapos ay sa Programa ng Pagsasanay para sa mga Tagapagturo, hanggang sa pagiging tagapagturong gumagamit ng kurikulum ng My First Bitcoin, at pagsali sa Network ng Edukasyon sa Bitcoin. Ang bawat susunod na hakbang ay isang pagpili, hindi isang kinakailangan.](/micrographics/learner-journey-pathway-01/tl.md)

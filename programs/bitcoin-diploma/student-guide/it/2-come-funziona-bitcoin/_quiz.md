@@ -1,6 +1,6 @@
 # Quiz – Come funziona Bitcoin: verifica rapida
 
-## Domanda 1
+## Question 1
 
 Una stessa unità digitale paga due volte. Il sistema deve:
 
@@ -9,11 +9,11 @@ Una stessa unità digitale paga due volte. Il sistema deve:
 * [ ] Aumentarne il prezzo
 * [ ] Eliminare le commissioni
 
-### Spiegazione
+### Explanation
 
 Le informazioni digitali possono essere copiate, quindi un sistema monetario deve impedire che la stessa unità venga spesa due volte e stabilire quale transazione sia valida. Riveda la Guida dello studente, Modulo 2, «I primi tentativi di denaro digitale e il problema della doppia spesa».
 
-## Domanda 2
+## Question 2
 
 La decentralizzazione di Bitcoin significa:
 
@@ -22,11 +22,11 @@ La decentralizzazione di Bitcoin significa:
 * [ ] I miner cambiano le regole a piacimento
 * [ ] Uguale influenza per tutti
 
-### Spiegazione
+### Explanation
 
 Bitcoin distribuisce la verifica e l’applicazione delle regole tra partecipanti indipendenti. Decentralizzazione non significa che un’unica azienda controlli la rete, né che tutti abbiano la stessa influenza. Riveda la Guida dello studente, Modulo 2, «Decentralizzazione».
 
-## Domanda 3
+## Question 3
 
 Un nodo Bitcoin:
 
@@ -35,11 +35,11 @@ Un nodo Bitcoin:
 * [ ] Conserva bitcoin
 * [ ] Garantisce il pagamento
 
-### Spiegazione
+### Explanation
 
 I nodi verificano in modo indipendente le regole di Bitcoin e respingono i dati non validi. Non creano bitcoin su richiesta né conservano bitcoin all’interno di un telefono. Riveda la Guida dello studente, Modulo 2, «Utenti, nodi e miner».
 
-## Domanda 4
+## Question 4
 
 Perché definire Bitcoin una moneta sana?
 
@@ -48,6 +48,6 @@ Perché definire Bitcoin una moneta sana?
 * [ ] Un’unica azienda lo controlla
 * [ ] I pagamenti sono privati
 
-### Spiegazione
+### Explanation
 
 Alcune persone descrivono Bitcoin come moneta sana perché le sue regole di offerta sono pubbliche e la sua emissione è limitata. Si tratta di un giudizio ragionato, non di una promessa sul prezzo o sulla privacy. Riveda la Guida dello studente, Modulo 2, «Bitcoin come moneta digitale sana».

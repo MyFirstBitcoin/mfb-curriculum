@@ -1,6 +1,6 @@
 # Quiz – Porozumění penězům: rychlé ověření znalostí
 
-## Otázka 1
+## Question 1
 
 Proč lidé přijímají peníze?
 
@@ -9,11 +9,11 @@ Proč lidé přijímají peníze?
 * [ ] Odstraňují všechna pravidla
 * [ ] Mění služby ve zboží
 
-### Vysvětlení
+### Explanation
 
 Peníze pomáhají cizím lidem koordinovat směnu v čase, protože lidé očekávají, že je později přijmou i ostatní. Stále však závisí na důvěře, pravidlech a společenském přijetí. Zopakujte si modul 1 ve studentské příručce, část „Proč peníze existují“.
 
-## Otázka 2
+## Question 2
 
 Vyjádření ceny, placení, spoření: jaké funkce peněz to jsou?
 
@@ -22,11 +22,11 @@ Vyjádření ceny, placení, spoření: jaké funkce peněz to jsou?
 * [ ] Prostředek směny; uchovatel hodnoty; účetní jednotka
 * [ ] Vzácnost; vzácnost; vzácnost
 
-### Vysvětlení
+### Explanation
 
 Účetní jednotka vyjadřuje ceny, prostředek směny je přijímán při placení a uchovatel hodnoty přenáší hodnotu do budoucnosti. Zopakujte si modul 1 ve studentské příručce, část „Funkce a vlastnosti peněz“.
 
-## Otázka 3
+## Question 3
 
 Směna rýže za boty selhává: proč?
 
@@ -35,11 +35,11 @@ Směna rýže za boty selhává: proč?
 * [ ] Chybí souhlas banky
 * [ ] Rýži nelze směňovat
 
-### Vysvětlení
+### Explanation
 
 Přímá naturální směna je obtížná, pokud oba lidé ve stejnou chvíli nechtějí to, co nabízí ten druhý. Jde o problém dvojí shody potřeb. Zopakujte si modul 1 ve studentské příručce, část „Naturální směna a dvojí shoda potřeb“.
 
-## Otázka 4
+## Question 4
 
 Ceny +10%, příjem +5%: co se děje s kupní silou?
 
@@ -48,6 +48,6 @@ Ceny +10%, příjem +5%: co se děje s kupní silou?
 * [x] Klesá
 * [ ] Nelze určit
 
-### Vysvětlení
+### Explanation
 
 Kupní síla vyjadřuje, co lze za peníze koupit. Pokud ceny rostou rychleji než příjem, lze za tento příjem koupit méně. Zopakujte si modul 1 ve studentské příručce, část „Inflace a kupní síla“.

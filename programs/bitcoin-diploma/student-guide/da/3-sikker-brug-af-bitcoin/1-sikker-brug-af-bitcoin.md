@@ -3,7 +3,8 @@
 Dette modul handler om at tage de første skridt på en sikker måde, ikke om at blive ekspert eller tage økonomiske risici. De vil øve Dem med forberedte simulationer, testmiljøer, øvelseswallets eller, hvis Deres underviser vurderer det som passende, en aktivitet med rigtige bitcoin, hvor der kun er lidt på spil.
 
 
-<!-- card: dark -->
+> **Dark**
+>
 > De behøver ikke at købe eller på anden måde anskaffe bitcoin eller bruge Deres egne penge for at gennemføre Bitcoin-diplomet.
 
 

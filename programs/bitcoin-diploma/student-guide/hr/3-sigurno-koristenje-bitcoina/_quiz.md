@@ -1,6 +1,6 @@
 # Quiz – Sigurna upotreba Bitcoina: kratka provjera
 
-## Pitanje 1
+## Question 1
 
 Bitcoin novčanik:
 
@@ -9,11 +9,11 @@ Bitcoin novčanik:
 * [ ] Uklanja zaštitu tajnih podataka
 * [ ] Poništava transakcije
 
-### Objašnjenje
+### Explanation
 
 Bitcoin je zabilježen u zajedničkoj knjizi transakcija; novčanik upravlja informacijama koje se upotrebljavaju za pristup i korištenje. Pogledajte Vodič za učenike, modul 3, „Novčanici”.
 
-## Pitanje 2
+## Question 2
 
 Za primanje bitcoina podijelite:
 
@@ -22,11 +22,11 @@ Za primanje bitcoina podijelite:
 * [x] Adresu za primanje
 * [ ] Lozinku
 
-### Objašnjenje
+### Explanation
 
 Adresu za primanje možete podijeliti radi primanja uplate. Fraze za oporavak, privatni ključevi i lozinke moraju ostati tajni. Pogledajte Vodič za učenike, modul 3, „Adrese” i „Ključevi”.
 
-## Pitanje 3
+## Question 3
 
 Fraza za oporavak unesena je na internetu. Koji je najsigurniji sljedeći korak?
 
@@ -35,11 +35,11 @@ Fraza za oporavak unesena je na internetu. Koji je najsigurniji sljedeći korak?
 * [x] Izradite novu frazu za oporavak, a zatim prenesite sredstva
 * [ ] Ponovno upotrijebite istu frazu za oporavak
 
-### Objašnjenje
+### Explanation
 
 Frazu za oporavak unesenu na internetu smatrajte kompromitiranom. Izradite novi novčanik s novom frazom za oporavak, a zatim prenesite sredstva tek nakon što provjerite odredište. Pogledajte Vodič za učenike, modul 3, „Fraze za oporavak”.
 
-## Pitanje 4
+## Question 4
 
 Koja je glavna razlika između skrbničke i samostalne upotrebe?
 
@@ -48,6 +48,6 @@ Koja je glavna razlika između skrbničke i samostalne upotrebe?
 * [ ] Ograničenje ponude
 * [ ] Transakcijske naknade
 
-### Objašnjenje
+### Explanation
 
 Skrbnička i samostalna upotreba razlikuju se po tome tko kontrolira ključeve i snosi povezanu odgovornost. Nijedna ne jamči sigurnost ni mogućnost poništavanja transakcija. Pogledajte Vodič za učenike, modul 3, „Skrbnička i neskrbnička upotreba”.

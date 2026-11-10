@@ -14,7 +14,6 @@ Do not:
 Use wording such as:
 
 
-<!-- card: callout -->
-> **Current local guidance, not individual advice**
+> **Callout – Current local guidance, not individual advice**
 >
 > Local rules may affect this path. The current public guidance we checked on [date] says ________. This is an educational summary, not advice for an individual situation. A qualified local professional or authority should answer case-specific questions.

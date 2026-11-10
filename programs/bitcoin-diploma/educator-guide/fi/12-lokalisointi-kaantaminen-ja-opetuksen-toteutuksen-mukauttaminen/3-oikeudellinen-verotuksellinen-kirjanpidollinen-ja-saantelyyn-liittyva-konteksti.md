@@ -14,7 +14,6 @@ Voitte auttaa oppijoita tunnistamaan nämä osa-alueet ja sen, missä tarvitaan 
 Käyttäkää esimerkiksi seuraavaa sanamuotoa:
 
 
-<!-- card: callout -->
-> **Ajantasainen paikallinen ohjeistus, ei yksilöllistä neuvontaa**
+> **Callout – Ajantasainen paikallinen ohjeistus, ei yksilöllistä neuvontaa**
 >
 > Paikalliset säännöt voivat vaikuttaa tähän toimintatapaan. Voimassa olevassa julkisessa ohjeistuksessa, jonka tarkistimme [päivämäärä], todetaan ________. Tämä on opetuskäyttöön tarkoitettu yhteenveto, ei yksittäistä tilannetta koskeva neuvo. Tapauskohtaisiin kysymyksiin tulisi vastata pätevän paikallisen asiantuntijan tai viranomaisen.

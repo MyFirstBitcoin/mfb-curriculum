@@ -1,7 +1,6 @@
 # 12.1 Localize examples, not truth standards
 
-<!-- card: light -->
-> **Localize the example, not the learning standard**
+> **Light – Localize the example, not the learning standard**
 >
 > Use local examples to help learners see a shared concept. For each adaptation, ask:
 >

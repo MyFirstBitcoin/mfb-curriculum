@@ -1,7 +1,6 @@
 # 12.1 Localizzare gli esempi, non i criteri di verità
 
-<!-- card: light -->
-> **Localizzi l'esempio, non lo standard di apprendimento**
+> **Light – Localizzi l'esempio, non lo standard di apprendimento**
 >
 > Utilizzi esempi locali per aiutare i discenti a cogliere un concetto condiviso. Per ogni adattamento, si chieda:
 >

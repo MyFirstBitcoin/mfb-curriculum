@@ -75,8 +75,7 @@ Penger er en eiendel folk aksepterer fordi de forventer at andre vil akseptere d
 * Verdi på tvers av tid og avstand
 
 
-<!-- card: callout -->
-> **Kontrollspørsmål**
+> **Callout – Kontrollspørsmål**
 >
 > Hvilket problem med utveksling eller koordinering bidrar penger til å løse?
 
@@ -109,8 +108,7 @@ Penger er en eiendel folk aksepterer fordi de forventer at andre vil akseptere d
 Ingen pengeform oppfyller alle kriteriene perfekt. «**Solide penger**» er en vurdering: angi kriterier og sammenlign konsekvent.
 
 
-<!-- card: callout -->
-> **Tenk kritisk**
+> **Callout – Tenk kritisk**
 >
 > Hvilke egenskaper var viktige da De valgte én type penger eller eiendel fremfor en annen?
 
@@ -154,7 +152,6 @@ Knapphet alene garanterer ikke verdi; etterspørsel har også betydning.
 ---
 
 <!-- micrographic: same-water-different-value-01 -->
-[Den samme flasken med rent vann er billig i et kjøleskap i en butikk der vann er lett å finne, og mye mer verdifull i en varm ørken ved vannmangel. Tilgjengelighet, behov og omstendigheter endrer verdi og pris.](/micrographics/same-water-different-value-01/nb.md)
 
 ---
 
@@ -165,7 +162,6 @@ Knapphet alene garanterer ikke verdi; etterspørsel har også betydning.
 ---
 
 <!-- micrographic: one-choice-two-uses-01 -->
-[En kunde med begrenset med penger ser på alternativene foran seg: mat for i dag, transport eller sparing til senere. Å velge ett alternativ innebærer å gi avkall på de andre, noe som utgjør alternativkostnaden, og ingen av alternativene er merket som det riktige.](/micrographics/one-choice-two-uses-01/nb.md)
 
 ---
 
@@ -199,7 +195,6 @@ Praktiske betalinger og fleksibel kreditt medfører avhengighet av institusjoner
 ---
 
 <!-- micrographic: fiat-system-flows-01 -->
-[Aktørene i et fiatpengesystem og det som utveksles mellom dem: Sentralbanken fastsetter pengepolitikken og gjør opp betalinger mellom banker, forretningsbanker holder innskudd som er deres forpliktelser overfor kundene, betalingstjenester formidler instrukser, staten krever inn skatter og bruker penger, og innbyggere og bedrifter betaler og mottar betalinger.](/micrographics/fiat-system-flows-01/nb.md)
 
 ---
 
@@ -235,12 +230,10 @@ Massive innskuddsuttak kan begrense tilgangen til pengene. Innskuddsgarantier og
 ---
 
 <!-- micrographic: bank-loan-deposit-01 -->
-[Et forenklet banklån: Låntakeren søker, banken godkjenner lånet og godskriver låntakerens konto med et nytt innskudd, og låntakeren betaler senere tilbake hovedstolen pluss renter til banken.](/micrographics/bank-loan-deposit-01/nb.md)
 
 ---
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
-[Likviditetsrisiko: mange innskytere står i kø for å ta ut penger i dag, og banken har ikke nok kontanter nå, selv om lånene kan bli tilbakebetalt senere. Solvensrisiko: låntakere misligholder boliglån, og bankens eiendeler blir verdt mindre enn det banken skylder.](/micrographics/liquidity-vs-solvency-01/nb.md)
 
 ---
 
@@ -262,7 +255,6 @@ Massive innskuddsuttak kan begrense tilgangen til pengene. Innskuddsgarantier og
 ---
 
 <!-- micrographic: same-money-smaller-basket-01 -->
-[De samme 100 valutaenhetene er nok til å kjøpe hele varekurven med basisvarer når den koster 100, men ikke når den samme varekurven koster 110. Prisnivået har steget, og pengenes kjøpekraft har falt.](/micrographics/same-money-smaller-basket-01/nb.md)
 
 ---
 
@@ -316,8 +308,7 @@ En CBDC er digitale fiatpenger utstedt som en forpliktelse for sentralbanken: en
 Utformingene varierer. Digitalt betyr ikke automatisk desentralisert, med begrenset tilgang, privat eller uavhengig verifiserbart.
 
 
-<!-- card: callout -->
-> **Undersøk**
+> **Callout – Undersøk**
 >
 > Hvem utsteder det, hvem kan bruke det, hvilke data samles inn, og hvem kan blokkere betalinger eller endre regler? Hva skjer uten nettilkobling, og hvilket rettslig vern finnes?
 
@@ -336,8 +327,7 @@ Utformingene varierer. Digitalt betyr ikke automatisk desentralisert, med begren
 Hva gjør Deres penger nyttige, og hvilke regler avhenger av institusjoner De stoler på?
 
 
-<!-- card: callout -->
-> **Et øyeblikk til ettertanke**
+> **Callout – Et øyeblikk til ettertanke**
 >
 > Hva er ett spørsmål De nå stiller om penger som De ikke stilte før?
 
@@ -367,7 +357,6 @@ Bitcoin reduserer behovet for tillit til sentrale aktører ved utstedelse og opp
 ---
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
-[Hos et betalingsselskap fører én organisasjon regnskapet og godkjenner hver overføring. Med Bitcoin signerer avsenderen en transaksjon, uavhengige noder kontrollerer den, og utvinnere legger den til i ett felles regnskap, slik at mottakeren er mindre avhengig av en sentral myndighet.](/micrographics/central-ledger-vs-bitcoin-01/nb.md)
 
 ---
 
@@ -404,7 +393,6 @@ Dobbeltbruk er et forsøk på å sende den samme digitale enheten til to mottake
 ---
 
 <!-- micrographic: five-part-response-01 -->
-[Fem deler bidrar sammen til å løse problemet med dobbeltbruk: et likemannsnettverk, digitale signaturer, blokker og utvinning, uavhengig verifisering og en felles historikk med mest akkumulert arbeidsbevis. Sammen gjør de det mulig for nettverket å avvise at de samme midlene brukes to ganger, uten noen sentral myndighet.](/micrographics/five-part-response-01/nb.md)
 
 ---
 
@@ -423,7 +411,6 @@ En skriftlig påstand om pengemengden er ikke nok: hvem kan verifisere den, og h
 ---
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
-[En grense for pengemengden som er skrevet på et nettsted eller i en utsteders database, kan endres i det stille av utstederen. Bitcoins regel for pengemengden er offentlig, og signaturer, en offentlig historikk, arbeidsbevis og verifisering i nodene hindrer sammen at nye mynter blir skapt uten grunnlag, eller at samme bitcoin blir brukt to ganger.](/micrographics/claimed-or-verified-supply-01/nb.md)
 
 ---
 
@@ -465,14 +452,12 @@ Mellomleddstjenester er fortsatt valgfrie; ved å velge en slik tjeneste må man
 ---
 
 <!-- micrographic: peer-to-peer-route-01 -->
-[En avsender signerer en transaksjon og kringkaster den til mange nettverksnoder, som videresender den til den når mottakeren. Ingen sentral Bitcoin-operatør må godkjenne avsenderen eller mottakeren.](/micrographics/peer-to-peer-route-01/nb.md)
 
 ---
 
 ![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
-[Fire roller i Bitcoin: Brukere mottar, oppbevarer og sender bitcoin, noder kontrollerer uavhengig at reglene følges, utvinnere bygger kandidatblokker med arbeidsbevis, og utviklere foreslår programvare. Ingen enkeltrolle kontrollerer nettverket.](/micrographics/bitcoin-participant-roles-01/nb.md)
 
 ---
 
@@ -481,8 +466,7 @@ Mellomleddstjenester er fortsatt valgfrie; ved å velge en slik tjeneste må man
 Utvinnere kan ikke få ærlige noder til å godta ugyldige blokker. Utviklere kan ikke tvinge noen til å ta i bruk programvare. Én person kan ha flere roller.
 
 
-<!-- card: callout -->
-> **Kontrollspørsmål**
+> **Callout – Kontrollspørsmål**
 >
 > Hvorfor verifiserer en node transaksjoner? Nevn én regel den kontrollerer.
 
@@ -505,7 +489,6 @@ Utvinning sikrer rekkefølgen på transaksjonene; den løser ikke eksterne ligni
 ![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 <!-- micrographic: proof-of-work-process-01 -->
-[En miner beregner hasher av en foreslått blokk om og om igjen til ett resultat er under nettverkets målverdi, og kringkaster deretter blokken. Nodene kontrollerer raskt beviset og at alle reglene er fulgt før blokken blir del av blokkjeden: arbeidet er kostbart å utføre og enkelt å verifisere.](/micrographics/proof-of-work-process-01/nb.md)
 
 ---
 
@@ -526,12 +509,10 @@ Noder avviser utstedelse utover grensen; grensen opprettholdes så lenge deltake
 ---
 
 <!-- micrographic: bitcoin-issuance-supply-01 -->
-[Blokksubsidiet starter på 50 bitcoin og halveres hver 210 000. blokk, mens det totale antallet utstedte bitcoin stiger mot grensen på 21 millioner. Transaksjonsgebyrer betales i tillegg og er ikke nye bitcoin; dette innebærer ingen prisprognose.](/micrographics/bitcoin-issuance-supply-01/nb.md)
 
 ---
 
 <!-- micrographic: bitcoin-issuance-subsidy-01 -->
-[Blokksubsidiet starter på 50 bitcoin og halveres hver 210 000. blokk, mens det totale antallet utstedte bitcoin stiger mot grensen på 21 millioner. Transaksjonsgebyrer betales i tillegg og er ikke nye bitcoin; dette innebærer ingen prisprognose.](/micrographics/bitcoin-issuance-subsidy-01/nb.md)
 
 ---
 
@@ -547,8 +528,7 @@ Noder avviser utstedelse utover grensen; grensen opprettholdes så lenge deltake
 **Enhetsskjevhet:** en lav pris per hel enhet betyr ikke at man får mer for pengene. Sammenlign andelen av den totale mengden, verdien det er snakk om, og risikoene.
 
 
-<!-- card: callout -->
-> **Vis Deres forståelse**
+> **Callout – Vis Deres forståelse**
 >
 > Hvor mange sats er det i 0,01 BTC? Hvorfor kan man bruke mindre enn en hel bitcoin?
 
@@ -606,8 +586,7 @@ Et kjent tickersymbol, en tilsynelatende stabil pris eller en gjennomført app e
 * Ingen oppfordring til å kjøpe, selge eller beholde
 
 
-<!-- card: callout -->
-> **Kontroll av lokal verdi**
+> **Callout – Kontroll av lokal verdi**
 >
 > Skill mellom markedspris, lokal aksept og personlige preferanser eller forutinntatthet.
 
@@ -622,7 +601,6 @@ Vurder utformingen og virkemåten så vel som historien om opprinnelsen.
 ---
 
 <!-- micrographic: bitcoin-origin-timeline-01 -->
-[Bitcoins opprinnelse gjennom fire daterte hendelser: 31. oktober 2008 publiserte Satoshi Nakamoto hvitboken, som beskrev direkte nettbetalinger uten et finansielt mellomledd; 3. januar 2009 startet genesisblokken Bitcoin-nettverket, med en avisoverskrift om redningspakker til banker; 12. januar 2009 sendte Satoshi bitcoin til Hal Finney i den første registrerte transaksjonen mellom to personer; 22. mai 2010 betalte en bruker 10 000 BTC for to pizzaer, en dag som nå er kjent som Bitcoin Pizza Day.](/micrographics/bitcoin-origin-timeline-01/nb.md)
 
 ---
 
@@ -651,8 +629,7 @@ Personlig ansvar kan omfatte opplæring, vurdering fra andre, rutiner og små te
 * Fastsetting av transaksjonsrekkefølge → arbeidsbevis; utstyrs- og energikostnader
 
 
-<!-- card: callout -->
-> **Et øyeblikk til ettertanke**
+> **Callout – Et øyeblikk til ettertanke**
 >
 > Hvilken del av Bitcoins utforming ville De forklart annerledes nå, og hvorfor?
 
@@ -697,7 +674,6 @@ Lommebøker til opplæring må ikke brukes til å sikre betydelige beløp. En se
 ---
 
 <!-- micrographic: wallet-manages-keys-01 -->
-[En lommebok inneholder nøklene. Med dem kan De motta og sende bitcoin, mens selve bitcoinen forblir registrert i den felles hovedboken, ikke inne i telefonen eller enheten.](/micrographics/wallet-manages-keys-01/nb.md)
 
 ---
 
@@ -723,15 +699,13 @@ Skadevare kan erstatte kopierte betalingsmål. Et kjent utseende er ikke nok. Ny
 Del aldri private nøkler, gjenopprettingsfraser, passord eller gjenopprettingskoder. Ingen legitim underviser, kundestøttemedarbeider, lommebokleverandør, børsansatt eller utvikler trenger dem.
 
 
-<!-- card: callout -->
-> **Prøv det**
+> **Callout – Prøv det**
 >
 > Sorter de forberedte eksemplene i mottaksinformasjon, hemmeligheter og offentlig informasjon som blir sensitiv når den knyttes til en person.
 
 ---
 
 <!-- micrographic: private-key-public-info-01 -->
-[En hemmelig privat nøkkel, som aldri må deles, danner grunnlaget for offentlig informasjon som kan deles: en offentlig nøkkel avledet fra den og en mottaksadresse opprettet fra denne. Den samme private nøkkelen oppretter signaturer som noder verifiserer uten noen gang å få kjennskap til den private nøkkelen.](/micrographics/private-key-public-info-01/nb.md)
 
 ---
 
@@ -764,8 +738,7 @@ Hvis gjenopprettingsfrasen kan ha blitt sett, kopiert, skrevet inn på nettet el
 En offentlig blokkjede kan ikke bevise hva en tjeneste skylder en bestemt kunde. Egenforvaring kan fortsatt innebære avhengighet av programvare, maskinvare, servere og nettverk.
 
 
-<!-- card: callout -->
-> **Prøv selv**
+> **Callout – Prøv selv**
 >
 > Sammenlign to ferdiglagde beskrivelser: Hvem kontrollerer nøklene, hvem gjenoppretter tilgangen, og hvilken risiko må undersøkes?
 
@@ -776,7 +749,6 @@ En offentlig blokkjede kan ikke bevise hva en tjeneste skylder en bestemt kunde.
 ---
 
 <!-- micrographic: who-controls-keys-01 -->
-[Ved tredjepartsoppbevaring kontrollerer en tjeneste nøklene og godkjenner betalinger, så saldoen er et løfte fra tjenesten. Ved egenoppbevaring kontrollerer brukeren nøklene og sikkerhetskopiene; begge alternativene innebærer avhengigheter og risiko for svikt.](/micrographics/who-controls-keys-01/nb.md)
 
 ---
 
@@ -804,7 +776,6 @@ Bruk bare klargjort, tomt eller simulert materiell. Avslør aldri ekte gjenoppre
 ---
 
 <!-- micrographic: practice-wallet-recovery-01 -->
-[En øvelse i seks trinn for å gjenopprette en øvingslommebok: følg de offisielle instruksjonene, kontroller kompatibiliteten, arbeid skjermet, bruk den godkjente gjenopprettingsmetoden, bekreft at lommeboken er den forventede, og tilbakestill deretter. Bruk kun klargjort, tomt eller simulert materiale. Underviseren får aldri se gjenopprettingsordene.](/micrographics/practice-wallet-recovery-01/nb.md)
 
 ---
 
@@ -833,7 +804,6 @@ Godkjenn bare når alle kontrollpunkter stemmer. Hvis opplysninger endres, det o
 ---
 
 <!-- micrographic: pre-send-checklist-01 -->
-[Før en betaling godkjennes, kontrollerer avsenderen mottakeren og formålet, betalingsmåten, mottakeradressen samt beløpet, enheten, gebyret eller utløpstiden, og sender et lite testbeløp hvis fremgangsmåten er ukjent. Hvis noe avviker, stopper avsenderen og kontrollerer. Avsenderen godkjenner bare når alt stemmer, og kontrollerer deretter resultatet.](/micrographics/pre-send-checklist-01/nb.md)
 
 ---
 
@@ -853,7 +823,6 @@ Bruk forberedte eksempler; ikke søk etter en elevs personlige adresse eller tra
 ---
 
 <!-- micrographic: confirmation-timeline-01 -->
-[En transaksjon venter ubekreftet i transaksjonskøen, blir deretter inkludert i blokk N og får sin første bekreftelse, og hver påfølgende blokk legger til én bekreftelse til.](/micrographics/confirmation-timeline-01/nb.md)
 
 ---
 
@@ -866,8 +835,7 @@ Bruk forberedte eksempler; ikke søk etter en elevs personlige adresse eller tra
 **Ta en pause. Ikke del noe. Ikke send noe. Lukk kanalen. Kontroller opplysningene via en uavhengig kilde. Be om hjelp uten å avsløre hemmeligheter.**
 
 
-<!-- card: callout -->
-> **Prøv selv**
+> **Callout – Prøv selv**
 >
 > Identifiser et faresignal, et mulig tap og den første trygge handlingen i en ferdiglaget melding.
 
@@ -876,7 +844,6 @@ Bruk forberedte eksempler; ikke søk etter en elevs personlige adresse eller tra
 ---
 
 <!-- micrographic: scam-red-flags-01 -->
-[Fem faresignaler for svindel: tidspress, identitetsforfalskning, en endret mottakeradresse, garantert avkastning og forespørsler om hemmelige opplysninger.](/micrographics/scam-red-flags-01/nb.md)
 
 ---
 
@@ -893,12 +860,10 @@ Ingen fremgangsmåte eller leverandør er automatisk best. **KYC** betyr identit
 ---
 
 <!-- micrographic: ways-to-receive-bitcoin-01 -->
-[En person kan motta bitcoin på fire forskjellige måter: ved å tjene det gjennom arbeid eller salg, veksle lokale kontanter med en annen person, bruke en børs eller megler, eller bruke en minibank. Hver vei ender med egenforvaring eller en saldo hos en forvalter, og ingen av dem anbefales fremfor de andre.](/micrographics/ways-to-receive-bitcoin-01/nb.md)
 
 ---
 
 <!-- micrographic: exchange-risk-questions-01 -->
-[Seks risikoområder å undersøke før man anskaffer eller veksler bitcoin, hvert med et spørsmål å stille: kostnader, oppbevaring, identitet og personvern, uttak og oppgjør, motpart og sikkerhet samt lokale forhold.](/micrographics/exchange-risk-questions-01/nb.md)
 
 ---
 
@@ -944,8 +909,7 @@ Bruk det avtalte opplæringsmiljøet. Ta en pause ved avvik; be om støtte og me
 En venn sender en forespørsel samtidig som en ukjent kundestøtte krever umiddelbar handling. Hva kan De kontrollere før De gjør noe?
 
 
-<!-- card: callout -->
-> **Et øyeblikk til refleksjon**
+> **Callout – Et øyeblikk til refleksjon**
 >
 > Hvilken sikkerhetskontroll vil De stoppe opp for å gjennomføre før De handler?
 
@@ -964,7 +928,6 @@ En venn sender en forespørsel samtidig som en ukjent kundestøtte krever umidde
 ## Deres lokale modul 4
 
 <!-- micrographic: local-module-four-actions-01 -->
-[I den lokale modul 4 gjennomfører eleven fire handlinger: knytter en idé fra modul 1 til 3 til et lokalt behov, sammenligner Bitcoin med et realistisk eksisterende alternativ, øver trygt med veiledning og forklarer hva eleven har lært, og hva et ansvarlig neste steg er. Læreren, og noen ganger en lokal ekspert, veileder eleven hele veien.](/micrographics/local-module-four-actions-01/nb.md)
 
 
 Noter Deres lokale fokus: problem eller mulighet, alternativ, trygt scenario, viktigste fordel og risiko, og trygt neste steg.
@@ -1016,12 +979,10 @@ En vellykket liten betaling beviser ikke at det er trygt å ha større saldoer.
 ---
 
 <!-- micrographic: lightning-phone-payment-01 -->
-[Mottakeren oppretter en Lightning-betalingsforespørsel med beløpet angitt på telefonen sin, avsenderen skanner den og betaler, og betalingen kommer frem til mottakerens telefon et øyeblikk senere.](/micrographics/lightning-phone-payment-01/nb.md)
 
 ---
 
 <!-- micrographic: lightning-payment-sequence-01 -->
-[En Lightning-betaling i seks trinn: Mottakeren oppretter en forespørsel, avsenderen skanner den, kontrollerer mottaker, beløp, enhet, utløpstidspunkt og gebyr og godkjenner betalingen. Betalingen rutes, og begge lommebøkene viser resultatet. Hver lommebok kan være tredjepartsforvaltet eller selvforvaltet, og ved en mislykket eller utløpt betaling starter prosessen på nytt med en ny forespørsel.](/micrographics/lightning-payment-sequence-01/nb.md)
 
 ---
 
@@ -1073,7 +1034,6 @@ Velg eller tilpass veiledningens scenarioer til den lokale oppgaven. La instruks
 ---
 
 <!-- micrographic: coffee-shop-payment-01 -->
-[En betaling på en kafé i fire trinn: Kunden bestiller, servitøren sender en faktura, kunden betaler i bitcoin fra telefonen sin, og servitøren leverer kaffen.](/micrographics/coffee-shop-payment-01/nb.md)
 
 ---
 
@@ -1134,7 +1094,6 @@ Tall på utbredelse alene beviser ikke nytteverdien. Svak etterspørsel, mangelf
 ---
 
 <!-- micrographic: local-circular-economy-01 -->
-[I en sirkulær Bitcoin-økonomi går bitcoin fra person til person i bytte mot varer, tjenester og tid. En kunde betaler en forhandler, forhandleren betaler en tjenesteleverandør, tjenesteleverandøren betaler en arbeidstaker, og arbeidstakeren bruker dem videre som kunde.](/micrographics/local-circular-economy-01/nb.md)
 
 ---
 
@@ -1192,7 +1151,6 @@ Fullfør individuelt, og sammenlign deretter resonnementet med gruppen Deres.
 * Nyttig deltakelse i fellesskapet er frivillig og beskytter mennesker
 
 
-<!-- card: callout -->
-> **Et øyeblikk til ettertanke**
+> **Callout – Et øyeblikk til ettertanke**
 >
 > Hvilket spørsmål ville De stille før De avgjør om en Bitcoin-løsning passer til et lokalt behov?

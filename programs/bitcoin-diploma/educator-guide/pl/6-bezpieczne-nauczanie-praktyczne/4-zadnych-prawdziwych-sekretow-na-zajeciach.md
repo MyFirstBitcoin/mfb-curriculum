@@ -1,7 +1,6 @@
 # 6.4 Żadnych prawdziwych sekretów na zajęciach
 
-<!-- card: callout -->
-> **Żadnych prawdziwych sekretów podczas zajęć**
+> **Callout – Żadnych prawdziwych sekretów podczas zajęć**
 >
 > Do ćwiczeń z odzyskiwania dostępu proszę używać przygotowanych wcześniej słów odzyskiwania, wyraźnie oznaczonych materiałów szkoleniowych lub pustego portfela jednorazowego użytku. Proszę nigdy nie korzystać z osobistego portfela osoby uczącej się ani z portfela zawierającego środki, a także nie tworzyć procedury, w której ktokolwiek mógłby poznać informacje umożliwiające odzyskanie dostępu, które zachowają ważność.
 >

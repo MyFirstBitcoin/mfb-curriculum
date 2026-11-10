@@ -1,6 +1,6 @@
 # Quiz – Yadda Bitcoin Yake Aiki: ɗan gwajin fahimta
 
-## Tambaya 1
+## Question 1
 
 An biya sau biyu da raka’ar kuɗin dijital guda ɗaya. Dole ne tsarin ya:
 
@@ -9,11 +9,11 @@ An biya sau biyu da raka’ar kuɗin dijital guda ɗaya. Dole ne tsarin ya:
 * [ ] Ƙara farashinsa
 * [ ] Cire kuɗaɗen caji
 
-### Bayani
+### Explanation
 
 Ana iya kwafe bayanan dijital, don haka dole ne tsarin kuɗi ya hana kashe raka’a ɗaya sau biyu kuma ya tabbatar da wace ma’amala ce ingantacciya. Ku sake duba Jagorar Ɗalibi, Sashe na 2, “Ƙoƙarin farko na samar da kuɗin dijital da matsalar kashe kuɗi ɗaya sau biyu.”
 
-## Tambaya 2
+## Question 2
 
 Rashin cibiyar iko guda ɗaya a Bitcoin yana nufin:
 
@@ -22,11 +22,11 @@ Rashin cibiyar iko guda ɗaya a Bitcoin yana nufin:
 * [ ] Masu haƙa suna sauya ƙa’idoji yadda suka ga dama
 * [ ] Kowa yana da tasiri iri ɗaya
 
-### Bayani
+### Explanation
 
 Bitcoin yana rarraba aikin tantancewa da aiwatar da ƙa’idoji tsakanin mahalarta masu zaman kansu. Rashin cibiyar iko guda ɗaya ba yana nufin kamfani guda ne yake sarrafa hanyar sadarwar ba ko kuma kowa yana da tasiri iri ɗaya. Ku sake duba Jagorar Ɗalibi, Sashe na 2, “Rashin cibiyar iko guda ɗaya.”
 
-## Tambaya 3
+## Question 3
 
 Mahaɗar Bitcoin:
 
@@ -35,11 +35,11 @@ Mahaɗar Bitcoin:
 * [ ] Tana adana bitcoin
 * [ ] Tana ba da tabbacin biyan kuɗi
 
-### Bayani
+### Explanation
 
 Mahaɗai suna bincika bin ƙa’idojin Bitcoin da kansu kuma suna ƙin bayanan da ba su inganta ba. Ba sa ƙirƙirar bitcoin bisa buƙata ko adana bitcoin a cikin waya. Ku sake duba Jagorar Ɗalibi, Sashe na 2, “Masu amfani, mahaɗai, da masu haƙa.”
 
-## Tambaya 4
+## Question 4
 
 Me ya sa ake kiran Bitcoin kuɗi masu inganci?
 
@@ -48,6 +48,6 @@ Me ya sa ake kiran Bitcoin kuɗi masu inganci?
 * [ ] Kamfani guda ne yake sarrafa shi
 * [ ] Biyan kuɗi na sirri ne
 
-### Bayani
+### Explanation
 
 Wasu mutane suna bayyana Bitcoin a matsayin kuɗi masu inganci domin ƙa’idojin wadatarsa a bayyane suke kuma akwai iyaka ga fitar da shi. Wannan ra’ayi ne mai dalili, ba alƙawari game da farashi ko sirri ba. Ku sake duba Jagorar Ɗalibi, Sashe na 2, “Bitcoin a matsayin kuɗin dijital masu inganci.”

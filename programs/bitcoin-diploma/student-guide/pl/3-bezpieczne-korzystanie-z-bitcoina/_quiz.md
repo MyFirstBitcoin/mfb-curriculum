@@ -1,6 +1,6 @@
 # Quiz – Bezpieczne korzystanie z Bitcoina: krótki sprawdzian
 
-## Pytanie 1
+## Question 1
 
 Portfel Bitcoin:
 
@@ -9,11 +9,11 @@ Portfel Bitcoin:
 * [ ] Usuwa ochronę poufnych danych
 * [ ] Cofa transakcje
 
-### Wyjaśnienie
+### Explanation
 
 Bitcoin jest zapisywany we wspólnym rejestrze; portfel zarządza informacjami służącymi do uzyskiwania do niego dostępu i korzystania z niego. Proszę zapoznać się z rozdziałem „Portfele” w module 3 podręcznika dla ucznia.
 
-## Pytanie 2
+## Question 2
 
 Co należy udostępnić, aby otrzymać bitcoiny?
 
@@ -22,11 +22,11 @@ Co należy udostępnić, aby otrzymać bitcoiny?
 * [x] Adres do odbioru
 * [ ] Hasło
 
-### Wyjaśnienie
+### Explanation
 
 Adres do odbioru można udostępnić, aby otrzymać płatność. Frazy odzyskiwania, klucze prywatne i hasła muszą pozostać tajne. Proszę zapoznać się z rozdziałami „Adresy” i „Klucze” w module 3 podręcznika dla ucznia.
 
-## Pytanie 3
+## Question 3
 
 Fraza odzyskiwania została wpisana w internecie. Jaki jest najbezpieczniejszy kolejny krok?
 
@@ -35,11 +35,11 @@ Fraza odzyskiwania została wpisana w internecie. Jaki jest najbezpieczniejszy k
 * [x] Utworzyć nową frazę odzyskiwania, a następnie przenieść środki
 * [ ] Ponownie użyć tej samej frazy odzyskiwania
 
-### Wyjaśnienie
+### Explanation
 
 Frazę odzyskiwania wpisaną w internecie należy uznać za ujawnioną. Proszę utworzyć nowy portfel z nową frazą odzyskiwania, a następnie przenieść środki dopiero po zweryfikowaniu adresu docelowego. Proszę zapoznać się z rozdziałem „Frazy odzyskiwania” w module 3 podręcznika dla ucznia.
 
-## Pytanie 4
+## Question 4
 
 Jaka jest główna różnica między korzystaniem z usług powierniczych a samodzielnym przechowywaniem środków?
 
@@ -48,6 +48,6 @@ Jaka jest główna różnica między korzystaniem z usług powierniczych a samod
 * [ ] Limit podaży
 * [ ] Opłaty transakcyjne
 
-### Wyjaśnienie
+### Explanation
 
 Korzystanie z usług powierniczych i samodzielne przechowywanie środków różnią się tym, kto kontroluje klucze i ponosi związaną z tym odpowiedzialność. Żadne z tych rozwiązań nie gwarantuje bezpieczeństwa ani możliwości cofania transakcji. Proszę zapoznać się z rozdziałem „Korzystanie z usług powierniczych i samodzielne przechowywanie środków” w module 3 podręcznika dla ucznia.

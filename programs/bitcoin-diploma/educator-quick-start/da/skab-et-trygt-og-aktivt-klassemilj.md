@@ -1,7 +1,6 @@
 # Skab et trygt og aktivt klassemiljø
 
-<!-- card: callout -->
-> **Beskyt kursisterne, før de praktiske aktiviteter begynder**
+> **Callout – Beskyt kursisterne, før de praktiske aktiviteter begynder**
 >
 > Bed aldrig om at få udleveret, se, fotografere, kopiere, registrere eller opbevare en rigtig gendannelsesfrase, privat nøgle, adgangskode eller unødvendige finansielle oplysninger. Pres ikke nogen til at købe, sælge, beholde eller bruge bitcoin. Hold pause, når en kursist er usikker, føler sig presset eller er udsat for mulig svindel.
 

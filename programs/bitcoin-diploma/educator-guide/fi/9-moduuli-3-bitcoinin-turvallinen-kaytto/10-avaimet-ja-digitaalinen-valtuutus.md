@@ -17,4 +17,3 @@ Kukaan rehellisesti toimiva kouluttaja, lompakkoyritys, vaihtopalvelun työnteki
 
 
 <!-- micrographic: private-key-public-info-01 -->
-[Salaisesta yksityisestä avaimesta, jota ei saa koskaan jakaa, saadaan tietoja, joita voi jakaa: siitä johdettu julkinen avain ja sen tiedoista luotu vastaanotto-osoite. Sama yksityinen avain luo allekirjoituksia, jotka solmut tarkistavat saamatta koskaan tietää yksityistä avainta.](/micrographics/private-key-public-info-01/fi.md)

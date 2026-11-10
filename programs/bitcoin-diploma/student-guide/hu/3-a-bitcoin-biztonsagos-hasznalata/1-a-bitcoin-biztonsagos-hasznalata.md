@@ -3,7 +3,8 @@
 Ez a modul a biztonságos első lépésekről szól, nem arról, hogy Ön szakértővé váljon vagy pénzügyi kockázatot vállaljon. Előkészített szimulációkkal, tesztkörnyezetekkel, gyakorlótárcákkal fog gyakorolni, vagy – ha az oktatója megfelelőnek ítéli – kis téttel járó, éles feladatot végez.
 
 
-<!-- card: dark -->
+> **Dark**
+>
 > A Bitcoin Diploma elvégzéséhez nem szükséges bitcoint vásárolnia vagy más módon szereznie, sem saját pénzét felhasználnia.
 
 

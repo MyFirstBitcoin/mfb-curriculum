@@ -1,6 +1,6 @@
 # Quiz – Använd Bitcoin säkert: snabbtest
 
-## Fråga 1
+## Question 1
 
 En Bitcoin-plånbok:
 
@@ -9,11 +9,11 @@ En Bitcoin-plånbok:
 * [ ] Tar bort skyddet för hemligheter
 * [ ] Återkallar transaktioner
 
-### Förklaring
+### Explanation
 
 Bitcoin registreras i den gemensamma liggaren; en plånbok hanterar informationen som används för att komma åt och använda det. Läs avsnittet ”Plånböcker” i elevhandledningen, modul 3.
 
-## Fråga 2
+## Question 2
 
 Dela detta för att ta emot bitcoin:
 
@@ -22,11 +22,11 @@ Dela detta för att ta emot bitcoin:
 * [x] Mottagaradress
 * [ ] Lösenord
 
-### Förklaring
+### Explanation
 
 En mottagaradress kan delas för att ta emot betalningar. Återställningsfraser, privata nycklar och lösenord måste hållas hemliga. Läs avsnitten ”Adresser” och ”Nycklar” i elevhandledningen, modul 3.
 
-## Fråga 3
+## Question 3
 
 Återställningsfras angiven på nätet. Vilket är det säkraste nästa steget?
 
@@ -35,11 +35,11 @@ En mottagaradress kan delas för att ta emot betalningar. Återställningsfraser
 * [x] Ny återställningsfras, flytta sedan tillgångarna
 * [ ] Återanvänd återställningsfrasen
 
-### Förklaring
+### Explanation
 
 Betrakta en återställningsfras som har angetts på nätet som röjd. Skapa en ny plånbok med en ny återställningsfras och flytta sedan tillgångarna först efter att ni har kontrollerat mottagaradressen. Läs avsnittet ”Återställningsfraser” i elevhandledningen, modul 3.
 
-## Fråga 4
+## Question 4
 
 Vad är den viktigaste skillnaden mellan förvaring hos tredje part och egen förvaring?
 
@@ -48,6 +48,6 @@ Vad är den viktigaste skillnaden mellan förvaring hos tredje part och egen fö
 * [ ] Utbudsgränsen
 * [ ] Transaktionsavgifterna
 
-### Förklaring
+### Explanation
 
 Förvaring hos tredje part och egen förvaring skiljer sig åt genom vem som kontrollerar nycklarna och bär det tillhörande ansvaret. Inget av alternativen garanterar säkerhet eller möjlighet att återkalla betalningar. Läs avsnittet ”Förvaring hos tredje part och egen förvaring” i elevhandledningen, modul 3.

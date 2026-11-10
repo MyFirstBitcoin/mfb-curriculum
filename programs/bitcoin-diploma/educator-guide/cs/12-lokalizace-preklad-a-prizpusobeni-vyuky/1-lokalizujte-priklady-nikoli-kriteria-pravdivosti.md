@@ -1,7 +1,6 @@
 # 12.1 Lokalizujte příklady, nikoli kritéria pravdivosti
 
-<!-- card: light -->
-> **Přizpůsobujte místním podmínkám příklad, nikoli vzdělávací standard**
+> **Light – Přizpůsobujte místním podmínkám příklad, nikoli vzdělávací standard**
 >
 > Používejte místní příklady, které studujícím pomohou pochopit společný koncept. U každé úpravy si položte tyto otázky:
 >

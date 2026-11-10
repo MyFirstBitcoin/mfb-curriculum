@@ -19,7 +19,6 @@ Nepředvádějte nástroj jen proto, že je ve vašem okolí oblíbený. Použij
 
 
 
-<!-- card: dark -->
-> **Místní příklady nejsou celosvětovými doporučeními**
+> **Dark – Místní příklady nejsou celosvětovými doporučeními**
 >
 > Tento nástroj je místním příkladem pro výuku, který se vztahuje ke konkrétnímu datu. Jeho použití ve výuce není celosvětovým doporučením ze strany My First Bitcoin ani příslibem, že zůstane vhodný.

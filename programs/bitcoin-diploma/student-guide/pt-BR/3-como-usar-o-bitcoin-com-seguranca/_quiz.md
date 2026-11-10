@@ -1,6 +1,6 @@
 # Quiz – Usando o Bitcoin com segurança: verificação rápida
 
-## Pergunta 1
+## Question 1
 
 Uma carteira de Bitcoin:
 
@@ -9,11 +9,11 @@ Uma carteira de Bitcoin:
 * [ ] Remove a proteção de segredos
 * [ ] Reverte transações
 
-### Explicação
+### Explanation
 
 O bitcoin é registrado no livro-razão compartilhado; uma carteira gerencia as informações usadas para acessá-lo e utilizá-lo. Revise o Guia do Aluno, Módulo 3, “Carteiras”.
 
-## Pergunta 2
+## Question 2
 
 Compartilhe para receber bitcoin:
 
@@ -22,11 +22,11 @@ Compartilhe para receber bitcoin:
 * [x] Endereço de recebimento
 * [ ] Senha
 
-### Explicação
+### Explanation
 
 Um endereço de recebimento pode ser compartilhado para pagamentos. Frases-semente, chaves privadas e senhas devem permanecer em segredo. Revise o Guia do Aluno, Módulo 3, “Endereços” e “Chaves”.
 
-## Pergunta 3
+## Question 3
 
 Frase-semente digitada on-line. Qual é o próximo passo mais seguro?
 
@@ -35,11 +35,11 @@ Frase-semente digitada on-line. Qual é o próximo passo mais seguro?
 * [x] Nova frase-semente, depois transferir os fundos
 * [ ] Reutilizar a frase-semente
 
-### Explicação
+### Explanation
 
 Considere comprometida uma frase-semente digitada on-line. Crie uma nova carteira com uma nova frase-semente e só então transfira os fundos, após verificar o destino. Revise o Guia do Aluno, Módulo 3, “Frases-semente”.
 
-## Pergunta 4
+## Question 4
 
 Qual é a principal diferença entre o uso custodial e o uso com autocustódia?
 
@@ -48,6 +48,6 @@ Qual é a principal diferença entre o uso custodial e o uso com autocustódia?
 * [ ] Limite de oferta
 * [ ] Taxas de transação
 
-### Explicação
+### Explanation
 
 O uso custodial e o uso com autocustódia diferem quanto a quem controla as chaves e assume a responsabilidade correspondente. Nenhum dos dois garante segurança ou reversibilidade. Revise o Guia do Aluno, Módulo 3, “Uso custodial e não custodial”.

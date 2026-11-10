@@ -1,7 +1,6 @@
 # Skep ’n veilige, aktiewe klaskamer
 
-<!-- card: callout -->
-> **Beskerm leerders voordat praktiese aktiwiteite begin**
+> **Callout – Beskerm leerders voordat praktiese aktiwiteite begin**
 >
 > Moet nooit ’n werklike saadfrase, privaat sleutel, wagwoord of onnodige finansiële inligting aanvra, bekyk, fotografeer, kopieer, aanteken of stoor nie. Moenie enigiemand onder druk plaas om bitcoin te koop, te verkoop, aan te hou of te gebruik nie. Staak die aktiwiteit wanneer ’n leerder onseker is, onder druk verkeer of aan moontlike bedrog blootgestel word.
 

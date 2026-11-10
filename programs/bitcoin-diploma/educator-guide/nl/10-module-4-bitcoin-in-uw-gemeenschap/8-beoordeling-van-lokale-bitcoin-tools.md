@@ -19,7 +19,6 @@ Demonstreer een tool niet alleen omdat deze lokaal populair is. Gebruik deze ver
 
 
 
-<!-- card: dark -->
-> **Lokale voorbeelden zijn geen wereldwijde aanbevelingen**
+> **Dark – Lokale voorbeelden zijn geen wereldwijde aanbevelingen**
 >
 > Deze tool is een gedateerd lokaal voorbeeld om van te leren. Het gebruik ervan in de les is geen wereldwijde aanbeveling van My First Bitcoin en ook geen belofte dat de tool geschikt zal blijven.

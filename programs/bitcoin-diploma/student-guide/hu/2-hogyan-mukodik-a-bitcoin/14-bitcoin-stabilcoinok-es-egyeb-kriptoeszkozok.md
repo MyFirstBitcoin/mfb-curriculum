@@ -7,7 +7,8 @@ Amikor összehasonlít bármilyen [digitális eszközt](https://curriculum.myfir
 Az alábbi összehasonlítás kategóriákat és tervezési döntéseket különböztet meg. Nem jelent támogatást vagy ajánlást, és nem állítja, hogy bármely [eszköz](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) biztonságos, megbízható vagy megfelelő lenne az Ön számára.
 
 
-<!-- card: dark -->
+> **Dark**
+>
 > Csalások, félrevezető állítások és nem biztonságos szolgáltatások bármely [digitális eszközt](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-asset) vagy fizetési módot érinthetnek. Ellenőrizze az adott [eszközt](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset), szolgáltatást és a [letétkezelésre](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) vonatkozó megállapodást, ahelyett, hogy egy kategóriát önmagában biztonságosnak vagy nem biztonságosnak tekintene.
 
 

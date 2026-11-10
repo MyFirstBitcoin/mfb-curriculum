@@ -3,8 +3,7 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) და [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) გზები განსხვავებულ [კომპრომისებს მოითხოვს](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). არცერთი სახელწოდება არ გამორიცხავს გულდასმით შეფასების საჭიროებას.
 
 
-<!-- card: callout -->
-> **კონფიდენციალურობა არ გამორიცხავს სამართლებრივ ან ფიზიკური უსაფრთხოების რისკებს**
+> **Callout – კონფიდენციალურობა არ გამორიცხავს სამართლებრივ ან ფიზიკური უსაფრთხოების რისკებს**
 >
 > არც [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) და არც [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) არ არის ავტომატურად საუკეთესო არჩევანი. შეადარეთ კონკრეტული გზები, თუ წესები გაურკვეველია, იხელმძღვანელეთ მოქმედი ადგილობრივი რეკომენდაციებით და ნუ დაარღვევთ ადგილობრივ კანონმდებლობას ან ნუ ჩაიგდებთ თავს ფიზიკურ საფრთხეში, მაშინაც კი, თუ თქვენი მიზანია [კონფიდენციალურობის დაცვა](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 

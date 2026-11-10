@@ -14,7 +14,6 @@ Nesmíte:
 Používejte například tuto formulaci:
 
 
-<!-- card: callout -->
-> **Aktuální místní pokyny, nikoli individuální poradenství**
+> **Callout – Aktuální místní pokyny, nikoli individuální poradenství**
 >
 > Na tento postup mohou mít vliv místní pravidla. Aktuální veřejně dostupné pokyny, které jsme ověřili dne [datum], uvádějí ________. Toto je shrnutí pro vzdělávací účely, nikoli rada pro konkrétní situaci. Otázky týkající se konkrétních případů by měl zodpovědět kvalifikovaný místní odborník nebo příslušný úřad.

@@ -3,7 +3,8 @@
 Moduli hii inahusu hatua za kwanza salama, si kuwa mtaalamu wala kuchukua hatari ya kifedha. Mtafanya mazoezi kwa kutumia maigizo yaliyoandaliwa, mazingira ya majaribio, pochi za mafunzo, au, pale mwalimu wenu atakapoona inafaa, shughuli halisi yenye hatari ndogo.
 
 
-<!-- card: dark -->
+> **Dark**
+>
 > Hamhitaji kununua au kupata bitcoin kwa njia nyingine yoyote, wala kutumia fedha zenu binafsi, ili kukamilisha Bitcoin Diploma.
 
 

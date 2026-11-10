@@ -4,7 +4,6 @@
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
-[A merchant who accepts Bitcoin works across four areas: marketing, training, accounting and sales.](/micrographics/merchant-payment-operations-01/en.md)
 
 
 A merchant needs more than a receive button. The full payment process may include pricing, staff training, receipts, refunds, [custody](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), conversion, accounting, taxes, device security, and support.

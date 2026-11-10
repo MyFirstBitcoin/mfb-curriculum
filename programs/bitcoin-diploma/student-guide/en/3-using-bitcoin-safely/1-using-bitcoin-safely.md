@@ -3,7 +3,8 @@
 This module is about safe first actions, not becoming an expert or taking financial risk. You will practice with prepared simulations, test environments, training wallets, or, where your educator judges it appropriate, a low-stakes live activity.
 
 
-<!-- card: dark -->
+> **Dark**
+>
 > You do not need to buy or otherwise acquire bitcoin, or use personal funds, to complete the Bitcoin Diploma.
 
 

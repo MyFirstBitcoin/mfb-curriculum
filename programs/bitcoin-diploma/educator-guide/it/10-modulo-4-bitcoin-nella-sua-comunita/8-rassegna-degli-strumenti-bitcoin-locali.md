@@ -19,7 +19,6 @@ Non presenti uno strumento solo perché è popolare a livello locale. Utilizzi q
 
 
 
-<!-- card: dark -->
-> **Gli esempi locali non sono raccomandazioni globali**
+> **Dark – Gli esempi locali non sono raccomandazioni globali**
 >
 > Questo strumento è un esempio locale, riferito a una data precisa, a scopo didattico. Il suo utilizzo in classe non costituisce una raccomandazione globale da parte di My First Bitcoin né una garanzia che rimarrà adeguato.

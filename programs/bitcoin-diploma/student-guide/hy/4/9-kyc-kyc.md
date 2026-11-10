@@ -3,8 +3,7 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) և [առանց KYC-ի](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) ուղիները ենթադրում են տարբեր [փոխզիջումներ](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off)։ Այս պիտակներից ոչ մեկը չի վերացնում մանրակրկիտ գնահատման անհրաժեշտությունը։
 
 
-<!-- card: callout -->
-> **Գաղտնիությունը չի վերացնում իրավական կամ ֆիզիկական անվտանգության ռիսկերը**
+> **Callout – Գաղտնիությունը չի վերացնում իրավական կամ ֆիզիկական անվտանգության ռիսկերը**
 >
 > Ո՛չ [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc), ո՛չ էլ [առանց KYC-ի](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) ուղին ինքնաբերաբար լավագույնը չէ։ Համեմատեք իրական ուղին, օգտվեք տեղական արդի խորհրդատվությունից, երբ կանոնները հստակ չեն, և մի՛ խախտեք տեղական օրենքները կամ Ձեզ ֆիզիկական վտանգի ենթարկեք հանուն [գաղտնիության](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy)։
 

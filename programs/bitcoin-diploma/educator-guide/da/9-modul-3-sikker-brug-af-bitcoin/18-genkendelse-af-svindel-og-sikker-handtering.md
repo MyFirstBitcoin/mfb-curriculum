@@ -19,7 +19,6 @@ Brug standardreaktionen:
 
 
 <!-- micrographic: scam-red-flags-01 -->
-[Fem advarselstegn på svindel: tidspres, identitetssvindel, en ændret destination, garanteret afkast og anmodninger om hemmelige oplysninger.](/micrographics/scam-red-flags-01/da.md)
 
 
 #### Aktivitet: svindelstationer
