@@ -3,6 +3,7 @@
 ![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
+<!-- card: definition -->
 > **Definition – Prueba de trabajo**
 >
 > [La prueba de trabajo](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) es el proceso que los [mineros](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) utilizan para competir por el derecho a proponer el siguiente bloque.
@@ -14,6 +15,7 @@ Cuando un [minero](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) encu
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Un minero calcula hashes de un bloque propuesto una y otra vez hasta que un resultado es inferior al objetivo de la red y luego difunde el bloque. Los nodos verifican rápidamente la prueba y el cumplimiento de cada regla antes de que el bloque se incorpore a la cadena de bloques: el trabajo es costoso de realizar y fácil de verificar.](/micrographics/proof-of-work-process-01/es-419.md)
 
 
 [La prueba de trabajo](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) cumple varias funciones:

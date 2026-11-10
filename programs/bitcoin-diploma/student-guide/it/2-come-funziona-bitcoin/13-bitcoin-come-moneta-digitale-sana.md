@@ -6,6 +6,7 @@ Bitcoin combina proprietà che in precedenza non coesistevano in un unico [asset
 
 
 <!-- micrographic: bitcoin-money-properties-01 -->
+[Bitcoin riunisce in un unico bene sette proprietà della moneta: durabilità, portabilità, divisibilità, fungibilità, scarsità, verificabilità e accettabilità. Ognuna ha limiti pratici, come la necessità di custodire le chiavi in modo sicuro e un'accettazione ancora bassa in molte comunità.](/micrographics/bitcoin-money-properties-01/it.md)
 
 
 

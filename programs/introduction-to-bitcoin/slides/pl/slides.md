@@ -40,7 +40,8 @@ Nie chodzi o zarabianie go ani wydawanie, lecz o zastanawianie się, czym jest i
 * Czy za swoje pieniądze mogą Państwo kupić tyle samo co wcześniej?
 
 
-> **Callout – Proszę zachować swoje odpowiedzi**
+<!-- card: callout -->
+> **Proszę zachować swoje odpowiedzi**
 >
 > Proszę napisać krótką odpowiedź na każde pytanie. Wrócą Państwo do nich na końcu.
 
@@ -85,6 +86,7 @@ Obie osoby muszą chcieć tego, co ma druga osoba, w tym samym czasie i w odpowi
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina ma ryż i chce buty, Luis ma buty i chce olej spożywczy, a Mei ma olej spożywczy i chce skorzystać z usług naprawczych. Żadna para nie może dokonać bezpośredniej wymiany, ponieważ żadna z osób w parze nie chce tego, co oferuje druga.](/micrographics/barter-mismatch-01/pl.md)
 
 <!-- notes: Proszę posłużyć się przykładem z przewodnika: uprawiają Państwo ryż i potrzebują butów, ale szewc chce oleju spożywczego, a nie ryżu. Ekonomiści nazywają to podwójną zbieżnością potrzeb. -->
 
@@ -151,6 +153,7 @@ Kiedy ludzie słyszą słowo „inflacja”, zwykle myślą o wzroście cen.
 ## Inflacja i siła nabywcza
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Za te same 100 jednostek waluty można kupić cały koszyk podstawowych dóbr, gdy kosztuje on 100, ale nie wtedy, gdy ten sam koszyk kosztuje 110. Poziom cen wzrósł, a siła nabywcza pieniądza spadła.](/micrographics/same-money-smaller-basket-01/pl.md)
 
 <!-- notes: Inflacja cen to utrzymujący się wzrost ogólnego poziomu cen. Jej drugą stroną jest siła nabywcza, czyli to, ile można kupić za jednostkę pieniądza. Jeśli cena koszyka podstawowych dóbr wzrasta ze 100 do 110 jednostek waluty, za te same 100 jednostek nie można już kupić całego koszyka. -->
 
@@ -213,8 +216,7 @@ Saldo na rachunku bankowym różni się od gotówki w Państwa ręku: jest obiet
 * Jednak jego podaż i zasady mogą się zmieniać, a osoby, które z niego korzystają, mają niewiele do powiedzenia
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Dlatego ludzie szukają alternatyw i dlatego powstał Bitcoin.
 
 ---
@@ -233,6 +235,7 @@ Pieniądz cyfrowy, który jest zdecentralizowany, ma ograniczoną podaż i może
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[W przypadku firmy płatniczej jedna organizacja prowadzi rejestr i zatwierdza każdy przelew. W sieci Bitcoin nadawca podpisuje transakcję, niezależne węzły ją weryfikują, a górnicy dodają ją do jednego wspólnego rejestru, dzięki czemu odbiorca jest mniej zależny od centralnego organu.](/micrographics/central-ledger-vs-bitcoin-01/pl.md)
 
 <!-- notes: Przed powstaniem Bitcoina przesyłanie pieniędzy przez internet zawsze wymagało zaufanej instytucji: banku lub firmy płatniczej, która prowadziła księgę transakcji, zatwierdzała konta i mogła opóźnić, zablokować lub cofnąć płatność. Informacje cyfrowe łatwo skopiować: gdyby cyfrową monetę można było wydać dwukrotnie, nie mogłaby pełnić funkcji pieniądza. To problem podwójnego wydatkowania. Satoshi Nakamoto to osoba lub grupa posługująca się tym imieniem i nazwiskiem. -->
 
@@ -253,6 +256,7 @@ Pieniądz cyfrowy, który jest zdecentralizowany, ma ograniczoną podaż i może
 ## Limit, który każdy może sprawdzić
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Limit podaży zapisany na stronie internetowej lub w bazie danych emitenta może zostać przez niego po cichu zmieniony. Reguła podaży Bitcoina jest publiczna, a podpisy, publiczna historia, dowód pracy i weryfikacja przez węzły wspólnie zapobiegają tworzeniu monet niezgodnie z regułami oraz dwukrotnemu wydaniu tego samego bitcoina.](/micrographics/claimed-or-verified-supply-01/pl.md)
 
 <!-- notes: Nowe bitcoiny są emitowane zgodnie z publicznie znanym harmonogramem, a niezależne komputery zwane węzłami odrzucają każdy blok, który narusza tę zasadę. Limit jest wiarygodny, ponieważ każdy może go zweryfikować. Nie jest to prawo natury: obowiązuje dlatego, że uczestnicy stale go egzekwują. Ograniczona podaż nie gwarantuje wzrostu ceny; cena zależy zarówno od popytu, jak i od podaży. -->
 
@@ -264,6 +268,7 @@ Jeden bitcoin dzieli się na 100 000 000 mniejszych jednostek zwanych satoshi lu
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Tabela z dwiema kolumnami: 1 BTC to 100 000 000 sats, 0,1 BTC to 10 000 000 sats, 0,01 BTC to 1 000 000 sats, 0,001 BTC to 100 000 sats, a 0,00000001 BTC to 1 sat.](/micrographics/bitcoin-and-sats-01/pl.md)
 
 <!-- notes: Posiadanie 100 000 sats i posiadanie 0,001 bitcoin oznacza tę samą kwotę. Proszę wyjaśnić błędne przekonanie, że Bitcoin jest poza zasięgiem, ponieważ jeden bitcoin jest drogi. -->
 
@@ -272,6 +277,7 @@ Jeden bitcoin dzieli się na 100 000 000 mniejszych jednostek zwanych satoshi lu
 ## Kto dba o działanie Bitcoina?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Cztery role w sieci Bitcoin: użytkownicy odbierają, przechowują i wysyłają bitcoin, węzły niezależnie sprawdzają zgodność z regułami, górnicy tworzą bloki kandydujące z dowodem pracy, a programiści proponują oprogramowanie. Żadna pojedyncza rola nie kontroluje sieci.](/micrographics/bitcoin-participant-roles-01/pl.md)
 
 <!-- notes: Użytkownicy wysyłają, odbierają i przechowują bitcoiny; węzły sprawdzają zgodność każdej transakcji i każdego bloku z regułami; górnicy rywalizują o dodanie nowego bloku do rejestru mniej więcej co dziesięć minut. Ten rejestr, czyli łańcuch bloków, jest publiczny, a zmiana jego historii jest bardzo kosztowna. Uwaga dotycząca pisowni: Bitcoin pisany wielką literą B zwykle oznacza sieć lub system; bitcoin pisany małą literą b oznacza same pieniądze. -->
 
@@ -307,6 +313,7 @@ Pierwsze pytanie dotyczące każdego portfela: kto kontroluje klucze?
 ## Portfel zarządza kluczami
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Portfel przechowuje klucze. Dzięki nim mogą Państwo odbierać i wysyłać bitcoiny, podczas gdy same bitcoiny pozostają zapisane we wspólnym rejestrze, a nie w telefonie czy urządzeniu.](/micrographics/wallet-manages-keys-01/pl.md)
 
 <!-- notes: Portfel Bitcoin to narzędzie, zwykle aplikacja, które umożliwia Państwu odbieranie bitcoinów, sprawdzanie salda i wysyłanie bitcoinów. Państwa bitcoiny nie są przechowywane w telefonie: są zapisane w łańcuchu bloków. Portfel zarządza kluczami, które pozwalają Państwu udowodnić, że bitcoiny należą do Państwa, i autoryzować płatność. -->
 
@@ -331,6 +338,7 @@ Uporządkowana lista słów, zwykle 12 lub 24, która pozwala odtworzyć Państw
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Fraza odzyskiwania to uporządkowana lista słów — tutaj dwanaście ponumerowanych przykładowych słów zapisanych na papierze. Właściwe słowa we właściwej kolejności pozwalają odzyskać kontrolę w kompatybilnym portfelu, dlatego fraza musi pozostać tajna i być przechowywana offline.](/micrographics/seed-phrase-on-paper-01/pl.md)
 
 <!-- notes: Fraza odzyskiwania to nie tylko kopia zapasowa — daje pełny dostęp do portfela. Podczas tworzenia portfela proszę zapisać ją dokładnie na papierze i przechowywać poza internetem, w tajemnicy i w miejscu, w którym nie zostanie zgubiona ani uszkodzona. Proszę nigdy jej nie fotografować, nie wysyłać e-mailem, nie zapisywać w notatkach w chmurze, nie przesyłać w wiadomościach ani nie wpisywać na żadnej stronie internetowej. Przedstawione słowa są jedynie przykładem; proszę nigdy nie pokazywać ani nie zbierać prawdziwych fraz odzyskiwania. -->
 
@@ -365,6 +373,7 @@ Uporządkowana lista słów, zwykle 12 lub 24, która pozwala odtworzyć Państw
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Płatności on-chain są zapisywane bezpośrednio w łańcuchu bloków Bitcoina, natomiast Lightning to sieć płatnicza zbudowana na Bitcoinie, umożliwiająca szybkie i częste płatności, które mogą się również nie powieść. Oba rozwiązania mogą działać z udziałem powiernika lub z samodzielnym zarządzaniem środkami.](/micrographics/on-chain-and-lightning-01/pl.md)
 
 ---
 
@@ -375,7 +384,8 @@ Uporządkowana lista słów, zwykle 12 lub 24, która pozwala odtworzyć Państw
 * **Proszę nie ufać, lecz weryfikować.** Proszę sprawdzić osobę, metodę płatności, adres i kwotę.
 
 
-> **Callout – Proszę udostępniać dane do odbioru płatności, ale nigdy poufnych informacji**
+<!-- card: callout -->
+> **Proszę udostępniać dane do odbioru płatności, ale nigdy poufnych informacji**
 >
 > Adres lub żądanie płatności można udostępniać. Frazy odzyskiwania ani klucza prywatnego nie wolno nigdy udostępniać. Żaden rzetelny edukator, firma oferująca portfel ani pracownik pomocy technicznej nigdy nie poprosi o ich podanie.
 
@@ -389,6 +399,7 @@ Proszę się zatrzymać, jeśli ktoś wywiera presję czasu lub nalega na zachow
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Pięć sygnałów ostrzegawczych oszustwa: presja czasu, podszywanie się pod innych, zmiana adresu docelowego, gwarantowane zyski i prośby o poufne informacje.](/micrographics/scam-red-flags-01/pl.md)
 
 ---
 
@@ -408,7 +419,8 @@ To dopiero początek.
 * **To dopiero początek.** Wystarczy jeden bezpieczny krok naprzód.
 
 
-> **Callout – Chwila na refleksję**
+<!-- card: callout -->
+> **Chwila na refleksję**
 >
 > Proszę wrócić do pięciu pytań z początku. Jak odpowiedzieliby Państwo teraz?
 

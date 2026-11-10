@@ -14,3 +14,4 @@ Käyttäkää useimpien käsitteiden kohdalla seuraavaa järjestystä:
 
 
 <!-- micrographic: learning-rhythm-01 -->
+[Opettaja määrittää tarkoituksen, aktivoi aiemmat käsitykset, selittää, tarkistaa ymmärtämisen, ohjaa soveltamista, kannustaa itsenäiseen tuottamiseen, purkaa opitun, kutsuu pohtimaan ja yhdistää asian seuraavaan käsitteeseen. Epäselvät vastaukset ohjaavat takaisin selittämiseen tai harjoitteluun.](/micrographics/learning-rhythm-01/fi.md)

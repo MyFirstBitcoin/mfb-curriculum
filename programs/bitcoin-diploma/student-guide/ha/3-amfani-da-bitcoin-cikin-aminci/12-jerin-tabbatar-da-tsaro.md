@@ -6,6 +6,7 @@ Me zai sa ku dakata kafin biyan kuɗi ko girka manhaja? Ku ɗauki waɗannan a ma
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Alamomin gargaɗi guda biyar na zamba: gaggawa, yin amfani da sunan wani, sauya inda za a aika, tabbatacciyar riba da neman bayanan sirri.](/micrographics/scam-red-flags-01/ha.md)
 
 
 Amsar da ta dace don tsaro a koyaushe ita ce: **Ku dakata. Kada ku raba komai. Kada ku aika komai. Ku rufe hanyar sadarwar. Ku tabbatar da kanku ta hanyar majiya sananniya. Ku nemi taimako ba tare da tona asirai ba.** Majiya sananniya ita ce shafin hukuma, bayanin manhaja a shagon manhajoji, ko hanyar tuntuɓa da kuka samo da kanku, ba ta hanyar talla, saƙon kai tsaye, ko mahaɗin da ba ku yi tsammani ba. Ku bincika mai wallafawa da adireshin yanar gizon, ku kwatanta su da bayanan hukuma, kuma ku nemo bayanan tuntuɓa ta wata hanya dabam. Idan majiyar, umarnin, ko bayanan biyan kuɗin sun bambanta da tsarin da aka nuna muku, ku dakata ku nemi taimako daga malaminku ko amintaccen mai ba da tallafi a yankinku ba tare da bayyana [jerin kalmomin dawo da walat](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) ko [maɓallin sirri](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key). Dama ta gaskiya ba za ta gushe saboda an bincika ta a hankali ba; zamba kuwa sau da yawa tana dogara ne ga hana irin wannan bincike.

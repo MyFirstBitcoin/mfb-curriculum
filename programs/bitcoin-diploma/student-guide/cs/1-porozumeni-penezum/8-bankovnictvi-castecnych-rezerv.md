@@ -6,11 +6,13 @@ Když komerční banka schválí úvěr, obvykle vytvoří nový vklad na účtu
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Zjednodušené znázornění bankovního úvěru: dlužník podá žádost, banka úvěr schválí a připíše na účet dlužníka nový vklad a dlužník později splatí bance jistinu spolu s úroky.](/micrographics/bank-loan-deposit-01/cs.md)
 
 
 Banky obecně usilují o [zisk](https://curriculum.myfirstbitcoin.org/lexicon/en/#bank-profit) tím, že inkasují úroky a poplatky z úvěrů a investic, přičemž hradí své provozní náklady, náklady na financování a dodržování regulatorních požadavků a nesou ztráty, když dlužníci nesplácejí. Tyto činnosti a omezení se liší podle banky a jurisdikce.
 
 
+<!-- card: definition -->
 > **Definition – Bankovnictví částečných rezerv**
 >
 > [Bankovnictví částečných rezerv](https://curriculum.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking) označuje bankovní systém, v němž banky drží pouze část svých závazků z vkladů ve formě okamžitě dostupných rezerv a zároveň poskytují úvěry a drží další [aktiva](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset). Požadovaná úroveň rezerv a další omezení se mezi jednotlivými zeměmi liší a mohou se v průběhu času měnit.
@@ -23,6 +25,7 @@ To vytváří dvě významná rizika:
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Riziko likvidity: mnoho vkladatelů dnes stojí ve frontě na výběr peněz a banka nyní nemá dostatek hotovosti, přestože její úvěry mohou být splaceny později. Riziko platební neschopnosti: dlužníci nesplácejí úvěry na bydlení a hodnota aktiv banky klesá pod výši jejích závazků.](/micrographics/liquidity-vs-solvency-01/cs.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)

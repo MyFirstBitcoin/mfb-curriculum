@@ -11,6 +11,7 @@ Bitcoin was niet de eerste poging tot digitaal geld. Het bouwde voort op vier de
 Samen lieten deze experimenten nuttige stukjes van de puzzel zien. Ze maakten ook duidelijk welk probleem nog overbleef.
 
 
+<!-- card: definition -->
 > **Definition – Dubbel uitgeven**
 >
 > [Dubbel uitgeven](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending) is een poging om dezelfde digitale eenheid naar twee ontvangers te sturen. Digitale gegevens kunnen perfect worden gekopieerd, dus een digitaal geldsysteem heeft een manier nodig om vast te stellen welke [transactie](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) geldig is.
@@ -28,6 +29,7 @@ De whitepaper bracht de kenmerken samen die voor die aanpak nodig waren:
 
 
 <!-- micrographic: five-part-response-01 -->
+[Vijf onderdelen vormen samen het antwoord op het double-spendprobleem: een peer-to-peernetwerk, digitale handtekeningen, blokken en Mining, onafhankelijke verificatie en een gedeelde geschiedenis met de meeste geaccumuleerde proof of work. Samen stellen ze het netwerk in staat een tweede uitgave te weigeren zonder centrale autoriteit.](/micrographics/five-part-response-01/nl.md)
 
 
 Deze module legt deze concepten uitgebreider uit. Samen boden ze een praktisch antwoord op het [Double Spend-probleem](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): het netwerk kan een tweede poging om dezelfde bitcoin uit te geven afwijzen zonder afhankelijk te zijn van een centrale autoriteit. Bitcoin bood de ontbrekende combinatie waarnaar decennia aan experimenten met digitaal geld op zoek waren geweest.

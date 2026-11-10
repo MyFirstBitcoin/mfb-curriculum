@@ -4,12 +4,14 @@ Use três pessoas com bens e desejos incompatíveis. Primeiro, deixe o grupo ten
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina tem arroz e quer sapatos, Luis tem sapatos e quer óleo de cozinha, e Mei tem óleo de cozinha e quer serviços de conserto. Nenhuma dupla consegue trocar diretamente, porque nenhuma das pessoas de cada dupla quer o que a outra oferece.](/micrographics/barter-mismatch-01/pt-BR.md)
 
 
 Em seguida, introduza um meio de troca amplamente aceito.
 
 
 <!-- micrographic: sell-then-buy-01 -->
+[Amina vende arroz a uma pessoa em troca de um dinheiro amplamente aceito e, depois, usa esse dinheiro para comprar sapatos de outra pessoa. Vender e comprar tornam-se ações separadas.](/micrographics/sell-then-buy-01/pt-BR.md)
 
 
 Pergunte:

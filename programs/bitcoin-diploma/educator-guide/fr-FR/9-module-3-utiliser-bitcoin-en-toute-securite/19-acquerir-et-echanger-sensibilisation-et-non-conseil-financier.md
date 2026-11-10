@@ -24,6 +24,7 @@ Pour chaque option, posez les questions suivantes :
 
 
 <!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Une personne peut recevoir des bitcoins de quatre façons différentes : en les gagnant par son travail ou des ventes, en échangeant des espèces en monnaie locale avec une autre personne, en utilisant une plateforme d’échange ou un courtier, ou en utilisant un distributeur automatique. Chaque voie aboutit à une détention en propre ou à un solde détenu par un tiers, et aucune n’est recommandée par rapport aux autres.](/micrographics/ways-to-receive-bitcoin-01/fr-FR.md)
 
 
 Utilisez [**no-KYC**](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) de manière cohérente pour désigner une option qui collecte moins d’informations d’identité standard, voire aucune. Ne laissez pas entendre que [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) élimine les risques de fraude, les risques juridiques, les risques de contrepartie ou les risques pour la sécurité physique. Ne conseillez pas de contourner la législation locale.

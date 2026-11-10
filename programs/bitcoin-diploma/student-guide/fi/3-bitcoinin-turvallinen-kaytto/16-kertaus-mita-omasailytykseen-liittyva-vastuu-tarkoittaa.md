@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: self-custody-responsibilities-01 -->
+[Avainten hallinta on kahdeksan vastuualueen keskiössä: varmuuskopiointi, palautus, vastaanottaminen, lähettäminen, työkalun valinta, hankintatapa, yksityisyys ja huijausten tunnistaminen. Jokainen niistä suojaa jotakin, ja epäonnistuminen missä tahansa niistä voi viedä pääsyn varoihin, rahaa tai yksityisyyden.](/micrographics/self-custody-responsibilities-01/fi.md)
 
 
 
 <!-- micrographic: responsibility-checks-01 -->
+[Taulukko kuudesta omasäilytykseen liittyvästä tehtävästä, kussakin suojattavista tai tarkistettavista asioista sekä siitä, mitä voi tapahtua, jos jokin menee pieleen: varmuuskopiointi, vastaanottaminen, lähettäminen, säilytys, työkalun valinta ja hankinta.](/micrographics/responsibility-checks-01/fi.md)
 
 
 Kuvitelkaa, että ystävä lähettää teille maksupyynnön samalla kun tuntematon tukitili väittää, että teidän on toimittava välittömästi. Mitä voisitte tarkistaa ennen kuin teette mitään? Osaatteko suojata palautussuunnitelman, erottaa vastaanottamiseen tarvittavat tiedot salassa pidettävistä tiedoista ja tarkistaa henkilön, maksutavan, kohteen, summan ja viimeisen näkymän ennen lähettämistä? Riippumatta siitä, hallitseeko avaimia palvelu vai te itse, käytännön yhteenveto on sama: suojatkaa salassa pidettävät tiedot, tarkistakaa ennen hyväksymistä, tunnistakaa huijausten varoitusmerkit ja pitäkää virheiden seuraukset pieninä opetellessanne.

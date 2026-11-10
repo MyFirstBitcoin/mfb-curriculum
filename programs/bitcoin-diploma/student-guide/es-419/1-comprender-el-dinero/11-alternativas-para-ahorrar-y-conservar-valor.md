@@ -4,6 +4,7 @@ Las personas suelen buscar alternativas a mantener dinero en efectivo cuando cre
 
 
 <!-- micrographic: saving-alternatives-table-01 -->
+[Una tabla de tres alternativas a mantener dinero en efectivo (metales preciosos, bienes raíces y acciones), cada una con las razones por las que las personas pueden elegirla y sus desventajas importantes. Ninguna se presenta como superior a las demás.](/micrographics/saving-alternatives-table-01/es-419.md)
 
 
 Un [activo](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) es algo que una persona puede poseer o reclamar y que puede tener [valor](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); no cumple automáticamente todas las funciones del dinero. Una vivienda puede conservar [valor](https://curriculum.myfirstbitcoin.org/lexicon/en/#value), pero no es práctica para comprar alimentos. Una acción puede ser fácil de vender en un país, pero no estar disponible para alguien que no tenga una cuenta de corretaje. [El oro](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) ha servido como dinero durante largos períodos de la historia, pero puede ser difícil verificarlo o dividirlo en un intercambio de poco valor.

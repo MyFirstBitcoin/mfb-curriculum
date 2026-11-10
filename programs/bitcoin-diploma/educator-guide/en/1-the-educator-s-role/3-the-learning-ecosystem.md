@@ -13,3 +13,4 @@ Each part of the Bitcoin Diploma has a distinct function.
 
 
 <!-- micrographic: learning-ecosystem-map-01 -->
+[The Student Guide supplies explanations, the Educator Guide supports teaching, and selected Resources Hub activities support practice. The Assessment Grid holds private assessment results.](/micrographics/learning-ecosystem-map-01/en.md)

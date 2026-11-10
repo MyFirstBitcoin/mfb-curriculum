@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: self-custody-responsibilities-01 -->
+[Le contrôle des clés est au centre de huit responsabilités : sauvegarde, récupération, réception, envoi, choix des outils, mode d’acquisition, confidentialité et détection des arnaques. Chacune protège quelque chose, et une défaillance dans l’une d’elles peut entraîner une perte d’accès, de monnaie ou de confidentialité.](/micrographics/self-custody-responsibilities-01/fr-FR.md)
 
 
 
 <!-- micrographic: responsibility-checks-01 -->
+[Un tableau de six tâches liées à l’auto-garde, des éléments à protéger ou à vérifier pour chacune et des conséquences possibles en cas de problème : sauvegarde, réception, envoi, garde, choix des outils et acquisition.](/micrographics/responsibility-checks-01/fr-FR.md)
 
 
 Imaginez qu’un ami vous envoie une demande de paiement tandis qu’un compte d’assistance que vous ne connaissez pas vous dit d’agir immédiatement. Que pourriez-vous vérifier avant de faire quoi que ce soit ? Pouvez-vous protéger un plan de récupération, distinguer les informations de réception des informations secrètes et vérifier la personne, le mode de paiement, la destination, le montant et l’écran final avant d’envoyer ? Que ce soit un service ou vous qui contrôliez les clés, les conseils pratiques restent les mêmes : protégez les informations secrètes, vérifiez avant d’approuver, repérez les signes d’arnaque et limitez les conséquences de vos erreurs pendant votre apprentissage.

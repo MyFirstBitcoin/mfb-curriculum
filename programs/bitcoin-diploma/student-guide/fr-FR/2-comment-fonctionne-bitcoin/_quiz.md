@@ -9,7 +9,7 @@ Une même unité numérique sert à payer deux fois. Le système doit :
 * [ ] Augmenter son prix
 * [ ] Supprimer les frais
 
-### Explanation
+### Explication
 
 Les informations numériques peuvent être copiées. Un système monétaire doit donc empêcher qu’une même unité soit dépensée deux fois et déterminer quelle transaction est valide. Consultez le Guide de l’étudiant, module 2, « Les premières tentatives de monnaie numérique et le problème de la double dépense ».
 
@@ -22,7 +22,7 @@ La décentralisation de Bitcoin signifie :
 * [ ] Les mineurs modifient librement les règles
 * [ ] Tout le monde a la même influence
 
-### Explanation
+### Explication
 
 Bitcoin répartit la vérification et l’application des règles entre des participants indépendants. La décentralisation ne signifie pas qu’une seule entreprise contrôle le réseau ni que tout le monde a la même influence. Consultez le Guide de l’étudiant, module 2, « La décentralisation ».
 
@@ -35,7 +35,7 @@ Un nœud Bitcoin :
 * [ ] Stocke du bitcoin
 * [ ] Garantit le paiement
 
-### Explanation
+### Explication
 
 Les nœuds vérifient de manière indépendante le respect des règles de Bitcoin et rejettent les données invalides. Ils ne créent pas de bitcoin à la demande et ne stockent pas de bitcoin dans un téléphone. Consultez le Guide de l’étudiant, module 2, « Utilisateurs, nœuds et mineurs ».
 
@@ -48,6 +48,6 @@ Pourquoi qualifier Bitcoin de monnaie saine ?
 * [ ] Une seule entreprise le contrôle
 * [ ] Les paiements sont confidentiels
 
-### Explanation
+### Explication
 
 Certaines personnes qualifient Bitcoin de monnaie saine parce que les règles régissant son offre sont publiques et que son émission est limitée. Il s’agit d’un jugement argumenté, et non d’une promesse concernant son prix ou la confidentialité. Consultez le Guide de l’étudiant, module 2, « Bitcoin comme monnaie numérique saine ».

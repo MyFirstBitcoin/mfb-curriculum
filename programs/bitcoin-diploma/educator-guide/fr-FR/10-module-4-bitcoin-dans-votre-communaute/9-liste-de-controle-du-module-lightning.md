@@ -13,10 +13,12 @@ Avant un atelier Lightning, vérifiez et expliquez :
 * la simulation hors ligne.
 
 
-> **Dark – Un paiement Lightning réussi prouve uniquement que cet itinéraire a fonctionné une fois**
+<!-- card: dark -->
+> **Un paiement Lightning réussi prouve uniquement que cet itinéraire a fonctionné une fois**
 >
 > Cela ne prouve pas que le portefeuille est sûr pour des soldes plus importants ni que le même itinéraire fonctionnera partout.
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Un paiement Lightning en six étapes : le destinataire crée une demande, l’expéditeur la scanne, vérifie le destinataire, le montant, l’unité, l’expiration et les frais, puis approuve le paiement. Le paiement est acheminé et les deux portefeuilles affichent le résultat. Chaque portefeuille peut être dépositaire ou en autogarde, et un paiement échoué ou expiré nécessite de recommencer avec une nouvelle demande.](/micrographics/lightning-payment-sequence-01/fr-FR.md)

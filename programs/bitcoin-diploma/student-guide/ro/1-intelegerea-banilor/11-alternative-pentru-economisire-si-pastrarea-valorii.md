@@ -4,6 +4,7 @@ Oamenii caută adesea alternative la păstrarea numerarului atunci când cred c�
 
 
 <!-- micrographic: saving-alternatives-table-01 -->
+[Un tabel cu trei alternative la deținerea de numerar (metale prețioase, proprietăți imobiliare și acțiuni), fiecare prezentată prin motivele pentru care oamenii ar putea să o aleagă și compromisurile importante pe care le implică. Niciuna nu este clasată deasupra celorlalte.](/micrographics/saving-alternatives-table-01/ro.md)
 
 
 Un [activ](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) este ceva ce o persoană poate deține sau revendica și care poate avea [valoare](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); acesta nu îndeplinește automat toate funcțiile banilor. O locuință poate păstra [valoare](https://curriculum.myfirstbitcoin.org/lexicon/en/#value), dar nu este practică pentru cumpărarea alimentelor. O acțiune poate fi ușor de vândut într-o țară, dar inaccesibilă unei persoane fără un cont de brokeraj. [Aurul](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) a fost folosit ca bani de-a lungul unor perioade îndelungate din istorie, dar poate fi dificil de verificat sau de divizat în cadrul unui schimb de mică valoare.

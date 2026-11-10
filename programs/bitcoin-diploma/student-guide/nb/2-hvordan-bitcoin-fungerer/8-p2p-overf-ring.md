@@ -8,6 +8,7 @@ Likemann-til-likemann betyr ikke alltid at bare to datamaskiner kommuniserer dir
 
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[En avsender signerer en transaksjon og kringkaster den til mange nettverksnoder, som videresender den til den når mottakeren. Ingen sentral Bitcoin-operatør må godkjenne avsenderen eller mottakeren.](/micrographics/peer-to-peer-route-01/nb.md)
 
 
 Brukere kan fortsatt velge [mellomledd](https://curriculum.myfirstbitcoin.org/lexicon/en/#intermediary). En børs kan oppbevare bitcoin for kunder. En betalingstjeneste kan forenkle en faktura. En lommebok som driftes av en tjenesteleverandør, kan administrere nøkler. Disse tjenestene kan være praktiske, men brukeren blir da avhengig av tjenestens regler og sikkerhet.

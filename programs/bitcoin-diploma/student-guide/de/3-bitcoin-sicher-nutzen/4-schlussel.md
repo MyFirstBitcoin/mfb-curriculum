@@ -3,6 +3,7 @@
 Bitcoin-Eigentum wird durch kryptografische Schlüssel durchgesetzt.
 
 
+<!-- card: definition -->
 > **Definition – Privater Schlüssel**
 >
 > Ein [privater Schlüssel](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) ist eine geheime Information, mit der eine Wallet gültige [digitale Signaturen](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) erstellen kann. Eine Signatur autorisiert das Ausgeben von bitcoin, die durch den zugehörigen Schlüssel kontrolliert werden. Wer den [privaten Schlüssel](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) erlangt, kann diese Mittel in der Regel ausgeben.
@@ -21,10 +22,10 @@ Die meisten Wallets für Einsteiger verwenden [Single-Signature](https://curricu
 Keine seriöse Lehrkraft, kein Wallet-Unternehmen, kein Mitarbeiter einer Börse, kein technischer Support und kein Bitcoin-Entwickler braucht Ihren [privaten Schlüssel](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) oder Ihre [Seed-Phrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase). Jede Person, die danach fragt, sollte als Bedrohung behandelt werden.
 
 
-> **Light**
->
+<!-- card: light -->
 > **Probieren Sie es aus:** Ordnen Sie vorbereitete Beispiele drei Gruppen zu: unbedenklich zum Empfangen weiterzugeben, geheime Informationen zum Ausgeben sowie Informationen, die zwar öffentlich sein können, aber dennoch privat gehalten werden sollten, wenn sie mit einer Person verknüpft sind.
 
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[Ein geheimer privater Schlüssel, der niemals weitergegeben werden darf, führt zu öffentlichen Informationen, die weitergegeben werden können: einem daraus abgeleiteten öffentlichen Schlüssel und einer daraus erstellten Empfangsadresse. Derselbe private Schlüssel erzeugt Signaturen, die Nodes prüfen, ohne den privaten Schlüssel jemals zu erfahren.](/micrographics/private-key-public-info-01/de.md)

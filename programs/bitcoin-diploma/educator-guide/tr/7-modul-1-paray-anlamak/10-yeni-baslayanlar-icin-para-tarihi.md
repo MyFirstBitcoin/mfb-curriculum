@@ -12,6 +12,7 @@ Tek bir ilerleme oku yerine katmanlı ya da iç içe geçmiş bir zaman çizelge
 
 
 <!-- micrographic: forms-of-money-01 -->
+[Altı para biçimi, ortaya çıkış sırasına göre soldan sağa yer alır: doğrudan değiş tokuş, emtia para, standart madeni paralar, temsili kâğıt para, banka ve devlet parası ve dijital para. Her yeni biçim daha sonra başlar, eski biçimler ise onunla yan yana varlığını sürdürür; dolayısıyla biri diğerinin yerini almak yerine birçok biçim bir arada var olur.](/micrographics/forms-of-money-01/tr.md)
 
 
 Yerel eklemeler yapılmasını teşvik edin. Bir biçimin diğerinin yerini tamamen aldığını varsaymak yerine hangi biçimlerin bir arada var olduğunu sorun.

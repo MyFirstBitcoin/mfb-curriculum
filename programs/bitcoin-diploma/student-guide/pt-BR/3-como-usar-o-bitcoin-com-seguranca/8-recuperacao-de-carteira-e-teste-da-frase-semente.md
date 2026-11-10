@@ -8,6 +8,7 @@ Uma prática segura de preparação para a recuperação é simples:
 
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[Uma prática em seis etapas para recuperar uma carteira de treinamento: siga as instruções oficiais, verifique a compatibilidade, trabalhe com privacidade, use o método de recuperação aprovado, confirme a carteira esperada e, em seguida, redefina. Use somente materiais preparados, vazios ou simulados; o educador nunca vê as palavras de recuperação.](/micrographics/practice-wallet-recovery-01/pt-BR.md)
 
 
 Não use uma carteira de treinamento nem as suas informações de recuperação para proteger fundos significativos após o Diploma. Uma carteira pessoal, caso você decida criar uma mais tarde, precisa de uma nova configuração privada e de novas informações de recuperação.

@@ -40,7 +40,8 @@ Nie om dit te verdien of dit te bestee nie, maar om na te dink oor wat dit is en
 * Koop u geld dieselfde hoeveelheid as voorheen?
 
 
-> **Callout – Bewaar u antwoorde**
+<!-- card: callout -->
+> **Bewaar u antwoorde**
 >
 > Skryf 'n kort antwoord op elke vraag. U sal aan die einde daarna terugkeer.
 
@@ -85,6 +86,7 @@ Albei persone moet terselfdertyd en in gepaste hoeveelhede wil hê wat die ander
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina het rys en wil skoene hê, Luis het skoene en wil kookolie hê, en Mei het kookolie en wil herstelwerk laat doen. Geen paar kan direk met mekaar handel dryf nie, want nie een van die twee wil hê wat die ander aanbied nie.](/micrographics/barter-mismatch-01/af.md)
 
 <!-- notes: Gebruik die voorbeeld in die gids: u verbou rys en het skoene nodig, maar die skoenmaker wil kookolie hê, nie rys nie. Ekonome noem dit die dubbele ooreenstemming van behoeftes. -->
 
@@ -151,6 +153,7 @@ Wanneer mense die woord inflasie hoor, dink hulle gewoonlik aan pryse wat styg.
 ## Inflasie en koopkrag
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Dieselfde 100 geldeenhede koop die volle mandjie basiese goedere wanneer dit 100 kos, maar nie wanneer dieselfde mandjie 110 kos nie. Die prysvlak het gestyg en die koopkrag van die geld het gedaal.](/micrographics/same-money-smaller-basket-01/af.md)
 
 <!-- notes: Prysinflasie is ’n volgehoue styging in die algemene prysvlak. Die keersy daarvan is koopkrag: hoeveel ’n geldeenheid kan koop. As die prys van ’n mandjie basiese goedere van 100 geldeenhede tot 110 styg, kan dieselfde 100 geldeenhede nie meer die volle mandjie koop nie. -->
 
@@ -213,8 +216,7 @@ Een oorsaak is ’n keuse, nie ’n ongeluk nie: in ’n fiatstelsel kan ’n kl
 * Maar die aanbod en reëls daarvan kan verander, en die mense wat dit gebruik, het min seggenskap
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Dit is waarom mense na alternatiewe soek, en waarom Bitcoin geskep is.
 
 ---
@@ -233,6 +235,7 @@ Digitale geld wat gedesentraliseerd is, 'n beperkte aanbod het en sonder 'n bank
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[By ’n betaalmaatskappy hou een organisasie die grootboek by en keur elke oordrag goed. Met Bitcoin onderteken die sender ’n transaksie, onafhanklike nodusse kontroleer dit en mynwerkers voeg dit by een gedeelde grootboek, sodat die ontvanger minder op ’n sentrale gesag staatmaak.](/micrographics/central-ledger-vs-bitcoin-01/af.md)
 
 <!-- notes: Voor Bitcoin was die aanlyn stuur van geld altyd afhanklik van ’n vertroude organisasie: ’n bank of betalingsmaatskappy wat die grootboek bygehou het, rekeninge goedgekeur het en ’n betaling kon vertraag, blokkeer of omkeer. Digitale inligting is maklik om te kopieer: as ’n digitale munt twee keer bestee kon word, sou dit nie as geld kon werk nie. Dit is die dubbelbestedingsprobleem. Satoshi Nakamoto is ’n persoon of groep wat daardie naam gebruik. -->
 
@@ -253,6 +256,7 @@ Geen maatskappy kan bitcoin vries wat u self beheer nie. Die keersy van daardie 
 ## ’n Limiet wat enigiemand kan nagaan
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+['n Aanbodlimiet wat op 'n webwerf of in 'n uitreiker se databasis geskryf is, kan ongemerk deur daardie uitreiker verander word. Bitcoin se aanbodreël is openbaar, en handtekeninge, 'n openbare geskiedenis, bewys van werk en nodusverifikasie verhoed saam dat nuwe munte uitgedink word of dieselfde bitcoin twee keer bestee word.](/micrographics/claimed-or-verified-supply-01/af.md)
 
 <!-- notes: Nuwe bitcoin word volgens ’n openbare skedule vrygestel, en onafhanklike rekenaars wat nodusse genoem word, verwerp enige blok wat daardie reël oortree. Die limiet is geloofwaardig omdat enigiemand dit kan nagaan. Dit is nie ’n natuurwet nie: dit bly van krag omdat deelnemers dit voortdurend afdwing. ’n Beperkte aanbod waarborg nie dat die prys sal styg nie; die prys hang van sowel vraag as aanbod af. -->
 
@@ -264,6 +268,7 @@ Een bitcoin kan verdeel word in 100 000 000 kleiner eenhede wat satoshis, of sat
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[’n Tabel met twee kolomme: 1 BTC is 100 000 000 sats, 0,1 BTC is 10 000 000 sats, 0,01 BTC is 1 000 000 sats, 0,001 BTC is 100 000 sats, en 0,00000001 BTC is 1 sat.](/micrographics/bitcoin-and-sats-01/af.md)
 
 <!-- notes: Om 100 000 sats te besit en om 0,001 bitcoin te besit, beskryf dieselfde bedrag. Spreek die wanopvatting aan dat Bitcoin buite bereik is omdat een bitcoin duur is. -->
 
@@ -272,6 +277,7 @@ Een bitcoin kan verdeel word in 100 000 000 kleiner eenhede wat satoshis, of sat
 ## Wie hou Bitcoin aan die gang?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Vier rolle in Bitcoin: gebruikers ontvang, hou en stuur bitcoin, nodusse verifieer die reëls onafhanklik, myners bou kandidaatblokke met bewys van werk, en ontwikkelaars stel sagteware voor. Geen enkele rol beheer die netwerk nie.](/micrographics/bitcoin-participant-roles-01/af.md)
 
 <!-- notes: Gebruikers stuur, ontvang en hou bitcoin; nodusse toets elke transaksie en blok aan die reëls; mynwerkers ding mee om ongeveer elke tien minute ’n nuwe blok by die rekord te voeg. Daardie rekord, die blokketting, is openbaar en baie duur om te herskryf. ’n Nota oor spelling: Bitcoin met ’n hoofletter-B beteken gewoonlik die netwerk of die stelsel; bitcoin met ’n kleinletter-b beteken die geld self. -->
 
@@ -307,6 +313,7 @@ Die eerste vraag oor enige beursie: wie beheer die sleutels?
 ## ’n Beursie bestuur sleutels
 
 <!-- micrographic: wallet-manages-keys-01 -->
+['n Beursie bevat die sleutels. Daarmee kan u bitcoin ontvang en stuur, terwyl die bitcoin self op die gedeelde grootboek aangeteken bly, nie binne die foon of toestel nie.](/micrographics/wallet-manages-keys-01/af.md)
 
 <!-- notes: ’n Bitcoin-beursie is ’n hulpmiddel, gewoonlik ’n toepassing, waarmee u bitcoin kan ontvang, nagaan en stuur. U bitcoin word nie in u foon gestoor nie: dit word op die blokketting aangeteken. Die beursie bestuur die sleutels waarmee u kan bewys dat dit aan u behoort en ’n betaling kan magtig. -->
 
@@ -331,6 +338,7 @@ Die keuse van 'n bewaringsvorm is nie 'n maatstaf van u waarde nie. Wat saak maa
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[’n Saadfrase is ’n geordende lys woorde, hier twaalf genommerde voorbeeldwoorde wat op papier geskryf is. Die regte woorde in die regte volgorde kan beheer in ’n versoenbare beursie herstel, daarom word dit geheim en vanlyn gehou.](/micrographics/seed-phrase-on-paper-01/af.md)
 
 <!-- notes: Die saadfrase is nie net ’n rugsteun nie: dit bied volle toegang. Skryf dit akkuraat op papier neer wanneer u die beursie skep; hou dit vanlyn, privaat en op ’n plek waar dit nie verlore sal raak of beskadig sal word nie. Moet dit nooit fotografeer, per e-pos stuur, in wolknotas stoor, in ’n boodskap stuur of op ’n webwerf intik nie. Die woorde wat gewys word, is slegs ’n voorbeeld; moet nooit ’n werklike saadfrase wys of insamel nie. -->
 
@@ -365,6 +373,7 @@ Die keuse van 'n bewaringsvorm is nie 'n maatstaf van u waarde nie. Wat saak maa
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Betalings op die ketting word direk in Bitcoin se blokketting aangeteken, terwyl Lightning ’n betalingsnetwerk is wat op Bitcoin gebou is vir vinnige, gereelde betalings wat ook kan misluk. Albei roetes kan óf onder derdepartybewaring óf onder selfbewaring wees.](/micrographics/on-chain-and-lightning-01/af.md)
 
 ---
 
@@ -375,7 +384,8 @@ Die keuse van 'n bewaringsvorm is nie 'n maatstaf van u waarde nie. Wat saak maa
 * **Moenie vertrou nie, verifieer.** Gaan die persoon, die betaalmetode, die adres en die bedrag na.
 
 
-> **Callout – Deel ontvangsinligting, nooit geheime nie**
+<!-- card: callout -->
+> **Deel ontvangsinligting, nooit geheime nie**
 >
 > ’n Adres of ’n betalingsversoek kan gedeel word. ’n Saadfrase of privaat sleutel mag nooit gedeel word nie. Geen wettige opvoeder, beursiemaatskappy of ondersteuningswerker sal ooit daarvoor vra nie.
 
@@ -389,6 +399,7 @@ Stop as iemand 'n gevoel van dringendheid of geheimhouding skep, gewaarborgde op
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Vyf waarskuwingstekens van bedrog: dringendheid, identiteitsnabootsing, 'n veranderde bestemming, gewaarborgde opbrengste en versoeke om geheime.](/micrographics/scam-red-flags-01/af.md)
 
 ---
 
@@ -408,7 +419,8 @@ Dit is net die begin.
 * **Dit is net die begin.** Een veilige volgende stap is genoeg.
 
 
-> **Callout – ’n Oomblik om na te dink**
+<!-- card: callout -->
+> **’n Oomblik om na te dink**
 >
 > Gaan terug na die vyf vrae aan die begin. Wat sou u nou antwoord?
 

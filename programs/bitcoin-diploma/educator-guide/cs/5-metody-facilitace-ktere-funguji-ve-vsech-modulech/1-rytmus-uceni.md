@@ -14,3 +14,4 @@ U většiny pojmů použijte tento postup:
 
 
 <!-- micrographic: learning-rhythm-01 -->
+[Vyučující stanoví účel, aktivuje dosavadní představy, vysvětluje, ověřuje porozumění, vede k použití, vybízí k samostatnému výstupu, hodnotí, vybízí k reflexi a propojuje s dalším pojmem. Nejasné odpovědi vedou zpět k vysvětlení nebo procvičování.](/micrographics/learning-rhythm-01/cs.md)

@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: daily-bitcoin-uses-01 -->
+[A Bitcoin hét különböző felhasználási módja a mindennapi életben: pénzkeresés, megtakarítás, fogadás, küldés, költés, adományozás, valamint árazás és könyvelés. Mindegyik egy lehetséges felhasználási mód, nem pedig kötelező lépés.](/micrographics/daily-bitcoin-uses-01/hu.md)
 
 
 A Bitcoin többféleképpen is működhet pénzként. A költés csak az egyik ezek közül.

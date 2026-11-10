@@ -24,6 +24,7 @@ Za razmjenu uživo odaberite javno i prikladno mjesto, izbjegavajte nošenje nep
 
 
 <!-- micrographic: compare-local-pathways-01 -->
+[Prazna tablica za usporedbu triju lokalnih mogućnosti, A, B i C, prema nazivu, zahtjevima za provjeru identiteta (KYC), modelu skrbništva, podržanim mrežama, ugledu i načinima uplate sredstava, s prostorom za napomene.](/micrographics/compare-local-pathways-01/hr.md)
 
 
 

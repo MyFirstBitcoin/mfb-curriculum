@@ -4,6 +4,7 @@ Mense soek dikwels alternatiewe vir die aanhou van kontant wanneer hulle 'n verl
 
 
 <!-- micrographic: saving-alternatives-table-01 -->
+[’n Tabel met drie alternatiewe vir die hou van kontant (edelmetale, vaste eiendom en aandele), elk met redes waarom mense dit dalk kies en die belangrike afwegings daarvan. Geeneen word bo die ander gerangskik nie.](/micrographics/saving-alternatives-table-01/af.md)
 
 
 'n [bate](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) is iets wat 'n persoon kan besit of opeis en wat moontlik beskik oor [waarde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); dit vervul nie outomaties elke funksie van geld nie. 'n Woning kan dien as 'n bewaarplek vir [waarde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) maar is nie prakties om kos mee te koop nie. 'n Aandeel kan in een land maklik verkoop word, maar ontoeganklik wees vir iemand sonder 'n makelaarsrekening. [Goud](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) het oor lang tydperke in die geskiedenis as geld gedien, maar kan moeilik wees om tydens 'n klein ruiltransaksie te verifieer of te verdeel.

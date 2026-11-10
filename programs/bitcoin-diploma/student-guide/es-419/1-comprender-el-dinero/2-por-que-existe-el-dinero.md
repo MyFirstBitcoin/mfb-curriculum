@@ -5,6 +5,7 @@ Las personas tienen distintas habilidades, recursos, necesidades y planes. El in
 El intercambio directo suele ser difícil. La persona que tiene lo que usted necesita quizá no quiera lo que usted ofrece. El dinero resuelve este problema de coordinación.
 
 
+<!-- card: definition -->
 > **Definition – Dinero**
 >
 > El dinero es un [activo](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) que las personas aceptan porque esperan que otras personas lo acepten más adelante. Ayuda a personas que no se conocen a coordinar el intercambio, registrar [precios](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) y [deudas](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt), y transferir [valor](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) a través del tiempo y la distancia.

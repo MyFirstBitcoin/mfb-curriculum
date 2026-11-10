@@ -6,6 +6,7 @@ Bitcoin kombineer eienskappe wat nie voorheen saam in een [bate](https://curricu
 
 
 <!-- micrographic: bitcoin-money-properties-01 -->
+[Bitcoin kombineer sewe eienskappe van geld in een bate: duursaamheid, draagbaarheid, deelbaarheid, verwisselbaarheid, skaarsheid, verifieerbaarheid en aanvaarbaarheid. Elkeen het praktiese beperkings, soos die veilige bewaring van sleutels en aanvaarding wat in baie gemeenskappe steeds laag is.](/micrographics/bitcoin-money-properties-01/af.md)
 
 
 

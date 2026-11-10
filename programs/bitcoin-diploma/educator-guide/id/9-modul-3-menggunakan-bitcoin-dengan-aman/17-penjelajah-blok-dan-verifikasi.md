@@ -12,6 +12,7 @@ Dengan menggunakan [_txid_](https://curriculum.myfirstbitcoin.org/lexicon/en/#tr
 
 
 <!-- micrographic: confirmation-timeline-01 -->
+[Sebuah transaksi menunggu tanpa konfirmasi di kumpulan transaksi tertunda, lalu dimasukkan ke dalam Blok N sebagai konfirmasi pertamanya, dan setiap blok berikutnya menambahkan satu konfirmasi lagi.](/micrographics/confirmation-timeline-01/id.md)
 
 
 Kemudian tanyakan:

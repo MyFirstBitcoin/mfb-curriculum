@@ -1,5 +1,6 @@
 # 1.12 Mata Uang Digital Bank Sentral (CBDCs)
 
+<!-- card: definition -->
 > **Definition – Mata uang digital bank sentral (CBDC)**
 >
 > Suatu [mata uang digital bank sentral](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), atau [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), adalah bentuk digital dari [uang fiat](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) yang diterbitkan sebagai [kewajiban](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability) suatu [bank sentral](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank): ini merupakan tagihan yang wajib dilunasi oleh [bank sentral](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) kepada pemegangnya. Mata uang ini berbeda dari uang tunai fisik dan simpanan biasa di bank komersial, meskipun pengalaman penggunanya mungkin tampak serupa.
@@ -13,6 +14,7 @@ Selanjutnya, tanyakan apa yang dimungkinkan oleh rancangannya. Bergantung pada a
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[Tabel yang membandingkan uang tunai, simpanan bank, CBDC ritel, dan Bitcoin berdasarkan penerbit, bentuk, akses, keterlihatan transaksi, aturan pasokan, dan verifikasinya. Digital tidak sama dengan terdesentralisasi: CBDC tetap diterbitkan oleh bank sentral, dan akses, keterlihatan transaksi, serta verifikasinya bergantung pada desainnya.](/micrographics/cbdc-comparison-table-01/id.md)
 
 
 Digital tidak otomatis berarti terdesentralisasi, langka, privat, atau terbuka untuk verifikasi secara mandiri. Suatu [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) mungkin menggunakan teknologi digital, tetapi tetap merupakan [uang fiat](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) jika pihak [penerbit](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer), aturan jumlah uang beredar, aturan akses, dan izin pembayarannya tetap dikelola secara terpusat.

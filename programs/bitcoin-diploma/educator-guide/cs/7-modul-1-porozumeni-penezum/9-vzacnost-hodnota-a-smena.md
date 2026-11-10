@@ -9,6 +9,7 @@ Na příkladu jednoho omezeného místního zdroje rozlište čtyři pojmy:
 
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Nakupující s omezeným rozpočtem zvažuje možnosti, které má před sebou: jídlo na dnešek, dopravu nebo spoření na později. Vybrat si jednu možnost znamená vzdát se ostatních, což představuje náklady obětované příležitosti. Žádná možnost není označena jako správná.](/micrographics/one-choice-two-uses-01/cs.md)
 
 
 Požádejte studenty, aby vysvětlili, proč samotná vzácnost nevytváří [hodnotu](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Vzácný předmět, který nemá využití nebo po něm není poptávka, může zůstat nechtěný.

@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: self-custody-responsibilities-01 -->
+[Controle over sleutels staat centraal tussen acht verantwoordelijkheden: back-up, herstel, ontvangen, verzenden, keuze van tools, aankoopweg, privacy en controle op oplichting. Elk ervan beschermt iets, en een fout in een van deze kan u toegang, geld of privacy kosten.](/micrographics/self-custody-responsibilities-01/nl.md)
 
 
 
 <!-- micrographic: responsibility-checks-01 -->
+[Een tabel met zes taken voor zelfbewaring, wat u voor elke taak moet beschermen of controleren en wat er kan gebeuren als het misgaat: back-up, ontvangen, verzenden, bewaring, keuze van hulpmiddelen en aanschaf.](/micrographics/responsibility-checks-01/nl.md)
 
 
 Stel u voor dat een vriend u een betaalverzoek stuurt, terwijl een onbekend supportaccount zegt dat u onmiddellijk moet handelen. Wat zou u kunnen controleren voordat u iets doet? Kunt u een herstelplan beschermen, ontvangstgegevens onderscheiden van geheimen, en de persoon, de betaalmethode, de bestemming, het bedrag en het laatste scherm controleren voordat u verstuurt? Of nu een dienst of uzelf de sleutels beheert, de praktische samenvatting blijft dezelfde: bescherm uw geheimen, controleer voordat u goedkeurt, herken signalen van oplichting en houd fouten klein terwijl u leert.

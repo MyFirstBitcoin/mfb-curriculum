@@ -8,6 +8,7 @@ Un esercizio sicuro di preparazione al recupero è semplice:
 
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[Una pratica in sei passaggi per recuperare un wallet di esercitazione: seguire le istruzioni ufficiali, verificare la compatibilità, lavorare in privato, usare il metodo di recupero approvato, confermare il wallet atteso, quindi ripristinare. Utilizzare solo materiali preparati, vuoti o simulati; il formatore non vede mai le parole di recupero.](/micrographics/practice-wallet-recovery-01/it.md)
 
 
 Non utilizzi un wallet di addestramento o le relative informazioni di recupero per custodire fondi importanti dopo il Diploma. Un wallet personale, se in seguito deciderà di crearne uno, richiede una nuova configurazione privata e nuove informazioni di recupero.

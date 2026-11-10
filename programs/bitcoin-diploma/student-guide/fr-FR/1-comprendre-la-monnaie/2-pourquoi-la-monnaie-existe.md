@@ -5,6 +5,7 @@ Les personnes ont des compétences, des ressources, des besoins et des projets d
 L’échange direct est souvent difficile. La personne qui possède ce dont vous avez besoin ne souhaite pas forcément ce que vous proposez. La monnaie résout ce problème de coordination.
 
 
+<!-- card: definition -->
 > **Definition – La monnaie**
 >
 > La monnaie est un [actif](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) que les personnes acceptent parce qu’elles s’attendent à ce que d’autres l’acceptent plus tard. Elle aide des personnes qui ne se connaissent pas à coordonner leurs échanges, à consigner les [prix](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) et les [dettes](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt), et à transférer de la [valeur](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) dans le temps et dans l’espace.

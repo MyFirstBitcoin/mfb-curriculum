@@ -36,6 +36,7 @@ Tämä [Bitcoin-koulutusverkosto](https://myfirstbitcoin.org/about/network) yhdi
 
 
 <!-- micrographic: final-safety-check-01 -->
+[Viimeinen turvallisuuden tarkistuslista, jonka kohdat on merkitty tehdyiksi: suojatkaa salaisuutenne, tarkistakaa maksutiedot, tehkää pieniä testisiirtoja ja pysähtykää painostuksen alla. Jos jokin on epäselvää, pysähtykää ja hankkikaa lisätietoa ennen kuin toimitte.](/micrographics/final-safety-check-01/fi.md)
 
 
 Muistakaa nämä säännöt:
@@ -57,6 +58,7 @@ Koulutus vähentää riskiä, mutta ei voi poistaa sitä. Jos tilanne on epäsel
 
 
 <!-- micrographic: curriculum-source-panel-01 -->
+[Paneeli, jossa on QR-koodi ja painettu linkki github.com/MyFirstBitcoin/mfb-curriculum, Bitcoin-diplomin virallinen lähde, josta voitte tarkistaa painoksen ja jossa voitte ilmoittaa virheistä.](/micrographics/curriculum-source-panel-01/fi.md)
 
 
 Bitcoin Diploma on jatkuvasti kehittyvä avoimen lähdekoodin opetussuunnitelma. Korjauksia ja parannuksia voidaan tarkastella julkisesti.

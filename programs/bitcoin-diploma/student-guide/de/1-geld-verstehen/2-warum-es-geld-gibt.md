@@ -5,6 +5,7 @@ Menschen haben unterschiedliche Fähigkeiten, Ressourcen, Bedürfnisse und Plän
 Direkter Tausch ist oft schwierig. Die Person, die hat, was Sie brauchen, möchte vielleicht nicht das, was Sie anbieten. Geld löst dieses Koordinationsproblem.
 
 
+<!-- card: definition -->
 > **Definition – Geld**
 >
 > Geld ist ein [Vermögenswert](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset), den Menschen akzeptieren, weil sie erwarten, dass andere ihn später ebenfalls akzeptieren. Es hilft Fremden, den Austausch zu koordinieren, [Preise](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) und [Schulden](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt) festzuhalten und [Wert](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) über Zeit und Entfernung hinweg zu übertragen.

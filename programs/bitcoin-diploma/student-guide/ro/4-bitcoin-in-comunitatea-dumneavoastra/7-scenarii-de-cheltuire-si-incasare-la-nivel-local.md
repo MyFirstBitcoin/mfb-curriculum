@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[O plată într-o cafenea în patru pași: clientul comandă, ospătarul trimite o factură, clientul plătește în bitcoin de pe telefon, iar ospătarul îi servește cafeaua.](/micrographics/coffee-shop-payment-01/ro.md)
 
 
 Folosiți bunuri și servicii cunoscute pe plan local. Nu contează produsul exact, ci raționamentul privind plata.

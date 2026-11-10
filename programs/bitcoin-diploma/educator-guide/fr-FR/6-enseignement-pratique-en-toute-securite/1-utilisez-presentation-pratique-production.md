@@ -8,6 +8,7 @@
 
 
 <!-- micrographic: presentation-practice-production-01 -->
+[Une compétence pratique s’acquiert en trois étapes, de gauche à droite : la présentation, où l’enseignant montre le processus et les risques associés, puis la pratique, un entraînement guidé avec du matériel pédagogique sans risque, et enfin la production, où l’apprenant accomplit une tâche ou explique une décision de manière autonome.](/micrographics/presentation-practice-production-01/fr-FR.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/3d2cf07203a6fd4017e7adbac198e73b190e99cf-1881x836.svg)

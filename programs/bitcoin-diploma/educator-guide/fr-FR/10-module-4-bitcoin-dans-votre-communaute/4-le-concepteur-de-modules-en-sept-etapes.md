@@ -1,6 +1,7 @@
 # 10.4 Le concepteur de modules en sept étapes
 
 <!-- micrographic: seven-step-module-builder-01 -->
+[Sept étapes de planification mènent du contexte et du besoin locaux à une tâche ciblée et vérifiée, une séquence pédagogique sûre, une évaluation claire et un bilan. L’alternative existante reste à l’esprit, et une option inadaptée entraîne un retour à la planification.](/micrographics/seven-step-module-builder-01/fr-FR.md)
 
 
 #### 1. Comprendre le contexte local

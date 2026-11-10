@@ -12,6 +12,7 @@ Giải thích rằng [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cb
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[Bảng so sánh tiền mặt, tiền gửi ngân hàng, CBDC bán lẻ và Bitcoin về chủ thể phát hành, hình thức, khả năng tiếp cận, mức độ hiển thị thông tin thanh toán, quy tắc về nguồn cung và cách xác minh. Kỹ thuật số không đồng nghĩa với phi tập trung: CBDC vẫn do ngân hàng trung ương phát hành, và khả năng tiếp cận, mức độ hiển thị thông tin thanh toán cũng như cách xác minh đều tùy thuộc vào thiết kế của nó.](/micrographics/cbdc-comparison-table-01/vi.md)
 
 
 [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) có nhiều thiết kế khác nhau. Không khẳng định rằng mọi [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) đều có hoặc đều thiếu một tính năng nào đó. Phân biệt rõ thiết kế tại địa phương đã được xác nhận, đề xuất đã công bố, bình luận và suy đoán.

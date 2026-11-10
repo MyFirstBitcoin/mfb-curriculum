@@ -1,5 +1,6 @@
 # 3.6 Paggamit na May Tagapangalaga at Walang Tagapangalaga
 
+<!-- card: definition -->
 > **Definition – Pangangalaga**
 >
 > [Ang pangangalaga](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) ay sumasagot sa isang praktikal na tanong: sino ang may kontrol sa mga susi na kailangan upang gastusin ang bitcoin?
@@ -15,10 +16,12 @@ Sa isang **walang tagapangalaga** o **may sariling pangangalaga** na wallet, KAY
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[Sa paggamit na may tagapangalaga, isang serbisyo ang kumokontrol sa mga susi at nag-aapruba ng paggastos, kaya ang balanse ay pangako nito. Sa paggamit na may sariling pangangalaga, ang gumagamit ang kumokontrol sa mga susi at backup; parehong may mga bagay na pinagsasaligan at mga panganib ng pagkabigo ang dalawang paraan.](/micrographics/who-controls-keys-01/tl.md)
 
 
 
 <!-- micrographic: custody-comparison-table-01 -->
+[Isang talahanayan na naghahambing ng paggamit na may tagapangalaga at paggamit na may sariling pangangalaga: kung sino ang may hawak ng mga susi, sino ang nangangasiwa sa pagbawi ng access, at ang pangunahing kapalit ng bawat isa. Parehong may panganib ang dalawang modelo.](/micrographics/custody-comparison-table-01/tl.md)
 
 
 [Ang pangangalaga](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) ay hindi laging halata sa interface. Kung hindi ninyo makontrol ang paraan ng pagbawi ng access at kailangan ninyo ng isang kumpanya upang aprubahan ang pag-withdraw, malamang na gumagamit kayo ng isang [tagapangalaga](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian). [Ang sariling pangangalaga](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) ay hindi isang pagsubok sa inyong halaga bilang tao; ang mahalagang hakbang ay tukuyin ang tiwala at panganib na kaakibat nito.

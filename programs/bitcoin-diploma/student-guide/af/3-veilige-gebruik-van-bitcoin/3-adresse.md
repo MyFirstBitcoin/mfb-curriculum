@@ -1,5 +1,6 @@
 # 3.3 Adresse
 
+<!-- card: definition -->
 > **Definition – Bitcoin-adres**
 >
 > 'n [Bitcoin-adres](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) is openbare ontvangsinligting vir 'n [betaling op die ketting](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment). 'n Beursie wys dit gewoonlik as teks en 'n QR-kode sodat iemand anders bitcoin aan u kan stuur. Anders as 'n wagwoord of [privaat sleutel](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), kan 'n adres nie besteding magtig nie.
@@ -7,6 +8,7 @@
 
 
 <!-- micrographic: address-two-formats-01 -->
+['n Beursie se ontvangskerm wys een voorbeeld-Bitcoin-adres twee keer: as 'n QR-kode en as teks. Albei is dieselfde openbare ontvangsinligting, en nie een van die twee kan besteding magtig nie.](/micrographics/address-two-formats-01/af.md)
 
 
 As u 'n [betaling op die ketting](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment) wil ontvang, waar moet die adres vandaan kom? Maak die beoogde beursie oop en gebruik die ontvangskerm daarvan. 'n Sender kan die QR-kode skandeer of die adres kopieer. Dit voorkom die foute wat kan voorkom wanneer lang karakterreekse met die hand ingetik word.
@@ -15,9 +17,9 @@ Bevestig die beoogde betaalmetode vir elke betalingsversoek. 'n Adres op die ket
 
 
 <!-- micrographic: sample-lightning-invoice-01 -->
+[’n Voorbeeld van ’n Lightning-faktuur op ’n skerm toon die betaalmetode, ontvanger en bedrag langs die QR-kode. Die leesbare besonderhede en die QR-kode is dieselfde betaalversoek in twee formate.](/micrographics/sample-lightning-invoice-01/af.md)
 
 
 
-> **Light**
->
+<!-- card: light -->
 > Wanneer 'n betaling belangrik is, moet u nie besluit dat 'n adres veilig is bloot omdat dit bekend lyk nie. Bevestig die beoogde ontvanger, die korrekte [Bitcoin-netwerk](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network), die bestemming en die betaalmetode. Doen eers 'n klein toets wanneer die proses of bedrag onbekend is.

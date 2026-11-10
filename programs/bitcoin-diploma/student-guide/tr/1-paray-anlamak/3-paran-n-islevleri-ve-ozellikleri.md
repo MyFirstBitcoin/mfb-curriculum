@@ -14,6 +14,7 @@ Kullanışlı para ayrıca genellikle çeşitli özelliklere sahiptir:
 
 
 <!-- micrographic: money-property-questions-01 -->
+[Kullanışlı paranın yedi özelliği ve her biri için para biçimlerini karşılaştırırken sorulacak bir soru: dayanıklılık, taşınabilirlik, bölünebilirlik, misliyet, kıtlık, kabul edilebilirlik ve doğrulanabilirlik.](/micrographics/money-property-questions-01/tr.md)
 
 
 Hiçbir para biçimi kusursuz değildir.
@@ -22,6 +23,7 @@ Hiçbir para biçimi kusursuz değildir.
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[İki katman: paranın üç işlevi (değişim aracı, hesap birimi, değer saklama aracı) yedi özelliğe dayanır (dayanıklılık, taşınabilirlik, bölünebilirlik, ikame edilebilirlik, kıtlık, kabul edilebilirlik ve doğrulanabilirlik).](/micrographics/functions-and-properties-01/tr.md)
 
 
 [Altın](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) dayanıklı ve kıttır, ancak küçük ödemeler için bölünmesi ve taşınması zordur. [Kâğıt nakit](https://curriculum.myfirstbitcoin.org/lexicon/en/#paper-cash) taşınabilir ve yerel olarak kabul görür, ancak hasar görebilir ve arzı genişleyebilir. En iyi karşılaştırma amaca, yere ve zamana bağlıdır.

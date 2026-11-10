@@ -24,6 +24,7 @@ Khi giao dịch trực tiếp, hãy chọn địa điểm công cộng phù hợ
 
 
 <!-- micrographic: compare-local-pathways-01 -->
+[Một bảng trống để so sánh ba phương án tại địa phương, A, B và C, về tên, yêu cầu KYC, mô hình lưu ký, các mạng được hỗ trợ, uy tín và phương thức nạp tiền, có chỗ để ghi chú.](/micrographics/compare-local-pathways-01/vi.md)
 
 
 

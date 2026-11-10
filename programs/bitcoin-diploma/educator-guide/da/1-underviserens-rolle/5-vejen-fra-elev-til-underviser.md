@@ -13,3 +13,4 @@ Præsenter dette som en mulighed for at fortsætte efter Bitcoin-diplomet, ikke 
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[Et valgfrit læringsforløb går fra Introduktion til Bitcoin til Bitcoin-diplomet, derefter til Uddannelsesprogram for undervisere og videre til at blive underviser, der underviser ud fra My First Bitcoin-læseplanen, og til at blive en del af Netværk for Bitcoin-undervisning. Hvert næste skridt er et valg, ikke et krav.](/micrographics/learner-journey-pathway-01/da.md)

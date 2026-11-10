@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[A fogadó fél létrehoz a telefonján egy Lightning-fizetési kérelmet a megadott összeggel, a küldő fél beolvassa és kifizeti azt, a fizetés pedig egy pillanattal később megérkezik a fogadó fél telefonjára.](/micrographics/lightning-phone-payment-01/hu.md)
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Lightning-fizetés hat lépésben: a fogadó fél kérelmet hoz létre, a küldő fél beolvassa azt, ellenőrzi a címzettet, az összeget, az egységet, a lejáratot és a díjat, majd jóváhagyja a fizetést; a fizetés továbbítódik, és mindkét tárca megjeleníti az eredményt. Mindkét tárca lehet letétkezelői vagy saját kezelésű, sikertelen vagy lejárt fizetés esetén pedig a folyamat új kérelemmel kezdődik elölről.](/micrographics/lightning-payment-sequence-01/hu.md)
 
 
 A Lightning praktikussá teheti a gyors, kis összegű Bitcoin-fizetéseket. Alkalmas lehet üzleti pénztáraknál, rendszeres helyi fizetéseknél, online szolgáltatásoknál vagy olyan átutalásoknál, ahol a blokkláncon végrehajtott tranzakció díja túl nagy lenne a fizetett összeghez képest.

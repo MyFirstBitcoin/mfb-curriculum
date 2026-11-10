@@ -29,3 +29,4 @@ Tato aktivita umožňuje ve veřejné účetní knize [soukromí](https://curric
 
 
 <!-- micrographic: address-reuse-linkage-01 -->
+[Několik fiktivních plateb sdílí jednu opakovaně použitou adresu a lze je snadno propojit. Nové přijímací adresy toto přímé propojení omezují, ale externí informace a vyhledávání v průzkumníku mohou přesto odhalit souvislosti. Veřejná data sama o sobě neprokazují totožnost osoby.](/micrographics/address-reuse-linkage-01/cs.md)

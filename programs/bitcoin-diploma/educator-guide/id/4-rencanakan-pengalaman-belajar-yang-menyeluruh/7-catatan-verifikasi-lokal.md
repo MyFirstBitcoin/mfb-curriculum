@@ -19,3 +19,4 @@ Utamakan sumber primer yang berwenang untuk aturan yang berlaku saat ini. Jika b
 
 
 <!-- micrographic: local-verification-cycle-01 -->
+[Pendidik mengidentifikasi setiap klaim setempat yang dapat berubah, memverifikasinya menggunakan sumber terkini, mencatat tanggal dan batasan klaim tersebut, mengajarkannya dengan rumusan yang menyertakan batasan, serta memeriksanya kembali sebelum digunakan lagi. Jika suatu fakta belum pasti, mereka menggunakan contoh yang lebih aman atau alternatif pengganti.](/micrographics/local-verification-cycle-01/id.md)

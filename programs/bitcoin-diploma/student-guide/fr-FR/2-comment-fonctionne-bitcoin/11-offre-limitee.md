@@ -3,6 +3,7 @@
 Les règles de Bitcoin permettent de prévoir un [calendrier d’émission](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuance-schedule) et une [offre maximale](https://curriculum.myfirstbitcoin.org/lexicon/en/#maximum-supply) de 21 millions de bitcoin (21 000 000 BTC). De nouveaux bitcoin entrent en circulation grâce à la [subvention de bloc](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-subsidy) versée aux [mineurs](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) qui produisent des blocs valides.
 
 
+<!-- card: definition -->
 > **Definition – Halving**
 >
 > Tous les 210 000 blocs, la subvention est divisée par deux. Cet événement est appelé un [halving](https://curriculum.myfirstbitcoin.org/lexicon/en/#halving). Comme les blocs sont produits en moyenne toutes les dix minutes environ, un [halving](https://curriculum.myfirstbitcoin.org/lexicon/en/#halving) se produit à peu près tous les quatre ans. La date exacte n’est pas fixée.
@@ -22,12 +23,14 @@ La subvention était initialement de 50 BTC par bloc. Elle diminue de moitié pa
 
 
 <!-- micrographic: bitcoin-issuance-schedule-01 -->
+[La subvention de bloc commence à 50 bitcoin et est divisée par deux tous les 210 000 blocs, tandis que le total de bitcoin émis augmente vers la limite de 21 millions. Les frais de transaction sont versés en supplément et ne constituent pas de nouveaux bitcoin ; aucune prévision de prix n’est sous-entendue.](/micrographics/bitcoin-issuance-schedule-01/fr-FR.md)
 
 
 La limite de 21 millions est imposée par les [nœuds](https://curriculum.myfirstbitcoin.org/lexicon/en/#node). Si un [mineur](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) crée plus de bitcoin que les règles ne l’autorisent, les [nœuds de validation](https://curriculum.myfirstbitcoin.org/lexicon/en/#full-node) rejettent le bloc. Un développeur peut écrire un code différent, mais ne peut pas forcer les autres à l’exécuter.
 
 
-> **Dark – Une offre fixe est une règle du réseau, pas une promesse de prix**
+<!-- card: dark -->
+> **Une offre fixe est une règle du réseau, pas une promesse de prix**
 >
 > La règle d’offre de Bitcoin est publique, vérifiable de manière indépendante et difficile à modifier par un seul acteur, car les [nœuds de validation](https://curriculum.myfirstbitcoin.org/lexicon/en/#full-node) la font respecter. Ce n’est pas une loi physique : elle reste effective tant que les participants continuent de la faire respecter. Une offre limitée ne garantit pas une hausse du [cours](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) ; [le cours](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) dépend aussi de la demande.
 >
@@ -37,8 +40,7 @@ La limite de 21 millions est imposée par les [nœuds](https://curriculum.myfirs
 **Question rapide :** Quels sont les avantages d’une offre limitée pour Bitcoin ? Quel serait l’effet d’une augmentation de l’offre de Bitcoin sur le [pouvoir d’achat](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) ? Qui rejetterait une augmentation de l’offre ?
 
 
-> **Light**
->
+<!-- card: light -->
 > Une offre finie ne signifie pas non plus que chaque bitcoin est disponible à la vente ; certains peuvent être conservés à long terme ou devenir inaccessibles en raison de la perte des clés.
 
 

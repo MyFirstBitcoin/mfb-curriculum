@@ -6,6 +6,7 @@ Keskitetty digitaalinen maksujärjestelmä voi ylläpitää yhtä virallista [ti
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Maksuyhtiötä käytettäessä yksi organisaatio ylläpitää tilikirjaa ja hyväksyy jokaisen siirron. Bitcoinia käytettäessä lähettäjä allekirjoittaa tapahtuman, riippumattomat solmut tarkistavat sen ja louhijat lisäävät sen yhteen yhteiseen tilikirjaan, joten vastaanottaja on vähemmän riippuvainen keskitetystä tahosta.](/micrographics/central-ledger-vs-bitcoin-01/fi.md)
 
 
 Kysykää:

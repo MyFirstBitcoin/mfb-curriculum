@@ -14,6 +14,7 @@ Mnapolinganisha [bei](https://curriculum.myfirstbitcoin.org/lexicon/en/#price), 
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Jedwali lenye safu mbili: BTC 1 ni sats 100,000,000, BTC 0.1 ni sats 10,000,000, BTC 0.01 ni sats 1,000,000, BTC 0.001 ni sats 100,000, na BTC 0.00000001 ni sat 1.](/micrographics/bitcoin-and-sats-01/sw.md)
 
 
 **Onyesheni uelewa wenu:** Kuna [sats](https://curriculum.myfirstbitcoin.org/lexicon/en/#satoshi) ngapi katika 0.01 BTC? Kwa nini [bei](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) ya bitcoin moja nzima haimzuii mtu kutumia kiasi kidogo zaidi?

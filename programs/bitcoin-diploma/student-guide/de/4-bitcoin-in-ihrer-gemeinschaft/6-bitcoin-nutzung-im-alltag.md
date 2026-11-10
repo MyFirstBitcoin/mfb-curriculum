@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: daily-bitcoin-uses-01 -->
+[Sieben verschiedene Möglichkeiten, Bitcoin im Alltag zu nutzen: Verdienen, Sparen, Empfangen, Senden, Ausgeben, Spenden sowie Preisgestaltung und Buchhaltung. Jede davon ist eine mögliche Nutzung, kein notwendiger Schritt.](/micrographics/daily-bitcoin-uses-01/de.md)
 
 
 Bitcoin kann auf verschiedene Weise als Geld dienen. Das Ausgeben ist nur eine davon.

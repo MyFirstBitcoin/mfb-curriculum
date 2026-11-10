@@ -4,6 +4,7 @@ Insegni l'[inflazione dei prezzi](https://curriculum.myfirstbitcoin.org/lexicon/
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Le stesse 100 unità di valuta permettono di acquistare l'intero paniere di beni di prima necessità quando costa 100, ma non quando lo stesso paniere costa 110. Il livello dei prezzi è aumentato e il potere d'acquisto del denaro è diminuito.](/micrographics/same-money-smaller-basket-01/it.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)

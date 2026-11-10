@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[Plaćanje u kafiću u četiri koraka: kupac naručuje, konobar šalje račun, kupac plaća bitcoinom putem svojeg telefona, a konobar predaje kavu.](/micrographics/coffee-shop-payment-01/hr.md)
 
 
 Koristite lokalno poznate proizvode i usluge. Nije važan konkretan proizvod, nego razmišljanje o načinu plaćanja.

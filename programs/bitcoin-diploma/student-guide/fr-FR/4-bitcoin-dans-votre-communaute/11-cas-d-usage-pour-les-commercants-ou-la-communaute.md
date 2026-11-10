@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[Un commerçant qui accepte Bitcoin intervient dans quatre domaines : le marketing, la formation, la comptabilité et les ventes.](/micrographics/merchant-payment-operations-01/fr-FR.md)
 
 
 Un commerçant a besoin de plus qu’un bouton de réception. Le processus de paiement complet peut inclure la tarification, la formation du personnel, les reçus, les remboursements, la [garde des fonds](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), la conversion, la comptabilité, les impôts et taxes, la sécurité des appareils et l’assistance.

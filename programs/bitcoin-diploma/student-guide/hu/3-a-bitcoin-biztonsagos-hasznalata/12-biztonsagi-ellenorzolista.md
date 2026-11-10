@@ -6,6 +6,7 @@ Mi késztetné arra, hogy megálljon egy fizetés vagy telepítés előtt? Tekin
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[A csalás öt figyelmeztető jele: sürgetés, más személynek való kiadás, megváltozott célcím, garantált hozamok és titkos adatok kérése.](/micrographics/scam-red-flags-01/hu.md)
 
 
 A biztonságos válasz mindig ez: **Álljon meg. Ne osszon meg semmit. Ne küldjön semmit. Zárja le a kommunikációs csatornát. Végezzen független ellenőrzést egy ismert forrás segítségével. Kérjen segítséget anélkül, hogy titkos információkat fedne fel.** Az ismert forrás olyan hivatalos webhely, alkalmazás-áruházi adatlap vagy kapcsolattartási mód, amelyet önállóan ért el, nem pedig egy hirdetésen, közvetlen üzeneten vagy váratlan hivatkozáson keresztül. Ellenőrizze a kiadót és a webcímet, vesse össze ezeket a hivatalos dokumentációval, és külön keresse meg az elérhetőségeket. Ha a forrás, az utasítások vagy a fizetési adatok eltérnek a bemutatott folyamattól, álljon meg, és kérjen segítséget az oktatójától vagy egy megbízható helyi segítőtől anélkül, hogy felfedné a [helyreállító kifejezést](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) vagy a [privát kulcsot](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key). Egy valódi lehetőség kiállja az alapos ellenőrzést; a csalás sikere gyakran éppen az ellenőrzés megakadályozásán múlik.

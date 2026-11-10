@@ -5,6 +5,7 @@ Mỗi người có những kỹ năng, nguồn lực, nhu cầu và kế hoạch
 Trao đổi trực tiếp thường gặp khó khăn. Người có thứ quý vị cần có thể không muốn thứ quý vị đưa ra để trao đổi. Tiền giải quyết vấn đề phối hợp này.
 
 
+<!-- card: definition -->
 > **Definition – Tiền**
 >
 > Tiền là một [tài sản](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) mà mọi người chấp nhận vì họ kỳ vọng những người khác cũng sẽ chấp nhận nó sau này. Tiền giúp những người xa lạ phối hợp trao đổi, ghi nhận [giá cả](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) và [các khoản nợ](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt), đồng thời chuyển [giá trị](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) qua thời gian và khoảng cách.

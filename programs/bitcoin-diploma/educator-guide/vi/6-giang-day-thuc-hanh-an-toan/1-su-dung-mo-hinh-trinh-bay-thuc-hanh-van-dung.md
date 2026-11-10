@@ -8,6 +8,7 @@
 
 
 <!-- micrographic: presentation-practice-production-01 -->
+[Một kỹ năng thực tế được học qua ba giai đoạn, từ trái sang phải: Trình bày, trong đó nhà giáo giới thiệu quy trình và các rủi ro liên quan, tiếp đến là Thực hành, luyện tập có hướng dẫn với các vật liệu huấn luyện an toàn, rồi đến Vận dụng, trong đó người học tự hoàn thành một nhiệm vụ hoặc giải thích một quyết định.](/micrographics/presentation-practice-production-01/vi.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/3d2cf07203a6fd4017e7adbac198e73b190e99cf-1881x836.svg)

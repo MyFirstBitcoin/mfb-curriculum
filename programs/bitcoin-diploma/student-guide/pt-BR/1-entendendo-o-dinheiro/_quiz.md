@@ -1,6 +1,6 @@
 # Quiz – Entendendo o dinheiro: verificação rápida
 
-## Question 1
+## Pergunta 1
 
 Por que o dinheiro é aceito?
 
@@ -9,11 +9,11 @@ Por que o dinheiro é aceito?
 * [ ] Ele elimina todas as regras
 * [ ] Ele transforma serviços em bens
 
-### Explanation
+### Explicação
 
 O dinheiro ajuda desconhecidos a coordenar trocas ao longo do tempo porque as pessoas esperam que outros o aceitem depois. Ele ainda depende de confiança, regras e aceitação social. Revise o Guia do Estudante, Módulo 1, “Por que o dinheiro existe”.
 
-## Question 2
+## Pergunta 2
 
 Precificado, pago, poupado: quais funções?
 
@@ -22,11 +22,11 @@ Precificado, pago, poupado: quais funções?
 * [ ] Meio; reserva; unidade
 * [ ] Escassez; escassez; escassez
 
-### Explanation
+### Explicação
 
 Uma unidade de conta expressa preços, um meio de troca é aceito como pagamento e uma reserva de valor transfere valor para o futuro. Revise o Guia do Estudante, Módulo 1, “Funções e propriedades do dinheiro”.
 
-## Question 3
+## Pergunta 3
 
 Arroz por sapatos não dá certo: por quê?
 
@@ -35,11 +35,11 @@ Arroz por sapatos não dá certo: por quê?
 * [ ] Falta de aprovação do banco
 * [ ] Arroz não pode ser trocado
 
-### Explanation
+### Explicação
 
 O escambo direto é difícil quando cada pessoa não quer, ao mesmo tempo, o que a outra oferece. Essa é a dupla coincidência de desejos. Revise o Guia do Estudante, Módulo 1, “O escambo e a dupla coincidência de desejos”.
 
-## Question 4
+## Pergunta 4
 
 Preços +10%, renda +5%: poder de compra?
 
@@ -48,6 +48,6 @@ Preços +10%, renda +5%: poder de compra?
 * [x] Diminui
 * [ ] Não é possível saber
 
-### Explanation
+### Explicação
 
 Poder de compra é o que o dinheiro consegue comprar. Se os preços sobem mais rápido que a renda, a renda compra menos. Revise o Guia do Estudante, Módulo 1, “Inflação e poder de compra”.

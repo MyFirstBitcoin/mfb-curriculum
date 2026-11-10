@@ -3,7 +3,8 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) மற்றும் [KYC இல்லாத](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) வழிமுறைகளில் வெவ்வேறு [விட்டுக்கொடுப்புகள் உள்ளன](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). எந்தப் பெயரில் அழைக்கப்பட்டாலும், கவனமாக மதிப்பிட வேண்டிய தேவை நீங்குவதில்லை.
 
 
-> **Callout – தனியுரிமை என்பது சட்டரீதியான அல்லது உடல் பாதுகாப்பு சார்ந்த ஆபத்தை நீக்குவதில்லை**
+<!-- card: callout -->
+> **தனியுரிமை என்பது சட்டரீதியான அல்லது உடல் பாதுகாப்பு சார்ந்த ஆபத்தை நீக்குவதில்லை**
 >
 > எதுவும் — [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) அல்லது [KYC இல்லாத வழிமுறை](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) — தானாகவே சிறந்ததாகிவிடாது. நடைமுறையில் உள்ள வழிமுறையை ஒப்பிடுங்கள்; விதிகள் தெளிவாக இல்லாதபோது தற்போதைய உள்ளூர் வழிகாட்டுதலைப் பயன்படுத்துங்கள்; உள்ளூர் சட்டத்தை மீறவோ உங்களை உடல்ரீதியான ஆபத்துக்கு உள்ளாக்கிக்கொள்ளவோ வேண்டாம் — நீங்கள் நாடுவது [தனியுரிமையாக இருந்தாலும்](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 

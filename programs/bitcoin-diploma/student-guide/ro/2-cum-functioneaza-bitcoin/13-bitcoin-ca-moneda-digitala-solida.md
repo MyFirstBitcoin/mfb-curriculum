@@ -6,6 +6,7 @@ Bitcoin combină proprietăți care nu au mai coexistat anterior într-un singur
 
 
 <!-- micrographic: bitcoin-money-properties-01 -->
+[Bitcoin reunește șapte proprietăți ale banilor într-un singur activ: durabilitate, portabilitate, divizibilitate, fungibilitate, raritate, verificabilitate și acceptabilitate. Fiecare are limite practice, precum necesitatea păstrării cheilor în siguranță și gradul de acceptare încă scăzut în multe comunități.](/micrographics/bitcoin-money-properties-01/ro.md)
 
 
 

@@ -19,6 +19,7 @@ Gunakan respons standar:
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Lima tanda bahaya penipuan: desakan untuk segera bertindak, penyamaran identitas, perubahan tujuan pengiriman, jaminan imbal hasil, dan permintaan informasi rahasia.](/micrographics/scam-red-flags-01/id.md)
 
 
 #### Kegiatan: pos penipuan

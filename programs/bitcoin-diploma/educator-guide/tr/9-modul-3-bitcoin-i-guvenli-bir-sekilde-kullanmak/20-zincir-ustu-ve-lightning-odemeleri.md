@@ -18,3 +18,4 @@ Lightning ayrı bir coin değildir. Başarılı bir Lightning ödemesi, cüzdan�
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Zincir üstü ödemeler doğrudan Bitcoin'in blok zincirine kaydedilir; Lightning ise hızlı ve sık ödemeler için Bitcoin üzerine kurulu, ancak ödemelerin başarısız da olabildiği bir ödeme ağıdır. Her iki yol da emanetçili veya kendi kendine saklamalı olabilir.](/micrographics/on-chain-and-lightning-01/tr.md)

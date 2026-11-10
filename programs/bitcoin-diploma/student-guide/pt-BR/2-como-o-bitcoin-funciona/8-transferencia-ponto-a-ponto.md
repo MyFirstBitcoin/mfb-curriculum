@@ -8,6 +8,7 @@ Peer-to-Peer (P2P) nem sempre significa que apenas dois computadores se comunica
 
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[Um remetente assina uma transação e a transmite para muitos nós da rede, que a repassam até que ela chegue ao destinatário. Nenhum operador central do Bitcoin precisa aprovar o remetente ou o destinatário.](/micrographics/peer-to-peer-route-01/pt-BR.md)
 
 
 Os usuários ainda podem escolher [intermediários](https://curriculum.myfirstbitcoin.org/lexicon/en/#intermediary). Uma exchange pode guardar bitcoin para seus clientes. Um serviço de pagamento pode simplificar uma fatura. Uma carteira hospedada pode gerenciar as chaves. Esses serviços podem ser práticos, mas, nesse caso, o usuário passa a depender das regras e da segurança do serviço.

@@ -3,6 +3,7 @@
 Pemilikan Bitcoin dikuatkuasakan melalui kunci kriptografi.
 
 
+<!-- card: definition -->
 > **Definition – Kunci peribadi**
 >
 > Satu [kunci peribadi](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) ialah maklumat rahsia yang membolehkan dompet menghasilkan [tandatangan digital](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) yang sah. Tandatangan membenarkan perbelanjaan bitcoin yang dikawal oleh kunci yang sepadan. Sesiapa yang memperoleh [kunci peribadi](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) biasanya boleh membelanjakan dana tersebut.
@@ -21,10 +22,10 @@ Kebanyakan dompet untuk pengguna baharu menggunakan [tandatangan tunggal](https:
 Tiada pendidik, syarikat dompet, pekerja bursa, petugas sokongan teknikal atau pembangun Bitcoin yang sah memerlukan [kunci peribadi](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) atau [frasa benih](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) anda. Sesiapa yang memintanya harus dianggap sebagai ancaman.
 
 
-> **Light**
->
+<!-- card: light -->
 > **Cuba lakukan:** Kelaskan contoh yang disediakan kepada tiga kumpulan: maklumat yang selamat dikongsi untuk menerima bayaran, maklumat perbelanjaan rahsia, dan maklumat yang mungkin bersifat awam tetapi masih perlu dirahsiakan apabila dikaitkan dengan seseorang.
 
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[Kunci peribadi rahsia, yang tidak boleh dikongsi sama sekali, menghasilkan maklumat awam yang boleh dikongsi: kunci awam yang diterbitkan daripadanya dan alamat penerimaan yang dicipta daripada maklumat kunci awam tersebut. Kunci peribadi yang sama mencipta tandatangan yang disahkan oleh nod tanpa sekali pun mengetahui kunci peribadi itu.](/micrographics/private-key-public-info-01/ms.md)

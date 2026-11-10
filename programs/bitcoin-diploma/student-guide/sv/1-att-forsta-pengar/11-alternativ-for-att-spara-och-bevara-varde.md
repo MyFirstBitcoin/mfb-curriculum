@@ -4,6 +4,7 @@ Människor söker ofta alternativ till att hålla kontanter när de tror att kon
 
 
 <!-- micrographic: saving-alternatives-table-01 -->
+[En tabell med tre alternativ till att inneha kontanter (ädelmetaller, fastigheter och aktier), med skäl till varför människor kan välja varje alternativ och dess viktiga avvägningar. Inget alternativ rankas högre än de andra.](/micrographics/saving-alternatives-table-01/sv.md)
 
 
 En [tillgång](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) är något som en person kan äga eller göra anspråk på och som kan ha ett [värde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); den fyller inte automatiskt alla pengars funktioner. En bostad kan bevara [värde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) men är inte praktisk att använda för att köpa mat. En aktie kan vara lätt att sälja i ett land men otillgänglig för någon utan en värdepappersdepå. [Guld](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) har fungerat som pengar under långa perioder av historien men kan vara svårt att äkthetskontrollera eller dela upp vid en mindre transaktion.

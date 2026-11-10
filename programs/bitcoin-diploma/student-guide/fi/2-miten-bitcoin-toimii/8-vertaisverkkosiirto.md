@@ -8,6 +8,7 @@ Vertaisperiaate ei aina tarkoita, että vain kaksi tietokonetta viestii suoraan 
 
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[Lähettäjä allekirjoittaa siirron ja lähettää sen monille verkon solmuille, jotka välittävät sitä eteenpäin, kunnes se saavuttaa vastaanottajan. Lähettäjä tai vastaanottaja ei tarvitse minkään keskitetyn Bitcoin-operaattorin hyväksyntää.](/micrographics/peer-to-peer-route-01/fi.md)
 
 
 Käyttäjät voivat silti valita [välikäsiä](https://curriculum.myfirstbitcoin.org/lexicon/en/#intermediary). Vaihtopalvelu voi säilyttää bitcoinia asiakkaiden puolesta. Maksupalvelu voi yksinkertaistaa laskutusta. Palveluntarjoajan ylläpitämä lompakko voi hallinnoida avaimia. Nämä palvelut voivat olla käteviä, mutta silloin käyttäjä on riippuvainen palvelun säännöistä ja turvallisuudesta.

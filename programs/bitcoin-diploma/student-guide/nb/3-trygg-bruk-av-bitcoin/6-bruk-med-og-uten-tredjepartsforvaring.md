@@ -1,5 +1,6 @@
 # 3.6 Bruk med og uten tredjepartsforvaring
 
+<!-- card: definition -->
 > **Definition – Forvaring**
 >
 > [Forvaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) besvarer et praktisk spørsmål: hvem kontrollerer nøklene som kreves for å bruke bitcoinene?
@@ -15,10 +16,12 @@ I en **ikke-depotbasert** eller **selvforvaltet** lommebok kontrollerer DE nøkl
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[Ved tredjepartsoppbevaring kontrollerer en tjeneste nøklene og godkjenner betalinger, så saldoen er et løfte fra tjenesten. Ved egenoppbevaring kontrollerer brukeren nøklene og sikkerhetskopiene; begge alternativene innebærer avhengigheter og risiko for svikt.](/micrographics/who-controls-keys-01/nb.md)
 
 
 
 <!-- micrographic: custody-comparison-table-01 -->
+[En tabell som sammenligner bruk med tredjepartsforvaring og egenforvaring: hvem som har nøklene, hvem som håndterer gjenoppretting, og den viktigste avveiningen ved hver modell. Ingen av modellene er risikofrie.](/micrographics/custody-comparison-table-01/nb.md)
 
 
 [Forvaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) er ikke alltid åpenbart ut fra grensesnittet. Hvis De ikke kan kontrollere gjenopprettingsmetoden og trenger et selskaps godkjenning for et uttak, bruker De sannsynligvis en [forvalter](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian). [Egenforvaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) er ikke en prøve på personlig verdi; det viktige steget er å identifisere hvilken tillit og risiko som er involvert.

@@ -14,6 +14,7 @@ Proszę postępować w następującej kolejności:
 
 
 <!-- micrographic: translation-workflow-01 -->
+[Tłumaczenie to proces weryfikacji i testowania: należy przygotować jasny tekst angielski, przetłumaczyć jego znaczenie, zweryfikować tłumaczenie ze specjalistą językowym i edukatorem, przetestować instrukcje bezpieczeństwa z udziałem osób uczących się, a następnie potwierdzić równoważność standardów. Jeśli instrukcje bezpieczeństwa są niejasne, należy wrócić do ich sformułowania.](/micrographics/translation-workflow-01/pl.md)
 
 
 Proszę unikać idiomów i metafor, których nie da się jednoznacznie oddać w innym języku. Przy stosowaniu analogii proszę zawsze wskazać, co ona wyjaśnia, a czego nie.

@@ -4,22 +4,26 @@
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Ana rubuta biyan kuɗi na kan sarkar tubalai kai tsaye a cikin sarkar tubalan Bitcoin, yayin da Lightning cibiyar biyan kuɗi ce da aka gina a kan Bitcoin don biyan kuɗi cikin sauri kuma akai-akai, wanda kuma zai iya gaza. A kowace hanya, wani ɓangare na uku zai iya riƙe kuɗin a madadin mai su, ko kuma mai kuɗin ya riƙe su da kansa.](/micrographics/on-chain-and-lightning-01/ha.md)
 
 
 
+<!-- card: definition -->
 > **Definition – Biyan kuɗi a kan sarkar bayanai da ta Lightning**
 >
 > [Biyan kuɗi a kan sarkar bayanai](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment) ana rubuta su a tsarin Bitcoin na [sarkar tubalan bayanai](https://curriculum.myfirstbitcoin.org/lexicon/en/#blockchain) kuma suna samun [tabbatarwa](https://curriculum.myfirstbitcoin.org/lexicon/en/#confirmation). Lightning hanyar sadarwar biyan kuɗi ce da aka gina a kan Bitcoin, wadda za ta iya tallafa wa biyan kuɗi cikin sauri kuma akai-akai. Biyan kuɗi ta Lightning na iya kammaluwa da sauri ko ya gaza, kuma walat ɗinsa na iya kasancewa ƙarƙashin kulawar wani ko ƙarƙashin kulawar mai shi da kansa.
 
 
 
-> **Dark – Hanyar biyan kuɗi ba ta ƙayyade wanda ke riƙe da iko kan kuɗin ba**
+<!-- card: dark -->
+> **Hanyar biyan kuɗi ba ta ƙayyade wanda ke riƙe da iko kan kuɗin ba**
 >
 > Biyan kuɗi a kan sarkar bayanai da ta Lightning suna da bambance-bambance wajen [sadaukar da wasu abubuwa don samun wasu fa'idodi](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Walat na Lightning na iya kasancewa ƙarƙashin kulawar wani ko ƙarƙashin kulawar mai shi da kansa, kuma biyan kuɗin da ya yi nasara cikin sauri ba ya tabbatar da cewa wani sabis ya dace da adana kuɗi masu yawa ko da kowane yanayi.
 
 
 
 <!-- micrographic: onchain-lightning-table-01 -->
+[Tebur da ke kwatanta Bitcoin a kan sarka da Lightning: bayanan karɓa, sakamakon biyan kuɗi, amfani da aka saba da abubuwan da masu farawa za su bincika. A kowace hanya, mai ba da sabis zai iya riƙe muku kuɗi ko kuma ku riƙe su da kanku.](/micrographics/onchain-lightning-table-01/ha.md)
 
 
 Wace hanya mai karɓa yake tsammani? Ku tabbatar ko ya bayar da adireshin karɓar kuɗi a kan sarkar bayanai ko kuma [takardar neman biyan kuɗi ta Lightning](https://curriculum.myfirstbitcoin.org/lexicon/en/#lightning-invoice) ko wata buƙata kafin ku biya. Walat na sarkar bayanai ba zai iya biyan kowace [takardar neman biyan kuɗi ta Lightning](https://curriculum.myfirstbitcoin.org/lexicon/en/#lightning-invoice) kai tsaye ba, kuma walat na Lightning ba lallai ya tallafa wa kowane aiki a kan sarkar bayanai ba. Wasu manhajoji suna tallafa wa hanyoyin biyu, amma suna iya ƙara caji ko sa a dogara da wasu sabis. Cikakken bayani kan saita Lightning, tashoshi, tsara hanyoyin wucewar biyan kuɗi, da [wadatar kuɗaɗen gudanar da mu'amala](https://curriculum.myfirstbitcoin.org/lexicon/en/#lightning-liquidity) suna cikin [Babban Matakin Koyo](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/); yin atisaye na zahiri a yankinku yana cikin **Kashi na 4** idan yin hakan yana da aminci kuma ya dace.

@@ -13,3 +13,4 @@ Hver del af Bitcoin-diplomet har en særskilt funktion.
 
 
 <!-- micrographic: learning-ecosystem-map-01 -->
+[Elevvejledningen giver forklaringer, underviservejledningen understøtter undervisningen, og udvalgte aktiviteter fra ressourcecentret understøtter øvelserne. Evalueringsskemaet indeholder fortrolige evalueringsresultater.](/micrographics/learning-ecosystem-map-01/da.md)

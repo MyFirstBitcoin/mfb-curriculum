@@ -10,6 +10,7 @@ Beş parçalı bir harita kullanın:
 
 
 <!-- micrographic: five-part-response-01 -->
+[Beş unsur bir araya gelerek çifte harcama sorununa yanıt verir: eşler arası ağ, dijital imzalar, bloklar ve madencilik, bağımsız doğrulama ve en fazla birikmiş iş ispatına sahip ortak geçmiş. Bu unsurlar birlikte, ağın merkezi bir otorite olmadan ikinci bir harcamayı reddetmesini sağlar.](/micrographics/five-part-response-01/tr.md)
 
 
 Hiçbir parça, Bitcoin'in inandırıcı [kıtlığını](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) tek başına yaratmaz. “[Blok zinciri](https://curriculum.myfirstbitcoin.org/lexicon/en/#blockchain) her şeyi çözer” demekten kaçının.

@@ -11,6 +11,7 @@ Ví Lightning có thể là ví lưu ký hoặc tự lưu ký. Một [ví phần
 
 
 <!-- micrographic: hot-and-cold-wallets-01 -->
+[Ví nóng lưu khóa ký trên thiết bị có kết nối internet như điện thoại; phương thức lưu trữ lạnh giữ khóa ký tách biệt khỏi mọi thiết bị có kết nối internet. Ai kiểm soát khóa là một câu hỏi riêng.](/micrographics/hot-and-cold-wallets-01/vi.md)
 
 
 Hãy yêu cầu học viên chọn một công cụ cho một mục đích giả định, sau đó yêu cầu họ nêu rõ lợi ích và rủi ro mới phát sinh. Đừng yêu cầu họ lựa chọn công cụ cho tài sản thực tế của mình.

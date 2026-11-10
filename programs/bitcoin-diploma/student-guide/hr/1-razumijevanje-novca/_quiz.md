@@ -1,6 +1,6 @@
 # Quiz – Razumijevanje novca: kratka provjera
 
-## Question 1
+## Pitanje 1
 
 Zašto se novac prihvaća?
 
@@ -9,11 +9,11 @@ Zašto se novac prihvaća?
 * [ ] Uklanja sva pravila
 * [ ] Pretvara usluge u dobra
 
-### Explanation
+### Objašnjenje
 
 Novac pomaže nepoznatim ljudima uskladiti razmjenu kroz vrijeme jer očekuju da će ga drugi kasnije prihvatiti. I dalje ovisi o povjerenju, pravilima i društvenoj prihvaćenosti. Ponovite gradivo iz priručnika za polaznike, modul 1, „Zašto novac postoji”.
 
-## Question 2
+## Pitanje 2
 
 Izražavanje cijena, plaćanje, štednja: koje su to funkcije?
 
@@ -22,11 +22,11 @@ Izražavanje cijena, plaćanje, štednja: koje su to funkcije?
 * [ ] Sredstvo razmjene; sredstvo očuvanja vrijednosti; obračunska jedinica
 * [ ] Oskudnost; oskudnost; oskudnost
 
-### Explanation
+### Objašnjenje
 
 Obračunska jedinica služi za izražavanje cijena, sredstvo razmjene prihvaća se pri plaćanju, a sredstvo očuvanja vrijednosti prenosi vrijednost u budućnost. Ponovite gradivo iz priručnika za polaznike, modul 1, „Funkcije i svojstva novca”.
 
-## Question 3
+## Pitanje 3
 
 Razmjena riže za cipele ne uspijeva: zašto?
 
@@ -35,11 +35,11 @@ Razmjena riže za cipele ne uspijeva: zašto?
 * [ ] Nema odobrenja banke
 * [ ] Riža se ne može razmjenjivati
 
-### Explanation
+### Objašnjenje
 
 Izravna trampa otežana je kada obje osobe istodobno ne žele ono što druga nudi. To je problem dvostruke podudarnosti želja. Ponovite gradivo iz priručnika za polaznike, modul 1, „Trampa i dvostruka podudarnost želja”.
 
-## Question 4
+## Pitanje 4
 
 Cijene +10%, dohodak +5%: što je s kupovnom moći?
 
@@ -48,6 +48,6 @@ Cijene +10%, dohodak +5%: što je s kupovnom moći?
 * [x] Pada
 * [ ] Ne može se odrediti
 
-### Explanation
+### Objašnjenje
 
 Kupovna moć označava ono što se novcem može kupiti. Ako cijene rastu brže od dohotka, tim se dohotkom može kupiti manje. Ponovite gradivo iz priručnika za polaznike, modul 1, „Inflacija i kupovna moć”.

@@ -12,6 +12,7 @@ Costruisca una linea del tempo a strati o intrecciata, anziché un'unica freccia
 
 
 <!-- micrographic: forms-of-money-01 -->
+[Sei forme di moneta compaiono da sinistra a destra nell'ordine in cui sono nate: scambio diretto, moneta merce, monete standard, carta rappresentativa, moneta bancaria e statale e moneta digitale. Ogni nuova forma inizia più tardi mentre le forme più antiche continuano ad affiancarla, per cui molte forme coesistono invece di sostituirsi l'una all'altra.](/micrographics/forms-of-money-01/it.md)
 
 
 Inviti a proporre integrazioni legate al contesto locale. Chieda quali forme siano coesistite, anziché presumere che una abbia sostituito completamente l'altra.

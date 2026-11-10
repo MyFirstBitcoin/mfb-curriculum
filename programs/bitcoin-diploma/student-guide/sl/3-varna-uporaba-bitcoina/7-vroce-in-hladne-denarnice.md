@@ -1,11 +1,13 @@
 # 3.7 Vroče in hladne denarnice
 
+<!-- card: definition -->
 > **Definition – Vroča denarnica**
 >
 > Posamezna [vroča denarnica](https://curriculum.myfirstbitcoin.org/lexicon/en/#hot-wallet) upravlja ključe na napravi, povezani z internetom, kot je telefon ali računalnik. Priročna je za redna plačila, vendar ima večjo napadalno površino, saj jo lahko ogrozijo zlonamerna programska oprema, nevarne posodobitve, lažno predstavljanje, fizični dostop ali vdor v napravo.
 
 
 
+<!-- card: definition -->
 > **Definition – Hladna denarnica**
 >
 > Posamezna [hladna denarnica](https://curriculum.myfirstbitcoin.org/lexicon/en/#cold-wallet) označuje ureditev, pri kateri so ključi za podpisovanje ločeni od naprave za splošno rabo, povezane z internetom.
@@ -13,9 +15,11 @@
 
 
 <!-- micrographic: hot-and-cold-wallets-01 -->
+[Vroča denarnica hrani ključe za podpisovanje na napravi, povezani z internetom, kot je telefon; pri hladni denarnici so ti shranjeni ločeno od vseh povezanih naprav. Kdo nadzoruje ključe, je ločeno vprašanje.](/micrographics/hot-and-cold-wallets-01/sl.md)
 
 
 
+<!-- card: definition -->
 > **Definition – Strojna denarnica**
 >
 > Posamezna [strojna denarnica](https://curriculum.myfirstbitcoin.org/lexicon/en/#hardware-wallet) označuje namensko napravo, zasnovano za ustvarjanje, zaščito in uporabo ključev, pri čemer jih ohranja ločene od povezanega računalnika ali telefona. Posamezna [strojna denarnica](https://curriculum.myfirstbitcoin.org/lexicon/en/#hardware-wallet) lahko podpira hladno ureditev, vendar izraza nista zamenljiva; [skrbništvo](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) in obnovitev sta ločeni vprašanji.
@@ -23,6 +27,7 @@
 
 
 <!-- micrographic: wallet-arrangements-table-01 -->
+[Tabela treh načinov hrambe (vroča denarnica, strojna denarnica ali hladna hramba, skrbniški račun), pri vsakem sta navedeni običajna prednost in odgovornost, ki je ne smete pozabiti. Nadzor nad ključi in okolje za podpisovanje sta ločeni vprašanji.](/micrographics/wallet-arrangements-table-01/sl.md)
 
 
 **Poskusite:** Za majhno, izmišljeno plačilo in manj pogosto izmišljeno plačilo pojasnite, kateri [kompromis](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) je pomembnejši. Ne izbirajte orodja ali zneska za lastna sredstva.

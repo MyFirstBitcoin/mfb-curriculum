@@ -1,5 +1,6 @@
 # 1.4 Takas ve ihtiyaçların çifte çakışması
 
+<!-- card: definition -->
 > **Definition – Takas**
 >
 > [Takas](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter), bir mal veya hizmetin doğrudan başka bir mal veya hizmetle değiştirilmesidir. Küçük çaplı bir alışverişte iyi işleyebilir, ancak çok sayıda kişi ve ürün söz konusu olduğunda zorlaşır.
@@ -11,6 +12,7 @@ Diyelim ki **Amina**'nın pirinci var ve ayakkabı istiyor. **Luis**'in ayakkab�
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina'nın elinde pirinç var ve ayakkabı istiyor, Luis'in elinde ayakkabı var ve yemeklik yağ istiyor, Mei'nin elinde ise yemeklik yağ var ve tamir işi istiyor. Hiçbir ikili doğrudan takas yapamıyor, çünkü her ikilide kişilerden hiçbiri diğerinin sunduğu şeyi istemiyor.](/micrographics/barter-mismatch-01/tr.md)
 
 
 Bir [takasın](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) doğrudan işleyebilmesi için her bir kişinin, diğerinin sunduğu şeyi aynı anda ve uygun miktarda istemesi gerekir. Ekonomistler buna [**ihtiyaçların çifte çakışması**](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-coincidence-of-wants) der.
@@ -31,3 +33,4 @@ Genel kabul görmüş bir para, satış ile satın almayı birbirinden ayırır.
 
 
 <!-- micrographic: sell-then-buy-01 -->
+[Amina pirincini bir kişiye genel kabul görmüş bir para karşılığında satar, ardından o parayla başka birinden ayakkabı satın alır. Satmak ve satın almak ayrı eylemler hâline gelir.](/micrographics/sell-then-buy-01/tr.md)

@@ -1,11 +1,13 @@
 # 1.9 Inflation og købekraft
 
+<!-- card: definition -->
 > **Definition – Prisinflation**
 >
 > Folk bruger udtrykket “[inflation](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation)” på mere end én måde. I denne vejledning betyder [prisinflation](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation) en vedvarende stigning i det generelle [prisniveau](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) for varer og tjenesteydelser. Hvis Deres indkomst og opsparing ikke stiger lige så hurtigt som [priserne](https://curriculum.myfirstbitcoin.org/lexicon/en/#price), kan De købe mindre for Deres penge.
 
 
 
+<!-- card: definition -->
 > **Definition – Købekraft**
 >
 > [Købekraft](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) er den mængde varer og tjenesteydelser, som en pengeenhed kan købe. Hvis prisen på en kurv af basale varer stiger fra 100 enheder af en [valuta](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) til 110, kan de samme 100 enheder ikke længere købe hele kurven. Deres [købekraft](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) i forhold til den kurv er faldet.
@@ -15,6 +17,7 @@
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[De samme 100 valutaenheder kan købe hele varekurven med basale varer, når den koster 100, men ikke når den samme varekurv koster 110. Prisniveauet er steget, og pengenes købekraft er faldet.](/micrographics/same-money-smaller-basket-01/da.md)
 
 
 Nogle bruger “[inflation](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation)” i betydningen [monetær ekspansion](https://curriculum.myfirstbitcoin.org/lexicon/en/#monetary-inflation): en udvidelse af penge- og kreditmængden. Denne udvidelse kan bidrage til [prisinflation](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation) sammen med forsyningsforstyrrelser, ændringer i efterspørgslen, [valutaens](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) svækkelse, skatter, regulering og ændringer i produktionsomkostningerne. Årsagerne og virkningerne er ofte genstand for debat. Undgå forklaringer, der tilskriver enhver ændring i [prisen](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) én enkelt faktor.
@@ -24,7 +27,8 @@ Nogle bruger “[inflation](https://curriculum.myfirstbitcoin.org/lexicon/en/#in
 Raten for [inflation](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation) er et gennemsnit. Deres personlige oplevelse kan være anderledes, fordi Deres forbrug ikke er identisk med den varekurv, der måles på. Udgifter til mad, bolig, transport, uddannelse og sundhed kan ændre sig i forskelligt tempo.
 
 
-> **Light – Sammenlign købekraften lokalt**
+<!-- card: light -->
+> **Sammenlign købekraften lokalt**
 >
 > Vælg en almindelig vare i Deres lokalområde. Notér dens [pris](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) i dag. Spørg, hvad den kostede for flere år siden, og kontrollér derefter om muligt oplysningerne i en pålidelig kilde. Ændrede indkomsten sig i samme takt? Hvilke andre faktorer kan forklare ændringen?
 >

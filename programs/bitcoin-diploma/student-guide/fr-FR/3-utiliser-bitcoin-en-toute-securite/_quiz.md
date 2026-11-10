@@ -9,7 +9,7 @@ Un portefeuille Bitcoin :
 * [ ] Supprime la protection des secrets
 * [ ] Annule les transactions
 
-### Explanation
+### Explication
 
 Bitcoin est enregistré dans le registre partagé ; un portefeuille gère les informations permettant d’y accéder et de l’utiliser. Consultez le guide de l’élève, module 3, « Portefeuilles ».
 
@@ -22,7 +22,7 @@ Bitcoin est enregistré dans le registre partagé ; un portefeuille gère les i
 * [x] Adresse de réception
 * [ ] Mot de passe
 
-### Explanation
+### Explication
 
 Une adresse de réception peut être partagée pour recevoir un paiement. Les phrases de récupération, les clés privées et les mots de passe doivent rester secrets. Consultez le guide de l’élève, module 3, « Adresses » et « Clés ».
 
@@ -35,7 +35,7 @@ Phrase de récupération saisie en ligne. Quelle est la prochaine étape la plus
 * [x] Nouvelle phrase de récupération, puis transfert des fonds
 * [ ] Réutiliser la phrase de récupération
 
-### Explanation
+### Explication
 
 Considérez toute phrase de récupération saisie en ligne comme compromise. Créez un nouveau portefeuille avec une nouvelle phrase de récupération, puis transférez les fonds uniquement après avoir vérifié la destination. Consultez le guide de l’élève, module 3, « Phrases de récupération ».
 
@@ -48,6 +48,6 @@ Quelle est la principale différence entre la garde par un tiers et la garde aut
 * [ ] La limite de l’offre
 * [ ] Les frais de transaction
 
-### Explanation
+### Explication
 
 La garde par un tiers et la garde autonome se distinguent par la personne qui contrôle les clés et assume la responsabilité associée. Aucune des deux ne garantit la sécurité ni la réversibilité des transactions. Consultez le guide de l’élève, module 3, « Garde par un tiers et garde autonome ».

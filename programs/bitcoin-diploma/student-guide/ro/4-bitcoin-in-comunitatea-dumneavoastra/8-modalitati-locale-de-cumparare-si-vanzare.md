@@ -24,6 +24,7 @@ Pentru schimburile în persoană, folosiți un loc public și adecvat, evitați 
 
 
 <!-- micrographic: compare-local-pathways-01 -->
+[Un tabel gol pentru compararea a trei opțiuni locale, A, B și C, în funcție de nume, cerințe KYC, model de custodie, rețele acceptate, reputație și metode de alimentare cu fonduri, cu spațiu pentru observații.](/micrographics/compare-local-pathways-01/ro.md)
 
 
 

@@ -18,3 +18,4 @@ A Lightning não é uma moeda separada. Um pagamento Lightning bem-sucedido não
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Os pagamentos on-chain são registrados diretamente na blockchain do Bitcoin, enquanto a Lightning é uma rede de pagamentos construída sobre o Bitcoin para pagamentos rápidos e frequentes, que também podem falhar. Qualquer um dos caminhos pode ser custodial ou de autocustódia.](/micrographics/on-chain-and-lightning-01/pt-BR.md)

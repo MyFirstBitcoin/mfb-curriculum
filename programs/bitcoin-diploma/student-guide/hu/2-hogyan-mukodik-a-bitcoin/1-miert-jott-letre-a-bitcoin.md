@@ -10,6 +10,7 @@ A Bitcoint azért hozták létre, hogy megoldja ezt a problémát egy [egyenrang
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Pénzforgalmi szolgáltató esetén egyetlen szervezet vezeti a főkönyvet és hagy jóvá minden átutalást. A Bitcoin esetében a küldő aláír egy tranzakciót, a független csomópontok ellenőrzik, a bányászok pedig hozzáadják egy közös főkönyvhöz, így a fogadó kevésbé függ egy központi hatóságtól.](/micrographics/central-ledger-vs-bitcoin-01/hu.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)

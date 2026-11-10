@@ -1,5 +1,6 @@
 # 1.12 Digitale Zentralbankwährungen (CBDCs)
 
+<!-- card: definition -->
 > **Definition – Digitale Zentralbankwährung (CBDC)**
 >
 > Eine [digitale Zentralbankwährung](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), kurz [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), ist eine digitale Form von [Fiatgeld](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money), die als [Verbindlichkeit](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability) einer [Zentralbank](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) ausgegeben wird: Es handelt sich um eine Forderung, die die [Zentralbank](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) ihrem Inhaber schuldet. Sie unterscheidet sich von physischem Bargeld und von einer gewöhnlichen Einlage bei einer Geschäftsbank, auch wenn die Nutzererfahrung ähnlich aussehen kann.
@@ -13,6 +14,7 @@ Fragen Sie als Nächstes, was das Modell ermöglicht. Je nach Regeln kann eine [
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[Eine Tabelle, die Bargeld, Bankeinlagen, eine Retail-CBDC und Bitcoin danach vergleicht, wer sie ausgibt, welche Form sie haben, wer Zugang hat, wer Zahlungen sieht, welche Regeln für die Geldmenge gelten und wie man sie überprüft. Digital ist nicht dasselbe wie dezentral: Eine CBDC wird weiterhin von der Zentralbank ausgegeben, und Zugang, Sichtbarkeit und Überprüfbarkeit hängen von ihrer Ausgestaltung ab.](/micrographics/cbdc-comparison-table-01/de.md)
 
 
 Digital bedeutet nicht automatisch dezentral, knapp, privat oder unabhängig überprüfbar. Eine [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) mag digitale Technologie nutzen, ist aber dennoch [Fiatgeld](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money), wenn ihr [Emittent](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer), ihre Regeln für die Geldmenge, ihre Zugangsregeln und ihre Zahlungsberechtigungen zentral verwaltet bleiben.

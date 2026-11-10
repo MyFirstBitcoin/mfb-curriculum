@@ -19,6 +19,7 @@ Používejte tento základní postup:
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Pět varovných signálů podvodu: naléhavost, vydávání se za někoho jiného, změněný cíl platby, zaručené výnosy a žádosti o tajné údaje.](/micrographics/scam-red-flags-01/cs.md)
 
 
 #### Aktivita: stanoviště s podvody

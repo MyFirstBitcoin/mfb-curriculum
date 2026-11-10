@@ -6,6 +6,7 @@ Was würde Sie vor einer Zahlung oder Installation innehalten lassen? Betrachten
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Fünf Warnsignale für Betrug: Zeitdruck, Identitätsbetrug, eine geänderte Zieladresse, garantierte Renditen und Forderungen nach Geheimnissen.](/micrographics/scam-red-flags-01/de.md)
 
 
 Die sichere Reaktion lautet immer: **Innehalten. Nichts preisgeben. Nichts senden. Den Kommunikationskanal schließen. Unabhängig über eine bekannte Quelle überprüfen. Um Hilfe bitten, ohne Geheimnisse preiszugeben.** Eine bekannte Quelle ist eine offizielle Website, ein App-Store-Eintrag oder ein Kontaktweg, den Sie selbstständig aufgerufen haben – nicht über eine Werbeanzeige, eine Direktnachricht oder einen unerwarteten Link. Prüfen Sie den Herausgeber und die Webadresse, vergleichen Sie sie mit der offiziellen Dokumentation und suchen Sie Kontaktdaten separat heraus. Wenn die Quelle, die Anweisungen oder die Zahlungsdaten vom vorgeführten Ablauf abweichen, halten Sie inne und holen Sie sich Hilfe bei Ihrer Lehrkraft oder einer vertrauenswürdigen Anlaufstelle vor Ort, ohne eine [Seed-Phrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) oder einen [privaten Schlüssel](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) preiszugeben. Eine echte Gelegenheit hält einer sorgfältigen Prüfung stand; ein Betrug ist oft darauf angewiesen, eine solche zu verhindern.

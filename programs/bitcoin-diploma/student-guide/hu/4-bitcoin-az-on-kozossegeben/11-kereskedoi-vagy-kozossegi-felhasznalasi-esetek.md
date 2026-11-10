@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[Egy Bitcoint elfogadó kereskedő négy területen tevékenykedik: marketing, képzés, könyvelés és értékesítés.](/micrographics/merchant-payment-operations-01/hu.md)
 
 
 Egy kereskedőnek többre van szüksége egy fogadás gombnál. A teljes fizetési folyamat magában foglalhatja az árazást, a munkatársak képzését, a bizonylatokat, a visszatérítéseket, [a letétkezelést](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), az átváltást, a könyvelést, az adókat, az eszközbiztonságot és a támogatást.

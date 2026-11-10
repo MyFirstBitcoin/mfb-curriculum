@@ -18,6 +18,7 @@ Cover:
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[A merchant who accepts Bitcoin works across four areas: marketing, training, accounting and sales.](/micrographics/merchant-payment-operations-01/en.md)
 
 
 **Production:** The learner performs or directs a payment and refund scenario. They must authenticate the customer, request fresh return information, check the destination and amount, identify who pays any fee, and record the result without exposing unnecessary data.

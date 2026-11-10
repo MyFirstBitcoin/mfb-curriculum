@@ -36,6 +36,7 @@ Kupitia [Mtandao wa Elimu ya Bitcoin](https://myfirstbitcoin.org/about/network),
 
 
 <!-- micrographic: final-safety-check-01 -->
+[Orodha ya mwisho ya ukaguzi wa usalama, yenye alama za tiki: linda siri, thibitisheni maelezo ya malipo, tumieni majaribio madogo, na simameni mnaposhinikizwa. Ikiwa jambo lolote halieleweki, simameni na mjifunze zaidi kabla ya kuchukua hatua.](/micrographics/final-safety-check-01/sw.md)
 
 
 Kumbuka kanuni hizi:
@@ -57,6 +58,7 @@ Elimu hupunguza hatari lakini haiwezi kuiondoa kabisa. Hali ikiwa haieleweki, si
 
 
 <!-- micrographic: curriculum-source-panel-01 -->
+[Paneli yenye msimbo wa QR na kiungo kilichochapishwa github.com/MyFirstBitcoin/mfb-curriculum, chanzo rasmi cha Diploma ya Bitcoin, ambapo toleo huangaliwa na makosa huripotiwa.](/micrographics/curriculum-source-panel-01/sw.md)
 
 
 Bitcoin Diploma ni mtaala hai wa chanzo huria. Masahihisho na maboresho yanaweza kukaguliwa hadharani.

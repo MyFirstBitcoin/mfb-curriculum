@@ -1,5 +1,6 @@
 # 3.3 Naslovi
 
+<!-- card: definition -->
 > **Definition – Naslov Bitcoin**
 >
 > Posamezen [naslov Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) je javni podatek za prejem [plačila v verigi blokov](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment). Denarnica ga običajno prikaže kot besedilo in kodo QR, da vam lahko druga oseba pošlje bitcoin. Za razliko od gesla ali [zasebnega ključa](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) z naslovom ni mogoče odobriti porabe sredstev.
@@ -7,6 +8,7 @@
 
 
 <!-- micrographic: address-two-formats-01 -->
+[Zaslon denarnice za prejemanje prikazuje en vzorčni naslov Bitcoin dvakrat: kot kodo QR in kot besedilo. Oboje predstavlja iste javne podatke za prejemanje in z nobenim od teh prikazov ni mogoče odobriti porabe.](/micrographics/address-two-formats-01/sl.md)
 
 
 Če želite prejeti [plačilo v verigi blokov](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), od kod naj pridobite naslov? Odprite denarnico, v katero želite prejeti plačilo, in uporabite njen zaslon za prejemanje. Pošiljatelj lahko optično prebere kodo QR ali kopira naslov. Tako se izognete napakam, ki lahko nastanejo pri ročnem vnašanju dolgih nizov znakov.
@@ -15,9 +17,9 @@ Pri vsaki zahtevi za plačilo preverite predvideni način plačila. Naslov za pl
 
 
 <!-- micrographic: sample-lightning-invoice-01 -->
+[Vzorčni račun Lightning na zaslonu prikazuje način plačila, prejemnika in znesek ob kodi QR. Berljivi podatki in koda QR predstavljajo isti zahtevek za plačilo v dveh oblikah.](/micrographics/sample-lightning-invoice-01/sl.md)
 
 
 
-> **Light**
->
+<!-- card: light -->
 > Kadar gre za pomembno plačilo, ne sklepajte, da je naslov varen samo zato, ker se vam zdi znan. Preverite predvidenega prejemnika, ustrezno [omrežje Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network), cilj plačila in način plačila. Če vam postopek ali znesek ni poznan, najprej opravite preizkus z majhnim zneskom.

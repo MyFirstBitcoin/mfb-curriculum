@@ -1,5 +1,6 @@
 # 1.7 Kuɗin fiat
 
+<!-- card: definition -->
 > **Definition – Kuɗin fiat**
 >
 > [Kuɗin fiat](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) su ne [kuɗi](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) da ake fitarwa bisa ikon gwamnati, yawanci ta hannun [babban banki](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank), waɗanda ba za a iya fansarsu da wani ƙayyadadden adadin haja kamar [zinariya](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold). Gwamnatoci suna tallafa wa amfani da su—kuma a wasu yanayi suna tilasta shi—ta hanyar wajabta biyan haraji da su da kuma kafa ƙa'idojin kuɗin da doka ta amince da su wajen biyan bashi. Takamaiman ƙa'idojin karɓar biyan kuɗi da warware [basussuka](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt) sun bambanta daga wannan yankin iko zuwa wancan.
@@ -11,12 +12,14 @@ Tsarin kuɗin fiat yana da manyan masu ruwa da tsaki da dama:
 
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Masu ruwa da tsaki a tsarin kuɗin fiat da abin da ke gudana a tsakaninsu: babban banki yana tsara manufofi da kammala biyan kuɗi tsakanin bankuna, bankunan kasuwanci suna riƙe da kuɗaɗen ajiya waɗanda suke bashin abokan hulɗa a kansu, ayyukan biyan kuɗi suna isar da umarni, gwamnati tana karɓar haraji da kashe kuɗi, jama'a da 'yan kasuwa kuma suna biyan kuɗi da karɓar kuɗi.](/micrographics/fiat-system-flows-01/ha.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
-> **Light – Ku nazarci biyan kuɗi a yankinku**
+<!-- card: light -->
+> **Ku nazarci biyan kuɗi a yankinku**
 >
 > Ku zaɓi misali ɗaya na biyan kuɗi da aka saba yi a al'ummarku, kamar biyan kuɗin sufuri, abinci, ko katin waya; karɓar albashi; ko biyan wani lissafin kuɗi. Idan kun fi so, ku yi amfani da wani yanayi da kuka ƙirƙira wanda zai iya faruwa a zahiri. A cikin jimloli uku ko huɗu, ku bayyana:
 >

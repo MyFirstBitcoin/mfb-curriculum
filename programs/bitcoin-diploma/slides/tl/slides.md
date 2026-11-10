@@ -75,7 +75,8 @@ Ang pera ay isang ari-ariang tinatanggap ng mga tao dahil inaasahan nilang tatan
 * Halaga sa paglipas ng panahon at sa iba't ibang lugar
 
 
-> **Callout – Maikling tanong**
+<!-- card: callout -->
+> **Maikling tanong**
 >
 > Anong suliranin sa palitan o koordinasyon ang natutulungang lutasin ng pera?
 
@@ -108,7 +109,8 @@ Maaaring mas mahusay na magampanan ng isang anyo ang isang tungkulin kaysa sa ib
 Walang anyong nakakakuha ng perpektong marka. Ang “**Matatag na salapi**” ay isang pagtatasa: maglahad kayo ng mga pamantayan at ihambing ang mga anyo ayon sa parehong mga pamantayan.
 
 
-> **Callout – Mag-isip kayo nang mapanuri**
+<!-- card: callout -->
+> **Mag-isip kayo nang mapanuri**
 >
 > Aling mga katangian ang naging mahalaga nang piliin ninyo ang isang uri ng salapi o ari-arian kaysa sa iba?
 
@@ -152,6 +154,7 @@ Hindi sapat ang kakapusan lamang upang matiyak ang halaga; mahalaga rin ang dema
 ---
 
 <!-- micrographic: same-water-different-value-01 -->
+[Ang parehong bote ng malinis na tubig ay mura sa refrigerator ng tindahan kung saan madaling makahanap ng tubig, at higit na mas mahalaga sa isang mainit na disyerto sa panahon ng kakulangan. Nagbabago ang halaga at presyo batay sa pagkakaroon ng suplay, pangangailangan, at mga kalagayan.](/micrographics/same-water-different-value-01/tl.md)
 
 ---
 
@@ -162,6 +165,7 @@ Hindi sapat ang kakapusan lamang upang matiyak ang halaga; mahalaga rin ang dema
 ---
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Tinitingnan ng isang mamimiling may limitadong pera ang mga pagpipilian sa harap niya: pagkain para sa ngayon, transportasyon, o pag-iipon para sa susunod. Kapag pinili ang isa, isinusuko ang iba pa—ito ang kapalit na halaga—at walang pagpipiliang minarkahang tama.](/micrographics/one-choice-two-uses-01/tl.md)
 
 ---
 
@@ -195,6 +199,7 @@ Ang maginhawang pagbabayad at naiaangkop na pagpapautang ay nagdudulot ng pagdep
 ---
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Ang mga kalahok sa isang sistemang fiat at kung ano ang dumadaloy sa pagitan nila: nagtatakda ng patakaran ang bangko sentral at nagsasagawa ng pinal na pag-aayos ng mga bayaran sa pagitan ng mga bangko, humahawak ang mga komersiyal na bangko ng mga depositong pananagutan nila sa mga kliyente, naghahatid ng mga tagubilin ang mga serbisyo sa pagbabayad, nangongolekta ng buwis at gumagastos ang pamahalaan, at nagbabayad at tumatanggap ng bayad ang mga mamamayan at negosyo.](/micrographics/fiat-system-flows-01/tl.md)
 
 ---
 
@@ -230,10 +235,12 @@ Ang sabayang pag-withdraw ng maraming depositor ay maaaring magpahirap sa pagkuh
 ---
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Isang pinasimpleng paglalarawan ng pautang sa bangko: nag-aaplay ang nanghihiram, inaaprubahan ng bangko ang pautang at nagkakredito ng bagong deposito sa account ng nanghihiram, at kalaunan ay binabayaran ng nanghihiram sa bangko ang prinsipal kasama ang interes.](/micrographics/bank-loan-deposit-01/tl.md)
 
 ---
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Panganib sa likididad: maraming depositor ang pumipila upang mag-withdraw ngayon, at kulang ang salapi ng bangko sa kasalukuyan kahit na maaaring mabayaran pa ang mga pautang nito sa kalaunan. Panganib sa kakayahang magbayad ng utang: hindi nababayaran ng mga nangutang ang kanilang mga pautang sa pabahay, at bumababa ang halaga ng mga ari-arian ng bangko nang mas mababa sa mga obligasyon nito.](/micrographics/liquidity-vs-solvency-01/tl.md)
 
 ---
 
@@ -255,6 +262,7 @@ Maaaring mag-ambag ang pagdami ng pera at pagpapautang, kasama ng suplay, demand
 ---
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Mabibili ng parehong 100 yunit ng salapi ang lahat ng pangunahing bilihin sa basket kapag ang halaga nito ay 100, ngunit hindi kapag ang halaga ng parehong basket ay 110. Tumaas ang antas ng presyo at bumaba ang kakayahang bumili ng pera.](/micrographics/same-money-smaller-basket-01/tl.md)
 
 ---
 
@@ -308,7 +316,8 @@ Ang CBDC ay digital na salaping fiat na inilalabas bilang pagkakautang ng bangko
 Magkakaiba ang mga disenyo. Ang pagiging digital ay hindi awtomatikong nangangahulugang desentralisado, limitado ang suplay, pribado, o maaaring beripikahin nang nakapag-iisa.
 
 
-> **Callout – Suriin ninyo**
+<!-- card: callout -->
+> **Suriin ninyo**
 >
 > Sino ang naglalabas nito, sino ang maaaring gumamit nito, anong datos ang kinokolekta, at sino ang maaaring humarang sa mga pagbabayad o magbago ng mga tuntunin? Ano ang nangyayari kapag walang koneksiyon sa internet, at anong mga legal na proteksiyon ang umiiral?
 
@@ -327,7 +336,8 @@ Magkakaiba ang mga disenyo. Ang pagiging digital ay hindi awtomatikong nangangah
 Ano ang dahilan kung bakit kapaki-pakinabang ang inyong pera, at aling mga tuntunin ang nakasalalay sa mga institusyong pinagkakatiwalaan ninyo?
 
 
-> **Callout – Sandali para magnilay**
+<!-- card: callout -->
+> **Sandali para magnilay**
 >
 > Ano ang isang tanong tungkol sa pera na itinatanong ninyo ngayon na hindi ninyo naitanong noon?
 
@@ -357,6 +367,7 @@ Binabawasan ng Bitcoin ang pag-asa sa isang sentral na awtoridad sa pag-isyu at 
 ---
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Sa isang kumpanya ng pagbabayad, iisang organisasyon ang nagpapanatili ng talaan at nag-aapruba sa bawat paglilipat. Sa Bitcoin, nilalagdaan ng nagpadala ang isang transaksyon, sinusuri ito ng mga independiyenteng node at idinaragdag ito ng mga minero sa iisang pinagsasaluhang talaan, kaya hindi gaanong umaasa ang tatanggap sa isang sentral na awtoridad.](/micrographics/central-ledger-vs-bitcoin-01/tl.md)
 
 ---
 
@@ -393,6 +404,7 @@ Ang dobleng paggastos ay pagtatangkang ipadala ang iisang digital na yunit sa da
 ---
 
 <!-- micrographic: five-part-response-01 -->
+[Nagtutulungan ang limang bahagi upang lutasin ang problema ng dobleng paggastos: isang peer-to-peer na network, mga digital na lagda, mga bloke at pagmimina, malayang beripikasyon, at isang pinagsasaluhang kasaysayan na may pinakamaraming naipong patunay ng trabaho. Sama-sama, pinahihintulutan ng mga ito ang network na tanggihan ang pangalawang paggastos nang walang sentral na awtoridad.](/micrographics/five-part-response-01/tl.md)
 
 ---
 
@@ -411,6 +423,7 @@ Hindi sapat ang nakasulat na pahayag tungkol sa suplay: sino ang makapagpapatuna
 ---
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Ang limitasyon sa suplay na nakasulat sa isang website o sa database ng tagapag-isyu ay maaaring baguhin ng tagapag-isyu nang walang nakaaalam. Pampubliko ang tuntunin sa suplay ng Bitcoin, at sama-samang pinipigilan ng mga lagda, pampublikong kasaysayan, patunay ng trabaho, at pagberipika ng mga node ang pag-imbento ng mga bagong barya o ang paggastos ng parehong bitcoin nang dalawang beses.](/micrographics/claimed-or-verified-supply-01/tl.md)
 
 ---
 
@@ -452,12 +465,14 @@ Opsyonal pa rin ang mga serbisyo ng tagapamagitan; ang pagpili ng isa ay nagdara
 ---
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[Nilalagdaan ng isang nagpapadala ang isang transaksiyon at ipinapahayag ito sa maraming node ng network, na nagpapasa nito hanggang sa makarating ito sa tatanggap. Hindi kailangan ng pag-apruba ng isang sentral na tagapangasiwa ng Bitcoin para sa nagpapadala o sa tatanggap.](/micrographics/peer-to-peer-route-01/tl.md)
 
 ---
 
 ![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Apat na papel sa Bitcoin: ang mga gumagamit ay tumatanggap, nag-iingat at nagpapadala ng bitcoin, ang mga node ay nagsasariling nagbeberipika ng pagsunod sa mga tuntunin, ang mga minero ay bumubuo ng mga kandidatong bloke gamit ang patunay ng trabaho, at ang mga developer ay nagmumungkahi ng software. Walang iisang papel ang kumokontrol sa network.](/micrographics/bitcoin-participant-roles-01/tl.md)
 
 ---
 
@@ -466,7 +481,8 @@ Opsyonal pa rin ang mga serbisyo ng tagapamagitan; ang pagpili ng isa ay nagdara
 Hindi kayang gawing katanggap-tanggap ng mga minero ang mga di-wastong bloke sa mga tapat na node. Hindi kayang ipilit ng mga developer ang paggamit ng software. Maaaring gumanap ang isang tao ng ilang tungkulin.
 
 
-> **Callout – Biglaang tanong**
+<!-- card: callout -->
+> **Biglaang tanong**
 >
 > Bakit sinusuri ng isang node ang mga transaksiyon? Magbigay po kayo ng isang tuntuning sinusuri nito.
 
@@ -489,6 +505,7 @@ Pinoprotektahan ng pagmimina ang pagkakasunod-sunod ng mga transaksiyon; hindi i
 ![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Paulit-ulit na gumagawa ng hash ang isang minero para sa isang iminungkahing bloke hanggang sa ang isang resulta ay mas mababa sa target ng network, saka ipinapadala ang bloke sa buong network. Mabilis na sinusuri ng mga node ang patunay at bawat tuntunin bago mapabilang ang bloke sa blockchain: magastos gawin ang trabaho ngunit madaling beripikahin.](/micrographics/proof-of-work-process-01/tl.md)
 
 ---
 
@@ -509,10 +526,12 @@ Tinatanggihan ng mga node ang paglikha ng bitcoin na lampas sa itinakdang dami; 
 ---
 
 <!-- micrographic: bitcoin-issuance-supply-01 -->
+[Ang subsidyo sa bloke ay nagsisimula sa 50 bitcoin at nahahati sa kalahati tuwing 210,000 bloke, habang ang kabuuang nailabas na bitcoin ay tumataas patungo sa limitasyong 21 milyon. Ang mga bayarin sa transaksyon ay ibinabayad bilang karagdagan at hindi bagong bitcoin; walang ipinahihiwatig na pagtataya ng presyo.](/micrographics/bitcoin-issuance-supply-01/tl.md)
 
 ---
 
 <!-- micrographic: bitcoin-issuance-subsidy-01 -->
+[Ang subsidyo sa bloke ay nagsisimula sa 50 bitcoin at nahahati sa kalahati tuwing 210,000 bloke, habang ang kabuuang nailabas na bitcoin ay tumataas patungo sa limitasyong 21 milyon. Ang mga bayarin sa transaksyon ay ibinabayad bilang karagdagan at hindi bagong bitcoin; walang ipinahihiwatig na pagtataya ng presyo.](/micrographics/bitcoin-issuance-subsidy-01/tl.md)
 
 ---
 
@@ -528,7 +547,8 @@ Tinatanggihan ng mga node ang paglikha ng bitcoin na lampas sa itinakdang dami; 
 **Pagkiling sa buong yunit:** ang mababang presyo ng bawat buong yunit ay hindi patunay na mas sulit ito. Ihambing po ninyo ang bahaging kinakatawan nito sa kabuuang suplay, ang halagang sangkot, at ang mga panganib.
 
 
-> **Callout – Ipakita po ninyo ang inyong pag-unawa**
+<!-- card: callout -->
+> **Ipakita po ninyo ang inyong pag-unawa**
 >
 > Ilang sats po ang nasa 0.01 BTC? Bakit po maaaring gumamit ang isang tao ng mas mababa sa isang buong bitcoin?
 
@@ -586,7 +606,8 @@ Ang isang pamilyar na simbolo sa pangangalakal, presyong mukhang matatag, o puli
 * Walang tagubilin na bumili, magbenta, o panatilihin ang hawak
 
 
-> **Callout – Pagsusuri ng lokal na halaga**
+<!-- card: callout -->
+> **Pagsusuri ng lokal na halaga**
 >
 > Ihiwalay ang presyo sa merkado, lokal na pagtanggap, at personal na kagustuhan o pagkiling.
 
@@ -601,6 +622,7 @@ Suriin ninyo ang disenyo at pagpapatakbo nito, gayundin ang kuwento ng pinagmula
 ---
 
 <!-- micrographic: bitcoin-origin-timeline-01 -->
+[Ang pinagmulan ng Bitcoin sa apat na pangyayaring may petsa: noong 31 Oktubre 2008, inilathala ni Satoshi Nakamoto ang whitepaper na naglalarawan ng mga direktang online na pagbabayad na walang pinansiyal na tagapamagitan; noong 3 Enero 2009, sinimulan ng Genesis Block ang network ng Bitcoin, na may headline tungkol sa pagsagip sa mga bangko; noong 12 Enero 2009, nagpadala si Satoshi ng bitcoin kay Hal Finney sa unang naitalang transaksiyon sa pagitan ng dalawang tao; noong 22 Mayo 2010, nagbayad ang isang gumagamit ng 10,000 BTC para sa dalawang pizza, na ngayon ay ginugunita bilang Araw ng Bitcoin Pizza.](/micrographics/bitcoin-origin-timeline-01/tl.md)
 
 ---
 
@@ -629,7 +651,8 @@ Maaaring kabilang sa personal na pananagutan ang edukasyon, pagsusuri ng mga kap
 * Pagsasaayos ng pagkakasunod-sunod ng mga transaksiyon → patunay ng trabaho; mga gastos sa kagamitan at enerhiya
 
 
-> **Callout – Sandali para magnilay**
+<!-- card: callout -->
+> **Sandali para magnilay**
 >
 > Aling bahagi ng disenyo ng Bitcoin ang ipapaliwanag ninyo ngayon sa ibang paraan, at bakit?
 
@@ -674,6 +697,7 @@ Hindi dapat gamitin ang mga wallet para sa pagsasanay upang mag-ingat ng pondong
 ---
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Hawak ng wallet ang mga susi. Gamit ang mga ito, maaari kayong tumanggap at magpadala ng bitcoin, habang ang bitcoin mismo ay nananatiling nakatala sa pinagsasaluhang talaan, hindi sa loob ng telepono o device.](/micrographics/wallet-manages-keys-01/tl.md)
 
 ---
 
@@ -699,13 +723,15 @@ Maaaring palitan ng malware ang mga kinopyang patutunguhan. Hindi sapat ang pami
 Huwag ninyong ibahagi kailanman ang mga pribadong susi, seed phrase, password, o recovery code. Walang lehitimong tagapagturo, kawani ng suporta, kumpanya ng wallet, empleyado ng palitan, o developer na nangangailangan ng mga ito.
 
 
-> **Callout – Subukan ninyo**
+<!-- card: callout -->
+> **Subukan ninyo**
 >
 > Iuri ninyo ang mga inihandang halimbawa bilang impormasyon para sa pagtanggap, mga lihim, at pampublikong impormasyong nagiging sensitibo kapag iniugnay sa isang tao.
 
 ---
 
 <!-- micrographic: private-key-public-info-01 -->
+[Ang isang lihim na pribadong susi, na hindi dapat ibahagi kailanman, ay pinagmumulan ng pampublikong impormasyong maaaring ibahagi: isang pampublikong susi na hinango mula rito at isang address sa pagtanggap na nilikha mula roon. Ang parehong pribadong susi ay lumilikha ng mga lagdang bineberipika ng mga node nang hindi kailanman nalalaman ang pribadong susi.](/micrographics/private-key-public-info-01/tl.md)
 
 ---
 
@@ -738,7 +764,8 @@ Kung posibleng may nakakita o kumopya nito, nailagay ito online, o naimbak sa is
 Hindi mapatutunayan ng isang pampublikong blockchain kung magkano ang utang ng isang serbisyo sa isang partikular na kliyente. Ang sariling kustodiya ay maaari pa ring mangailangan ng pagdepende sa software, hardware, server, at network.
 
 
-> **Callout – Subukan ninyo**
+<!-- card: callout -->
+> **Subukan ninyo**
 >
 > Paghambingin ninyo ang dalawang inihandang paglalarawan: sino ang may kontrol sa mga susi, sino ang nagpapanumbalik ng access, at anong panganib ang kailangang suriin?
 
@@ -749,6 +776,7 @@ Hindi mapatutunayan ng isang pampublikong blockchain kung magkano ang utang ng i
 ---
 
 <!-- micrographic: who-controls-keys-01 -->
+[Sa paggamit na may tagapangalaga, isang serbisyo ang kumokontrol sa mga susi at nag-aapruba ng paggastos, kaya ang balanse ay pangako nito. Sa paggamit na may sariling pangangalaga, ang gumagamit ang kumokontrol sa mga susi at backup; parehong may mga bagay na pinagsasaligan at mga panganib ng pagkabigo ang dalawang paraan.](/micrographics/who-controls-keys-01/tl.md)
 
 ---
 
@@ -776,6 +804,7 @@ Gumamit lamang ng mga materyal na inihanda, walang laman, o pangsimulasyon. Huwa
 ---
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[Isang pagsasanay na may anim na hakbang para sa pagpapanumbalik ng wallet na ginagamit sa pagsasanay: sundin ang mga opisyal na tagubilin, suriin ang pagkakatugma, gawin ito nang pribado, gamitin ang aprubadong paraan ng pagpapanumbalik, tiyaking ang wallet ang inaasahan, at pagkatapos ay i-reset. Gumamit lamang ng mga inihanda, walang laman, o simuladong materyales, at hindi kailanman makikita ng tagapagturo ang mga salita sa pagpapanumbalik.](/micrographics/practice-wallet-recovery-01/tl.md)
 
 ---
 
@@ -804,6 +833,7 @@ Aprubahan lamang kapag tugma ang lahat ng sinusuri. Kung magbago ang mga detalye
 ---
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Bago aprubahan ang isang pagbabayad, sinusuri ng nagpapadala ang tatanggap at layunin, ang paraan ng pagbabayad, ang patutunguhan, at ang halaga, yunit, bayarin o oras ng pag-expire, at nagpapadala muna ng maliit na halaga bilang pagsubok kapag hindi pamilyar sa proseso. Kung may anumang hindi tugma, humihinto siya at tinitiyak muna ang mga detalye; nag-aapruba lamang siya kapag tugma ang lahat, at pagkatapos ay sinusuri ang resulta.](/micrographics/pre-send-checklist-01/tl.md)
 
 ---
 
@@ -823,6 +853,7 @@ Gumamit po ng mga inihandang halimbawa; huwag pong hanapin ang personal na addre
 ---
 
 <!-- micrographic: confirmation-timeline-01 -->
+[Naghihintay ang isang transaksiyon na wala pang kumpirmasyon sa kalipunan ng mga nakabinbing transaksiyon, pagkatapos ay isinasama ito sa Bloke N bilang unang kumpirmasyon nito, at bawat kasunod na bloke ay nagdaragdag ng isa pang kumpirmasyon.](/micrographics/confirmation-timeline-01/tl.md)
 
 ---
 
@@ -835,7 +866,8 @@ Gumamit po ng mga inihandang halimbawa; huwag pong hanapin ang personal na addre
 **Huminto muna. Huwag magbahagi ng anuman. Huwag magpadala ng anuman. Isara ang channel. Magsagawa ng sariling beripikasyon. Humingi ng tulong nang hindi nagbubunyag ng mga lihim.**
 
 
-> **Callout – Subukan ninyo**
+<!-- card: callout -->
+> **Subukan ninyo**
 >
 > Tukuyin ninyo ang palatandaan ng panganib, posibleng mawala, at unang ligtas na hakbang sa isang inihandang mensahe.
 
@@ -844,6 +876,7 @@ Gumamit po ng mga inihandang halimbawa; huwag pong hanapin ang personal na addre
 ---
 
 <!-- micrographic: scam-red-flags-01 -->
+[Limang babalang palatandaan ng panloloko: pagmamadali, pagpapanggap na ibang tao, binagong patutunguhan, garantisadong kita at mga kahilingan para sa lihim na impormasyon.](/micrographics/scam-red-flags-01/tl.md)
 
 ---
 
@@ -860,10 +893,12 @@ Walang paraan o tagapagbigay ng serbisyo na awtomatikong pinakamainam. **KYC** a
 ---
 
 <!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Maaaring makatanggap ng bitcoin ang isang tao sa apat na magkakaibang paraan: pagkita nito sa pamamagitan ng trabaho o pagbebenta, pakikipagpalitan ng lokal na cash sa ibang tao, paggamit ng palitan o broker, o paggamit ng ATM. Ang bawat paraan ay humahantong sa sariling pangangalaga o balanseng nasa pangangalaga ng iba, at walang paraang inirerekomenda nang higit sa iba.](/micrographics/ways-to-receive-bitcoin-01/tl.md)
 
 ---
 
 <!-- micrographic: exchange-risk-questions-01 -->
+[Anim na aspeto ng panganib na dapat suriin bago kumuha o makipagpalitan ng bitcoin, na bawat isa ay may tanong na dapat itanong: mga gastos, pag-iingat ng pondo, pagkakakilanlan at pagkapribado, pag-withdraw at pagkompleto ng transaksiyon, kabilang panig at kaligtasan, at lokal na konteksto.](/micrographics/exchange-risk-questions-01/tl.md)
 
 ---
 
@@ -909,7 +944,8 @@ Gamitin ninyo ang napagkasunduang kapaligiran para sa pagsasanay. Huminto muna k
 Nagpadala ng kahilingan ang isang kaibigan habang may hindi ninyo kilalang kawani ng suporta na humihiling ng agarang pagkilos. Ano ang maaari ninyong suriin bago gumawa ng anuman?
 
 
-> **Callout – Sandali para magnilay**
+<!-- card: callout -->
+> **Sandali para magnilay**
 >
 > Anong pagsusuri sa kaligtasan ang paglalaanan ninyo ng sandali bago kumilos?
 
@@ -928,6 +964,7 @@ Nagpadala ng kahilingan ang isang kaibigan habang may hindi ninyo kilalang kawan
 ## Ang Inyong Lokal na Modyul 4
 
 <!-- micrographic: local-module-four-actions-01 -->
+[Sa lokal na Modyul 4, dumaraan ang mag-aaral sa apat na gawain: iugnay ang isang ideya mula sa mga Modyul 1 hanggang 3 sa isang lokal na pangangailangan, ihambing ang Bitcoin sa isang makatotohanang umiiral na opsyon, magsanay nang ligtas na may gabay, at ipaliwanag ang kaniyang natutuhan at ang isang responsableng susunod na hakbang. Ginagabayan siya ng kaniyang guro, at kung minsan ng isang lokal na eksperto, sa buong proseso.](/micrographics/local-module-four-actions-01/tl.md)
 
 
 Itala ang inyong pokus sa lokal na konteksto: problema o oportunidad, alternatibo, ligtas na sitwasyon, pangunahing benepisyo at panganib, at ligtas na susunod na hakbang.
@@ -979,10 +1016,12 @@ Ang matagumpay na pagbabayad ng maliit na halaga ay hindi patunay na ligtas ang 
 ---
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[Gumagawa ang tatanggap sa kaniyang telepono ng kahilingan sa pagbabayad sa Lightning na may nakasaad na halaga, ini-scan ito ng nagpapadala at nagbabayad, at dumarating ang bayad sa telepono ng tatanggap makalipas ang ilang sandali.](/micrographics/lightning-phone-payment-01/tl.md)
 
 ---
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Isang pagbabayad sa Lightning sa anim na hakbang: gumagawa ng kahilingan ang tatanggap, ini-scan ito ng nagpadala, sinusuri ang tatanggap, halaga, yunit, pag-expire at bayarin, inaaprubahan ito, ipinapadaan ang pagbabayad, at ipinapakita ng parehong wallet ang resulta. Ang bawat wallet ay maaaring pinamamahalaan ng tagapag-ingat o ng mismong may-ari, at ang nabigo o nag-expire na pagbabayad ay muling sinisimulan sa pamamagitan ng bagong kahilingan.](/micrographics/lightning-payment-sequence-01/tl.md)
 
 ---
 
@@ -1034,6 +1073,7 @@ Piliin o iangkop po ang mga senaryo sa gabay sa gawaing lokal. Tiyaking nakatuon
 ---
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[Pagbabayad sa isang kapihan sa apat na hakbang: umorder ang kostumer, nagpadala ng invoice ang tagapagsilbi, nagbayad ang kostumer gamit ang bitcoin mula sa kaniyang telepono, at iniabot ng tagapagsilbi ang kape.](/micrographics/coffee-shop-payment-01/tl.md)
 
 ---
 
@@ -1094,6 +1134,7 @@ Ang bilang lamang ng mga gumagamit ay hindi patunay ng pakinabang. Maaaring mapu
 ---
 
 <!-- micrographic: local-circular-economy-01 -->
+[Sa isang sirkular na ekonomiya ng Bitcoin, ang bitcoin ay naipapasa mula sa isang tao patungo sa iba kapalit ng mga produkto, serbisyo at oras. Nagbabayad ang isang mamimili sa isang mangangalakal, nagbabayad ang mangangalakal sa isang tagapagbigay ng serbisyo, nagbabayad ang tagapagbigay ng serbisyo sa isang manggagawa, at muli itong ginagastos ng manggagawa bilang mamimili.](/micrographics/local-circular-economy-01/tl.md)
 
 ---
 
@@ -1151,6 +1192,7 @@ Sagutan nang mag-isa, pagkatapos ay ihambing ang inyong pangangatwiran sa pangan
 * Ang kapaki-pakinabang na pakikilahok sa komunidad ay kusang-loob at nangangalaga sa mga tao
 
 
-> **Callout – Sandali para magnilay**
+<!-- card: callout -->
+> **Sandali para magnilay**
 >
 > Ano po ang itatanong ninyo bago magpasya kung ang isang pamamaraang gumagamit ng Bitcoin ay angkop sa isang lokal na pangangailangan?

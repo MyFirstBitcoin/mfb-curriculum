@@ -15,6 +15,7 @@ Demandez aux apprenants d’identifier :
 
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Les acteurs d’un système de monnaie fiduciaire et les échanges entre eux : la banque centrale définit la politique monétaire et assure le règlement entre banques, les banques commerciales détiennent des dépôts qui constituent leurs dettes envers leurs clients, les services de paiement transmettent les instructions, l’État perçoit des impôts et effectue des dépenses, et les citoyens et les entreprises effectuent et reçoivent des paiements.](/micrographics/fiat-system-flows-01/fr-FR.md)
 
 
 Préparez-vous à expliquer le système local. Précisez quels éléments sont généraux et lesquels sont propres à la juridiction concernée. Invitez les participants à partager des expériences variées, y compris celles de personnes qui utilisent principalement des espèces ou dont l’accès aux services bancaires est limité, sans orienter la discussion vers une conclusion politique.

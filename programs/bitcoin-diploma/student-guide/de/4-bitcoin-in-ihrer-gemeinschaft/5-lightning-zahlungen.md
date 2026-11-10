@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[Der Empfänger erstellt auf seinem Telefon eine Lightning-Zahlungsanforderung mit dem Betrag, der Sender scannt sie und bezahlt, und die Zahlung trifft einen Moment später auf dem Telefon des Empfängers ein.](/micrographics/lightning-phone-payment-01/de.md)
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Eine Lightning-Zahlung in sechs Schritten: Der Empfänger erstellt eine Anfrage, der Absender scannt sie, prüft Empfänger, Betrag, Einheit, Ablaufzeit und Gebühr und bestätigt sie, die Zahlung wird weitergeleitet, und beide Wallets zeigen das Ergebnis an. Jede Wallet kann verwahrt oder selbstverwahrt sein, und eine fehlgeschlagene oder abgelaufene Zahlung beginnt mit einer neuen Anfrage von vorn.](/micrographics/lightning-payment-sequence-01/de.md)
 
 
 Lightning kann schnelle, kleine Bitcoin-Zahlungen praktikabel machen. Es eignet sich zum Beispiel für die Ladenkasse, wiederkehrende lokale Zahlungen, Online-Dienste oder Überweisungen, bei denen eine On-Chain-Gebühr im Verhältnis zur Zahlung zu hoch wäre.

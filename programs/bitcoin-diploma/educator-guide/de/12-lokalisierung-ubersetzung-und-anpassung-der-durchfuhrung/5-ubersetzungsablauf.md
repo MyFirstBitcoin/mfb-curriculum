@@ -14,6 +14,7 @@ Gehen Sie in dieser Reihenfolge vor:
 
 
 <!-- micrographic: translation-workflow-01 -->
+[Übersetzung ist ein Prozess aus Überprüfen und Testen: einen klaren englischen Text vorbereiten, die Bedeutung übersetzen, mit einer Sprachfachkraft und einer Lehrkraft überprüfen, Sicherheitshinweise mit Lernenden testen und anschließend bestätigen, dass die Standards gleichwertig sind. Unklare Sicherheitshinweise gehen zurück zur Formulierung.](/micrographics/translation-workflow-01/de.md)
 
 
 Vermeiden Sie Redewendungen und Metaphern, die sich nicht sauber übertragen lassen. Wenn Sie eine Analogie verwenden, geben Sie stets an, was sie erklärt und was nicht.

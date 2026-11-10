@@ -9,6 +9,7 @@ Bitcoin działa, ponieważ różni uczestnicy pełnią różne role.
 
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Cztery role w sieci Bitcoin: użytkownicy odbierają, przechowują i wysyłają bitcoin, węzły niezależnie sprawdzają zgodność z regułami, górnicy tworzą bloki kandydujące z dowodem pracy, a programiści proponują oprogramowanie. Żadna pojedyncza rola nie kontroluje sieci.](/micrographics/bitcoin-participant-roles-01/pl.md)
 
 
 Te role wzajemnie się ograniczają:

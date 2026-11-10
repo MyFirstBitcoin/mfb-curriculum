@@ -24,6 +24,7 @@ Pengajaran dan penilaian luring tetap sah. Gunakan pemeriksaan pengetahuan secar
 
 
 <!-- micrographic: same-competency-any-route-01 -->
+[Alat langsung, simulasi kertas, dan jalur aksesibel yang disetujui dapat mendukung kompetensi yang sama selama peserta didik tetap mengambil keputusan yang diperlukan dan pendidik dapat menilai bukti yang setara. Jika tidak setara, siapkan jalur lain sebelum sertifikasi.](/micrographics/same-competency-any-route-01/id.md)
 
 
 Panduan Peserta menjelaskan konsep-konsep yang tetap relevan dalam jangka panjang. Verifikasi informasi lokal terkini sebelum menyampaikan biaya, hukum, pajak, layanan yang tersedia, fitur dompet, atau daftar pedagang, dan cantumkan tanggal pada informasi yang Anda gunakan.

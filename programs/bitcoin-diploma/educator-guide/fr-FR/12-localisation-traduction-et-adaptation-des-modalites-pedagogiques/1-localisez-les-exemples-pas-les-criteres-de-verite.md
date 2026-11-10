@@ -1,6 +1,7 @@
 # 12.1 Localisez les exemples, pas les critères de vérité
 
-> **Light – Adaptez l’exemple au contexte local, pas la norme d’apprentissage**
+<!-- card: light -->
+> **Adaptez l’exemple au contexte local, pas la norme d’apprentissage**
 >
 > Utilisez des exemples locaux pour aider les apprenants à comprendre un concept commun. Pour chaque adaptation, posez-vous les questions suivantes :
 >

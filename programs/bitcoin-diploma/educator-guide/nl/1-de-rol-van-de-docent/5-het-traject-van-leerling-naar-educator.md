@@ -13,3 +13,4 @@ Presenteer dit als een beschikbaar vervolgtraject na het Bitcoin Diploma, niet a
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[Een optioneel leertraject loopt van de Introductie tot Bitcoin naar het Bitcoin Diploma, vervolgens het Opleidingsprogramma voor Docenten, tot docent worden die lesgeeft met het curriculum van My First Bitcoin, en aansluiten bij het Bitcoin Education Network. Elke volgende stap is een keuze, geen verplichting.](/micrographics/learner-journey-pathway-01/nl.md)

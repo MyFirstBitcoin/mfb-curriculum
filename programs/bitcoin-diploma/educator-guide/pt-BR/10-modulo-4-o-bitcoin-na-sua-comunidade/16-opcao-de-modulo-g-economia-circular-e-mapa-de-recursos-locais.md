@@ -16,6 +16,7 @@ Mapear:
 
 
 <!-- micrographic: local-circular-economy-01 -->
+[Em uma economia circular de Bitcoin, o bitcoin passa de pessoa para pessoa em troca de produtos, serviços e tempo. Um cliente paga um comerciante, o comerciante paga um prestador de serviços, o prestador de serviços paga um trabalhador, e o trabalhador o gasta novamente como cliente.](/micrographics/local-circular-economy-01/pt-BR.md)
 
 
 Na busca por recursos, verifique:

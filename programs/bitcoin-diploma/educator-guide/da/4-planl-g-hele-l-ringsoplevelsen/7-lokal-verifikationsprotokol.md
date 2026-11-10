@@ -19,3 +19,4 @@ Foretræk autoritative primærkilder til gældende regler. Hvis dokumentationen 
 
 
 <!-- micrographic: local-verification-cycle-01 -->
+[Undervisere identificerer hver lokal påstand, der kan ændre sig, kontrollerer den ved hjælp af en aktuel kilde, noterer datoen og påstandens begrænsninger, underviser med de nødvendige forbehold og kontrollerer påstanden igen, før den genbruges. Når en faktuel oplysning er usikker, bruger de et sikrere eksempel eller et alternativ.](/micrographics/local-verification-cycle-01/da.md)

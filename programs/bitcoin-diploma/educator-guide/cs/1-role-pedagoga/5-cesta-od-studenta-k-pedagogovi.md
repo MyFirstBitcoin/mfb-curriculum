@@ -13,3 +13,4 @@ Představte tuto cestu jako možnost dalšího rozvoje po absolvování programu
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[Volitelná vzdělávací cesta vede od Úvodu do Bitcoinu přes Bitcoinový diplom a Vzdělávací program pro pedagogy až k tomu, že se stanete pedagogem vyučujícím podle vzdělávacího programu My First Bitcoin a připojíte se k Síti pro vzdělávání o Bitcoinu. Každý další krok je volbou, nikoli požadavkem.](/micrographics/learner-journey-pathway-01/cs.md)

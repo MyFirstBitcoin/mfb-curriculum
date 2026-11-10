@@ -1,5 +1,6 @@
 # 1.4 Escambo e a dupla coincidência de desejos
 
+<!-- card: definition -->
 > **Definition – Escambo**
 >
 > [Escambo](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) é a troca direta de um bem ou serviço por outro. Pode funcionar bem em uma troca pequena, mas se torna difícil quando muitas pessoas e produtos estão envolvidos.
@@ -11,6 +12,7 @@ Imagine que **Amina** tem arroz e quer sapatos. **Luis** tem sapatos, mas quer �
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina tem arroz e quer sapatos, Luis tem sapatos e quer óleo de cozinha, e Mei tem óleo de cozinha e quer serviços de conserto. Nenhuma dupla consegue trocar diretamente, porque nenhuma das pessoas de cada dupla quer o que a outra oferece.](/micrographics/barter-mismatch-01/pt-BR.md)
 
 
 Para que o [escambo](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) funcione diretamente, cada pessoa precisa querer o que a outra oferece, ao mesmo tempo e em quantidades adequadas. Os economistas chamam isso de [**Dupla Coincidência de Desejos**](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-coincidence-of-wants).
@@ -31,3 +33,4 @@ Um dinheiro amplamente aceito separa a venda da compra. Amina pode vender arroz 
 
 
 <!-- micrographic: sell-then-buy-01 -->
+[Amina vende arroz a uma pessoa em troca de um dinheiro amplamente aceito e, depois, usa esse dinheiro para comprar sapatos de outra pessoa. Vender e comprar tornam-se ações separadas.](/micrographics/sell-then-buy-01/pt-BR.md)

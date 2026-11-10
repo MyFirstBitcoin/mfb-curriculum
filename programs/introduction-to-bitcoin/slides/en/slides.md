@@ -40,7 +40,8 @@ Not earning it, not spending it, but thinking about what it is and how it works.
 * Does your money buy the same amount as before?
 
 
-> **Callout – Keep your answers**
+<!-- card: callout -->
+> **Keep your answers**
 >
 > Write a short answer to each question. You will come back to them at the end.
 
@@ -85,6 +86,7 @@ Both people must want what the other has, at the same time and in suitable amoun
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina has rice and wants shoes, Luis has shoes and wants cooking oil, and Mei has cooking oil and wants repair work. No pair can trade directly, because neither person in a pair wants what the other offers.](/micrographics/barter-mismatch-01/en.md)
 
 <!-- notes: Use the guide's example: you grow rice and need shoes, but the shoemaker wants cooking oil, not rice. Economists call this the double coincidence of wants. -->
 
@@ -151,6 +153,7 @@ When people hear the word inflation, they usually think of prices going up.
 ## Inflation and Purchasing Power
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[The same 100 units of currency buy the full basket of basic goods when it costs 100, but not when the same basket costs 110. The price level has risen and the purchasing power of the money has fallen.](/micrographics/same-money-smaller-basket-01/en.md)
 
 <!-- notes: Price inflation is a sustained rise in the general level of prices. Its other side is purchasing power: how much a unit of money can buy. If a basket of basic goods rises from 100 units of currency to 110, the same 100 units no longer buy the full basket. -->
 
@@ -213,8 +216,7 @@ A bank balance is different from cash in your hand: it is the bank's promise to 
 * But its supply and rules can change, and the people who use it have little say
 
 
-> **Callout**
->
+<!-- card: callout -->
 > This is why people look for alternatives, and why Bitcoin was created.
 
 ---
@@ -233,6 +235,7 @@ Digital money that is decentralized, has a limited supply, and can be sent peer 
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[With a payment company, one organization keeps the ledger and approves each transfer. With Bitcoin, the sender signs a transaction, independent nodes check it and miners add it to one shared ledger, so the receiver depends less on a central authority.](/micrographics/central-ledger-vs-bitcoin-01/en.md)
 
 <!-- notes: Before Bitcoin, sending money online always depended on a trusted organization: a bank or payment company that kept the ledger, approved accounts, and could delay, block, or reverse a payment. Digital information is easy to copy: if a digital coin could be spent twice, it could not work as money. This is the double-spend problem. Satoshi Nakamoto is a person or group using that name. -->
 
@@ -253,6 +256,7 @@ No company can freeze bitcoin that you control yourself. The other side of that 
 ## A Limit Anyone Can Check
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[A supply limit written on a website or in an issuer's database can be changed quietly by that issuer. Bitcoin's supply rule is public, and signatures, a public history, proof of work and node verification together stop new coins from being invented or the same bitcoin from being spent twice.](/micrographics/claimed-or-verified-supply-01/en.md)
 
 <!-- notes: New bitcoin are released on a public schedule, and independent computers called nodes reject any block that breaks that rule. The limit is credible because anyone can check it. It is not a law of nature: it holds because participants keep enforcing it. A limited supply does not guarantee that the price will rise; price depends on demand as well as supply. -->
 
@@ -264,6 +268,7 @@ One bitcoin divides into 100,000,000 smaller units called satoshis, or sats.
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[A two-column table: 1 BTC is 100,000,000 sats, 0.1 BTC is 10,000,000 sats, 0.01 BTC is 1,000,000 sats, 0.001 BTC is 100,000 sats, and 0.00000001 BTC is 1 sat.](/micrographics/bitcoin-and-sats-01/en.md)
 
 <!-- notes: Owning 100,000 sats and owning 0.001 bitcoin describe the same amount. Address the misconception that Bitcoin is out of reach because one bitcoin is expensive. -->
 
@@ -272,6 +277,7 @@ One bitcoin divides into 100,000,000 smaller units called satoshis, or sats.
 ## Who Keeps Bitcoin Running?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Four roles in Bitcoin: users receive, hold and send bitcoin, nodes independently verify the rules, miners build candidate blocks with proof of work, and developers propose software. No single role controls the network.](/micrographics/bitcoin-participant-roles-01/en.md)
 
 <!-- notes: Users send, receive, and hold bitcoin; nodes check every transaction and block against the rules; miners compete to add a new block to the record about every ten minutes. That record, the blockchain, is public and very costly to rewrite. A note on spelling: Bitcoin with a capital B usually means the network or the system; bitcoin with a lowercase b means the money itself. -->
 
@@ -307,6 +313,7 @@ The first question about any wallet: who controls the keys?
 ## A Wallet Manages Keys
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[A wallet holds the keys. With them you can receive and send bitcoin, while the bitcoin itself stays recorded on the shared ledger, not inside the phone or device.](/micrographics/wallet-manages-keys-01/en.md)
 
 <!-- notes: A Bitcoin wallet is a tool, usually an app, that lets you receive, check, and send bitcoin. Your bitcoin is not stored inside your phone: it is recorded on the blockchain. The wallet manages the keys that let you prove it is yours and authorize a payment. -->
 
@@ -331,6 +338,7 @@ An ordered list of words, often 12 or 24, that can recreate your keys. Anyone wh
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[A seed phrase is an ordered list of words, here twelve numbered sample words written on paper. The right words in the right order can restore control in a compatible wallet, so it stays secret and offline.](/micrographics/seed-phrase-on-paper-01/en.md)
 
 <!-- notes: The seed phrase is not only a backup: it is full access. Write it down accurately on paper when you create the wallet; keep it offline, private, and somewhere it will not be lost or damaged. Never photograph it, email it, store it in cloud notes, send it in a message, or type it into a website. The words shown are a sample only; never show or collect a real seed phrase. -->
 
@@ -365,6 +373,7 @@ An ordered list of words, often 12 or 24, that can recreate your keys. Anyone wh
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[On-chain payments are recorded directly in Bitcoin's blockchain, while Lightning is a payment network built on Bitcoin for fast, frequent payments that can also fail. Either path can be custodial or self-custodial.](/micrographics/on-chain-and-lightning-01/en.md)
 
 ---
 
@@ -375,7 +384,8 @@ An ordered list of words, often 12 or 24, that can recreate your keys. Anyone wh
 * **Don't Trust, Verify.** Check the person, the payment method, the address, and the amount.
 
 
-> **Callout – Share receiving information, never secrets**
+<!-- card: callout -->
+> **Share receiving information, never secrets**
 >
 > An address or a payment request can be shared. A seed phrase or private key must never be shared. No legitimate educator, wallet company, or support worker will ever ask for it.
 
@@ -389,6 +399,7 @@ Stop if someone creates urgency or secrecy, promises guaranteed returns, asks yo
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Five scam red flags: urgency, impersonation, a changed destination, guaranteed returns and requests for secrets.](/micrographics/scam-red-flags-01/en.md)
 
 ---
 
@@ -408,7 +419,8 @@ This is just the beginning.
 * **This is just the beginning.** One safe next step is enough.
 
 
-> **Callout – A moment to reflect**
+<!-- card: callout -->
+> **A moment to reflect**
 >
 > Go back to the five questions at the start. What would you answer now?
 

@@ -5,6 +5,7 @@ Az emberek készségei, erőforrásai, szükségletei és tervei eltérőek. A c
 A közvetlen csere gyakran nehézségekbe ütközik. Akinek megvan az, amire Önnek szüksége van, nem feltétlenül tart igényt arra, amit Ön kínál. A pénz ezt az összehangolási problémát oldja meg.
 
 
+<!-- card: definition -->
 > **Definition – Pénz**
 >
 > A pénz olyan [eszköz](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) amelyet az emberek azért fogadnak el, mert arra számítanak, hogy később mások is elfogadják majd. Segít az egymást nem ismerő embereknek abban, hogy összehangolják a cserét, nyilvántartsák az [árakat](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) és a [tartozásokat](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt), valamint [értéket](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) közvetítsenek időn és téren át.

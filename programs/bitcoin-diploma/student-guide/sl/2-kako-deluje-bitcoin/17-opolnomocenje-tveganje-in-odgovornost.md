@@ -13,6 +13,5 @@ Osebi, ki se odloči za [samostojno skrbništvo](https://curriculum.myfirstbitco
 [Samostojno skrbništvo](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) torej ni le tehnična lastnost. Zahteva zaščito varnostnih kopij, preverjanje naslovov, preverjanje delovanja denarnice in pripravo načrta za obnovitev dostopa. Naslednji modul pojasnjuje, kako skrbno hraniti in uporabljati bitcoine ter kako obvladovati ta tveganja in odgovornosti.
 
 
-> **Light**
->
+<!-- card: light -->
 > Osebna odgovornost ne pomeni, da morate delovati sami ali zavračati pomoč. Previden učenec se lahko opre na izobraževanje, medsebojno preverjanje, dokumentirane postopke in manjše preizkuse, ne da bi komur koli omogočil dostop do tajnih podatkov.

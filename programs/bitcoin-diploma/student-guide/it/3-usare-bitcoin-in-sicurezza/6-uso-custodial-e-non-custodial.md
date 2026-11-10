@@ -1,5 +1,6 @@
 # 3.6 Uso custodial e non custodial
 
+<!-- card: definition -->
 > **Definition – Custodia**
 >
 > [La custodia](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) risponde a una domanda pratica: chi controlla le chiavi necessarie per spendere i bitcoin?
@@ -15,10 +16,12 @@ In un wallet **non-custodial** o **in autocustodia**, è LEI a controllare le ch
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[Nell'uso custodiale, un servizio controlla le chiavi e approva le spese, quindi il saldo è una sua promessa. Nell'uso in autocustodia, l'utente controlla le chiavi e i backup; entrambe le soluzioni comportano dipendenze e rischi di malfunzionamento.](/micrographics/who-controls-keys-01/it.md)
 
 
 
 <!-- micrographic: custody-comparison-table-01 -->
+[Una tabella che confronta l'uso custodiale e l'uso in autocustodia: chi detiene le chiavi, chi gestisce il recupero e il principale compromesso di ciascuno. Nessuno dei due modelli è privo di rischi.](/micrographics/custody-comparison-table-01/it.md)
 
 
 [La custodia](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) non è sempre evidente dall'interfaccia. Se non può controllare il metodo di recupero e ha bisogno che un'azienda approvi un prelievo, probabilmente sta usando un [custode](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian). [L'autocustodia](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) non è una misura del valore personale; il passo importante è identificare la fiducia e il rischio in gioco.

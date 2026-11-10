@@ -14,6 +14,7 @@ Praktiški pinigai taip pat paprastai pasižymi keliomis savybėmis:
 
 
 <!-- micrographic: money-property-questions-01 -->
+[Septynios naudingų pinigų savybės, kiekviena su klausimu, kurį verta užduoti lyginant pinigų formas: patvarumas, perkeliamumas, dalumas, pakeičiamumas, ribotumas, priimtinumas ir patikrinamumas.](/micrographics/money-property-questions-01/lt.md)
 
 
 Nė viena pinigų forma nėra tobula pagal visus kriterijus.
@@ -22,6 +23,7 @@ Nė viena pinigų forma nėra tobula pagal visus kriterijus.
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Du sluoksniai: trys pinigų funkcijos (mainų priemonė, apskaitos vienetas, vertės kaupimo priemonė) remiasi septyniomis savybėmis (patvarumu, perkeliamumu, dalumu, pakeičiamumu, ribotumu, priimtinumu ir patikrinamumu).](/micrographics/functions-and-properties-01/lt.md)
 
 
 [Auksas](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) yra patvarus ir retas, tačiau jį sunku dalyti ir gabenti smulkiems mokėjimams. [Popieriniai grynieji pinigai](https://curriculum.myfirstbitcoin.org/lexicon/en/#paper-cash) yra lengvai nešiojami ir priimami vietoje, tačiau gali būti sugadinti, o jų pasiūla gali didėti. Tinkamiausias palyginimas priklauso nuo tikslo, vietos ir laiko.

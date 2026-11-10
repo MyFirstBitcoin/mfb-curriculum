@@ -8,6 +8,7 @@ Antarrekan tidak selalu berarti hanya dua komputer yang berkomunikasi secara lan
 
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[Pengirim menandatangani transaksi dan menyiarkannya ke banyak node jaringan, yang meneruskannya hingga sampai kepada penerima. Tidak ada operator pusat Bitcoin yang harus memberikan persetujuan kepada pengirim atau penerima.](/micrographics/peer-to-peer-route-01/id.md)
 
 
 Pengguna tetap dapat memilih [perantara](https://curriculum.myfirstbitcoin.org/lexicon/en/#intermediary). Bursa dapat menyimpan bitcoin untuk pelanggan. Layanan pembayaran dapat menyederhanakan faktur. Dompet yang dikelola penyedia layanan dapat mengelola kunci. Layanan-layanan ini dapat memberikan kemudahan, tetapi pengguna kemudian bergantung pada aturan dan keamanan layanan tersebut.

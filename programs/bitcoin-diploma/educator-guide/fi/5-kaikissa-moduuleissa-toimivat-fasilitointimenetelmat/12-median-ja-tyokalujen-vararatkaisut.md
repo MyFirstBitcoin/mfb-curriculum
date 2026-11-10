@@ -24,6 +24,7 @@ Opetus ja arviointi ilman verkkoyhteyttä ovat päteviä toteutustapoja. Käytt�
 
 
 <!-- micrographic: same-competency-any-route-01 -->
+[Todelliset työkalut, paperisimulaatiot ja hyväksytyt saavutettavat toteutustavat voivat tukea saman osaamisalueen hallintaa, kun oppija tekee edelleen vaaditut päätökset ja opettaja voi arvioida vastaavanarvoisen näytön. Jos toteutustavat eivät ole vastaavanarvoisia, valmistelkaa toinen toteutustapa ennen sertifiointia.](/micrographics/same-competency-any-route-01/fi.md)
 
 
 Opiskelijan opas selittää pysyviä käsitteitä. Tarkistakaa ajantasaiset paikalliset tiedot ennen kuin esittelette kuluja, lakeja, veroja, saatavilla olevia palveluja, lompakoiden ominaisuuksia tai kauppiasluetteloita, ja merkitkää käyttämiinne tietoihin päivämäärä.

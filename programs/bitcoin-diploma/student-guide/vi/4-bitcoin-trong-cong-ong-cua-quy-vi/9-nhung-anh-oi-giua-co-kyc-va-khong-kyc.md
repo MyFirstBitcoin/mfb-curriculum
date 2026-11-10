@@ -3,7 +3,8 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) và [không KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) là những phương thức có các [đánh đổi khác nhau](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Dù mang nhãn nào, quý vị vẫn cần đánh giá kỹ lưỡng.
 
 
-> **Callout – Quyền riêng tư không loại bỏ rủi ro pháp lý hoặc rủi ro đối với an toàn thân thể**
+<!-- card: callout -->
+> **Quyền riêng tư không loại bỏ rủi ro pháp lý hoặc rủi ro đối với an toàn thân thể**
 >
 > Cả [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) lẫn [không KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) đều không mặc nhiên là lựa chọn tốt nhất. Hãy so sánh phương thức thực tế, tham khảo hướng dẫn hiện hành tại địa phương khi quy định chưa rõ ràng, và đừng vi phạm luật pháp địa phương hoặc đặt bản thân vào nguy hiểm về thể chất để theo đuổi [quyền riêng tư](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 

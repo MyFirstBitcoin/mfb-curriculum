@@ -13,6 +13,5 @@ Pro člověka, který si zvolí [vlastní správu](https://curriculum.myfirstbit
 [Vlastní správa](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) tedy není jen technickou funkcí. Vyžaduje ochranu záloh, ověřování adres, kontrolu chování peněženky a vytvoření plánu obnovy. Následující modul vysvětluje, jak obezřetně držet a používat bitcoin, včetně toho, jak zvládat tato rizika a povinnosti.
 
 
-> **Light**
->
+<!-- card: light -->
 > Osobní odpovědnost neznamená jednat o samotě nebo odmítat pomoc. Obezřetný účastník kurzu může využívat vzdělávání, vzájemnou kontrolu, zdokumentované postupy a malé zkoušky, aniž by komukoli poskytl přístup k tajným informacím.

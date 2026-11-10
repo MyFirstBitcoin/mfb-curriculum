@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: four-module-diploma-01 -->
+[O Diploma Bitcoin segue quatro etapas, nesta ordem: Problema, Solução, Ação e Conexão.](/micrographics/four-module-diploma-01/pt-BR.md)
 
 
 **O Módulo 4** é uma parte obrigatória do aprendizado do Bitcoin Diploma, com curadoria dos educadores enquanto especialistas locais no assunto. O cenário ou a ferramenta podem mudar, mas todo aluno que busca a certificação deve atender ao `C7` por meio de uma atividade local que contemple o propósito do `C7.1` e do `C7.2`.

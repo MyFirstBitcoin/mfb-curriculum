@@ -10,6 +10,7 @@ U vašem lokalnom **modulu 4** aktivnost će vam pomoći:
 
 
 <!-- micrographic: local-module-four-actions-01 -->
+[U lokalnom modulu 4 polaznici prolaze kroz četiri aktivnosti: povezuju ideju iz modula 1 do 3 s lokalnom potrebom, uspoređuju Bitcoin s realnom postojećom alternativom, sigurno vježbaju uz vodstvo te objašnjavaju što su naučili i koji bi bio odgovoran sljedeći korak. Kroz cijeli ih proces vodi njihov edukator, a ponekad i lokalni stručnjak.](/micrographics/local-module-four-actions-01/hr.md)
 
 
 U svojoj aktivnosti možete istražiti pitanja poput ovih:

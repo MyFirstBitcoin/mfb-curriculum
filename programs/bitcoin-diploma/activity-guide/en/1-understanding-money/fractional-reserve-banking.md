@@ -66,7 +66,8 @@ Ask participants to list facts that cannot be inferred from this activity, such 
 
 #### Notes
 
-> **Dark – This is a simplified balance-sheet model**
+<!-- card: dark -->
+> **This is a simplified balance-sheet model**
 >
 > Banks operate under different laws, regulations, funding arrangements, capital requirements, liquidity needs, and payment systems. This activity introduces terms and relationships. It does not show that a fixed reserve ratio determines lending or that one cause explains a bank run, default, bailout, or moral hazard.
 

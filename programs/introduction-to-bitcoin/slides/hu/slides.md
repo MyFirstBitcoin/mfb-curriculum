@@ -40,7 +40,8 @@ Nem a megkereséséről vagy az elköltéséről van szó, hanem arról, hogy el
 * Ugyanannyit tud vásárolni a pénzéért, mint korábban?
 
 
-> **Callout – Őrizze meg a válaszait**
+<!-- card: callout -->
+> **Őrizze meg a válaszait**
 >
 > Írjon rövid választ minden kérdésre. A végén vissza fog térni rájuk.
 
@@ -85,6 +86,7 @@ Mindkét félnek egyidejűleg és megfelelő mennyiségben kell igényelnie azt,
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina rizzsel rendelkezik, és cipőt szeretne, Luis cipővel rendelkezik, és étolajat szeretne, Mei pedig étolajjal rendelkezik, és javítási munkát szeretne. Egyik páros sem tud közvetlenül cserélni, mert egyikük sem azt szeretné, amit a másik kínál.](/micrographics/barter-mismatch-01/hu.md)
 
 <!-- notes: Vegye a tananyag példáját: Ön rizst termeszt, és cipőre van szüksége, de a cipész étolajat szeretne, nem rizst. A közgazdászok ezt az igények kettős egybeesésének nevezik. -->
 
@@ -151,6 +153,7 @@ Amikor az emberek meghallják az infláció szót, általában az árak emelked�
 ## Infláció és vásárlóerő
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Ugyanaz a 100 pénzegység elegendő az alapvető termékeket tartalmazó kosár teljes tartalmának megvásárlására, amikor annak ára 100, de már nem elegendő, amikor ugyanannak a kosárnak az ára 110. Az árszínvonal emelkedett, a pénz vásárlóereje pedig csökkent.](/micrographics/same-money-smaller-basket-01/hu.md)
 
 <!-- notes: Az árinfláció az általános árszínvonal tartós emelkedése. Ennek másik oldala a vásárlóerő: az, hogy mennyi árut lehet vásárolni egy pénzegységért. Ha egy alapvető árucikkekből álló kosár ára 100 pénzegységről 110-re emelkedik, ugyanaz a 100 pénzegység már nem elegendő a teljes kosár megvásárlására. -->
 
@@ -213,8 +216,7 @@ A bankszámla egyenlege nem ugyanaz, mint az Ön kezében lévő készpénz: ez 
 * De a kínálata és a szabályai változhatnak, és a használóinak kevés beleszólásuk van
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Ezért keresnek az emberek alternatívákat, és ezért jött létre a Bitcoin.
 
 ---
@@ -233,6 +235,7 @@ Decentralizált digitális pénz, amelynek kínálata korlátozott, és amely ba
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Pénzforgalmi szolgáltató esetén egyetlen szervezet vezeti a főkönyvet és hagy jóvá minden átutalást. A Bitcoin esetében a küldő aláír egy tranzakciót, a független csomópontok ellenőrzik, a bányászok pedig hozzáadják egy közös főkönyvhöz, így a fogadó kevésbé függ egy központi hatóságtól.](/micrographics/central-ledger-vs-bitcoin-01/hu.md)
 
 <!-- notes: A Bitcoin előtt az online pénzküldés mindig egy megbízhatónak tekintett szervezettől függött: egy banktól vagy pénzforgalmi szolgáltatótól, amely vezette a főkönyvet, jóváhagyta a számlákat, és késleltethette, letilthatta vagy visszafordíthatta a fizetéseket. A digitális információ könnyen másolható: ha egy digitális érmét kétszer is el lehetne költeni, nem működhetne pénzként. Ez a dupla költés problémája. Satoshi Nakamoto egy személy vagy csoport, amely ezt a nevet használja. -->
 
@@ -253,6 +256,7 @@ Egyetlen vállalat sem fagyaszthatja be azt a bitcoint, amely felett Ön rendelk
 ## Egy korlát, amelyet bárki ellenőrizhet
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[A weboldalon vagy a kibocsátó adatbázisában rögzített kínálati korlátot a kibocsátó észrevétlenül megváltoztathatja. A Bitcoin kínálati szabálya nyilvános, és az aláírások, a nyilvános tranzakciótörténet, a munkabizonyíték és a csomópontok általi ellenőrzés együttesen megakadályozzák, hogy új érméket hozzanak létre önkényesen, vagy ugyanazt a bitcoint kétszer költsék el.](/micrographics/claimed-or-verified-supply-01/hu.md)
 
 <!-- notes: Az új bitcoinok előre ismert, nyilvános ütemezés szerint kerülnek forgalomba, és a csomópontoknak nevezett, egymástól független számítógépek elutasítanak minden olyan blokkot, amely megsérti ezt a szabályt. A korlát azért hiteles, mert bárki ellenőrizheti. Ez nem természeti törvény: azért érvényesül, mert a résztvevők folyamatosan érvényt szereznek neki. A korlátozott kínálat nem garantálja az árfolyam emelkedését; az árfolyam a kínálat mellett a kereslettől is függ. -->
 
@@ -264,6 +268,7 @@ Egy bitcoin 100 000 000 kisebb egységre osztható, amelyeket satoshinak, rövid
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Kétoszlopos táblázat: 1 BTC 100 000 000 sat, 0,1 BTC 10 000 000 sat, 0,01 BTC 1 000 000 sat, 0,001 BTC 100 000 sat, 0,00000001 BTC pedig 1 sat.](/micrographics/bitcoin-and-sats-01/hu.md)
 
 <!-- notes: 100 000 sat és 0,001 bitcoin birtoklása ugyanazt az összeget jelenti. Oszlassa el azt a tévhitet, hogy a Bitcoin elérhetetlen, mert egy bitcoin drága. -->
 
@@ -272,6 +277,7 @@ Egy bitcoin 100 000 000 kisebb egységre osztható, amelyeket satoshinak, rövid
 ## Ki tartja működésben a Bitcoint?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Négy szerepkör a Bitcoinban: a felhasználók bitcoint fogadnak, tartanak és küldenek, a csomópontok önállóan ellenőrzik a szabályok betartását, a bányászok munkabizonyítékkal blokkjelölteket állítanak össze, a fejlesztők pedig szoftvereket javasolnak. Egyetlen szerepkör sem irányítja a hálózatot.](/micrographics/bitcoin-participant-roles-01/hu.md)
 
 <!-- notes: A felhasználók bitcoint küldenek, fogadnak és tartanak; a csomópontok minden tranzakció és blokk esetében ellenőrzik a szabályok betartását; a bányászok pedig azért versengenek, hogy nagyjából tízpercenként új blokkot adhassanak a nyilvántartáshoz. Ez a nyilvántartás, a blokklánc, nyilvános, és az átírása rendkívül költséges. Megjegyzés az írásmódról: a nagy B-vel írt Bitcoin általában a hálózatot vagy a rendszert jelenti; a kis b-vel írt bitcoin pedig magát a pénzt. -->
 
@@ -307,6 +313,7 @@ Az első kérdés minden tárcával kapcsolatban: ki rendelkezik a kulcsok felet
 ## A tárca kulcsokat kezel
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[A tárca tárolja a kulcsokat. Ezekkel Ön bitcoint fogadhat és küldhet, miközben maga a bitcoin a közös főkönyvben marad nyilvántartva, nem pedig a telefonon vagy az eszközön.](/micrographics/wallet-manages-keys-01/hu.md)
 
 <!-- notes: A Bitcoin-tárca olyan eszköz, általában egy alkalmazás, amellyel Ön bitcoint fogadhat, ellenőrizheti az egyenlegét, és bitcoint küldhet. A bitcoinját nem a telefonja tárolja: az a blokkláncon van nyilvántartva. A tárca azokat a kulcsokat kezeli, amelyekkel Ön igazolhatja, hogy a bitcoin az Öné, és jóváhagyhat egy fizetést. -->
 
@@ -331,6 +338,7 @@ Szavak meghatározott sorrendű listája, amely gyakran 12 vagy 24 szóból áll
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[A helyreállító kifejezés szavak rendezett listája; itt tizenkét számozott mintaszó látható papírra írva. A megfelelő szavak a megfelelő sorrendben visszaállíthatják a hozzáférést egy kompatibilis tárcában, ezért a kifejezést titokban és offline kell tartani.](/micrographics/seed-phrase-on-paper-01/hu.md)
 
 <!-- notes: A helyreállító kifejezés nem csupán biztonsági mentés: teljes hozzáférést biztosít. A tárca létrehozásakor írja le pontosan papírra; tartsa offline, titokban és olyan helyen, ahol nem veszhet el és nem sérülhet meg. Soha ne fényképezze le, ne küldje el e-mailben, ne tárolja felhőalapú jegyzetekben, ne küldje el üzenetben, és ne gépelje be weboldalon. A bemutatott szavak kizárólag mintaként szolgálnak; soha ne mutasson be és ne gyűjtsön valódi helyreállító kifejezéseket. -->
 
@@ -365,6 +373,7 @@ Szavak meghatározott sorrendű listája, amely gyakran 12 vagy 24 szóból áll
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[A láncon belüli fizetéseket közvetlenül a Bitcoin blokkláncán rögzítik, míg a Lightning a Bitcoinra épülő fizetési hálózat, amely gyors, gyakori fizetésekre szolgál, de ezek sikertelenek is lehetnek. Mindkét megoldás használható letétkezelővel vagy saját kezelésben.](/micrographics/on-chain-and-lightning-01/hu.md)
 
 ---
 
@@ -375,7 +384,8 @@ Szavak meghatározott sorrendű listája, amely gyakran 12 vagy 24 szóból áll
 * **Ne bízzon, ellenőrizzen.** Ellenőrizze a személyt, a fizetési módot, a címet és az összeget.
 
 
-> **Callout – A fogadáshoz szükséges adatokat ossza meg, a titkokat soha**
+<!-- card: callout -->
+> **A fogadáshoz szükséges adatokat ossza meg, a titkokat soha**
 >
 > Egy cím vagy fizetési kérelem megosztható. A helyreállító kifejezést vagy a privát kulcsot soha nem szabad megosztani. Egyetlen megbízható oktató, tárcaszolgáltató vagy ügyfélszolgálati munkatárs sem fogja ezeket valaha elkérni.
 
@@ -389,6 +399,7 @@ Szavak meghatározott sorrendű listája, amely gyakran 12 vagy 24 szóból áll
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[A csalás öt figyelmeztető jele: sürgetés, más személynek való kiadás, megváltozott célcím, garantált hozamok és titkos adatok kérése.](/micrographics/scam-red-flags-01/hu.md)
 
 ---
 
@@ -408,7 +419,8 @@ Ez még csak a kezdet.
 * **Ez még csak a kezdet.** Elég egyetlen biztonságos következő lépés.
 
 
-> **Callout – Egy pillanat az átgondolásra**
+<!-- card: callout -->
+> **Egy pillanat az átgondolásra**
 >
 > Térjen vissza az elején feltett öt kérdéshez. Most mit válaszolna?
 

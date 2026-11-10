@@ -9,6 +9,7 @@ Bitcoin funkcionira jer različiti sudionici obavljaju različite uloge.
 
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Četiri uloge u Bitcoinu: korisnici primaju, čuvaju i šalju bitcoin, čvorovi neovisno provjeravaju pravila, rudari sastavljaju blokove kandidate uz dokaz rada, a razvojni programeri predlažu softver. Nijedna uloga sama ne kontrolira mrežu.](/micrographics/bitcoin-participant-roles-01/hr.md)
 
 
 Ove se uloge međusobno ograničavaju:

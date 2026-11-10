@@ -8,6 +8,7 @@ Simple lamang ang ligtas na pagsasanay upang maging handa sa pagbawi:
 
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[Isang pagsasanay na may anim na hakbang para sa pagpapanumbalik ng wallet na ginagamit sa pagsasanay: sundin ang mga opisyal na tagubilin, suriin ang pagkakatugma, gawin ito nang pribado, gamitin ang aprubadong paraan ng pagpapanumbalik, tiyaking ang wallet ang inaasahan, at pagkatapos ay i-reset. Gumamit lamang ng mga inihanda, walang laman, o simuladong materyales, at hindi kailanman makikita ng tagapagturo ang mga salita sa pagpapanumbalik.](/micrographics/practice-wallet-recovery-01/tl.md)
 
 
 Huwag gumamit ng wallet para sa pagsasanay o ng impormasyon sa pagbawi nito upang mag-ingat ng malaking halaga ng pondo pagkatapos ng Diploma. Ang isang personal na wallet, kung pipiliin ninyong gumawa nito sa hinaharap, ay nangangailangan ng bagong pribadong pagse-set up at bagong impormasyon sa pagbawi.

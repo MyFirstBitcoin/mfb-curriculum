@@ -15,6 +15,7 @@ Use una secuencia de pausa y verificación:
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Antes de aprobar un pago, la persona que envía verifica el destinatario y el propósito, el método de pago, el destino y el monto, la unidad, la comisión o el vencimiento, y hace una prueba con un monto pequeño si no conoce el proceso. Si algo es diferente, se detiene y verifica; aprueba solo cuando todo coincide y luego revisa el resultado.](/micrographics/pre-send-checklist-01/es-419.md)
 
 
 Enseñe a los estudiantes a detenerse si el destinatario cambia el destino inesperadamente, desalienta la verificación, genera urgencia o solicita información de recuperación.

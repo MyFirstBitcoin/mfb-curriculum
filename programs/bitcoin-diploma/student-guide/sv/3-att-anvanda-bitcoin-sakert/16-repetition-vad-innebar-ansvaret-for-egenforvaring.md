@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: self-custody-responsibilities-01 -->
+[Kontroll över nycklarna står i centrum för åtta ansvarsområden: säkerhetskopiering, återställning, mottagning, sändning, val av verktyg, inköpsväg, integritet och bedrägerikontroller. Varje område skyddar något, och brister inom något av dem kan kosta åtkomst, pengar eller integritet.](/micrographics/self-custody-responsibilities-01/sv.md)
 
 
 
 <!-- micrographic: responsibility-checks-01 -->
+[En tabell med sex uppgifter inom egenförvaring, vad som ska skyddas eller kontrolleras för var och en och vad som kan hända om något går fel: säkerhetskopiering, att ta emot, att skicka, förvaring, val av verktyg och anskaffning.](/micrographics/responsibility-checks-01/sv.md)
 
 
 Föreställ er att en vän skickar en betalningsbegäran till er samtidigt som ett okänt supportkonto säger att ni måste agera omedelbart. Vad skulle ni kunna kontrollera innan ni gör något? Kan ni skydda en återställningsplan, skilja uppgifter för att ta emot betalningar från hemligheter och verifiera personen, betalningsmetoden, mottagaren, beloppet och den sista skärmbilden innan ni skickar? Oavsett om en tjänst eller ni själva kontrollerar nycklarna är den praktiska sammanfattningen densamma: skydda hemligheter, kontrollera innan ni godkänner, känn igen tecken på bedrägerier och begränsa följderna av misstag medan ni lär er.

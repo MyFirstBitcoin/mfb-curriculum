@@ -6,6 +6,7 @@ Bitcoin ya haɗa halaye waɗanda a baya ba su taɓa kasancewa tare a cikin wata 
 
 
 <!-- micrographic: bitcoin-money-properties-01 -->
+[Bitcoin ya haɗa siffofin kuɗi guda bakwai a cikin kadara guda: ɗorewa, sauƙin ɗauka, iya rarrabawa, iya musanyawa da makamancinsa, ƙaranci, iya tantancewa da karɓuwa. Kowace sifa tana da iyakoki a aikace, kamar buƙatar kiyaye maɓallai da kuma ƙarancin karɓuwa da har yanzu ake samu a al'ummomi da dama.](/micrographics/bitcoin-money-properties-01/ha.md)
 
 
 

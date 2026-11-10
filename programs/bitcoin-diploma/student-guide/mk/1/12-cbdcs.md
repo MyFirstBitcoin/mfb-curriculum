@@ -1,5 +1,6 @@
 # 1.12 Дигитални валути на централните банки (CBDCs)
 
+<!-- card: definition -->
 > **Definition – Дигитална валута на централна банка (CBDC)**
 >
 > Една [дигитална валута на централна банка](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), или [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), е дигитална форма на [фиат пари](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) издадена како [обврска](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability) на една [централна банка](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank): тоа е побарување што [централната банка](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) треба да му го исплати на имателот. Таа се разликува од физичката готовина и од вообичаениот депозит во комерцијална банка, иако корисничкото искуство може да изгледа слично.
@@ -13,6 +14,7 @@
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[Табела што ги споредува готовината, банкарските депозити, дигиталната валута на централна банка за населението и Биткоин според тоа кој ги издава, нивната форма, пристапот, видливоста, правилата за понудата и проверката. Дигитално не значи исто што и децентрализирано: дигиталната валута на централна банка и понатаму ја издава централната банка, а пристапот до неа, видливоста и проверката зависат од нејзиниот дизајн.](/micrographics/cbdc-comparison-table-01/mk.md)
 
 
 Дигитално не значи автоматски децентрализирано, оскудно, приватно или отворено за независна проверка. Една [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) може да користи дигитална технологија, но таа и понатаму е [фиат пари](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) ако нејзиниот [издавач](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer), правилата за понудата, правилата за пристап и дозволите за плаќање останат под централизирано управување.

@@ -36,6 +36,7 @@ Nettverket [Bitcoin Education Network](https://myfirstbitcoin.org/about/network)
 
 
 <!-- micrographic: final-safety-check-01 -->
+[En siste sikkerhetssjekkliste med avkryssede punkter: beskytt hemmeligheter, kontroller betalingsdetaljene, test med små beløp og stopp ved press. Hvis noe er uklart, stopp og lær mer før De handler.](/micrographics/final-safety-check-01/nb.md)
 
 
 Husk disse reglene:
@@ -57,6 +58,7 @@ Opplæring reduserer risiko, men kan ikke fjerne den. Hvis en situasjon er uklar
 
 
 <!-- micrographic: curriculum-source-panel-01 -->
+[Et panel med en QR-kode og den trykte lenken github.com/MyFirstBitcoin/mfb-curriculum, den autoritative kilden til Bitcoin-diplomet, der De kan kontrollere utgaven og melde fra om feil.](/micrographics/curriculum-source-panel-01/nb.md)
 
 
 Bitcoin Diploma er en levende læreplan med åpen kildekode. Rettelser og forbedringer kan gjennomgås offentlig.

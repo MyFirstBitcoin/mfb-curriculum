@@ -8,6 +8,7 @@ Sigurna vježba pripreme za oporavak jednostavna je:
 
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[Vježba oporavka novčanika za vježbu u šest koraka: slijedite službene upute, provjerite kompatibilnost, radite u privatnosti, koristite odobrenu metodu oporavka, potvrdite da je riječ o očekivanom novčaniku, a zatim vratite okruženje na početno stanje. Koristite samo unaprijed pripremljene, prazne ili simulirane materijale, a edukator nikada ne vidi riječi za oporavak.](/micrographics/practice-wallet-recovery-01/hr.md)
 
 
 Nakon završetka programa Bitcoin Diploma nemojte upotrebljavati novčanik za vježbu ni njegove podatke za oporavak za čuvanje znatnih sredstava. Osobni novčanik, ako ga kasnije odlučite izraditi, zahtijeva novo postavljanje u privatnosti i nove podatke za oporavak.

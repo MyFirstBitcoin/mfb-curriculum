@@ -4,6 +4,7 @@ Každá [**cirkulární ekonomika Bitcoinu**](https://curriculum.myfirstbitcoin.
 
 
 <!-- micrographic: local-circular-economy-01 -->
+[V oběhové ekonomice Bitcoinu přechází bitcoin od člověka k člověku výměnou za zboží, služby a čas. Zákazník platí obchodníkovi, obchodník platí poskytovateli služeb, poskytovatel služeb platí pracovníkovi a pracovník jej znovu utrácí jako zákazník.](/micrographics/local-circular-economy-01/cs.md)
 
 
 My First Bitcoin podporuje [cirkulární ekonomiky Bitcoinu](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-circular-economy) a mnohé z nich jsou součástí sítě Bitcoin Education Network. Prozkoumejte tyto komunity na [přehledovém panelu sítě](https://network.myfirstbitcoin.org/?min10merchants=1).

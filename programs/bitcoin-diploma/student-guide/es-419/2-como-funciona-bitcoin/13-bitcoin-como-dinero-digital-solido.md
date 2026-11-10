@@ -6,6 +6,7 @@ Bitcoin combina propiedades que antes no coexistían en un solo [activo](https:/
 
 
 <!-- micrographic: bitcoin-money-properties-01 -->
+[Bitcoin combina siete propiedades del dinero en un solo activo: durabilidad, portabilidad, divisibilidad, fungibilidad, escasez, verificabilidad y aceptabilidad. Cada una tiene limitaciones prácticas, como la necesidad de mantener las claves seguras y una aceptación que aún es baja en muchas comunidades.](/micrographics/bitcoin-money-properties-01/es-419.md)
 
 
 

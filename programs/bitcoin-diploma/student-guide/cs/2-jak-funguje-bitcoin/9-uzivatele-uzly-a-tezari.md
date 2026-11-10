@@ -9,6 +9,7 @@ Bitcoin funguje, protože různí účastníci plní různé role.
 
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Čtyři role v síti Bitcoin: uživatelé přijímají, drží a odesílají bitcoin, uzly nezávisle ověřují dodržování pravidel, těžaři sestavují kandidátní bloky s důkazem prací a vývojáři navrhují software. Žádná jednotlivá role síť neovládá.](/micrographics/bitcoin-participant-roles-01/cs.md)
 
 
 Tyto role se navzájem omezují:

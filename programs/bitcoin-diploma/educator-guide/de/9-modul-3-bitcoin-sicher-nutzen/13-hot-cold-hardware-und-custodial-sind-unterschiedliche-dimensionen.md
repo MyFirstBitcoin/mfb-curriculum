@@ -11,6 +11,7 @@ Eine Lightning-Wallet kann verwahrt oder selbstverwahrt sein. Eine [Hardware Wal
 
 
 <!-- micrographic: hot-and-cold-wallets-01 -->
+[Ein Hot Wallet speichert die Signaturschlüssel auf einem mit dem Internet verbundenen Gerät, etwa einem Smartphone; eine Cold-Lösung hält sie von jedem verbundenen Gerät fern. Wer die Schlüssel kontrolliert, ist eine separate Frage.](/micrographics/hot-and-cold-wallets-01/de.md)
 
 
 Bitten Sie die Lernenden, ein Werkzeug für einen erfundenen Zweck auszuwählen, und lassen Sie sie anschließend den Nutzen und das neue Risiko benennen. Bitten Sie sie nicht, eine Wahl für ihre tatsächlichen Bestände zu treffen.

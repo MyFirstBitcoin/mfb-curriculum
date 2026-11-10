@@ -24,6 +24,7 @@ Kysykää jokaisesta vaihtoehdosta:
 
 
 <!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Henkilö voi saada bitcoinia neljällä eri tavalla: ansaitsemalla sitä työstä tai myynnistä, vaihtamalla paikallista käteistä toisen henkilön kanssa, käyttämällä pörssiä tai välittäjää tai käyttämällä automaattia. Jokainen reitti päättyy omaan säilytykseen tai säilytyspalvelun saldoon, eikä mitään niistä suositella muiden edelle.](/micrographics/ways-to-receive-bitcoin-01/fi.md)
 
 
 Käyttäkää termiä [**no-KYC**](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) johdonmukaisesti vaihtoehdosta, jossa kerätään tavallista vähemmän henkilöllisyystietoja tai niitä ei kerätä lainkaan. Älkää antako ymmärtää, että [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) poistaa petosriskit, oikeudelliset riskit, vastapuoliriskit tai fyysiseen turvallisuuteen liittyvät riskit. Älkää neuvoko kiertämään paikallista lainsäädäntöä.

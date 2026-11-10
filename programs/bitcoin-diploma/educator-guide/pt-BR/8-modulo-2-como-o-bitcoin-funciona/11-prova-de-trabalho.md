@@ -10,6 +10,7 @@ Ensine a relação, não a matemática:
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Um minerador calcula o hash de um bloco proposto repetidamente até que um resultado fique abaixo do alvo da rede e, então, transmite o bloco. Os nós verificam rapidamente a prova e cada regra antes de o bloco entrar na blockchain: o trabalho é caro de produzir e fácil de verificar.](/micrographics/proof-of-work-process-01/pt-BR.md)
 
 
 Evite dizer que [os mineradores](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) resolvem equações externas úteis. Evite afirmar que o custo energético é automaticamente justificado ou automaticamente um desperdício.

@@ -1,10 +1,12 @@
 # 4.13 Repetisjon: Knytt dette til Deres lokalsamfunn
 
 <!-- micrographic: community-review-path-01 -->
+[En fremgangsmåte for å vurdere et lokalt eksempel på bruk av Bitcoin: Begynn med et reelt behov, vurder om Bitcoin egner seg, deretter betalingsmåte, oppbevaring, totalkostnad, sikkerhet og lokale forhold, og avslutt med dokumentasjon på at det lyktes.](/micrographics/community-review-path-01/nb.md)
 
 
 
 <!-- micrographic: community-review-table-01 -->
+[En gjennomgangstabell for det lokale eksempelet: For hvert tema, fra det reelle behovet til et ansvarlig neste steg, er det et spørsmål å stille og et valgfritt felt for Deres egne notater.](/micrographics/community-review-table-01/nb.md)
 
 
 Gjennomfør denne gjennomgangen individuelt, og sammenlign deretter Deres resonnement med teamet eller kullet Deres. Tenk på det lokale eksemplet De studerte: Hvilket reelt behov dekket det, hvilken funksjon ved penger var involvert, og ble [verdi](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) overført på blokkjeden, via Lightning eller begge deler? Spør hvem som kontrollerte nøklene, hva den største fordelen og den alvorligste risikoen var, og hvordan lokale lover, infrastruktur, språk eller kultur påvirket resultatet. Et ansvarlig neste steg er et som passer til den lokale konteksten, tydeliggjør kostnader og [forvaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), begrenser feil og svindel og kan vurderes ut fra dokumentasjon.

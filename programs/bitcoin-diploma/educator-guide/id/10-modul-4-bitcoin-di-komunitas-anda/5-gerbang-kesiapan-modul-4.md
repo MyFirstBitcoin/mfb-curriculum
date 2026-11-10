@@ -1,6 +1,7 @@
 # 10.5 Gerbang Kesiapan Modul 4
 
-> **Callout – Jangan melaksanakan kegiatan praktik langsung Modul 4 sebelum semua pemeriksaan dinyatakan lolos**
+<!-- card: callout -->
+> **Jangan melaksanakan kegiatan praktik langsung Modul 4 sebelum semua pemeriksaan dinyatakan lolos**
 >
 > Jika hasil pemeriksaan di bawah ini belum memadai, gunakan simulasi, panduan langkah tercetak, atau kegiatan lain. Jangan menyiasati prosedur yang tidak aman atau belum terverifikasi dengan meminta peserta didik menanggung risiko yang lebih besar.
 
@@ -22,3 +23,4 @@ Jangan melaksanakan modul secara praktik langsung sebelum semua jawaban yang diw
 
 
 <!-- micrographic: module-4-readiness-gate-01 -->
+[Delapan pemeriksaan mencakup tujuan, kompetensi, kemampuan pendidik, alat, aturan setempat, keselamatan, akses, dan pengamatan. Setiap pemeriksaan harus memberikan hasil yang memuaskan sebelum pelaksanaan secara langsung; jika ada kekurangan, gunakan cara yang lebih aman atau revisi rencana, lalu tinjau kembali kesiapan.](/micrographics/module-4-readiness-gate-01/id.md)

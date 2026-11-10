@@ -5,6 +5,7 @@ Mennesker har forskellige færdigheder, ressourcer, behov og planer. Udveksling 
 Direkte udveksling er ofte vanskelig. Den person, der har det, De har brug for, ønsker måske ikke det, De tilbyder. Penge løser dette koordineringsproblem.
 
 
+<!-- card: definition -->
 > **Definition – Penge**
 >
 > Penge er et [aktiv](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset), som mennesker accepterer, fordi de forventer, at andre vil acceptere det senere. Penge hjælper mennesker, der ikke kender hinanden, med at koordinere udveksling, registrere [priser](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) og [gæld](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt) og flytte [værdi](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) på tværs af tid og afstand.

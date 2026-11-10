@@ -14,3 +14,4 @@ Ubah satu kondisi setelah jawaban pertama diberikan. Misalnya: koneksi internet 
 
 
 <!-- micrographic: scenario-analysis-path-01 -->
+[Sebuah skenario fiktif dimulai dari tujuan orang tersebut dan fakta yang telah diverifikasi, lalu berlanjut ke siapa yang memegang kendali, pilihan yang tersedia, apa yang bisa gagal, dan langkah terkecil berikutnya yang aman. Perubahan satu kondisi mengarahkan penalaran kembali ke keputusan yang dipengaruhinya.](/micrographics/scenario-analysis-path-01/id.md)

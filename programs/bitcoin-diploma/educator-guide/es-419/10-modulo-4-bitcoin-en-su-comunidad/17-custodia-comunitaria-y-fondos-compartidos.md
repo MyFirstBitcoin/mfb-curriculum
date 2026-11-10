@@ -15,3 +15,4 @@ No convierta [la custodia comunitaria](https://curriculum.myfirstbitcoin.org/lex
 
 
 <!-- micrographic: shared-funds-role-map-01 -->
+[Los contribuyentes y beneficiarios dependen de quien controla los fondos compartidos. El control de las claves, la aprobación de gastos, el mantenimiento de registros y la revisión son funciones separadas; cuando una sola persona desempeña varias, la confianza se concentra, y aún quedan por resolver cuestiones de continuidad, privacidad, disputas y situación legal.](/micrographics/shared-funds-role-map-01/es-419.md)

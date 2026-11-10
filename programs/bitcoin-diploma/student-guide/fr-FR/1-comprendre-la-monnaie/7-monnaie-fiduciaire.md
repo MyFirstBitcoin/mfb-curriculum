@@ -1,5 +1,6 @@
 # 1.7 Monnaie fiduciaire
 
+<!-- card: definition -->
 > **Definition – Monnaie fiat**
 >
 > [La monnaie fiat](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) est [une monnaie](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) émise sous l’autorité d’un gouvernement, généralement par l’intermédiaire d’une [banque centrale](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank), qui n’est pas convertible en une quantité fixe d’une matière première telle que [l’or](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold). Les gouvernements favorisent son utilisation — et, dans certains contextes, l’imposent — en exigeant qu’elle soit utilisée pour payer les impôts et en fixant les règles du cours légal. Les règles précises relatives à l’acceptation des paiements et au règlement des [dettes](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt) varient selon les juridictions.
@@ -11,12 +12,14 @@ Le système de monnaie fiat compte plusieurs acteurs principaux :
 
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Les acteurs d’un système de monnaie fiduciaire et les échanges entre eux : la banque centrale définit la politique monétaire et assure le règlement entre banques, les banques commerciales détiennent des dépôts qui constituent leurs dettes envers leurs clients, les services de paiement transmettent les instructions, l’État perçoit des impôts et effectue des dépenses, et les citoyens et les entreprises effectuent et reçoivent des paiements.](/micrographics/fiat-system-flows-01/fr-FR.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
-> **Light – Examinez un paiement local**
+<!-- card: light -->
+> **Examinez un paiement local**
 >
 > Choisissez un paiement courant dans votre communauté, comme l’achat d’un titre de transport, de nourriture ou de crédit téléphonique ; la perception d’un salaire ; ou le règlement d’une facture. Si vous préférez, utilisez un scénario inventé mais réaliste. En trois ou quatre phrases, expliquez :
 >

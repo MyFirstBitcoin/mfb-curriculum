@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: daily-bitcoin-uses-01 -->
+[Sept façons distinctes d’utiliser Bitcoin au quotidien : gagner, épargner, recevoir, envoyer, dépenser, faire un don, et fixer les prix et tenir la comptabilité. Chacune est une utilisation possible, et non une étape obligatoire.](/micrographics/daily-bitcoin-uses-01/fr-FR.md)
 
 
 Bitcoin peut servir de monnaie de plusieurs façons. Le dépenser n’est que l’une d’entre elles.

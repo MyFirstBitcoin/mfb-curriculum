@@ -12,6 +12,7 @@ Enseignez les conséquences :
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Une phrase de récupération est une liste ordonnée de mots, ici douze mots d’exemple numérotés et écrits sur papier. Les bons mots dans le bon ordre permettent de reprendre le contrôle dans un portefeuille compatible ; cette phrase doit donc rester secrète et hors ligne.](/micrographics/seed-phrase-on-paper-01/fr-FR.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
@@ -43,10 +44,12 @@ Enseignez les conséquences :
 
 
 <!-- micrographic: recovery-practice-lanes-01 -->
+[L’apprenant suit les étapes de l’exercice de récupération à l’abri des regards, vérifie le résultat attendu, efface les données de l’appareil et restitue ou détruit les supports fictifs. L’éducateur observe les décisions et les précautions prises lors des manipulations, mais ne voit jamais les mots secrets de récupération.](/micrographics/recovery-practice-lanes-01/fr-FR.md)
 
 
 
-> **Callout – Considérez toute phrase de seed exposée comme compromise**
+<!-- card: callout -->
+> **Considérez toute phrase de seed exposée comme compromise**
 >
 > Si une véritable seed a pu être exposée, cessez de l’utiliser comme sauvegarde sûre, créez un nouveau portefeuille fiable avec de nouvelles informations de récupération et transférez les fonds après avoir soigneusement vérifié la destination. L’apprenant doit demander de l’aide sans révéler ni l’ancienne ni la nouvelle phrase.
 

@@ -17,3 +17,4 @@ Geen enkele legitieme docent, walletbedrijf, medewerker van een exchange, ontwik
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[Een geheime privésleutel, die nooit gedeeld mag worden, leidt tot publieke informatie die wel gedeeld kan worden: een publieke sleutel die ervan is afgeleid en een ontvangstadres dat daarop is gebaseerd. Dezelfde privésleutel maakt handtekeningen aan die Nodes verifiëren zonder de privésleutel ooit te leren kennen.](/micrographics/private-key-public-info-01/nl.md)

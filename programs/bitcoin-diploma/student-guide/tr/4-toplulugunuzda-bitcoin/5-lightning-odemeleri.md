@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[Alıcı, telefonunda tutarı içeren bir Lightning ödeme talebi oluşturur, gönderen bunu tarayıp öder ve ödeme kısa bir süre sonra alıcının telefonuna ulaşır.](/micrographics/lightning-phone-payment-01/tr.md)
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Altı adımda bir Lightning ödemesi: alıcı bir talep oluşturur, gönderen talebi tarar, alıcıyı, tutarı, birimi, son geçerlilik süresini ve ücreti kontrol eder, onaylar, ödeme yönlendirilir ve her iki cüzdan da sonucu gösterir. Her cüzdan emanetçi veya kendi kendine saklama türünde olabilir; başarısız olan veya süresi dolan bir ödeme yeni bir taleple yeniden başlar.](/micrographics/lightning-payment-sequence-01/tr.md)
 
 
 Lightning, hızlı ve küçük Bitcoin ödemelerini pratik hâle getirebilir. Bir satıcı tezgâhı, tekrarlanan yerel ödemeler, çevrimiçi hizmetler veya zincir üstü (on-chain) ücretin ödeme tutarına göre çok yüksek kalacağı transferler için uygun olabilir.

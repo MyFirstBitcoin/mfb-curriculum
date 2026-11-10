@@ -14,6 +14,7 @@ Užitečné peníze také mívají několik vlastností:
 
 
 <!-- micrographic: money-property-questions-01 -->
+[Sedm vlastností užitečných peněz, každá s otázkou, kterou si můžete položit při porovnávání forem peněz: trvanlivost, přenositelnost, dělitelnost, zaměnitelnost, vzácnost, přijatelnost a ověřitelnost.](/micrographics/money-property-questions-01/cs.md)
 
 
 Žádná forma peněz nevyniká dokonale ve všem.
@@ -22,6 +23,7 @@ Lidé peníze porovnávají také podle jejich [**zdravosti**](https://curriculu
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Dvě vrstvy: tři funkce peněz (prostředek směny, účetní jednotka, uchovatel hodnoty) spočívají na sedmi vlastnostech (trvanlivost, přenosnost, dělitelnost, zaměnitelnost, vzácnost, přijatelnost a ověřitelnost).](/micrographics/functions-and-properties-01/cs.md)
 
 
 [Zlato](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) je trvanlivé a vzácné, ale pro drobné platby se obtížně dělí a přepravuje. [Papírová hotovost](https://curriculum.myfirstbitcoin.org/lexicon/en/#paper-cash) je přenosná a místně přijímaná, ale může se poškodit a její množství se může zvyšovat. Nejvhodnější srovnání závisí na účelu, místě a čase.

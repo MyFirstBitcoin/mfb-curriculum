@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[Người nhận tạo yêu cầu thanh toán Lightning kèm số tiền trên điện thoại của mình, người gửi quét yêu cầu và thanh toán, rồi khoản thanh toán đến điện thoại của người nhận sau giây lát.](/micrographics/lightning-phone-payment-01/vi.md)
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Thanh toán Lightning qua sáu bước: người nhận tạo yêu cầu, người gửi quét yêu cầu, kiểm tra người nhận, số tiền, đơn vị, thời hạn hiệu lực và phí, rồi phê duyệt; khoản thanh toán được định tuyến và cả hai ví đều hiển thị kết quả. Mỗi ví có thể là ví lưu ký hoặc ví tự lưu ký; nếu thanh toán thất bại hoặc hết hạn, quy trình sẽ bắt đầu lại bằng một yêu cầu mới.](/micrographics/lightning-payment-sequence-01/vi.md)
 
 
 Lightning có thể giúp các khoản thanh toán Bitcoin nhỏ, nhanh chóng trở nên thiết thực. Lightning có thể phù hợp cho quầy thanh toán của cửa hàng, các khoản thanh toán thường xuyên tại địa phương, dịch vụ trực tuyến hoặc các khoản chuyển tiền mà phí trên chuỗi sẽ quá cao so với số tiền thanh toán.

@@ -28,6 +28,7 @@ Bu yaklaşım önemlidir, çünkü para herkesi etkiler. İnsanlar, kullandıkla
 
 
 <!-- micrographic: critical-thinking-loop-01 -->
+[Tekrarlanabilir bir eleştirel düşünme döngüsü: iddiayı belirleyin, olguyu tercihten ayırın, kanıtı ve kaynağı inceleyin, alternatifleri karşılaştırın, bir ödünleşimi veya belirsizliği adlandırın ve geçici bir sonuca varın ya da bir soru oluşturun.](/micrographics/critical-thinking-loop-01/tr.md)
 
 
 **Topluluk**, insanlar fikirleri tartışıp bunları yerel yaşamla ilişkilendirdiğinde eğitimin daha faydalı hâle gelmesi anlamına gelir. Eğitmeniniz ve sınıf arkadaşlarınız, hiçbir küresel kitabın içeremeyeceği deneyimlere sahip olabilir. Dikkatle dinleyin, sorular sorun ve düşüncelerinizi saygıyla açıklayın.
@@ -75,7 +76,8 @@ Bu kursu şunlar için kullanabilirsiniz:
 * daha ileri düzey çalışmalara hazırlanmak
 
 
-> **Callout – Önce bilgi, sonra eylem**
+<!-- card: callout -->
+> **Önce bilgi, sonra eylem**
 >
 > Bitcoin Diploması'nı tamamlamak için bitcoin satın almanız veya başka bir yolla edinmeniz gerekmez. Ayrıca bir [Bitcoin cüzdanı](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet) kurmanız veya kişisel fonlarınızı kullanmanız da gerekmez. Gerekli pratik beceriler; önceden hazırlanmış bir eğitim cüzdanı, simülasyon, test ortamı, fiziksel model veya eğitmen tarafından onaylanmış düşük riskli bir etkinlikle değerlendirilebilir.
 
@@ -84,3 +86,4 @@ Zamanınız kısıtlıysa veya Bitcoin'e ilk kez giriş yapmak istiyorsanız, [B
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[İsteğe bağlı bir öğrenme yolculuğu, Bitcoin'e Giriş'ten Bitcoin Diploması'na, ardından Eğitmen Eğitim Programı'na, oradan My First Bitcoin müfredatıyla ders veren bir eğitmen olmaya ve Bitcoin Eğitim Ağı'na katılmaya uzanır. Her bir sonraki adım bir zorunluluk değil, bir tercihtir.](/micrographics/learner-journey-pathway-01/tr.md)

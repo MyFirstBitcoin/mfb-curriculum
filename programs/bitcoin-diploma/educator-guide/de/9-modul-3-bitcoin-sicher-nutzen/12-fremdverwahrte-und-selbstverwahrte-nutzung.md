@@ -20,3 +20,4 @@ Behandeln Sie [Selbstverwahrung](https://curriculum.myfirstbitcoin.org/lexicon/e
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[Bei der Fremdverwahrung kontrolliert ein Dienst die Schlüssel und genehmigt Ausgaben, sodass das Guthaben lediglich sein Versprechen ist. Bei der Selbstverwahrung kontrolliert der Nutzer die Schlüssel und Backups; beide Wege haben Abhängigkeiten und Ausfallrisiken.](/micrographics/who-controls-keys-01/de.md)

@@ -40,7 +40,8 @@ No ganando'é, no gastando'é, sino pensando riba kiko e ta i kon e ta funshoná
 * Su plaka ta kumpra e mesun kantidat ku promé?
 
 
-> **Callout – Warda Su kontestanan**
+<!-- card: callout -->
+> **Warda Su kontestanan**
 >
 > Skirbi un kontesta kòrtiku pa kada pregunta. Usted lo bolbe riba nan na final.
 
@@ -85,6 +86,7 @@ Tur dos persona mester ke loke e otro tin, na mes momento i den kantidatnan adek
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina tin aros i ke sapatu, Luis tin sapatu i ke zeta di kushiná, i Mei tin zeta di kushiná i ke trabou di reparashon. Ningun pareha no por kambia direktamente, pasobra niun di e dos personanan den un pareha no ke loke e otro ta ofresé.](/micrographics/barter-mismatch-01/pap.md)
 
 <!-- notes: Usa e ehèmpel di e guia: Usted ta kweki aros i Usted mester di sapatu, pero e sapatero ke azeta di kushina, no aros. Ekonomista ta yama esaki e doble koinsidensia di deseo. -->
 
@@ -151,6 +153,7 @@ Ora hende tende e palabra inflashon, generalmente nan ta pensa riba preis ku ta 
 ## Inflashon i Poder di Kompra
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[E mesun 100 unidat di moneda ta kumpra e kanastra kompleto di produktonan básiko ora e ta kosta 100, pero no ora e mesun kanastra ta kosta 110. E nivel di preis a subi i e poder di kompra di e plaka a baha.](/micrographics/same-money-smaller-basket-01/pap.md)
 
 <!-- notes: Inflashon di preis ta un subida sostené den e nivel general di preis. Su otro banda ta e poder di kompra: kuantu un unidat di plaka por kumpra. Si un kanasta di produkto básiko subi di 100 unidat di moneda pa 110, e mesun 100 unidat no ta kumpra e kanasta kompleto mas. -->
 
@@ -213,8 +216,7 @@ Un saldo di banko ta diferente for di plaka kontante den bo man: e ta e promesa 
 * Pero su kantidat i reglanan por kambia, i e hendenan ku ta us'é tin poko di bisa
 
 
-> **Callout**
->
+<!-- card: callout -->
 > P'esei hende ta buska alternativanan, i p'esei a krea Bitcoin.
 
 ---
@@ -233,6 +235,7 @@ Plaka digital ku ta desentralisá, tin un kantidat limitá, i ku por manda di pe
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Ku un kompania di pago, un solo organisashon ta warda e rehistro i ta aprobá kada transferensia. Ku Bitcoin, esun ku ta manda ta firma un transakshon, nodonan independiente ta kontrolá esaki i mineronan ta agregá esaki na un solo rehistro kompartí, pues esun ku ta risibí ta dependé ménos di un outoridat sentral.](/micrographics/central-ledger-vs-bitcoin-01/pap.md)
 
 <!-- notes: Promé ku Bitcoin, manda plaka online semper tabata dependé di un organisashon di konfiansa: un banko òf un kompania di pago ku tabata mantené e libro di kuenta, aprobá kuenta, i por a tardá, bloká òf revertí un pago. Informashon digital ta fásil pa kopia: si por gasta un muntu digital dos biaha, e no por a funshoná komo plaka. Esaki ta e problema di gasto dobel. Satoshi Nakamoto ta un persona òf un grupo ku ta usa e nòmber ei. -->
 
@@ -253,6 +256,7 @@ Ningun kompania no por bloka bitcoin ku Usted mes ta kontrolá. E otro banda di 
 ## Un límite ku kualke hende por verifiká
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Un límite di suministro skibí riba un website òf den e base di datos di un emisor por wòrdu kambiá sin ku ningun hende ta ripará pa e emisor ei. E regla di suministro di Bitcoin ta públiko, i firmanan, un historia públiko, prueba di trabou i verifikashon pa nodonan huntu ta impedí ku por inventá muntnan nobo òf gasta e mesun bitcoin dos biaha.](/micrographics/claimed-or-verified-supply-01/pap.md)
 
 <!-- notes: E bitcoin nobo ta wòrdu emití segun un kalendario públiko, i kompiuter independiente yamá nodo ta rechasá kualke blòki ku ta kibra e regla ei. E límite ta kredibel pasobra kualke hende por verifik'é. E no ta un lei di naturalesa: e ta keda na vigor pasobra e partisipantenan ta sigui hasi'é kumpli. Un oferta limitá no ta garantisá ku e preis lo subi; preis ta dependé tantu di demanda komo di oferta. -->
 
@@ -264,6 +268,7 @@ Un bitcoin ta dividí den 100.000.000 unidat mas chikí yamá satoshi, òf sats.
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Un tabel di dos kolùm: 1 BTC ta 100.000.000 sats, 0,1 BTC ta 10.000.000 sats, 0,01 BTC ta 1.000.000 sats, 0,001 BTC ta 100.000 sats, i 0,00000001 BTC ta 1 sat.](/micrographics/bitcoin-and-sats-01/pap.md)
 
 <!-- notes: Tin 100.000 sats i tin 0,001 bitcoin ta deskribí e mesun kantidat. Trata e idea robes ku Bitcoin ta fuera di alkanse pasobra un bitcoin ta karu. -->
 
@@ -272,6 +277,7 @@ Un bitcoin ta dividí den 100.000.000 unidat mas chikí yamá satoshi, òf sats.
 ## Ken ta mantené Bitcoin funshonando?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Kuater ròl den Bitcoin: usuarionan ta risibí, warda i manda bitcoin, nodonan ta verifiká e reglanan independientemente, mineronan ta konstruí bloke kandidato ku prueba di trabou, i desaroyadónan ta proponé software. Ningun ròl so no ta kontrolá e red.](/micrographics/bitcoin-participant-roles-01/pap.md)
 
 <!-- notes: Usuarionan ta manda, risibí i warda bitcoin; nodonan ta kontrolá kada transakshon i kada bloke kontra e reglanan; mineronan ta kompetí pa agregá un bloke nobo na e registro mas o ménos kada dies minüt. E registro ei, e blockchain, ta públiko i ta hopi kostoso pa skirbi di nobo. Un nota tokante ortografia: Bitcoin ku un B mayúskula normalmente ta nifiká e red òf e sistema; bitcoin ku un b minúskula ta nifiká e plaka mes. -->
 
@@ -307,6 +313,7 @@ E promé pregunta tocante kualke wallet: ken ta kontrolá e yabinan?
 ## Un Wallet ta Maneha Yabinan
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Un kartera ta warda e yabinan. Ku nan Usted por risibí i manda bitcoin, miéntras ku e bitcoin mes ta keda registrá riba e registro kompartí, no den e telefòn òf aparato.](/micrographics/wallet-manages-keys-01/pap.md)
 
 <!-- notes: Un kartera di Bitcoin ta un hèrmèntè, mayoria biaha un app, ku ta permití Usted risibí, kontrolá i manda bitcoin. Usted su bitcoin no ta wardá den Usted su telefòn: e ta registrá riba e blockchain. E kartera ta maneha e yabinan ku ta permití Usted proba ku e ta di Usted i outorisá un pago. -->
 
@@ -331,6 +338,7 @@ Un lista ordená di palabra, hopi biaha 12 of 24, ku por krea di nobo Usted su y
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Un frase di simia (seed phrase) ta un lista ordená di palabra; akinan diesdos palabra di ehèmpel numerá, skirbí riba papel. E palabranan korekto den e òrdu korekto por restourá kontrol den un kartera kompatibel, p'esei e ta keda sekreto i fuera di liña.](/micrographics/seed-phrase-on-paper-01/pap.md)
 
 <!-- notes: E frase di simia no ta djis un kopia di seguridat: e ta duna akseso kompleto. Skirbi'é ku eksaktitut riba papel ora Usted krea e wallet; warda'é offline, privá i na un lugá kaminda e no por bai pèrdí ni daña. Nunka saka potrèt di dje, manda'é via e-mail, warda'é den nota den e cloud, manda'é den un mensahe, ni drenta'é riba un sitio web. E palabranan mustrá ta solamente un ehempel; nunka mustra ni kolektá un frase di simia real. -->
 
@@ -365,6 +373,7 @@ Un lista ordená di palabra, hopi biaha 12 of 24, ku por krea di nobo Usted su y
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Pagonan on-chain ta wordu registrá direktamente den e blockchain di Bitcoin, miéntras Lightning ta un red di pago konstruí riba Bitcoin pa pagonan rápido i frekuente, ku tambe por faya. Kualke di e dos kaminanan por ta kustodial òf di outokustodia.](/micrographics/on-chain-and-lightning-01/pap.md)
 
 ---
 
@@ -375,7 +384,8 @@ Un lista ordená di palabra, hopi biaha 12 of 24, ku por krea di nobo Usted su y
 * **No Konfia, Verifiká.** Chek e persona, e método di pago, e adrès i e suma.
 
 
-> **Callout – Kompartí informashon pa risibí, nunka sekreto**
+<!-- card: callout -->
+> **Kompartí informashon pa risibí, nunka sekreto**
 >
 > Un adrès òf un petishon di pago por wòrdu kompartí. Un frase di simia (seed phrase) òf un yabi privá nunka mag wòrdu kompartí. Ningun edukadó legítimo, kompania di wallet, òf trahadó di sosten lo pidi Usted p'e nunka.
 
@@ -389,6 +399,7 @@ Para si un hende ta krea urgensia òf sekreto, ta primintí ganansia garantisá,
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Sinku señal di alarma di estafa: urgensia, suplantashon di identidat, un destinashon kambiá, ganashi garantisá i petishon pa sekreto.](/micrographics/scam-red-flags-01/pap.md)
 
 ---
 
@@ -408,7 +419,8 @@ Esaki ta djis e kuminsamentu.
 * **Esaki ta djis e kuminsamentu.** Un siguiente paso sigur ta sufisiente.
 
 
-> **Callout – Un momento pa reflekshoná**
+<!-- card: callout -->
+> **Un momento pa reflekshoná**
 >
 > Bolbe na e sinku preguntanan di kuminsamentu. Kiko Usted lo kontestá awor?
 

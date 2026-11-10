@@ -22,6 +22,7 @@ Kowane sashe yana bin tsari iri ɗaya:
 
 
 <!-- micrographic: learning-rhythm-strip-01 -->
+[Tsarin koyo mai matakai biyar: ku koyi muhimmin ra'ayi, ku nuna abin da za ku iya bayyanawa ko aiwatarwa, ku aiwatar da ra'ayin, ku bayyana shi da kalmominku na kanku, sannan ku yi bitar yadda yake da alaƙa da sashen karatu na gaba.](/micrographics/learning-rhythm-strip-01/ha.md)
 
 
 Za ku fi koyo ta hanyar shiga a dama da ku fiye da karantawa a shiru. Wasu tambayoyi ba su da amsa guda ɗaya tak da ta dace. Abin da ya fi muhimmanci shi ne ko za ku iya bayyana dalilanku, bincika hujjoji, da sake duba ra'ayinku idan kun koyi sabon abu.
@@ -81,7 +82,8 @@ Idan lokacin yin atisaye da [walat ɗin Bitcoin](https://curriculum.myfirstbitco
 ### Tsaro, ɗaukar alhaki, da rashin bayar da shawarar harkokin kuɗi
 
 
-> **Callout – Ku fara da koyo; wannan ba shawarar ɗaukar mataki ba ce**
+<!-- card: callout -->
+> **Ku fara da koyo; wannan ba shawarar ɗaukar mataki ba ce**
 >
 > Difloma ta Bitcoin don ilimi kawai ce. Ba ta bayar da shawarar harkokin kuɗi, saka jari, shari'a, ko haraji. Ba ta yi alƙawarin cewa bitcoin zai ƙaru a [farashi](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) ko ba ku shawarar saya, sayarwa, yin jingina da bitcoin domin aro, ko riƙe kowane adadi na bitcoin.
 >
@@ -104,6 +106,7 @@ Difloma ta ƙunshi tsarin koyo mai matakai huɗu: **Matsala → Mafita → Aiki 
 
 
 <!-- micrographic: learning-path-roadmap-01 -->
+[Taswirar hanya mai matakai huɗu: Matsala, Fahimtar Kuɗi; Mafita, Yadda Bitcoin ke Aiki; Ɗaukar Mataki, Amfani da Bitcoin Cikin Tsaro; da Haɗawa, Bitcoin a Cikin Al'ummarku, kowanne tare da tambayar da ke jagorantarsa.](/micrographics/learning-path-roadmap-01/ha.md)
 
 
 **Sashe na 4** sashe ne na dole a cikin Difloma, wanda malami yake tsarawa. Malamai su ne ƙwararru kan ƙalubalen yankin ɗalibansu, mafita, kayan aiki, albarkatu, dokoki, harshe, ababen more rayuwa, da buƙatu. Ayyukan matakin Haɗawa da malami yake tsarawa na iya haɗawa da samun kuɗi, tanadi, karɓa, kashewa, [Mataki na 2](https://curriculum.myfirstbitcoin.org/lexicon/en/#layer-2) a matsayin mafita, hanyoyin musaya na cikin gida, 'yan kasuwa, ko tattalin arzikin da kuɗi ke zagayawa a cikinsa.
@@ -118,6 +121,7 @@ Sassan huɗu suna samar da hanyar koyo ta Matsala → Mafita → Aiki → Haɗaw
 
 
 <!-- micrographic: four-module-table-01 -->
+[Jadawalin sassa huɗu da ke nuna matsayin kowane sashe, tambayar jagora da abin da ɗalibi zai yi atisaye a kai: Fahimtar Kuɗi, Yadda Bitcoin Ke Aiki, Amfani da Bitcoin Cikin Aminci da Bitcoin a Cikin Al'ummarku.](/micrographics/four-module-table-01/ha.md)
 
 
 Difloma tana ɗaukar aƙalla sa'o'i takwas. Zaman darasi huɗu na sa'o'i biyu-biyu su ne mafi gajeren tsarin da aka tsara, ba iyakar lokaci ba. Malaminku na iya raba sashe zuwa zaman darasi fiye da haka, sake komawa ga wani ra'ayi da aka koya a baya, ko sauya jerin ƙananan sassa idan rukuninku yana buƙatar ƙarin lokaci don tattaunawa, aikace-aikace, bita, ko tantancewa. Babu iyaka ga tsawon lokacin da za a ɗauka: malami ne yake da alhakin bai wa ɗalibai lokacin da suke buƙata, koyar da dukkan ƙwarewar da ake buƙata, da fayyace alaƙar da ke tsakanin sassan.

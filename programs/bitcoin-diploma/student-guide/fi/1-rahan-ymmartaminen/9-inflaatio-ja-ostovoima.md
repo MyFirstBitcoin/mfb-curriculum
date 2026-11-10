@@ -1,11 +1,13 @@
 # 1.9 Inflaatio ja ostovoima
 
+<!-- card: definition -->
 > **Definition – Hintainflaatio**
 >
 > Ihmiset käyttävät termiä ”[inflaatio](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation)” useammassa kuin yhdessä merkityksessä. Tässä oppaassa [hintainflaatio](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation) tarkoittaa jatkuvaa nousua tavaroiden ja palvelujen yleisessä [hintojen](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) tasossa. Jos tulonne ja säästönne eivät kasva yhtä nopeasti kuin [hinnat](https://curriculum.myfirstbitcoin.org/lexicon/en/#price), rahoillanne saa vähemmän.
 
 
 
+<!-- card: definition -->
 > **Definition – Ostovoima**
 >
 > [Ostovoima](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) tarkoittaa tavaroiden ja palvelujen määrää, jonka yhdellä rahayksiköllä voi ostaa. Jos perushyödykekorin hinta nousee 100 yksiköstä [valuuttaa](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) 110 yksikköön, samoilla 100 yksiköllä ei enää saa koko koria. Niiden [ostovoima](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) suhteessa kyseiseen koriin on heikentynyt.
@@ -15,6 +17,7 @@
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Samoilla 100 rahayksiköllä saa ostettua koko perushyödykkeistä koostuvan ostoskorin, kun se maksaa 100, mutta ei enää silloin, kun sama ostoskori maksaa 110. Hintataso on noussut ja rahan ostovoima on heikentynyt.](/micrographics/same-money-smaller-basket-01/fi.md)
 
 
 Jotkut käyttävät termiä ”[inflaatio](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation)” tarkoittamaan [rahan määrän kasvua](https://curriculum.myfirstbitcoin.org/lexicon/en/#monetary-inflation): rahan ja luoton määrän lisääntymistä. Tämä kasvu voi osaltaan edistää [hintainflaatiota](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation), samoin kuin tarjontahäiriöt, kysynnän muutokset, [valuutan](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) heikkous, verot, sääntely ja tuotantokustannusten muutokset. Syistä ja vaikutuksista kiistellään usein. Välttäkää selityksiä, joissa jokainen [hinnan](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) muutos selitetään yhdellä tekijällä.
@@ -24,7 +27,8 @@ Jotkut käyttävät termiä ”[inflaatio](https://curriculum.myfirstbitcoin.org
 Vauhti, jolla [inflaatio](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation) etenee, on keskiarvo. Oma kokemuksenne voi poiketa siitä, koska kulutuksenne ei vastaa täsmälleen mittauksessa käytettyä hyödykekoria. Ruoan, asumisen, liikenteen, koulutuksen ja terveydenhuollon kustannukset voivat muuttua eri tahtiin.
 
 
-> **Light – Verratkaa ostovoimaa paikallisesti**
+<!-- card: light -->
+> **Verratkaa ostovoimaa paikallisesti**
 >
 > Valitkaa yksi tavanomainen tuote yhteisöstänne. Kirjatkaa sen [hinta](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) tänään. Kysykää, mitä se maksoi useita vuosia sitten, ja tarkistakaa tieto mahdollisuuksien mukaan luotettavasta lähteestä. Muuttuivatko tulot samaa tahtia? Mitkä muut tekijät voivat selittää muutosta?
 >

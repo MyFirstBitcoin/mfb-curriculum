@@ -11,6 +11,7 @@ Bir Lightning cüzdanı emanetçili ya da kendi kendine saklamalı olabilir. Bir
 
 
 <!-- micrographic: hot-and-cold-wallets-01 -->
+[Sıcak cüzdan, imzalama anahtarlarını telefon gibi internete bağlı bir cihazda tutar; soğuk düzenleme ise anahtarları internete bağlı her türlü cihazdan uzak tutar. Anahtarları kimin kontrol ettiği ise ayrı bir sorudur.](/micrographics/hot-and-cold-wallets-01/tr.md)
 
 
 Öğrencilerden kurgusal bir amaç için bir araç seçmelerini isteyin, ardından bu aracın sağladığı faydayı ve getirdiği yeni riski belirtmelerini şart koşun. Onlardan gerçek varlıkları için seçim yapmalarını istemeyin.

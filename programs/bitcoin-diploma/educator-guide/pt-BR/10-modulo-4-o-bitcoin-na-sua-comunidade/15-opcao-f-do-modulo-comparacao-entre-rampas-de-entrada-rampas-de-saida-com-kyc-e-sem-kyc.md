@@ -17,6 +17,7 @@ Pergunte:
 
 
 <!-- micrographic: bitcoin-atm-off-ramp-01 -->
+[Uma pessoa em um caixa eletrônico de Bitcoin envia bitcoin pelo celular e recebe dinheiro em espécie na moeda local: um exemplo de como converter bitcoin em dinheiro local. Trata-se de uma ilustração, não de uma recomendação.](/micrographics/bitcoin-atm-off-ramp-01/pt-BR.md)
 
 
 **Produção:** O aluno escolhe um caminho para um caso fictício, organiza em sequência as verificações de segurança e explica qual risco é reduzido e qual é acrescentado.

@@ -10,6 +10,7 @@ Use um mapa em cinco partes:
 
 
 <!-- micrographic: five-part-response-01 -->
+[Cinco partes se combinam para responder ao problema do gasto duplo: uma rede ponto a ponto, assinaturas digitais, blocos e mineração, verificação independente e um histórico compartilhado com a maior prova de trabalho acumulada. Juntas, elas permitem que a rede rejeite um segundo gasto sem uma autoridade central.](/micrographics/five-part-response-01/pt-BR.md)
 
 
 Nenhuma parte isolada cria, por si só, a [escassez](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) crível do Bitcoin. Evite dizer “a [blockchain](https://curriculum.myfirstbitcoin.org/lexicon/en/#blockchain) resolve tudo.”

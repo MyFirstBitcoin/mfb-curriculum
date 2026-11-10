@@ -11,6 +11,7 @@ Bitcoin no fue el primer intento de crear dinero digital. Se construyó sobre cu
 En conjunto, estos experimentos mostraron piezas útiles del rompecabezas. También aclararon el problema que aún quedaba por resolver.
 
 
+<!-- card: definition -->
 > **Definition – Doble gasto**
 >
 > [El doble gasto](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending) es un intento de enviar la misma unidad digital a dos destinatarios. Los datos digitales se pueden copiar perfectamente, por lo que un sistema de dinero digital necesita una forma de establecer qué [transacción](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) es válida.
@@ -28,6 +29,7 @@ El libro blanco reunió las características necesarias para ese enfoque:
 
 
 <!-- micrographic: five-part-response-01 -->
+[Cinco elementos se combinan para resolver el problema del doble gasto: una red entre pares, firmas digitales, bloques y minería, verificación independiente y un historial compartido con la mayor prueba de trabajo acumulada. Juntos permiten que la red rechace un segundo gasto sin una autoridad central.](/micrographics/five-part-response-01/es-419.md)
 
 
 Este módulo explica estos conceptos con más detalle. En conjunto, dieron una respuesta práctica al [problema del doble gasto](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): la red puede rechazar un segundo intento de gastar el mismo bitcoin sin depender de una autoridad central. Bitcoin ofreció la combinación que faltaba y que se había buscado durante décadas de experimentos con dinero digital.

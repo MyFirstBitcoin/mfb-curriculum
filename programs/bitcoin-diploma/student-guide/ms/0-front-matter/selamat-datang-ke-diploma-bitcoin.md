@@ -28,6 +28,7 @@ Pendekatan ini penting kerana wang mempengaruhi setiap orang. Orang ramai sepatu
 
 
 <!-- micrographic: critical-thinking-loop-01 -->
+[Kitaran pemikiran kritis yang boleh diulang: kenal pasti dakwaan, bezakan fakta daripada keutamaan peribadi, teliti bukti dan sumber, bandingkan alternatif, nyatakan satu kompromi atau ketidakpastian, dan bentuk kesimpulan atau soalan sementara.](/micrographics/critical-thinking-loop-01/ms.md)
 
 
 **Komuniti** bermaksud pendidikan menjadi lebih bermanfaat apabila orang ramai membincangkan idea dan mengaitkannya dengan kehidupan setempat. Pendidik dan rakan sekelas anda mungkin mempunyai pengalaman yang tidak dapat dimuatkan dalam mana-mana buku untuk pembaca seluruh dunia. Dengar dengan teliti, kemukakan soalan dan jelaskan alasan anda dengan penuh hormat.
@@ -75,7 +76,8 @@ Anda boleh menggunakan kursus ini untuk:
 * bersedia untuk pembelajaran yang lebih lanjut
 
 
-> **Callout – Ilmu mendahului tindakan**
+<!-- card: callout -->
+> **Ilmu mendahului tindakan**
 >
 > Anda tidak perlu membeli atau memperoleh bitcoin melalui cara lain untuk menamatkan Diploma Bitcoin. Anda juga tidak perlu memasang [dompet Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-wallet) atau menggunakan wang peribadi. Kemahiran praktikal yang diperlukan boleh dinilai menggunakan dompet latihan yang telah disediakan, simulasi, persekitaran ujian, model fizikal, atau aktiviti berisiko rendah yang diluluskan oleh pendidik.
 
@@ -84,3 +86,4 @@ Jika masa anda terhad atau anda ingin mendapatkan pengenalan awal kepada Bitcoin
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[Laluan pembelajaran pilihan bermula daripada Pengenalan kepada Bitcoin ke Diploma Bitcoin, kemudian ke Program Latihan Pendidik, seterusnya menjadi pendidik yang mengajar menggunakan kurikulum My First Bitcoin, dan menyertai Rangkaian Pendidikan Bitcoin. Setiap langkah seterusnya ialah pilihan, bukan keperluan.](/micrographics/learner-journey-pathway-01/ms.md)

@@ -40,7 +40,8 @@ Non pas la gagner ni la dépenser, mais réfléchir à ce qu’elle est et à la
 * Votre monnaie vous permet-elle d’acheter autant de choses qu’avant ?
 
 
-> **Callout – Conservez vos réponses**
+<!-- card: callout -->
+> **Conservez vos réponses**
 >
 > Rédigez une courte réponse à chaque question. Vous y reviendrez à la fin.
 
@@ -85,6 +86,7 @@ Les deux personnes doivent vouloir ce que l’autre possède, au même moment et
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina possède du riz et souhaite des chaussures, Luis possède des chaussures et souhaite de l’huile de cuisine, et Mei possède de l’huile de cuisine et souhaite faire effectuer des réparations. Aucun échange direct n’est possible entre deux de ces personnes, car aucune ne souhaite ce que l’autre propose.](/micrographics/barter-mismatch-01/fr-FR.md)
 
 <!-- notes: Utilisez l’exemple du guide : vous cultivez du riz et avez besoin de chaussures, mais le cordonnier veut de l’huile de cuisson, pas du riz. Les économistes appellent cela la double coïncidence des besoins. -->
 
@@ -151,6 +153,7 @@ Quand les gens entendent le mot inflation, ils pensent généralement à la haus
 ## Inflation et pouvoir d’achat
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Les mêmes 100 unités de monnaie permettent d’acheter tout le panier de biens de première nécessité lorsqu’il coûte 100, mais pas lorsque ce même panier coûte 110. Le niveau des prix a augmenté et le pouvoir d’achat de la monnaie a diminué.](/micrographics/same-money-smaller-basket-01/fr-FR.md)
 
 <!-- notes: L’inflation des prix est une hausse durable du niveau général des prix. Son autre facette est le pouvoir d’achat : ce qu’une unité de monnaie permet d’acheter. Si le prix d’un panier de produits de base passe de 100 unités de monnaie à 110, les mêmes 100 unités ne permettent plus d’acheter le panier complet. -->
 
@@ -213,8 +216,7 @@ Un solde bancaire est différent des espèces que vous avez en main : il repré
 * Mais sa quantité en circulation et ses règles peuvent changer, et les personnes qui l’utilisent n’ont guère leur mot à dire
 
 
-> **Callout**
->
+<!-- card: callout -->
 > C’est pourquoi les gens cherchent d’autres solutions, et pourquoi Bitcoin a été créé.
 
 ---
@@ -233,6 +235,7 @@ Une monnaie numérique décentralisée, dont l’offre est limitée et qui peut 
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Avec une entreprise de paiement, une seule organisation tient le registre et approuve chaque transfert. Avec Bitcoin, l’expéditeur signe une transaction, des nœuds indépendants la vérifient et les mineurs l’ajoutent à un registre partagé unique, ce qui rend le destinataire moins dépendant d’une autorité centrale.](/micrographics/central-ledger-vs-bitcoin-01/fr-FR.md)
 
 <!-- notes: Avant Bitcoin, envoyer de la monnaie en ligne nécessitait toujours de passer par un organisme de confiance : une banque ou une entreprise de paiement qui tenait le registre, validait les comptes et pouvait retarder, bloquer ou annuler un paiement. Les informations numériques sont faciles à copier : si une pièce numérique pouvait être dépensée deux fois, elle ne pourrait pas servir de monnaie. C’est le problème de la double dépense. Satoshi Nakamoto est une personne ou un groupe utilisant ce nom. -->
 
@@ -253,6 +256,7 @@ Aucune entreprise ne peut geler les bitcoin que vous contrôlez vous-même. Cett
 ## Une limite que chacun peut vérifier
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Une limite de l’offre inscrite sur un site web ou dans la base de données d’un émetteur peut être modifiée discrètement par cet émetteur. La règle de Bitcoin sur l’offre est publique, et les signatures, l’historique public, la preuve de travail et la vérification par les nœuds empêchent ensemble la création d’unités de monnaie non autorisées ou la dépense du même bitcoin deux fois.](/micrographics/claimed-or-verified-supply-01/fr-FR.md)
 
 <!-- notes: De nouveaux bitcoins sont émis selon un calendrier public, et des ordinateurs indépendants appelés nœuds rejettent tout bloc qui enfreint cette règle. Cette limite est crédible parce que chacun peut la vérifier. Ce n’est pas une loi de la nature : elle reste en vigueur parce que les participants continuent de la faire respecter. Une offre limitée ne garantit pas que le prix augmentera ; le prix dépend de la demande autant que de l’offre. -->
 
@@ -264,6 +268,7 @@ Un bitcoin se divise en 100 000 000 d’unités plus petites appelées satoshis,
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Un tableau à deux colonnes : 1 BTC équivaut à 100 000 000 sats, 0,1 BTC à 10 000 000 sats, 0,01 BTC à 1 000 000 sats, 0,001 BTC à 100 000 sats et 0,00000001 BTC à 1 sat.](/micrographics/bitcoin-and-sats-01/fr-FR.md)
 
 <!-- notes: Posséder 100 000 sats et posséder 0,001 bitcoin correspond à la même quantité. Dissipez l’idée reçue selon laquelle Bitcoin est inaccessible parce qu’un bitcoin coûte cher. -->
 
@@ -272,6 +277,7 @@ Un bitcoin se divise en 100 000 000 d’unités plus petites appelées satoshis,
 ## Qui fait fonctionner Bitcoin ?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Quatre rôles dans Bitcoin : les utilisateurs reçoivent, détiennent et envoient des bitcoins, les nœuds vérifient de manière indépendante le respect des règles, les mineurs construisent des blocs candidats avec la preuve de travail, et les développeurs proposent du code logiciel. Aucun rôle ne contrôle à lui seul le réseau.](/micrographics/bitcoin-participant-roles-01/fr-FR.md)
 
 <!-- notes: Les utilisateurs envoient, reçoivent et détiennent des bitcoins ; les nœuds vérifient que chaque transaction et chaque bloc respectent les règles ; les mineurs sont en concurrence pour ajouter un nouveau bloc au registre toutes les dix minutes environ. Ce registre, la blockchain, est public et très coûteux à réécrire. Une remarque sur l’orthographe : Bitcoin avec un B majuscule désigne généralement le réseau ou le système ; bitcoin avec un b minuscule désigne la monnaie elle-même. -->
 
@@ -307,6 +313,7 @@ La première question à se poser pour tout portefeuille : qui contrôle les cl
 ## Un portefeuille gère des clés
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Un portefeuille contient les clés. Grâce à elles, vous pouvez recevoir et envoyer du bitcoin, tandis que le bitcoin lui-même reste inscrit sur le registre partagé, et non dans le téléphone ou l’appareil.](/micrographics/wallet-manages-keys-01/fr-FR.md)
 
 <!-- notes: Un portefeuille Bitcoin est un outil, généralement une application, qui vous permet de recevoir des bitcoins, de consulter votre solde et d’envoyer des bitcoins. Vos bitcoins ne sont pas stockés dans votre téléphone : ils sont enregistrés sur la blockchain. Le portefeuille gère les clés qui vous permettent de prouver qu’ils vous appartiennent et d’autoriser un paiement. -->
 
@@ -331,6 +338,7 @@ Une liste ordonnée de mots, souvent 12 ou 24, qui permet de reconstituer vos cl
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Une phrase de récupération est une liste ordonnée de mots, ici douze mots d’exemple numérotés et écrits sur papier. Les bons mots dans le bon ordre permettent de reprendre le contrôle dans un portefeuille compatible ; cette phrase doit donc rester secrète et hors ligne.](/micrographics/seed-phrase-on-paper-01/fr-FR.md)
 
 <!-- notes: La phrase de récupération n’est pas seulement une sauvegarde : elle donne un accès complet à votre portefeuille. Recopiez-la avec exactitude sur papier lors de la création du portefeuille ; conservez-la hors ligne, à l’abri des regards et dans un endroit où elle ne risque pas d’être perdue ou endommagée. Ne la photographiez jamais, ne l’envoyez jamais par e-mail ou par message, ne la stockez jamais dans des notes sur le cloud et ne la saisissez jamais sur un site web. Les mots affichés ne sont qu’un exemple ; ne montrez et ne recueillez jamais de véritable phrase de récupération. -->
 
@@ -365,6 +373,7 @@ Une liste ordonnée de mots, souvent 12 ou 24, qui permet de reconstituer vos cl
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Les paiements on-chain sont enregistrés directement dans la blockchain de Bitcoin, tandis que Lightning est un réseau de paiement construit sur Bitcoin pour des paiements rapides et fréquents qui peuvent aussi échouer. Dans les deux cas, la garde des fonds peut être confiée à un tiers ou assurée par vous-même.](/micrographics/on-chain-and-lightning-01/fr-FR.md)
 
 ---
 
@@ -375,7 +384,8 @@ Une liste ordonnée de mots, souvent 12 ou 24, qui permet de reconstituer vos cl
 * **Ne faites pas confiance, vérifiez.** Vérifiez la personne, le mode de paiement, l’adresse et le montant.
 
 
-> **Callout – Partagez les informations de réception, jamais les secrets**
+<!-- card: callout -->
+> **Partagez les informations de réception, jamais les secrets**
 >
 > Une adresse ou une demande de paiement peut être partagée. Une phrase de récupération ou une clé privée ne doit jamais être partagée. Aucun formateur, fournisseur de portefeuille ou membre d’un service d’assistance légitime ne vous la demandera jamais.
 
@@ -389,6 +399,7 @@ Arrêtez-vous si quelqu’un crée un sentiment d’urgence ou exige le secret, 
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Cinq signaux d’alerte d’une arnaque : urgence, usurpation d’identité, destination modifiée, rendements garantis et demandes d’informations secrètes.](/micrographics/scam-red-flags-01/fr-FR.md)
 
 ---
 
@@ -408,7 +419,8 @@ Ce n’est que le début.
 * **Ce n’est que le début.** Un seul pas de plus, en toute sécurité, suffit.
 
 
-> **Callout – Un moment de réflexion**
+<!-- card: callout -->
+> **Un moment de réflexion**
 >
 > Revenez aux cinq questions du début. Que répondriez-vous maintenant ?
 

@@ -6,6 +6,7 @@ Bitcoin combines properties that did not previously exist together in one [asset
 
 
 <!-- micrographic: bitcoin-money-properties-01 -->
+[Bitcoin combines seven properties of money in one asset: durability, portability, divisibility, fungibility, scarcity, verifiability and acceptability. Each has practical limits, such as keeping keys safe and acceptance that is still low in many communities.](/micrographics/bitcoin-money-properties-01/en.md)
 
 
 

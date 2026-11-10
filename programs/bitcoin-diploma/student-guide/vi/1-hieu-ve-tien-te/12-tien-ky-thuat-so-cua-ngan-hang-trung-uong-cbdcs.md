@@ -1,5 +1,6 @@
 # 1.12 Tiền kỹ thuật số của ngân hàng trung ương (CBDCs)
 
+<!-- card: definition -->
 > **Definition – Tiền kỹ thuật số của ngân hàng trung ương (CBDC)**
 >
 > Một [đồng tiền kỹ thuật số của ngân hàng trung ương](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), hay [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), là một dạng kỹ thuật số của [tiền pháp định](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) được phát hành dưới dạng một [khoản nợ phải trả](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability) của một [ngân hàng trung ương](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank): đó là một quyền đòi nợ mà [ngân hàng trung ương](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) có nghĩa vụ thanh toán cho người nắm giữ. Nó khác với tiền mặt vật lý và tiền gửi thông thường tại ngân hàng thương mại, mặc dù trải nghiệm người dùng có thể tương tự nhau.
@@ -13,6 +14,7 @@ Tiếp theo, hãy đặt câu hỏi thiết kế đó cho phép những gì. Tù
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[Bảng so sánh tiền mặt, tiền gửi ngân hàng, CBDC bán lẻ và Bitcoin về chủ thể phát hành, hình thức, khả năng tiếp cận, mức độ hiển thị thông tin thanh toán, quy tắc về nguồn cung và cách xác minh. Kỹ thuật số không đồng nghĩa với phi tập trung: CBDC vẫn do ngân hàng trung ương phát hành, và khả năng tiếp cận, mức độ hiển thị thông tin thanh toán cũng như cách xác minh đều tùy thuộc vào thiết kế của nó.](/micrographics/cbdc-comparison-table-01/vi.md)
 
 
 Kỹ thuật số không mặc nhiên đồng nghĩa với phi tập trung, khan hiếm, riêng tư hay có thể được kiểm chứng độc lập. Một [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) có thể sử dụng công nghệ kỹ thuật số, nhưng vẫn là [tiền pháp định](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) nếu [bên phát hành](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer), các quy tắc về nguồn cung, các quy tắc tiếp cận và quyền thanh toán của nó vẫn được quản lý tập trung.

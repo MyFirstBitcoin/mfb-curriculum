@@ -1,6 +1,7 @@
 # Ustvarite varno in dejavno učno okolje
 
-> **Callout – Zaščitite udeležence pred začetkom praktične dejavnosti**
+<!-- card: callout -->
+> **Zaščitite udeležence pred začetkom praktične dejavnosti**
 >
 > Nikoli ne zahtevajte, pregledujte, fotografirajte, kopirajte, beležite ali shranjujte dejanske obnovitvene fraze, zasebnega ključa, gesla ali nepotrebnih finančnih podatkov. Na nikogar ne pritiskajte, naj kupuje, prodaja, hrani ali uporablja bitcoin. Dejavnost prekinite vsakič, ko je udeleženec negotov, pod pritiskom ali izpostavljen morebitni prevari.
 

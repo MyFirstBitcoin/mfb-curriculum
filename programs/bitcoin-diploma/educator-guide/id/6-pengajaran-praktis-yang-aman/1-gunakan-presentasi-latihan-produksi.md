@@ -8,6 +8,7 @@
 
 
 <!-- micrographic: presentation-practice-production-01 -->
+[Keterampilan praktis dipelajari dalam tiga tahap, dari kiri ke kanan: Penyajian, ketika pendidik menunjukkan proses dan risikonya, lalu Latihan, yaitu latihan terbimbing dengan bahan pelatihan yang aman, lalu Penerapan, ketika peserta didik menyelesaikan tugas atau menjelaskan keputusan secara mandiri.](/micrographics/presentation-practice-production-01/id.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/3d2cf07203a6fd4017e7adbac198e73b190e99cf-1881x836.svg)

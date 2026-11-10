@@ -11,6 +11,7 @@ Bitcoin nu a fost prima încercare de a crea bani digitali. A fost construit pe 
 Împreună, aceste experimente au oferit piese utile ale puzzle-ului. De asemenea, au clarificat problema rămasă.
 
 
+<!-- card: definition -->
 > **Definition – Dubla cheltuire**
 >
 > [Dubla cheltuire](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending) este o încercare de a trimite aceeași unitate digitală către doi destinatari. Datele digitale pot fi copiate perfect, așa că un sistem monetar digital are nevoie de o modalitate de a stabili care [Tranzacție](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) este validă.
@@ -28,6 +29,7 @@ Whitepaper-ul a reunit caracteristicile necesare pentru această abordare:
 
 
 <!-- micrographic: five-part-response-01 -->
+[Cinci componente se îmbină pentru a rezolva problema dublei cheltuiri: o rețea peer-to-peer, semnături digitale, blocuri și minerit, verificare independentă și un istoric comun cu cea mai mare cantitate de muncă acumulată demonstrată prin dovada muncii. Împreună, acestea permit rețelei să respingă o a doua cheltuire fără o autoritate centrală.](/micrographics/five-part-response-01/ro.md)
 
 
 Acest modul explică aceste concepte mai detaliat. Împreună, ele au oferit un răspuns practic la [problema de Cheltuială Dublă](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): rețeaua poate respinge o a doua încercare de a cheltui același bitcoin fără a se baza pe o autoritate centrală. Bitcoin a oferit combinația lipsă pe care decenii de experimente cu bani digitali încercaseră să o găsească.

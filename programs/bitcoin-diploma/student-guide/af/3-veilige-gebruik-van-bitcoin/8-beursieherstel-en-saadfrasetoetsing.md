@@ -8,6 +8,7 @@ Wat sou u doen as die oorspronklike toestel onklaar raak? ’n Herstelplan behoo
 
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[’n Oefening in ses stappe om ’n oefenbeursie te herstel: volg die amptelike instruksies, kontroleer versoenbaarheid, werk privaat, gebruik die goedgekeurde herstelmetode, bevestig die verwagte beursie en stel dit dan terug. Gebruik slegs voorbereide, leë of gesimuleerde materiaal, en die opvoeder sien nooit die herstelwoorde nie.](/micrographics/practice-wallet-recovery-01/af.md)
 
 
 Moenie ná die Diploma ’n Beursie vir opleiding of die herstelinligting daarvan gebruik om beduidende bedrae geld te beveilig nie. ’n Persoonlike Beursie, indien u kies om later een te skep, vereis ’n nuwe private opstelling en nuwe herstelinligting.

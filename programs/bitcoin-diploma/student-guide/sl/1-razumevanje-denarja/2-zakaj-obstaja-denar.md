@@ -5,6 +5,7 @@ Ljudje imajo različne spretnosti, vire, potrebe in načrte. Menjava jim omogoč
 Neposredna menjava je pogosto težavna. Oseba, ki ima to, kar potrebujete, morda ne želi tega, kar ponujate. Denar rešuje ta problem usklajevanja.
 
 
+<!-- card: definition -->
 > **Definition – Denar**
 >
 > Denar je [sredstvo](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset), ki ga ljudje sprejemajo, ker pričakujejo, da ga bodo pozneje sprejeli tudi drugi. Ljudem, ki se ne poznajo, pomaga usklajevati menjavo, beležiti [cene](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) in [dolgove](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt) ter prenašati [vrednost](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) skozi čas in na daljavo.

@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[Płatność w kawiarni w czterech krokach: klient składa zamówienie, kelner wysyła rachunek, klient płaci w bitcoinach za pomocą telefonu, a kelner podaje kawę.](/micrographics/coffee-shop-payment-01/pl.md)
 
 
 Proszę wykorzystywać lokalnie znane towary i usługi. Konkretny produkt nie ma znaczenia; liczy się sposób rozumowania dotyczący płatności.

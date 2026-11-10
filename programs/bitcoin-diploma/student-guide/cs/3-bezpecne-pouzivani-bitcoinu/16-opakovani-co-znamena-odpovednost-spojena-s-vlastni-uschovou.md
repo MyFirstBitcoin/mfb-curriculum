@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: self-custody-responsibilities-01 -->
+[Kontrola nad klíči stojí uprostřed osmi oblastí odpovědnosti: zálohování, obnovení přístupu, přijímání, odesílání, výběr nástroje, způsob pořízení, soukromí a odhalování podvodů. Každá z nich něco chrání a selhání v kterékoli z nich může vést ke ztrátě přístupu, peněz nebo soukromí.](/micrographics/self-custody-responsibilities-01/cs.md)
 
 
 
 <!-- micrographic: responsibility-checks-01 -->
+[Tabulka se šesti úkoly při vlastní úschově, s přehledem toho, co u každého chránit nebo kontrolovat a co se může stát, když se něco pokazí: zálohování, přijímání, odesílání, úschova, výběr nástroje a pořízení.](/micrographics/responsibility-checks-01/cs.md)
 
 
 Představte si, že vám přítel pošle žádost o platbu a současně vám neznámý účet podpory tvrdí, že musíte okamžitě jednat. Co byste mohli zkontrolovat, než cokoli uděláte? Dokážete ochránit plán obnovy, odlišit údaje pro příjem plateb od tajných údajů a před odesláním ověřit osobu, platební metodu, cíl platby, částku a závěrečnou obrazovku? Ať už klíče ovládáte vy, nebo poskytovatel služby, praktické shrnutí je stejné: chraňte tajné údaje, před schválením vše ověřujte, rozpoznávejte známky podvodu a při učení omezujte dopad případných chyb.

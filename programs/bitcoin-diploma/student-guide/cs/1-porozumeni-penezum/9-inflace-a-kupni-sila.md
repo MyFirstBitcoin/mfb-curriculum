@@ -1,11 +1,13 @@
 # 1.9 Inflace a kupní síla
 
+<!-- card: definition -->
 > **Definition – Cenová inflace**
 >
 > Lidé používají pojem „[inflace](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation)“ v několika významech. V této příručce [cenová inflace](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation) znamená trvalý růst obecné [cenové](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) hladiny zboží a služeb. Pokud vaše příjmy a úspory nerostou tak rychle jako [ceny](https://curriculum.myfirstbitcoin.org/lexicon/en/#price), za své peníze si koupíte méně.
 
 
 
+<!-- card: definition -->
 > **Definition – Kupní síla**
 >
 > [Kupní síla](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) je množství zboží a služeb, které lze koupit za jednotku peněz. Pokud cena koše základního zboží vzroste ze 100 jednotek [měny](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) na 110, za stejných 100 jednotek již nelze koupit celý koš. Jejich [kupní síla](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) ve vztahu k tomuto koši klesla.
@@ -15,6 +17,7 @@
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Za stejných 100 jednotek měny si můžete koupit celý koš základního zboží, když stojí 100, ale ne tehdy, když stejný koš stojí 110. Cenová hladina vzrostla a kupní síla peněz klesla.](/micrographics/same-money-smaller-basket-01/cs.md)
 
 
 Někteří lidé používají pojem „[inflace](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation)“ ve významu [měnové expanze](https://curriculum.myfirstbitcoin.org/lexicon/en/#monetary-inflation): růstu objemu peněz a úvěrů. Tato expanze může přispívat k [cenové inflaci](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation), vedle výpadků dodávek, změn poptávky, [měnového](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) oslabení, daní, regulace a změn výrobních nákladů. O příčinách a důsledcích se často diskutuje. Vyhýbejte se vysvětlením, která připisují každou [cenovou](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) změnu jedinému faktoru.
@@ -24,7 +27,8 @@ Někteří lidé používají pojem „[inflace](https://curriculum.myfirstbitco
 Míra [inflace](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation) je průměr. Vaše osobní zkušenost se může lišit, protože vaše výdaje neodpovídají přesně měřenému spotřebnímu koši. Náklady na potraviny, bydlení, dopravu, vzdělávání a zdravotní péči se mohou měnit různým tempem.
 
 
-> **Light – Porovnejte kupní sílu ve svém okolí**
+<!-- card: light -->
+> **Porovnejte kupní sílu ve svém okolí**
 >
 > Vyberte si jednu běžnou položku ve svém okolí. Zaznamenejte si její [cenu](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) dnes. Zeptejte se, kolik stála před několika lety, a pokud je to možné, ověřte si to ve spolehlivém záznamu. Měnily se příjmy stejným tempem? Jaké další faktory mohou tuto změnu vysvětlovat?
 >

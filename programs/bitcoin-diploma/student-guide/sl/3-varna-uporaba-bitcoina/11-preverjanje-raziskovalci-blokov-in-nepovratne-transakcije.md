@@ -1,5 +1,6 @@
 # 3.11 Preverjanje, raziskovalci blokov in nepovratne transakcije
 
+<!-- card: definition -->
 > **Definition – Identifikator transakcije in raziskovalec blokov**
 >
 > Vsak [identifikator transakcije](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction-id) ([_txid_](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction-id)) označuje v verigi blokov zapisano [transakcijo](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction). [Raziskovalec blokov](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-explorer) prikazuje javne podatke omrežja Bitcoin, na primer podatke o [transakciji](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), njenem stanju in številu [potrditev](https://curriculum.myfirstbitcoin.org/lexicon/en/#confirmation). Omogoča koristen vpogled, vendar nima avtoritete nad omrežjem Bitcoin in ni dokaz o prejemnikovi identiteti ali poštenosti.
@@ -10,13 +11,15 @@ Kaj lahko ti javni podatki pokažejo in česa ne morejo? Pri posamezni [transakc
 Če želite pregledati pripravljeno [transakcijo](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), pridobite njen [_txid_](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction-id), odprite zaupanja vreden raziskovalec za predvideno [omrežje Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network) ter preverite stanje, cilj, znesek, provizijo in [potrditve](https://curriculum.myfirstbitcoin.org/lexicon/en/#confirmation). Raziskovalec je le vmesnik. Iskanje naslova ali identifikatorja [_txid_](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction-id) lahko njegovemu upravljavcu razkrije, da se vaša naprava zanima za te podatke. Za vajo uporabite [transakcijo](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), ki jo je pripravil izobraževalec, ali natisnjen posnetek zaslona. V javni storitvi ne iščite osebnega naslova ali [transakcije](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) udeleženca izobraževanja. Če pozneje raziskujete osebno plačilo, se seznanite s [kompromisi glede zasebnosti](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy) in varnosti [pri uporabi](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) svoje povezave, preden uporabite javno storitev.
 
 
-> **Callout – Javni podatki niso dokaz identitete ali poštenosti**
+<!-- card: callout -->
+> **Javni podatki niso dokaz identitete ali poštenosti**
 >
 > Tak [raziskovalec blokov](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-explorer) lahko prikaže javne [transakcijske](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) podatke, vendar ne more dokazati, kdo nadzoruje naslov, zakaj je bilo plačilo izvedeno ali ali je prejemnik vreden zaupanja. Za vajo uporabite pripravljene primere in varujte [zasebnost](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy) pri iskanju po javnih storitvah.
 
 
 
 <!-- micrographic: confirmation-timeline-01 -->
+[Transakcija čaka nepotrjena v bazenu nepotrjenih transakcij, nato je vključena v blok N, kar pomeni njeno prvo potrditev, vsak naslednji blok pa doda še eno.](/micrographics/confirmation-timeline-01/sl.md)
 
 
 ![Izobraževalec in starejši udeleženec razpravljata o pripravljenem primeru na zaslonu, obrnjenem proti skupini, medtem ko tehnično vešči udeleženec upravlja miško; gledalec vidi zadnjo stran ohišja.](https://cdn.sanity.io/images/vje9ehw2/production/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)

@@ -3,8 +3,7 @@
 Denne modulen handler om å ta de første stegene på en trygg måte, ikke om å bli ekspert eller ta økonomisk risiko. De skal øve med forberedte simuleringer, testmiljøer, øvingslommebøker eller, der underviseren vurderer det som passende, en aktivitet med ekte bitcoin og små beløp.
 
 
-> **Dark**
->
+<!-- card: dark -->
 > De trenger ikke å kjøpe eller på annen måte skaffe Dem bitcoin, eller bruke egne midler, for å fullføre Bitcoin-diplomet.
 
 

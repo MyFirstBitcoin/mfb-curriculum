@@ -1,5 +1,6 @@
 # 3.6 Penggunaan Kustodial dan Nonkustodial
 
+<!-- card: definition -->
 > **Definition – Kustodi**
 >
 > [Kustodi](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) menjawab pertanyaan praktis: siapa yang mengendalikan kunci yang diperlukan untuk membelanjakan bitcoin?
@@ -15,10 +16,12 @@ Dalam dompet **nonkustodial** atau **berkustodi mandiri** tersebut, Anda sendiri
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[Dalam penggunaan kustodial, penyedia layanan mengendalikan kunci dan menyetujui pengeluaran, sehingga saldo merupakan janji dari penyedia layanan. Dalam penggunaan kustodi mandiri, pengguna mengendalikan kunci dan cadangan; kedua cara ini memiliki ketergantungan dan risiko kegagalan.](/micrographics/who-controls-keys-01/id.md)
 
 
 
 <!-- micrographic: custody-comparison-table-01 -->
+[Tabel yang membandingkan penggunaan kustodial dan kustodi mandiri: siapa yang memegang kunci, siapa yang menangani pemulihan, dan kompromi utama masing-masing. Tidak ada model yang bebas risiko.](/micrographics/custody-comparison-table-01/id.md)
 
 
 [Kustodi](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) tidak selalu terlihat jelas dari antarmuka. Jika Anda tidak dapat mengendalikan metode pemulihan dan memerlukan persetujuan perusahaan untuk melakukan penarikan, kemungkinan besar Anda menggunakan [kustodian](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian). [Kustodi mandiri](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) bukanlah ujian atas nilai diri seseorang; langkah yang penting adalah mengidentifikasi kepercayaan dan risiko yang terlibat.

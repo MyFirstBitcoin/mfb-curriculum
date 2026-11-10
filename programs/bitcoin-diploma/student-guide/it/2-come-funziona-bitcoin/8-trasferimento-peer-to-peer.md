@@ -8,6 +8,7 @@ Peer-to-Peer non significa sempre che solo due computer comunichino direttamente
 
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[Un mittente firma una transazione e la trasmette a molti nodi della rete, che la inoltrano finché non raggiunge il destinatario. Nessun operatore centrale di Bitcoin deve approvare il mittente o il destinatario.](/micrographics/peer-to-peer-route-01/it.md)
 
 
 Gli utenti possono comunque scegliere degli [intermediari](https://curriculum.myfirstbitcoin.org/lexicon/en/#intermediary). Un exchange può custodire bitcoin per conto dei clienti. Un servizio di pagamento può semplificare una fattura. Un wallet ospitato può gestire le chiavi. Questi servizi possono essere comodi, ma in tal caso l'utente dipende dalle regole e dalla sicurezza del servizio.

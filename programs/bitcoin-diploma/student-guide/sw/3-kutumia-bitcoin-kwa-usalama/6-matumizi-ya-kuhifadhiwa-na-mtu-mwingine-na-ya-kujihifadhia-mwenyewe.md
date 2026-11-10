@@ -1,5 +1,6 @@
 # 3.6 Matumizi ya kuhifadhiwa na mtu mwingine na ya kujihifadhia mwenyewe
 
+<!-- card: definition -->
 > **Definition – Uhifadhi**
 >
 > [Uhifadhi](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) hujibu swali la kivitendo: nani anadhibiti funguo zinazohitajika ili kutumia bitcoin?
@@ -15,10 +16,12 @@ Katika pochi **isiyo ya uhifadhi** au **ya uhifadhi binafsi**, NINYI ndio mnaodh
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[Katika uhifadhi wa huduma, huduma inadhibiti funguo na kuidhinisha matumizi, hivyo salio ni ahadi yake. Katika kujihifadhi, mtumiaji anadhibiti funguo na nakala rudufu; njia zote mbili zina utegemezi na hatari za kushindwa.](/micrographics/who-controls-keys-01/sw.md)
 
 
 
 <!-- micrographic: custody-comparison-table-01 -->
+[Jedwali linalolinganisha matumizi ya uhifadhi kupitia mtoa huduma na matumizi ya kujihifadhia mwenyewe: nani anashikilia funguo, nani anashughulikia urejeshaji, na faida na hasara kuu za kila moja. Hakuna mfumo usio na hatari.](/micrographics/custody-comparison-table-01/sw.md)
 
 
 [Uhifadhi](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) hauonekani wazi kila wakati kupitia kiolesura. Ikiwa hamwezi kudhibiti njia ya urejeshaji na mnahitaji kampuni iidhinishe utoaji, huenda mnatumia [mhifadhi](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian). [Uhifadhi binafsi](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) si kipimo cha thamani ya mtu; hatua muhimu ni kutambua uaminifu na hatari zinazohusika.

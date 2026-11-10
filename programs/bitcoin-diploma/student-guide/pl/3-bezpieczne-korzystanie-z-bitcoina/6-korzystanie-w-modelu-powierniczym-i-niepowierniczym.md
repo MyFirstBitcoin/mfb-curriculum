@@ -1,5 +1,6 @@
 # 3.6 Korzystanie w modelu powierniczym i niepowierniczym
 
+<!-- card: definition -->
 > **Definition – Przechowywanie środków**
 >
 > [Przechowywanie środków](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) odpowiada na praktyczne pytanie: kto kontroluje klucze niezbędne do wydawania bitcoinów?
@@ -15,10 +16,12 @@ W **niepowierniczym** lub **samodzielnie zarządzanym** portfelu to PAŃSTWO kon
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[W modelu powierniczym usługodawca kontroluje klucze i zatwierdza wydatki, więc saldo jest jego obietnicą. Przy samodzielnym przechowywaniu użytkownik kontroluje klucze i kopie zapasowe; oba modele wiążą się z zależnościami i ryzykiem niepowodzenia.](/micrographics/who-controls-keys-01/pl.md)
 
 
 
 <!-- micrographic: custody-comparison-table-01 -->
+[Tabela porównująca korzystanie z usług powierniczych z samodzielnym przechowywaniem środków: kto przechowuje klucze, kto zajmuje się odzyskiwaniem dostępu i jaki jest główny kompromis w każdym z tych modeli. Żaden z nich nie jest wolny od ryzyka.](/micrographics/custody-comparison-table-01/pl.md)
 
 
 [Przechowywanie środków](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) nie zawsze jest oczywiste na podstawie samego interfejsu. Jeśli nie mogą Państwo kontrolować sposobu odzyskiwania dostępu i potrzebują zgody firmy na wypłatę, prawdopodobnie korzystają Państwo z usług [powiernika](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian). [Samodzielne przechowywanie środków](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) nie jest sprawdzianem osobistej wartości; ważne jest rozpoznanie, komu trzeba zaufać i jakie ryzyko się z tym wiąże.

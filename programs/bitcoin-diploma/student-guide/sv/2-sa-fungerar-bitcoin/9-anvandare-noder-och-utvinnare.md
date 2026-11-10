@@ -9,6 +9,7 @@ Bitcoin fungerar eftersom olika deltagare har olika roller.
 
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Fyra roller i Bitcoin: användare tar emot, innehar och skickar bitcoin, noder verifierar självständigt att reglerna följs, miners bygger kandidatblock med arbetsbevis och utvecklare föreslår programvara. Ingen enskild roll kontrollerar nätverket.](/micrographics/bitcoin-participant-roles-01/sv.md)
 
 
 Dessa roller begränsar varandra:

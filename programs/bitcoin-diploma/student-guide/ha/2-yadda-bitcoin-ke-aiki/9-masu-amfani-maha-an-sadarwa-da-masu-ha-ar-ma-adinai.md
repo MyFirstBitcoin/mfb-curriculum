@@ -9,6 +9,7 @@ Bitcoin yana aiki ne domin mahalarta daban-daban suna gudanar da ayyuka daban-da
 
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Matsayin mahalarta iri huɗu a Bitcoin: masu amfani suna karɓa, suna ajiyewa kuma suna aika bitcoin, ƙullai suna tabbatar da bin ƙa’idoji da kansu, masu haƙowa suna gina tubalan da ake neman amincewa da su ta hanyar tabbacin aiki, kuma masu haɓaka manhaja suna ba da shawarwari kan manhaja. Babu wani matsayi guda ɗaya da yake sarrafa hanyar sadarwar.](/micrographics/bitcoin-participant-roles-01/ha.md)
 
 
 Waɗannan ayyuka suna ƙayyade iyakokin juna:

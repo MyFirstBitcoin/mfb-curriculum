@@ -18,6 +18,7 @@ Bahas:
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[Pedagang yang menerima Bitcoin menjalankan kegiatan di empat bidang: pemasaran, pelatihan, akuntansi, dan penjualan.](/micrographics/merchant-payment-operations-01/id.md)
 
 
 **Praktik:** Peserta didik menjalankan atau mengarahkan skenario pembayaran dan pengembalian dana. Mereka harus memverifikasi identitas pelanggan, meminta informasi pengembalian dana terbaru, memeriksa tujuan dan jumlah, menentukan siapa yang membayar biaya apa pun, serta mencatat hasilnya tanpa mengungkapkan data yang tidak diperlukan.

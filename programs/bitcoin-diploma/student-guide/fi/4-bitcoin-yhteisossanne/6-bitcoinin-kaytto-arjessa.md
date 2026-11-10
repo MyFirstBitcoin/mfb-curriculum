@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: daily-bitcoin-uses-01 -->
+[Seitsemän erilaista tapaa käyttää Bitcoinia arjessa: ansaitseminen, säästäminen, vastaanottaminen, lähettäminen, kuluttaminen, lahjoittaminen sekä hinnoittelu ja kirjanpito. Kukin on mahdollinen käyttötapa, ei pakollinen vaihe.](/micrographics/daily-bitcoin-uses-01/fi.md)
 
 
 Bitcoin voi toimia rahana monin tavoin. Kuluttaminen on vain yksi niistä.

@@ -14,3 +14,4 @@ Altere uma condição após a primeira resposta. Por exemplo: a internet cai, o 
 
 
 <!-- micrographic: scenario-analysis-path-01 -->
+[Um cenário fictício parte do objetivo da pessoa e dos fatos verificados e passa por quem tem o controle, as opções, o que pode dar errado e o menor próximo passo seguro. Alterar uma condição leva o raciocínio de volta à decisão que ela afeta.](/micrographics/scenario-analysis-path-01/pt-BR.md)

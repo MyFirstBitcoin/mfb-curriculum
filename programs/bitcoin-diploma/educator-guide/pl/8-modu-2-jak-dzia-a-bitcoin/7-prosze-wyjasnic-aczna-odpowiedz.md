@@ -10,6 +10,7 @@ Proszę posłużyć się pięcioczęściowym schematem:
 
 
 <!-- micrographic: five-part-response-01 -->
+[Pięć elementów wspólnie rozwiązuje problem podwójnego wydawania środków: sieć peer-to-peer, podpisy cyfrowe, bloki i wydobywanie, niezależna weryfikacja oraz wspólna historia o największym skumulowanym dowodzie pracy. Razem pozwalają sieci odrzucić ponowne wydanie tych samych środków bez udziału centralnego organu.](/micrographics/five-part-response-01/pl.md)
 
 
 Żaden pojedynczy element nie zapewnia Bitcoinowi wiarygodnej [rzadkości](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) samodzielnie. Proszę unikać stwierdzenia „[łańcuch bloków](https://curriculum.myfirstbitcoin.org/lexicon/en/#blockchain) rozwiązuje wszystko”.

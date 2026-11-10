@@ -24,6 +24,7 @@ Pro osobní směnu zvolte veřejné a vhodné místo, nenoste s sebou zbytečně
 
 
 <!-- micrographic: compare-local-pathways-01 -->
+[Prázdná tabulka pro porovnání tří místních možností A, B a C podle názvu, požadavků na ověření totožnosti (KYC), modelu úschovy, podporovaných sítí, pověsti a způsobů vkladu prostředků, s prostorem pro poznámky.](/micrographics/compare-local-pathways-01/cs.md)
 
 
 

@@ -21,6 +21,7 @@ Phần hỗ trợ đánh giá chi tiết dưới đây cung cấp các ví dụ,
 
 
 <!-- micrographic: two-completion-gates-01 -->
+[Các năng lực lý thuyết từ C1 đến C5 và các năng lực thực hành C6 và C7 đều phải được đánh giá là Đạt trước khi cấp chứng nhận hoàn thành. Chưa đạt nghĩa là cần thực hành thêm và đánh giá lại; việc tham dự và suy ngẫm không thay thế được bất kỳ bước đánh giá nào.](/micrographics/two-completion-gates-01/vi.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/2783871f5851cf80c2e6e2a93eeb911607939507-1536x1024.svg)

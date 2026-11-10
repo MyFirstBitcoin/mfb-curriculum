@@ -40,7 +40,8 @@ Ba samun shi ba, ba kashe shi ba, sai dai tunani a kan abin da yake da yadda yak
 * Shin kuɗinku suna sayen adadin kaya daidai da yadda suke saya a da?
 
 
-> **Callout – Ku adana amsoshinku**
+<!-- card: callout -->
+> **Ku adana amsoshinku**
 >
 > Ku rubuta gajeriyar amsa ga kowace tambaya. Za ku sake duba su a ƙarshe.
 
@@ -85,6 +86,7 @@ Dole ne kowane ɗaya daga cikin mutanen biyu ya buƙaci abin da ɗayan yake da s
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina tana da shinkafa kuma tana son takalma, Luis yana da takalma kuma yana son man girki, Mei kuma tana da man girki kuma tana son aikin gyare-gyare. Babu wasu mutum biyu da za su iya yin musaya kai tsaye, domin babu ɗayansu da yake son abin da ɗayan yake bayarwa.](/micrographics/barter-mismatch-01/ha.md)
 
 <!-- notes: Ku yi amfani da misalin da ke cikin jagorar: kuna noman shinkafa kuma kuna buƙatar takalma, amma mai yin takalman yana son man girki, ba shinkafa ba. Masana tattalin arziki suna kiran wannan daidaituwar buƙatun ɓangarori biyu. -->
 
@@ -151,6 +153,7 @@ Idan mutane suka ji kalmar hauhawar farashi, yawanci suna tunanin tashin farashi
 ## Hauhawar Farashi da Ƙarfin Saye
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Raka'a 100 na kuɗi suna iya sayen dukkan kwandon kayan masarufi idan farashinsa ya kasance 100, amma ba za su iya ba idan farashin kwandon nan ɗaya ya kasance 110. Matakin farashi ya tashi kuma ƙarfin sayen kuɗin ya ragu.](/micrographics/same-money-smaller-basket-01/ha.md)
 
 <!-- notes: Hauhawar farashi ita ce ci gaba da ƙaruwa a matakin farashin kayayyaki da ayyuka gaba ɗaya. Ɗayan ɓangarenta shi ne ƙarfin saye: yawan abin da raka'a ɗaya ta kuɗi za ta iya saya. Idan farashin kwandon kayan masarufi ya tashi daga raka'a 100 na kuɗi zuwa 110, raka'a 100 ɗin nan ba za su ƙara iya sayen duk abin da ke cikin kwandon ba. -->
 
@@ -213,8 +216,7 @@ Kuɗin da ke asusunku na banki sun bambanta da kuɗin da ke hannunku: alkawarin 
 * Amma yawan kuɗin da ake samarwa da ƙa'idojinsa na iya canzawa, kuma mutanen da ke amfani da shi ba su da wani tasiri sosai wajen yanke shawara
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Wannan ne ya sa mutane ke neman wasu hanyoyin, kuma shi ya sa aka ƙirƙiri Bitcoin.
 
 ---
@@ -233,6 +235,7 @@ Kuɗin dijital waɗanda ba sa ƙarƙashin ikon hukuma guda, suke da iyakantaccen
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[A tsarin kamfanin biyan kuɗi, ƙungiya guda ɗaya ce ke adana kundin lissafi kuma take amincewa da kowane tura kuɗi. A tsarin Bitcoin kuwa, mai aikawa yana sanya hannu a kan ma'amala, kwamfutocin hanyar sadarwa masu zaman kansu suna tantance ta, masu haƙar bitcoin kuma suna ƙara ta a kundin lissafi guda ɗaya na bai ɗaya, don haka mai karɓa ba ya dogaro sosai da hukuma ta tsakiya.](/micrographics/central-ledger-vs-bitcoin-01/ha.md)
 
 <!-- notes: Kafin Bitcoin, aika kuɗi ta intanet ya kasance kullum yana dogara ne da wata ƙungiya da aka amince da ita: banki ko kamfanin biyan kuɗi da ke riƙe da kundin lissafi, amincewa da asusu, kuma zai iya jinkirta, hana, ko soke biyan kuɗi. Bayanan dijital suna da sauƙin kwafewa: idan za a iya kashe tsabar kuɗin dijital sau biyu, ba za ta iya aiki a matsayin kuɗi ba. Wannan ita ce matsalar kashe kuɗi ɗaya sau biyu. Satoshi Nakamoto mutum ne ko wata ƙungiya da ke amfani da wannan suna. -->
 
@@ -253,6 +256,7 @@ Babu kamfanin da zai iya hana ku amfani da bitcoin da ku da kanku kuke sarrafawa
 ## Iyaka da Kowa Zai Iya Tabbatar da Ita
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Mai fitar da kuɗi zai iya sauya iyakar adadin kuɗin da aka rubuta a shafin yanar gizo ko a ma'ajiyar bayanansa ba tare da kowa ya sani ba. Ƙa'idar adadin kuɗin da ake samarwa a Bitcoin tana a bayyane, kuma sa hannu, tarihin da ke a bayyane, hujjar aiki da tantancewar na'urorin hanyar sadarwa suna aiki tare don hana ƙirƙirar sababbin kuɗi ko kashe bitcoin ɗaya sau biyu.](/micrographics/claimed-or-verified-supply-01/ha.md)
 
 <!-- notes: Ana fitar da sabbin bitcoin bisa jadawalin da kowa zai iya gani, kuma kwamfutoci masu zaman kansu da ake kira nodes suna ƙin karɓar duk wani bulok da ya saɓa wa wannan ƙa’ida. Ana iya amincewa da wannan iyaka domin kowa zai iya tabbatar da ita. Ba dokar yanayi ba ce: tana ci gaba da aiki ne saboda mahalarta suna ci gaba da tilasta bin ta. Iyakantaccen adadi ba ya tabbatar da cewa farashi zai tashi; farashi ya dogara da buƙata da kuma wadatar abin da ake sayarwa. -->
 
@@ -264,6 +268,7 @@ Ana iya raba bitcoin guda ɗaya zuwa ƙananan raka'a 100,000,000 da ake kira sat
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Jadawali mai ginshiƙai biyu: 1 BTC ya yi daidai da 100,000,000 sats, 0.1 BTC ya yi daidai da 10,000,000 sats, 0.01 BTC ya yi daidai da 1,000,000 sats, 0.001 BTC ya yi daidai da 100,000 sats, kuma 0.00000001 BTC ya yi daidai da 1 sat.](/micrographics/bitcoin-and-sats-01/ha.md)
 
 <!-- notes: Mallakar 100,000 sats da mallakar 0.001 bitcoin suna nufin adadi ɗaya. Ku gyara kuskuren fahimtar cewa Bitcoin ya fi ƙarfin aljihu saboda bitcoin guda ɗaya yana da tsada. -->
 
@@ -272,6 +277,7 @@ Ana iya raba bitcoin guda ɗaya zuwa ƙananan raka'a 100,000,000 da ake kira sat
 ## Wa Ke Sa Bitcoin Ya Ci Gaba da Aiki?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Matsayin mahalarta iri huɗu a Bitcoin: masu amfani suna karɓa, suna ajiyewa kuma suna aika bitcoin, ƙullai suna tabbatar da bin ƙa’idoji da kansu, masu haƙowa suna gina tubalan da ake neman amincewa da su ta hanyar tabbacin aiki, kuma masu haɓaka manhaja suna ba da shawarwari kan manhaja. Babu wani matsayi guda ɗaya da yake sarrafa hanyar sadarwar.](/micrographics/bitcoin-participant-roles-01/ha.md)
 
 <!-- notes: Masu amfani suna aikawa, karɓa, da adana bitcoin; nododi suna tantance kowace mu’amala da kowane tubali bisa ƙa’idoji; masu haƙa suna fafatawa don ƙara sabon tubali a kundin bayanai kusan kowane mintuna goma. Wannan kundin bayanai, wato sarkar tubala, a buɗe yake ga kowa, kuma sake rubuta shi yana da matuƙar tsada. Bayani kan yadda ake rubuta sunan: Bitcoin mai babban harafin B yawanci yana nufin hanyar sadarwa ko tsarin; bitcoin mai ƙaramin harafin b yana nufin kuɗin kansa. -->
 
@@ -307,6 +313,7 @@ Tambaya ta farko game da kowace jakar kuɗi: wa ke da iko a kan maɓallan?
 ## Jakar Kuɗi Tana Sarrafa Maɓallai
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Jakar kuɗi tana riƙe da maɓallan. Da su za ku iya karɓa da aika bitcoin, yayin da bitcoin ɗin kansa yake rubuce a kundin lissafi na bai ɗaya, ba a cikin waya ko na'ura ba.](/micrographics/wallet-manages-keys-01/ha.md)
 
 <!-- notes: Walat ɗin Bitcoin kayan aiki ne, galibi manhaja, da ke ba ku damar karɓa, duba, da aika bitcoin. Ba a adana bitcoin ɗinku a cikin wayarku ba: ana rubuta shi a kan sarkar tubalan bayanai. Walat ɗin yana sarrafa maɓallan da ke ba ku damar tabbatar da cewa naku ne da kuma ba da izinin biyan kuɗi. -->
 
@@ -331,6 +338,7 @@ Jerin kalmomi da aka tsara bisa jeri, yawanci 12 ko 24, waɗanda za a iya amfani
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Jerin kalmomin farfaɗowa jerin kalmomi ne da aka tsara bisa ƙayyadadden tsari; a nan, kalmomin misali goma sha biyu ne masu lambobi da aka rubuta a takarda. Kalmomin da suka dace a tsarin da ya dace za su iya dawo da ikon sarrafawa a walat mai jituwa, don haka ana kiyaye jerin a ɓoye kuma ba tare da haɗa shi da intanet ba.](/micrographics/seed-phrase-on-paper-01/ha.md)
 
 <!-- notes: Jerin kalmomin dawo da walat ba kwafin ajiya kawai ba ne: yana ba da cikakkiyar damar shiga walat. Ku rubuta shi daidai a takarda lokacin da kuka ƙirƙiri walat; ku ajiye shi ba tare da haɗa shi da intanet ba, a ɓoye, kuma a wurin da ba zai ɓace ko ya lalace ba. Kada ku taɓa ɗaukar hotonsa, aika shi ta imel, adana shi a manhajar rubutun bayanai ta gajimare, aika shi cikin saƙo, ko shigar da shi a wani shafin yanar gizo. Kalmomin da aka nuna misali ne kawai; kada ku taɓa nuna ko tattara ainihin jerin kalmomin dawo da walat. -->
 
@@ -365,6 +373,7 @@ Jerin kalmomi da aka tsara bisa jeri, yawanci 12 ko 24, waɗanda za a iya amfani
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Ana rubuta biyan kuɗi na kan sarkar tubalai kai tsaye a cikin sarkar tubalan Bitcoin, yayin da Lightning cibiyar biyan kuɗi ce da aka gina a kan Bitcoin don biyan kuɗi cikin sauri kuma akai-akai, wanda kuma zai iya gaza. A kowace hanya, wani ɓangare na uku zai iya riƙe kuɗin a madadin mai su, ko kuma mai kuɗin ya riƙe su da kansa.](/micrographics/on-chain-and-lightning-01/ha.md)
 
 ---
 
@@ -375,7 +384,8 @@ Jerin kalmomi da aka tsara bisa jeri, yawanci 12 ko 24, waɗanda za a iya amfani
 * **Kada ku dogara kawai, ku tabbatar.** Ku binciki mutumin, hanyar biyan kuɗi, adireshin, da adadin kuɗin.
 
 
-> **Callout – Ku raba bayanan karɓar kuɗi, amma kada ku taɓa raba bayanan sirri**
+<!-- card: callout -->
+> **Ku raba bayanan karɓar kuɗi, amma kada ku taɓa raba bayanan sirri**
 >
 > Ana iya raba adireshi ko buƙatar biyan kuɗi. Kada a taɓa raba jimlar dawo da walat ko maɓallin sirri. Babu wani halastaccen malami, kamfanin walat, ko ma'aikacin tallafi da zai taɓa neman waɗannan bayanan.
 
@@ -389,6 +399,7 @@ Ku tsaya idan wani ya matsa muku ku yi gaggawa ko ku yi abu a ɓoye, ya yi alƙa
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Alamomin gargaɗi guda biyar na zamba: gaggawa, yin amfani da sunan wani, sauya inda za a aika, tabbatacciyar riba da neman bayanan sirri.](/micrographics/scam-red-flags-01/ha.md)
 
 ---
 
@@ -408,7 +419,8 @@ Wannan mafari ne kawai.
 * **Wannan mafari ne kawai.** Ɗaukar mataki ɗaya na gaba cikin aminci ya isa.
 
 
-> **Callout – Lokacin yin tunani**
+<!-- card: callout -->
+> **Lokacin yin tunani**
 >
 > Ku koma ga tambayoyi biyar da ke farkon darasin. Waɗanne amsoshi za ku bayar yanzu?
 

@@ -3,6 +3,7 @@
 Udbredelsen af personlige computere og internettet skabte nye muligheder for kommunikation. Den skabte også nye former for overvågning og kontrol. I slutningen af det tyvende århundrede undersøgte en gruppe programmører, matematikere og aktivister kendt som [**cypherpunks**](https://curriculum.myfirstbitcoin.org/lexicon/en/#cypherpunk) hvordan [kryptografi](https://curriculum.myfirstbitcoin.org/lexicon/en/#cryptography) kunne beskytte [privatlivet](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy) og den individuelle frihed i digitale systemer.
 
 
+<!-- card: definition -->
 > **Definition – Kryptografi**
 >
 > [Kryptografi](https://curriculum.myfirstbitcoin.org/lexicon/en/#cryptography) bruger matematiske metoder til at beskytte information og bevise, at en handling er autentisk. [Kryptering](https://curriculum.myfirstbitcoin.org/lexicon/en/#encryption) kan holde en besked privat. [Digitale signaturer](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) kan bevise, at en besked eller instruktion kom fra indehaveren af en hemmelig nøgle, uden at afsløre denne nøgle.
@@ -16,3 +17,4 @@ Bitcoin byggede på årtiers arbejde udført af mange mennesker. Dets design for
 
 
 <!-- micrographic: chain-of-ideas-01 -->
+[En kæde af idéer: Kryptografi førte til forskning i digitale kontanter, som førte videre mod decentrale digitale penge. Bitcoin forenede årtiers tidligere arbejde fra mange mennesker på en ny måde.](/micrographics/chain-of-ideas-01/da.md)

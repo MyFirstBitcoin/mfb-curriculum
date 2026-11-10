@@ -18,3 +18,4 @@ Lightning is not a separate coin. A successful Lightning payment does not prove 
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[On-chain payments are recorded directly in Bitcoin's blockchain, while Lightning is a payment network built on Bitcoin for fast, frequent payments that can also fail. Either path can be custodial or self-custodial.](/micrographics/on-chain-and-lightning-01/en.md)

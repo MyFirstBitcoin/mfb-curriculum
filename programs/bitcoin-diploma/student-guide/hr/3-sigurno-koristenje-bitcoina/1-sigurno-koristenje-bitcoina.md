@@ -3,8 +3,7 @@
 Ovaj modul govori o sigurnim prvim koracima, a ne o tome kako postati stručnjak ili preuzeti financijski rizik. Vježbat ćete uz pripremljene simulacije, testna okruženja, novčanike za vježbu ili, ako vaš nastavnik procijeni da je to primjereno, kroz aktivnost u stvarnim uvjetima s malim ulozima.
 
 
-> **Dark**
->
+<!-- card: dark -->
 > Da biste završili program Bitcoin diploma, ne morate kupiti niti na drugi način nabaviti bitcoin, niti upotrebljavati vlastita sredstva.
 
 

@@ -1,6 +1,6 @@
 # Quiz – Kako funkcionira Bitcoin: kratka provjera
 
-## Question 1
+## Pitanje 1
 
 Ista digitalna jedinica koristi se za dva plaćanja. Sustav mora:
 
@@ -9,11 +9,11 @@ Ista digitalna jedinica koristi se za dva plaćanja. Sustav mora:
 * [ ] Povisiti njezinu cijenu
 * [ ] Ukinuti naknade
 
-### Explanation
+### Objašnjenje
 
 Digitalne informacije mogu se kopirati, stoga novčani sustav mora spriječiti da se ista jedinica potroši dvaput i utvrditi koja je transakcija valjana. Ponovite gradivo iz priručnika za polaznike, modul 2, „Rani pokušaji stvaranja digitalnog novca i problem dvostruke potrošnje”.
 
-## Question 2
+## Pitanje 2
 
 Decentralizacija Bitcoina znači:
 
@@ -22,11 +22,11 @@ Decentralizacija Bitcoina znači:
 * [ ] Rudari slobodno mijenjaju pravila
 * [ ] Jednak utjecaj za sve
 
-### Explanation
+### Objašnjenje
 
 Bitcoin raspodjeljuje provjeru i provedbu pravila među neovisnim sudionicima. Decentralizacija ne znači da jedna tvrtka upravlja mrežom niti da svi imaju jednak utjecaj. Ponovite gradivo iz priručnika za polaznike, modul 2, „Decentralizacija”.
 
-## Question 3
+## Pitanje 3
 
 Čvor mreže Bitcoin:
 
@@ -35,11 +35,11 @@ Bitcoin raspodjeljuje provjeru i provedbu pravila među neovisnim sudionicima. D
 * [ ] Pohranjuje bitcoin
 * [ ] Jamči plaćanje
 
-### Explanation
+### Objašnjenje
 
 Čvorovi neovisno provjeravaju poštovanje pravila Bitcoina i odbacuju nevaljane podatke. Ne stvaraju bitcoin na zahtjev niti pohranjuju bitcoin u telefonu. Ponovite gradivo iz priručnika za polaznike, modul 2, „Korisnici, čvorovi i rudari”.
 
-## Question 4
+## Pitanje 4
 
 Zašto Bitcoin nazivati zdravim novcem?
 
@@ -48,6 +48,6 @@ Zašto Bitcoin nazivati zdravim novcem?
 * [ ] Jedna tvrtka njime upravlja
 * [ ] Plaćanja su privatna
 
-### Explanation
+### Objašnjenje
 
 Neki ljudi opisuju Bitcoin kao zdrav novac jer su pravila njegove ponude javna, a njegovo izdavanje ograničeno. To je argumentirana prosudba, a ne obećanje o cijeni ili privatnosti. Ponovite gradivo iz priručnika za polaznike, modul 2, „Bitcoin kao zdrav digitalni novac”.

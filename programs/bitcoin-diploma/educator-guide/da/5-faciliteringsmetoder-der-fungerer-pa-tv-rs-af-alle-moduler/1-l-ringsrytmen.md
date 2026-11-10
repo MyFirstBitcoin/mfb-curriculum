@@ -14,3 +14,4 @@ Brug denne rækkefølge til de fleste begreber:
 
 
 <!-- micrographic: learning-rhythm-01 -->
+[Underviseren fastlægger formålet, aktiverer eksisterende forestillinger, forklarer, tjekker forståelsen, vejleder i anvendelsen, opfordrer til selvstændig produktion, samler op, lægger op til refleksion og skaber forbindelse til det næste begreb. Uklare svar fører tilbage til forklaring eller øvelse.](/micrographics/learning-rhythm-01/da.md)

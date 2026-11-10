@@ -1,5 +1,6 @@
 # 3.6 Skrbniška in neskrbniška uporaba
 
+<!-- card: definition -->
 > **Definition – Skrbništvo**
 >
 > [Skrbništvo](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) odgovarja na praktično vprašanje: kdo nadzoruje ključe, potrebne za porabo bitcoinov?
@@ -15,10 +16,12 @@ V **neskrbniški** ali **samoskrbniški** denarnici ključe nadzorujete VI. Dena
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[Pri skrbniški hrambi ponudnik storitve nadzoruje ključe in odobrava porabo, zato je stanje njegova obljuba. Pri lastni hrambi uporabnik nadzoruje ključe in varnostne kopije; oba načina vključujeta odvisnosti in tveganja odpovedi.](/micrographics/who-controls-keys-01/sl.md)
 
 
 
 <!-- micrographic: custody-comparison-table-01 -->
+[Tabela, ki primerja uporabo s skrbništvom in uporabo z lastnim skrbništvom: kdo hrani ključe, kdo poskrbi za obnovitev dostopa in kateri je glavni kompromis pri posameznem načinu uporabe. Noben od njiju ni brez tveganja.](/micrographics/custody-comparison-table-01/sl.md)
 
 
 [Skrbništvo](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) ni vedno očitno iz vmesnika. Če ne morete nadzorovati načina obnovitve dostopa in potrebujete odobritev podjetja za dvig, verjetno uporabljate storitve [skrbnika](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian). [Samoskrbništvo](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) ni preizkus osebne vrednosti; pomembno je prepoznati, komu morate zaupati in kakšna tveganja so s tem povezana.

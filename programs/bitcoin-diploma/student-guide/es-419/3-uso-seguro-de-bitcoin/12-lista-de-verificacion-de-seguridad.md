@@ -6,6 +6,7 @@
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Cinco señales de alerta de estafa: urgencia, suplantación de identidad, un cambio de destino, rendimientos garantizados y solicitudes de información secreta.](/micrographics/scam-red-flags-01/es-419.md)
 
 
 La respuesta segura siempre es: **Deténgase. No comparta nada. No envíe nada. Cierre el canal de comunicación. Verifique de forma independiente mediante una fuente conocida. Pida ayuda sin revelar secretos.** Una fuente conocida es un sitio oficial, una ficha de aplicación o un medio de contacto al que usted llegó de forma independiente, no mediante un anuncio, un mensaje directo o un enlace inesperado. Revise quién publica la aplicación y la dirección web, compárelos con la documentación oficial y busque los datos de contacto por separado. Si la fuente, las instrucciones o los datos del pago difieren del procedimiento demostrado, deténgase y pida ayuda a su educador o al personal de soporte local de confianza sin revelar una [frase semilla](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) o [clave privada](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key). Una oportunidad real puede resistir una verificación cuidadosa; una estafa suele depender de impedirla.

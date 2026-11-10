@@ -6,11 +6,13 @@ When a commercial bank approves a loan, it usually creates a new deposit in the 
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[A simplified bank loan: the borrower applies, the bank approves the loan and credits the borrower's account with a new deposit, and the borrower later repays the bank the principal plus interest.](/micrographics/bank-loan-deposit-01/en.md)
 
 
 Banks generally seek [profit](https://curriculum.myfirstbitcoin.org/lexicon/en/#bank-profit) by earning interest and fees on loans and investments while paying their operating, funding, and regulatory costs and absorbing losses when borrowers do not repay. These activities and constraints differ by bank and jurisdiction.
 
 
+<!-- card: definition -->
 > **Definition – Fractional reserve banking**
 >
 > [Fractional reserve banking](https://curriculum.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking) describes banking in which banks hold only a fraction of their deposit obligations as immediately accessible reserves while making loans and holding other [assets](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset). The required reserve level and other limits differ between countries and can change over time.
@@ -23,6 +25,7 @@ This creates two important risks:
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Liquidity risk: many depositors queue to withdraw today, and the bank lacks enough cash now even though its loans may be repaid later. Solvency risk: borrowers default on home loans, and the bank's assets become worth less than what it owes.](/micrographics/liquidity-vs-solvency-01/en.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)

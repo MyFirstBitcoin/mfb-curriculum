@@ -3,6 +3,7 @@
 ![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
+<!-- card: definition -->
 > **Definition – Prova de Trabalho (PoW)**
 >
 > [A Prova de Trabalho (PoW)](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) é o processo que os [mineradores](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) usam para competir pelo direito de propor o próximo bloco.
@@ -14,6 +15,7 @@ Quando um [minerador](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) e
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Um minerador calcula o hash de um bloco proposto repetidamente até que um resultado fique abaixo do alvo da rede e, então, transmite o bloco. Os nós verificam rapidamente a prova e cada regra antes de o bloco entrar na blockchain: o trabalho é caro de produzir e fácil de verificar.](/micrographics/proof-of-work-process-01/pt-BR.md)
 
 
 [A Prova de Trabalho (PoW)](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) cumpre várias funções:

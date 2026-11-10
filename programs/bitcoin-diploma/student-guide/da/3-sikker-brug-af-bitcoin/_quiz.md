@@ -1,6 +1,6 @@
 # Quiz – Sikker brug af Bitcoin: kort videnstjek
 
-## Question 1
+## Spørgsmål 1
 
 En Bitcoin-wallet:
 
@@ -9,11 +9,11 @@ En Bitcoin-wallet:
 * [ ] Fjerner beskyttelsen af hemmeligheder
 * [ ] Tilbagefører transaktioner
 
-### Explanation
+### Forklaring
 
 Bitcoin registreres i den fælles hovedbog; en wallet administrerer de oplysninger, der bruges til at få adgang til og bruge det. Se elevvejledningen, modul 3, »Wallets«.
 
-## Question 2
+## Spørgsmål 2
 
 Hvad skal De dele for at modtage bitcoin?
 
@@ -22,11 +22,11 @@ Hvad skal De dele for at modtage bitcoin?
 * [x] Modtageradresse
 * [ ] Adgangskode
 
-### Explanation
+### Forklaring
 
 En modtageradresse kan deles for at modtage betaling. Seedfraser, private nøgler og adgangskoder skal holdes hemmelige. Se elevvejledningen, modul 3, »Adresser« og »Nøgler«.
 
-## Question 3
+## Spørgsmål 3
 
 Seed indtastet online. Hvad er det sikreste næste skridt?
 
@@ -35,11 +35,11 @@ Seed indtastet online. Hvad er det sikreste næste skridt?
 * [x] Ny seed, og flyt derefter midlerne
 * [ ] Genbrug seed'en
 
-### Explanation
+### Forklaring
 
 Betragt en seedfrase, der er indtastet online, som kompromitteret. Opret en ny wallet med en ny seed, og flyt først midlerne, når De har kontrolleret modtageradressen. Se elevvejledningen, modul 3, »Seedfraser«.
 
-## Question 4
+## Spørgsmål 4
 
 Hvad er den vigtigste forskel mellem brug med tredjepartsopbevaring og selvopbevaring?
 
@@ -48,6 +48,6 @@ Hvad er den vigtigste forskel mellem brug med tredjepartsopbevaring og selvopbev
 * [ ] Grænsen for udbuddet
 * [ ] Transaktionsgebyrer
 
-### Explanation
+### Forklaring
 
 Brug med tredjepartsopbevaring og selvopbevaring adskiller sig ved, hvem der kontrollerer nøglerne og bærer det tilhørende ansvar. Ingen af delene garanterer sikkerhed eller mulighed for tilbageførsel. Se elevvejledningen, modul 3, »Brug med og uden tredjepartsopbevaring«.

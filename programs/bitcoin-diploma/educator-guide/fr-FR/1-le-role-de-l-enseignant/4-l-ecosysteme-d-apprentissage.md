@@ -13,3 +13,4 @@ Chaque partie du diplôme Bitcoin a une fonction distincte.
 
 
 <!-- micrographic: learning-ecosystem-map-01 -->
+[Le Guide de l’élève fournit des explications, le Guide de l’enseignant accompagne l’enseignement et une sélection d’activités du Centre de ressources permet de s’exercer. La Grille d’évaluation conserve les résultats confidentiels des évaluations.](/micrographics/learning-ecosystem-map-01/fr-FR.md)

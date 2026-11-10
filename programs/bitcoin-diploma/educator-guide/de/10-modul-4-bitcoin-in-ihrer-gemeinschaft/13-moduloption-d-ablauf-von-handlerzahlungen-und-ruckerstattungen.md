@@ -18,6 +18,7 @@ Inhalte:
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[Ein Händler, der Bitcoin akzeptiert, ist in vier Bereichen tätig: Marketing, Schulung, Buchhaltung und Vertrieb.](/micrographics/merchant-payment-operations-01/de.md)
 
 
 **Praxisteil:** Die lernende Person führt ein Zahlungs- und Rückerstattungsszenario durch oder leitet es an. Sie muss den Kunden authentifizieren, aktuelle Rückerstattungsangaben anfordern, Zieladresse und Betrag prüfen, klären, wer etwaige Gebühren trägt, und das Ergebnis dokumentieren, ohne unnötige Daten preiszugeben.

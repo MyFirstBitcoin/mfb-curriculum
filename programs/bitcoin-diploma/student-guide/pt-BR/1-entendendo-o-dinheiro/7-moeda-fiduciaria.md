@@ -1,5 +1,6 @@
 # 1.7 Moeda fiduciária
 
+<!-- card: definition -->
 > **Definition – Moeda fiduciária**
 >
 > [Moeda fiduciária](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) é a [moeda](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) emitida sob a autoridade do governo, geralmente por meio de um [banco central](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank), que não pode ser resgatada por uma quantidade fixa de uma mercadoria como o [ouro](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold). Os governos apoiam (e, em alguns contextos, impõem) seu uso ao exigi-la para o pagamento de impostos e ao estabelecer regras de curso legal. As regras exatas para aceitar pagamentos e quitar [dívidas](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt) variam de acordo com a jurisdição.
@@ -11,12 +12,14 @@ O sistema fiduciário tem vários participantes principais:
 
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Os agentes de um sistema fiduciário e o que circula entre eles: o banco central define a política e realiza a liquidação entre os bancos, os bancos comerciais mantêm depósitos que são um passivo deles perante os clientes, os serviços de pagamento transmitem instruções, o governo arrecada impostos e realiza gastos, e os cidadãos e as empresas pagam e recebem pagamentos.](/micrographics/fiat-system-flows-01/pt-BR.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
-> **Light – Analise um pagamento local**
+<!-- card: light -->
+> **Analise um pagamento local**
 >
 > Escolha um pagamento comum na sua comunidade, como pagar transporte, comida ou crédito de celular; receber salário; ou pagar uma conta. Se preferir, use um cenário inventado, mas realista. Em três ou quatro frases, explique:
 >

@@ -14,6 +14,7 @@ Apabila membandingkan [harga](https://curriculum.myfirstbitcoin.org/lexicon/en/#
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Jadual dua lajur: 1 BTC bersamaan 100,000,000 sats, 0.1 BTC bersamaan 10,000,000 sats, 0.01 BTC bersamaan 1,000,000 sats, 0.001 BTC bersamaan 100,000 sats, dan 0.00000001 BTC bersamaan 1 sat.](/micrographics/bitcoin-and-sats-01/ms.md)
 
 
 **Tunjukkan pemahaman anda:** Berapakah jumlah [sats](https://curriculum.myfirstbitcoin.org/lexicon/en/#satoshi) dalam 0.01 BTC? Mengapakah [harga](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) satu bitcoin penuh tidak menghalang seseorang daripada menggunakan amaun yang lebih kecil?

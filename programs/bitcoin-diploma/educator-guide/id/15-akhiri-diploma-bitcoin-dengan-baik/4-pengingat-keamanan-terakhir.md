@@ -12,3 +12,4 @@ Ingatkan peserta didik:
 
 
 <!-- micrographic: final-safety-check-01 -->
+[Daftar periksa keamanan akhir yang telah dicentang: lindungi informasi rahasia, verifikasi detail pembayaran, uji dengan jumlah kecil, dan berhenti saat tertekan. Jika ada hal yang belum jelas, berhentilah dan pelajari lebih lanjut sebelum bertindak.](/micrographics/final-safety-check-01/id.md)

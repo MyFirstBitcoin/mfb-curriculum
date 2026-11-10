@@ -14,6 +14,7 @@ Tiền hữu ích cũng thường có một số đặc tính:
 
 
 <!-- micrographic: money-property-questions-01 -->
+[Bảy đặc tính của tiền hữu ích, mỗi đặc tính đi kèm một câu hỏi để cân nhắc khi so sánh các hình thức tiền: tính bền vững, tính dễ vận chuyển, tính chia nhỏ, tính thay thế, tính khan hiếm, tính chấp nhận và tính xác minh.](/micrographics/money-property-questions-01/vi.md)
 
 
 Không hình thức tiền nào đạt điểm hoàn hảo.
@@ -22,6 +23,7 @@ Mọi người cũng so sánh tiền dựa trên [**tính vững chắc**](https
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Hai tầng: ba chức năng của tiền (phương tiện trao đổi, đơn vị tính toán, phương tiện lưu trữ giá trị) dựa trên bảy đặc tính (tính bền vững, tính dễ mang theo, tính có thể chia nhỏ, tính đồng nhất, tính khan hiếm, tính được chấp nhận và tính có thể xác minh).](/micrographics/functions-and-properties-01/vi.md)
 
 
 [Vàng](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) bền và khan hiếm nhưng khó chia nhỏ và vận chuyển để thực hiện các khoản thanh toán nhỏ. [Tiền giấy](https://curriculum.myfirstbitcoin.org/lexicon/en/#paper-cash) dễ mang theo và được chấp nhận tại địa phương, nhưng có thể bị hư hỏng và nguồn cung có thể mở rộng. Cách so sánh phù hợp nhất phụ thuộc vào mục đích, địa điểm và thời gian.

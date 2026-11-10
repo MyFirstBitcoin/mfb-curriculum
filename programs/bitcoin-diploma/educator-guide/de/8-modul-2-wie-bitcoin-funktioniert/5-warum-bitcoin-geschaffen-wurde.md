@@ -6,6 +6,7 @@ Ein zentrales digitales Zahlungssystem kann ein einziges maßgebliches [Hauptbuc
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Bei einem Zahlungsdienstleister führt eine einzige Organisation das Kontobuch und genehmigt jede Überweisung. Bei Bitcoin signiert der Sender eine Transaktion, unabhängige Nodes prüfen sie und Miner fügen sie einem gemeinsamen Kontobuch hinzu, sodass der Empfänger weniger von einer zentralen Instanz abhängt.](/micrographics/central-ledger-vs-bitcoin-01/de.md)
 
 
 Fragen Sie:

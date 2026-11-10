@@ -15,3 +15,4 @@ Do not turn [community-custody](https://curriculum.myfirstbitcoin.org/lexicon/en
 
 
 <!-- micrographic: shared-funds-role-map-01 -->
+[Contributors and beneficiaries depend on whoever controls shared funds. Key control, spending approval, records and review are separate roles; when one person holds several, trust is concentrated, and continuity, privacy, disputes and legal status still need answers.](/micrographics/shared-funds-role-map-01/en.md)

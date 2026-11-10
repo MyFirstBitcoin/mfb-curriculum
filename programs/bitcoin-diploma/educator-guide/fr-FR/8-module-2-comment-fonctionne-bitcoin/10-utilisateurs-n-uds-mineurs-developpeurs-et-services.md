@@ -14,6 +14,7 @@ Utilisez exactement ces délimitations des rôles pour les débutants :
 
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Quatre rôles dans Bitcoin : les utilisateurs reçoivent, détiennent et envoient des bitcoins, les nœuds vérifient de manière indépendante le respect des règles, les mineurs construisent des blocs candidats avec la preuve de travail, et les développeurs proposent du code logiciel. Aucun rôle ne contrôle à lui seul le réseau.](/micrographics/bitcoin-participant-roles-01/fr-FR.md)
 
 
 #### Activité : bloc non valide

@@ -24,6 +24,7 @@ Za razmenu uživo koristite javno i prikladno mesto, izbegavajte nošenje nepotr
 
 
 <!-- micrographic: compare-local-pathways-01 -->
+[Prazna tabela za poređenje tri lokalne opcije, A, B i C, prema nazivu, zahtevima za proveru identiteta (KYC), modelu čuvanja sredstava, podržanim mrežama, reputaciji i načinima uplate sredstava, sa prostorom za napomene.](/micrographics/compare-local-pathways-01/sr-Latn.md)
 
 
 

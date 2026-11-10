@@ -1,11 +1,13 @@
 # 1.9 Hauhawar farashi da ƙarfin saye
 
+<!-- card: definition -->
 > **Definition – Hauhawar farashi**
 >
 > Mutane suna amfani da kalmar “[hauhawar farashi](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation)” da ma'anoni fiye da ɗaya. A cikin wannan jagora, [hauhawar farashi](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation) yana nufin ƙaruwa mai ɗorewa a matakin [farashin](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) kayayyaki da ayyuka gaba ɗaya. Idan kuɗin shigarku da ajiyarku ba sa ƙaruwa da sauri daidai da [farashi](https://curriculum.myfirstbitcoin.org/lexicon/en/#price), kuɗinku zai sayi abubuwa kaɗan fiye da da.
 
 
 
+<!-- card: definition -->
 > **Definition – Ƙarfin saye**
 >
 > [Ƙarfin saye](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) shi ne yawan kayayyaki da ayyukan da raka'a ɗaya ta kuɗi za ta iya saya. Idan farashin kwandon kayayyakin bukatun yau da kullum ya tashi daga raka'a 100 na [kuɗi](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) zuwa 110, raka'a 100 ɗin nan ba za su ƙara iya sayen duk abin da ke cikin kwandon ba. [Ƙarfin sayensu](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) dangane da wannan kwandon ya ragu.
@@ -15,6 +17,7 @@
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Raka'a 100 na kuɗi suna iya sayen dukkan kwandon kayan masarufi idan farashinsa ya kasance 100, amma ba za su iya ba idan farashin kwandon nan ɗaya ya kasance 110. Matakin farashi ya tashi kuma ƙarfin sayen kuɗin ya ragu.](/micrographics/same-money-smaller-basket-01/ha.md)
 
 
 Wasu mutane suna amfani da “[hauhawar farashi](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation)” da ma'anar [ƙaruwa a wadatar kuɗi](https://curriculum.myfirstbitcoin.org/lexicon/en/#monetary-inflation): ƙaruwa a yawan kuɗi da rance. Wannan ƙaruwa na iya taimakawa wajen haifar da [hauhawar farashi](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation), tare da tangarɗa a samar da kayayyaki, sauye-sauyen buƙata, [kuɗin ƙasa](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) da ya raunana, haraji, ƙa'idojin hukumomi, da sauye-sauyen kuɗaɗen samarwa. Sau da yawa ana muhawara kan dalilai da sakamakon hakan. Ku guji bayanan da ke jingina kowane sauyin [farashi](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) ga dalili guda ɗaya.
@@ -24,7 +27,8 @@ Wasu mutane suna amfani da “[hauhawar farashi](https://curriculum.myfirstbitco
 Adadin [hauhawar farashi](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation) matsakaici ne. Abin da kuke fuskanta da kanku na iya bambanta domin yadda kuke kashe kuɗi bai yi daidai da kwandon kayayyakin da ake amfani da shi wajen aunawa ba. Kuɗaɗen abinci, muhalli, sufuri, ilimi, da lafiya na iya sauyawa da adadi mabambanta.
 
 
-> **Light – Kwatanta ƙarfin saye a yankinku**
+<!-- card: light -->
+> **Kwatanta ƙarfin saye a yankinku**
 >
 > Zaɓi wani kayan yau da kullum a cikin al'ummarku. Rubuta [farashinsa](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) a yau. Tambayi nawa ake sayar da shi shekaru da dama da suka gabata, sannan ku bincika wani amintaccen kundin bayanai idan zai yiwu. Shin kuɗin shiga ya canza daidai da wannan ƙimar? Waɗanne dalilai ne kuma za su iya bayyana wannan canjin?
 >

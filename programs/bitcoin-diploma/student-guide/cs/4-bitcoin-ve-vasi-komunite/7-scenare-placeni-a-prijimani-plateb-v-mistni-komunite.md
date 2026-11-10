@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[Platba v kavárně ve čtyřech krocích: zákazník si objedná, obsluha mu pošle účet, zákazník zaplatí v bitcoinech ze svého telefonu a obsluha mu předá kávu.](/micrographics/coffee-shop-payment-01/cs.md)
 
 
 Používejte místně známé zboží a služby. Na konkrétní položce nezáleží; důležité je uvažování o platbě.

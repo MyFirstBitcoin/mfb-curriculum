@@ -11,6 +11,7 @@ Bitcoin non è stato il primo tentativo di moneta digitale. È nato da quattro d
 Nel loro insieme, questi esperimenti hanno fornito tasselli utili del puzzle. Hanno anche chiarito il problema rimasto aperto.
 
 
+<!-- card: definition -->
 > **Definition – Doppia spesa**
 >
 > [La doppia spesa](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending) è il tentativo di inviare la stessa unità digitale a due destinatari. I dati digitali possono essere copiati perfettamente, quindi un sistema di moneta digitale ha bisogno di un modo per stabilire quale [transazione](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) sia valida.
@@ -28,6 +29,7 @@ Il whitepaper ha riunito le caratteristiche necessarie per tale approccio:
 
 
 <!-- micrographic: five-part-response-01 -->
+[Cinque elementi si combinano per risolvere il problema della doppia spesa: una rete peer-to-peer, le firme digitali, i blocchi e il mining, la verifica indipendente e una storia condivisa con la maggiore proof of work accumulata. Insieme permettono alla rete di respingere una seconda spesa senza un'autorità centrale.](/micrographics/five-part-response-01/it.md)
 
 
 Questo modulo spiega questi concetti in modo più dettagliato. Insieme, hanno fornito una risposta pratica al [problema del Double Spend](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): la rete può respingere un secondo tentativo di spendere gli stessi bitcoin senza affidarsi a un'autorità centrale. Bitcoin ha offerto la combinazione mancante che decenni di esperimenti sul denaro digitale avevano cercato.

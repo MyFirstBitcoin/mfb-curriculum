@@ -59,7 +59,8 @@ Where the planned route permits, return the funds to the educator's final destin
 
 #### Notes
 
-> **Callout – Use real wallets and funds only for this learning activity**
+<!-- card: callout -->
+> **Use real wallets and funds only for this learning activity**
 >
 > Before beginning, follow the Educator Guide's live-practice guidance. Explain the route and risks in advance; use an amount whose loss is not significant; make participation voluntary; protect all secrets and unnecessary payment information; and define stop conditions. Use educator-prepared funds where possible. Do not pressure learners to use their own funds or recommend a wallet or service.
 

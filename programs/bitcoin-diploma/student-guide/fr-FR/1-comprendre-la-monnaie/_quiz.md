@@ -9,7 +9,7 @@ Pourquoi la monnaie est-elle acceptée ?
 * [ ] Elle supprime toutes les règles
 * [ ] Elle transforme les services en biens
 
-### Explanation
+### Explication
 
 La monnaie aide des personnes qui ne se connaissent pas à coordonner leurs échanges dans le temps, car elles s’attendent à ce que d’autres l’acceptent plus tard. Elle dépend néanmoins de la confiance, des règles et de l’acceptation sociale. Consultez le Guide de l’étudiant, module 1, « Pourquoi la monnaie existe ».
 
@@ -22,7 +22,7 @@ Fixer les prix, payer, épargner : quelles fonctions ?
 * [ ] Moyen d’échange ; réserve de valeur ; unité de compte
 * [ ] Rareté ; rareté ; rareté
 
-### Explanation
+### Explication
 
 Une unité de compte permet d’exprimer les prix, un moyen d’échange est accepté en paiement et une réserve de valeur permet de conserver de la valeur pour l’avenir. Consultez le Guide de l’étudiant, module 1, « Fonctions et propriétés de la monnaie ».
 
@@ -35,7 +35,7 @@ L’échange de riz contre des chaussures échoue : pourquoi ?
 * [ ] La banque n’a pas donné son accord
 * [ ] Le riz ne peut pas être échangé
 
-### Explanation
+### Explication
 
 Le troc direct est difficile lorsque chaque personne ne souhaite pas, au même moment, ce que l’autre propose. C’est le problème de la double coïncidence des besoins. Consultez le Guide de l’étudiant, module 1, « Le troc et la double coïncidence des besoins ».
 
@@ -48,6 +48,6 @@ Prix +10 %, revenu +5 % : qu’en est-il du pouvoir d’achat ?
 * [x] Il diminue
 * [ ] Impossible à déterminer
 
-### Explanation
+### Explication
 
 Le pouvoir d’achat correspond à ce que la monnaie permet d’acheter. Si les prix augmentent plus vite que le revenu, celui-ci permet d’acheter moins de choses. Consultez le Guide de l’étudiant, module 1, « Inflation et pouvoir d’achat ».

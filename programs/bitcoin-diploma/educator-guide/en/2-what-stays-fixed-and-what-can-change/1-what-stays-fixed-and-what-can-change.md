@@ -32,3 +32,4 @@ You may not:
 
 
 <!-- micrographic: fixed-adaptable-flexible-01 -->
+[Local examples and teaching methods can change inside fixed competency, evidence, safety and completion boundaries. Changes affecting assessment need an approved equivalent route that keeps the same learner action and safety purpose.](/micrographics/fixed-adaptable-flexible-01/en.md)

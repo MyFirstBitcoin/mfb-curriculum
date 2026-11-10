@@ -6,6 +6,7 @@ Bitcoin inaunganisha sifa ambazo hapo awali hazikuwahi kuwepo pamoja katika [ras
 
 
 <!-- micrographic: bitcoin-money-properties-01 -->
+[Bitcoin inaunganisha sifa saba za pesa katika rasilimali moja: uimara, ubebekaji, ugawanyikaji, ubadilishanaji, uhaba, uthibitishaji na kukubalika. Kila sifa ina mipaka ya kiutendaji, kama vile kuhifadhi funguo kwa usalama na kukubalika ambako bado ni kwa kiwango cha chini katika jamii nyingi.](/micrographics/bitcoin-money-properties-01/sw.md)
 
 
 

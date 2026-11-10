@@ -1,5 +1,6 @@
 # 1.12 Ψηφιακά Νομίσματα Κεντρικών Τραπεζών (CBDCs)
 
+<!-- card: definition -->
 > **Definition – Ψηφιακό νόμισμα κεντρικής τράπεζας (CBDC)**
 >
 > Ένα [ψηφιακό νόμισμα κεντρικής τράπεζας](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), ή [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), είναι μια ψηφιακή μορφή [παραστατικού χρήματος](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) που εκδίδεται ως [υποχρέωση](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability) μιας [κεντρικής τράπεζας](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank): αποτελεί απαίτηση του κατόχου του έναντι της [κεντρικής τράπεζας](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) την οποία εκείνη οφείλει να ικανοποιήσει. Διαφέρει από τα μετρητά σε φυσική μορφή και από μια συνηθισμένη κατάθεση σε εμπορική τράπεζα, αν και η εμπειρία χρήσης μπορεί να μοιάζει παρόμοια.
@@ -13,6 +14,7 @@
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[Ένας πίνακας που συγκρίνει τα μετρητά, τις τραπεζικές καταθέσεις, ένα CBDC λιανικής και το Bitcoin ως προς τον εκδότη τους, τη μορφή τους, την πρόσβαση, την ορατότητα των πληρωμών, τους κανόνες προσφοράς και την επαλήθευση. Το ψηφιακό δεν είναι το ίδιο με το αποκεντρωμένο: ένα CBDC εξακολουθεί να εκδίδεται από την κεντρική τράπεζα, και η πρόσβαση σε αυτό, η ορατότητα των πληρωμών και η επαλήθευσή του εξαρτώνται από τον σχεδιασμό του.](/micrographics/cbdc-comparison-table-01/el.md)
 
 
 Το ότι κάτι είναι ψηφιακό δεν σημαίνει αυτομάτως ότι είναι αποκεντρωμένο, σπάνιο, ότι διασφαλίζει την ιδιωτικότητα ή ότι επιδέχεται ανεξάρτητη επαλήθευση. Ένα [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) μπορεί να χρησιμοποιεί ψηφιακή τεχνολογία, αλλά παραμένει [παραστατικό χρήμα](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) εφόσον ο [εκδότης](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer), οι κανόνες προσφοράς, οι κανόνες πρόσβασης και οι άδειες πληρωμών του εξακολουθούν να υπόκεινται σε κεντρική διαχείριση.

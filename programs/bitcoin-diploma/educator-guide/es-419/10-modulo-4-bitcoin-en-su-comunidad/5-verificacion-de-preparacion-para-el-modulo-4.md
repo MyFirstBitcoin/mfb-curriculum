@@ -1,6 +1,7 @@
 # 10.5 Verificación de preparación para el módulo 4
 
-> **Callout – No realice una actividad del Módulo 4 en condiciones reales hasta que se cumplan todos los criterios de verificación**
+<!-- card: callout -->
+> **No realice una actividad del Módulo 4 en condiciones reales hasta que se cumplan todos los criterios de verificación**
 >
 > Si alguna de las verificaciones siguientes no es satisfactoria, utilice una simulación, un recorrido impreso o una actividad diferente. No compense un recorrido inseguro o no verificado pidiendo a los estudiantes que acepten más riesgos.
 
@@ -22,3 +23,4 @@ No imparta un módulo en condiciones reales hasta que todas las respuestas reque
 
 
 <!-- micrographic: module-4-readiness-gate-01 -->
+[Ocho verificaciones abarcan el propósito, la competencia, la capacidad del educador, las herramientas, la normativa local, la seguridad, el acceso y la observación. Todas las verificaciones deben ser satisfactorias para impartir la sesión en vivo; una deficiencia lleva a una alternativa más segura o a un plan revisado y a una nueva evaluación de la preparación.](/micrographics/module-4-readiness-gate-01/es-419.md)

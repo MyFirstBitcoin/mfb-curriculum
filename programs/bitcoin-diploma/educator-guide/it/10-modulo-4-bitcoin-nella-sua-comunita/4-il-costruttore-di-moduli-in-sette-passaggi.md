@@ -1,6 +1,7 @@
 # 10.4 Il costruttore di moduli in sette passaggi
 
 <!-- micrographic: seven-step-module-builder-01 -->
+[Sette fasi di pianificazione conducono dal contesto e dal bisogno locale a un'attività mirata e verificata, a una sequenza didattica sicura, a una valutazione chiara e a un debriefing. L'alternativa esistente resta sempre presente e un'opzione non adatta riporta alla pianificazione.](/micrographics/seven-step-module-builder-01/it.md)
 
 
 #### 1. Conosca il contesto locale

@@ -19,3 +19,4 @@ Při ověřování aktuálních pravidel upřednostňujte důvěryhodné primár
 
 
 <!-- micrographic: local-verification-cycle-01 -->
+[Vyučující určí každé tvrzení o místních skutečnostech, které se mohou měnit, ověří je pomocí aktuálního zdroje, zaznamenají datum a meze jeho platnosti, při výuce je formulují s příslušnými výhradami a před dalším použitím je znovu ověří. Pokud je skutečnost nejistá, použijí bezpečnější příklad nebo náhradní variantu.](/micrographics/local-verification-cycle-01/cs.md)

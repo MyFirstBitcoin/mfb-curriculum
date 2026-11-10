@@ -17,6 +17,7 @@ Chieda:
 
 
 <!-- micrographic: bitcoin-atm-off-ramp-01 -->
+[Una persona presso un ATM Bitcoin invia bitcoin dal proprio telefono e riceve contante in valuta locale: un esempio di off-ramp, cioè di conversione da bitcoin a moneta locale. Si tratta di un'illustrazione, non di una raccomandazione.](/micrographics/bitcoin-atm-off-ramp-01/it.md)
 
 
 **Elaborato:** Il discente sceglie un percorso per un caso inventato, ordina in sequenza le verifiche di sicurezza e spiega quale rischio viene ridotto e quale viene aggiunto.

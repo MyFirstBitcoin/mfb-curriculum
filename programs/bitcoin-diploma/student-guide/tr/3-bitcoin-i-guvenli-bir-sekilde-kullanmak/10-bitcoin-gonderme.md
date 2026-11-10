@@ -5,7 +5,8 @@
 Gönderme işlemi daha fazla dikkat gerektirir, çünkü geçerli bir Bitcoin [işlemini](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) geri almak genellikle zor veya imkânsızdır. Onay düğmesine dokunmadan önce ödemeyi kimin alacağını ve nedenini açıklayabilir misiniz?
 
 
-> **Callout – Göndermeden önce durun ve doğrulayın**
+<!-- card: callout -->
+> **Göndermeden önce durun ve doğrulayın**
 >
 > Alıcıyı, ödeme yöntemini, hedefi, tutarı ve birimi, ücreti veya geçerlilik süresini ve son ekranı doğrulayın. Herhangi bir şey güvenilir talepten farklıysa ya da biri aciliyet yaratıyor veya kurtarma bilgilerini istiyorsa durun ve bağımsız olarak doğrulayın. Süreç size yabancıysa küçük bir test yapın.
 
@@ -21,6 +22,7 @@ Gönderme işlemi daha fazla dikkat gerektirir, çünkü geçerli bir Bitcoin [i
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Gönderen, bir ödemeyi onaylamadan önce alıcıyı ve amacı, ödeme yöntemini, hedefi ve tutarı, birimi, ücreti veya geçerlilik süresini kontrol eder; işleme aşina değilse küçük bir test yapar. Herhangi bir şey farklıysa durup doğrular; yalnızca her şey eşleştiğinde onaylar, ardından sonucu kontrol eder.](/micrographics/pre-send-checklist-01/tr.md)
 
 
 Bir [zincir üstü ödeme](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment) söz konusu olduğunda, **ağ ücreti**, [işlemin](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) bir bloğa dahil edilmesi için ödenir. Bu ücret esas olarak [işlem](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) verisine ve [blok alanına](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-space) yönelik talebe bağlıdır; yalnızca gönderilen miktara bağlı değildir. Ücret tahminleri ve süreler değişebilir; bu nedenle düşük tutarlı bir ödemenin ücretinin de düşük olacağını varsaymak yerine son özeti okuyun.

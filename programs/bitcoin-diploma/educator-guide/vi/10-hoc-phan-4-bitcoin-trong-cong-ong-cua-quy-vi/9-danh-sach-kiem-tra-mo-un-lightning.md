@@ -13,10 +13,12 @@ Trước buổi thực hành về Lightning, hãy xác minh và giải thích:
 * hoạt động mô phỏng ngoại tuyến.
 
 
-> **Dark – Một lần thanh toán Lightning thành công chỉ chứng minh rằng tuyến thanh toán này đã hoạt động một lần**
+<!-- card: dark -->
+> **Một lần thanh toán Lightning thành công chỉ chứng minh rằng tuyến thanh toán này đã hoạt động một lần**
 >
 > Điều đó không chứng minh rằng ví an toàn để giữ số dư lớn hơn hoặc cùng tuyến thanh toán đó sẽ hoạt động ở mọi nơi.
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Thanh toán Lightning qua sáu bước: người nhận tạo yêu cầu, người gửi quét yêu cầu, kiểm tra người nhận, số tiền, đơn vị, thời hạn hiệu lực và phí, rồi phê duyệt; khoản thanh toán được định tuyến và cả hai ví đều hiển thị kết quả. Mỗi ví có thể là ví lưu ký hoặc ví tự lưu ký; nếu thanh toán thất bại hoặc hết hạn, quy trình sẽ bắt đầu lại bằng một yêu cầu mới.](/micrographics/lightning-payment-sequence-01/vi.md)

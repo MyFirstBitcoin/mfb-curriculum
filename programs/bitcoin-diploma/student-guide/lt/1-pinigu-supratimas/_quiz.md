@@ -1,6 +1,6 @@
 # Quiz – Pinigų supratimas: trumpa žinių patikra
 
-## Question 1
+## Klausimas 1
 
 Kodėl pinigai priimami?
 
@@ -9,11 +9,11 @@ Kodėl pinigai priimami?
 * [ ] Jie panaikina visas taisykles
 * [ ] Jie paverčia paslaugas prekėmis
 
-### Explanation
+### Paaiškinimas
 
 Pinigai padeda nepažįstamiems žmonėms derinti mainus skirtingu laiku, nes žmonės tikisi, kad kiti juos priims vėliau. Vis dėlto tai priklauso nuo pasitikėjimo, taisyklių ir visuomenės pripažinimo. Peržiūrėkite mokinio vadovo 1 modulio skyrių „Kodėl egzistuoja pinigai“.
 
-## Question 2
+## Klausimas 2
 
 Kainų nustatymas, mokėjimas, taupymas: kokios tai funkcijos?
 
@@ -22,11 +22,11 @@ Kainų nustatymas, mokėjimas, taupymas: kokios tai funkcijos?
 * [ ] Mainų priemonė; vertės kaupimo priemonė; apskaitos vienetas
 * [ ] Ribotumas; ribotumas; ribotumas
 
-### Explanation
+### Paaiškinimas
 
 Apskaitos vienetu išreiškiamos kainos, mainų priemonė priimama atsiskaitant, o vertės kaupimo priemonė leidžia išsaugoti vertę ateičiai. Peržiūrėkite mokinio vadovo 1 modulio skyrių „Pinigų funkcijos ir savybės“.
 
-## Question 3
+## Klausimas 3
 
 Nepavyksta išmainyti ryžių į batus: kodėl?
 
@@ -35,11 +35,11 @@ Nepavyksta išmainyti ryžių į batus: kodėl?
 * [ ] Nėra banko patvirtinimo
 * [ ] Ryžių negalima mainyti
 
-### Explanation
+### Paaiškinimas
 
 Tiesioginiai mainai sudėtingi, kai abi pusės tuo pačiu metu nenori to, ką siūlo kita pusė. Tai abipusio poreikių sutapimo problema. Peržiūrėkite mokinio vadovo 1 modulio skyrių „Natūriniai mainai ir abipusis poreikių sutapimas“.
 
-## Question 4
+## Klausimas 4
 
 Kainos +10 %, pajamos +5 %: kaip keičiasi perkamoji galia?
 
@@ -48,6 +48,6 @@ Kainos +10 %, pajamos +5 %: kaip keičiasi perkamoji galia?
 * [x] Mažėja
 * [ ] Neįmanoma nustatyti
 
-### Explanation
+### Paaiškinimas
 
 Perkamoji galia nusako, ką galima nusipirkti už pinigus. Jei kainos kyla sparčiau nei pajamos, už gaunamas pajamas galima nusipirkti mažiau. Peržiūrėkite mokinio vadovo 1 modulio skyrių „Infliacija ir perkamoji galia“.

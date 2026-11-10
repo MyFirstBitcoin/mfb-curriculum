@@ -6,6 +6,7 @@ Mikä saisi teidät pysähtymään ennen maksua tai asennusta? Pitäkää näit�
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Viisi huijauksen varoitusmerkkiä: kiireellisyys, toisena esiintyminen, muuttunut maksukohde, taatut tuotot ja salaisia tietoja koskevat pyynnöt.](/micrographics/scam-red-flags-01/fi.md)
 
 
 Turvallinen toimintatapa on aina sama: **Pysähtykää. Älkää jakako mitään. Älkää lähettäkö mitään. Sulkekaa viestintäkanava. Varmistakaa asia itsenäisesti tunnetusta lähteestä. Pyytäkää apua paljastamatta salaisia tietoja.** Tunnettu lähde on virallinen verkkosivusto, sovelluskaupan sovellussivu tai yhteydenottotapa, jonka olette löytäneet itsenäisesti, ette mainoksen, yksityisviestin tai odottamattoman linkin kautta. Tarkistakaa julkaisija ja verkko-osoite, verratkaa osoitetta viralliseen dokumentaatioon ja etsikää yhteystiedot erikseen. Jos lähde, ohjeet tai maksutiedot poikkeavat esitellystä menettelystä, pysähtykää ja pyytäkää apua kouluttajaltanne tai luotettavalta paikalliselta tukitaholta paljastamatta [palautuslausetta](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) tai [yksityistä avainta](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key). Aito mahdollisuus kestää huolellisen tarkistuksen; huijauksen onnistuminen riippuu usein siitä, että tarkistus estetään.

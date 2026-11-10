@@ -12,6 +12,7 @@ Erklären Sie, dass eine [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[Eine Tabelle, die Bargeld, Bankeinlagen, eine Retail-CBDC und Bitcoin danach vergleicht, wer sie ausgibt, welche Form sie haben, wer Zugang hat, wer Zahlungen sieht, welche Regeln für die Geldmenge gelten und wie man sie überprüft. Digital ist nicht dasselbe wie dezentral: Eine CBDC wird weiterhin von der Zentralbank ausgegeben, und Zugang, Sichtbarkeit und Überprüfbarkeit hängen von ihrer Ausgestaltung ab.](/micrographics/cbdc-comparison-table-01/de.md)
 
 
 [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc)-Designs unterscheiden sich. Behaupten Sie nicht, dass jede [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) eine bestimmte Eigenschaft hat oder nicht hat. Unterscheiden Sie zwischen bestätigtem lokalem Design, veröffentlichtem Vorschlag, Kommentar und Spekulation.

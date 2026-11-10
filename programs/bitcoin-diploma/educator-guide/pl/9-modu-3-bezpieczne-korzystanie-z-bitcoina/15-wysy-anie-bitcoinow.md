@@ -15,6 +15,7 @@ Proszę stosować sekwencję „zatrzymaj się i sprawdź”:
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Przed zatwierdzeniem płatności osoba wysyłająca sprawdza odbiorcę i cel, metodę płatności, dane docelowe oraz kwotę, jednostkę, opłatę lub termin ważności, a jeśli proces jest jej nieznany, wykonuje próbę z niewielką kwotą. Jeśli coś się nie zgadza, zatrzymuje się i to weryfikuje; zatwierdza tylko wtedy, gdy wszystko się zgadza, a następnie sprawdza wynik.](/micrographics/pre-send-checklist-01/pl.md)
 
 
 Proszę nauczyć osoby uczestniczące w kursie, by przerywały działanie, jeśli odbiorca nieoczekiwanie zmienia adres docelowy, zniechęca do weryfikacji, wywiera presję czasu lub prosi o dane do odzyskiwania portfela.

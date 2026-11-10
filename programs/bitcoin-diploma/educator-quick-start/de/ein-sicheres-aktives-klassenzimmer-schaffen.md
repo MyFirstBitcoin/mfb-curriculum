@@ -1,6 +1,7 @@
 # Ein sicheres, aktives Klassenzimmer schaffen
 
-> **Callout – Schützen Sie die Lernenden, bevor die praktische Arbeit beginnt**
+<!-- card: callout -->
+> **Schützen Sie die Lernenden, bevor die praktische Arbeit beginnt**
 >
 > Fordern Sie niemals eine echte Seed-Phrase, einen echten privaten Schlüssel, ein Passwort oder unnötige Finanzinformationen an, und sehen Sie sich diese nicht an, fotografieren, kopieren, notieren oder speichern Sie sie nicht. Setzen Sie niemanden unter Druck, bitcoin zu kaufen, zu verkaufen, zu halten oder zu verwenden. Halten Sie inne, sobald Lernende unsicher sind, unter Druck stehen oder einem möglichen Betrug ausgesetzt sind.
 

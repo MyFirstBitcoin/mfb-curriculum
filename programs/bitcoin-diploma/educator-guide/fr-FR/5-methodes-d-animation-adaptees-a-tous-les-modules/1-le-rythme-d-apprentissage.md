@@ -14,3 +14,4 @@ Pour la plupart des concepts, suivez cette séquence :
 
 
 <!-- micrographic: learning-rhythm-01 -->
+[La personne qui enseigne définit l’objectif, fait émerger les idées préalables, explique, vérifie, guide la mise en pratique, invite à produire de manière autonome, fait le bilan, invite à la réflexion et établit un lien avec le concept suivant. Des réponses peu claires amènent à revenir à l’explication ou à la pratique.](/micrographics/learning-rhythm-01/fr-FR.md)

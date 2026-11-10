@@ -7,6 +7,7 @@ Ajarkan perbedaannya secara eksplisit:
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Dua lapisan: tiga fungsi uang (alat tukar, satuan hitung, penyimpan nilai) bertumpu pada tujuh sifat (ketahanan, kemudahan dibawa, keterbagian, kesalingtergantian, kelangkaan, keberterimaan, dan keterverifikasian).](/micrographics/functions-and-properties-01/id.md)
 
 
 Gunakan berbagai tujuan penggunaan. Tanyakan sifat mana yang penting untuk:

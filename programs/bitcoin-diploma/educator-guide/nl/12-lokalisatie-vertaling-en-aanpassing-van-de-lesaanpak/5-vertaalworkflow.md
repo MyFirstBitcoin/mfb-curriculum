@@ -14,6 +14,7 @@ Volg deze volgorde:
 
 
 <!-- micrographic: translation-workflow-01 -->
+[Vertalen is een proces van nakijken en testen: bereid duidelijke Engelse tekst voor, vertaal de betekenis, laat het nakijken door een taalspecialist en een docent, test de veiligheidsinstructies met lerenden en bevestig vervolgens dat de standaarden gelijkwaardig zijn. Onduidelijke veiligheidsinstructies gaan terug naar de formulering.](/micrographics/translation-workflow-01/nl.md)
 
 
 Vermijd uitdrukkingen en metaforen die zich niet goed laten overbrengen naar een andere taal. Als u een analogie gebruikt, geef dan altijd aan wat deze verklaart en wat niet.

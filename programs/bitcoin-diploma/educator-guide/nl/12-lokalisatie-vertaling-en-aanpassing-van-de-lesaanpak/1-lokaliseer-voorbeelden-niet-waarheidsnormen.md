@@ -1,6 +1,7 @@
 # 12.1 Lokaliseer voorbeelden, niet waarheidsnormen
 
-> **Light – Lokaliseer het voorbeeld, niet de leerstandaard**
+<!-- card: light -->
+> **Lokaliseer het voorbeeld, niet de leerstandaard**
 >
 > Gebruik lokale voorbeelden om deelnemers te helpen een gedeeld concept te begrijpen. Stel u bij elke aanpassing de volgende vragen:
 >

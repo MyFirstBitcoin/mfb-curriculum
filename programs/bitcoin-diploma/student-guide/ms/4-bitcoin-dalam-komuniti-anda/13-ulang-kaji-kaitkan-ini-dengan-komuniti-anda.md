@@ -1,10 +1,12 @@
 # 4.13 Ulang Kaji: Kaitkan Ini dengan Komuniti Anda
 
 <!-- micrographic: community-review-path-01 -->
+[Aliran semakan bagi contoh penggunaan Bitcoin setempat: mulakan dengan keperluan sebenar, semak sama ada Bitcoin sesuai, kemudian kaedah pembayaran, penjagaan aset, jumlah kos, keselamatan dan keadaan setempat, dan akhiri dengan bukti kejayaan.](/micrographics/community-review-path-01/ms.md)
 
 
 
 <!-- micrographic: community-review-table-01 -->
+[Jadual semakan untuk contoh setempat: bagi setiap topik, daripada keperluan sebenar hingga langkah seterusnya yang bertanggungjawab, terdapat soalan untuk ditanya dan ruang pilihan untuk nota anda sendiri.](/micrographics/community-review-table-01/ms.md)
 
 
 Lengkapkan ulang kaji ini secara individu, kemudian bandingkan alasan anda dengan pasukan atau kohort anda. Pertimbangkan contoh setempat yang anda kaji: apakah keperluan sebenar yang ditanganinya, fungsi wang manakah yang terlibat, dan adakah [nilai](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) dipindahkan dalam rantaian, melalui Lightning, atau kedua-duanya? Tanyakan siapa yang mengawal kunci, apakah manfaat terbesar dan risiko paling serius, serta bagaimana undang-undang, infrastruktur, bahasa atau budaya setempat mempengaruhi hasilnya. Langkah seterusnya yang bertanggungjawab ialah langkah yang sesuai dengan konteks setempat, memperjelas kos dan [penjagaan aset](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), mengehadkan kesilapan dan penipuan, serta boleh dinilai berdasarkan bukti.

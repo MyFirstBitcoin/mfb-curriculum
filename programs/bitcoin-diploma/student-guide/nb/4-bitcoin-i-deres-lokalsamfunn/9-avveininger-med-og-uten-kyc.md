@@ -3,7 +3,8 @@
 [KYC-baserte](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) og [KYC-frie](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) fremgangsmåter innebærer ulike [avveininger](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Ingen av betegnelsene fjerner behovet for en grundig vurdering.
 
 
-> **Callout – Personvern fjerner ikke juridisk risiko eller risiko for fysisk sikkerhet**
+<!-- card: callout -->
+> **Personvern fjerner ikke juridisk risiko eller risiko for fysisk sikkerhet**
 >
 > Verken [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) eller [fravær av KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) er automatisk best. Sammenlign den faktiske fremgangsmåten, søk oppdatert lokal veiledning når reglene er uklare, og ikke bryt lokal lovgivning eller utsett Dem for fysisk fare i jakten på [personvern](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 

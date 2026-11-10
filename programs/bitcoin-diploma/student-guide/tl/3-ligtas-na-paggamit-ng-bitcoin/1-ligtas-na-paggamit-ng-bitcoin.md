@@ -3,8 +3,7 @@
 Ang modyul na ito ay tungkol sa ligtas na mga unang hakbang, hindi sa pagiging eksperto o pagsuong sa panganib na pinansyal. Magsasanay kayo gamit ang mga inihandang simulasyon, kapaligiran para sa pagsubok, wallet para sa pagsasanay, o, kung sa palagay ng inyong guro ay angkop, isang aktuwal na gawaing maliit lamang ang nakataya.
 
 
-> **Dark**
->
+<!-- card: dark -->
 > Hindi ninyo kailangang bumili o kumuha ng bitcoin sa anumang paraan, o gumamit ng sariling pera, upang makumpleto ang Bitcoin Diploma.
 
 

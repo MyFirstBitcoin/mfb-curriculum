@@ -40,7 +40,8 @@ Ehara i te whiwhi i taua mea, ehara i te whakapau i taua mea, engari ko te whaka
 * Ka taea tonu e tō moni te hoko te rahinga o ngā mea i taea i mua?
 
 
-> **Callout – Puritia ō whakautu**
+<!-- card: callout -->
+> **Puritia ō whakautu**
 >
 > Tuhia he whakautu poto ki ia pātai. Ka hoki anō koe ki ēnei hei te mutunga.
 
@@ -85,6 +86,7 @@ Me hiahia tēnā tangata, tēnā tangata ki ngā mea kei tērā atu, i te wā ko
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[He raihi tā Amina, ā, e hiahia ana ia ki te hū; he hū tā Luis, ā, e hiahia ana ia ki te hinu tunu kai; he hinu tunu kai tā Mei, ā, e hiahia ana ia ki te mahi whakatika. Kāore tētahi tokorua e āhei ki te whakawhiti taonga hāngai, nā te mea kāore tētahi o rāua e hiahia ki ngā mea e tukuna ana e tērā atu.](/micrographics/barter-mismatch-01/mi.md)
 
 <!-- notes: Whakamahia te tauira o te aratohu: e whakatipu raihi ana koe, ā, me whai hū koe, engari ko tā te kaihanga hū e hiahia ana he hinu tunu kai, ehara i te raihi. Ka kīia tēnei e ngā mātanga ohaoha ko te ōritenga takirua o ngā hiahia. -->
 
@@ -151,6 +153,7 @@ Ina rongo te tangata i te kupu pikinga utu, i te nuinga o te wā ka whakaaro ia 
 ## Te Pikinga Utu me te Mana Hoko
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Ka taea te hoko te kete katoa o ngā rawa waiwai ki aua waeine moni 100 ina 100 te utu, engari kāore e taea ina 110 te utu o taua kete anō. Kua piki te taumata utu, ā, kua heke te kaha hoko o te moni.](/micrographics/same-money-smaller-basket-01/mi.md)
 
 <!-- notes: Ko te pikinga utu he pikinga mauroa o te taumata whānui o ngā utu. Ko tērā atu taha o tēnei ko te mana hoko: arā, te nui o ngā mea ka taea te hoko ki te waeine moni kotahi. Ki te piki te utu o tētahi kete taonga taketake mai i te 100 waeine moni ki te 110, kua kore e taea te kete katoa te hoko ki aua 100 waeine moni anō. -->
 
@@ -213,8 +216,7 @@ He rerekē te toenga pūtea i te pēke i te moni ukauka kei tō ringa: he kupu t
 * Engari ka taea te whakarerekē tōna rahinga me ōna ture, ā, he iti noa te mana whakatau o te hunga e whakamahi ana i taua moni
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Koinei te take e rapu ai te tangata i ētahi atu kōwhiringa, ā, koinei hoki te take i waihangatia ai a Bitcoin.
 
 ---
@@ -233,6 +235,7 @@ He moni matihiko kāore e whakahaeretia ana e tētahi mana kotahi, he tepenga t�
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Ki te whakamahi i tētahi kamupene utu, mā te whakahaere kotahi e pupuri te pukapuka kaute, e whakamana hoki ia whakawhitinga. Ki te whakamahi i a Bitcoin, ka waitohu te kaituku i tētahi tauwhitinga, ka taki ngā kōpuku motuhake i taua tauwhitinga, ā, ka tāpiri ngā kaikeri ki te pukapuka kaute tiritahi kotahi, nā reira ka iti ake te whakawhirinaki o te kaiwhiwhi ki tētahi mana whakahaere matua.](/micrographics/central-ledger-vs-bitcoin-01/mi.md)
 
 <!-- notes: I mua i te putanga mai o Bitcoin, i whakawhirinaki tonu te tuku moni mā te ipurangi ki tētahi whakahaere pono: arā, he pēke, he kamupene utu rānei nāna te pukapuka kaute i pupuri, ngā pūkete i whakamana, ā, i āhei hoki ki te whakaroa, ki te ārai, ki te whakahoki rānei i tētahi utu. He māmā te tārua i ngā mōhiohio matihiko: mēnā ka taea te whakapau i te moni matihiko kotahi kia rua ngā wā, e kore e pai hei moni. Koinei te raruraru whakapau rua. He tangata, he rōpū rānei a Satoshi Nakamoto e whakamahi ana i taua ingoa. -->
 
@@ -253,6 +256,7 @@ Kāore tētahi kamupene e āhei ki te whakatio i te bitcoin e whakahaerehia ana 
 ## He tepe ka taea e te katoa te manatoko
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Ka taea e te kaituku te whakarerekē huna i te tepe mō te rahinga moni kua tuhia ki tētahi pae tukutuku, ki tōna ake pātengi raraunga rānei. He tūmatanui te ture mō te rahinga moni o Bitcoin, ā, mā te mahi ngātahi a ngā waitohu, te hītori tūmatanui, te taunakitanga mahi me te manatoko a ngā pona e aukati te hanga moni hou me te whakapau tuarua i te bitcoin kotahi.](/micrographics/claimed-or-verified-supply-01/mi.md)
 
 <!-- notes: Ka tukuna ngā bitcoin hou i runga i tētahi hōtaka tūmatanui, ā, ka whakakāhoretia e ngā rorohiko motuhake e kīia nei he kōpuku ngā poraka katoa e takahi ana i taua ture. He pono taua tepenga nā te mea ka taea e te tangata ahakoa ko wai te manatoko. Ehara tēnei i te ture o te taiao: ka mau tonu nā te mea ka whakaū tonu ngā kaiuru i taua ture. Ehara te whāiti o te rahinga e wātea ana i te kī taurangi ka piki te utu; ka whakawhirinaki te utu ki te hiahia hoko me te rahinga e wātea ana. -->
 
@@ -264,6 +268,7 @@ Ka wehea te bitcoin kotahi ki ngā waeine iti ake e 100,000,000, e kīia nei he 
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[He ripanga e rua ōna tīwae: he ōrite te 1 BTC ki te 100,000,000 sats, te 0.1 BTC ki te 10,000,000 sats, te 0.01 BTC ki te 1,000,000 sats, te 0.001 BTC ki te 100,000 sats, me te 0.00000001 BTC ki te 1 sat.](/micrographics/bitcoin-and-sats-01/mi.md)
 
 <!-- notes: E tohu ana te whai 100,000 sats me te whai 0.001 bitcoin i te rahinga kotahi. Whakatikaina te pōhēhē kāore e taea te whai wāhi ki Bitcoin nā te nui o te utu mō te bitcoin kotahi. -->
 
@@ -272,6 +277,7 @@ Ka wehea te bitcoin kotahi ki ngā waeine iti ake e 100,000,000, e kīia nei he 
 ## Ko wai e whakahaere tonu ana i a Bitcoin?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[E whā ngā tūranga i Bitcoin: ka whiwhi, ka pupuri, ka tuku bitcoin ngā kaiwhakamahi, ka manatoko motuhake ngā kōpuku i ngā ture, ka hanga ngā kaikeri i ngā poraka kaitono mā te taunakitanga mahi, ā, ka tūtohu pūmanawa ngā kaiwhakawhanake. Kāore he tūranga kotahi e whakahaere ana i te whatunga.](/micrographics/bitcoin-participant-roles-01/mi.md)
 
 <!-- notes: Ka tuku, ka whiwhi, ka pupuri ngā kaiwhakamahi i te bitcoin; ka arowhai ngā kōpuku i ia tauwhitinga me ia poraka kia ū ki ngā ture; ka whakataetae ngā kaikeri ki te tāpiri poraka hou ki te pūkete i ia tekau meneti pea. E tuwhera ana taua pūkete, arā, te mekameka poraka, ki te marea, ā, he nui rawa te utu ki te tuhi anō. He tuhipoka mō te tuhi kupu: ko te Bitcoin me te pūmatua B e tohu ana i te nuinga o te wā ki te whatunga, ki te pūnaha rānei; ko te bitcoin me te pūriki b e tohu ana ki te moni ake. -->
 
@@ -307,6 +313,7 @@ Te pātai tuatahi mō tētahi pūkoro moni: ko wai e whakahaere ana i ngā kī?
 ## Ka whakahaere te pūkoro i ngā kī
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Kei te pūkoro ngā kī. Mā aua kī ka taea e koe te whiwhi me te tuku bitcoin, engari ka noho tonu te bitcoin hei tuhinga ki te pukapuka kaute tiritahi, kaua ki roto i te waea, i te pūrere rānei.](/micrographics/wallet-manages-keys-01/mi.md)
 
 <!-- notes: He taputapu te pūkoro Bitcoin, he taupānga i te nuinga o te wā, e āhei ai koe ki te whiwhi, ki te tirotiro, ki te tuku hoki i te bitcoin. Kāore ō bitcoin e penapenahia ki roto i tō waea: ka tuhia ki te mekameka poraka. Mā te pūkoro e whakahaere ngā kī e āhei ai koe ki te whakaū nōu aua bitcoin, me te whakamana i tētahi utunga. -->
 
@@ -331,6 +338,7 @@ He rārangi kupu kua whakaraupapatia, he 12, he 24 rānei ngā kupu i te nuinga 
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Ko te kīanga kākano he rārangi kupu kua whakaraupapatia; kei konei he kupu tauira tekau mā rua kua tohua ki ngā tau, kua tuhia hoki ki te pepa. Mā ngā kupu tika i te raupapa tika e whakahoki mai te mana whakahaere i tētahi pūkoro hototahi, nō reira me noho muna te kīanga, me pupuri hoki ki waho i te ipurangi.](/micrographics/seed-phrase-on-paper-01/mi.md)
 
 <!-- notes: Ehara te kīanga kākano i te pūrua anake: koia tonu te mana uru katoa. Ina waihangatia te pūkoro, me tuhi tika taua kīanga ki te pepa; me pupuri ki waho i te ipurangi, kia noho matatapu, ki tētahi wāhi e kore ai e ngaro, e tūkinotia rānei. Kaua rawa e tango whakaahua o taua kīanga, e tuku mā te īmēra, e rokiroki ki ngā tuhipoka kapua, e tuku mā te karere, e pato rānei ki tētahi pae tukutuku. He tauira noa iho ngā kupu e whakaaturia ana; kaua rawa e whakaatu, e kohikohi rānei i tētahi kīanga kākano tūturu. -->
 
@@ -365,6 +373,7 @@ He rārangi kupu kua whakaraupapatia, he 12, he 24 rānei ngā kupu i te nuinga 
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Ka tuhia tikatia ngā utu ā-mekameka ki te mekameka poraka o Bitcoin, engari ko Lightning he whatunga utu i hangaia ki runga i Bitcoin mō ngā utu tere, auau hoki, tērā anō pea ka rahua. I ēnei ara e rua, mā tētahi atu e tiaki ngā moni, mā te tangata ake rānei e tiaki.](/micrographics/on-chain-and-lightning-01/mi.md)
 
 ---
 
@@ -375,7 +384,8 @@ He rārangi kupu kua whakaraupapatia, he 12, he 24 rānei ngā kupu i te nuinga 
 * **Kaua e whakawhirinaki noa, me manatoko.** Tirohia te tangata, te tikanga utu, te wāhitau, me te rahinga moni.
 
 
-> **Callout – Tohaina ngā mōhiohio whiwhi utu, kaua rawa ngā mea huna**
+<!-- card: callout -->
+> **Tohaina ngā mōhiohio whiwhi utu, kaua rawa ngā mea huna**
 >
 > Ka taea te tohatoha i tētahi wāhitau, i tētahi tono utu rānei. Kaua rawa e tohatoha i tētahi kīanga kākano, i tētahi kī tūmataiti rānei. E kore rawa tētahi kaiwhakaako pono, tētahi kamupene pūkoro moni pono, tētahi kaimahi tautoko pono rānei e tono kia tukuna atu aua mea.
 
@@ -389,6 +399,7 @@ Me mutu mēnā ka akiaki tētahi i a koe kia mahi wawe, kia noho muna rānei, ka
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[E rima ngā tohu whakatūpato mō te mahi tinihanga: te whakahohoro, te whakataruna hei tangata kē, te wāhi tuku kua hurihia, ngā hua taurangi me ngā tono mō ngā kōrero muna.](/micrographics/scam-red-flags-01/mi.md)
 
 ---
 
@@ -408,7 +419,8 @@ He tīmatanga noa iho tēnei.
 * **He tīmatanga noa iho tēnei.** E ranea ana kia kotahi noa te hipanga haumaru e whai ake nei.
 
 
-> **Callout – He wā hei huritao**
+<!-- card: callout -->
+> **He wā hei huritao**
 >
 > Hoki atu ki ngā pātai e rima i te tīmatanga. He aha ā koutou whakautu ināianei?
 

@@ -40,7 +40,8 @@ Nicht es verdienen, nicht es ausgeben, sondern darüber nachdenken, was es ist u
 * Können Sie mit Ihrem Geld noch genauso viel kaufen wie früher?
 
 
-> **Callout – Bewahren Sie Ihre Antworten auf**
+<!-- card: callout -->
+> **Bewahren Sie Ihre Antworten auf**
 >
 > Schreiben Sie zu jeder Frage eine kurze Antwort. Am Ende kommen Sie darauf zurück.
 
@@ -85,6 +86,7 @@ Beide Personen müssen das wollen, was die jeweils andere hat, und zwar zur selb
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina hat Reis und möchte Schuhe, Luis hat Schuhe und möchte Speiseöl, und Mei hat Speiseöl und möchte Reparaturarbeiten. Kein Paar kann direkt tauschen, weil in keinem Paar eine Person das möchte, was die andere anbietet.](/micrographics/barter-mismatch-01/de.md)
 
 <!-- notes: Nehmen Sie das Beispiel aus dem Leitfaden: Sie bauen Reis an und brauchen Schuhe, aber der Schuhmacher möchte Speiseöl, keinen Reis. Ökonomen nennen dies die doppelte Koinzidenz der Bedürfnisse. -->
 
@@ -151,6 +153,7 @@ Wenn Menschen das Wort Inflation hören, denken sie meist an steigende Preise.
 ## Inflation und Kaufkraft
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Mit denselben 100 Währungseinheiten lässt sich der ganze Warenkorb mit Grundgütern kaufen, wenn er 100 kostet, aber nicht mehr, wenn derselbe Warenkorb 110 kostet. Das Preisniveau ist gestiegen und die Kaufkraft des Geldes ist gesunken.](/micrographics/same-money-smaller-basket-01/de.md)
 
 <!-- notes: Preisinflation ist ein anhaltender Anstieg des allgemeinen Preisniveaus. Ihre Kehrseite ist die Kaufkraft: wie viel man mit einer Geldeinheit kaufen kann. Steigt der Preis eines Korbs grundlegender Güter von 100 Währungseinheiten auf 110, reichen dieselben 100 Einheiten nicht mehr für den vollständigen Korb. -->
 
@@ -213,8 +216,7 @@ Ein Bankguthaben ist etwas anderes als Bargeld in Ihrer Hand: Es ist das Verspre
 * Doch seine Menge und seine Regeln können sich ändern, und die Menschen, die es verwenden, haben wenig Mitspracherecht
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Deshalb suchen Menschen nach Alternativen, und deshalb wurde Bitcoin geschaffen.
 
 ---
@@ -233,6 +235,7 @@ Digitales Geld, das dezentral ist, eine begrenzte Menge hat und ohne Erlaubnis e
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Bei einem Zahlungsdienstleister führt eine einzige Organisation das Kontobuch und genehmigt jede Überweisung. Bei Bitcoin signiert der Sender eine Transaktion, unabhängige Nodes prüfen sie und Miner fügen sie einem gemeinsamen Kontobuch hinzu, sodass der Empfänger weniger von einer zentralen Instanz abhängt.](/micrographics/central-ledger-vs-bitcoin-01/de.md)
 
 <!-- notes: Vor Bitcoin war das Versenden von Geld im Internet immer von einer vertrauenswürdigen Organisation abhängig: einer Bank oder einem Zahlungsunternehmen, das das Kontobuch führte, Konten genehmigte und eine Zahlung verzögern, blockieren oder rückgängig machen konnte. Digitale Informationen lassen sich leicht kopieren: Könnte eine digitale Münze zweimal ausgegeben werden, könnte sie nicht als Geld funktionieren. Dies ist das Problem der Doppelausgabe. Satoshi Nakamoto ist eine Person oder Gruppe, die diesen Namen verwendet. -->
 
@@ -253,6 +256,7 @@ Kein Unternehmen kann bitcoin einfrieren, die Sie selbst kontrollieren. Die Kehr
 ## Eine Obergrenze, die jeder überprüfen kann
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Eine Mengenbegrenzung, die auf einer Website oder in der Datenbank eines Emittenten steht, kann von diesem Emittenten stillschweigend geändert werden. Die Angebotsregel von Bitcoin ist öffentlich, und Signaturen, eine öffentliche Historie, Proof of Work und die Überprüfung durch Nodes verhindern gemeinsam, dass neue Coins erfunden oder derselbe bitcoin zweimal ausgegeben wird.](/micrographics/claimed-or-verified-supply-01/de.md)
 
 <!-- notes: Neue bitcoin werden nach einem öffentlichen Zeitplan ausgegeben, und unabhängige Computer, sogenannte Nodes, lehnen jeden Block ab, der gegen diese Regel verstößt. Die Begrenzung ist glaubwürdig, weil jeder sie überprüfen kann. Sie ist kein Naturgesetz: Sie gilt, weil die Teilnehmer sie weiterhin durchsetzen. Ein begrenztes Angebot garantiert nicht, dass der Preis steigt; der Preis hängt sowohl von der Nachfrage als auch vom Angebot ab. -->
 
@@ -264,6 +268,7 @@ Ein bitcoin lässt sich in 100.000.000 kleinere Einheiten teilen, die Satoshis o
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Eine zweispaltige Tabelle: 1 BTC entspricht 100.000.000 Sats, 0,1 BTC entspricht 10.000.000 Sats, 0,01 BTC entspricht 1.000.000 Sats, 0,001 BTC entspricht 100.000 Sats und 0,00000001 BTC entspricht 1 Sat.](/micrographics/bitcoin-and-sats-01/de.md)
 
 <!-- notes: 100.000 Sats und 0,001 bitcoin zu besitzen, beschreibt denselben Betrag. Gehen Sie auf das Missverständnis ein, Bitcoin sei unerreichbar, weil ein bitcoin teuer ist. -->
 
@@ -272,6 +277,7 @@ Ein bitcoin lässt sich in 100.000.000 kleinere Einheiten teilen, die Satoshis o
 ## Wer hält Bitcoin am Laufen?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Vier Rollen in Bitcoin: Nutzer empfangen, verwahren und senden bitcoin, Nodes prüfen die Regeln unabhängig, Miner erstellen Kandidatenblöcke mit Arbeitsnachweis (Proof of Work), und Entwickler schlagen Software vor. Keine einzelne Rolle kontrolliert das Netzwerk.](/micrographics/bitcoin-participant-roles-01/de.md)
 
 <!-- notes: Nutzer senden, empfangen und halten bitcoin; Nodes prüfen jede Transaktion und jeden Block anhand der Regeln; Miner konkurrieren darum, etwa alle zehn Minuten einen neuen Block zum Register hinzuzufügen. Dieses Register, die Blockchain, ist öffentlich und nur mit sehr hohem Aufwand umzuschreiben. Ein Hinweis zur Schreibweise: Bitcoin mit großem B bezeichnet in der Regel das Netzwerk oder das System; bitcoin mit kleinem b bezeichnet das Geld selbst. -->
 
@@ -307,6 +313,7 @@ Die erste Frage bei jeder Wallet: Wer kontrolliert die Schlüssel?
 ## Eine Wallet verwaltet Schlüssel
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Eine Wallet verwahrt die Schlüssel. Mit ihnen können Sie bitcoin empfangen und senden, während die bitcoin selbst im gemeinsamen Kassenbuch verzeichnet bleiben, nicht im Telefon oder Gerät.](/micrographics/wallet-manages-keys-01/de.md)
 
 <!-- notes: Eine Bitcoin-Wallet ist ein Werkzeug, meist eine App, mit dem Sie bitcoin empfangen, überprüfen und senden können. Ihre bitcoin sind nicht auf Ihrem Handy gespeichert: sie sind in der Blockchain erfasst. Die Wallet verwaltet die Schlüssel, mit denen Sie nachweisen, dass sie Ihnen gehören, und eine Zahlung autorisieren können. -->
 
@@ -331,6 +338,7 @@ Eine geordnete Liste von Wörtern, meist 12 oder 24, mit der sich Ihre Schlüsse
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Eine Seed-Phrase ist eine geordnete Liste von Wörtern, hier zwölf nummerierte Beispielwörter, auf Papier geschrieben. Die richtigen Wörter in der richtigen Reihenfolge können in einer kompatiblen Wallet die Kontrolle wiederherstellen, deshalb bleibt sie geheim und offline.](/micrographics/seed-phrase-on-paper-01/de.md)
 
 <!-- notes: Die Seed-Phrase ist nicht nur eine Sicherung: Sie gewährt vollen Zugriff. Schreiben Sie sie beim Erstellen der Wallet sorgfältig auf Papier; bewahren Sie sie offline und privat auf, an einem Ort, an dem sie weder verloren geht noch beschädigt wird. Fotografieren Sie sie niemals, versenden Sie sie nicht per E-Mail, speichern Sie sie nicht in Cloud-Notizen, schicken Sie sie nicht in einer Nachricht und geben Sie sie nicht auf einer Website ein. Die gezeigten Wörter sind nur ein Beispiel; zeigen oder sammeln Sie niemals eine echte Seed-Phrase. -->
 
@@ -365,6 +373,7 @@ Eine geordnete Liste von Wörtern, meist 12 oder 24, mit der sich Ihre Schlüsse
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[On-Chain-Zahlungen werden direkt in der Bitcoin-Blockchain erfasst, während Lightning ein auf Bitcoin aufbauendes Zahlungsnetzwerk für schnelle, häufige Zahlungen ist, die allerdings auch fehlschlagen können. Beide Wege können mit Fremdverwahrung oder mit Selbstverwahrung genutzt werden.](/micrographics/on-chain-and-lightning-01/de.md)
 
 ---
 
@@ -375,7 +384,8 @@ Eine geordnete Liste von Wörtern, meist 12 oder 24, mit der sich Ihre Schlüsse
 * **Nicht vertrauen, überprüfen.** Überprüfen Sie die Person, die Zahlungsmethode, die Adresse und den Betrag.
 
 
-> **Callout – Teilen Sie Empfangsinformationen, niemals Geheimnisse**
+<!-- card: callout -->
+> **Teilen Sie Empfangsinformationen, niemals Geheimnisse**
 >
 > Eine Adresse oder eine Zahlungsanforderung kann geteilt werden. Eine Seed-Phrase oder ein Privater Schlüssel darf niemals geteilt werden. Keine seriöse Lehrkraft, kein Wallet-Anbieter und kein Support-Mitarbeiter wird Sie jemals danach fragen.
 
@@ -389,6 +399,7 @@ Halten Sie inne, wenn jemand Zeitdruck oder Geheimhaltung erzeugt, garantierte R
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Fünf Warnsignale für Betrug: Zeitdruck, Identitätsbetrug, eine geänderte Zieladresse, garantierte Renditen und Forderungen nach Geheimnissen.](/micrographics/scam-red-flags-01/de.md)
 
 ---
 
@@ -408,7 +419,8 @@ Dies ist erst der Anfang.
 * **Dies ist erst der Anfang.** Ein sicherer nächster Schritt genügt.
 
 
-> **Callout – Ein Moment zum Nachdenken**
+<!-- card: callout -->
+> **Ein Moment zum Nachdenken**
 >
 > Kehren Sie zu den fünf Fragen vom Anfang zurück. Was würden Sie jetzt antworten?
 

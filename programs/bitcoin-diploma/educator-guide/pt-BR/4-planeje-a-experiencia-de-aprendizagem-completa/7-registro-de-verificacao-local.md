@@ -19,3 +19,4 @@ Dê preferência a fontes primárias oficiais para as regras vigentes. Se as evi
 
 
 <!-- micrographic: local-verification-cycle-01 -->
+[Os educadores identificam cada afirmação local sujeita a mudanças, verificam-na em uma fonte atual, registram a data e suas limitações, ensinam-na com uma linguagem ponderada e a verificam novamente antes de reutilizá-la. Quando um fato é incerto, usam um exemplo mais seguro ou uma alternativa.](/micrographics/local-verification-cycle-01/pt-BR.md)

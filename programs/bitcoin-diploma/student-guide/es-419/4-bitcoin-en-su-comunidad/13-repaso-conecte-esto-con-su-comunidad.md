@@ -1,10 +1,12 @@
 # 4.13 Repaso: Conecte esto con su comunidad
 
 <!-- micrographic: community-review-path-01 -->
+[Una ruta de evaluación para un ejemplo local de Bitcoin: comience por una necesidad real, compruebe si Bitcoin es adecuado y luego revise el método de pago, la custodia, el costo total, la seguridad y las condiciones locales, y termine con la evidencia de éxito.](/micrographics/community-review-path-01/es-419.md)
 
 
 
 <!-- micrographic: community-review-table-01 -->
+[Una tabla de repaso del ejemplo local: para cada tema, desde la necesidad real hasta un siguiente paso responsable, una pregunta para reflexionar y un espacio opcional para sus propias notas.](/micrographics/community-review-table-01/es-419.md)
 
 
 Complete este repaso de manera individual y luego compare su razonamiento con el de su equipo o grupo. Considere el ejemplo local que estudió: ¿qué necesidad real atendió, qué función del dinero estuvo involucrada y se transfirió [valor](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) en la cadena, a través de Lightning o por ambos medios? Pregúntese quién controlaba las claves, cuáles fueron el principal beneficio y el riesgo más grave, y cómo la legislación local, la infraestructura, el idioma o la cultura influyeron en el resultado. Un siguiente paso responsable es aquel que se adapta al contexto local, deja claros los costos y la [custodia](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), limita los errores y las estafas, y puede evaluarse con base en evidencia.

@@ -24,6 +24,7 @@ Para cada via, pergunte:
 
 
 <!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Uma pessoa pode receber bitcoin de quatro maneiras diferentes: ganhando-o por meio de trabalho ou vendas, trocando dinheiro local em espécie com outra pessoa, usando uma corretora ou intermediário, ou usando um caixa eletrônico. Cada caminho termina em autocustódia ou em um saldo custodial, e nenhum é recomendado em detrimento dos outros.](/micrographics/ways-to-receive-bitcoin-01/pt-BR.md)
 
 
 Use [**no-KYC**](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) de forma consistente para uma via que coleta menos ou nenhuma informação de identidade padrão. Não dê a entender que [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) elimina riscos de fraude, legais, de contraparte ou físicos. Não aconselhe a evasão da lei local.

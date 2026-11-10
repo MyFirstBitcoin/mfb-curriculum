@@ -13,10 +13,12 @@ Antes de un taller de Lightning, verifique y explique:
 * la simulación sin conexión.
 
 
-> **Dark – Un pago exitoso por Lightning solo demuestra que esta ruta funcionó una vez**
+<!-- card: dark -->
+> **Un pago exitoso por Lightning solo demuestra que esta ruta funcionó una vez**
 >
 > No demuestra que la billetera sea segura para mantener saldos mayores ni que la misma ruta funcione en todos los lugares.
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Un pago Lightning en seis pasos: el destinatario crea una solicitud, el remitente la escanea, revisa el destinatario, el monto, la unidad, el vencimiento y la comisión, aprueba el pago, el pago se enruta y ambas billeteras muestran el resultado. Cada billetera puede ser de custodia o de autocustodia, y un pago fallido o vencido se inicia de nuevo con una nueva solicitud.](/micrographics/lightning-payment-sequence-01/es-419.md)

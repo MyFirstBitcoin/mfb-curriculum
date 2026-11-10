@@ -4,12 +4,14 @@ Coinvolga tre persone con beni e bisogni non corrispondenti. Per prima cosa, las
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina ha del riso e vuole delle scarpe, Luis ha delle scarpe e vuole dell'olio da cucina, e Mei ha dell'olio da cucina e vuole dei lavori di riparazione. Nessuna coppia può scambiare direttamente, perché in ogni coppia nessuno dei due vuole ciò che l'altro offre.](/micrographics/barter-mismatch-01/it.md)
 
 
 Poi introduca un mezzo di scambio comunemente accettato.
 
 
 <!-- micrographic: sell-then-buy-01 -->
+[Amina vende il riso a una persona in cambio di un denaro comunemente accettato, poi usa quel denaro per comprare delle scarpe da qualcun altro. Vendere e comprare diventano azioni separate.](/micrographics/sell-then-buy-01/it.md)
 
 
 Chieda:

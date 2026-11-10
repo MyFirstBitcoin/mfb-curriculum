@@ -4,6 +4,7 @@ Quý vị hãy tạm dừng và suy ngẫm xem các quy tắc công khai, việc
 
 
 <!-- micrographic: bitcoin-responses-tradeoffs-01 -->
+[Một bảng đối chiếu năm điểm yếu có thể có của các hệ thống tiền tệ hiện đại với cách Bitcoin giải quyết và trách nhiệm hoặc sự đánh đổi mới mà mỗi cách giải quyết mang lại. Bitcoin thay thế một phần niềm tin vào các tổ chức bằng việc xác minh và trách nhiệm cá nhân, nhưng không loại bỏ rủi ro.](/micrographics/bitcoin-responses-tradeoffs-01/vi.md)
 
 
 **Câu hỏi trọng tâm:** Dựa trên những gì quý vị đã học về Bitcoin trong mô-đun này, liệu Bitcoin có [giá trị](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) đối với quý vị không? Liệu [giá](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) hiện tại của bitcoin có phản ánh [giá trị](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) của nó không?

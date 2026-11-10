@@ -10,6 +10,7 @@ Basitleştirilmiş bir bilanço çizin:
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Basitleştirilmiş bir banka kredisi: borçlu başvuru yapar, banka krediyi onaylar ve borçlunun hesabına yeni bir mevduat tutarı aktarır; borçlu daha sonra anaparayı faiziyle birlikte bankaya geri öder.](/micrographics/bank-loan-deposit-01/tr.md)
 
 
 Tekrarlanan fiziksel mevduata dayalı bir “para çarpanı” anlatımını, her modern bankacılık sistemini mekanik olarak açıklıyormuş gibi kullanmayın.
@@ -21,6 +22,7 @@ Tekrarlanan fiziksel mevduata dayalı bir “para çarpanı” anlatımını, he
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Likidite riski: birçok mevduat sahibi bugün para çekmek için sıraya giriyor ve verdiği krediler ileride geri ödenebilecek olsa da bankanın şu anda yeterli nakdi yok. Ödeme gücü riski: borçlular konut kredilerini ödeyemiyor ve bankanın varlıklarının değeri, borçlarından daha az hâle geliyor.](/micrographics/liquidity-vs-solvency-01/tr.md)
 
 
 Şunu sorun:

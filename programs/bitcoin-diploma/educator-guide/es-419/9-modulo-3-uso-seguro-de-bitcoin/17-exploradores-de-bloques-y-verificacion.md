@@ -12,6 +12,7 @@ Con un [_txid_](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction-id
 
 
 <!-- micrographic: confirmation-timeline-01 -->
+[Una transacción espera sin confirmar en el grupo de transacciones pendientes; luego se incluye en el bloque N, lo que constituye su primera confirmación, y cada bloque posterior añade una más.](/micrographics/confirmation-timeline-01/es-419.md)
 
 
 Luego pregunte:

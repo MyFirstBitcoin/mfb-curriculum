@@ -4,6 +4,7 @@ O [**economie circulară Bitcoin**](https://curriculum.myfirstbitcoin.org/lexico
 
 
 <!-- micrographic: local-circular-economy-01 -->
+[Într-o economie circulară Bitcoin, bitcoin trece de la o persoană la alta în schimbul bunurilor, serviciilor și timpului. Un client plătește un comerciant, comerciantul plătește un prestator de servicii, prestatorul de servicii plătește un lucrător, iar lucrătorul cheltuiește din nou acei bitcoin în calitate de client.](/micrographics/local-circular-economy-01/ro.md)
 
 
 My First Bitcoin sprijină [economiile circulare Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-circular-economy), iar multe dintre acestea fac parte din Rețeaua de Educație Bitcoin. Explorați aceste comunități în [tabloul de bord al rețelei](https://network.myfirstbitcoin.org/?min10merchants=1).

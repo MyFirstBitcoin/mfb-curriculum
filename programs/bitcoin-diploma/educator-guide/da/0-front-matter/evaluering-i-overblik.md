@@ -21,6 +21,7 @@ Der er ikke tale om talkarakterer. Begge dele skal være gennemført, og alle p�
 
 
 <!-- micrographic: two-completion-gates-01 -->
+[De teoretiske kompetencer C1 til C5 og de praktiske kompetencer C6 og C7 skal hver især vurderes med et Ja, før gennemførelsesbeviset udstedes. Ikke endnu betyder mere øvelse og en ny vurdering; fremmøde og refleksion kan ikke erstatte nogen af de to vurderingstrin.](/micrographics/two-completion-gates-01/da.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/2783871f5851cf80c2e6e2a93eeb911607939507-1536x1024.svg)

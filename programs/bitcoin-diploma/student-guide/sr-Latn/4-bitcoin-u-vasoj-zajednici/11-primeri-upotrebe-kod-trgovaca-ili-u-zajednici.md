@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[Trgovac koji prihvata Bitcoin radi u četiri oblasti: marketing, obuka, računovodstvo i prodaja.](/micrographics/merchant-payment-operations-01/sr-Latn.md)
 
 
 Trgovcu je potrebno više od dugmeta za prijem. Celokupan proces plaćanja može obuhvatati određivanje cena, obuku osoblja, potvrde o plaćanju, povraćaje novca, [čuvanje sredstava](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), konverziju, računovodstvo, poreze, bezbednost uređaja i podršku.

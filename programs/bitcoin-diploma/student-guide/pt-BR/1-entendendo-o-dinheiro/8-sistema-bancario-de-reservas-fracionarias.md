@@ -6,11 +6,13 @@ Quando um banco comercial aprova um empréstimo, ele geralmente cria um novo dep
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Um empréstimo bancário simplificado: o tomador faz a solicitação, o banco aprova o empréstimo e credita um novo depósito na conta do tomador, e depois o tomador paga ao banco o principal mais os juros.](/micrographics/bank-loan-deposit-01/pt-BR.md)
 
 
 Os bancos geralmente buscam [lucro](https://curriculum.myfirstbitcoin.org/lexicon/en/#bank-profit) ganhando juros e tarifas sobre empréstimos e investimentos, enquanto pagam seus custos operacionais, de captação e regulatórios e absorvem perdas quando os tomadores não pagam. Essas atividades e restrições variam de acordo com o banco e a jurisdição.
 
 
+<!-- card: definition -->
 > **Definition – Sistema bancário de reservas fracionárias**
 >
 > [O sistema bancário de reservas fracionárias](https://curriculum.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking) descreve um sistema em que os bancos mantêm apenas uma fração de suas obrigações de depósito como reservas imediatamente acessíveis, enquanto concedem empréstimos e mantêm outros [ativos](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset). O nível de reservas exigido e outros limites variam entre os países e podem mudar ao longo do tempo.
@@ -23,6 +25,7 @@ Isso cria dois riscos importantes:
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Risco de liquidez: muitos depositantes fazem fila para sacar hoje, e o banco não tem dinheiro suficiente agora, mesmo que seus empréstimos possam ser pagos mais tarde. Risco de solvência: os tomadores deixam de pagar seus financiamentos imobiliários, e os ativos do banco passam a valer menos do que o banco deve.](/micrographics/liquidity-vs-solvency-01/pt-BR.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)

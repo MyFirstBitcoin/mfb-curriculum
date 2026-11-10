@@ -4,12 +4,14 @@ Elindeki mallar ve istekleri birbiriyle uyuşmayan üç kişiyle çalışın. Ö
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina'nın elinde pirinç var ve ayakkabı istiyor, Luis'in elinde ayakkabı var ve yemeklik yağ istiyor, Mei'nin elinde ise yemeklik yağ var ve tamir işi istiyor. Hiçbir ikili doğrudan takas yapamıyor, çünkü her ikilide kişilerden hiçbiri diğerinin sunduğu şeyi istemiyor.](/micrographics/barter-mismatch-01/tr.md)
 
 
 Ardından herkesçe kabul gören bir değişim aracı tanıtın.
 
 
 <!-- micrographic: sell-then-buy-01 -->
+[Amina pirincini bir kişiye genel kabul görmüş bir para karşılığında satar, ardından o parayla başka birinden ayakkabı satın alır. Satmak ve satın almak ayrı eylemler hâline gelir.](/micrographics/sell-then-buy-01/tr.md)
 
 
 Şunları sorun:

@@ -40,7 +40,8 @@ Ne jį uždirbant, ne jį leidžiant, o galvojant apie tai, kas tai yra ir kaip 
 * Ar už savo pinigus galite nusipirkti tiek pat, kiek anksčiau?
 
 
-> **Callout – Išsaugokite savo atsakymus**
+<!-- card: callout -->
+> **Išsaugokite savo atsakymus**
 >
 > Trumpai atsakykite į kiekvieną klausimą. Pabaigoje prie šių atsakymų sugrįšite.
 
@@ -85,6 +86,7 @@ Abu žmonės turi norėti to, ką turi kitas, tuo pačiu metu ir tinkamais kieki
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina turi ryžių ir nori batų, Luis turi batų ir nori maistinio aliejaus, o Mei turi maistinio aliejaus ir nori remonto paslaugų. Nė viena pora negali mainytis tiesiogiai, nes nė vienas poros dalyvis nenori to, ką siūlo kitas.](/micrographics/barter-mismatch-01/lt.md)
 
 <!-- notes: Pasinaudokite vadove pateiktu pavyzdžiu: auginate ryžius ir Jums reikia batų, tačiau batsiuvys nori maistinio aliejaus, o ne ryžių. Ekonomistai tai vadina dvigubu poreikių sutapimu. -->
 
@@ -151,6 +153,7 @@ Išgirdę žodį „infliacija“, žmonės paprastai pagalvoja apie kylančias 
 ## Infliacija ir perkamoji galia
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Už tuos pačius 100 valiutos vienetų galima nusipirkti visą būtiniausių prekių krepšelį, kai jis kainuoja 100, bet ne tada, kai tas pats krepšelis kainuoja 110. Kainų lygis pakilo, o pinigų perkamoji galia sumažėjo.](/micrographics/same-money-smaller-basket-01/lt.md)
 
 <!-- notes: Kainų infliacija – tai nuolatinis bendro kainų lygio kilimas. Kita jos pusė – perkamoji galia: kiek galima nusipirkti už vieną piniginį vienetą. Jei pagrindinių prekių krepšelio kaina pakyla nuo 100 iki 110 piniginių vienetų, už tuos pačius 100 vienetų viso krepšelio įsigyti nebegalima. -->
 
@@ -213,8 +216,7 @@ Banko sąskaitos likutis skiriasi nuo grynųjų pinigų jūsų rankose: tai bank
 * Tačiau pinigų pasiūla ir taisyklės gali keistis, o juos naudojantys žmonės turi mažai įtakos
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Štai kodėl žmonės ieško alternatyvų ir kodėl buvo sukurtas Bitkoinas.
 
 ---
@@ -233,6 +235,7 @@ Skaitmeniniai pinigai, kurie yra decentralizuoti, kurių pasiūla ribota ir kuri
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Naudojantis mokėjimų bendrove, viena organizacija tvarko apskaitos žurnalą ir patvirtina kiekvieną pervedimą. Naudojantis Bitkoinu, siuntėjas pasirašo sandorį, nepriklausomi mazgai jį patikrina, o kasėjai įtraukia į vieną bendrą apskaitos žurnalą, todėl gavėjas mažiau priklauso nuo centrinės institucijos.](/micrographics/central-ledger-vs-bitcoin-01/lt.md)
 
 <!-- notes: Iki Bitcoin atsiradimo pinigų siuntimas internetu visada priklausė nuo patikimos organizacijos: banko ar mokėjimo paslaugų bendrovės, kuri tvarkė apskaitos registrą, tvirtino sąskaitas ir galėjo uždelsti, užblokuoti arba atšaukti mokėjimą. Skaitmeninę informaciją lengva kopijuoti: jei skaitmeninę monetą būtų galima išleisti du kartus, ji negalėtų veikti kaip pinigai. Tai vadinama dvigubo išleidimo problema. Satoshi Nakamoto – tai asmuo arba grupė, naudojanti šį vardą. -->
 
@@ -253,6 +256,7 @@ Jokia įmonė negali įšaldyti bitkoinų, kuriuos valdote patys. Kita šios lai
 ## Riba, kurią gali patikrinti kiekvienas
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Svetainėje ar emitento duomenų bazėje nurodytą pasiūlos ribą emitentas gali nepastebimai pakeisti. „Bitcoin“ pasiūlos taisyklė yra vieša, o parašai, vieša istorija, darbo įrodymas ir mazgų atliekama patikra kartu neleidžia savavališkai kurti naujų monetų ar to paties bitkoino išleisti du kartus.](/micrographics/claimed-or-verified-supply-01/lt.md)
 
 <!-- notes: Nauji bitkoinai išleidžiami pagal viešai žinomą tvarkaraštį, o nepriklausomi kompiuteriai, vadinami mazgais, atmeta bet kurį bloką, kuris pažeidžia šią taisyklę. Ši riba patikima, nes kiekvienas gali patikrinti, ar jos laikomasi. Tai nėra gamtos dėsnis: ji galioja todėl, kad dalyviai nuolat užtikrina jos laikymąsi. Ribota pasiūla negarantuoja, kad kaina kils; kaina priklauso tiek nuo paklausos, tiek nuo pasiūlos. -->
 
@@ -264,6 +268,7 @@ Vienas bitkoinas dalijamas į 100 000 000 mažesnių vienetų, vadinamų satoši
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Dviejų stulpelių lentelė: 1 BTC yra 100 000 000 sats, 0,1 BTC yra 10 000 000 sats, 0,01 BTC yra 1 000 000 sats, 0,001 BTC yra 100 000 sats, o 0,00000001 BTC yra 1 sat.](/micrographics/bitcoin-and-sats-01/lt.md)
 
 <!-- notes: Turėti 100 000 satošių ir turėti 0,001 bitkoino reiškia turėti tą pačią sumą. Paneikite klaidingą įsitikinimą, kad Bitkoinas yra neprieinamas, nes vienas bitkoinas yra brangus. -->
 
@@ -272,6 +277,7 @@ Vienas bitkoinas dalijamas į 100 000 000 mažesnių vienetų, vadinamų satoši
 ## Kas užtikrina Bitcoin veikimą?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Keturi vaidmenys „Bitcoin“ tinkle: naudotojai gauna, laiko ir siunčia bitkoinus, mazgai savarankiškai tikrina, ar laikomasi taisyklių, kasėjai kuria blokus kandidatus atlikdami darbo įrodymo skaičiavimus, o programuotojai siūlo programinę įrangą. Nė vienas vaidmuo atskirai nekontroliuoja tinklo.](/micrographics/bitcoin-participant-roles-01/lt.md)
 
 <!-- notes: Naudotojai siunčia, gauna ir laiko bitkoinus; mazgai tikrina, ar kiekviena operacija ir blokas atitinka taisykles; kasėjai varžosi, kas maždaug kas dešimt minučių į registrą įtrauks naują bloką. Šis registras, vadinamas blokų grandine, yra viešas, o jį perrašyti labai brangu. Pastaba dėl rašybos: „Bitkoinas“ iš didžiosios B paprastai reiškia tinklą arba sistemą, o „bitkoinas“ iš mažosios b – pačius pinigus. -->
 
@@ -307,6 +313,7 @@ Pirmasis klausimas apie bet kurią piniginę: kas valdo raktus?
 ## Piniginė valdo raktus
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Piniginėje saugomi raktai. Jais naudodamiesi galite gauti ir siųsti bitkoinus, o patys bitkoinai lieka įrašyti bendrojoje apskaitos knygoje, o ne telefone ar įrenginyje.](/micrographics/wallet-manages-keys-01/lt.md)
 
 <!-- notes: „Bitcoin“ piniginė – tai įrankis, dažniausiai programėlė, leidžiantis Jums gauti bitkoinus, patikrinti jų likutį ir juos siųsti. Jūsų bitkoinai saugomi ne telefone: jie įrašyti blokų grandinėje. Piniginė valdo raktus, leidžiančius Jums įrodyti, kad bitkoinai priklauso Jums, ir patvirtinti mokėjimą. -->
 
@@ -331,6 +338,7 @@ Nustatyta tvarka išdėstytų žodžių sąrašas, dažniausiai sudarytas iš 12
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Atkūrimo frazė – tai nustatyta tvarka išdėstytų žodžių sąrašas; čia pateikta dvylika sunumeruotų pavyzdinių žodžių, užrašytų ant popieriaus. Tinkami žodžiai tinkama tvarka leidžia atkurti prieigą suderinamoje piniginėje, todėl frazė laikoma paslaptyje ir neprisijungus prie interneto.](/micrographics/seed-phrase-on-paper-01/lt.md)
 
 <!-- notes: Atkūrimo frazė nėra vien atsarginė kopija: ji suteikia visišką prieigą. Kurdami piniginę, tiksliai užrašykite ją ant popieriaus; laikykite ją neprisijungę prie interneto, niekam neatskleiskite ir saugokite ten, kur ji nepasimes ir nebus sugadinta. Niekada jos nefotografuokite, nesiųskite el. paštu, nesaugokite debesijos užrašuose, nesiųskite žinute ir neįveskite interneto svetainėje. Parodyti žodžiai yra tik pavyzdys; niekada nerodykite ir nerinkite tikrų atkūrimo frazių. -->
 
@@ -365,6 +373,7 @@ Nustatyta tvarka išdėstytų žodžių sąrašas, dažniausiai sudarytas iš 12
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Mokėjimai grandinėje įrašomi tiesiogiai Bitcoin blokų grandinėje, o Lightning yra Bitcoin pagrindu sukurtas mokėjimų tinklas, skirtas greitiems, dažniems mokėjimams, kurie taip pat gali nepavykti. Abiem atvejais lėšas galima patikėti saugotojui arba valdyti savarankiškai.](/micrographics/on-chain-and-lightning-01/lt.md)
 
 ---
 
@@ -375,7 +384,8 @@ Nustatyta tvarka išdėstytų žodžių sąrašas, dažniausiai sudarytas iš 12
 * **Nepasitikėkite, tikrinkite.** Patikrinkite asmenį, mokėjimo būdą, adresą ir sumą.
 
 
-> **Callout – Dalinkitės informacija mokėjimams gauti, bet niekada – paslaptimis**
+<!-- card: callout -->
+> **Dalinkitės informacija mokėjimams gauti, bet niekada – paslaptimis**
 >
 > Adresu ar mokėjimo užklausa dalintis galima. Atkūrimo fraze ar privačiuoju raktu niekada negalima dalintis. Joks sąžiningas mokytojas, piniginės paslaugas teikianti įmonė ar pagalbos tarnybos darbuotojas niekada neprašys jų atskleisti.
 
@@ -389,6 +399,7 @@ Sustokite, jei kas nors verčia skubėti ar viską laikyti paslaptyje, žada gar
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Penki sukčiavimo požymiai: skubinimas, apsimetimas kitu asmeniu, pakeistas gavėjo adresas, garantuota grąža ir prašymai atskleisti slaptą informaciją.](/micrographics/scam-red-flags-01/lt.md)
 
 ---
 
@@ -408,7 +419,8 @@ Tai tik pradžia.
 * **Tai tik pradžia.** Pakanka vieno saugaus tolesnio žingsnio.
 
 
-> **Callout – Akimirka apmąstymams**
+<!-- card: callout -->
+> **Akimirka apmąstymams**
 >
 > Grįžkite prie penkių pradžioje pateiktų klausimų. Ką atsakytumėte dabar?
 

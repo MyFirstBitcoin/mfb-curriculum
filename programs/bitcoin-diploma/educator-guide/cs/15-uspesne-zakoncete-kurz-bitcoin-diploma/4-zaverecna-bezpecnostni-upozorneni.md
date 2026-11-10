@@ -12,3 +12,4 @@ Připomeňte studujícím:
 
 
 <!-- micrographic: final-safety-check-01 -->
+[Závěrečný bezpečnostní kontrolní seznam s odškrtnutými položkami: chraňte tajné údaje, ověřte platební údaje, vyzkoušejte nejprve malou částku a pod tlakem se zastavte. Pokud je cokoli nejasné, zastavte se a před dalším krokem si zjistěte více.](/micrographics/final-safety-check-01/cs.md)

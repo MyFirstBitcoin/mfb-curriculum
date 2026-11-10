@@ -1,6 +1,7 @@
 # Crei un'aula sicura e attiva
 
-> **Callout – Protegga i partecipanti prima che inizino le attività pratiche**
+<!-- card: callout -->
+> **Protegga i partecipanti prima che inizino le attività pratiche**
 >
 > Non chieda, visualizzi, fotografi, copi, registri o conservi mai una seed phrase reale, una chiave privata, una password o informazioni finanziarie non necessarie. Non faccia pressione su nessuno affinché acquisti, venda, detenga o utilizzi bitcoin. Si fermi ogni volta che un partecipante è incerto, sotto pressione o esposto a una possibile truffa.
 

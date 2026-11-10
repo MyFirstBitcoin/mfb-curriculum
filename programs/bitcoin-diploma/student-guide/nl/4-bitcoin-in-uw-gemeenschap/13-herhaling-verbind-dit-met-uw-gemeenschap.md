@@ -1,10 +1,12 @@
 # 4.13 Herhaling: verbind dit met uw gemeenschap
 
 <!-- micrographic: community-review-path-01 -->
+[Een beoordelingsroute voor een lokaal Bitcoin-voorbeeld: begin bij een werkelijke behoefte, controleer of Bitcoin geschikt is, daarna de betaalmethode, de bewaring, de totale kosten, de veiligheid en de lokale omstandigheden, en eindig met bewijs van succes.](/micrographics/community-review-path-01/nl.md)
 
 
 
 <!-- micrographic: community-review-table-01 -->
+[Een evaluatietabel voor het lokale voorbeeld: voor elk onderwerp, van de werkelijke behoefte tot een verantwoorde volgende stap, een vraag om te stellen en een optionele ruimte voor uw eigen aantekeningen.](/micrographics/community-review-table-01/nl.md)
 
 
 Maak deze herhaling individueel en vergelijk daarna uw redenering met uw team of groep. Denk aan het lokale voorbeeld dat u hebt bestudeerd: in welke werkelijke behoefte voorzag het, welke functie van geld speelde een rol, en werd [waarde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) on-chain verplaatst, via Lightning, of allebei? Vraag u af wie de sleutels beheerde, wat het grootste voordeel en het ernstigste risico waren, en hoe lokale wetgeving, infrastructuur, taal of cultuur het resultaat beïnvloedden. Een verantwoorde volgende stap past bij de lokale context, maakt kosten en [bewaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) duidelijk, beperkt fouten en oplichting, en kan aan de hand van bewijs worden geëvalueerd.

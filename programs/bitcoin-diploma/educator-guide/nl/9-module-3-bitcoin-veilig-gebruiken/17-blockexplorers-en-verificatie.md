@@ -12,6 +12,7 @@ Laat aan de hand van een vooraf voorbereide [_txid_](https://curriculum.myfirstb
 
 
 <!-- micrographic: confirmation-timeline-01 -->
+[Een transactie wacht onbevestigd in de pool met wachtende transacties, wordt vervolgens opgenomen in Blok N als haar eerste bevestiging, en elk volgend blok voegt er één bevestiging aan toe.](/micrographics/confirmation-timeline-01/nl.md)
 
 
 Vraag vervolgens:

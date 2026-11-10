@@ -40,7 +40,8 @@ Haisi ku i sebeletsa, haisi ku i sebelisa, kono ki ku nahana ka seo ili sona ni 
 * Na masheleñi a mina a sa leka lika ze li lekana ni ze naa leka kale?
 
 
-> **Callout – Bolokani likalabo za mina**
+<!-- card: callout -->
+> **Bolokani likalabo za mina**
 >
 > Ñolani kalabo ye kuswani kwa puzo ni puzo. Mu ka kutela ku zona kwa mafelelezo.
 
@@ -85,6 +86,7 @@ Batu bababeli ba swanela ku bata se yo muñwi a na ni sona, ka nako i le ñwi ni
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina u na ni mupunga mi u bata likwatapata, Luis u na ni likwatapata mi u bata mafula a kuapeha, mi Mei u na ni mafula a kuapeha mi u bata musebezi wa kulukiseza. Ha kuna bababeli ba kona kucincana lika ka kululama, kakuli ha kuna ni a li muñwi ku bona ya bata seo yo muñwi a fa.](/micrographics/barter-mismatch-01/loz.md)
 
 <!-- notes: Musebelise mutala wa buka ya tataiso: mulima mupunga mi mutoka likatulo, kono muezi wa likatulo ubata oli ya ku apehela, isi mupunga. Litibi za ikonomi libiza taba ye kuli ki kukopana kwa litakazo za batu bababeli. -->
 
@@ -151,6 +153,7 @@ Ha batu bautwa linzwi la kuoketseha kwa litheko, hangata banahana ka litheko ze 
 ## Kukwela kwa Litheko ni Maata a Kuleka
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Liyuniti ze 100 za masheleñi li kona ku leka lika za butokwa kaufela ze mwa siselo ha theko ya sona ili 100, kono ha li koni ha theko ya siselo seo ili 110. Buimo bwa litheko bu palamile mi maata a masheleñi a ku leka a fokolisizwe.](/micrographics/same-money-smaller-basket-01/loz.md)
 
 <!-- notes: Ku nyuka kwa litheko ki ku nyuka kwa nako ye telele kwa litheko za linto ka ku angareza. Libali la kona le liñwi ki maata a ku leka: buñata bwa linto ze kalulo iliñwi ya masheleñi i kona ku leka. Ha teko ya siselo sa linto za butokwa i nyuka ku zwa ku likalulo ze 100 za masheleñi ku ya ku 110, likalulo ze swana ze 100 ha li sa kona ku leka siselo seo kaufela. -->
 
@@ -213,8 +216,7 @@ Mali a mwa akawunti ya banka a shutana ni mali a mwa lizoho la mina: ki sepiso y
 * Kono palo ya yona ni milao ya yona li kona ku cinca, mi batu ba ba i sebelisa ba na ni maata a manyinyani fa likatulo
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Ki lona libaka batu ba batela likhetho ze ñwi, mi ki lona libaka Bitcoin ne i ezelizwe.
 
 ---
@@ -233,6 +235,7 @@ Mashele a dijithali a sa lauliwi ki sibaka silisiñwi, a na ni palo ye lekanyeli
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Kwa kampani ya kulipa, mukopano u li muñwi u babalela buka ya masheleñi ni ku lumelela phetiso ye ñwi ni ye ñwi. Kwa Bitcoin, mulumi u saena phetiso ya masheleñi, likhompyuta za netiweke ze ikemela li a i tatuba mi baepi ba i ekeza mwa buka ya masheleñi i li ñwi ye arolelaniwa, cwale muamuheli ha itingeli hahulu ka taolo ya fa hali.](/micrographics/central-ledger-vs-bitcoin-01/loz.md)
 
 <!-- notes: Pili Bitcoin i sika ba teñi, ku lumela mali fa inthaneti ne ku itingile ka nako kaufela fa mukatulo wo u sepeha: banka kamba kampani ya lipatalo ye ne i babalela buka ya litaba za mali, ku amuhela liakhaunti, mi ne i kona ku liehisa, ku tibela, kamba ku kutisa mulaho patalo. Litaba za dijithali li bunolo ku kopisa: haiba mali a dijithali na a kona ku sebeliswa habeli, na a si ke a sebetsa sina mali. Bo ki butata bwa ku sebelisa mali a swana habeli. Satoshi Nakamoto ki mutu kamba sitopa sa batu ba ba sebelisa libizo leo. -->
 
@@ -253,6 +256,7 @@ Ha kuna kampani ye kona ku tibela ku sebeliswa kwa bitcoin ye mu laula mina bañ
 ## Muñele wo Mutu ni Mutu a Kona ku Tatuba
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Mueli wa bunyata bwa masheleñi wo ñozwi fa webusayiti kapa mwa polokelo ya litaba ya ya ntsha masheleñi u kona ku cinciwa ki yena ba bañwi ba sa zibi. Mulao wa bunyata bwa masheleñi a Bitcoin u bonwa ki bohle, mi misaino, litaba za kale ze bonwa ki bohle, bupaki bwa musebezi ni ku tatuba kwa linodi, kaufela hammoho, li tibela ku ipupela masheleñi a manca kapa ku sebelisa bitcoin ye swana habeli.](/micrographics/claimed-or-verified-supply-01/loz.md)
 
 <!-- notes: bitcoin zenca li ntshiwa ka ku latelela lenaneo le lizibahala ku mutu kaufela, mi likompyuta ze ikemela ze bizwa nodes li hana buloko ifi kapa ifi ye sa lateleli mulawo wo. Palo ye beezwi ya sepeha kakuli mutu kaufela a kona ku i tatuba. Ha se mulawo wa pupo: u tiile kakuli babangula ba zwelapili ku u latelelisa. Buñata bo bu lekanyelizwe bwa bitcoin ha bu kolofezi kuli teeko i ka ekezeha; teeko i itingile ku buñata bo bu tokwahala ni ku buñata bo bu fumaneha. -->
 
@@ -264,6 +268,7 @@ bitcoin iliñwi i aulwa mwa likarolo ze nyinyani ze 100,000,000 ze bizwa satoshi
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Tafula ya likholomo ze peli: 1 BTC ilikana ni 100,000,000 sats, 0.1 BTC ilikana ni 10,000,000 sats, 0.01 BTC ilikana ni 1,000,000 sats, 0.001 BTC ilikana ni 100,000 sats, mi 0.00000001 BTC ilikana ni 1 sat.](/micrographics/bitcoin-and-sats-01/loz.md)
 
 <!-- notes: Kuba ni 100,000 sats ni kuba ni 0.001 bitcoin ku talusa buñata bo bu swana bwa mali. Mulukise muhupulo wo fošahalile wa kuli Bitcoin haikonwi kufumanwa bakeñisa kuli bitcoin ili ñwi i tula hahulu. -->
 
@@ -272,6 +277,7 @@ bitcoin iliñwi i aulwa mwa likarolo ze nyinyani ze 100,000,000 ze bizwa satoshi
 ## Ki bomañi baba eza kuli Bitcoin i zwelepili ku sebeza?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Misebezi ye mine mwa Bitcoin: babelekisi ba amuhela, ba buluka ni ku lumela bitcoin, linodi li tatuba milao ka bolukului, baepi ba yaha liboloko ze sisinyezwa ka bupaki bwa musebezi, mi bañoli ba mananeo ba sisinya mananeo a kompyuta. Hakuna musebezi u li muñwi wo laula netiweke.](/micrographics/bitcoin-participant-roles-01/loz.md)
 
 <!-- notes: Baitusisi ba tumela, ba amuhela ni ku buluka bitcoin; linode li nyakisisa litengiselano kaufela ni buloko kaufela ku bona kuli li latelela milao; baepi ba nyakisanya ku ekeza buloko ye nca ku rekoto ka ku lekana mizuzu ye lishumi. Rekoto yeo, ye bizwa blockchain, i bulehile ku mutu ni mutu, mi ku i ñola hape ku lopa masheleñi a mañata hahulu. Taba ya muñolelo: Bitcoin ye ñozwi ka B ye tuna hañata i talusa netiweke kamba sisitemu; bitcoin ye ñozwi ka b ye nyinyani i talusa mali ka ona. -->
 
@@ -307,6 +313,7 @@ Puzo ya pili ka sikwama se siñwi ni se siñwi: ki mañi ya laula linotolo?
 ## Sikwama si laula linotolo
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Sipachi si boloka linotolo. Ka zona mwa kona ku amuhela ni ku lumela bitcoin, kono bitcoin ka sibili i sala i ñozwi mwa buka ya liakhaonto ye abelanwa, isi mwa muhala kamba mwa sisebeliso.](/micrographics/wallet-manages-keys-01/loz.md)
 
 <!-- notes: Sipache sa Bitcoin ki sisebeliso, hang’ata ki app, se si mi lumelela ku amuhela, ku talima ni ku luma bitcoin. Bitcoin ya mina ha i bulukiwi mwa foni ya mina: i ñozwi mwa blockchain. Sipache si laula linotolo ze mi lumelela ku bonisa kuli ki ya mina ni ku fa tumello ya tuelo. -->
 
@@ -331,6 +338,7 @@ Mutelelo wa manzwi a beilwe ka tatelano, hañata 12 kapa 24, o kona ku bupa hape
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Mubamba wa manzwi a ku buseza sikwama ki mukoloko wa manzwi a latelelana ka tatamanelo; mwa mutala wo ki manzwi a likumi ni a mabeli a filwe linamba ni ku ñolwa fa pampili. Manzwi a swanela a beilwe ka tatamanelo ye swanela a kona ku busetsa taolo ya sikwama se si sebeza ni ona, kacwalo mubamba wo u swanela ku bolokiwa icilemezi ni ku sa kopaniswa kwa intaneti.](/micrographics/seed-phrase-on-paper-01/loz.md)
 
 <!-- notes: Manzwi a peo ha ki a ku buseza sikwama feela: a fa maata a ku kena ni ku sebelisa sikwama ka ku tala. Mu a ñole hande fa pampili ha mu eza sikwama; mu a boloke kwa ntle a intaneti, mwa kunutu, ni fa sibaka fo a si ke a lateha kapa ku sinyiwa. Mu si ke mwa a swanisa, ku a lumela ka imeili, ku a boloka mwa linoto za cloud, ku a lumela mwa mulaeza, kapa ku a ñola fa webusaiti. Manzwi a bonahalisiwe ki mutala feela; mu si ke mwa bonisa kapa ku bokanya manzwi a peo a niti. -->
 
@@ -365,6 +373,7 @@ Mutelelo wa manzwi a beilwe ka tatelano, hañata 12 kapa 24, o kona ku bupa hape
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Lilifisho za fa ketani li ñolwa ka ku otloloha mwa ketani ya libuloko ya Bitcoin, hailiffo Lightning ki netiweke ya kulifa ye yahilwe fa Bitcoin kwa kulifa ka kapili ni hangata, mi lilifisho zeo li kona hape ku palelwa. Mwa nzila ni nzila, masheleñi a kona ku babalelwa ki mutu yo muñwi kamba ki muoñi ka sibili.](/micrographics/on-chain-and-lightning-01/loz.md)
 
 ---
 
@@ -375,7 +384,8 @@ Mutelelo wa manzwi a beilwe ka tatelano, hañata 12 kapa 24, o kona ku bupa hape
 * **Musike mwa sepa, mutiise.** Mutatube mutu, mukwa wa kulifa, adilesi, ni bun'ata bwa mali.
 
 
-> **Callout – Muabele ba bañwi litaba za ku amuhela mali, isi makunutu**
+<!-- card: callout -->
+> **Muabele ba bañwi litaba za ku amuhela mali, isi makunutu**
 >
 > Adilesi kapa kopo ya kulifiwa li kona ku abelwa ba bañwi. Manzwi a ku buselisa sipachi kapa kinotolo ya lekunutu ha lia swanela ku abelwa ba bañwi le kamuta. Ha kuna muluti ya sepahala, kopani ya lipachi, kapa musebezi wa tuso ya ka mi kupa zona.
 
@@ -389,6 +399,7 @@ Muyeme haiba mutu a mi potlakisa kapa a mi kupa ku boloka makunutu, a mi sepisa 
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Lisupo ze ketalizo za temuso ya buhata: potlako, kuiketsa mutu yo muñwi, sibaka sa kuya se si cincizwe, lipuzo ze tiisizwe ni likupo za makunutu.](/micrographics/scam-red-flags-01/loz.md)
 
 ---
 
@@ -408,7 +419,8 @@ Se ki makalelo feela.
 * **Se ki makalelo feela.** Muhato u li omu feela wo latelela, wo silelelit­swe, wa likana.
 
 
-> **Callout – Nako ya ku nahanisisa**
+<!-- card: callout -->
+> **Nako ya ku nahanisisa**
 >
 > Kuteleni kwa lipuzo ze ketalizoho za kwa makalelo. Ne mu ka alaba cwañi cwale?
 

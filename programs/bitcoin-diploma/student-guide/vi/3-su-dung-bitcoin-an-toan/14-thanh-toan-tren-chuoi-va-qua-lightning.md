@@ -4,22 +4,26 @@
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Các khoản thanh toán trên chuỗi được ghi lại trực tiếp trên chuỗi khối của Bitcoin, còn Lightning là một mạng thanh toán được xây dựng trên Bitcoin để thực hiện các khoản thanh toán nhanh chóng, thường xuyên nhưng cũng có thể thất bại. Cả hai phương thức đều có thể sử dụng dịch vụ lưu ký hoặc tự lưu ký.](/micrographics/on-chain-and-lightning-01/vi.md)
 
 
 
+<!-- card: definition -->
 > **Definition – Thanh toán trên chuỗi và qua Lightning**
 >
 > [Các khoản thanh toán trên chuỗi](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment) được ghi lại trên Bitcoin thông qua [chuỗi khối](https://curriculum.myfirstbitcoin.org/lexicon/en/#blockchain) và nhận được [các xác nhận](https://curriculum.myfirstbitcoin.org/lexicon/en/#confirmation). Lightning là một mạng thanh toán được xây dựng trên Bitcoin, có thể hỗ trợ các khoản thanh toán nhanh và thường xuyên. Một khoản thanh toán qua Lightning có thể hoàn tất nhanh chóng hoặc thất bại, và ví dùng để thanh toán vẫn có thể là ví lưu ký hoặc ví tự lưu ký.
 
 
 
-> **Dark – Phương thức thanh toán không quyết định quyền lưu ký**
+<!-- card: dark -->
+> **Phương thức thanh toán không quyết định quyền lưu ký**
 >
 > Thanh toán trên chuỗi và qua Lightning có những [đánh đổi](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) khác nhau. Ví Lightning có thể là ví lưu ký hoặc ví tự lưu ký, và việc một khoản thanh toán thành công nhanh chóng không chứng minh rằng dịch vụ đó phù hợp để giữ số dư lớn hơn hoặc phù hợp với mọi tình huống.
 
 
 
 <!-- micrographic: onchain-lightning-table-01 -->
+[Bảng so sánh Bitcoin trên chuỗi và Lightning: thông tin nhận thanh toán, kết quả thanh toán, mục đích sử dụng phổ biến và những điều người mới cần kiểm tra. Cả hai phương thức đều có thể sử dụng hình thức lưu ký hoặc tự lưu ký.](/micrographics/onchain-lightning-table-01/vi.md)
 
 
 Người nhận muốn nhận thanh toán theo phương thức nào? Trước khi thanh toán, hãy xác nhận xem họ đã cung cấp địa chỉ trên chuỗi hay [hóa đơn Lightning](https://curriculum.myfirstbitcoin.org/lexicon/en/#lightning-invoice) hoặc yêu cầu thanh toán qua Lightning. Ví trên chuỗi không thể trực tiếp thanh toán mọi [hóa đơn Lightning](https://curriculum.myfirstbitcoin.org/lexicon/en/#lightning-invoice), và ví Lightning có thể không hỗ trợ mọi thao tác trên chuỗi. Một số ứng dụng hỗ trợ cả hai phương thức nhưng có thể tính thêm phí hoặc làm phát sinh sự phụ thuộc vào dịch vụ. Nội dung chi tiết về thiết lập Lightning, các kênh, định tuyến và [tính thanh khoản](https://curriculum.myfirstbitcoin.org/lexicon/en/#lightning-liquidity) thuộc phần [Học tập nâng cao](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/); hoạt động thực hành trực tiếp tại địa phương nằm trong **Mô-đun 4** khi bảo đảm an toàn và phù hợp.

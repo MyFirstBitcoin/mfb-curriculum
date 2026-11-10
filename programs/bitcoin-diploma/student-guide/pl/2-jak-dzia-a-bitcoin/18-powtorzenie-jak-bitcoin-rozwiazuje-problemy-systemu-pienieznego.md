@@ -4,6 +4,7 @@ Proszę zatrzymać się i zastanowić, w jaki sposób publiczne zasady, ogranicz
 
 
 <!-- micrographic: bitcoin-responses-tradeoffs-01 -->
+[Tabela zestawiająca pięć możliwych wad współczesnych systemów pieniężnych z odpowiedziami Bitcoina oraz nowymi obowiązkami lub kompromisami, które wiążą się z każdą z tych odpowiedzi. Bitcoin częściowo zastępuje zaufanie do instytucji weryfikacją i osobistą odpowiedzialnością, ale nie eliminuje ryzyka.](/micrographics/bitcoin-responses-tradeoffs-01/pl.md)
 
 
 **Myśl przewodnia:** Na podstawie tego, czego dowiedzieli się Państwo o Bitcoinie w tym module, czy ma on [wartość](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) dla Państwa? Czy obecna [cena](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) bitcoina odzwierciedla jego [wartość](https://curriculum.myfirstbitcoin.org/lexicon/en/#value)?

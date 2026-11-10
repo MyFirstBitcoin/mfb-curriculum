@@ -1,6 +1,7 @@
 # 10.4 De modulebouwer in zeven stappen
 
 <!-- micrographic: seven-step-module-builder-01 -->
+[Zeven planningsstappen leiden van de lokale context en behoefte naar een gerichte, gecontroleerde taak, een veilige lesvolgorde, duidelijke beoordeling en een nabespreking. Het bestaande alternatief blijft in beeld, en een ongeschikte optie gaat terug naar de planning.](/micrographics/seven-step-module-builder-01/nl.md)
 
 
 #### 1. Leer de lokale context kennen

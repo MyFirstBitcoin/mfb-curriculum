@@ -1,6 +1,6 @@
 # Quiz – Trygg bruk av Bitcoin: rask kunnskapssjekk
 
-## Question 1
+## Spørsmål 1
 
 En Bitcoin-lommebok:
 
@@ -9,11 +9,11 @@ En Bitcoin-lommebok:
 * [ ] Fjerner beskyttelsen av hemmeligheter
 * [ ] Reverserer transaksjoner
 
-### Explanation
+### Forklaring
 
 Bitcoin registreres i den delte hovedboken; en lommebok håndterer informasjonen som brukes til å få tilgang til og bruke det. Se elevveiledningen, modul 3, «Lommebøker».
 
-## Question 2
+## Spørsmål 2
 
 Hva kan deles for å motta bitcoin?
 
@@ -22,11 +22,11 @@ Hva kan deles for å motta bitcoin?
 * [x] Mottaksadresse
 * [ ] Passord
 
-### Explanation
+### Forklaring
 
 En mottaksadresse kan deles for å motta betaling. Gjenopprettingsfraser, private nøkler og passord må holdes hemmelige. Se elevveiledningen, modul 3, «Adresser» og «Nøkler».
 
-## Question 3
+## Spørsmål 3
 
 Gjenopprettingsfrasen er skrevet inn på nettet. Hva er det tryggeste neste steget?
 
@@ -35,11 +35,11 @@ Gjenopprettingsfrasen er skrevet inn på nettet. Hva er det tryggeste neste steg
 * [x] Ny gjenopprettingsfrase, deretter flytte midlene
 * [ ] Bruk gjenopprettingsfrasen på nytt
 
-### Explanation
+### Forklaring
 
 Betrakt en gjenopprettingsfrase som er skrevet inn på nettet, som kompromittert. Opprett en ny lommebok med en ny gjenopprettingsfrase, og flytt midlene først etter at mottaksadressen er kontrollert. Se elevveiledningen, modul 3, «Gjenopprettingsfraser».
 
-## Question 4
+## Spørsmål 4
 
 Hva er hovedforskjellen mellom forvaring hos en tredjepart og egenforvaring?
 
@@ -48,6 +48,6 @@ Hva er hovedforskjellen mellom forvaring hos en tredjepart og egenforvaring?
 * [ ] Øvre grense for pengemengden
 * [ ] Transaksjonsgebyrer
 
-### Explanation
+### Forklaring
 
 Forskjellen mellom forvaring hos en tredjepart og egenforvaring er hvem som kontrollerer nøklene og har det tilhørende ansvaret. Ingen av delene garanterer sikkerhet eller mulighet til å reversere transaksjoner. Se elevveiledningen, modul 3, «Forvaring hos en tredjepart og egenforvaring».

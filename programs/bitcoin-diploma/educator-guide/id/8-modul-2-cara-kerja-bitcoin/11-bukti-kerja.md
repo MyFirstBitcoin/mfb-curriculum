@@ -10,6 +10,7 @@ Ajarkan hubungan antarkonsep, bukan perhitungan matematikanya:
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Penambang menghitung hash dari blok yang diusulkan berulang kali hingga salah satu hasilnya berada di bawah target jaringan, lalu menyiarkan blok tersebut. Simpul memeriksa bukti dan kepatuhan terhadap setiap aturan dengan cepat sebelum blok masuk ke blockchain: menghasilkan bukti kerja membutuhkan biaya besar, tetapi memverifikasinya mudah.](/micrographics/proof-of-work-process-01/id.md)
 
 
 Hindari mengatakan bahwa [penambang](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) menyelesaikan persamaan yang berguna di luar jaringan. Hindari menyatakan bahwa biaya energi dengan sendirinya dapat dibenarkan atau merupakan pemborosan.

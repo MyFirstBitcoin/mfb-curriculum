@@ -1,10 +1,12 @@
 # 4.13 Ripasso: colleghi questi concetti alla Sua comunità
 
 <!-- micrographic: community-review-path-01 -->
+[Un percorso di analisi per un esempio locale di Bitcoin: si parte da un bisogno reale, si verifica se Bitcoin è adatto, poi si esaminano il metodo di pagamento, la custodia, il costo totale, la sicurezza e le condizioni locali, e si conclude con le prove di successo.](/micrographics/community-review-path-01/it.md)
 
 
 
 <!-- micrographic: community-review-table-01 -->
+[Una tabella di revisione per l'esempio locale: per ogni argomento, dall'esigenza reale a un passo successivo responsabile, una domanda da porsi e uno spazio facoltativo per i Suoi appunti.](/micrographics/community-review-table-01/it.md)
 
 
 Completi questa revisione individualmente, poi confronti il Suo ragionamento con il Suo team o la Sua coorte. Consideri l'esempio locale che ha studiato: quale bisogno reale affrontava, quale funzione del denaro era coinvolta, e il [valore](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) è stato trasferito on-chain, tramite Lightning o in entrambi i modi? Si chieda chi controllava le chiavi, quali erano il beneficio più forte e il rischio più serio, e in che modo la legge, le infrastrutture, la lingua o la cultura locali hanno influito sul risultato. Un passo successivo responsabile è quello che si adatta al contesto locale, rende chiari i costi e la [custodia](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), limita errori e truffe e può essere valutato sulla base di prove concrete.

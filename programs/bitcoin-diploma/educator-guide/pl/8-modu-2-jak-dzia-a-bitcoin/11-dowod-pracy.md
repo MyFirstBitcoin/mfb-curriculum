@@ -10,6 +10,7 @@ Proszę wyjaśniać zależności, a nie matematykę:
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Górnik wielokrotnie oblicza skrót proponowanego bloku, aż jeden z wyników będzie niższy od wartości docelowej sieci, a następnie rozsyła blok. Węzły szybko sprawdzają dowód i zgodność z każdą regułą, zanim blok dołączy do łańcucha bloków: wykonanie pracy jest kosztowne, a jej weryfikacja — łatwa.](/micrographics/proof-of-work-process-01/pl.md)
 
 
 Proszę unikać stwierdzeń, że [górnicy](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) rozwiązują użyteczne równania niezwiązane z Bitcoinem. Proszę unikać twierdzeń, że koszt energii jest z definicji uzasadniony lub że jej zużycie jest z definicji marnotrawstwem.

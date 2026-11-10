@@ -6,11 +6,13 @@ Amikor egy kereskedelmi bank jóváhagy egy hitelt, általában új betétet hoz
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[A banki hitelezés egyszerűsített folyamata: a hitelfelvevő hitelt igényel, a bank jóváhagyja a hitelt, és új betétet ír jóvá a hitelfelvevő számláján, majd a hitelfelvevő később visszafizeti a banknak a tőkét és a kamatot.](/micrographics/bank-loan-deposit-01/hu.md)
 
 
 A bankok általában [nyereségre](https://curriculum.myfirstbitcoin.org/lexicon/en/#bank-profit) törekednek: kamataik és díjbevételeik származnak a hitelekből és befektetésekből, miközben fedezik működési, forrásbevonási és szabályozási költségeiket, és viselik a veszteségeket, ha a hitelfelvevők nem fizetnek. Ezek a tevékenységek és korlátok bankonként és joghatóságonként eltérnek.
 
 
+<!-- card: definition -->
 > **Definition – Részleges tartalékolású bankrendszer**
 >
 > [A részleges tartalékolású bankrendszer](https://curriculum.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking) olyan banki működést jelent, amelyben a bankok a betéti kötelezettségeiknek csak egy részét tartják azonnal hozzáférhető tartalékként, miközben hiteleket nyújtanak és más [eszközöket tartanak](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset). Az előírt tartalékszint és az egyéb korlátok országonként eltérnek, és idővel változhatnak.
@@ -23,6 +25,7 @@ Ez két fontos kockázatot teremt:
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Likviditási kockázat: sok betétes áll sorban, hogy még ma kivegye a pénzét, és a banknak jelenleg nincs elég készpénze, bár az általa nyújtott hiteleket később még visszafizethetik. Fizetőképességi kockázat: a hitelfelvevők nem törlesztik a lakáshiteleiket, és a bank eszközei kevesebbet érnek, mint amennyivel tartozik.](/micrographics/liquidity-vs-solvency-01/hu.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)

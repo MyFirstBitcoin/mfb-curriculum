@@ -3,6 +3,7 @@
 Bitcoinin säännöt määrittävät ennustettavan [liikkeeseenlaskuaikataulun](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuance-schedule) ja [enimmäismäärän](https://curriculum.myfirstbitcoin.org/lexicon/en/#maximum-supply) eli 21 miljoonaa bitcoinia (21 000 000 BTC). Uusia bitcoineja tulee kiertoon [lohkotukena](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-subsidy), jota maksetaan [louhijoille](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner), jotka tuottavat kelvollisia lohkoja.
 
 
+<!-- card: definition -->
 > **Definition – Puolittuminen**
 >
 > Lohkotuki puolittuu 210 000 lohkon välein. Tätä tapahtumaa kutsutaan [puolittumiseksi](https://curriculum.myfirstbitcoin.org/lexicon/en/#halving). Koska lohkoja tuotetaan keskimäärin noin kymmenen minuutin välein, [puolittuminen](https://curriculum.myfirstbitcoin.org/lexicon/en/#halving) tapahtuu noin neljän vuoden välein. Tarkka kalenteripäivä ei ole ennalta määrätty.
@@ -22,12 +23,14 @@ Lohkotuki oli aluksi 50 BTC lohkoa kohden. Se puolittuu toistuvasti, kunnes se o
 
 
 <!-- micrographic: bitcoin-issuance-schedule-01 -->
+[Lohkotuki on aluksi 50 bitcoinia ja puolittuu 210 000 lohkon välein, kun taas liikkeeseen laskettujen bitcoinien kokonaismäärä kasvaa kohti 21 miljoonan enimmäismäärää. Siirtomaksut maksetaan tämän lisäksi, eivätkä ne ole uusia bitcoineja; kuvaus ei sisällä hintaennustetta.](/micrographics/bitcoin-issuance-schedule-01/fi.md)
 
 
 21 miljoonan rajan noudattamista valvovat [solmut](https://curriculum.myfirstbitcoin.org/lexicon/en/#node). Jos [louhija](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) luo enemmän bitcoineja kuin säännöt sallivat, [validointia tekevät solmut](https://curriculum.myfirstbitcoin.org/lexicon/en/#full-node) hylkäävät lohkon. Ohjelmistokehittäjä voi kirjoittaa erilaista koodia, mutta ei voi pakottaa muita käyttämään sitä.
 
 
-> **Dark – Kiinteä tarjonta on verkon sääntö, ei lupaus hinnasta**
+<!-- card: dark -->
+> **Kiinteä tarjonta on verkon sääntö, ei lupaus hinnasta**
 >
 > Bitcoinin tarjontaa koskeva sääntö on julkinen ja riippumattomasti todennettavissa, ja yksittäisen osapuolen on vaikea muuttaa sitä, koska [tapahtumia tarkistavat solmut](https://curriculum.myfirstbitcoin.org/lexicon/en/#full-node) valvovat sen noudattamista. Se ei ole luonnonlaki: se pysyy voimassa niin kauan kuin osallistujat valvovat sen noudattamista. Rajallinen tarjonta ei takaa nousevaa markkinoiden [hintaa](https://curriculum.myfirstbitcoin.org/lexicon/en/#price); [hinta](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) riippuu myös kysynnästä.
 >
@@ -37,8 +40,7 @@ Lohkotuki oli aluksi 50 BTC lohkoa kohden. Se puolittuu toistuvasti, kunnes se o
 **Pikakysymys:** Mitä etuja Bitcoinin rajallisesta tarjonnasta on? Miten Bitcoinin tarjonnan lisääminen vaikuttaisi [ostovoimaan](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power)? Ketkä torjuisivat tarjonnan lisäämisen?
 
 
-> **Light**
->
+<!-- card: light -->
 > Rajallinen tarjonta ei myöskään tarkoita, että jokainen bitcoin olisi myytävänä; joitakin saatetaan pitää hallussa pitkään, ja toisiin voidaan menettää pääsy avainten katoamisen vuoksi.
 
 

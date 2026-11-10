@@ -4,6 +4,7 @@ Sustokite ir apsvarstykite, kaip viešos taisyklės, ribota emisija, tiesioginis
 
 
 <!-- micrographic: bitcoin-responses-tradeoffs-01 -->
+[Lentelė, kurioje penki galimi šiuolaikinių pinigų sistemų trūkumai susiejami su „Bitcoin“ atsaku ir kiekvieno atsako atnešama nauja atsakomybe arba kompromisu. „Bitcoin“ dalį pasitikėjimo institucijomis pakeičia tikrinimu ir asmenine atsakomybe, tačiau rizikos nepašalina.](/micrographics/bitcoin-responses-tradeoffs-01/lt.md)
 
 
 **Pagrindinė mintis:** Remdamiesi tuo, ką šiame modulyje sužinojote apie Bitkoiną, ar jis turi [vertės](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) jums? Ar dabartinė [kaina](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) už bitkoiną atspindi jo [vertę](https://curriculum.myfirstbitcoin.org/lexicon/en/#value)?

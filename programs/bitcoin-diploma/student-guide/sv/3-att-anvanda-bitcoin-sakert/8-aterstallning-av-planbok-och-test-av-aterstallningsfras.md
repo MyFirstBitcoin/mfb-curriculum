@@ -8,6 +8,7 @@ En säker övning i återställningsberedskap är enkel:
 
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[En övning i sex steg för att återställa en övningsplånbok: följ de officiella instruktionerna, kontrollera kompatibiliteten, arbeta ostört, använd den godkända återställningsmetoden, bekräfta att det är den förväntade plånboken och återställ sedan övningsmiljön. Använd endast förberett, tomt eller simulerat material. Utbildaren får aldrig se återställningsorden.](/micrographics/practice-wallet-recovery-01/sv.md)
 
 
 Använd inte en övningsplånbok eller dess återställningsinformation för att förvara betydande belopp efter diplomutbildningen. En personlig plånbok, om Ni väljer att skapa en senare, behöver konfigureras på nytt i enrum och ha ny återställningsinformation.

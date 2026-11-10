@@ -14,3 +14,4 @@ Thay đổi một điều kiện sau câu trả lời đầu tiên. Ví dụ: m�
 
 
 <!-- micrographic: scenario-analysis-path-01 -->
+[Một tình huống giả định đi từ mục tiêu của nhân vật và các dữ kiện đã được xác minh đến việc ai nắm quyền kiểm soát, các lựa chọn, những điều có thể gặp trục trặc và bước tiếp theo nhỏ nhất mà vẫn an toàn. Khi một điều kiện thay đổi, quá trình suy luận quay lại quyết định chịu ảnh hưởng của thay đổi đó.](/micrographics/scenario-analysis-path-01/vi.md)

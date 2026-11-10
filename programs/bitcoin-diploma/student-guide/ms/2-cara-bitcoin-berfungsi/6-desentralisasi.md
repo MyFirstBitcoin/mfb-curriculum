@@ -3,6 +3,7 @@
 Sebuah [sistem berpusat](https://curriculum.myfirstbitcoin.org/lexicon/en/#centralized-system) mempunyai satu pusat kawalan. Sebuah bank mengawal [lejar](https://curriculum.myfirstbitcoin.org/lexicon/en/#ledger) pelanggannya. Sebuah syarikat pembayaran mengawal rangkaiannya. Sebuah kerajaan mengawal peraturan pengeluaran [mata wang](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency)nya.
 
 
+<!-- card: definition -->
 > **Definition – Pendesentralisasian**
 >
 > Sebuah [sistem terdesentralisasi](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralized-system) mengagihkan peranan dan penguatkuasaan keputusan antara ramai peserta bebas. Bitcoin tidak mempunyai pejabat pusat yang boleh mencipta akaun, mengubah baki atau meluluskan keahlian.
@@ -22,6 +23,7 @@ Bitcoin mempunyai [pendesentralisasian](https://curriculum.myfirstbitcoin.org/le
 
 
 <!-- micrographic: powers-and-limits-01 -->
+[Pengguna, nod, pelombong, pembangun dan perkhidmatan masing-masing mempunyai kuasa tertentu berkaitan peraturan bersama dan lejar awam Bitcoin, tetapi tiada satu pun boleh mengubah lejar atau peraturan untuk semua orang secara bersendirian.](/micrographics/powers-and-limits-01/ms.md)
 
 
 [Pendesentralisasian](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) juga menimbulkan kos. Penyelarasan boleh menjadi lebih perlahan. Pengguna mesti mengesahkan maklumat dan memikul tanggungjawab yang lebih besar. Tiada pusat sokongan untuk [rangkaian Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). Segala [tolak ansur](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) ini merupakan sebahagian daripada reka bentuk, bukannya kecacatan tidak disengajakan yang boleh dihapuskan tanpa mengubah sistem.

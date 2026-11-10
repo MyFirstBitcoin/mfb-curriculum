@@ -12,6 +12,7 @@ Xây dựng một dòng thời gian nhiều lớp hoặc đan xen thay vì một
 
 
 <!-- micrographic: forms-of-money-01 -->
+[Sáu hình thức tiền tệ xuất hiện từ trái sang phải theo thứ tự ra đời: trao đổi trực tiếp, tiền hàng hóa, tiền xu tiêu chuẩn hóa, tiền giấy đại diện, tiền do ngân hàng và chính phủ phát hành, và tiền kỹ thuật số. Mỗi hình thức mới xuất hiện muộn hơn trong khi các hình thức cũ vẫn tiếp tục tồn tại song song, vì vậy nhiều hình thức cùng tồn tại thay vì hình thức này thay thế hình thức khác.](/micrographics/forms-of-money-01/vi.md)
 
 
 Mời bổ sung các ví dụ địa phương. Đặt câu hỏi về những hình thức từng cùng tồn tại thay vì mặc định rằng hình thức này đã thay thế hoàn toàn hình thức khác.

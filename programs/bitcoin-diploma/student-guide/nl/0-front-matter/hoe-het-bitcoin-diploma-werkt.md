@@ -22,6 +22,7 @@ Elke module volgt hetzelfde ritme:
 
 
 <!-- micrographic: learning-rhythm-strip-01 -->
+[Een leerritme in vijf stappen: leer een kernidee, laat zien wat u kunt uitleggen of toepassen, pas het idee toe, leg het uit in uw eigen woorden en bekijk opnieuw hoe het aansluit op de volgende module.](/micrographics/learning-rhythm-strip-01/nl.md)
 
 
 U leert meer door deel te nemen dan door stil te lezen. Op sommige vragen bestaat niet één juist antwoord. Waar het om gaat, is of u uw redenering kunt uitleggen, bewijs kunt onderzoeken en uw standpunt kunt bijstellen wanneer u iets nieuws leert.
@@ -81,7 +82,8 @@ Wanneer het tijd is om te oefenen met een [Bitcoin Wallet](https://curriculum.my
 ### Veiligheid, verantwoordelijkheid en geen financieel advies
 
 
-> **Callout – Eerst leren; dit is geen aanbeveling**
+<!-- card: callout -->
+> **Eerst leren; dit is geen aanbeveling**
 >
 > Het Bitcoin Diploma is uitsluitend bedoeld voor educatieve doeleinden. Het biedt geen financieel, beleggings-, juridisch of fiscaal advies. Het belooft niet dat bitcoin in [prijs](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) zal stijgen en raadt u niet aan om welke hoeveelheid bitcoin dan ook te kopen, te verkopen, als onderpand voor een lening te gebruiken of aan te houden.
 >
@@ -104,6 +106,7 @@ Het Diploma bestaat uit een leertraject in vier fasen: **Probleem → Oplossing 
 
 
 <!-- micrographic: learning-path-roadmap-01 -->
+[Een stappenplan in vier fasen: Probleem, Geld begrijpen; Oplossing, Hoe Bitcoin werkt; Actie, Bitcoin veilig gebruiken; en Verbinden, Bitcoin in uw gemeenschap, elk met een eigen leidende vraag.](/micrographics/learning-path-roadmap-01/nl.md)
 
 
 **Module 4** is een verplicht onderdeel van het Diploma en wordt samengesteld door de docent. Docenten zijn de vakinhoudelijke experts als het gaat om de lokale beperkingen, oplossingen, hulpmiddelen, bronnen, wetgeving, taal, infrastructuur en behoeften van hun studenten. De door de docent samengestelde ervaring in de fase Verbinden kan onder meer verdienen, sparen, ontvangen, uitgeven, [Layer 2](https://curriculum.myfirstbitcoin.org/lexicon/en/#layer-2)-oplossingen, lokale wisselmogelijkheden, handelaren of circulaire economieën omvatten.
@@ -118,6 +121,7 @@ De vier modules vormen het vereiste leertraject Probleem → Oplossing → Actie
 
 
 <!-- micrographic: four-module-table-01 -->
+[Een tabel met de vier modules, elk met de bijbehorende rol, leidende vraag en wat de cursist gaat oefenen: Geld begrijpen, Hoe Bitcoin werkt, Bitcoin veilig gebruiken en Bitcoin in uw gemeenschap.](/micrographics/four-module-table-01/nl.md)
 
 
 Het Diploma duurt minimaal acht uur. Vier sessies van twee uur vormen de kortst geplande opzet, geen tijdslimiet. Uw docent kan een module over meer sessies verdelen, op een eerder besproken idee terugkomen of de volgorde van afzonderlijke onderdelen wijzigen wanneer uw groep meer tijd nodig heeft voor discussie, oefening, herhaling of toetsing. Er is geen maximale duur: de docent blijft ervoor verantwoordelijk dat deelnemers de tijd krijgen die zij nodig hebben, dat alle vereiste competenties aan bod komen en dat de verbanden tussen de modules duidelijk worden.

@@ -13,6 +13,5 @@ Viešosios „Bitcoin“ taisyklės, [lygiaverčių dalyvių tinklas](https://cu
 [Savarankiškas saugojimas](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) todėl nėra vien techninė funkcija. Tam reikia apsaugoti atsargines kopijas, tikrinti adresus, stebėti, kaip veikia piniginė, ir parengti atkūrimo planą. Kitame modulyje paaiškinama, kaip atsargiai laikyti ir naudoti bitkoinus, taip pat kaip valdyti šią riziką ir vykdyti su tuo susijusias pareigas.
 
 
-> **Light**
->
+<!-- card: light -->
 > Asmeninė atsakomybė nereiškia, kad reikia veikti vieniems ar atsisakyti pagalbos. Atsargus besimokantis žmogus gali mokytis, pasitelkti kitų dalyvių atliekamą patikrą, vadovautis dokumentuotomis procedūromis ir atlikti nedidelės apimties bandymus, niekam nesuteikdamas prieigos prie slaptos informacijos.

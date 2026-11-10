@@ -1,10 +1,12 @@
 # 4.13 Opakování: Propojte toto téma se svou komunitou
 
 <!-- micrographic: community-review-path-01 -->
+[Postup hodnocení místního příkladu využití Bitcoinu: začněte skutečnou potřebou, ověřte vhodnost Bitcoinu, poté posuďte způsob platby, úschovu, celkové náklady, bezpečnost a místní podmínky a zakončete důkazy úspěchu.](/micrographics/community-review-path-01/cs.md)
 
 
 
 <!-- micrographic: community-review-table-01 -->
+[Tabulka pro zhodnocení místního příkladu: pro každé téma, od skutečné potřeby po odpovědný další krok, obsahuje otázku k zamyšlení a nepovinný prostor pro vaše vlastní poznámky.](/micrographics/community-review-table-01/cs.md)
 
 
 Toto opakování vypracujte samostatně a poté porovnejte své úvahy se svým týmem nebo studijní skupinou. Zamyslete se nad místním příkladem, který jste studovali: jakou skutečnou potřebu řešil, o jakou funkci peněz šlo a byla [hodnota](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) převáděna přímo na blockchainu, prostřednictvím sítě Lightning, nebo oběma způsoby? Ptejte se, kdo měl kontrolu nad klíči, co bylo největším přínosem a nejzávažnějším rizikem a jak výsledek ovlivnily místní zákony, infrastruktura, jazyk či kultura. Odpovědný další krok je takový, který odpovídá místnímu kontextu, objasňuje náklady a [správu prostředků](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), omezuje chyby a podvody a lze jej vyhodnotit na základě důkazů.

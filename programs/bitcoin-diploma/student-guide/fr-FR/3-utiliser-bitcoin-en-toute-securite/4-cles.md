@@ -3,6 +3,7 @@
 La propriété des bitcoins est garantie par des clés cryptographiques.
 
 
+<!-- card: definition -->
 > **Definition – Clé privée**
 >
 > Une [clé privée](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) est une information secrète qui permet à un portefeuille de créer des [signatures numériques](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) valides. Une signature autorise la dépense des bitcoins contrôlés par la clé correspondante. Toute personne qui obtient la [clé privée](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) peut généralement dépenser ces fonds.
@@ -21,10 +22,10 @@ La plupart des portefeuilles destinés aux débutants utilisent la [signature un
 Aucun formateur, fournisseur de portefeuille, employé de plateforme d’échange, technicien d’assistance ou développeur Bitcoin légitime n’a besoin de votre [clé privée](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) ou de votre [phrase de récupération](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase). Toute personne qui vous les demande doit être considérée comme une menace.
 
 
-> **Light**
->
+<!-- card: light -->
 > **À vous de jouer :** Classez les exemples préparés en trois groupes : les informations que vous pouvez partager sans risque pour recevoir des bitcoins, les informations secrètes permettant de les dépenser et les informations qui peuvent être publiques, mais doivent tout de même rester privées lorsqu’elles sont liées à une personne.
 
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[Une clé privée secrète, qui ne doit jamais être partagée, permet de produire des informations publiques qui peuvent être partagées : une clé publique qui en est dérivée et une adresse de réception créée à partir de celle-ci. Cette même clé privée crée des signatures que les nœuds vérifient sans jamais connaître la clé privée.](/micrographics/private-key-public-info-01/fr-FR.md)

@@ -14,6 +14,7 @@ Useful money also tends to have several properties:
 
 
 <!-- micrographic: money-property-questions-01 -->
+[Seven properties of useful money, each with a question to ask when comparing forms of money: durability, portability, divisibility, fungibility, scarcity, acceptability and verifiability.](/micrographics/money-property-questions-01/en.md)
 
 
 No form of money scores perfectly.
@@ -22,6 +23,7 @@ People also compare money by its [**soundness**](https://curriculum.myfirstbitco
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Two layers: the three functions of money (medium of exchange, unit of account, store of value) rest on seven properties (durability, portability, divisibility, fungibility, scarcity, acceptability and verifiability).](/micrographics/functions-and-properties-01/en.md)
 
 
 [Gold](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) is durable and scarce but difficult to divide and transport for small payments. [Paper cash](https://curriculum.myfirstbitcoin.org/lexicon/en/#paper-cash) is portable and accepted locally, but it can be damaged and its supply can expand. The best comparison depends on the purpose, place, and time.

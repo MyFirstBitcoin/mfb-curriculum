@@ -5,6 +5,7 @@ Setiap orang mempunyai kemahiran, sumber, keperluan dan rancangan yang berbeza. 
 Pertukaran langsung selalunya sukar. Orang yang mempunyai apa yang anda perlukan mungkin tidak menginginkan apa yang anda tawarkan. Wang menyelesaikan masalah penyelarasan ini.
 
 
+<!-- card: definition -->
 > **Definition – Wang**
 >
 > Wang ialah [aset](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) yang diterima oleh orang ramai kerana mereka menjangkakan orang lain akan menerimanya kemudian. Wang membantu orang yang tidak saling mengenali menyelaraskan pertukaran, merekodkan [harga](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) dan [hutang](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt), serta memindahkan [nilai](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) merentas masa dan jarak.

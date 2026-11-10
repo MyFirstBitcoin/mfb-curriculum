@@ -6,11 +6,13 @@ Khi một ngân hàng thương mại phê duyệt khoản vay, ngân hàng thư�
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Quy trình cho vay ngân hàng được đơn giản hóa: người vay đăng ký vay, ngân hàng phê duyệt khoản vay và ghi có một khoản tiền gửi mới vào tài khoản của người vay, sau đó người vay hoàn trả cho ngân hàng cả tiền gốc lẫn tiền lãi.](/micrographics/bank-loan-deposit-01/vi.md)
 
 
 Các ngân hàng thường tìm kiếm [lợi nhuận](https://curriculum.myfirstbitcoin.org/lexicon/en/#bank-profit) bằng cách thu lãi và phí từ các khoản cho vay và đầu tư, đồng thời chi trả chi phí hoạt động, huy động vốn và tuân thủ quy định, cũng như gánh chịu tổn thất khi người vay không hoàn trả. Những hoạt động và ràng buộc này khác nhau tùy theo ngân hàng và khu vực pháp lý.
 
 
+<!-- card: definition -->
 > **Definition – Ngân hàng dự trữ một phần**
 >
 > [Ngân hàng dự trữ một phần](https://curriculum.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking) mô tả hình thức hoạt động ngân hàng trong đó các ngân hàng chỉ giữ một phần nghĩa vụ tiền gửi dưới dạng dự trữ có thể sử dụng ngay, đồng thời cho vay và nắm giữ các [tài sản](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) khác. Mức dự trữ bắt buộc và các giới hạn khác khác nhau giữa các quốc gia và có thể thay đổi theo thời gian.
@@ -23,6 +25,7 @@ Các ngân hàng thường tìm kiếm [lợi nhuận](https://curriculum.myfirs
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Rủi ro thanh khoản: nhiều người gửi tiền xếp hàng rút tiền hôm nay, và ngân hàng hiện không có đủ tiền mặt dù các khoản cho vay của ngân hàng có thể được hoàn trả sau này. Rủi ro mất khả năng thanh toán: người vay không trả được nợ vay mua nhà, và giá trị tài sản của ngân hàng trở nên thấp hơn số tiền ngân hàng đang nợ.](/micrographics/liquidity-vs-solvency-01/vi.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)

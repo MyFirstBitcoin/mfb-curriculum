@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[Gavėjas savo telefone sukuria „Lightning“ tinklo mokėjimo prašymą su nurodyta suma, siuntėjas jį nuskenuoja ir sumoka, o po akimirkos mokėjimas gaunamas gavėjo telefone.](/micrographics/lightning-phone-payment-01/lt.md)
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[„Lightning“ mokėjimas šešiais žingsniais: gavėjas sukuria užklausą, siuntėjas ją nuskaito, patikrina gavėją, sumą, vienetą, galiojimo laiką ir mokestį, patvirtina mokėjimą, šis nukreipiamas tinklu, o abi piniginės parodo rezultatą. Kiekviena piniginė gali būti valdoma saugotojo arba savarankiškai, o jei mokėjimas nepavyksta arba baigiasi galiojimo laikas, procesas pradedamas iš naujo sukuriant naują užklausą.](/micrographics/lightning-payment-sequence-01/lt.md)
 
 
 Naudojant „Lightning“, greiti ir nedideli Bitcoin mokėjimai gali tapti praktiški. Šis tinklas gali tikti atsiskaitymams prekybos vietoje, pasikartojantiems vietiniams mokėjimams, internetinėms paslaugoms ar pervedimams, kai mokestis už operaciją blokų grandinėje būtų per didelis, palyginti su mokėjimo suma.

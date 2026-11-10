@@ -13,10 +13,12 @@ Controleer en leg vóór een Lightning-workshop het volgende uit:
 * de offlinesimulatie.
 
 
-> **Dark – Eén geslaagde Lightning-betaling bewijst alleen dat deze route één keer heeft gewerkt**
+<!-- card: dark -->
+> **Eén geslaagde Lightning-betaling bewijst alleen dat deze route één keer heeft gewerkt**
 >
 > Het bewijst niet dat de wallet veilig is voor grotere saldi of dat hetzelfde pad overal zal werken.
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Een Lightning-betaling in zes stappen: de ontvanger maakt een verzoek aan, de verzender scant het, controleert ontvanger, bedrag, eenheid, vervaltijd en kosten, en keurt het goed, de betaling wordt gerouteerd en beide Wallets tonen het resultaat. Elke Wallet kan custodial of self-custodial zijn, en een mislukte of verlopen betaling begint opnieuw met een nieuw verzoek.](/micrographics/lightning-payment-sequence-01/nl.md)

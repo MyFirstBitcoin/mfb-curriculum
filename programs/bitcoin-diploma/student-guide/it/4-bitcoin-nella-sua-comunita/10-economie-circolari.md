@@ -4,6 +4,7 @@ Un'[**economia circolare Bitcoin**](https://curriculum.myfirstbitcoin.org/lexico
 
 
 <!-- micrographic: local-circular-economy-01 -->
+[In un'economia circolare basata su Bitcoin, i bitcoin passano da persona a persona in cambio di beni, servizi e tempo. Un cliente paga un commerciante, il commerciante paga un fornitore di servizi, il fornitore di servizi paga un lavoratore e il lavoratore li spende di nuovo come cliente.](/micrographics/local-circular-economy-01/it.md)
 
 
 My First Bitcoin sostiene le [economie circolari Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-circular-economy), e molte di esse fanno parte della Bitcoin Education Network. Esplori queste comunità sulla [Network Dashboard](https://network.myfirstbitcoin.org/?min10merchants=1).

@@ -17,3 +17,4 @@ Không một nhà giáo dục, công ty cung cấp ví, nhân viên sàn giao d�
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[Một khóa riêng tư bí mật, tuyệt đối không được chia sẻ, được dùng để tạo ra thông tin công khai có thể chia sẻ: một khóa công khai được suy ra từ khóa riêng tư đó và một địa chỉ nhận được tạo từ khóa công khai. Chính khóa riêng tư đó tạo ra các chữ ký mà các nút xác minh được mà không bao giờ biết khóa riêng tư.](/micrographics/private-key-public-info-01/vi.md)

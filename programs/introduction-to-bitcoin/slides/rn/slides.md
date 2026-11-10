@@ -40,7 +40,8 @@ Si ukuyikorera, si ukuyikoresha mu kugura, ahubwo ni ukwiyumvira ico ari co n'in
 * Amahera yanyu arashobora kugura ibintu bingana n'ivyo yagura mbere?
 
 
-> **Callout – Nimubike inyishu zanyu**
+<!-- card: callout -->
+> **Nimubike inyishu zanyu**
 >
 > Nimwandike inyishu ngufi kuri buri kibazo. Muzosubira kuri izo nyishu mu mpera.
 
@@ -85,6 +86,7 @@ Abo bantu bompi bategerezwa kuba bashaka ivyo uwundi afise, mu gihe kimwe kandi 
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina afise umuceri kandi ashaka ibirato, Luis afise ibirato kandi ashaka amavuta yo guteka, Mei na we afise amavuta yo guteka kandi ashaka gusanurirwa. Nta babiri muri bo bashobora guhanahana ivyo bafise ata wundi aciyemwo, kuko ata n'umwe muri abo babiri ashaka ico uwundi atanga.](/micrographics/barter-mismatch-01/rn.md)
 
 <!-- notes: Nimukoreshe akarorero kari mu gitabu c’ubuyobozi: murima umuceri kandi mukeneye ibirato, ariko uwukora ibirato ashaka amavuta yo guteka, ntashaka umuceri. Abahinga mu vy’ubutunzi ivyo bavyita uguhurirana kw’ivyo abantu bipfuza ku mpande zompi. -->
 
@@ -151,6 +153,7 @@ Iyo abantu bumvise ijambo ugutakaza agaciro kw'amahera, akenshi baca biyumvira i
 ## Iduga ry’ibiciro n’ubushobozi bwo kugura
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Ivyo bice 100 vy'amahera birashobora kugura ibiri mu giseke c'ibintu vya nkenerwa vyose iyo kigura 100, ariko ntibishobora kubigura vyose iyo ico giseke nyene kigura 110. Urugero rw'ibiciro rwaduze, ubushobozi bwo kugura bw'ayo mahera na bwo buragabanuka.](/micrographics/same-money-smaller-basket-01/rn.md)
 
 <!-- notes: Iduga ry’ibiciro ni ukwiyongera kubandanya kw’urugero rusangi rw’ibiciro. Urundi ruhande rwaryo ni ubushobozi bwo kugura: ivyo igipimo kimwe c’amahera gishobora kugura. Iyo ikiguzi c’igiseke c’ibintu vy’ishimikiro kiduze kiva ku bipimo 100 vy’amahera kikaja kuri 110, vya bipimo 100 nyene ntibiba bigishobora kugura ico giseke cose. -->
 
@@ -213,8 +216,7 @@ Amafaranga mufise kuri konti muri banki aratandukanye n'amafaranga mufise mu nto
 * Ariko igitigiri c'amahera n'amategeko ayagenga birashobora guhinduka, kandi abayakoresha nta jambo rinini babifisemwo
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Ni co gituma abantu barondera ubundi buryo, kandi ni co catumye Bitcoin iremwa.
 
 ---
@@ -233,6 +235,7 @@ Amafaranga yo mu buhinga bwa none atagenzurwa n’urwego rumwe, afise igitigiri 
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Iyo hakoreshejwe ishirahamwe ritunganya ivy'ukwishurana, ishirahamwe rimwe ni ryo ribika igitabu c'ivyanditswe kandi rikemeza iyunguruzwa ryose ry'amahera. Iyo hakoreshejwe Bitcoin, uwurungika ashira umukono ku gikorwa co kurungika amahera, amapfundo y'umuhora yigenga akagisuzuma, abacukura na bo bakacongera mu gitabu kimwe c'ivyanditswe gisangiwe, bigatuma uwuronka atisunga cane ubutegetsi bumwe bukuru.](/micrographics/central-ledger-vs-bitcoin-01/rn.md)
 
 <!-- notes: Imbere y’uko Bitcoin ibaho, kurungika amafaranga kuri internet vyama bisaba kwizigira ikigo: ibanki canke ishirahamwe ryo kwishurana ryabika igitabu c’amakonte, rikemeza amakonte, kandi ryashobora guteba, guhagarika canke gusubiza inyuma ukwishura. Amakuru yo mu buhinga bwa none aroroshe gukoporora: iyo igiceri co mu buhinga bwa none gishobora gukoreshwa mu kwishura incuro zibiri, nticoshoboye gukora nk’amafaranga. Iyo ni yo ngorane yo gukoresha amafaranga amwe incuro zibiri. Satoshi Nakamoto ni umuntu canke umugwi ukoresha iryo zina. -->
 
@@ -253,6 +256,7 @@ Nta shirahamwe rishobora guhagarika ikoreshwa rya bitcoin mwigenzurira ubwanyu. 
 ## Urugero ntarengwa umuntu wese ashobora kugenzura
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Igitigiri ntarengwa c'amahera canditswe ku rubuga canke mu bubiko bw'amakuru bw'uwuyasohora kirashobora guhindurwa na we ata wubimenye. Itegeko ry'igitigiri c'amahera ya Bitcoin rirabonwa na bose, kandi imikono yo mu buhinga bwa none, kahise kabonwa na bose, icemezo c'igikorwa n'igenzura rikorwa n'ama node birakorana mu kubuza ko amahera mashasha aremwa ata tegeko rikurikijwe canke ko bitcoin imwe ikoreshwa incuro zibiri.](/micrographics/claimed-or-verified-supply-01/rn.md)
 
 <!-- notes: bitcoin nshasha zirekurwa hakurikijwe ingengabihe izwi na bose, kandi inyabwonko zigenga zitwa amapfundo ziranka ibarabara ryose ridakurikiza iryo tegeko. Ico gitigiri ntarengwa kirizigirwa kuko uwo ari we wese ashobora kugisuzuma. Si itegeko ry’ivyaremwe: riguma ryubahirizwa kuko abari muri uwo muhora babandanya kurishira mu ngiro. Kuba igitigiri ca bitcoin gifise aho kigarukira ntivyemeza ko igiciro kizoduga; igiciro kivana n’ubwinshi bw’izikenewe hamwe n’ubwinshi bw’izitangwa. -->
 
@@ -264,6 +268,7 @@ bitcoin imwe igaburamwo uduce dutoduto 100 000 000 twitwa satoshis, canke sats.
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Imbonerahamwe y’inkingi zibiri: 1 BTC ingana na 100.000.000 sats, 0,1 BTC ingana na 10.000.000 sats, 0,01 BTC ingana na 1.000.000 sats, 0,001 BTC ingana na 100.000 sats, na 0,00000001 BTC ingana na 1 sat.](/micrographics/bitcoin-and-sats-01/rn.md)
 
 <!-- notes: Gutunga 100 000 sats no gutunga 0,001 bitcoin bisigura urugero rumwe rw’amahera. Nimukosore iciyumviro kitari co c’uko Bitcoin idashobora kugurwa kubera ko bitcoin imwe izimvye. -->
 
@@ -272,6 +277,7 @@ bitcoin imwe igaburamwo uduce dutoduto 100 000 000 twitwa satoshis, canke sats.
 ## Ni nde atuma Bitcoin ibandanya gukora?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Amabanga ane muri Bitcoin: abakoresha barakira, bakabika kandi bakarungika bitcoin, amahuriro arigenzurira ko amategeko yubahirijwe, abacukuzi bategura ibice vy'amakuru bishobora kwemerwa bakoresheje icemezo c'igikorwa, abahinguzi ba porogarama na bo bagatanga ivyiyumviro vya porogarama. Nta na rimwe muri ayo mabanga ryihariza ububasha bwo kugenzura umuhora.](/micrographics/bitcoin-participant-roles-01/rn.md)
 
 <!-- notes: Abakoresha bararungika, bakakira kandi bakabika bitcoin; ibikoresho bihurikiye ku rubuga birasuzuma ko irungikwa ryose n’igice cose c’amakuru vyubahiriza amategeko; abacukuzi barahiganwa kugira bongere igice gishasha c’amakuru ku rutonde rw’ivyanditswe, hafi buri minota cumi. Urwo rutonde, ari rwo ruhererekane rw’ibice vy’amakuru rwitwa blockchain, rurashobora kubonwa na bose kandi kurusubira kwandika bisaba uburyo bwinshi cane. Icitonderwa ku nyandiko: Bitcoin itangurwa na B nkuru akenshi isobanura urubuga canke uburyo bukora; bitcoin itangurwa na b ntoya isobanura amahera ubwayo. -->
 
@@ -307,6 +313,7 @@ Ikibazo ca mbere ku bijanye n’agasakoshi ako ari ko kose: ni nde agenzura impf
 ## Ikofi icungera imfunguruzo
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Ikotomoni ibika impfunguruzo. Muzikoresheje, murashobora kwakira no kurungika bitcoin, mu gihe bitcoin ubwayo iguma yanditswe mu gitabu c'ivyanditswe gisangiwe, atari muri telefone canke mu gikoresho.](/micrographics/wallet-manages-keys-01/rn.md)
 
 <!-- notes: Agasakoshi ka Bitcoin ni igikoresho, akenshi kikaba ari porogarama, kibafasha kwakira, kugenzura no kurungika bitcoin. Bitcoin zanyu ntizibikwa muri telefone yanyu: zandikwa kuri blockchain. Ako gasakoshi gacungera imfunguruzo zibafasha kwemeza ko izo bitcoin ari izanyu no gutanga uruhusha rwo kuriha. -->
 
@@ -331,6 +338,7 @@ Urutonde rw'amajambo ashizwe ku murongo, akenshi aba 12 canke 24, rushobora guko
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Urukurikirane rw'amajambo yo kugarukana ikotomoni ni urutonde rw'amajambo atondetswe mu buryo bukwiye; hano hari amajambo cumi n'abiri y'akarorero, afise inomero kandi yanditswe ku rupapuro. Amajambo nyayo atondetswe mu buryo bukwiye arashobora gutuma mwongera kugenzura ikotomoni iyemera, ni co gituma urwo rukurikirane rugumizwa mw'ibanga kandi rukabikwa ahatari kuri interineti.](/micrographics/seed-phrase-on-paper-01/rn.md)
 
 <!-- notes: Urukurikirane rw’amajambo yo gusubizaho isakoshi si uburyo bwo kuyigarukana gusa: rutanga uburenganzira bwose bwo kuyikoresha. Mwandike ayo majambo neza ku rupapuro igihe murema isakoshi; muyabike ahatari kuri internet, mw’ibanga, kandi ahantu atazotakara canke ngo yononekare. Ntimukigere muyafotora, muyarungika kuri imeyili, muyabika mu nyandiko zo mu bubiko bwo kuri internet, muyarungika mu butumwa, canke muyandika ku rubuga rwa internet. Amajambo yerekanwa ni akarorero gusa; ntimukigere mwerekana canke mukusanya urukurikirane rw’amajambo yo gusubizaho isakoshi ikoreshwa vy’ukuri. -->
 
@@ -365,6 +373,7 @@ Urutonde rw'amajambo ashizwe ku murongo, akenshi aba 12 canke 24, rushobora guko
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Ukwishurana ku ruhererekane rw'amakuru kwandikwa ata guca ku ruhande mu ruhererekane rw'amakuru rwa Bitcoin, mu gihe Lightning ari umuhora wo kwishurana wubakiye kuri Bitcoin, utuma kwishurana kenshi kandi ningoga bishoboka, naho bishobora kandi kutagenda neza. Muri izo nzira zompi, amahera ashobora gucungerwa n'uwundi muntu canke na nyene yo.](/micrographics/on-chain-and-lightning-01/rn.md)
 
 ---
 
@@ -375,7 +384,8 @@ Urutonde rw'amajambo ashizwe ku murongo, akenshi aba 12 canke 24, rushobora guko
 * **Ntimupfe kwizera, nimusuzume.** Nimusuzume uwo muntu, uburyo bwo kuriha, aderese n'igitigiri c'amahera.
 
 
-> **Callout – Nimutange amakuru yo kwakira amahera, ntimukigere mutanga amabanga**
+<!-- card: callout -->
+> **Nimutange amakuru yo kwakira amahera, ntimukigere mutanga amabanga**
 >
 > Aderese canke ubusabe bwo kuriha birashobora gutangwa. Amajambo yo kugarukana ikotomoni canke urufunguruzo rw'ibanga ntibitegerezwa kwigera bitangwa. Nta mwigisha wemewe, ishirahamwe ritanga amakotomoni canke umukozi ajejwe gufasha abakoresha azokwigera abibasaba.
 
@@ -389,6 +399,7 @@ Nimuhagarare nimba hari umuntu atuma ibintu bisa n’ivyihutirwa canke abasaba k
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Ibimenyetso bitanu biburira ku buhendanyi: guhutagiza, kwiyitirira uwundi, guhindura aho amahera arungikwa, kwizeza inyungu zidakekeranywa no gusaba amabanga.](/micrographics/scam-red-flags-01/rn.md)
 
 ---
 
@@ -408,7 +419,8 @@ Iyi ni intango gusa.
 * **Iyi ni intango gusa.** Intambwe imwe ikurikira itekanye irahagije.
 
 
-> **Callout – Akanya ko kuzirikana**
+<!-- card: callout -->
+> **Akanya ko kuzirikana**
 >
 > Nimusubire kuri vya bibazo bitanu vyo mu ntango. Ubu mwovyishura gute?
 

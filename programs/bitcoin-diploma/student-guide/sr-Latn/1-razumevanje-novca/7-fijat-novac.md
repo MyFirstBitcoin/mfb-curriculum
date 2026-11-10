@@ -1,5 +1,6 @@
 # 1.7 Fijat novac
 
+<!-- card: definition -->
 > **Definition – Fiat novac**
 >
 > [Fiat novac](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) je [valuta](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) koja se izdaje pod nadležnošću države, obično preko [centralne banke](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank), i koja se ne može zameniti za fiksnu količinu neke robe, kao što je [zlato](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold). Države podržavaju — a u nekim okolnostima i nameću — njegovu upotrebu tako što zahtevaju da se porezi plaćaju njime i utvrđuju pravila o zakonskom sredstvu plaćanja. Konkretna pravila za prihvatanje plaćanja i izmirivanje [dugova](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt) razlikuju se u zavisnosti od jurisdikcije.
@@ -11,12 +12,14 @@ Fiat sistem ima nekoliko glavnih učesnika:
 
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Učesnici u sistemu fiat novca i ono što razmenjuju: centralna banka utvrđuje monetarnu politiku i vrši poravnanja između banaka, poslovne banke drže depozite koji predstavljaju njihove obaveze prema klijentima, platni servisi prenose naloge, država prikuplja poreze i troši sredstva, a građani i preduzeća plaćaju i primaju uplate.](/micrographics/fiat-system-flows-01/sr-Latn.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
-> **Light – Ispitajte jedno plaćanje u svojoj zajednici**
+<!-- card: light -->
+> **Ispitajte jedno plaćanje u svojoj zajednici**
 >
 > Izaberite jedno uobičajeno plaćanje u svojoj zajednici, kao što je plaćanje prevoza, hrane ili dopune za telefon; primanje zarade; ili plaćanje računa. Ako želite, koristite realističan izmišljeni scenario. U tri ili četiri rečenice objasnite:
 >

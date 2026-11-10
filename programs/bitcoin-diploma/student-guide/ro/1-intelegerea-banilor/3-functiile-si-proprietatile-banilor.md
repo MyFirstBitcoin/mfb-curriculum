@@ -14,6 +14,7 @@ Banii utili tind, de asemenea, să aibă mai multe proprietăți:
 
 
 <!-- micrographic: money-property-questions-01 -->
+[Șapte proprietăți ale banilor utili, fiecare însoțită de o întrebare de pus la compararea formelor de bani: durabilitate, portabilitate, divizibilitate, fungibilitate, raritate, acceptabilitate și verificabilitate.](/micrographics/money-property-questions-01/ro.md)
 
 
 Nicio formă de bani nu obține un punctaj perfect.
@@ -22,6 +23,7 @@ Oamenii compară banii și în funcție de [**soliditatea lor**](https://curricu
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Două niveluri: cele trei funcții ale banilor (mijloc de schimb, unitate de cont, rezervă de valoare) se bazează pe șapte proprietăți (durabilitate, portabilitate, divizibilitate, fungibilitate, raritate, acceptabilitate și verificabilitate).](/micrographics/functions-and-properties-01/ro.md)
 
 
 [Aurul](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) este durabil și rar, dar greu de divizat și transportat pentru plăți mici. [Numerarul din hârtie](https://curriculum.myfirstbitcoin.org/lexicon/en/#paper-cash) este ușor de transportat și acceptat la nivel local, dar se poate deteriora, iar masa sa monetară poate crește. Cea mai potrivită comparație depinde de scop, loc și moment.

@@ -1,6 +1,7 @@
 # 10.4 Kreator modułów w siedmiu krokach
 
 <!-- micrographic: seven-step-module-builder-01 -->
+[Siedem etapów planowania prowadzi od lokalnego kontekstu i potrzeby do konkretnego, zweryfikowanego zadania, bezpiecznej sekwencji dydaktycznej, jasnej oceny i podsumowania. Istniejąca alternatywa pozostaje uwzględniona, a nieodpowiednia opcja oznacza powrót do planowania.](/micrographics/seven-step-module-builder-01/pl.md)
 
 
 #### 1. Proszę poznać lokalny kontekst

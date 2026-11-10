@@ -10,6 +10,7 @@ Použijte pětidílné schéma:
 
 
 <!-- micrographic: five-part-response-01 -->
+[Pět prvků společně řeší problém dvojího utracení: síť typu peer-to-peer, digitální podpisy, bloky a těžba, nezávislé ověřování a sdílená historie s největším množstvím nahromaděné práce doložené důkazem prací. Společně umožňují síti odmítnout opětovné utracení stejných prostředků bez centrální autority.](/micrographics/five-part-response-01/cs.md)
 
 
 Žádná jednotlivá součást nevytváří důvěryhodnou [vzácnost](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) Bitcoinu sama o sobě. Vyhněte se tvrzení „[blockchain](https://curriculum.myfirstbitcoin.org/lexicon/en/#blockchain) vše vyřeší.“

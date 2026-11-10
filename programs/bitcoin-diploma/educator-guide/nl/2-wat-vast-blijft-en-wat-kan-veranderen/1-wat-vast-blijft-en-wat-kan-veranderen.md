@@ -32,3 +32,4 @@ U mag niet:
 
 
 <!-- micrographic: fixed-adaptable-flexible-01 -->
+[Lokale voorbeelden en lesmethoden kunnen veranderen binnen vaste grenzen voor competenties, bewijs, veiligheid en afronding. Wijzigingen die de beoordeling raken, vereisen een goedgekeurde gelijkwaardige route die dezelfde handeling van de deelnemer en hetzelfde veiligheidsdoel behoudt.](/micrographics/fixed-adaptable-flexible-01/nl.md)

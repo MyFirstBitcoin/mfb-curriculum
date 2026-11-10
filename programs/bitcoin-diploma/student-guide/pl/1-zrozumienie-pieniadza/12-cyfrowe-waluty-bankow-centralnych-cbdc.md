@@ -1,5 +1,6 @@
 # 1.12 Cyfrowe waluty banków centralnych (CBDC)
 
+<!-- card: definition -->
 > **Definition – Cyfrowa waluta banku centralnego (CBDC)**
 >
 > Taka [cyfrowa waluta banku centralnego](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), czyli [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), to cyfrowa forma [pieniądza fiducjarnego](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) emitowana jako [zobowiązanie](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability) ze strony [banku centralnego](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank): jest to wierzytelność, którą [bank centralny](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) jest zobowiązany zaspokoić wobec jej posiadacza. Różni się ona od fizycznej gotówki i zwykłego depozytu w banku komercyjnym, choć korzystanie z niej może wyglądać podobnie.
@@ -13,6 +14,7 @@ Następnie proszę zapytać, na co pozwala dana konstrukcja. W zależności od z
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[Tabela porównująca gotówkę, depozyty bankowe, detaliczną CBDC i Bitcoin pod względem emitenta, formy, dostępu, widoczności płatności, zasad podaży i weryfikacji. Cyfrowy nie oznacza zdecentralizowany: CBDC nadal jest emitowana przez bank centralny, a dostęp do niej, widoczność płatności i weryfikacja zależą od sposobu jej zaprojektowania.](/micrographics/cbdc-comparison-table-01/pl.md)
 
 
 Cyfrowy charakter nie oznacza automatycznie decentralizacji, ograniczonej podaży, prywatności ani możliwości niezależnej weryfikacji. [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) może wykorzystywać technologię cyfrową, ale nadal pozostaje [pieniądzem fiducjarnym](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money), jeśli jej [emitent](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer), zasady podaży, zasady dostępu i uprawnienia do dokonywania płatności pozostają pod centralnym zarządem.

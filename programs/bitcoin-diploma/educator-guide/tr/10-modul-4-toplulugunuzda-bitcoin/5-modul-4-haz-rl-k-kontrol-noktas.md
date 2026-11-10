@@ -1,6 +1,7 @@
 # 10.5 Modül 4 hazırlık kontrol noktası
 
-> **Callout – Tüm kontroller başarıyla tamamlanmadan canlı bir Modül 4 etkinliği yürütmeyin**
+<!-- card: callout -->
+> **Tüm kontroller başarıyla tamamlanmadan canlı bir Modül 4 etkinliği yürütmeyin**
 >
 > Aşağıdaki kontrollerden biri yeterli değilse bir simülasyon, basılı bir akış veya farklı bir etkinlik kullanın. Güvenli olmayan ya da doğrulanmamış bir akışı, öğrencilerden daha fazla risk üstlenmelerini isteyerek telafi etmeye çalışmayın.
 
@@ -22,3 +23,4 @@ Gerekli tüm yanıtlar yeterli olmadan canlı bir modül yürütmeyin.
 
 
 <!-- micrographic: module-4-readiness-gate-01 -->
+[Sekiz kontrol; amacı, yetkinliği, eğitmen yeterliliğini, araçları, yerel kuralları, güvenliği, erişimi ve gözlemi kapsar. Canlı uygulama için her kontrolün olumlu sonuç vermesi gerekir; bir eksiklik, daha güvenli bir yola veya gözden geçirilmiş bir plana ve yeni bir hazırlık değerlendirmesine yol açar.](/micrographics/module-4-readiness-gate-01/tr.md)

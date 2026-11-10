@@ -8,6 +8,7 @@
 
 
 <!-- micrographic: presentation-practice-production-01 -->
+[Een praktische vaardigheid wordt in drie fasen aangeleerd, van links naar rechts: Presentatie, waarin de docent het proces en de risico's ervan laat zien, vervolgens Oefening, begeleid oefenen met veilig trainingsmateriaal, en daarna Productie, waarin de leerling zelfstandig een taak uitvoert of een beslissing toelicht.](/micrographics/presentation-practice-production-01/nl.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/3d2cf07203a6fd4017e7adbac198e73b190e99cf-1881x836.svg)

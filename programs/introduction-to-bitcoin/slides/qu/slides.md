@@ -40,7 +40,8 @@ Mana chayta ganaspachu, mana gastaspachu, aswanpas ima kasqanmanta, imayna llamk
 * Qullqiykiwanqa ñawpaqpi hina achkatachu rantiyta atinki?
 
 
-> **Callout – Kutichiyniykikunata waqaychay**
+<!-- card: callout -->
+> **Kutichiyniykikunata waqaychay**
 >
 > Sapa tapukuyman huk pisi kutichiyta qillqay. Tukukuypi chaykunaman kutimunki.
 
@@ -85,6 +86,7 @@ Iskaynin runakunaqa hukninpa kaqninta munananku tiyan, kikin pachallapi hinallat
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Aminaqa arusniyuqmi, sapatukunatataq munan; Luisqa sapatukunayuqmi, mikhuy yanunapaq wiratataq munan; Meiqa mikhuy yanunapaq wirayuqmi, allichay llamk'aytataq munan. Manam mayqin iskaypas chiqanmanta chhalanakuyta atinkuchu, sapa iskaymanta mayqinninpas hukninpa haywasqanta mana munasqanrayku.](/micrographics/barter-mismatch-01/qu.md)
 
 <!-- notes: Pusaq qillqap qhawarichisqanta llamk'achiychik: arrusta tarpuychik, sapatukunatañataq munankichik, ichaqa sapatu ruwaqqa yanukunapaq wirata munan, manam arrustachu. Qullqi yachaymanta yachaqkunaqa kayta «munasqakunap iskay kuti tinkuynin» nispa sutichanku. -->
 
@@ -151,6 +153,7 @@ Runakuna «qullqip chanin pisiyaynin» nisqa simita uyarispa, aswanqa chaninkuna
 ## Chaninkunap wichariynin hinaspa rantiy atiy
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Chay kikin 100 qullqi tupukunawanqa sapa p'unchawpaq munasqa imakunawan hunt'a isankata rantiyta atinki, chanin 100 kaptin, ichaqa manan chay kikin isankapa chanin 110 kaptinqa. Chaninkunapa sayaynin wicharisqa, qullqipa rantiy atiynintaq uraykusqa.](/micrographics/same-money-smaller-basket-01/qu.md)
 
 <!-- notes: Chaninkunap mirayninqa llapan rantinakunap chanin mana sayaspa wicharisqanmi. Chaypa huk uyantaqmi qullqip rantiy atiynin: huk tupu qullqiwan hayk'a rantiy atikun. Sichus huk isanka aswan muchusqa rantinakunap chanin 100 qullqi tupumanta 110 qullqi tupukama wicharin, chay kikin 100 qullqi tupuwanqa manañam hunt'a isankata rantiy atikunchu. -->
 
@@ -213,8 +216,7 @@ Bankupi kaq qullqiykichikqa makiykichikpi kaq qullqimanta hukmi: bankuq qankunam
 * Ichaqa hayka qullqi kasqanpas kamachikuyninkunapas tikrakuyta atinku, hinaspa chayta llamk'achiq runakunaqa pisillata chaykunamanta kamachiyta atinku
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Chayraykum runakuna huk ñankunata maskanku, chayraymutaq Bitcoinpas kamasqa karqan.
 
 ---
@@ -233,6 +235,7 @@ Mana huk chawpillamanta kamachisqa yupaychasqa qullqi; hayk'a kasqanqa saywasqam
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Qullqi quypaq llamk'anawanqa, huk huñulla qullqi yupay qillqata waqaychan, sapa qullqi apachiytataq saqin. Bitcoinwanqa, apachiq qullqi apachiyta firman, sapanchasqa t'inkikuna chiqaqchanku, minaqkunataq huk kuska qullqi yupay qillqaman yapanku; chayraykum chaskiq huk chawpi kamachiqman aswan pisita hap'ikun.](/micrographics/central-ledger-vs-bitcoin-01/qu.md)
 
 <!-- notes: Bitcoin manaraq kachkaptin, llikaninta qullqi apachiyqa sapa kutim huk iñaypaq huñunakuymanta hap'ipakurqan: huk qullqi waqaychana wasimanta utaq qullqi quykunata ruwaq llamk'ana wasimanta. Chay huñunakuyqa qullqi puriymanta qillqana p'anqata waqaycharqan, qullqi yupaykunata chiqaqcharqan, hinaspapas qullqi quyta qhipachiyta, hark'ayta utaq kutichiyta atirqan. Yupaychasqa willakuytaqa mana sasachakuspallam mirachiyta atikun: huk yupaychasqa qullqita iskay kuti gastay atikuptinqa, manam qullqi hina llamk'ayta atinmanchu. Kaymi iskay kuti gastaypa sasachakuynin. Satoshi Nakamoto nisqaqa chay sutita llamk'achiq huk runam utaq huk runa huñum. -->
 
@@ -253,6 +256,7 @@ Mana mayqin llamk'ana tantanakuyllapas kikinniykichik kamachisqaykichik bitcoin 
 ## Pipas chiqaqchayta atinan saywa
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Huk llika p'anqapi utaq qullqi lluqsichiqpa willay waqaychanpi qillqasqa qullqi hayk'a kananmanta saywataqa, chay qullqi lluqsichiq kikillanmi mana pipas yachasqan tikrayta atin. Bitcoinpa qullqi hayk'a kananmanta kamachiyninqa llapapaq kichasqam; sillq'ukuna, llapapaq kichasqa ñawpa qillqakuna, llamk'aypa chiqapchaynin, nudukunapa chiqapchaynin ima, llapanku kuska musuq qullqikuna yanqalla paqarichiyta utaq kikin bitcoin iskay kuti gastayta hark'anku.](/micrographics/claimed-or-verified-supply-01/qu.md)
 
 <!-- notes: Musuq bitcoin runa llapanpa yachasqan pachakunapi lluqsimun, «nudu» nisqa sapanchasqa kumputadurakunataq chay kamachiyta p'akiq mayqin blukitapas mana chaskinkuchu. Chay saywaqa iñinapaq hinam, pipas chiqaq kasqanta qhawariyta atinrayku. Manam pachamamapa kamachiyninchu: chaypi kaq runakuna hunt'achichkallaptinkum takyan. Pisi qullqilla kananta saywachayqa manam chanin wicharinanta takyachinchu; chaninqa munakuqkuna hayka kasqanmanpas, hayka qullqi kasqanmanpas hinam. -->
 
@@ -264,6 +268,7 @@ Huk bitcoin nisqaqa satoshis utaq sats sutiyuq 100 000 000 aswan huch'uy tupukun
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Iskay sayaqniyuq tawla: 1 BTC nisqaqa 100 000 000 sats nisqawanmi kaqlla, 0,1 BTC nisqaqa 10 000 000 sats nisqawanmi kaqlla, 0,01 BTC nisqaqa 1 000 000 sats nisqawanmi kaqlla, 0,001 BTC nisqaqa 100 000 sats nisqawanmi kaqlla, 0,00000001 BTC nisqataq 1 sat nisqawanmi kaqlla.](/micrographics/bitcoin-and-sats-01/qu.md)
 
 <!-- notes: 100 000 satsniyuq kaypas 0,001 bitcoinniyuq kaypas kikin qullqi yupaytataq rikuchin. Huk bitcoin ancha chaninniyuq kasqanrayku Bitcoin mana aypanapaq hina kasqanmanta pantasqa yuyayta allinchaychik. -->
 
@@ -272,6 +277,7 @@ Huk bitcoin nisqaqa satoshis utaq sats sutiyuq 100 000 000 aswan huch'uy tupukun
 ## Pikunataq Bitcoin llamk'achinku?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Bitcoin ukhupi tawa ruwaykuna: llamk'achiqkuna bitcointa chaskinku, waqaychanku, hinaspa kachanku; llika t'inkinakuna kikinmanta kamachiykunata chiqapchanku; minirukuna llamk'aypa chiqapchayninwan akllanapaq willay t'aqakunata ruwanku; wakichiqkunataq llamk'achiq wakichinakunata yuyaychanku. Manam mayqin ruwayllapas llikata kamachinchu.](/micrographics/bitcoin-participant-roles-01/qu.md)
 
 <!-- notes: Llamk'achiqkunaqa bitcointa apachinku, chaskinku, waqaychankutaq; t'inkikunaqa sapa qullqi apachiytawan sapa bluqitawan kamachiykunaman hina chiqaqchanku; minaqkunañataq sapa chunka minutupi yaqa huk musuq bluquita qillqasqaman yapaypaq atipanakunku. Chay qillqasqa, bluqikunap waskhanqa, llapa runap qhawanapaqmi, musuqmanta qillqanapaqtaq ancha chaninniyuqmi. Qillqaymanta huk yuyachiy: hatun B-wan qillqasqa Bitcoin nisqaqa llikata utaq llank'ay llikata sapa kuti niyta munan; huch'uy b-wan qillqasqa bitcoin nisqaqa qullqi kikintam niyta munan. -->
 
@@ -307,6 +313,7 @@ Mayqin qullqi waqaychanamantapas ñawpaq kaq tapuy: pitaq kichanakunata kamachin
 ## Huk wallqiqa kichanakunata kamachin
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Huk qullqi wayaqaqa kichanakunata waqaychan. Chaykunawanmi bitcointa chaskiyta kachaytapas atinki, bitcoin kikinmi ichaqa kuska apasqa yupay qillqapi qillqasqa qhipakun, mana karu rimana ukhupichu nitaq llamk'achina ukhupichu.](/micrographics/wallet-manages-keys-01/qu.md)
 
 <!-- notes: Bitcoin qullqi waqaychanaqa huk llamk'anam, aswantaqa huk llamk'achina, bitcoin chaskinaykipaq, qhawanaykipaq, kachaykunaykipaq ima. Bitcoinnik iqa manam tilifununayki ukhupichu waqaychasqa kachkan: k'itikunap waskhanpin qillqasqa kachkan. Qullqi waqaychanaqa kichanakunatam kamachin, chaykunawanmi qampapuni kasqanta chiqaqchayta, huk qullqi quyta arí niyta ima atinki. -->
 
@@ -331,6 +338,7 @@ Pim waqaychanqa chayta akllayqa manam chaninniykita tupunchu. Aswan chaninniyuqq
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Muhu rimayqa ñiqichasqa simikunap sinrinmi; kaypiqa chunka iskayniyuq qhawachina simikuna raphipi yupayniyuq qillqasqa kachkan. Allin simikuna allin ñiqipi kaspaqa tupaq qullqi waqaychanapi kamachiyta kutichiyta atinku, chayrayku pakasqa, internetman mana tinkisqa waqaychasqa kanan.](/micrographics/seed-phrase-on-paper-01/qu.md)
 
 <!-- notes: Muhu rimayqa manam kutichipuna waqaychasqallachu: llapaman yaykunapaq atiymi. Qullqi waqaychanata paqarichispa, raphipi chiqanllata qillqay; llikaman mana tinkisqata, pakasqata, mana chinkanan nitaq waqllikunan chiqaspi waqaychay. Ama hayk'aqpas siq'iychu, chaski qillqawan apachiychu, phuyupi qillqasqakunapi waqaychaychu, willakuypi apachiychu, nitaq llika p'anqapi qillqaychu. Rikuchisqa simikunaqa rikuchina hinallam kanku; ama hayk'aqpas chiqaq muhu rimayta rikuchiychu nitaq huñuychu. -->
 
@@ -365,6 +373,7 @@ Pim waqaychanqa chayta akllayqa manam chaninniykita tupunchu. Aswan chaninniyuqq
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Waskhapi quypunakunaqa Bitcoinpa t'aqakunap waskhanpi chiqanmanta qillqakun, Lightningtaq Bitcoin hawapi ruwasqa llikachasqam, utqaylla sapa kuti quypaq; chay quypunakunaqa mana hunt'akunmanpas. Mayqin ñanpas hukpa waqaychasqan utaq kikinpa waqaychasqan kanman.](/micrographics/on-chain-and-lightning-01/qu.md)
 
 ---
 
@@ -375,7 +384,8 @@ Pim waqaychanqa chayta akllayqa manam chaninniykita tupunchu. Aswan chaninniyuqq
 * **Ama iñiyllachu, chiqaqchay.** Runata, imayna pagakunanta, chaskina tiyayta, qullqi hayk'a kasqantawan chiqaqchay.
 
 
-> **Callout – Chaskinapaq willakuyta rakiy, ama hayk'aqpas pakasqakunatachu**
+<!-- card: callout -->
+> **Chaskinapaq willakuyta rakiy, ama hayk'aqpas pakasqakunatachu**
 >
 > Chaskina tiyaytapas pagana mañakuytapas rakiyta atikun. Muhu rimaytapas sapalla kichanatapas manam hayk'aqpas rakinachu. Mana mayqin chiqap yachachiqpas, qullqi waqaychana llamk'ay wasipas, yanapaq llamk'aqpas chayta mañakusunkichu.
 
@@ -389,6 +399,7 @@ Pipis utqaylla ruwanaykipaq ñit'isuptiki utaq pakallapi ruwanaykipaq mañakusup
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Llullakuspa suwakuymanta pichqa paqtachana unancha: utqayta ruwayman tanqay, huk runa hina tukuy, tikrasqa chayana, chiqapchasqa qullqi miraykuna, pakasqa willakuykunata mañakuy ima.](/micrographics/scam-red-flags-01/qu.md)
 
 ---
 
@@ -408,7 +419,8 @@ Kayqa qallariyllam.
 * **Kayqa qallariyllam.** Ñawpaqman huk waqaychasqa thatkillam aypan.
 
 
-> **Callout – Yuyaymananapaq huk pacha**
+<!-- card: callout -->
+> **Yuyaymananapaq huk pacha**
 >
 > Qallariypi kaq pichqa tapuykunaman kutiriychik. Kunanqa imatataq kutichiwaqchik?
 

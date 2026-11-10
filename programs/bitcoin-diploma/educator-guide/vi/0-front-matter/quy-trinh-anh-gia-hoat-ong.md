@@ -35,6 +35,7 @@ Chọn một lộ trình thực hành mà người học cảm thấy an toàn v
 
 
 <!-- micrographic: cohort-capacity-check-01 -->
+[Để lập kế hoạch cho một nhóm học viên, hãy nhân số học viên với thời gian dự kiến dành cho việc hỗ trợ và quan sát mỗi người, sau đó cộng thêm thời gian cho việc chuẩn bị, phản hồi, đáp ứng nhu cầu tiếp cận và đánh giá lại. Nếu các nhà giáo không có đủ thời gian, hãy thay đổi kế hoạch: giảm số học viên, tăng số nhà giáo hoặc tăng thời gian.](/micrographics/cohort-capacity-check-01/vi.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
@@ -57,6 +58,7 @@ Chọn một lộ trình thực hành mà người học cảm thấy an toàn v
 
 
 <!-- micrographic: task-competency-map-01 -->
+[Các hoạt động tương tác lý thuyết từ T1 đến T3 cung cấp minh chứng cho các năng lực từ C1 đến C5, còn các lộ trình thực hành P6a, P6b và P7 cung cấp minh chứng cho C6 và C7. Sau đó, mỗi năng lực được đánh giá bằng một kết quả Đạt hoặc Chưa đạt.](/micrographics/task-competency-map-01/vi.md)
 
 
 ### Các quy tắc chung về hỗ trợ, an toàn và ghi nhận
@@ -65,10 +67,12 @@ Chọn một lộ trình thực hành mà người học cảm thấy an toàn v
 
 
 <!-- micrographic: support-boundary-01 -->
+[Nhà giáo có thể hỗ trợ việc chuẩn bị và tiếp cận trong phạm vi cho phép, đồng thời dừng hành động không an toàn. Người học vẫn phải tự đưa ra phần giải thích được đánh giá, chọn các chi tiết liên quan và thực hiện hoặc chỉ đạo thực hiện các quyết định bắt buộc.](/micrographics/support-boundary-01/vi.md)
 
 
 
-> **Callout – Các lỗi thực hành ảnh hưởng nghiêm trọng đến an toàn**
+<!-- card: callout -->
+> **Các lỗi thực hành ảnh hưởng nghiêm trọng đến an toàn**
 >
 > Ghi nhận và tạm dừng nhiệm vụ nếu người học tiết lộ hoặc tìm cách chia sẻ [cụm từ khôi phục](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), [khóa riêng tư](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), mật khẩu hoặc thông tin cá nhân không cần thiết; tiếp tục sau khi đã biết có sự không khớp về địa chỉ, hóa đơn, số tiền hoặc người nhận; chấp nhận một hành vi lừa đảo rõ ràng hoặc một yêu cầu khẩn cấp cần giữ bí mật; hoặc bỏ qua bước xác minh bắt buộc. Hãy giải thích lý do một cách nhẹ nhàng, thiết lập lại môi trường an toàn, cho người học luyện tập và đánh giá lại sau. Người học đang trong quá trình hình thành năng lực. Mặc định nên sử dụng tài liệu tập huấn đã chuẩn bị; nếu nhà giáo dục chọn một hoạt động thực tế có mức rủi ro thấp, hãy làm rõ các rủi ro và cung cấp một phương án tương đương không sử dụng tiền.
 
@@ -181,3 +185,4 @@ Sử dụng các ví dụ và tài liệu hoạt động phù hợp với nhóm 
 
 
 <!-- micrographic: reassessment-calibration-moderation-01 -->
+[Ba quy trình riêng biệt diễn ra song song. Người học có kết quả Chưa đạt nhận phản hồi riêng, thực hành và cung cấp minh chứng mới; các giám khảo thống nhất cách đánh giá bằng cách chấm điểm các ví dụ một cách độc lập và thống nhất cách diễn giải; nhà giáo dục có thể yêu cầu rà soát lần hai, nhưng việc này không bao giờ thay thế phần thể hiện đã được quan sát.](/micrographics/reassessment-calibration-moderation-01/vi.md)

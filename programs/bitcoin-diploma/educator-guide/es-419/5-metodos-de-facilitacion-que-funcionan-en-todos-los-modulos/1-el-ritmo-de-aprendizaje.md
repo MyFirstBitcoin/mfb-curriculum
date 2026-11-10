@@ -14,3 +14,4 @@ Para la mayoría de los conceptos, use esta secuencia:
 
 
 <!-- micrographic: learning-rhythm-01 -->
+[El educador establece el propósito, activa las ideas previas, explica, verifica, guía la aplicación, invita a la producción independiente, analiza lo realizado, invita a la reflexión y conecta con el siguiente concepto. Las respuestas poco claras llevan a retomar la explicación o la práctica.](/micrographics/learning-rhythm-01/es-419.md)

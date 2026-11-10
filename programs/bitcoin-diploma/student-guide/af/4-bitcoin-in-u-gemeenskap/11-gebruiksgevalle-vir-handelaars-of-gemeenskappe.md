@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[’n Handelaar wat Bitcoin aanvaar, werk op vier gebiede: bemarking, opleiding, rekeningkunde en verkope.](/micrographics/merchant-payment-operations-01/af.md)
 
 
 'n Handelaar het meer as net 'n ontvangknoppie nodig. Die volledige betalingsproses kan prysbepaling, personeelopleiding, kwitansies, terugbetalings, [bewaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), omskakeling, rekeningkunde, belasting, toestelsekuriteit en ondersteuning insluit.

@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: self-custody-responsibilities-01 -->
+[Die Kontrolle über die Schlüssel steht im Zentrum von acht Verantwortlichkeiten: Backup, Wiederherstellung, Empfangen, Senden, Wahl des Werkzeugs, Erwerbsweg, Privatsphäre und Betrugsprüfung. Jede davon schützt etwas, und ein Versäumnis bei einer von ihnen kann den Zugang, Geld oder die Privatsphäre kosten.](/micrographics/self-custody-responsibilities-01/de.md)
 
 
 
 <!-- micrographic: responsibility-checks-01 -->
+[Eine Tabelle mit sechs Aufgaben der Selbstverwahrung, was jeweils zu schützen oder zu prüfen ist und was passieren kann, wenn etwas schiefgeht: Sicherung, Empfangen, Senden, Verwahrung, Wahl des Werkzeugs und Erwerb.](/micrographics/responsibility-checks-01/de.md)
 
 
 Stellen Sie sich vor, ein Freund schickt Ihnen eine Zahlungsanforderung, während ein unbekanntes Support-Konto behauptet, Sie müssten sofort handeln. Was könnten Sie prüfen, bevor Sie irgendetwas tun? Können Sie einen Wiederherstellungsplan schützen, Empfangsinformationen von Geheimnissen unterscheiden und vor dem Senden die Person, die Zahlungsmethode, das Ziel, den Betrag und den abschließenden Bildschirm überprüfen? Ob ein Dienst oder Sie selbst die Schlüssel kontrollieren – die praktische Zusammenfassung bleibt dieselbe: Geheimnisse schützen, vor dem Bestätigen prüfen, Betrugsanzeichen erkennen und Fehler während des Lernens klein halten.

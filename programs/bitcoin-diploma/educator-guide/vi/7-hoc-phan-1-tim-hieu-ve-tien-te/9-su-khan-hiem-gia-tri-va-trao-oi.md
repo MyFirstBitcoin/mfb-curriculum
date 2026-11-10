@@ -9,6 +9,7 @@ Hãy sử dụng một nguồn lực có hạn tại địa phương để phân
 
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Một người mua sắm có số tiền hạn chế xem xét các lựa chọn trước mắt: thực phẩm cho hôm nay, đi lại hoặc tiết kiệm cho sau này. Chọn một phương án đồng nghĩa với việc từ bỏ các phương án còn lại, và đó chính là chi phí cơ hội. Không có phương án nào được đánh dấu là lựa chọn đúng.](/micrographics/one-choice-two-uses-01/vi.md)
 
 
 Hãy yêu cầu người học giải thích vì sao chỉ riêng sự hiếm có không tạo ra [giá trị](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Một vật phẩm hiếm nhưng không có công dụng hoặc không có nhu cầu vẫn có thể không được ai mong muốn.

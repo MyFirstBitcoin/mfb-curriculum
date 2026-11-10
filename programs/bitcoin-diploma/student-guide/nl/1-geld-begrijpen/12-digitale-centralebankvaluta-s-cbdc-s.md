@@ -1,5 +1,6 @@
 # 1.12 Digitale centralebankvaluta's (CBDC's)
 
+<!-- card: definition -->
 > **Definition – Digitale centralebankmunt (CBDC)**
 >
 > Een [digitale centralebankmunt](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), of [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), is een digitale vorm van [fiatgeld](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) die wordt uitgegeven als een [verplichting](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability) van een [centrale bank](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank): het is een vordering die de [centrale bank](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) verschuldigd is aan de houder. Het verschilt van fysiek contant geld en van een gewoon tegoed bij een commerciële bank, hoewel de gebruikerservaring er vergelijkbaar uit kan zien.
@@ -13,6 +14,7 @@ Vraag u vervolgens af wat het ontwerp mogelijk maakt. Afhankelijk van de regels 
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[Een tabel die contant geld, banktegoeden, een retail-CBDC en Bitcoin vergelijkt op wie ze uitgeeft, hun vorm, toegang, zichtbaarheid, regels voor de geldhoeveelheid en verificatie. Digitaal is niet hetzelfde als gedecentraliseerd: een CBDC wordt nog steeds door de centrale bank uitgegeven, en de toegang, zichtbaarheid en verificatie ervan hangen af van het ontwerp.](/micrographics/cbdc-comparison-table-01/nl.md)
 
 
 Digitaal betekent niet automatisch gedecentraliseerd, schaars, privé of open voor onafhankelijke verificatie. Een [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) kan gebruikmaken van digitale technologie, maar het is nog steeds [fiatgeld](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) als de [uitgever](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer), de regels voor de geldhoeveelheid, de toegangsregels en de betalingsrechten centraal beheerd blijven.

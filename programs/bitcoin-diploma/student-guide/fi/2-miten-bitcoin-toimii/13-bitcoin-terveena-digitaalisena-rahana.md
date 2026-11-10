@@ -6,6 +6,7 @@ Bitcoin yhdistää ominaisuuksia, joita ei aiemmin ole esiintynyt yhdessä samas
 
 
 <!-- micrographic: bitcoin-money-properties-01 -->
+[Bitcoin yhdistää seitsemän rahan ominaisuutta yhteen omaisuuserään: kestävyyden, siirrettävyyden, jaettavuuden, vaihdettavuuden, niukkuuden, todennettavuuden ja hyväksyttävyyden. Jokaiseen liittyy käytännön rajoitteita, kuten avainten turvallinen säilyttäminen ja monissa yhteisöissä edelleen vähäinen hyväksyntä.](/micrographics/bitcoin-money-properties-01/fi.md)
 
 
 

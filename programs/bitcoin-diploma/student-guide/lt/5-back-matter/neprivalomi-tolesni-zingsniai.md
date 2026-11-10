@@ -36,6 +36,7 @@ Pedagogo vadovas padeda pasirengti pamokoms, vesti veiklas, pritaikyti pavyzdži
 
 
 <!-- micrographic: final-safety-check-01 -->
+[Galutinis saugumo kontrolinis sąrašas su varnelėmis: saugokite paslaptis, patikrinkite mokėjimo duomenis, išbandykite su nedidelėmis sumomis ir sustokite, jei patiriate spaudimą. Jei kas nors neaišku, sustokite ir prieš imdamiesi veiksmų sužinokite daugiau.](/micrographics/final-safety-check-01/lt.md)
 
 
 Atminkite šias taisykles:
@@ -57,6 +58,7 @@ Atminkite šias taisykles:
 
 
 <!-- micrographic: curriculum-source-panel-01 -->
+[Skydelis su QR kodu ir išspausdinta nuoroda github.com/MyFirstBitcoin/mfb-curriculum – pagrindiniu „Bitcoin“ diplomo šaltiniu, kuriame galite patikrinti leidimą ir pranešti apie klaidas.](/micrographics/curriculum-source-panel-01/lt.md)
 
 
 „Bitcoin Diploma“ yra nuolat atnaujinama atvirojo kodo mokymo programa. Pataisas ir patobulinimus galima peržiūrėti viešai.

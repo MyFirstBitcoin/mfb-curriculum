@@ -4,6 +4,7 @@ Veți parcurge trei etape: **Prezentare**, în care cadrul didactic vă arată p
 
 
 <!-- micrographic: presentation-practice-production-01 -->
+[O abilitate practică se învață în trei etape, de la stânga la dreapta: Prezentare, în care cadrul didactic demonstrează procesul și riscurile acestuia, apoi Exersare, în care se exersează sub îndrumare, cu materiale de instruire sigure, apoi Aplicare, în care cursantul îndeplinește o sarcină sau explică o decizie în mod independent.](/micrographics/presentation-practice-production-01/ro.md)
 
 
 Atelierul dumneavoastră poate include:

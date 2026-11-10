@@ -12,6 +12,7 @@ Odbieranie płatności nie upoważnia do wypłaty środków z portfela, ale nada
 
 
 <!-- micrographic: check-what-you-receive-01 -->
+[Przykładowy ekran odbierania płatności na telefonie pokazuje metodę płatności, żądanie płatności do udostępnienia, kwotę i status oczekujący. Wiadomość lub zrzut ekranu z napisem "wysłano" nie jest dowodem: proszę sprawdzić status we własnym portfelu.](/micrographics/check-what-you-receive-01/pl.md)
 
 
 Wiadomość lub zrzut ekranu z napisem „wysłano” nie stanowi dowodu. Jakie dowody można samodzielnie zweryfikować? Proszę sprawdzić portfel odbiorczy lub zatwierdzony [transakcyjny](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) widok. W przypadku [płatności on-chain](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment) portfel może początkowo wyświetlać [transakcję](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) jako oczekującą. [Potwierdzenia](https://curriculum.myfirstbitcoin.org/lexicon/en/#confirmation) — ich status zwiększa pewność rozliczenia; nie naprawia jednak błędnego adresu ani nie chroni przed oszustwem. Portfel może proponować nowy adres do odebrania kolejnej płatności; starsze adresy mogą nadal działać, ale ponowne używanie jednego adresu może ułatwić powiązanie ze sobą odrębnych płatności. Nowy adres utrudnia takie proste powiązanie; nie sprawia jednak, że płatność staje się anonimowa.

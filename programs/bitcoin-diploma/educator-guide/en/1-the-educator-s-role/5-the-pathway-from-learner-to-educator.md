@@ -13,3 +13,4 @@ Present this as an available progression beyond the Bitcoin Diploma, not as requ
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[An optional learning journey runs from Introduction to Bitcoin to the Bitcoin Diploma, then the Educator Training Program, to becoming an educator who teaches from the My First Bitcoin curriculum, and joining the Bitcoin Education Network. Each next step is a choice, not a requirement.](/micrographics/learner-journey-pathway-01/en.md)

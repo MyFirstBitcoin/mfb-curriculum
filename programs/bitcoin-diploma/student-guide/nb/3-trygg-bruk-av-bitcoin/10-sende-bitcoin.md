@@ -5,7 +5,8 @@
 Sending krever større varsomhet fordi en gyldig [Bitcoin-transaksjon](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) vanligvis er vanskelig eller umulig å reversere. Kan De forklare hvem som vil motta betalingen og hvorfor, før De trykker på godkjenningsknappen?
 
 
-> **Callout – Stopp og kontroller før sending**
+<!-- card: callout -->
+> **Stopp og kontroller før sending**
 >
 > Bekreft mottakeren, betalingsmåten, destinasjonen, beløpet og enheten, gebyret eller utløpsfristen samt det siste skjermbildet. Hvis noe avviker fra den pålitelige betalingsforespørselen, eller noen skaper tidspress eller ber om gjenopprettingsinformasjon, stopp og kontroller gjennom en uavhengig kanal. Gjør en test med et lite beløp når fremgangsmåten er ukjent.
 
@@ -21,6 +22,7 @@ Sending krever større varsomhet fordi en gyldig [Bitcoin-transaksjon](https://c
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Før en betaling godkjennes, kontrollerer avsenderen mottakeren og formålet, betalingsmåten, mottakeradressen samt beløpet, enheten, gebyret eller utløpstiden, og sender et lite testbeløp hvis fremgangsmåten er ukjent. Hvis noe avviker, stopper avsenderen og kontrollerer. Avsenderen godkjenner bare når alt stemmer, og kontrollerer deretter resultatet.](/micrographics/pre-send-checklist-01/nb.md)
 
 
 Ved en [betaling på kjeden](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment) betales **nettverksgebyret** for å inkludere [transaksjonen](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) i en blokk. Det avhenger hovedsakelig av [transaksjonens](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) data og etterspørselen etter [blokkplass](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-space), ikke bare av beløpet som sendes. Gebyranslag og tidsbruk kan endre seg, så les den endelige oppsummeringen i stedet for å anta at en betaling med lavt beløp har et lavt gebyr.

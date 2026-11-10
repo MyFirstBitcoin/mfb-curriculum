@@ -14,6 +14,7 @@ Yayin kwatanta [farashi](https://curriculum.myfirstbitcoin.org/lexicon/en/#price
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Jadawali mai ginshiƙai biyu: 1 BTC ya yi daidai da 100,000,000 sats, 0.1 BTC ya yi daidai da 10,000,000 sats, 0.01 BTC ya yi daidai da 1,000,000 sats, 0.001 BTC ya yi daidai da 100,000 sats, kuma 0.00000001 BTC ya yi daidai da 1 sat.](/micrographics/bitcoin-and-sats-01/ha.md)
 
 
 **Ku nuna fahimtarku:** Nawa ne adadin [sats](https://curriculum.myfirstbitcoin.org/lexicon/en/#satoshi) da ke cikin 0.01 BTC? Me ya sa [farashin](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) cikakken bitcoin ɗaya ba ya hana mutum amfani da ƙaramin adadi?

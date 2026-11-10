@@ -12,6 +12,7 @@ Việc nhận tiền không cho phép tiền rời khỏi ví của quý vị, n
 
 
 <!-- micrographic: check-what-you-receive-01 -->
+[Màn hình nhận tiền mẫu trên điện thoại hiển thị phương thức thanh toán, yêu cầu thanh toán để chia sẻ, số tiền và trạng thái đang chờ xử lý. Tin nhắn hoặc ảnh chụp màn hình ghi "đã gửi" không phải là bằng chứng: vui lòng kiểm tra trạng thái trong ví của quý vị.](/micrographics/check-what-you-receive-01/vi.md)
 
 
 Tin nhắn hoặc ảnh chụp màn hình ghi “đã gửi” không phải là bằng chứng. Quý vị có thể tự mình thấy bằng chứng nào? Hãy kiểm tra ví nhận hoặc giao diện được phê duyệt để xem [giao dịch](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction). Đối với [các khoản thanh toán trên chuỗi](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), ban đầu ví có thể hiển thị [giao dịch](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) là đang chờ xử lý. [Trạng thái xác nhận](https://curriculum.myfirstbitcoin.org/lexicon/en/#confirmation) làm tăng độ tin cậy rằng khoản thanh toán đã hoàn tất; trạng thái này không khắc phục được việc gửi sai địa chỉ hay lừa đảo. Ví có thể cung cấp một địa chỉ mới cho lần nhận tiền mới; các địa chỉ cũ có thể vẫn hoạt động, nhưng việc sử dụng lại một địa chỉ có thể khiến các khoản thanh toán riêng biệt dễ bị liên kết với nhau hơn. Địa chỉ mới giúp giảm khả năng dễ dàng liên kết đó; địa chỉ mới không khiến khoản thanh toán trở nên ẩn danh.

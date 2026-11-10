@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[Prejemnik na svojem telefonu ustvari zahtevek za plačilo prek omrežja Lightning z navedenim zneskom, pošiljatelj ga skenira in plača, plačilo pa trenutek pozneje prispe na prejemnikov telefon.](/micrographics/lightning-phone-payment-01/sl.md)
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Plačilo prek omrežja Lightning v šestih korakih: prejemnik ustvari zahtevek, pošiljatelj ga skenira, preveri prejemnika, znesek, enoto, rok veljavnosti in provizijo ter odobri plačilo, nato se plačilo usmeri po omrežju in obe denarnici prikažeta rezultat. Vsaka denarnica je lahko skrbniška ali samoskrbniška. Če plačilo ne uspe ali zahtevek poteče, se postopek začne znova z novim zahtevkom.](/micrographics/lightning-payment-sequence-01/sl.md)
 
 
 Lightning omogoča praktično izvajanje hitrih, majhnih plačil v omrežju Bitcoin. Primeren je lahko za plačevanje pri trgovcu, ponavljajoča se lokalna plačila, spletne storitve ali prenose, pri katerih bi bila provizija za transakcijo v verigi prevelika glede na znesek plačila.

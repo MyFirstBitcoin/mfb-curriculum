@@ -1,5 +1,6 @@
 # 1.12 ارزهای دیجیتال بانک مرکزی (CBDCs)
 
+<!-- card: definition -->
 > **Definition – ارز دیجیتال بانک مرکزی (CBDC)**
 >
 > یک [ارز دیجیتال بانک مرکزی](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc)، یا [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc)، شکل دیجیتالیِ [پول فیات](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) است که به‌عنوان یک [بدهی](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability) از سوی یک [بانک مرکزی](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) منتشر می‌شود: این طلبی است که [بانک مرکزی](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) به دارندهٔ آن بدهکار است. این ارز با پول نقد فیزیکی و سپردهٔ عادی در یک بانک تجاری تفاوت دارد، هرچند ممکن است تجربهٔ کاربری آن‌ها مشابه به نظر برسد.
@@ -13,6 +14,7 @@
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[جدولی که پول نقد، سپرده‌های بانکی، ارز دیجیتال بانک مرکزی برای عموم و بیت‌کوین را از نظر ناشر، شکل، دسترسی، قابل مشاهده بودن پرداخت‌ها، قواعد عرضه و راستی‌آزمایی مقایسه می‌کند. دیجیتال بودن به معنای غیرمتمرکز بودن نیست: ارز دیجیتال بانک مرکزی همچنان توسط بانک مرکزی منتشر می‌شود و دسترسی به آن، قابل مشاهده بودن پرداخت‌ها و راستی‌آزمایی آن به طراحی‌اش بستگی دارد.](/micrographics/cbdc-comparison-table-01/fa.md)
 
 
 دیجیتالی بودن به‌خودی‌خود به معنای غیرمتمرکز بودن، کمیاب بودن، خصوصی بودن یا امکان راستی‌آزمایی مستقل نیست. یک [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) ممکن است از فناوری دیجیتال استفاده کند، اما همچنان نوعی [پول فیات](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) است اگر [صادرکننده](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer)، قواعد عرضه، قواعد دسترسی و مجوزهای پرداخت آن همچنان به‌صورت متمرکز مدیریت شوند.

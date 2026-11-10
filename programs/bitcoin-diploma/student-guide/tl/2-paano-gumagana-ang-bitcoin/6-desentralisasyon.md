@@ -3,6 +3,7 @@
 Ang [sentralisadong sistema](https://curriculum.myfirstbitcoin.org/lexicon/en/#centralized-system) ay may isang sentro ng kontrol. Kinokontrol ng isang bangko ang [talaan ng mga transaksiyon ng mga kliyente nito](https://curriculum.myfirstbitcoin.org/lexicon/en/#ledger). Kinokontrol ng isang kompanya ng pagbabayad ang sarili nitong network. Kinokontrol ng isang pamahalaan ang mga tuntunin sa pag-isyu ng [salapi nito](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency).
 
 
+<!-- card: definition -->
 > **Definition – Desentralisasyon**
 >
 > Ang [desentralisadong sistema](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralized-system) ay namamahagi ng mga tungkulin at pagpapatupad ng mga desisyon sa maraming independiyenteng kalahok. Walang sentral na tanggapan ang Bitcoin na maaaring gumawa ng mga account, magbago ng mga balanse, o mag-apruba ng pagiging kasapi.
@@ -22,6 +23,7 @@ Sa Bitcoin, ang [desentralisasyon](https://curriculum.myfirstbitcoin.org/lexicon
 
 
 <!-- micrographic: powers-and-limits-01 -->
+[Ang mga gumagamit, node, minero, developer at serbisyo ay may kani-kaniyang kapangyarihan kaugnay ng mga pinagsasaluhang tuntunin at pampublikong talaan ng Bitcoin, ngunit walang sinuman sa kanila ang makapagbabago nang mag-isa sa talaan o sa mga tuntunin para sa lahat.](/micrographics/powers-and-limits-01/tl.md)
 
 
 [Ang desentralisasyon](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) ay mayroon ding mga kaakibat na kapalit. Maaaring maging mas mabagal ang koordinasyon. Kailangang tiyakin ng mga gumagamit ang katumpakan ng impormasyon at umako ng higit na pananagutan. Walang sentral na tanggapan ng suporta para sa [network ng Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). Ang mga [kapalit na ito](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) ay bahagi ng disenyo, hindi mga di-sinasadyang depekto na maaaring alisin nang hindi binabago ang sistema.

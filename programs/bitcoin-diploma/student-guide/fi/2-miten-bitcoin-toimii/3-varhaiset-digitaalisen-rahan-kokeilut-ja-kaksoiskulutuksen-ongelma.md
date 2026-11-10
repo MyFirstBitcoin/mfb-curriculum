@@ -11,6 +11,7 @@ Bitcoin ei ollut ensimmäinen yritys luoda digitaalista rahaa. Se rakentui nelj�
 Yhdessä nämä kokeilut toivat esiin hyödyllisiä palapelin osia. Ne myös selvensivät jäljellä olevaa ongelmaa.
 
 
+<!-- card: definition -->
 > **Definition – Kaksoiskulutus**
 >
 > [Kaksoiskulutus](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending) tarkoittaa yritystä lähettää sama digitaalinen yksikkö kahdelle vastaanottajalle. Digitaalista tietoa voidaan kopioida täydellisesti, joten digitaalinen rahajärjestelmä tarvitsee tavan määrittää, mikä [siirto](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) on kelvollinen.
@@ -28,6 +29,7 @@ Tekninen kuvaus kokosi yhteen tämän lähestymistavan edellyttämät ominaisuud
 
 
 <!-- micrographic: five-part-response-01 -->
+[Viisi osaa ratkaisee yhdessä kaksoiskulutusongelman: vertaisverkko, digitaaliset allekirjoitukset, lohkot ja louhinta, riippumaton varmentaminen sekä yhteinen historia, johon on kertynyt eniten työtodistetta. Yhdessä ne mahdollistavat sen, että verkko hylkää samojen varojen toistamiseen käyttämisen ilman keskusviranomaista.](/micrographics/five-part-response-01/fi.md)
 
 
 Tässä moduulissa näitä käsitteitä selitetään tarkemmin. Yhdessä ne tarjosivat käytännön ratkaisun [kaksoiskulutusongelmaan](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): verkko voi hylätä toisen yrityksen käyttää sama bitcoin turvautumatta keskitettyyn tahoon. Bitcoin tarjosi puuttuvan yhdistelmän, jota vuosikymmenten digitaalisen rahan kokeiluissa oli etsitty.

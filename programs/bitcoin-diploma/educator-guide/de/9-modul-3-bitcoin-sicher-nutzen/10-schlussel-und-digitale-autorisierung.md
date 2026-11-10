@@ -17,3 +17,4 @@ Keine seriöse Lehrkraft, kein Wallet-Anbieter, kein Mitarbeiter einer Börse, k
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[Ein geheimer privater Schlüssel, der niemals weitergegeben werden darf, führt zu öffentlichen Informationen, die weitergegeben werden können: einem daraus abgeleiteten öffentlichen Schlüssel und einer daraus erstellten Empfangsadresse. Derselbe private Schlüssel erzeugt Signaturen, die Nodes prüfen, ohne den privaten Schlüssel jemals zu erfahren.](/micrographics/private-key-public-info-01/de.md)

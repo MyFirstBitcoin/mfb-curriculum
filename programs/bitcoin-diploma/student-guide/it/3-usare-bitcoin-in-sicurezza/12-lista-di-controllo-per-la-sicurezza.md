@@ -6,6 +6,7 @@ Che cosa La indurrebbe a fermarsi prima di un pagamento o di un'installazione? C
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Cinque segnali d'allarme di una truffa: urgenza, furto d'identità, una destinazione modificata, rendimenti garantiti e richieste di segreti.](/micrographics/scam-red-flags-01/it.md)
 
 
 La risposta sicura è sempre: **Si fermi. Non condivida nulla. Non invii nulla. Chiuda il canale. Verifichi in modo indipendente tramite una fonte conosciuta. Chieda aiuto senza rivelare segreti.** Una fonte conosciuta è un sito ufficiale, una scheda dell'app nello store o un metodo di contatto che Lei ha raggiunto in modo indipendente, non tramite una pubblicità, un messaggio diretto o un link inatteso. Controlli l'editore e l'indirizzo web, li confronti con la documentazione ufficiale e cerchi i recapiti separatamente. Se la fonte, le istruzioni o i dati di pagamento differiscono dalla procedura mostrata, si fermi e chieda aiuto al Suo educatore o a un supporto locale di fiducia senza rivelare una [seed phrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) o una [chiave privata](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key). Una vera opportunità supera un controllo attento; una truffa spesso dipende proprio dall'impedirlo.

@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[Plačilo v kavarni v štirih korakih: stranka naroči, natakar pošlje račun, stranka s telefonom plača v bitcoinih, natakar pa ji izroči kavo.](/micrographics/coffee-shop-payment-01/sl.md)
 
 
 Uporabite lokalno poznano blago in storitve. Konkretni izdelek ni pomemben; pomemben je razmislek o plačilu.

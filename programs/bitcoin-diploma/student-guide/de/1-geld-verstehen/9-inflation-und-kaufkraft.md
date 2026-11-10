@@ -1,11 +1,13 @@
 # 1.9 Inflation und Kaufkraft
 
+<!-- card: definition -->
 > **Definition – Preisinflation**
 >
 > Der Begriff „[Inflation](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation)“ wird auf mehr als eine Weise verwendet. In diesem Leitfaden bezeichnet [Preisinflation](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation) einen anhaltenden Anstieg des allgemeinen [Preis](https://curriculum.myfirstbitcoin.org/lexicon/en/#price)niveaus von Waren und Dienstleistungen. Wenn Ihr Einkommen und Ihre Ersparnisse nicht so schnell steigen wie die [Preise](https://curriculum.myfirstbitcoin.org/lexicon/en/#price), kauft Ihr Geld weniger.
 
 
 
+<!-- card: definition -->
 > **Definition – Kaufkraft**
 >
 > [Kaufkraft](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) ist die Menge an Waren und Dienstleistungen, die man mit einer Geldeinheit kaufen kann. Steigt der Preis eines Korbs mit Grundgütern von 100 Einheiten der [Währung](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) auf 110, reichen dieselben 100 Einheiten nicht mehr für den ganzen Korb. Deren [Kaufkraft](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) in Bezug auf diesen Korb ist gesunken.
@@ -15,6 +17,7 @@
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Mit denselben 100 Währungseinheiten lässt sich der ganze Warenkorb mit Grundgütern kaufen, wenn er 100 kostet, aber nicht mehr, wenn derselbe Warenkorb 110 kostet. Das Preisniveau ist gestiegen und die Kaufkraft des Geldes ist gesunken.](/micrographics/same-money-smaller-basket-01/de.md)
 
 
 Manche verwenden „[Inflation](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation)“ im Sinne von [monetärer Expansion](https://curriculum.myfirstbitcoin.org/lexicon/en/#monetary-inflation): einer Ausweitung von Geld und Kredit. Diese Ausweitung kann zur [Preisinflation](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation) beitragen, neben Lieferunterbrechungen, Veränderungen der Nachfrage, [Währungs](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency)schwäche, Steuern, Regulierung und Veränderungen der Produktionskosten. Ursachen und Wirkungen sind oft umstritten. Vermeiden Sie Erklärungen, die jede [Preis](https://curriculum.myfirstbitcoin.org/lexicon/en/#price)änderung einem einzigen Faktor zuschreiben.
@@ -24,7 +27,8 @@ Manche verwenden „[Inflation](https://curriculum.myfirstbitcoin.org/lexicon/en
 Die [Inflations](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation)rate ist ein Durchschnittswert. Ihre persönliche Erfahrung kann davon abweichen, weil Ihre Ausgaben nicht genau dem gemessenen Warenkorb entsprechen. Die Kosten für Lebensmittel, Wohnen, Verkehr, Bildung und Gesundheit können sich unterschiedlich schnell verändern.
 
 
-> **Light – Kaufkraft vor Ort vergleichen**
+<!-- card: light -->
+> **Kaufkraft vor Ort vergleichen**
 >
 > Wählen Sie einen alltäglichen Artikel in Ihrer Gemeinde. Notieren Sie seinen heutigen [Preis](https://curriculum.myfirstbitcoin.org/lexicon/en/#price). Fragen Sie nach, was er vor einigen Jahren gekostet hat, und überprüfen Sie dies nach Möglichkeit anhand einer verlässlichen Aufzeichnung. Hat sich das Einkommen im gleichen Maße verändert? Welche anderen Faktoren könnten die Veränderung erklären?
 >

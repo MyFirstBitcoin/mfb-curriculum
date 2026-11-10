@@ -22,6 +22,7 @@ Sinusunod ng bawat modyul ang iisang daloy:
 
 
 <!-- micrographic: learning-rhythm-strip-01 -->
+[Isang limang-hakbang na proseso ng pagkatuto: matuto ng isang mahalagang ideya, ipakita kung ano ang kaya ninyong ipaliwanag o ilapat, ilapat ang ideya, ipaliwanag ito sa sarili ninyong mga salita, at balikan kung paano ito nauugnay sa susunod na modyul.](/micrographics/learning-rhythm-strip-01/tl.md)
 
 
 Mas marami kayong matututuhan sa pakikilahok kaysa sa tahimik na pagbabasa. Ang ilang tanong ay walang iisang tamang sagot. Ang mahalaga ay kung maipapaliwanag ninyo ang inyong pangangatwiran, masusuri ang ebidensiya, at mababago ang inyong pananaw kapag may natutuhan kayong bago.
@@ -81,7 +82,8 @@ Kapag oras na para magsanay gamit ang isang [pitakang Bitcoin](https://curriculu
 ### Kaligtasan, pananagutan, at walang payong pinansiyal
 
 
-> **Callout – Matuto muna; hindi ito isang rekomendasyon**
+<!-- card: callout -->
+> **Matuto muna; hindi ito isang rekomendasyon**
 >
 > Ang Bitcoin Diploma ay para lamang sa edukasyon. Hindi ito nagbibigay ng payong pinansiyal, pamumuhunan, legal, o buwis. Hindi nito ipinapangakong tataas ang [presyo](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) ng bitcoin o inirerekomendang bumili, magbenta, mangutang gamit bilang kolateral, o humawak kayo ng anumang halaga ng bitcoin.
 >
@@ -104,6 +106,7 @@ Ang Diploma ay binubuo ng apat na yugto ng pagkatuto: **Problema → Solusyon �
 
 
 <!-- micrographic: learning-path-roadmap-01 -->
+[Isang gabay na may apat na yugto: Suliranin, Pag-unawa sa Pera; Solusyon, Paano Gumagana ang Bitcoin; Pagkilos, Ligtas na Paggamit ng Bitcoin; at Pag-uugnay, Bitcoin sa Inyong Komunidad, na bawat isa ay may gabay na tanong.](/micrographics/learning-path-roadmap-01/tl.md)
 
 
 **Ang Modyul 4** ay isang kinakailangang bahagi ng Diploma na binubuo ng tagapagturo. Ang mga tagapagturo ang mga dalubhasa pagdating sa mga lokal na limitasyon, solusyon, kasangkapan, mapagkukunan, batas, wika, imprastraktura, at pangangailangan ng kanilang mga mag-aaral. Ang karanasan sa Pag-uugnay na binubuo ng tagapagturo ay maaaring sumaklaw sa pagkita, pag-iimpok, pagtanggap, paggastos, [Layer 2](https://curriculum.myfirstbitcoin.org/lexicon/en/#layer-2) na mga solusyon, mga lokal na paraan ng palitan, mga mangangalakal, o mga sirkular na ekonomiya.
@@ -118,6 +121,7 @@ Ibinibigay ng apat na modyul ang kinakailangang landas ng pagkatuto na Problema 
 
 
 <!-- micrographic: four-module-table-01 -->
+[Isang talahanayan ng apat na modyul na nagpapakita ng gampanin, gabay na tanong, at mga pagsasanayan ng mag-aaral sa bawat isa: Pag-unawa sa Pera, Paano Gumagana ang Bitcoin, Ligtas na Paggamit ng Bitcoin, at Bitcoin sa Inyong Komunidad.](/micrographics/four-module-table-01/tl.md)
 
 
 Ang Diploma ay nangangailangan ng hindi bababa sa walong oras. Apat na sesyon na tigdalawang oras ang pinakamaikling nakaplanong ayos, hindi isang takdang limitasyon sa oras. Maaaring hatiin ng inyong tagapagturo ang isang modyul sa mas maraming sesyon, balikan ang isang naunang ideya, o baguhin ang pagkakasunod-sunod ng mga indibidwal na seksiyon kapag nangangailangan ang inyong pangkat ng mas maraming oras para sa talakayan, pagsasanay, pagbabalik-aral, o pagtatasa. Walang pinakamataas na limitasyon sa oras: nananatiling pananagutan ng tagapagturo ang pagbibigay sa mga mag-aaral ng oras na kailangan nila, pagtalakay sa lahat ng kinakailangang kakayahan, at paglilinaw ng mga ugnayan sa pagitan ng mga modyul.

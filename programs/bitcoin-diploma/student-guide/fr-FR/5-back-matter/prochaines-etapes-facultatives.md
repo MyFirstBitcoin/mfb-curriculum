@@ -36,6 +36,7 @@ Le [Réseau d’éducation à Bitcoin](https://myfirstbitcoin.org/about/network)
 
 
 <!-- micrographic: final-safety-check-01 -->
+[Une dernière liste de vérification de sécurité, dont toutes les cases sont cochées : protégez vos secrets, vérifiez les détails du paiement, faites de petits tests et arrêtez-vous en cas de pression. Si quelque chose n’est pas clair, arrêtez-vous et renseignez-vous davantage avant d’agir.](/micrographics/final-safety-check-01/fr-FR.md)
 
 
 Gardez ces règles à l’esprit :
@@ -57,6 +58,7 @@ L’éducation réduit les risques, mais ne peut pas les éliminer. Si une situa
 
 
 <!-- micrographic: curriculum-source-panel-01 -->
+[Un panneau avec un QR code et le lien imprimé github.com/MyFirstBitcoin/mfb-curriculum, la source de référence du diplôme Bitcoin, où vous pouvez vérifier l’édition et signaler des erreurs.](/micrographics/curriculum-source-panel-01/fr-FR.md)
 
 
 Le Diplôme Bitcoin est un programme pédagogique vivant et open source. Les corrections et les améliorations peuvent être examinées publiquement.

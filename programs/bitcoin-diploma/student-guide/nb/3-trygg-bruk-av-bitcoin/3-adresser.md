@@ -1,5 +1,6 @@
 # 3.3 Adresser
 
+<!-- card: definition -->
 > **Definition – Bitcoin-adresse**
 >
 > En [Bitcoin-adresse](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) er offentlig mottaksinformasjon for en [betaling på blokkjeden](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment). En lommebok viser den vanligvis som tekst og en QR-kode, slik at en annen person kan sende bitcoin til Dem. I motsetning til et passord eller en [privat nøkkel](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) kan en adresse ikke godkjenne bruk av midler.
@@ -7,6 +8,7 @@
 
 
 <!-- micrographic: address-two-formats-01 -->
+[Mottaksskjermen i en lommebok viser én Bitcoin-adresse som eksempel to ganger: som QR-kode og som tekst. Begge viser den samme offentlige mottaksinformasjonen, og ingen av dem kan autorisere bruk av midler.](/micrographics/address-two-formats-01/nb.md)
 
 
 Hvis De vil motta en [betaling på blokkjeden](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), hvor bør adressen komme fra? Åpne lommeboken De ønsker å bruke, og bruk mottaksskjermen i den. En avsender kan skanne QR-koden eller kopiere adressen. Slik unngår man feil som kan oppstå når lange tegnstrenger skrives inn for hånd.
@@ -15,9 +17,9 @@ Bekreft den tiltenkte betalingsmåten for hver betalingsforespørsel. En adresse
 
 
 <!-- micrographic: sample-lightning-invoice-01 -->
+[Et eksempel på en Lightning-faktura på en skjerm viser betalingsmåten, mottakeren og beløpet ved siden av QR-koden. De lesbare opplysningene og QR-koden er den samme betalingsforespørselen i to formater.](/micrographics/sample-lightning-invoice-01/nb.md)
 
 
 
-> **Light**
->
+<!-- card: light -->
 > Når en betaling er viktig, må De ikke anse en adresse som trygg bare fordi den ser kjent ut. Bekreft tiltenkt mottaker, riktig [Bitcoin-nettverk](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network), destinasjon og betalingsmåte. Gjør først en test med et lite beløp når fremgangsmåten eller beløpet er uvant.

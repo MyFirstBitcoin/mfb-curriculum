@@ -10,6 +10,7 @@ Matematiği değil, ilişkiyi öğretin:
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Bir madenci, önerilen bir bloğun hash'ini sonuçlardan biri ağın hedefinin altına düşene kadar tekrar tekrar hesaplar, ardından bloğu yayınlar. Blok, blok zincirine eklenmeden önce düğümler kanıtı ve tüm kuralları hızlıca kontrol eder: iş, üretmesi maliyetli ve doğrulaması kolaydır.](/micrographics/proof-of-work-process-01/tr.md)
 
 
 Şunu söylemekten kaçının: [madenciler](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) dış dünyada işe yarayan denklemler çözer. Enerji maliyetinin kendiliğinden haklı ya da kendiliğinden israf olduğunu iddia etmekten kaçının.

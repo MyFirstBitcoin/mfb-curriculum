@@ -14,6 +14,7 @@ Ang kapaki-pakinabang na pera ay karaniwan ding may ilang katangian:
 
 
 <!-- micrographic: money-property-questions-01 -->
+[Pitong katangian ng kapaki-pakinabang na pera, bawat isa ay may tanong na maaaring gamitin sa paghahambing ng mga anyo ng pera: tibay, daling dalhin, kakayahang hatiin, kakayahang ipagpalit ang magkakatumbas na yunit, limitadong suplay, pagtanggap at kakayahang mapatunayan.](/micrographics/money-property-questions-01/tl.md)
 
 
 Walang anyo ng pera na perpekto sa lahat ng pamantayan.
@@ -22,6 +23,7 @@ Inihahambing din ng mga tao ang pera batay sa [**katatagan nito**](https://curri
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Dalawang patong: ang tatlong tungkulin ng pera (midyum ng palitan, yunit ng pagtutuos, imbakan ng halaga) ay nakasalalay sa pitong katangian (tibay, dali ng pagdadala, kakayahang hatiin, kakayahang mapagpalit-palit, kakapusan ng suplay, pagiging katanggap-tanggap at kakayahang mapatunayan).](/micrographics/functions-and-properties-01/tl.md)
 
 
 [Ang ginto](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) ay matibay at kakaunti ang suplay ngunit mahirap hatiin at dalhin para sa maliliit na pagbabayad. [Ang perang papel](https://curriculum.myfirstbitcoin.org/lexicon/en/#paper-cash) ay madaling dalhin at tinatanggap sa lokal na lugar, ngunit maaari itong masira at maaaring madagdagan ang suplay nito. Ang pinakamainam na paghahambing ay nakabatay sa layunin, lugar, at panahon.

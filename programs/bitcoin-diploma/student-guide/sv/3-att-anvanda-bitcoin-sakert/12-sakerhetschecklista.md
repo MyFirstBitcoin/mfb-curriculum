@@ -6,6 +6,7 @@ Vad skulle få Er att avbryta före en betalning eller installation? Betrakta f�
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Fem varningssignaler för bedrägerier: brådska, falsk identitet, en ändrad destination, garanterad avkastning och begäran om hemliga uppgifter.](/micrographics/scam-red-flags-01/sv.md)
 
 
 Det säkra sättet att reagera är alltid: **Pausa. Dela ingenting. Skicka ingenting. Stäng kommunikationskanalen. Kontrollera på egen hand via en känd källa. Be om hjälp utan att avslöja hemligheter.** En känd källa är en officiell webbplats, en appsida i en appbutik eller en kontaktväg som Ni har hittat på egen hand, inte via en annons, ett direktmeddelande eller en oväntad länk. Kontrollera utgivaren och webbadressen, jämför med officiell dokumentation och sök upp kontaktuppgifter separat. Om källan, instruktionerna eller betalningsuppgifterna avviker från det tillvägagångssätt som visats, pausa och sök hjälp från Er utbildare eller betrodd lokal support utan att avslöja en [återställningsfras](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) eller [privat nyckel](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key). En verklig möjlighet tål en noggrann kontroll; ett bedrägeri bygger ofta på att förhindra en sådan.

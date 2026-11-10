@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: four-module-diploma-01 -->
+[Vzdělávací program Bitcoin Diploma postupuje ve čtyřech fázích v tomto pořadí: Problém, Řešení, Akce a Propojení.](/micrographics/four-module-diploma-01/cs.md)
 
 
 **Modul 4** je povinnou součástí výuky programu Bitcoin Diploma, jejíž obsah vybírají vyučující jako odborníci na místní podmínky v dané oblasti. Scénář či nástroj se může měnit, ale každý studující usilující o získání certifikátu musí splnit `C7` prostřednictvím místní aktivity, která naplňuje účel `C7.1` a `C7.2`.

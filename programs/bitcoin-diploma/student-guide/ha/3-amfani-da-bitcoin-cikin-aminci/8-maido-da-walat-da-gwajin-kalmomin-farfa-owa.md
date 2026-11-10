@@ -8,6 +8,7 @@ Atisayen shiri domin dawo da walat cikin aminci abu ne mai sauƙi:
 
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[Atisayen matakai shida na dawo da jakar kuɗin horo: ku bi umarnin hukuma, ku duba dacewa, ku yi aikin a keɓance, ku yi amfani da hanyar dawo da ita da aka amince da ita, ku tabbatar cewa jakar kuɗin ita ce wadda ake sa ran samu, sannan ku sake saita komai. Ku yi amfani da kayan da aka tanada, marasa komai ko na kwaikwayo kawai, kuma malamin ba zai taɓa ganin kalmomin dawo da jakar kuɗi ba.](/micrographics/practice-wallet-recovery-01/ha.md)
 
 
 Kada ku yi amfani da walat ɗin horo ko bayanan dawo da shi don adana kuɗi masu yawa bayan kammala Diploma. Walat na kanku, idan kun zaɓi ƙirƙirar ɗaya daga baya, yana buƙatar sabon saiti da za ku yi a keɓance da kuma sabbin bayanan dawo da shi.

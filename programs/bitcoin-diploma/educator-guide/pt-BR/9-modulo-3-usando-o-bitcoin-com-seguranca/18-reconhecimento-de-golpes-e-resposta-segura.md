@@ -19,6 +19,7 @@ Use a resposta padrão:
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Cinco sinais de alerta de golpe: urgência, falsificação de identidade, destino alterado, retornos garantidos e pedidos de segredos.](/micrographics/scam-red-flags-01/pt-BR.md)
 
 
 #### Atividade: estações de golpes

@@ -3,6 +3,7 @@
 Kişisel bilgisayarların ve internetin yaygınlaşması, iletişim için yeni fırsatlar yarattı. Aynı zamanda yeni gözetim ve kontrol biçimlerini de beraberinde getirdi. Yirminci yüzyılın sonlarında, programcılar, matematikçiler ve aktivistlerden oluşan ve [**Cypherpunk'lar**](https://curriculum.myfirstbitcoin.org/lexicon/en/#cypherpunk) olarak bilinen bir grup, [kriptografinin](https://curriculum.myfirstbitcoin.org/lexicon/en/#cryptography) dijital sistemlerde [mahremiyeti](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy) ve bireysel özgürlüğü nasıl koruyabileceğini araştırdı.
 
 
+<!-- card: definition -->
 > **Definition – Kriptografi**
 >
 > [Kriptografi](https://curriculum.myfirstbitcoin.org/lexicon/en/#cryptography), bilgiyi korumak ve bir eylemin gerçek olduğunu kanıtlamak için matematiksel yöntemler kullanır. [Şifreleme](https://curriculum.myfirstbitcoin.org/lexicon/en/#encryption) bir mesajı gizli tutabilir. [Dijital imzalar](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature), bir mesajın veya talimatın gizli bir anahtarın sahibinden geldiğini, o anahtarı açığa çıkarmadan kanıtlayabilir.
@@ -16,3 +17,4 @@ Bitcoin, pek çok insanın onlarca yıllık çalışması üzerine inşa edildi.
 
 
 <!-- micrographic: chain-of-ideas-01 -->
+[Bir fikirler zinciri: kriptografi dijital nakit üzerine yapılan araştırmalara, bu da merkeziyetsiz dijital paraya giden yolu açtı. Bitcoin, birçok kişinin onlarca yıllık önceki çalışmalarını yeni bir şekilde bir araya getirdi.](/micrographics/chain-of-ideas-01/tr.md)

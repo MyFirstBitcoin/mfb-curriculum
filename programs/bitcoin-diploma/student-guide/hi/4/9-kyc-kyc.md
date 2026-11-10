@@ -3,7 +3,8 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) और [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) के तरीकों में अलग-अलग [लाभ-हानि संबंधी समझौते करने पड़ते हैं](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off)। इनमें से कोई भी नाम सावधानीपूर्वक मूल्यांकन की आवश्यकता को समाप्त नहीं करता।
 
 
-> **Callout – निजता से कानूनी या शारीरिक सुरक्षा संबंधी जोखिम समाप्त नहीं होते**
+<!-- card: callout -->
+> **निजता से कानूनी या शारीरिक सुरक्षा संबंधी जोखिम समाप्त नहीं होते**
 >
 > न तो [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) और न ही [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) अपने-आप में सर्वोत्तम है। वास्तविक तरीके की तुलना करें, नियम अस्पष्ट होने पर मौजूदा स्थानीय मार्गदर्शन लें, और स्थानीय कानून न तोड़ें या स्वयं को शारीरिक खतरे में न डालें, भले ही आपका उद्देश्य हो [निजता](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy)।
 

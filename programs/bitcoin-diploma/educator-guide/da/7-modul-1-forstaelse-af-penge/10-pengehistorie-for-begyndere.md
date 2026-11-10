@@ -12,6 +12,7 @@ Udarbejd en lagdelt eller sammenflettet tidslinje frem for en enkelt pil, der vi
 
 
 <!-- micrographic: forms-of-money-01 -->
+[Seks pengeformer vises fra venstre mod højre i den rækkefølge, de opstod: direkte udveksling, varepenge, standardiserede mønter, repræsentative papirpenge, bank- og statspenge og digitale penge. Hver ny form opstår senere, mens de ældre former fortsætter ved siden af, så mange former eksisterer side om side, frem for at én erstatter en anden.](/micrographics/forms-of-money-01/da.md)
 
 
 Indbyd til lokale tilføjelser. Spørg, hvilke former der eksisterede side om side, frem for at antage, at én form erstattede en anden fuldstændigt.

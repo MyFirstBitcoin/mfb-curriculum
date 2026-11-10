@@ -24,7 +24,8 @@ Phones are optional. If a device is unavailable, use the paper simulation or edu
 Choose a nonfunctional simulation or printed sequence as the default route. An educator-controlled empty test-wallet demonstration may be used after its source, version, network, custody model, and reset method have been checked. Participants explore the prepared route without creating, restoring, signing with, funding, or receiving bitcoin through it.
 
 
-> **Callout – Keep it a learning demonstration**
+<!-- card: callout -->
+> **Keep it a learning demonstration**
 >
 > A test or training wallet is for exploring an interface or process; it contains no real bitcoin and is not a participant's future wallet. Any wallet intended to receive real funds needs private, deliberate setup and a protected recovery plan outside this activity. Keep recovery phrases, private keys, passwords, personal wallets, and funds out of this demonstration.
 

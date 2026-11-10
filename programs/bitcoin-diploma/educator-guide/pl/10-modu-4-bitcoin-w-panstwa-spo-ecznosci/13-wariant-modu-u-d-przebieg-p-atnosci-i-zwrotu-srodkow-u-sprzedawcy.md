@@ -18,6 +18,7 @@ Należy omówić:
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[Sprzedawca akceptujący Bitcoin działa w czterech obszarach: marketingu, szkoleń, księgowości i sprzedaży.](/micrographics/merchant-payment-operations-01/pl.md)
 
 
 **Zadanie praktyczne:** Osoba ucząca się realizuje scenariusz płatności i zwrotu środków lub kieruje jego realizacją. Musi potwierdzić tożsamość klienta, poprosić o aktualne dane do zwrotu, sprawdzić miejsce docelowe i kwotę, ustalić, kto pokrywa ewentualną opłatę, oraz odnotować wynik bez ujawniania zbędnych danych.

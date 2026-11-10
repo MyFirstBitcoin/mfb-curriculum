@@ -10,6 +10,7 @@ Nakreslete zjednodušenou rozvahu:
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Zjednodušené znázornění bankovního úvěru: dlužník podá žádost, banka úvěr schválí a připíše na účet dlužníka nový vklad a dlužník později splatí bance jistinu spolu s úroky.](/micrographics/bank-loan-deposit-01/cs.md)
 
 
 Nepoužívejte výklad „peněžního multiplikátoru“ založený na opakovaném vkládání fyzických peněz, jako by mechanicky popisoval fungování každého moderního bankovního systému.
@@ -21,6 +22,7 @@ Rozlišujte:
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Riziko likvidity: mnoho vkladatelů dnes stojí ve frontě na výběr peněz a banka nyní nemá dostatek hotovosti, přestože její úvěry mohou být splaceny později. Riziko platební neschopnosti: dlužníci nesplácejí úvěry na bydlení a hodnota aktiv banky klesá pod výši jejích závazků.](/micrographics/liquidity-vs-solvency-01/cs.md)
 
 
 Zeptejte se:

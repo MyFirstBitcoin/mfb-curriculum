@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: self-custody-responsibilities-01 -->
+[Anahtarların kontrolü sekiz sorumluluğun merkezinde yer alır: yedekleme, kurtarma, alma, gönderme, araç seçimi, edinme yolu, gizlilik ve dolandırıcılık kontrolleri. Her biri bir şeyi korur ve herhangi birindeki bir hata erişim, para ya da gizlilik kaybına yol açabilir.](/micrographics/self-custody-responsibilities-01/tr.md)
 
 
 
 <!-- micrographic: responsibility-checks-01 -->
+[Altı öz saklama görevini, her biri için korunması veya kontrol edilmesi gerekenleri ve bir şeyler ters giderse neler olabileceğini gösteren bir tablo: yedekleme, alma, gönderme, saklama, araç seçimi ve edinme.](/micrographics/responsibility-checks-01/tr.md)
 
 
 Bir arkadaşınızın size bir ödeme talebi gönderdiğini, aynı anda tanımadığınız bir destek hesabının hemen harekete geçmeniz gerektiğini söylediğini hayal edin. Herhangi bir şey yapmadan önce neleri kontrol edebilirsiniz? Bir kurtarma planını koruyabilir, alma bilgilerini gizli bilgilerden ayırt edebilir ve göndermeden önce kişiyi, ödeme yöntemini, hedefi, tutarı ve son ekranı doğrulayabilir misiniz? Anahtarları ister bir hizmet ister siz kontrol edin, pratik özet aynıdır: gizli bilgileri koruyun, onaylamadan önce doğrulayın, dolandırıcılık işaretlerini tanıyın ve öğrenirken hataları küçük tutun.

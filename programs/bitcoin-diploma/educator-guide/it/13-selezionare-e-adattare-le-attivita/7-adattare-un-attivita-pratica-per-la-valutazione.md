@@ -14,6 +14,7 @@ Se l'equivalenza è incerta, utilizzi l'adattamento come esercitazione e scelga 
 
 
 <!-- micrographic: adapt-practice-or-assessment-01 -->
+[Le attività di pratica possono essere adattate ai discenti e al contesto. Un'attività utilizzata per la valutazione deve mantenere la competenza, la prova, l'autonomia, la sicurezza e lo standard minimo; se l'equivalenza è incerta, utilizzi l'adattamento per la pratica e scelga un compito di valutazione più chiaro.](/micrographics/adapt-practice-or-assessment-01/it.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/8444d4c2c23ce8cb5b0103bb646ce8c50c4594c3-1536x1024.svg)

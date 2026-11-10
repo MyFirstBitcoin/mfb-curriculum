@@ -12,6 +12,7 @@ Recevoir un paiement n’autorise pas la sortie de fonds de votre portefeuille, 
 
 
 <!-- micrographic: check-what-you-receive-01 -->
+[Un exemple d’écran de réception sur un téléphone affiche la méthode de paiement, la demande de paiement à partager, le montant et le statut « En attente ». Un message ou une capture d’écran indiquant « envoyé » n’est pas une preuve : vérifiez le statut dans votre propre portefeuille.](/micrographics/check-what-you-receive-01/fr-FR.md)
 
 
 Un message ou une capture d’écran indiquant « envoyé » ne constitue pas une preuve. Quels éléments pouvez-vous constater vous-même ? Consultez le portefeuille destinataire ou la vue approuvée de la [transaction](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction). Pour les [paiements sur la blockchain](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), un portefeuille peut d’abord afficher la [transaction](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) comme étant en attente. [Le statut de confirmation](https://curriculum.myfirstbitcoin.org/lexicon/en/#confirmation) renforce la confiance dans le règlement du paiement ; il ne corrige ni une adresse erronée ni une escroquerie. Un portefeuille peut proposer une nouvelle adresse pour une nouvelle réception de paiement ; les anciennes adresses peuvent encore fonctionner, mais réutiliser une même adresse peut faciliter le rapprochement de paiements distincts. Une nouvelle adresse rend ce rapprochement moins facile ; elle ne rend pas un paiement anonyme.

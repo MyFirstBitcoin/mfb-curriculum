@@ -4,12 +4,14 @@ Zapojte tři osoby, jejichž zboží a potřeby se vzájemně neshodují. Nejprv
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina má rýži a chce boty, Luis má boty a chce olej na vaření a Mei má olej na vaření a chce opravářské práce. Žádná dvojice nemůže směňovat přímo, protože ani jeden z dvojice nechce to, co nabízí ten druhý.](/micrographics/barter-mismatch-01/cs.md)
 
 
 Poté zaveďte všeobecně přijímaný prostředek směny.
 
 
 <!-- micrographic: sell-then-buy-01 -->
+[Amina prodává rýži jedné osobě za běžně přijímané peníze a později si za tyto peníze kupuje boty od někoho jiného. Prodej a nákup se stávají oddělenými činnostmi.](/micrographics/sell-then-buy-01/cs.md)
 
 
 Zeptejte se:

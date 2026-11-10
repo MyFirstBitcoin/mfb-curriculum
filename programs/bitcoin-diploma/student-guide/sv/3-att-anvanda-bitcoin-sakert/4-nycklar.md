@@ -3,6 +3,7 @@
 Ägande av Bitcoin säkerställs genom kryptografiska nycklar.
 
 
+<!-- card: definition -->
 > **Definition – Privat nyckel**
 >
 > En [privat nyckel](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) är hemlig information som gör det möjligt för en plånbok att skapa giltiga [digitala signaturer](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature). En signatur godkänner användningen av bitcoin som kontrolleras av motsvarande nyckel. Den som får tag på den [privata nyckeln](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) kan vanligtvis använda dessa medel.
@@ -21,10 +22,10 @@ De flesta nybörjarplånböcker använder [enkelsignering](https://curriculum.my
 Ingen seriös utbildare, plånboksleverantör, börsanställd, teknisk supportmedarbetare eller Bitcoin-utvecklare behöver er [privata nyckel](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) eller [återställningsfras](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase). Den som ber om den bör betraktas som ett hot.
 
 
-> **Light**
->
+<!-- card: light -->
 > **Prova själva:** Sortera förberedda exempel i tre grupper: information som är säker att dela för att ta emot betalningar, hemlig information för att använda medel och information som kan vara offentlig men ändå bör hållas privat när den är kopplad till en person.
 
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[En hemlig privat nyckel, som aldrig får delas med någon, ligger till grund för publik information som kan delas: en publik nyckel som härleds från den och en mottagaradress som skapas utifrån den publika nyckeln. Samma privata nyckel skapar signaturer som noder verifierar utan att någonsin få kännedom om den privata nyckeln.](/micrographics/private-key-public-info-01/sv.md)

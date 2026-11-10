@@ -12,6 +12,7 @@ Sử dụng một [_txid_](https://curriculum.myfirstbitcoin.org/lexicon/en/#tra
 
 
 <!-- micrographic: confirmation-timeline-01 -->
+[Một giao dịch chưa được xác nhận nằm trong vùng chờ, sau đó được đưa vào Khối N để nhận lượt xác nhận đầu tiên, và mỗi khối tiếp theo bổ sung thêm một lượt xác nhận.](/micrographics/confirmation-timeline-01/vi.md)
 
 
 Sau đó, hãy hỏi:

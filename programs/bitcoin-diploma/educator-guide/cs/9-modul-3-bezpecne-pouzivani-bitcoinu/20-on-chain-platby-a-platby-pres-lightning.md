@@ -18,3 +18,4 @@ Lightning není samostatná mince. Úspěšná lightningová platba nedokazuje, 
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Platby na blockchainu se zaznamenávají přímo do blockchainu Bitcoinu, zatímco Lightning je platební síť postavená na Bitcoinu pro rychlé a časté platby, které však mohou i selhat. Obě možnosti mohou využívat správu prostředků třetí stranou nebo vlastní správu prostředků.](/micrographics/on-chain-and-lightning-01/cs.md)

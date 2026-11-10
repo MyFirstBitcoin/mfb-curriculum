@@ -7,8 +7,7 @@ Yayin da kuke kwatanta kowace [kadara ta dijital](https://curriculum.myfirstbitc
 Kwatantawar da ke ƙasa tana bambanta rukunoni da zaɓuɓɓukan tsara su. Ba nuna goyon baya ba ne, ko bayar da shawara, ko iƙirarin cewa kowace [kadara](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) tana da aminci, abin dogaro ce, ko ta dace da ku.
 
 
-> **Dark**
->
+<!-- card: dark -->
 > Zamba, iƙirarin yaudara, da ayyuka marasa aminci na iya shafar kowace [kadara ta dijital](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-asset) ko hanyar biyan kuɗi. Ku binciki takamaiman [kadara](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset), sabis, da [riƙon amana](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) da aka tsara maimakon ɗauka cewa rukuni yana da aminci ko ba shi da aminci saboda rukunin da yake ciki kawai.
 
 

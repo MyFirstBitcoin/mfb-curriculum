@@ -12,6 +12,7 @@ Karɓa ba ya ba da izinin fitar da kuɗi daga walat ɗinku, amma har yanzu yana 
 
 
 <!-- micrographic: check-what-you-receive-01 -->
+[Misalin allon karɓar kuɗi a waya yana nuna hanyar biyan kuɗi, buƙatar biyan kuɗi da za a raba, adadin kuɗin da matsayin da ke nuna ana jira. Saƙo ko hoton allo da ke cewa "an aika" ba hujja ba ne: ku duba matsayin a cikin walat ɗinku.](/micrographics/check-what-you-receive-01/ha.md)
 
 
 Saƙo ko hoton allo da ke cewa “an aika” ba hujja ba ne. Wace hujja za ku iya gani da kanku? Ku duba walat ɗin karɓa ko shafin da aka amince da shi na [mu'amala](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) domin ganin bayananta. Don [biyan kuɗi ta hanyar sarkar bayanai](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), walat na iya fara nuna [mu'amalar](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) a matsayin mai jiran kammalawa. [Tabbatarwa](https://curriculum.myfirstbitcoin.org/lexicon/en/#confirmation) a matakin da aka kai tana ƙara kwarin gwiwar cewa an kammala biyan kuɗin; ba ta gyara adireshin da ba daidai ba ko damfara. Walat na iya samar da sabon adireshi don sabon karɓar kuɗi; tsofaffin adireshi na iya ci gaba da aiki, amma sake amfani da adireshi ɗaya na iya sauƙaƙa gano alaƙa tsakanin biyan kuɗi daban-daban. Sabon adireshi yana rage sauƙin gano wannan alaƙa; ba ya sa biyan kuɗin ya zama wanda ba za a iya gano mai yinsa ba.

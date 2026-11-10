@@ -12,6 +12,7 @@ Zeigen Sie anhand einer vorbereiteten [_txid_](https://curriculum.myfirstbitcoin
 
 
 <!-- micrographic: confirmation-timeline-01 -->
+[Eine Transaktion wartet unbestätigt in der Warteschlange, wird dann in Block N als erste Bestätigung aufgenommen, und jeder weitere Block fügt eine weitere Bestätigung hinzu.](/micrographics/confirmation-timeline-01/de.md)
 
 
 Fragen Sie anschließend:

@@ -7,8 +7,7 @@ Când comparați orice [Activ Digital](https://curriculum.myfirstbitcoin.org/lex
 Comparația de mai jos diferențiază categoriile și opțiunile de proiectare. Nu reprezintă o susținere, o recomandare sau o afirmație că vreun [activ](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) este sigur, fiabil sau potrivit pentru dumneavoastră.
 
 
-> **Dark**
->
+<!-- card: dark -->
 > Escrocheriile, afirmațiile înșelătoare și serviciile nesigure pot afecta orice [Activ Digital](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-asset) sau modalitate de plată. Verificați fiecare [activ](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset), serviciu și modalitate de [custodie](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) în parte, în loc să presupuneți că o categorie este sigură sau nesigură în sine.
 
 

@@ -3,6 +3,7 @@
 Die groei van persoonlike rekenaars en die internet het nuwe geleenthede vir kommunikasie geskep. Dit het ook nuwe vorme van toesig en beheer geskep. In die laat twintigste eeu het ’n groep programmeerders, wiskundiges en aktiviste bekend as [**Cypherpunks**](https://curriculum.myfirstbitcoin.org/lexicon/en/#cypherpunk) ondersoek hoe [Kriptografie](https://curriculum.myfirstbitcoin.org/lexicon/en/#cryptography) beskerming kon bied aan [privaatheid](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy) en individuele vryheid in digitale stelsels.
 
 
+<!-- card: definition -->
 > **Definition – Kriptografie**
 >
 > [Kriptografie](https://curriculum.myfirstbitcoin.org/lexicon/en/#cryptography) gebruik wiskundige metodes om inligting te beskerm en te bewys dat ’n handeling eg is. [Enkripsie](https://curriculum.myfirstbitcoin.org/lexicon/en/#encryption) kan ’n boodskap privaat hou. [Digitale handtekeninge](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) kan bewys dat ’n boodskap of instruksie van die houer van ’n geheime sleutel afkomstig is sonder om daardie sleutel te openbaar.
@@ -16,3 +17,4 @@ Bitcoin is gebou op dekades se werk deur baie mense. Die ontwerp daarvan het vro
 
 
 <!-- micrographic: chain-of-ideas-01 -->
+[’n Ketting van idees: kriptografie het tot navorsing oor digitale kontant gelei, wat die weg na gedesentraliseerde digitale geld gebaan het. Bitcoin het dekades se vroeëre werk deur baie mense op ’n nuwe manier saamgevoeg.](/micrographics/chain-of-ideas-01/af.md)

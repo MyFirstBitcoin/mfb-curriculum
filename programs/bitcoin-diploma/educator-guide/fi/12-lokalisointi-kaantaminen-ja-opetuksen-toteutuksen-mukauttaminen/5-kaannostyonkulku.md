@@ -14,6 +14,7 @@ Noudattakaa tätä järjestystä:
 
 
 <!-- micrographic: translation-workflow-01 -->
+[Kääntäminen on tarkistus- ja testausprosessi: valmistelkaa selkeä englanninkielinen teksti, kääntäkää sen merkitys, tarkistakaa käännös kieliasiantuntijan ja opettajan kanssa, testatkaa turvallisuusohjeet oppijoiden kanssa ja varmistakaa lopuksi vaatimusten vastaavuus. Jos turvallisuusohjeet ovat epäselviä, palatkaa niiden sanamuotoihin.](/micrographics/translation-workflow-01/fi.md)
 
 
 Välttäkää sanontoja ja kielikuvia, jotka eivät välity selkeästi kielestä ja kulttuurista toiseen. Jos käytätte vertausta, kertokaa aina, mitä se selittää ja mitä ei.

@@ -3,6 +3,7 @@
 Sebuah [sistem terpusat](https://curriculum.myfirstbitcoin.org/lexicon/en/#centralized-system) memiliki titik kendali. Sebuah bank mengendalikan pencatatan nasabahnya dalam [buku besar](https://curriculum.myfirstbitcoin.org/lexicon/en/#ledger). Sebuah perusahaan pembayaran mengendalikan jaringannya. Sebuah pemerintah mengendalikan aturan penerbitan [mata uangnya](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency).
 
 
+<!-- card: definition -->
 > **Definition – Desentralisasi**
 >
 > Sebuah [sistem terdesentralisasi](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralized-system) mendistribusikan peran dan penegakan keputusan di antara banyak peserta independen. Bitcoin tidak memiliki kantor pusat yang dapat membuat akun, mengubah saldo, atau menyetujui keanggotaan.
@@ -22,6 +23,7 @@ Pada Bitcoin, [desentralisasi](https://curriculum.myfirstbitcoin.org/lexicon/en/
 
 
 <!-- micrographic: powers-and-limits-01 -->
+[Pengguna, simpul, penambang, pengembang, dan layanan masing-masing memiliki sebagian kekuasaan terkait aturan bersama dan buku besar publik Bitcoin, tetapi tidak satu pun dapat mengubah buku besar atau aturan bagi semua pihak secara sepihak.](/micrographics/powers-and-limits-01/id.md)
 
 
 [Desentralisasi](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) juga menimbulkan biaya. Koordinasi dapat menjadi lebih lambat. Pengguna harus memverifikasi informasi dan memikul tanggung jawab yang lebih besar. Tidak ada pusat bantuan untuk [jaringan Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). Berbagai [kompromi](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) ini merupakan bagian dari rancangan, bukan cacat yang tidak disengaja dan dapat dihilangkan tanpa mengubah sistem.

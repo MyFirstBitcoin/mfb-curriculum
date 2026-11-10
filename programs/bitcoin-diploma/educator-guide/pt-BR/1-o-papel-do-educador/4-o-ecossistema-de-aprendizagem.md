@@ -13,3 +13,4 @@ Cada parte do Bitcoin Diploma tem uma função específica.
 
 
 <!-- micrographic: learning-ecosystem-map-01 -->
+[O Guia do Aluno fornece as explicações, o Guia do Educador apoia o ensino e as atividades selecionadas da Central de Recursos apoiam a prática. A Grade de Avaliação guarda os resultados privados das avaliações.](/micrographics/learning-ecosystem-map-01/pt-BR.md)

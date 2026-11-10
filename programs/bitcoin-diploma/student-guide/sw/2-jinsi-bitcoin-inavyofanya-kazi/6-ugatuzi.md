@@ -3,6 +3,7 @@
 Kila [mfumo wa kati](https://curriculum.myfirstbitcoin.org/lexicon/en/#centralized-system) una kituo cha udhibiti. Benki hudhibiti [leja](https://curriculum.myfirstbitcoin.org/lexicon/en/#ledger) ya wateja wake. Kampuni ya malipo hudhibiti mtandao wake. Serikali hudhibiti kanuni za utoaji wa [sarafu](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) yake.
 
 
+<!-- card: definition -->
 > **Definition – Ugatuaji**
 >
 > Kila [mfumo uliogatuliwa](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralized-system) hugawa majukumu na utekelezaji wa maamuzi miongoni mwa washiriki wengi huru. Bitcoin haina ofisi kuu inayoweza kufungua akaunti, kubadilisha salio, au kuidhinisha uanachama.
@@ -22,6 +23,7 @@ Kwa Bitcoin, [ugatuaji](https://curriculum.myfirstbitcoin.org/lexicon/en/#decent
 
 
 <!-- micrographic: powers-and-limits-01 -->
+[Watumiaji, nodi, wachimbaji, wasanidi programu na huduma kila mmoja ana kiasi fulani cha mamlaka kuhusiana na sheria za pamoja na leja ya umma ya Bitcoin, lakini hakuna anayeweza peke yake kubadilisha leja au sheria kwa kila mtu.](/micrographics/powers-and-limits-01/sw.md)
 
 
 [Ugatuaji](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) pia huleta gharama. Uratibu unaweza kuwa wa polepole zaidi. Watumiaji lazima wathibitishe taarifa na kubeba wajibu zaidi. Hakuna dawati kuu la usaidizi kwa [mtandao wa Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). [Mabadilishano haya ya faida na hasara](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) ni sehemu ya muundo, si kasoro za bahati mbaya zinazoweza kuondolewa bila kubadilisha mfumo.

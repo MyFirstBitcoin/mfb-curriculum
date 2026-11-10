@@ -16,6 +16,7 @@ Petakan:
 
 
 <!-- micrographic: local-circular-economy-01 -->
+[Dalam ekonomi sirkular Bitcoin, bitcoin berpindah dari satu orang ke orang lain sebagai imbalan atas barang, jasa, dan waktu. Pelanggan membayar pedagang, pedagang membayar penyedia jasa, penyedia jasa membayar pekerja, dan pekerja membelanjakannya kembali sebagai pelanggan.](/micrographics/local-circular-economy-01/id.md)
 
 
 Untuk menemukan sumber daya, verifikasi:

@@ -11,6 +11,7 @@ Bitcoin var ikke det første forsøket på digitale penger. Det bygget på fire 
 Til sammen viste disse eksperimentene nyttige brikker i puslespillet. De tydeliggjorde også problemet som gjensto.
 
 
+<!-- card: definition -->
 > **Definition – Dobbeltbruk**
 >
 > [Dobbeltbruk](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending) er et forsøk på å sende den samme digitale enheten til to mottakere. Digitale data kan kopieres helt nøyaktig, så et digitalt pengesystem trenger en måte å fastslå hvilken [transaksjon](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) som er gyldig.
@@ -28,6 +29,7 @@ Hvitboken samlet egenskapene som var nødvendige for denne tilnærmingen:
 
 
 <!-- micrographic: five-part-response-01 -->
+[Fem deler bidrar sammen til å løse problemet med dobbeltbruk: et likemannsnettverk, digitale signaturer, blokker og utvinning, uavhengig verifisering og en felles historikk med mest akkumulert arbeidsbevis. Sammen gjør de det mulig for nettverket å avvise at de samme midlene brukes to ganger, uten noen sentral myndighet.](/micrographics/five-part-response-01/nb.md)
 
 
 Denne modulen forklarer disse begrepene mer detaljert. Sammen ga de et praktisk svar på [dobbeltforbruksproblemet](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): nettverket kan avvise et nytt forsøk på å bruke de samme bitcoinene uten å være avhengig av en sentral myndighet. Bitcoin tilbød den manglende kombinasjonen som flere tiår med eksperimenter med digitale penger hadde søkt etter.

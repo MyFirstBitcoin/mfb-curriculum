@@ -17,3 +17,4 @@ Ingen legitim underviser, walletvirksomhed, børsmedarbejder, udvikler, supportm
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[En hemmelig privat nøgle, som aldrig må deles, danner grundlag for offentlige oplysninger, der kan deles: en offentlig nøgle afledt af den og en modtagelsesadresse oprettet ud fra den offentlige nøgle. Den samme private nøgle opretter signaturer, som noder verificerer uden nogensinde at få kendskab til den private nøgle.](/micrographics/private-key-public-info-01/da.md)

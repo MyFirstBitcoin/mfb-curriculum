@@ -8,6 +8,7 @@ Een veilige oefening om voorbereid te zijn op herstel is eenvoudig:
 
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[Een oefening in zes stappen voor het herstellen van een trainingswallet: volg de officiële instructies, controleer de compatibiliteit, werk in privacy, gebruik de goedgekeurde herstelmethode, bevestig de verwachte wallet en stel daarna alles opnieuw in. Gebruik uitsluitend voorbereide, lege of gesimuleerde materialen; de docent ziet de herstelwoorden nooit.](/micrographics/practice-wallet-recovery-01/nl.md)
 
 
 Gebruik een oefen-Wallet of de bijbehorende herstelgegevens na het Diploma niet om betekenisvolle bedragen veilig te stellen. Een persoonlijke Wallet, als u er later voor kiest er een aan te maken, vereist een nieuwe, privé uitgevoerde installatie en nieuwe herstelgegevens.

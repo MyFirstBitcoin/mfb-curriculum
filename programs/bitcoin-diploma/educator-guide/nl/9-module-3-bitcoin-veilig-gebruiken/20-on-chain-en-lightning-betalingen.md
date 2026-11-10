@@ -18,3 +18,4 @@ Lightning is geen aparte munt. Een geslaagde Lightning-betaling bewijst niet dat
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[On-chain-betalingen worden rechtstreeks vastgelegd in de blockchain van Bitcoin, terwijl Lightning een betaalnetwerk is dat op Bitcoin is gebouwd voor snelle, frequente betalingen die ook kunnen mislukken. Beide routes kunnen custodial (bewaring door een derde partij) of self-custodial (in eigen beheer) zijn.](/micrographics/on-chain-and-lightning-01/nl.md)

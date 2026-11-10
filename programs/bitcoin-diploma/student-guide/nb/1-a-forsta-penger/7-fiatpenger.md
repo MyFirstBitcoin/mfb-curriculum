@@ -1,5 +1,6 @@
 # 1.7 Fiatpenger
 
+<!-- card: definition -->
 > **Definition – Fiatpenger**
 >
 > [Fiatpenger](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) er [valuta](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) utstedt med hjemmel i statlig myndighet, vanligvis gjennom en [sentralbank](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank), som ikke kan innløses i en fast mengde av en råvare som [gull](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold). Myndigheter støtter – og i noen sammenhenger pålegger – bruken av denne valutaen ved å kreve at skatter betales med den, og ved å fastsette regler om tvungent betalingsmiddel. De nøyaktige reglene for å ta imot betalinger og gjøre opp [gjeld](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt) varierer mellom jurisdiksjoner.
@@ -11,12 +12,14 @@ Fiatsystemet har flere hovedaktører:
 
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Aktørene i et fiatpengesystem og det som utveksles mellom dem: Sentralbanken fastsetter pengepolitikken og gjør opp betalinger mellom banker, forretningsbanker holder innskudd som er deres forpliktelser overfor kundene, betalingstjenester formidler instrukser, staten krever inn skatter og bruker penger, og innbyggere og bedrifter betaler og mottar betalinger.](/micrographics/fiat-system-flows-01/nb.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
-> **Light – Undersøk en lokal betaling**
+<!-- card: light -->
+> **Undersøk en lokal betaling**
 >
 > Velg én vanlig betaling i Deres lokalsamfunn, for eksempel kjøp av transport, mat eller påfyll til mobiltelefonen; mottak av lønn; eller betaling av en regning. Bruk et realistisk, oppdiktet scenario hvis De foretrekker det. Forklar med tre eller fire setninger:
 >

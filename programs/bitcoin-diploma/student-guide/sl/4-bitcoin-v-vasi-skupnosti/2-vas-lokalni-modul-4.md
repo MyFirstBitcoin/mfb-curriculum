@@ -10,6 +10,7 @@ Vaša lokalna dejavnost v okviru **modula 4** vam bo pomagala:
 
 
 <!-- micrographic: local-module-four-actions-01 -->
+[V lokalnem modulu 4 opravite štiri dejavnosti: povežete zamisel iz modulov od 1 do 3 z lokalno potrebo, primerjate Bitcoin z izvedljivo obstoječo možnostjo, varno vadite ob strokovnem vodenju ter pojasnite, kaj ste se naučili in kateri bi bil odgovoren naslednji korak. Pri tem vas ves čas vodi vaš izobraževalec, včasih pa tudi lokalni strokovnjak.](/micrographics/local-module-four-actions-01/sl.md)
 
 
 Pri svoji dejavnosti lahko raziščete vprašanja, kot so:

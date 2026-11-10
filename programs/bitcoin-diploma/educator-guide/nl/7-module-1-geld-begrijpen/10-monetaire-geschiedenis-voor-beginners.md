@@ -12,6 +12,7 @@ Bouw een gelaagde of gevlochten tijdlijn in plaats van één enkele pijl van voo
 
 
 <!-- micrographic: forms-of-money-01 -->
+[Zes vormen van geld staan van links naar rechts in de volgorde waarin ze zijn ontstaan: directe ruil, warengeld, gestandaardiseerde munten, representatief papiergeld, bank- en overheidsgeld en digitaal geld. Elke nieuwe vorm begint later, terwijl de oudere vormen ernaast blijven bestaan, zodat veel vormen naast elkaar voorkomen in plaats van dat de ene de andere vervangt.](/micrographics/forms-of-money-01/nl.md)
 
 
 Nodig deelnemers uit om lokale aanvullingen te geven. Vraag welke vormen naast elkaar bestonden, in plaats van aan te nemen dat de ene vorm de andere volledig verving.

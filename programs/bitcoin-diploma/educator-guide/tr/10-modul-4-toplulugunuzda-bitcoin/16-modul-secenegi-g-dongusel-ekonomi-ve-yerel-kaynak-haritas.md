@@ -16,6 +16,7 @@ Haritalayın:
 
 
 <!-- micrographic: local-circular-economy-01 -->
+[Bir Bitcoin döngüsel ekonomisinde bitcoin; mallar, hizmetler ve zaman karşılığında kişiden kişiye geçer. Bir müşteri bir satıcıya ödeme yapar, satıcı bir hizmet sağlayıcıya ödeme yapar, hizmet sağlayıcı bir çalışana ödeme yapar ve çalışan da bu bitcoin'i bir müşteri olarak yeniden harcar.](/micrographics/local-circular-economy-01/tr.md)
 
 
 Kaynak keşfi için şunları doğrulayın:

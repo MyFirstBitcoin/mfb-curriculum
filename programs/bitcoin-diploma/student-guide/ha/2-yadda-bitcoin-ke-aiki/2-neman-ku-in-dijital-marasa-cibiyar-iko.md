@@ -3,6 +3,7 @@
 Yawaitar kwamfutocin mutum ɗaya da intanet ya samar da sabbin damar sadarwa. Haka kuma ya samar da sabbin hanyoyin sa ido da sarrafawa. A ƙarshen ƙarni na ashirin, wata ƙungiyar masu tsara manhajoji, masana lissafi, da masu fafutuka da aka sani da [**Cypherpunks**](https://curriculum.myfirstbitcoin.org/lexicon/en/#cypherpunk) ta binciki yadda [ilimin ɓoye bayanai](https://curriculum.myfirstbitcoin.org/lexicon/en/#cryptography) zai iya kare [sirri](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy) da ’yancin ɗaiɗaikun mutane a tsarin dijital.
 
 
+<!-- card: definition -->
 > **Definition – Ilimin ɓoye bayanai**
 >
 > [Ilimin ɓoye bayanai](https://curriculum.myfirstbitcoin.org/lexicon/en/#cryptography) yana amfani da hanyoyin lissafi don kare bayanai da tabbatar da cewa wani aiki na gaskiya ne. [Ɓoye bayanai](https://curriculum.myfirstbitcoin.org/lexicon/en/#encryption) na iya kiyaye sirrin saƙo. [Sa hannun dijital](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) na iya tabbatar da cewa saƙo ko umarni ya fito ne daga mai riƙe da maɓallin sirri ba tare da bayyana wannan maɓalli ba.
@@ -16,3 +17,4 @@ An gina Bitcoin bisa ayyukan da mutane da yawa suka yi tsawon shekarun da suka k
 
 
 <!-- micrographic: chain-of-ideas-01 -->
+[Jerin ra'ayoyi masu alaƙa: ilimin ɓoye bayanai ya haifar da bincike kan tsabar kuɗin dijital, wanda ya share hanyar samar da kuɗin dijital marasa cibiyar iko guda ɗaya. Bitcoin ya haɗa ayyukan da mutane da yawa suka yi a shekarun baya da suka gabata ta wata sabuwar hanya.](/micrographics/chain-of-ideas-01/ha.md)

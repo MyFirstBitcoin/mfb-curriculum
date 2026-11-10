@@ -3,7 +3,8 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) och [icke-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) innebär olika [avvägningar](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Ingen av beteckningarna undanröjer behovet av en noggrann bedömning.
 
 
-> **Callout – Integritet undanröjer inte juridiska risker eller risker för den fysiska säkerheten**
+<!-- card: callout -->
+> **Integritet undanröjer inte juridiska risker eller risker för den fysiska säkerheten**
 >
 > Varken [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) eller [icke-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) är automatiskt bäst. Jämför det faktiska tillvägagångssättet, sök aktuell lokal vägledning när reglerna är oklara och bryt inte mot lokal lagstiftning eller utsätt Er för fysisk fara i strävan efter [integritet](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 

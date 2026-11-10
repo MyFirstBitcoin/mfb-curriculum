@@ -5,6 +5,7 @@ Mutane suna da ƙwarewa, albarkatu, buƙatu, da tsare-tsare daban-daban. Musayar
 Musayar kai tsaye sau da yawa tana da wahala. Mutumin da yake da abin da kuke buƙata wataƙila ba ya son abin da kuke bayarwa. Kuɗi suna warware wannan matsalar daidaita mu'amala.
 
 
+<!-- card: definition -->
 > **Definition – Kuɗi**
 >
 > Kuɗi wata [kadara](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) ce da mutane suke karɓa domin suna sa ran wasu mutane ma za su karɓe ta daga baya. Suna taimaka wa mutanen da ba su san juna ba su daidaita musayar kaya da ayyuka, su rubuta [farashi](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) da [basussuka](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt), kuma su canja wurin [ƙima](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) daga wani lokaci zuwa wani da kuma daga wani wuri zuwa wani.

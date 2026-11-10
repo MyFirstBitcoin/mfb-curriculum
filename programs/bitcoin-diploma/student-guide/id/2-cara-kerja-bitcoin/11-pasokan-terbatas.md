@@ -3,6 +3,7 @@
 Aturan Bitcoin menetapkan ketentuan yang dapat diprediksi tentang [jadwal penerbitan](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuance-schedule) dan [pasokan maksimum](https://curriculum.myfirstbitcoin.org/lexicon/en/#maximum-supply) sebesar 21 juta bitcoin (21.000.000 BTC). Bitcoin baru masuk ke peredaran melalui [subsidi blok](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-subsidy) yang dibayarkan kepada [penambang](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) yang menghasilkan blok yang valid.
 
 
+<!-- card: definition -->
 > **Definition – Halving**
 >
 > Setiap 210.000 blok, subsidi dikurangi menjadi separuhnya. Peristiwa ini disebut [halving](https://curriculum.myfirstbitcoin.org/lexicon/en/#halving). Karena blok dihasilkan rata-rata sekitar setiap sepuluh menit, [halving](https://curriculum.myfirstbitcoin.org/lexicon/en/#halving) terjadi kira-kira setiap empat tahun. Tanggal pastinya dalam kalender tidak tetap.
@@ -22,12 +23,14 @@ Subsidi awalnya sebesar 50 BTC per blok. Subsidi ini berkurang menjadi separuhny
 
 
 <!-- micrographic: bitcoin-issuance-schedule-01 -->
+[Subsidi blok dimulai dari 50 bitcoin dan berkurang setengah setiap 210.000 blok, sementara total bitcoin yang diterbitkan terus meningkat mendekati batas 21 juta. Biaya transaksi dibayarkan sebagai tambahan dan bukan merupakan bitcoin baru; tidak ada prediksi harga yang tersirat.](/micrographics/bitcoin-issuance-schedule-01/id.md)
 
 
 Batas 21 juta tersebut ditegakkan oleh [simpul](https://curriculum.myfirstbitcoin.org/lexicon/en/#node). Jika seorang [penambang](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) menciptakan lebih banyak bitcoin daripada yang diizinkan oleh aturan, [simpul yang melakukan validasi](https://curriculum.myfirstbitcoin.org/lexicon/en/#full-node) akan menolak blok tersebut. Seorang pengembang perangkat lunak dapat menulis kode yang berbeda, tetapi tidak dapat memaksa orang lain untuk menjalankannya.
 
 
-> **Dark – Pasokan tetap adalah aturan jaringan, bukan janji harga**
+<!-- card: dark -->
+> **Pasokan tetap adalah aturan jaringan, bukan janji harga**
 >
 > Aturan pasokan Bitcoin bersifat terbuka, dapat diverifikasi secara independen, dan sulit diubah oleh satu pihak karena [simpul pemvalidasi](https://curriculum.myfirstbitcoin.org/lexicon/en/#full-node) menegakkannya. Aturan ini bukan hukum fisika: aturan ini tetap berlaku selama para peserta terus menegakkannya. Pasokan terbatas tidak menjamin bahwa di pasar akan terjadi kenaikan [harga](https://curriculum.myfirstbitcoin.org/lexicon/en/#price); [harga](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) juga bergantung pada permintaan.
 >
@@ -37,8 +40,7 @@ Batas 21 juta tersebut ditegakkan oleh [simpul](https://curriculum.myfirstbitcoi
 **Pertanyaan singkat:** Apa keuntungan dari pasokan Bitcoin yang terbatas? Apa dampak peningkatan pasokan Bitcoin terhadap [daya beli](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power)? Siapa yang akan menolak peningkatan pasokan?
 
 
-> **Light**
->
+<!-- card: light -->
 > Pasokan terbatas juga tidak berarti setiap bitcoin tersedia untuk dijual; sebagian mungkin disimpan untuk jangka panjang atau tidak dapat diakses karena kuncinya hilang.
 
 

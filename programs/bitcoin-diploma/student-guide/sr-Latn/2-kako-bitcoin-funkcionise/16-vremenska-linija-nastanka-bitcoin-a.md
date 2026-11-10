@@ -4,6 +4,7 @@ Bitcoin se pojavio kroz kratak niz javnih događaja.
 
 
 <!-- micrographic: bitcoin-origin-timeline-01 -->
+[Nastanak Bitcoin mreže kroz četiri datirana događaja: 31. oktobra 2008. Satoshi Nakamoto je objavio belu knjigu, koja opisuje direktna onlajn plaćanja bez finansijskog posrednika; 3. januara 2009. početni blok pokrenuo je Bitcoin mrežu, uz novinski naslov o spasavanju banaka; 12. januara 2009. Satoshi je poslao bitcoin primaocu Hal Finney u prvoj zabeleženoj transakciji između dve osobe; 22. maja 2010. jedan korisnik je platio 10.000 BTC za dve pice, što se danas obeležava kao Bitcoin dan pice.](/micrographics/bitcoin-origin-timeline-01/sr-Latn.md)
 
 
 Istražite izvorne zapise: pročitajte [belu knjigu o mreži Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-whitepaper) ([izvorni PDF](https://bitcoin.org/bitcoin.pdf)), pregledajte [Genesis blok](https://curriculum.myfirstbitcoin.org/lexicon/en/#genesis-block) ([zapis bloka](https://mempool.space/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f)) i prvu zabeleženu [transakciju između dve osobe](https://curriculum.myfirstbitcoin.org/lexicon/en/#person-to-person-transaction) ([zapis transakcije](https://mempool.space/tx/f4184fc596403b9d638783cf57adfe4c75c605f6356fbc91338530e9831e9e16)), pa pročitajte [prvobitni zahtev za picu](https://bitcointalk.org/index.php?topic=137.0). [Pretraživač blokova](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-explorer) je praktičan interfejs za pristup javnim podacima, a ne vrhovni autoritet za pravila mreže Bitcoin.

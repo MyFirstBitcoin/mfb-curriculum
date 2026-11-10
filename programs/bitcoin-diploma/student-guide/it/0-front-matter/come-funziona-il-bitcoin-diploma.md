@@ -22,6 +22,7 @@ Ogni modulo segue lo stesso ritmo:
 
 
 <!-- micrographic: learning-rhythm-strip-01 -->
+[Un ritmo di apprendimento in cinque fasi: apprendere un concetto chiave, mostrare ciò che si sa spiegare o applicare, applicare il concetto, spiegarlo con parole proprie e rivedere come si collega al modulo successivo.](/micrographics/learning-rhythm-strip-01/it.md)
 
 
 Imparerà di più partecipando che leggendo in silenzio. Alcune domande non hanno un'unica risposta corretta. Ciò che conta è che Lei sappia spiegare il Suo ragionamento, esaminare le prove e rivedere il Suo punto di vista quando impara qualcosa di nuovo.
@@ -81,7 +82,8 @@ Quando sarà il momento di esercitarsi con un [wallet Bitcoin](https://curriculu
 ### Sicurezza, responsabilità e nessuna consulenza finanziaria
 
 
-> **Callout – Prima imparare; questa non è una raccomandazione**
+<!-- card: callout -->
+> **Prima imparare; questa non è una raccomandazione**
 >
 > Il Bitcoin Diploma ha esclusivamente finalità educative. Non fornisce consulenza finanziaria, di investimento, legale o fiscale. Non promette che bitcoin aumenterà di [prezzo](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) né Le raccomanda di acquistare, vendere, prendere in prestito garantendo con o detenere qualsiasi quantità di bitcoin.
 >
@@ -104,6 +106,7 @@ Il Diploma si articola in un percorso di apprendimento in quattro fasi: **Proble
 
 
 <!-- micrographic: learning-path-roadmap-01 -->
+[Un percorso in quattro tappe: Problema, Comprendere il denaro; Soluzione, Come funziona Bitcoin; Azione, Usare Bitcoin in sicurezza; e Connessione, Bitcoin nella Sua comunità, ciascuna con la propria domanda guida.](/micrographics/learning-path-roadmap-01/it.md)
 
 
 **Il modulo 4** è una parte obbligatoria del Diploma, curata dall'educatore. Gli educatori sono gli esperti dei vincoli locali, delle soluzioni, degli strumenti, delle risorse, delle leggi, della lingua, delle infrastrutture e dei bisogni dei propri studenti. L'esperienza di Connessione curata dall'educatore può includere guadagnare, risparmiare, ricevere, spendere, soluzioni di [Layer 2](https://curriculum.myfirstbitcoin.org/lexicon/en/#layer-2), canali di cambio locali, esercenti o economie circolari.
@@ -118,6 +121,7 @@ I quattro moduli costituiscono il percorso di apprendimento obbligatorio Problem
 
 
 <!-- micrographic: four-module-table-01 -->
+[Una tabella dei quattro moduli con il ruolo di ciascuno, la domanda guida e ciò che il discente eserciterà: Capire il denaro, Come funziona Bitcoin, Usare Bitcoin in sicurezza e Bitcoin nella Sua comunità.](/micrographics/four-module-table-01/it.md)
 
 
 Il Diploma richiede almeno otto ore. Quattro sessioni da due ore rappresentano il formato più breve previsto, non un limite di tempo. Il Suo educatore può suddividere un modulo in più sessioni, riprendere un concetto già affrontato o modificare l'ordine delle singole sezioni quando il Suo gruppo ha bisogno di più tempo per la discussione, la pratica, il ripasso o la valutazione. Non esiste un limite massimo di tempo: l'educatore resta responsabile di concedere ai discenti il tempo di cui hanno bisogno, di coprire tutte le competenze richieste e di rendere chiari i collegamenti tra i moduli.

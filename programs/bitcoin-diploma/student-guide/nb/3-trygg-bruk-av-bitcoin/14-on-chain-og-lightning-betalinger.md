@@ -4,22 +4,26 @@
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Betalinger på blokkjeden registreres direkte i Bitcoins blokkjede, mens Lightning er et betalingsnettverk bygget på Bitcoin for raske, hyppige betalinger som også kan mislykkes. Med begge alternativene kan midlene oppbevares enten av en tredjepart eller av brukeren selv.](/micrographics/on-chain-and-lightning-01/nb.md)
 
 
 
+<!-- card: definition -->
 > **Definition – Betalinger på kjeden og via Lightning**
 >
 > [Betalinger på kjeden](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment) registreres i Bitcoins [blokkjede](https://curriculum.myfirstbitcoin.org/lexicon/en/#blockchain) og får [bekreftelser](https://curriculum.myfirstbitcoin.org/lexicon/en/#confirmation). Lightning er et betalingsnettverk bygget på Bitcoin som kan støtte raske, hyppige betalinger. En Lightning-betaling kan fullføres raskt eller mislykkes, og lommeboken som brukes, kan likevel være forvaltet av en tredjepart eller selvforvaltet.
 
 
 
-> **Dark – Betalingsveien avgjør ikke hvem som har kontroll over midlene**
+<!-- card: dark -->
+> **Betalingsveien avgjør ikke hvem som har kontroll over midlene**
 >
 > Betalinger på kjeden og via Lightning innebærer ulike [avveininger](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). En Lightning-lommebok kan være forvaltet av en tredjepart eller selvforvaltet, og en rask, vellykket betaling beviser ikke at en tjeneste er egnet for større saldoer eller enhver situasjon.
 
 
 
 <!-- micrographic: onchain-lightning-table-01 -->
+[En tabell som sammenligner Bitcoin på kjeden og Lightning: mottaksinformasjon, betalingsresultat, vanlig bruk og kontrollpunkter for nybegynnere. Begge alternativene kan brukes med tredjepartsforvaring eller egenforvaring.](/micrographics/onchain-lightning-table-01/nb.md)
 
 
 Hvilken betalingsvei forventer mottakeren? Bekreft om mottakeren har oppgitt en adresse på kjeden eller en [Lightning-faktura](https://curriculum.myfirstbitcoin.org/lexicon/en/#lightning-invoice) eller betalingsforespørsel før De betaler. En lommebok for betalinger på kjeden kan ikke betale enhver [Lightning-faktura](https://curriculum.myfirstbitcoin.org/lexicon/en/#lightning-invoice) direkte, og en Lightning-lommebok støtter ikke nødvendigvis alle handlinger på kjeden. Noen applikasjoner støtter begge betalingsveiene, men kan medføre ekstra gebyrer eller avhengighet av tjenester. Detaljert oppsett av Lightning, kanaler, ruting og [likviditet](https://curriculum.myfirstbitcoin.org/lexicon/en/#lightning-liquidity) hører til [fordypning](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/); praktiske øvelser med reelle betalinger lokalt hører hjemme i **modul 4** når det er trygt og hensiktsmessig.

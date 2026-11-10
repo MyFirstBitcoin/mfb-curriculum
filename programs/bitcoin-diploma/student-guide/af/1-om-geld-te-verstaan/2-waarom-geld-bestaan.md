@@ -5,6 +5,7 @@ Mense het verskillende vaardighede, hulpbronne, behoeftes en planne. Uitruiling 
 Direkte uitruiling is dikwels moeilik. Die persoon wat het wat u nodig het, wil dalk nie hê wat u aanbied nie. Geld los hierdie koördinasieprobleem op.
 
 
+<!-- card: definition -->
 > **Definition – Geld**
 >
 > Geld is 'n [bate](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) wat mense aanvaar omdat hulle verwag dat ander mense dit later sal aanvaar. Dit help vreemdelinge om uitruiling te koördineer, rekord te hou van [pryse](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) en [skulde](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt), en [waarde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) oor tyd en afstand oor te dra.

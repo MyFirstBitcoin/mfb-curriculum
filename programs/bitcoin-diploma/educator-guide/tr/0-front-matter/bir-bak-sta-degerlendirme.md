@@ -21,6 +21,7 @@ Bunlar sayısal notlar değildir. Tamamlama sertifikası verilmeden önce her ik
 
 
 <!-- micrographic: two-completion-gates-01 -->
+[Tamamlama sertifikası verilmeden önce C1 ile C5 arasındaki teorik yetkinliklerin ve C6 ile C7 uygulamalı yetkinliklerinin her birinin Evet alması gerekir. Henüz değil, daha fazla uygulama ve yeniden değerlendirme anlamına gelir; katılım ve değerlendirme yazıları iki aşamadan hiçbirinin yerini tutmaz.](/micrographics/two-completion-gates-01/tr.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/2783871f5851cf80c2e6e2a93eeb911607939507-1536x1024.svg)

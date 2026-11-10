@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[Een betaling in een koffiebar in vier stappen: de klant bestelt, de medewerker stuurt een factuur, de klant betaalt met zijn telefoon in bitcoin en de medewerker overhandigt de koffie.](/micrographics/coffee-shop-payment-01/nl.md)
 
 
 Gebruik goederen en diensten die lokaal bekend zijn. Het precieze artikel doet er niet toe; de redenering achter de betaling wel.

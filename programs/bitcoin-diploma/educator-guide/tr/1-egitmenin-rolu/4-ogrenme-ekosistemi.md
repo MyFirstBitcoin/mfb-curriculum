@@ -13,3 +13,4 @@ Bitcoin Diploma'nın her bölümünün kendine özgü bir işlevi vardır.
 
 
 <!-- micrographic: learning-ecosystem-map-01 -->
+[Öğrenci Kılavuzu açıklamaları sunar, Eğitmen Kılavuzu öğretimi destekler ve Kaynak Merkezi'ndeki seçilmiş etkinlikler pratiği destekler. Değerlendirme Tablosu gizli değerlendirme sonuçlarını içerir.](/micrographics/learning-ecosystem-map-01/tr.md)

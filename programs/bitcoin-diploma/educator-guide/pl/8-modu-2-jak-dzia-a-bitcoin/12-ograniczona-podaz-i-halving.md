@@ -10,6 +10,7 @@ Proszę wyjaśnić:
 
 
 <!-- micrographic: bitcoin-issuance-schedule-01 -->
+[Subwencja blokowa wynosi początkowo 50 bitcoinów i zmniejsza się o połowę co 210 000 bloków, podczas gdy łączna ilość wyemitowanych bitcoinów rośnie, zbliżając się do limitu 21 milionów. Opłaty transakcyjne są wypłacane dodatkowo i nie stanowią nowych bitcoinów; wykres nie sugeruje żadnej prognozy ceny.](/micrographics/bitcoin-issuance-schedule-01/pl.md)
 
 
 Limit jest publiczną regułą sieci, a nie prawem fizyki. Każdy może napisać inne oprogramowanie, ale nie może zmusić obecnych uczestników do jego przyjęcia. Przyjęcie niezgodnego oprogramowania może doprowadzić do powstania innej sieci, zamiast po cichu zmienić Bitcoin dla wszystkich.

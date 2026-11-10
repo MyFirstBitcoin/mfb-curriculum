@@ -13,6 +13,7 @@ Peer-to-peer tidak berarti hanya dua komputer yang berkomunikasi secara langsung
 
 
 <!-- micrographic: powers-and-limits-01 -->
+[Pengguna, simpul, penambang, pengembang, dan layanan masing-masing memiliki sebagian kekuasaan terkait aturan bersama dan buku besar publik Bitcoin, tetapi tidak satu pun dapat mengubah buku besar atau aturan bagi semua pihak secara sepihak.](/micrographics/powers-and-limits-01/id.md)
 
 
 ![Pendidik menggunakan alat penunjuk untuk menjelaskan sebuah jaringan pada papan presentasi kepada peserta didik pemula dan peserta didik berlatar belakang teknis.](https://cdn.sanity.io/images/vje9ehw2/production/3999e88f5f80f010b5cd6238a4fe41d1aed8bdb2-1054x1492.png)

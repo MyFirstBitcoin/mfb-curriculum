@@ -3,7 +3,8 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) and [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) pathways make different [trade-offs](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Neither label removes the need for careful evaluation.
 
 
-> **Callout – Privacy does not remove legal or physical-safety risk**
+<!-- card: callout -->
+> **Privacy does not remove legal or physical-safety risk**
 >
 > Neither [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) nor [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) is automatically best. Compare the actual pathway, use current local guidance when rules are unclear, and do not break local law or expose yourself to physical danger in pursuit of [privacy](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 

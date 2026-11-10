@@ -40,7 +40,8 @@ Kutali kubelekela kuijana, kutali kuibelesya kugula zintu, pele kuyeeya kuti nin
 * Sena mali aanu aagula zintu zyiingi mbubonya mbuli kaindi?
 
 
-> **Callout – Bambani nsandulo zyanu**
+<!-- card: callout -->
+> **Bambani nsandulo zyanu**
 >
 > Lembani nsandulo iifwaafwi kumubuzyo uumwi auumwi. Muyakupiluka kulinzyo kumamanino.
 
@@ -85,6 +86,7 @@ Bantu bobilo beelede kuyanda ncajisi umwi munzabo, ciindi comwe alimwi mubungi b
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina ujisi mupunga alimwi uyanda nsapato, Luis ujisi nsapato alimwi uyanda mafuta akujika, alimwi Mei ujisi mafuta akujika alimwi uyanda milimo yakubambulula. Kunyina bobilo bakonzya kusandulizyana zintu cakutalumuka, nkaambo kunyina uuyanda eeco umwi ncaapa.](/micrographics/barter-mismatch-01/toi.md)
 
 <!-- notes: Amubelesye cikozyanyo cili mubhuku lyabusolozi: mulalima mpunga alimwi muyanda nsapato, pele mupangi wansapato uyanda mafuta aakujikila, kutali mpunga. Basikwiiya makani aabuvwubi eeci baciita kuti nkuswaangana kwaziyandwa abantu bobilo. -->
 
@@ -151,6 +153,7 @@ Bantu nobamvwa bbala lyakuti kukwela kwamiulo, kanji bayeeya kuti miulo ilakwela
 ## Kukwela kwamiulo a Nguzu Zyakugula
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Zipimyo zyamali ziinda ku 100 nzijona zilakonzya kuula bbasikiti yoonse yazintu ziyandika ciindi niila 100, pele tazikonzyi ciindi bbasikiti njiyona niila 110. Cipimo camiulo casumpuka, alimwi nguzu zyakugula zyamali zaceya.](/micrographics/same-money-smaller-basket-01/toi.md)
 
 <!-- notes: Kukwela kwamitengo nkuyungizika kuzumanana kwamitengo yazintu zyoonse. Lubazu lumbi lwako ndunguzu yakugula: bunji bwazintu nzyocikonzya kugula cibeela comwe camali. Ikuti mutengo wantanga yazintu ziyandika wakwela kuzwa kuzibeela zyamali 100 kuya ku 110, zibeela zyamali eezyo zili 100 tazicikonzyi kugula zintu zyoonse zili muntanga. -->
 
@@ -213,8 +216,7 @@ Mali aali kubanki aaliindene amali aali mumanza aanu: ncisyomezyo cabanki cakuti
 * Pele bunji bwayo amilawu yayo zilakonzya kusanduka, alimwi bantu baibelesya bajisi buyo nguzu zisyoonto zyakusala
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Eeci ncecipanga kuti bantu bayande nzila zimwi, alimwi ncecipanga kuti Bitcoin ipangwe.
 
 ---
@@ -233,6 +235,7 @@ Mali a dijito aatajisi weendelezi omwe, aajisi mweelwe uupimidwe, alimwi aakonzy
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Kukkampani yakulipila, bungwe lyomwe ndilyo libamba bbuku lyamali akuzumizya kutumizya mali kulikonse. MuBitcoin, sikutuma usaina citumizyo camali, manodi aayiminina alikke alacilingula alimwi basikumbula balaciyungizya kubbuku lyamali lyomwe ndibabelana, eelyo sikutambula tayeemi kapati kumweendelezi umwi.](/micrographics/central-ledger-vs-bitcoin-01/toi.md)
 
 <!-- notes: Bitcoin kaitanaba, kutumizya mali pa intaneti lyoonse kwakali kusyoma cibunga cisyomeka: bbanka naa kampani yakulipilana mali i yakali kubamba bbuku lyakulembela mali, kuzumizya maakaunti, alimwi yakali kukonzya kuceezya, kukasya, naa kubweza kulipila. Makani aamu kompyuta alavwuba kukopololwa: kuti koini yamu kompyuta yakali kukonzya kubelesyegwa kulipila ziindi zyobilo, tiiyakali kukonzya kubeleka mbuli mali. Ili ndilyo penzi lyakubelesya mali ngamo ziindi zyobilo. Satoshi Nakamoto ngumuntu naa nkamu yabantu ibelesya zina eelyo. -->
 
@@ -253,6 +256,7 @@ Takwe kampani iikonzya kulesya kubelesya bitcoin njomweendelezya nobeni. Lwaangu
 ## Mugano Uukonzya Kusinizyigwa a Muntu Uuli Woonse
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Muganhu wabunji bwa mali uulembedwe awebusayiti naa mububiko bwazibalo bwauufumya mali ulakonzya kucincwa awalo bantu batakuzibi. Mulawo wabunji bwa mali waBitcoin uubonwa abantu boonse, alimwi masigineca, makani akale aabonwa abantu boonse, bumboni bwamulimo akusimikizya kwamanodi, zyoonse antoomwe, zikozyanya kulengululwa kwamali mapya naa kubelesya bitcoin njiyomweyo tobilo.](/micrographics/claimed-or-verified-supply-01/toi.md)
 
 <!-- notes: Bitcoin zipya zilagwisigwa kweendelana a ndandanda iizibidwe abantu boonse, alimwi makompyuta aayimelede alikke aaitwa kuti ma node alakana bbuloko lyoonse lityola mulawo ooyo. Mugano ooyu ulasyomeka nkaambo muntu uuli woonse ulakonzya kuulingula. Tauli mulawo wacilengedwe: ulazumanana kubeleka nkaambo abo batola lubazu bazumanana kuubamba. Kubikka mugano ku bunji bwa bitcoin takusinizyi kuti mutengo uyooyungizika; mutengo weendelana a bunji bwabantu bayanda kuzigula alimwi a bunji bwa bitcoin ziliwo. -->
 
@@ -264,6 +268,7 @@ bitcoin imwi ilaabanyizyigwa muzibeela zisyoonto zili 100,000,000 ziitwa kuti sa
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Tebulu iijisi makolamu aabili: 1 BTC ilingana a 100,000,000 sats, 0.1 BTC ilingana a 10,000,000 sats, 0.01 BTC ilingana a 1,000,000 sats, 0.001 BTC ilingana a 100,000 sats, alimwi 0.00000001 BTC ilingana a 1 sat.](/micrographics/bitcoin-and-sats-01/toi.md)
 
 <!-- notes: Kuba a 100,000 sats akuba a 0.001 bitcoin zyaamba mali aalingene. Amululamike muzeezo uutali kabotu wakuti Bitcoin tiikonzyi kugulwa nkaambo bitcoin yomwe iladula kapati. -->
 
@@ -272,6 +277,7 @@ bitcoin imwi ilaabanyizyigwa muzibeela zisyoonto zili 100,000,000 ziitwa kuti sa
 ## Nguni Ucita Kuti Bitcoin Izumanane Kubeleka?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Milimo iine muBitcoin: babelesi balatambula, balabamba alimwi balatuma bitcoin, manodi alalisinizizya milawo, bagodi balayaka mabuloko aasololekwa kwiinda mukucita bumboni bwamulimo, alimwi bapangi bamapulogilamu balasololeka mapulogilamu. Taakwe mulimo omwe weendelezya netiweki.](/micrographics/bitcoin-participant-roles-01/toi.md)
 
 <!-- notes: Babelesi batuma, batambula alimwi babamba bitcoin; manodi asuzuma kutumizya mali kulikonse a bbuloko lyoonse kuti zilatobela milawo; basicimba balizundana kuti bayungizye bbuloko lipya ku lugwalo lwazilembedwe ciindi cisika kumaminiti aali kkumi. Lugwalo oolo, blockchain, lulabonwa a bantu boonse alimwi kulemba lubo zilembedwe zyalwo kuladula kapati. Cakumanya kujatikizya maleembedwe: Bitcoin iilembedwe a B mupati kanji yaamba ntambo naa bubambe; bitcoin iilembedwe a b muniini yaamba mali aayo. -->
 
@@ -307,6 +313,7 @@ Mubuzyo wakusaanguna kujatikizya cikwama cili coonse: nguni uulanganya makiyi?
 ## Cikwama Cilanganya Makiyi
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Cikwama cijisi makiyi. Amakiyi aaya mulakonzya kutambula akutuma bitcoin, pele bitcoin njiyo isyala ilembedwe mubbuku lyamibalwa lyabelwa boonse, kutali mukati a foni naa cibelesyo.](/micrographics/wallet-manages-keys-01/toi.md)
 
 <!-- notes: Cikwama ca Bitcoin ncibelesyo, kanji apulikesheni, cimuzumizya kutambula, kulanga, akutuma bitcoin. bitcoin yanu tiibikkwi mukati kafoni yanu: ilembedwe pa blockchain. Cikwama cilanganya makiyi amuzumizya kusinizya kuti bitcoin njenu akuzumizya kubbadela. -->
 
@@ -331,6 +338,7 @@ Mulongo wamabala aabikkidwe munzila iilondene, kanji 12 naa 24, aakonzya kulenga
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Mabala aakubweza chikwama ngamabala aabikkidwe mukutaanganana; awa kulabonesyegwa mabala aachikozyanyo aali kkumi aabili, aalembedwe apepa alimwi aapegwa manamba. Mabala aaluzi aabikkidwe mukutaanganana kuluzi alakonzya kumubwezezya nguzu zyakweendelezya chikwama ceendelanaa, aboobo aelede kubikkwa camubisobiso akutali a intaneti.](/micrographics/seed-phrase-on-paper-01/toi.md)
 
 <!-- notes: Majwi aakubwezelezya cikwama taali nzila yakucibwezelezya buyo: alapa nguzu zyoonse zyakunjila akucibelesya. Mualembe kabotu apepa ciindi nomupanga cikwama; muayobole kakunyina intaneti, mubusisani, alimwi mubusena mobatakali kusweeka na kunyonyoonwa. Mutakaciti cifwanikiso caawo, kuatuma kwi-imeyili, kuayobola mumalembe aamu cloud, kuatuma mumulumbe, na kualemba awebusayiti. Majwi aatondezyedwe nchikozyanyo buyo; mutakatondezya na kubunganya majwi aakubwezelezya cikwama ncobeni. -->
 
@@ -365,6 +373,7 @@ Mulongo wamabala aabikkidwe munzila iilondene, kanji 12 naa 24, aakonzya kulenga
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Kulipila mu blockchain kulembwa mwini mu blockchain ya Bitcoin, pele Lightning ngamambure aakulipila aayakidwe aajatikizidwe ku Bitcoin, aakulipila cakufwamba alimwi kanji-kanji, pele kulipila ooku kulakonzya kukakilwa. Munzila zyoonse zyobilo, mali alakonzya kubambwa amwi muntu naa kubambwa andinywe nobeni.](/micrographics/on-chain-and-lightning-01/toi.md)
 
 ---
 
@@ -375,7 +384,8 @@ Mulongo wamabala aabikkidwe munzila iilondene, kanji 12 naa 24, aakonzya kulenga
 * **Mutasyomi Buyo, Amusinizye.** Amulingule muntu, nzila yakubbaadala, adilesi, alimwi ambungano yamali.
 
 
-> **Callout – Amwaabane makani aakutambwiila, kutali zyasisi**
+<!-- card: callout -->
+> **Amwaabane makani aakutambwiila, kutali zyasisi**
 >
 > Adilesi naa cikumbizyo cakubbaadalwa cilakonzya kwaabanwa. Majwi aakuvwulusya cikwama naa kiyi yacisyese tazyeelede kwaabanwa pe. Kunyina muyiisyi uusyomeka, kampani yacikwama, naa mubeleki waluzyalo uuyoomulomba zintu eezi.
 
@@ -389,6 +399,7 @@ Amwiime naa umwi wamukulwaizya kucita cintu cakufwambaana naa mubusisidwe, wamus
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Zitondezyo zisanu zyakucenjezya kujatikizya bucenjezu bwakubba: kufwambaana, kulibonesya mbuli umwi muntu, busena bwakutumina bwacinjwa, mpindu zisyomezyegwa akukumbila zyabusisidwe.](/micrographics/scam-red-flags-01/toi.md)
 
 ---
 
@@ -408,7 +419,8 @@ Aaya ngamatalikilo buyo.
 * **Aaya ngu matalikilo buyo.** Kutola ntaamu yomwe iikwabilidwe kulakkwana.
 
 
-> **Callout – Kaciindi kakulanga-langa**
+<!-- card: callout -->
+> **Kaciindi kakulanga-langa**
 >
 > Amujokele kumibuzyo iisanu yakumatalikilo. Munga mwaingula buti lino?
 

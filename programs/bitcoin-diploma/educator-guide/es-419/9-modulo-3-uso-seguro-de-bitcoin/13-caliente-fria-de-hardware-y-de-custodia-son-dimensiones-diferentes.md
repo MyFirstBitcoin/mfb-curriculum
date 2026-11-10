@@ -11,6 +11,7 @@ Una billetera Lightning puede ser con custodia o de autocustodia. Una [billetera
 
 
 <!-- micrographic: hot-and-cold-wallets-01 -->
+[Una billetera caliente guarda las claves de firma en un dispositivo conectado a internet, como un celular; una configuración en frío las mantiene alejadas de cualquier dispositivo conectado. Quién controla las claves es una cuestión aparte.](/micrographics/hot-and-cold-wallets-01/es-419.md)
 
 
 Pida a los estudiantes que seleccionen una herramienta para un propósito ficticio y luego exíjales que indiquen el beneficio y el nuevo riesgo. No les pida que elijan una herramienta para sus fondos reales.

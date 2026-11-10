@@ -24,6 +24,7 @@ Untuk pertukaran secara tatap muka, gunakan lokasi umum yang sesuai, hindari mem
 
 
 <!-- micrographic: compare-local-pathways-01 -->
+[Tabel kosong untuk membandingkan tiga jalur lokal, A, B dan C, berdasarkan nama, persyaratan KYC, model kustodi, jaringan yang didukung, reputasi dan metode pendanaan, dengan ruang untuk catatan.](/micrographics/compare-local-pathways-01/id.md)
 
 
 

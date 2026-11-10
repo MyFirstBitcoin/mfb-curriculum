@@ -4,6 +4,7 @@ Stopp opp og tenk over hvordan offentlige regler, begrenset utstedelse, overfør
 
 
 <!-- micrographic: bitcoin-responses-tradeoffs-01 -->
+[En tabell som kobler fem mulige svakheter ved moderne pengesystemer til Bitcoins svar og det nye ansvaret eller den nye avveiningen hvert svar medfører. Bitcoin erstatter noe av tilliten til institusjoner med verifisering og personlig ansvar, men fjerner ikke risiko.](/micrographics/bitcoin-responses-tradeoffs-01/nb.md)
 
 
 **Til ettertanke:** Ut fra det De har lært om Bitcoin i denne modulen, har det [verdi](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) for Dem? Gjenspeiler dagens [pris](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) på bitcoin dets [verdi](https://curriculum.myfirstbitcoin.org/lexicon/en/#value)?

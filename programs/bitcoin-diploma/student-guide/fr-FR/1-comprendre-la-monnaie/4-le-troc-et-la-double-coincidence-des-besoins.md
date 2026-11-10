@@ -1,5 +1,6 @@
 # 1.4 Le troc et la double coïncidence des besoins
 
+<!-- card: definition -->
 > **Definition – Le troc**
 >
 > [Le troc](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) est l’échange direct d’un bien ou d’un service contre un autre. Il peut bien fonctionner pour un échange limité, mais devient difficile lorsque de nombreuses personnes et de nombreux produits sont concernés.
@@ -11,6 +12,7 @@ Imaginez que **Amina** a du riz et veut des chaussures. **Luis** a des chaussure
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina possède du riz et souhaite des chaussures, Luis possède des chaussures et souhaite de l’huile de cuisine, et Mei possède de l’huile de cuisine et souhaite faire effectuer des réparations. Aucun échange direct n’est possible entre deux de ces personnes, car aucune ne souhaite ce que l’autre propose.](/micrographics/barter-mismatch-01/fr-FR.md)
 
 
 Pour que le [troc](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) fonctionne directement, chaque personne doit vouloir ce que l’autre propose, au même moment et dans des quantités adaptées. Les économistes appellent cela la [**double coïncidence des besoins**](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-coincidence-of-wants).
@@ -31,3 +33,4 @@ Une monnaie communément acceptée permet de séparer la vente de l’achat. Ami
 
 
 <!-- micrographic: sell-then-buy-01 -->
+[Amina vend du riz à une personne contre une monnaie communément acceptée, puis utilise cette monnaie plus tard pour acheter des chaussures à quelqu’un d’autre. La vente et l’achat deviennent des actions distinctes.](/micrographics/sell-then-buy-01/fr-FR.md)

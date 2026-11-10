@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[Ɗan kasuwa da ke karɓar Bitcoin yana aiki a fannoni huɗu: talla, horarwa, lissafin kuɗi da sayarwa.](/micrographics/merchant-payment-operations-01/ha.md)
 
 
 Ɗan kasuwa yana buƙatar fiye da maɓallin karɓar kuɗi kawai. Cikakken tsarin biyan kuɗi na iya haɗawa da saita farashi, horar da ma'aikata, rasitoci, mayar da kuɗi, [riƙon amana](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), musayar kuɗi, lissafin kuɗi, haraji, tsaron na'ura, da tallafi.

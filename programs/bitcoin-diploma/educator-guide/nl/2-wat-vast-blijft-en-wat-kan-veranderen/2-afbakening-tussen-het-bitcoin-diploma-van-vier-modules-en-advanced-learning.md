@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: four-module-diploma-01 -->
+[Het Bitcoin Diploma doorloopt vier fasen in volgorde: Probleem, Oplossing, Actie en Verbinden.](/micrographics/four-module-diploma-01/nl.md)
 
 
 **Module 4** is een verplicht onderdeel van het Bitcoin Diploma, samengesteld door docenten als de lokale vakexperts. Het scenario of het hulpmiddel kan verschillen, maar elke cursist die certificering nastreeft, moet voldoen aan `C7` via een lokale activiteit die het doel van `C7.1` en `C7.2` afdekt.

@@ -10,6 +10,7 @@ Gambarkan neraca sederhana:
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Proses pinjaman bank yang disederhanakan: peminjam mengajukan pinjaman, bank menyetujui pinjaman dan mengkreditkan simpanan baru ke rekening peminjam, lalu peminjam membayar kembali pokok pinjaman beserta bunga kepada bank.](/micrographics/bank-loan-deposit-01/id.md)
 
 
 Jangan menggunakan cerita “pengganda uang” yang didasarkan pada penyetoran uang fisik secara berulang seolah-olah cerita tersebut menggambarkan cara kerja setiap sistem perbankan modern secara mekanis.
@@ -21,6 +22,7 @@ Bedakan:
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Risiko likuiditas: banyak nasabah mengantre untuk menarik simpanan hari ini, dan bank tidak memiliki cukup uang tunai saat ini meskipun pinjaman yang diberikannya mungkin akan dilunasi nanti. Risiko solvabilitas: peminjam gagal membayar kredit rumah, dan nilai aset bank menjadi lebih rendah daripada kewajibannya.](/micrographics/liquidity-vs-solvency-01/id.md)
 
 
 Tanyakan:

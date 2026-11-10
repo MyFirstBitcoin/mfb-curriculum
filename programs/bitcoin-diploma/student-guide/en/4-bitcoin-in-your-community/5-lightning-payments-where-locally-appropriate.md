@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[The receiver creates a Lightning payment request with the amount on their phone, the sender scans it and pays, and the payment arrives on the receiver's phone a moment later.](/micrographics/lightning-phone-payment-01/en.md)
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[A Lightning payment in six steps: the receiver creates a request, the sender scans it, checks recipient, amount, unit, expiry and fee, approves, the payment routes, and both wallets show the result. Each wallet may be custodial or self-custodial, and a failed or expired payment starts again with a new request.](/micrographics/lightning-payment-sequence-01/en.md)
 
 
 Lightning can make fast, small Bitcoin payments practical. It may be suitable for a merchant counter, repeated local payments, online services, or transfers where an on-chain fee would be too large in relation to the payment.

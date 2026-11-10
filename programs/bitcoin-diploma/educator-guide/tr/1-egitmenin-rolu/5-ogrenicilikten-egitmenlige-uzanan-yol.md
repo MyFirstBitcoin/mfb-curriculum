@@ -13,3 +13,4 @@ Bunu, zorunlu bir eğitim, uygulama, değerlendirme veya sertifikasyon olarak de
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[İsteğe bağlı bir öğrenme yolculuğu, Bitcoin'e Giriş'ten Bitcoin Diploması'na, ardından Eğitmen Eğitim Programı'na, oradan My First Bitcoin müfredatıyla ders veren bir eğitmen olmaya ve Bitcoin Eğitim Ağı'na katılmaya uzanır. Her bir sonraki adım bir zorunluluk değil, bir tercihtir.](/micrographics/learner-journey-pathway-01/tr.md)

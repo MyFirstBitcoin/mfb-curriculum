@@ -1,6 +1,7 @@
 # Luokaa turvallinen ja aktiivinen oppimisympäristö
 
-> **Callout – Huolehtikaa oppijoiden turvallisuudesta ennen käytännön toiminnan aloittamista**
+<!-- card: callout -->
+> **Huolehtikaa oppijoiden turvallisuudesta ennen käytännön toiminnan aloittamista**
 >
 > Älkää koskaan pyytäkö, katsoko, valokuvatko, kopioiko, tallentako tai säilyttäkö oikeaa palautuslausetta, yksityistä avainta, salasanaa tai tarpeettomia taloustietoja. Älkää painostako ketään ostamaan, myymään, pitämään hallussaan tai käyttämään bitcoinia. Keskeyttäkää toiminta aina, kun oppija on epävarma, häntä painostetaan tai hän on vaarassa joutua huijauksen kohteeksi.
 

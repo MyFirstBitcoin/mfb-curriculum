@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: daily-bitcoin-uses-01 -->
+[Bitcoin'in günlük hayatta kullanılabileceği yedi farklı yol: kazanmak, biriktirmek, almak, göndermek, harcamak, bağış yapmak ve fiyatlandırma ile muhasebe. Her biri olası bir kullanımdır, zorunlu bir adım değildir.](/micrographics/daily-bitcoin-uses-01/tr.md)
 
 
 Bitcoin, birçok farklı şekilde para işlevi görebilir. Harcamak bunlardan yalnızca biridir.

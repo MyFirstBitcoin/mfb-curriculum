@@ -22,6 +22,7 @@ Kiekvienas modulis vyksta tuo pačiu ritmu:
 
 
 <!-- micrographic: learning-rhythm-strip-01 -->
+[Penkių žingsnių mokymosi ciklas: susipažinkite su pagrindine idėja, parodykite, ką galite paaiškinti ar pritaikyti, pritaikykite idėją, paaiškinkite ją savais žodžiais ir apžvelkite, kaip ji siejasi su kitu moduliu.](/micrographics/learning-rhythm-strip-01/lt.md)
 
 
 Dalyvaudami išmoksite daugiau nei tyliai skaitydami. Kai kurie klausimai neturi vieno teisingo atsakymo. Svarbu tai, ar gebate paaiškinti savo samprotavimus, nagrinėti įrodymus ir pakeisti savo požiūrį, kai sužinote ką nors naujo.
@@ -81,7 +82,8 @@ Kai ateis laikas praktikuotis su [Bitkoino pinigine](https://curriculum.myfirstb
 ### Saugumas, atsakomybė ir finansinių konsultacijų neteikimas
 
 
-> **Callout – Pirmiausia mokykitės; tai nėra rekomendacija**
+<!-- card: callout -->
+> **Pirmiausia mokykitės; tai nėra rekomendacija**
 >
 > Bitkoino diplomas skirtas tik švietimo tikslams. Jame neteikiamos finansinės, investicinės, teisinės ar mokestinės konsultacijos. Nežadama, kad padidės bitkoino [kaina](https://curriculum.myfirstbitcoin.org/lexicon/en/#price), ir nerekomenduojama pirkti, parduoti, skolintis įkeičiant ar laikyti bet kokį bitkoinų kiekį.
 >
@@ -104,6 +106,7 @@ Diplomo programą sudaro keturių etapų mokymosi seka: **Problema → Sprendima
 
 
 <!-- micrographic: learning-path-roadmap-01 -->
+[Keturių etapų planas: Problema – pinigų supratimas; Sprendimas – kaip veikia „Bitcoin“; Veiksmas – saugus naudojimasis „Bitcoin“; Susiejimas – „Bitcoin“ Jūsų bendruomenėje. Kiekvienas etapas turi savo orientacinį klausimą.](/micrographics/learning-path-roadmap-01/lt.md)
 
 
 **4 modulis** yra privaloma Diplomo programos dalis, kurią parengia pedagogas. Pedagogai geriausiai išmano savo mokinių vietos apribojimus, sprendimus, priemones, išteklius, įstatymus, kalbą, infrastruktūrą ir poreikius. Pedagogo parengta susiejimo veikla gali apimti uždarbį, taupymą, lėšų gavimą, išlaidas, [2-ojo sluoksnio](https://curriculum.myfirstbitcoin.org/lexicon/en/#layer-2) sprendimus, vietos keitimo būdus, prekybininkus ar žiedines ekonomikas.
@@ -118,6 +121,7 @@ Keturi moduliai sudaro privalomą mokymosi kelią Problema → Sprendimas → Ve
 
 
 <!-- micrographic: four-module-table-01 -->
+[Keturių modulių lentelė, kurioje nurodytas kiekvieno modulio vaidmuo, pagrindinis klausimas ir tai, ką besimokantysis praktikuos: Pinigų supratimas, Kaip veikia „Bitcoin“, Saugus „Bitcoin“ naudojimas ir „Bitcoin“ jūsų bendruomenėje.](/micrographics/four-module-table-01/lt.md)
 
 
 Diplomo programai reikia bent aštuonių valandų. Keturi dviejų valandų užsiėmimai yra trumpiausias numatytas formatas, o ne laiko riba. Jūsų pedagogas gali paskirstyti modulį per daugiau užsiėmimų, grįžti prie anksčiau aptartos minties arba pakeisti atskirų skyrių tvarką, kai Jūsų grupei reikia daugiau laiko diskusijoms, praktikai, kartojimui ar vertinimui. Maksimali trukmė nenustatyta: pedagogas ir toliau atsako už tai, kad besimokantiesiems būtų skirta tiek laiko, kiek jiems reikia, būtų ugdomos visos privalomos kompetencijos ir būtų aiškiai parodytos modulių sąsajos.

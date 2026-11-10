@@ -10,6 +10,7 @@ Bitcoin ble skapt for å løse dette problemet med et [likemannsnettverk](https:
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Hos et betalingsselskap fører én organisasjon regnskapet og godkjenner hver overføring. Med Bitcoin signerer avsenderen en transaksjon, uavhengige noder kontrollerer den, og utvinnere legger den til i ett felles regnskap, slik at mottakeren er mindre avhengig av en sentral myndighet.](/micrographics/central-ledger-vs-bitcoin-01/nb.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)

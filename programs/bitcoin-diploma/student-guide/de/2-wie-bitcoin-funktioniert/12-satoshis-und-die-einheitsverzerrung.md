@@ -14,6 +14,7 @@ Konzentrieren Sie sich beim Vergleich von [Preisen](https://curriculum.myfirstbi
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Eine zweispaltige Tabelle: 1 BTC entspricht 100.000.000 Sats, 0,1 BTC entspricht 10.000.000 Sats, 0,01 BTC entspricht 1.000.000 Sats, 0,001 BTC entspricht 100.000 Sats und 0,00000001 BTC entspricht 1 Sat.](/micrographics/bitcoin-and-sats-01/de.md)
 
 
 **Zeigen Sie Ihr Verständnis:** Wie viele [sats](https://curriculum.myfirstbitcoin.org/lexicon/en/#satoshi) sind in 0,01 BTC enthalten? Warum hindert der [Preis](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) eines ganzen bitcoin eine Person nicht daran, einen kleineren Betrag zu verwenden?

@@ -14,6 +14,7 @@ Użyteczny pieniądz zazwyczaj ma również kilka właściwości:
 
 
 <!-- micrographic: money-property-questions-01 -->
+[Siedem cech użytecznego pieniądza, każda z pytaniem pomocnym przy porównywaniu form pieniądza: trwałość, przenośność, podzielność, zamienność, rzadkość, akceptowalność i weryfikowalność.](/micrographics/money-property-questions-01/pl.md)
 
 
 Żadna forma pieniądza nie wypada idealnie pod każdym względem.
@@ -22,6 +23,7 @@ Ludzie porównują pieniądz również pod względem jego [**solidności**](http
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Dwie warstwy: trzy funkcje pieniądza (środek wymiany, jednostka rozrachunkowa, środek przechowywania wartości) opierają się na siedmiu właściwościach (trwałości, przenośności, podzielności, zamienności, rzadkości, akceptowalności i weryfikowalności).](/micrographics/functions-and-properties-01/pl.md)
 
 
 [Złoto](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) jest trwałe i rzadkie, ale trudno je dzielić i transportować na potrzeby drobnych płatności. [Gotówka papierowa](https://curriculum.myfirstbitcoin.org/lexicon/en/#paper-cash) jest łatwa do przenoszenia i akceptowana lokalnie, ale może ulec uszkodzeniu, a jej podaż może wzrosnąć. Najlepsze porównanie zależy od celu, miejsca i czasu.

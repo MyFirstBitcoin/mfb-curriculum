@@ -15,6 +15,7 @@ Vraag de deelnemers het volgende te benoemen:
 
 
 <!-- micrographic: fiat-system-flows-01 -->
+[De actoren in een fiatsysteem en wat er tussen hen wordt uitgewisseld: de centrale bank bepaalt het beleid en verzorgt de afwikkeling tussen banken, commerciële banken beheren tegoeden die een verplichting zijn tegenover hun klanten, betaaldiensten brengen opdrachten over, de overheid heft belastingen en doet uitgaven, en burgers en bedrijven betalen en worden betaald.](/micrographics/fiat-system-flows-01/nl.md)
 
 
 Wees voorbereid om het lokale systeem uit te leggen. Geef aan welke details algemeen zijn en welke specifiek zijn voor het rechtsgebied. Nodig deelnemers uit uiteenlopende ervaringen te delen, ook situaties waarin mensen op contant geld zijn aangewezen of beperkt toegang hebben tot bankdiensten, zonder de discussie te laten uitmonden in een politieke conclusie.

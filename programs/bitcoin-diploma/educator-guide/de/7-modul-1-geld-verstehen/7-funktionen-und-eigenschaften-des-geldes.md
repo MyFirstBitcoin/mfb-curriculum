@@ -7,6 +7,7 @@ Vermitteln Sie den Unterschied ausdrücklich:
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Zwei Ebenen: Die drei Funktionen des Geldes (Tauschmittel, Recheneinheit, Wertaufbewahrungsmittel) beruhen auf sieben Eigenschaften (Haltbarkeit, Transportierbarkeit, Teilbarkeit, Fungibilität, Knappheit, Akzeptanz und Überprüfbarkeit).](/micrographics/functions-and-properties-01/de.md)
 
 
 Arbeiten Sie mit unterschiedlichen Zwecken. Fragen Sie, welche Eigenschaften wichtig sind für:

@@ -22,6 +22,7 @@ Vsak modul sledi istemu ritmu:
 
 
 <!-- micrographic: learning-rhythm-strip-01 -->
+[Učni ritem v petih korakih: spoznajte ključno zamisel, pokažite, kaj znate razložiti ali uporabiti, uporabite zamisel, razložite jo s svojimi besedami in preglejte, kako se povezuje z naslednjim modulom.](/micrographics/learning-rhythm-strip-01/sl.md)
 
 
 S sodelovanjem se boste naučili več kot s tihim branjem. Nekatera vprašanja nimajo enega samega pravilnega odgovora. Pomembno je, ali znate pojasniti svoje razmišljanje, preučiti dokaze in spremeniti svoje stališče, ko izveste kaj novega.
@@ -81,7 +82,8 @@ Ko bo čas za vajo z [denarnico za Bitcoin](https://curriculum.myfirstbitcoin.or
 ### Varnost, odgovornost in odsotnost finančnega svetovanja
 
 
-> **Callout – Najprej se učite; to ni priporočilo**
+<!-- card: callout -->
+> **Najprej se učite; to ni priporočilo**
 >
 > Diploma Bitcoin je namenjena izključno izobraževanju. Ne ponuja finančnih, naložbenih, pravnih ali davčnih nasvetov. Ne obljublja, da se bo bitcoinu zvišala [cena](https://curriculum.myfirstbitcoin.org/lexicon/en/#price), niti ne priporoča, da kupite, prodate, uporabite kot zavarovanje za posojilo ali hranite kakršno koli količino bitcoinov.
 >
@@ -104,6 +106,7 @@ Diploma obsega štiristopenjsko učno pot: **Problem → Rešitev → Ukrepanje 
 
 
 <!-- micrographic: learning-path-roadmap-01 -->
+[Načrt v štirih fazah: Problem, Razumevanje denarja; Rešitev, Kako deluje Bitcoin; Ukrepanje, Varna uporaba Bitcoina; in Povezovanje, Bitcoin v vaši skupnosti, vsaka s svojim usmerjevalnim vprašanjem.](/micrographics/learning-path-roadmap-01/sl.md)
 
 
 **Modul 4** je obvezen del Diplome, ki ga vsebinsko oblikuje izobraževalec. Izobraževalci so strokovnjaki za lokalne omejitve, rešitve, orodja, vire, zakone, jezik, infrastrukturo in potrebe svojih udeležencev. Učna izkušnja Povezovanje, ki jo vsebinsko oblikuje izobraževalec, lahko vključuje služenje, varčevanje, prejemanje, porabljanje, [na 2. plasti](https://curriculum.myfirstbitcoin.org/lexicon/en/#layer-2) temelječe rešitve, lokalne možnosti menjave, trgovce ali krožna gospodarstva.
@@ -118,6 +121,7 @@ Tema ni nepomembna zgolj zato, ker ni del Diplome. Morda preprosto zahteva več 
 
 
 <!-- micrographic: four-module-table-01 -->
+[Tabela štirih modulov z vlogo, vodilnim vprašanjem in vsebino, ki jo bodo udeleženci vadili pri vsakem od njih: Razumevanje denarja, Kako deluje Bitcoin, Varna uporaba Bitcoina in Bitcoin v vaši skupnosti.](/micrographics/four-module-table-01/sl.md)
 
 
 Diploma traja najmanj osem ur. Štiri dvourna srečanja so najkrajša načrtovana oblika izvedbe, ne časovna omejitev. Vaš izobraževalec lahko modul razdeli na več srečanj, se vrne k predhodno obravnavani zamisli ali spremeni vrstni red posameznih razdelkov, kadar vaša skupina potrebuje več časa za razpravo, vajo, ponavljanje ali preverjanje znanja. Zgornje časovne omejitve ni: izobraževalec ostaja odgovoren za to, da udeležencem zagotovi čas, ki ga potrebujejo, obravnava vse zahtevane kompetence in jasno predstavi povezave med moduli.

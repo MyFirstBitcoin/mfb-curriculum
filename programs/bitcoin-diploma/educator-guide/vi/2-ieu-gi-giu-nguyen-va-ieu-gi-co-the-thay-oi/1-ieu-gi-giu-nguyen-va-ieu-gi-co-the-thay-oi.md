@@ -32,3 +32,4 @@ Quý vị không được:
 
 
 <!-- micrographic: fixed-adaptable-flexible-01 -->
+[Có thể thay đổi các ví dụ địa phương và phương pháp giảng dạy trong khuôn khổ cố định về năng lực, minh chứng, an toàn và yêu cầu hoàn thành. Những thay đổi ảnh hưởng đến việc đánh giá cần có một phương án tương đương được phê duyệt, giữ nguyên hành động mà người học cần thực hiện và mục đích bảo đảm an toàn.](/micrographics/fixed-adaptable-flexible-01/vi.md)

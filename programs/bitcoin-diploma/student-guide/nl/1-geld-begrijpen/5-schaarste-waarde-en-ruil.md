@@ -3,6 +3,7 @@
 Middelen zijn beperkt, terwijl menselijke wensen dat niet zijn.
 
 
+<!-- card: definition -->
 > **Definition – Schaarsheid**
 >
 > [Schaarsheid](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) betekent dat de keuze voor één gebruik van een middel een ander gebruik uitsluit. Tijd, land, energie, een goede gezondheid, gereedschap en [gezond geld](https://curriculum.myfirstbitcoin.org/lexicon/en/#sound-money) zijn allemaal schaars.
@@ -14,6 +15,7 @@ De [waarde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) van een goe
 
 
 <!-- micrographic: same-water-different-value-01 -->
+[Dezelfde fles schoon water is goedkoop in een koelkast in de winkel, waar water gemakkelijk te vinden is, en veel waardevoller in een hete woestijn tijdens een tekort. Beschikbaarheid, behoefte en omstandigheden veranderen waarde en prijs.](/micrographics/same-water-different-value-01/nl.md)
 
 
 Ruil vindt plaats wanneer beide partijen liever hebben wat zij ontvangen dan wat zij opgeven. Zij hoeven het er niet over eens te zijn dat de twee zaken dezelfde persoonlijke [waarde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) hebben. Zij hoeven het alleen eens te worden over de voorwaarden.
@@ -26,6 +28,7 @@ Drie ideeën helpen alledaagse keuzes te verklaren:
 
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Een consument met beperkt geld bekijkt de opties die voor hem liggen: eten voor vandaag, vervoer of sparen voor later. Wie voor de ene optie kiest, ziet af van de andere; dat zijn de opportuniteitskosten. Geen enkele optie wordt als de juiste aangeduid.](/micrographics/one-choice-two-uses-01/nl.md)
 
 
 [Schaarsheid](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) alleen garandeert geen [waarde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Een voorwerp kan zeldzaam zijn en toch geen vraag kennen. Een nuttig monetair [activum](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) combineert een beperkt aanbod met eigenschappen en vraag die mensen bereid maken het te bewaren of te ruilen.

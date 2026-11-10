@@ -10,6 +10,7 @@ Bitcoin iliundwa kutatua tatizo hili kwa kutumia [Mtandao wa Rika-kwa-Rika (P2P)
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Kwa kampuni ya malipo, shirika moja linatunza leja na kuidhinisha kila uhamisho. Kwa Bitcoin, mtumaji anatia sahihi muamala, nodi huru zinaukagua na wachimbaji wanauongeza kwenye leja moja ya pamoja, hivyo mpokeaji anategemea kidogo mamlaka kuu.](/micrographics/central-ledger-vs-bitcoin-01/sw.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)

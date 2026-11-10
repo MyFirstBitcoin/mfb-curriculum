@@ -36,6 +36,7 @@ Die [Bitcoin-onderwysnetwerk](https://myfirstbitcoin.org/about/network) verbind 
 
 
 <!-- micrographic: final-safety-check-01 -->
+[’n Finale veiligheidskontrolelys, afgemerk: beskerm geheime, verifieer betalingsbesonderhede, doen klein toetse en stop wanneer u onder druk is. As enigiets onduidelik is, stop en leer meer voordat u optree.](/micrographics/final-safety-check-01/af.md)
 
 
 Onthou hierdie reëls:
@@ -57,6 +58,7 @@ Opvoeding verminder risiko, maar kan dit nie uitskakel nie. Indien 'n situasie o
 
 
 <!-- micrographic: curriculum-source-panel-01 -->
+[’n Paneel met ’n QR-kode en die gedrukte skakel github.com/MyFirstBitcoin/mfb-curriculum, die gesaghebbende bron van die Bitcoin Diploma, waar u die uitgawe nagaan en foute aanmeld.](/micrographics/curriculum-source-panel-01/af.md)
 
 
 Die Bitcoin-diploma is 'n lewende oopbronkurrikulum. Regstellings en verbeterings kan in die openbaar hersien word.

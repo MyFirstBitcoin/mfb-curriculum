@@ -4,6 +4,7 @@ Jedna [**Bitcoin cirkularna ekonomija**](https://curriculum.myfirstbitcoin.org/l
 
 
 <!-- micrographic: local-circular-economy-01 -->
+[U cirkularnoj ekonomiji Bitcoina, bitcoin prelazi od osobe do osobe u zamenu za robu, usluge i vreme. Kupac plaća trgovcu, trgovac plaća pružaocu usluge, pružalac usluge plaća radniku, a radnik ga ponovo troši kao kupac.](/micrographics/local-circular-economy-01/sr-Latn.md)
 
 
 My First Bitcoin podržava [Bitcoin cirkularne ekonomije](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-circular-economy), a mnoge od njih deo su Mreže za obrazovanje o Bitcoinu. Istražite ove zajednice na [kontrolnoj tabli mreže](https://network.myfirstbitcoin.org/?min10merchants=1).

@@ -3,6 +3,7 @@
 ![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
+<!-- card: definition -->
 > **Definition – Bewys van werk**
 >
 > [Bewys van werk](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) is die proses wat [mynwerkers](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) gebruik om mee te ding om die reg om die volgende blok voor te stel.
@@ -14,6 +15,7 @@ Wanneer 'n [mynwerker](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) 
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+['n Mynwerker bereken telkens 'n hutswaarde vir 'n voorgestelde blok totdat een resultaat onder die netwerk se teiken is, en saai dan die blok uit. Nodusse kontroleer die bewys en elke reël vinnig voordat die blok deel van die blokketting word: dit is duur om die werk te verrig en maklik om dit te verifieer.](/micrographics/proof-of-work-process-01/af.md)
 
 
 [Bewys van werk](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) dien verskeie doeleindes:

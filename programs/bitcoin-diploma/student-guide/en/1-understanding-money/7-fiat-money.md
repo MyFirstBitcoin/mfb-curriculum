@@ -1,5 +1,6 @@
 # 1.7 Fiat money
 
+<!-- card: definition -->
 > **Definition – Fiat money**
 >
 > [Fiat money](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) is [currency](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) issued under government authority, usually through a [central bank](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank), that is not redeemable for a fixed amount of a commodity such as [gold](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold). Governments support—and in some contexts impose—its use by requiring it for taxes and by setting legal-tender rules. The exact rules for accepting payments and settling [debts](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt) vary by jurisdiction.
@@ -11,12 +12,14 @@ The fiat system has several main participants:
 
 
 <!-- micrographic: fiat-system-flows-01 -->
+[The actors in a fiat system and what passes between them: the central bank sets policy and settles banks, commercial banks hold deposits that are their liability to customers, payment services carry instructions, the government taxes and spends, and citizens and businesses pay and get paid.](/micrographics/fiat-system-flows-01/en.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
-> **Light – Examine a local payment**
+<!-- card: light -->
+> **Examine a local payment**
 >
 > Choose one ordinary payment in your community, such as buying transport, food, or phone credit; receiving wages; or paying a bill. Use a realistic invented scenario if you prefer. In three or four sentences, explain:
 >

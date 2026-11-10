@@ -7,8 +7,7 @@ Při porovnávání jakéhokoli [digitálního aktiva](https://curriculum.myfirs
 Níže uvedené srovnání rozlišuje kategorie a volby při návrhu systémů. Nejde o podporu, doporučení ani tvrzení, že jakékoli [aktivum](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) je bezpečné, spolehlivé nebo pro vás vhodné.
 
 
-> **Dark**
->
+<!-- card: dark -->
 > Podvody, zavádějící tvrzení a nebezpečné služby se mohou týkat jakéhokoli [digitálního aktiva](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-asset) nebo platební cesty. Prověřte konkrétní [aktivum](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset), službu a [úschovu](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) i její podmínky, místo abyste předpokládali, že je určitá kategorie sama o sobě bezpečná nebo nebezpečná.
 
 

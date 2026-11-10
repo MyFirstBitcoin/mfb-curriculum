@@ -75,7 +75,8 @@ Geld is een bezitting die mensen accepteren omdat zij verwachten dat anderen het
 * Waarde over tijd en afstand
 
 
-> **Callout – Snelle vraag**
+<!-- card: callout -->
+> **Snelle vraag**
 >
 > Welk ruil- of coördinatieprobleem helpt geld op te lossen?
 
@@ -108,7 +109,8 @@ De ene vorm kan een functie beter vervullen dan de andere. Elke vorm brengt risi
 Geen enkele vorm scoort perfect. „**Gezond geld**” is een oordeel: benoem criteria en vergelijk consequent.
 
 
-> **Callout – Denk kritisch na**
+<!-- card: callout -->
+> **Denk kritisch na**
 >
 > Welke eigenschappen waren voor u van belang toen u het ene type geld of vermogen verkoos boven het andere?
 
@@ -152,6 +154,7 @@ Schaarsheid alleen garandeert geen waarde; ook de vraag speelt een rol.
 ---
 
 <!-- micrographic: same-water-different-value-01 -->
+[Dezelfde fles schoon water is goedkoop in een koelkast in de winkel, waar water gemakkelijk te vinden is, en veel waardevoller in een hete woestijn tijdens een tekort. Beschikbaarheid, behoefte en omstandigheden veranderen waarde en prijs.](/micrographics/same-water-different-value-01/nl.md)
 
 ---
 
@@ -162,6 +165,7 @@ Schaarsheid alleen garandeert geen waarde; ook de vraag speelt een rol.
 ---
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Een consument met beperkt geld bekijkt de opties die voor hem liggen: eten voor vandaag, vervoer of sparen voor later. Wie voor de ene optie kiest, ziet af van de andere; dat zijn de opportuniteitskosten. Geen enkele optie wordt als de juiste aangeduid.](/micrographics/one-choice-two-uses-01/nl.md)
 
 ---
 
@@ -195,6 +199,7 @@ Gemakkelijke betalingen en flexibel krediet brengen afhankelijkheid van instelli
 ---
 
 <!-- micrographic: fiat-system-flows-01 -->
+[De actoren in een fiatsysteem en wat er tussen hen wordt uitgewisseld: de centrale bank bepaalt het beleid en verzorgt de afwikkeling tussen banken, commerciële banken beheren tegoeden die een verplichting zijn tegenover hun klanten, betaaldiensten brengen opdrachten over, de overheid heft belastingen en doet uitgaven, en burgers en bedrijven betalen en worden betaald.](/micrographics/fiat-system-flows-01/nl.md)
 
 ---
 
@@ -230,10 +235,12 @@ Bankruns kunnen de toegang tot geld onder druk zetten. Depositogarantie en lenin
 ---
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Een vereenvoudigde banklening: de lener vraagt de lening aan, de bank keurt de lening goed en schrijft een nieuw tegoed bij op de rekening van de lener, en de lener betaalt de bank later de hoofdsom plus rente terug.](/micrographics/bank-loan-deposit-01/nl.md)
 
 ---
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Liquiditeitsrisico: veel spaarders staan vandaag in de rij om geld op te nemen, en de bank heeft nu onvoldoende contant geld, ook al kunnen haar leningen later worden terugbetaald. Solvabiliteitsrisico: leners lossen hun hypotheek niet meer af, en de activa van de bank worden minder waard dan wat zij verschuldigd is.](/micrographics/liquidity-vs-solvency-01/nl.md)
 
 ---
 
@@ -255,6 +262,7 @@ Uitbreiding van geld en krediet kan bijdragen, naast aanbod, vraag, wisselkoerse
 ---
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Met dezelfde 100 geldeenheden koopt u het hele mandje basisgoederen wanneer het 100 kost, maar niet wanneer hetzelfde mandje 110 kost. Het prijsniveau is gestegen en de koopkracht van het geld is gedaald.](/micrographics/same-money-smaller-basket-01/nl.md)
 
 ---
 
@@ -308,7 +316,8 @@ Een CBDC is digitaal fiatgeld dat wordt uitgegeven als verplichting van een cent
 Ontwerpen verschillen. Digitaal betekent niet automatisch gedecentraliseerd, schaars, privé of onafhankelijk verifieerbaar.
 
 
-> **Callout – Controleer**
+<!-- card: callout -->
+> **Controleer**
 >
 > Wie geeft het uit, wie kan het gebruiken, welke gegevens worden verzameld en wie kan betalingen blokkeren of regels wijzigen? Wat gebeurt er offline en welke wettelijke bescherming bestaat er?
 
@@ -327,7 +336,8 @@ Ontwerpen verschillen. Digitaal betekent niet automatisch gedecentraliseerd, sch
 Wat maakt uw geld bruikbaar, en welke regels hangen af van instellingen die u vertrouwt?
 
 
-> **Callout – Een moment van reflectie**
+<!-- card: callout -->
+> **Een moment van reflectie**
 >
 > Welke vraag stelt u nu over geld die u eerder niet stelde?
 
@@ -357,6 +367,7 @@ Bitcoin vermindert het centrale vertrouwen bij uitgifte en afwikkeling; het neem
 ---
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Bij een betalingsbedrijf houdt één organisatie het grootboek bij en keurt zij elke overboeking goed. Bij Bitcoin ondertekent de verzender een transactie, controleren onafhankelijke Nodes deze en voegen miners deze toe aan één gedeeld grootboek, waardoor de ontvanger minder afhankelijk is van een centrale autoriteit.](/micrographics/central-ledger-vs-bitcoin-01/nl.md)
 
 ---
 
@@ -393,6 +404,7 @@ Dubbel uitgeven (double spending) is een poging om dezelfde digitale eenheid naa
 ---
 
 <!-- micrographic: five-part-response-01 -->
+[Vijf onderdelen vormen samen het antwoord op het double-spendprobleem: een peer-to-peernetwerk, digitale handtekeningen, blokken en Mining, onafhankelijke verificatie en een gedeelde geschiedenis met de meeste geaccumuleerde proof of work. Samen stellen ze het netwerk in staat een tweede uitgave te weigeren zonder centrale autoriteit.](/micrographics/five-part-response-01/nl.md)
 
 ---
 
@@ -411,6 +423,7 @@ Een geschreven bewering over het aanbod is niet genoeg: wie kan het verifiëren,
 ---
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Een limiet op het aanbod die op een website of in de database van een uitgever staat, kan door die uitgever ongemerkt worden gewijzigd. De regel voor het aanbod van Bitcoin is openbaar, en handtekeningen, een openbare geschiedenis, proof of work en verificatie door nodes voorkomen samen dat er nieuwe munten worden verzonnen of dat dezelfde bitcoin twee keer wordt uitgegeven.](/micrographics/claimed-or-verified-supply-01/nl.md)
 
 ---
 
@@ -452,12 +465,14 @@ Tussenpersonen blijven optioneel; wie er een kiest, krijgt te maken met de bewaa
 ---
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[Een verzender ondertekent een transactie en zendt deze uit naar talloze Nodes in het netwerk, die de transactie doorgeven totdat deze de ontvanger bereikt. Er is geen centrale Bitcoin-beheerder die de verzender of de ontvanger moet goedkeuren.](/micrographics/peer-to-peer-route-01/nl.md)
 
 ---
 
 ![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Vier rollen in Bitcoin: gebruikers ontvangen, bewaren en versturen bitcoin, nodes controleren zelfstandig de regels, miners stellen kandidaat-blokken samen met proof of work en ontwikkelaars stellen software voor. Geen enkele rol heeft zeggenschap over het netwerk.](/micrographics/bitcoin-participant-roles-01/nl.md)
 
 ---
 
@@ -466,7 +481,8 @@ Tussenpersonen blijven optioneel; wie er een kiest, krijgt te maken met de bewaa
 Miners kunnen ongeldige blokken niet aanvaardbaar maken voor eerlijke nodes. Ontwikkelaars kunnen het gebruik van software niet afdwingen. Eén persoon kan meerdere rollen vervullen.
 
 
-> **Callout – Controlevraag**
+<!-- card: callout -->
+> **Controlevraag**
 >
 > Waarom verifieert een node transacties? Noem één regel die de node controleert.
 
@@ -489,6 +505,7 @@ Mining beveiligt de volgorde van transacties; het lost geen externe vergelijking
 ![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Een miner hasht een voorgesteld blok keer op keer totdat één resultaat onder de doelwaarde van het netwerk ligt, en verspreidt het blok vervolgens. Nodes controleren snel het bewijs en elke regel voordat het blok aan de blockchain wordt toegevoegd: werk is kostbaar om te produceren en eenvoudig te verifiëren.](/micrographics/proof-of-work-process-01/nl.md)
 
 ---
 
@@ -509,10 +526,12 @@ Nodes weigeren overmatige uitgifte; de limiet blijft gelden zolang deelnemers di
 ---
 
 <!-- micrographic: bitcoin-issuance-supply-01 -->
+[De bloksubsidie begint bij 50 bitcoin en halveert elke 210.000 blokken, terwijl de totale hoeveelheid uitgegeven bitcoin stijgt richting de limiet van 21 miljoen. Transactiekosten worden daarbovenop betaald en zijn geen nieuwe bitcoin; er wordt geen koersvoorspelling gedaan.](/micrographics/bitcoin-issuance-supply-01/nl.md)
 
 ---
 
 <!-- micrographic: bitcoin-issuance-subsidy-01 -->
+[De bloksubsidie begint bij 50 bitcoin en halveert elke 210.000 blokken, terwijl de totale hoeveelheid uitgegeven bitcoin stijgt richting de limiet van 21 miljoen. Transactiekosten worden daarbovenop betaald en zijn geen nieuwe bitcoin; er wordt geen koersvoorspelling gedaan.](/micrographics/bitcoin-issuance-subsidy-01/nl.md)
 
 ---
 
@@ -528,7 +547,8 @@ Nodes weigeren overmatige uitgifte; de limiet blijft gelden zolang deelnemers di
 **Eenheidsbias:** een lage prijs per hele eenheid bewijst geen betere waarde. Vergelijk het aandeel in het totale aanbod, de betrokken waarde en de risico's.
 
 
-> **Callout – Toon uw begrip**
+<!-- card: callout -->
+> **Toon uw begrip**
 >
 > Hoeveel sats zitten er in 0,01 BTC? Waarom kan iemand minder dan een hele bitcoin gebruiken?
 
@@ -586,7 +606,8 @@ Een bekende ticker, een schijnbaar stabiele koers of een verzorgde app is geen b
 * Geen instructie om te kopen, verkopen of aan te houden
 
 
-> **Callout – Controle van de lokale waarde**
+<!-- card: callout -->
+> **Controle van de lokale waarde**
 >
 > Maak onderscheid tussen marktprijs, lokale acceptatie en persoonlijke voorkeur of vooringenomenheid.
 
@@ -601,6 +622,7 @@ Beoordeel zowel het ontwerp en de werking als het ontstaansverhaal.
 ---
 
 <!-- micrographic: bitcoin-origin-timeline-01 -->
+[Het ontstaan van Bitcoin in vier gedateerde gebeurtenissen: op 31 oktober 2008 publiceerde Satoshi Nakamoto de whitepaper, waarin directe online betalingen zonder financiële tussenpersoon werden beschreven; op 3 januari 2009 startte het Genesis Block het Bitcoin-netwerk, met een krantenkop over reddingsoperaties voor banken; op 12 januari 2009 stuurde Satoshi bitcoin naar Hal Finney in de eerste geregistreerde transactie van persoon tot persoon; op 22 mei 2010 betaalde een gebruiker 10.000 BTC voor twee pizza's, nu bekend als Bitcoin Pizza Day.](/micrographics/bitcoin-origin-timeline-01/nl.md)
 
 ---
 
@@ -629,7 +651,8 @@ Persoonlijke verantwoordelijkheid kan bestaan uit educatie, controle door andere
 * Volgorde van transacties → Proof-of-Work; kosten voor apparatuur en energie
 
 
-> **Callout – Een moment van reflectie**
+<!-- card: callout -->
+> **Een moment van reflectie**
 >
 > Welk onderdeel van het ontwerp van Bitcoin zou u nu anders uitleggen, en waarom?
 
@@ -674,6 +697,7 @@ Oefenwallets mogen geen noemenswaardige bedragen beveiligen. Een latere persoonl
 ---
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Een Wallet bewaart de sleutels. Daarmee kunt u bitcoin ontvangen en verzenden, terwijl de bitcoin zelf geregistreerd blijft op het gedeelde grootboek, niet in de telefoon of het apparaat.](/micrographics/wallet-manages-keys-01/nl.md)
 
 ---
 
@@ -699,13 +723,15 @@ Malware kan gekopieerde bestemmingen vervangen. Een vertrouwd uiterlijk is niet 
 Deel nooit privé sleutels, seedzinnen, wachtwoorden of herstelcodes. Geen enkele bonafide docent, supportmedewerker, wallet-aanbieder, medewerker van een exchange of ontwikkelaar heeft ze nodig.
 
 
-> **Callout – Probeer het zelf**
+<!-- card: callout -->
+> **Probeer het zelf**
 >
 > Sorteer de voorbereide voorbeelden in ontvangstinformatie, geheimen en openbare informatie die gevoelig wordt zodra deze aan een persoon wordt gekoppeld.
 
 ---
 
 <!-- micrographic: private-key-public-info-01 -->
+[Een geheime privésleutel, die nooit gedeeld mag worden, leidt tot publieke informatie die wel gedeeld kan worden: een publieke sleutel die ervan is afgeleid en een ontvangstadres dat daarop is gebaseerd. Dezelfde privésleutel maakt handtekeningen aan die Nodes verifiëren zonder de privésleutel ooit te leren kennen.](/micrographics/private-key-public-info-01/nl.md)
 
 ---
 
@@ -738,7 +764,8 @@ Als de seedphrase mogelijk is gezien, gekopieerd, online ingevoerd of opgeslagen
 Een openbare blockchain kan niet bewijzen wat een dienst aan een bepaalde klant verschuldigd is. Ook bij self-custody kan er sprake zijn van afhankelijkheid van software, hardware, servers en netwerken.
 
 
-> **Callout – Probeer het**
+<!-- card: callout -->
+> **Probeer het**
 >
 > Vergelijk twee voorbereide beschrijvingen: wie beheert de sleutels, wie herstelt de toegang en welk risico moet worden gecontroleerd?
 
@@ -749,6 +776,7 @@ Een openbare blockchain kan niet bewijzen wat een dienst aan een bepaalde klant 
 ---
 
 <!-- micrographic: who-controls-keys-01 -->
+[Bij bewaring door derden beheert een dienst de sleutels en keurt die uitgaven goed, waardoor het saldo een belofte van die dienst is. Bij zelfbewaring beheert de gebruiker zelf de sleutels en back-ups; beide routes kennen afhankelijkheden en risico's op falen.](/micrographics/who-controls-keys-01/nl.md)
 
 ---
 
@@ -776,6 +804,7 @@ Gebruik alleen voorbereide, lege of gesimuleerde materialen. Maak nooit echte he
 ---
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[Een oefening in zes stappen voor het herstellen van een trainingswallet: volg de officiële instructies, controleer de compatibiliteit, werk in privacy, gebruik de goedgekeurde herstelmethode, bevestig de verwachte wallet en stel daarna alles opnieuw in. Gebruik uitsluitend voorbereide, lege of gesimuleerde materialen; de docent ziet de herstelwoorden nooit.](/micrographics/practice-wallet-recovery-01/nl.md)
 
 ---
 
@@ -804,6 +833,7 @@ Keur alleen goed wanneer elke controle klopt. Als gegevens veranderen, er tijdsd
 ---
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Voordat de verzender een betaling goedkeurt, controleert hij de ontvanger en het doel, de betaalmethode, de bestemming en het bedrag, de eenheid, de transactiekosten of de vervaltijd, met een kleine test als het proces onbekend is. Wijkt er iets af, dan stopt hij en controleert hij; hij keurt alleen goed als alles overeenkomt en controleert daarna het resultaat.](/micrographics/pre-send-checklist-01/nl.md)
 
 ---
 
@@ -823,6 +853,7 @@ Gebruik voorbereide voorbeelden; zoek niet naar het persoonlijke adres of de per
 ---
 
 <!-- micrographic: confirmation-timeline-01 -->
+[Een transactie wacht onbevestigd in de pool met wachtende transacties, wordt vervolgens opgenomen in Blok N als haar eerste bevestiging, en elk volgend blok voegt er één bevestiging aan toe.](/micrographics/confirmation-timeline-01/nl.md)
 
 ---
 
@@ -835,7 +866,8 @@ Gebruik voorbereide voorbeelden; zoek niet naar het persoonlijke adres of de per
 **Pauzeer. Deel niets. Verstuur niets. Sluit het kanaal. Controleer zelfstandig. Vraag om hulp zonder geheimen prijs te geven.**
 
 
-> **Callout – Probeer het zelf**
+<!-- card: callout -->
+> **Probeer het zelf**
 >
 > Benoem bij een voorbereid bericht het waarschuwingssignaal, het mogelijke verlies en de eerste veilige stap.
 
@@ -844,6 +876,7 @@ Gebruik voorbereide voorbeelden; zoek niet naar het persoonlijke adres of de per
 ---
 
 <!-- micrographic: scam-red-flags-01 -->
+[Vijf waarschuwingssignalen van oplichting: urgentie, imitatie, een gewijzigde bestemming, gegarandeerd rendement en verzoeken om geheimen.](/micrographics/scam-red-flags-01/nl.md)
 
 ---
 
@@ -860,10 +893,12 @@ Geen enkele route of aanbieder is automatisch de beste. **KYC** betekent identit
 ---
 
 <!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Eén persoon kan op vier verschillende manieren bitcoin ontvangen: door het te verdienen met werk of verkoop, door lokaal contant geld te ruilen met een andere persoon, via een exchange of broker, of via een geldautomaat. Elke route eindigt in zelfbewaring of een saldo bij een bewaarder, en geen enkele route wordt boven de andere aanbevolen.](/micrographics/ways-to-receive-bitcoin-01/nl.md)
 
 ---
 
 <!-- micrographic: exchange-risk-questions-01 -->
+[Zes risicogebieden om te controleren voordat u bitcoin aanschaft of uitwisselt, elk met een vraag om te stellen: kosten, bewaring, identiteit en privacy, opname en afwikkeling, tegenpartij en veiligheid, en lokale context.](/micrographics/exchange-risk-questions-01/nl.md)
 
 ---
 
@@ -909,7 +944,8 @@ Gebruik de afgesproken trainingsomgeving. Stop bij een afwijking; vraag zo nodig
 Een vriend stuurt een verzoek terwijl een onbekende supportdienst onmiddellijke actie eist. Wat zou u kunnen controleren voordat u iets doet?
 
 
-> **Callout – Een moment van reflectie**
+<!-- card: callout -->
+> **Een moment van reflectie**
 >
 > Voor welke veiligheidscontrole neemt u even de tijd voordat u handelt?
 
@@ -928,6 +964,7 @@ Een vriend stuurt een verzoek terwijl een onbekende supportdienst onmiddellijke 
 ## Uw lokale module 4
 
 <!-- micrographic: local-module-four-actions-01 -->
+[In de lokale Module 4 doorloopt de deelnemer vier stappen: een idee uit Module 1 tot en met 3 verbinden met een lokale behoefte, Bitcoin vergelijken met een realistisch bestaand alternatief, veilig oefenen onder begeleiding, en uitleggen wat hij of zij heeft geleerd en wat een verantwoorde volgende stap is. De docent, en soms een lokale deskundige, begeleidt de deelnemer daarbij van begin tot eind.](/micrographics/local-module-four-actions-01/nl.md)
 
 
 Noteer uw lokale focus: probleem of kans, alternatief, veilig scenario, belangrijkste voordeel en risico, en een veilige volgende stap.
@@ -979,10 +1016,12 @@ Een geslaagde kleine betaling bewijst niet dat grotere saldi veilig zijn.
 ---
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[De ontvanger maakt op zijn telefoon een Lightning-betaalverzoek aan met het bedrag, de verzender scant het en betaalt, en de betaling komt een ogenblik later binnen op de telefoon van de ontvanger.](/micrographics/lightning-phone-payment-01/nl.md)
 
 ---
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Een Lightning-betaling in zes stappen: de ontvanger maakt een verzoek aan, de verzender scant het, controleert ontvanger, bedrag, eenheid, vervaltijd en kosten, en keurt het goed, de betaling wordt gerouteerd en beide Wallets tonen het resultaat. Elke Wallet kan custodial of self-custodial zijn, en een mislukte of verlopen betaling begint opnieuw met een nieuw verzoek.](/micrographics/lightning-payment-sequence-01/nl.md)
 
 ---
 
@@ -1034,6 +1073,7 @@ Kies of pas de scenario's uit de gids aan voor de lokale opdracht. Houd de opdra
 ---
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[Een betaling in een koffiebar in vier stappen: de klant bestelt, de medewerker stuurt een factuur, de klant betaalt met zijn telefoon in bitcoin en de medewerker overhandigt de koffie.](/micrographics/coffee-shop-payment-01/nl.md)
 
 ---
 
@@ -1094,6 +1134,7 @@ Adoptiecijfers alleen bewijzen niet dat iets nuttig is. Zwakke vraag, gebrekkige
 ---
 
 <!-- micrographic: local-circular-economy-01 -->
+[In een circulaire Bitcoin-economie gaat bitcoin van persoon tot persoon in ruil voor goederen, diensten en tijd. Een klant betaalt een handelaar, de handelaar betaalt een dienstverlener, de dienstverlener betaalt een werknemer en de werknemer geeft het als klant weer uit.](/micrographics/local-circular-economy-01/nl.md)
 
 ---
 
@@ -1151,6 +1192,7 @@ Vul dit eerst individueel in en vergelijk daarna uw redenering met die van uw gr
 * Zinvolle deelname aan de gemeenschap is vrijwillig en beschermt mensen
 
 
-> **Callout – Een moment van reflectie**
+<!-- card: callout -->
+> **Een moment van reflectie**
 >
 > Welke vraag zou u stellen voordat u besluit of een Bitcoin-aanpak past bij een lokale behoefte?

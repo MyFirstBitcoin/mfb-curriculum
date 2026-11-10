@@ -19,3 +19,4 @@ Jangan gunakan pos-pos latihan sebagai penilaian formal kecuali rincian tugas, v
 
 
 <!-- micrographic: practice-circuit-stations-01 -->
+[Peserta didik bergiliran mengunjungi delapan pos praktik: kustodi, publik atau rahasia, menerima, mengirim, pemulihan, penjelajah, penipuan, dan jalur. Jalur observasi terpisah mengikuti rute yang telah disetujui, sehingga praktik kelompok tidak pernah disalahartikan sebagai penilaian formal.](/micrographics/practice-circuit-stations-01/id.md)

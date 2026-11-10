@@ -10,6 +10,7 @@ Bitcoin blev skabt for at løse dette problem med et [peer-to-peer-netværk](htt
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Hos en betalingsvirksomhed fører én organisation regnskabet og godkender hver overførsel. Med Bitcoin underskriver afsenderen en transaktion, uafhængige noder kontrollerer den, og minere føjer den til ét fælles regnskab, så modtageren er mindre afhængig af en central myndighed.](/micrographics/central-ledger-vs-bitcoin-01/da.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)

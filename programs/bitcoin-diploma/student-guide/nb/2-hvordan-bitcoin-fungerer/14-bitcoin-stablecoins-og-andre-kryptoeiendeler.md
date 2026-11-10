@@ -7,8 +7,7 @@ Når De sammenligner en [digital eiendel](https://curriculum.myfirstbitcoin.org/
 Sammenligningen nedenfor skiller mellom kategorier og designvalg. Den er ikke en støtteerklæring, en anbefaling eller en påstand om at noen [eiendel](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) er trygg, pålitelig eller egnet for Dem.
 
 
-> **Dark**
->
+<!-- card: dark -->
 > Svindel, villedende påstander og utrygge tjenester kan ramme enhver [digital eiendel](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-asset) eller betalingskanal. Undersøk den konkrete [eiendelen](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset), tjenesten og ordningen for [oppbevaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) i stedet for å anta at en kategori i seg selv er trygg eller utrygg.
 
 

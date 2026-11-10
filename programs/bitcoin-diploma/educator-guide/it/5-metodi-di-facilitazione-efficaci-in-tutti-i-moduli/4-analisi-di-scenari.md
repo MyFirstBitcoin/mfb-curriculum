@@ -14,3 +14,4 @@ Dopo la prima risposta, cambi una condizione. Per esempio: la connessione intern
 
 
 <!-- micrographic: scenario-analysis-path-01 -->
+[Uno scenario immaginario procede dall'obiettivo della persona e dai fatti verificati a chi ha il controllo, alle opzioni, a ciò che potrebbe andare storto e al passo successivo più piccolo e sicuro. La modifica di una condizione riporta il ragionamento alla decisione che ne è influenzata.](/micrographics/scenario-analysis-path-01/it.md)

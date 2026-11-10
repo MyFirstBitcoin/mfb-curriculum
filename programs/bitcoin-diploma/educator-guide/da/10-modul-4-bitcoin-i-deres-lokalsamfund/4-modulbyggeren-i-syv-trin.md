@@ -1,6 +1,7 @@
 # 10.4 Modulbyggeren i syv trin
 
 <!-- micrographic: seven-step-module-builder-01 -->
+[Syv planlægningstrin fører fra den lokale kontekst og det lokale behov til en fokuseret, verificeret opgave, et sikkert undervisningsforløb, en klar evaluering og en opsamling. Det eksisterende alternativ holdes for øje, og en uegnet mulighed fører tilbage til planlægningen.](/micrographics/seven-step-module-builder-01/da.md)
 
 
 #### 1. Lær den lokale kontekst at kende

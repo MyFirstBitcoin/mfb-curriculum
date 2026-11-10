@@ -10,6 +10,7 @@ Teach:
 
 
 <!-- micrographic: bitcoin-issuance-schedule-01 -->
+[The block subsidy starts at 50 bitcoin and halves every 210,000 blocks, while total issued bitcoin rises toward the 21 million limit. Transaction fees are paid on top and are not new bitcoin; no price forecast is implied.](/micrographics/bitcoin-issuance-schedule-01/en.md)
 
 
 The limit is a public network rule, not a physical law. A person can write other software, but cannot force existing participants to adopt it. Incompatible adoption can create a different network rather than silently changing Bitcoin for everyone.

@@ -12,6 +12,7 @@ Buat garis waktu yang berlapis atau saling terjalin, bukan satu panah kemajuan t
 
 
 <!-- micrographic: forms-of-money-01 -->
+[Enam bentuk uang ditampilkan dari kiri ke kanan sesuai urutan kemunculannya: pertukaran langsung, uang komoditas, koin standar, uang kertas perwakilan, uang bank dan pemerintah, serta uang digital. Setiap bentuk baru muncul belakangan, sementara bentuk-bentuk yang lebih lama tetap digunakan berdampingan dengannya, sehingga banyak bentuk uang hadir bersamaan alih-alih saling menggantikan.](/micrographics/forms-of-money-01/id.md)
 
 
 Ajak peserta menambahkan contoh lokal. Tanyakan bentuk-bentuk mana yang hadir secara bersamaan, alih-alih menganggap satu bentuk sepenuhnya menggantikan bentuk lainnya.

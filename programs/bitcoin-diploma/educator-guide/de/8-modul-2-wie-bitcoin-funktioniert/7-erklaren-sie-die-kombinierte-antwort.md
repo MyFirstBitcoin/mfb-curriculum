@@ -10,6 +10,7 @@ Verwenden Sie eine fünfteilige Übersicht:
 
 
 <!-- micrographic: five-part-response-01 -->
+[Fünf Bestandteile wirken zusammen, um das Double-Spending-Problem zu lösen: ein Peer-to-Peer-Netzwerk, digitale Signaturen, Blöcke und Mining, unabhängige Überprüfung sowie eine gemeinsame Historie mit dem meisten akkumulierten Proof of Work. Gemeinsam ermöglichen sie es dem Netzwerk, eine zweite Ausgabe ohne zentrale Instanz abzulehnen.](/micrographics/five-part-response-01/de.md)
 
 
 Kein einzelner Teil erzeugt allein die glaubwürdige [Knappheit](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) von Bitcoin. Vermeiden Sie die Aussage „die [Blockchain](https://curriculum.myfirstbitcoin.org/lexicon/en/#blockchain) löst alles“.

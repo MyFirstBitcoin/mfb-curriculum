@@ -10,6 +10,7 @@ U plaaslike **Module 4** se aktiwiteit sal u help:
 
 
 <!-- micrographic: local-module-four-actions-01 -->
+[In die plaaslike Module 4 deurloop die leerder vier handelinge: verbind 'n idee uit Modules 1 tot 3 met 'n plaaslike behoefte, vergelyk Bitcoin met 'n realistiese bestaande opsie, oefen veilig met leiding, en verduidelik wat hulle geleer het en wat 'n verantwoordelike volgende stap sou wees. Hulle opvoeder, en soms 'n plaaslike deskundige, lei hulle deurgaans.](/micrographics/local-module-four-actions-01/af.md)
 
 
 U aktiwiteit kan vrae soos die volgende verken:

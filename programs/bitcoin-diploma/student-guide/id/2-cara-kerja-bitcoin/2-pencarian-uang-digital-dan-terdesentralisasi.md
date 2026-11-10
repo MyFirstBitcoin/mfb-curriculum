@@ -3,6 +3,7 @@
 Perkembangan komputer pribadi dan internet menciptakan peluang baru untuk berkomunikasi. Perkembangan ini juga menciptakan bentuk-bentuk baru pengawasan dan kontrol. Pada akhir abad kedua puluh, sekelompok pemrogram, matematikawan, dan aktivis yang dikenal sebagai [**Cypherpunks**](https://curriculum.myfirstbitcoin.org/lexicon/en/#cypherpunk) mengeksplorasi bagaimana [kriptografi](https://curriculum.myfirstbitcoin.org/lexicon/en/#cryptography) dapat melindungi [privasi](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy) dan kebebasan individu dalam sistem digital.
 
 
+<!-- card: definition -->
 > **Definition – Kriptografi**
 >
 > [Kriptografi](https://curriculum.myfirstbitcoin.org/lexicon/en/#cryptography) menggunakan metode matematika untuk melindungi informasi dan membuktikan keaslian suatu tindakan. [Enkripsi](https://curriculum.myfirstbitcoin.org/lexicon/en/#encryption) dapat menjaga kerahasiaan pesan. [Tanda tangan digital](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) dapat membuktikan bahwa pesan atau instruksi berasal dari pemegang kunci rahasia tanpa mengungkapkan kunci tersebut.
@@ -16,3 +17,4 @@ Bitcoin dibangun di atas hasil kerja banyak orang selama puluhan tahun. Rancanga
 
 
 <!-- micrographic: chain-of-ideas-01 -->
+[Rangkaian gagasan: kriptografi mendorong penelitian tentang uang tunai digital, yang kemudian mengarah pada uang digital terdesentralisasi. Bitcoin memadukan karya banyak orang selama beberapa dekade sebelumnya dengan cara baru.](/micrographics/chain-of-ideas-01/id.md)

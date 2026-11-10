@@ -1,5 +1,6 @@
 # 1.12 央行數位貨幣（CBDC）
 
+<!-- card: definition -->
 > **Definition – 央行數位貨幣（CBDC）**
 >
 > 所謂[央行數位貨幣](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc)，簡稱[CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc)，是一種數位形式的[法定貨幣](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money)，作為[負債](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability)由[中央銀行](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank)發行：它是一項債權，代表[中央銀行](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank)對其持有人所負的債務。它不同於實體現金，也不同於一般的商業銀行存款，儘管使用體驗可能看起來相似。
@@ -13,6 +14,7 @@
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[一張比較現金、銀行存款、零售型央行數位貨幣與比特幣的表格，比較項目包括發行者、形式、使用權限、可見性、供給規則與驗證方式。數位化不等於去中心化：央行數位貨幣仍由中央銀行發行，其使用權限、可見性與驗證方式皆取決於其設計。](/micrographics/cbdc-comparison-table-01/zh-Hant.md)
 
 
 數位化並不自動代表去中心化、稀缺、隱私，或可供獨立驗證。[CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc)或許使用數位技術，但它依然是[法定貨幣](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money)，只要其[發行者](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer)、供給規則、使用規則與支付權限仍由中央管理。

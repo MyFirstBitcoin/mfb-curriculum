@@ -10,6 +10,7 @@ Dibuje un balance general simplificado:
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Un préstamo bancario simplificado: el prestatario solicita el préstamo, el banco lo aprueba y acredita un nuevo depósito en la cuenta del prestatario, quien posteriormente devuelve al banco el capital más los intereses.](/micrographics/bank-loan-deposit-01/es-419.md)
 
 
 No utilice una explicación del «multiplicador monetario» basada en depósitos físicos repetidos como si describiera de forma mecánica todos los sistemas bancarios modernos.
@@ -21,6 +22,7 @@ Distinga:
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Riesgo de liquidez: muchos depositantes hacen fila para retirar su dinero hoy, y el banco no tiene suficiente efectivo ahora, aunque sus préstamos podrían pagarse más adelante. Riesgo de solvencia: los prestatarios dejan de pagar sus préstamos hipotecarios, y los activos del banco pasan a valer menos de lo que debe.](/micrographics/liquidity-vs-solvency-01/es-419.md)
 
 
 Pregunte:

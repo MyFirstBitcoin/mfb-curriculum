@@ -36,6 +36,7 @@ Ita [Cibiyar Haɗin Gwiwar Ilimin Bitcoin](https://myfirstbitcoin.org/about/netw
 
 
 <!-- micrographic: final-safety-check-01 -->
+[Jerin dubawar tsaro na ƙarshe da aka yi wa alamar kammalawa: ku kare sirruka, ku tabbatar da bayanan biyan kuɗi, ku yi gwaji da ƙaramin adadi, kuma ku dakata idan ana matsa muku. Idan wani abu bai bayyana ba, ku dakata ku ƙara koyo kafin ku ɗauki mataki.](/micrographics/final-safety-check-01/ha.md)
 
 
 Ku tuna da waɗannan ƙa'idoji:
@@ -57,6 +58,7 @@ Ilimi yana rage haɗari amma ba zai iya kawar da shi gaba ɗaya ba. Idan wani ya
 
 
 <!-- micrographic: curriculum-source-panel-01 -->
+[Wani allo mai lambar QR da mahaɗin github.com/MyFirstBitcoin/mfb-curriculum a rubuce, wanda shi ne tushen hukuma na Difloma ta Bitcoin, inda za ku duba bugun ku kuma bayar da rahoton kurakurai.](/micrographics/curriculum-source-panel-01/ha.md)
 
 
 Difloma ta Bitcoin manhajar karatu ce mai buɗaɗɗen tushe wadda ake ci gaba da sabuntawa. Ana iya yin bitar gyare-gyare da ingantawa a bainar jama'a.

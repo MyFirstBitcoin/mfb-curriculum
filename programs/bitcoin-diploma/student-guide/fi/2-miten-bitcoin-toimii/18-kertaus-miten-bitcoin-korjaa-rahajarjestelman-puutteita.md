@@ -4,6 +4,7 @@ Pysähtykää pohtimaan, miten julkiset säännöt, rajallinen liikkeeseenlasku,
 
 
 <!-- micrographic: bitcoin-responses-tradeoffs-01 -->
+[Taulukko, jossa nykyisten rahajärjestelmien viisi mahdollista heikkoutta yhdistetään Bitcoinin ratkaisuihin sekä kunkin ratkaisun tuomaan uuteen vastuuseen tai kompromissiin. Bitcoin korvaa osan instituutioihin kohdistuvasta luottamuksesta todentamisella ja henkilökohtaisella vastuulla, mutta ei poista riskejä.](/micrographics/bitcoin-responses-tradeoffs-01/fi.md)
 
 
 **Keskeinen pohdintakysymys:** Sen perusteella, mitä olette oppineet Bitcoinista tässä moduulissa, onko sillä [arvoa](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) teille? Kuvaako tämänhetkinen [hinta](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) bitcoinin [arvoa](https://curriculum.myfirstbitcoin.org/lexicon/en/#value)?

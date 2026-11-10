@@ -7,6 +7,7 @@ Teach the difference explicitly:
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Two layers: the three functions of money (medium of exchange, unit of account, store of value) rest on seven properties (durability, portability, divisibility, fungibility, scarcity, acceptability and verifiability).](/micrographics/functions-and-properties-01/en.md)
 
 
 Use different purposes. Ask which properties matter for:

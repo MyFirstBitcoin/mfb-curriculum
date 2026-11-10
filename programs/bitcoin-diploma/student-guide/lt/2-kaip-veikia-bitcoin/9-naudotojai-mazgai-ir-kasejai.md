@@ -9,6 +9,7 @@ Bitcoin veikia, nes skirtingi dalyviai atlieka skirtingus vaidmenis.
 
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Keturi vaidmenys „Bitcoin“ tinkle: naudotojai gauna, laiko ir siunčia bitkoinus, mazgai savarankiškai tikrina, ar laikomasi taisyklių, kasėjai kuria blokus kandidatus atlikdami darbo įrodymo skaičiavimus, o programuotojai siūlo programinę įrangą. Nė vienas vaidmuo atskirai nekontroliuoja tinklo.](/micrographics/bitcoin-participant-roles-01/lt.md)
 
 
 Šie vaidmenys riboja vienas kitą:

@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[Eine Zahlung im Café in vier Schritten: Der Kunde bestellt, die Bedienung sendet eine Rechnung, der Kunde bezahlt mit seinem Handy in bitcoin, und die Bedienung übergibt den Kaffee.](/micrographics/coffee-shop-payment-01/de.md)
 
 
 Verwenden Sie Waren und Dienstleistungen, die vor Ort vertraut sind. Es kommt nicht auf den genauen Artikel an, sondern auf die Überlegungen zur Zahlung.

@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[Dört adımda bir kafede ödeme: müşteri sipariş verir, garson bir fatura gönderir, müşteri telefonundan bitcoin ile öder ve garson kahveyi teslim eder.](/micrographics/coffee-shop-payment-01/tr.md)
 
 
 Yerel olarak bilinen mal ve hizmetleri kullanın. Ürünün tam olarak ne olduğu önemli değildir; önemli olan ödemenin ardındaki mantıktır.

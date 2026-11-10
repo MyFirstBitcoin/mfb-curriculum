@@ -16,6 +16,7 @@ Vysvětlete, že zpráva nebo snímek obrazovky s textem „odesláno“ není d
 
 
 <!-- micrographic: check-what-you-receive-01 -->
+[Ukázková obrazovka pro příjem platby na telefonu zobrazuje způsob platby, žádost o platbu ke sdílení, částku a stav čekající na vyřízení. Zpráva ani snímek obrazovky s textem "odesláno" nejsou důkazem: zkontrolujte stav ve své vlastní peněžence.](/micrographics/check-what-you-receive-01/cs.md)
 
 
 #### Cvičení: průchod obrazovkou pro příjem

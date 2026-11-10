@@ -19,6 +19,7 @@ Demonstrér ikke et værktøj, blot fordi det er populært lokalt. Brug denne sa
 
 
 
-> **Dark – Lokale eksempler er ikke globale anbefalinger**
+<!-- card: dark -->
+> **Lokale eksempler er ikke globale anbefalinger**
 >
 > Dette værktøj er et dateret lokalt eksempel til undervisningsbrug. Brugen af det i undervisningen er ikke en global anbefaling fra My First Bitcoin eller et løfte om, at det fortsat vil være egnet.

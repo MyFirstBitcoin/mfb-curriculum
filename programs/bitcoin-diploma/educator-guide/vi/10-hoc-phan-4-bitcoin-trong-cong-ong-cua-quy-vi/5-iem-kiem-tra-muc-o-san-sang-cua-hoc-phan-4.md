@@ -1,6 +1,7 @@
 # 10.5 Điểm kiểm tra mức độ sẵn sàng của Học phần 4
 
-> **Callout – Không triển khai hoạt động thực tế trong Mô-đun 4 cho đến khi tất cả các mục kiểm tra đều đạt yêu cầu**
+<!-- card: callout -->
+> **Không triển khai hoạt động thực tế trong Mô-đun 4 cho đến khi tất cả các mục kiểm tra đều đạt yêu cầu**
 >
 > Nếu một mục kiểm tra dưới đây chưa đạt yêu cầu, hãy sử dụng mô phỏng, lộ trình được in sẵn hoặc một hoạt động khác. Không bù đắp cho một lộ trình không an toàn hoặc chưa được xác minh bằng cách yêu cầu người học chấp nhận thêm rủi ro.
 
@@ -22,3 +23,4 @@ Không triển khai mô-đun có hoạt động thực tế cho đến khi mọi
 
 
 <!-- micrographic: module-4-readiness-gate-01 -->
+[Tám bước kiểm tra bao quát mục đích, năng lực, khả năng của nhà giáo, công cụ, quy định địa phương, an toàn, khả năng tiếp cận và việc quan sát. Mọi bước kiểm tra đều phải đạt yêu cầu trước khi triển khai thực tế; nếu có điểm chưa đạt, cần chọn phương án an toàn hơn hoặc điều chỉnh kế hoạch rồi đánh giá lại mức độ sẵn sàng.](/micrographics/module-4-readiness-gate-01/vi.md)

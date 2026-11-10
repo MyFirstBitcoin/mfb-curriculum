@@ -24,6 +24,7 @@ O ensino e a avaliação offline são válidos. Use verificações de conhecimen
 
 
 <!-- micrographic: same-competency-any-route-01 -->
+[Ferramentas reais, simulações em papel e caminhos acessíveis aprovados podem apoiar a mesma competência quando o aluno ainda toma as decisões exigidas e o educador consegue avaliar evidências equivalentes. Sem equivalência, prepare outro caminho antes da certificação.](/micrographics/same-competency-any-route-01/pt-BR.md)
 
 
 O Guia do Estudante explica conceitos duradouros. Verifique os detalhes locais atuais antes de apresentar taxas, leis, impostos, serviços disponíveis, recursos de carteiras ou listas de comerciantes, e coloque a data nas informações que você usar.

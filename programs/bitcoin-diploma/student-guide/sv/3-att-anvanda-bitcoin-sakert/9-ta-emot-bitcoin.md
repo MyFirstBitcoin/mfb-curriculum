@@ -12,6 +12,7 @@ Att ta emot en betalning ger ingen tillåtelse att föra ut pengar från er plå
 
 
 <!-- micrographic: check-what-you-receive-01 -->
+[Ett exempel på en mottagningsvy på en telefon visar betalningsmetoden, betalningsbegäran att dela, beloppet och statusen väntande. Ett meddelande eller en skärmbild där det står "skickat" är inget bevis: kontrollera statusen i er egen plånbok.](/micrographics/check-what-you-receive-01/sv.md)
 
 
 Ett meddelande eller en skärmbild som säger ”skickat” är inget bevis. Vilka bevis kan ni själva se? Kontrollera den mottagande plånboken eller en godkänd [transaktionsrelaterad](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) vy. Vid [betalningar på kedjan](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment) kan en plånbok först visa [transaktionen](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) som väntande. [Bekräftelsens](https://curriculum.myfirstbitcoin.org/lexicon/en/#confirmation) status ger större säkerhet om att betalningen är slutgiltig; den rättar inte till en felaktig adress eller ett bedrägeri. En plånbok kan erbjuda en ny adress för en ny inkommande betalning; äldre adresser kan fortfarande fungera, men om samma adress återanvänds kan det bli lättare att koppla ihop separata betalningar. En ny adress minskar möjligheten till en sådan enkel koppling; den gör inte en betalning anonym.

@@ -1,6 +1,7 @@
 # 12.1 Localize os exemplos, não os padrões de verdade
 
-> **Light – Localize o exemplo, não o padrão de aprendizagem**
+<!-- card: light -->
+> **Localize o exemplo, não o padrão de aprendizagem**
 >
 > Use exemplos locais para ajudar os alunos a enxergar um conceito comum. Para cada adaptação, pergunte:
 >

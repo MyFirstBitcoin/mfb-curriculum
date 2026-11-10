@@ -10,6 +10,7 @@ Use un esquema de cinco partes:
 
 
 <!-- micrographic: five-part-response-01 -->
+[Cinco elementos se combinan para resolver el problema del doble gasto: una red entre pares, firmas digitales, bloques y minería, verificación independiente y un historial compartido con la mayor prueba de trabajo acumulada. Juntos permiten que la red rechace un segundo gasto sin una autoridad central.](/micrographics/five-part-response-01/es-419.md)
 
 
 Ninguna parte genera la credibilidad de la [escasez](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) de Bitcoin por sí sola. Evite decir “la [cadena de bloques](https://curriculum.myfirstbitcoin.org/lexicon/en/#blockchain) lo resuelve todo”.

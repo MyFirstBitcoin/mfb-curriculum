@@ -19,3 +19,4 @@ Dé preferencia a fuentes primarias autorizadas para consultar las normas vigent
 
 
 <!-- micrographic: local-verification-cycle-01 -->
+[Los educadores identifican cada afirmación sobre un dato local que puede cambiar, la verifican con una fuente actualizada, registran la fecha y sus limitaciones, la enseñan con las salvedades necesarias y vuelven a verificarla antes de reutilizarla. Cuando un dato es incierto, usan un ejemplo más seguro o una alternativa.](/micrographics/local-verification-cycle-01/es-419.md)

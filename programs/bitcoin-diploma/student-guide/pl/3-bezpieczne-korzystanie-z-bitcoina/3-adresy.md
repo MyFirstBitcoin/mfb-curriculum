@@ -1,5 +1,6 @@
 # 3.3 Adresy
 
+<!-- card: definition -->
 > **Definition – Adres Bitcoin**
 >
 > Każdy [adres Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) to publiczna informacja służąca do odbioru [płatności on-chain](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment). Portfel zazwyczaj wyświetla go jako tekst i kod QR, aby inna osoba mogła przesłać Państwu bitcoiny. W przeciwieństwie do hasła lub [klucza prywatnego](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), adres nie umożliwia autoryzacji wydawania środków.
@@ -7,6 +8,7 @@
 
 
 <!-- micrographic: address-two-formats-01 -->
+[Ekran odbioru środków w portfelu pokazuje jeden przykładowy adres Bitcoin w dwóch postaciach: jako kod QR i jako tekst. Obie postacie przedstawiają te same publiczne dane do odbioru środków i żadna z nich nie umożliwia autoryzacji wydatków.](/micrographics/address-two-formats-01/pl.md)
 
 
 Jeśli chcą Państwo otrzymać [płatność on-chain](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), skąd powinien pochodzić adres? Proszę otworzyć portfel, na który ma trafić płatność, i skorzystać z ekranu odbierania środków. Nadawca może zeskanować kod QR lub skopiować adres. Pozwala to uniknąć błędów, które mogą się pojawić przy ręcznym wpisywaniu długich ciągów znaków.
@@ -15,9 +17,9 @@ Przy każdym żądaniu płatności proszę potwierdzić zamierzoną metodę pła
 
 
 <!-- micrographic: sample-lightning-invoice-01 -->
+[Przykładowa faktura Lightning na ekranie przedstawia metodę płatności, odbiorcę i kwotę obok kodu QR. Czytelne dane i kod QR to to samo żądanie płatności w dwóch formatach.](/micrographics/sample-lightning-invoice-01/pl.md)
 
 
 
-> **Light**
->
+<!-- card: light -->
 > Gdy płatność jest istotna, proszę nie uznawać adresu za bezpieczny tylko dlatego, że wygląda znajomo. Proszę potwierdzić zamierzonego odbiorcę, właściwą [sieć Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network), dane docelowe i metodę płatności. Jeśli proces lub kwota są dla Państwa nietypowe, proszę najpierw wykonać test z niewielką kwotą.

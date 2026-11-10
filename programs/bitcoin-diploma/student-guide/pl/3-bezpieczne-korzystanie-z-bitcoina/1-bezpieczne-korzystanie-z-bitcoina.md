@@ -3,8 +3,7 @@
 Ten moduł dotyczy bezpiecznych pierwszych kroków, a nie zdobywania wiedzy eksperckiej ani podejmowania ryzyka finansowego. Będą Państwo ćwiczyć z wykorzystaniem przygotowanych symulacji, środowisk testowych i portfeli szkoleniowych lub — jeśli osoba prowadząca uzna to za stosowne — wykonywać rzeczywiste operacje na niewielkie kwoty.
 
 
-> **Dark**
->
+<!-- card: dark -->
 > Aby ukończyć program Dyplom Bitcoin, nie muszą Państwo kupować ani w inny sposób pozyskiwać bitcoinów ani korzystać z własnych środków.
 
 

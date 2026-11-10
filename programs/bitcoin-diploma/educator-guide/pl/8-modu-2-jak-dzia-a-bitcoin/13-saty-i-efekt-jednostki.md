@@ -13,6 +13,7 @@ Proszę zastosować kilka przeliczeń:
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Tabela z dwiema kolumnami: 1 BTC to 100 000 000 sats, 0,1 BTC to 10 000 000 sats, 0,01 BTC to 1 000 000 sats, 0,001 BTC to 100 000 sats, a 0,00000001 BTC to 1 sat.](/micrographics/bitcoin-and-sats-01/pl.md)
 
 
 Proszę zapytać, dlaczego podział jednego bitcoina na mniejsze jednostki nie tworzy większej ilości bitcoinów. Proszę porównać to z dzieleniem odmierzonej ilości na mniejsze jednostki, nie sugerując przy tym, że ta analogia fizyczna wyjaśnia działanie protokołu.

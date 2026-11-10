@@ -12,6 +12,7 @@ Käyttäkää ennalta valittua [_txid_](https://curriculum.myfirstbitcoin.org/le
 
 
 <!-- micrographic: confirmation-timeline-01 -->
+[Siirto odottaa vahvistamattomana odottavien siirtojen varannossa, minkä jälkeen se sisällytetään lohkoon N ja saa ensimmäisen vahvistuksensa. Jokainen myöhempi lohko lisää yhden vahvistuksen.](/micrographics/confirmation-timeline-01/fi.md)
 
 
 Kysykää sitten:

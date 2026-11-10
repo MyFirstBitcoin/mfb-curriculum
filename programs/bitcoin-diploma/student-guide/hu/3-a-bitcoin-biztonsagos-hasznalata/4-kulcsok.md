@@ -3,6 +3,7 @@
 A Bitcoin esetében a tulajdonjogot kriptográfiai kulcsok biztosítják.
 
 
+<!-- card: definition -->
 > **Definition – Privát kulcs**
 >
 > A [privát kulcs](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) olyan titkos információ, amely lehetővé teszi, hogy egy tárca érvényes [digitális aláírásokat](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) hozzon létre. Az aláírás engedélyezi a hozzá tartozó kulcs által ellenőrzött bitcoin elköltését. Bárki, aki megszerzi a [privát kulcsot](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), általában elköltheti ezeket az összegeket.
@@ -21,10 +22,10 @@ A legtöbb kezdőknek szánt tárca [egyetlen aláírást](https://curriculum.my
 Egyetlen hiteles oktatónak, tárcaszolgáltatónak, tőzsdei alkalmazottnak, műszaki ügyfélszolgálati munkatársnak vagy Bitcoin-fejlesztőnek sincs szüksége az Ön [privát kulcsára](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) vagy [helyreállító kifejezésére](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase). Bárkit, aki ezt kéri, fenyegetésként kell kezelni.
 
 
-> **Light**
->
+<!-- card: light -->
 > **Próbálja ki:** Sorolja az előkészített példákat három csoportba: fogadáshoz biztonságosan megosztható adatok, költéshez szükséges titkos adatok, valamint olyan adatok, amelyek lehetnek nyilvánosak, de egy személyhez kapcsolva mégis bizalmasan kezelendők.
 
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[A titkos privát kulcsból, amelyet soha nem szabad megosztani, megosztható nyilvános adatok származnak: egy belőle származtatott nyilvános kulcs és az abból létrehozott fogadási cím. Ugyanez a privát kulcs hozza létre az aláírásokat, amelyeket a csomópontok anélkül ellenőriznek, hogy valaha is megismernék a privát kulcsot.](/micrographics/private-key-public-info-01/hu.md)

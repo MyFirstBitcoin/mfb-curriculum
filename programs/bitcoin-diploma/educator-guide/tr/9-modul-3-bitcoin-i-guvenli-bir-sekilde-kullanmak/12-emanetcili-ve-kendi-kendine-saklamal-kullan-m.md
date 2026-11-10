@@ -20,3 +20,4 @@ Lütfen [kendi kendine saklamayı](https://curriculum.myfirstbitcoin.org/lexicon
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[Emanetçi kullanımda anahtarları bir hizmet kontrol eder ve harcamaları onaylar; dolayısıyla bakiye, o hizmetin verdiği bir sözdür. Kendi kendine saklamada ise anahtarları ve yedekleri kullanıcı kontrol eder; her iki yolun da bağımlılıkları ve başarısızlık riskleri vardır.](/micrographics/who-controls-keys-01/tr.md)

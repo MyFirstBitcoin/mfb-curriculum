@@ -8,6 +8,7 @@ Varna vaja za pripravljenost na obnovitev je preprosta:
 
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[Vaja obnovitve vadbene denarnice v šestih korakih: sledite uradnim navodilom, preverite združljivost, delajte v zasebnosti, uporabite odobreni način obnovitve, potrdite pričakovano denarnico in nato ponastavite okolje. Uporabljajte samo vnaprej pripravljena, prazna ali simulirana gradiva; izobraževalec nikoli ne vidi obnovitvenih besed.](/micrographics/practice-wallet-recovery-01/sl.md)
 
 
 Po zaključku programa Diploma ne uporabljajte vadbene denarnice ali njenih podatkov za obnovitev za varovanje večjih sredstev. Osebna denarnica, če se jo pozneje odločite ustvariti, zahteva novo nastavitev v zasebnosti in nove podatke za obnovitev.

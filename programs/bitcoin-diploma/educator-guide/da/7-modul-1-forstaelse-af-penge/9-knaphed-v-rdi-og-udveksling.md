@@ -9,6 +9,7 @@ Brug én begrænset lokal ressource til at skelne mellem fire begreber:
 
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[En kunde med begrænsede midler ser på mulighederne foran sig: mad til i dag, transport eller opsparing til senere. At vælge én mulighed betyder at give afkald på de andre, hvilket er alternativomkostningen, og ingen mulighed er markeret som den rigtige.](/micrographics/one-choice-two-uses-01/da.md)
 
 
 Bed kursisterne forklare, hvorfor sjældenhed alene ikke skaber [værdi](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). En sjælden genstand uden anvendelse eller efterspørgsel kan forblive uønsket.

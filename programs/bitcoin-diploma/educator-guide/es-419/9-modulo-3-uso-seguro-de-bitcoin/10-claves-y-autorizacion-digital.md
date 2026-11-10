@@ -17,3 +17,4 @@ Ningún educador, empresa de billeteras, empleado de una plataforma de intercamb
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[Una clave privada secreta, que nunca debe compartirse, da lugar a información pública que sí se puede compartir: una clave pública derivada de ella y una dirección de recepción creada a partir de esa clave pública. La misma clave privada crea firmas que los nodos verifican sin llegar a conocer la clave privada.](/micrographics/private-key-public-info-01/es-419.md)

@@ -22,6 +22,7 @@ Fiecare modul urmează același ritm:
 
 
 <!-- micrographic: learning-rhythm-strip-01 -->
+[Un ritm de învățare în cinci pași: învățați o idee esențială, arătați ce puteți explica sau aplica, aplicați ideea, explicați-o în propriile cuvinte și recapitulați legătura cu modulul următor.](/micrographics/learning-rhythm-strip-01/ro.md)
 
 
 Veți învăța mai mult participând decât citind în liniște. Unele întrebări nu au un singur răspuns corect. Ceea ce contează este dacă vă puteți explica raționamentul, examina dovezile și revizui punctul de vedere atunci când învățați ceva nou.
@@ -81,7 +82,8 @@ Când vine momentul să exersați cu un [Portofel Bitcoin](https://curriculum.my
 ### Siguranță, responsabilitate și absența consultanței financiare
 
 
-> **Callout – Învățați mai întâi; aceasta nu este o recomandare**
+<!-- card: callout -->
+> **Învățați mai întâi; aceasta nu este o recomandare**
 >
 > Diploma Bitcoin are un scop exclusiv educațional. Nu oferă consultanță financiară, de investiții, juridică sau fiscală. Nu promite că bitcoin va înregistra o creștere de [preț](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) și nu vă recomandă să cumpărați, să vindeți, să contractați împrumuturi garantate cu bitcoin sau să dețineți vreo cantitate de bitcoin.
 >
@@ -104,6 +106,7 @@ Diploma constă într-un parcurs de învățare în patru etape: **Problemă →
 
 
 <!-- micrographic: learning-path-roadmap-01 -->
+[Un parcurs în patru etape: Problemă, Înțelegerea banilor; Soluție, Cum funcționează Bitcoin; Acțiune, Utilizarea Bitcoin în siguranță; și Conectare, Bitcoin în comunitatea dumneavoastră, fiecare cu întrebarea sa orientativă.](/micrographics/learning-path-roadmap-01/ro.md)
 
 
 **Modulul 4** este o parte obligatorie a Diplomei, concepută de cadrul didactic. Cadrele didactice sunt experții în ceea ce privește constrângerile locale, soluțiile, instrumentele, resursele, legile, limba, infrastructura și nevoile cursanților lor. Experiența de Conectare concepută de cadrul didactic poate include obținerea de venituri, economisirea, primirea de bani, cheltuirea, [Layer 2](https://curriculum.myfirstbitcoin.org/lexicon/en/#layer-2) ca soluție, modalități locale de schimb, comercianți sau economii circulare.
@@ -118,6 +121,7 @@ Cele patru module asigură parcursul de învățare obligatoriu Problemă → So
 
 
 <!-- micrographic: four-module-table-01 -->
+[Un tabel cu cele patru module, cu rolul fiecăruia, întrebarea orientativă și ceea ce va exersa cursantul: Înțelegerea banilor, Cum funcționează Bitcoin, Utilizarea în siguranță a Bitcoin și Bitcoin în comunitatea dumneavoastră.](/micrographics/four-module-table-01/ro.md)
 
 
 Diploma durează cel puțin opt ore. Patru sesiuni de câte două ore reprezintă cel mai scurt format planificat, nu o limită de timp. Cadrul dumneavoastră didactic poate împărți un modul în mai multe sesiuni, poate reveni asupra unei idei anterioare sau poate schimba ordinea anumitor secțiuni atunci când grupa dumneavoastră are nevoie de mai mult timp pentru discuții, practică, recapitulare sau evaluare. Nu există o limită maximă de timp: cadrul didactic rămâne responsabil să le acorde cursanților timpul de care au nevoie, să acopere toate competențele obligatorii și să clarifice legăturile dintre module.

@@ -40,7 +40,8 @@ E ma yin nado jɛ ɛ ă, e ma yin nado zán ɛ ă, amɔ nado lin nu e e yin kpo 
 * Akwɛ mìtɔn nɔ xɔ nǔ sɔ ɖokpo taɖi nukɔn a?
 
 
-> **Callout – Mì hɛn ɖɔhùn mìtɔn lɛ ɖó**
+<!-- card: callout -->
+> **Mì hɛn ɖɔhùn mìtɔn lɛ ɖó**
 >
 > Mì wlan ɖɔhùn kpɛvi ɖe na kanbiɔ ɖesiaɖe. Mì na lɛ́kɔ wá yé ji to nukɔtɔn.
 
@@ -85,6 +86,7 @@ Mɛ awe lɛ ɖo na jló nú ɖe mɛ ɖévo ɔ ɖó, hwenu ɖokpo ɔ mɛ, bo nyí
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina ɖó lɛsi bo jló afɔkpa, Luis ɖó afɔkpa bo jló ami nú nuɖa, bɔ Mei ɖó ami nú nuɖa bo jló nu ɖiɖɔ azɔ́n. Amɛ awe ɖevo ɖevo ma sixu ɖyɔ nu tlɔlɔ ǎ, ɖo ɖò amɛ awe lɛ mɛ, ɖokpo ɖokpo ma jló nu ɖe amɛ ɖevo ɔ na ǎ.](/micrographics/barter-mismatch-01/fon.md)
 
 <!-- notes: Mì zán kpɔɖéŋu e ɖo anɔkplɔwé ɔ mɛ ɔ: mì nɔ sun lɛsi, bo ɖo afɔkpá hudo, ṣùgbọ́n afɔkpátɔ ɔ jlo núɖuɖu ɖaɖa sín amì, e ma jlo lɛsi ă. Ékɔnomi sín núnywántɔ lɛ nɔ ylɔ énɛ ɖɔ mɛ awe sín nujlɔ lɛ tɔn kpékpé. -->
 
@@ -151,6 +153,7 @@ Ne mɛ lɛ sè xó « akwɛ huhlɔn ɖiɖi » ɔ, e nɔ lin ɖɔ nǔ lɛ axɔ n�
 ## Nǔ sín axɔ yíyí agá kpó nǔxɔ huhlɔn kpó
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Akwɛ akpa 100 ɖokpo ɔ sixu xɔ nujɛnukɔn lẹ sin agban ɔ bǐ, eyɛnu agban ɔ sin axɔ nyi 100 ɔ, amɔ e ma sixu xɔ ɛ bǐ eyɛnu agban ɖokpo ɔ sin axɔ nyi 110 ɔ. Axɔ sin dogbó yi aga, bo akwɛ ɔ sin nuxɔ sɛ́nhlɔn hwe.](/micrographics/same-money-smaller-basket-01/fon.md)
 
 <!-- notes: Axɔ bibɛ ji wɛ nyi nǔ lẹ sín axɔ lẹ bí sɔ yi aga bo nɔ zɔn. Nǔ e ɖevo wɛ nyi akwɛ sín nǔxɔ huhlɔn: nǔ nɛnɛ akwɛ ɖokpo sixu xɔ. Nɛ nǔ ɖe mɛɖé ma sixu gbɛ nǔ o lẹ sín agbàn ɖokpo sín axɔ sɔ sɔn akwɛ 100 jɛ akwɛ 110, akwɛ 100 ɖokpo enɛ ma sixu xɔ agbàn ɔ mɛ nǔ lẹ bí ba o. -->
 
@@ -213,8 +216,7 @@ Akwɛ he ɖo mi sin kɔnti banki tɔn mɛ gbɔnvo na akwɛ he ɖo mi sin alɔ m�
 * Amɔ̌ akwɛ ɔ sin sɔha kpo sɛn etɔn lɛ kpo sixu ɖyɔ, bɔ mɛ ɖe lɛ e nɔ yí i zan ɔ sin gbè ɖo sɛn kpɛɖé gé
 
 
-> **Callout**
->
+<!-- card: callout -->
 > É wutu wɛ mɛ lɛ nɔ ba nǔ ɖevo lɛ, bɔ é wutu wɛ a ɖá Bitcoin ɖo.
 
 ---
@@ -233,6 +235,7 @@ Akwɛ numɛrik tɔn ɖe acɛ ɖokpo ma ɖo ji, sɔha etɔn ɖo dogbó, bo sixu y
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Gbọn akwɛ susú sín azɔ́nxɔ de gblamɛ ɔ, azɔ́nxɔ ɖokpo nɔ hɛn akwɛ sín wémà ɔ go bo nɔ ɖe mɔ akwɛ sísɛ ɖevoɖevo. Gbọn Bitcoin gblamɛ ɔ, akwɛ sɛtɔ nɔ ɖo alɔwémà akwɛ sísɛ ɔ tɔn ji, nɔdu e ma ɖo mɛɖe si ɔ lɛ nɔ kpɔn ɛ, bo akwɛ ɖètɔ lɛ nɔ sɛ ɛ ɖo wémà ɖokpo e byɛ lɛ nɔ zán ɔ mɛ. Ɖo enɛ wu ɔ, akwɛ xɔtɔ ma sin mɛɖokpo sín huhlɔn ji din.](/micrographics/central-ledger-vs-bitcoin-01/fon.md)
 
 <!-- notes: Jɛ Bitcoin wá nukɔn ɔ, akwɛ sísɛ́ ɖo intɛnɛt ji nɔ sɔ́ ɖé kplékplé ɖe mɛ ɖo jidide go: banki alo akwɛ fɛnukún kplékplé ɖe ɖe nɔ hɛn akwɛ xwléwémà ɖó, nɔ na alɔ akwɛɖotɛn lɛ, bo sixu zɛ́ akwɛ fɛnukún do, glɔ́ ɛ alo lɛ́ ɛ kɔ̀. Nywɛn ɖe ɖo ɔdinatɛ ji ɔ, é bɔawú nado wà kɔpi etɔn: nɛ akwɛ dijital ɖokpo sixu yin yiyizan azɔn we ɔ, é ma sixu wazɔn ɖɔ akwɛ ɖɔhun ă. Enɛ wɛ nyí akwɛ ɖokpo yiyizan azɔn we tɔn nyagbe ɔ. Satoshi Nakamoto nyí mɛ ɖokpo alo mɛgbé ɖe ɖe to nyikɔ enɛ zan. -->
 
@@ -253,6 +256,7 @@ Azɔ̌mɛ ɖé sixu glá bitcoin e mi ɖésu mi ɖo acɛ ɖé jí ɔ a. Nù e j�
 ## Dogbó ɖe mɛ ɖe sia ɖe sɔgan ɖɔkpɔn
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Mɛ e nɔ ɖe akwɛ tɔn ɔ sixu ɖyɔ akwɛ sin sɔha sín dogbó e e wlan ɖo ɛntɛnɛti ji wɛxwé alo ɖo nusisɔnu xɔ tɔn ɔ bo ma ɖɔ na mɛɖe a. Bitcoin sin akwɛ sɔha sín sɛn ɖo gbangba, bo alɔɖowema lɛ, tan e ɖo gbangba ɔ, azɔ wiwa sin ɖijɛ kpo nɔdu lɛ sin dodokpɔ kpo nɔ wa azɔ ɖokpo bo glɔ alɔ akwɛ yɔyɔ dándán alo bitcoin ɖokpo ɔ zizan hwɛ eve.](/micrographics/claimed-or-verified-supply-01/fon.md)
 
 <!-- notes: Bitcoin yɔyɔ lɛ nɔ tɔn ɖo hwenuɖoɖo ɖe e mɛ ɖe sia ɖe sọgan mɔ ɔ ji, bo ɔdinatɛ e nɔ wazɔn ɖokpoɖokpo, e ye nɔ yɔ ɖɔ nodes lɛ, nɔ gbɛ blɔkù ɖe sia ɖe e ma ɖo sɛ́n enɛ ji ɔ. Mɛ sọgan ɖo jidide ɖe dogbó enɛ ji, ɖó mɛ ɖe sia ɖe sọgan kpɔn ɛn ɖa. E ma nyi xɛxɛ ɔ tɔn sɛ́n ɖé ă: e nɔ te ɖó mɛ e ɖo azɔ́n ɔ mɛ lɛ nɔ zɔn bɔ ye ni ɖo e ji. Bitcoin sɔsɔ e ɖo dogbó ɔ ma ɖe xlɛ ɖɔ axɔ ɔ na sù ă; axɔ ɔ nɔ sin alɔ ɖe nǔ e mɛ lɛ jlo na xɔ ɔ kpo nǔ e te na sà ɔ kpo ji. -->
 
@@ -264,6 +268,7 @@ Wo nọ má bitcoin ɖokpo ɖo akpa víví 100 000 000 mɛ, ɖe wo nọ yɔ ɖɔ
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Tàblò ɖé ɖě àlɔ̀ awe tɔn: 1 BTC nyí 100 000 000 sats, 0,1 BTC nyí 10 000 000 sats, 0,01 BTC nyí 1 000 000 sats, 0,001 BTC nyí 100 000 sats, bó 0,00000001 BTC nyí 1 sat.](/micrographics/bitcoin-and-sats-01/fon.md)
 
 <!-- notes: Sats 100 000 ɖiɖó kpo bitcoin 0,001 ɖiɖó kpo nyí akwɛ susu ɖokpo ɔ. Mì ɖe linlin vò e ɖɔ mɛ sixu ɖó Bitcoin ă ɖo bitcoin ɖokpo axɔ sù wutu ɔ ɖò mɛ tá. -->
 
@@ -272,6 +277,7 @@ Wo nọ má bitcoin ɖokpo ɖo akpa víví 100 000 000 mɛ, ɖe wo nọ yɔ ɖɔ
 ## Mɛnu wɛ nɔ zɔn bɔ Bitcoin nɔ wà azɔ́n?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Azɔ ɛnɛ ɖo Bitcoin mɛ: nuzantɔ lɛ nọ xɔ bitcoin, bo nọ hɛn ɛn bo nọ sɛ ɛ ɖo mɛ; nɔdu lɛ nọ kpɔn sɛn lɛ ɖokpo na yeɖe; blɔku ɖotɔ lɛ nọ ɖo blɔku he ye na ɖo nukɔn lɛ bo nọ do azɔ wiwa tɔn kun; bo lɔjisiyɛ wlatɔ lɛ nọ ɖo lɔjisiyɛ ɖo nukɔn. Azɔ ɖokpo ɖevo ma nọ ɖu rɛzo ɔ ji a.](/micrographics/bitcoin-participant-roles-01/fon.md)
 
 <!-- notes: Nǔzántɔ́ lɛ nɔ sɛ́ bitcoin, nɔ xɔ́ ɛ bo nɔ hɛn ɛ; nɔdu lɛ nɔ kpɔ́n akwɛ sísɛ́ ɖokpo ɖokpo kpó blɔku ɖokpo ɖokpo kpó ɖɔ yě sɔgbe kpɔ́n ɖo sɛ́n lɛ wu; blɔku ɖotɔ́ lɛ nɔ ɖò wezun mɛ ɖɔ yě ni kún blɔku yɔyɔ́ ɖe ɖó nǔwlánmɛ ɔ ji, ɖò miniti wǒ ɖevo ɖevo mɛ. Nǔwlánmɛ enɛ, blɔku lɛ sin jɛgɛ ɔ, ɖò gbɛtɔ́ bǐ nukɔn, bo nɔ bíɔ akwɛ susu taun nú e na sɛ́ ɛ bo wlǎn ɛ ɖò yɔyɔ́ mɛ. Nǔ ɖe ɖò nyǐkɔ́ ɔ sin nǔwlánmɛ wu: Bitcoin e yě wlǎn kpo B ɖaxó kpó ɔ nɔ ɖɔ asɔ́ ɔ loo alɔ ɖoɖo ɔ wu nú gǎn susu; bitcoin e yě wlǎn kpo b víví kpó ɔ nɔ ɖɔ akwɛ ɔ ɖésú wu. -->
 
@@ -307,6 +313,7 @@ Kanbyɔ tintan ɖe akwɛkpá ɖesiaɖe ji: mɛnu wɛ ɖo safu lɛ ji?
 ## Akwɛzɛn nɔ kpɔn safi lɛ jí
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Akwɛzɔ ɔ ɖo safui lɛ. Kpo safui lɛ kpo, mì sixu xɔ bo sɛ́ bitcoin, amɔ̌ bitcoin ɔ ɖesu nɔ kinkàn do akwɛgbalɛ ɖe wo má ɔ ji, e ma nɔ tɛlifɔnu alo mɔ ɔ mɛ ǎ.](/micrographics/wallet-manages-keys-01/fon.md)
 
 <!-- notes: Bitcoin akwɛzɛn nyí nǔzán ɖé, é nɔ nyí aplikasiyɔn gbɔ̀n, é nɔ ná mì mɔ̀n ɖó xɔ bitcoin, kpɔn ɛ̀, bo sɛ́ ɛ̀. Mì sín bitcoin ɖò mì sín tɛlifɔnu mɛ ǎ: é wɛ ɖò blockchain jí. Akwɛzɛn ɔ nɔ kpé sáfú lɛ jí, sáfú enɛ lɛ wɛ nɔ ná mì mɔ̀n ɖó ɖɔ bitcoin ɔ nyí mì tɔ́n bo ɖe akwɛsúsú gbè. -->
 
@@ -331,6 +338,7 @@ Xó lɛ sin tito de, e nọ nyi 12 alo 24 hwenu susu ɔ, e sixu wà mi sin safu 
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Xógbè ɖe e nɔ sɔ́ akwɛ́zɛ́n gbɔ̀ ɔ, xó lɛ ɖe e ɖo tɛnmɛ ɖò nukɔn-mɛgudo wɛ; fí, kpɔɖéɖé xó 12 wɛ e wlan ɖò wémà jí bo na numɛ́lò ɖé ɖé. Xó jǐjɔ́ lɛ, ɖò tɛnmɛ jǐjɔ́ mɛ, sixu na mi nǔkpikpé akwɛ́zɛ́n ɖe e kpa nǔ ɔ jí ɖǒ; enɛ wutu, e ɖò na nɔ ɖò awɔ̌ mɛ bo ma nɔ ɖò Ɛntɛnɛ́t jí ǎ.](/micrographics/seed-phrase-on-paper-01/fon.md)
 
 <!-- notes: Xógbè núkun tɔn ɔ (seed phrase) nyí nǔ ɖe e nɔ zán nado lɛ́ akwɛzɛn ɔ do kpoɖé gé ă: é nɔ na mǐ mɔ hɔn akwɛzɛn ɔ tɔn bí. Hwenu ɖe mǐ to akwɛzɛn ɔ wá ɔ, mi wlan xó lɛ do wémà jí ganjí; mi hɛn yé ɖò ɛntɛnɛti godo, bo hɛn yé ɖò wúnú, ɖò fí ɖe yé ma ná bú alo gblé ă. Mi má ɖé foto yetɔn gbede ă, mi má sɔ yé sɛ́ ɖò imɛli mɛ ă, mi má hɛn yé ɖò nǔwiwlan tɔn ɖò cloud mɛ ă, mi má sɔ yé sɛ́ ɖò wɛnsagun mɛ ă, bo má wlan yé do ɛntɛnɛti tɛn ɖokpo jí ă. Xó ɖe e ɖé lɛ ɔ nyí kpɔ́nɖéwú gé; mi má ɖé xógbè núkun tɔn nugbo xlɛ́ gbede ă, bo má bẹ́ ɛ́ ă. -->
 
@@ -365,6 +373,7 @@ Xó lɛ sin tito de, e nọ nyi 12 alo 24 hwenu susu ɔ, e sixu wà mi sin safu 
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Akwɛ súsú he wá ɖo blɔku lɛ sin sɔnsɔn mɛ lɛ, é nɔ wlan ɖo Bitcoin tɔn blɔku lɛ sin sɔnsɔn mɛ tlɔlɔ, bo Lightning nyí akwɛ súsú sin kadodo ɖe he gbɔn Bitcoin ji, na akwɛ súsú kpakpa bo susu; akwɛ súsú enɛ lɛ sixu ma wá nu ɖo. Ɖo ali awe lɛ ɖokpoɖokpo ji, mɛ ɖevo sixu hɛn mi sin akwɛ ɖo alɔ mɛ, alo mi ɖesu sixu hɛn ɛn.](/micrographics/on-chain-and-lightning-01/fon.md)
 
 ---
 
@@ -375,7 +384,8 @@ Xó lɛ sin tito de, e nọ nyi 12 alo 24 hwenu susu ɔ, e sixu wà mi sin safu 
 * **Mi ɖo ji o, mi kpɔn nu ɖagbe.** Mi kpɔn mɛ ɔ, akwɛsuxu ali ɔ, adrɛsi ɔ kpo akwɛ ɔ sin sɔ kpo ɖagbe.
 
 
-> **Callout – Mi na mɛ akwɛyiyi sin nywɛn, amɔ mi ma na mɛ nuɣa lɛ gbede o**
+<!-- card: callout -->
+> **Mi na mɛ akwɛyiyi sin nywɛn, amɔ mi ma na mɛ nuɣa lɛ gbede o**
 >
 > Mɛ sixu na mɛɖe adrɛsi alo akwɛsuxu sin biɔbiɔ. Amɔ mɛ ma ɖo na mɛɖe gbesọ ɖe e nọ zɔn bɔ mɛ sixu mɔ e sin akwɛzɛ ɔ dokpɔ do alo safui ɣa gbede o. Nukplɔnmɛtɔ nuɖodotɔ, akwɛzɛ sin azɔ̌xɔ alo alɔgɔnamɛtɔ nuɖodotɔ ɖe ma na biɔ ɛ si mi gbede o.
 
@@ -389,6 +399,7 @@ Mi nɔte nú mɛɖé ɖò mi yìyì ɖɔ mi ni wà nǔ é ɖò hɔnhɔn alǒ mi 
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Nǔ atɔ́ɔn ɖe e nɔ ɖe nǔflumɛ xlɛ: nǔ wiwa kpákpá, mɛ ɖevo sín ŋkɔ zízan, fí nǔ ɔ na yì ɖo ɔ trɔtrɔ, àlɛ ɖe e dó nù ɖo kpó nǔ ɣlaɣla lɛ bíbíɔ kpó.](/micrographics/scam-red-flags-01/fon.md)
 
 ---
 
@@ -408,7 +419,8 @@ Ehe nyi gɔmɛdido ɔ gé.
 * **Nukɔnjijɛ ɖokpo pɛ wɛ nyi ehe.** Afɔ ɖokpo he mi ɖe ɖo abɔ glɔ yi nukɔn ko su.
 
 
-> **Callout – Hwenu ɖe nado lin nu**
+<!-- card: callout -->
+> **Hwenu ɖe nado lin nu**
 >
 > Mi lɛkɔ yi kanbyɔ atɔ́n he ɖo nukɔnjijɛ lɛ ji. Etɛ wɛ mi na ɖɔ na yé din?
 

@@ -24,6 +24,7 @@ Untuk pertukaran secara bersemuka, gunakan lokasi awam yang sesuai, elakkan memb
 
 
 <!-- micrographic: compare-local-pathways-01 -->
+[Jadual kosong untuk membandingkan tiga pilihan tempatan, A, B dan C, dari segi nama, keperluan KYC, model penjagaan aset, rangkaian yang disokong, reputasi dan kaedah pendanaan, dengan ruang untuk nota.](/micrographics/compare-local-pathways-01/ms.md)
 
 
 

@@ -4,6 +4,7 @@ Bir an durun ve kamuya açık kuralların, sınırlı ihracın, eşten eşe tran
 
 
 <!-- micrographic: bitcoin-responses-tradeoffs-01 -->
+[Modern para sistemlerinin beş olası kusurunu, Bitcoin'in bunlara verdiği yanıtla ve her yanıtın beraberinde getirdiği yeni sorumluluk veya ödünleşimle eşleştiren bir tablo. Bitcoin, kurumlara duyulan güvenin bir kısmını doğrulama ve kişisel sorumlulukla değiştirir, ancak riski ortadan kaldırmaz.](/micrographics/bitcoin-responses-tradeoffs-01/tr.md)
 
 
 **Temel düşünce:** Bu modülde Bitcoin hakkında öğrendiklerinize dayanarak, Bitcoin'in sizin için bir [değeri](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) var mı? Güncel bitcoin [fiyatı](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) onun [değerini](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) temsil ediyor mu?

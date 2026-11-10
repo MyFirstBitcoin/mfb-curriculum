@@ -19,6 +19,7 @@
 
 
 
-> **Dark – Ví dụ tại địa phương không phải là khuyến nghị trên toàn cầu**
+<!-- card: dark -->
+> **Ví dụ tại địa phương không phải là khuyến nghị trên toàn cầu**
 >
 > Công cụ này là một ví dụ tại địa phương ở một thời điểm cụ thể, phục vụ mục đích học tập. Việc sử dụng công cụ trong lớp học không phải là khuyến nghị trên toàn cầu của My First Bitcoin hay lời hứa rằng công cụ sẽ tiếp tục phù hợp.

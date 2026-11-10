@@ -4,6 +4,7 @@ Si fermi a considerare come regole pubbliche, emissione finita, trasferimento Pe
 
 
 <!-- micrographic: bitcoin-responses-tradeoffs-01 -->
+[Una tabella che associa cinque possibili difetti dei sistemi monetari moderni alla risposta di Bitcoin e alla nuova responsabilità o al nuovo compromesso che ciascuna risposta comporta. Bitcoin sostituisce parte della fiducia nelle istituzioni con la verifica e la responsabilità personale, ma non elimina il rischio.](/micrographics/bitcoin-responses-tradeoffs-01/it.md)
 
 
 **Riflessione chiave:** In base a ciò che ha imparato su Bitcoin in questo modulo, ha [valore](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) per Lei? L'attuale [prezzo](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) di bitcoin ne rappresenta il [valore](https://curriculum.myfirstbitcoin.org/lexicon/en/#value)?

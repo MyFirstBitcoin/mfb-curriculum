@@ -24,6 +24,7 @@ Bir gösterim internet erişimi gerektiriyorsa, mümkün olduğunda basılı cü
 
 
 <!-- micrographic: same-competency-any-route-01 -->
+[Canlı araçlar, kâğıt simülasyonları ve onaylı erişilebilir yollar, öğrenen gerekli kararları yine kendisi verdiği ve eğitmen eşdeğer kanıtları değerlendirebildiği sürece aynı yetkinliği destekleyebilir. Eşdeğerlik sağlanamıyorsa sertifikasyondan önce başka bir yol hazırlayın.](/micrographics/same-competency-any-route-01/tr.md)
 
 
 Öğrenci Kılavuzu kalıcı kavramları açıklar. Ücretleri, yasaları, vergileri, mevcut hizmetleri, cüzdan özelliklerini veya satıcı kayıtlarını sunmadan önce güncel yerel ayrıntıları doğrulayın ve kullandığınız bilgilere tarih ekleyin.

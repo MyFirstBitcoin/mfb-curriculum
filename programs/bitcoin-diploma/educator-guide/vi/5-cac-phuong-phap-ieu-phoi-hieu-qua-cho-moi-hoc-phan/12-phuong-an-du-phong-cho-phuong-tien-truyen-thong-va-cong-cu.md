@@ -24,6 +24,7 @@ Việc giảng dạy và đánh giá ngoại tuyến đều có giá trị. Quý
 
 
 <!-- micrographic: same-competency-any-route-01 -->
+[Các công cụ trực tuyến, mô phỏng trên giấy và lộ trình dễ tiếp cận đã được phê duyệt có thể hỗ trợ cùng một năng lực khi người học vẫn đưa ra các quyết định cần thiết và nhà giáo dục có thể đánh giá các minh chứng tương đương. Nếu không bảo đảm tính tương đương, hãy chuẩn bị một lộ trình khác trước khi cấp chứng nhận.](/micrographics/same-competency-any-route-01/vi.md)
 
 
 Tài liệu hướng dẫn học viên giải thích các khái niệm có giá trị lâu dài. Quý vị hãy xác minh thông tin hiện hành tại địa phương trước khi trình bày về phí, luật pháp, thuế, dịch vụ hiện có, tính năng ví hoặc danh sách đơn vị chấp nhận thanh toán, đồng thời ghi rõ ngày của thông tin được sử dụng.

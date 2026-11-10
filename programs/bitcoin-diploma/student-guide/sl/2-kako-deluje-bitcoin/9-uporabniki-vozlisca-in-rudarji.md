@@ -9,6 +9,7 @@ Bitcoin deluje, ker različni udeleženci opravljajo različne vloge.
 
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Štiri vloge v omrežju Bitcoin: uporabniki prejemajo, hranijo in pošiljajo bitcoin, vozlišča neodvisno preverjajo skladnost s pravili, rudarji sestavljajo kandidatne bloke z dokazovanjem z delom, razvijalci pa predlagajo programsko opremo. Nobena posamezna vloga ne nadzoruje omrežja.](/micrographics/bitcoin-participant-roles-01/sl.md)
 
 
 Te vloge druga drugo omejujejo:

@@ -40,7 +40,8 @@ Ndahaʼéi rehupyty térã reiporu hag̃ua, ha katu reñepyʼamongeta hag̃ua mb
 * Pende pirapirépepa ikatu pejogua pe mbaʼe hetakue pejogua vaʼekue yma?
 
 
-> **Callout – Peñongatu umi mbohovái**
+<!-- card: callout -->
+> **Peñongatu umi mbohovái**
 >
 > Pehai peteĩ mbohovái mbykymi peteĩteĩ porandúpe. Ipahápe pejevýta umi mbohovái rendápe.
 
@@ -85,6 +86,7 @@ Mokõive tapicha oipota vaʼerã ambue oguerekóva, upe javete ha hetakue oĩpor
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina oguereko aró ha oipota sapatu, Luis oguereko sapatu ha oipota ñandyry oñembojy hag̃ua tembiʼu, ha Mei oguereko ñandyry oñembojy hag̃ua tembiʼu ha oipota ñemyatyrõ. Mavave mokõi ndaikatúi ombojopyru hembiʼereko ojuehe voi, avave ndoipotái rupi pe ambue oikuaveʼẽva.](/micrographics/barter-mismatch-01/gn.md)
 
 <!-- notes: Peiporu techapyrã oĩva ñemboʼerãme: peẽ peñotỹ arro ha peikotevẽ sapatu, ha katu sapatu apoha oipota ñandyry oñembojy hag̃ua, ndahaʼéi arro. Mbaʼerepyrekokuaahára ombohéra kóva tembipota joaju kõi. -->
 
@@ -151,6 +153,7 @@ Tapichakuéra ohendúvo ñeʼẽ «viru repy guejy», jepive oimoʼã mbaʼerepy
 ## Tepykuéra jejupi ha mbaʼejogua puʼaka
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Umi 100 viru vore peteĩnte reheve ikatu ojejogua pe ajaka henyhẽva mbaʼe tekotevẽgui hepykue haʼéramo 100, ha katu ndaikatúi pe ajaka peteĩnte repykue haʼéramo 110. Tepykuéra yvatekue ojupi ha viru mbaʼejogua puʼaka oguejy.](/micrographics/same-money-smaller-basket-01/gn.md)
 
 <!-- notes: Tepykuéra ñembohetave niko mbaʼerepy repykuéra jeupi opaveʼỹva. Upéva ambue hova haʼe mbaʼejogua puʼaka: mboy mbaʼépa ikatu ojejogua peteĩ viru vorépe. Peteĩ ajaka mbaʼerepy tekotevẽvéva repykue ojupíramo 100 viru vorégui 110 peve, umi 100 viru vore ndohupytyvéima ojejogua hag̃ua opa mbaʼe oĩva pe ajakápe. -->
 
@@ -213,8 +216,7 @@ Pirapire peguerekóva virurógape ojoavy pirapire peguerekóvagui pende pópe: h
 * Ha katu iñambuekuaa viru oĩva hetakue ha hekorã, ha saʼi oñehendu umi oiporúva ñeʼẽ
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Upévare tapichakuéra oheka ambue tape, ha upévare ojejapo Bitcoin.
 
 ---
@@ -233,6 +235,7 @@ Viru papapyregua noĩriva peteĩ pokatu poguýpe, hetakue ijapyráva ha ikatúva
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Ñembohepy ñemuhã ndive, peteĩ aty oñangareko jehaipyrýre ha omoneĩ peteĩteĩ viru ñemondo. Bitcoin ndive, viru mondohára omboheraguapy peteĩ viru ñemondo, joajuha ijeheguíva ohechajey ha joʼohakuéra omoinge peteĩ jehaipyry oñondiveguápe; upéicha viru pyhyhára saʼive ojeko peteĩ mburuvicha mbyteguáre.](/micrographics/central-ledger-vs-bitcoin-01/gn.md)
 
 <!-- notes: Bitcoin mboyve, viru ñemondo ñanduti rupive oikotevẽ tapiaite peteĩ aty ojejeroviakuaávare: peteĩ viruróga térã viru ñemeʼẽ rehe ombaʼapóva ñemurenda, oñangarekóva viru jeike ha ñesẽ kuatia rehe, omoneĩva viru ñongatu renda ha ikatúva ombopuku, ojoko térã ombojevy peteĩ viru ñemeʼẽ. Marandu papapy rehegua ndahasyiete ojekopia hag̃ua: peteĩ viru papapy rehegua ikatúrire ojeporu mokõi jey, ndaikatumoʼãi ombaʼapo virúramo. Kóva hína peteĩ viru jeporu mokõi jey apañuãi. Satoshi Nakamoto haʼe peteĩ tapicha térã tapicha aty oiporúva upe téra. -->
 
@@ -253,6 +256,7 @@ Ndaipóri ñemuha ikatúva ojoko bitcoin peẽ voi perekóva pende poguýpe. Upe
 ## Peteĩ tembeʼy oimeraẽva ikatúva ohechajey
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Peteĩ viru hetakue rembeʼy ojehaíva ñanduti rendápe térã viru nohẽhára mbaʼekuaarã ryrúpe ikatu oñemoambue upe viru nohẽhára rupive avave ohechakuaaʼỹre. Bitcoin viru hetakuére tembiapoukapy opavave oikuaa, ha teraguapykuéra, tembiasakue opavavépe ojehechaukáva, tembiapo rechaukaha ha joajuhakuéra jehechajey oñondive ojoko viru pyahu ñemoheñói térã peteĩ bitcoin jeporu mokõi jey.](/micrographics/claimed-or-verified-supply-01/gn.md)
 
 <!-- notes: Bitcoin pyahu osẽ peteĩ arange rysýi opavave ohecháva heʼiháicha, ha umi mohendaha ijeheguíva, oñembohérava joajuha, omboyke oimeraẽ aty ndojapóiva upe tekorã heʼíva. Upe mboýpa ikatu oĩha haʼe jeroviapy, oimeraẽva ikatúgui omoañete. Ndahaʼéi peteĩ tekorã tekoha rehegua: oñemantene umi oñemoirũva osegi rupi omoañete chupe. Saʼi oĩramo jepe, upéva ndeʼiséi katuete hepykue ojupitaha; hepykue oĩ avei mboy tapichápa ojoguase ha mboy oĩ oñekuaveʼẽ hag̃ua rehe. -->
 
@@ -264,6 +268,7 @@ Peteĩ bitcoin oñembojaʼo 100.000.000 vore michĩvévape, hérava satoshi tér
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Peteĩ mbaʼerysýi mokõi yta oguerekóva: 1 BTC haʼe 100.000.000 sats, 0,1 BTC haʼe 10.000.000 sats, 0,01 BTC haʼe 1.000.000 sats, 0,001 BTC haʼe 100.000 sats, ha 0,00000001 BTC haʼe 1 sat.](/micrographics/bitcoin-and-sats-01/gn.md)
 
 <!-- notes: Ojeguereko 100.000 sats heʼise ojeguerekoha 0,001 bitcoin: mokõive haʼe peteĩ viru hetakuénte. Toñemyatyrõ pe temiandu ojavýva heʼíva Bitcoin ndaikatuiha ojehupyty peteĩ bitcoin hepyeterei rupi. -->
 
@@ -272,6 +277,7 @@ Peteĩ bitcoin oñembojaʼo 100.000.000 vore michĩvévape, hérava satoshi tér
 ## Máva omombaʼapo meme Bitcoin?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Irundy tembiapo Bitcoin-pe: puruhára ohupyty, oñongatu ha omondo bitcoin, joajuha ohesaʼỹijo ijeheguínte tekorãnguéra, joʼoha ombosakoʼi mbaʼekuaarã aty oñembojoapykuaáva mbaʼapo rechaukaha rupive, ha tembiaporape apohára oikuaveʼẽ tembiaporape. Mavave koʼã tembiapo apohára ndoipokuaái ñanduti haʼeño.](/micrographics/bitcoin-participant-roles-01/gn.md)
 
 <!-- notes: Puruhára omondo, ohupyty ha oñongatu bitcoin; ñanduti joajuhakuéra ohechajey peteĩteĩ ñembohasa ha aty oñemoĩpa tekorãme; itajoʼoharakuéra oñombohovái omoĩ hag̃ua peteĩ aty pyahu jehaipýpe, amo pa aravoʼi ohasávo. Upe jehaipy, atyjoaju, opavave ohechakuaa ha hepyeterei ojehai jey hag̃ua. Peteĩ marandu jehai rehegua: Bitcoin, B tuichávandi, heʼise jepi ñanduti térã ñemohenda; bitcoin, b michĩvandi, heʼise viru voi. -->
 
@@ -307,6 +313,7 @@ Oimeraẽ viru ryru rehegua porandu tenondegua: mávapa oguereko ipoguýpe umi p
 ## Peteĩ viru ryru oisãmbyhy ñavẽnguéra
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Peteĩ viru ryru oguereko umi peʼaha. Umíva rupive ikatu rejapyhy ha remondo bitcoin, bitcoin katu opyta ojehaipyre jehaipy renda oñondiveguápe, ndahaʼéi pumbyry térã tembiporu ryepýpe.](/micrographics/wallet-manages-keys-01/gn.md)
 
 <!-- notes: Bitcoin viru ryru haʼe peteĩ tembiporu, jepive peteĩ tembiporurã, ohejáva ndéve rejapyhy, rehecha ha remondo bitcoin. Ne bitcoin noñeñongatúi ne pumbyry ryepýpe: oñemboheraguapy umi vore joajupýpe. Viru ryru oisãmbyhy umi peʼaha ohejáva ndéve rehechauka nembaʼeha ha remeʼẽ ñemoneĩ peteĩ jehepymeʼẽrã. -->
 
@@ -331,6 +338,7 @@ Peteĩ ñeʼẽ rysýi oñemohendáva peteĩteĩ hendápe, jepive 12 térã 24 �
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Ñeʼẽjoaju ypy niko peteĩ ñeʼẽ rysýi oñemohendáva; koʼápe ojehechauka pakõi ñeʼẽ techapyrã ojehaíva kuatiáre, peteĩteĩ ipapapy reheve. Ñeʼẽ hekopete oĩva hendaitépe ikatu ombojevy pokatu peteĩ viru ryru oĩporãva hendive rehe, upévare oñeñongatu ñemiháme ha ñandutiʼỹre.](/micrographics/seed-phrase-on-paper-01/gn.md)
 
 <!-- notes: Pe ñeʼẽjoaju guerujeyrã ndahaʼéi peteĩ ñongatupy añónte: omeʼẽ jeikepaite. Pehai hekopete kuatiáre pemoheñói jave pene viru ryru; peñongatu ñandutígui mombyry, ñemiháme ha peteĩ tenda nokañymoʼãihápe ni noñembyaimoʼãihápe. Arakaʼeve ani penohẽ chupe taʼãnga, pemondo ñanduti veve rupive, peñongatu arai ñongatuhápe, pemondo marandu rupive térã pehai peteĩ ñanduti rendápe. Umi ñeʼẽ ojehechaukáva haʼe techapyrã añónte; arakaʼeve ani pehechauka térã pembyaty peteĩ ñeʼẽjoaju guerujeyrã añetegua. -->
 
@@ -365,6 +373,7 @@ Peteĩ ñeʼẽ rysýi oñemohendáva peteĩteĩ hendápe, jepive 12 térã 24 �
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Jehepymeʼẽ jehaipyjoajúpe ojehai tee Bitcoin jehaipyjoajúpe; Lightning katu haʼe peteĩ jehepymeʼẽ ñanduti oñemopyendáva Bitcoin ári, ojejapo hag̃ua jehepymeʼẽ pyaʼe ha pyʼỹi, ikatúva avei osẽ vai. Mokõive tapépe ikatu oñemeʼẽ viru ñangareko ambue pópe térã peteĩteĩ oñangareko iviru rehe.](/micrographics/on-chain-and-lightning-01/gn.md)
 
 ---
 
@@ -375,7 +384,8 @@ Peteĩ ñeʼẽ rysýi oñemohendáva peteĩteĩ hendápe, jepive 12 térã 24 �
 * **Ani rejerovia rei, Ehechajey.** Ehechajey pe tapicha, mbaʼéichapa ojepagáta, pe kundaharape ha pe viru hetakue.
 
 
-> **Callout – Emombeʼu marandu viru jegueroguahẽ rehegua, arakaʼeve umi mbaʼe ñemigua**
+<!-- card: callout -->
+> **Emombeʼu marandu viru jegueroguahẽ rehegua, arakaʼeve umi mbaʼe ñemigua**
 >
 > Peteĩ kundaharape térã jehepymeʼẽ jerure ikatu oñembohasa ambuépe. Peteĩ ñeʼẽjoaju raʼỹi térã peʼaha ñemigua katu arakaʼeve noñembohasái vaʼerã ambuépe. Mboʼehára añetegua, viru ryru apohára térã pytyvõhára arakaʼeve ndojeruremoʼãi ndéve umíva.
 
@@ -389,6 +399,7 @@ Pepyta oĩramo pende apuráva térã ojeruréva peñomi hag̃ua pe ojapóva, he�
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Po techaukaha omomarandúva ñembotavy rehe: pyaʼerã jopy, ambue tapicha ramo jehechauka, ñemondo renda oñemoambuéva, viru ñembohetave katuete ha ñemigua jerure.](/micrographics/scam-red-flags-01/gn.md)
 
 ---
 
@@ -408,7 +419,8 @@ Kóva niko ñepyrũnte.
 * **Kóva ñepyrũnte gueteri.** Peteĩ jekuʼe tenonde gotyo hekorosãva jepe ovaléma.
 
 
-> **Callout – Peteĩ sapyʼa pejepyʼamongeta hag̃ua**
+<!-- card: callout -->
+> **Peteĩ sapyʼa pejepyʼamongeta hag̃ua**
 >
 > Pejevy umi po porandu oĩva ñepyrũme rendápe. Mbaʼépa pembohováita koʼág̃a?
 

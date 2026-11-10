@@ -13,6 +13,7 @@ Gebruik enkele omrekeningen:
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Een tabel met twee kolommen: 1 BTC is 100.000.000 sats, 0,1 BTC is 10.000.000 sats, 0,01 BTC is 1.000.000 sats, 0,001 BTC is 100.000 sats en 0,00000001 BTC is 1 sat.](/micrographics/bitcoin-and-sats-01/nl.md)
 
 
 Vraag waarom het opdelen van één bitcoin in kleinere eenheden niet meer bitcoin oplevert. Vergelijk het met het verdelen van een afgemeten hoeveelheid in kleinere eenheden, zonder te beweren dat de fysieke analogie het protocol verklaart.

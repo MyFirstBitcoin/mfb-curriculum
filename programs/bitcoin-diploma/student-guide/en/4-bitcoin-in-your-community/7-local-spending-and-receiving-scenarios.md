@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[A coffee shop payment in four steps: the customer orders, the server sends an invoice, the customer pays in bitcoin from their phone, and the server hands over the coffee.](/micrographics/coffee-shop-payment-01/en.md)
 
 
 Use locally familiar goods and services. The exact item does not matter; the payment reasoning does.

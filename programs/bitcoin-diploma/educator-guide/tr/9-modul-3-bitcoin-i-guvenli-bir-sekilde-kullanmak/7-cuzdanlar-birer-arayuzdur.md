@@ -13,6 +13,7 @@
 
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Bir cüzdan anahtarları tutar. Bu anahtarlarla bitcoin alabilir ve gönderebilirsiniz; bitcoin'in kendisi ise telefonun veya cihazın içinde değil, ortak defterde kayıtlı kalır.](/micrographics/wallet-manages-keys-01/tr.md)
 
 
 Şunları sorun:

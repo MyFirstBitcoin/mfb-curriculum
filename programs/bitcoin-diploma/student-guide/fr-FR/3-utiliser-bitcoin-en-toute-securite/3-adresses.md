@@ -1,5 +1,6 @@
 # 3.3 Adresses
 
+<!-- card: definition -->
 > **Definition – Adresse Bitcoin**
 >
 > Une [adresse Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) est une information publique de réception pour un [paiement on-chain](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment). Un portefeuille l’affiche généralement sous forme de texte et de code QR pour qu’une autre personne puisse vous envoyer des bitcoins. Contrairement à un mot de passe ou à une [clé privée](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), une adresse ne permet pas d’autoriser une dépense.
@@ -7,6 +8,7 @@
 
 
 <!-- micrographic: address-two-formats-01 -->
+[L’écran de réception d’un portefeuille affiche deux fois une adresse Bitcoin donnée en exemple : sous forme de code QR et de texte. Les deux représentent les mêmes informations publiques de réception et ne permettent ni l’un ni l’autre d’autoriser des dépenses.](/micrographics/address-two-formats-01/fr-FR.md)
 
 
 Si vous souhaitez recevoir un [paiement on-chain](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), d’où doit provenir l’adresse ? Ouvrez le portefeuille prévu et utilisez son écran de réception. La personne qui envoie le paiement peut scanner le code QR ou copier l’adresse. Cela évite les erreurs qui peuvent survenir lors de la saisie manuelle de longues chaînes de caractères.
@@ -15,9 +17,9 @@ Pour chaque demande de paiement, confirmez le mode de paiement prévu. Une adres
 
 
 <!-- micrographic: sample-lightning-invoice-01 -->
+[Un exemple de facture Lightning affiché sur un écran présente le mode de paiement, le destinataire et le montant à côté de son QR code. Les informations lisibles et le QR code représentent la même demande de paiement sous deux formats.](/micrographics/sample-lightning-invoice-01/fr-FR.md)
 
 
 
-> **Light**
->
+<!-- card: light -->
 > Lorsqu’un paiement est important, ne considérez pas qu’une adresse est sûre uniquement parce qu’elle vous semble familière. Confirmez le destinataire prévu, le bon [réseau Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network), la destination et le mode de paiement. Effectuez d’abord un test avec un petit montant si la procédure ou le montant ne vous sont pas familiers.

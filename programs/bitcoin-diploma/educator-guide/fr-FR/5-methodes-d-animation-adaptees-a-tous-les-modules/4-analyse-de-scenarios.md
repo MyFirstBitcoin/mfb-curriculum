@@ -14,3 +14,4 @@ Modifiez une condition après la première réponse. Par exemple : la connexion
 
 
 <!-- micrographic: scenario-analysis-path-01 -->
+[Un scénario fictif part de l’objectif de la personne et des faits vérifiés, puis examine qui détient le contrôle, les options possibles, ce qui pourrait mal se passer et la plus petite étape suivante qui soit sûre. La modification d’une condition ramène le raisonnement à la décision qu’elle affecte.](/micrographics/scenario-analysis-path-01/fr-FR.md)

@@ -3,7 +3,8 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) וכן [ללא KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) הם מסלולים הכרוכים במגוון [פשרות](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). אף אחת מהתוויות אינה מבטלת את הצורך בבחינה קפדנית.
 
 
-> **Callout – פרטיות אינה מבטלת סיכונים משפטיים או סיכונים לביטחון האישי**
+<!-- card: callout -->
+> **פרטיות אינה מבטלת סיכונים משפטיים או סיכונים לביטחון האישי**
 >
 > לא מסלול [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) ולא מסלול [ללא KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) הם בהכרח האפשרות הטובה ביותר. השוו את המסלולים בפועל, היעזרו בהנחיות מקומיות עדכניות כאשר הכללים אינם ברורים, ואל תפרו את החוק המקומי או תחשפו את עצמכם לסכנה פיזית במאמץ לשמור על [פרטיות](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 

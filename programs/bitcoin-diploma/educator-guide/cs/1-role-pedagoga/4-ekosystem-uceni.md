@@ -13,3 +13,4 @@ Každá část programu Bitcoin Diploma má svou specifickou funkci.
 
 
 <!-- micrographic: learning-ecosystem-map-01 -->
+[Průvodce pro studenty poskytuje vysvětlení, Průvodce pro vyučující podporuje výuku a vybrané aktivity z Centra zdrojů slouží k procvičování. Hodnoticí tabulka uchovává neveřejné výsledky hodnocení.](/micrographics/learning-ecosystem-map-01/cs.md)

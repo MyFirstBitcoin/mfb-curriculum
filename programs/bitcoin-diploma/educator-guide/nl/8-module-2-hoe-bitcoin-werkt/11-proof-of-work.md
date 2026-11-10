@@ -10,6 +10,7 @@ Leer de samenhang, niet de wiskunde:
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Een miner hasht een voorgesteld blok keer op keer totdat één resultaat onder de doelwaarde van het netwerk ligt, en verspreidt het blok vervolgens. Nodes controleren snel het bewijs en elke regel voordat het blok aan de blockchain wordt toegevoegd: werk is kostbaar om te produceren en eenvoudig te verifiëren.](/micrographics/proof-of-work-process-01/nl.md)
 
 
 Zeg niet dat [miners](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) nuttige externe vergelijkingen oplossen. Beweer niet dat de energiekosten automatisch gerechtvaardigd of automatisch verspilling zijn.

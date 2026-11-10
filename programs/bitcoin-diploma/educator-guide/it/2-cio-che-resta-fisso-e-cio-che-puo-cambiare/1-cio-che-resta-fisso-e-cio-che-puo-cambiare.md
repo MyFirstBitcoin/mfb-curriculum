@@ -32,3 +32,4 @@ Lei non può:
 
 
 <!-- micrographic: fixed-adaptable-flexible-01 -->
+[Gli esempi locali e i metodi didattici possono cambiare entro limiti fissi relativi a competenze, evidenze, sicurezza e completamento. Le modifiche che incidono sulla valutazione richiedono un percorso equivalente approvato che mantenga la stessa azione del discente e lo stesso scopo di sicurezza.](/micrographics/fixed-adaptable-flexible-01/it.md)

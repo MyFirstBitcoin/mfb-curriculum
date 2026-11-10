@@ -1,6 +1,6 @@
 # Quiz – Geld verstehen: kurzer Test
 
-## Question 1
+## Frage 1
 
 Warum wird Geld akzeptiert?
 
@@ -9,11 +9,11 @@ Warum wird Geld akzeptiert?
 * [ ] Es hebt alle Regeln auf
 * [ ] Es verwandelt Dienstleistungen in Güter
 
-### Explanation
+### Erklärung
 
 Geld hilft Fremden, den Tausch über die Zeit hinweg zu koordinieren, weil man erwartet, dass andere es später annehmen. Es beruht dennoch auf Vertrauen, Regeln und gesellschaftlicher Akzeptanz. Wiederholen Sie im Leitfaden für Studierende, Modul 1, „Warum es Geld gibt“.
 
-## Question 2
+## Frage 2
 
 Bepreist, bezahlt, gespart: welche Funktionen?
 
@@ -22,11 +22,11 @@ Bepreist, bezahlt, gespart: welche Funktionen?
 * [ ] Tauschmittel; Wertaufbewahrung; Recheneinheit
 * [ ] Knappheit; Knappheit; Knappheit
 
-### Explanation
+### Erklärung
 
 Eine Recheneinheit drückt Preise aus, ein Tauschmittel wird als Zahlung angenommen, und ein Wertaufbewahrungsmittel überträgt Wert in die Zukunft. Wiederholen Sie im Leitfaden für Studierende, Modul 1, „Funktionen und Eigenschaften von Geld“.
 
-## Question 3
+## Frage 3
 
 Reis gegen Schuhe scheitert: warum?
 
@@ -35,11 +35,11 @@ Reis gegen Schuhe scheitert: warum?
 * [ ] Keine Genehmigung der Bank
 * [ ] Reis lässt sich nicht tauschen
 
-### Explanation
+### Erklärung
 
 Direkter Tauschhandel ist schwierig, wenn nicht jede Person zur selben Zeit das möchte, was die andere anbietet. Das ist die doppelte Koinzidenz der Bedürfnisse. Wiederholen Sie im Leitfaden für Studierende, Modul 1, „Tauschhandel und die doppelte Koinzidenz der Bedürfnisse“.
 
-## Question 4
+## Frage 4
 
 Preise +10 %, Einkommen +5 %: Kaufkraft?
 
@@ -48,6 +48,6 @@ Preise +10 %, Einkommen +5 %: Kaufkraft?
 * [x] Sinkt
 * [ ] Nicht feststellbar
 
-### Explanation
+### Erklärung
 
 Kaufkraft ist das, was man mit Geld kaufen kann. Steigen die Preise schneller als das Einkommen, kann man mit dem Einkommen weniger kaufen. Wiederholen Sie im Leitfaden für Studierende, Modul 1, „Inflation und Kaufkraft“.

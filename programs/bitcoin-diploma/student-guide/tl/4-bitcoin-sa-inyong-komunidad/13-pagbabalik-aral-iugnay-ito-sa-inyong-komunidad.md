@@ -1,10 +1,12 @@
 # 4.13 Pagbabalik-aral: Iugnay Ito sa Inyong Komunidad
 
 <!-- micrographic: community-review-path-01 -->
+[Isang gabay sa pagsusuri ng lokal na halimbawa ng Bitcoin: magsimula po sa isang tunay na pangangailangan, suriin kung angkop ang Bitcoin, pagkatapos ay ang paraan ng pagbabayad, pag-iingat ng mga pondo, kabuuang gastos, kaligtasan at mga lokal na kalagayan, at magtapos sa katibayan ng tagumpay.](/micrographics/community-review-path-01/tl.md)
 
 
 
 <!-- micrographic: community-review-table-01 -->
+[Isang talahanayan para sa pagsusuri ng lokal na halimbawa: para sa bawat paksa, mula sa tunay na pangangailangan hanggang sa isang responsableng susunod na hakbang, may tanong na sasagutin at opsyonal na espasyo para sa inyong sariling mga tala.](/micrographics/community-review-table-01/tl.md)
 
 
 Kumpletuhin ninyo ang pagbabalik-aral na ito nang mag-isa, pagkatapos ay ihambing ang inyong pangangatwiran sa inyong pangkat o mga kasabayan sa kurso. Isaalang-alang ang lokal na halimbawang pinag-aralan ninyo: anong tunay na pangangailangan ang tinugunan nito, aling tungkulin ng pera ang ginamit, at ang [halaga](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) ba ay inilipat on-chain, sa pamamagitan ng Lightning, o sa pareho? Itanong kung sino ang may kontrol sa mga susi, ano ang pinakamalaking pakinabang at pinakamabigat na panganib, at paano nakaapekto sa resulta ang lokal na batas, imprastraktura, wika, o kultura. Ang responsableng susunod na hakbang ay angkop sa lokal na konteksto, nililinaw ang mga gastos at ang [pangangalaga sa pondo](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), nililimitahan ang mga pagkakamali at panloloko, at maaaring suriin batay sa ebidensiya.

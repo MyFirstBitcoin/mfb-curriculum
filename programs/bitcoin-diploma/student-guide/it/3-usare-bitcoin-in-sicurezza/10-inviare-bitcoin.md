@@ -5,7 +5,8 @@
 L'invio richiede più attenzione perché, in Bitcoin, una [transazione](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) valida è di solito difficile o impossibile da annullare. Prima di toccare il pulsante di approvazione, sa spiegare chi riceverà il pagamento e perché?
 
 
-> **Callout – Si fermi e verifichi prima di inviare**
+<!-- card: callout -->
+> **Si fermi e verifichi prima di inviare**
 >
 > Confermi il destinatario, il metodo di pagamento, la destinazione, l'importo e l'unità, la commissione o la scadenza e la schermata finale. Se qualcosa non corrisponde alla richiesta affidabile, oppure se qualcuno crea urgenza o chiede informazioni di recupero, si fermi e verifichi in modo indipendente. Usi un piccolo test quando la procedura non Le è familiare.
 
@@ -21,6 +22,7 @@ L'invio richiede più attenzione perché, in Bitcoin, una [transazione](https://
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Prima di approvare un pagamento, chi invia verifica il destinatario e lo scopo, il metodo di pagamento, la destinazione e l'importo, l'unità, la commissione o la scadenza, effettuando un piccolo test se la procedura non è familiare. Se qualcosa non corrisponde, si ferma e verifica; approva solo quando tutto corrisponde, poi controlla il risultato.](/micrographics/pre-send-checklist-01/it.md)
 
 
 Per un [pagamento on-chain](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), la **commissione di rete** viene pagata per l'inclusione della [transazione](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) in un blocco. Dipende principalmente dai dati della [transazione](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) e dalla domanda di [spazio nel blocco](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-space), non semplicemente dall'importo inviato. Le stime delle commissioni e i tempi possono cambiare, quindi legga il riepilogo finale invece di presumere che un pagamento di basso valore abbia una commissione bassa.

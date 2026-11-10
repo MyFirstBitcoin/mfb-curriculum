@@ -1,5 +1,6 @@
 # 1.12 Centrinių bankų skaitmeninės valiutos (CBSV)
 
+<!-- card: definition -->
 > **Definition – Centrinio banko skaitmeninė valiuta (CBDC)**
 >
 > Ši [centrinio banko skaitmeninė valiuta](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), arba [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), yra skaitmeninė [dekretinių pinigų](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) forma, išleidžiama kaip [įsipareigojimas,](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability) kurį prisiima [centrinis bankas](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank): tai reikalavimo teisė, pagal kurią [centrinis bankas](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) yra skolingas jos turėtojui. Ji skiriasi nuo fizinių grynųjų pinigų ir įprasto indėlio komerciniame banke, nors naudojimosi patirtis gali atrodyti panaši.
@@ -13,6 +14,7 @@ Toliau paklauskite, kokias galimybes suteikia pasirinktas modelis. Priklausomai 
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[Lentelė, kurioje grynieji pinigai, bankų indėliai, mažmeninė CBSV ir Bitkoinas lyginami pagal tai, kas juos išleidžia, jų formą, prieinamumą, mokėjimų matomumą, pasiūlos taisykles ir patikrinimo galimybes. Skaitmeninis nereiškia decentralizuotas: CBSV vis tiek išleidžia centrinis bankas, o jos prieinamumas, mokėjimų matomumas ir patikrinimo galimybės priklauso nuo sistemos sandaros.](/micrographics/cbdc-comparison-table-01/lt.md)
 
 
 Tai, kad valiuta skaitmeninė, savaime nereiškia, jog ji decentralizuota, ribotos pasiūlos, užtikrinanti privatumą ar galimybę ją nepriklausomai patikrinti. [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) gali naudoti skaitmenines technologijas, tačiau ji vis tiek yra [dekretiniai pinigai](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money), jei jos [emitentas](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer), pasiūlos taisyklės, prieigos taisyklės ir mokėjimų leidimai tebėra valdomi centralizuotai.

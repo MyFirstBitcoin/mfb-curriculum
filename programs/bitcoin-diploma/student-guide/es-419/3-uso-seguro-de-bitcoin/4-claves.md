@@ -3,6 +3,7 @@
 La propiedad de Bitcoin se garantiza mediante claves criptográficas.
 
 
+<!-- card: definition -->
 > **Definition – Clave privada**
 >
 > Una [clave privada](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) es información secreta que permite a una billetera crear [firmas digitales válidas](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature). Una firma autoriza el gasto de los bitcoin controlados por la clave correspondiente. Cualquier persona que obtenga la [clave privada](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) generalmente puede gastar esos fondos.
@@ -21,10 +22,10 @@ La mayoría de las billeteras para principiantes utilizan [firma única](https:/
 Ningún educador, empresa de billeteras, empleado de una plataforma de intercambio, trabajador de soporte técnico o desarrollador de Bitcoin legítimo necesita su [clave privada](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) ni su [frase semilla](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase). Cualquier persona que se la pida debe ser considerada una amenaza.
 
 
-> **Light**
->
+<!-- card: light -->
 > **Inténtelo:** Clasifique los ejemplos preparados en tres grupos: información que se puede compartir de forma segura para recibir fondos, información secreta para gastar fondos e información que puede ser pública, pero que aun así debe mantenerse privada cuando esté vinculada a una persona.
 
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[Una clave privada secreta, que nunca debe compartirse, da lugar a información pública que sí se puede compartir: una clave pública derivada de ella y una dirección de recepción creada a partir de esa clave pública. La misma clave privada crea firmas que los nodos verifican sin llegar a conocer la clave privada.](/micrographics/private-key-public-info-01/es-419.md)

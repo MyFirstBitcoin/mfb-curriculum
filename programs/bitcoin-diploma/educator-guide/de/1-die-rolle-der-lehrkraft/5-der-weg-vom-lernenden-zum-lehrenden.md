@@ -13,3 +13,4 @@ Stellen Sie dies als mögliche Weiterentwicklung über das Bitcoin Diploma hinau
 
 
 <!-- micrographic: learner-journey-pathway-01 -->
+[Ein optionaler Lernweg führt von der Einführung in Bitcoin zum Bitcoin-Diplom, dann zum Ausbildungsprogramm für Lehrkräfte, weiter zur Tätigkeit als Lehrkraft, die mit dem Lehrplan von My First Bitcoin unterrichtet, und schließlich zum Beitritt zum Bitcoin-Bildungsnetzwerk. Jeder weitere Schritt ist eine Wahl, keine Pflicht.](/micrographics/learner-journey-pathway-01/de.md)

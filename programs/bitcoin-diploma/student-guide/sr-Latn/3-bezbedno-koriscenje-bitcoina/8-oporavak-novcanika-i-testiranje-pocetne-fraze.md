@@ -8,6 +8,7 @@ Bezbedna vežba pripreme za oporavak je jednostavna:
 
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[Vežba oporavka novčanika za vežbu u šest koraka: pratite zvanična uputstva, proverite kompatibilnost, radite u privatnosti, koristite odobreni metod oporavka, potvrdite da je to očekivani novčanik, a zatim resetujte okruženje. Koristite samo unapred pripremljene, prazne ili simulirane materijale, a predavač nikada ne sme da vidi reči za oporavak.](/micrographics/practice-wallet-recovery-01/sr-Latn.md)
 
 
 Nemojte koristiti novčanik za vežbu niti njegove podatke za oporavak za čuvanje značajnih novčanih sredstava nakon završetka programa Diploma. Ako kasnije odlučite da napravite lični novčanik, potrebno je da ga iznova podesite u privatnosti i obezbedite nove podatke za oporavak.

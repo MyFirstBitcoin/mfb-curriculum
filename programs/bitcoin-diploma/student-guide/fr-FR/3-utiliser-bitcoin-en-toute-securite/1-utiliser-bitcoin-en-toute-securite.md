@@ -3,8 +3,7 @@
 Ce module porte sur les premiers gestes à effectuer en toute sécurité, et non sur le fait de devenir expert ou de prendre des risques financiers. Vous vous exercerez à l’aide de simulations préparées, d’environnements de test, de portefeuilles d’entraînement ou, si votre formateur le juge approprié, d’une activité en conditions réelles à faible enjeu.
 
 
-> **Dark**
->
+<!-- card: dark -->
 > Vous n’avez pas besoin d’acheter ou d’acquérir des bitcoins d’une autre manière, ni d’utiliser des fonds personnels, pour suivre l’intégralité du Bitcoin Diploma.
 
 

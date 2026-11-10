@@ -19,6 +19,7 @@ Proszę stosować standardowy schemat reakcji:
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Pięć sygnałów ostrzegawczych oszustwa: presja czasu, podszywanie się pod innych, zmiana adresu docelowego, gwarantowane zyski i prośby o poufne informacje.](/micrographics/scam-red-flags-01/pl.md)
 
 
 #### Ćwiczenie: stacje z oszustwami

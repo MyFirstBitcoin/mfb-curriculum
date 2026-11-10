@@ -3,6 +3,7 @@
 Egy [központosított rendszer](https://curriculum.myfirstbitcoin.org/lexicon/en/#centralized-system) egyetlen irányítási ponttal rendelkezik. Egy bank ellenőrzi ügyfelei [főkönyvét](https://curriculum.myfirstbitcoin.org/lexicon/en/#ledger). Egy fizetési szolgáltató ellenőrzi a saját hálózatát. Egy kormány határozza meg a saját [pénznemének kibocsátási szabályait](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency).
 
 
+<!-- card: definition -->
 > **Definition – Decentralizáció**
 >
 > Egy [decentralizált rendszer](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralized-system) számos független résztvevő között osztja el a szerepeket és a döntések érvényesítését. A Bitcoinnak nincs olyan központi irodája, amely számlákat hozhatna létre, egyenlegeket módosíthatna vagy tagságot hagyhatna jóvá.
@@ -22,6 +23,7 @@ A Bitcoin [decentralizációja](https://curriculum.myfirstbitcoin.org/lexicon/en
 
 
 <!-- micrographic: powers-and-limits-01 -->
+[A felhasználók, a csomópontok, a bányászok, a fejlesztők és a szolgáltatások mind rendelkeznek bizonyos befolyással a Bitcoin közös szabályaira és nyilvános főkönyvére, de egyikük sem módosíthatja egyedül a főkönyvet vagy a szabályokat mindenki számára.](/micrographics/powers-and-limits-01/hu.md)
 
 
 [A decentralizáció](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) költségekkel is jár. Az összehangolás lassabb lehet. A felhasználóknak ellenőrizniük kell az információkat, és nagyobb felelősséget kell vállalniuk. Nincs központi ügyfélszolgálat a [Bitcoin-hálózathoz](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). Ezek a [kompromisszumok](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) a rendszer kialakításának részét képezik, nem pedig véletlen hibák, amelyek a rendszer megváltoztatása nélkül kiküszöbölhetők.

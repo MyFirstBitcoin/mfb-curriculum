@@ -20,3 +20,4 @@ Betragt ikke [egenopbevaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[Ved tredjepartsopbevaring kontrollerer en tjeneste nøglerne og godkender betalinger, så saldoen er tjenestens løfte. Ved egenopbevaring kontrollerer brugeren nøglerne og sikkerhedskopierne; begge fremgangsmåder indebærer afhængigheder og risiko for svigt.](/micrographics/who-controls-keys-01/da.md)

@@ -1,6 +1,7 @@
 # Cree un aula segura y participativa
 
-> **Callout – Proteja a los estudiantes antes de comenzar la actividad práctica**
+<!-- card: callout -->
+> **Proteja a los estudiantes antes de comenzar la actividad práctica**
 >
 > Nunca solicite, vea, fotografíe, copie, registre ni almacene una frase semilla real, una clave privada, una contraseña ni información financiera innecesaria. No presione a nadie para que compre, venda, conserve o use bitcoin. Haga una pausa siempre que un estudiante tenga dudas, se sienta presionado o esté expuesto a una posible estafa.
 

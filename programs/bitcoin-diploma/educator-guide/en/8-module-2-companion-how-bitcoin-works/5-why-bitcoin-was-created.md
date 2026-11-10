@@ -6,6 +6,7 @@ A central digital-payment system can keep one authoritative [ledger](https://cur
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[With a payment company, one organization keeps the ledger and approves each transfer. With Bitcoin, the sender signs a transaction, independent nodes check it and miners add it to one shared ledger, so the receiver depends less on a central authority.](/micrographics/central-ledger-vs-bitcoin-01/en.md)
 
 
 Ask:

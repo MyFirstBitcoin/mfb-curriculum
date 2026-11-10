@@ -1,10 +1,12 @@
 # 4.13 Wiederholung: Verbinden Sie dies mit Ihrer Gemeinschaft
 
 <!-- micrographic: community-review-path-01 -->
+[Ein Prüfpfad für ein lokales Bitcoin-Beispiel: Ausgangspunkt ist ein realer Bedarf; geprüft werden dann, ob Bitcoin geeignet ist, die Zahlungsmethode, die Verwahrung, die Gesamtkosten, die Sicherheit und die lokalen Bedingungen; am Ende steht der Nachweis des Erfolgs.](/micrographics/community-review-path-01/de.md)
 
 
 
 <!-- micrographic: community-review-table-01 -->
+[Eine Auswertungstabelle für das lokale Beispiel: Zu jedem Thema, vom realen Bedarf bis zu einem verantwortungsvollen nächsten Schritt, eine Frage, die Sie sich stellen können, und ein optionaler Platz für Ihre eigenen Notizen.](/micrographics/community-review-table-01/de.md)
 
 
 Bearbeiten Sie diese Wiederholung zunächst einzeln und vergleichen Sie anschließend Ihre Überlegungen mit Ihrem Team oder Ihrer Kohorte. Betrachten Sie das lokale Beispiel, das Sie untersucht haben: Welches echte Bedürfnis wurde damit angegangen, welche Funktion des Geldes war betroffen, und wurde [Wert](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) on-chain, über Lightning oder auf beiden Wegen übertragen? Fragen Sie, wer die Schlüssel kontrollierte, worin der größte Nutzen und das ernsteste Risiko bestanden und wie lokales Recht, Infrastruktur, Sprache oder Kultur das Ergebnis beeinflusst haben. Ein verantwortungsvoller nächster Schritt ist einer, der zum lokalen Kontext passt, Kosten und [Verwahrung](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) transparent macht, Fehler und Betrug begrenzt und sich anhand von Belegen bewerten lässt.

@@ -9,6 +9,7 @@ Bitcoin berfungsi kerana peserta yang berbeza menjalankan peranan yang berbeza.
 
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Empat peranan dalam Bitcoin: pengguna menerima, menyimpan dan menghantar bitcoin, nod mengesahkan peraturan secara bebas, pelombong membina blok calon dengan bukti kerja, dan pembangun mencadangkan perisian. Tiada satu peranan pun yang mengawal rangkaian.](/micrographics/bitcoin-participant-roles-01/ms.md)
 
 
 Peranan ini saling mengehadkan:

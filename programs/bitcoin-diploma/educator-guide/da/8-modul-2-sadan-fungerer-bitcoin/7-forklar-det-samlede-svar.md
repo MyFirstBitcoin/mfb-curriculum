@@ -10,6 +10,7 @@ Brug en oversigt i fem dele:
 
 
 <!-- micrographic: five-part-response-01 -->
+[Fem dele løser tilsammen problemet med dobbeltforbrug: et peer-to-peer-netværk, digitale signaturer, blokke og mining, uafhængig verifikation og en fælles historik med mest akkumuleret proof of work. Tilsammen gør de det muligt for netværket at afvise, at de samme midler bruges igen, uden en central myndighed.](/micrographics/five-part-response-01/da.md)
 
 
 Ingen enkelt del skaber Bitcoins troværdige [knaphed](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) alene. Undgå at sige »[blockchainen](https://curriculum.myfirstbitcoin.org/lexicon/en/#blockchain) løser alt.«

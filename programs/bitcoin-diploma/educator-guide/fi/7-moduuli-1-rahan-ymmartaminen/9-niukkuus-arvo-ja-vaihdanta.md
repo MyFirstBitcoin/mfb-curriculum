@@ -9,6 +9,7 @@ Käyttäkää yhtä rajallista paikallista resurssia neljän käsitteen erottami
 
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Ostaja, jolla on rajallisesti rahaa, tarkastelee edessään olevia vaihtoehtoja: ruokaa tälle päivälle, liikkumista tai säästämistä myöhempää varten. Yhden valitseminen tarkoittaa muista luopumista, mikä on vaihtoehtoiskustannus. Mitään vaihtoehtoa ei ole merkitty oikeaksi.](/micrographics/one-choice-two-uses-01/fi.md)
 
 
 Pyytäkää oppijoita selittämään, miksi pelkkä harvinaisuus ei luo [arvoa](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Harvinainen esine, jolla ei ole käyttöä eikä kysyntää, voi jäädä ilman ottajaa.

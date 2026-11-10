@@ -17,6 +17,7 @@ Ask:
 
 
 <!-- micrographic: bitcoin-atm-off-ramp-01 -->
+[A person at a Bitcoin ATM sends bitcoin from their phone and receives local cash: one example of an off-ramp from bitcoin into local money. It is an illustration, not a recommendation.](/micrographics/bitcoin-atm-off-ramp-01/en.md)
 
 
 **Production:** The learner chooses a path for an invented case, sequences the safe checks, and explains which risk is reduced and which is added.

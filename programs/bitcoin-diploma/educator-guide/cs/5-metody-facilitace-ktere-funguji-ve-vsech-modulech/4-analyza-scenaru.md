@@ -14,3 +14,4 @@ Po první odpovědi změňte jednu podmínku. Například: vypadne internet, zm�
 
 
 <!-- micrographic: scenario-analysis-path-01 -->
+[Fiktivní scénář postupuje od cíle dané osoby a ověřených faktů přes otázku, kdo má kontrolu, a dostupné možnosti až k tomu, co by mohlo selhat, a k nejmenšímu bezpečnému dalšímu kroku. Změna jedné podmínky vrací úvahu zpět k rozhodnutí, které tato změna ovlivňuje.](/micrographics/scenario-analysis-path-01/cs.md)

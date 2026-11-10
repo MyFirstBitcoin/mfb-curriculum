@@ -3,6 +3,7 @@
 Bitcoin's rules define a predictable [issuance schedule](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuance-schedule) and a [maximum supply](https://curriculum.myfirstbitcoin.org/lexicon/en/#maximum-supply) of 21 million bitcoin (21,000,000 BTC). New bitcoin enter circulation through the [block subsidy](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-subsidy) paid to [miners](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) who produce valid blocks.
 
 
+<!-- card: definition -->
 > **Definition – Halving**
 >
 > Every 210,000 blocks, the subsidy is cut in half. This event is called a [halving](https://curriculum.myfirstbitcoin.org/lexicon/en/#halving). Because blocks are produced approximately every ten minutes on average, a [halving](https://curriculum.myfirstbitcoin.org/lexicon/en/#halving) occurs roughly every four years. The exact calendar date is not fixed.
@@ -22,12 +23,14 @@ The subsidy began at 50 BTC per block. It falls by half in repeated steps until 
 
 
 <!-- micrographic: bitcoin-issuance-schedule-01 -->
+[The block subsidy starts at 50 bitcoin and halves every 210,000 blocks, while total issued bitcoin rises toward the 21 million limit. Transaction fees are paid on top and are not new bitcoin; no price forecast is implied.](/micrographics/bitcoin-issuance-schedule-01/en.md)
 
 
 The 21 million limit is enforced by [nodes](https://curriculum.myfirstbitcoin.org/lexicon/en/#node). If a [miner](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) creates more bitcoin than the rules allow, [validating nodes](https://curriculum.myfirstbitcoin.org/lexicon/en/#full-node) reject the block. A software developer can write different code, but cannot force other people to run it.
 
 
-> **Dark – Fixed supply is a network rule, not a price promise**
+<!-- card: dark -->
+> **Fixed supply is a network rule, not a price promise**
 >
 > Bitcoin's supply rule is public, independently verifiable, and difficult for one party to change because [validating nodes](https://curriculum.myfirstbitcoin.org/lexicon/en/#full-node) enforce it. It is not a physical law: it remains effective while participants continue to enforce it. A limited supply does not guarantee a rising market [price](https://curriculum.myfirstbitcoin.org/lexicon/en/#price); [price](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) also depends on demand.
 >
@@ -37,8 +40,7 @@ The 21 million limit is enforced by [nodes](https://curriculum.myfirstbitcoin.or
 **Spot question:** What are the advantages of Bitcoin having a limited supply? What would be the effect of increasing the supply of Bitcoin on [purchasing power](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power)? Who would reject an increase in supply?
 
 
-> **Light**
->
+<!-- card: light -->
 > Finite supply also does not mean every bitcoin is available for sale; some may be held long term or become inaccessible because keys were lost.
 
 

@@ -15,3 +15,4 @@ Không biến [hoạt động lưu ký trong cộng đồng](https://curriculum.
 
 
 <!-- micrographic: shared-funds-role-map-01 -->
+[Người đóng góp và người thụ hưởng phụ thuộc vào người kiểm soát quỹ chung. Quản lý khóa, phê duyệt chi tiêu, lưu giữ sổ sách và kiểm tra là những vai trò riêng biệt; khi một người đảm nhiệm nhiều vai trò, niềm tin bị tập trung, và các vấn đề về tính liên tục, quyền riêng tư, tranh chấp và địa vị pháp lý vẫn cần được giải đáp.](/micrographics/shared-funds-role-map-01/vi.md)

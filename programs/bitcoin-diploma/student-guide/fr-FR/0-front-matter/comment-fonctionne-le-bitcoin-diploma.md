@@ -22,6 +22,7 @@ Chaque module suit le même rythme :
 
 
 <!-- micrographic: learning-rhythm-strip-01 -->
+[Un rythme d’apprentissage en cinq étapes : découvrez une idée clé, montrez ce que vous pouvez expliquer ou mettre en pratique, mettez l’idée en pratique, expliquez-la avec vos propres mots et revoyez son lien avec le module suivant.](/micrographics/learning-rhythm-strip-01/fr-FR.md)
 
 
 Vous apprendrez davantage en participant qu’en lisant en silence. Certaines questions n’ont pas de réponse correcte unique. Ce qui compte, c’est votre capacité à expliquer votre raisonnement, à examiner les éléments de preuve et à revoir votre point de vue lorsque vous apprenez quelque chose de nouveau.
@@ -81,7 +82,8 @@ Lorsque le moment sera venu de vous exercer avec un [portefeuille Bitcoin](https
 ### Sécurité, responsabilité et absence de conseil financier
 
 
-> **Callout – Apprenez d’abord ; ceci n’est pas une recommandation**
+<!-- card: callout -->
+> **Apprenez d’abord ; ceci n’est pas une recommandation**
 >
 > Le Bitcoin Diploma a une vocation exclusivement pédagogique. Il ne fournit aucun conseil financier, juridique, fiscal ou en investissement. Il ne promet pas que bitcoin connaîtra une hausse de [prix](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) et ne vous recommande pas d’acheter, de vendre, d’utiliser comme garantie pour un emprunt ou de détenir quelque quantité de bitcoin que ce soit.
 >
@@ -104,6 +106,7 @@ Le diplôme suit un parcours d’apprentissage en quatre étapes : **Problème 
 
 
 <!-- micrographic: learning-path-roadmap-01 -->
+[Une feuille de route en quatre étapes : Problème, Comprendre la monnaie ; Solution, Le fonctionnement de Bitcoin ; Action, Utiliser Bitcoin en toute sécurité ; et Liens, Bitcoin dans votre communauté, chacune accompagnée de sa question directrice.](/micrographics/learning-path-roadmap-01/fr-FR.md)
 
 
 **Le module 4** est une composante obligatoire du diplôme, conçue par le formateur. Les formateurs sont les mieux placés pour connaître les contraintes locales, les solutions, les outils, les ressources, les lois, la langue, les infrastructures et les besoins de leurs apprenants. L’expérience de Mise en relation conçue par le formateur peut porter sur le fait de gagner, d’épargner, de recevoir ou de dépenser de la monnaie, sur des solutions de [couche 2](https://curriculum.myfirstbitcoin.org/lexicon/en/#layer-2), sur les moyens d’échange locaux, les commerçants ou les économies circulaires.
@@ -118,6 +121,7 @@ Les quatre modules constituent le parcours d’apprentissage obligatoire Problè
 
 
 <!-- micrographic: four-module-table-01 -->
+[Un tableau des quatre modules présentant pour chacun son rôle, sa question directrice et ce que l'apprenant mettra en pratique : Comprendre la monnaie, Comment fonctionne Bitcoin, Utiliser Bitcoin en toute sécurité et Bitcoin dans votre communauté.](/micrographics/four-module-table-01/fr-FR.md)
 
 
 Le diplôme nécessite au moins huit heures. Quatre séances de deux heures constituent le format prévu le plus court, et non une limite de durée. Votre formateur peut répartir un module sur davantage de séances, revenir sur une idée abordée précédemment ou modifier l’ordre de certaines sections lorsque votre groupe a besoin de plus de temps pour les échanges, la pratique, la révision ou l’évaluation. Il n’y a pas de limite maximale de durée : le formateur reste responsable de donner aux apprenants le temps dont ils ont besoin, de couvrir toutes les compétences requises et de rendre clairs les liens entre les modules.

@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[Un commerciante che accetta Bitcoin opera in quattro ambiti: marketing, formazione, contabilità e vendite.](/micrographics/merchant-payment-operations-01/it.md)
 
 
 A un esercente non basta un pulsante per ricevere pagamenti. L'intero processo di pagamento può includere la definizione dei prezzi, la formazione del personale, le ricevute, i rimborsi, [la custodia](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), la conversione, la contabilità, le imposte, la sicurezza dei dispositivi e l'assistenza.

@@ -40,7 +40,8 @@ Isa argachuu miti, isa baasuu miti, garuu maal akka ta’ee fi akkamitti akka ho
 * Maallaqni keessan hamma duraan bitu bituu danda'aa?
 
 
-> **Callout – Deebiiwwan keessan olkaa'aa**
+<!-- card: callout -->
+> **Deebiiwwan keessan olkaa'aa**
 >
 > Gaaffii tokkoon tokkoof deebii gabaabaa barreessaa. Dhumarratti gara deebiiwwan kanaatti ni deebitu.
 
@@ -85,6 +86,7 @@ Namoonni lamaan yeroo tokkotti fi hamma mijataa ta’een waan inni kaan qabu bar
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina ruuzii qabdi, kophee barbaaddi; Luis kophee qaba, zayitii nyaataa barbaada; Mei immoo zayitii nyaataa qabdi, hojii suphaa barbaaddi. Namoonni lama kamiyyuu kallattiin waljijjiirraa gochuu hin dandaʼan; sababiin isaas, lamaan isaanii keessaa tokko illee waan inni kaan dhiheessu hin barbaadu.](/micrographics/barter-mismatch-01/om.md)
 
 <!-- notes: Fakkeenya qajeelfamichaa fayyadamaa: isin ruuzii oomishtanii kophee barbaaddu, garuu namni kophee tolchu zayita nyaataa barbaada malee ruuzii hin barbaadu. Ogeeyyiin dinagdee kana fedhiin gama lamaanii walitti walsimuu jedhu. -->
 
@@ -151,6 +153,7 @@ Namoonni jecha qaala’iinsa jireenyaa yeroo dhaga’an, yeroo baay’ee gatiin 
 ## Qaala’iinsa Gatii fi Dandeettii Bittaa
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Yuunitii maallaqaa 100 isuma sanaan, yeroo gatiin guuboo meeshaalee buʼuuraa 100 taʼu guuboo guutuu bituun ni dandaʼama; garuu yeroo gatiin guuboo isuma sanaa 110 taʼu hin dandaʼamu. Sadarkaan gatii ol kaʼeera; humni bittaa maallaqichaa immoo gadi buʼeera.](/micrographics/same-money-smaller-basket-01/om.md)
 
 <!-- notes: Qaala’iinsi gatii jechuun sadarkaan waliigalaa gatiiwwanii itti fufiinsaan ol ka’uu dha. Gama isaa inni biraan humna bittaa dha: jechuunis, yuunitii maallaqaa tokkoon hammam bituun akka danda’amu. Gatiin gundoo meeshaalee bu’uuraa tokkoo yuunitii maallaqaa 100 irraa gara 110 yoo ol ka’e, yuunitii maallaqaa 100 sanuma sanaan gundoo guutuu bituun kana booda hin danda’amu. -->
 
@@ -213,8 +216,7 @@ Hafteen herrega baankii maallaqa callaa harka keessan jiru irraa adda: inni waad
 * Garuu dhiyeessii fi seeronni isaa jijjiiramuu dandaʼu, namoonni isa fayyadamanis murtii irratti sagalee xiqqoo qabu
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Kunis sababii namoonni filannoowwan biroo barbaadaniif, akkasumas Bitcoin uumameefidha.
 
 ---
@@ -233,6 +235,7 @@ Maallaqa dijitaalaa kan giddugaleessa tokkoon hin bulle, dhiyeessii daangeffame 
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Dhaabbata kaffaltii keessatti, dhaabbanni tokko galmee herregaa qabatee dabarsa maallaqaa tokkoon tokkoof hayyama kenna. Bitcoin keessatti, namni maallaqa ergu daddabarsa irratti mallatteessa, noodonni walaba ta’an daddabarsicha mirkaneessu, albuuda baastonnis galmee herregaa waliinii tokko irratti dabalu; kanaaf namni maallaqa fudhatu qaama aangoo giddugaleessaa irratti hirkachuun isaa ni hir’ata.](/micrographics/central-ledger-vs-bitcoin-01/om.md)
 
 <!-- notes: Bitcoin dura, maallaqa karaa interneetii erguun yeroo hunda dhaabbata amanamaa irratti hundaaʼa ture: baankii ykn dhaabbata kaffaltii galmee herregaa qabatu, herregoota mirkaneessu, akkasumas kaffaltii tursiisuu, ugguruu ykn deebisuu dandaʼu irratti. Odeeffannoo dijitaalaa garagalchuun salphaadha: saantimni dijitaalaa tokko yeroo lama baasii taʼuu yoo dandaʼe, akka maallaqaatti tajaajiluu hin dandaʼu ture. Kun rakkoo yeroo lama baasii gochuu jedhama. Satoshi Nakamoto nama tokko ykn garee maqaa sana fayyadamudha. -->
 
@@ -253,6 +256,7 @@ Dhaabbanni kamiyyuu bitcoin isin ofii keessaniin to'attan ugguruu hin danda'u. B
 ## Daangaa Namni Kamiyyuu Mirkaneessuu Danda’u
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Daangaan dhiyeessii marsariitii irratti ykn kuusdeetaa qaama maallaqa baasuu keessatti barreeffame qaama sanaan osoo hin beeksisin jijjiiramuu danda'a. Seerri dhiyeessii Bitcoin ifatti mul'ata; mallattooleen dijitaalaa, seenaan ifatti mul'atu, ragaan hojii fi mirkaneessi noodotaa waliin ta'uun saantimoonni haaraan akka hin uumamne ykn bitcoin walfakkaatu yeroo lama akka hin baafamne ittisu.](/micrographics/claimed-or-verified-supply-01/om.md)
 
 <!-- notes: bitcoin haaraan sagantaa ifatti beekamuun gadhiifamu; kompiitaroonni walaba ta’an kan noodota jedhaman immoo bilookii seera sana cabsu kamiyyuu ni didu. Namni kamiyyuu daangaa kana mirkaneeffachuu waan danda’uuf, daangaan kun amanamaa dha. Kun seera uumamaa miti: hirmaattonni hojii irra oolchuu waan itti fufaniif hojjeta. Dhiyeessiin daangeffamaan gatiin akka ol ka’u wabii hin kennu; gatiin dhiyeessii irratti akkuma hundaa’u fedhii irrattis ni hundaa’a. -->
 
@@ -264,6 +268,7 @@ bitcoin tokko yuunitoota xixiqqoo satoshis, yookaan sats jedhaman 100,000,000tti
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Gabatee tarjaawwan lama qabu: 1 BTC sats 100,000,000 wajjin, 0.1 BTC sats 10,000,000 wajjin, 0.01 BTC sats 1,000,000 wajjin, 0.001 BTC sats 100,000 wajjin, akkasumas 0.00000001 BTC sat 1 wajjin walqixa.](/micrographics/bitcoin-and-sats-01/om.md)
 
 <!-- notes: sats 100,000 qabaachuu fi bitcoin 0.001 qabaachuun hamma walqixa taʼe ibsu. Bitcoin tokko gatii guddaa waan qabuuf Bitcoin bitachuun humnaa ol akka taʼe ilaalcha dogoggoraa jiru sirreessaa. -->
 
@@ -272,6 +277,7 @@ bitcoin tokko yuunitoota xixiqqoo satoshis, yookaan sats jedhaman 100,000,000tti
 ## Bitcoin hojjechaa akka turu kan taasisu eenyu?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Gaheewwan afur Bitcoin keessatti: fayyadamtoonni bitcoin ni fudhatu, ni kuufatu, ni ergu; noodonni seerota of danda'anii ni mirkaneessu; albuudonni ragaa hojii fayyadamuun bilookota kaadhimamoo ni ijaaru; misoomsitoonnis sooftiweerii yaadaaf ni dhiheessu. Gaheen tokko qofti neetworkicha hin to'atu.](/micrographics/bitcoin-participant-roles-01/om.md)
 
 <!-- notes: Fayyadamtoonni bitcoin ni ergu, ni fudhatu, ni kuufatu; noodonni daddabarsaafi bilookii hunda seerota waliin wal bira qabuun ni mirkaneessu; albuudonni tilmaamaan daqiiqaa kudhan kudhaniin bilookii haaraa galmeetti dabaluuf ni dorgomu. Galmeen sun, sansalanni bilookii, uummataaf banaa dha; irra deebiʼanii isa barreessuunis baasii guddaa gaafata. Yaadannoo akkaataa barreessuu irratti: Bitcoin qubee guddaa B tiin barreeffamu yeroo baayʼee neetworkicha yookaan sirnicha jechuudha; bitcoin qubee xiqqaa b tiin barreeffamu immoo maallaqicha mataa isaa jechuudha. -->
 
@@ -307,6 +313,7 @@ Gaaffiin jalqabaa waa'ee boorsaa kamiyyuu: furtuuwwan eenyutu to'ata?
 ## Boorsaan Furtuuwwan Bulcha
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Boorsaan furtuuwwan qabata. Furtuuwwan kanaan bitcoin fudhachuu fi erguu dandeessu; bitcoin mataan isaa garuu bilbila yookaan meeshaa keessa osoo hin taane, galmee waloo irratti galmaa'ee hafa.](/micrographics/wallet-manages-keys-01/om.md)
 
 <!-- notes: Boorsaan Bitcoin meeshaa, yeroo baayʼee appilikeeshinii, bitcoin fudhachuu, sakattaʼuu fi erguu isin dandeessisu dha. Bitcoin keessan bilbila keessan keessatti hin kuufamu: blookcheenii irratti galmeeffama. Boorsichi furtuuwwan bitcoin sun kan keessan taʼuu isaa mirkaneessuu fi kaffaltii hayyamuu isin dandeessisan bulcha. -->
 
@@ -331,6 +338,7 @@ Tarree jechootaa tartiibaan qindaa’e, yeroo baay’ee jechoota 12 ykn 24 of ke
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Gaaleen sanyii tarree jechootaa tartiibaan qindaaʼe yoo taʼu, asitti jechoota fakkeenyaa kudha lama lakkoofsaan waraqaa irratti barreeffaman agarsiisa. Jechoonni sirrii tartiiba sirriin jiran boorsaa dijitaalaa walsimu keessatti toʼannoo deebisuu waan dandaʼaniif, gaaleen kun iccitii taʼee interneetiin ala eegama.](/micrographics/seed-phrase-on-paper-01/om.md)
 
 <!-- notes: Gaaleen sanyii (seed phrase) waraabbii deebi’anii itti fayyadaman qofa miti: mirga guutuu ittiin seenuuti. Yeroo boorsaa keessan uumtan waraqaa irratti sirriitti barreessaa; intarneetii irraa adda, iccitiidhaan, bakka hin badne yookaan hin miidhamnetti kaa’aa. Gonkumaa suuraa isaa hin kaasinaa, imeeliidhaan hin erginaa, yaadannoowwan duumessaa keessatti hin kuusinaa, ergaadhaan hin dabarsinaa, yookaan marsariitii keessatti hin barreessinaa. Jechoonni agarsiifaman fakkeenya qofa; gaalee sanyii dhugaa gonkumaa hin agarsiisinaa yookaan hin walitti qabinaa. -->
 
@@ -365,6 +373,7 @@ Tarree jechootaa tartiibaan qindaa’e, yeroo baay’ee jechoota 12 ykn 24 of ke
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Kaffaltiin sansalata irratti raawwatamu kallattiin sansalata bilookii Bitcoin keessatti galmaa'a; Lightning immoo neetworkii kaffaltii Bitcoin irratti ijaarame kan kaffaltii saffisaa fi irra deddeebi'amee raawwatamuuf tajaajilu yoo ta'u, kaffaltiin kun milkaa'uu dhiisuus danda'a. Karaaleen lamaan kunis eegumsa qaama biraa jala yookaan eegumsa ofii jala ta'uu danda'u.](/micrographics/on-chain-and-lightning-01/om.md)
 
 ---
 
@@ -375,7 +384,8 @@ Tarree jechootaa tartiibaan qindaa’e, yeroo baay’ee jechoota 12 ykn 24 of ke
 * **Hin Amaninaa, Mirkaneeffadhaa.** Nama sana, mala kaffaltii, teessoo fi hanga maallaqaa sakatta’aa.
 
 
-> **Callout – Odeeffannoo maallaqa ittiin fudhatan qoodaa, iccitii garuu gonkumaa hin qoodinaa**
+<!-- card: callout -->
+> **Odeeffannoo maallaqa ittiin fudhatan qoodaa, iccitii garuu gonkumaa hin qoodinaa**
 >
 > Teessoo ykn gaaffiin kaffaltii qoodamuu ni danda’a. Gaaleen deebisanii argachuuf gargaaru ykn furtuun dhuunfaa gonkumaa qoodamuu hin qabu. Barsiisaan, dhaabbanni boorsaa dijitaalaa ykn hojjetaan deeggarsaa seera qabeessi kamiyyuu odeeffannoo iccitii kana isin hin gaafatu.
 
@@ -389,6 +399,7 @@ Namni tokko akka ariifattan ykn dhoksitan yoo isin taasise, bu'aa mirkanaa'e yoo
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Mallattoolee akeekkachiisaa gowwoomsaa shan: ariifachiisuu, nama biraa fakkaachuu, bakka itti ergamu jijjiirame, bu'aa wabii qabu fi iccitii gaafachuu.](/micrographics/scam-red-flags-01/om.md)
 
 ---
 
@@ -408,7 +419,8 @@ Kun jalqaba qofa.
 * **Kun jalqaba qofa.** Tarkaanfii itti aanu kan nageenya qabu tokko fudhachuun gahaadha.
 
 
-> **Callout – Yeroo itti xiinxalan**
+<!-- card: callout -->
+> **Yeroo itti xiinxalan**
 >
 > Gara gaaffilee shanan jalqaba turanitti deebi'aa. Amma maal deebistu?
 

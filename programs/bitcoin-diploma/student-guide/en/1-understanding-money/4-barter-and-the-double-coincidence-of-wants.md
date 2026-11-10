@@ -1,5 +1,6 @@
 # 1.4 Barter and the double coincidence of wants
 
+<!-- card: definition -->
 > **Definition – Barter**
 >
 > [Barter](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) is the direct exchange of one good or service for another. It can work well in a small exchange, but becomes difficult when many people and products are involved.
@@ -11,6 +12,7 @@ Imagine that **Amina** has rice and wants shoes. **Luis** has shoes but wants co
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina has rice and wants shoes, Luis has shoes and wants cooking oil, and Mei has cooking oil and wants repair work. No pair can trade directly, because neither person in a pair wants what the other offers.](/micrographics/barter-mismatch-01/en.md)
 
 
 For [barter](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) to work directly, each person must want what the other person offers at the same time and in suitable amounts. Economists call this the [**double coincidence of wants**](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-coincidence-of-wants).
@@ -31,3 +33,4 @@ A commonly accepted money separates selling from buying. Amina can sell rice to 
 
 
 <!-- micrographic: sell-then-buy-01 -->
+[Amina sells rice to one person for a commonly accepted money, then later uses that money to buy shoes from someone else. Selling and buying become separate actions.](/micrographics/sell-then-buy-01/en.md)

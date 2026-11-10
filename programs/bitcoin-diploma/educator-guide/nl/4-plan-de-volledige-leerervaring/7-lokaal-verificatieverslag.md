@@ -19,3 +19,4 @@ Geef voor actuele regels de voorkeur aan gezaghebbende primaire bronnen. Is het 
 
 
 <!-- micrographic: local-verification-cycle-01 -->
+[Docenten identificeren elke veranderlijke lokale bewering, verifiëren deze aan de hand van een actuele bron, noteren de datum en de beperkingen ervan, onderwijzen het met voorzichtige formuleringen en controleren het opnieuw vóór hergebruik. Wanneer een feit onzeker is, gebruiken zij een veiliger voorbeeld of een alternatief.](/micrographics/local-verification-cycle-01/nl.md)

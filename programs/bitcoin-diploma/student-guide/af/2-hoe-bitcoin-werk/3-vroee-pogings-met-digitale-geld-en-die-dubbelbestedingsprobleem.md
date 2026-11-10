@@ -11,6 +11,7 @@ Bitcoin was nie die eerste poging tot digitale geld nie. Dit het voortgebou op v
 Saam het hierdie eksperimente nuttige stukkies van die legkaart getoon. Hulle het ook die oorblywende probleem duideliker gemaak.
 
 
+<!-- card: definition -->
 > **Definition – Dubbelbesteding**
 >
 > [Dubbelbesteding](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending) is ’n poging om dieselfde digitale eenheid aan twee ontvangers te stuur. Digitale data kan presies gekopieer word, dus het ’n digitale geldstelsel ’n manier nodig om vas te stel watter [Transaksie](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) geldig is.
@@ -28,6 +29,7 @@ Die Witskrif het die kenmerke saamgebring wat vir daardie benadering nodig was:
 
 
 <!-- micrographic: five-part-response-01 -->
+[Vyf dele vorm saam die oplossing vir die dubbelbestedingsprobleem: 'n eweknienetwerk, digitale handtekeninge, blokke en mynbou, onafhanklike verifikasie, en 'n gedeelde geskiedenis met die meeste opgehoopte bewys van werk. Saam stel hulle die netwerk in staat om 'n tweede besteding sonder 'n sentrale gesag te verwerp.](/micrographics/five-part-response-01/af.md)
 
 
 Hierdie module verduidelik hierdie begrippe in meer besonderhede. Saam het hulle ’n praktiese antwoord gebied op die [probleem van Dubbele besteding](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): die Netwerk kan ’n tweede poging om dieselfde bitcoin te bestee, verwerp sonder om op ’n sentrale gesag staat te maak. Bitcoin het die ontbrekende kombinasie gebied waarna dekades se eksperimente met digitale geld gesoek het.

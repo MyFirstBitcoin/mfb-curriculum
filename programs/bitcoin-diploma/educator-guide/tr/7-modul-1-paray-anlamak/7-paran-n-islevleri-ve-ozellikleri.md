@@ -7,6 +7,7 @@ Farkı açıkça öğretin:
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[İki katman: paranın üç işlevi (değişim aracı, hesap birimi, değer saklama aracı) yedi özelliğe dayanır (dayanıklılık, taşınabilirlik, bölünebilirlik, ikame edilebilirlik, kıtlık, kabul edilebilirlik ve doğrulanabilirlik).](/micrographics/functions-and-properties-01/tr.md)
 
 
 Farklı amaçlar kullanın. Aşağıdakiler için hangi özelliklerin önemli olduğunu sorun:

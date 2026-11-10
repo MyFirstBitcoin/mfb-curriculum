@@ -1,5 +1,6 @@
 # 1.12 Monedas digitales de bancos centrales (CBDCs)
 
+<!-- card: definition -->
 > **Definition – Moneda digital de banco central (CBDC)**
 >
 > Una [moneda digital de banco central](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), o [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), es una forma digital de [dinero fíat](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) emitido como un [pasivo](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability) de un [banco central](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank): representa un derecho de cobro que el [banco central](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) debe satisfacer a su titular. Es diferente del efectivo físico y de un depósito bancario comercial común, aunque la experiencia del usuario puede parecer similar.
@@ -13,6 +14,7 @@ Luego, pregúntese qué permite el diseño. Según las reglas, una [CBDC](https:
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[Una tabla que compara el efectivo, los depósitos bancarios, una CBDC minorista y Bitcoin según quién los emite, su forma, acceso, visibilidad, reglas de emisión y verificación. Digital no es lo mismo que descentralizado: una CBDC sigue siendo emitida por el banco central, y su acceso, visibilidad y verificación dependen de su diseño.](/micrographics/cbdc-comparison-table-01/es-419.md)
 
 
 Digital no significa automáticamente descentralizado, escaso, privado ni abierto a la verificación independiente. Una [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) puede utilizar tecnología digital, pero sigue siendo [dinero fíat](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) si su [emisor](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer), las reglas de oferta, las reglas de acceso y los permisos de pago siguen bajo una gestión centralizada.

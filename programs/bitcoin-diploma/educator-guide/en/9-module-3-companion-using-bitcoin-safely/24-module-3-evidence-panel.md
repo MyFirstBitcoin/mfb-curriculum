@@ -24,6 +24,7 @@ For every route, ask:
 
 
 <!-- micrographic: ways-to-receive-bitcoin-01 -->
+[One person can receive bitcoin in four different ways: earning it through work or sales, exchanging local cash with another person, using an exchange or broker, or using an ATM. Each route ends in self-custody or a custodial balance, and none is recommended over the others.](/micrographics/ways-to-receive-bitcoin-01/en.md)
 
 
 Use [**no-KYC**](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) consistently for a path collecting less or no standard identity information. Do not imply that [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) removes fraud, legal, counterparty, or physical risk. Do not advise evasion of local law.

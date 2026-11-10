@@ -8,6 +8,7 @@ Việc thực hành an toàn để sẵn sàng khôi phục rất đơn giản:
 
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[Bài thực hành khôi phục ví thực hành gồm sáu bước: làm theo hướng dẫn chính thức, kiểm tra tính tương thích, thực hiện riêng tư, sử dụng phương thức khôi phục được phê duyệt, xác nhận đúng ví dự kiến, rồi đặt lại. Chỉ sử dụng tài liệu đã chuẩn bị sẵn, tài liệu trống hoặc tài liệu mô phỏng, và giảng viên tuyệt đối không được xem các từ khôi phục.](/micrographics/practice-wallet-recovery-01/vi.md)
 
 
 Không sử dụng ví thực hành hoặc thông tin khôi phục của ví đó để bảo vệ khoản tiền có giá trị đáng kể sau khi hoàn thành khóa học Diploma. Nếu sau này quý vị chọn tạo ví cá nhân, ví đó cần được thiết lập mới một cách riêng tư và có thông tin khôi phục mới.

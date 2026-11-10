@@ -1,5 +1,6 @@
 # 1.12 Central Bank Digital Currencies (CBDCs)
 
+<!-- card: definition -->
 > **Definition – Central bank digital currency (CBDC)**
 >
 > A [central bank digital currency](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), or [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), is a digital form of [fiat money](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) issued as a [liability](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability) of a [central bank](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank): it is a claim that the [central bank](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) owes to its holder. It is different from physical cash and from a normal commercial-bank deposit, although the user experience may look similar.
@@ -13,6 +14,7 @@ Next ask what the design allows. Depending on the rules, a [CBDC](https://curric
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[A table comparing cash, bank deposits, a retail CBDC and Bitcoin on who issues them, their form, access, visibility, supply rules and verification. Digital is not the same as decentralized: a CBDC is still issued by the central bank, and its access, visibility and verification depend on its design.](/micrographics/cbdc-comparison-table-01/en.md)
 
 
 Digital does not automatically mean decentralized, scarce, private, or open to independent verification. A [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) may use digital technology, but it is still [fiat money](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) if its [issuer](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer), supply rules, access rules, and payment permissions remain centrally managed.

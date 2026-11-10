@@ -1,6 +1,6 @@
 # Quiz – Comprendere il denaro: verifica rapida
 
-## Question 1
+## Domanda 1
 
 Perché il denaro viene accettato?
 
@@ -9,11 +9,11 @@ Perché il denaro viene accettato?
 * [ ] Elimina tutte le regole
 * [ ] Trasforma i servizi in beni
 
-### Explanation
+### Spiegazione
 
 Il denaro aiuta persone che non si conoscono a coordinare gli scambi nel tempo, perché ci si aspetta che altri lo accettino in seguito. Dipende comunque dalla fiducia, dalle regole e dall’accettazione sociale. Riveda la Guida dello studente, Modulo 1, «Perché esiste il denaro».
 
-## Question 2
+## Domanda 2
 
 Prezzato, pagato, risparmiato: quali funzioni?
 
@@ -22,11 +22,11 @@ Prezzato, pagato, risparmiato: quali funzioni?
 * [ ] Mezzo; riserva; unità
 * [ ] Scarsità; scarsità; scarsità
 
-### Explanation
+### Spiegazione
 
 Un’unità di conto esprime i prezzi, un mezzo di scambio viene accettato come pagamento e una riserva di valore trasferisce il valore nel futuro. Riveda la Guida dello studente, Modulo 1, «Funzioni e proprietà del denaro».
 
-## Question 3
+## Domanda 3
 
 Riso in cambio di scarpe non funziona: perché?
 
@@ -35,11 +35,11 @@ Riso in cambio di scarpe non funziona: perché?
 * [ ] Nessuna approvazione bancaria
 * [ ] Il riso non si può scambiare
 
-### Explanation
+### Spiegazione
 
 Il baratto diretto è difficile quando ciascuna persona non desidera, nello stesso momento, ciò che l’altra offre. È la doppia coincidenza dei bisogni. Riveda la Guida dello studente, Modulo 1, «Il baratto e la doppia coincidenza dei bisogni».
 
-## Question 4
+## Domanda 4
 
 Prezzi +10%, reddito +5%: potere d’acquisto?
 
@@ -48,6 +48,6 @@ Prezzi +10%, reddito +5%: potere d’acquisto?
 * [x] Diminuisce
 * [ ] Non si può dire
 
-### Explanation
+### Spiegazione
 
 Il potere d’acquisto è ciò che il denaro permette di comprare. Se i prezzi aumentano più rapidamente del reddito, con quel reddito si compra meno. Riveda la Guida dello studente, Modulo 1, «Inflazione e potere d’acquisto».

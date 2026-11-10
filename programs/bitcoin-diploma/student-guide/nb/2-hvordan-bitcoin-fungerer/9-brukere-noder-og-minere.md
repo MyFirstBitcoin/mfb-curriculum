@@ -9,6 +9,7 @@ Bitcoin fungerer fordi ulike deltakere utfører ulike roller.
 
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Fire roller i Bitcoin: Brukere mottar, oppbevarer og sender bitcoin, noder kontrollerer uavhengig at reglene følges, utvinnere bygger kandidatblokker med arbeidsbevis, og utviklere foreslår programvare. Ingen enkeltrolle kontrollerer nettverket.](/micrographics/bitcoin-participant-roles-01/nb.md)
 
 
 Disse rollene begrenser hverandre:

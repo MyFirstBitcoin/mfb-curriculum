@@ -3,6 +3,7 @@
 Bir [merkezi sistemin](https://curriculum.myfirstbitcoin.org/lexicon/en/#centralized-system) kontrol eden bir noktası vardır. Bir banka, müşteri [defterini](https://curriculum.myfirstbitcoin.org/lexicon/en/#ledger) kontrol eder. Bir ödeme şirketi kendi ağını kontrol eder. Bir hükümet, kendi [para biriminin](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) ihraç kurallarını kontrol eder.
 
 
+<!-- card: definition -->
 > **Definition – Merkeziyetsizlik**
 >
 > Bir [merkeziyetsiz sistem](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralized-system), rolleri ve kararların uygulanmasını birçok bağımsız katılımcı arasında dağıtır. Bitcoin'in hesap oluşturabilen, bakiyeleri değiştirebilen veya üyeliği onaylayabilen merkezi bir ofisi yoktur.
@@ -22,6 +23,7 @@ Bitcoin'in [merkeziyetsizliği](https://curriculum.myfirstbitcoin.org/lexicon/en
 
 
 <!-- micrographic: powers-and-limits-01 -->
+[Kullanıcılar, düğümler, madenciler, geliştiriciler ve hizmetlerin her biri, Bitcoin'in ortak kuralları ve herkese açık defteri üzerinde belirli bir güce sahiptir; ancak hiçbiri defteri ya da kuralları herkes için tek başına değiştiremez.](/micrographics/powers-and-limits-01/tr.md)
 
 
 [Merkeziyetsizlik](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) aynı zamanda maliyetler de doğurur. Koordinasyon daha yavaş olabilir. Kullanıcılar bilgileri doğrulamalı ve daha fazla sorumluluk almalıdır. [Bitcoin ağı](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network) için merkezi bir destek masası yoktur. Bu [ödünleşimler](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) tasarımın bir parçasıdır; sistemi değiştirmeden ortadan kaldırılabilecek tesadüfi kusurlar değildir.

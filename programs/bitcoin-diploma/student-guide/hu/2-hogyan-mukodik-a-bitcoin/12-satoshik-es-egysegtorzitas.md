@@ -14,6 +14,7 @@ Az [árak](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) összehasonl
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Kétoszlopos táblázat: 1 BTC 100 000 000 sat, 0,1 BTC 10 000 000 sat, 0,01 BTC 1 000 000 sat, 0,001 BTC 100 000 sat, 0,00000001 BTC pedig 1 sat.](/micrographics/bitcoin-and-sats-01/hu.md)
 
 
 **Mutassa meg, mit értett meg:** Hány [sat](https://curriculum.myfirstbitcoin.org/lexicon/en/#satoshi) van 0,01 BTC-ben? Miért nem akadályozza meg az [ár](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) egy egész bitcoin esetében azt, hogy valaki kisebb összeget használjon?

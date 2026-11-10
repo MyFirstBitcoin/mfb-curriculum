@@ -3,6 +3,7 @@
 Bitcoin-eienaarskap word deur kriptografiese sleutels afgedwing.
 
 
+<!-- card: definition -->
 > **Definition – Privaat sleutel**
 >
 > 'n [privaat sleutel](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) is geheime inligting wat 'n beursie in staat stel om geldige [digitale handtekeninge](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) te skep. 'n Handtekening magtig die besteding van bitcoin wat deur die ooreenstemmende sleutel beheer word. Enigiemand wat die [privaat sleutel](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) bekom, kan gewoonlik daardie fondse bestee.
@@ -21,10 +22,10 @@ Die meeste beursies vir beginners gebruik [enkelhandtekeningmagtiging](https://c
 Geen wettige opvoeder, beursiemaatskappy, werknemer van 'n ruilplatform, tegniese ondersteuningswerker of Bitcoin-ontwikkelaar het u [privaat sleutel](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) of [saadfrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) nodig nie. Enigiemand wat daarvoor vra, moet as 'n bedreiging beskou word.
 
 
-> **Light**
->
+<!-- card: light -->
 > **Probeer dit:** Sorteer voorbereide voorbeelde in drie groepe: inligting wat veilig gedeel kan word om betalings te ontvang, geheime inligting vir die besteding van fondse, en inligting wat openbaar mag wees, maar steeds privaat gehou behoort te word wanneer dit aan 'n persoon gekoppel is.
 
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[’n Geheime privaat sleutel, wat nooit gedeel mag word nie, lei tot openbare inligting wat gedeel kan word: ’n publieke sleutel wat daarvan afgelei is en ’n ontvangsadres wat daaruit geskep is. Dieselfde privaat sleutel skep handtekeninge wat nodusse verifieer sonder om ooit die privaat sleutel te wete te kom.](/micrographics/private-key-public-info-01/af.md)

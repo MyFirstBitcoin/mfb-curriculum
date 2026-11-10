@@ -8,6 +8,7 @@ Ngang hàng không phải lúc nào cũng có nghĩa là chỉ hai máy tính gi
 
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[Người gửi ký một giao dịch và phát giao dịch đó đến nhiều nút mạng. Các nút chuyển tiếp giao dịch cho đến khi giao dịch đến được người nhận. Không cần đơn vị điều hành Bitcoin trung tâm nào phê duyệt người gửi hay người nhận.](/micrographics/peer-to-peer-route-01/vi.md)
 
 
 Người dùng vẫn có thể lựa chọn [các bên trung gian](https://curriculum.myfirstbitcoin.org/lexicon/en/#intermediary). Sàn giao dịch có thể giữ bitcoin cho khách hàng. Dịch vụ thanh toán có thể đơn giản hóa hóa đơn. Ví lưu ký có thể quản lý khóa. Những dịch vụ này có thể tiện lợi, nhưng khi đó người dùng phụ thuộc vào các quy định và mức độ bảo mật của dịch vụ.

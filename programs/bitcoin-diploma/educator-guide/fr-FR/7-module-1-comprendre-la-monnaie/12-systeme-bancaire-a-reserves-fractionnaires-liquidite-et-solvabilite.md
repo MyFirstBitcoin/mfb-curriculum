@@ -10,6 +10,7 @@ Dressez un bilan simplifié :
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Un prêt bancaire simplifié : l’emprunteur fait une demande, la banque approuve le prêt et crédite le compte de l’emprunteur d’un nouveau dépôt, puis l’emprunteur rembourse à la banque le capital et les intérêts.](/micrographics/bank-loan-deposit-01/fr-FR.md)
 
 
 N’utilisez pas un récit de « multiplicateur monétaire » fondé sur des dépôts physiques répétés comme s’il décrivait mécaniquement tous les systèmes bancaires modernes.
@@ -21,6 +22,7 @@ Distinguez :
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Risque de liquidité : de nombreux déposants font la queue pour retirer leurs fonds aujourd’hui, et la banque manque de liquidités à présent, même si les prêts qu’elle a accordés peuvent être remboursés plus tard. Risque d’insolvabilité : les emprunteurs ne remboursent plus leurs prêts immobiliers, et la valeur des actifs de la banque devient inférieure à ce qu’elle doit.](/micrographics/liquidity-vs-solvency-01/fr-FR.md)
 
 
 Posez les questions suivantes :

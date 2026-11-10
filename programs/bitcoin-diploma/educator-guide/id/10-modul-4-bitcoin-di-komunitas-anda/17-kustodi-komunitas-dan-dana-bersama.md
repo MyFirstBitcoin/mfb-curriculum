@@ -15,3 +15,4 @@ Jangan jadikan [kustodi komunitas](https://curriculum.myfirstbitcoin.org/lexicon
 
 
 <!-- micrographic: shared-funds-role-map-01 -->
+[Kontributor dan penerima manfaat bergantung pada siapa pun yang mengendalikan dana bersama. Kendali atas kunci, persetujuan pengeluaran, pencatatan, dan peninjauan merupakan peran yang terpisah; ketika satu orang memegang beberapa peran, kepercayaan menjadi terpusat, dan persoalan keberlanjutan, privasi, sengketa, serta status hukum masih perlu dijawab.](/micrographics/shared-funds-role-map-01/id.md)

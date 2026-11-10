@@ -1,6 +1,6 @@
 # Quiz – Cara Kerja Bitcoin: kuis singkat
 
-## Question 1
+## Pertanyaan 1
 
 Satu unit digital digunakan untuk membayar dua kali. Sistem harus:
 
@@ -9,11 +9,11 @@ Satu unit digital digunakan untuk membayar dua kali. Sistem harus:
 * [ ] Menaikkan harganya
 * [ ] Menghapus biaya
 
-### Explanation
+### Penjelasan
 
 Informasi digital dapat disalin, sehingga sistem uang harus mencegah unit yang sama dibelanjakan dua kali dan menentukan transaksi mana yang sah. Tinjau kembali Panduan Siswa, Modul 2, “Upaya awal pengembangan uang digital dan masalah pembelanjaan ganda.”
 
-## Question 2
+## Pertanyaan 2
 
 Desentralisasi Bitcoin berarti:
 
@@ -22,11 +22,11 @@ Desentralisasi Bitcoin berarti:
 * [ ] Penambang bebas mengubah aturan
 * [ ] Pengaruh yang sama bagi semua orang
 
-### Explanation
+### Penjelasan
 
 Bitcoin mendistribusikan verifikasi dan penegakan aturan di antara para peserta independen. Desentralisasi bukan berarti satu perusahaan mengendalikan jaringan atau semua orang memiliki pengaruh yang sama. Tinjau kembali Panduan Siswa, Modul 2, “Desentralisasi.”
 
-## Question 3
+## Pertanyaan 3
 
 Sebuah simpul Bitcoin:
 
@@ -35,11 +35,11 @@ Sebuah simpul Bitcoin:
 * [ ] Menyimpan bitcoin
 * [ ] Menjamin pembayaran
 
-### Explanation
+### Penjelasan
 
 Simpul secara independen memeriksa kepatuhan terhadap aturan Bitcoin dan menolak data yang tidak sah. Simpul tidak menciptakan bitcoin berdasarkan permintaan atau menyimpan bitcoin di dalam ponsel. Tinjau kembali Panduan Siswa, Modul 2, “Pengguna, simpul, dan penambang.”
 
-## Question 4
+## Pertanyaan 4
 
 Mengapa Bitcoin disebut uang yang sehat?
 
@@ -48,6 +48,6 @@ Mengapa Bitcoin disebut uang yang sehat?
 * [ ] Satu perusahaan mengendalikannya
 * [ ] Pembayarannya bersifat privat
 
-### Explanation
+### Penjelasan
 
 Sebagian orang menyebut Bitcoin sebagai uang yang sehat karena aturan pasokannya terbuka untuk umum dan penerbitannya terbatas. Ini adalah penilaian yang beralasan, bukan janji tentang harga atau privasi. Tinjau kembali Panduan Siswa, Modul 2, “Bitcoin sebagai uang digital yang sehat.”

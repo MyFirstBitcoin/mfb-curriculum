@@ -3,7 +3,8 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc)- und [No-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc)-Wege gehen unterschiedliche [Kompromisse](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) ein. Keine der beiden Bezeichnungen macht eine sorgfältige Prüfung überflüssig.
 
 
-> **Callout – Privatsphäre beseitigt keine rechtlichen Risiken und keine Risiken für die körperliche Sicherheit**
+<!-- card: callout -->
+> **Privatsphäre beseitigt keine rechtlichen Risiken und keine Risiken für die körperliche Sicherheit**
 >
 > Weder [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) noch [No-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) ist automatisch die beste Wahl. Vergleichen Sie den tatsächlichen Weg, ziehen Sie aktuelle lokale Orientierungshilfen heran, wenn die Regeln unklar sind, und verstoßen Sie weder gegen geltendes Recht, noch bringen Sie sich in körperliche Gefahr, um Ihre [Privatsphäre](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy) zu schützen.
 

@@ -1,6 +1,7 @@
 # Créer une classe sûre et participative
 
-> **Callout – Protégez les apprenants avant le début des activités pratiques**
+<!-- card: callout -->
+> **Protégez les apprenants avant le début des activités pratiques**
 >
 > Ne demandez, ne consultez, ne photographiez, ne copiez, n’enregistrez et ne conservez jamais de véritable phrase de récupération, clé privée ou mot de passe, ni d’informations financières superflues. Ne faites pression sur personne pour acheter, vendre, détenir ou utiliser du bitcoin. Faites une pause dès qu’un apprenant hésite, subit des pressions ou risque d’être victime d’une escroquerie.
 

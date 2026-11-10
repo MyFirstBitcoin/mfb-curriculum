@@ -8,6 +8,7 @@
 
 
 <!-- micrographic: presentation-practice-production-01 -->
+[Eine praktische Fähigkeit wird in drei Stufen erlernt, von links nach rechts: Präsentation, bei der die Lehrkraft den Ablauf und seine Risiken vorführt, dann Übung, angeleitetes Einüben mit sicheren Trainingsmaterialien, und schließlich Anwendung, bei der die Lernenden selbstständig eine Aufgabe erledigen oder eine Entscheidung erläutern.](/micrographics/presentation-practice-production-01/de.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/3d2cf07203a6fd4017e7adbac198e73b190e99cf-1881x836.svg)

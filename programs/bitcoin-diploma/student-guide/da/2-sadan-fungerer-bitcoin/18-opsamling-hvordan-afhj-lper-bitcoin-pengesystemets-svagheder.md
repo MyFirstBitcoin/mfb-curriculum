@@ -4,6 +4,7 @@ Stop op og overvej, hvordan offentlige regler, begrænset udstedelse, peer-to-pe
 
 
 <!-- micrographic: bitcoin-responses-tradeoffs-01 -->
+[En tabel, der sammenholder fem mulige svagheder ved moderne pengesystemer med Bitcoins svar og det nye ansvar eller den afvejning, hvert svar medfører. Bitcoin erstatter noget af tilliden til institutioner med verifikation og personligt ansvar, men fjerner ikke risiko.](/micrographics/bitcoin-responses-tradeoffs-01/da.md)
 
 
 **Vigtig overvejelse:** Ud fra det, De har lært om Bitcoin i dette modul, har det så [værdi](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) for Dem? Afspejler den aktuelle [pris](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) på bitcoin dets [værdi](https://curriculum.myfirstbitcoin.org/lexicon/en/#value)?

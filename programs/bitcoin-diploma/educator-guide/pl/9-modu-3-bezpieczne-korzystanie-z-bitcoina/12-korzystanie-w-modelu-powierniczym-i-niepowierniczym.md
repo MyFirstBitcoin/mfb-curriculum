@@ -20,3 +20,4 @@ Proszę nie traktować [samodzielnego przechowywania środków](https://curricul
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[W modelu powierniczym usługodawca kontroluje klucze i zatwierdza wydatki, więc saldo jest jego obietnicą. Przy samodzielnym przechowywaniu użytkownik kontroluje klucze i kopie zapasowe; oba modele wiążą się z zależnościami i ryzykiem niepowodzenia.](/micrographics/who-controls-keys-01/pl.md)

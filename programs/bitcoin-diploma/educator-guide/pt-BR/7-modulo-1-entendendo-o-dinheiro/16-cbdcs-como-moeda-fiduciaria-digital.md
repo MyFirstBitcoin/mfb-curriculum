@@ -12,6 +12,7 @@ Explique que uma [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) 
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[Uma tabela que compara dinheiro em espécie, depósitos bancários, uma CBDC de varejo e o Bitcoin quanto a quem os emite, sua forma, acesso, visibilidade, regras de emissão e verificação. Digital não é o mesmo que descentralizado: uma CBDC continua sendo emitida pelo banco central, e seu acesso, visibilidade e verificação dependem do seu modelo.](/micrographics/cbdc-comparison-table-01/pt-BR.md)
 
 
 [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) têm designs diferentes. Não afirme que toda [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) tem ou não tem determinado recurso. Diferencie o design local confirmado, a proposta publicada, o comentário e a especulação.

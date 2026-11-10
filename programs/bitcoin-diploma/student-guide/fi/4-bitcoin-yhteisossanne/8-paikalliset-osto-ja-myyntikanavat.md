@@ -24,6 +24,7 @@ Kun käytte kauppaa kasvotusten, käyttäkää julkista ja tarkoitukseen sopivaa
 
 
 <!-- micrographic: compare-local-pathways-01 -->
+[Tyhjä taulukko kolmen paikallisen vaihtoehdon, A:n, B:n ja C:n, vertailuun nimen, KYC-vaatimusten, säilytysmallin, tuettujen verkkojen, maineen ja varojen siirtotapojen perusteella. Taulukossa on myös tilaa muistiinpanoille.](/micrographics/compare-local-pathways-01/fi.md)
 
 
 

@@ -20,3 +20,4 @@ Hãy sử dụng các tình huống có hướng dẫn thay vì gán nhãn ngư�
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[Khi sử dụng hình thức lưu ký, dịch vụ kiểm soát các khóa và phê duyệt việc chi tiêu, vì vậy số dư là lời cam kết của dịch vụ. Khi sử dụng hình thức tự lưu ký, người dùng kiểm soát các khóa và bản sao lưu; cả hai hình thức đều có những yếu tố phụ thuộc và rủi ro gặp sự cố.](/micrographics/who-controls-keys-01/vi.md)

@@ -10,6 +10,7 @@ W Państwa lokalnym **module 4** ćwiczenie pomoże Państwu:
 
 
 <!-- micrographic: local-module-four-actions-01 -->
+[W module 4, dostosowanym do lokalnych warunków, osoba ucząca się wykonuje cztery działania: wiąże koncepcję z modułów od 1 do 3 z lokalną potrzebą, porównuje Bitcoina z realistyczną, istniejącą opcją, bezpiecznie ćwiczy pod kierunkiem osoby prowadzącej oraz wyjaśnia, czego się nauczyła i jaki będzie odpowiedzialny kolejny krok. Przez cały ten proces wspiera ją osoba prowadząca zajęcia, a czasem także lokalny ekspert.](/micrographics/local-module-four-actions-01/pl.md)
 
 
 W ramach ćwiczenia mogą Państwo rozważyć takie pytania jak:

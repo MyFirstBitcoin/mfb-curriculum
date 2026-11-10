@@ -16,6 +16,7 @@ Explique que uma mensagem ou captura de tela dizendo “enviado” não é prova
 
 
 <!-- micrographic: check-what-you-receive-01 -->
+[Uma tela de recebimento de exemplo em um celular mostra o método de pagamento, a solicitação de pagamento a ser compartilhada, o valor e um status pendente. Uma mensagem ou captura de tela dizendo "enviado" não é prova: verifique o status na sua própria carteira.](/micrographics/check-what-you-receive-01/pt-BR.md)
 
 
 #### Prática: passo a passo da tela de recebimento

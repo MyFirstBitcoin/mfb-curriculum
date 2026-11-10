@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[Odbiorca tworzy na swoim telefonie żądanie płatności Lightning z określoną kwotą, nadawca skanuje je i płaci, a płatność dociera na telefon odbiorcy chwilę później.](/micrographics/lightning-phone-payment-01/pl.md)
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Płatność w sieci Lightning w sześciu krokach: odbiorca tworzy żądanie, nadawca je skanuje, sprawdza odbiorcę, kwotę, jednostkę, termin ważności i opłatę, zatwierdza płatność, płatność jest przesyłana przez sieć, a oba portfele pokazują wynik. Każdy portfel może być powierniczy lub niepowierniczy, a jeśli płatność się nie powiedzie lub żądanie wygaśnie, proces rozpoczyna się od nowa, od utworzenia nowego żądania.](/micrographics/lightning-payment-sequence-01/pl.md)
 
 
 Lightning umożliwia praktyczne wykorzystanie szybkich, drobnych płatności w sieci Bitcoin. Może sprawdzić się przy kasie w sklepie, przy regularnych płatnościach lokalnych, w usługach internetowych lub przy przelewach, w których opłata za transakcję on-chain byłaby zbyt wysoka w stosunku do kwoty płatności.

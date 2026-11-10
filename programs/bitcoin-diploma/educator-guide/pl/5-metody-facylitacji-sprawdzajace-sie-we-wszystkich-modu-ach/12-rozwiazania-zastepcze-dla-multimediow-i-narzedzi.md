@@ -24,6 +24,7 @@ Nauczanie i ocenianie offline są pełnoprawnymi metodami. Przy ograniczonym dos
 
 
 <!-- micrographic: same-competency-any-route-01 -->
+[Narzędzia online, symulacje na papierze i zatwierdzone ścieżki dostosowane do potrzeb mogą wspierać rozwój tej samej kompetencji, jeśli osoba ucząca się nadal podejmuje wymagane decyzje, a osoba nauczająca może ocenić równoważne dowody opanowania kompetencji. Jeśli nie ma równoważności, proszę przygotować inną ścieżkę przed certyfikacją.](/micrographics/same-competency-any-route-01/pl.md)
 
 
 Podręcznik dla uczestników wyjaśnia pojęcia o trwałym znaczeniu. Przed przedstawieniem informacji o opłatach, przepisach, podatkach, dostępnych usługach, funkcjach portfeli lub wykazach punktów handlowo-usługowych proszę zweryfikować aktualne dane lokalne i opatrzyć wykorzystywane informacje datą.

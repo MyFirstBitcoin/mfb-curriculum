@@ -12,6 +12,7 @@ Korzystając z przygotowanego [_txid_](https://curriculum.myfirstbitcoin.org/lex
 
 
 <!-- micrographic: confirmation-timeline-01 -->
+[Niepotwierdzona transakcja czeka w puli transakcji oczekujących, następnie zostaje uwzględniona w bloku N, co stanowi jej pierwsze potwierdzenie, a każdy kolejny blok dodaje jeszcze jedno.](/micrographics/confirmation-timeline-01/pl.md)
 
 
 Następnie proszę zapytać:

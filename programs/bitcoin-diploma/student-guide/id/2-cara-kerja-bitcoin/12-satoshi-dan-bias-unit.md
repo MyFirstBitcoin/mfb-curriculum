@@ -14,6 +14,7 @@ Saat membandingkan [harga](https://curriculum.myfirstbitcoin.org/lexicon/en/#pri
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Tabel dua kolom: 1 BTC setara dengan 100.000.000 sats, 0,1 BTC setara dengan 10.000.000 sats, 0,01 BTC setara dengan 1.000.000 sats, 0,001 BTC setara dengan 100.000 sats, dan 0,00000001 BTC setara dengan 1 sat.](/micrographics/bitcoin-and-sats-01/id.md)
 
 
 **Tunjukkan pemahaman Anda:** Berapa [sat](https://curriculum.myfirstbitcoin.org/lexicon/en/#satoshi) yang terdapat dalam 0,01 BTC? Mengapa [harga](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) satu bitcoin utuh tidak menghalangi seseorang untuk menggunakan jumlah yang lebih kecil?

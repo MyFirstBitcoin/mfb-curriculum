@@ -4,6 +4,7 @@ Sebuah [**ekonomi kitaran Bitcoin**](https://curriculum.myfirstbitcoin.org/lexic
 
 
 <!-- micrographic: local-circular-economy-01 -->
+[Dalam ekonomi kitaran Bitcoin, bitcoin berpindah daripada seorang kepada seorang yang lain sebagai pertukaran untuk barangan, perkhidmatan dan masa. Pelanggan membayar peniaga, peniaga membayar penyedia perkhidmatan, penyedia perkhidmatan membayar pekerja, dan pekerja membelanjakannya semula sebagai pelanggan.](/micrographics/local-circular-economy-01/ms.md)
 
 
 My First Bitcoin menyokong [ekonomi kitaran Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-circular-economy), dan banyak daripadanya merupakan sebahagian daripada Rangkaian Pendidikan Bitcoin. Terokai komuniti ini melalui [Papan Pemuka Rangkaian](https://network.myfirstbitcoin.org/?min10merchants=1).

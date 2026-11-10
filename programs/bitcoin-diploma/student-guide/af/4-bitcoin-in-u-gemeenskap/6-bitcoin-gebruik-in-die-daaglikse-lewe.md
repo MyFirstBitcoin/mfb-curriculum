@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: daily-bitcoin-uses-01 -->
+[Sewe verskillende maniere waarop Bitcoin in die daaglikse lewe gebruik kan word: verdien, spaar, ontvang, stuur, bestee, skenk, en prysbepaling en rekeningkunde. Elkeen is 'n moontlike gebruik, nie 'n vereiste stap nie.](/micrographics/daily-bitcoin-uses-01/af.md)
 
 
 Bitcoin kan op verskeie maniere as geld funksioneer. Besteding is slegs een daarvan.

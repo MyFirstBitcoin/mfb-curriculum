@@ -1,6 +1,7 @@
 # 6.4 Tidak Ada Rahasia Sungguhan di Kelas
 
-> **Callout – Tidak boleh ada rahasia asli di kelas**
+<!-- card: callout -->
+> **Tidak boleh ada rahasia asli di kelas**
 >
 > Gunakan kata-kata pemulihan yang telah disiapkan, materi latihan yang diberi tanda dengan jelas, atau dompet kosong sekali pakai untuk latihan pemulihan. Jangan pernah menggunakan dompet pribadi peserta didik atau dompet yang berisi dana, ataupun membuat proses yang memungkinkan siapa pun melihat informasi pemulihan yang tetap berlaku.
 >

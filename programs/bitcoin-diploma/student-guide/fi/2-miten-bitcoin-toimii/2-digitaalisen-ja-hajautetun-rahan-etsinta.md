@@ -3,6 +3,7 @@
 Henkilökohtaisten tietokoneiden ja internetin yleistyminen loi uusia viestintämahdollisuuksia. Se loi myös uusia valvonnan ja kontrollin muotoja. 1900-luvun lopulla ohjelmoijien, matemaatikkojen ja aktivistien ryhmä nimeltä [**Cypherpunks**](https://curriculum.myfirstbitcoin.org/lexicon/en/#cypherpunk) tutki, miten [kryptografia](https://curriculum.myfirstbitcoin.org/lexicon/en/#cryptography) voisi suojata [yksityisyyttä](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy) ja yksilönvapautta digitaalisissa järjestelmissä.
 
 
+<!-- card: definition -->
 > **Definition – Kryptografia**
 >
 > [Kryptografia](https://curriculum.myfirstbitcoin.org/lexicon/en/#cryptography) käyttää matemaattisia menetelmiä tiedon suojaamiseen ja toiminnan aitouden todistamiseen. [Salaus](https://curriculum.myfirstbitcoin.org/lexicon/en/#encryption) voi pitää viestin yksityisenä. [Digitaaliset allekirjoitukset](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) voivat todistaa, että viesti tai ohje on peräisin salaisen avaimen haltijalta, paljastamatta itse avainta.
@@ -16,3 +17,4 @@ Bitcoin rakentui monien ihmisten vuosikymmeniä kestäneen työn pohjalle. Sen t
 
 
 <!-- micrographic: chain-of-ideas-01 -->
+[Ideoiden ketju: kryptografia johti digitaalisen käteisen tutkimukseen, joka puolestaan johti kohti hajautettua digitaalista rahaa. Bitcoin yhdisti uudella tavalla monien ihmisten vuosikymmenten aikana tekemän aiemman työn.](/micrographics/chain-of-ideas-01/fi.md)

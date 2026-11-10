@@ -8,6 +8,7 @@ En trygg øvelse i å være forberedt på gjenoppretting er enkel:
 
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[En øvelse i seks trinn for å gjenopprette en øvingslommebok: følg de offisielle instruksjonene, kontroller kompatibiliteten, arbeid skjermet, bruk den godkjente gjenopprettingsmetoden, bekreft at lommeboken er den forventede, og tilbakestill deretter. Bruk kun klargjort, tomt eller simulert materiale. Underviseren får aldri se gjenopprettingsordene.](/micrographics/practice-wallet-recovery-01/nb.md)
 
 
 Ikke bruk en øvingslommebok eller den tilhørende gjenopprettingsinformasjonen til å sikre betydelige beløp etter diplomkurset. Hvis De velger å opprette en personlig lommebok senere, trenger den et nytt, privat oppsett og ny gjenopprettingsinformasjon.

@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: four-module-diploma-01 -->
+[The Bitcoin Diploma follows four stages in order: Problem, Solution, Action and Connect.](/micrographics/four-module-diploma-01/en.md)
 
 
 **Module 4** is required Bitcoin Diploma learning, curated by educators as the local subject-matter experts. The scenario or tool may change, but every learner seeking certification must meet `C7` through a local activity that covers the purpose of `C7.1` and `C7.2`.

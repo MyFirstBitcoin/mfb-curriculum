@@ -3,6 +3,7 @@
 Az erőforrások korlátozottak, az emberi vágyak viszont nem.
 
 
+<!-- card: definition -->
 > **Definition – Szűkösség**
 >
 > [A szűkösség](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) azt jelenti, hogy egy erőforrás egyik felhasználási módjának választása kizár egy másik felhasználási módot. Az idő, a föld, az energia, a jó egészség, az eszközök és az [értékálló pénz](https://curriculum.myfirstbitcoin.org/lexicon/en/#sound-money) mind szűkösen állnak rendelkezésre.
@@ -14,6 +15,7 @@ Az [érték](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) nem magáb
 
 
 <!-- micrographic: same-water-different-value-01 -->
+[Ugyanaz a palack tiszta víz olcsó egy üzlet hűtőjében, ahol könnyen található víz, és sokkal értékesebb egy forró sivatagban vízhiány idején. A hozzáférhetőség, a szükséglet és a körülmények megváltoztatják az értéket és az árat.](/micrographics/same-water-different-value-01/hu.md)
 
 
 Csere akkor jön létre, ha mindkét fél többre tartja azt, amit kap, annál, amiről lemond. Nem kell egyetérteniük abban, hogy a két dolognak számukra azonos [értéke van](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Csupán a feltételekben kell megállapodniuk.
@@ -26,6 +28,7 @@ Három fogalom segít megérteni a mindennapi döntéseket:
 
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Egy szűkös pénzkeretből gazdálkodó vásárló szemügyre veszi az előtte álló lehetőségeket: élelmiszer mára, közlekedés vagy megtakarítás későbbre. Az egyik kiválasztása a többiről való lemondással jár, ami az alternatív költséget jelenti, és egyik lehetőség sincs helyesként megjelölve.](/micrographics/one-choice-two-uses-01/hu.md)
 
 
 [A szűkösség](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) önmagában nem garantál [értéket](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Egy dolog lehet ritka úgy is, hogy nincs rá kereslet. Egy hasznos monetáris [eszköz](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) a korlátozott kínálatot olyan tulajdonságokkal és kereslettel ötvözi, amelyek miatt az emberek hajlandók tartani vagy elcserélni azt.

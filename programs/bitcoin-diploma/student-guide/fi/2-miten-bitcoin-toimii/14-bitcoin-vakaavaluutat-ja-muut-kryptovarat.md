@@ -7,8 +7,7 @@ Kun vertailette mitä tahansa [digitaalista omaisuuserää](https://curriculum.m
 Alla oleva vertailu erottelee luokkia ja suunnitteluratkaisuja. Se ei ole puoltava kannanotto, suositus eikä väite siitä, että jokin [omaisuuserä](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) olisi turvallinen, luotettava tai teille sopiva.
 
 
-> **Dark**
->
+<!-- card: dark -->
 > Huijaukset, harhaanjohtavat väitteet ja turvattomat palvelut voivat koskea mitä tahansa [digitaalista omaisuuserää](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-asset) tai maksureittiä. Tarkistakaa kyseinen [omaisuuserä](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset), palvelu ja [säilytysjärjestely](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) sen sijaan, että olettaisitte jonkin luokan olevan itsessään turvallinen tai turvaton.
 
 

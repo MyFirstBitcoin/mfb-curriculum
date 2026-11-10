@@ -13,6 +13,5 @@ Para sa isang taong pumipili ng [sariling pangangalaga](https://curriculum.myfir
 [Ang sariling pangangalaga](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) ay samakatuwid hindi lamang isang teknikal na katangian. Nangangailangan ito ng pagprotekta sa mga backup, pagberipika ng mga address, pagsusuri sa paggana ng wallet, at pagbuo ng plano sa pagbawi ng access. Ipinapaliwanag ng susunod na modyul kung paano maingat na mag-imbak at gumamit ng bitcoin, kabilang ang kung paano pamahalaan ang mga panganib at pananagutang ito.
 
 
-> **Light**
->
+<!-- card: light -->
 > Ang personal na pananagutan ay hindi nangangahulugang pagkilos nang mag-isa o pagtanggi sa tulong. Maaaring gumamit ang isang maingat na mag-aaral ng edukasyon, pagsusuri ng mga kapwa mag-aaral, mga dokumentadong pamamaraan, at maliliit na pagsubok nang hindi binibigyan ang sinuman ng access sa lihim na impormasyon.

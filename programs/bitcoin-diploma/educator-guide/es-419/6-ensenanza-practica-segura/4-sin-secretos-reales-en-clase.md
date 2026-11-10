@@ -1,6 +1,7 @@
 # 6.4 Sin secretos reales en clase
 
-> **Callout – Nada de secretos reales en clase**
+<!-- card: callout -->
+> **Nada de secretos reales en clase**
 >
 > Utilice palabras de recuperación preparadas, material de capacitación claramente identificado o una billetera vacía y desechable para practicar la recuperación. Nunca utilice una billetera personal o con fondos de un estudiante, ni cree un proceso en el que alguien pueda ver información de recuperación que siga siendo válida después de la práctica.
 >

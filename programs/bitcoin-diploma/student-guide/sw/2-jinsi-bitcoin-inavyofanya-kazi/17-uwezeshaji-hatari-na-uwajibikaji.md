@@ -13,6 +13,5 @@ Kwa mtu anayechagua [kujihifadhia mwenyewe](https://curriculum.myfirstbitcoin.or
 [Kujihifadhia mwenyewe](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) kwa hiyo si kipengele cha kiufundi tu. Kunahitaji kulinda nakala za akiba, kuthibitisha anwani, kukagua tabia ya pochi, na kuandaa mpango wa urejeshaji. Moduli inayofuata inaeleza jinsi ya kuhifadhi na kutumia bitcoin kwa uangalifu, ikiwa ni pamoja na jinsi ya kudhibiti hatari na majukumu haya.
 
 
-> **Light**
->
+<!-- card: light -->
 > Uwajibikaji binafsi haumaanishi kutenda peke yake au kukataa msaada. Mwanafunzi mwenye tahadhari anaweza kutumia elimu, mapitio ya wenzake, taratibu zilizoandikwa, na majaribio madogo bila kumpa mtu yeyote ufikiaji wa taarifa za siri.

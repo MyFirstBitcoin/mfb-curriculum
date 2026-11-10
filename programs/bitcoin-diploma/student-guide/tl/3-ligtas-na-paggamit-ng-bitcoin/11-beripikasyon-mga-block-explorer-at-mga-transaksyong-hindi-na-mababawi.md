@@ -1,5 +1,6 @@
 # 3.11 Beripikasyon, mga block explorer, at mga transaksyong hindi na mababawi
 
+<!-- card: definition -->
 > **Definition – ID ng transaksyon at block explorer**
 >
 > Ang [ID ng transaksyon](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction-id) ([_txid_](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction-id)) ay tumutukoy sa isang on-chain na [transaksyon](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction). Ang isang [block explorer](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-explorer) ay nagpapakita ng pampublikong datos ng Bitcoin, halimbawa, para sa isang [transaksyon](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), ang katayuan at bilang ng [kumpirmasyon](https://curriculum.myfirstbitcoin.org/lexicon/en/#confirmation) nito. Kapaki-pakinabang ito sa pagtingin ng datos, ngunit hindi ito awtoridad sa Bitcoin at hindi rin patunay ng pagkakakilanlan o katapatan ng tatanggap.
@@ -10,13 +11,15 @@ Ano ang maipapakita ng pampublikong impormasyong ito, at ano ang hindi nito maip
 Upang suriin ang isang inihandang [transaksyon](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), kunin ang [_txid_](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction-id) nito, magbukas ng isang pinagkakatiwalaang explorer para sa nilalayong [network ng Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network), at suriin ang katayuan, destinasyon, halaga, bayad sa transaksyon, at mga [kumpirmasyon](https://curriculum.myfirstbitcoin.org/lexicon/en/#confirmation). Ang explorer ay isang interface lamang. Ang paghahanap ng isang address o [_txid_](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction-id) ay maaaring magpabatid sa operator nito na interesado ang inyong device sa impormasyong iyon. Para sa pagsasanay, gumamit ng isang inihanda ng tagapagturo na [transaksyon](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) o naka-print na screenshot. Huwag hanapin ang personal na address o [transaksyon](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) ng isang mag-aaral sa isang pampublikong serbisyo. Kung magsasaliksik kayo tungkol sa isang personal na pagbabayad sa hinaharap, unawain ang mga epekto sa [pagkapribado](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy) at seguridad ng mga [kapalit na pakinabang at panganib](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) ng inyong koneksyon bago gumamit ng isang pampublikong serbisyo.
 
 
-> **Callout – Ang pampublikong datos ay hindi patunay ng pagkakakilanlan o katapatan**
+<!-- card: callout -->
+> **Ang pampublikong datos ay hindi patunay ng pagkakakilanlan o katapatan**
 >
 > Ang [block explorer](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-explorer) ay maaaring magpakita ng pampublikong [pangtransaksiyong](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) datos, ngunit hindi nito mapatutunayan kung sino ang kumokontrol sa isang address, kung bakit naganap ang isang pagbabayad, o kung mapagkakatiwalaan ang isang tatanggap. Gumamit po kayo ng mga inihandang halimbawa para sa pagsasanay at pangalagaan ang [pagkapribado](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy) kapag naghahanap sa mga pampublikong serbisyo.
 
 
 
 <!-- micrographic: confirmation-timeline-01 -->
+[Naghihintay ang isang transaksiyon na wala pang kumpirmasyon sa kalipunan ng mga nakabinbing transaksiyon, pagkatapos ay isinasama ito sa Bloke N bilang unang kumpirmasyon nito, at bawat kasunod na bloke ay nagdaragdag ng isa pang kumpirmasyon.](/micrographics/confirmation-timeline-01/tl.md)
 
 
 ![Tinatalakay ng tagapagturo at ng mas nakatatandang mag-aaral ang isang inihandang halimbawa sa monitor na nakaharap sa grupo habang ginagamit ng mag-aaral na may kaalamang teknikal ang mouse; nakikita ng tumitingin ang likurang kaha ng monitor.](https://cdn.sanity.io/images/vje9ehw2/production/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)

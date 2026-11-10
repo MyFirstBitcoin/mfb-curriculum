@@ -5,6 +5,7 @@ Folk har ulike ferdigheter, ressurser, behov og planer. Bytte gjør det mulig fo
 Direkte bytte er ofte vanskelig. Personen som har det De trenger, ønsker kanskje ikke det De tilbyr. Penger løser dette koordineringsproblemet.
 
 
+<!-- card: definition -->
 > **Definition – Penger**
 >
 > Penger er en [eiendel](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) som folk aksepterer fordi de forventer at andre vil akseptere den senere. Penger hjelper fremmede med å koordinere bytte, registrere [priser](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) og [gjeld](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt), og flytte [verdi](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) på tvers av tid og avstand.

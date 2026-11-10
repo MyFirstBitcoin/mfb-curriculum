@@ -11,6 +11,7 @@ Bitcoin war nicht der erste Versuch, digitales Geld zu schaffen. Es baute auf vi
 Zusammen lieferten diese Experimente nützliche Teile des Puzzles. Sie machten zugleich deutlich, welches Problem noch ungelöst war.
 
 
+<!-- card: definition -->
 > **Definition – Doppelausgaben**
 >
 > [Doppelausgabe (Double Spending)](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending) ist der Versuch, dieselbe digitale Einheit an zwei Empfänger zu senden. Digitale Daten lassen sich perfekt kopieren, daher braucht ein digitales Geldsystem eine Möglichkeit festzustellen, welche [Transaktion](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) gültig ist.
@@ -28,6 +29,7 @@ Das Whitepaper vereinte die für diesen Ansatz erforderlichen Merkmale:
 
 
 <!-- micrographic: five-part-response-01 -->
+[Fünf Bestandteile wirken zusammen, um das Double-Spending-Problem zu lösen: ein Peer-to-Peer-Netzwerk, digitale Signaturen, Blöcke und Mining, unabhängige Überprüfung sowie eine gemeinsame Historie mit dem meisten akkumulierten Proof of Work. Gemeinsam ermöglichen sie es dem Netzwerk, eine zweite Ausgabe ohne zentrale Instanz abzulehnen.](/micrographics/five-part-response-01/de.md)
 
 
 Dieses Modul erklärt diese Konzepte ausführlicher. Gemeinsam lieferten sie eine praktische Antwort auf das [Double-Spend-Problem](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): Das Netzwerk kann einen zweiten Versuch, denselben bitcoin auszugeben, ablehnen, ohne auf eine zentrale Instanz angewiesen zu sein. Bitcoin bot die fehlende Kombination, nach der jahrzehntelange Experimente mit digitalem Geld gesucht hatten.

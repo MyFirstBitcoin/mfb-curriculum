@@ -4,6 +4,7 @@ Vysvětlete [cenovou inflaci](https://curriculum.myfirstbitcoin.org/lexicon/en/#
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Za stejných 100 jednotek měny si můžete koupit celý koš základního zboží, když stojí 100, ale ne tehdy, když stejný koš stojí 110. Cenová hladina vzrostla a kupní síla peněz klesla.](/micrographics/same-money-smaller-basket-01/cs.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)

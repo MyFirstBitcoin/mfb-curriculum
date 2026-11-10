@@ -29,3 +29,4 @@ Denne aktivitet gør en offentlig transaktionsbogs [privatlivsbeskyttelse](https
 
 
 <!-- micrographic: address-reuse-linkage-01 -->
+[Flere fiktive kvitteringer deler én genbrugt adresse og kan nemt forbindes med hinanden. Nye modtageradresser mindsker denne direkte forbindelse, men eksterne oplysninger og søgninger i blokudforskere kan stadig afsløre sammenhænge, og offentlige data beviser ikke i sig selv en persons identitet.](/micrographics/address-reuse-linkage-01/da.md)

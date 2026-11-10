@@ -7,8 +7,7 @@ Wanneer u enige [digitale bate](https://curriculum.myfirstbitcoin.org/lexicon/en
 Die vergelyking hieronder onderskei tussen kategorieë en ontwerpkeuses. Dit is nie 'n onderskrywing, aanbeveling of bewering dat enige [bate](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) veilig, betroubaar of geskik vir u is nie.
 
 
-> **Dark**
->
+<!-- card: dark -->
 > Bedrog, misleidende bewerings en onveilige dienste kan enige [digitale bate](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-asset) of betaalroete raak. Ondersoek die spesifieke [bate](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset), diens en [bewaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) daarvan eerder as om aan te neem dat 'n kategorie op sigself veilig of onveilig is.
 
 

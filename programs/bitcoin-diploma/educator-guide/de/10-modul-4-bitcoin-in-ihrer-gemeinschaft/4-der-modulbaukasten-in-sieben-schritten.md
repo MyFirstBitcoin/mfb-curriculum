@@ -1,6 +1,7 @@
 # 10.4 Der Modulbaukasten in sieben Schritten
 
 <!-- micrographic: seven-step-module-builder-01 -->
+[Sieben Planungsschritte führen vom lokalen Kontext und Bedarf zu einer fokussierten, geprüften Aufgabe, einem sicheren Unterrichtsablauf, einer klaren Bewertung und einer Nachbesprechung. Die bestehende Alternative bleibt im Blick, und eine ungeeignete Option führt zurück zur Planung.](/micrographics/seven-step-module-builder-01/de.md)
 
 
 #### 1. Den lokalen Kontext kennenlernen

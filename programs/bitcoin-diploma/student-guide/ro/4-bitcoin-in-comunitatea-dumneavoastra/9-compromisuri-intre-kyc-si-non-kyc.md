@@ -3,7 +3,8 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) și [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) sunt modalități care implică diferite [compromisuri](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Niciuna dintre aceste etichete nu elimină necesitatea unei evaluări atente.
 
 
-> **Callout – Confidențialitatea nu elimină riscurile juridice sau cele pentru siguranța fizică**
+<!-- card: callout -->
+> **Confidențialitatea nu elimină riscurile juridice sau cele pentru siguranța fizică**
 >
 > Nici [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc), nici [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) nu este automat cea mai bună opțiune. Comparați modalitățile concrete, solicitați îndrumări locale actualizate când regulile sunt neclare și nu încălcați legislația locală și nu vă expuneți pericolelor fizice în căutarea [confidențialității](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 

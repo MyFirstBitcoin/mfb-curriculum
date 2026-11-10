@@ -6,6 +6,7 @@ Bitcoin kombinerar egenskaper som tidigare inte har funnits tillsammans i en och
 
 
 <!-- micrographic: bitcoin-money-properties-01 -->
+[Bitcoin förenar sju egenskaper hos pengar i en enda tillgång: beständighet, portabilitet, delbarhet, fungibilitet, knapphet, verifierbarhet och acceptans. Varje egenskap har praktiska begränsningar, till exempel behovet av att förvara nycklar säkert och att acceptansen fortfarande är låg i många samhällen.](/micrographics/bitcoin-money-properties-01/sv.md)
 
 
 

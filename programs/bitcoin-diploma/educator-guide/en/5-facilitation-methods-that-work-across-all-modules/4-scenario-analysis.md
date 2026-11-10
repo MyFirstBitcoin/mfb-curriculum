@@ -14,3 +14,4 @@ Change one condition after the first answer. For example: the internet fails, th
 
 
 <!-- micrographic: scenario-analysis-path-01 -->
+[A fictional scenario moves from the person's goal and verified facts to who has control, the options, what could fail and the smallest safe next step. Changing one condition sends the reasoning back to the decision it affects.](/micrographics/scenario-analysis-path-01/en.md)

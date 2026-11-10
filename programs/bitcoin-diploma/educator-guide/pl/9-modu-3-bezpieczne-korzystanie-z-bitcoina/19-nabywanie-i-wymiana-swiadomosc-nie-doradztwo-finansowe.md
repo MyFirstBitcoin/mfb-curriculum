@@ -24,6 +24,7 @@ Dla każdego sposobu proszę zadać następujące pytania:
 
 
 <!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Jedna osoba może otrzymać bitcoiny na cztery różne sposoby: zarabiając je poprzez pracę lub sprzedaż, wymieniając gotówkę w lokalnej walucie z inną osobą, korzystając z giełdy lub brokera albo z bitomatu. Każda z tych dróg kończy się samodzielnym przechowywaniem lub saldem u powiernika i żadna nie jest zalecana bardziej niż pozostałe.](/micrographics/ways-to-receive-bitcoin-01/pl.md)
 
 
 Proszę używać określenia [**no-KYC**](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) konsekwentnie w odniesieniu do sposobu, w którym zbiera się mniej standardowych danych dotyczących tożsamości lub nie zbiera się ich wcale. Proszę nie sugerować, że [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) eliminuje ryzyko oszustwa, ryzyko prawne, ryzyko związane z kontrahentem lub ryzyko dla bezpieczeństwa fizycznego. Proszę nie doradzać obchodzenia lokalnego prawa.

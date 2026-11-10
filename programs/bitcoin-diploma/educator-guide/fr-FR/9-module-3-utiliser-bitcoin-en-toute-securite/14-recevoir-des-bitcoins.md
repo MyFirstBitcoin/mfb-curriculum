@@ -16,6 +16,7 @@ Expliquez qu’un message ou une capture d’écran indiquant « envoyé » ne
 
 
 <!-- micrographic: check-what-you-receive-01 -->
+[Un exemple d’écran de réception sur un téléphone affiche la méthode de paiement, la demande de paiement à partager, le montant et le statut « En attente ». Un message ou une capture d’écran indiquant « envoyé » n’est pas une preuve : vérifiez le statut dans votre propre portefeuille.](/micrographics/check-what-you-receive-01/fr-FR.md)
 
 
 #### Exercice pratique : découverte guidée de l’écran de réception

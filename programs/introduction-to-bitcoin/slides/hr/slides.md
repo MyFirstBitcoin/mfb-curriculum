@@ -40,7 +40,8 @@ Ne zarađivati ga, ne trošiti ga, već razmišljati o tome što je i kako funkc
 * Možete li svojim novcem kupiti jednaku količinu kao prije?
 
 
-> **Callout – Sačuvajte svoje odgovore**
+<!-- card: callout -->
+> **Sačuvajte svoje odgovore**
 >
 > Napišite kratak odgovor na svako pitanje. Na kraju ćete se vratiti na svoje odgovore.
 
@@ -85,6 +86,7 @@ Obje osobe moraju željeti ono što druga ima, u isto vrijeme i u odgovarajućim
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina ima rižu i želi cipele, Luis ima cipele i želi jestivo ulje, a Mei ima jestivo ulje i želi usluge popravka. Nijedan par ne može izravno razmjenjivati dobra jer nijedna osoba u paru ne želi ono što druga nudi.](/micrographics/barter-mismatch-01/hr.md)
 
 <!-- notes: Poslužite se primjerom iz vodiča: uzgajate rižu i trebaju vam cipele, ali postolar želi jestivo ulje, a ne rižu. Ekonomisti to nazivaju dvostrukom podudarnošću želja. -->
 
@@ -151,6 +153,7 @@ Kad ljudi čuju riječ inflacija, obično pomisle na rast cijena.
 ## Inflacija i kupovna moć
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Istih 100 novčanih jedinica dovoljno je za kupnju cijele košarice osnovnih dobara kada ona košta 100, ali ne i kada ista košarica košta 110. Razina cijena porasla je, a kupovna moć novca pala je.](/micrographics/same-money-smaller-basket-01/hr.md)
 
 <!-- notes: Inflacija cijena jest trajan rast opće razine cijena. Njezina je druga strana kupovna moć: koliko se može kupiti jednom novčanom jedinicom. Ako cijena košarice osnovnih dobara poraste sa 100 novčanih jedinica na 110, istih 100 jedinica više nije dovoljno za kupnju cijele košarice. -->
 
@@ -213,8 +216,7 @@ Stanje na bankovnom računu razlikuje se od gotovine u vašoj ruci: ono je obeć
 * No njegova se ponuda i pravila mogu mijenjati, a ljudi koji ga koriste imaju malo utjecaja na to
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Zato ljudi traže alternative i zato je stvoren Bitcoin.
 
 ---
@@ -233,6 +235,7 @@ Digitalni novac koji je decentraliziran, ima ograničenu ponudu i može se slati
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Kod tvrtke za platni promet jedna organizacija vodi glavnu knjigu i odobrava svaki prijenos. Kod Bitcoina pošiljatelj potpisuje transakciju, neovisni čvorovi je provjeravaju, a rudari je dodaju u jednu zajedničku glavnu knjigu, pa primatelj manje ovisi o središnjem tijelu.](/micrographics/central-ledger-vs-bitcoin-01/hr.md)
 
 <!-- notes: Prije Bitcoina slanje novca putem interneta uvijek je ovisilo o pouzdanoj organizaciji: banci ili tvrtki za platne usluge koja je vodila glavnu knjigu, odobravala račune i mogla odgoditi, blokirati ili poništiti plaćanje. Digitalne informacije lako je kopirati: kada bi se digitalni novčić mogao potrošiti dvaput, ne bi mogao funkcionirati kao novac. To je problem dvostruke potrošnje. Satoshi Nakamoto je osoba ili skupina koja se služi tim imenom. -->
 
@@ -253,6 +256,7 @@ Nijedna tvrtka ne može zamrznuti bitcoin kojim sami upravljate. Druga strana te
 ## Ograničenje koje svatko može provjeriti
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Ograničenje ponude zapisano na mrežnoj stranici ili u bazi podataka izdavatelja taj izdavatelj može neprimjetno promijeniti. Pravilo o ponudi Bitcoina javno je, a potpisi, javna povijest, dokaz rada i provjera koju provode čvorovi zajedno sprječavaju stvaranje novih kovanica mimo pravila ili trošenje istog bitcoina dvaput.](/micrographics/claimed-or-verified-supply-01/hr.md)
 
 <!-- notes: Novi bitcoini puštaju se u optjecaj prema javno poznatom rasporedu, a neovisna računala koja se nazivaju čvorovima odbacuju svaki blok koji krši to pravilo. Ograničenje je vjerodostojno jer ga svatko može provjeriti. Ono nije prirodni zakon: vrijedi zato što ga sudionici neprestano provode. Ograničena ponuda ne jamči da će cijena rasti; cijena ovisi i o potražnji i o ponudi. -->
 
@@ -264,6 +268,7 @@ Jedan bitcoin dijeli se na 100.000.000 manjih jedinica koje se nazivaju satošij
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Tablica s dva stupca: 1 BTC iznosi 100.000.000 sats, 0,1 BTC iznosi 10.000.000 sats, 0,01 BTC iznosi 1.000.000 sats, 0,001 BTC iznosi 100.000 sats, a 0,00000001 BTC iznosi 1 sat.](/micrographics/bitcoin-and-sats-01/hr.md)
 
 <!-- notes: Posjedovati 100.000 sats i posjedovati 0,001 bitcoin znači posjedovati isti iznos. Razjasnite zabludu da je Bitcoin nedostupan zato što je jedan bitcoin skup. -->
 
@@ -272,6 +277,7 @@ Jedan bitcoin dijeli se na 100.000.000 manjih jedinica koje se nazivaju satošij
 ## Tko održava Bitcoin u radu?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Četiri uloge u Bitcoinu: korisnici primaju, čuvaju i šalju bitcoin, čvorovi neovisno provjeravaju pravila, rudari sastavljaju blokove kandidate uz dokaz rada, a razvojni programeri predlažu softver. Nijedna uloga sama ne kontrolira mrežu.](/micrographics/bitcoin-participant-roles-01/hr.md)
 
 <!-- notes: Korisnici šalju, primaju i čuvaju bitcoin; čvorovi provjeravaju je li svaka transakcija i svaki blok u skladu s pravilima; rudari se natječu kako bi otprilike svakih deset minuta dodali novi blok u evidenciju. Ta je evidencija, lanac blokova, javna, a njezino je naknadno mijenjanje vrlo skupo. Napomena o pisanju: Bitcoin s velikim početnim slovom B obično označava mrežu ili sustav; bitcoin s malim početnim slovom b označava sam novac. -->
 
@@ -307,6 +313,7 @@ Prvo pitanje o svakom novčaniku: tko kontrolira ključeve?
 ## Novčanik upravlja ključevima
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Novčanik čuva ključeve. Njima možete primati i slati bitcoin, dok sam bitcoin ostaje zabilježen u zajedničkoj glavnoj knjizi, a ne u telefonu ili uređaju.](/micrographics/wallet-manages-keys-01/hr.md)
 
 <!-- notes: Bitcoin novčanik je alat, obično aplikacija, koji vam omogućuje primanje, provjeru stanja i slanje bitcoina. Vaš bitcoin nije pohranjen u vašem telefonu: zabilježen je na lancu blokova. Novčanik upravlja ključevima koji vam omogućuju da dokažete da je bitcoin vaš i odobrite plaćanje. -->
 
@@ -331,6 +338,7 @@ Uređeni popis riječi, obično 12 ili 24, pomoću kojeg možete obnoviti svoje 
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Fraza za oporavak uređen je popis riječi, ovdje prikazan kao dvanaest numeriranih oglednih riječi napisanih na papiru. Ispravne riječi u ispravnom redoslijedu mogu vratiti kontrolu nad kompatibilnim novčanikom, stoga se fraza čuva u tajnosti i izvan mreže.](/micrographics/seed-phrase-on-paper-01/hr.md)
 
 <!-- notes: Fraza za oporavak nije samo sigurnosna kopija: ona omogućuje potpuni pristup. Kada izradite novčanik, točno je zapišite na papir; čuvajte je izvan mreže, u tajnosti i na mjestu gdje se neće izgubiti ili oštetiti. Nikada je nemojte fotografirati, slati e-poštom, pohranjivati u bilješke u oblaku, slati u poruci niti upisivati na mrežnu stranicu. Prikazane riječi služe samo kao primjer; nikada nemojte prikazivati ni prikupljati stvarnu frazu za oporavak. -->
 
@@ -365,6 +373,7 @@ Uređeni popis riječi, obično 12 ili 24, pomoću kojeg možete obnoviti svoje 
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Plaćanja na lancu bilježe se izravno u Bitcoinovu lancu blokova, dok je Lightning platna mreža izgrađena na Bitcoinu za brza i česta plaćanja koja mogu i ne uspjeti. U oba slučaja skrbništvo može biti povjereno trećoj strani ili ostati u rukama korisnika.](/micrographics/on-chain-and-lightning-01/hr.md)
 
 ---
 
@@ -375,7 +384,8 @@ Uređeni popis riječi, obično 12 ili 24, pomoću kojeg možete obnoviti svoje 
 * **Ne vjerujte, provjerite.** Provjerite osobu, način plaćanja, adresu i iznos.
 
 
-> **Callout – Dijelite podatke za primanje uplata, nikada tajne**
+<!-- card: callout -->
+> **Dijelite podatke za primanje uplata, nikada tajne**
 >
 > Adresu ili zahtjev za plaćanje možete podijeliti. Početnu frazu ili privatni ključ nikada ne smijete dijeliti. Nijedan vjerodostojan edukator, tvrtka koja razvija novčanike ili djelatnik korisničke podrške nikada neće tražiti te podatke.
 
@@ -389,6 +399,7 @@ Stanite ako netko stvara osjećaj hitnosti ili traži tajnost, obećava zajamče
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Pet znakova upozorenja na prijevaru: hitnost, lažno predstavljanje, promijenjeno odredište, zajamčeni prinosi i zahtjevi za tajnim podacima.](/micrographics/scam-red-flags-01/hr.md)
 
 ---
 
@@ -408,7 +419,8 @@ Ovo je tek početak.
 * **Ovo je tek početak.** Dovoljan je jedan siguran sljedeći korak.
 
 
-> **Callout – Trenutak za razmišljanje**
+<!-- card: callout -->
+> **Trenutak za razmišljanje**
 >
 > Vratite se na pet pitanja s početka. Što biste sada odgovorili?
 

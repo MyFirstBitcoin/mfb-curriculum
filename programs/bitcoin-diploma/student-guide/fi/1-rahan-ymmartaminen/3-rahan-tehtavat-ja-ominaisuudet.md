@@ -14,6 +14,7 @@ Käyttökelpoisella rahalla on yleensä myös useita ominaisuuksia:
 
 
 <!-- micrographic: money-property-questions-01 -->
+[Käyttökelpoisen rahan seitsemän ominaisuutta, joista jokaiseen liittyy kysymys eri rahamuotojen vertailua varten: kestävyys, siirrettävyys, jaettavuus, vaihdettavuus, niukkuus, hyväksyttävyys ja todennettavuus.](/micrographics/money-property-questions-01/fi.md)
 
 
 Mikään rahamuoto ei ole kaikilta ominaisuuksiltaan täydellinen.
@@ -22,6 +23,7 @@ Ihmiset vertailevat rahaa myös sen [**vakauden perusteella**](https://curriculu
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Kaksi tasoa: rahan kolme tehtävää (vaihdon väline, laskentayksikkö, arvon säilyttäjä) perustuvat seitsemään ominaisuuteen (kestävyys, siirrettävyys, jaettavuus, keskinäinen vaihdettavuus, niukkuus, hyväksyttävyys ja todennettavuus).](/micrographics/functions-and-properties-01/fi.md)
 
 
 [Kulta](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) on kestävää ja niukkaa, mutta sitä on vaikea jakaa ja kuljettaa pieniä maksuja varten. [Paperinen käteinen](https://curriculum.myfirstbitcoin.org/lexicon/en/#paper-cash) on helposti mukana kuljetettavaa ja paikallisesti hyväksyttyä, mutta se voi vaurioitua ja sen tarjonta voi kasvaa. Paras vertailu riippuu käyttötarkoituksesta, paikasta ja ajankohdasta.

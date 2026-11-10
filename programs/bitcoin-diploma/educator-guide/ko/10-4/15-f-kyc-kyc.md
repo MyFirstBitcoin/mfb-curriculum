@@ -17,6 +17,7 @@
 
 
 <!-- micrographic: bitcoin-atm-off-ramp-01 -->
+[비트코인 ATM 앞에 선 사람이 자신의 휴대폰에서 bitcoin을 보내고 현지 화폐로 현금을 받아요. bitcoin을 현지 화폐로 바꾸는 오프램프의 한 예예요. 이는 예시일 뿐이며 추천이 아니에요.](/micrographics/bitcoin-atm-off-ramp-01/ko.md)
 
 
 **결과물:** 학습자는 가상의 사례에 맞는 경로를 선택하고, 안전 점검의 순서를 정한 뒤, 어떤 위험이 줄어들고 어떤 위험이 더해지는지 설명해요.

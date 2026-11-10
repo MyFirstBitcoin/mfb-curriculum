@@ -18,6 +18,7 @@ Ele alınacak konular:
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[Bitcoin kabul eden bir işletme dört alanda çalışır: pazarlama, eğitim, muhasebe ve satış.](/micrographics/merchant-payment-operations-01/tr.md)
 
 
 **Uygulama:** Öğrenci bir ödeme ve iade senaryosunu uygular veya yönetir. Müşterinin kimliğini doğrulamalı, güncel iade bilgisi talep etmeli, hedef adresi ve tutarı kontrol etmeli, varsa ücreti kimin ödeyeceğini belirlemeli ve sonucu gereksiz veri ifşa etmeden kaydetmelidir.

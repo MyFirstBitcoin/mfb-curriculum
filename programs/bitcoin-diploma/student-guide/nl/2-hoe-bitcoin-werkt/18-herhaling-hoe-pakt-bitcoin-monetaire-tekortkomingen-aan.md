@@ -4,6 +4,7 @@ Sta even stil en bedenk hoe openbare regels, een begrensde uitgifte, Peer-to-Pee
 
 
 <!-- micrographic: bitcoin-responses-tradeoffs-01 -->
+[Een tabel die vijf mogelijke tekortkomingen van moderne geldsystemen koppelt aan het antwoord van Bitcoin en de nieuwe verantwoordelijkheid of afweging die elk antwoord met zich meebrengt. Bitcoin vervangt een deel van het vertrouwen in instellingen door controle en persoonlijke verantwoordelijkheid, maar neemt risico's niet weg.](/micrographics/bitcoin-responses-tradeoffs-01/nl.md)
 
 
 **Kernvraag:** Heeft Bitcoin, op basis van wat u in deze module over Bitcoin hebt geleerd, [waarde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) voor u? Weerspiegelt de huidige [prijs](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) van bitcoin zijn [waarde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value)?

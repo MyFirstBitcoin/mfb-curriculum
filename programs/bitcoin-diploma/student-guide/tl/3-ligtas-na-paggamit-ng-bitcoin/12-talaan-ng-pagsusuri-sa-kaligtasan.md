@@ -6,6 +6,7 @@ Ano ang mag-uudyok sa inyong huminto bago magbayad o mag-install? Ituring na mga
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Limang babalang palatandaan ng panloloko: pagmamadali, pagpapanggap na ibang tao, binagong patutunguhan, garantisadong kita at mga kahilingan para sa lihim na impormasyon.](/micrographics/scam-red-flags-01/tl.md)
 
 
 Ang ligtas na tugon ay palaging: **Huminto muna. Huwag magbahagi ng anuman. Huwag magpadala ng anuman. Isara ang daluyan ng komunikasyon. Magberipika nang nakapag-iisa sa pamamagitan ng isang kilalang mapagkukunan. Humingi ng tulong nang hindi nagbubunyag ng mga lihim.** Ang kilalang mapagkukunan ay isang opisyal na site, pahina ng app sa app store, o paraan ng pakikipag-ugnayan na nahanap ninyo nang nakapag-iisa, hindi sa pamamagitan ng patalastas, direktang mensahe, o hindi inaasahang link. Suriin ang tagapaglathala at web address, ihambing ito sa opisyal na dokumentasyon, at hiwalay na hanapin ang mga detalye sa pakikipag-ugnayan. Kung ang mapagkukunan, mga tagubilin, o mga detalye ng pagbabayad ay naiiba sa prosesong ipinakita, huminto muna at humingi ng tulong sa inyong tagapagturo o pinagkakatiwalaang lokal na suporta nang hindi nagbubunyag ng [seed phrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) o [pribadong susi](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key). Ang tunay na pagkakataon ay hindi mawawala dahil sa maingat na pagsusuri; ang panloloko ay madalas na umaasa sa pagpigil sa gayong pagsusuri.

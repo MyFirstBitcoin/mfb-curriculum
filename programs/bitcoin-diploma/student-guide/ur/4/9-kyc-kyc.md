@@ -3,7 +3,8 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) اور [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) کے طریقوں میں مختلف [فوائد اور نقصانات ہوتے ہیں](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off)۔ ان میں سے کوئی بھی نام محتاط جائزے کی ضرورت ختم نہیں کرتا۔
 
 
-> **Callout – رازداری قانونی یا جسمانی سلامتی کے خطرات ختم نہیں کرتی**
+<!-- card: callout -->
+> **رازداری قانونی یا جسمانی سلامتی کے خطرات ختم نہیں کرتی**
 >
 > نہ [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) اور نہ ہی [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) بذاتِ خود بہترین ہے۔ اصل طریقے کا موازنہ کریں، قواعد واضح نہ ہوں تو موجودہ مقامی رہنمائی سے رجوع کریں، اور مقامی قانون نہ توڑیں اور نہ ہی خود کو جسمانی خطرے میں ڈالیں، چاہے مقصد ہو [رازداری](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy)۔
 

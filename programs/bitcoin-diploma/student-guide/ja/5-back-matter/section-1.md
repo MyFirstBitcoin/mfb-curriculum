@@ -36,6 +36,7 @@
 
 
 <!-- micrographic: final-safety-check-01 -->
+[チェック済みの最終安全チェックリスト：秘密情報を守る、支払い内容を確認する、少額でテストする、急かされたら立ち止まる。少しでも不明な点があれば、行動する前に立ち止まり、さらに学んでください。](/micrographics/final-safety-check-01/ja.md)
 
 
 次のルールを覚えておいてください。
@@ -57,6 +58,7 @@
 
 
 <!-- micrographic: curriculum-source-panel-01 -->
+[QRコードと、印刷されたリンクgithub.com/MyFirstBitcoin/mfb-curriculumが記載されたパネル。これはビットコイン・ディプロマの正式な出典で、ここで版を確認し、誤りを報告できます。](/micrographics/curriculum-source-panel-01/ja.md)
 
 
 Bitcoin Diplomaは、常に更新され続けるオープンソースのカリキュラムです。修正や改善は公開の場でレビューできます。

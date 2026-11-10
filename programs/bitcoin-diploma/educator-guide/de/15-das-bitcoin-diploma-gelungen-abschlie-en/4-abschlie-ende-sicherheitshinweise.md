@@ -12,3 +12,4 @@ Erinnern Sie die Lernenden daran:
 
 
 <!-- micrographic: final-safety-check-01 -->
+[Eine abschließende Sicherheits-Checkliste, abgehakt: Geheimnisse schützen, Zahlungsdetails überprüfen, mit kleinen Beträgen testen und unter Druck innehalten. Wenn Ihnen etwas unklar ist, halten Sie inne und informieren Sie sich, bevor Sie handeln.](/micrographics/final-safety-check-01/de.md)

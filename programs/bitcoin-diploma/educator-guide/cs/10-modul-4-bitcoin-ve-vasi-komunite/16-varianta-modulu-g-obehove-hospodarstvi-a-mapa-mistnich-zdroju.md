@@ -16,6 +16,7 @@ Zmapujte:
 
 
 <!-- micrographic: local-circular-economy-01 -->
+[V oběhové ekonomice Bitcoinu přechází bitcoin od člověka k člověku výměnou za zboží, služby a čas. Zákazník platí obchodníkovi, obchodník platí poskytovateli služeb, poskytovatel služeb platí pracovníkovi a pracovník jej znovu utrácí jako zákazník.](/micrographics/local-circular-economy-01/cs.md)
 
 
 Při vyhledávání zdrojů ověřte:

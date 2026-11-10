@@ -14,6 +14,7 @@ Un denaro utile tende inoltre ad avere diverse proprietà:
 
 
 <!-- micrographic: money-property-questions-01 -->
+[Sette proprietà della moneta utile, ciascuna con una domanda da porsi quando si confrontano diverse forme di moneta: durabilità, portabilità, divisibilità, fungibilità, scarsità, accettabilità e verificabilità.](/micrographics/money-property-questions-01/it.md)
 
 
 Nessuna forma di denaro ottiene un punteggio perfetto.
@@ -22,6 +23,7 @@ Le persone confrontano il denaro anche in base alla sua [**solidità**](https://
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Due livelli: le tre funzioni della moneta (mezzo di scambio, unità di conto, riserva di valore) poggiano su sette proprietà (durevolezza, trasportabilità, divisibilità, fungibilità, scarsità, accettabilità e verificabilità).](/micrographics/functions-and-properties-01/it.md)
 
 
 [L'oro](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) è durevole e scarso, ma difficile da dividere e da trasportare per i piccoli pagamenti. [Il contante cartaceo](https://curriculum.myfirstbitcoin.org/lexicon/en/#paper-cash) è portatile e accettato localmente, ma può danneggiarsi e la sua offerta può espandersi. Il confronto migliore dipende dallo scopo, dal luogo e dal momento.

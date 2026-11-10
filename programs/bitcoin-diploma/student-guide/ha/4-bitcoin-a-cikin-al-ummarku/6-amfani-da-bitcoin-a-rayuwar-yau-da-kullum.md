@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: daily-bitcoin-uses-01 -->
+[Hanyoyi bakwai daban-daban da za a iya amfani da Bitcoin a rayuwar yau da kullum: samun kuɗin shiga, yin tanadi, karɓa, aikawa, kashe kuɗi, ba da gudummawa, da sanya farashi da lissafin kuɗi. Kowace hanya ce ta amfani da shi, ba matakin da dole ne a bi ba.](/micrographics/daily-bitcoin-uses-01/ha.md)
 
 
 Bitcoin na iya aiki a matsayin kuɗi ta hanyoyi da dama. Kashewa ɗaya ne kawai daga cikinsu.

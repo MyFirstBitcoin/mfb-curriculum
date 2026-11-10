@@ -5,7 +5,8 @@
 Siunčiant reikia daugiau atidumo, nes galiojantį „Bitcoin“ [sandorį](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) paprastai sunku arba neįmanoma atšaukti. Ar prieš paspausdami patvirtinimo mygtuką galite paaiškinti, kas gaus mokėjimą ir kodėl?
 
 
-> **Callout – Prieš siųsdami sustokite ir patikrinkite**
+<!-- card: callout -->
+> **Prieš siųsdami sustokite ir patikrinkite**
 >
 > Patikrinkite gavėją, mokėjimo būdą, gavėjo adresą, sumą ir vienetą, mokestį arba galiojimo laiką ir galutinį ekraną. Jei kas nors skiriasi nuo patikimo prašymo, kas nors Jus skubina arba prašo atkūrimo duomenų, sustokite ir patikrinkite savarankiškai. Jei procesas nepažįstamas, atlikite bandomąjį mokėjimą maža suma.
 
@@ -21,6 +22,7 @@ Siunčiant reikia daugiau atidumo, nes galiojantį „Bitcoin“ [sandorį](http
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Prieš patvirtindamas mokėjimą, siuntėjas patikrina gavėją ir tikslą, mokėjimo būdą, paskirties adresą bei sumą, vienetą, mokestį arba galiojimo laiką, o jei procesas nepažįstamas, atlieka nedidelį bandomąjį mokėjimą. Jei kas nors nesutampa, siuntėjas sustoja ir patikrina; patvirtina tik tada, kai viskas sutampa, o tada patikrina rezultatą.](/micrographics/pre-send-checklist-01/lt.md)
 
 
 Atliekant [mokėjimą blokų grandinėje](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), **tinklo mokestis** mokamas už [sandorio](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) įtraukimą į bloką. Jis daugiausia priklauso nuo [sandorio](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) duomenų ir paklausos [vietai bloke](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-space), o ne vien nuo siunčiamos sumos. Numatomi mokesčiai ir apdorojimo laikas gali keistis, todėl perskaitykite galutinę suvestinę, užuot manę, kad mažos vertės mokėjimui taikomas mažas mokestis.

@@ -1,5 +1,6 @@
 # 1.4 Byteshandel och dubbel behovsöverensstämmelse
 
+<!-- card: definition -->
 > **Definition – Byteshandel**
 >
 > [Byteshandel](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) är ett direkt byte av en vara eller tjänst mot en annan. Det kan fungera bra vid ett enstaka byte, men blir svårt när många människor och produkter är inblandade.
@@ -11,6 +12,7 @@ Föreställ er att **Amina** har ris och vill ha skor. **Luis** har skor men vil
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina har ris och vill ha skor, Luis har skor och vill ha matolja, och Mei har matolja och vill få reparationer utförda. Inget par kan byta direkt med varandra, eftersom ingen av personerna i ett par vill ha det som den andra erbjuder.](/micrographics/barter-mismatch-01/sv.md)
 
 
 För att [byteshandel](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) ska fungera direkt måste varje person vilja ha det som den andra personen erbjuder, samtidigt och i lämpliga mängder. Ekonomer kallar detta [**dubbel behovsöverensstämmelse**](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-coincidence-of-wants).
@@ -31,3 +33,4 @@ Ett allmänt accepterat betalningsmedel skiljer försäljning från köp. Amina 
 
 
 <!-- micrographic: sell-then-buy-01 -->
+[Amina säljer ris till en person mot ett allmänt accepterat betalningsmedel och använder sedan pengarna för att köpa skor av någon annan. Att sälja och att köpa blir separata handlingar.](/micrographics/sell-then-buy-01/sv.md)

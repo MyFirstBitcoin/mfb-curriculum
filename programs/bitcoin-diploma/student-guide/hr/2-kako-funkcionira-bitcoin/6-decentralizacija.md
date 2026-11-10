@@ -3,6 +3,7 @@
 Jedan [centralizirani sustav](https://curriculum.myfirstbitcoin.org/lexicon/en/#centralized-system) ima središnju točku kontrole. Banka kontrolira klijentsku [glavnu knjigu](https://curriculum.myfirstbitcoin.org/lexicon/en/#ledger). Platna tvrtka kontrolira svoju mrežu. Država kontrolira pravila izdavanja svoje [valute](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency).
 
 
+<!-- card: definition -->
 > **Definition – Decentralizacija**
 >
 > Jedan [decentralizirani sustav](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralized-system) raspodjeljuje uloge i provedbu odluka među brojnim neovisnim sudionicima. Bitcoin nema središnji ured koji može otvarati račune, mijenjati stanja na računima ili odobravati članstvo.
@@ -22,6 +23,7 @@ Bitcoinova [decentralizacija](https://curriculum.myfirstbitcoin.org/lexicon/en/#
 
 
 <!-- micrographic: powers-and-limits-01 -->
+[Korisnici, čvorovi, rudari, razvojni programeri i usluge imaju određenu moć u odnosu na zajednička pravila i javnu glavnu knjigu Bitcoina, ali nitko od njih ne može samostalno promijeniti glavnu knjigu ili pravila za sve.](/micrographics/powers-and-limits-01/hr.md)
 
 
 [Decentralizacija](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) također stvara troškove. Koordinacija može biti sporija. Korisnici moraju provjeravati informacije i preuzimati veću odgovornost. Ne postoji središnja služba za podršku za [mrežu Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). Ti [kompromisi](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) dio su dizajna, a ne slučajni nedostaci koji se mogu ukloniti bez promjene sustava.

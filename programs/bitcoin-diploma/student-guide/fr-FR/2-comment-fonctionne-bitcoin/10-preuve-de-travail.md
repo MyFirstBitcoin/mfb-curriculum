@@ -3,6 +3,7 @@
 ![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
+<!-- card: definition -->
 > **Definition – Preuve de travail**
 >
 > [La preuve de travail](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) est le processus que les [mineurs](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) utilisent pour se disputer le droit de proposer le prochain bloc.
@@ -14,6 +15,7 @@ Lorsqu’un [mineur](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) tr
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Un mineur effectue des hachages répétés d’un bloc proposé jusqu’à ce qu’un résultat soit inférieur à la cible du réseau, puis diffuse le bloc. Les nœuds vérifient rapidement la preuve et le respect de chaque règle avant que le bloc ne rejoigne la blockchain : le travail est coûteux à produire et facile à vérifier.](/micrographics/proof-of-work-process-01/fr-FR.md)
 
 
 [La preuve de travail](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) remplit plusieurs fonctions :

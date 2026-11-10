@@ -6,6 +6,7 @@ Kaip **1 modulyje** pristatyta, [**patikimi pinigai**](https://curriculum.myfirs
 
 
 <!-- micrographic: bitcoin-money-properties-01 -->
+[Bitkoinas yra turtas, pasižymintis septyniomis pinigų savybėmis: patvarumu, perkeliamumu, dalumu, pakeičiamumu, ribotumu, patikrinamumu ir priimtinumu. Kiekviena iš jų turi praktinių apribojimų, susijusių, pavyzdžiui, su būtinybe saugiai laikyti raktus ir vis dar menku priimtinumu daugelyje bendruomenių.](/micrographics/bitcoin-money-properties-01/lt.md)
 
 
 

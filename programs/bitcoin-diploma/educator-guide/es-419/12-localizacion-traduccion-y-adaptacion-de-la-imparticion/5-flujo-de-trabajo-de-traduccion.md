@@ -14,6 +14,7 @@ Siga esta secuencia:
 
 
 <!-- micrographic: translation-workflow-01 -->
+[La traducción es un proceso de revisión y prueba: prepare un texto claro en inglés, traduzca el significado, revise con un especialista en idiomas y un educador, ponga a prueba las instrucciones de seguridad con estudiantes y luego confirme que los estándares sean equivalentes. Si las instrucciones de seguridad no son claras, se vuelve a revisar su redacción.](/micrographics/translation-workflow-01/es-419.md)
 
 
 Evite los modismos y las metáforas que no se adapten bien a otros idiomas y contextos. Si utiliza una analogía, indique siempre qué explica y qué no.

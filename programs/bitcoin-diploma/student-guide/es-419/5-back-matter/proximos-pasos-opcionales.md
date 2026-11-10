@@ -36,6 +36,7 @@ La [Red de educación sobre Bitcoin](https://myfirstbitcoin.org/about/network) c
 
 
 <!-- micrographic: final-safety-check-01 -->
+[Una lista final de verificación de seguridad, con todas las casillas marcadas: proteja sus secretos, verifique los detalles del pago, haga pruebas con montos pequeños y deténgase si siente presión. Si algo no está claro, deténgase e infórmese más antes de actuar.](/micrographics/final-safety-check-01/es-419.md)
 
 
 Recuerde estas reglas:
@@ -57,6 +58,7 @@ La educación reduce el riesgo, pero no puede eliminarlo. Si una situación no e
 
 
 <!-- micrographic: curriculum-source-panel-01 -->
+[Un panel con un código QR y el enlace impreso github.com/MyFirstBitcoin/mfb-curriculum, la fuente oficial del Diplomado en Bitcoin, donde usted puede verificar la edición y reportar errores.](/micrographics/curriculum-source-panel-01/es-419.md)
 
 
 El Diplomado en Bitcoin es un plan de estudios de código abierto en constante evolución. Las correcciones y mejoras pueden revisarse públicamente.

@@ -8,6 +8,7 @@ Peer-to-peer innebär inte alltid att bara två datorer kommunicerar direkt med 
 
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[En avsändare signerar en transaktion och sänder ut den till många nätverksnoder, som vidarebefordrar den tills den når mottagaren. Ingen central Bitcoin-operatör behöver godkänna avsändaren eller mottagaren.](/micrographics/peer-to-peer-route-01/sv.md)
 
 
 Användare kan fortfarande välja [mellanhänder](https://curriculum.myfirstbitcoin.org/lexicon/en/#intermediary). En handelsplattform kan förvara bitcoin åt kunder. En betaltjänst kan förenkla fakturahanteringen. En plånbok hos en tjänsteleverantör kan hantera nycklar. Dessa tjänster kan vara praktiska, men användaren blir då beroende av tjänstens regler och säkerhet.

@@ -10,6 +10,7 @@ Er lokala **modul 4**-aktivitet hjälper er att:
 
 
 <!-- micrographic: local-module-four-actions-01 -->
+[I den lokala modul 4 går den studerande igenom fyra moment: koppla en idé från modulerna 1 till 3 till ett lokalt behov, jämföra Bitcoin med ett realistiskt befintligt alternativ, öva säkert med handledning och förklara vad hen har lärt sig samt ange ett ansvarsfullt nästa steg. Läraren, och ibland en lokal expert, vägleder den studerande genom hela processen.](/micrographics/local-module-four-actions-01/sv.md)
 
 
 Er aktivitet kan utforska frågor som:

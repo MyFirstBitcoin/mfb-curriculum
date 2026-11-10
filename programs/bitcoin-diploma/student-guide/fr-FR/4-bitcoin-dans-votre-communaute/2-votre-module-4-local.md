@@ -10,6 +10,7 @@ Votre activité locale du **Module 4** vous aidera à :
 
 
 <!-- micrographic: local-module-four-actions-01 -->
+[Dans le module 4 consacré au contexte local, vous passez par quatre actions : relier une idée des modules 1 à 3 à un besoin local, comparer Bitcoin à une option existante réaliste, pratiquer en toute sécurité avec un accompagnement et expliquer ce que vous avez appris ainsi qu’une prochaine étape responsable. Votre équipe pédagogique, et parfois une personne experte du contexte local, vous accompagne tout au long du parcours.](/micrographics/local-module-four-actions-01/fr-FR.md)
 
 
 Votre activité pourra explorer des questions telles que :

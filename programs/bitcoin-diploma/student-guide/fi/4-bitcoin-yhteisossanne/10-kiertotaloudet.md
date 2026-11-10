@@ -4,6 +4,7 @@ Eräs [**Bitcoin-kiertotalous**](https://curriculum.myfirstbitcoin.org/lexicon/e
 
 
 <!-- micrographic: local-circular-economy-01 -->
+[Bitcoin-kiertotaloudessa bitcoin siirtyy ihmiseltä toiselle vastineeksi tavaroista, palveluista ja ajasta. Asiakas maksaa kauppiaalle, kauppias maksaa palveluntarjoajalle, palveluntarjoaja maksaa työntekijälle, ja työntekijä käyttää saamansa bitcoinit jälleen asiakkaana.](/micrographics/local-circular-economy-01/fi.md)
 
 
 My First Bitcoin tukee [Bitcoin-kiertotalouksia](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-circular-economy), ja monet niistä kuuluvat Bitcoin Education Network -verkostoon. Tutustukaa näihin yhteisöihin [verkoston koontinäytöllä](https://network.myfirstbitcoin.org/?min10merchants=1).

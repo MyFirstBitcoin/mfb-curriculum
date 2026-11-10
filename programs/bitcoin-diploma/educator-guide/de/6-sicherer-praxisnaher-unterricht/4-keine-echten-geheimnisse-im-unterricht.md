@@ -1,6 +1,7 @@
 # 6.4 Keine echten Geheimnisse im Unterricht
 
-> **Callout – Keine echten Geheimnisse im Unterricht**
+<!-- card: callout -->
+> **Keine echten Geheimnisse im Unterricht**
 >
 > Verwenden Sie für Wiederherstellungsübungen vorbereitete Wiederherstellungswörter, eindeutig gekennzeichnetes Übungsmaterial oder eine leere Einweg-Wallet. Verwenden Sie niemals die persönliche oder mit Guthaben versehene Wallet eines Lernenden, und gestalten Sie keinen Ablauf, bei dem jemand dauerhaft gültige Wiederherstellungsinformationen einsehen kann.
 >

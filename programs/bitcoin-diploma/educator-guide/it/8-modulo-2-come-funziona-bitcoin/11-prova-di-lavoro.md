@@ -10,6 +10,7 @@ Insegni la relazione, non la matematica:
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Un miner calcola ripetutamente l'hash di un blocco proposto finché un risultato non è inferiore al target della rete, poi trasmette il blocco. I nodi verificano rapidamente la prova e ogni regola prima che il blocco entri a far parte della blockchain: il lavoro è costoso da produrre e facile da verificare.](/micrographics/proof-of-work-process-01/it.md)
 
 
 Eviti di dire che [i miner](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) risolvono utili equazioni esterne. Eviti di sostenere che il costo energetico sia automaticamente giustificato o automaticamente uno spreco.

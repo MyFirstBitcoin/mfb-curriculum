@@ -8,6 +8,7 @@ Peer-to-Peer betekent niet altijd dat slechts twee computers rechtstreeks met el
 
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[Een verzender ondertekent een transactie en zendt deze uit naar talloze Nodes in het netwerk, die de transactie doorgeven totdat deze de ontvanger bereikt. Er is geen centrale Bitcoin-beheerder die de verzender of de ontvanger moet goedkeuren.](/micrographics/peer-to-peer-route-01/nl.md)
 
 
 Gebruikers kunnen nog steeds kiezen voor [tussenpersonen](https://curriculum.myfirstbitcoin.org/lexicon/en/#intermediary). Een exchange kan bitcoin bewaren voor klanten. Een betaaldienst kan een factuur eenvoudiger maken. Een gehoste Wallet kan sleutels beheren. Deze diensten kunnen handig zijn, maar de gebruiker is dan afhankelijk van de regels en de beveiliging van de dienst.

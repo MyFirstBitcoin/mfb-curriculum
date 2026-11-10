@@ -4,12 +4,14 @@ Arbeiten Sie mit drei Personen, deren Güter und Wünsche nicht zueinander passe
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina hat Reis und möchte Schuhe, Luis hat Schuhe und möchte Speiseöl, und Mei hat Speiseöl und möchte Reparaturarbeiten. Kein Paar kann direkt tauschen, weil in keinem Paar eine Person das möchte, was die andere anbietet.](/micrographics/barter-mismatch-01/de.md)
 
 
 Führen Sie dann ein allgemein akzeptiertes Tauschmittel ein.
 
 
 <!-- micrographic: sell-then-buy-01 -->
+[Amina verkauft Reis gegen ein allgemein anerkanntes Geld an eine Person und kauft später mit diesem Geld Schuhe von jemand anderem. Verkaufen und Kaufen werden zu getrennten Handlungen.](/micrographics/sell-then-buy-01/de.md)
 
 
 Fragen Sie:

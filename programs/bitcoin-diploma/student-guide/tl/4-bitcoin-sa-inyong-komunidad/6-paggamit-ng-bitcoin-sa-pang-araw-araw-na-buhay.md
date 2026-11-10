@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: daily-bitcoin-uses-01 -->
+[Pitong magkakaibang paraan ng paggamit ng Bitcoin sa pang-araw-araw na buhay: pagkita, pag-iipon, pagtanggap, pagpapadala, paggastos, pagbibigay ng donasyon, at pagtatakda ng presyo at pagtutuos. Ang bawat isa ay posibleng paggamit, hindi isang kinakailangang hakbang.](/micrographics/daily-bitcoin-uses-01/tl.md)
 
 
 Maaaring magsilbing pera ang Bitcoin sa ilang paraan. Isa lamang dito ang paggastos.

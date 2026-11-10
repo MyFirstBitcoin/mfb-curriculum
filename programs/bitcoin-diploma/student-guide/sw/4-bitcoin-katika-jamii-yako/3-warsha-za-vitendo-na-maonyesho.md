@@ -4,6 +4,7 @@ Mtapitia hatua tatu: **Uwasilishaji**, ambapo mwalimu wenu anaonyesha mchakato n
 
 
 <!-- micrographic: presentation-practice-production-01 -->
+[Ujuzi wa vitendo hujifunzwa katika hatua tatu, kutoka kushoto kwenda kulia: Uwasilishaji, ambapo mwelimishaji anaonyesha mchakato na hatari zake, kisha Mazoezi, yaani majaribio yanayoongozwa kwa kutumia vifaa salama vya mafunzo, kisha Utekelezaji, ambapo mwanafunzi anakamilisha kazi au anaeleza uamuzi kwa kujitegemea.](/micrographics/presentation-practice-production-01/sw.md)
 
 
 Warsha yenu inaweza kujumuisha:

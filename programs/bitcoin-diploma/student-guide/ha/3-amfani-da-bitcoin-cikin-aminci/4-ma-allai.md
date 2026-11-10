@@ -3,6 +3,7 @@
 Ana tabbatar da mallakar Bitcoin ta hanyar mabuɗan ɓoye bayanai.
 
 
+<!-- card: definition -->
 > **Definition – Mabuɗin sirri**
 >
 > Wani [mabuɗin sirri](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) bayani ne na sirri da ke ba walat damar ƙirƙirar ingantattun [sa hannun dijital](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature). Sa hannu yana ba da izinin kashe bitcoin da mabuɗin da ya dace yake sarrafawa. Duk wanda ya samu [mabuɗin sirrin](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) yawanci zai iya kashe waɗannan kuɗaɗen.
@@ -21,10 +22,10 @@ Yawancin walat na masu farawa suna amfani da [sa hannu guda ɗaya](https://curri
 Babu wani sahihin malami, kamfanin walat, ma'aikacin dandalin musayar kuɗi, ma'aikacin taimakon fasaha, ko mai haɓaka Bitcoin da ke buƙatar [mabuɗin sirrinku](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) ko [jimlar kalmomin dawo da walat ɗinku](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase). Ya kamata a ɗauki duk wanda ya nemi waɗannan bayanan a matsayin barazana.
 
 
-> **Light**
->
+<!-- card: light -->
 > **Ku gwada:** Ku rarraba misalan da aka shirya zuwa rukuni uku: bayanan da za a iya rabawa cikin aminci don karɓar kuɗi, bayanan sirri na kashe kuɗi, da bayanan da za su iya zama na jama'a amma har yanzu ya kamata a ɓoye su idan suna da alaƙa da wani mutum.
 
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[Maɓallin sirri, wanda ba za a taɓa rabawa ba, yana samar da bayanan jama'a da za a iya rabawa: maɓallin jama'a da aka samo daga gare shi da adireshin karɓa da aka ƙirƙira daga wannan. Wannan maɓallin sirri ɗin ne kuma yake ƙirƙirar sa hannun da kwamfutocin hanyar sadarwa suke tabbatarwa ba tare da sun taɓa sanin maɓallin sirri ba.](/micrographics/private-key-public-info-01/ha.md)

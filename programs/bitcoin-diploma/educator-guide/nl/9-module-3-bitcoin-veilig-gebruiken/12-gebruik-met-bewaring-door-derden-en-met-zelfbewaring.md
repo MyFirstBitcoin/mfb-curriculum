@@ -20,3 +20,4 @@ Behandel [self-custody](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-c
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[Bij bewaring door derden beheert een dienst de sleutels en keurt die uitgaven goed, waardoor het saldo een belofte van die dienst is. Bij zelfbewaring beheert de gebruiker zelf de sleutels en back-ups; beide routes kennen afhankelijkheden en risico's op falen.](/micrographics/who-controls-keys-01/nl.md)

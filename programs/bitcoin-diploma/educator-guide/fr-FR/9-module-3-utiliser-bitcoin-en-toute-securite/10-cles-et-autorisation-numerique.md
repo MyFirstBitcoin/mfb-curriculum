@@ -17,3 +17,4 @@ Aucun éducateur, aucune entreprise proposant un portefeuille, aucun employé d�
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[Une clé privée secrète, qui ne doit jamais être partagée, permet de produire des informations publiques qui peuvent être partagées : une clé publique qui en est dérivée et une adresse de réception créée à partir de celle-ci. Cette même clé privée crée des signatures que les nœuds vérifient sans jamais connaître la clé privée.](/micrographics/private-key-public-info-01/fr-FR.md)

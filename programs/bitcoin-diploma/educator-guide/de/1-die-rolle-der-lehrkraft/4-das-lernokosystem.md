@@ -13,3 +13,4 @@ Jeder Teil des Bitcoin Diploma hat eine eigene Funktion.
 
 
 <!-- micrographic: learning-ecosystem-map-01 -->
+[Der Leitfaden für Lernende liefert Erklärungen, der Leitfaden für Lehrende unterstützt den Unterricht, und ausgewählte Aktivitäten aus dem Ressourcen-Hub unterstützen das Üben. Das Bewertungsraster enthält vertrauliche Bewertungsergebnisse.](/micrographics/learning-ecosystem-map-01/de.md)

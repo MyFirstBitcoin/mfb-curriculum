@@ -35,6 +35,7 @@ Wählen Sie einen praktischen Ablauf, der sich für die Lernenden sicher und bew
 
 
 <!-- micrographic: cohort-capacity-check-01 -->
+[Um eine Gruppe zu planen, multiplizieren Sie die Zahl der Lernenden mit der voraussichtlichen Betreuungs- und Beobachtungszeit und rechnen Sie dann Zeit für Vorbereitung, Feedback, besondere Bedürfnisse und Wiederholungsprüfungen hinzu. Wenn die Lehrkräfte nicht genügend Zeit haben, ändern Sie den Plan: weniger Lernende, mehr Lehrkräfte oder mehr Zeit.](/micrographics/cohort-capacity-check-01/de.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
@@ -57,6 +58,7 @@ Wählen Sie einen praktischen Ablauf, der sich für die Lernenden sicher und bew
 
 
 <!-- micrographic: task-competency-map-01 -->
+[Die Theorie-Interaktionen T1 bis T3 liefern Nachweise für die Kompetenzen C1 bis C5, und die praktischen Wege P6a, P6b und P7 liefern Nachweise für C6 und C7. Jede Kompetenz erhält anschließend ein Ergebnis „Ja“ oder „Noch nicht“.](/micrographics/task-competency-map-01/de.md)
 
 
 ### Allgemeine Regeln zu Unterstützung, Sicherheit und Dokumentation
@@ -65,10 +67,12 @@ Wählen Sie einen praktischen Ablauf, der sich für die Lernenden sicher und bew
 
 
 <!-- micrographic: support-boundary-01 -->
+[Eine Lehrkraft darf die zulässige Vorbereitung und Unterstützung beim Zugang leisten und unsichere Handlungen stoppen. Die lernende Person muss dennoch die bewertete Erklärung selbst liefern, die relevanten Details auswählen und die erforderlichen Entscheidungen selbst treffen oder anleiten.](/micrographics/support-boundary-01/de.md)
 
 
 
-> **Callout – Sicherheitskritische praktische Fehler**
+<!-- card: callout -->
+> **Sicherheitskritische praktische Fehler**
 >
 > Halten Sie es fest und unterbrechen Sie die Aufgabe, wenn die lernende Person eines der folgenden Dinge preisgibt oder zu teilen versucht: [Seed-Phrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), [Privater Schlüssel](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), Passwort oder unnötige persönliche Informationen; wenn sie trotz einer bekannten Abweichung bei Adresse, Rechnung, Betrag oder Empfänger fortfährt; wenn sie einen offensichtlichen Betrug oder eine dringende geheime Anfrage akzeptiert; oder wenn sie einen erforderlichen Überprüfungsschritt umgeht. Erklären Sie den Grund freundlich, kehren Sie zu einer sicheren Umgebung zurück, üben Sie und bewerten Sie später erneut. Die lernende Person baut ihre Kompetenz noch auf. Vorbereitete Schulungsmaterialien sind der Standard; wenn eine Lehrkraft eine Live-Aktivität mit geringem Risiko wählt, machen Sie deren Risiken deutlich und bieten Sie eine gleichwertige Alternative ohne echtes Geld an.
 
@@ -181,3 +185,4 @@ Verwenden Sie die Beispiele und Aktivitätsmaterialien, die zu Ihrer Gruppe pass
 
 
 <!-- micrographic: reassessment-calibration-moderation-01 -->
+[Drei getrennte Prozesse laufen parallel. Lernende mit „Noch nicht“ erhalten vertrauliches Feedback, üben weiter und erbringen neue Nachweise; Bewertende kalibrieren sich, indem sie Beispiele unabhängig bewerten und sich auf eine Auslegung einigen; Lehrkräfte können eine Zweitprüfung anfordern, die jedoch niemals die beobachtete Leistung ersetzt.](/micrographics/reassessment-calibration-moderation-01/de.md)

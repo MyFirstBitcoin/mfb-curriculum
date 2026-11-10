@@ -1,5 +1,6 @@
 # 3.3 Addresses
 
+<!-- card: definition -->
 > **Definition – Bitcoin address**
 >
 > A [Bitcoin address](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-address) is public receiving information for an [on-chain payment](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment). A wallet normally shows it as text and a QR code so another person can direct bitcoin to you. Unlike a password or [private key](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), an address cannot authorize spending.
@@ -7,6 +8,7 @@
 
 
 <!-- micrographic: address-two-formats-01 -->
+[A wallet's receive screen shows one sample Bitcoin address twice: as a QR code and as text. Both are the same public receiving information, and neither can authorize spending.](/micrographics/address-two-formats-01/en.md)
 
 
 If you want to receive an [on-chain payment](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), where should the address come from? Open the intended wallet and use its receive screen. A sender can scan the QR code or copy the address. This avoids the mistakes that can happen when long strings are typed by hand.
@@ -15,9 +17,9 @@ For every payment request, confirm the intended payment method. An on-chain addr
 
 
 <!-- micrographic: sample-lightning-invoice-01 -->
+[A sample Lightning invoice on a screen shows the payment method, recipient, and amount next to its QR code. The readable details and the QR code are the same payment request in two formats.](/micrographics/sample-lightning-invoice-01/en.md)
 
 
 
-> **Light**
->
+<!-- card: light -->
 > When a payment matters, do not decide that an address is safe only because it looks familiar. Confirm the intended recipient, correct [Bitcoin network](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network), destination, and payment method. Use a small test first when the process or amount is unfamiliar.

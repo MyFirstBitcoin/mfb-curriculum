@@ -1,6 +1,7 @@
 # Lumikha ng ligtas at aktibong silid-aralan
 
-> **Callout – Protektahan ang mga mag-aaral bago magsimula ang praktikal na gawain**
+<!-- card: callout -->
+> **Protektahan ang mga mag-aaral bago magsimula ang praktikal na gawain**
 >
 > Huwag kailanman hingin, tingnan, kunan ng larawan, kopyahin, itala, o itago ang isang tunay na seed phrase, private key, password, o hindi kinakailangang impormasyong pinansyal. Huwag pilitin ang sinuman na bumili, magbenta, magpanatili, o gumamit ng bitcoin. Huminto muna tuwing may mag-aaral na hindi nakatitiyak, napipilitan, o nalalantad sa posibleng panloloko.
 

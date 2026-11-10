@@ -15,6 +15,7 @@ Gunakan urutan langkah untuk berhenti sejenak dan memeriksa:
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Sebelum menyetujui pembayaran, pengirim memeriksa penerima dan tujuan pembayaran, metode pembayaran, tujuan pengiriman, serta jumlah, satuan, biaya atau batas waktu kedaluwarsa, dengan melakukan uji coba kecil jika belum terbiasa. Jika ada yang berbeda, pengirim berhenti dan melakukan verifikasi; pengirim hanya menyetujui jika semuanya sesuai, lalu memeriksa hasilnya.](/micrographics/pre-send-checklist-01/id.md)
 
 
 Ajarkan peserta didik untuk berhenti jika penerima tiba-tiba mengubah tujuan pembayaran, menghalangi verifikasi, mendesak agar pembayaran segera dilakukan, atau meminta informasi pemulihan.

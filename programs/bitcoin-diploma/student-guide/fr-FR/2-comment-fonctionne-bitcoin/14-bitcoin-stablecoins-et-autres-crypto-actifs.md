@@ -7,8 +7,7 @@ Lorsque vous comparez un [actif numérique](https://curriculum.myfirstbitcoin.or
 La comparaison ci-dessous distingue les catégories et les choix de conception. Elle ne constitue ni une approbation, ni une recommandation, ni une affirmation selon laquelle un quelconque [actif](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) serait sûr, fiable ou adapté à votre situation.
 
 
-> **Dark**
->
+<!-- card: dark -->
 > Les escroqueries, les affirmations trompeuses et les services non sécurisés peuvent toucher n’importe quel [actif numérique](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-asset) ou moyen de paiement. Vérifiez les caractéristiques de l’[actif](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset), du service et du dispositif de [garde](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) concernés plutôt que de supposer qu’une catégorie est sûre ou risquée en soi.
 
 

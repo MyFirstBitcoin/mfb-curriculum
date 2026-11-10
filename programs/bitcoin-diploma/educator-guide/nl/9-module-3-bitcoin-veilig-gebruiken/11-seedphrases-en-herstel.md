@@ -12,6 +12,7 @@ Leer de gevolgen aan:
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Een herstelzin is een geordende lijst woorden, hier twaalf genummerde voorbeeldwoorden die op papier zijn geschreven. Met de juiste woorden in de juiste volgorde kan de controle in een compatibele Wallet worden hersteld; daarom blijft de herstelzin geheim en offline.](/micrographics/seed-phrase-on-paper-01/nl.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
@@ -43,10 +44,12 @@ Leer de gevolgen aan:
 
 
 <!-- micrographic: recovery-practice-lanes-01 -->
+[De cursist volgt de stappen van de hersteloefening in een afgeschermde ruimte, controleert het verwachte resultaat, wist het apparaat en levert het fictieve materiaal in of vernietigt het. De docent observeert de beslissingen en de veilige omgang, maar ziet de geheime herstelwoorden nooit.](/micrographics/recovery-practice-lanes-01/nl.md)
 
 
 
-> **Callout – Beschouw een blootgestelde seedphrase als gecompromitteerd**
+<!-- card: callout -->
+> **Beschouw een blootgestelde seedphrase als gecompromitteerd**
 >
 > Als een echte seed mogelijk is blootgesteld, gebruik deze dan niet langer als veilige back-up, maak een nieuwe vertrouwde wallet aan met nieuwe herstelgegevens en verplaats het geld nadat u de bestemming zorgvuldig hebt gecontroleerd. De leerling moet hulp zoeken zonder een van beide zinnen prijs te geven.
 

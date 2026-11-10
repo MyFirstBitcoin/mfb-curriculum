@@ -3,6 +3,7 @@
 Le risorse sono limitate, mentre i desideri umani non lo sono.
 
 
+<!-- card: definition -->
 > **Definition – Scarsità**
 >
 > [La scarsità](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) significa che scegliere un utilizzo di una risorsa ne impedisce un altro. Il tempo, la terra, l'energia, la buona salute, gli strumenti e la [moneta sana](https://curriculum.myfirstbitcoin.org/lexicon/en/#sound-money) sono tutti scarsi.
@@ -14,6 +15,7 @@ Il [valore](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) di un bene 
 
 
 <!-- micrographic: same-water-different-value-01 -->
+[La stessa bottiglia di acqua pulita costa poco nel frigorifero di un negozio, dove l'acqua è facile da trovare, e vale molto di più in un deserto torrido durante una carenza. La disponibilità, il bisogno e le circostanze cambiano il valore e il prezzo.](/micrographics/same-water-different-value-01/it.md)
 
 
 Lo scambio avviene quando entrambe le parti preferiscono ciò che ricevono a ciò a cui rinunciano. Non è necessario che concordino sul fatto che i due oggetti abbiano lo stesso [valore](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) personale. Devono soltanto accordarsi sulle condizioni.
@@ -26,6 +28,7 @@ Tre concetti aiutano a spiegare le scelte quotidiane:
 
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Un acquirente con un budget limitato osserva le opzioni che ha davanti: il cibo per oggi, i trasporti o il risparmio per il futuro. Sceglierne una significa rinunciare alle altre, e questo è il costo opportunità; nessuna opzione è indicata come quella giusta.](/micrographics/one-choice-two-uses-01/it.md)
 
 
 [La scarsità](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) da sola non garantisce il [valore](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Un oggetto può essere raro e tuttavia non avere alcuna domanda. Un [bene monetario](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) utile unisce un'offerta limitata a proprietà e a una domanda che rendono le persone disposte a detenerlo o a scambiarlo.

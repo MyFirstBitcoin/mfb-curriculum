@@ -13,6 +13,7 @@ Použijte několik převodů:
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Tabulka se dvěma sloupci: 1 BTC je 100 000 000 sats, 0,1 BTC je 10 000 000 sats, 0,01 BTC je 1 000 000 sats, 0,001 BTC je 100 000 sats a 0,00000001 BTC je 1 sat.](/micrographics/bitcoin-and-sats-01/cs.md)
 
 
 Zeptejte se, proč rozdělením jednoho bitcoinu na menší jednotky nevzniká více bitcoinů. Přirovnejte to k rozdělení odměřeného množství na menší jednotky, aniž byste tvrdili, že tato fyzická analogie vysvětluje fungování protokolu.

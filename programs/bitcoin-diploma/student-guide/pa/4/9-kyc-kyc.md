@@ -3,7 +3,8 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) ਅਤੇ [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) ਦੇ ਰਸਤਿਆਂ ਵਿੱਚ ਵੱਖੋ-ਵੱਖਰੇ [ਲਾਭ-ਨੁਕਸਾਨ ਦੇ ਸਮਝੌਤੇ](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) ਹੁੰਦੇ ਹਨ। ਕਿਸੇ ਵੀ ਲੇਬਲ ਨਾਲ ਧਿਆਨ ਨਾਲ ਮੁਲਾਂਕਣ ਕਰਨ ਦੀ ਲੋੜ ਖ਼ਤਮ ਨਹੀਂ ਹੁੰਦੀ।
 
 
-> **Callout – ਨਿੱਜਤਾ ਨਾਲ ਕਾਨੂੰਨੀ ਜਾਂ ਸਰੀਰਕ ਸੁਰੱਖਿਆ ਦੇ ਖ਼ਤਰੇ ਖ਼ਤਮ ਨਹੀਂ ਹੁੰਦੇ**
+<!-- card: callout -->
+> **ਨਿੱਜਤਾ ਨਾਲ ਕਾਨੂੰਨੀ ਜਾਂ ਸਰੀਰਕ ਸੁਰੱਖਿਆ ਦੇ ਖ਼ਤਰੇ ਖ਼ਤਮ ਨਹੀਂ ਹੁੰਦੇ**
 >
 > ਨਾ ਤਾਂ [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) ਅਤੇ ਨਾ ਹੀ [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) ਆਪਣੇ ਆਪ ਵਿੱਚ ਸਭ ਤੋਂ ਵਧੀਆ ਹੈ। ਅਸਲ ਰਸਤੇ ਦੀ ਤੁਲਨਾ ਕਰੋ, ਨਿਯਮ ਅਸਪਸ਼ਟ ਹੋਣ 'ਤੇ ਮੌਜੂਦਾ ਸਥਾਨਕ ਮਾਰਗਦਰਸ਼ਨ ਲਵੋ, ਅਤੇ ਸਥਾਨਕ ਕਾਨੂੰਨ ਦੀ ਉਲੰਘਣਾ ਨਾ ਕਰੋ ਜਾਂ ਆਪਣੇ ਆਪ ਨੂੰ ਸਰੀਰਕ ਖ਼ਤਰੇ ਵਿੱਚ ਨਾ ਪਾਓ, ਭਾਵੇਂ ਤੁਹਾਡਾ ਮਕਸਦ ਹੋਵੇ [ਨਿੱਜਤਾ](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy)।
 

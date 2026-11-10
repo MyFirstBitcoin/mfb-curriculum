@@ -10,6 +10,7 @@ Jūsų vietos bendruomenei skirta **4 modulio** veikla padės Jums:
 
 
 <!-- micrographic: local-module-four-actions-01 -->
+[Vietos kontekstui pritaikytame 4 modulyje besimokantis asmuo atlieka keturis veiksmus: susieja 1–3 modulių idėją su vietos poreikiu, palygina Bitcoin su realistiška esama alternatyva, saugiai praktikuojasi vadovaujamas mokytojo ir paaiškina, ką išmoko ir koks būtų atsakingas kitas žingsnis. Visą laiką jam padeda mokytojas, o kartais ir vietos ekspertas.](/micrographics/local-module-four-actions-01/lt.md)
 
 
 Atlikdami šią veiklą galite nagrinėti tokius klausimus:

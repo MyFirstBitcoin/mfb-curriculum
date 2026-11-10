@@ -9,6 +9,7 @@ Verwenden Sie eine begrenzte lokale Ressource, um vier Konzepte voneinander abzu
 
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Eine Person mit begrenztem Geld betrachtet die Möglichkeiten vor sich: Essen für heute, Transport oder Sparen für später. Wer sich für eine Möglichkeit entscheidet, verzichtet auf die anderen – das sind die Opportunitätskosten. Keine Möglichkeit ist als die richtige gekennzeichnet.](/micrographics/one-choice-two-uses-01/de.md)
 
 
 Bitten Sie die Lernenden zu erklären, warum Seltenheit allein keinen [Wert](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) schafft. Ein seltener Gegenstand ohne Nutzen oder Nachfrage bleibt möglicherweise unerwünscht.

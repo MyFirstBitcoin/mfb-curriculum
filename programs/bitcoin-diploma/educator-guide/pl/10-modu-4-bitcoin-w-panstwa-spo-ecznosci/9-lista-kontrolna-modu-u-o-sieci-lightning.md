@@ -13,10 +13,12 @@ Przed warsztatami dotyczącymi Lightning proszę sprawdzić i wyjaśnić:
 * symulację offline.
 
 
-> **Dark – Jedna udana płatność Lightning dowodzi jedynie, że ta trasa zadziałała jeden raz**
+<!-- card: dark -->
+> **Jedna udana płatność Lightning dowodzi jedynie, że ta trasa zadziałała jeden raz**
 >
 > Nie dowodzi to, że portfel jest bezpieczny do przechowywania większych kwot ani że ta sama trasa zadziała w każdym miejscu.
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Płatność w sieci Lightning w sześciu krokach: odbiorca tworzy żądanie, nadawca je skanuje, sprawdza odbiorcę, kwotę, jednostkę, termin ważności i opłatę, zatwierdza płatność, płatność jest przesyłana przez sieć, a oba portfele pokazują wynik. Każdy portfel może być powierniczy lub niepowierniczy, a jeśli płatność się nie powiedzie lub żądanie wygaśnie, proces rozpoczyna się od nowa, od utworzenia nowego żądania.](/micrographics/lightning-payment-sequence-01/pl.md)

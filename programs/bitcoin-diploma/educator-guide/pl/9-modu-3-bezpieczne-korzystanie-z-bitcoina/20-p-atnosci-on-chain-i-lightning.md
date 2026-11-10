@@ -18,3 +18,4 @@ Lightning nie jest odrębną monetą. Udana płatność Lightning nie dowodzi, �
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Płatności on-chain są zapisywane bezpośrednio w łańcuchu bloków Bitcoina, natomiast Lightning to sieć płatnicza zbudowana na Bitcoinie, umożliwiająca szybkie i częste płatności, które mogą się również nie powieść. Oba rozwiązania mogą działać z udziałem powiernika lub z samodzielnym zarządzaniem środkami.](/micrographics/on-chain-and-lightning-01/pl.md)

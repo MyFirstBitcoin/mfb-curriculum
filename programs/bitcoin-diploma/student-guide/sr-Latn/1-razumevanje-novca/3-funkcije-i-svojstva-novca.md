@@ -14,6 +14,7 @@ Koristan novac takođe obično ima nekoliko svojstava:
 
 
 <!-- micrographic: money-property-questions-01 -->
+[Sedam svojstava korisnog novca, od kojih je svako praćeno pitanjem koje treba postaviti pri poređenju oblika novca: trajnost, prenosivost, deljivost, zamenljivost, oskudnost, prihvaćenost i proverljivost.](/micrographics/money-property-questions-01/sr-Latn.md)
 
 
 Nijedan oblik novca nije savršen po svim merilima.
@@ -22,6 +23,7 @@ Ljudi takođe upoređuju novac prema njegovoj [**pouzdanosti**](https://curricul
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Dva sloja: tri funkcije novca (sredstvo razmene, obračunska jedinica, sredstvo čuvanja vrednosti) počivaju na sedam svojstava (trajnost, prenosivost, deljivost, zamenljivost, oskudnost, prihvatljivost i proverljivost).](/micrographics/functions-and-properties-01/sr-Latn.md)
 
 
 [Zlato](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) je trajno i oskudno, ali ga je teško deliti i prenositi za mala plaćanja. [Papirni novac](https://curriculum.myfirstbitcoin.org/lexicon/en/#paper-cash) je lako prenosiv i lokalno prihvaćen, ali se može oštetiti, a njegova ponuda se može povećati. Najbolje poređenje zavisi od svrhe, mesta i vremena.

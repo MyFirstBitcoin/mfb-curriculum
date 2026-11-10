@@ -13,6 +13,5 @@ Bagi seseorang yang memilih [penjagaan kendiri](https://curriculum.myfirstbitcoi
 [Penjagaan kendiri](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) oleh itu bukan sekadar ciri teknikal. Ia memerlukan perlindungan salinan sandaran, pengesahan alamat, pemeriksaan cara dompet berfungsi, dan penyediaan pelan pemulihan. Modul seterusnya menerangkan cara menyimpan dan menggunakan bitcoin dengan berhati-hati, termasuk cara mengurus risiko dan tanggungjawab ini.
 
 
-> **Light**
->
+<!-- card: light -->
 > Tanggungjawab peribadi tidak bermakna bertindak bersendirian atau menolak bantuan. Pelajar yang berhati-hati boleh memanfaatkan pendidikan, semakan rakan sebaya, prosedur yang didokumenkan, dan ujian kecil tanpa memberikan akses kepada maklumat rahsia kepada sesiapa.

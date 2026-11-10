@@ -3,6 +3,7 @@
 Albarkatu suna da iyaka, amma buƙatun ɗan Adam ba su da iyaka.
 
 
+<!-- card: definition -->
 > **Definition – Ƙaranci**
 >
 > [Ƙaranci](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) yana nufin cewa zaɓar amfani da wata albarkatu ta hanya ɗaya yana hana amfani da ita ta wata hanya. Lokaci, ƙasa, makamashi, lafiya mai kyau, kayan aiki, da [kuɗi masu riƙe ƙimarsu](https://curriculum.myfirstbitcoin.org/lexicon/en/#sound-money) duk suna da ƙaranci.
@@ -14,6 +15,7 @@ Ita [ƙimar](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) kaya ba ta
 
 
 <!-- micrographic: same-water-different-value-01 -->
+[Irin kwalbar ruwa mai tsabta tana da arha a cikin firijin shago inda ake samun ruwa cikin sauƙi, amma tana da ƙima sosai a hamada mai zafi a lokacin ƙarancin ruwa. Samuwa, buƙata da yanayi suna sauya ƙima da farashi.](/micrographics/same-water-different-value-01/ha.md)
 
 
 Musanya tana faruwa ne idan ɓangarorin biyu sun fi son abin da za su karɓa fiye da abin da za su bayar. Ba sai sun yarda cewa a wajensu abubuwan biyun suna da daidaitacciyar [ƙima](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) ba. Abin da kawai suke buƙata shi ne su amince da sharuɗɗan.
@@ -26,6 +28,7 @@ Ra'ayoyi uku suna taimakawa wajen bayyana zaɓuɓɓukan yau da kullum:
 
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Mai sayayya mai ƙarancin kuɗi yana duba zaɓuɓɓukan da ke gabansa: abincin yau, sufuri, ko ajiyar kuɗi don gaba. Zaɓar ɗaya yana nufin barin sauran, wanda shi ne farashin damar da aka rasa, kuma babu wani zaɓi da aka nuna a matsayin wanda ya dace.](/micrographics/one-choice-two-uses-01/ha.md)
 
 
 [Ƙaranci](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) shi kaɗai ba ya tabbatar da [ƙima](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Wani abu na iya zama mai wahalar samu amma duk da haka babu masu nemansa. Wata [kadara](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) ta kuɗi mai amfani tana haɗa iyakantacciyar wadata da halaye da kuma buƙatar kasuwa waɗanda suke sa mutane su yi niyyar riƙe ta ko musanya ta.

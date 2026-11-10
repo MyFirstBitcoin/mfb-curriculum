@@ -12,6 +12,7 @@ Construisez une chronologie à plusieurs niveaux ou entrelacée plutôt qu’une
 
 
 <!-- micrographic: forms-of-money-01 -->
+[Six formes de monnaie apparaissent de gauche à droite dans leur ordre d’apparition : échange direct, monnaie marchandise, pièces standardisées, monnaie papier représentative, monnaie bancaire et étatique, et monnaie numérique. Chaque nouvelle forme apparaît plus tard, tandis que les formes plus anciennes perdurent à ses côtés, de sorte que plusieurs formes coexistent plutôt que de se remplacer.](/micrographics/forms-of-money-01/fr-FR.md)
 
 
 Invitez les participants à ajouter des exemples locaux. Demandez quelles formes ont coexisté plutôt que de supposer que l’une a complètement remplacé l’autre.

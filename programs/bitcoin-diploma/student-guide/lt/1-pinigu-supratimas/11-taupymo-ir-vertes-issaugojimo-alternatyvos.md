@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: saving-alternatives-table-01 -->
+[Lentelė, kurioje pateikiamos trys grynųjų pinigų laikymo alternatyvos (taurieji metalai, nekilnojamasis turtas ir akcijos), kiekvienos pasirinkimo priežastys ir svarbūs kompromisai. Nė viena alternatyva nelaikoma geresne už kitas.](/micrographics/saving-alternatives-table-01/lt.md)
 
 
 Bet koks [turtas](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) yra tai, ką asmuo gali turėti arba į ką gali turėti teisę ir kas gali turėti [vertę](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); jis savaime neatlieka visų pinigų funkcijų. Būstas gali išsaugoti [vertę](https://curriculum.myfirstbitcoin.org/lexicon/en/#value), tačiau juo atsiskaityti už maistą nepraktiška. Vienoje šalyje akciją gali būti lengva parduoti, tačiau ji gali būti neprieinama žmogui, neturinčiam sąskaitos pas vertybinių popierių brokerį. [Auksas](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) ilgais istorijos laikotarpiais buvo naudojamas kaip pinigai, tačiau atliekant smulkius mainus gali būti sunku patikrinti jo tikrumą arba jį padalyti.

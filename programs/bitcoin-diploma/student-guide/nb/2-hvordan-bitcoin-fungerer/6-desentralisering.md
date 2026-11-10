@@ -3,6 +3,7 @@
 Et [sentralisert system](https://curriculum.myfirstbitcoin.org/lexicon/en/#centralized-system) har et sentralt kontrollpunkt. En bank kontrollerer kundenes [hovedbok](https://curriculum.myfirstbitcoin.org/lexicon/en/#ledger). Et betalingsselskap kontrollerer nettverket sitt. En stat kontrollerer reglene for utstedelse av sin [valuta](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency).
 
 
+<!-- card: definition -->
 > **Definition – Desentralisering**
 >
 > Et [desentralisert system](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralized-system) fordeler roller og håndheving av beslutninger mellom mange uavhengige deltakere. Bitcoin har ikke noe sentralt kontor som kan opprette kontoer, endre saldoer eller godkjenne medlemskap.
@@ -22,6 +23,7 @@ Bitcoins [desentralisering](https://curriculum.myfirstbitcoin.org/lexicon/en/#de
 
 
 <!-- micrographic: powers-and-limits-01 -->
+[Brukere, noder, minere, utviklere og tjenester har alle en viss innflytelse på Bitcoins felles regler og offentlige hovedbok, men ingen kan alene endre hovedboken eller reglene for alle.](/micrographics/powers-and-limits-01/nb.md)
 
 
 [Desentralisering](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) medfører også kostnader. Koordinering kan gå saktere. Brukere må verifisere informasjon og ta større ansvar. Det finnes ingen sentral brukerstøtte for [Bitcoin-nettverket](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). Disse [avveiningene](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) er en del av utformingen, ikke utilsiktede feil som kan fjernes uten å endre systemet.

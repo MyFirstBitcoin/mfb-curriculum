@@ -10,6 +10,7 @@ Ang inyong lokal na **Modyul 4** na aktibidad ay makatutulong sa inyo na:
 
 
 <!-- micrographic: local-module-four-actions-01 -->
+[Sa lokal na Modyul 4, dumaraan ang mag-aaral sa apat na gawain: iugnay ang isang ideya mula sa mga Modyul 1 hanggang 3 sa isang lokal na pangangailangan, ihambing ang Bitcoin sa isang makatotohanang umiiral na opsyon, magsanay nang ligtas na may gabay, at ipaliwanag ang kaniyang natutuhan at ang isang responsableng susunod na hakbang. Ginagabayan siya ng kaniyang guro, at kung minsan ng isang lokal na eksperto, sa buong proseso.](/micrographics/local-module-four-actions-01/tl.md)
 
 
 Maaaring tuklasin ng inyong aktibidad ang mga tanong na tulad ng:

@@ -16,6 +16,7 @@ Jelaskan bahwa pesan atau tangkapan layar bertuliskan “terkirim” bukanlah bu
 
 
 <!-- micrographic: check-what-you-receive-01 -->
+[Contoh layar penerimaan pada ponsel menampilkan metode pembayaran, permintaan pembayaran untuk dibagikan, jumlah, dan status menunggu. Pesan atau tangkapan layar bertuliskan "terkirim" bukanlah bukti: periksa statusnya di dompet Anda sendiri.](/micrographics/check-what-you-receive-01/id.md)
 
 
 #### Latihan: panduan langkah demi langkah pada layar penerimaan

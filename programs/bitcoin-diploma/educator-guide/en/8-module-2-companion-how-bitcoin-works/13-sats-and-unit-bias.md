@@ -13,6 +13,7 @@ Use a few conversions:
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[A two-column table: 1 BTC is 100,000,000 sats, 0.1 BTC is 10,000,000 sats, 0.01 BTC is 1,000,000 sats, 0.001 BTC is 100,000 sats, and 0.00000001 BTC is 1 sat.](/micrographics/bitcoin-and-sats-01/en.md)
 
 
 Ask why dividing one bitcoin into smaller units does not create more bitcoin. Compare cutting a measured quantity into smaller units without claiming the physical analogy explains the protocol.

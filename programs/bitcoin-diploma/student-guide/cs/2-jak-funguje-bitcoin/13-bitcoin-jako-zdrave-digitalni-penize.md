@@ -6,6 +6,7 @@ Bitcoin spojuje vlastnosti, které se dříve nevyskytovaly společně v jediné
 
 
 <!-- micrographic: bitcoin-money-properties-01 -->
+[Bitcoin spojuje sedm vlastností peněz v jednom aktivu: trvanlivost, přenositelnost, dělitelnost, zaměnitelnost, vzácnost, ověřitelnost a přijatelnost. Každá z nich má praktická omezení, například nutnost bezpečně uchovávat klíče a míru přijímání, která je v mnoha komunitách stále nízká.](/micrographics/bitcoin-money-properties-01/cs.md)
 
 
 

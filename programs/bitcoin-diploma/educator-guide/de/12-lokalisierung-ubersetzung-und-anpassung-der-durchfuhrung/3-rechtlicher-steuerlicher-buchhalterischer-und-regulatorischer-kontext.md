@@ -14,6 +14,7 @@ Unterlassen Sie Folgendes:
 Verwenden Sie Formulierungen wie:
 
 
-> **Callout – Aktuelle lokale Orientierung, keine individuelle Beratung**
+<!-- card: callout -->
+> **Aktuelle lokale Orientierung, keine individuelle Beratung**
 >
 > Lokale Regeln können diesen Weg betreffen. Die aktuelle öffentliche Orientierung, die wir am [Datum] geprüft haben, besagt ________. Dies ist eine Zusammenfassung zu Bildungszwecken, keine Beratung für eine individuelle Situation. Fallbezogene Fragen sollte eine qualifizierte lokale Fachperson oder Behörde beantworten.

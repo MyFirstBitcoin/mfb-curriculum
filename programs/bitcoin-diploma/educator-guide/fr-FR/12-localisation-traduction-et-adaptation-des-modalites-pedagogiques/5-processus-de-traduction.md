@@ -14,6 +14,7 @@ Suivez ces étapes dans l’ordre :
 
 
 <!-- micrographic: translation-workflow-01 -->
+[La traduction est un processus de révision et de test : préparez un texte anglais clair, traduisez le sens, faites relire la traduction par un spécialiste de la langue et un pédagogue, testez les consignes de sécurité auprès des apprenants, puis confirmez l’équivalence des exigences. Si les consignes de sécurité manquent de clarté, revoyez leur formulation.](/micrographics/translation-workflow-01/fr-FR.md)
 
 
 Évitez les expressions idiomatiques et les métaphores qui se transposent mal d’une langue à l’autre. Si vous utilisez une analogie, précisez toujours ce qu’elle explique et ce qu’elle n’explique pas.

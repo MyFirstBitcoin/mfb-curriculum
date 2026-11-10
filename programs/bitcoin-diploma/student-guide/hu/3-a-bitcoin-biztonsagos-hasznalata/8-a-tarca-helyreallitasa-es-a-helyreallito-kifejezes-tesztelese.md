@@ -8,6 +8,7 @@ A helyreállításra való biztonságos felkészülés gyakorlata egyszerű:
 
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[Hatlépéses gyakorlat egy gyakorlótárca helyreállításához: kövesse a hivatalos utasításokat, ellenőrizze a kompatibilitást, dolgozzon bizalmas körülmények között, használja a jóváhagyott helyreállítási módszert, ellenőrizze, hogy a várt tárcát kapta-e vissza, majd állítsa alaphelyzetbe a környezetet. Kizárólag előkészített, üres vagy szimulált anyagokat használjon, és az oktató soha nem láthatja a helyreállító szavakat.](/micrographics/practice-wallet-recovery-01/hu.md)
 
 
 A Diploma elvégzése után ne használjon gyakorlótárcát vagy annak helyreállítási adatait jelentős pénzösszegek védelmére. Ha később úgy dönt, hogy személyes tárcát hoz létre, azt újonnan, bizalmas körülmények között kell beállítania, új helyreállítási adatokkal.

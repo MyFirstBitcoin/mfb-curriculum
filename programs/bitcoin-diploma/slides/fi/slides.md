@@ -75,7 +75,8 @@ Raha on omaisuuserä, jonka ihmiset hyväksyvät, koska he odottavat muiden hyv�
 * Arvo ajasta ja etäisyydestä riippumatta
 
 
-> **Callout – Pikakysymys**
+<!-- card: callout -->
+> **Pikakysymys**
 >
 > Minkä vaihdantaan tai toiminnan yhteensovittamiseen liittyvän ongelman raha auttaa ratkaisemaan?
 
@@ -108,7 +109,8 @@ Yksi rahan muoto voi täyttää jonkin tehtävän paremmin kuin toinen. Kaikkiin
 Mikään rahamuoto ei saa täysiä pisteitä. ”**Terve raha**” on arvio: määritelkää kriteerit ja vertailkaa johdonmukaisesti.
 
 
-> **Callout – Ajatelkaa kriittisesti**
+<!-- card: callout -->
+> **Ajatelkaa kriittisesti**
 >
 > Mitkä ominaisuudet olivat tärkeitä, kun valitsitte yhden raha- tai omaisuuslajin toisen sijaan?
 
@@ -152,6 +154,7 @@ Pelkkä niukkuus ei takaa arvoa; myös kysynnällä on merkitystä.
 ---
 
 <!-- micrographic: same-water-different-value-01 -->
+[Sama pullo puhdasta vettä on halpa kaupan jääkaapissa, missä vettä löytyy helposti, ja paljon arvokkaampi kuumalla aavikolla vesipulan aikana. Saatavuus, tarve ja olosuhteet muuttavat arvoa ja hintaa.](/micrographics/same-water-different-value-01/fi.md)
 
 ---
 
@@ -162,6 +165,7 @@ Pelkkä niukkuus ei takaa arvoa; myös kysynnällä on merkitystä.
 ---
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Ostaja, jolla on rajallisesti rahaa, tarkastelee edessään olevia vaihtoehtoja: ruokaa tälle päivälle, liikkumista tai säästämistä myöhempää varten. Yhden valitseminen tarkoittaa muista luopumista, mikä on vaihtoehtoiskustannus. Mitään vaihtoehtoa ei ole merkitty oikeaksi.](/micrographics/one-choice-two-uses-01/fi.md)
 
 ---
 
@@ -195,6 +199,7 @@ Kätevät maksut ja joustava luotonsaanti tuovat mukanaan riippuvuuden instituut
 ---
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Fiat-rahajärjestelmän toimijat ja niiden väliset virrat: keskuspankki määrittää rahapolitiikan ja selvittää pankkien väliset maksut, liikepankit pitävät hallussaan talletuksia, jotka ovat niiden velkaa asiakkaille, maksupalvelut välittävät maksuohjeita, valtio kerää veroja ja käyttää varoja, ja kansalaiset ja yritykset maksavat ja saavat maksuja.](/micrographics/fiat-system-flows-01/fi.md)
 
 ---
 
@@ -230,10 +235,12 @@ Talletuspaot voivat vaikeuttaa varojen saatavuutta. Talletussuoja ja keskuspanki
 ---
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Pankkilaina yksinkertaistettuna: lainanottaja hakee lainaa, pankki hyväksyy lainan ja kirjaa lainanottajan tilille uuden talletuksen, ja lainanottaja maksaa myöhemmin pankille takaisin lainapääoman korkoineen.](/micrographics/bank-loan-deposit-01/fi.md)
 
 ---
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Maksuvalmiusriski: monet tallettajat jonottavat nostaakseen rahansa tänään, eikä pankilla ole nyt riittävästi käteistä, vaikka sen myöntämät lainat saatetaan maksaa takaisin myöhemmin. Vakavaraisuusriski: lainanottajat jättävät asuntolainansa maksamatta, ja pankin varojen arvo laskee sen velkojen määrää pienemmäksi.](/micrographics/liquidity-vs-solvency-01/fi.md)
 
 ---
 
@@ -255,6 +262,7 @@ Rahan ja luoton määrän kasvu voi vaikuttaa inflaatioon tarjonnan, kysynnän, 
 ---
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Samoilla 100 rahayksiköllä saa ostettua koko perushyödykkeistä koostuvan ostoskorin, kun se maksaa 100, mutta ei enää silloin, kun sama ostoskori maksaa 110. Hintataso on noussut ja rahan ostovoima on heikentynyt.](/micrographics/same-money-smaller-basket-01/fi.md)
 
 ---
 
@@ -308,7 +316,8 @@ Keskuspankin digitaalinen valuutta (CBDC) on digitaalista fiat-rahaa, joka laske
 Toteutustavat vaihtelevat. Digitaalisuus ei automaattisesti tarkoita hajautusta, niukkuutta, yksityisyyttä tai riippumatonta todennettavuutta.
 
 
-> **Callout – Tarkistakaa**
+<!-- card: callout -->
+> **Tarkistakaa**
 >
 > Kuka laskee sen liikkeeseen, kuka voi käyttää sitä, mitä tietoja kerätään ja kuka voi estää maksuja tai muuttaa sääntöjä? Mitä tapahtuu ilman verkkoyhteyttä, ja millaista oikeussuojaa on tarjolla?
 
@@ -327,7 +336,8 @@ Toteutustavat vaihtelevat. Digitaalisuus ei automaattisesti tarkoita hajautusta,
 Mikä tekee rahastanne hyödyllistä, ja mitkä säännöt riippuvat instituutioista, joihin luotatte?
 
 
-> **Callout – Hetki pohdinnalle**
+<!-- card: callout -->
+> **Hetki pohdinnalle**
 >
 > Minkä yhden kysymyksen esitätte nyt rahasta, jota ette aiemmin esittäneet?
 
@@ -357,6 +367,7 @@ Bitcoin vähentää tarvetta luottaa keskitettyyn tahoon liikkeeseenlaskussa ja 
 ---
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Maksuyhtiötä käytettäessä yksi organisaatio ylläpitää tilikirjaa ja hyväksyy jokaisen siirron. Bitcoinia käytettäessä lähettäjä allekirjoittaa tapahtuman, riippumattomat solmut tarkistavat sen ja louhijat lisäävät sen yhteen yhteiseen tilikirjaan, joten vastaanottaja on vähemmän riippuvainen keskitetystä tahosta.](/micrographics/central-ledger-vs-bitcoin-01/fi.md)
 
 ---
 
@@ -393,6 +404,7 @@ Kaksoiskulutus on yritys lähettää sama digitaalinen yksikkö kahdelle vastaan
 ---
 
 <!-- micrographic: five-part-response-01 -->
+[Viisi osaa ratkaisee yhdessä kaksoiskulutusongelman: vertaisverkko, digitaaliset allekirjoitukset, lohkot ja louhinta, riippumaton varmentaminen sekä yhteinen historia, johon on kertynyt eniten työtodistetta. Yhdessä ne mahdollistavat sen, että verkko hylkää samojen varojen toistamiseen käyttämisen ilman keskusviranomaista.](/micrographics/five-part-response-01/fi.md)
 
 ---
 
@@ -411,6 +423,7 @@ Kirjallinen väite tarjonnasta ei riitä: kuka voi todentaa sen ja kuka voisi mu
 ---
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Liikkeeseenlaskija voi muuttaa verkkosivustolle tai omaan tietokantaansa kirjattua tarjonnan enimmäismäärää huomaamatta. Bitcoinin tarjontasääntö on julkinen, ja allekirjoitukset, julkinen historia, työntodiste ja solmujen tekemä tarkistus estävät yhdessä uusien kolikoiden luomisen tyhjästä tai saman bitcoinin käyttämisen kahdesti.](/micrographics/claimed-or-verified-supply-01/fi.md)
 
 ---
 
@@ -452,12 +465,14 @@ Välittäjäpalvelujen käyttö on edelleen vapaaehtoista; sellaisen valitsemine
 ---
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[Lähettäjä allekirjoittaa siirron ja lähettää sen monille verkon solmuille, jotka välittävät sitä eteenpäin, kunnes se saavuttaa vastaanottajan. Lähettäjä tai vastaanottaja ei tarvitse minkään keskitetyn Bitcoin-operaattorin hyväksyntää.](/micrographics/peer-to-peer-route-01/fi.md)
 
 ---
 
 ![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Bitcoinin neljä roolia: käyttäjät vastaanottavat, säilyttävät ja lähettävät bitcoinia, solmut tarkistavat sääntöjen noudattamisen itsenäisesti, louhijat rakentavat lohkoehdokkaita työntodistuksen avulla ja kehittäjät ehdottavat ohjelmistoja. Mikään yksittäinen rooli ei hallitse verkkoa.](/micrographics/bitcoin-participant-roles-01/fi.md)
 
 ---
 
@@ -466,7 +481,8 @@ Välittäjäpalvelujen käyttö on edelleen vapaaehtoista; sellaisen valitsemine
 Louhijat eivät voi saada rehellisiä solmuja hyväksymään virheellisiä lohkoja. Kehittäjät eivät voi pakottaa ketään ottamaan ohjelmistoa käyttöön. Yksi henkilö voi toimia useassa roolissa.
 
 
-> **Callout – Pikakysymys**
+<!-- card: callout -->
+> **Pikakysymys**
 >
 > Miksi solmu varmentaa transaktioita? Nimetkää yksi sääntö, jonka noudattamisen se tarkistaa.
 
@@ -489,6 +505,7 @@ Louhinta turvaa transaktioiden järjestyksen; se ei ratkaise ulkopuolisia yhtäl
 ![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Louhija laskee ehdotetusta lohkosta tiivisteitä yhä uudelleen, kunnes yksi tulos alittaa verkon tavoitearvon, ja lähettää sitten lohkon verkkoon. Solmut tarkistavat nopeasti todisteen ja kaikkien sääntöjen noudattamisen ennen kuin lohko liitetään lohkoketjuun: työn tekeminen on kallista ja sen todentaminen helppoa.](/micrographics/proof-of-work-process-01/fi.md)
 
 ---
 
@@ -509,10 +526,12 @@ Solmut hylkäävät liiallisen liikkeeseenlaskun; enimmäismäärä pitää niin
 ---
 
 <!-- micrographic: bitcoin-issuance-supply-01 -->
+[Lohkotuki on aluksi 50 bitcoinia ja puolittuu 210 000 lohkon välein, kun taas liikkeeseen laskettujen bitcoinien kokonaismäärä kasvaa kohti 21 miljoonan enimmäismäärää. Siirtomaksut maksetaan tämän lisäksi, eivätkä ne ole uusia bitcoineja; kuvaus ei sisällä hintaennustetta.](/micrographics/bitcoin-issuance-supply-01/fi.md)
 
 ---
 
 <!-- micrographic: bitcoin-issuance-subsidy-01 -->
+[Lohkotuki on aluksi 50 bitcoinia ja puolittuu 210 000 lohkon välein, kun taas liikkeeseen laskettujen bitcoinien kokonaismäärä kasvaa kohti 21 miljoonan enimmäismäärää. Siirtomaksut maksetaan tämän lisäksi, eivätkä ne ole uusia bitcoineja; kuvaus ei sisällä hintaennustetta.](/micrographics/bitcoin-issuance-subsidy-01/fi.md)
 
 ---
 
@@ -528,7 +547,8 @@ Solmut hylkäävät liiallisen liikkeeseenlaskun; enimmäismäärä pitää niin
 **Yksikköharha:** alhainen hinta kokonaista yksikköä kohti ei osoita parempaa vastinetta rahalle. Vertailkaa osuutta kokonaistarjonnasta, kyseessä olevaa arvoa ja riskejä.
 
 
-> **Callout – Osoittakaa ymmärryksenne**
+<!-- card: callout -->
+> **Osoittakaa ymmärryksenne**
 >
 > Kuinka monta satoshia on 0,01 BTC? Miksi on mahdollista käyttää kokonaista bitcoinia pienempää määrää?
 
@@ -586,7 +606,8 @@ Tuttu kaupankäyntitunnus, vakaalta vaikuttava hinta tai viimeistelty sovellus e
 * Ei kehotusta ostaa, myydä tai pitää hallussa
 
 
-> **Callout – Paikallisen arvon tarkistus**
+<!-- card: callout -->
+> **Paikallisen arvon tarkistus**
 >
 > Erottakaa toisistaan markkinahinta, paikallinen hyväksyntä ja henkilökohtainen mieltymys tai ennakkoasenne.
 
@@ -601,6 +622,7 @@ Arvioikaa sen rakennetta ja toimintaa sekä syntytarinaa.
 ---
 
 <!-- micrographic: bitcoin-origin-timeline-01 -->
+[Bitcoinin synty neljän päivätyn tapahtuman kautta: 31. lokakuuta 2008 Satoshi Nakamoto julkaisi teknisen kuvauksen, jossa esiteltiin suorat verkkomaksut ilman rahoitusalan välikättä; 3. tammikuuta 2009 Genesis-lohko käynnisti Bitcoin-verkon ja sisälsi pankkien pelastuspaketteja koskevan uutisotsikon; 12. tammikuuta 2009 Satoshi teki ensimmäisen tallennetun henkilöiden välisen siirron lähettämällä bitcoinia vastaanottajalle Hal Finney; 22. toukokuuta 2010 eräs käyttäjä maksoi 10 000 BTC kahdesta pizzasta, ja päivää vietetään nykyään Bitcoin-pizzapäivänä.](/micrographics/bitcoin-origin-timeline-01/fi.md)
 
 ---
 
@@ -629,7 +651,8 @@ Henkilökohtaiseen vastuuseen voivat kuulua kouluttautuminen, vertaisarviointi, 
 * Siirtojen järjestäminen → työntodiste; laitteisto- ja energiakustannukset
 
 
-> **Callout – Hetki pohdinnalle**
+<!-- card: callout -->
+> **Hetki pohdinnalle**
 >
 > Minkä osan Bitcoinin rakenteesta selittäisitte nyt eri tavalla ja miksi?
 
@@ -674,6 +697,7 @@ Harjoituslompakoissa ei saa säilyttää merkittäviä varoja. Myöhemmin käytt
 ---
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Lompakko sisältää avaimet. Niiden avulla voitte vastaanottaa ja lähettää bitcoinia, mutta itse bitcoinit pysyvät kirjattuina yhteiseen tilikirjaan, eivät puhelimen tai laitteen sisälle.](/micrographics/wallet-manages-keys-01/fi.md)
 
 ---
 
@@ -699,13 +723,15 @@ Haittaohjelma voi korvata kopioidut maksukohteet toisilla. Tuttu ulkoasu ei riit
 Älkää koskaan jakako yksityisiä avaimia, palautuslauseita, salasanoja tai palautuskoodeja. Yksikään rehellinen kouluttaja, tukihenkilö, lompakkoyritys, kryptovaluuttapörssin työntekijä tai kehittäjä ei tarvitse niitä.
 
 
-> **Callout – Kokeilkaa**
+<!-- card: callout -->
+> **Kokeilkaa**
 >
 > Lajitelkaa valmiit esimerkit vastaanottotietoihin, salassa pidettäviin tietoihin ja julkisiin tietoihin, jotka muuttuvat arkaluonteisiksi, kun ne yhdistetään henkilöön.
 
 ---
 
 <!-- micrographic: private-key-public-info-01 -->
+[Salaisesta yksityisestä avaimesta, jota ei saa koskaan jakaa, saadaan tietoja, joita voi jakaa: siitä johdettu julkinen avain ja sen tiedoista luotu vastaanotto-osoite. Sama yksityinen avain luo allekirjoituksia, jotka solmut tarkistavat saamatta koskaan tietää yksityistä avainta.](/micrographics/private-key-public-info-01/fi.md)
 
 ---
 
@@ -738,7 +764,8 @@ Jos palautuslause on saatettu nähdä, kopioida, syöttää verkkoon tai tallent
 Julkinen lohkoketju ei voi todistaa, mitä palveluntarjoaja on velkaa tietylle asiakkaalle. Omaan säilytykseen voi silti liittyä riippuvuuksia ohjelmistoista, laitteistoista, palvelimista ja verkoista.
 
 
-> **Callout – Kokeilkaa**
+<!-- card: callout -->
+> **Kokeilkaa**
 >
 > Verratkaa kahta valmista kuvausta: kuka hallitsee avaimia, kuka palauttaa pääsyn ja mikä riski on tarkistettava?
 
@@ -749,6 +776,7 @@ Julkinen lohkoketju ei voi todistaa, mitä palveluntarjoaja on velkaa tietylle a
 ---
 
 <!-- micrographic: who-controls-keys-01 -->
+[Palvelun hallinnoimassa käytössä palvelu hallitsee avaimia ja hyväksyy varojen käytön, joten saldo on palvelun antama lupaus. Itse hallinnoidussa käytössä käyttäjä hallitsee avaimia ja varmuuskopioita; kumpaankin tapaan liittyy riippuvuuksia ja epäonnistumisen riskejä.](/micrographics/who-controls-keys-01/fi.md)
 
 ---
 
@@ -776,6 +804,7 @@ Käyttäkää vain ennalta valmisteltuja, tyhjiä tai simuloituja materiaaleja. 
 ---
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[Kuusivaiheinen harjoitus harjoituslompakon palauttamiseen: noudattakaa virallisia ohjeita, tarkistakaa yhteensopivuus, työskennelkää yksityisesti, käyttäkää hyväksyttyä palautusmenetelmää, varmistakaa, että lompakko on odotettu, ja nollatkaa lopuksi ympäristö. Käyttäkää vain ennalta valmisteltuja, tyhjiä tai simuloituja materiaaleja. Kouluttaja ei koskaan näe palautussanoja.](/micrographics/practice-wallet-recovery-01/fi.md)
 
 ---
 
@@ -804,6 +833,7 @@ Hyväksykää vain, kun kaikki tarkistetut tiedot täsmäävät. Jos tiedot muut
 ---
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Ennen maksun hyväksymistä lähettäjä tarkistaa vastaanottajan ja maksun tarkoituksen, maksutavan, kohteen sekä summan, yksikön, siirtomaksun tai vanhenemisajan ja tekee pienen testimaksun, jos menettely on vieras. Jos jokin poikkeaa, hän pysähtyy ja varmistaa tiedot. Hän hyväksyy maksun vasta, kun kaikki tiedot täsmäävät, ja tarkistaa sitten tuloksen.](/micrographics/pre-send-checklist-01/fi.md)
 
 ---
 
@@ -823,6 +853,7 @@ Käyttäkää valmiita esimerkkejä; älkää tehkö hakuja oppijan henkilökoht
 ---
 
 <!-- micrographic: confirmation-timeline-01 -->
+[Siirto odottaa vahvistamattomana odottavien siirtojen varannossa, minkä jälkeen se sisällytetään lohkoon N ja saa ensimmäisen vahvistuksensa. Jokainen myöhempi lohko lisää yhden vahvistuksen.](/micrographics/confirmation-timeline-01/fi.md)
 
 ---
 
@@ -835,7 +866,8 @@ Käyttäkää valmiita esimerkkejä; älkää tehkö hakuja oppijan henkilökoht
 **Pysähtykää. Älkää jakako mitään. Älkää lähettäkö mitään. Sulkekaa viestintäkanava. Tarkistakaa asia riippumattomasta lähteestä. Pyytäkää apua paljastamatta salaisuuksia.**
 
 
-> **Callout – Kokeilkaa**
+<!-- card: callout -->
+> **Kokeilkaa**
 >
 > Tunnistakaa valmiiksi laaditusta viestistä varoitusmerkki, mahdollinen menetys ja ensimmäinen turvallinen toimenpide.
 
@@ -844,6 +876,7 @@ Käyttäkää valmiita esimerkkejä; älkää tehkö hakuja oppijan henkilökoht
 ---
 
 <!-- micrographic: scam-red-flags-01 -->
+[Viisi huijauksen varoitusmerkkiä: kiireellisyys, toisena esiintyminen, muuttunut maksukohde, taatut tuotot ja salaisia tietoja koskevat pyynnöt.](/micrographics/scam-red-flags-01/fi.md)
 
 ---
 
@@ -860,10 +893,12 @@ Mikään hankintatapa tai palveluntarjoaja ei ole automaattisesti paras. **KYC**
 ---
 
 <!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Henkilö voi saada bitcoinia neljällä eri tavalla: ansaitsemalla sitä työstä tai myynnistä, vaihtamalla paikallista käteistä toisen henkilön kanssa, käyttämällä pörssiä tai välittäjää tai käyttämällä automaattia. Jokainen reitti päättyy omaan säilytykseen tai säilytyspalvelun saldoon, eikä mitään niistä suositella muiden edelle.](/micrographics/ways-to-receive-bitcoin-01/fi.md)
 
 ---
 
 <!-- micrographic: exchange-risk-questions-01 -->
+[Kuusi riskialuetta, jotka on tarkistettava ennen bitcoinien hankkimista tai vaihtamista. Kuhunkin liittyy kysymys: kustannukset, säilytys, henkilöllisyys ja yksityisyys, nostot ja maksujen selvitys, vastapuoli ja turvallisuus sekä paikalliset olosuhteet.](/micrographics/exchange-risk-questions-01/fi.md)
 
 ---
 
@@ -909,7 +944,8 @@ Käyttäkää sovittua harjoitteluympäristöä. Keskeyttäkää, jos huomaatte 
 Ystävä lähettää pyynnön samalla, kun tuntematon tukipalvelu vaatii välittömiä toimia. Mitä voisitte tarkistaa ennen kuin teette mitään?
 
 
-> **Callout – Hetki pohdinnalle**
+<!-- card: callout -->
+> **Hetki pohdinnalle**
 >
 > Minkä turvallisuustarkistuksen tekemiseen pysähdytte ennen kuin toimitte?
 
@@ -928,6 +964,7 @@ Ystävä lähettää pyynnön samalla, kun tuntematon tukipalvelu vaatii välitt
 ## Paikallinen moduulinne 4
 
 <!-- micrographic: local-module-four-actions-01 -->
+[Paikallisessa moduulissa 4 oppija käy läpi neljä vaihetta: hän yhdistää moduuleissa 1–3 opitun ajatuksen paikalliseen tarpeeseen, vertaa Bitcoinia realistiseen olemassa olevaan vaihtoehtoon, harjoittelee turvallisesti ohjatusti ja selittää, mitä hän on oppinut ja mikä on vastuullinen seuraava askel. Opettaja ja toisinaan paikallinen asiantuntija ohjaavat häntä koko ajan.](/micrographics/local-module-four-actions-01/fi.md)
 
 
 Kirjatkaa paikallinen tarkastelukohteenne: ongelma tai mahdollisuus, vaihtoehto, turvallinen skenaario, tärkein hyöty ja riski sekä turvallinen seuraava askel.
@@ -979,10 +1016,12 @@ Onnistunut pieni maksu ei osoita, että suurempien saldojen säilyttäminen olis
 ---
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[Vastaanottaja luo puhelimellaan Lightning-maksupyynnön, jossa on maksettava summa. Lähettäjä skannaa sen ja maksaa, ja maksu saapuu vastaanottajan puhelimeen hetkeä myöhemmin.](/micrographics/lightning-phone-payment-01/fi.md)
 
 ---
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Lightning-maksu kuudessa vaiheessa: vastaanottaja luo maksupyynnön, lähettäjä skannaa sen, tarkistaa vastaanottajan, summan, yksikön, voimassaoloajan ja siirtomaksun sekä hyväksyy maksun, maksu reititetään ja molemmat lompakot näyttävät tuloksen. Kumpikin lompakko voi olla säilytyspalvelun hallinnoima tai itsehallinnoitu, ja epäonnistuneen tai vanhentuneen maksun jälkeen aloitetaan alusta uudella maksupyynnöllä.](/micrographics/lightning-payment-sequence-01/fi.md)
 
 ---
 
@@ -1034,6 +1073,7 @@ Valitkaa oppaan skenaarioista paikalliseen tehtävään sopivat tai mukauttakaa 
 ---
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[Kahvilamaksu neljässä vaiheessa: asiakas tilaa, tarjoilija lähettää laskun, asiakas maksaa bitcoineilla puhelimellaan ja tarjoilija ojentaa kahvin.](/micrographics/coffee-shop-payment-01/fi.md)
 
 ---
 
@@ -1094,6 +1134,7 @@ Pelkkä käyttäjämäärä ei osoita hyödyllisyyttä. Heikko kysyntä, puuttee
 ---
 
 <!-- micrographic: local-circular-economy-01 -->
+[Bitcoin-kiertotaloudessa bitcoin siirtyy ihmiseltä toiselle vastineeksi tavaroista, palveluista ja ajasta. Asiakas maksaa kauppiaalle, kauppias maksaa palveluntarjoajalle, palveluntarjoaja maksaa työntekijälle, ja työntekijä käyttää saamansa bitcoinit jälleen asiakkaana.](/micrographics/local-circular-economy-01/fi.md)
 
 ---
 
@@ -1151,6 +1192,7 @@ Tehkää tehtävä itsenäisesti ja verratkaa sitten perustelujanne ryhmänne ka
 * Hyödyllinen osallistuminen yhteisön toimintaan on vapaaehtoista ja suojelee ihmisiä
 
 
-> **Callout – Hetki pohdinnalle**
+<!-- card: callout -->
+> **Hetki pohdinnalle**
 >
 > Minkä kysymyksen esittäisitte ennen kuin päätätte, sopiiko Bitcoiniin perustuva ratkaisu paikalliseen tarpeeseen?

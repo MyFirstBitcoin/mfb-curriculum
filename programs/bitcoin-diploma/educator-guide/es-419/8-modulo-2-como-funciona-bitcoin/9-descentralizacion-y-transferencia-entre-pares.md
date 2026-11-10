@@ -13,6 +13,7 @@ De persona a persona no significa que solo dos computadoras se comuniquen direct
 
 
 <!-- micrographic: powers-and-limits-01 -->
+[Los usuarios, nodos, mineros, desarrolladores y servicios tienen cierto poder en torno a las reglas compartidas y al registro contable público de Bitcoin, pero ninguno puede cambiar por sí solo el registro contable ni las reglas para todos.](/micrographics/powers-and-limits-01/es-419.md)
 
 
 ![El educador utiliza un puntero para explicar una red en un tablero de presentación a los estudiantes principiantes y a los que tienen conocimientos técnicos.](https://cdn.sanity.io/images/vje9ehw2/production/3999e88f5f80f010b5cd6238a4fe41d1aed8bdb2-1054x1492.png)

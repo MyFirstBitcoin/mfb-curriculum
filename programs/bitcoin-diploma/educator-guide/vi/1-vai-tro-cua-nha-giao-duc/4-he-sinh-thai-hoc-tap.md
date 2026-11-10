@@ -13,3 +13,4 @@ Mỗi phần của chương trình Bitcoin Diploma có một chức năng riêng
 
 
 <!-- micrographic: learning-ecosystem-map-01 -->
+[Hướng dẫn dành cho học viên cung cấp phần giải thích, Hướng dẫn dành cho nhà giáo dục hỗ trợ việc giảng dạy, và các hoạt động được tuyển chọn trong Kho tài nguyên hỗ trợ việc thực hành. Bảng đánh giá lưu giữ kết quả đánh giá riêng tư.](/micrographics/learning-ecosystem-map-01/vi.md)

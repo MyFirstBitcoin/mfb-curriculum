@@ -15,6 +15,7 @@ Ardından sıradan bir yerel ödemeyi adım adım izleyin. Ulaşım, gıda, ücr
 
 
 <!-- micrographic: fiat-system-flows-01 -->
+[İtibari para sistemindeki aktörler ve aralarındaki akışlar: merkez bankası politikayı belirler ve bankalar arası takası sağlar, ticari bankalar müşterilerine karşı yükümlülükleri olan mevduatları tutar, ödeme hizmetleri talimatları iletir, devlet vergi toplar ve harcama yapar, vatandaşlar ve işletmeler ise ödeme yapar ve ödeme alır.](/micrographics/fiat-system-flows-01/tr.md)
 
 
 Yerel sistemi açıklamaya hazır olun. Hangi ayrıntıların genel, hangilerinin ilgili yargı alanına özgü olduğunu belirtin. Nakde dayalı yaşam ve bankacılık hizmetlerine yeterince erişemeyenlerin gerçeklikleri de dahil olmak üzere farklı deneyimlerin paylaşılmasını teşvik edin; ancak tartışmayı siyasi bir sonuca dönüştürmeyin.

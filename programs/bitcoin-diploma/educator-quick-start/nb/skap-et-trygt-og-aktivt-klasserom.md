@@ -1,6 +1,7 @@
 # Skap et trygt og aktivt klasserom
 
-> **Callout – Beskytt deltakerne før den praktiske aktiviteten begynner**
+<!-- card: callout -->
+> **Beskytt deltakerne før den praktiske aktiviteten begynner**
 >
 > Be aldri om, se på, fotografer, kopier, registrer eller lagre en ekte gjenopprettingsfrase, privat nøkkel, passord eller unødvendige økonomiske opplysninger. Ikke press noen til å kjøpe, selge, beholde eller bruke bitcoin. Ta en pause hver gang en deltaker er usikker, føler seg presset eller er utsatt for mulig svindel.
 

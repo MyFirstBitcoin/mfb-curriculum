@@ -14,6 +14,7 @@ Não:
 Use formulações como:
 
 
-> **Callout – Orientação local atual, não aconselhamento individual**
+<!-- card: callout -->
+> **Orientação local atual, não aconselhamento individual**
 >
 > As regras locais podem afetar este caminho. A orientação pública atual que verificamos em [data] diz ________. Este é um resumo educativo, não um aconselhamento para uma situação individual. Um profissional ou uma autoridade local qualificada deve responder às perguntas específicas de cada caso.

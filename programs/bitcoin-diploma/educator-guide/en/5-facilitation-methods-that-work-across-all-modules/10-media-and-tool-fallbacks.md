@@ -24,6 +24,7 @@ Offline teaching and assessment are valid. Use offline knowledge checks, printed
 
 
 <!-- micrographic: same-competency-any-route-01 -->
+[Live tools, paper simulations, and approved accessible routes can support the same competency when the learner still makes the required decisions and the educator can judge equivalent evidence. Without equivalence, prepare another route before certification.](/micrographics/same-competency-any-route-01/en.md)
 
 
 The Student Guide explains lasting concepts. Verify current local details before presenting fees, laws, taxes, available services, wallet features, or merchant listings, and date the information you use.

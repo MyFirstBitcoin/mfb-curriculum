@@ -12,6 +12,7 @@ Pomocí připraveného [_txid_](https://curriculum.myfirstbitcoin.org/lexicon/en
 
 
 <!-- micrographic: confirmation-timeline-01 -->
+[Transakce čeká nepotvrzená ve fondu čekajících transakcí, poté je zahrnuta do bloku N, čímž získá první potvrzení, a každý další blok přidává jedno další.](/micrographics/confirmation-timeline-01/cs.md)
 
 
 Poté se zeptejte:

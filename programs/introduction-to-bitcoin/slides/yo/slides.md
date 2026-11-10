@@ -40,7 +40,8 @@ Kì í ṣe ṣíṣiṣẹ́ láti rí i gbà, kì í ṣe níná rẹ̀, bí k
 * Ṣé owó yín ṣì lè ra iye ohun kan náà bí ti tẹ́lẹ̀?
 
 
-> **Callout – Ẹ pa àwọn ìdáhùn yín mọ́**
+<!-- card: callout -->
+> **Ẹ pa àwọn ìdáhùn yín mọ́**
 >
 > Ẹ kọ ìdáhùn kúkúrú sí ìbéèrè kọ̀ọ̀kan. Ẹ ó padà sí wọn ní ìparí.
 
@@ -85,6 +86,7 @@ Owó jẹ́ irinṣẹ́ fún pàṣípààrọ̀.
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina ní ìrẹsì, ó sì fẹ́ bàtà, Luis ní bàtà, ó sì fẹ́ òróró ìdáná, Mei sì ní òróró ìdáná, ó sì fẹ́ iṣẹ́ àtúnṣe. Kò sí méjì nínú wọn tó lè pààrọ̀ ọjà tààrà, nítorí kò sí ẹnì kankan nínú tọkọtaya kọ̀ọ̀kan tó fẹ́ ohun tí ẹnì kejì ń pèsè.](/micrographics/barter-mismatch-01/yo.md)
 
 <!-- notes: Ẹ lo àpẹẹrẹ inú ìwé ìtọ́sọ́nà náà: ẹ ń gbin ìrẹsì, ẹ sì nílò bàtà, ṣùgbọ́n olùṣe bàtà fẹ́ epo ìdáná, kì í ṣe ìrẹsì. Àwọn onímọ̀ ètò ọrọ̀ ajé ń pe èyí ní ìbámu ìfẹ́ méjèèjì. -->
 
@@ -151,6 +153,7 @@ Nígbà tí àwọn ènìyàn bá gbọ́ ọ̀rọ̀ náà ìfowópamọ́, w�
 ## Ìlọsíwájú Iye Ọjà àti Agbára Rírà
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Ẹyọ owó 100 kan náà lè ra gbogbo ohun inú apẹ̀rẹ̀ àwọn ọjà ìpìlẹ̀ nígbà tí iye owó rẹ̀ jẹ́ 100, ṣùgbọ́n kò lè ṣe bẹ́ẹ̀ nígbà tí iye owó apẹ̀rẹ̀ kan náà jẹ́ 110. Ìpele iye owó ti gòkè, agbára ríra owó náà sì ti dín kù.](/micrographics/same-money-smaller-basket-01/yo.md)
 
 <!-- notes: Ìgbéga iye owó jẹ́ ìlọsíwájú tí ó ń bá a lọ nínú ìpele gbogbogbò ti iye owó àwọn ọjà. Apá kejì rẹ̀ ni agbára ìrajà: iye ohun tí ẹyọ owó kan lè rà. Bí iye owó apẹ̀rẹ̀ àwọn ọjà ìpìlẹ̀ kan bá gòkè láti ẹyọ owó 100 sí 110, ẹyọ owó 100 kan náà kò lè ra gbogbo ohun tó wà nínú apẹ̀rẹ̀ náà mọ́. -->
 
@@ -213,8 +216,7 @@ Iye owó tó wà nínú àkáǹtì yín ní báńkì yàtọ̀ sí owó tó wà 
 * Ṣùgbọ́n ìpèsè rẹ̀ àti àwọn òfin rẹ̀ lè yí padà, àwọn tó ń lò ó kò sì ní agbára púpọ̀ láti dá sí àwọn ìpinnu nípa rẹ̀
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Ìdí nìyí tí àwọn ènìyàn fi ń wá àwọn àṣàyàn mìíràn, àti ìdí tí a fi dá Bitcoin sílẹ̀.
 
 ---
@@ -233,6 +235,7 @@ Owó onínọ́mbà tí kò sí lábẹ́ àkóso àárín gbùngbùn, tí iye r
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Ní ilé-iṣẹ́ ìsanwó, àjọ kan ṣoṣo ló ń tọ́jú ìwé àkọsílẹ̀ owó tí ó sì ń fọwọ́ sí ìfiránṣẹ́ owó kọ̀ọ̀kan. Pẹ̀lú Bitcoin, olùfiranṣẹ́ fọwọ́ sí ìdúnàádúrà kan, àwọn kọ̀ǹpútà ojú-òpó olómìnira ṣàyẹ̀wò rẹ̀, àwọn awakùsà sì fi í kún ìwé àkọsílẹ̀ owó kan tí gbogbo wọn jọ ń lò, nítorí náà olùgbà kò gbára lé aláṣẹ àárín gbùngbùn púpọ̀.](/micrographics/central-ledger-vs-bitcoin-01/yo.md)
 
 <!-- notes: Ṣáájú Bitcoin, fífi owó ránṣẹ́ lórí ayélujára máa ń gbára lé àjọ tí a gbẹ́kẹ̀ lé nígbà gbogbo: báńkì tàbí ilé iṣẹ́ ìsanwó tí ó ń tọ́jú ìwé àkọọ́lẹ̀, tí ó ń fọwọ́ sí àwọn àkọọ́lẹ̀, tí ó sì lè fa ìsanwó sẹ́yìn, dènà rẹ̀, tàbí dá a padà. Ó rọrùn láti ṣe ẹ̀dà ìsọfúnni onínọ́mbà: bí a bá lè ná owó ẹyọ onínọ́mbà kan lẹ́ẹ̀mejì, kò lè ṣiṣẹ́ gẹ́gẹ́ bí owó. Èyí ni ìṣòro níní àǹfààní láti ná owó kan náà lẹ́ẹ̀mejì. Satoshi Nakamoto jẹ́ ẹnì kan tàbí àwùjọ kan tí ó ń lo orúkọ náà. -->
 
@@ -253,6 +256,7 @@ Kò sí ilé-iṣẹ́ tó lè dí bitcoin tí ẹ fúnra yín ń ṣàkóso l�
 ## Ààlà Tí Ẹnikẹ́ni Lè Ṣàyẹ̀wò
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Olùṣàgbéjáde lè yí iye ìpèsè tó pọ̀ jù lọ tí a kọ sórí ojúlé wẹ́ẹ̀bù tàbí sínú ibi ìpamọ́ dátà rẹ̀ padà láìjẹ́ kí ẹnikẹ́ni mọ̀. Òfin ìpèsè Bitcoin wà ní gbangba, àwọn ìbuwọ́lu, ìtàn tí ó wà ní gbangba, ẹ̀rí iṣẹ́ àti ìmúdájú nípasẹ̀ àwọn nọ́ọ̀dù sì jọ ń dènà dídá àwọn ẹyọ owó tuntun láìbámu pẹ̀lú òfin tàbí náni bitcoin kan náà lẹ́ẹ̀mejì.](/micrographics/claimed-or-verified-supply-01/yo.md)
 
 <!-- notes: A máa ń tú bitcoin tuntun sílẹ̀ ní ìbámu pẹ̀lú ìtòlẹ́sẹẹsẹ tí gbogbo ènìyàn lè rí, àwọn kọ̀ǹpútà olómìnira tí a ń pè ní nóòdù sì máa ń kọ gbogbo búlọ́ọ̀kù tí ó bá rú òfin yẹn. Ààlà náà ṣeé gbẹ́kẹ̀ lé nítorí pé ẹnikẹ́ni lè ṣàyẹ̀wò rẹ̀. Kì í ṣe òfin ìṣẹ̀dá: ó ń dúró ṣinṣin nítorí pé àwọn olùkópa ń bá a lọ láti mú un ṣiṣẹ́. Ìpèsè tí ó ní ààlà kò ṣe ìdánilójú pé iye owó yóò ga sí i; iye owó sinmi lórí ìbéèrè àti ìpèsè. -->
 
@@ -264,6 +268,7 @@ A lè pín bitcoin kan sí àwọn ẹyọ kéékèèké 100,000,000 tí a ń p�
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Tábìlì tí ó ní ọ̀wọ̀n méjì: 1 BTC jẹ́ 100,000,000 sats, 0.1 BTC jẹ́ 10,000,000 sats, 0.01 BTC jẹ́ 1,000,000 sats, 0.001 BTC jẹ́ 100,000 sats, àti 0.00000001 BTC jẹ́ 1 sat.](/micrographics/bitcoin-and-sats-01/yo.md)
 
 <!-- notes: Níní 100,000 sats àti níní 0.001 bitcoin túmọ̀ sí níní iye kan náà. Ẹ ṣàtúnṣe èrò òdì pé Bitcoin kọjá agbára ẹni láti rà nítorí pé bitcoin kan gbówó lórí. -->
 
@@ -272,6 +277,7 @@ A lè pín bitcoin kan sí àwọn ẹyọ kéékèèké 100,000,000 tí a ń p�
 ## Ta ló ń jẹ́ kí Bitcoin máa ṣiṣẹ́?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Àwọn ipa mẹ́rin nínú Bitcoin: àwọn olùlò ń gba, ń tọ́jú, wọ́n sì ń fi bitcoin ránṣẹ́, àwọn kókó nẹ́tíwọ́ọ̀kì ń ṣàyẹ̀wò àwọn òfin lọ́tọ̀ọ̀tọ̀, àwọn olùwakùsà ń kọ́ àwọn búlọ́ọ̀kù tí a dábàá pẹ̀lú ẹ̀rí iṣẹ́, àwọn olùgbékalẹ̀ sọ́fitiwia sì ń dábàá sọ́fitiwia. Kò sí ipa kan ṣoṣo tó ń ṣàkóso nẹ́tíwọ́ọ̀kì.](/micrographics/bitcoin-participant-roles-01/yo.md)
 
 <!-- notes: Àwọn olùlò ń fi bitcoin ránṣẹ́, ń gbà á, wọ́n sì ń tọ́jú rẹ̀; àwọn kókó nẹ́tíwọ́ọ̀kì ń ṣàyẹ̀wò gbogbo ìdúnàádúrà àti búlọ́ọ̀kù láti rí i pé wọ́n bá àwọn òfin mu; àwọn awakùsà sì ń díje láti fi búlọ́ọ̀kù tuntun kún àkọsílẹ̀ náà ní nǹkan bí ìṣẹ́jú mẹ́wàá kọ̀ọ̀kan. Àkọsílẹ̀ yẹn, tí a ń pè ní ẹ̀wọ̀n búlọ́ọ̀kù, wà ní gbangba, ó sì náwó púpọ̀ gan-an láti tún un kọ. Àkíyèsí nípa bí a ṣe ń kọ ọ́: Bitcoin tí ó bẹ̀rẹ̀ pẹ̀lú B ńlá sábà máa ń túmọ̀ sí nẹ́tíwọ́ọ̀kì tàbí ètò náà; bitcoin tí ó bẹ̀rẹ̀ pẹ̀lú b kékeré túmọ̀ sí owó náà fúnra rẹ̀. -->
 
@@ -307,6 +313,7 @@ Bitcoin fi ìmúdájú àti ojúṣe ẹni kọ̀ọ̀kan rọ́pò apá kan ìg
 ## Àpamọ́wọ́ Ń Ṣàkóso Àwọn Kọ́kọ́rọ́
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Àpò owó kan ló tọ́jú àwọn kọ́kọ́rọ́ náà. Pẹ̀lú wọn, ẹ lè gba bitcoin, kí ẹ sì fi ránṣẹ́, nígbà tí bitcoin fúnra rẹ̀ ṣì wà ní àkọsílẹ̀ lórí ìwé àkọsílẹ̀ àjọpín, kì í ṣe nínú fóònù tàbí ẹ̀rọ.](/micrographics/wallet-manages-keys-01/yo.md)
 
 <!-- notes: Àpò Bitcoin jẹ́ irinṣẹ́ kan, tí ó sábà máa ń jẹ́ ohun èlò orí ẹ̀rọ, tí ó ń jẹ́ kí ẹ lè gba bitcoin, ṣàyẹ̀wò rẹ̀, kí ẹ sì fi ránṣẹ́. A kì í tọ́jú bitcoin yín sínú fóònù yín: a máa ń ṣe àkọsílẹ̀ rẹ̀ sórí ẹ̀wọ̀n búlọ́ọ̀kù. Àpò náà ń ṣàkóso àwọn kọ́kọ́rọ́ tí ó ń jẹ́ kí ẹ lè fi hàn pé tiyín ni, kí ẹ sì fọwọ́ sí ìsanwó kan. -->
 
@@ -331,6 +338,7 @@ Yíyan irú ìtọ́jú kì í ṣe ohun tí a fi ń díwọ̀n iyì yín. Ohun 
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Gbólóhùn ìmúpadàbọ̀ jẹ́ àtòjọ àwọn ọ̀rọ̀ tí a tò ní ọ̀wọ́ kan pàtó; níbí, ó jẹ́ ọ̀rọ̀ àpẹẹrẹ méjìlá tí a kọ sí orí bébà tí a sì fi nọ́ńbà sí. Àwọn ọ̀rọ̀ tó tọ́ ní ọ̀wọ́ tó tọ́ lè mú àṣẹ ìṣàkóso padà nínú àpamọ́wọ́ tó bá a mu, nítorí náà a fi í pamọ́ gẹ́gẹ́ bí àṣírí, láìsí lórí ayélujára.](/micrographics/seed-phrase-on-paper-01/yo.md)
 
 <!-- notes: Àkójọpọ̀ ọ̀rọ̀ ìmúpadàbọ̀ kì í ṣe ẹ̀dà àfẹ́yìntì nìkan: ó ń fúnni ní àǹfààní láti wọlé ní kíkún. Ẹ kọ ọ́ sílẹ̀ lọ́nà tó péye sórí bébà nígbà tí ẹ bá ń ṣẹ̀dá àpamọ́ owó náà; ẹ tọ́jú rẹ̀ láìsí ìsopọ̀ sí Íńtánẹ́ẹ̀tì, ní ìkọ̀kọ̀, àti ní ibi tí kò ti ní sọnù tàbí bàjẹ́. Ẹ má ṣe yà á ní fọ́tò, fi ránṣẹ́ ní ímeèlì, fi pamọ́ sínú àkọsílẹ̀ lórí ìkùukùu, fi ránṣẹ́ nínú ìfiránṣẹ́, tàbí tẹ̀ ẹ́ sínú ojúlé wẹ́ẹ̀bù. Àwọn ọ̀rọ̀ tí a fihàn jẹ́ àpẹẹrẹ nìkan; ẹ má ṣe fi àkójọpọ̀ ọ̀rọ̀ ìmúpadàbọ̀ gidi hàn tàbí gbà á lọ́wọ́ ẹnikẹ́ni. -->
 
@@ -365,6 +373,7 @@ Yíyan irú ìtọ́jú kì í ṣe ohun tí a fi ń díwọ̀n iyì yín. Ohun 
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[A ṣe àkọsílẹ̀ àwọn ìsanwó lórí ẹ̀wọ̀n tààrà nínú ẹ̀wọ̀n búlọ́ọ̀kù Bitcoin, nígbà tí Lightning jẹ́ nẹ́tíwọ́ọ̀kì ìsanwó tí a kọ́ sórí Bitcoin fún àwọn ìsanwó yíyára tí a ń ṣe léraléra, tí wọ́n sì tún lè kùnà. Èyíkéyìí nínú àwọn ọ̀nà méjèèjì lè wà lábẹ́ àbójútó olùpèsè iṣẹ́ tàbí lábẹ́ àbójútó ara ẹni.](/micrographics/on-chain-and-lightning-01/yo.md)
 
 ---
 
@@ -375,7 +384,8 @@ Yíyan irú ìtọ́jú kì í ṣe ohun tí a fi ń díwọ̀n iyì yín. Ohun 
 * **Ẹ Má Ṣe Gbẹ́kẹ̀ Lé Ohun Lásán, Ẹ Ṣe Ìmúdájú.** Ẹ ṣàyẹ̀wò ẹni náà, ọ̀nà ìsanwó, àdírẹ́sì, àti iye owó náà.
 
 
-> **Callout – Ẹ pín ìsọfúnni fún gbígba owó, ẹ má ṣe pín àṣírí láé**
+<!-- card: callout -->
+> **Ẹ pín ìsọfúnni fún gbígba owó, ẹ má ṣe pín àṣírí láé**
 >
 > A lè pín àdírẹ́sì tàbí ìbéèrè ìsanwó. A kò gbọdọ̀ pín gbólóhùn ìmúpadàbọ̀ tàbí kọ́kọ́rọ́ àdáni láé. Kò sí olùkọ́, ilé-iṣẹ́ àpò owó, tàbí òṣìṣẹ́ ìrànlọ́wọ́ tó jẹ́ ojúlówó tí yóò béèrè fún un láé.
 
@@ -389,6 +399,7 @@ Yíyan irú ìtọ́jú kì í ṣe ohun tí a fi ń díwọ̀n iyì yín. Ohun 
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Àmì ìkìlọ̀ márùn-ún nípa jìbìtì: ìkánjú, fífi ara ẹni ṣe ẹlòmíràn, ibi tí a ń fi ránṣẹ́ sí tí a ti yí padà, èrè tí a ṣe ìlérí pé ó dájú àti ìbéèrè fún àwọn àṣírí.](/micrographics/scam-red-flags-01/yo.md)
 
 ---
 
@@ -408,7 +419,8 @@ Yíyan irú ìtọ́jú kì í ṣe ohun tí a fi ń díwọ̀n iyì yín. Ohun 
 * **Èyí jẹ́ ìbẹ̀rẹ̀ lásán.** Ìgbésẹ̀ kan tó ní ààbò láti tẹ̀ síwájú ti tó.
 
 
-> **Callout – Àkókò díẹ̀ láti ronú jinlẹ̀**
+<!-- card: callout -->
+> **Àkókò díẹ̀ láti ronú jinlẹ̀**
 >
 > Ẹ padà sí àwọn ìbéèrè márùn-ún ní ìbẹ̀rẹ̀. Kí ni ẹ máa dá lóhùn nísinsìnyí?
 

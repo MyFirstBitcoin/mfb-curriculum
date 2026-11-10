@@ -4,12 +4,14 @@ Brug tre personer, hvis varer og ønsker ikke matcher hinanden. Lad først grupp
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina har ris og ønsker sko, Luis har sko og ønsker madolie, og Mei har madolie og ønsker reparationsarbejde. Ingen af parrene kan handle direkte med hinanden, fordi ingen af personerne i et par ønsker det, den anden tilbyder.](/micrographics/barter-mismatch-01/da.md)
 
 
 Introducer derefter et almindeligt accepteret byttemiddel.
 
 
 <!-- micrographic: sell-then-buy-01 -->
+[Amina sælger ris til én person for et almindeligt accepteret betalingsmiddel og bruger senere pengene til at købe sko af en anden. Salg og køb bliver separate handlinger.](/micrographics/sell-then-buy-01/da.md)
 
 
 Spørg:

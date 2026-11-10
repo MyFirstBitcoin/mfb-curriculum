@@ -4,6 +4,7 @@ Eno [**krožno gospodarstvo Bitcoina**](https://curriculum.myfirstbitcoin.org/le
 
 
 <!-- micrographic: local-circular-economy-01 -->
+[V krožnem gospodarstvu Bitcoin bitcoini prehajajo od osebe do osebe v zameno za blago, storitve in čas. Stranka plača trgovcu, trgovec plača ponudniku storitev, ponudnik storitev plača delavcu, delavec pa jih znova porabi kot stranka.](/micrographics/local-circular-economy-01/sl.md)
 
 
 My First Bitcoin podpira [krožna gospodarstva Bitcoina](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-circular-economy), mnoga pa so del izobraževalnega omrežja Bitcoin Education Network. Raziščite te skupnosti na [nadzorni plošči omrežja](https://network.myfirstbitcoin.org/?min10merchants=1).

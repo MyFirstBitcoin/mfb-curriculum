@@ -7,6 +7,7 @@ Enseignez explicitement la différence :
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Deux niveaux : les trois fonctions de la monnaie (intermédiaire des échanges, unité de compte, réserve de valeur) reposent sur sept propriétés (durabilité, portabilité, divisibilité, fongibilité, rareté, acceptabilité et vérifiabilité).](/micrographics/functions-and-properties-01/fr-FR.md)
 
 
 Envisagez différents usages. Demandez quelles propriétés comptent pour :

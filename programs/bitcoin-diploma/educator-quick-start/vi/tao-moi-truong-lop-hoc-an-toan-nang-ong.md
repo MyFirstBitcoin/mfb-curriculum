@@ -1,6 +1,7 @@
 # Tạo môi trường lớp học an toàn, năng động
 
-> **Callout – Bảo vệ người học trước khi bắt đầu hoạt động thực hành**
+<!-- card: callout -->
+> **Bảo vệ người học trước khi bắt đầu hoạt động thực hành**
 >
 > Không bao giờ yêu cầu cung cấp, xem, chụp ảnh, sao chép, ghi lại hoặc lưu trữ cụm từ khôi phục ví, khóa riêng tư hay mật khẩu thật, hoặc thông tin tài chính không cần thiết. Không gây áp lực buộc bất kỳ ai mua, bán, nắm giữ hoặc sử dụng bitcoin. Hãy tạm dừng bất cứ khi nào người học chưa chắc chắn, bị gây áp lực hoặc có nguy cơ gặp lừa đảo.
 

@@ -20,3 +20,4 @@ No trate [la autocustodia](https://curriculum.myfirstbitcoin.org/lexicon/en/#sel
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[En el uso con custodia, un servicio controla las claves y aprueba los gastos, por lo que el saldo es una promesa del servicio. En el uso con autocustodia, el usuario controla las claves y los respaldos; ambas opciones tienen dependencias y riesgos de falla.](/micrographics/who-controls-keys-01/es-419.md)

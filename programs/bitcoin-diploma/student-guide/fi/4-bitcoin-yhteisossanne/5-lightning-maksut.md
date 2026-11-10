@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[Vastaanottaja luo puhelimellaan Lightning-maksupyynnön, jossa on maksettava summa. Lähettäjä skannaa sen ja maksaa, ja maksu saapuu vastaanottajan puhelimeen hetkeä myöhemmin.](/micrographics/lightning-phone-payment-01/fi.md)
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Lightning-maksu kuudessa vaiheessa: vastaanottaja luo maksupyynnön, lähettäjä skannaa sen, tarkistaa vastaanottajan, summan, yksikön, voimassaoloajan ja siirtomaksun sekä hyväksyy maksun, maksu reititetään ja molemmat lompakot näyttävät tuloksen. Kumpikin lompakko voi olla säilytyspalvelun hallinnoima tai itsehallinnoitu, ja epäonnistuneen tai vanhentuneen maksun jälkeen aloitetaan alusta uudella maksupyynnöllä.](/micrographics/lightning-payment-sequence-01/fi.md)
 
 
 Lightning voi tehdä nopeista ja pienistä Bitcoin-maksuista käytännöllisiä. Se voi soveltua kauppiaan kassalle, toistuviin paikallisiin maksuihin, verkkopalveluihin tai siirtoihin, joissa lohkoketjusiirron maksu olisi liian suuri suhteessa maksettavaan summaan.

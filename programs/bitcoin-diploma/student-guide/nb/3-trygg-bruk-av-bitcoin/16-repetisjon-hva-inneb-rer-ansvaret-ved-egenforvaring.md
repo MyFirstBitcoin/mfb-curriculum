@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: self-custody-responsibilities-01 -->
+[Kontroll over nøklene står i sentrum for åtte ansvarsområder: sikkerhetskopiering, gjenoppretting, mottak, sending, valg av verktøy, anskaffelsesmåte, personvern og svindelkontroll. Hvert av dem beskytter noe, og svikt på ett av områdene kan koste tilgang, penger eller personvern.](/micrographics/self-custody-responsibilities-01/nb.md)
 
 
 
 <!-- micrographic: responsibility-checks-01 -->
+[En tabell med seks oppgaver knyttet til egenoppbevaring, hva som må beskyttes eller kontrolleres for hver av dem, og hva som kan skje hvis noe går galt: sikkerhetskopiering, mottak, sending, oppbevaring, valg av verktøy og anskaffelse.](/micrographics/responsibility-checks-01/nb.md)
 
 
 Forestill Dem at en venn sender Dem en betalingsforespørsel, mens en ukjent brukerstøttekonto sier at De må handle umiddelbart. Hva kan De kontrollere før De gjør noe? Kan De beskytte en gjenopprettingsplan, skille mottaksinformasjon fra hemmeligheter og kontrollere personen, betalingsmåten, mottaksstedet, beløpet og det siste skjermbildet før De sender? Enten en tjeneste eller De selv kontrollerer nøklene, er den praktiske oppsummeringen den samme: Beskytt hemmeligheter, kontroller før De godkjenner, gjenkjenn tegn på svindel og begrens konsekvensene av feil mens De lærer.

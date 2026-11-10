@@ -14,6 +14,7 @@ Use exatamente estes limites para iniciantes:
 
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Quatro papéis no Bitcoin: usuários recebem, guardam e enviam bitcoin, nós verificam as regras de forma independente, mineradores montam blocos candidatos com prova de trabalho e desenvolvedores propõem software. Nenhum papel sozinho controla a rede.](/micrographics/bitcoin-participant-roles-01/pt-BR.md)
 
 
 #### Atividade: bloco inválido

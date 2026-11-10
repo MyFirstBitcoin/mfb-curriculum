@@ -4,6 +4,7 @@ Menschen suchen oft nach Alternativen zum Halten von Bargeld, wenn sie glauben, 
 
 
 <!-- micrographic: saving-alternatives-table-01 -->
+[Eine Tabelle mit drei Alternativen zum Halten von Bargeld (Edelmetalle, Immobilien und Aktien), jeweils mit den Gründen, warum Menschen sie wählen, und ihren wichtigen Nachteilen. Keine wird über die anderen gestellt.](/micrographics/saving-alternatives-table-01/de.md)
 
 
 Ein [Vermögenswert](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) ist etwas, das eine Person besitzen oder beanspruchen kann und das [Wert](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) haben kann; er erfüllt nicht automatisch jede Funktion von Geld. Ein Haus kann [Wert](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) speichern, ist aber nicht praktisch, um Lebensmittel zu kaufen. Eine Aktie lässt sich in einem Land vielleicht leicht verkaufen, ist aber für jemanden ohne Depotkonto nicht zugänglich. [Gold](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) hat über lange Zeiträume der Geschichte als Geld gedient, kann aber bei einem kleinen Tausch schwer zu prüfen oder zu teilen sein.

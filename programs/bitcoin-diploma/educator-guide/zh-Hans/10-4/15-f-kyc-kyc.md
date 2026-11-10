@@ -17,6 +17,7 @@
 
 
 <!-- micrographic: bitcoin-atm-off-ramp-01 -->
+[一个人在比特币ATM前从手机发送比特币，并领取当地货币现金：这是将比特币兑换为当地货币的出金渠道之一。此图仅作示例，并非推荐。](/micrographics/bitcoin-atm-off-ramp-01/zh-Hans.md)
 
 
 **成果：**学员针对一个虚构案例选择一条途径，按顺序安排安全核查步骤，并说明哪些风险得以降低、哪些风险随之增加。

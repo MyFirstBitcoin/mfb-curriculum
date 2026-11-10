@@ -1,6 +1,6 @@
 # Quiz – Wie Bitcoin funktioniert: kurzer Test
 
-## Question 1
+## Frage 1
 
 Eine digitale Einheit wird zweimal ausgegeben. Das System muss:
 
@@ -9,11 +9,11 @@ Eine digitale Einheit wird zweimal ausgegeben. Das System muss:
 * [ ] Ihren Preis erhöhen
 * [ ] Gebühren abschaffen
 
-### Explanation
+### Erklärung
 
 Digitale Informationen lassen sich kopieren, daher muss ein Geldsystem verhindern, dass dieselbe Einheit zweimal ausgegeben wird, und feststellen, welche Transaktion gültig ist. Wiederholen Sie im Leitfaden für Studierende, Modul 2, „Frühe Versuche digitalen Geldes und das Problem der Doppelausgabe“.
 
-## Question 2
+## Frage 2
 
 Dezentralisierung bei Bitcoin bedeutet:
 
@@ -22,11 +22,11 @@ Dezentralisierung bei Bitcoin bedeutet:
 * [ ] Miner ändern Regeln nach Belieben
 * [ ] Gleicher Einfluss für alle
 
-### Explanation
+### Erklärung
 
 Bitcoin verteilt die Überprüfung und die Durchsetzung der Regeln auf unabhängige Teilnehmer. Dezentralisierung bedeutet weder, dass ein Unternehmen das Netzwerk kontrolliert, noch, dass alle den gleichen Einfluss haben. Wiederholen Sie im Leitfaden für Studierende, Modul 2, „Dezentralisierung“.
 
-## Question 3
+## Frage 3
 
 Ein Bitcoin-Node:
 
@@ -35,11 +35,11 @@ Ein Bitcoin-Node:
 * [ ] Speichert bitcoin
 * [ ] Garantiert die Zahlung
 
-### Explanation
+### Erklärung
 
 Nodes prüfen die Regeln von Bitcoin unabhängig und lehnen ungültige Daten ab. Sie erzeugen keine bitcoin auf Anfrage und speichern keine bitcoin in einem Telefon. Wiederholen Sie im Leitfaden für Studierende, Modul 2, „Nutzer, Nodes und Miner“.
 
-## Question 4
+## Frage 4
 
 Warum wird Bitcoin als solides Geld bezeichnet?
 
@@ -48,6 +48,6 @@ Warum wird Bitcoin als solides Geld bezeichnet?
 * [ ] Ein Unternehmen kontrolliert es
 * [ ] Zahlungen sind privat
 
-### Explanation
+### Erklärung
 
 Manche bezeichnen Bitcoin als solides Geld, weil seine Angebotsregeln öffentlich sind und seine Ausgabe begrenzt ist. Das ist ein begründetes Urteil, kein Versprechen in Bezug auf Preis oder Privatsphäre. Wiederholen Sie im Leitfaden für Studierende, Modul 2, „Bitcoin als solides digitales Geld“.

@@ -1,11 +1,13 @@
 # 1.9 Inflacija i kupovna moć
 
+<!-- card: definition -->
 > **Definition – Inflacija cijena**
 >
 > Ljudi upotrebljavaju pojam „[inflacija](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation)“ na više načina. U ovom vodiču [inflacija cijena](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation) znači trajan rast opće [cjenovne](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) razine dobara i usluga. Ako vaši prihodi i ušteđevina ne rastu jednako brzo kao [cijene](https://curriculum.myfirstbitcoin.org/lexicon/en/#price), vašim se novcem može kupiti manje.
 
 
 
+<!-- card: definition -->
 > **Definition – Kupovna moć**
 >
 > [Kupovna moć](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) jest količina dobara i usluga koja se može kupiti jednom novčanom jedinicom. Ako cijena košarice osnovnih dobara poraste sa 100 jedinica [valute](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) na 110, za istih 100 jedinica više se ne može kupiti cijela košarica. Njihova [kupovna moć](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) u odnosu na tu košaricu pala je.
@@ -15,6 +17,7 @@
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Istih 100 novčanih jedinica dovoljno je za kupnju cijele košarice osnovnih dobara kada ona košta 100, ali ne i kada ista košarica košta 110. Razina cijena porasla je, a kupovna moć novca pala je.](/micrographics/same-money-smaller-basket-01/hr.md)
 
 
 Neki ljudi upotrebljavaju pojam „[inflacija](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation)“ kako bi označili [monetarnu ekspanziju](https://curriculum.myfirstbitcoin.org/lexicon/en/#monetary-inflation): povećanje količine novca i kredita. Ta ekspanzija može pridonijeti [inflaciji cijena](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation), uz poremećaje u opskrbi, promjene u potražnji, [valutnu](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) slabost, poreze, regulaciju i promjene troškova proizvodnje. O uzrocima i posljedicama često se raspravlja. Izbjegavajte objašnjenja koja svaku [cjenovnu](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) promjenu pripisuju jednom čimbeniku.
@@ -24,7 +27,8 @@ Neki ljudi upotrebljavaju pojam „[inflacija](https://curriculum.myfirstbitcoin
 Stopa [inflacije](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflation) predstavlja prosjek. Vaše osobno iskustvo može biti drukčije jer vaša potrošnja nije istovjetna košarici koja se mjeri. Troškovi hrane, stanovanja, prijevoza, obrazovanja i zdravstvene skrbi mogu se mijenjati različitim stopama.
 
 
-> **Light – Usporedite kupovnu moć u svojoj zajednici**
+<!-- card: light -->
+> **Usporedite kupovnu moć u svojoj zajednici**
 >
 > Odaberite jedan uobičajen proizvod u svojoj zajednici. Zabilježite njegovu [cijenu](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) danas. Raspitajte se koliko je koštao prije nekoliko godina, a zatim, ako je moguće, provjerite pouzdan zapis. Je li se prihod mijenjao po istoj stopi? Koji drugi čimbenici mogu objasniti tu promjenu?
 >

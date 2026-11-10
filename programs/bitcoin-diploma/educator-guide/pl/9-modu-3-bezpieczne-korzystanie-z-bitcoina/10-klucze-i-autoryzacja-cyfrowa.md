@@ -17,3 +17,4 @@ Proszę nie używać stwierdzenia „[klucz prywatny](https://curriculum.myfirst
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[Tajny klucz prywatny, którego nigdy nie wolno udostępniać, służy do uzyskania informacji publicznych, które można udostępniać: wyprowadzonego z niego klucza publicznego oraz utworzonego na tej podstawie adresu do odbioru. Ten sam klucz prywatny służy do tworzenia podpisów, które węzły weryfikują, nigdy nie poznając klucza prywatnego.](/micrographics/private-key-public-info-01/pl.md)

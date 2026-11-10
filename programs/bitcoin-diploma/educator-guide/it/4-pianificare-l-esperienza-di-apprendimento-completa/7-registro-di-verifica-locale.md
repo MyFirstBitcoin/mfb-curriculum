@@ -19,3 +19,4 @@ Per le norme vigenti, privilegi fonti primarie autorevoli. Se le prove sono inco
 
 
 <!-- micrographic: local-verification-cycle-01 -->
+[Gli educatori individuano ogni affermazione locale soggetta a cambiamenti, la verificano con una fonte aggiornata, ne annotano la data e i limiti, la insegnano con formulazioni prudenti e la ricontrollano prima di riutilizzarla. Quando un dato è incerto, ricorrono a un esempio più sicuro o a un'alternativa.](/micrographics/local-verification-cycle-01/it.md)

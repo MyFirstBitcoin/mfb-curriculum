@@ -1,5 +1,6 @@
 # 3.6 Emanetçili ve emanetçisiz kullanım
 
+<!-- card: definition -->
 > **Definition – Saklama**
 >
 > [Saklama](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) pratik bir soruyu yanıtlar: bitcoin'i harcamak için gereken anahtarları kim kontrol ediyor?
@@ -15,10 +16,12 @@ Bir **emanetçisiz** veya **öz saklamalı** cüzdanda anahtarları SİZ kontrol
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[Emanetçi kullanımda anahtarları bir hizmet kontrol eder ve harcamaları onaylar; dolayısıyla bakiye, o hizmetin verdiği bir sözdür. Kendi kendine saklamada ise anahtarları ve yedekleri kullanıcı kontrol eder; her iki yolun da bağımlılıkları ve başarısızlık riskleri vardır.](/micrographics/who-controls-keys-01/tr.md)
 
 
 
 <!-- micrographic: custody-comparison-table-01 -->
+[Emanetçi kullanım ile kendi kendine saklamayı karşılaştıran bir tablo: anahtarları kimin tuttuğu, kurtarma işlemini kimin yürüttüğü ve her birinin temel ödünleşimi. Hiçbir model risksiz değildir.](/micrographics/custody-comparison-table-01/tr.md)
 
 
 [Saklama](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) durumu arayüzden her zaman anlaşılmaz. Kurtarma yöntemini kontrol edemiyorsanız ve bir para çekme işleminin onaylanması için bir şirkete ihtiyaç duyuyorsanız, muhtemelen bir [emanetçi](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian) kullanıyorsunuz. [Öz saklama](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) kişisel değerin bir sınavı değildir; önemli olan, işin içindeki güveni ve riski belirlemektir.

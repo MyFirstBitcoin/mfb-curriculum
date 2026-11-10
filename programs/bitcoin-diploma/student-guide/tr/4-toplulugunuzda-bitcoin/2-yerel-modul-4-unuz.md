@@ -10,6 +10,7 @@ Yerel **4. Modül** etkinliğiniz size şu konularda yardımcı olacak:
 
 
 <!-- micrographic: local-module-four-actions-01 -->
+[Yerel Modül 4'te öğrenci dört eylemden geçer: Modül 1 ile 3 arasındaki bir fikri yerel bir ihtiyaçla ilişkilendirir, Bitcoin'i mevcut gerçekçi bir seçenekle karşılaştırır, rehberlik eşliğinde güvenle pratik yapar ve öğrendiklerini ile sorumlu bir sonraki adımı açıklar. Eğitmeni, bazen de yerel bir uzman, süreç boyunca ona rehberlik eder.](/micrographics/local-module-four-actions-01/tr.md)
 
 
 Etkinliğiniz şu gibi soruları inceleyebilir:

@@ -10,6 +10,7 @@ Opettakaa asioiden välinen yhteys, älkää matematiikkaa:
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Louhija laskee ehdotetusta lohkosta tiivisteitä yhä uudelleen, kunnes yksi tulos alittaa verkon tavoitearvon, ja lähettää sitten lohkon verkkoon. Solmut tarkistavat nopeasti todisteen ja kaikkien sääntöjen noudattamisen ennen kuin lohko liitetään lohkoketjuun: työn tekeminen on kallista ja sen todentaminen helppoa.](/micrographics/proof-of-work-process-01/fi.md)
 
 
 Välttäkää sanomasta, että [louhijat](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) ratkaisevat hyödyllisiä ulkopuolisia yhtälöitä. Välttäkää väittämästä, että energiankulutus on automaattisesti perusteltua tai automaattisesti tuhlausta.

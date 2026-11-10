@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[Sprzedawca akceptujący Bitcoin działa w czterech obszarach: marketingu, szkoleń, księgowości i sprzedaży.](/micrographics/merchant-payment-operations-01/pl.md)
 
 
 Sprzedawca potrzebuje czegoś więcej niż przycisku odbierania płatności. Pełny proces płatności może obejmować ustalanie cen, szkolenie personelu, wystawianie potwierdzeń, zwroty, [przechowywanie środków](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), wymianę walut, księgowość, podatki, zabezpieczanie urządzeń i wsparcie.

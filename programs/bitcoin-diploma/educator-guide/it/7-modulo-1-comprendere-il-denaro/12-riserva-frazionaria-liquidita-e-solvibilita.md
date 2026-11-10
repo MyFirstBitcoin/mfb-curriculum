@@ -10,6 +10,7 @@ Disegni uno stato patrimoniale semplificato:
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Un prestito bancario semplificato: il mutuatario presenta la richiesta, la banca approva il prestito e accredita un nuovo deposito sul conto del mutuatario, che in seguito restituisce alla banca il capitale più gli interessi.](/micrographics/bank-loan-deposit-01/it.md)
 
 
 Non utilizzi la narrazione del «moltiplicatore monetario» basata su depositi fisici ripetuti come se descrivesse in modo meccanico ogni sistema bancario moderno.
@@ -21,6 +22,7 @@ Distingua:
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Rischio di liquidità: molti depositanti fanno la fila per prelevare oggi e la banca non dispone di contante sufficiente adesso, anche se i suoi prestiti potrebbero essere rimborsati in seguito. Rischio di solvibilità: i mutuatari smettono di pagare i mutui per la casa e le attività della banca finiscono per valere meno di quanto essa deve.](/micrographics/liquidity-vs-solvency-01/it.md)
 
 
 Chieda:

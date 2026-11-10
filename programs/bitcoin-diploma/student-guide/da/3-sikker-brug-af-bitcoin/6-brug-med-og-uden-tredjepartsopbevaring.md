@@ -1,5 +1,6 @@
 # 3.6 Brug med og uden tredjepartsopbevaring
 
+<!-- card: definition -->
 > **Definition – Opbevaring**
 >
 > [Opbevaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) besvarer et praktisk spørgsmål: Hvem kontrollerer de nøgler, der kræves for at bruge bitcoinene?
@@ -15,10 +16,12 @@ I en **ikke-depotbaseret** eller **selvforvaltet** wallet kontrollerer DE nøgle
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[Ved tredjepartsopbevaring kontrollerer en tjeneste nøglerne og godkender betalinger, så saldoen er tjenestens løfte. Ved egenopbevaring kontrollerer brugeren nøglerne og sikkerhedskopierne; begge fremgangsmåder indebærer afhængigheder og risiko for svigt.](/micrographics/who-controls-keys-01/da.md)
 
 
 
 <!-- micrographic: custody-comparison-table-01 -->
+[En tabel, der sammenligner brug med tredjepartsopbevaring og egenopbevaring: hvem der har nøglerne, hvem der håndterer gendannelse, og den vigtigste afvejning ved hver model. Ingen af modellerne er risikofri.](/micrographics/custody-comparison-table-01/da.md)
 
 
 [Opbevaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) fremgår ikke altid tydeligt af brugergrænsefladen. Hvis De ikke kan kontrollere gendannelsesmetoden og har brug for en virksomheds godkendelse af en hævning, bruger De sandsynligvis en [depotudbyder](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian). [Selvforvaltning](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) er ikke en prøve på personligt værd; det vigtige skridt er at identificere den tillid og risiko, der er forbundet med løsningen.

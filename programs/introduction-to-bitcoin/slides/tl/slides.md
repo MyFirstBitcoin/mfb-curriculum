@@ -40,7 +40,8 @@ Hindi ang pagkita nito, hindi ang paggastos nito, kundi ang pag-iisip kung ano i
 * Kasingdami pa rin ba ng dati ang nabibili ng inyong pera?
 
 
-> **Callout – Itabi ang inyong mga sagot**
+<!-- card: callout -->
+> **Itabi ang inyong mga sagot**
 >
 > Sumulat ng maikling sagot sa bawat tanong. Babalikan ninyo ang mga ito sa pagtatapos.
 
@@ -85,6 +86,7 @@ Kailangang gusto ng bawat isa ang mayroon ang isa pa, sa parehong oras at sa ang
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[May bigas si Amina at gusto niya ng sapatos, may sapatos si Luis at gusto niya ng mantika, at may mantika si Mei at gusto niyang magpaayos. Walang pares na maaaring direktang makipagpalitan, dahil walang sinuman sa bawat pares ang may gusto sa iniaalok ng isa.](/micrographics/barter-mismatch-01/tl.md)
 
 <!-- notes: Gamitin po ninyo ang halimbawa sa gabay: nagtatanim kayo ng palay at nangangailangan ng sapatos, ngunit langis na panluto ang gusto ng sapatero, hindi palay. Tinatawag ito ng mga ekonomista na dobleng pagtutugma ng mga pangangailangan. -->
 
@@ -151,6 +153,7 @@ Kapag naririnig ng mga tao ang salitang implasyon, karaniwan nilang naiisip ang 
 ## Implasyon at Kakayahang Bumili
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Mabibili ng parehong 100 yunit ng salapi ang lahat ng pangunahing bilihin sa basket kapag ang halaga nito ay 100, ngunit hindi kapag ang halaga ng parehong basket ay 110. Tumaas ang antas ng presyo at bumaba ang kakayahang bumili ng pera.](/micrographics/same-money-smaller-basket-01/tl.md)
 
 <!-- notes: Ang implasyon ng presyo ay ang patuloy na pagtaas ng pangkalahatang antas ng mga presyo. Ang kabilang panig nito ay ang kakayahang bumili: kung gaano karami ang mabibili ng isang yunit ng pera. Kung ang presyo ng isang basket ng mga pangunahing bilihin ay tumaas mula 100 yunit ng pera tungo sa 110, hindi na mabibili ng parehong 100 yunit ang lahat ng laman ng basket. -->
 
@@ -213,8 +216,7 @@ Ang balanse sa bangko ay iba sa salaping hawak ninyo: ito ay pangako ng bangko n
 * Ngunit maaaring magbago ang suplay at mga tuntunin nito, at kakaunti ang boses ng mga taong gumagamit nito sa mga pagpapasya
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Ito ang dahilan kung bakit naghahanap ang mga tao ng mga alternatibo, at kung bakit nilikha ang Bitcoin.
 
 ---
@@ -233,6 +235,7 @@ Digital na pera na desentralisado, may limitadong suplay, at maaaring ipadala na
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Sa isang kumpanya ng pagbabayad, iisang organisasyon ang nagpapanatili ng talaan at nag-aapruba sa bawat paglilipat. Sa Bitcoin, nilalagdaan ng nagpadala ang isang transaksyon, sinusuri ito ng mga independiyenteng node at idinaragdag ito ng mga minero sa iisang pinagsasaluhang talaan, kaya hindi gaanong umaasa ang tatanggap sa isang sentral na awtoridad.](/micrographics/central-ledger-vs-bitcoin-01/tl.md)
 
 <!-- notes: Bago ang Bitcoin, ang pagpapadala ng pera online ay palaging nakasalalay sa isang pinagkakatiwalaang organisasyon: isang bangko o kompanya ng pagbabayad na nagtatago ng talaan ng mga transaksiyon, nag-aapruba ng mga account, at maaaring magpaantala, humarang, o magpawalang-bisa ng isang pagbabayad. Madaling kopyahin ang digital na impormasyon: kung maaaring gastusin nang dalawang beses ang isang digital na barya, hindi ito maaaring magsilbing pera. Ito ang problema ng dobleng paggastos. Si Satoshi Nakamoto ay isang tao o grupo na gumagamit ng pangalang iyon. -->
 
@@ -253,6 +256,7 @@ Walang kompanyang makakapag-freeze ng bitcoin na kayo mismo ang kumokontrol. Kaa
 ## Isang Limitasyong Maaaring Suriin ng Sinuman
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Ang limitasyon sa suplay na nakasulat sa isang website o sa database ng tagapag-isyu ay maaaring baguhin ng tagapag-isyu nang walang nakaaalam. Pampubliko ang tuntunin sa suplay ng Bitcoin, at sama-samang pinipigilan ng mga lagda, pampublikong kasaysayan, patunay ng trabaho, at pagberipika ng mga node ang pag-imbento ng mga bagong barya o ang paggastos ng parehong bitcoin nang dalawang beses.](/micrographics/claimed-or-verified-supply-01/tl.md)
 
 <!-- notes: Ang mga bagong bitcoin ay inilalabas ayon sa isang iskedyul na bukas sa publiko, at tinatanggihan ng mga independiyenteng kompyuter na tinatawag na mga node ang anumang bloke na lumalabag sa tuntuning iyon. Mapagkakatiwalaan ang limitasyon dahil maaari itong suriin ng sinuman. Hindi ito batas ng kalikasan: nananatili ito dahil patuloy itong ipinapatupad ng mga kalahok. Hindi garantiya ang limitadong suplay na tataas ang presyo; nakadepende ang presyo sa demand gayundin sa suplay. -->
 
@@ -264,6 +268,7 @@ Ang isang bitcoin ay nahahati sa 100,000,000 mas maliliit na yunit na tinatawag 
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Isang talahanayan na may dalawang kolum: ang 1 BTC ay katumbas ng 100,000,000 sats, ang 0.1 BTC ay katumbas ng 10,000,000 sats, ang 0.01 BTC ay katumbas ng 1,000,000 sats, ang 0.001 BTC ay katumbas ng 100,000 sats, at ang 0.00000001 BTC ay katumbas ng 1 sat.](/micrographics/bitcoin-and-sats-01/tl.md)
 
 <!-- notes: Ang pagmamay-ari ng 100,000 sats at pagmamay-ari ng 0.001 bitcoin ay tumutukoy sa parehong halaga. Talakayin ang maling akala na hindi kayang abutin ang Bitcoin dahil mahal ang isang bitcoin. -->
 
@@ -272,6 +277,7 @@ Ang isang bitcoin ay nahahati sa 100,000,000 mas maliliit na yunit na tinatawag 
 ## Sino ang Nagpapanatiling Gumagana ang Bitcoin?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Apat na papel sa Bitcoin: ang mga gumagamit ay tumatanggap, nag-iingat at nagpapadala ng bitcoin, ang mga node ay nagsasariling nagbeberipika ng pagsunod sa mga tuntunin, ang mga minero ay bumubuo ng mga kandidatong bloke gamit ang patunay ng trabaho, at ang mga developer ay nagmumungkahi ng software. Walang iisang papel ang kumokontrol sa network.](/micrographics/bitcoin-participant-roles-01/tl.md)
 
 <!-- notes: Nagpapadala, tumatanggap, at nag-iimbak ng bitcoin ang mga gumagamit; sinusuri ng mga node ang bawat transaksiyon at bloke ayon sa mga tuntunin; nag-uunahan ang mga minero na magdagdag ng bagong bloke sa talaan humigit-kumulang bawat sampung minuto. Ang talaang iyon, ang blockchain, ay bukas sa publiko at napakamahal baguhin. Isang paalala sa pagbaybay: ang Bitcoin na may malaking B ay karaniwang tumutukoy sa network o sa sistema; ang bitcoin na may maliit na b ay tumutukoy sa mismong pera. -->
 
@@ -307,6 +313,7 @@ Ang unang tanong tungkol sa anumang wallet: sino ang may kontrol sa mga susi?
 ## Pinamamahalaan ng Isang Pitaka ang mga Susi
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Hawak ng wallet ang mga susi. Gamit ang mga ito, maaari kayong tumanggap at magpadala ng bitcoin, habang ang bitcoin mismo ay nananatiling nakatala sa pinagsasaluhang talaan, hindi sa loob ng telepono o device.](/micrographics/wallet-manages-keys-01/tl.md)
 
 <!-- notes: Ang Bitcoin wallet ay isang kasangkapan, karaniwang isang app, na nagbibigay-daan sa inyo na tumanggap, tingnan ang balanse, at magpadala ng bitcoin. Ang inyong bitcoin ay hindi nakaimbak sa loob ng inyong telepono: nakatala ito sa blockchain. Pinamamahalaan ng wallet ang mga susi na nagbibigay-daan sa inyo na patunayang sa inyo ito at pahintulutan ang isang pagbabayad. -->
 
@@ -331,6 +338,7 @@ Isang nakaayos na listahan ng mga salita, karaniwang 12 o 24, na magagamit upang
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Ang seed phrase ay isang nakaayos na listahan ng mga salita; dito, may labindalawang halimbawang salita na may bilang at nakasulat sa papel. Ang mga tamang salita sa tamang pagkakasunod-sunod ay maaaring magpanumbalik ng kontrol sa isang katugmang wallet, kaya pinananatili itong lihim at offline.](/micrographics/seed-phrase-on-paper-01/tl.md)
 
 <!-- notes: Ang seed phrase ay hindi lamang isang backup: ito ay ganap na access. Isulat po ito nang tama sa papel kapag ginawa ninyo ang wallet; panatilihin itong offline, pribado, at nasa lugar na hindi ito mawawala o masisira. Huwag po itong kunan ng litrato, ipadala sa email, itago sa mga tala sa cloud, ipadala sa isang mensahe, o i-type sa isang website. Ang mga salitang ipinapakita ay halimbawa lamang; huwag kailanman magpakita o mangolekta ng totoong seed phrase. -->
 
@@ -365,6 +373,7 @@ Isang nakaayos na listahan ng mga salita, karaniwang 12 o 24, na magagamit upang
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Ang mga on-chain na pagbabayad ay direktang naitatala sa blockchain ng Bitcoin, samantalang ang Lightning ay isang network ng pagbabayad na nakabatay sa Bitcoin para sa mabilis at madalas na mga pagbabayad na maaari ring mabigo. Sa alinmang paraan, maaaring ibang tagapag-ingat o kayo mismo ang may kontrol sa inyong pondo.](/micrographics/on-chain-and-lightning-01/tl.md)
 
 ---
 
@@ -375,7 +384,8 @@ Isang nakaayos na listahan ng mga salita, karaniwang 12 o 24, na magagamit upang
 * **Huwag Magtiwala, Tiyakin.** Suriin po ninyo ang tao, ang paraan ng pagbabayad, ang address, at ang halaga.
 
 
-> **Callout – Ibahagi ang impormasyon para sa pagtanggap, hindi kailanman ang mga lihim**
+<!-- card: callout -->
+> **Ibahagi ang impormasyon para sa pagtanggap, hindi kailanman ang mga lihim**
 >
 > Maaaring ibahagi ang isang address o kahilingan sa pagbabayad. Hindi kailanman dapat ibahagi ang seed phrase o pribadong susi. Walang lehitimong tagapagturo, kumpanya ng wallet, o kawani ng suporta ang hihingi nito sa inyo.
 
@@ -389,6 +399,7 @@ Huminto kung may taong minamadali kayo o hinihiling na ilihim ninyo ang usapan, 
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Limang babalang palatandaan ng panloloko: pagmamadali, pagpapanggap na ibang tao, binagong patutunguhan, garantisadong kita at mga kahilingan para sa lihim na impormasyon.](/micrographics/scam-red-flags-01/tl.md)
 
 ---
 
@@ -408,7 +419,8 @@ Simula pa lamang ito.
 * **Simula pa lamang ito.** Sapat na ang isang ligtas na susunod na hakbang.
 
 
-> **Callout – Sandali para magnilay**
+<!-- card: callout -->
+> **Sandali para magnilay**
 >
 > Balikan ninyo ang limang tanong sa simula. Ano ang isasagot ninyo ngayon?
 

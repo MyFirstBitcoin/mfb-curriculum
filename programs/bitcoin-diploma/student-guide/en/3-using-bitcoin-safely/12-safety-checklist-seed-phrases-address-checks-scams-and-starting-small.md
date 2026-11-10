@@ -6,6 +6,7 @@ What would make you stop before a payment or installation? Treat these as red fl
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Five scam red flags: urgency, impersonation, a changed destination, guaranteed returns and requests for secrets.](/micrographics/scam-red-flags-01/en.md)
 
 
 The safe response is always: **Pause. Share nothing. Send nothing. Close the channel. Verify independently through a known source. Ask for help without revealing secrets.** A known source is an official site, app listing, or contact method that you reached independently, not through an advertisement, direct message, or unexpected link. Check the publisher and web address, compare it with official documentation, and find contact details separately. If the source, instructions, or payment details differ from the demonstrated process, pause and seek help from your educator or trusted local support without revealing a [seed phrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) or [private key](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key). A real opportunity can survive a careful check; a scam often depends on preventing one.

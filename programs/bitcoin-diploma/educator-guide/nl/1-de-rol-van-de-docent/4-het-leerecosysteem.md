@@ -13,3 +13,4 @@ Elk onderdeel van het Bitcoin Diploma heeft een eigen functie.
 
 
 <!-- micrographic: learning-ecosystem-map-01 -->
+[De Studentengids biedt uitleg, de Docentengids ondersteunt het lesgeven en geselecteerde activiteiten uit de Resource Hub ondersteunen het oefenen. Het Beoordelingsraster bevat vertrouwelijke beoordelingsresultaten.](/micrographics/learning-ecosystem-map-01/nl.md)

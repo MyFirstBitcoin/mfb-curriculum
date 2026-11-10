@@ -4,6 +4,7 @@ Staan stil en dink na oor hoe openbare reëls, beperkte uitreiking, eweknie-oord
 
 
 <!-- micrographic: bitcoin-responses-tradeoffs-01 -->
+[’n Tabel wat vyf moontlike tekortkominge van moderne geldstelsels koppel aan Bitcoin se antwoord en die nuwe verantwoordelikheid of afweging wat elke antwoord meebring. Bitcoin vervang ’n mate van vertroue in instellings met verifikasie en persoonlike verantwoordelikheid, maar skakel nie risiko uit nie.](/micrographics/bitcoin-responses-tradeoffs-01/af.md)
 
 
 **Kerngedagte:** Het Bitcoin, op grond van wat u in hierdie module daaroor geleer het, [waarde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) vir u? Verteenwoordig die huidige [prys](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) van bitcoin die [waarde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) daarvan?

@@ -12,6 +12,7 @@ Utilizzando un [_txid_](https://curriculum.myfirstbitcoin.org/lexicon/en/#transa
 
 
 <!-- micrographic: confirmation-timeline-01 -->
+[Una transazione attende senza conferma nel pool delle transazioni in attesa, poi viene inclusa nel Blocco N come prima conferma, e ogni blocco successivo ne aggiunge un'altra.](/micrographics/confirmation-timeline-01/it.md)
 
 
 Poi chieda:

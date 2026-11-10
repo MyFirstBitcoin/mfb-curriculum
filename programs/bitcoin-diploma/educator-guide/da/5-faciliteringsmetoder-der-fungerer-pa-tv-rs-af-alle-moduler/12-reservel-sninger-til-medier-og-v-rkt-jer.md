@@ -24,6 +24,7 @@ Offlineundervisning og -bedømmelse er gyldige. De bedes bruge offlinekontrol af
 
 
 <!-- micrographic: same-competency-any-route-01 -->
+[Onlineværktøjer, papirsimulationer og godkendte tilgængelige alternativer kan understøtte den samme kompetence, når den lærende stadig træffer de nødvendige beslutninger, og underviseren kan vurdere ligeværdig dokumentation. Hvis der ikke er ligeværdighed, skal der forberedes et andet alternativ inden certificering.](/micrographics/same-competency-any-route-01/da.md)
 
 
 Elevvejledningen forklarer varige begreber. De bedes kontrollere aktuelle lokale oplysninger, før De præsenterer gebyrer, love, skatter, tilgængelige tjenester, walletfunktioner eller forhandleroversigter, og datere de oplysninger, De bruger.

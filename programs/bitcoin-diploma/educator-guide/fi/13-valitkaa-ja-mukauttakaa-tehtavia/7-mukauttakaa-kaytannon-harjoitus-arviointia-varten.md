@@ -14,6 +14,7 @@ Jos vastaavuus on epävarma, käyttäkää mukautettua tehtävää harjoitteluun
 
 
 <!-- micrographic: adapt-practice-or-assessment-01 -->
+[Harjoitustehtäviä voidaan mukauttaa oppijoiden ja olosuhteiden mukaan. Arviointiin käytettävässä tehtävässä on säilytettävä arvioitava osaaminen, näyttö, itsenäisyys, turvallisuus ja vähimmäisvaatimukset. Jos vastaavuus on epävarma, käyttäkää mukautettua tehtävää harjoitteluun ja valitkaa selkeämpi arviointitehtävä.](/micrographics/adapt-practice-or-assessment-01/fi.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/8444d4c2c23ce8cb5b0103bb646ce8c50c4594c3-1536x1024.svg)

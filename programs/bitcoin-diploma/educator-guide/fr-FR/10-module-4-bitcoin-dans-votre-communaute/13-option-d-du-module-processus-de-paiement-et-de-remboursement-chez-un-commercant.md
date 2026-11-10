@@ -18,6 +18,7 @@ Points à aborder :
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[Un commerçant qui accepte Bitcoin intervient dans quatre domaines : le marketing, la formation, la comptabilité et les ventes.](/micrographics/merchant-payment-operations-01/fr-FR.md)
 
 
 **Mise en pratique :** L’apprenant réalise ou dirige un scénario de paiement et de remboursement. Il doit authentifier le client, demander de nouvelles coordonnées de remboursement, vérifier la destination et le montant, déterminer qui paie les éventuels frais et consigner le résultat sans exposer de données superflues.

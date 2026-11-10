@@ -40,7 +40,8 @@ Não a ganhar, nem a gastar, mas a pensar no que é e como funciona.
 * O seu dinheiro compra a mesma quantidade que antes?
 
 
-> **Callout – Guarde as suas respostas**
+<!-- card: callout -->
+> **Guarde as suas respostas**
 >
 > Escreva uma resposta curta a cada pergunta. Voltará a elas no final.
 
@@ -85,6 +86,7 @@ Ambas as pessoas têm de querer o que a outra tem, ao mesmo tempo e em quantidad
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina tem arroz e quer sapatos, Luis tem sapatos e quer óleo de cozinha, e Mei tem óleo de cozinha e quer trabalhos de reparação. Nenhum par consegue trocar diretamente, porque em cada par nenhuma das pessoas quer o que a outra oferece.](/micrographics/barter-mismatch-01/pt-PT.md)
 
 <!-- notes: Use o exemplo do guia: cultiva arroz e precisa de sapatos, mas o sapateiro quer óleo de cozinha, não arroz. Os economistas chamam a isto a dupla coincidência de desejos. -->
 
@@ -151,6 +153,7 @@ Quando as pessoas ouvem a palavra inflação, normalmente pensam na subida dos p
 ## Inflação e Poder de Compra
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[As mesmas 100 unidades de moeda compram o cabaz completo de bens essenciais quando este custa 100, mas não quando o mesmo cabaz custa 110. O nível de preços subiu e o poder de compra do dinheiro diminuiu.](/micrographics/same-money-smaller-basket-01/pt-PT.md)
 
 <!-- notes: A inflação de preços é uma subida sustentada do nível geral de preços. A sua outra face é o poder de compra: o quanto uma unidade de moeda consegue comprar. Se um cabaz de bens essenciais passar de 100 unidades monetárias para 110, as mesmas 100 unidades já não chegam para comprar o cabaz completo. -->
 
@@ -213,8 +216,7 @@ Um saldo bancário é diferente do dinheiro que tem na mão: é a promessa do ba
 * Mas a sua oferta e as suas regras podem mudar, e as pessoas que o utilizam têm pouca voz
 
 
-> **Callout**
->
+<!-- card: callout -->
 > É por isso que as pessoas procuram alternativas, e foi por isso que a Bitcoin foi criada.
 
 ---
@@ -233,6 +235,7 @@ Dinheiro digital que é descentralizado, tem uma oferta limitada e pode ser envi
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Com uma empresa de pagamentos, uma única organização mantém o registo e aprova cada transferência. Com a Bitcoin, o remetente assina uma transação, nós independentes verificam-na e os mineradores acrescentam-na a um único registo partilhado, pelo que o destinatário depende menos de uma autoridade central.](/micrographics/central-ledger-vs-bitcoin-01/pt-PT.md)
 
 <!-- notes: Antes do Bitcoin, enviar dinheiro pela internet dependia sempre de uma organização de confiança: um banco ou uma empresa de pagamentos que mantinha o registo, aprovava contas e podia atrasar, bloquear ou reverter um pagamento. A informação digital é fácil de copiar: se uma moeda digital pudesse ser gasta duas vezes, não poderia funcionar como dinheiro. Este é o problema do duplo gasto. Satoshi Nakamoto é uma pessoa ou um grupo que utiliza esse nome. -->
 
@@ -253,6 +256,7 @@ Nenhuma empresa pode congelar bitcoin que o próprio controle. O reverso dessa l
 ## Um Limite que Qualquer Pessoa Pode Verificar
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Um limite de oferta escrito num site ou na base de dados de um emissor pode ser alterado discretamente por esse emissor. A regra de oferta do Bitcoin é pública, e as assinaturas, um histórico público, a prova de trabalho e a verificação pelos nós, em conjunto, impedem que se criem novas moedas do nada ou que a mesma bitcoin seja gasta duas vezes.](/micrographics/claimed-or-verified-supply-01/pt-PT.md)
 
 <!-- notes: Os novos bitcoin são emitidos segundo um calendário público, e computadores independentes chamados nós rejeitam qualquer bloco que viole essa regra. O limite é credível porque qualquer pessoa o pode verificar. Não é uma lei da natureza: mantém-se porque os participantes continuam a fazê-lo cumprir. Uma oferta limitada não garante que o preço suba; o preço depende tanto da procura como da oferta. -->
 
@@ -264,6 +268,7 @@ Um bitcoin divide-se em 100 000 000 de unidades mais pequenas, chamadas satoshis
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Uma tabela com duas colunas: 1 BTC equivale a 100 000 000 sats, 0,1 BTC equivale a 10 000 000 sats, 0,01 BTC equivale a 1 000 000 sats, 0,001 BTC equivale a 100 000 sats e 0,00000001 BTC equivale a 1 sat.](/micrographics/bitcoin-and-sats-01/pt-PT.md)
 
 <!-- notes: Possuir 100 000 sats e possuir 0,001 bitcoin descrevem o mesmo montante. Desfaça a ideia errada de que o Bitcoin está fora do alcance por uma bitcoin ser cara. -->
 
@@ -272,6 +277,7 @@ Um bitcoin divide-se em 100 000 000 de unidades mais pequenas, chamadas satoshis
 ## Quem mantém a Bitcoin a funcionar?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Quatro papéis no Bitcoin: os utilizadores recebem, guardam e enviam bitcoin, os nós verificam as regras de forma independente, os mineradores constroem blocos candidatos com prova de trabalho e os programadores propõem software. Nenhum papel, por si só, controla a rede.](/micrographics/bitcoin-participant-roles-01/pt-PT.md)
 
 <!-- notes: Os utilizadores enviam, recebem e guardam bitcoin; os nós verificam cada transação e cada bloco segundo as regras; os mineradores competem para acrescentar um novo bloco ao registo aproximadamente a cada dez minutos. Esse registo, a blockchain, é público e muito dispendioso de reescrever. Uma nota sobre a grafia: Bitcoin com B maiúsculo designa normalmente a rede ou o sistema; bitcoin com b minúsculo designa o próprio dinheiro. -->
 
@@ -307,6 +313,7 @@ A primeira pergunta a fazer sobre qualquer carteira: quem controla as chaves?
 ## Uma carteira gere chaves
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Uma carteira guarda as chaves. Com elas, pode receber e enviar bitcoin, enquanto os próprios bitcoins permanecem registados no registo partilhado, e não dentro do telemóvel ou do dispositivo.](/micrographics/wallet-manages-keys-01/pt-PT.md)
 
 <!-- notes: Uma carteira Bitcoin é uma ferramenta, normalmente uma aplicação, que lhe permite receber, consultar e enviar bitcoin. Os seus bitcoins não estão guardados dentro do seu telemóvel: estão registados na blockchain. A carteira gere as chaves que lhe permitem provar que são seus e autorizar um pagamento. -->
 
@@ -331,6 +338,7 @@ Uma lista ordenada de palavras, normalmente 12 ou 24, que permite recriar as sua
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Uma frase-semente é uma lista ordenada de palavras, aqui doze palavras de exemplo numeradas e escritas em papel. As palavras certas, pela ordem certa, permitem recuperar o controlo numa carteira compatível, pelo que deve ser mantida em segredo e offline.](/micrographics/seed-phrase-on-paper-01/pt-PT.md)
 
 <!-- notes: A frase-semente não é apenas uma cópia de segurança: dá acesso total. Anote-a com exatidão em papel quando criar a carteira; guarde-a offline, em privado e num local onde não se perca nem se danifique. Nunca a fotografe, nem a envie por e-mail, nem a guarde em notas na nuvem, nem a envie numa mensagem, nem a introduza num site. As palavras apresentadas são apenas um exemplo; nunca mostre nem recolha uma frase-semente real. -->
 
@@ -365,6 +373,7 @@ Uma lista ordenada de palavras, normalmente 12 ou 24, que permite recriar as sua
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Os pagamentos on-chain são registados diretamente na blockchain do Bitcoin, enquanto a Lightning é uma rede de pagamentos construída sobre o Bitcoin para pagamentos rápidos e frequentes, que também podem falhar. Qualquer um dos caminhos pode ser com custódia de terceiros ou de autocustódia.](/micrographics/on-chain-and-lightning-01/pt-PT.md)
 
 ---
 
@@ -375,7 +384,8 @@ Uma lista ordenada de palavras, normalmente 12 ou 24, que permite recriar as sua
 * **Não confie, verifique.** Verifique a pessoa, o método de pagamento, o endereço e o montante.
 
 
-> **Callout – Partilhe informações de receção, nunca segredos**
+<!-- card: callout -->
+> **Partilhe informações de receção, nunca segredos**
 >
 > Um endereço ou um pedido de pagamento podem ser partilhados. Uma frase-semente ou uma chave privada nunca devem ser partilhadas. Nenhum educador, empresa de carteiras ou técnico de apoio legítimo lha pedirá alguma vez.
 
@@ -389,6 +399,7 @@ Pare se alguém criar urgência ou secretismo, prometer rendimentos garantidos, 
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Cinco sinais de alerta de burla: urgência, usurpação de identidade, destino alterado, retornos garantidos e pedidos de segredos.](/micrographics/scam-red-flags-01/pt-PT.md)
 
 ---
 
@@ -408,7 +419,8 @@ Isto é apenas o começo.
 * **Isto é apenas o começo.** Um próximo passo seguro é suficiente.
 
 
-> **Callout – Um momento de reflexão**
+<!-- card: callout -->
+> **Um momento de reflexão**
 >
 > Volte às cinco perguntas do início. O que responderia agora?
 

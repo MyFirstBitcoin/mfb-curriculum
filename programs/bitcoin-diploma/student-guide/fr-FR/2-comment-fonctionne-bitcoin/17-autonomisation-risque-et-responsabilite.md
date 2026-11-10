@@ -13,6 +13,5 @@ Pour une personne qui choisit [l’autogarde](https://curriculum.myfirstbitcoin.
 [L’autogarde](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) n’est donc pas qu’une fonctionnalité technique. Elle exige de protéger les sauvegardes, de vérifier les adresses, de contrôler le comportement du portefeuille et d’établir un plan de récupération. Le prochain module explique comment conserver et utiliser le bitcoin avec précaution, notamment comment gérer ces risques et ces responsabilités.
 
 
-> **Light**
->
+<!-- card: light -->
 > La responsabilité personnelle ne signifie pas agir seul ou refuser de l’aide. Une personne prudente qui apprend peut s’appuyer sur la formation, la vérification par des pairs, des procédures documentées et des tests à petite échelle sans donner à quiconque accès à des informations secrètes.

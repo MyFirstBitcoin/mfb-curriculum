@@ -18,3 +18,4 @@ Lightning bukan koin tersendiri. Pembayaran Lightning yang berhasil tidak membuk
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Pembayaran di blockchain dicatat langsung di blockchain Bitcoin, sedangkan Lightning adalah jaringan pembayaran yang dibangun di atas Bitcoin untuk pembayaran cepat dan berfrekuensi tinggi yang juga dapat gagal. Kedua jalur ini dapat menggunakan kustodi pihak ketiga atau kustodi mandiri.](/micrographics/on-chain-and-lightning-01/id.md)

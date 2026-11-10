@@ -8,6 +8,7 @@ Zoezi salama la kujiandaa kwa urejeshaji ni rahisi:
 
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[Zoezi la hatua sita la kurejesha pochi ya mafunzo: fuateni maelekezo rasmi, hakikisheni upatanifu, fanyeni kazi faraghani, tumieni njia iliyoidhinishwa ya urejeshaji, thibitisheni pochi inayotarajiwa, kisha wekeni upya. Tumieni vifaa vilivyoandaliwa, vitupu au vya kuigiza pekee, na mwalimu kamwe haoni maneno ya urejeshaji.](/micrographics/practice-wallet-recovery-01/sw.md)
 
 
 Msitumie pochi ya mafunzo wala taarifa zake za urejeshaji kulinda fedha za thamani baada ya Diploma. Pochi binafsi, mkiamua kuunda moja baadaye, inahitaji usanidi mpya wa faragha na taarifa mpya za urejeshaji.

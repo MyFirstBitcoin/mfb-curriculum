@@ -3,6 +3,7 @@
 Um [sistema centralizado](https://curriculum.myfirstbitcoin.org/lexicon/en/#centralized-system) tem um ponto de controle. Um banco controla o [livro-razão](https://curriculum.myfirstbitcoin.org/lexicon/en/#ledger) de seus clientes. Uma empresa de pagamentos controla sua rede. Um governo controla as regras de emissão de sua [moeda](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency).
 
 
+<!-- card: definition -->
 > **Definition – Descentralização**
 >
 > Um [sistema descentralizado](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralized-system) distribui funções e a aplicação de decisões entre muitos participantes independentes. O Bitcoin não tem um escritório central capaz de criar contas, alterar saldos ou aprovar a adesão de membros.
@@ -22,6 +23,7 @@ A [descentralização](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentr
 
 
 <!-- micrographic: powers-and-limits-01 -->
+[Usuários, nós, mineradores, desenvolvedores e serviços têm, cada um, algum poder em torno das regras compartilhadas e do registro público do Bitcoin, mas nenhum deles pode, sozinho, mudar o registro ou as regras para todos.](/micrographics/powers-and-limits-01/pt-BR.md)
 
 
 [A descentralização](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) também gera custos. A coordenação pode ser mais lenta. Os usuários precisam verificar informações e assumir mais responsabilidade. Não existe uma central de suporte para a [rede Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). Essas [compensações](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) fazem parte do projeto, e não são defeitos acidentais que possam ser eliminados sem alterar o sistema.

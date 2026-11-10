@@ -5,7 +5,8 @@
 Odesílání vyžaduje větší opatrnost, protože v síti Bitcoin platnou [transakci](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) obvykle nelze zvrátit, nebo je to obtížné. Než klepnete na tlačítko pro schválení, dokážete vysvětlit, kdo platbu obdrží a proč?
 
 
-> **Callout – Před odesláním se zastavte a vše ověřte**
+<!-- card: callout -->
+> **Před odesláním se zastavte a vše ověřte**
 >
 > Ověřte příjemce, způsob platby, cíl platby, částku a jednotku, poplatek nebo dobu platnosti a závěrečnou obrazovku. Pokud se cokoli liší od důvěryhodného požadavku nebo pokud někdo vytváří časový nátlak či žádá o údaje pro obnovení peněženky, zastavte se a vše nezávisle ověřte. Pokud postup neznáte, vyzkoušejte nejprve platbu malou částkou.
 
@@ -21,6 +22,7 @@ Odesílání vyžaduje větší opatrnost, protože v síti Bitcoin platnou [tra
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Před schválením platby odesílatel kontroluje příjemce a účel, způsob platby, cíl platby a částku, jednotku, poplatek nebo dobu platnosti. Pokud postup nezná, provede malou zkušební platbu. Jestliže se cokoli liší, zastaví se a vše ověří; platbu schválí, pouze pokud vše souhlasí, a poté zkontroluje výsledek.](/micrographics/pre-send-checklist-01/cs.md)
 
 
 U [on-chain platby](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment) se **síťový poplatek** platí za zahrnutí [transakce](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) do bloku. Závisí především na datech [transakce](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) a poptávce po [prostoru v bloku](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-space), nikoli pouze na odesílané částce. Odhady poplatků a doby potvrzení se mohou měnit, proto si přečtěte závěrečné shrnutí a nepředpokládejte, že platba malé částky má nízký poplatek.

@@ -3,7 +3,8 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) da [rashin KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) hanyoyi ne da suka bambanta wajen [abin da ake samu da abin da ake rasa](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Babu ɗaya daga cikin waɗannan sunaye da ke kawar da buƙatar yin nazari cikin tsanaki.
 
 
-> **Callout – Sirri ba ya kawar da haɗarin doka ko na lafiyar jiki**
+<!-- card: callout -->
+> **Sirri ba ya kawar da haɗarin doka ko na lafiyar jiki**
 >
 > Ba [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) ko [rashin KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) ne ya fi dacewa kai tsaye ba. Ku kwatanta ainihin hanyar, ku yi amfani da jagororin yankinku na yanzu idan ƙa'idoji ba su bayyana ba, kuma kada ku karya dokar yankinku ko ku jefa kanku cikin haɗari na jiki domin neman [sirri](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 

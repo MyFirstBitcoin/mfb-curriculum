@@ -40,7 +40,8 @@ Nu câștigându-l, nu cheltuindu-l, ci gândindu-vă la ce este și cum funcți
 * Puteți cumpăra cu banii dumneavoastră la fel de mult ca înainte?
 
 
-> **Callout – Păstrați răspunsurile**
+<!-- card: callout -->
+> **Păstrați răspunsurile**
 >
 > Scrieți un răspuns scurt la fiecare întrebare. Veți reveni la ele la final.
 
@@ -85,6 +86,7 @@ Ambele persoane trebuie să își dorească ceea ce are cealaltă, în același 
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina are orez și dorește pantofi, Luis are pantofi și dorește ulei de gătit, iar Mei are ulei de gătit și dorește lucrări de reparații. Nicio pereche nu poate face un schimb direct, deoarece niciuna dintre persoanele dintr-o pereche nu dorește ceea ce oferă cealaltă.](/micrographics/barter-mismatch-01/ro.md)
 
 <!-- notes: Folosiți exemplul din ghid: cultivați orez și aveți nevoie de pantofi, dar cizmarul dorește ulei de gătit, nu orez. Economiștii numesc această situație dubla coincidență a nevoilor. -->
 
@@ -151,6 +153,7 @@ Când oamenii aud cuvântul inflație, se gândesc de obicei la creșterea preț
 ## Inflația și puterea de cumpărare
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Cu aceleași 100 de unități monetare puteți cumpăra întregul coș de bunuri de bază când acesta costă 100, dar nu și când același coș costă 110. Nivelul prețurilor a crescut, iar puterea de cumpărare a banilor a scăzut.](/micrographics/same-money-smaller-basket-01/ro.md)
 
 <!-- notes: Inflația prețurilor reprezintă o creștere susținută a nivelului general al prețurilor. Cealaltă față a acesteia este puterea de cumpărare: cât se poate cumpăra cu o unitate monetară. Dacă prețul unui coș de bunuri de bază crește de la 100 de unități monetare la 110, aceleași 100 de unități nu mai sunt suficiente pentru a cumpăra întregul coș. -->
 
@@ -213,8 +216,7 @@ Soldul unui cont bancar este diferit de numerarul pe care îl aveți în mână:
 * Dar oferta sa monetară și regulile se pot schimba, iar oamenii care o folosesc au puține de spus
 
 
-> **Callout**
->
+<!-- card: callout -->
 > De aceea oamenii caută alternative și de aceea a fost creat Bitcoin.
 
 ---
@@ -233,6 +235,7 @@ Bani digitali descentralizați, cu o ofertă limitată, care pot fi trimiși Pee
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[În cazul unei companii de plăți, o singură organizație ține registrul și aprobă fiecare transfer. În cazul Bitcoin, expeditorul semnează o tranzacție, nodurile independente o verifică, iar minerii o adaugă într-un registru comun, astfel încât destinatarul depinde mai puțin de o autoritate centrală.](/micrographics/central-ledger-vs-bitcoin-01/ro.md)
 
 <!-- notes: Înainte de Bitcoin, trimiterea banilor online depindea întotdeauna de o organizație de încredere: o bancă sau o companie de plăți care ținea registrul contabil, aproba conturile și putea întârzia, bloca sau anula o plată. Informațiile digitale sunt ușor de copiat: dacă o monedă digitală ar putea fi cheltuită de două ori, nu ar putea funcționa ca bani. Aceasta este problema dublei cheltuiri. Satoshi Nakamoto este o persoană sau un grup care folosește acest nume. -->
 
@@ -253,6 +256,7 @@ Nicio companie nu poate bloca fondurile în bitcoin pe care le controlați perso
 ## O limită pe care oricine o poate verifica
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[O limită a ofertei monetare înscrisă pe un site sau în baza de date a unui emitent poate fi modificată de acesta fără ca nimeni să observe. Regula privind oferta monetară a Bitcoin este publică, iar semnăturile, istoricul public, dovada muncii și verificarea de către noduri împiedică împreună crearea neautorizată de monede noi sau cheltuirea aceluiași bitcoin de două ori.](/micrographics/claimed-or-verified-supply-01/ro.md)
 
 <!-- notes: Noi bitcoin sunt emiși conform unui calendar public, iar calculatoare independente, numite noduri, resping orice bloc care încalcă această regulă. Limita este credibilă deoarece oricine o poate verifica. Nu este o lege a naturii: ea se menține deoarece participanții continuă să o impună. O ofertă limitată nu garantează că prețul va crește; prețul depinde atât de cerere, cât și de ofertă. -->
 
@@ -264,6 +268,7 @@ Un bitcoin se împarte în 100.000.000 de unități mai mici numite satoshi sau 
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Un tabel cu două coloane: 1 BTC înseamnă 100.000.000 sats, 0,1 BTC înseamnă 10.000.000 sats, 0,01 BTC înseamnă 1.000.000 sats, 0,001 BTC înseamnă 100.000 sats, iar 0,00000001 BTC înseamnă 1 sat.](/micrographics/bitcoin-and-sats-01/ro.md)
 
 <!-- notes: A deține 100.000 sats și a deține 0,001 bitcoin înseamnă a deține aceeași sumă. Abordați concepția greșită potrivit căreia Bitcoin este inaccesibil deoarece un bitcoin este scump. -->
 
@@ -272,6 +277,7 @@ Un bitcoin se împarte în 100.000.000 de unități mai mici numite satoshi sau 
 ## Cine menține Bitcoin în funcțiune?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Patru roluri în Bitcoin: utilizatorii primesc, dețin și trimit bitcoin, nodurile verifică în mod independent respectarea regulilor, minerii construiesc blocuri candidate folosind dovada muncii, iar dezvoltatorii propun software. Niciun rol nu controlează singur rețeaua.](/micrographics/bitcoin-participant-roles-01/ro.md)
 
 <!-- notes: Utilizatorii trimit, primesc și dețin bitcoin; nodurile verifică fiecare tranzacție și fiecare bloc pentru a se asigura că respectă regulile; minerii concurează pentru a adăuga un nou bloc în registru aproximativ la fiecare zece minute. Acest registru, numit blockchain, este public și foarte costisitor de rescris. O precizare privind scrierea: Bitcoin cu B mare desemnează de obicei rețeaua sau sistemul; bitcoin cu b mic desemnează banii în sine. -->
 
@@ -307,6 +313,7 @@ Prima întrebare despre orice portofel: cine controlează cheile?
 ## Un portofel gestionează chei
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Un portofel păstrează cheile. Cu ajutorul lor puteți primi și trimite bitcoin, în timp ce monedele bitcoin în sine rămân înregistrate în registrul comun, nu în telefon sau pe dispozitiv.](/micrographics/wallet-manages-keys-01/ro.md)
 
 <!-- notes: Un portofel Bitcoin este un instrument, de obicei o aplicație, care vă permite să primiți, să verificați și să trimiteți bitcoin. Monedele dumneavoastră bitcoin nu sunt stocate în telefon: ele sunt înregistrate pe blockchain. Portofelul gestionează cheile care vă permit să dovediți că vă aparțin și să autorizați o plată. -->
 
@@ -331,6 +338,7 @@ O listă ordonată de cuvinte, adesea 12 sau 24, care vă permite să vă recrea
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[O frază de recuperare este o listă ordonată de cuvinte, aici douăsprezece cuvinte numerotate, scrise pe hârtie ca exemplu. Cuvintele corecte, în ordinea corectă, pot restabili controlul într-un portofel compatibil, așa că fraza trebuie păstrată secretă și offline.](/micrographics/seed-phrase-on-paper-01/ro.md)
 
 <!-- notes: Fraza de recuperare nu este doar o copie de rezervă: ea oferă acces deplin. Notați-o cu exactitate pe hârtie atunci când creați portofelul; păstrați-o offline, confidențială și într-un loc unde nu se va pierde sau deteriora. Nu o fotografiați niciodată, nu o trimiteți prin e-mail, nu o stocați în notițe în cloud, nu o trimiteți prin mesaje și nu o introduceți pe un site web. Cuvintele afișate sunt doar un exemplu; nu afișați și nu colectați niciodată o frază de recuperare reală. -->
 
@@ -365,6 +373,7 @@ O listă ordonată de cuvinte, adesea 12 sau 24, care vă permite să vă recrea
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Plățile pe lanț sunt înregistrate direct în blockchainul Bitcoin, în timp ce Lightning este o rețea de plăți construită pe Bitcoin pentru plăți rapide și frecvente, care pot și să eșueze. Ambele variante pot fi cu custodie sau cu autocustodie.](/micrographics/on-chain-and-lightning-01/ro.md)
 
 ---
 
@@ -375,7 +384,8 @@ O listă ordonată de cuvinte, adesea 12 sau 24, care vă permite să vă recrea
 * **Nu vă încredeți, verificați.** Verificați persoana, metoda de plată, adresa și suma.
 
 
-> **Callout – Partajați informații pentru primirea plăților, niciodată secrete**
+<!-- card: callout -->
+> **Partajați informații pentru primirea plăților, niciodată secrete**
 >
 > O adresă sau o cerere de plată poate fi partajată. O frază de recuperare sau o Cheie Privată nu trebuie partajată niciodată. Niciun educator, nicio companie care oferă un Portofel și niciun angajat al serviciului de asistență care acționează în mod legitim nu vă va cere vreodată aceste informații.
 
@@ -389,6 +399,7 @@ Opriți-vă dacă cineva vă presează să acționați urgent sau în secret, pr
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Cinci semnale de alarmă ale unei escrocherii: urgență, uzurparea identității, o destinație modificată, câștiguri garantate și solicitări de informații secrete.](/micrographics/scam-red-flags-01/ro.md)
 
 ---
 
@@ -408,7 +419,8 @@ Acesta este doar începutul.
 * **Acesta este doar începutul.** Este suficient să faceți un singur pas următor, în siguranță.
 
 
-> **Callout – Un moment de reflecție**
+<!-- card: callout -->
+> **Un moment de reflecție**
 >
 > Reveniți la cele cinci întrebări de la început. Ce ați răspunde acum?
 

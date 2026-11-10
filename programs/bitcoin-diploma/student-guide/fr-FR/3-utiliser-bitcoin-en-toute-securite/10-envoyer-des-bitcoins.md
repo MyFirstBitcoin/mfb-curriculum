@@ -5,7 +5,8 @@
 L’envoi exige davantage de précautions, car sur Bitcoin, une [transaction](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) valide est généralement difficile, voire impossible, à annuler. Avant d’appuyer sur le bouton de validation, pouvez-vous expliquer qui recevra le paiement et pourquoi ?
 
 
-> **Callout – Arrêtez-vous et vérifiez avant d’envoyer**
+<!-- card: callout -->
+> **Arrêtez-vous et vérifiez avant d’envoyer**
 >
 > Confirmez le destinataire, le mode de paiement, la destination, le montant et l’unité, les frais ou l’expiration, ainsi que l’écran final. Si un élément diffère de la demande de confiance, ou si quelqu’un crée un sentiment d’urgence ou demande des informations de récupération, arrêtez-vous et vérifiez de manière indépendante. Faites un test avec un petit montant si la procédure ne vous est pas familière.
 
@@ -21,6 +22,7 @@ L’envoi exige davantage de précautions, car sur Bitcoin, une [transaction](ht
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Avant d’approuver un paiement, la personne qui l’envoie vérifie le destinataire et le motif, le mode de paiement, la destination, ainsi que le montant, l’unité, les frais ou l’expiration, et effectue un petit test si la procédure ne lui est pas familière. Si un élément diffère, elle s’arrête et vérifie ; elle n’approuve que lorsque tout correspond, puis vérifie le résultat.](/micrographics/pre-send-checklist-01/fr-FR.md)
 
 
 Pour un [paiement on-chain](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), les **frais de réseau** sont payés pour inclure la [transaction](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) dans un bloc. Ils dépendent principalement des données de la [transaction](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) et de la demande en [espace de bloc](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-space), et pas simplement du montant envoyé. Les estimations des frais et des délais peuvent changer : lisez donc le récapitulatif final plutôt que de supposer qu’un paiement de faible montant entraîne des frais peu élevés.

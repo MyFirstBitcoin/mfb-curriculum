@@ -8,6 +8,7 @@ Un exercice sûr de préparation à la récupération est simple :
 
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[Un exercice en six étapes pour récupérer un portefeuille d’entraînement : suivez les instructions officielles, vérifiez la compatibilité, travaillez à l’abri des regards, utilisez la méthode de récupération approuvée, vérifiez qu’il s’agit du portefeuille attendu, puis réinitialisez. Utilisez uniquement du matériel préparé, vide ou simulé. Le formateur ne voit jamais les mots de récupération.](/micrographics/practice-wallet-recovery-01/fr-FR.md)
 
 
 N’utilisez pas un portefeuille d’entraînement ni ses informations de récupération pour sécuriser des fonds importants après le Diplôme. Un portefeuille personnel, si vous choisissez d’en créer un plus tard, nécessite une nouvelle configuration effectuée à l’abri des regards et de nouvelles informations de récupération.

@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: self-custody-responsibilities-01 -->
+[Kawalan kunci berada di tengah-tengah lapan tanggungjawab: sandaran, pemulihan, penerimaan, penghantaran, pilihan alat, saluran pemerolehan, privasi dan semakan penipuan. Setiap satu melindungi sesuatu, dan kegagalan dalam mana-mana tanggungjawab ini boleh menyebabkan kehilangan akses, wang atau privasi.](/micrographics/self-custody-responsibilities-01/ms.md)
 
 
 
 <!-- micrographic: responsibility-checks-01 -->
+[Jadual enam tugas jagaan kendiri, perkara yang perlu dilindungi atau diperiksa bagi setiap tugas, dan perkara yang boleh berlaku jika timbul masalah: sandaran, penerimaan, penghantaran, jagaan, pemilihan alat dan pemerolehan.](/micrographics/responsibility-checks-01/ms.md)
 
 
 Bayangkan seorang rakan menghantar permintaan bayaran kepada anda, sementara akaun sokongan yang tidak dikenali mengatakan bahawa anda mesti bertindak segera. Apakah yang boleh anda semak sebelum melakukan apa-apa? Bolehkah anda melindungi pelan pemulihan, membezakan maklumat untuk menerima bayaran daripada maklumat rahsia, serta mengesahkan identiti orang tersebut, kaedah pembayaran, destinasi, jumlah dan skrin akhir sebelum menghantar bayaran? Sama ada penyedia perkhidmatan atau anda sendiri yang mengawal kunci, rumusan praktikalnya tetap sama: lindungi maklumat rahsia, buat pengesahan sebelum meluluskan, kenali tanda-tanda penipuan dan hadkan kesan kesilapan semasa belajar.

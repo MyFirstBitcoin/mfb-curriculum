@@ -20,3 +20,4 @@ Non tratti [l'autocustodia](https://curriculum.myfirstbitcoin.org/lexicon/en/#se
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[Nell'uso custodiale, un servizio controlla le chiavi e approva le spese, quindi il saldo è una sua promessa. Nell'uso in autocustodia, l'utente controlla le chiavi e i backup; entrambe le soluzioni comportano dipendenze e rischi di malfunzionamento.](/micrographics/who-controls-keys-01/it.md)

@@ -16,6 +16,7 @@ Breng in kaart:
 
 
 <!-- micrographic: local-circular-economy-01 -->
+[In een circulaire Bitcoin-economie gaat bitcoin van persoon tot persoon in ruil voor goederen, diensten en tijd. Een klant betaalt een handelaar, de handelaar betaalt een dienstverlener, de dienstverlener betaalt een werknemer en de werknemer geeft het als klant weer uit.](/micrographics/local-circular-economy-01/nl.md)
 
 
 Controleer bij het zoeken naar bronnen:

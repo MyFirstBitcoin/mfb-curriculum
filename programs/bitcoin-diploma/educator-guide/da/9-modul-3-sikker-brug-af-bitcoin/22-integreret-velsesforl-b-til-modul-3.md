@@ -19,3 +19,4 @@ Brug ikke stationerne til formel bedømmelse, medmindre de præcise opgaver, var
 
 
 <!-- micrographic: practice-circuit-stations-01 -->
+[Deltagerne skifter mellem otte øvelsesstationer: opbevaring, offentlig eller hemmelig, modtag, send, gendannelse, block explorer, svindel og læringsforløb. Et separat observationsspor følger en godkendt rute, så gruppeøvelser aldrig forveksles med formel bedømmelse.](/micrographics/practice-circuit-stations-01/da.md)

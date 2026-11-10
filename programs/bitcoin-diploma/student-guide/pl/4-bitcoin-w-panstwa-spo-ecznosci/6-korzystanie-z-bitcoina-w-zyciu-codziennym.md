@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: daily-bitcoin-uses-01 -->
+[Siedem różnych sposobów wykorzystania Bitcoina w codziennym życiu: zarabianie, oszczędzanie, otrzymywanie, wysyłanie, wydawanie, przekazywanie darowizn oraz ustalanie cen i księgowość. Każdy z nich to możliwe zastosowanie, a nie wymagany krok.](/micrographics/daily-bitcoin-uses-01/pl.md)
 
 
 Bitcoin może pełnić funkcję pieniądza na kilka sposobów. Wydawanie jest tylko jednym z nich.

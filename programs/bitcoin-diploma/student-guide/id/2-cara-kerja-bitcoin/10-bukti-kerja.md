@@ -3,6 +3,7 @@
 ![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
+<!-- card: definition -->
 > **Definition – Bukti kerja**
 >
 > [Bukti kerja](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) adalah proses yang [penambang](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) gunakan untuk bersaing mendapatkan hak mengusulkan blok berikutnya.
@@ -14,6 +15,7 @@ Ketika seorang [penambang](https://curriculum.myfirstbitcoin.org/lexicon/en/#min
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Penambang menghitung hash dari blok yang diusulkan berulang kali hingga salah satu hasilnya berada di bawah target jaringan, lalu menyiarkan blok tersebut. Simpul memeriksa bukti dan kepatuhan terhadap setiap aturan dengan cepat sebelum blok masuk ke blockchain: menghasilkan bukti kerja membutuhkan biaya besar, tetapi memverifikasinya mudah.](/micrographics/proof-of-work-process-01/id.md)
 
 
 [Bukti kerja](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) memiliki beberapa tujuan:

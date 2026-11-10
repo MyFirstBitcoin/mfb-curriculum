@@ -19,3 +19,4 @@ Do not use the stations as formal assessment unless the exact tasks, variants, c
 
 
 <!-- micrographic: practice-circuit-stations-01 -->
+[Learners rotate through eight practice stations: custody, public or secret, receive, send, recovery, explorer, scam and pathway. A separate observation lane follows an approved route, so group practice is never mistaken for formal assessment.](/micrographics/practice-circuit-stations-01/en.md)

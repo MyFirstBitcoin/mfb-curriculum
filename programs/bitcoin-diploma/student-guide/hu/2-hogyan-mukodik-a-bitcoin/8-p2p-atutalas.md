@@ -8,6 +8,7 @@ Az egyenrangú felek közötti kapcsolat nem mindig jelenti azt, hogy csak két 
 
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[Egy küldő aláír egy tranzakciót, és elküldi a hálózat számos csomópontjának, amelyek továbbítják, amíg el nem jut a címzetthez. Sem a küldőt, sem a címzettet nem kell jóváhagynia a Bitcoin központi üzemeltetőjének.](/micrographics/peer-to-peer-route-01/hu.md)
 
 
 A felhasználók ettől még választhatnak [közvetítőket](https://curriculum.myfirstbitcoin.org/lexicon/en/#intermediary). Egy tőzsde tarthat bitcoint az ügyfelei számára. Egy fizetési szolgáltatás egyszerűsítheti egy számla kezelését. Egy szolgáltató által üzemeltetett tárca kezelheti a kulcsokat. Ezek a szolgáltatások kényelmesek lehetnek, de a felhasználó ilyenkor a szolgáltatás szabályaitól és biztonságától függ.

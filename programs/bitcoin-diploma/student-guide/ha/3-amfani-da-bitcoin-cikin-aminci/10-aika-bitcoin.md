@@ -5,7 +5,8 @@
 Aika kuɗi yana buƙatar ƙarin kulawa domin a Bitcoin, ingantacciyar [mu'amala](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) yawanci tana da wahalar sokewa ko ma ba za a iya soke ta ba. Kafin ku taɓa maɓallin amincewa, za ku iya bayyana wanda zai karɓi kuɗin da kuma dalilin biyan?
 
 
-> **Callout – Ku dakata ku tabbatar kafin aikawa**
+<!-- card: callout -->
+> **Ku dakata ku tabbatar kafin aikawa**
 >
 > Ku tabbatar da mai karɓa, hanyar biyan kuɗi, inda za a aika kuɗin, adadi da ma'auni, kuɗin caji ko lokacin ƙarewar wa'adi, da allon ƙarshe. Idan wani abu ya bambanta da buƙatar da kuka amince da ita, ko wani ya matsa a yi gaggawa ko ya nemi bayanan dawo da walat, ku dakata ku tabbatar ta wata hanya mai zaman kanta. Ku gwada da ƙaramin adadi idan ba ku saba da tsarin ba.
 
@@ -21,6 +22,7 @@ Aika kuɗi yana buƙatar ƙarin kulawa domin a Bitcoin, ingantacciyar [mu'amala]
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Kafin amincewa da biyan kuɗi, mai aikawa yana duba mai karɓa da dalilin aikawa, hanyar biyan kuɗi, wurin aikawa, da adadin, ma'aunin kuɗi, kuɗin caji ko wa'adin ƙarewa, yana yin ƙaramin gwaji idan bai saba da tsarin ba. Idan wani abu ya bambanta, yana dakatawa ya tabbatar; yana amincewa ne kawai idan komai ya yi daidai, sannan ya duba sakamakon.](/micrographics/pre-send-checklist-01/ha.md)
 
 
 Don [biyan kuɗi a kan sarkar](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment), ana biyan **kuɗin hanyar sadarwa** domin haɗa [mu'amalar](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) a cikin bulok. Wannan ya dogara ne musamman kan [mu'amalar](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) ta fuskar bayananta da kuma buƙatar [sarari a cikin bulok](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-space), ba kawai kan adadin da ake aikawa ba. Ƙiyasin kuɗin caji da lokacin kammalawa na iya canzawa, don haka ku karanta taƙaitaccen bayanin ƙarshe maimakon ku ɗauka cewa biyan ƙaramin adadi yana da ƙaramin caji.

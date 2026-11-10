@@ -1,6 +1,7 @@
 # 10.4 O construtor de módulos em sete etapas
 
 <!-- micrographic: seven-step-module-builder-01 -->
+[Sete etapas de planejamento conduzem do contexto e da necessidade locais a uma tarefa focada e verificada, a uma sequência de ensino segura, a uma avaliação clara e a um balanço final. A alternativa existente permanece em vista, e uma opção inadequada volta ao planejamento.](/micrographics/seven-step-module-builder-01/pt-BR.md)
 
 
 #### 1. Conheça o contexto local

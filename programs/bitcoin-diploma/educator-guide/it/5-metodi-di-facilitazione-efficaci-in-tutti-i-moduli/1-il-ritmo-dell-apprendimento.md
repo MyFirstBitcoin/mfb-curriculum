@@ -14,3 +14,4 @@ Per la maggior parte dei concetti, segua questa sequenza:
 
 
 <!-- micrographic: learning-rhythm-01 -->
+[L'educatore stabilisce lo scopo, attiva le idee pregresse, spiega, verifica, guida l'applicazione, invita alla produzione autonoma, conduce la rielaborazione, invita alla riflessione e collega al concetto successivo. Le risposte poco chiare riportano alla spiegazione o alla pratica.](/micrographics/learning-rhythm-01/it.md)

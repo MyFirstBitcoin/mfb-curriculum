@@ -14,6 +14,7 @@
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[一個兩欄表格：1 BTC 等於 100,000,000 聰，0.1 BTC 等於 10,000,000 聰，0.01 BTC 等於 1,000,000 聰，0.001 BTC 等於 100,000 聰，0.00000001 BTC 等於 1 聰。](/micrographics/bitcoin-and-sats-01/zh-Hant.md)
 
 
 **展現您的理解：**請問多少 [sat](https://curriculum.myfirstbitcoin.org/lexicon/en/#satoshi) 等於 0.01 BTC？為什麼一整枚比特幣的[價格](https://curriculum.myfirstbitcoin.org/lexicon/en/#price)，並不會妨礙一個人使用較小的金額？

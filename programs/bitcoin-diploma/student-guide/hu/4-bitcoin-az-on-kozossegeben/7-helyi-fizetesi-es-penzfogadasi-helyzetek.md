@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[Kávézói fizetés négy lépésben: a vendég rendel, a felszolgáló számlát küld, a vendég a telefonjáról bitcoinnal fizet, a felszolgáló pedig átadja a kávét.](/micrographics/coffee-shop-payment-01/hu.md)
 
 
 Használjon helyben ismert árukat és szolgáltatásokat. Nem a konkrét termék számít, hanem a fizetéssel kapcsolatos megfontolások.

@@ -11,6 +11,7 @@ Dompet Lightning dapat bersifat kustodial atau menggunakan kustodi mandiri. Sebu
 
 
 <!-- micrographic: hot-and-cold-wallets-01 -->
+[Dompet panas menyimpan kunci penandatanganan di perangkat yang terhubung ke internet seperti ponsel; pengaturan dompet dingin menyimpannya terpisah dari perangkat apa pun yang terhubung ke internet. Siapa yang mengendalikan kunci merupakan pertanyaan yang terpisah.](/micrographics/hot-and-cold-wallets-01/id.md)
 
 
 Mintalah peserta didik memilih alat untuk tujuan rekaan, lalu wajibkan mereka menyebutkan manfaat dan risiko baru yang ditimbulkannya. Jangan meminta mereka memilih alat untuk menyimpan aset mereka yang sebenarnya.

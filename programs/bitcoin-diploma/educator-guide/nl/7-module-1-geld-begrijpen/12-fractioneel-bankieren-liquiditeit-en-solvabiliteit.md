@@ -10,6 +10,7 @@ Teken een vereenvoudigde balans:
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Een vereenvoudigde banklening: de lener vraagt de lening aan, de bank keurt de lening goed en schrijft een nieuw tegoed bij op de rekening van de lener, en de lener betaalt de bank later de hoofdsom plus rente terug.](/micrographics/bank-loan-deposit-01/nl.md)
 
 
 Gebruik geen verhaal over een ‘geldmultiplier’ met herhaalde fysieke deposito’s alsof het elk modern bankstelsel mechanisch beschrijft.
@@ -21,6 +22,7 @@ Maak onderscheid tussen:
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Liquiditeitsrisico: veel spaarders staan vandaag in de rij om geld op te nemen, en de bank heeft nu onvoldoende contant geld, ook al kunnen haar leningen later worden terugbetaald. Solvabiliteitsrisico: leners lossen hun hypotheek niet meer af, en de activa van de bank worden minder waard dan wat zij verschuldigd is.](/micrographics/liquidity-vs-solvency-01/nl.md)
 
 
 Vraag:

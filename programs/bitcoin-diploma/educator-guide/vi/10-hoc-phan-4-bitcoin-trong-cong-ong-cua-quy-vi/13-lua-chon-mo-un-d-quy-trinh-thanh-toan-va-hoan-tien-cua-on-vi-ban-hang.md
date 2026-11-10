@@ -18,6 +18,7 @@ Nội dung cần đề cập:
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[Một thương nhân chấp nhận Bitcoin hoạt động trong bốn lĩnh vực: tiếp thị, đào tạo, kế toán và bán hàng.](/micrographics/merchant-payment-operations-01/vi.md)
 
 
 **Thực hành:** Người học thực hiện hoặc chỉ đạo một tình huống thanh toán và hoàn tiền. Họ phải xác thực khách hàng, yêu cầu cung cấp thông tin hoàn trả mới, kiểm tra đích nhận và số tiền, xác định ai chịu mọi khoản phí phát sinh, đồng thời ghi lại kết quả mà không làm lộ dữ liệu không cần thiết.

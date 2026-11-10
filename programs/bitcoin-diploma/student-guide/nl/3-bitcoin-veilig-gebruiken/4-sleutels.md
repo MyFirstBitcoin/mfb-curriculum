@@ -3,6 +3,7 @@
 Eigendom van bitcoin wordt afgedwongen via cryptografische sleutels.
 
 
+<!-- card: definition -->
 > **Definition – Privé sleutel**
 >
 > Een [privé sleutel](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) is geheime informatie waarmee een wallet geldige [digitale handtekeningen](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) kan aanmaken. Een handtekening autoriseert het uitgeven van bitcoin die door de bijbehorende sleutel wordt beheerd. Iedereen die de [privé sleutel](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) in handen krijgt, kan die tegoeden doorgaans uitgeven.
@@ -21,10 +22,10 @@ De meeste wallets voor beginners gebruiken [single-signature](https://curriculum
 Geen enkele bonafide docent, wallet-aanbieder, medewerker van een exchange, technische ondersteuner of Bitcoin-ontwikkelaar heeft uw [privé sleutel](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) of [seed phrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) nodig. Iedereen die erom vraagt, moet als een bedreiging worden beschouwd.
 
 
-> **Light**
->
+<!-- card: light -->
 > **Probeer het zelf:** Sorteer de voorbereide voorbeelden in drie groepen: veilig om te delen voor ontvangst, geheime informatie om uit te geven, en informatie die openbaar mag zijn maar toch privé moet blijven wanneer deze aan een persoon is gekoppeld.
 
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[Een geheime privésleutel, die nooit gedeeld mag worden, leidt tot publieke informatie die wel gedeeld kan worden: een publieke sleutel die ervan is afgeleid en een ontvangstadres dat daarop is gebaseerd. Dezelfde privésleutel maakt handtekeningen aan die Nodes verifiëren zonder de privésleutel ooit te leren kennen.](/micrographics/private-key-public-info-01/nl.md)

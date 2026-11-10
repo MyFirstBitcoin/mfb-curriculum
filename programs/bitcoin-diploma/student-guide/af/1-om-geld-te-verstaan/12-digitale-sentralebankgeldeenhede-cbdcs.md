@@ -1,5 +1,6 @@
 # 1.12 Digitale sentralebankgeldeenhede (CBDCs)
 
+<!-- card: definition -->
 > **Definition – Digitale sentralebankgeldeenheid (CBDC)**
 >
 > 'n [digitale sentralebankgeldeenheid](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), of [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), is 'n digitale vorm van [fiatgeld](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) wat uitgereik word as 'n [verpligting](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability) van 'n [sentrale bank](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank): dit is 'n vordering wat die [sentrale bank](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) aan die houer daarvan verskuldig is. Dit verskil van fisiese kontant en van 'n gewone handelsbankdeposito, hoewel die gebruikerservaring soortgelyk kan lyk.
@@ -13,6 +14,7 @@ Vra vervolgens wat die ontwerp toelaat. Afhangend van die reëls, kan 'n [CBDC](
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+['n Tabel wat kontant, bankdeposito's, 'n kleinhandel-CBDC en Bitcoin vergelyk ten opsigte van wie dit uitreik, die vorm daarvan, toegang, sigbaarheid, reëls vir die geldvoorraad en verifikasie. Digitaal is nie dieselfde as gedesentraliseerd nie: 'n CBDC word steeds deur die sentrale bank uitgereik, en die toegang daartoe, sigbaarheid daarvan en verifikasie daarvan hang van die ontwerp af.](/micrographics/cbdc-comparison-table-01/af.md)
 
 
 Digitaal beteken nie outomaties gedesentraliseerd, skaars, privaat of oop vir onafhanklike verifiëring nie. 'n [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) kan digitale tegnologie gebruik, maar dit is steeds [fiatgeld](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) indien die [uitreiker](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer), geldvoorraadreëls, toegangsreëls en betalingstoestemmings daarvan steeds sentraal bestuur word.

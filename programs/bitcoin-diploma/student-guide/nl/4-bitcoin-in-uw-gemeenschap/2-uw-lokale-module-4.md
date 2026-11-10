@@ -10,6 +10,7 @@ Uw lokale activiteit voor **Module 4** helpt u:
 
 
 <!-- micrographic: local-module-four-actions-01 -->
+[In de lokale Module 4 doorloopt de deelnemer vier stappen: een idee uit Module 1 tot en met 3 verbinden met een lokale behoefte, Bitcoin vergelijken met een realistisch bestaand alternatief, veilig oefenen onder begeleiding, en uitleggen wat hij of zij heeft geleerd en wat een verantwoorde volgende stap is. De docent, en soms een lokale deskundige, begeleidt de deelnemer daarbij van begin tot eind.](/micrographics/local-module-four-actions-01/nl.md)
 
 
 Uw activiteit kan bijvoorbeeld de volgende vragen verkennen:

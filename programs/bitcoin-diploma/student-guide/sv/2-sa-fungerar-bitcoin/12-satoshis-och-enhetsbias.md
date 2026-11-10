@@ -14,6 +14,7 @@ När ni jämför [priser](https://curriculum.myfirstbitcoin.org/lexicon/en/#pric
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[En tabell med två kolumner: 1 BTC är 100 000 000 sats, 0,1 BTC är 10 000 000 sats, 0,01 BTC är 1 000 000 sats, 0,001 BTC är 100 000 sats och 0,00000001 BTC är 1 sat.](/micrographics/bitcoin-and-sats-01/sv.md)
 
 
 **Visa att ni har förstått:** Hur många [sats](https://curriculum.myfirstbitcoin.org/lexicon/en/#satoshi) finns det i 0,01 BTC? Varför hindrar [priset](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) på en hel bitcoin inte en person från att använda ett mindre belopp?

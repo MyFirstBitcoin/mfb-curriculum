@@ -20,3 +20,4 @@ Käyttäkää ohjattuja esimerkkitilanteita sen sijaan, että luokittelisitte ih
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[Palvelun hallinnoimassa käytössä palvelu hallitsee avaimia ja hyväksyy varojen käytön, joten saldo on palvelun antama lupaus. Itse hallinnoidussa käytössä käyttäjä hallitsee avaimia ja varmuuskopioita; kumpaankin tapaan liittyy riippuvuuksia ja epäonnistumisen riskejä.](/micrographics/who-controls-keys-01/fi.md)

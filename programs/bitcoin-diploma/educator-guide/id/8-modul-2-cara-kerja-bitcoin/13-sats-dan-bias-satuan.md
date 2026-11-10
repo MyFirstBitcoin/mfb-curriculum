@@ -13,6 +13,7 @@ Gunakan beberapa konversi:
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Tabel dua kolom: 1 BTC setara dengan 100.000.000 sats, 0,1 BTC setara dengan 10.000.000 sats, 0,01 BTC setara dengan 1.000.000 sats, 0,001 BTC setara dengan 100.000 sats, dan 0,00000001 BTC setara dengan 1 sat.](/micrographics/bitcoin-and-sats-01/id.md)
 
 
 Tanyakan mengapa membagi satu bitcoin menjadi unit-unit yang lebih kecil tidak menciptakan lebih banyak bitcoin. Bandingkan dengan membagi suatu kuantitas terukur menjadi unit-unit yang lebih kecil tanpa mengklaim bahwa analogi fisik tersebut menjelaskan protokolnya.

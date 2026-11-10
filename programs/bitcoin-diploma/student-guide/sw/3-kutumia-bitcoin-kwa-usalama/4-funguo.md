@@ -3,6 +3,7 @@
 Umiliki wa Bitcoin unalindwa kupitia funguo za kriptografia.
 
 
+<!-- card: definition -->
 > **Definition – Ufunguo wa kibinafsi**
 >
 > Kila [ufunguo wa kibinafsi](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) ni taarifa ya siri inayoruhusu pochi kuunda [sahihi za kidijitali](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) halali. Sahihi huidhinisha matumizi ya bitcoin zinazodhibitiwa na ufunguo husika. Mtu yeyote anayepata [ufunguo wa kibinafsi](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) kwa kawaida anaweza kutumia fedha hizo.
@@ -21,10 +22,10 @@ Pochi nyingi za wanaoanza hutumia [sahihi moja](https://curriculum.myfirstbitcoi
 Hakuna mwalimu halali, kampuni ya pochi, mfanyakazi wa soko la kubadilishana, mhudumu wa msaada wa kiufundi, wala msanidi wa Bitcoin anayehitaji [ufunguo wenu wa kibinafsi](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) au [maneno yenu ya mbegu](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase). Mtu yeyote anayeviomba anapaswa kuchukuliwa kuwa tishio.
 
 
-> **Light**
->
+<!-- card: light -->
 > **Jaribuni:** Pangeni mifano iliyoandaliwa katika makundi matatu: taarifa salama kushiriki kwa ajili ya kupokea, taarifa za siri za kutumia, na taarifa ambazo zinaweza kuwa za umma lakini bado zinapaswa kuwekwa faragha zinapohusishwa na mtu.
 
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[Ufunguo binafsi ulio siri, ambao haupaswi kamwe kushirikiwa, huzalisha taarifa za umma zinazoweza kushirikiwa: ufunguo wa umma unaotokana nao na anwani ya kupokea inayoundwa kutokana na ufunguo huo wa umma. Ufunguo binafsi huohuo huunda sahihi ambazo nodi huthibitisha bila kamwe kujua ufunguo binafsi.](/micrographics/private-key-public-info-01/sw.md)

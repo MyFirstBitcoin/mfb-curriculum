@@ -4,6 +4,7 @@ Taka [**gospodarka obiegu zamkniętego oparta na Bitcoinie**](https://curriculum
 
 
 <!-- micrographic: local-circular-economy-01 -->
+[W gospodarce obiegu zamkniętego opartej na Bitcoinie bitcoiny przechodzą z rąk do rąk w zamian za towary, usługi i czas. Klient płaci sprzedawcy, sprzedawca płaci usługodawcy, usługodawca płaci pracownikowi, a pracownik ponownie wydaje je jako klient.](/micrographics/local-circular-economy-01/pl.md)
 
 
 My First Bitcoin wspiera [gospodarki obiegu zamkniętego oparte na Bitcoinie](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-circular-economy), a wiele z nich należy do Bitcoin Education Network. Proszę poznać te społeczności, korzystając z [panelu sieci](https://network.myfirstbitcoin.org/?min10merchants=1).

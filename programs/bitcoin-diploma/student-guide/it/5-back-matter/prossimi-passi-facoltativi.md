@@ -36,6 +36,7 @@ La [Bitcoin Education Network](https://myfirstbitcoin.org/about/network) mette i
 
 
 <!-- micrographic: final-safety-check-01 -->
+[Una lista di controllo di sicurezza finale, con tutte le voci spuntate: proteggere i segreti, verificare i dettagli del pagamento, fare piccoli test e fermarsi se messi sotto pressione. Se qualcosa non è chiaro, si fermi e approfondisca prima di agire.](/micrographics/final-safety-check-01/it.md)
 
 
 Ricordi queste regole:
@@ -57,6 +58,7 @@ L'educazione riduce il rischio, ma non può eliminarlo. Se una situazione non è
 
 
 <!-- micrographic: curriculum-source-panel-01 -->
+[Un pannello con un codice QR e il link stampato github.com/MyFirstBitcoin/mfb-curriculum, la fonte ufficiale del Diploma Bitcoin, dove può verificare l'edizione e segnalare errori.](/micrographics/curriculum-source-panel-01/it.md)
 
 
 Il Bitcoin Diploma è un programma didattico open source in continua evoluzione. Correzioni e miglioramenti possono essere esaminati pubblicamente.

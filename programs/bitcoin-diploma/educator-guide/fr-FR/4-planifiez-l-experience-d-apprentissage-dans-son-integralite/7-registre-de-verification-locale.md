@@ -19,3 +19,4 @@ Privilégiez les sources primaires faisant autorité pour les règles en vigueur
 
 
 <!-- micrographic: local-verification-cycle-01 -->
+[Les enseignants repèrent chaque affirmation locale susceptible de changer, la vérifient auprès d’une source à jour, consignent la date et les limites de sa validité, la présentent avec des formulations nuancées et la vérifient à nouveau avant de la réutiliser. Lorsqu’un fait est incertain, ils utilisent un exemple plus sûr ou une solution de repli.](/micrographics/local-verification-cycle-01/fr-FR.md)

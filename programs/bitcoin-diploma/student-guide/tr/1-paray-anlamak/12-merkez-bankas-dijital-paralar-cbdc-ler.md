@@ -1,5 +1,6 @@
 # 1.12 Merkez Bankası Dijital Paraları (CBDC'ler)
 
+<!-- card: definition -->
 > **Definition – Merkez bankası dijital parası (CBDC)**
 >
 > Bir [merkez bankası dijital parası](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) ya da [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), [itibari paranın](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) dijital bir biçimidir ve bir [yükümlülük](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability) olarak bir [merkez bankası](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) tarafından ihraç edilir: yani [merkez bankasının](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) sahibine karşı borçlu olduğu bir alacaktır. Kullanıcı deneyimi benzer görünse de fiziksel nakitten ve olağan bir ticari banka mevduatından farklıdır.
@@ -13,6 +14,7 @@ Ardından tasarımın neye izin verdiğini sorun. Kurallara bağlı olarak bir [
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[Nakit, banka mevduatı, perakende MBDP (merkez bankası dijital parası) ve Bitcoin'i; kimin ihraç ettiği, biçimleri, erişim, görünürlük, arz kuralları ve doğrulama açısından karşılaştıran bir tablo. Dijital olmak, merkeziyetsiz olmakla aynı şey değildir: Bir MBDP yine merkez bankası tarafından ihraç edilir ve erişimi, görünürlüğü ve doğrulanması tasarımına bağlıdır.](/micrographics/cbdc-comparison-table-01/tr.md)
 
 
 Dijital olmak, otomatik olarak merkeziyetsiz, kıt, gizli veya bağımsız doğrulamaya açık olmak anlamına gelmez. Bir [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) dijital teknoloji kullanabilir, ancak yine de [itibari para](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) olarak kalır; tabii [ihraççısı](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer), arz kuralları, erişim kuralları ve ödeme izinleri merkezi olarak yönetilmeye devam ediyorsa.

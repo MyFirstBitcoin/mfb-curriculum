@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: daily-bitcoin-uses-01 -->
+[Njia saba tofauti ambazo Bitcoin inaweza kutumika katika maisha ya kila siku: kupata mapato, kuweka akiba, kupokea, kutuma, kutumia, kutoa michango, na kupanga bei na uhasibu. Kila moja ni matumizi yanayowezekana, si hatua ya lazima.](/micrographics/daily-bitcoin-uses-01/sw.md)
 
 
 Bitcoin inaweza kufanya kazi kama pesa kwa njia kadhaa. Kutumia ni mojawapo tu ya njia hizo.

@@ -7,8 +7,7 @@ Pri usporedbi bilo koje [digitalne imovine](https://curriculum.myfirstbitcoin.or
 Usporedba u nastavku razlikuje kategorije i odabire pri oblikovanju sustava. Ona nije izraz podrške, preporuka ni tvrdnja da je bilo koja [imovina](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) sigurna, pouzdana ili prikladna za vas.
 
 
-> **Dark**
->
+<!-- card: dark -->
 > Prijevare, obmanjujuće tvrdnje i nesigurne usluge mogu utjecati na bilo koju [digitalnu imovinu](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-asset) ili način plaćanja. Provjerite konkretnu [imovinu](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset), uslugu i [skrbnički](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) aranžman umjesto da pretpostavljate da je neka kategorija sama po sebi sigurna ili nesigurna.
 
 

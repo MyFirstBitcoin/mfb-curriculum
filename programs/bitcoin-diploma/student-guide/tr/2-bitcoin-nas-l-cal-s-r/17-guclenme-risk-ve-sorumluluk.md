@@ -13,6 +13,5 @@ Bir kişi [kendi kendine saklamayı](https://curriculum.myfirstbitcoin.org/lexic
 [Kendi kendine saklama](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) bu nedenle yalnızca teknik bir özellik değildir. Yedekleri korumayı, adresleri doğrulamayı, cüzdanın davranışını kontrol etmeyi ve bir kurtarma planı oluşturmayı gerektirir. Bir sonraki modül, bu riskleri ve sorumlulukları nasıl yöneteceğiniz de dahil olmak üzere, bitcoin'i nasıl dikkatli bir şekilde tutup kullanacağınızı açıklar.
 
 
-> **Light**
->
+<!-- card: light -->
 > Kişisel sorumluluk, tek başına hareket etmek veya yardımı reddetmek anlamına gelmez. Temkinli bir öğrenen, kimseye gizli bilgilere erişim vermeden eğitimden, akran incelemesinden, belgelenmiş prosedürlerden ve küçük testlerden yararlanabilir.

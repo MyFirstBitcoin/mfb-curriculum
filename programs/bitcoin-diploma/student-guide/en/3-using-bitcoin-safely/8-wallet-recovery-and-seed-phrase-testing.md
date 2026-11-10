@@ -8,6 +8,7 @@ A safe recovery-readiness practice is simple:
 
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[A six-step practice for recovering a training wallet: follow official instructions, check compatibility, work privately, use the approved recovery method, confirm the expected wallet, then reset. Use only prepared, empty or simulated materials, and the educator never sees the recovery words.](/micrographics/practice-wallet-recovery-01/en.md)
 
 
 Do not use a training wallet or its recovery information to secure meaningful funds after the Diploma. A personal wallet, if you choose to create one later, needs a new private setup and new recovery information.

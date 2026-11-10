@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[Gumagawa ang tatanggap sa kaniyang telepono ng kahilingan sa pagbabayad sa Lightning na may nakasaad na halaga, ini-scan ito ng nagpapadala at nagbabayad, at dumarating ang bayad sa telepono ng tatanggap makalipas ang ilang sandali.](/micrographics/lightning-phone-payment-01/tl.md)
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Isang pagbabayad sa Lightning sa anim na hakbang: gumagawa ng kahilingan ang tatanggap, ini-scan ito ng nagpadala, sinusuri ang tatanggap, halaga, yunit, pag-expire at bayarin, inaaprubahan ito, ipinapadaan ang pagbabayad, at ipinapakita ng parehong wallet ang resulta. Ang bawat wallet ay maaaring pinamamahalaan ng tagapag-ingat o ng mismong may-ari, at ang nabigo o nag-expire na pagbabayad ay muling sinisimulan sa pamamagitan ng bagong kahilingan.](/micrographics/lightning-payment-sequence-01/tl.md)
 
 
 Maaaring gawing praktikal ng Lightning ang mabilis at maliliit na pagbabayad sa Bitcoin. Maaaring angkop ito sa kahera ng isang tindahan, paulit-ulit na lokal na pagbabayad, mga serbisyong online, o mga paglilipat kung saan magiging masyadong malaki ang bayarin sa on-chain na transaksiyon kumpara sa halagang ibabayad.

@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[Bitcoinin hyväksyvä kauppias toimii neljällä osa-alueella: markkinointi, koulutus, kirjanpito ja myynti.](/micrographics/merchant-payment-operations-01/fi.md)
 
 
 Kauppias tarvitsee muutakin kuin vastaanottopainikkeen. Koko maksuprosessiin voivat kuulua hinnoittelu, henkilöstön koulutus, kuitit, hyvitykset, [varojen säilytys](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), valuutanvaihto, kirjanpito, verot, laiteturvallisuus ja tuki.

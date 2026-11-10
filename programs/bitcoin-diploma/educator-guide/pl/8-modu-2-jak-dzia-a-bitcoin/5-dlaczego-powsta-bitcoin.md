@@ -6,6 +6,7 @@ Centralny system płatności cyfrowych może prowadzić jeden uznawany za wiąż
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[W przypadku firmy płatniczej jedna organizacja prowadzi rejestr i zatwierdza każdy przelew. W sieci Bitcoin nadawca podpisuje transakcję, niezależne węzły ją weryfikują, a górnicy dodają ją do jednego wspólnego rejestru, dzięki czemu odbiorca jest mniej zależny od centralnego organu.](/micrographics/central-ledger-vs-bitcoin-01/pl.md)
 
 
 Proszę zapytać:

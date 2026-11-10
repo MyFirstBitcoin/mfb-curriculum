@@ -4,6 +4,7 @@ You will move through three stages: **Presentation**, where your educator shows 
 
 
 <!-- micrographic: presentation-practice-production-01 -->
+[A practical skill is learned in three stages, left to right: Presentation, where the educator shows the process and its risks, then Practice, guided rehearsal with safe training materials, then Production, where the learner completes a task or explains a decision independently.](/micrographics/presentation-practice-production-01/en.md)
 
 
 Your workshop may include:

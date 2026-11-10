@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: self-custody-responsibilities-01 -->
+[Ang kontrol sa mga susi ay nasa gitna ng walong responsibilidad: pag-backup, pagbawi ng access, pagtanggap, pagpapadala, pagpili ng kasangkapan, paraan ng pagkuha, pagkapribado at pagsusuri sa mga panloloko. Bawat isa ay may pinoprotektahan, at ang pagkukulang sa alinman sa mga ito ay maaaring magdulot ng pagkawala ng access, pera o pagkapribado.](/micrographics/self-custody-responsibilities-01/tl.md)
 
 
 
 <!-- micrographic: responsibility-checks-01 -->
+[Isang talahanayan ng anim na gawain sa sariling pag-iingat ng bitcoin, kung ano ang dapat protektahan o suriin sa bawat isa, at kung ano ang maaaring mangyari kapag may nagkaproblema: pag-backup, pagtanggap, pagpapadala, pag-iingat, pagpili ng kasangkapan at pagkuha.](/micrographics/responsibility-checks-01/tl.md)
 
 
 Isipin ninyong may kaibigang nagpadala sa inyo ng kahilingan sa pagbabayad habang sinasabi ng isang hindi pamilyar na account ng suporta na dapat kayong kumilos agad. Ano ang maaari ninyong suriin bago gumawa ng anuman? Kaya ba ninyong pangalagaan ang isang plano sa pagbawi, maipagkaiba ang impormasyong ginagamit sa pagtanggap at ang mga lihim, at tiyakin ang pagkakakilanlan ng tao, paraan ng pagbabayad, patutunguhan, halaga, at huling screen bago magpadala? Isang serbisyo man o kayo ang may kontrol sa mga susi, pareho ang praktikal na buod: pangalagaan ang mga lihim, magberipika bago mag-apruba, kilalanin ang mga palatandaan ng panloloko, at limitahan ang epekto ng mga pagkakamali habang natututo.

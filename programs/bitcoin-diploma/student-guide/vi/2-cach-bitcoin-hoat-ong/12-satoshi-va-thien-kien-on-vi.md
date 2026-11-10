@@ -14,6 +14,7 @@ Khi so sánh [giá](https://curriculum.myfirstbitcoin.org/lexicon/en/#price), h�
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Bảng hai cột: 1 BTC bằng 100.000.000 sats, 0,1 BTC bằng 10.000.000 sats, 0,01 BTC bằng 1.000.000 sats, 0,001 BTC bằng 100.000 sats và 0,00000001 BTC bằng 1 sat.](/micrographics/bitcoin-and-sats-01/vi.md)
 
 
 **Thể hiện sự hiểu biết của quý vị:** Có bao nhiêu [sat](https://curriculum.myfirstbitcoin.org/lexicon/en/#satoshi) trong 0,01 BTC? Vì sao mức [giá](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) của trọn một bitcoin không ngăn cản một người sử dụng một lượng nhỏ hơn?

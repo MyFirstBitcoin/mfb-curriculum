@@ -3,6 +3,7 @@
 Sumber daya terbatas, sedangkan keinginan manusia tidak terbatas.
 
 
+<!-- card: definition -->
 > **Definition – Kelangkaan**
 >
 > [Kelangkaan](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) berarti bahwa memilih satu penggunaan sumber daya meniadakan penggunaan lainnya. Waktu, lahan, energi, kesehatan yang baik, peralatan, dan [uang yang sehat](https://curriculum.myfirstbitcoin.org/lexicon/en/#sound-money) semuanya langka.
@@ -14,6 +15,7 @@ Adapun [nilai](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) suatu ba
 
 
 <!-- micrographic: same-water-different-value-01 -->
+[Sebotol air bersih yang sama berharga murah di lemari pendingin toko, tempat air mudah ditemukan, dan jauh lebih bernilai di gurun yang panas saat terjadi kelangkaan. Ketersediaan, kebutuhan, dan keadaan mengubah nilai dan harga.](/micrographics/same-water-different-value-01/id.md)
 
 
 Pertukaran terjadi ketika kedua pihak lebih menginginkan apa yang mereka terima daripada apa yang mereka lepaskan. Mereka tidak perlu sepakat bahwa kedua barang tersebut, bagi mereka, memiliki kesamaan [nilai](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Mereka hanya perlu menyepakati ketentuan pertukaran.
@@ -26,6 +28,7 @@ Tiga gagasan membantu menjelaskan pilihan sehari-hari:
 
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Seorang pembeli dengan uang terbatas melihat pilihan di hadapannya: makanan untuk hari ini, transportasi, atau menabung untuk nanti. Memilih satu berarti mengorbankan pilihan lainnya, yang merupakan biaya peluang, dan tidak ada pilihan yang ditandai sebagai pilihan yang benar.](/micrographics/one-choice-two-uses-01/id.md)
 
 
 [Kelangkaan](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) saja tidak menjamin [nilai](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Suatu barang bisa saja langka tetapi tetap tidak diminati. Dalam perannya sebagai instrumen moneter yang bermanfaat, suatu [aset](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) memadukan pasokan terbatas dengan sifat-sifat dan permintaan yang membuat orang bersedia menyimpan atau menukarkannya.

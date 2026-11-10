@@ -10,6 +10,7 @@ Gebruik een vijfdelig overzicht:
 
 
 <!-- micrographic: five-part-response-01 -->
+[Vijf onderdelen vormen samen het antwoord op het double-spendprobleem: een peer-to-peernetwerk, digitale handtekeningen, blokken en Mining, onafhankelijke verificatie en een gedeelde geschiedenis met de meeste geaccumuleerde proof of work. Samen stellen ze het netwerk in staat een tweede uitgave te weigeren zonder centrale autoriteit.](/micrographics/five-part-response-01/nl.md)
 
 
 Geen enkel onderdeel creëert op zichzelf de geloofwaardige [schaarsheid](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) van Bitcoin. Vermijd te zeggen: „de [blockchain](https://curriculum.myfirstbitcoin.org/lexicon/en/#blockchain) lost alles op.”

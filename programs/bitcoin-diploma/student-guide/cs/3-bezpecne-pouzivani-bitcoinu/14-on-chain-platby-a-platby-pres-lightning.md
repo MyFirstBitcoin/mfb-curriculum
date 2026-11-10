@@ -4,22 +4,26 @@
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Platby na blockchainu se zaznamenávají přímo do blockchainu Bitcoinu, zatímco Lightning je platební síť postavená na Bitcoinu pro rychlé a časté platby, které však mohou i selhat. Obě možnosti mohou využívat správu prostředků třetí stranou nebo vlastní správu prostředků.](/micrographics/on-chain-and-lightning-01/cs.md)
 
 
 
+<!-- card: definition -->
 > **Definition – On-chain platby a platby přes Lightning**
 >
 > [On-chain platby](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment) se v síti Bitcoin zapisují do [blockchainu](https://curriculum.myfirstbitcoin.org/lexicon/en/#blockchain) a získávají [potvrzení](https://curriculum.myfirstbitcoin.org/lexicon/en/#confirmation). Lightning je platební síť postavená na Bitcoinu, která umožňuje rychlé a časté platby. Platba přes Lightning může proběhnout rychle, nebo selhat, a peněženka pro tyto platby může být s úschovou u poskytovatele i s vlastní úschovou.
 
 
 
-> **Dark – Způsob platby neurčuje způsob úschovy**
+<!-- card: dark -->
+> **Způsob platby neurčuje způsob úschovy**
 >
 > On-chain platby a platby přes Lightning obnášejí různé [kompromisy](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Peněženka pro Lightning může být s úschovou u poskytovatele i s vlastní úschovou a rychlá úspěšná platba nedokazuje, že je služba vhodná pro větší zůstatky nebo pro každou situaci.
 
 
 
 <!-- micrographic: onchain-lightning-table-01 -->
+[Tabulka porovnávající Bitcoin na blockchainu a Lightning: údaje pro příjem platby, výsledek platby, běžné použití a co si mají začátečníci ověřit. Obě možnosti mohou využívat správu prostředků třetí stranou nebo vlastní správu prostředků.](/micrographics/onchain-lightning-table-01/cs.md)
 
 
 Jaký způsob platby příjemce očekává? Před zaplacením si ověřte, zda poskytl on-chain adresu, nebo [fakturu sítě Lightning](https://curriculum.myfirstbitcoin.org/lexicon/en/#lightning-invoice) či platební požadavek. On-chain peněženka nemůže přímo zaplatit každou [fakturu sítě Lightning](https://curriculum.myfirstbitcoin.org/lexicon/en/#lightning-invoice) a peněženka pro Lightning nemusí podporovat všechny on-chain operace. Některé aplikace podporují oba způsoby platby, ale mohou přidávat poplatky nebo závislost na dalších službách. Podrobné nastavení sítě Lightning, kanály, směrování a [likvidita](https://curriculum.myfirstbitcoin.org/lexicon/en/#lightning-liquidity) jsou součástí [rozšiřujícího studia](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/); praktický nácvik se skutečnými platbami v místním prostředí patří do **modulu 4**, pokud je to bezpečné a vhodné.

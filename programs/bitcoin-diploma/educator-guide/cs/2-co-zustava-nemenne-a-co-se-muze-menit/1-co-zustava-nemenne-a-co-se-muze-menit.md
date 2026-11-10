@@ -32,3 +32,4 @@ Nesmíte:
 
 
 <!-- micrographic: fixed-adaptable-flexible-01 -->
+[Místní příklady a výukové metody lze měnit v rámci pevně daných hranic pro kompetence, doklady o jejich dosažení, bezpečnost a dokončení kurzu. Změny ovlivňující hodnocení vyžadují schválený rovnocenný postup, který zachovává stejnou činnost účastníka i bezpečnostní účel.](/micrographics/fixed-adaptable-flexible-01/cs.md)

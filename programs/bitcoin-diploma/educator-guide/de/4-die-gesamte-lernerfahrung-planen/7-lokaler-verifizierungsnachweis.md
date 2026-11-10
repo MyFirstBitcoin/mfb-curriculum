@@ -19,3 +19,4 @@ Bevorzugen Sie für aktuelle Vorschriften maßgebliche Primärquellen. Wenn die 
 
 
 <!-- micrographic: local-verification-cycle-01 -->
+[Lehrkräfte erkennen jede veränderliche lokale Aussage, überprüfen sie anhand einer aktuellen Quelle, halten das Datum und ihre Grenzen fest, unterrichten sie mit vorsichtigen Formulierungen und prüfen sie vor der erneuten Verwendung noch einmal. Ist eine Tatsache unsicher, verwenden sie ein sichereres Beispiel oder eine Ausweichlösung.](/micrographics/local-verification-cycle-01/de.md)

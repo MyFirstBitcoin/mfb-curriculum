@@ -29,3 +29,4 @@ Diese Aktivität macht beim öffentlichen Hauptbuch das Thema [Privatsphäre](ht
 
 
 <!-- micrographic: address-reuse-linkage-01 -->
+[Mehrere fiktive Zahlungseingänge teilen sich eine wiederverwendete Adresse und lassen sich leicht miteinander verknüpfen. Neue Empfangsadressen verringern diese direkte Verbindung, doch externe Informationen und Explorer-Suchen können dennoch Zusammenhänge offenlegen, und öffentliche Daten beweisen für sich allein nicht die Identität einer Person.](/micrographics/address-reuse-linkage-01/de.md)

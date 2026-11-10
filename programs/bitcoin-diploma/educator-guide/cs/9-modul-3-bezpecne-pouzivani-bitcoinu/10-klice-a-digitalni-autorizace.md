@@ -17,3 +17,4 @@ Nepoužívejte tvrzení „váš [soukromý klíč](https://curriculum.myfirstbi
 
 
 <!-- micrographic: private-key-public-info-01 -->
+[Z tajného soukromého klíče, který se nikdy nesmí sdílet, se odvozují veřejné informace, které sdílet lze: veřejný klíč odvozený ze soukromého klíče a přijímací adresa vytvořená z veřejného klíče. Tentýž soukromý klíč vytváří podpisy, které uzly ověřují, aniž by kdy zjistily soukromý klíč.](/micrographics/private-key-public-info-01/cs.md)

@@ -1,5 +1,6 @@
 # 1.12 中央銀行デジタル通貨（CBDC）
 
+<!-- card: definition -->
 > **Definition – 中央銀行デジタル通貨（CBDC）**
 >
 > 「[中央銀行デジタル通貨](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc)」、すなわち「[CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc)」とは、[法定通貨](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money)をデジタル化したもので、[負債](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability)として[中央銀行](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank)が発行するものです。つまり、[中央銀行](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank)が保有者に対して負う債務です。利用者の体験は似ているように見えるかもしれませんが、物理的な現金とも、通常の商業銀行の預金とも異なります。
@@ -13,6 +14,7 @@
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[現金、銀行預金、リテールCBDC、ビットコインを、発行者、形態、利用できる人、支払いの可視性、供給のルール、検証方法の観点で比較した表です。デジタルであることは分散型であることと同じではありません。CBDCは依然として中央銀行が発行するものであり、利用できる人、可視性、検証方法はその設計によって決まります。](/micrographics/cbdc-comparison-table-01/ja.md)
 
 
 デジタルであることは、それだけで分散化されている、希少である、プライバシーが守られている、あるいは独自に検証できるという意味にはなりません。[CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc)はデジタル技術を使うかもしれませんが、依然として[法定通貨](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money)のままです。ただしそれは、その[発行者](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer)、供給ルール、利用ルール、支払いの許可が引き続き中央で管理されている場合です。

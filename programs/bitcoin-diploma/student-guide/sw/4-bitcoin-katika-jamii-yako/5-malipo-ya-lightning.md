@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[Mpokeaji anaunda ombi la malipo la Lightning lenye kiasi kwenye simu yake, mtumaji analichanganua na kulipa, na malipo yanafika kwenye simu ya mpokeaji muda mfupi baadaye.](/micrographics/lightning-phone-payment-01/sw.md)
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Malipo ya Lightning katika hatua sita: mpokeaji anaunda ombi, mtumaji analichanganua, anakagua mpokeaji, kiasi, kipimo, muda wa kuisha na ada, anaidhinisha, malipo yanapitishwa, na pochi zote mbili zinaonyesha matokeo. Kila pochi inaweza kuwa ya mtunzaji au unaijitunza mwenyewe, na malipo yaliyoshindwa au ambayo muda wake umeisha huanza upya kwa ombi jipya.](/micrographics/lightning-payment-sequence-01/sw.md)
 
 
 Lightning inaweza kufanya malipo madogo na ya haraka ya Bitcoin kuwa ya vitendo. Inaweza kufaa kwa kaunta ya mfanyabiashara, malipo ya mara kwa mara ya ndani ya jamii, huduma za mtandaoni, au uhamisho ambapo ada ya on-chain ingekuwa kubwa mno ikilinganishwa na kiasi cha malipo.

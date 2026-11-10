@@ -1,5 +1,6 @@
 # 3.5 Frasa Benih
 
+<!-- card: definition -->
 > **Definition – Frasa benih**
 >
 > Satu [frasa benih](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), juga dipanggil [frasa pemulihan](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), ialah senarai perkataan mengikut urutan yang digunakan oleh banyak dompet untuk menjana dan memulihkan satu set [kunci peribadi](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key). Satu [kunci peribadi](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key) membenarkan perbelanjaan; [frasa benih](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) biasanya merupakan sandaran yang boleh menghasilkan semula kunci dompet. Panjang yang lazim ialah 12 atau 24 perkataan, walaupun reka bentuk dompet berbeza-beza.
@@ -8,13 +9,15 @@
 Urutan dan ejaan perkataan adalah penting. Jika seseorang mempunyai [frasa benih](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), mereka selalunya boleh memulihkan dompet pada peranti lain yang serasi dan membelanjakan dana tersebut. Oleh itu, [frasa benih](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) bukan sekadar sandaran. Ia memberikan akses penuh.
 
 
-> **Callout – Jangan sekali-kali berkongsi maklumat pemulihan**
+<!-- card: callout -->
+> **Jangan sekali-kali berkongsi maklumat pemulihan**
 >
 > Maklumat penerimaan awam boleh dikongsi. Satu [kunci peribadi](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), [frasa benih](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), kata laluan, atau kod pemulihan mesti kekal rahsia. Tiada pendidik, syarikat dompet, kakitangan bursa, petugas sokongan, atau pembangun Bitcoin yang sah memerlukannya. Jika [frasa benih](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) mungkin telah dilihat, disalin, dimasukkan dalam talian, atau disimpan pada peranti yang tidak dipercayai, anggap keselamatannya telah terjejas dan dapatkan bantuan tanpa mendedahkannya.
 
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Frasa benih ialah senarai perkataan yang tersusun mengikut urutan, di sini ditunjukkan dua belas perkataan contoh bernombor yang ditulis di atas kertas. Perkataan yang betul dalam urutan yang betul boleh memulihkan kawalan dalam dompet yang serasi, maka frasa ini perlu dirahsiakan dan disimpan di luar talian.](/micrographics/seed-phrase-on-paper-01/ms.md)
 
 
 Lindungi [frasa benih](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) dengan peraturan berikut:
@@ -30,6 +33,7 @@ Sesetengah dompet menggunakan frasa laluan tambahan, berbilang kunci, atau siste
 
 
 <!-- micrographic: seed-phrase-paper-backup-01 -->
+[Menulis salinan sandaran frasa benih dalam tiga langkah: skrin dompet memaparkan perkataan, anda menyalinnya dengan tangan di atas kertas mengikut urutan yang sama, kemudian menyemak setiap perkataan dengan yang tertera pada skrin. Lakukan secara tertutup dan di luar talian.](/micrographics/seed-phrase-paper-backup-01/ms.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)

@@ -6,6 +6,7 @@ Hãy sử dụng bảng hướng dẫn mang tính khái quát thay vì quảng b
 
 
 <!-- micrographic: compare-trust-models-01 -->
+[Bitcoin, một mô hình stablecoin tổng quát và một mô hình token khác tổng quát được so sánh dựa trên bên kiểm soát nguồn cung, cơ sở bảo chứng, những điều người học có thể kiểm chứng và các bên đối tác liên quan. Ví và dịch vụ làm phát sinh rủi ro riêng đối với cả ba, vì vậy giao diện tương tự không có nghĩa là mô hình niềm tin giống nhau.](/micrographics/compare-trust-models-01/vi.md)
 
 
 Không nên ngụ ý rằng ngoài Bitcoin, mọi [tài sản](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) đều có cùng cấu trúc. Nhiệm vụ của người học là đặt ra các câu hỏi nhất quán về [bên phát hành](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer), quyền kiểm soát, nguồn cung, việc xác minh, [việc lưu ký](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) và sự phụ thuộc vào đối tác giao dịch.

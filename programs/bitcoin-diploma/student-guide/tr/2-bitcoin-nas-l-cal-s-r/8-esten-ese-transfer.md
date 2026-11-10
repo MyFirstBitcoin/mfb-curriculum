@@ -8,6 +8,7 @@ Eşler arası olması, her zaman yalnızca iki bilgisayarın doğrudan iletişim
 
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[Bir gönderen, bir işlemi imzalar ve ağdaki birçok düğüme yayınlar; bu düğümler işlemi alıcıya ulaşana kadar birbirine aktarır. Gönderenin veya alıcının, merkezi bir Bitcoin işletmecisi tarafından onaylanması gerekmez.](/micrographics/peer-to-peer-route-01/tr.md)
 
 
 Kullanıcılar yine de [aracıları](https://curriculum.myfirstbitcoin.org/lexicon/en/#intermediary) tercih edebilir. Bir borsa, müşterileri adına bitcoin tutabilir. Bir ödeme hizmeti, bir faturayı basitleştirebilir. Barındırılan (emanetçi) bir cüzdan, anahtarları yönetebilir. Bu hizmetler kullanışlı olabilir, ancak bu durumda kullanıcı hizmetin kurallarına ve güvenliğine bağımlı hâle gelir.

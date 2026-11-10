@@ -7,6 +7,7 @@ Enseñe la diferencia de forma explícita:
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Dos capas: las tres funciones del dinero (medio de intercambio, unidad de cuenta, reserva de valor) se sustentan en siete propiedades (durabilidad, portabilidad, divisibilidad, fungibilidad, escasez, aceptabilidad y verificabilidad).](/micrographics/functions-and-properties-01/es-419.md)
 
 
 Utilice distintos propósitos. Pregunte qué propiedades importan para:

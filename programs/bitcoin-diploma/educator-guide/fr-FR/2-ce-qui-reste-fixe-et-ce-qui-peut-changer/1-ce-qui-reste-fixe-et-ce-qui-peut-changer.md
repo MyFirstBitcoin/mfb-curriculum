@@ -32,3 +32,4 @@ Vous ne pouvez pas :
 
 
 <!-- micrographic: fixed-adaptable-flexible-01 -->
+[Les exemples locaux et les méthodes pédagogiques peuvent varier dans le respect d’exigences fixes en matière de compétences, de preuves, de sécurité et de validation du parcours. Les modifications touchant l’évaluation nécessitent une modalité équivalente approuvée, qui conserve la même action à réaliser par l’apprenant et le même objectif de sécurité.](/micrographics/fixed-adaptable-flexible-01/fr-FR.md)

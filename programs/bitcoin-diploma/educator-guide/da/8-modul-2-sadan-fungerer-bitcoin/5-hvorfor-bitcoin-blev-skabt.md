@@ -6,6 +6,7 @@ Et centralt digitalt betalingssystem kan føre én autoritativ [regnskabsbog](ht
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Hos en betalingsvirksomhed fører én organisation regnskabet og godkender hver overførsel. Med Bitcoin underskriver afsenderen en transaktion, uafhængige noder kontrollerer den, og minere føjer den til ét fælles regnskab, så modtageren er mindre afhængig af en central myndighed.](/micrographics/central-ledger-vs-bitcoin-01/da.md)
 
 
 Spørg:

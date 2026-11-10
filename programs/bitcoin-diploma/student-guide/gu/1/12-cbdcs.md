@@ -1,5 +1,6 @@
 # 1.12 કેન્દ્રીય બેંક ડિજિટલ ચલણો (CBDCs)
 
+<!-- card: definition -->
 > **Definition – કેન્દ્રીય બેંક ડિજિટલ ચલણ (CBDC)**
 >
 > એક [કેન્દ્રીય બેંક ડિજિટલ ચલણ](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), અથવા [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), એ ડિજિટલ સ્વરૂપ ધરાવતાં [ફિયાટ નાણાં](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) છે, જે જારી કરવામાં આવે છે એક [જવાબદારી](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability) તરીકે એક [કેન્દ્રીય બેંક દ્વારા](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank): આ એવો દાવો છે જેની ચુકવણી કરવાની [કેન્દ્રીય બેંકને](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) તેના ધારક પ્રત્યે ફરજ હોય છે. તે ભૌતિક રોકડ અને સામાન્ય વાણિજ્યિક બેંકની થાપણથી અલગ છે, જોકે વપરાશકર્તાનો અનુભવ સમાન લાગી શકે છે.
@@ -13,6 +14,7 @@
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[રોકડ, બેંક થાપણો, રિટેલ સીબીડીસી અને બિટકોઇનની તુલના કરતું કોષ્ટક, જેમાં તેમને કોણ જારી કરે છે, તેમનું સ્વરૂપ, ઉપયોગની સુલભતા, ચુકવણીઓની દૃશ્યતા, પુરવઠાના નિયમો અને ચકાસણીની સરખામણી છે. ડિજિટલ હોવું એટલે વિકેન્દ્રિત હોવું નહીં: સીબીડીસી પણ કેન્દ્રીય બેંક દ્વારા જ જારી કરવામાં આવે છે, અને તેના ઉપયોગની સુલભતા, ચુકવણીઓની દૃશ્યતા અને ચકાસણી તેની રચના પર આધાર રાખે છે.](/micrographics/cbdc-comparison-table-01/gu.md)
 
 
 ડિજિટલ હોવાનો અર્થ આપોઆપ વિકેન્દ્રીકૃત, દુર્લભ, ખાનગી અથવા સ્વતંત્ર ચકાસણી માટે ખુલ્લું હોવો નથી. એક [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) ડિજિટલ ટેકનોલોજીનો ઉપયોગ કરતું હોઈ શકે છે, પરંતુ તે હજી પણ [ફિયાટ નાણાં](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) જ છે, જો તેના [જારીકર્તા](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer), પુરવઠાના નિયમો, સુલભતાના નિયમો અને ચુકવણીની પરવાનગીઓનું સંચાલન કેન્દ્રીય રીતે થતું રહે.

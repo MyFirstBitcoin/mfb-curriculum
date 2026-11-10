@@ -16,6 +16,7 @@ Giải thích rằng tin nhắn hoặc ảnh chụp màn hình ghi “đã gửi
 
 
 <!-- micrographic: check-what-you-receive-01 -->
+[Màn hình nhận tiền mẫu trên điện thoại hiển thị phương thức thanh toán, yêu cầu thanh toán để chia sẻ, số tiền và trạng thái đang chờ xử lý. Tin nhắn hoặc ảnh chụp màn hình ghi "đã gửi" không phải là bằng chứng: vui lòng kiểm tra trạng thái trong ví của quý vị.](/micrographics/check-what-you-receive-01/vi.md)
 
 
 #### Thực hành: hướng dẫn từng bước trên màn hình nhận tiền

@@ -17,6 +17,7 @@ Pregunte:
 
 
 <!-- micrographic: bitcoin-atm-off-ramp-01 -->
+[Una persona en un cajero automático de Bitcoin envía bitcoin desde su celular y recibe efectivo en moneda local: un ejemplo de conversión de bitcoin a dinero local. Es una ilustración, no una recomendación.](/micrographics/bitcoin-atm-off-ramp-01/es-419.md)
 
 
 **Producción:** El estudiante elige una vía para un caso ficticio, ordena las verificaciones de seguridad y explica qué riesgo se reduce y cuál se añade.

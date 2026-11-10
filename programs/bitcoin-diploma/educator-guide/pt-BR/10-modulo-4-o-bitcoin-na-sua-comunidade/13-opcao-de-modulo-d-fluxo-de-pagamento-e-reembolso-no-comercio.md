@@ -18,6 +18,7 @@ Abordar:
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[Um comerciante que aceita Bitcoin atua em quatro áreas: marketing, treinamento, contabilidade e vendas.](/micrographics/merchant-payment-operations-01/pt-BR.md)
 
 
 **Produção:** O aluno executa ou conduz uma simulação de pagamento e reembolso. Ele deve autenticar o cliente, solicitar novas informações para a devolução, verificar o destino e o valor, identificar quem paga eventuais taxas e registrar o resultado sem expor dados desnecessários.

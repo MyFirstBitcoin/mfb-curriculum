@@ -36,6 +36,7 @@ Sieć [Edukacji Bitcoin](https://myfirstbitcoin.org/about/network) łączy nieza
 
 
 <!-- micrographic: final-safety-check-01 -->
+[Końcowa lista kontrolna bezpieczeństwa z zaznaczonymi punktami: ochrona poufnych danych, weryfikacja szczegółów płatności, próby z małymi kwotami i wstrzymanie działań pod presją. Jeśli cokolwiek jest niejasne, proszę się zatrzymać i dowiedzieć się więcej przed podjęciem działania.](/micrographics/final-safety-check-01/pl.md)
 
 
 Proszę pamiętać o tych zasadach:
@@ -57,6 +58,7 @@ Edukacja zmniejsza ryzyko, ale nie może go wyeliminować. Jeśli sytuacja jest 
 
 
 <!-- micrographic: curriculum-source-panel-01 -->
+[Panel z kodem QR i wydrukowanym adresem github.com/MyFirstBitcoin/mfb-curriculum, oficjalnym źródłem programu nauczania do dyplomu z Bitcoina, gdzie można sprawdzić wydanie i zgłosić błędy.](/micrographics/curriculum-source-panel-01/pl.md)
 
 
 Bitcoin Diploma to stale rozwijany program nauczania o otwartym dostępie do materiałów źródłowych. Poprawki i ulepszenia można poddawać publicznemu przeglądowi.

@@ -1,5 +1,6 @@
 # 1.12 కేంద్ర బ్యాంకు డిజిటల్ కరెన్సీలు (CBDCs)
 
+<!-- card: definition -->
 > **Definition – కేంద్ర బ్యాంకు డిజిటల్ కరెన్సీ (CBDC)**
 >
 > ఒక [కేంద్ర బ్యాంకు డిజిటల్ కరెన్సీ](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), లేదా [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), అనేది డిజిటల్ రూపంలో ఉండే [ఫియట్ డబ్బు](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) — ఇది ఒక [బాధ్యతగా జారీ చేయబడుతుంది](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability) వహించేది ఒక [కేంద్ర బ్యాంకు](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank): అంటే, ఇది ఒక క్లెయిమ్; దీని ప్రకారం [కేంద్ర బ్యాంకు](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) దాని హక్కుదారునికి చెల్లించవలసి ఉంటుంది. వినియోగ అనుభవం ఒకేలా కనిపించినప్పటికీ, ఇది భౌతిక నగదు కంటే, సాధారణ వాణిజ్య బ్యాంకు డిపాజిట్ కంటే భిన్నమైనది.
@@ -13,6 +14,7 @@
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[నగదు, బ్యాంకు డిపాజిట్లు, రిటైల్ CBDC మరియు బిట్‌కాయిన్‌లను ఎవరు జారీ చేస్తారు, వాటి రూపం, వినియోగ అవకాశం, చెల్లింపుల దృశ్యమానత, సరఫరా నియమాలు మరియు ధృవీకరణ అంశాల ఆధారంగా పోల్చే పట్టిక. డిజిటల్ అంటే వికేంద్రీకృతమని కాదు: CBDC కూడా కేంద్ర బ్యాంకు జారీ చేసేదే, దాని వినియోగ అవకాశం, చెల్లింపుల దృశ్యమానత మరియు ధృవీకరణ దాని రూపకల్పనపై ఆధారపడి ఉంటాయి.](/micrographics/cbdc-comparison-table-01/te.md)
 
 
 డిజిటల్‌గా ఉండటం అంటే తప్పనిసరిగా వికేంద్రీకృతమైనది, పరిమిత లభ్యత కలిగినది, గోప్యత కలిగినది లేదా స్వతంత్ర ధృవీకరణకు వీలైనది అని అర్థం కాదు. ఒక [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) డిజిటల్ సాంకేతికతను ఉపయోగించవచ్చు, కానీ అది ఇప్పటికీ [ఫియట్ డబ్బే](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) — దాని [జారీదారు](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer), సరఫరా నిబంధనలు, ప్రాప్యత నిబంధనలు, చెల్లింపు అనుమతులు కేంద్రీకృత నిర్వహణలోనే ఉన్నట్లయితే.

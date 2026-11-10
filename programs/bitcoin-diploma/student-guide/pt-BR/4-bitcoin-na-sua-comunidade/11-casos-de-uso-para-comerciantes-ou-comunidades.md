@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[Um comerciante que aceita Bitcoin atua em quatro áreas: marketing, treinamento, contabilidade e vendas.](/micrographics/merchant-payment-operations-01/pt-BR.md)
 
 
 Um comerciante precisa de mais do que um botão de recebimento. O processo completo de pagamento pode incluir precificação, treinamento da equipe, recibos, reembolsos, [custódia](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), conversão, contabilidade, impostos, segurança dos dispositivos e suporte.

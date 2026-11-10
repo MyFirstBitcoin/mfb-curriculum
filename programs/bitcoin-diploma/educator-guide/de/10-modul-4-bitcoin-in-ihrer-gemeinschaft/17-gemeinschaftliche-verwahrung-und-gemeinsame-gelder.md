@@ -15,3 +15,4 @@ Machen Sie die Gestaltung einer [gemeinschaftlichen Verwahrung](https://curricul
 
 
 <!-- micrographic: shared-funds-role-map-01 -->
+[Beitragende und Begünstigte sind von demjenigen abhängig, der gemeinsame Mittel kontrolliert. Schlüsselkontrolle, Ausgabenfreigabe, Aufzeichnungen und Prüfung sind getrennte Rollen; hat eine Person mehrere davon inne, konzentriert sich das Vertrauen, und Fragen zu Kontinuität, Privatsphäre, Streitigkeiten und Rechtsstatus müssen weiterhin beantwortet werden.](/micrographics/shared-funds-role-map-01/de.md)

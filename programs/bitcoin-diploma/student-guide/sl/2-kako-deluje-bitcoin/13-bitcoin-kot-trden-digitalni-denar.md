@@ -6,6 +6,7 @@ Bitcoin združuje lastnosti, ki prej niso obstajale skupaj v enem [sredstvu](htt
 
 
 <!-- micrographic: bitcoin-money-properties-01 -->
+[Bitcoin združuje sedem lastnosti denarja v enem sredstvu: trajnost, prenosljivost, deljivost, zamenljivost, redkost, preverljivost in sprejemljivost. Vsaka ima praktične omejitve, kot sta varno shranjevanje ključev in sprejetost, ki je v številnih skupnostih še vedno nizka.](/micrographics/bitcoin-money-properties-01/sl.md)
 
 
 

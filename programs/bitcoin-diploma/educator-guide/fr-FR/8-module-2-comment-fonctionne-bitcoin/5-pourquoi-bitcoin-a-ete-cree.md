@@ -6,6 +6,7 @@ Un système centralisé de paiement numérique peut tenir à jour un unique [reg
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Avec une entreprise de paiement, une seule organisation tient le registre et approuve chaque transfert. Avec Bitcoin, l’expéditeur signe une transaction, des nœuds indépendants la vérifient et les mineurs l’ajoutent à un registre partagé unique, ce qui rend le destinataire moins dépendant d’une autorité centrale.](/micrographics/central-ledger-vs-bitcoin-01/fr-FR.md)
 
 
 Posez la question :

@@ -13,6 +13,7 @@ Mostre a separação entre:
 
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Uma carteira guarda as chaves. Com elas, você pode receber e enviar bitcoin, enquanto o próprio bitcoin permanece registrado no livro-razão compartilhado, e não dentro do celular ou do dispositivo.](/micrographics/wallet-manages-keys-01/pt-BR.md)
 
 
 Pergunte:

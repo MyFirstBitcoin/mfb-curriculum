@@ -19,3 +19,4 @@ Gebruik de stations niet als formele toetsing, tenzij de precieze taken, variant
 
 
 <!-- micrographic: practice-circuit-stations-01 -->
+[Deelnemers rouleren langs acht oefenstations: bewaring, openbaar of geheim, ontvangen, verzenden, herstel, explorer, oplichting en leertraject. Een aparte observatiebaan volgt een goedgekeurde route, zodat oefenen in groepsverband nooit wordt verward met een formele beoordeling.](/micrographics/practice-circuit-stations-01/nl.md)

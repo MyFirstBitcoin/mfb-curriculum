@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: four-module-diploma-01 -->
+[Program Dyplom Bitcoin obejmuje kolejno cztery etapy: Problem, Rozwiązanie, Działanie i Nawiązywanie kontaktów.](/micrographics/four-module-diploma-01/pl.md)
 
 
 **Moduł 4** jest obowiązkową częścią programu Dyplom Bitcoin, a jego treści dobierają nauczyciele jako lokalni eksperci merytoryczni. Scenariusz lub narzędzie mogą się zmieniać, ale każda osoba ubiegająca się o certyfikat musi spełnić wymagania `C7` poprzez lokalne ćwiczenie realizujące cele `C7.1` i `C7.2`.

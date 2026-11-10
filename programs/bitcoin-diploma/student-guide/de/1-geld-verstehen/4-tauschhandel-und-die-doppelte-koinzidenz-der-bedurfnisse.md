@@ -1,5 +1,6 @@
 # 1.4 Tauschhandel und die doppelte Koinzidenz der Bedürfnisse
 
+<!-- card: definition -->
 > **Definition – Tauschhandel**
 >
 > [Tauschhandel](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) ist der direkte Tausch einer Ware oder Dienstleistung gegen eine andere. Bei einem kleinen Tausch kann er gut funktionieren, wird aber schwierig, wenn viele Menschen und Produkte beteiligt sind.
@@ -11,6 +12,7 @@ Stellen Sie sich vor, **Amina** hat Reis und möchte Schuhe. **Luis** hat Schuhe
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina hat Reis und möchte Schuhe, Luis hat Schuhe und möchte Speiseöl, und Mei hat Speiseöl und möchte Reparaturarbeiten. Kein Paar kann direkt tauschen, weil in keinem Paar eine Person das möchte, was die andere anbietet.](/micrographics/barter-mismatch-01/de.md)
 
 
 Damit [Tauschhandel](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) direkt funktioniert, muss jede Person genau das wollen, was die andere Person anbietet, und zwar zur selben Zeit und in passenden Mengen. Ökonomen nennen dies die [**doppelte Übereinstimmung der Bedürfnisse**](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-coincidence-of-wants).
@@ -31,3 +33,4 @@ Ein allgemein akzeptiertes Geld trennt das Verkaufen vom Kaufen. Amina kann Reis
 
 
 <!-- micrographic: sell-then-buy-01 -->
+[Amina verkauft Reis gegen ein allgemein anerkanntes Geld an eine Person und kauft später mit diesem Geld Schuhe von jemand anderem. Verkaufen und Kaufen werden zu getrennten Handlungen.](/micrographics/sell-then-buy-01/de.md)

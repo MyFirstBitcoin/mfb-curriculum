@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: self-custody-responsibilities-01 -->
+[Kontrola nad kluczami znajduje się w centrum ośmiu obszarów odpowiedzialności: tworzenia kopii zapasowych, odzyskiwania dostępu, odbierania, wysyłania, wyboru narzędzi, sposobu nabycia, prywatności i wykrywania oszustw. Każdy z nich zapewnia ochronę, a zaniedbanie któregokolwiek może kosztować utratę dostępu, pieniędzy lub prywatności.](/micrographics/self-custody-responsibilities-01/pl.md)
 
 
 
 <!-- micrographic: responsibility-checks-01 -->
+[Tabela sześciu zadań związanych z samodzielnym przechowywaniem środków, wskazująca, co należy chronić lub sprawdzić w każdym przypadku i jakie mogą być konsekwencje błędów: kopia zapasowa, odbieranie, wysyłanie, przechowywanie, wybór narzędzia i pozyskiwanie.](/micrographics/responsibility-checks-01/pl.md)
 
 
 Proszę sobie wyobrazić, że znajomy wysyła Państwu prośbę o płatność, a jednocześnie nieznane konto pomocy technicznej informuje, że muszą Państwo działać natychmiast. Co mogliby Państwo sprawdzić, zanim cokolwiek zrobią? Czy potrafią Państwo zabezpieczyć plan odzyskiwania dostępu, odróżnić informacje do odbierania płatności od danych poufnych oraz zweryfikować osobę, metodę płatności, miejsce docelowe, kwotę i ekran końcowy przed wysłaniem środków? Niezależnie od tego, czy klucze kontroluje usługodawca, czy Państwo sami, praktyczne podsumowanie jest takie samo: należy chronić dane poufne, weryfikować przed zatwierdzeniem, rozpoznawać oznaki oszustwa i ograniczać skutki błędów podczas nauki.

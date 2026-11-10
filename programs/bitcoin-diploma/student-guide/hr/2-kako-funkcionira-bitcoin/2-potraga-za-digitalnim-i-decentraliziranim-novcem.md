@@ -3,6 +3,7 @@
 Razvoj osobnih računala i interneta stvorio je nove mogućnosti za komunikaciju. Također je stvorio nove oblike nadzora i kontrole. Krajem dvadesetog stoljeća skupina programera, matematičara i aktivista poznata pod nazivom [**Cypherpunks**](https://curriculum.myfirstbitcoin.org/lexicon/en/#cypherpunk) istraživala je kako bi [kriptografija](https://curriculum.myfirstbitcoin.org/lexicon/en/#cryptography) mogla zaštititi [privatnost](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy) i osobnu slobodu u digitalnim sustavima.
 
 
+<!-- card: definition -->
 > **Definition – Kriptografija**
 >
 > [Kriptografija](https://curriculum.myfirstbitcoin.org/lexicon/en/#cryptography) koristi matematičke metode za zaštitu informacija i dokazivanje autentičnosti radnji. [Šifriranje](https://curriculum.myfirstbitcoin.org/lexicon/en/#encryption) može očuvati privatnost poruke. [Digitalni potpisi](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) mogu dokazati da poruka ili uputa potječe od vlasnika tajnog ključa, bez otkrivanja tog ključa.
@@ -16,3 +17,4 @@ Bitcoin je izgrađen na temeljima desetljeća rada mnogih ljudi. Njegov je dizaj
 
 
 <!-- micrographic: chain-of-ideas-01 -->
+[Lanac ideja: kriptografija je dovela do istraživanja digitalne gotovine, što je vodilo prema decentraliziranom digitalnom novcu. Bitcoin je na nov način objedinio desetljeća prethodnog rada mnogih ljudi.](/micrographics/chain-of-ideas-01/hr.md)

@@ -10,6 +10,7 @@ Enseignez les liens entre les concepts, pas les mathématiques :
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Un mineur effectue des hachages répétés d’un bloc proposé jusqu’à ce qu’un résultat soit inférieur à la cible du réseau, puis diffuse le bloc. Les nœuds vérifient rapidement la preuve et le respect de chaque règle avant que le bloc ne rejoigne la blockchain : le travail est coûteux à produire et facile à vérifier.](/micrographics/proof-of-work-process-01/fr-FR.md)
 
 
 Évitez de dire que [les mineurs](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) résolvent des équations utiles à des fins extérieures au réseau. Évitez d’affirmer que le coût énergétique est automatiquement justifié ou constitue automatiquement un gaspillage.

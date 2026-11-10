@@ -13,10 +13,12 @@ Prüfen und erläutern Sie vor einem Lightning-Workshop:
 * die Offline-Simulation.
 
 
-> **Dark – Eine erfolgreiche Lightning-Zahlung beweist nur, dass diese Route einmal funktioniert hat.**
+<!-- card: dark -->
+> **Eine erfolgreiche Lightning-Zahlung beweist nur, dass diese Route einmal funktioniert hat.**
 >
 > Sie beweist nicht, dass die Wallet für größere Guthaben sicher ist oder dass derselbe Weg überall funktionieren wird.
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[Eine Lightning-Zahlung in sechs Schritten: Der Empfänger erstellt eine Anfrage, der Absender scannt sie, prüft Empfänger, Betrag, Einheit, Ablaufzeit und Gebühr und bestätigt sie, die Zahlung wird weitergeleitet, und beide Wallets zeigen das Ergebnis an. Jede Wallet kann verwahrt oder selbstverwahrt sein, und eine fehlgeschlagene oder abgelaufene Zahlung beginnt mit einer neuen Anfrage von vorn.](/micrographics/lightning-payment-sequence-01/de.md)

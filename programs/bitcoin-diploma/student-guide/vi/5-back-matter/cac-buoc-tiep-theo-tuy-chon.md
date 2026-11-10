@@ -36,6 +36,7 @@ Tổ chức [Mạng lưới Giáo dục Bitcoin](https://myfirstbitcoin.org/abou
 
 
 <!-- micrographic: final-safety-check-01 -->
+[Danh sách kiểm tra an toàn lần cuối với các mục đã được đánh dấu: bảo vệ thông tin bí mật, xác minh chi tiết thanh toán, thử với số tiền nhỏ và dừng lại khi bị gây áp lực. Nếu có điều gì chưa rõ, hãy dừng lại và tìm hiểu thêm trước khi hành động.](/micrographics/final-safety-check-01/vi.md)
 
 
 Hãy ghi nhớ những quy tắc sau:
@@ -57,6 +58,7 @@ Giáo dục giúp giảm rủi ro nhưng không thể loại bỏ hoàn toàn r�
 
 
 <!-- micrographic: curriculum-source-panel-01 -->
+[Một bảng có mã QR và đường dẫn in sẵn github.com/MyFirstBitcoin/mfb-curriculum, nguồn chính thức của Văn bằng Bitcoin, nơi quý vị kiểm tra phiên bản và báo lỗi.](/micrographics/curriculum-source-panel-01/vi.md)
 
 
 Bitcoin Diploma là một giáo trình mã nguồn mở được cập nhật liên tục. Các sửa đổi và cải tiến có thể được xem xét công khai.

@@ -4,6 +4,7 @@ Vous passerez par trois étapes : **Présentation**, où votre formateur vous m
 
 
 <!-- micrographic: presentation-practice-production-01 -->
+[Une compétence pratique s’acquiert en trois étapes, de gauche à droite : la présentation, où l’enseignant montre le processus et les risques associés, puis la pratique, un entraînement guidé avec du matériel pédagogique sans risque, et enfin la production, où l’apprenant accomplit une tâche ou explique une décision de manière autonome.](/micrographics/presentation-practice-production-01/fr-FR.md)
 
 
 Votre atelier peut inclure les activités suivantes :

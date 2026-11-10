@@ -3,7 +3,8 @@
 [KYC-baserede](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) og [ikke-KYC-baserede](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) løsninger indebærer forskellige [afvejninger](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Ingen af betegnelserne fjerner behovet for en omhyggelig vurdering.
 
 
-> **Callout – Privatliv fjerner ikke juridiske risici eller risici for den fysiske sikkerhed**
+<!-- card: callout -->
+> **Privatliv fjerner ikke juridiske risici eller risici for den fysiske sikkerhed**
 >
 > Hverken [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) eller [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) er automatisk bedst. Sammenlign den konkrete løsning, benyt opdateret lokal vejledning, når reglerne er uklare, og overtræd ikke lokal lovgivning eller udsæt Dem selv for fysisk fare i bestræbelsen på at beskytte Deres [privatliv](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 

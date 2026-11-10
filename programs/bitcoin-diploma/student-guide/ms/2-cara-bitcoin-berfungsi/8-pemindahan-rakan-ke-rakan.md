@@ -8,6 +8,7 @@ Rakan ke rakan tidak semestinya bermaksud hanya dua komputer berkomunikasi secar
 
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[Pengirim menandatangani transaksi dan menyiarkannya kepada banyak nod rangkaian, yang meneruskannya sehingga transaksi itu sampai kepada penerima. Tiada pengendali pusat Bitcoin yang perlu meluluskan pengirim atau penerima.](/micrographics/peer-to-peer-route-01/ms.md)
 
 
 Pengguna masih boleh memilih [pengantara](https://curriculum.myfirstbitcoin.org/lexicon/en/#intermediary). Platform pertukaran mungkin menyimpan bitcoin untuk pelanggan. Perkhidmatan pembayaran mungkin memudahkan urusan invois. Dompet yang dihoskan mungkin mengurus kunci. Perkhidmatan ini boleh memudahkan urusan, tetapi pengguna kemudiannya bergantung pada peraturan dan keselamatan perkhidmatan tersebut.

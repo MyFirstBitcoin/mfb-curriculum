@@ -3,6 +3,7 @@
 Resursi su ograničeni, dok ljudske želje nisu.
 
 
+<!-- card: definition -->
 > **Definition – Oskudnost**
 >
 > [Oskudnost](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) znači da izbor jednog načina korišćenja resursa onemogućava drugi način korišćenja. Vreme, zemljište, energija, dobro zdravlje, alati i [zdrav novac](https://curriculum.myfirstbitcoin.org/lexicon/en/#sound-money) su oskudni.
@@ -14,6 +15,7 @@ Sama [vrednost](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) nekog d
 
 
 <!-- micrographic: same-water-different-value-01 -->
+[Ista flaša čiste vode je jeftina u frižideru u prodavnici, gde je vodu lako naći, a mnogo vrednija u vreloj pustinji tokom nestašice. Dostupnost, potreba i okolnosti menjaju vrednost i cenu.](/micrographics/same-water-different-value-01/sr-Latn.md)
 
 
 Do razmene dolazi kada obe strane više žele ono što dobijaju nego ono čega se odriču. Ne moraju da se slože da ta dva predmeta za njih lično imaju istu [vrednost](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Potrebno je samo da se slože oko uslova.
@@ -26,6 +28,7 @@ Tri pojma pomažu da se objasne svakodnevni izbori:
 
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Kupac s ograničenim novcem razmatra mogućnosti koje su pred njim: hranu za danas, prevoz ili štednju za kasnije. Izbor jedne mogućnosti znači odricanje od ostalih, što predstavlja oportunitetni trošak, a nijedna mogućnost nije označena kao ispravna.](/micrographics/one-choice-two-uses-01/sr-Latn.md)
 
 
 [Oskudnost](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) sama po sebi ne garantuje [vrednost](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Neki predmet može biti redak, a da za njim ipak nema potražnje. Korisna monetarna [imovina](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) objedinjuje ograničenu ponudu sa svojstvima i potražnjom zbog kojih su ljudi spremni da je čuvaju ili razmenjuju.

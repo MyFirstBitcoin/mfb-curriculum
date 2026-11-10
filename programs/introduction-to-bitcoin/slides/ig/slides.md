@@ -40,7 +40,8 @@ Anyị na-eji ego eme ihe kwa ụbọchị, ma anyị anaghị ajụkarị otú 
 * Ego unu ọ̀ ka na-azụta otu ihe hà ka ọ na-azụ na mbụ?
 
 
-> **Callout – Debenụ azịza unu**
+<!-- card: callout -->
+> **Debenụ azịza unu**
 >
 > Denụ azịza dị mkpirikpi nye ajụjụ nke ọ bụla. Unu ga-alọghachi na ha n'ikpeazụ.
 
@@ -85,6 +86,7 @@ Mmadụ abụọ ahụ ga-achọrịrị ihe ibe ha nwere, n'otu oge nakwa n'ọ
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina nwere osikapa ma chọọ akpụkpọ ụkwụ, Luis nwere akpụkpọ ụkwụ ma chọọ mmanụ esi nri, Mei nwekwara mmanụ esi nri ma chọọ ọrụ nrụzi. Ọ dịghị mmadụ abụọ n'ime ha nwere ike ịgbanwerịta ihe ozugbo, n'ihi na ọ dịghị onye n'ime mmadụ abụọ ọ bụla chọrọ ihe onye nke ọzọ na-enye.](/micrographics/barter-mismatch-01/ig.md)
 
 <!-- notes: Jirinụ ihe atụ dị n’akwụkwọ ntuziaka ahụ: unu na-akọ osikapa, akpụkpọ ụkwụ dịkwa unu mkpa, ma onye na-akpụ akpụkpọ ụkwụ chọrọ mmanụ esi nri, ọ bụghị osikapa. Ndị ọkà mmụta akụ na ụba na-akpọ nke a ndakọrịta ọchịchọ nke akụkụ abụọ. -->
 
@@ -151,6 +153,7 @@ Mgbe ndị mmadụ nụrụ okwu ọnụ oriri, ha na-echekarị banyere ọnụ
 ## Ọrịrị Ọnụ Ahịa na Ike Ịzụta Ihe
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Otu nkeji ego 100 ahụ na-azụta ihe niile dị na nkata nke ihe ndị dị mkpa mgbe ọnụ ahịa ya bụ 100, ma ọ naghị azụta ha niile mgbe ọnụ ahịa otu nkata ahụ bụ 110. Ọkwa ọnụ ahịa arịgoro, ike ego ahụ nwere ịzụta ihe ebelatala.](/micrographics/same-money-smaller-basket-01/ig.md)
 
 <!-- notes: Mmụba ọnụahịa bụ ịrị elu na-aga n’ihu n’ọkwa ọnụahịa n’ozuzu ya. Akụkụ nke ọzọ ya bụ ike ịzụta ihe: ókè ihe otu nkeji ego nwere ike ịzụta. Ọ bụrụ na ọnụahịa otu nkata ngwongwo ndị dị mkpa arịgoro site na nkeji ego 100 ruo 110, otu nkeji ego 100 ahụ agaghịzi azụta nkata ahụ n’uju. -->
 
@@ -213,8 +216,7 @@ Ego dị n’akaụntụ ụlọ akụ dị iche na ego nkịtị dị unu n’a
 * Mana ọnụọgụ ya a na-ekesa na iwu ya nwere ike ịgbanwe, ndị na-eji ya enweghịkwa nnukwu olu n'ime mkpebi ndị a
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Ọ bụ ya mere ndị mmadụ ji achọ ụzọ ndị ọzọ, bụrụkwa ihe mere e ji mepụta Bitcoin.
 
 ---
@@ -233,6 +235,7 @@ Ego dijitalụ nke a naghị achịkwa site n'otu ebe, nke ọnụ ọgụgụ y
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Mgbe a na-eji ụlọ ọrụ ịkwụ ụgwọ, otu ụlọ ọrụ na-edobe akwụkwọ ndekọ ego ma na-akwado nnyefe ego ọ bụla. Mgbe a na-eji Bitcoin, onye na-ezipụ ego na-abịanye aka na azụmahịa, ọnụ netwọkụ nọọrọ onwe ha na-enyocha ya, ndị na-egwupụta bitcoin na-etinyekwa ya n’otu akwụkwọ ndekọ ego a na-ekekọrịta, nke na-eme ka onye nnata ghara ịdabere nke ukwuu n’otu ikike etiti.](/micrographics/central-ledger-vs-bitcoin-01/ig.md)
 
 <!-- notes: Tupu Bitcoin, iziga ego n'ịntanetị na-adabere mgbe niile n'otu ụlọ ọrụ a tụkwasịrị obi: ụlọ akụ ma ọ bụ ụlọ ọrụ ịkwụ ụgwọ nke na-edobe akwụkwọ ndekọ ego, na-akwado akaụntụ, ma nwee ike igbu oge, igbochi, ma ọ bụ ịkagbu ịkwụ ụgwọ. Ọ dị mfe imepụtaghachi ozi dijitalụ: ọ bụrụ na a pụrụ iji otu mkpụrụ ego dijitalụ kwụọ ụgwọ ugboro abụọ, ọ gaghị arụ ọrụ dị ka ego. Nke a bụ nsogbu nke iji otu ego kwụọ ụgwọ ugboro abụọ. Satoshi Nakamoto bụ otu onye ma ọ bụ otu ndị na-eji aha ahụ. -->
 
@@ -253,6 +256,7 @@ Ego dijitalụ nke a naghị achịkwa site n'otu ebe, nke ọnụ ọgụgụ y
 ## Oke Onye Ọ Bụla Nwere Ike Ịlele
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Onye na-ewepụta ego nwere ike ịgbanwe na nzuzo oke ọkọnọ e dere na weebụsaịtị ma ọ bụ n'ebe nchekwa data ya. Iwu ọkọnọ Bitcoin ghe oghe, mbinye aka, akụkọ azụmahịa ghe oghe, ihe akaebe nke ọrụ na nkwenye sitere na kọmputa njikọ na-arụkọ ọrụ ọnụ iji gbochie ịchepụta mkpụrụ ego ọhụrụ ma ọ bụ imefu otu bitcoin ugboro abụọ.](/micrographics/claimed-or-verified-supply-01/ig.md)
 
 <!-- notes: A na-ewepụta bitcoin ọhụrụ dịka usoro oge e mere ka ọha mara si dị, kọmputa ndị nọọrọ onwe ha a na-akpọ nodu na-ajụkwa blọk ọ bụla mebiri iwu ahụ. A pụrụ ịtụkwasị oke ahụ obi n’ihi na onye ọ bụla nwere ike inyocha ya. Ọ bụghị iwu okike: ọ na-adị ire n’ihi na ndị sonyere na-aga n’ihu ịhụ na a na-agbaso ya. Ọnụ ọgụgụ e nwere nke a kpaara ókè anaghị ekwe nkwa na ọnụ ahịa ga-arị elu; ọnụ ahịa na-adabere n’ọchịchọ ịzụta yana ọnụọgụ dị maka ire ere. -->
 
@@ -264,6 +268,7 @@ A na-ekewa otu bitcoin ka ọ bụrụ obere nkeji 100,000,000 a na-akpọ satos
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Tebụl nwere kọlụm abụọ: 1 BTC bụ 100,000,000 sats, 0.1 BTC bụ 10,000,000 sats, 0.01 BTC bụ 1,000,000 sats, 0.001 BTC bụ 100,000 sats, ebe 0.00000001 BTC bụ 1 sat.](/micrographics/bitcoin-and-sats-01/ig.md)
 
 <!-- notes: Inwe 100,000 sats na inwe 0.001 bitcoin pụtara inwe otu ego ahụ. Dozienụ echiche na-ezighị ezi na Bitcoin karịrị ihe mmadụ nwere ike ịzụta n'ihi na otu bitcoin dị oke ọnụ. -->
 
@@ -272,6 +277,7 @@ A na-ekewa otu bitcoin ka ọ bụrụ obere nkeji 100,000,000 a na-akpọ satos
 ## Ònye Na-eme Ka Bitcoin Na-arụ Ọrụ?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Ọrụ anọ na Bitcoin: ndị ọrụ na-anata, na-ejide ma na-eziga bitcoin, ọnụ netwọk na-enyocha iwu n'onwe ha, ndị na-egwupụta na-ewu blọk ndị a na-atụ aro site n'iji ihe akaebe ọrụ, ndị nrụpụta sọftụwia na-atụkwa aro sọftụwia. Ọ dịghị otu ọrụ n'ime ha na-achịkwa netwọk ahụ.](/micrographics/bitcoin-participant-roles-01/ig.md)
 
 <!-- notes: Ndị ọrụ na-eziga, na-anata ma na-echekwa bitcoin; ọnụ njikọ netwọk na-enyocha azụmahịa na blọkụ ọ bụla iji hụ na ha kwekọrọ n’iwu; ndị na-egwupụta bitcoin na-asọ mpi itinye blọkụ ọhụrụ na ndekọ ihe dị ka nkeji iri ọ bụla. Ndekọ ahụ, bụ́ yinye blọkụ, dịịrị ọha na eze, ọ na-erikwa nnukwu ego idegharị ya. Ihe a ga-arịba ama banyere mkpoputa: Bitcoin nke e ji nnukwu B malite na-apụtakarị netwọk ma ọ bụ usoro ahụ; bitcoin nke e ji obere b malite na-apụta ego ahụ n’onwe ya. -->
 
@@ -307,6 +313,7 @@ Ajụjụ mbụ banyere akpa ego ọ bụla: ònye na-achịkwa igodo ya?
 ## Akpa Ego Na-ejikwa Igodo
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Akpa ego na-edobe igodo. Site na ha, unu nwere ike ịnata na izipu bitcoin, ebe bitcoin ahụ n’onwe ya ka dị n’akwụkwọ ndekọ a na-ekekọrịta, ọ bụghị n’ime ekwentị ma ọ bụ ngwaọrụ.](/micrographics/wallet-manages-keys-01/ig.md)
 
 <!-- notes: Wọlet Bitcoin bụ ngwá ọrụ, nke na-abụkarị ngwa, nke na-enye unu ohere ịnata, ịlele na izipu bitcoin. A naghị echekwa bitcoin unu n'ime ekwentị unu: a na-edekọ ya na blọkchein. Wọlet ahụ na-elekọta igodo ndị na-enye unu ohere igosi na ọ bụ nke unu ma nye ikike ịkwụ ụgwọ. -->
 
@@ -331,6 +338,7 @@ Ndepụta okwu a haziri n'usoro, nke na-abụkarị 12 ma ọ bụ 24, nke nwere
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Nkebi ahịrịokwu mgbake bụ ndepụta okwu ndị e debere n'usoro; ebe a, ọ bụ okwu ihe atụ iri na abụọ ndị e nyere nọmba ma dee n'akwụkwọ. Okwu ziri ezi n'usoro ziri ezi nwere ike iweghachite ikike ịchịkwa ego n'akpa ego dakọtara, ya mere a na-edobe ya na nzuzo, n'enweghị njikọ ịntanetị.](/micrographics/seed-phrase-on-paper-01/ig.md)
 
 <!-- notes: Usoro okwu mgbake abụghị naanị ihe ndabere: ọ na-enye ohere ịnweta na ịchịkwa akpa ego ahụ kpamkpam. Deenụ ya nke ọma n’akwụkwọ mgbe unu na-emepụta akpa ego ahụ; debenu ya na-anọghị n’ịntanetị, na nzuzo, nakwa n’ebe ọ na-agaghị efu ma ọ bụ mebie. Ya adịla mgbe unu ga-ese ya foto, ziga ya site na ozi ịntanetị, chekwaa ya na ndetu dị n’ígwé ojii, ziga ya n’ozi, ma ọ bụ pịnye ya na weebụsaịtị. Okwu ndị e gosiri bụ naanị ihe atụ; egosila ma ọ bụ chịkọtakwala usoro okwu mgbake nke akpa ego dị adị. -->
 
@@ -365,6 +373,7 @@ Ndepụta okwu a haziri n'usoro, nke na-abụkarị 12 ma ọ bụ 24, nke nwere
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[A na-edekọ ịkwụ ụgwọ na yinye ozugbo na yinye blọk nke Bitcoin, ebe Lightning bụ netwọkụ ịkwụ ụgwọ e wuru n'elu Bitcoin maka ịkwụ ụgwọ ngwa ngwa na ugboro ugboro, nke nwekwara ike ịda. Ụzọ nke ọ bụla nwere ike ịdị n'okpuru nlekọta onye ọzọ ma ọ bụ nlekọta onwe onye.](/micrographics/on-chain-and-lightning-01/ig.md)
 
 ---
 
@@ -375,7 +384,8 @@ Ndepụta okwu a haziri n'usoro, nke na-abụkarị 12 ma ọ bụ 24, nke nwere
 * **Unu atụkwasịla obi, nyochaanụ.** Nyochaanụ onye ahụ, usoro ịkwụ ụgwọ, adreesị, na ego ole ọ bụ.
 
 
-> **Callout – Kekọrịtanụ ozi nnata ego, ọ dịghị mgbe unu ga-ekekọrịta ihe nzuzo**
+<!-- card: callout -->
+> **Kekọrịtanụ ozi nnata ego, ọ dịghị mgbe unu ga-ekekọrịta ihe nzuzo**
 >
 > Enwere ike ịkekọrịta adreesị ma ọ bụ arịrịọ ịkwụ ụgwọ. A gaghị ekekọrịta ahịrịokwu mgbake ma ọ bụ igodo nzuzo ma ọlị. Ọ dịghị onye nkuzi, ụlọ ọrụ obere akpa dijitalụ, ma ọ bụ onye ọrụ nkwado ziri ezi ga-arịọ unu ka unu nye ya nke ọ bụla n'ime ha.
 
@@ -389,6 +399,7 @@ Kwụsịnụ ma ọ bụrụ na mmadụ na-amanye unu ime ihe ngwa ngwa ma ọ 
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Ihe ịrịba ama ise nke wayo: nrụgide ime ihe ngwa ngwa, ịzọrọ ịbụ onye ọzọ, ebe a na-eziga ihe agbanwere, uru e kwere nkwa na a ga-enweta na arịrịọ maka ozi nzuzo.](/micrographics/scam-red-flags-01/ig.md)
 
 ---
 
@@ -408,7 +419,8 @@ Nke a bụ naanị mmalite.
 * **Nke a bụ naanị mmalite.** Otu nzọụkwụ ọzọ dị nchebe ezuola.
 
 
-> **Callout – Oge ịtụgharị uche**
+<!-- card: callout -->
+> **Oge ịtụgharị uche**
 >
 > Laghachinụ n’ajụjụ ise ndị dị na mbido. Gịnị ka unu ga-aza ugbu a?
 

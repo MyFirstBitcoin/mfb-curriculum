@@ -17,6 +17,7 @@ Tanyakan:
 
 
 <!-- micrographic: bitcoin-atm-off-ramp-01 -->
+[Seseorang di ATM Bitcoin mengirim bitcoin dari ponselnya dan menerima uang tunai dalam mata uang setempat: salah satu contoh penukaran bitcoin menjadi mata uang setempat. Ini adalah ilustrasi, bukan rekomendasi.](/micrographics/bitcoin-atm-off-ramp-01/id.md)
 
 
 **Hasil kerja:** Peserta didik memilih jalur untuk kasus rekaan, mengurutkan langkah-langkah pemeriksaan keamanan, dan menjelaskan risiko mana yang berkurang serta risiko mana yang bertambah.

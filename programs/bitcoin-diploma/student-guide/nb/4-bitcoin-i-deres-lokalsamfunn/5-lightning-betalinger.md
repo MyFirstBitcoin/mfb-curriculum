@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: lightning-phone-payment-01 -->
+[Mottakeren oppretter en Lightning-betalingsforespørsel med beløpet angitt på telefonen sin, avsenderen skanner den og betaler, og betalingen kommer frem til mottakerens telefon et øyeblikk senere.](/micrographics/lightning-phone-payment-01/nb.md)
 
 
 
 <!-- micrographic: lightning-payment-sequence-01 -->
+[En Lightning-betaling i seks trinn: Mottakeren oppretter en forespørsel, avsenderen skanner den, kontrollerer mottaker, beløp, enhet, utløpstidspunkt og gebyr og godkjenner betalingen. Betalingen rutes, og begge lommebøkene viser resultatet. Hver lommebok kan være tredjepartsforvaltet eller selvforvaltet, og ved en mislykket eller utløpt betaling starter prosessen på nytt med en ny forespørsel.](/micrographics/lightning-payment-sequence-01/nb.md)
 
 
 Lightning kan gjøre raske, små Bitcoin-betalinger praktiske. Det kan være egnet ved en butikkdisk, til gjentatte lokale betalinger, nettjenester eller overføringer der et gebyr på kjeden ville vært for stort i forhold til betalingen.

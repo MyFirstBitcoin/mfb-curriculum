@@ -6,6 +6,7 @@
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Năm dấu hiệu cảnh báo lừa đảo: tính cấp bách, mạo danh, thay đổi địa chỉ nhận, cam kết lợi nhuận và yêu cầu cung cấp thông tin bí mật.](/micrographics/scam-red-flags-01/vi.md)
 
 
 Cách ứng phó an toàn luôn là: **Tạm dừng. Không chia sẻ bất cứ điều gì. Không gửi bất cứ thứ gì. Đóng kênh liên lạc. Tự xác minh qua một nguồn đã biết. Nhờ trợ giúp mà không tiết lộ thông tin bí mật.** Nguồn đã biết là trang web chính thức, trang giới thiệu ứng dụng hoặc phương thức liên hệ mà quý vị tự tìm đến, không thông qua quảng cáo, tin nhắn trực tiếp hay đường liên kết bất ngờ. Kiểm tra nhà phát hành và địa chỉ web, đối chiếu với tài liệu chính thức, đồng thời tìm thông tin liên hệ qua một kênh riêng. Nếu nguồn, hướng dẫn hoặc thông tin thanh toán khác với quy trình đã được minh họa, hãy tạm dừng và nhờ giảng viên hoặc bộ phận hỗ trợ đáng tin cậy tại địa phương trợ giúp mà không tiết lộ [cụm từ khôi phục](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) hoặc [khóa riêng tư](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key). Một cơ hội thực sự vẫn còn đó sau khi được kiểm tra kỹ lưỡng; một vụ lừa đảo thường chỉ thành công khi ngăn được việc kiểm tra.

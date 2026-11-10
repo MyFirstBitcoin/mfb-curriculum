@@ -24,6 +24,7 @@ Para trocas presenciais, use um local público e adequado, evite carregar dinhei
 
 
 <!-- micrographic: compare-local-pathways-01 -->
+[Uma tabela em branco para comparar três opções locais, A, B e C, quanto a nome, requisitos de KYC, modelo de custódia, redes suportadas, reputação e métodos de depósito, com espaço para observações.](/micrographics/compare-local-pathways-01/pt-BR.md)
 
 
 

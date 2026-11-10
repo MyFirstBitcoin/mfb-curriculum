@@ -24,6 +24,7 @@ Per ciascun percorso, si domandi:
 
 
 <!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Una persona può ricevere bitcoin in quattro modi diversi: guadagnandoli con il lavoro o con le vendite, scambiando contanti in valuta locale con un'altra persona, utilizzando un exchange o un broker, oppure utilizzando un ATM. Ogni percorso termina con l'autocustodia o con un saldo presso un custode, e nessuno è raccomandato rispetto agli altri.](/micrographics/ways-to-receive-bitcoin-01/it.md)
 
 
 Utilizzi [**no-KYC**](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) in modo coerente per indicare un percorso che raccoglie meno informazioni identificative standard o nessuna. Non lasci intendere che il [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) elimini il rischio di frode, legale, di controparte o fisico. Non consigli di eludere la legge locale.

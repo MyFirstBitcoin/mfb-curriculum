@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: self-custody-responsibilities-01 -->
+[Quyền kiểm soát khóa nằm ở trung tâm của tám trách nhiệm: sao lưu, khôi phục, nhận, gửi, lựa chọn công cụ, cách thức mua, quyền riêng tư và kiểm tra lừa đảo. Mỗi trách nhiệm bảo vệ một khía cạnh, và sai sót ở bất kỳ khía cạnh nào cũng có thể khiến quý vị mất quyền truy cập, tiền hoặc quyền riêng tư.](/micrographics/self-custody-responsibilities-01/vi.md)
 
 
 
 <!-- micrographic: responsibility-checks-01 -->
+[Bảng gồm sáu nhiệm vụ tự lưu ký, những điều cần bảo vệ hoặc kiểm tra cho từng nhiệm vụ và những gì có thể xảy ra nếu có sự cố: sao lưu, nhận, gửi, lưu ký, lựa chọn công cụ và mua bitcoin.](/micrographics/responsibility-checks-01/vi.md)
 
 
 Hãy hình dung một người bạn gửi cho quý vị yêu cầu thanh toán, trong khi một tài khoản hỗ trợ lạ nói rằng quý vị phải hành động ngay lập tức. Quý vị có thể kiểm tra những gì trước khi làm bất cứ điều gì? Quý vị có thể bảo vệ kế hoạch khôi phục, phân biệt thông tin dùng để nhận thanh toán với thông tin bí mật, và xác minh người giao dịch, phương thức thanh toán, đích đến, số tiền cùng màn hình cuối cùng trước khi gửi không? Dù bên kiểm soát khóa là một dịch vụ hay chính quý vị, các nguyên tắc thực hành cốt lõi vẫn như nhau: bảo vệ thông tin bí mật, xác minh trước khi phê duyệt, nhận biết dấu hiệu lừa đảo và hạn chế thiệt hại do sai sót trong quá trình học.

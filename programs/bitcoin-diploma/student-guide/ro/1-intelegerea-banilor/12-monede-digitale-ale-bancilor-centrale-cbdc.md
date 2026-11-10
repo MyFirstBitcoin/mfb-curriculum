@@ -1,5 +1,6 @@
 # 1.12 Monede digitale ale băncilor centrale (CBDC)
 
+<!-- card: definition -->
 > **Definition – Monedă digitală a băncii centrale (CBDC)**
 >
 > O [monedă digitală a băncii centrale](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), sau [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), este o formă digitală de [bani fiat](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) emisă ca o [obligație](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability) a unei [bănci centrale](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank): este o creanță pe care [banca centrală](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) o are de plătit deținătorului său. Este diferită de numerarul fizic și de un depozit obișnuit la o bancă comercială, deși experiența de utilizare poate părea similară.
@@ -13,6 +14,7 @@ Apoi, întrebați-vă ce permite modelul respectiv. În funcție de reguli, o [C
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[Un tabel care compară numerarul, depozitele bancare, o CBDC pentru publicul larg și Bitcoin în ceea ce privește emitentul, forma, accesul, vizibilitatea, regulile privind masa monetară și verificarea. Digital nu înseamnă descentralizat: o CBDC este tot emisă de banca centrală, iar accesul, vizibilitatea și verificarea acesteia depind de modul în care este concepută.](/micrographics/cbdc-comparison-table-01/ro.md)
 
 
 Digital nu înseamnă automat descentralizat, rar, confidențial sau deschis verificării independente. O [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) poate folosi tehnologia digitală, dar reprezintă în continuare [bani fiat](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) dacă [emitentul](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer), regulile privind masa monetară, regulile de acces și permisiunile de plată rămân gestionate centralizat.

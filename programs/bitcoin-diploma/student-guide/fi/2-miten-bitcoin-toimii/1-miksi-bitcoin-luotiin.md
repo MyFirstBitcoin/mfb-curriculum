@@ -10,6 +10,7 @@ Bitcoin luotiin ratkaisemaan tämä ongelma [vertaisverkon avulla](https://curri
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Maksuyhtiötä käytettäessä yksi organisaatio ylläpitää tilikirjaa ja hyväksyy jokaisen siirron. Bitcoinia käytettäessä lähettäjä allekirjoittaa tapahtuman, riippumattomat solmut tarkistavat sen ja louhijat lisäävät sen yhteen yhteiseen tilikirjaan, joten vastaanottaja on vähemmän riippuvainen keskitetystä tahosta.](/micrographics/central-ledger-vs-bitcoin-01/fi.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)

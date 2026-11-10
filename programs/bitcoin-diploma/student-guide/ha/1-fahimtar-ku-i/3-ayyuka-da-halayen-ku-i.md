@@ -14,6 +14,7 @@ Kuɗi masu amfani kuma sukan kasance da halaye da dama:
 
 
 <!-- micrographic: money-property-questions-01 -->
+[Halaye bakwai na kuɗi masu amfani, kowanne tare da tambayar da za a yi yayin kwatanta nau'o'in kuɗi: ɗorewa, sauƙin ɗauka, iya rarrabawa, iya musanya raka'o'i, ƙaranci, karɓuwa da iya tabbatar da sahihanci.](/micrographics/money-property-questions-01/ha.md)
 
 
 Babu wani nau'in kuɗi da ya cika kowane ma'auni ba tare da wata gazawa ba.
@@ -22,6 +23,7 @@ Mutane kuma suna kwatanta kuɗi bisa [**ƙarfinsu**](https://curriculum.myfirstb
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Matakai biyu: ayyukan kuɗi guda uku (hanyar musanya, ma'aunin lissafi, ma'ajiyar ƙima) sun ginu a kan halaye bakwai (ɗorewa, sauƙin ɗauka, yiwuwar rabawa, musanyuwa da irinsa, ƙaranci, karɓuwa da yiwuwar tantancewa).](/micrographics/functions-and-properties-01/ha.md)
 
 
 [Zinariya](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) tana da ɗorewa kuma ba ta da yawa, amma rarraba ta da jigilar ta don ƙananan biyan kuɗi yana da wuya. [Kuɗin takarda](https://curriculum.myfirstbitcoin.org/lexicon/en/#paper-cash) suna da sauƙin ɗauka kuma ana karɓarsu a cikin yankin da ake amfani da su, amma suna iya lalacewa kuma ana iya ƙara yawansu. Kwatancen da ya fi dacewa ya danganta da manufa, wuri, da lokaci.

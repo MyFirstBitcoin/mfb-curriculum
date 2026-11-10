@@ -19,3 +19,4 @@ Käyttäkää toimintapisteitä sen jälkeen, kun oppijat ovat nähneet kunkin p
 
 
 <!-- micrographic: practice-circuit-stations-01 -->
+[Oppijat kiertävät kahdeksalla harjoituspisteellä: säilytys, julkinen vai salainen, vastaanottaminen, lähettäminen, palauttaminen, lohkoketjuselain, huijaus ja etenemispolku. Erillinen havainnointipolku noudattaa hyväksyttyä reittiä, joten ryhmäharjoittelua ei koskaan sekoiteta viralliseen arviointiin.](/micrographics/practice-circuit-stations-01/fi.md)

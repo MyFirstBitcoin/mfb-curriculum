@@ -3,8 +3,7 @@
 In diesem Modul geht es um sichere erste Schritte, nicht darum, Experte zu werden oder ein finanzielles Risiko einzugehen. Sie üben mit vorbereiteten Simulationen, Testumgebungen, Übungs-Wallets oder, sofern Ihre Lehrkraft dies für angemessen hält, mit einer realen Aktivität mit geringem Einsatz.
 
 
-> **Dark**
->
+<!-- card: dark -->
 > Sie müssen keine Bitcoin kaufen oder auf andere Weise erwerben und auch keine eigenen Mittel einsetzen, um das Bitcoin Diploma abzuschließen.
 
 

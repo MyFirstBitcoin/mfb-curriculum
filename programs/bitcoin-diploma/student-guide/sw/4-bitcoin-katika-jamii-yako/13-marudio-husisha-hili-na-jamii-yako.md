@@ -1,10 +1,12 @@
 # 4.13 Marudio: Husisha hili na jamii yako
 
 <!-- micrographic: community-review-path-01 -->
+[Njia ya kutathmini mfano wa kienyeji wa Bitcoin: anza na hitaji halisi, kagua kama Bitcoin inafaa, kisha njia ya malipo, uhifadhi, gharama kamili, usalama na hali za kienyeji, na umalizie kwa ushahidi wa mafanikio.](/micrographics/community-review-path-01/sw.md)
 
 
 
 <!-- micrographic: community-review-table-01 -->
+[Jedwali la mapitio kwa mfano wa kienyeji: kwa kila mada, kuanzia hitaji halisi hadi hatua inayofuata yenye uwajibikaji, kuna swali la kujiuliza na nafasi isiyo ya lazima kwa maelezo yako mwenyewe.](/micrographics/community-review-table-01/sw.md)
 
 
 Kamilisheni tathmini hii kila mmoja binafsi, kisha linganisheni hoja zenu na timu au kundi lenu. Tafakarini mfano wa ndani mliouchunguza: ulishughulikia hitaji gani halisi, ni kazi gani ya pesa iliyohusika, na je, [thamani](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) ilihamishwa on-chain, kupitia Lightning, au kwa njia zote mbili? Ulizeni ni nani aliyedhibiti funguo, faida kubwa zaidi na hatari kubwa zaidi zilikuwa zipi, na jinsi sheria, miundombinu, lugha au utamaduni wa eneo hilo ulivyoathiri matokeo. Hatua inayofuata yenye uwajibikaji ni ile inayoendana na muktadha wa ndani, inayoweka wazi gharama na [uhifadhi](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), inayopunguza makosa na utapeli, na inayoweza kutathminiwa kwa kuzingatia ushahidi.

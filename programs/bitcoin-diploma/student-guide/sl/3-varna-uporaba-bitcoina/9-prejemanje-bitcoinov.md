@@ -12,6 +12,7 @@ Prejemanje ne dovoljuje, da bi sredstva zapustila vašo denarnico, vendar vseeno
 
 
 <!-- micrographic: check-what-you-receive-01 -->
+[Vzorčni zaslon za prejem na telefonu prikazuje način plačila, zahtevek za plačilo, ki ga lahko delite, znesek in stanje v čakanju. Sporočilo ali posnetek zaslona z napisom "poslano" ni dokaz: stanje preverite v svoji denarnici.](/micrographics/check-what-you-receive-01/sl.md)
 
 
 Sporočilo ali posnetek zaslona z napisom »poslano« ni dokaz. Katere dokaze lahko vidite sami? Preverite prejemno denarnico ali odobreni [transakcijski](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) prikaz. Pri [plačilih v verigi](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment) lahko denarnica najprej prikaže [transakcijo](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) kot čakajočo. [Potrditveni](https://curriculum.myfirstbitcoin.org/lexicon/en/#confirmation) status povečuje zaupanje v dokončnost poravnave; ne odpravi pa napačnega naslova ali prevare. Denarnica lahko za novo prejemanje ponudi nov naslov; starejši naslovi lahko še vedno delujejo, vendar lahko ponovna uporaba istega naslova olajša povezovanje ločenih plačil. Nov naslov oteži takšno preprosto povezovanje; plačila pa ne naredi anonimnega.

@@ -3,6 +3,7 @@
 Sự phát triển của máy tính cá nhân và internet đã tạo ra những cơ hội giao tiếp mới. Đồng thời, sự phát triển này cũng tạo ra những hình thức giám sát và kiểm soát mới. Vào cuối thế kỷ XX, một nhóm lập trình viên, nhà toán học và nhà hoạt động được biết đến với tên gọi [**Cypherpunks**](https://curriculum.myfirstbitcoin.org/lexicon/en/#cypherpunk) đã khám phá cách [mật mã học](https://curriculum.myfirstbitcoin.org/lexicon/en/#cryptography) có thể bảo vệ [quyền riêng tư](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy) và tự do cá nhân trong các hệ thống số.
 
 
+<!-- card: definition -->
 > **Definition – Mật mã học**
 >
 > [Mật mã học](https://curriculum.myfirstbitcoin.org/lexicon/en/#cryptography) sử dụng các phương pháp toán học để bảo vệ thông tin và chứng minh tính xác thực của một hành động. [Mã hóa](https://curriculum.myfirstbitcoin.org/lexicon/en/#encryption) có thể giữ kín một thông điệp. [Chữ ký số](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) có thể chứng minh rằng một thông điệp hoặc chỉ thị đến từ người nắm giữ khóa bí mật mà không tiết lộ khóa đó.
@@ -16,3 +17,4 @@ Bitcoin được xây dựng trên nền tảng công sức của nhiều ngư�
 
 
 <!-- micrographic: chain-of-ideas-01 -->
+[Một chuỗi ý tưởng: mật mã học dẫn đến nghiên cứu về tiền mặt kỹ thuật số, từ đó hướng tới tiền kỹ thuật số phi tập trung. Bitcoin đã kết hợp những công trình trước đó của nhiều người qua hàng thập kỷ theo một cách mới.](/micrographics/chain-of-ideas-01/vi.md)

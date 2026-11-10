@@ -3,8 +3,7 @@
 Bu modül uzman olmakla ya da finansal risk almakla değil, güvenli ilk adımlarla ilgilidir. Hazırlanmış simülasyonlar, test ortamları, eğitim cüzdanları veya eğitmeninizin uygun gördüğü durumlarda düşük riskli canlı bir etkinlik ile pratik yapacaksınız.
 
 
-> **Dark**
->
+<!-- card: dark -->
 > Bitcoin Diploma'yı tamamlamak için bitcoin satın almanız ya da başka bir şekilde edinmeniz veya kişisel fonlarınızı kullanmanız gerekmez.
 
 

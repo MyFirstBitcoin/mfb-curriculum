@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: daily-bitcoin-uses-01 -->
+[Siete maneras distintas de usar Bitcoin en la vida diaria: ganar, ahorrar, recibir, enviar, gastar, donar, y fijar precios y llevar la contabilidad. Cada una es un uso posible, no un paso obligatorio.](/micrographics/daily-bitcoin-uses-01/es-419.md)
 
 
 Bitcoin puede funcionar como dinero de varias maneras. Gastarlo es solo una de ellas.

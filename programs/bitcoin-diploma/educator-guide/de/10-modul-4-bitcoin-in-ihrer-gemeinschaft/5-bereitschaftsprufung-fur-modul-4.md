@@ -1,6 +1,7 @@
 # 10.5 Bereitschaftsprüfung für Modul 4
 
-> **Callout – Führen Sie keine Live-Aktivität aus Modul 4 durch, bevor nicht jede Prüfung bestanden ist**
+<!-- card: callout -->
+> **Führen Sie keine Live-Aktivität aus Modul 4 durch, bevor nicht jede Prüfung bestanden ist**
 >
 > Wenn eine der folgenden Prüfungen nicht zufriedenstellend ausfällt, nutzen Sie eine Simulation, einen gedruckten Ablauf oder eine andere Aktivität. Gleichen Sie einen unsicheren oder nicht überprüften Ablauf nicht dadurch aus, dass Sie die Lernenden bitten, ein höheres Risiko in Kauf zu nehmen.
 
@@ -22,3 +23,4 @@ Führen Sie kein Live-Modul durch, bevor nicht jede erforderliche Antwort zufrie
 
 
 <!-- micrographic: module-4-readiness-gate-01 -->
+[Acht Prüfungen umfassen Zweck, Kompetenz, Fähigkeiten der Lehrkraft, Werkzeuge, lokale Vorschriften, Sicherheit, Zugang und Beobachtung. Jede Prüfung muss für eine Live-Durchführung zufriedenstellend ausfallen; eine Lücke führt zu einem sichereren Weg oder einem überarbeiteten Plan und einer erneuten Bereitschaftsprüfung.](/micrographics/module-4-readiness-gate-01/de.md)

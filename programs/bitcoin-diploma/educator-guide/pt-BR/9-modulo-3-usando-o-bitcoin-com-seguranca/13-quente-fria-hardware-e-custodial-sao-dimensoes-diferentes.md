@@ -11,6 +11,7 @@ Uma carteira Lightning pode ser custodial ou autocustodial. Uma [Carteira Hardwa
 
 
 <!-- micrographic: hot-and-cold-wallets-01 -->
+[Uma carteira quente mantém as chaves de assinatura em um dispositivo conectado à internet, como um celular; uma configuração fria as mantém longe de qualquer dispositivo conectado. Quem controla as chaves é uma questão à parte.](/micrographics/hot-and-cold-wallets-01/pt-BR.md)
 
 
 Peça aos alunos que escolham uma ferramenta para uma finalidade fictícia e, em seguida, exija que indiquem o benefício e o novo risco. Não peça que escolham para os seus recursos reais.

@@ -4,12 +4,14 @@ Use three people with mismatched goods and wants. First, let the group attempt d
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina has rice and wants shoes, Luis has shoes and wants cooking oil, and Mei has cooking oil and wants repair work. No pair can trade directly, because neither person in a pair wants what the other offers.](/micrographics/barter-mismatch-01/en.md)
 
 
 Then introduce a commonly accepted medium.
 
 
 <!-- micrographic: sell-then-buy-01 -->
+[Amina sells rice to one person for a commonly accepted money, then later uses that money to buy shoes from someone else. Selling and buying become separate actions.](/micrographics/sell-then-buy-01/en.md)
 
 
 Ask:

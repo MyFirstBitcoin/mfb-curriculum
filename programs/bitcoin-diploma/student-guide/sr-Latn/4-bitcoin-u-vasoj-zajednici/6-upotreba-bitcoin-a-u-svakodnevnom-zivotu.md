@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: daily-bitcoin-uses-01 -->
+[Sedam različitih načina na koje se Bitcoin može koristiti u svakodnevnom životu: zarađivanje, štednja, primanje, slanje, trošenje, doniranje, kao i određivanje cena i računovodstvo. Svaki od njih predstavlja moguću upotrebu, a ne obavezan korak.](/micrographics/daily-bitcoin-uses-01/sr-Latn.md)
 
 
 Bitcoin može da funkcioniše kao novac na više načina. Trošenje je samo jedan od njih.

@@ -1,6 +1,7 @@
 # Creëer een veilige, actieve klas
 
-> **Callout – Bescherm leerlingen voordat praktische activiteiten beginnen**
+<!-- card: callout -->
+> **Bescherm leerlingen voordat praktische activiteiten beginnen**
 >
 > Vraag, bekijk, fotografeer, kopieer, noteer of bewaar nooit een echte seed phrase, Privé sleutel, wachtwoord of onnodige financiële informatie. Zet niemand onder druk om bitcoin te kopen, verkopen, aan te houden of te gebruiken. Pauzeer zodra een leerling onzeker is, onder druk staat of mogelijk wordt blootgesteld aan oplichting.
 

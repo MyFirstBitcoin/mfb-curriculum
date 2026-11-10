@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: presentation-practice-production-01 -->
+[Egy gyakorlati készség elsajátítása három szakaszban történik, balról jobbra: Bemutatás, amelynek során az oktató bemutatja a folyamatot és annak kockázatait, majd Gyakorlás, azaz irányított gyakorlás biztonságos oktatási anyagokkal, végül Önálló alkalmazás, amelynek során a tanuló önállóan végez el egy feladatot vagy indokol meg egy döntést.](/micrographics/presentation-practice-production-01/hu.md)
 
 
 A műhelymunka az alábbiakat foglalhatja magában:

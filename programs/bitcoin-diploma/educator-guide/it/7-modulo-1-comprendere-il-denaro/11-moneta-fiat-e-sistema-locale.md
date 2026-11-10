@@ -15,6 +15,7 @@ Chieda ai partecipanti di individuare:
 
 
 <!-- micrographic: fiat-system-flows-01 -->
+[Gli attori di un sistema fiat e ciò che passa tra di loro: la banca centrale definisce la politica monetaria e regola i pagamenti tra le banche, le banche commerciali detengono depositi che costituiscono una loro passività verso i clienti, i servizi di pagamento trasmettono le istruzioni, lo Stato riscuote le imposte e spende, e cittadini e imprese pagano e ricevono pagamenti.](/micrographics/fiat-system-flows-01/it.md)
 
 
 Sia pronto a spiegare il sistema locale. Indichi quali dettagli sono generali e quali sono specifici della giurisdizione. Inviti a condividere esperienze diverse, comprese realtà basate sul contante e con scarso accesso ai servizi bancari, senza trasformare la discussione in una conclusione politica.

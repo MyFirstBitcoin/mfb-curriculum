@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[Trgovec, ki sprejema Bitcoin, deluje na štirih področjih: trženje, usposabljanje, računovodstvo in prodaja.](/micrographics/merchant-payment-operations-01/sl.md)
 
 
 Trgovec potrebuje več kot le gumb za prejemanje plačil. Celoten plačilni postopek lahko vključuje določanje cen, usposabljanje osebja, potrdila o plačilu, vračila, [skrbništvo](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), menjavo valut, računovodstvo, davke, varnost naprav in podporo.

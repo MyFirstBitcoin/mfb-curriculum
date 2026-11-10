@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: self-custody-responsibilities-01 -->
+[El control de las claves está en el centro de ocho responsabilidades: copia de seguridad, recuperación, recepción, envío, elección de herramientas, vía de adquisición, privacidad y detección de estafas. Cada una protege algo, y una falla en cualquiera de ellas puede costarle el acceso, dinero o privacidad.](/micrographics/self-custody-responsibilities-01/es-419.md)
 
 
 
 <!-- micrographic: responsibility-checks-01 -->
+[Una tabla de seis tareas de autocustodia, qué proteger o verificar en cada una y qué puede suceder si algo sale mal: respaldo, recepción, envío, custodia, elección de herramientas y adquisición.](/micrographics/responsibility-checks-01/es-419.md)
 
 
 Imagine que un amigo le envía una solicitud de pago mientras una cuenta de soporte que usted no reconoce le dice que debe actuar de inmediato. ¿Qué podría verificar antes de hacer algo? ¿Puede proteger un plan de recuperación, distinguir la información para recibir pagos de la información secreta y verificar la persona, el método de pago, el destino, el monto y la pantalla final antes de enviar? Ya sea que un servicio o usted controle las claves, el resumen práctico es el mismo: proteja la información secreta, verifique antes de aprobar, reconozca las señales de estafa y limite las consecuencias de los errores mientras aprende.

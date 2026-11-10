@@ -1,6 +1,6 @@
 # Quiz – Paano Gumagana ang Bitcoin: maikling pagsusulit
 
-## Question 1
+## Tanong 1
 
 Ginamit nang dalawang beses sa pagbabayad ang iisang digital na yunit. Dapat gawin ng sistema ang sumusunod:
 
@@ -9,11 +9,11 @@ Ginamit nang dalawang beses sa pagbabayad ang iisang digital na yunit. Dapat gaw
 * [ ] Itaas ang presyo nito
 * [ ] Alisin ang mga bayarin
 
-### Explanation
+### Paliwanag
 
 Maaaring kopyahin ang digital na impormasyon, kaya dapat pigilan ng isang sistema ng pera ang paggastos nang dalawang beses sa iisang yunit at tukuyin kung aling transaksiyon ang wasto. Balikan po ninyo ang Gabay ng Mag-aaral, Modyul 2, “Mga unang pagtatangka sa digital na pera at ang problema ng dobleng paggastos.”
 
-## Question 2
+## Tanong 2
 
 Ang desentralisasyon ng Bitcoin ay nangangahulugan ng:
 
@@ -22,11 +22,11 @@ Ang desentralisasyon ng Bitcoin ay nangangahulugan ng:
 * [ ] Malayang binabago ng mga minero ang mga tuntunin
 * [ ] Pantay na impluwensiya para sa lahat
 
-### Explanation
+### Paliwanag
 
 Ipinamamahagi ng Bitcoin ang pagberipika at pagpapatupad ng mga tuntunin sa mga independiyenteng kalahok. Hindi nangangahulugan ang desentralisasyon na iisang kompanya ang kumokontrol sa network o na pantay-pantay ang impluwensiya ng lahat. Balikan po ninyo ang Gabay ng Mag-aaral, Modyul 2, “Desentralisasyon.”
 
-## Question 3
+## Tanong 3
 
 Ang isang node ng Bitcoin ay:
 
@@ -35,11 +35,11 @@ Ang isang node ng Bitcoin ay:
 * [ ] Nag-iimbak ng bitcoin
 * [ ] Gumagarantiya ng pagbabayad
 
-### Explanation
+### Paliwanag
 
 Independiyenteng sinusuri ng mga node ang pagsunod sa mga tuntunin ng Bitcoin at tinatanggihan ang di-wastong datos. Hindi sila lumilikha ng bitcoin kapag hiniling o nag-iimbak ng bitcoin sa loob ng isang telepono. Balikan po ninyo ang Gabay ng Mag-aaral, Modyul 2, “Mga gumagamit, node, at minero.”
 
-## Question 4
+## Tanong 4
 
 Bakit tinatawag na matatag na pera ang Bitcoin?
 
@@ -48,6 +48,6 @@ Bakit tinatawag na matatag na pera ang Bitcoin?
 * [ ] Iisang kompanya ang kumokontrol dito
 * [ ] Pribado ang mga pagbabayad
 
-### Explanation
+### Paliwanag
 
 Inilalarawan ng ilan ang Bitcoin bilang matatag na pera dahil bukas sa publiko ang mga tuntunin nito sa suplay at limitado ang paglalabas nito. Isa itong paghatol na may batayan, hindi isang pangako tungkol sa presyo o pagkapribado. Balikan po ninyo ang Gabay ng Mag-aaral, Modyul 2, “Bitcoin bilang matatag na digital na pera.”

@@ -3,7 +3,8 @@
 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) y [sin KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) son vías que implican diferentes [ventajas y desventajas](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Ninguna de estas etiquetas elimina la necesidad de una evaluación cuidadosa.
 
 
-> **Callout – La privacidad no elimina los riesgos legales ni los riesgos para la seguridad física**
+<!-- card: callout -->
+> **La privacidad no elimina los riesgos legales ni los riesgos para la seguridad física**
 >
 > Ni [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) ni [sin KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) es automáticamente la mejor opción. Compare la vía concreta, consulte orientación local actualizada cuando las normas no estén claras y no infrinja la legislación local ni se exponga a peligros físicos en busca de [privacidad](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 

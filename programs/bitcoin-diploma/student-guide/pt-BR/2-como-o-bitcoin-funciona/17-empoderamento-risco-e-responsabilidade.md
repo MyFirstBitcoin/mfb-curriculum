@@ -13,6 +13,5 @@ Para quem escolhe a [autocustódia](https://curriculum.myfirstbitcoin.org/lexico
 [A autocustódia](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) não é, portanto, apenas um recurso técnico. Ela exige proteger os backups, verificar endereços, conferir o comportamento da carteira e criar um plano de recuperação. O próximo módulo explica como guardar e usar bitcoin com cuidado, incluindo como gerenciar esses riscos e responsabilidades.
 
 
-> **Light**
->
+<!-- card: light -->
 > Responsabilidade pessoal não significa agir sozinho nem recusar ajuda. Um estudante cauteloso pode recorrer à educação, à revisão por pares, a procedimentos documentados e a pequenos testes, sem dar a ninguém acesso a informações secretas.

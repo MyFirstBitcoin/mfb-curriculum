@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: daily-bitcoin-uses-01 -->
+[Bảy cách khác nhau để sử dụng Bitcoin trong cuộc sống hằng ngày: kiếm tiền, tiết kiệm, nhận tiền, gửi tiền, chi tiêu, quyên góp, và định giá và kế toán. Mỗi cách là một lựa chọn sử dụng, không phải một bước bắt buộc.](/micrographics/daily-bitcoin-uses-01/vi.md)
 
 
 Bitcoin có thể đóng vai trò là tiền theo nhiều cách. Chi tiêu chỉ là một trong số đó.

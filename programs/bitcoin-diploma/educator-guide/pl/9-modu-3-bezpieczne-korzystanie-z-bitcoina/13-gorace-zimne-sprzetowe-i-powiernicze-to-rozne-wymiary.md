@@ -11,6 +11,7 @@ Portfel Lightning może być powierniczy lub niepowierniczy. Nawet [portfel sprz
 
 
 <!-- micrographic: hot-and-cold-wallets-01 -->
+[Gorący portfel przechowuje klucze do podpisywania na urządzeniu połączonym z internetem, takim jak telefon; zimny portfel przechowuje je z dala od wszelkich urządzeń połączonych z internetem. To, kto kontroluje klucze, jest osobną kwestią.](/micrographics/hot-and-cold-wallets-01/pl.md)
 
 
 Proszę polecić osobom uczącym się wybór narzędzia do wymyślonego celu, a następnie wymagać od nich wskazania korzyści i nowego ryzyka. Proszę nie prosić ich o dokonanie wyboru dla ich rzeczywistych środków.

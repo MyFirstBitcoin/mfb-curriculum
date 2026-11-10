@@ -9,6 +9,7 @@ Utilice un recurso local limitado para distinguir cuatro ideas:
 
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Una persona con dinero limitado para sus compras observa las opciones que tiene delante: comida para hoy, transporte o ahorrar para después. Elegir una implica renunciar a las demás, lo que constituye el costo de oportunidad, y ninguna opción está marcada como la correcta.](/micrographics/one-choice-two-uses-01/es-419.md)
 
 
 Pida a los estudiantes que expliquen por qué la rareza por sí sola no crea [valor](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Un objeto raro que no tiene utilidad ni demanda puede seguir sin interesarle a nadie.

@@ -8,6 +8,7 @@ Povezivanje ravnopravnih sudionika ne znači uvijek da samo dva računala izravn
 
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[Pošiljatelj potpisuje transakciju i emitira je brojnim mrežnim čvorovima, koji je prosljeđuju dok ne stigne do primatelja. Nijedan središnji operator mreže Bitcoin ne mora odobriti pošiljatelja ni primatelja.](/micrographics/peer-to-peer-route-01/hr.md)
 
 
 Korisnici i dalje mogu odabrati [posrednike](https://curriculum.myfirstbitcoin.org/lexicon/en/#intermediary). Burza može držati bitcoin za klijente. Usluga plaćanja može pojednostavniti izdavanje računa. Novčanik kojim upravlja pružatelj usluge može upravljati ključevima. Te usluge mogu biti praktične, ali korisnik tada ovisi o pravilima i sigurnosti pružatelja usluge.

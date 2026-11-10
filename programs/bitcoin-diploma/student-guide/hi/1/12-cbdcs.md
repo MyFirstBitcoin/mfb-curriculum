@@ -1,5 +1,6 @@
 # 1.12 केंद्रीय बैंक डिजिटल मुद्राएँ (CBDCs)
 
+<!-- card: definition -->
 > **Definition – केंद्रीय बैंक डिजिटल मुद्रा (CBDC)**
 >
 > एक [केंद्रीय बैंक डिजिटल मुद्रा](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), या [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), एक डिजिटल रूप है [फिएट मुद्रा का](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) जिसे जारी किया जाता है एक [देयता](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability) के रूप में एक [केंद्रीय बैंक द्वारा](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank): यह एक ऐसा दावा है जिसका भुगतान [केंद्रीय बैंक](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) को इसके धारक को करना होता है। यह भौतिक नकदी और सामान्य वाणिज्यिक बैंक जमा से अलग है, हालाँकि उपयोगकर्ता का अनुभव मिलता-जुलता लग सकता है।
@@ -13,6 +14,7 @@
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[नकद, बैंक जमा, खुदरा CBDC और बिटकॉइन की तुलना करती एक तालिका, जिसमें इनके जारीकर्ता, रूप, पहुँच, भुगतान की दृश्यता, आपूर्ति के नियम और सत्यापन शामिल हैं। डिजिटल होने का अर्थ विकेंद्रीकृत होना नहीं है: CBDC भी केंद्रीय बैंक द्वारा ही जारी की जाती है, और इसकी पहुँच, भुगतान की दृश्यता और सत्यापन इसके डिज़ाइन पर निर्भर करते हैं।](/micrographics/cbdc-comparison-table-01/hi.md)
 
 
 डिजिटल होने का अर्थ अपने-आप विकेंद्रीकृत, दुर्लभ, निजी या स्वतंत्र सत्यापन के लिए खुला होना नहीं है। एक [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) डिजिटल तकनीक का उपयोग कर सकती है, लेकिन वह फिर भी बनी रहती है [फिएट मुद्रा](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) यदि इसके [जारीकर्ता](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer), आपूर्ति के नियम, पहुँच के नियम और भुगतान की अनुमतियाँ केंद्रीय रूप से प्रबंधित होते रहें।

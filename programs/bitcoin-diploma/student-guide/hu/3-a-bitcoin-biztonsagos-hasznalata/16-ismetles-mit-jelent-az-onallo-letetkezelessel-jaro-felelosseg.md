@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: self-custody-responsibilities-01 -->
+[A kulcsok feletti ellenőrzés nyolc felelősségi terület középpontjában áll: biztonsági mentés, helyreállítás, fogadás, küldés, eszközválasztás, beszerzési mód, adatvédelem és a csalások kiszűrése. Mindegyik véd valamit, és bármelyik területen elkövetett hiba a hozzáférés, a pénz vagy a magánszféra elvesztésével járhat.](/micrographics/self-custody-responsibilities-01/hu.md)
 
 
 
 <!-- micrographic: responsibility-checks-01 -->
+[Táblázat a saját kulcskezeléssel járó hat feladatról, az egyes feladatoknál védendő vagy ellenőrizendő dolgokról és a lehetséges problémák következményeiről: biztonsági mentés, fogadás, küldés, kulcsok őrzése, eszközválasztás és beszerzés.](/micrographics/responsibility-checks-01/hu.md)
 
 
 Képzelje el, hogy egy barátja fizetési kérelmet küld Önnek, miközben egy ismeretlen ügyfélszolgálati fiók azt állítja, hogy azonnal cselekednie kell. Mit ellenőrizhetne, mielőtt bármit tenne? Meg tudja védeni a helyreállítási tervét, meg tudja különböztetni a fogadáshoz szükséges adatokat a titkos adatoktól, és tudja ellenőrizni a személyt, a fizetési módot, a célcímet, az összeget és a végső képernyőt a küldés előtt? Akár egy szolgáltató, akár Ön rendelkezik a kulcsok felett, a gyakorlati összefoglaló ugyanaz: védje a titkos adatokat, ellenőrizzen jóváhagyás előtt, ismerje fel a csalásra utaló jeleket, és tanulás közben ügyeljen arra, hogy a hibák következményei csekélyek maradjanak.

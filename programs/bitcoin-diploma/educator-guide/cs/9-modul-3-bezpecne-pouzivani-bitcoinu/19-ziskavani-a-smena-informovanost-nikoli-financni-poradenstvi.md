@@ -24,6 +24,7 @@ U každého způsobu se ptejte:
 
 
 <!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Jedna osoba může získat bitcoin čtyřmi různými způsoby: vydělat si ho prací nebo prodejem, směnit místní hotovost s jinou osobou, využít směnárnu či zprostředkovatele nebo použít bankomat. Každá cesta končí vlastní správou nebo zůstatkem u správce a žádná z nich není doporučována více než ostatní.](/micrographics/ways-to-receive-bitcoin-01/cs.md)
 
 
 Používejte označení [**no-KYC**](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) důsledně pro způsob, při němž se shromažďuje méně standardních identifikačních údajů nebo žádné. Nenaznačujte, že [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) odstraňuje riziko podvodu, právní riziko, riziko protistrany nebo riziko pro osobní bezpečnost. Nedoporučujte obcházení místních právních předpisů.

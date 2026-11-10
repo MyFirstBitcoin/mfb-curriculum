@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: coffee-shop-payment-01 -->
+[Um pagamento em uma cafeteria em quatro etapas: o cliente faz o pedido, o atendente envia uma fatura, o cliente paga em bitcoin pelo celular e o atendente entrega o café.](/micrographics/coffee-shop-payment-01/pt-BR.md)
 
 
 Use bens e serviços conhecidos na sua região. O item exato não importa; o que importa é o raciocínio sobre o pagamento.

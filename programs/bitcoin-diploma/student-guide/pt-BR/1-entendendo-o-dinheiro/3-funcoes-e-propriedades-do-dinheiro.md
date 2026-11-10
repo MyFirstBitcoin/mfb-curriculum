@@ -14,6 +14,7 @@ Um dinheiro útil também tende a ter várias propriedades:
 
 
 <!-- micrographic: money-property-questions-01 -->
+[Sete propriedades do dinheiro útil, cada uma com uma pergunta a ser feita ao comparar formas de dinheiro: durabilidade, portabilidade, divisibilidade, fungibilidade, escassez, aceitabilidade e verificabilidade.](/micrographics/money-property-questions-01/pt-BR.md)
 
 
 Nenhuma forma de dinheiro é perfeita em todos os aspectos.
@@ -22,6 +23,7 @@ As pessoas também comparam o dinheiro por sua [**solidez**](https://curriculum.
 
 
 <!-- micrographic: functions-and-properties-01 -->
+[Duas camadas: as três funções do dinheiro (meio de troca, unidade de conta, reserva de valor) apoiam-se em sete propriedades (durabilidade, portabilidade, divisibilidade, fungibilidade, escassez, aceitabilidade e verificabilidade).](/micrographics/functions-and-properties-01/pt-BR.md)
 
 
 [O ouro](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) é durável e escasso, mas difícil de dividir e transportar para pequenos pagamentos. [O dinheiro em papel](https://curriculum.myfirstbitcoin.org/lexicon/en/#paper-cash) é portátil e aceito localmente, mas pode ser danificado e sua oferta pode se expandir. A melhor comparação depende da finalidade, do lugar e do momento.

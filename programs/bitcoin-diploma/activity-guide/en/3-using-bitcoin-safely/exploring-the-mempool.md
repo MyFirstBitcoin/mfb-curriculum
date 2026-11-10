@@ -58,7 +58,8 @@ Ask when an explorer is useful, what privacy trade-off a public query can create
 
 #### Notes
 
-> **Callout – Use prepared public examples only**
+<!-- card: callout -->
+> **Use prepared public examples only**
 >
 > Do not search a learner's or another person's address, transaction, balance, or payment history on a public explorer. Public searches can expose financial information and reveal interest in that data to the explorer operator.
 

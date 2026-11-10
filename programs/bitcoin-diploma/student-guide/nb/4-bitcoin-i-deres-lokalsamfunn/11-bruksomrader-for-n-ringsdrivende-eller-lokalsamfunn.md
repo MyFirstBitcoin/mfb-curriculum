@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: merchant-payment-operations-01 -->
+[En næringsdrivende som tar imot Bitcoin, arbeider innen fire områder: markedsføring, opplæring, regnskap og salg.](/micrographics/merchant-payment-operations-01/nb.md)
 
 
 En næringsdrivende trenger mer enn en mottaksknapp. Hele betalingsprosessen kan omfatte prissetting, opplæring av ansatte, kvitteringer, refusjoner, [forvaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), veksling, regnskapsføring, skatter, enhetssikkerhet og brukerstøtte.

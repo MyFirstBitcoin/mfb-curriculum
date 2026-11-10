@@ -12,3 +12,4 @@ Herinner de cursisten aan het volgende:
 
 
 <!-- micrographic: final-safety-check-01 -->
+[Een afgevinkte laatste veiligheidschecklist: bescherm uw geheimen, controleer betalingsgegevens, test met kleine bedragen en stop bij druk. Als iets onduidelijk is, stop dan en verdiep u er eerst verder in voordat u iets doet.](/micrographics/final-safety-check-01/nl.md)

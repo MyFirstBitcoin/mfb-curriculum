@@ -8,6 +8,7 @@ Entre pares no siempre significa que solo dos computadoras se comuniquen directa
 
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[Un remitente firma una transacción y la transmite a muchos nodos de la red, que la retransmiten hasta que llega al destinatario. Ningún operador central de Bitcoin tiene que aprobar al remitente ni al destinatario.](/micrographics/peer-to-peer-route-01/es-419.md)
 
 
 Los usuarios pueden optar por recurrir a [intermediarios](https://curriculum.myfirstbitcoin.org/lexicon/en/#intermediary). Una plataforma de intercambio puede guardar bitcoin para sus clientes. Un servicio de pagos puede simplificar una factura. Una billetera alojada puede administrar las claves. Estos servicios pueden ser convenientes, pero el usuario pasa a depender de las reglas y la seguridad del servicio.

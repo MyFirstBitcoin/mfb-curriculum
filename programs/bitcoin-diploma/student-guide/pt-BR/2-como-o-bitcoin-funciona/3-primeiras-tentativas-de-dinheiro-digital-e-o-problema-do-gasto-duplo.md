@@ -11,6 +11,7 @@ O Bitcoin não foi a primeira tentativa de criar dinheiro digital. Ele foi const
 Juntos, esses experimentos revelaram peças úteis do quebra-cabeça. Eles também esclareceram o problema que restava.
 
 
+<!-- card: definition -->
 > **Definition – Gasto duplo**
 >
 > [O gasto duplo](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending) é uma tentativa de enviar a mesma unidade digital para dois destinatários. Dados digitais podem ser copiados perfeitamente, então um sistema de dinheiro digital precisa de uma forma de determinar qual [transação](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) é válida.
@@ -28,6 +29,7 @@ O whitepaper reuniu os recursos necessários para essa abordagem:
 
 
 <!-- micrographic: five-part-response-01 -->
+[Cinco partes se combinam para responder ao problema do gasto duplo: uma rede ponto a ponto, assinaturas digitais, blocos e mineração, verificação independente e um histórico compartilhado com a maior prova de trabalho acumulada. Juntas, elas permitem que a rede rejeite um segundo gasto sem uma autoridade central.](/micrographics/five-part-response-01/pt-BR.md)
 
 
 Este módulo explica esses conceitos com mais detalhes. Juntos, eles deram uma resposta prática ao [problema do Gasto Duplo](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): a rede pode rejeitar uma segunda tentativa de gastar o mesmo bitcoin sem depender de uma autoridade central. O Bitcoin ofereceu a combinação que faltava e que décadas de experimentos com dinheiro digital vinham buscando.

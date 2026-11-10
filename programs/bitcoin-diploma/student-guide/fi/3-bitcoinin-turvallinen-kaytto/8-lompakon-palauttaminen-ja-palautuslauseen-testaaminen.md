@@ -8,6 +8,7 @@ Turvallinen palautusvalmiuden harjoittelu on yksinkertaista:
 
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[Kuusivaiheinen harjoitus harjoituslompakon palauttamiseen: noudattakaa virallisia ohjeita, tarkistakaa yhteensopivuus, työskennelkää yksityisesti, käyttäkää hyväksyttyä palautusmenetelmää, varmistakaa, että lompakko on odotettu, ja nollatkaa lopuksi ympäristö. Käyttäkää vain ennalta valmisteltuja, tyhjiä tai simuloituja materiaaleja. Kouluttaja ei koskaan näe palautussanoja.](/micrographics/practice-wallet-recovery-01/fi.md)
 
 
 Älkää käyttäkö harjoituslompakkoa tai sen palautustietoja merkittävien varojen turvaamiseen diplomikoulutuksen jälkeen. Jos päätätte myöhemmin luoda henkilökohtaisen lompakon, se on otettava käyttöön alusta asti yksityisesti ja sille on luotava uudet palautustiedot.

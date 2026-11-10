@@ -13,6 +13,7 @@ Làm rõ sự tách biệt giữa:
 
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Ví lưu giữ các khóa. Với các khóa này, quý vị có thể nhận và gửi bitcoin, trong khi bản thân bitcoin vẫn được ghi nhận trên sổ cái dùng chung, chứ không nằm trong điện thoại hay thiết bị.](/micrographics/wallet-manages-keys-01/vi.md)
 
 
 Đặt câu hỏi:

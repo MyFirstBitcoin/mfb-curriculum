@@ -13,3 +13,4 @@ Cada parte del Diplomado en Bitcoin tiene una función específica.
 
 
 <!-- micrographic: learning-ecosystem-map-01 -->
+[La Guía del estudiante proporciona explicaciones, la Guía del educador apoya la enseñanza y las actividades seleccionadas del Centro de recursos apoyan la práctica. La Matriz de evaluación contiene resultados de evaluación privados.](/micrographics/learning-ecosystem-map-01/es-419.md)

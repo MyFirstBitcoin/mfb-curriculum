@@ -8,6 +8,7 @@ Le pair à pair ne signifie pas toujours que seuls deux ordinateurs communiquent
 
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[Un expéditeur signe une transaction et la diffuse à de nombreux nœuds du réseau, qui la relaient jusqu’à ce qu’elle parvienne au destinataire. Aucun opérateur central de Bitcoin n’a à approuver l’expéditeur ou le destinataire.](/micrographics/peer-to-peer-route-01/fr-FR.md)
 
 
 Les utilisateurs peuvent néanmoins choisir des [intermédiaires](https://curriculum.myfirstbitcoin.org/lexicon/en/#intermediary). Une plateforme d’échange peut détenir des bitcoins pour ses clients. Un service de paiement peut simplifier une facture. Un portefeuille hébergé peut gérer les clés. Ces services peuvent être pratiques, mais l’utilisateur dépend alors des règles et de la sécurité du service.

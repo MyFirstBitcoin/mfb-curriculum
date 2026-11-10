@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: four-module-diploma-01 -->
+[Il Diploma Bitcoin segue quattro fasi, in quest'ordine: Problema, Soluzione, Azione e Connessione.](/micrographics/four-module-diploma-01/it.md)
 
 
 **Il modulo 4** è parte obbligatoria del Bitcoin Diploma ed è curato dagli educatori in qualità di esperti locali della materia. Lo scenario o lo strumento possono cambiare, ma ogni discente che aspira alla certificazione deve soddisfare `C7` attraverso un'attività locale che copra lo scopo di `C7.1` e `C7.2`.

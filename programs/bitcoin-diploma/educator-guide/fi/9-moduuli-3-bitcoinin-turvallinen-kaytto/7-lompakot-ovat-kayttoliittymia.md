@@ -13,6 +13,7 @@ Havainnollistakaa seuraavien eroa:
 
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Lompakko sisältää avaimet. Niiden avulla voitte vastaanottaa ja lähettää bitcoinia, mutta itse bitcoinit pysyvät kirjattuina yhteiseen tilikirjaan, eivät puhelimen tai laitteen sisälle.](/micrographics/wallet-manages-keys-01/fi.md)
 
 
 Kysykää:

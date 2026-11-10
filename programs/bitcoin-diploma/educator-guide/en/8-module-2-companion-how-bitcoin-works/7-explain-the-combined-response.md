@@ -10,6 +10,7 @@ Use a five-part map:
 
 
 <!-- micrographic: five-part-response-01 -->
+[Five parts combine to answer the double-spend problem: a peer-to-peer network, digital signatures, blocks and mining, independent verification, and a shared history with the most accumulated proof of work. Together they let the network reject a second spend without a central authority.](/micrographics/five-part-response-01/en.md)
 
 
 No single part creates Bitcoin's credible [scarcity](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) alone. Avoid saying “the [blockchain](https://curriculum.myfirstbitcoin.org/lexicon/en/#blockchain) solves everything.”

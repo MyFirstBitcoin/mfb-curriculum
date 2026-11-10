@@ -8,6 +8,7 @@ En sikker øvelse i at være klar til gendannelse er enkel:
 
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[En øvelse i seks trin til gendannelse af en øvelseswallet: Følg de officielle instruktioner, kontrollér kompatibiliteten, arbejd uforstyrret, brug den godkendte gendannelsesmetode, bekræft den forventede wallet, og nulstil derefter. Brug kun forberedte, tomme eller simulerede materialer. Underviseren ser aldrig gendannelsesordene.](/micrographics/practice-wallet-recovery-01/da.md)
 
 
 Brug ikke en øvelseswallet eller dens gendannelsesoplysninger til at sikre væsentlige beløb efter diplomforløbet. Hvis De senere vælger at oprette en personlig wallet, kræver den en ny, privat opsætning og nye gendannelsesoplysninger.

@@ -1,6 +1,7 @@
 # Teremtsen biztonságos, aktív tantermi környezetet
 
-> **Callout – Gondoskodjon a tanulók biztonságáról a gyakorlati tevékenység megkezdése előtt**
+<!-- card: callout -->
+> **Gondoskodjon a tanulók biztonságáról a gyakorlati tevékenység megkezdése előtt**
 >
 > Soha ne kérjen el, tekintsen meg, fényképezzen le, másoljon le, rögzítsen vagy tároljon valódi helyreállító kifejezést, privát kulcsot, jelszót vagy szükségtelen pénzügyi adatokat. Ne gyakoroljon nyomást senkire, hogy bitcoint vásároljon, adjon el, tartson vagy használjon. Tartson szünetet, ha egy tanuló bizonytalan, nyomás alatt áll, vagy esetleges csalás veszélyének van kitéve.
 

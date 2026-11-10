@@ -14,6 +14,7 @@ Gunakan batasan berikut secara tepat untuk pemula:
 
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Empat peran dalam Bitcoin: pengguna menerima, menyimpan, dan mengirim bitcoin, simpul memverifikasi aturan secara mandiri, penambang menyusun calon blok dengan bukti kerja, dan pengembang mengusulkan perangkat lunak. Tidak ada satu peran pun yang mengendalikan jaringan.](/micrographics/bitcoin-participant-roles-01/id.md)
 
 
 #### Aktivitas: blok tidak valid

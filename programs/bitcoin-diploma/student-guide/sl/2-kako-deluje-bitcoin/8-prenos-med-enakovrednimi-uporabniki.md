@@ -8,6 +8,7 @@ Povezovanje med enakovrednimi udeleženci ne pomeni vedno, da neposredno komunic
 
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[Pošiljatelj podpiše transakcijo in jo razpošlje številnim vozliščem v omrežju, ki jo posredujejo naprej, dokler ne doseže prejemnika. Nobenemu osrednjemu upravljavcu omrežja Bitcoin ni treba odobriti pošiljatelja ali prejemnika.](/micrographics/peer-to-peer-route-01/sl.md)
 
 
 Uporabniki lahko še vedno izberejo [posrednike](https://curriculum.myfirstbitcoin.org/lexicon/en/#intermediary). Menjalnica lahko hrani bitcoin za stranke. Plačilna storitev lahko poenostavi izdajanje računov. Gostovana denarnica lahko upravlja ključe. Te storitve so lahko priročne, vendar je uporabnik potem odvisen od pravil in varnosti ponudnika storitve.

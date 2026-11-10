@@ -1,5 +1,6 @@
 # 3.6 Používání se správou třetí stranou a s vlastní správou
 
+<!-- card: definition -->
 > **Definition – Správa prostředků**
 >
 > [Správa prostředků](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) odpovídá na praktickou otázku: kdo ovládá klíče potřebné k utrácení bitcoinů?
@@ -15,10 +16,12 @@ V **nesprávcovské** neboli **uživatelem spravované** peněžence ovládáte 
 
 
 <!-- micrographic: who-controls-keys-01 -->
+[Při úschově u poskytovatele má poskytovatel kontrolu nad klíči a schvaluje platby, takže zůstatek je jeho příslibem. Při vlastní úschově má uživatel kontrolu nad klíči a zálohami; oba způsoby mají své závislosti a rizika selhání.](/micrographics/who-controls-keys-01/cs.md)
 
 
 
 <!-- micrographic: custody-comparison-table-01 -->
+[Tabulka porovnávající používání se správou třetí stranou a s vlastní správou: kdo drží klíče, kdo zajišťuje obnovení přístupu a jaký je hlavní kompromis u každého z nich. Ani jeden model není bez rizika.](/micrographics/custody-comparison-table-01/cs.md)
 
 
 [Správa prostředků](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) není z uživatelského rozhraní vždy zřejmá. Pokud nemáte kontrolu nad způsobem obnovení přístupu a potřebujete, aby společnost schválila výběr, pravděpodobně využíváte [správce](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian). [Vlastní správa prostředků](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) není zkouškou vaší osobní hodnoty; důležité je rozpoznat, komu důvěřujete a jaká rizika podstupujete.

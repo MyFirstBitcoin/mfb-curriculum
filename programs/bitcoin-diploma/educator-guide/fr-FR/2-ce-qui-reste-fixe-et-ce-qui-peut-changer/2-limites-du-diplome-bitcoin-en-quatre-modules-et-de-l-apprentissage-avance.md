@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: four-module-diploma-01 -->
+[Le diplôme Bitcoin suit quatre étapes dans l’ordre : Problème, Solution, Action et Connexion.](/micrographics/four-module-diploma-01/fr-FR.md)
 
 
 **Le module 4** fait partie des apprentissages obligatoires du diplôme Bitcoin. Son contenu est sélectionné par les enseignants en tant qu’experts locaux du domaine. Le scénario ou l’outil peut changer, mais chaque apprenant souhaitant obtenir la certification doit satisfaire à `C7` au moyen d’une activité locale qui couvre les objectifs de `C7.1` et `C7.2`.

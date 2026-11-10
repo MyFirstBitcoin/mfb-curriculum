@@ -4,6 +4,7 @@
 
 
 <!-- micrographic: daily-bitcoin-uses-01 -->
+[Sette modi distinti in cui Bitcoin può essere usato nella vita quotidiana: guadagnare, risparmiare, ricevere, inviare, spendere, donare, fissare i prezzi e tenere la contabilità. Ciascuno è un possibile utilizzo, non un passaggio obbligatorio.](/micrographics/daily-bitcoin-uses-01/it.md)
 
 
 Bitcoin può funzionare come denaro in diversi modi. Spendere è solo uno di questi.

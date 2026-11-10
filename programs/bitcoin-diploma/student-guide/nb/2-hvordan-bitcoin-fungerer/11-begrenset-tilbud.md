@@ -3,6 +3,7 @@
 Bitcoins regler fastsetter en forutsigbar [utstedelsesplan](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuance-schedule) og en [maksimal mengde](https://curriculum.myfirstbitcoin.org/lexicon/en/#maximum-supply) på 21 millioner bitcoin (21 000 000 BTC). Nye bitcoin settes i omløp gjennom [blokktilskuddet](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-subsidy) som utbetales til [utvinnere](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) som produserer gyldige blokker.
 
 
+<!-- card: definition -->
 > **Definition – Halvering**
 >
 > For hver 210 000 blokker halveres tilskuddet. Denne hendelsen kalles en [halvering](https://curriculum.myfirstbitcoin.org/lexicon/en/#halving). Fordi blokker produseres omtrent hvert tiende minutt i gjennomsnitt, vil en [halvering](https://curriculum.myfirstbitcoin.org/lexicon/en/#halving) finne sted omtrent hvert fjerde år. Den nøyaktige kalenderdatoen er ikke fastsatt.
@@ -22,12 +23,14 @@ Tilskuddet startet på 50 BTC per blokk. Det halveres trinnvis til det blir for 
 
 
 <!-- micrographic: bitcoin-issuance-schedule-01 -->
+[Blokksubsidiet starter på 50 bitcoin og halveres hver 210 000. blokk, mens det totale antallet utstedte bitcoin stiger mot grensen på 21 millioner. Transaksjonsgebyrer betales i tillegg og er ikke nye bitcoin; dette innebærer ingen prisprognose.](/micrographics/bitcoin-issuance-schedule-01/nb.md)
 
 
 Grensen på 21 millioner håndheves av [noder](https://curriculum.myfirstbitcoin.org/lexicon/en/#node). Hvis en [utvinner](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) skaper flere bitcoin enn reglene tillater, vil [validerende noder](https://curriculum.myfirstbitcoin.org/lexicon/en/#full-node) avvise blokken. En programvareutvikler kan skrive annen kode, men kan ikke tvinge andre til å kjøre den.
 
 
-> **Dark – En fast pengemengde er en nettverksregel, ikke et prisløfte**
+<!-- card: dark -->
+> **En fast pengemengde er en nettverksregel, ikke et prisløfte**
 >
 > Bitcoins regel for pengemengden er offentlig, kan verifiseres uavhengig og er vanskelig for én part å endre fordi [validerende noder](https://curriculum.myfirstbitcoin.org/lexicon/en/#full-node) håndhever den. Det er ikke en naturlov: Den forblir virksom så lenge deltakerne fortsetter å håndheve den. En begrenset pengemengde garanterer ikke en økning i markedets [pris](https://curriculum.myfirstbitcoin.org/lexicon/en/#price); [prisen](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) avhenger også av etterspørselen.
 >
@@ -37,8 +40,7 @@ Grensen på 21 millioner håndheves av [noder](https://curriculum.myfirstbitcoin
 **Kontrollspørsmål:** Hva er fordelene ved at Bitcoin har en begrenset pengemengde? Hvilken virkning ville en økning i Bitcoins pengemengde ha på [kjøpekraften](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power)? Hvem ville avvise en økning i pengemengden?
 
 
-> **Light**
->
+<!-- card: light -->
 > En begrenset pengemengde betyr heller ikke at hver bitcoin er tilgjengelig for salg; noen kan beholdes over lang tid eller bli utilgjengelige fordi nøkler har gått tapt.
 
 

@@ -13,6 +13,7 @@ Montrez la distinction entre :
 
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Un portefeuille contient les clés. Grâce à elles, vous pouvez recevoir et envoyer du bitcoin, tandis que le bitcoin lui-même reste inscrit sur le registre partagé, et non dans le téléphone ou l’appareil.](/micrographics/wallet-manages-keys-01/fr-FR.md)
 
 
 Posez les questions suivantes :

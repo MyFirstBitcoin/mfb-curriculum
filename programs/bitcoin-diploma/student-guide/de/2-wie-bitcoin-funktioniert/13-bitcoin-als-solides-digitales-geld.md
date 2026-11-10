@@ -6,6 +6,7 @@ Bitcoin vereint in einem einzigen [Vermögenswert](https://curriculum.myfirstbit
 
 
 <!-- micrographic: bitcoin-money-properties-01 -->
+[Bitcoin vereint sieben Eigenschaften von Geld in einem einzigen Vermögenswert: Haltbarkeit, Übertragbarkeit, Teilbarkeit, Fungibilität, Knappheit, Überprüfbarkeit und Akzeptanz. Jede davon hat praktische Grenzen, etwa die sichere Aufbewahrung der Schlüssel oder die in vielen Gemeinschaften noch geringe Akzeptanz.](/micrographics/bitcoin-money-properties-01/de.md)
 
 
 

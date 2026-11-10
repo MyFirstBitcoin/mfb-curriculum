@@ -32,3 +32,4 @@ Ette saa:
 
 
 <!-- micrographic: fixed-adaptable-flexible-01 -->
+[Paikallisia esimerkkejä ja opetusmenetelmiä voi muuttaa osaamista, osaamisen osoittamista, turvallisuutta ja suorittamista koskevien kiinteiden rajojen sisällä. Arviointiin vaikuttavat muutokset edellyttävät hyväksyttyä vastaavaa suoritustapaa, jossa oppijan toiminta ja turvallisuustavoite säilyvät samoina.](/micrographics/fixed-adaptable-flexible-01/fi.md)

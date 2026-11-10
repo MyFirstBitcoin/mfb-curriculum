@@ -10,6 +10,7 @@ Bitcoin werd gecreëerd om dit probleem op te lossen met een [Peer-to-Peer-netwe
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Bij een betalingsbedrijf houdt één organisatie het grootboek bij en keurt zij elke overboeking goed. Bij Bitcoin ondertekent de verzender een transactie, controleren onafhankelijke Nodes deze en voegen miners deze toe aan één gedeeld grootboek, waardoor de ontvanger minder afhankelijk is van een centrale autoriteit.](/micrographics/central-ledger-vs-bitcoin-01/nl.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)

@@ -22,6 +22,7 @@ Jokainen moduuli noudattaa samaa rytmiä:
 
 
 <!-- micrographic: learning-rhythm-strip-01 -->
+[Viisivaiheinen oppimisrytmi: oppikaa keskeinen ajatus, osoittakaa, mitä osaatte selittää tai soveltaa, soveltakaa ajatusta, selittäkää se omin sanoin ja tarkastelkaa, miten se liittyy seuraavaan moduuliin.](/micrographics/learning-rhythm-strip-01/fi.md)
 
 
 Opitte enemmän osallistumalla kuin lukemalla hiljaa. Joihinkin kysymyksiin ei ole yhtä oikeaa vastausta. Olennaista on, osaatteko perustella näkemyksenne, tarkastella näyttöä ja muuttaa näkemystänne oppiessanne jotakin uutta.
@@ -81,7 +82,8 @@ Kun on aika harjoitella [Bitcoin-lompakon käyttöä](https://curriculum.myfirst
 ### Turvallisuus, vastuullisuus ja talousneuvonnan ulkopuolelle rajautuminen
 
 
-> **Callout – Oppikaa ensin; tämä ei ole suositus**
+<!-- card: callout -->
+> **Oppikaa ensin; tämä ei ole suositus**
 >
 > Bitcoin-diplomi on tarkoitettu vain opetuskäyttöön. Se ei tarjoa talous-, sijoitus-, laki- tai veroneuvontaa. Se ei lupaa bitcoinin nousevan [hinnaltaan](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) eikä suosittele, että ostatte, myytte, käytätte lainan vakuutena tai pidätte hallussanne mitään määrää bitcoinia.
 >
@@ -104,6 +106,7 @@ Diplomikoulutus koostuu nelivaiheisesta oppimiskaaresta: **Ongelma → Ratkaisu 
 
 
 <!-- micrographic: learning-path-roadmap-01 -->
+[Nelivaiheinen tiekartta: Ongelma, Rahan ymmärtäminen; Ratkaisu, Miten Bitcoin toimii; Toiminta, Bitcoinin turvallinen käyttö; ja Yhteys, Bitcoin yhteisössänne. Kuhunkin vaiheeseen liittyy ohjaava kysymys.](/micrographics/learning-path-roadmap-01/fi.md)
 
 
 **Moduuli 4** on pakollinen osa diplomikoulutusta, ja kouluttaja suunnittelee sen sisällön. Kouluttajat ovat opiskelijoidensa paikallisten rajoitteiden, ratkaisujen, työkalujen, resurssien, lakien, kielen, infrastruktuurin ja tarpeiden asiantuntijoita. Kouluttajan suunnittelema Yhdistäminen-vaihe voi sisältää ansaitsemista, säästämistä, maksujen vastaanottamista ja tekemistä, [toisen kerroksen](https://curriculum.myfirstbitcoin.org/lexicon/en/#layer-2) ratkaisuja, paikallisia vaihtokanavia, kauppiaita tai kiertotalouksia.
@@ -118,6 +121,7 @@ Neljä moduulia muodostavat vaaditun Ongelma → Ratkaisu → Toiminta → Yhdis
 
 
 <!-- micrographic: four-module-table-01 -->
+[Taulukko neljästä moduulista sekä kunkin roolista, ohjaavasta kysymyksestä ja siitä, mitä oppija harjoittelee: Rahan ymmärtäminen, Miten Bitcoin toimii, Bitcoinin turvallinen käyttö ja Bitcoin yhteisössänne.](/micrographics/four-module-table-01/fi.md)
 
 
 Diplomikoulutus kestää vähintään kahdeksan tuntia. Neljä kahden tunnin opetuskertaa on lyhin suunniteltu toteutustapa, ei aikaraja. Kouluttajanne voi jakaa moduulin useammalle opetuskerralle, palata aiempaan ajatukseen tai muuttaa yksittäisten osioiden järjestystä, kun ryhmänne tarvitsee enemmän aikaa keskusteluun, harjoitteluun, kertaukseen tai arviointiin. Enimmäiskestoa ei ole: kouluttajan vastuulla on edelleen antaa oppijoille heidän tarvitsemansa aika, käsitellä kaikki vaaditut osaamisalueet ja tehdä moduulien väliset yhteydet selviksi.

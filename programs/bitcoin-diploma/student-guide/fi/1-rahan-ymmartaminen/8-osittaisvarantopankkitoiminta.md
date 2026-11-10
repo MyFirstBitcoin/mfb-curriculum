@@ -6,11 +6,13 @@ Kun liikepankki hyväksyy lainan, se luo yleensä uuden talletuksen lainanottaja
 
 
 <!-- micrographic: bank-loan-deposit-01 -->
+[Pankkilaina yksinkertaistettuna: lainanottaja hakee lainaa, pankki hyväksyy lainan ja kirjaa lainanottajan tilille uuden talletuksen, ja lainanottaja maksaa myöhemmin pankille takaisin lainapääoman korkoineen.](/micrographics/bank-loan-deposit-01/fi.md)
 
 
 Pankit tavoittelevat yleensä [voittoa](https://curriculum.myfirstbitcoin.org/lexicon/en/#bank-profit) ansaitsemalla korkoja ja palkkioita lainoista ja sijoituksista. Samalla ne maksavat toiminnasta, rahoituksesta ja sääntelystä aiheutuvat kustannuksensa ja kantavat tappiot, kun lainanottajat eivät maksa lainojaan takaisin. Nämä toiminnot ja rajoitteet vaihtelevat pankeittain ja lainkäyttöalueittain.
 
 
+<!-- card: definition -->
 > **Definition – Osittaisvarantojärjestelmä**
 >
 > [Osittaisvarantojärjestelmä](https://curriculum.myfirstbitcoin.org/lexicon/en/#fractional-reserve-banking) tarkoittaa pankkitoimintaa, jossa pankit pitävät vain osan talletusveloistaan välittömästi käytettävissä olevina reserveinä ja samalla myöntävät lainoja ja pitävät hallussaan muita [varoja](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset). Vaadittu reservien taso ja muut rajoitukset vaihtelevat maittain ja voivat muuttua ajan myötä.
@@ -23,6 +25,7 @@ Tästä syntyy kaksi merkittävää riskiä:
 
 
 <!-- micrographic: liquidity-vs-solvency-01 -->
+[Maksuvalmiusriski: monet tallettajat jonottavat nostaakseen rahansa tänään, eikä pankilla ole nyt riittävästi käteistä, vaikka sen myöntämät lainat saatetaan maksaa takaisin myöhemmin. Vakavaraisuusriski: lainanottajat jättävät asuntolainansa maksamatta, ja pankin varojen arvo laskee sen velkojen määrää pienemmäksi.](/micrographics/liquidity-vs-solvency-01/fi.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)

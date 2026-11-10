@@ -4,6 +4,7 @@ Enseñe [la inflación de precios](https://curriculum.myfirstbitcoin.org/lexicon
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Las mismas 100 unidades monetarias alcanzan para comprar la canasta completa de productos básicos cuando cuesta 100, pero no cuando la misma canasta cuesta 110. El nivel de precios ha subido y el poder adquisitivo del dinero ha disminuido.](/micrographics/same-money-smaller-basket-01/es-419.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)

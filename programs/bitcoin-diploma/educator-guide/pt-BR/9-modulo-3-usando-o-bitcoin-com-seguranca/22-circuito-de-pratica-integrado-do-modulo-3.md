@@ -19,3 +19,4 @@ Não use as estações como avaliação formal, a menos que as tarefas exatas, a
 
 
 <!-- micrographic: practice-circuit-stations-01 -->
+[Os alunos fazem um rodízio por oito estações de prática: custódia, público ou secreto, receber, enviar, recuperação, explorador, golpe e trilha. Uma faixa de observação separada segue um percurso aprovado, para que a prática em grupo nunca seja confundida com a avaliação formal.](/micrographics/practice-circuit-stations-01/pt-BR.md)

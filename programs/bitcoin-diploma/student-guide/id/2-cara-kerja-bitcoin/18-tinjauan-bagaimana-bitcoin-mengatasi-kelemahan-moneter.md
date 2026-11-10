@@ -4,6 +4,7 @@ Berhentilah sejenak dan pertimbangkan bagaimana aturan yang terbuka untuk umum, 
 
 
 <!-- micrographic: bitcoin-responses-tradeoffs-01 -->
+[Tabel yang memasangkan lima potensi kelemahan sistem uang modern dengan respons Bitcoin serta tanggung jawab atau kompromi baru yang ditimbulkan oleh setiap respons. Bitcoin menggantikan sebagian kepercayaan terhadap lembaga dengan verifikasi dan tanggung jawab pribadi, tetapi tidak menghilangkan risiko.](/micrographics/bitcoin-responses-tradeoffs-01/id.md)
 
 
 **Pokok pemikiran:** Berdasarkan apa yang telah Anda pelajari tentang Bitcoin dalam modul ini, apakah Bitcoin memiliki [nilai](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) bagi Anda? Apakah [harga](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) bitcoin saat ini mencerminkan [nilainya](https://curriculum.myfirstbitcoin.org/lexicon/en/#value)?

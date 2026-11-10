@@ -15,6 +15,7 @@ Utilizzi una sequenza di pausa e verifica:
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Prima di approvare un pagamento, chi invia verifica il destinatario e lo scopo, il metodo di pagamento, la destinazione e l'importo, l'unità, la commissione o la scadenza, effettuando un piccolo test se la procedura non è familiare. Se qualcosa non corrisponde, si ferma e verifica; approva solo quando tutto corrisponde, poi controlla il risultato.](/micrographics/pre-send-checklist-01/it.md)
 
 
 Insegni ai partecipanti a fermarsi se il destinatario cambia la destinazione inaspettatamente, scoraggia la verifica, crea urgenza o chiede informazioni di recupero.

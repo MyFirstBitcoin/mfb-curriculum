@@ -3,6 +3,7 @@
 Kaynaklar sınırlıdır, insan istekleri ise sınırsızdır.
 
 
+<!-- card: definition -->
 > **Definition – Kıtlık**
 >
 > [Kıtlık](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity), bir kaynağın bir kullanımını seçmenin başka bir kullanımı engellemesi anlamına gelir. Zaman, toprak, enerji, sağlık, aletler ve [sağlam para](https://curriculum.myfirstbitcoin.org/lexicon/en/#sound-money) kıttır.
@@ -14,6 +15,7 @@ Bir malın [değeri](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) ne
 
 
 <!-- micrographic: same-water-different-value-01 -->
+[Aynı şişe temiz su, suyun kolayca bulunabildiği bir mağazanın buzdolabında ucuzdur; kıtlık sırasında sıcak bir çölde ise çok daha değerlidir. Bulunabilirlik, ihtiyaç ve koşullar değeri ve fiyatı değiştirir.](/micrographics/same-water-different-value-01/tr.md)
 
 
 Değişim, her iki taraf da aldığı şeyi verdiği şeye tercih ettiğinde gerçekleşir. Tarafların, iki şeyin aynı kişisel [değere](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) sahip olduğu konusunda hemfikir olmaları gerekmez. Yalnızca koşullar üzerinde anlaşmaları yeterlidir.
@@ -26,6 +28,7 @@ Değişim, her iki taraf da aldığı şeyi verdiği şeye tercih ettiğinde ger
 
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Parası kısıtlı bir alışverişçi önündeki seçeneklere bakıyor: bugün için yiyecek, ulaşım ya da sonrası için birikim. Birini seçmek diğerlerinden vazgeçmek anlamına gelir; bu da fırsat maliyetidir. Hiçbir seçenek doğru seçenek olarak işaretlenmemiştir.](/micrographics/one-choice-two-uses-01/tr.md)
 
 
 [Kıtlık](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) tek başına [değeri](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) garanti etmez. Bir şey nadir olduğu hâlde hiç talep görmeyebilir. Kullanışlı bir parasal [varlık](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset), sınırlı arzı, insanları onu elde tutmaya veya takas etmeye istekli kılan özellikler ve taleple birleştirir.

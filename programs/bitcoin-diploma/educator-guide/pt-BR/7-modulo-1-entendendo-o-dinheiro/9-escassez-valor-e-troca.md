@@ -9,6 +9,7 @@ Use um recurso local limitado para distinguir quatro ideias:
 
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Um consumidor com dinheiro limitado observa as opções à sua frente: comida para hoje, transporte ou poupar para depois. Escolher uma significa abrir mão das outras, o que é o custo de oportunidade, e nenhuma opção está marcada como a certa.](/micrographics/one-choice-two-uses-01/pt-BR.md)
 
 
 Peça aos alunos que expliquem por que a raridade, por si só, não cria [valor](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Um item raro sem uso ou demanda pode continuar sem interessar a ninguém.

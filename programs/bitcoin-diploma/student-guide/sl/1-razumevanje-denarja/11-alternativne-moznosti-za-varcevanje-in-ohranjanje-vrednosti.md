@@ -4,6 +4,7 @@ Ljudje pogosto iščejo alternative hranjenju gotovine, kadar menijo, da bo izgu
 
 
 <!-- micrographic: saving-alternatives-table-01 -->
+[Tabela treh alternativ hranjenju gotovine (plemenite kovine, nepremičnine in delnice), pri vsaki pa so navedeni razlogi, zakaj jo ljudje lahko izberejo, ter njene pomembne slabosti in omejitve. Nobena ni uvrščena nad druge.](/micrographics/saving-alternatives-table-01/sl.md)
 
 
 Premoženjsko [sredstvo](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) je nekaj, kar ima oseba lahko v lasti ali do česar ima pravico in kar ima lahko [vrednost](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); samo po sebi ne opravlja vseh funkcij denarja. Dom lahko ohranja [vrednost](https://curriculum.myfirstbitcoin.org/lexicon/en/#value), vendar ni praktičen za nakupovanje hrane. Delnico je v eni državi morda preprosto prodati, vendar je lahko nedostopna nekomu brez trgovalnega računa. [Zlato](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) je skozi dolga zgodovinska obdobja služilo kot denar, vendar je pri manjši menjavi lahko težko preveriti njegovo pristnost ali ga razdeliti.

@@ -6,6 +6,7 @@ Bitcoin kombinerer egenskaper som ikke tidligere har eksistert sammen i én [eie
 
 
 <!-- micrographic: bitcoin-money-properties-01 -->
+[Bitcoin kombinerer sju pengeegenskaper i én eiendel: holdbarhet, portabilitet, delbarhet, fungibilitet, knapphet, verifiserbarhet og aksept. Hver egenskap har praktiske begrensninger, som behovet for å oppbevare nøkler trygt og en aksept som fortsatt er lav i mange lokalsamfunn.](/micrographics/bitcoin-money-properties-01/nb.md)
 
 
 

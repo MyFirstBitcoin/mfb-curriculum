@@ -8,6 +8,7 @@ Peer-to-Peer (P2P) nu înseamnă întotdeauna că doar două calculatoare comuni
 
 
 <!-- micrographic: peer-to-peer-route-01 -->
+[Un expeditor semnează o tranzacție și o difuzează către numeroase noduri ale rețelei, care o retransmit până când ajunge la destinatar. Nu este necesar ca un operator central al rețelei Bitcoin să aprobe expeditorul sau destinatarul.](/micrographics/peer-to-peer-route-01/ro.md)
 
 
 Utilizatorii pot totuși alege [intermediari](https://curriculum.myfirstbitcoin.org/lexicon/en/#intermediary). O platformă de schimb poate păstra bitcoin pentru clienți. Un serviciu de plăți poate simplifica o factură. Un portofel găzduit poate gestiona cheile. Aceste servicii pot fi convenabile, dar utilizatorul depinde atunci de regulile și securitatea serviciului.

@@ -15,6 +15,7 @@ Suivez une procédure de pause et de vérification :
 
 
 <!-- micrographic: pre-send-checklist-01 -->
+[Avant d’approuver un paiement, la personne qui l’envoie vérifie le destinataire et le motif, le mode de paiement, la destination, ainsi que le montant, l’unité, les frais ou l’expiration, et effectue un petit test si la procédure ne lui est pas familière. Si un élément diffère, elle s’arrête et vérifie ; elle n’approuve que lorsque tout correspond, puis vérifie le résultat.](/micrographics/pre-send-checklist-01/fr-FR.md)
 
 
 Apprenez aux apprenants à s’arrêter si le destinataire change la destination de façon inattendue, décourage les vérifications, crée un sentiment d’urgence ou demande des informations de récupération.

@@ -19,3 +19,4 @@ Nepoužívejte stanoviště k formálnímu hodnocení, pokud nebyly schváleny p
 
 
 <!-- micrographic: practice-circuit-stations-01 -->
+[Studující se střídají na osmi praktických stanovištích: úschova, veřejné, nebo tajné, příjem, odesílání, obnova, průzkumník, podvod a další postup. Samostatná pozorovací trasa vede po schválené cestě, aby skupinový nácvik nebyl nikdy zaměňován za formální hodnocení.](/micrographics/practice-circuit-stations-01/cs.md)

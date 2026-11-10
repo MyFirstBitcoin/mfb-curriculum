@@ -6,6 +6,7 @@ Ni nini kingekufanya usimame kabla ya kufanya malipo au kusakinisha programu? Zi
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Ishara tano za tahadhari za utapeli: shinikizo la haraka, kujifanya mtu mwingine, mahali pa kutuma palipobadilishwa, faida zilizohakikishwa na maombi ya siri.](/micrographics/scam-red-flags-01/sw.md)
 
 
 Hatua salama daima ni: **Sitisha. Usishiriki chochote. Usitume chochote. Funga njia ya mawasiliano. Thibitisha kwa kujitegemea kupitia chanzo kinachojulikana. Omba msaada bila kufichua siri.** Chanzo kinachojulikana ni tovuti rasmi, ukurasa rasmi wa programu, au njia ya mawasiliano uliyoifikia mwenyewe, si kupitia tangazo, ujumbe wa moja kwa moja, au kiungo usichokitarajia. Kagua mchapishaji na anwani ya tovuti, linganisha na nyaraka rasmi, na utafute maelezo ya mawasiliano kando. Ikiwa chanzo, maelekezo, au maelezo ya malipo yanatofautiana na utaratibu ulioonyeshwa, sitisha na utafute msaada kutoka kwa mwalimu wako au msaada wa karibu unaoaminika bila kufichua [kifungu cha maneno ya mbegu](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) au [ufunguo wa kibinafsi](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key). Fursa halisi inaweza kustahimili ukaguzi makini; utapeli mara nyingi hutegemea kuuzuia.

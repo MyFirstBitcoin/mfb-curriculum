@@ -24,6 +24,7 @@ Với mỗi phương thức, hãy đặt câu hỏi:
 
 
 <!-- micrographic: ways-to-receive-bitcoin-01 -->
+[Một người có thể nhận bitcoin theo bốn cách khác nhau: kiếm bitcoin thông qua công việc hoặc bán hàng, đổi tiền mặt bằng nội tệ với một người khác, sử dụng sàn giao dịch hoặc nhà môi giới, hoặc sử dụng máy ATM. Mỗi cách đều dẫn đến việc tự lưu ký hoặc có số dư do bên thứ ba lưu ký, và không có cách nào được khuyến nghị hơn các cách còn lại.](/micrographics/ways-to-receive-bitcoin-01/vi.md)
 
 
 Hãy sử dụng thuật ngữ [**no-KYC**](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) một cách nhất quán để chỉ phương thức thu thập ít hoặc không thu thập thông tin định danh tiêu chuẩn. Đừng ngụ ý rằng [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) loại bỏ rủi ro gian lận, pháp lý, đối tác giao dịch hoặc an toàn thân thể. Đừng khuyên người học lách luật địa phương.

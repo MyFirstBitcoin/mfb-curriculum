@@ -13,3 +13,4 @@ Setiap bagian dari Diploma Bitcoin memiliki fungsi yang berbeda.
 
 
 <!-- micrographic: learning-ecosystem-map-01 -->
+[Panduan Peserta Didik menyediakan penjelasan, Panduan Pendidik mendukung pengajaran, dan kegiatan pilihan dari Pusat Sumber Belajar mendukung latihan. Tabel Penilaian menyimpan hasil penilaian yang bersifat pribadi.](/micrographics/learning-ecosystem-map-01/id.md)

@@ -22,6 +22,7 @@ Hvert modul følger den samme rytme:
 
 
 <!-- micrographic: learning-rhythm-strip-01 -->
+[En læringsrytme i fem trin: lær om en central idé, vis, hvad De kan forklare eller anvende, anvend idéen, forklar den med Deres egne ord, og gennemgå, hvordan den hænger sammen med det næste modul.](/micrographics/learning-rhythm-strip-01/da.md)
 
 
 De vil lære mere ved at deltage end ved at læse i stilhed. Nogle spørgsmål har ikke ét korrekt svar. Det afgørende er, om De kan forklare Deres ræsonnement, undersøge dokumentation og revidere Deres synspunkt, når De lærer noget nyt.
@@ -81,7 +82,8 @@ Når det er tid til at øve sig med en [Bitcoin-wallet](https://curriculum.myfir
 ### Sikkerhed, ansvar og ingen finansiel rådgivning
 
 
-> **Callout – Lær først; dette er ikke en anbefaling**
+<!-- card: callout -->
+> **Lær først; dette er ikke en anbefaling**
 >
 > Bitcoin Diploma er udelukkende til undervisningsformål. Det giver ikke finansiel, investeringsmæssig, juridisk eller skattemæssig rådgivning. Det lover ikke, at bitcoin vil stige i [pris](https://curriculum.myfirstbitcoin.org/lexicon/en/#price), og anbefaler heller ikke, at De køber, sælger, låner med sikkerhed i eller besidder nogen mængde bitcoin.
 >
@@ -104,6 +106,7 @@ Diplomforløbet består af et læringsforløb i fire trin: **Problem → Løsnin
 
 
 <!-- micrographic: learning-path-roadmap-01 -->
+[En køreplan i fire trin: Problem, Forstå penge; Løsning, Sådan fungerer Bitcoin; Handling, Brug Bitcoin sikkert; og Forbind, Bitcoin i Deres lokalsamfund, hver med sit vejledende spørgsmål.](/micrographics/learning-path-roadmap-01/da.md)
 
 
 **Modul 4** er en obligatorisk del af diplomforløbet, som tilrettelægges af underviseren. Underviserne er de faglige eksperter i deres deltageres lokale begrænsninger, løsninger, værktøjer, ressourcer, lovgivning, sprog, infrastruktur og behov. Forbindelse-forløbet, som tilrettelægges af underviseren, kan omfatte indtjening, opsparing, modtagelse, forbrug, [Layer 2-baserede](https://curriculum.myfirstbitcoin.org/lexicon/en/#layer-2) løsninger, lokale vekslingsmuligheder, forhandlere eller cirkulære økonomier.
@@ -118,6 +121,7 @@ De fire moduler udgør det obligatoriske læringsforløb Problem → Løsning �
 
 
 <!-- micrographic: four-module-table-01 -->
+[En tabel over de fire moduler med deres respektive rolle, vejledende spørgsmål og det, den lærende skal øve sig i: Forståelse af penge, Sådan fungerer Bitcoin, Sikker brug af Bitcoin og Bitcoin i Deres lokalsamfund.](/micrographics/four-module-table-01/da.md)
 
 
 Diplomforløbet tager mindst otte timer. Fire undervisningsgange på hver to timer er det korteste planlagte format, ikke en tidsgrænse. Deres underviser kan fordele et modul over flere undervisningsgange, vende tilbage til en tidligere idé eller ændre rækkefølgen af de enkelte afsnit, når Deres hold har brug for mere tid til diskussion, øvelse, repetition eller evaluering. Der er ingen øvre tidsgrænse: Underviseren er fortsat ansvarlig for at give deltagerne den tid, de har brug for, dække alle krævede kompetencer og tydeliggøre sammenhængene mellem modulerne.

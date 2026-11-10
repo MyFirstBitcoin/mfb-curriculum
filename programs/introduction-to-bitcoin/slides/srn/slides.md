@@ -40,7 +40,8 @@ No fu wini en, no fu speni en, ma fu prakseri abra san a de nanga fa a e wroko.
 * Yu moni kan bai a srefi furu sani leki fosi?
 
 
-> **Callout – Kibri den piki fu yu**
+<!-- card: callout -->
+> **Kibri den piki fu yu**
 >
 > Skrifi wan syatu piki gi ibri aksing. Na a kba yu o kon baka na den.
 
@@ -85,6 +86,7 @@ A tu sma musu wani san a tra wan abi, na a srefi ten èn na furu di fiti.
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina abi aleisi èn wani susu, Luis abi susu èn wani oli fu bori, èn Mei abi oli fu bori èn wani wroko fu meki sani baka. No wan tu sma kan kenki sani direkti nanga makandra, bikasi no wan fu den tu sma wani san a trawan e gi.](/micrographics/barter-mismatch-01/srn.md)
 
 <!-- notes: Gebroiki a eksempre fu a leri-buku: yu e prani alesi èn yu abi susu fanowdu, ma a susumekiman wani oli fu bori nyanyan, no alesi. Ekonomiman e kari disi a dobri miti fu san sma wani. -->
 
@@ -151,6 +153,7 @@ Te sma e yere a wortu inflasi, den e prakseri furu leisi taki sani e kon moro di
 ## Inflasi nanga baikrakti
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Nanga a srefi 100 moni-yuniti yu kan bai a heri basketi nanga den moro fanowdu sani te a e kosti 100, ma no te a srefi basketi e kosti 110. Den prisi go hei, èn a krakti fu a moni fu bai sani go lagi.](/micrographics/same-money-smaller-basket-01/srn.md)
 
 <!-- notes: Prèis-inflasi na wan opo fu a algemeen prèispeiri di e tan go doro. A tra sei fu en na bai-krakti: o meni sani wan moni-eenheid kan bai. Efu a prèis fu wan baskita nanga den sani di sma abi fanowdu e opo fu 100 moni-eenheid go na 110, a srefi 100 moni-eenheid no kan bai a heri baskita moro. -->
 
@@ -213,8 +216,7 @@ A moni na yu bankrekening na wan tra sani leki kontant moni na yu anu: na a pram
 * Ma a furu moni san de nanga den regel kan kenki, nanga den sma san e gebroiki en no abi furu fu taki
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Na dati meki sma e suku tra pasi, nanga na dati meki den ben meki Bitcoin.
 
 ---
@@ -233,6 +235,7 @@ Digitaal moni di no de ondro wan sentrale basi, di abi wan limiti na a howmeni d
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Bij wan bedreifi fu pay, wan organisâsi e hori a monibuku nanga gi ibri moni-opo pasi. Bij Bitcoin, a sma di e seni a moni e seti en nen ondro wan transakti, netwerki-kompyuteri di e wroko sondro basi e luku efu a klopu, nanga minerman e poti en ini wan monibuku di den e gebruiki makandra. So a sma di e kisi a moni no e hang so tranga na wan sentrali macht.](/micrographics/central-ledger-vs-bitcoin-01/srn.md)
 
 <!-- notes: Bifo Bitcoin, fu seni moni na internet, a ben de ala ten fanowdu fu fertrow wan organisâsi: wan bangi noso wan betaringsbedreifi di ben hori a monibuku, di ben keuru rekeningi, èn di ben kan meki wan betari drai, tapu en, noso drai en baka. A no tranga fu meki kopi fu digitali informâsi: efu sma ben kan pai tu leisi nanga a srefi digitali moni, dan a no ben sa man wroko leki moni. Disi na a problema fu pai tu leisi nanga a srefi moni. Satoshi Nakamoto na wan sma noso wan grupu di e gebroiki a nen dati. -->
 
@@ -253,6 +256,7 @@ No wan bedrefi kan tapu bitcoin di yu srefi e kontroleri. A tra sei fu a fri dat
 ## Wan grensi di ibriwan kan kontroli
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Wan limiti fu a moni-omeni di skrifi na wan website noso ini a databank fu wan orga di meki a moni, kan kenki doro a orga sondro dati sma sabi. A regla fu Bitcoin en moni-omeni de opun fu ala sma. Ondroskrifi, wan histori di de opun fu ala sma, bewijsi fu wroko nanga tjeki doro den knopo ini a netwerki e wroko makandra fu tapu dati sma meki nyun moni noso gi a srefi bitcoin tu leisi.](/micrographics/claimed-or-verified-supply-01/srn.md)
 
 <!-- notes: Nyun bitcoin e kon fri na wan tenplan di ala sma kan si, èn kompyutu di e wroko los fu makandra, di den e kari nodes, e poti iniwan blok na wan sei efu a broko a regre dati. A limiti de fu fertrow, bikasi iniwan kan kontroleri en. A no wan wet fu a naturu: a e tan de bikasi den sma di e teki prati e sorgu taki den e hori den srefi na en. Wan limiti na a furu bitcoin di de no e gi garanti taki a preis o go na tapu; a preis e hang af fu a furu di sma wani bai sosrefi leki fu a furu di de fu seri. -->
 
@@ -264,6 +268,7 @@ Wan bitcoin kan prati ini 100.000.000 moro pikin pisi di den e kari satoshis, no
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Wan tabel nanga tu kolom: 1 BTC na 100.000.000 sats, 0,1 BTC na 10.000.000 sats, 0,01 BTC na 1.000.000 sats, 0,001 BTC na 100.000 sats, nanga 0,00000001 BTC na 1 sat.](/micrographics/bitcoin-and-sats-01/srn.md)
 
 <!-- notes: Te yu abi 100.000 sats noso 0,001 bitcoin, na a srefi furu moni yu abi. Gi wan klari taki a na wan fowtu denki taki yu no man bai Bitcoin bikasi wan bitcoin diri. -->
 
@@ -272,6 +277,7 @@ Wan bitcoin kan prati ini 100.000.000 moro pikin pisi di den e kari satoshis, no
 ## Suma e meki Bitcoin tan wroko?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Fo tiri wroko ini Bitcoin: gebroikiman e kisi, hori nanga seni bitcoin, node e tesi den regla fu densrefi, digriman e meki kandidati-blok nanga wroko-beweysi, nanga software-mekiman e poti software na fesi. No wan fu den grupu disi e basi a netwerki ensrefi.](/micrographics/bitcoin-participant-roles-01/srn.md)
 
 <!-- notes: Brukuman e seni, kisi nanga hori bitcoin; node e tjek ala transakti nanga blok fu si efu den e hori den weti; miner e feti nanga makandra fu poti wan nyun blok na a rejistri, so wan leisi ini ala tin miniti. A rejistri dati, a blockchain, de opo gi ibriwan, èn a diri tumsi fu skrifi en baka. Wan sani abra a skrifi fasi: Bitcoin nanga wan bigi B wani taki a netwerki noso a sistemi soni moro; bitcoin nanga wan pikin b wani taki a moni srefi. -->
 
@@ -307,6 +313,7 @@ A fosi aksi fu ibri portmoni: suma abi den sroto na en anu?
 ## Wan Portmoni e Sorgu fu Sroto
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Wan pòtmòni e hori den sroto. Nanga den yu kan kisi èn seni bitcoin, ma a bitcoin srefi e tan skrifi na ini a kasbuku di ala sma e prati, no na ini a telefon noso a aparati.](/micrographics/wallet-manages-keys-01/srn.md)
 
 <!-- notes: Wan Bitcoin-portmoni na wan wrokomisi, furu leisi wan app, di e meki tak’ yu kan ontfanga, kontroleri nanga seni bitcoin. Yu bitcoin no de kibri ini yu telefoon: a de skrifi na a blockchain. A portmoni e sorgu gi den sroto di e meki tak’ yu kan sori taki a bitcoin na fu yu, nanga gi primisi fu wan betaling. -->
 
@@ -331,6 +338,7 @@ Wan leis fu wortu na wan fiksi order, furu leisi 12 noso 24, di kan meki yu srot
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Wan frase fu kisi aksesi baka na wan lista fu wortu ini wan vaste rai; dyaso na twarfu eksempre-wortu nanga nomru, di skrifi na papira. Nanga den bun wortu ini a bun rai, yu kan kisi kontroli baka abra wan pursu di e wroko nanga a frase. Dat meki a frase mus tan kibri, sondro internet.](/micrographics/seed-phrase-on-paper-01/srn.md)
 
 <!-- notes: A seed phrase no de wan reservekopi nomo: a e gi yu pasi fu gebroiki ala sani na ini a wallet. Skrifi en presi na papira te yu e meki a wallet; kibri en offline, kibri en fu tra sma, èn poti en na wan presi pe a no sa lasi noso kisi pori. No meki foto fu en noiti, no seni en nanga e-mail, no kibri en ini noti na ini a cloud, no seni en ini wan boskopu, èn no taip en na wan website. Den wortu di yu e si dya na wan eksempre nomo; no sori noso gaderi wan trutru seed phrase noiti. -->
 
@@ -365,6 +373,7 @@ Wan leis fu wortu na wan fiksi order, furu leisi 12 noso 24, di kan meki yu srot
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Den payman na a blockchain e skrifi direkti na ini a blockchain fu Bitcoin, ma Lightning na wan netwerki fu payman di meki na tapu Bitcoin fu meki payman esi èn furu leisi. Den payman disi kan misluk tu. Na ala tu pasi, wan tra sma kan hori a moni, noso a gebruyker srefi kan hori en.](/micrographics/on-chain-and-lightning-01/srn.md)
 
 ---
 
@@ -375,7 +384,8 @@ Wan leis fu wortu na wan fiksi order, furu leisi 12 noso 24, di kan meki yu srot
 * **No fertrow, tjek.** Tjek a sma, a fasi fu pay, a adres, nanga a furu moni.
 
 
-> **Callout – Deri tori fu kisi moni, noiti kibri tori**
+<!-- card: callout -->
+> **Deri tori fu kisi moni, noiti kibri tori**
 >
 > Yu kan deri wan adres noso wan aksi fu pay. Yu no mus deri wan worturei fu kisi yu portmoni baka noso wan priveti sroto noiti. No wan oprekti leriman, bedref fu dijitali portmoni, noso yepiman sa aksi yu fu en.
 
@@ -389,6 +399,7 @@ Tapu efu wan sma e meki yu firi tak' yu mus du wan sani esesi noso kibri en, e p
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Feifi marki san e warskow fu flikfloi: dwengi fu du en hesi, du leki wan tra sma, a presi pe a moni mus go kenki, winst nanga garanti nanga aksi fu kibri tori.](/micrographics/scam-red-flags-01/srn.md)
 
 ---
 
@@ -408,7 +419,8 @@ Disi na a bigin nomo.
 * **Disi na a bigin nomo.** Wan veilige neks stapu na nofo.
 
 
-> **Callout – Wan momenti fu denki**
+<!-- card: callout -->
+> **Wan momenti fu denki**
 >
 > Go baka na den feifi aksi na a bigin. San yu ben sa piki now?
 

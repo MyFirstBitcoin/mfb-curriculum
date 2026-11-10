@@ -3,8 +3,7 @@
 Hierdie module gaan oor veilige eerste stappe, nie daaroor om ’n kenner te word of finansiële risiko’s te neem nie. U sal oefen met voorbereide simulasies, toetsomgewings, Beursies vir opleiding of, waar u opvoeder dit gepas ag, ’n werklike aktiwiteit met min op die spel.
 
 
-> **Dark**
->
+<!-- card: dark -->
 > U hoef nie bitcoin te koop of andersins te bekom, of persoonlike fondse te gebruik, om die Bitcoin-diploma te voltooi nie.
 
 

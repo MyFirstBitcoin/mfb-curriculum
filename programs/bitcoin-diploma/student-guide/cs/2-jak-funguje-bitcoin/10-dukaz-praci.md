@@ -3,6 +3,7 @@
 ![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
+<!-- card: definition -->
 > **Definition – Důkaz prací**
 >
 > [Důkaz prací](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) je proces, který [těžaři](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) využívají k soutěži o právo navrhnout další blok.
@@ -14,6 +15,7 @@ Když [těžař](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) najde 
 
 
 <!-- micrographic: proof-of-work-process-01 -->
+[Těžař opakovaně počítá hash navrženého bloku, dokud jeden výsledek není nižší než cílová hodnota sítě, a poté blok rozešle. Než se blok připojí k blockchainu, uzly rychle ověří důkaz a dodržení všech pravidel: vykonat práci je nákladné, ale ověřit ji je snadné.](/micrographics/proof-of-work-process-01/cs.md)
 
 
 [Důkaz prací](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) slouží několika účelům:

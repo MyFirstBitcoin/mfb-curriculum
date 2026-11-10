@@ -1,6 +1,6 @@
 # Quiz – Slik fungerer Bitcoin: rask kunnskapssjekk
 
-## Question 1
+## Spørsmål 1
 
 Én digital enhet brukes til å betale to ganger. Systemet må:
 
@@ -9,11 +9,11 @@
 * [ ] Øke prisen på enheten
 * [ ] Fjerne gebyrer
 
-### Explanation
+### Forklaring
 
 Digital informasjon kan kopieres, så et pengesystem må hindre at samme enhet brukes to ganger, og fastslå hvilken transaksjon som er gyldig. Se studentveiledningen, modul 2, «Tidlige forsøk med digitale penger og problemet med dobbeltbruk».
 
-## Question 2
+## Spørsmål 2
 
 Desentralisering i Bitcoin betyr:
 
@@ -22,11 +22,11 @@ Desentralisering i Bitcoin betyr:
 * [ ] Utvinnere endrer reglene fritt
 * [ ] Lik innflytelse for alle
 
-### Explanation
+### Forklaring
 
 Bitcoin fordeler verifisering og håndheving av regler på uavhengige deltakere. Desentralisering betyr ikke at ett selskap kontrollerer nettverket, eller at alle har lik innflytelse. Se studentveiledningen, modul 2, «Desentralisering».
 
-## Question 3
+## Spørsmål 3
 
 En Bitcoin-node:
 
@@ -35,11 +35,11 @@ En Bitcoin-node:
 * [ ] Lagrer bitcoin
 * [ ] Garanterer betaling
 
-### Explanation
+### Forklaring
 
 Noder kontrollerer uavhengig at Bitcoins regler følges, og avviser ugyldige data. De oppretter ikke bitcoin på forespørsel og lagrer heller ikke bitcoin inne i en telefon. Se studentveiledningen, modul 2, «Brukere, noder og utvinnere».
 
-## Question 4
+## Spørsmål 4
 
 Hvorfor kalle Bitcoin sunne penger?
 
@@ -48,6 +48,6 @@ Hvorfor kalle Bitcoin sunne penger?
 * [ ] Ett selskap kontrollerer det
 * [ ] Betalinger er private
 
-### Explanation
+### Forklaring
 
 Noen beskriver Bitcoin som sunne penger fordi reglene for pengemengden er offentlige, og utstedelsen er begrenset. Dette er en begrunnet vurdering, ikke et løfte om pris eller personvern. Se studentveiledningen, modul 2, «Bitcoin som sunne digitale penger».

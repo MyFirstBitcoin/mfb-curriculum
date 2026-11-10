@@ -4,10 +4,12 @@
 
 
 <!-- micrographic: self-custody-responsibilities-01 -->
+[Control of keys sits at the center of eight responsibilities: backup, recovery, receiving, sending, tool choice, acquisition path, privacy and scam checks. Each one protects something, and a failure in any of them can cost access, money or privacy.](/micrographics/self-custody-responsibilities-01/en.md)
 
 
 
 <!-- micrographic: responsibility-checks-01 -->
+[A table of six self-custody tasks, what to protect or check for each, and what can happen if it goes wrong: backup, receiving, sending, custody, tool choice and acquisition.](/micrographics/responsibility-checks-01/en.md)
 
 
 Imagine that a friend sends you a payment request while an unfamiliar support account says you must act immediately. What could you check before doing anything? Can you protect a recovery plan, distinguish receiving information from secrets, and verify the person, payment method, destination, amount, and final screen before sending? Whether a service or you control the keys, the practical recap is the same: protect secrets, verify before approving, recognize scam signals, and keep mistakes small while learning.

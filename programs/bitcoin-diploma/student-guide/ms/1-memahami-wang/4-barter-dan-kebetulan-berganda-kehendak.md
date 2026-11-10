@@ -1,5 +1,6 @@
 # 1.4 Barter dan Kebetulan Berganda Kehendak
 
+<!-- card: definition -->
 > **Definition – Barter**
 >
 > [Barter](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) ialah pertukaran langsung sesuatu barang atau perkhidmatan dengan barang atau perkhidmatan lain. Kaedah ini boleh berjalan lancar dalam pertukaran berskala kecil, tetapi menjadi sukar apabila melibatkan ramai orang dan pelbagai produk.
@@ -11,6 +12,7 @@ Bayangkan bahawa **Amina** mempunyai beras dan mahukan kasut. **Luis** mempunyai
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina mempunyai beras dan mahukan kasut, Luis mempunyai kasut dan mahukan minyak masak, dan Mei mempunyai minyak masak dan mahukan khidmat pembaikan. Tiada pasangan yang boleh bertukar barangan atau perkhidmatan secara langsung kerana kedua-dua orang dalam setiap pasangan tidak mahukan apa yang ditawarkan oleh seorang lagi.](/micrographics/barter-mismatch-01/ms.md)
 
 
 Untuk [barter](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) berlaku secara langsung, setiap orang mesti mahukan apa yang ditawarkan oleh pihak yang satu lagi pada masa yang sama dan dalam kuantiti yang sesuai. Ahli ekonomi menamakan keadaan ini sebagai [**kebetulan kehendak berganda**](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-coincidence-of-wants).
@@ -31,3 +33,4 @@ Wang yang diterima umum memisahkan urusan menjual daripada membeli. Amina boleh 
 
 
 <!-- micrographic: sell-then-buy-01 -->
+[Amina menjual beras kepada seseorang untuk mendapatkan wang yang diterima umum, kemudian menggunakan wang itu untuk membeli kasut daripada orang lain. Urusan menjual dan membeli menjadi dua tindakan yang berasingan.](/micrographics/sell-then-buy-01/ms.md)

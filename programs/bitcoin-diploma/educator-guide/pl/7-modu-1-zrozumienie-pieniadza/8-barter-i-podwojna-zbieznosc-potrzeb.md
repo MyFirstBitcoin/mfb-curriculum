@@ -4,12 +4,14 @@ Proszę wybrać trzy osoby, których dobra i potrzeby nie są do siebie dopasowa
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina ma ryż i chce buty, Luis ma buty i chce olej spożywczy, a Mei ma olej spożywczy i chce skorzystać z usług naprawczych. Żadna para nie może dokonać bezpośredniej wymiany, ponieważ żadna z osób w parze nie chce tego, co oferuje druga.](/micrographics/barter-mismatch-01/pl.md)
 
 
 Następnie proszę wprowadzić powszechnie akceptowany środek wymiany.
 
 
 <!-- micrographic: sell-then-buy-01 -->
+[Amina sprzedaje ryż jednej osobie za powszechnie akceptowane pieniądze, a później za te pieniądze kupuje buty od kogoś innego. Sprzedaż i zakup stają się odrębnymi czynnościami.](/micrographics/sell-then-buy-01/pl.md)
 
 
 Proszę zapytać:

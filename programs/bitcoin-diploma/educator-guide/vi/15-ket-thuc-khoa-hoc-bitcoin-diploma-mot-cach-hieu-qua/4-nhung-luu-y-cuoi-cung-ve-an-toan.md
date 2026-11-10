@@ -12,3 +12,4 @@ Nhắc nhở người học:
 
 
 <!-- micrographic: final-safety-check-01 -->
+[Danh sách kiểm tra an toàn lần cuối với các mục đã được đánh dấu: bảo vệ thông tin bí mật, xác minh chi tiết thanh toán, thử với số tiền nhỏ và dừng lại khi bị gây áp lực. Nếu có điều gì chưa rõ, hãy dừng lại và tìm hiểu thêm trước khi hành động.](/micrographics/final-safety-check-01/vi.md)

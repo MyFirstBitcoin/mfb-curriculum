@@ -3,6 +3,7 @@
 Ang paglaganap ng mga personal na computer at ng internet ay lumikha ng mga bagong pagkakataon para sa komunikasyon. Lumikha rin ito ng mga bagong anyo ng pagmamanman at pagkontrol. Sa huling bahagi ng ikadalawampung siglo, isang pangkat ng mga programmer, matematiko, at aktibista na kilala bilang [**Cypherpunks**](https://curriculum.myfirstbitcoin.org/lexicon/en/#cypherpunk) ang nagsiyasat kung paano magagamit ang [kriptograpiya](https://curriculum.myfirstbitcoin.org/lexicon/en/#cryptography) upang maprotektahan ang [pagkapribado](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy) at indibidwal na kalayaan sa mga digital na sistema.
 
 
+<!-- card: definition -->
 > **Definition – Kriptograpiya**
 >
 > [Ang kriptograpiya](https://curriculum.myfirstbitcoin.org/lexicon/en/#cryptography) ay gumagamit ng mga matematikal na pamamaraan upang protektahan ang impormasyon at patunayang tunay ang isang aksiyon. [Ang pag-encrypt](https://curriculum.myfirstbitcoin.org/lexicon/en/#encryption) ay maaaring magpanatiling pribado ng isang mensahe. [Ang mga digital na lagda](https://curriculum.myfirstbitcoin.org/lexicon/en/#digital-signature) ay makapagpapatunay na ang isang mensahe o tagubilin ay nagmula sa may hawak ng isang lihim na susi nang hindi ibinubunyag ang susing iyon.
@@ -16,3 +17,4 @@ Ang Bitcoin ay itinayo sa pundasyon ng ilang dekadang gawain ng maraming tao. Pi
 
 
 <!-- micrographic: chain-of-ideas-01 -->
+[Isang kadena ng mga ideya: ang kriptograpiya ay humantong sa pananaliksik tungkol sa digital na salapi, na humantong naman sa desentralisadong digital na pera. Pinag-ugnay ng Bitcoin sa isang bagong paraan ang ilang dekadang naunang gawain ng maraming tao.](/micrographics/chain-of-ideas-01/tl.md)

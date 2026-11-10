@@ -3,6 +3,7 @@
 Viri so omejeni, človeške želje pa niso.
 
 
+<!-- card: definition -->
 > **Definition – Omejenost**
 >
 > [Omejenost](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) pomeni, da izbira enega načina uporabe vira onemogoči drug način uporabe. Čas, zemljišča, energija, dobro zdravje, orodje in [trden denar](https://curriculum.myfirstbitcoin.org/lexicon/en/#sound-money) so vsi omejeni.
@@ -14,6 +15,7 @@ Sama [vrednost](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) dobrine
 
 
 <!-- micrographic: same-water-different-value-01 -->
+[Ista steklenica čiste vode je poceni v hladilniku v trgovini, kjer je vodo lahko najti, in veliko dragocenejša v vroči puščavi med pomanjkanjem. Razpoložljivost, potreba in okoliščine spreminjajo vrednost in ceno.](/micrographics/same-water-different-value-01/sl.md)
 
 
 Do menjave pride, ko obe strani dajeta prednost temu, kar prejmeta, pred tem, čemur se odpovesta. Ni nujno, da se strinjata, da imata oba predmeta enako osebno [vrednost](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Strinjati se morata le o pogojih.
@@ -26,6 +28,7 @@ Pri razumevanju vsakodnevnih odločitev pomagajo trije pojmi:
 
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[Kupec z omejenimi denarnimi sredstvi si ogleduje možnosti pred seboj: hrano za danes, prevoz ali varčevanje za pozneje. Izbira ene možnosti pomeni odpoved drugim, kar predstavlja oportunitetni strošek, pri čemer nobena možnost ni označena kot prava.](/micrographics/one-choice-two-uses-01/sl.md)
 
 
 [Omejenost](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) sama po sebi ne zagotavlja [vrednosti](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Predmet je lahko redek, pa po njem kljub temu ni povpraševanja. Uporabno denarno [sredstvo](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) združuje omejeno ponudbo z lastnostmi in povpraševanjem, zaradi katerih so ga ljudje pripravljeni hraniti ali menjati.

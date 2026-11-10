@@ -36,6 +36,7 @@
 
 
 <!-- micrographic: final-safety-check-01 -->
+[一份已逐項勾選的最終安全檢查清單：保護機密資訊、核對付款資訊、先做小額測試，以及遇到壓力就停下。若有任何不清楚之處，請先停下來，深入了解後再行動。](/micrographics/final-safety-check-01/zh-Hant.md)
 
 
 請牢記以下規則：
@@ -57,6 +58,7 @@
 
 
 <!-- micrographic: curriculum-source-panel-01 -->
+[一個面板，上面有 QR 碼及印出的連結 github.com/MyFirstBitcoin/mfb-curriculum，這是比特幣文憑的正式來源，您可在此查核版本並回報錯誤。](/micrographics/curriculum-source-panel-01/zh-Hant.md)
 
 
 比特幣文憑是一套持續更新的開源課程。勘誤與改進內容皆可公開審閱。

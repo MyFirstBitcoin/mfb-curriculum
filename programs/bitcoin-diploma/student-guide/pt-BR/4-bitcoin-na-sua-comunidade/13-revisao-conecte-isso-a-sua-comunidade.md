@@ -1,10 +1,12 @@
 # 4.13 Revisão: conecte isso à sua comunidade
 
 <!-- micrographic: community-review-path-01 -->
+[Um roteiro de análise para um exemplo local de Bitcoin: comece por uma necessidade real, verifique se o Bitcoin é adequado, depois o método de pagamento, a custódia, o custo total, a segurança e as condições locais, e termine com as evidências de sucesso.](/micrographics/community-review-path-01/pt-BR.md)
 
 
 
 <!-- micrographic: community-review-table-01 -->
+[Uma tabela de revisão para o exemplo local: para cada tema, da necessidade real a um próximo passo responsável, uma pergunta a fazer e um espaço opcional para suas próprias anotações.](/micrographics/community-review-table-01/pt-BR.md)
 
 
 Faça esta revisão individualmente e, em seguida, compare seu raciocínio com o de sua equipe ou turma. Considere o exemplo local que você estudou: que necessidade real ele atendeu, qual função do dinheiro estava envolvida e o [valor](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) foi transferido on-chain, pela Lightning ou de ambas as formas? Pergunte quem controlava as chaves, qual foi o maior benefício e o risco mais sério, e como a legislação, a infraestrutura, o idioma ou a cultura locais afetaram o resultado. Um próximo passo responsável é aquele que se adapta ao contexto local, deixa claros os custos e a [custódia](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), limita erros e golpes e pode ser avaliado com base em evidências.

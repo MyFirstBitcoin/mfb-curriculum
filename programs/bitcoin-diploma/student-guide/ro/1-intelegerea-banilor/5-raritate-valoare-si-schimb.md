@@ -3,6 +3,7 @@
 Resursele sunt limitate, în timp ce dorințele oamenilor nu sunt.
 
 
+<!-- card: definition -->
 > **Definition – Raritatea**
 >
 > [Raritatea](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) înseamnă că alegerea unei utilizări a unei resurse împiedică o altă utilizare. Timpul, terenurile, energia, sănătatea, uneltele și [banii sănătoși](https://curriculum.myfirstbitcoin.org/lexicon/en/#sound-money) sunt toate resurse rare.
@@ -14,6 +15,7 @@ Resursele sunt limitate, în timp ce dorințele oamenilor nu sunt.
 
 
 <!-- micrographic: same-water-different-value-01 -->
+[Aceeași sticlă de apă curată este ieftină în frigiderul unui magazin unde apa se găsește ușor și mult mai valoroasă într-un deșert fierbinte, în timpul unei penurii. Disponibilitatea, nevoia și circumstanțele schimbă valoarea și prețul.](/micrographics/same-water-different-value-01/ro.md)
 
 
 Schimbul are loc atunci când ambele părți preferă ceea ce primesc în locul a ceea ce cedează. Nu este necesar să fie de acord că cele două bunuri au, pentru fiecare persoană, aceeași [valoare](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Este suficient să fie de acord asupra condițiilor schimbului.
@@ -26,6 +28,7 @@ Trei idei ajută la explicarea alegerilor de zi cu zi:
 
 
 <!-- micrographic: one-choice-two-uses-01 -->
+[O persoană cu bani limitați analizează opțiunile din fața sa: mâncare pentru astăzi, transport sau economisire pentru mai târziu. Alegerea unei opțiuni presupune renunțarea la celelalte, ceea ce reprezintă costul de oportunitate, iar nicio opțiune nu este marcată drept cea corectă.](/micrographics/one-choice-two-uses-01/ro.md)
 
 
 [Raritatea](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcity) în sine nu garantează [valoarea](https://curriculum.myfirstbitcoin.org/lexicon/en/#value). Un obiect poate fi rar fără să existe totuși cerere pentru el. Un [activ](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) monetar util combină o ofertă limitată cu proprietăți și o cerere care îi fac pe oameni dispuși să îl dețină sau să îl schimbe.

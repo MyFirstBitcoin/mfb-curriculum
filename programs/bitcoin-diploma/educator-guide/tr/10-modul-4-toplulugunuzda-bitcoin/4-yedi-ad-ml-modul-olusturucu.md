@@ -1,6 +1,7 @@
 # 10.4 Yedi adımlı modül oluşturucu
 
 <!-- micrographic: seven-step-module-builder-01 -->
+[Yedi planlama adımı, yerel bağlam ve ihtiyaçtan odaklı, doğrulanmış bir göreve, güvenli bir öğretim sıralamasına, net bir ölçme ve değerlendirmeye ve bir son değerlendirme oturumuna götürür. Mevcut alternatif göz önünde tutulur ve uygun olmayan bir seçenek planlamaya geri döner.](/micrographics/seven-step-module-builder-01/tr.md)
 
 
 #### 1. Yerel bağlamı öğrenin

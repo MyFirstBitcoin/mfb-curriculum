@@ -9,6 +9,7 @@ Bitcoin toimii, koska eri osallistujat hoitavat eri tehtäviä.
 
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Bitcoinin neljä roolia: käyttäjät vastaanottavat, säilyttävät ja lähettävät bitcoinia, solmut tarkistavat sääntöjen noudattamisen itsenäisesti, louhijat rakentavat lohkoehdokkaita työntodistuksen avulla ja kehittäjät ehdottavat ohjelmistoja. Mikään yksittäinen rooli ei hallitse verkkoa.](/micrographics/bitcoin-participant-roles-01/fi.md)
 
 
 Nämä roolit rajoittavat toisiaan:

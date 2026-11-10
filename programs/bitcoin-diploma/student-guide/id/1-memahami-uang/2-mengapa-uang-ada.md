@@ -5,6 +5,7 @@ Setiap orang memiliki keterampilan, sumber daya, kebutuhan, dan rencana yang ber
 Pertukaran langsung sering kali sulit dilakukan. Orang yang memiliki apa yang Anda butuhkan belum tentu menginginkan apa yang Anda tawarkan. Uang mengatasi masalah koordinasi ini.
 
 
+<!-- card: definition -->
 > **Definition – Uang**
 >
 > Uang adalah [aset](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) yang diterima orang karena mereka memperkirakan bahwa orang lain juga akan menerimanya di kemudian hari. Uang membantu orang-orang yang tidak saling mengenal untuk mengoordinasikan pertukaran, mencatat [harga](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) dan [utang](https://curriculum.myfirstbitcoin.org/lexicon/en/#debt), serta memindahkan [nilai](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) lintas waktu dan jarak.

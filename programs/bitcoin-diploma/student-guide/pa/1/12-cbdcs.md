@@ -1,5 +1,6 @@
 # 1.12 ਕੇਂਦਰੀ ਬੈਂਕ ਡਿਜੀਟਲ ਮੁਦਰਾਵਾਂ (CBDCs)
 
+<!-- card: definition -->
 > **Definition – ਕੇਂਦਰੀ ਬੈਂਕ ਦੀ ਡਿਜਿਟਲ ਮੁਦਰਾ (CBDC)**
 >
 > ਇੱਕ [ਕੇਂਦਰੀ ਬੈਂਕ ਦੀ ਡਿਜਿਟਲ ਮੁਦਰਾ](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), ਜਾਂ [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc), ਡਿਜਿਟਲ ਰੂਪ ਵਾਲਾ [ਫ਼ਿਏਟ ਪੈਸਾ](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) ਹੁੰਦਾ ਹੈ, ਜੋ ਜਾਰੀ ਕੀਤਾ ਜਾਂਦਾ ਹੈ ਇੱਕ [ਦੇਣਦਾਰੀ](https://curriculum.myfirstbitcoin.org/lexicon/en/#liability) ਵਜੋਂ, ਇੱਕ [ਕੇਂਦਰੀ ਬੈਂਕ ਦੀ](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank): ਇਹ ਇੱਕ ਅਜਿਹਾ ਦਾਅਵਾ ਹੈ ਜਿਸ ਦਾ ਭੁਗਤਾਨ [ਕੇਂਦਰੀ ਬੈਂਕ](https://curriculum.myfirstbitcoin.org/lexicon/en/#central-bank) ਨੇ ਇਸ ਦੇ ਧਾਰਕ ਨੂੰ ਕਰਨਾ ਹੁੰਦਾ ਹੈ। ਇਹ ਭੌਤਿਕ ਨਕਦੀ ਅਤੇ ਆਮ ਵਪਾਰਕ ਬੈਂਕ ਦੀ ਜਮ੍ਹਾਂ ਰਕਮ ਤੋਂ ਵੱਖਰਾ ਹੁੰਦਾ ਹੈ, ਭਾਵੇਂ ਵਰਤੋਂਕਾਰ ਦਾ ਅਨੁਭਵ ਇੱਕੋ ਜਿਹਾ ਲੱਗ ਸਕਦਾ ਹੈ।
@@ -13,6 +14,7 @@
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->
+[ਇੱਕ ਸਾਰਣੀ ਜੋ ਨਕਦੀ, ਬੈਂਕ ਜਮ੍ਹਾਂ ਰਕਮਾਂ, ਰਿਟੇਲ ਸੀਬੀਡੀਸੀ ਅਤੇ ਬਿਟਕੋਇਨ ਦੀ ਤੁਲਨਾ ਕਰਦੀ ਹੈ ਕਿ ਇਨ੍ਹਾਂ ਨੂੰ ਕੌਣ ਜਾਰੀ ਕਰਦਾ ਹੈ, ਇਨ੍ਹਾਂ ਦਾ ਰੂਪ ਕੀ ਹੈ, ਇਨ੍ਹਾਂ ਤੱਕ ਪਹੁੰਚ ਕਿਸ ਦੀ ਹੈ, ਭੁਗਤਾਨ ਕੌਣ ਦੇਖ ਸਕਦਾ ਹੈ, ਸਪਲਾਈ ਦੇ ਨਿਯਮ ਕੀ ਹਨ ਅਤੇ ਤਸਦੀਕ ਕਿਵੇਂ ਹੁੰਦੀ ਹੈ। ਡਿਜੀਟਲ ਹੋਣ ਦਾ ਮਤਲਬ ਵਿਕੇਂਦਰੀਕ੍ਰਿਤ ਹੋਣਾ ਨਹੀਂ ਹੈ: ਸੀਬੀਡੀਸੀ ਵੀ ਕੇਂਦਰੀ ਬੈਂਕ ਵੱਲੋਂ ਹੀ ਜਾਰੀ ਕੀਤੀ ਜਾਂਦੀ ਹੈ, ਅਤੇ ਇਸ ਤੱਕ ਪਹੁੰਚ, ਭੁਗਤਾਨ ਦੇਖ ਸਕਣ ਦੀ ਸਮਰੱਥਾ ਅਤੇ ਤਸਦੀਕ ਇਸ ਦੇ ਡਿਜ਼ਾਈਨ ਉੱਤੇ ਨਿਰਭਰ ਕਰਦੀਆਂ ਹਨ।](/micrographics/cbdc-comparison-table-01/pa.md)
 
 
 ਡਿਜਿਟਲ ਹੋਣ ਦਾ ਮਤਲਬ ਆਪਣੇ ਆਪ ਵਿਕੇਂਦਰੀਕ੍ਰਿਤ, ਦੁਰਲੱਭ, ਨਿੱਜੀ ਜਾਂ ਸੁਤੰਤਰ ਤਸਦੀਕ ਲਈ ਖੁੱਲ੍ਹਾ ਹੋਣਾ ਨਹੀਂ ਹੁੰਦਾ। ਇੱਕ [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) ਡਿਜਿਟਲ ਤਕਨਾਲੋਜੀ ਵਰਤ ਸਕਦੀ ਹੈ, ਪਰ ਇਹ ਫਿਰ ਵੀ [ਫ਼ਿਏਟ ਪੈਸਾ](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) ਹੀ ਹੈ ਜੇ ਇਸ ਦਾ [ਜਾਰੀਕਰਤਾ](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuer), ਸਪਲਾਈ ਦੇ ਨਿਯਮ, ਪਹੁੰਚ ਦੇ ਨਿਯਮ ਅਤੇ ਭੁਗਤਾਨ ਦੀਆਂ ਇਜਾਜ਼ਤਾਂ ਕੇਂਦਰੀ ਤੌਰ 'ਤੇ ਪ੍ਰਬੰਧਿਤ ਰਹਿੰਦੇ ਹਨ।

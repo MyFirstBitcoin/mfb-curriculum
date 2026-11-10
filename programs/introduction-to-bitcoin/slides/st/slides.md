@@ -40,7 +40,8 @@ Eseng ho e fumana ka ho sebetsa, eseng ho e sebelisa ho reka, empa ho nahana ka 
 * Na chelete ea lona e reka lintho tse lekanang le tseo e neng e li reka pele?
 
 
-> **Callout – Bolokang likarabo tsa lona**
+<!-- card: callout -->
+> **Bolokang likarabo tsa lona**
 >
 > Ngolang karabo e khutšoanyane potsong ka 'ngoe. Le tla khutlela likarabo tsena qetellong.
 
@@ -85,6 +86,7 @@ Batho ka bobeli ba tlameha ho batla seo e mong a nang le sona, ka nako e tšoana
 
 
 <!-- micrographic: barter-mismatch-01 -->
+[Amina o na le raese 'me o batla lieta, Luis o na le lieta 'me o batla oli ea ho pheha, 'me Mei o na le oli ea ho pheha 'me o batla mosebetsi oa ho lokisa. Ha ho batho ba babeli ba ka fapanyetsanang ka kotloloho, hobane ha ho le ea mong ho bona ea batlang seo e mong a fanang ka sona.](/micrographics/barter-mismatch-01/st.md)
 
 <!-- notes: Sebelisang mohlala o tataisong: le lema raese ’me le hloka lieta, empa moetsi oa lieta o batla oli ea ho pheha, eseng raese. Litsebi tsa moruo li bitsa sena ho tsamaellana habeli ha litlhoko. -->
 
@@ -151,6 +153,7 @@ Ha batho ba utloa lentsoe infleishene, hangata ba nahana ka ho phahama ha lithek
 ## Ho Phahama ha Litheko le Matla a ho Reka
 
 <!-- micrographic: same-money-smaller-basket-01 -->
+[Diyuniti tsona tseo tse 100 tsa tjhelete di reka baskete yohle ya thepa ya motheo ha e bitsa 100, empa eseng ha baskete yona eo e bitsa 110. Boemo ba ditheko bo nyolohile mme matla a tjhelete a ho reka a theohile.](/micrographics/same-money-smaller-basket-01/st.md)
 
 <!-- notes: Ho nyoloha ha litheko ke keketseho e tsoelang pele ea boemo bo akaretsang ba litheko. Lehlakore le leng la hona ke matla a ho reka: hore na yuniti e le ’ngoe ea chelete e ka reka lintho tse kae. Haeba theko ea seroto sa thepa ea mantlha e nyoloha ho tloha ho liyuniti tse 100 tsa chelete ho ea ho tse 110, liyuniti tsona tseo tse 100 ha li sa khona ho reka seroto seo kaofela. -->
 
@@ -213,8 +216,7 @@ Chelete e akhaonteng ea banka e fapane le chelete e letsohong la lona: ke tšepi
 * Empa phepelo ea eona le melao ea eona li ka fetoha, 'me batho ba e sebelisang ba na le lentsoe le fokolang liqetong
 
 
-> **Callout**
->
+<!-- card: callout -->
 > Ke ka lebaka lena batho ba batlang mekhoa e meng, 'me ke ka lona Bitcoin e ileng ea thehoa.
 
 ---
@@ -233,6 +235,7 @@ Chelete ea dijithale e sa laoloeng ke setsi se le seng, e nang le phepelo e leka
 
 
 <!-- micrographic: central-ledger-vs-bitcoin-01 -->
+[Ha ho sebediswa k'hamphani ya ditefo, mokgatlo o le mong o boloka buka ya ditlaleho mme o dumella phetisetso ka nngwe. Ha ho sebediswa Bitcoin, moromedi o saena kgwebisano, dinode tse ikemetseng di a e hlahloba mme barafi ba e kenya bukeng e le nngwe ya ditlaleho e arolelanwang, kahoo moamohedi ha a itshetlehe haholo ka bolaodi bo bohareng.](/micrographics/central-ledger-vs-bitcoin-01/st.md)
 
 <!-- notes: Pele ho Bitcoin, ho romela chelete inthaneteng ho ne ho lula ho itšetlehile ka mokhatlo o tšeptjoang: banka kapa k'hamphani ea litefo e neng e boloka buka ea litlaleho tsa lichelete, e amohela liakhaonto, ’me e ka liehisa, ea thibela kapa ea khutlisa tefo. Tlhahisoleseling ea dijithale e bonolo ho e kopitsa: haeba chelete ea tšepe ea dijithale e ne e ka sebelisoa habeli, e ne e ke ke ea sebetsa e le chelete. Bona ke bothata ba ho sebelisa chelete e tšoanang habeli. Satoshi Nakamoto ke motho kapa sehlopha se sebelisang lebitso leo. -->
 
@@ -253,6 +256,7 @@ Ha ho k'hamphani e ka thibelang tšebeliso ea bitcoin eo le e laolang ka bolona.
 ## Moeli oo mang kapa mang a ka o hlahlobang
 
 <!-- micrographic: claimed-or-verified-supply-01 -->
+[Moedi wa phepelo o ngotsweng webosaeteng kapa polokelong ya boitsebiso ya mofani o ka fetolwa ka sekgukgu ke mofani eo. Molao wa phepelo ya Bitcoin o pepeneneng, mme mesaeno, nalane e fumanehang ho bohle, bopaki ba mosebetsi le netefatso ya dinode di sebetsa mmoho ho thibela ho qaptjwa ha diyuniti tse ntjha tsa tjhelete kapa ho sebediswa ha bitcoin e le nngwe habedi.](/micrographics/claimed-or-verified-supply-01/st.md)
 
 <!-- notes: bitcoin tse ncha li lokolloa ho latela kemiso e phatlalalitsoeng, ’me lik’homphieutha tse ikemetseng tse bitsoang li-node li hana boloko bofe kapa bofe bo tlolang molao oo. Moeli ona oa tshepahala hobane mang kapa mang a ka o hlahloba. Ha se molao oa tlhaho: o lula o sebetsa hobane bankakarolo ba tsoela pele ho netefatsa hore oa lateloa. Phepelo e lekanyelitsoeng ha e tiise hore theko e tla nyoloha; theko e itshetlehile ka tlhoko hammoho le phepelo. -->
 
@@ -264,6 +268,7 @@ bitcoin e le 'ngoe e aroloa ka likarolo tse nyenyane tse 100 000 000 tse bitsoan
 
 
 <!-- micrographic: bitcoin-and-sats-01 -->
+[Tafole e nang le dikholomo tse pedi: 1 BTC ke 100 000 000 sats, 0,1 BTC ke 10 000 000 sats, 0,01 BTC ke 1 000 000 sats, 0,001 BTC ke 100 000 sats, mme 0,00000001 BTC ke 1 sat.](/micrographics/bitcoin-and-sats-01/st.md)
 
 <!-- notes: Ho ba le 100 000 sats le ho ba le 0,001 bitcoin ho bolela ho ba le chelete e lekanang. Lokisang maikutlo a fosahetseng a hore Bitcoin ha e fihlellehe hobane bitcoin e le ’ngoe e turu. -->
 
@@ -272,6 +277,7 @@ bitcoin e le 'ngoe e aroloa ka likarolo tse nyenyane tse 100 000 000 tse bitsoan
 ## Ke Mang ea Bolokang Bitcoin e Sebetsa?
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
+[Likarolo tse 'nè ho Bitcoin: basebelisi ba amohela, ba boloka le ho romela bitcoin, linoute li netefatsa melao ka boikemelo, baepi ba haha liboloko tse ka amoheloang ka bopaki ba mosebetsi, 'me baqapi ba sisinya software. Ha ho karolo e le 'ngoe e laolang marang-rang.](/micrographics/bitcoin-participant-roles-01/st.md)
 
 <!-- notes: Basebedisi ba romela, ba amohela le ho boloka bitcoin; di-node di hlahloba kgwebisano e nngwe le e nngwe le boloko bo bong le bo bong ho netefatsa hore di latela melao; basebetsi ba morafong ba qothisana lehlokoa ho kenya boloko bo botjha rekotong hoo e ka bang metsotso e meng le e meng e leshome. Rekoto eo, e leng blockchain, e ka bonwa ke bohle mme ho e ngola botjha ho bitsa tjhelete e ngata haholo. Tlhokomeliso mabapi le mopeleto: Bitcoin e nang le B e kgolo hangata e bolela marangrang kapa tsamaiso; bitcoin e nang le b e nyane e bolela tjhelete ka boyona. -->
 
@@ -307,6 +313,7 @@ Potso ea pele ka sepache sefe kapa sefe: ke mang ea laolang linotlolo?
 ## Sepache se Laola Dinotlolo
 
 <!-- micrographic: wallet-manages-keys-01 -->
+[Sepache se boloka linotlolo. Ka tsona le ka amohela le ho romela bitcoin, ha bitcoin ka boeona e lula e tlalehiloe bukeng ea litlaleho e arolelanoang, eseng ka har'a fono kapa sesebelisoa.](/micrographics/wallet-manages-keys-01/st.md)
 
 <!-- notes: Sepache sa Bitcoin ke sesebelisoa, hangata e le app, se le lumellang ho amohela, ho lekola le ho romela bitcoin. Bitcoin ea lona ha e bolokoe ka har’a mohala oa lona: e tlalehiloe ketaneng ea liboloko. Sepache se laola linotlolo tse le lumellang ho paka hore ke ea lona le ho fana ka tumello ea tefo. -->
 
@@ -331,6 +338,7 @@ Lethathamo la mantsoe a hlophisitsoeng ka tatellano, hangata a 12 kapa a 24, le 
 
 
 <!-- micrographic: seed-phrase-on-paper-01 -->
+[Polelo ea peo ke lethathamo le hlophisitsoeng la mantsoe; mona ke mantsoe a leshome le metso e 'meli a mohlala, a nang le linomoro, a ngotsoeng pampiring. Mantsoe a nepahetseng ka tatellano e nepahetseng a ka khutlisetsa taolo sepacheng se lumellanang le eona, kahoo e bolokoa e le lekunutu ebile e sa hokahanngoa le inthanete.](/micrographics/seed-phrase-on-paper-01/st.md)
 
 <!-- notes: Polelo ea peo ha se bekapo feela: e fana ka phihlello e felletseng. E ngoleng ka nepo pampiring ha le theha sepache; e bolokeng e sa hokeloa inthaneteng, e le lekunutu, sebakeng seo e ke keng ea lahleha kapa ea senyeha. Le ka mohla le se ke la e nka foto, la e romela ka imeile, la e boloka lintlheng tse bolokiloeng marung, la e romela molaetseng, kapa la e thaepa webosaeteng. Mantsoe a bontšitsoeng ke mohlala feela; le ka mohla le se ke la bontša kapa la bokella polelo ea peo ea sebele. -->
 
@@ -365,6 +373,7 @@ Lethathamo la mantsoe a hlophisitsoeng ka tatellano, hangata a 12 kapa a 24, le 
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Litefo tsa ka har'a ketane li tlalehoa ka kotloloho ketaneng ea liboloko ea Bitcoin, ha Lightning e le marang-rang a litefo a hahiloeng holim'a Bitcoin bakeng sa litefo tse potlakileng, tse etsoang khafetsa, tseo le tsona li ka hlolehang. Mokhoa ofe kapa ofe o ka sebelisoa ka hore lichelete li be tlas'a taolo ea motho e mong kapa tlas'a taolo ea mosebelisi ka boeena.](/micrographics/on-chain-and-lightning-01/st.md)
 
 ---
 
@@ -375,7 +384,8 @@ Lethathamo la mantsoe a hlophisitsoeng ka tatellano, hangata a 12 kapa a 24, le 
 * **Le se ke la tshepa, netefatsang.** Hlahlobang motho, mokgwa wa ho lefa, aterese le tjhelete.
 
 
-> **Callout – Abelanang ka tlhahisoleseding ya ho amohela ditefo, le ka mohla eseng diphiri**
+<!-- card: callout -->
+> **Abelanang ka tlhahisoleseding ya ho amohela ditefo, le ka mohla eseng diphiri**
 >
 > Aterese kapa kopo ya tefo e ka arolelanwa. Polelwana ya peo kapa senotlolo sa poraefete ha di a lokela ho arolelanwa le ka mohla. Ha ho titjhere, khamphani ya sepache kapa mosebeletsi wa tshehetso ya sebetsang ka molao ya tla ke a le kope tsona.
 
@@ -389,6 +399,7 @@ Emisang haeba motho a le hatella hore le potlake kapa le boloke taba e le lekunu
 
 
 <!-- micrographic: scam-red-flags-01 -->
+[Matšoao a mahlano a lemosang ka bomenemene: ho potlakisoa, ho iketsa motho e mong, phetoho ea sebaka seo ho romelloang ho sona, lipoello tse tiiselitsoeng le likopo tsa boitsebiso ba lekunutu.](/micrographics/scam-red-flags-01/st.md)
 
 ---
 
@@ -408,7 +419,8 @@ Ena ke qalo feela.
 * **Hona ke qalo feela.** Mohato o le mong o latelang o sireletsehileng o lekane.
 
 
-> **Callout – Motsotso oa ho nahanisisa**
+<!-- card: callout -->
+> **Motsotso oa ho nahanisisa**
 >
 > Khutlelang lipotsong tse hlano tse qalong. Le ne le tla araba joang hona joale?
 

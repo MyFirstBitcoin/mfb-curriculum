@@ -17,6 +17,7 @@ Sorun:
 
 
 <!-- micrographic: bitcoin-atm-off-ramp-01 -->
+[Bir Bitcoin ATM'sindeki bir kişi, telefonundan bitcoin gönderiyor ve yerel para birimiyle nakit alıyor: bitcoinden yerel paraya geçişin bir örneği. Bu bir tavsiye değil, yalnızca bir örnektir.](/micrographics/bitcoin-atm-off-ramp-01/tr.md)
 
 
 **Üretim:** Öğrenci, kurgusal bir vaka için bir yol seçer, güvenlik kontrollerini sıraya koyar ve hangi riskin azaldığını, hangisinin eklendiğini açıklar.

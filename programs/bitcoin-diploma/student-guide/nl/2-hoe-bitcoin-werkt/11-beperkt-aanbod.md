@@ -3,6 +3,7 @@
 De regels van Bitcoin leggen een voorspelbaar [uitgifteschema](https://curriculum.myfirstbitcoin.org/lexicon/en/#issuance-schedule) en een [maximale voorraad](https://curriculum.myfirstbitcoin.org/lexicon/en/#maximum-supply) van 21 miljoen bitcoin (21.000.000 BTC) vast. Nieuwe bitcoin komen in omloop via de [block subsidy](https://curriculum.myfirstbitcoin.org/lexicon/en/#block-subsidy) die wordt uitbetaald aan [miners](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) die geldige blocks produceren.
 
 
+<!-- card: definition -->
 > **Definition – Halving**
 >
 > Elke 210.000 blocks wordt de subsidy gehalveerd. Deze gebeurtenis heet een [halving](https://curriculum.myfirstbitcoin.org/lexicon/en/#halving). Omdat er gemiddeld ongeveer elke tien minuten een block wordt geproduceerd, vindt een [halving](https://curriculum.myfirstbitcoin.org/lexicon/en/#halving) ruwweg elke vier jaar plaats. De exacte kalenderdatum ligt niet vast.
@@ -22,12 +23,14 @@ De subsidy begon bij 50 BTC per block. Deze wordt stapsgewijs steeds gehalveerd,
 
 
 <!-- micrographic: bitcoin-issuance-schedule-01 -->
+[De bloksubsidie begint bij 50 bitcoin en halveert elke 210.000 blokken, terwijl de totale hoeveelheid uitgegeven bitcoin stijgt richting de limiet van 21 miljoen. Transactiekosten worden daarbovenop betaald en zijn geen nieuwe bitcoin; er wordt geen koersvoorspelling gedaan.](/micrographics/bitcoin-issuance-schedule-01/nl.md)
 
 
 De limiet van 21 miljoen wordt gehandhaafd door [nodes](https://curriculum.myfirstbitcoin.org/lexicon/en/#node). Als een [miner](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) meer bitcoin aanmaakt dan de regels toestaan, zullen [validerende nodes](https://curriculum.myfirstbitcoin.org/lexicon/en/#full-node) het block afwijzen. Een softwareontwikkelaar kan andere code schrijven, maar kan anderen niet dwingen die code te draaien.
 
 
-> **Dark – Een vaste voorraad is een netwerkregel, geen prijsbelofte**
+<!-- card: dark -->
+> **Een vaste voorraad is een netwerkregel, geen prijsbelofte**
 >
 > De voorraadregel van Bitcoin is openbaar, onafhankelijk te controleren en moeilijk door één partij te wijzigen, omdat [validerende Nodes](https://curriculum.myfirstbitcoin.org/lexicon/en/#full-node) deze handhaven. Het is geen natuurwet: de regel blijft van kracht zolang deelnemers hem blijven handhaven. Een beperkte voorraad garandeert geen stijgende markt[prijs](https://curriculum.myfirstbitcoin.org/lexicon/en/#price); de [prijs](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) hangt ook af van de vraag.
 >
@@ -37,8 +40,7 @@ De limiet van 21 miljoen wordt gehandhaafd door [nodes](https://curriculum.myfir
 **Controlevraag:** Wat zijn de voordelen van een beperkte voorraad voor Bitcoin? Wat zou het effect zijn van een vergroting van de voorraad Bitcoin op de [Koopkracht](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power)? Wie zou een vergroting van de voorraad afwijzen?
 
 
-> **Light**
->
+<!-- card: light -->
 > Een eindige voorraad betekent ook niet dat elke bitcoin te koop is; sommige worden mogelijk langdurig aangehouden of zijn ontoegankelijk geworden doordat sleutels verloren zijn gegaan.
 
 

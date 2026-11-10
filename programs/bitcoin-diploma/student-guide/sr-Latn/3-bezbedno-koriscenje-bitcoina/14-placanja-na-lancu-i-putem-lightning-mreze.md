@@ -4,22 +4,26 @@
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
+[Plaćanja na lancu beleže se direktno u blokčejnu Bitcoina, dok je Lightning platna mreža izgrađena na Bitcoinu za brza i česta plaćanja, koja mogu i da ne uspeju. Obe opcije mogu biti uz posrednika koji čuva vaša sredstva ili uz samostalno čuvanje sredstava.](/micrographics/on-chain-and-lightning-01/sr-Latn.md)
 
 
 
+<!-- card: definition -->
 > **Definition – Plaćanja na lancu i putem Lightning mreže**
 >
 > [Plaćanja na lancu](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-payment) beleže se u Bitcoinovom [blokčejnu](https://curriculum.myfirstbitcoin.org/lexicon/en/#blockchain) i dobijaju [potvrde](https://curriculum.myfirstbitcoin.org/lexicon/en/#confirmation). Lightning je mreža za plaćanje izgrađena na Bitcoinu koja može da podrži brza i česta plaćanja. Plaćanje putem Lightning mreže može se brzo završiti ili biti neuspešno, a novčanik koji se koristi i dalje može biti uz staranje pružaoca usluge ili uz samostalno staranje korisnika.
 
 
 
-> **Dark – Putanja plaćanja ne određuje ko čuva sredstva**
+<!-- card: dark -->
+> **Putanja plaćanja ne određuje ko čuva sredstva**
 >
 > Plaćanja na lancu i putem Lightning mreže podrazumevaju različite [kompromise](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off). Lightning novčanik može biti uz staranje pružaoca usluge ili uz samostalno staranje korisnika, a brzo i uspešno plaćanje ne dokazuje da je usluga prikladna za veće iznose sredstava ili za svaku situaciju.
 
 
 
 <!-- micrographic: onchain-lightning-table-01 -->
+[Tabela koja poredi Bitcoin na lancu i Lightning: podatke za prijem, ishod plaćanja, uobičajenu upotrebu i provere za početnike. Kod oba načina sredstva može čuvati posrednik ili ih možete čuvati samostalno.](/micrographics/onchain-lightning-table-01/sr-Latn.md)
 
 
 Koju putanju primalac očekuje? Pre plaćanja proverite da li je dostavio adresu na lancu ili [Lightning fakturu](https://curriculum.myfirstbitcoin.org/lexicon/en/#lightning-invoice) ili zahtev za plaćanje. Novčanik za plaćanja na lancu ne može direktno da plati svaku [Lightning fakturu](https://curriculum.myfirstbitcoin.org/lexicon/en/#lightning-invoice), a Lightning novčanik možda ne podržava svaku radnju na lancu. Neke aplikacije podržavaju obe putanje, ali mogu dodati naknade ili zavisnost od drugih usluga. Detaljno podešavanje Lightning mreže, kanali, rutiranje i [likvidnost](https://curriculum.myfirstbitcoin.org/lexicon/en/#lightning-liquidity) spadaju u [Napredno učenje](https://curriculum.myfirstbitcoin.org/programs/advanced-modules/); praktično vežbanje uživo u lokalnom okruženju spada u **Modul 4** kada je bezbedno i primereno.

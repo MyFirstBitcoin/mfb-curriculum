@@ -4,6 +4,7 @@ Proći ćete kroz tri faze: **Prezentacija**, u kojoj vam predavač pokazuje pos
 
 
 <!-- micrographic: presentation-practice-production-01 -->
+[Praktična veština se uči u tri faze, sleva nadesno: Predstavljanje, u kojem edukator prikazuje postupak i njegove rizike, zatim Vežbanje, vođeno uvežbavanje uz bezbedne materijale za obuku, pa Samostalna primena, u kojoj polaznik samostalno izvršava zadatak ili objašnjava odluku.](/micrographics/presentation-practice-production-01/sr-Latn.md)
 
 
 Vaša radionica može obuhvatati:

@@ -1,6 +1,7 @@
 # 10.5 Module 4 readiness gate
 
-> **Callout – Do not deliver a live Module 4 activity until every check passes**
+<!-- card: callout -->
+> **Do not deliver a live Module 4 activity until every check passes**
 >
 > If a check below is not satisfactory, use a simulation, printed route, or a different activity. Do not compensate for an unsafe or unverified route by asking learners to accept more risk.
 
@@ -22,3 +23,4 @@ Do not deliver a live module until every required answer is satisfactory.
 
 
 <!-- micrographic: module-4-readiness-gate-01 -->
+[Eight checks cover purpose, competency, educator capability, tools, local rules, safety, access and observation. Every check must be satisfactory for live delivery; a gap leads to a safer route or revised plan and another readiness review.](/micrographics/module-4-readiness-gate-01/en.md)

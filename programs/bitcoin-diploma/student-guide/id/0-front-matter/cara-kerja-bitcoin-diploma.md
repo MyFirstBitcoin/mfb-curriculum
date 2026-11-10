@@ -22,6 +22,7 @@ Setiap modul mengikuti pola yang sama:
 
 
 <!-- micrographic: learning-rhythm-strip-01 -->
+[Pola pembelajaran lima langkah: pelajari gagasan utama, tunjukkan apa yang dapat Anda jelaskan atau terapkan, terapkan gagasan tersebut, jelaskan dengan kata-kata Anda sendiri, dan tinjau keterkaitannya dengan modul berikutnya.](/micrographics/learning-rhythm-strip-01/id.md)
 
 
 Anda akan belajar lebih banyak dengan berpartisipasi daripada hanya membaca dalam hati. Beberapa pertanyaan tidak memiliki satu jawaban yang benar. Yang penting adalah apakah Anda dapat menjelaskan penalaran Anda, menelaah bukti, dan memperbarui pandangan Anda ketika mempelajari sesuatu yang baru.
@@ -81,7 +82,8 @@ Saat tiba waktunya untuk berlatih menggunakan [dompet Bitcoin](https://curriculu
 ### Keselamatan, tanggung jawab, dan tanpa nasihat keuangan
 
 
-> **Callout – Belajar terlebih dahulu; ini bukan rekomendasi**
+<!-- card: callout -->
+> **Belajar terlebih dahulu; ini bukan rekomendasi**
 >
 > Diploma Bitcoin hanya ditujukan untuk pendidikan. Program ini tidak memberikan nasihat keuangan, investasi, hukum, atau perpajakan. Program ini tidak menjanjikan bahwa bitcoin akan mengalami kenaikan [harga](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) atau menyarankan agar Anda membeli, menjual, meminjam dengan jaminan bitcoin, atau menyimpan bitcoin dalam jumlah berapa pun.
 >
@@ -104,6 +106,7 @@ Diploma terdiri atas alur pembelajaran empat tahap: **Masalah → Solusi → Tin
 
 
 <!-- micrographic: learning-path-roadmap-01 -->
+[Peta jalan empat tahap: Masalah, Memahami Uang; Solusi, Cara Kerja Bitcoin; Tindakan, Menggunakan Bitcoin dengan Aman; dan Hubungkan, Bitcoin di Komunitas Anda, masing-masing dengan pertanyaan panduannya.](/micrographics/learning-path-roadmap-01/id.md)
 
 
 **Modul 4** merupakan bagian wajib dari Diploma yang dikurasi oleh pendidik. Pendidik adalah ahli dalam hal kendala, solusi, alat, sumber daya, hukum, bahasa, infrastruktur, dan kebutuhan setempat yang dihadapi peserta didiknya. Pengalaman pada tahap Menghubungkan yang dikurasi oleh pendidik dapat mencakup memperoleh penghasilan, menabung, menerima pembayaran, berbelanja, [Lapisan 2](https://curriculum.myfirstbitcoin.org/lexicon/en/#layer-2) sebagai solusi, jalur pertukaran setempat, pedagang, atau ekonomi sirkular.
@@ -118,6 +121,7 @@ Keempat modul menyediakan alur pembelajaran wajib Masalah → Solusi → Tindaka
 
 
 <!-- micrographic: four-module-table-01 -->
+[Tabel empat modul beserta peran, pertanyaan panduan, dan hal yang akan dilatih oleh peserta didik dalam setiap modul: Memahami Uang, Cara Kerja Bitcoin, Menggunakan Bitcoin dengan Aman, dan Bitcoin di Komunitas Anda.](/micrographics/four-module-table-01/id.md)
 
 
 Diploma memerlukan waktu setidaknya delapan jam. Empat sesi yang masing-masing berdurasi dua jam merupakan format terencana yang paling singkat, bukan batas waktu. Pendidik Anda dapat membagi satu modul ke dalam lebih banyak sesi, membahas kembali gagasan sebelumnya, atau mengubah urutan bagian-bagian tertentu ketika kelompok belajar Anda membutuhkan lebih banyak waktu untuk berdiskusi, berlatih, mengulang materi, atau menjalani penilaian. Tidak ada batas waktu maksimum: pendidik tetap bertanggung jawab untuk memberikan waktu yang dibutuhkan peserta didik, mencakup seluruh kompetensi wajib, dan memperjelas keterkaitan antarmodul.

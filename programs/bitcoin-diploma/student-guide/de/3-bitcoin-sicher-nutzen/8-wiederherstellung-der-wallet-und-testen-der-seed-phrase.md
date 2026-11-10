@@ -8,6 +8,7 @@ Eine sichere Übung zur Wiederherstellungsbereitschaft ist einfach:
 
 
 <!-- micrographic: practice-wallet-recovery-01 -->
+[Eine Übung in sechs Schritten zur Wiederherstellung einer Übungs-Wallet: offizielle Anleitung befolgen, Kompatibilität prüfen, ungestört arbeiten, die freigegebene Wiederherstellungsmethode verwenden, die erwartete Wallet bestätigen und anschließend zurücksetzen. Verwenden Sie nur vorbereitete, leere oder simulierte Materialien; die Lehrkraft sieht die Wiederherstellungswörter niemals.](/micrographics/practice-wallet-recovery-01/de.md)
 
 
 Verwenden Sie eine Übungs-Wallet oder deren Wiederherstellungsinformationen nach dem Diploma nicht, um nennenswerte Beträge zu sichern. Eine persönliche Wallet, falls Sie sich später entscheiden, eine zu erstellen, erfordert eine neue, private Einrichtung und neue Wiederherstellungsinformationen.

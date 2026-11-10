@@ -14,3 +14,4 @@ Với hầu hết các khái niệm, hãy sử dụng trình tự sau:
 
 
 <!-- micrographic: learning-rhythm-01 -->
+[Nhà giáo dục xác định mục đích, khơi gợi những ý tưởng sẵn có, giải thích, kiểm tra, hướng dẫn áp dụng, mời người học tự thực hiện, tổng kết, mời người học suy ngẫm và kết nối với khái niệm tiếp theo. Nếu câu trả lời chưa rõ ràng, hãy quay lại phần giải thích hoặc thực hành.](/micrographics/learning-rhythm-01/vi.md)

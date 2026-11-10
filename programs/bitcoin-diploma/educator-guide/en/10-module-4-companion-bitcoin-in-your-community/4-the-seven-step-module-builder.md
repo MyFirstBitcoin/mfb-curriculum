@@ -1,6 +1,7 @@
 # 10.4 The seven-step module builder
 
 <!-- micrographic: seven-step-module-builder-01 -->
+[Seven planning steps lead from the local context and need to a focused, verified task, a safe teaching sequence, clear assessment and a debrief. The existing alternative stays in view, and an unsuitable option returns to planning.](/micrographics/seven-step-module-builder-01/en.md)
 
 
 #### 1. Learn the local context

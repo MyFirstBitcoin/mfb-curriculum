@@ -8,6 +8,7 @@
 
 
 <!-- micrographic: presentation-practice-production-01 -->
+[Nauka umiejętności praktycznej przebiega w trzech etapach, od lewej do prawej: Prezentacja, podczas której osoba prowadząca zajęcia pokazuje proces i związane z nim zagrożenia, następnie Ćwiczenie, czyli próby pod kierunkiem z wykorzystaniem bezpiecznych materiałów szkoleniowych, a na końcu Samodzielne wykonanie, podczas którego osoba ucząca się samodzielnie wykonuje zadanie lub wyjaśnia swoją decyzję.](/micrographics/presentation-practice-production-01/pl.md)
 
 
 ![](https://cdn.sanity.io/images/vje9ehw2/production/3d2cf07203a6fd4017e7adbac198e73b190e99cf-1881x836.svg)
