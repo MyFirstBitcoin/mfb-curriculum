@@ -28,7 +28,7 @@ Các ngân hàng thường tìm kiếm [lợi nhuận](https://curriculum.myfirs
 [Rủi ro thanh khoản: nhiều người gửi tiền xếp hàng rút tiền hôm nay, và ngân hàng hiện không có đủ tiền mặt dù các khoản cho vay của ngân hàng có thể được hoàn trả sau này. Rủi ro mất khả năng thanh toán: người vay không trả được nợ vay mua nhà, và giá trị tài sản của ngân hàng trở nên thấp hơn số tiền ngân hàng đang nợ.](/micrographics/liquidity-vs-solvency-01/vi.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
 
 
 

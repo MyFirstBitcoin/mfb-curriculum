@@ -38,7 +38,7 @@ Chọn một lộ trình thực hành mà người học cảm thấy an toàn v
 [Để lập kế hoạch cho một nhóm học viên, hãy nhân số học viên với thời gian dự kiến dành cho việc hỗ trợ và quan sát mỗi người, sau đó cộng thêm thời gian cho việc chuẩn bị, phản hồi, đáp ứng nhu cầu tiếp cận và đánh giá lại. Nếu các nhà giáo không có đủ thời gian, hãy thay đổi kế hoạch: giảm số học viên, tăng số nhà giáo hoặc tăng thời gian.](/micrographics/cohort-capacity-check-01/vi.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
 
 ### Bảng đối chiếu năng lực với minh chứng
 

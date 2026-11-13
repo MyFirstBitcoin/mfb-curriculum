@@ -15,4 +15,4 @@ Huwag gumamit ng wallet para sa pagsasanay o ng impormasyon sa pagbawi nito upan
 
 Ang layunin ay hindi upang magmukhang madali ang pagbawi. Ang layunin ay maunawaan ang proseso bago pa magdulot ng presyon ang pagpalya ng isang device.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/424d932ace1728a75636a76182ae9a42621ed91c-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/424d932ace1728a75636a76182ae9a42621ed91c-1536x1024.svg)

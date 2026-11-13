@@ -4,7 +4,7 @@
 
 Ngang hàng không phải lúc nào cũng có nghĩa là chỉ hai máy tính giao tiếp trực tiếp với nhau. Một [giao dịch](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) có thể đi qua các ví, nhà cung cấp internet và nhiều [nút mạng](https://curriculum.myfirstbitcoin.org/lexicon/en/#node). Điểm quan trọng là không cần bên vận hành Bitcoin trung tâm nào phê duyệt người gửi hay người nhận.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
 
 
 <!-- micrographic: peer-to-peer-route-01 -->

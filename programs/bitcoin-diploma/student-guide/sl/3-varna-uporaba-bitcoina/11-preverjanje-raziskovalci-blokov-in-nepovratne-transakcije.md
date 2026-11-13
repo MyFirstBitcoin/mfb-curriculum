@@ -22,4 +22,4 @@ Kaj lahko ti javni podatki pokažejo in česa ne morejo? Pri posamezni [transakc
 [Transakcija čaka nepotrjena v bazenu nepotrjenih transakcij, nato je vključena v blok N, kar pomeni njeno prvo potrditev, vsak naslednji blok pa doda še eno.](/micrographics/confirmation-timeline-01/sl.md)
 
 
-![Izobraževalec in starejši udeleženec razpravljata o pripravljenem primeru na zaslonu, obrnjenem proti skupini, medtem ko tehnično vešči udeleženec upravlja miško; gledalec vidi zadnjo stran ohišja.](https://cdn.sanity.io/images/vje9ehw2/production/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)
+![Izobraževalec in starejši udeleženec razpravljata o pripravljenem primeru na zaslonu, obrnjenem proti skupini, medtem ko tehnično vešči udeleženec upravlja miško; gledalec vidi zadnjo stran ohišja.](https://cdn.sanity.io/images/vje9ehw2/staging/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)

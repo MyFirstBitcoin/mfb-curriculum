@@ -23,7 +23,7 @@
 
 这些标题是有意重复的。这种重复是为新教师提供的导航辅助，而非必须记住的内容。
 
-![教育者指着一本打开的课程指南中的图表，初学者和年长学员在各自的指南中跟着查看。](https://cdn.sanity.io/images/vje9ehw2/production/f4e6dd8cd876afad89cef117fc6845f0b599f408-1054x1492.png)
+![教育者指着一本打开的课程指南中的图表，初学者和年长学员在各自的指南中跟着查看。](https://cdn.sanity.io/images/vje9ehw2/staging/f4e6dd8cd876afad89cef117fc6845f0b599f408-1054x1492.png)
 
 ### 不确定时可以使用的话语
 

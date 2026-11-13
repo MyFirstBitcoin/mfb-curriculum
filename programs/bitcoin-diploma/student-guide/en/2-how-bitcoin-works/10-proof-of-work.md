@@ -1,6 +1,6 @@
 # 2.10 Proof of work
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
 <!-- card: definition -->
@@ -29,4 +29,4 @@ When a [miner](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) finds a 
 
 [Proof of work](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) involves a real energy cost. Supporters argue that this cost is what anchors Bitcoin's security and can create demand for flexible or otherwise unused energy. Critics question the amount and source of energy used. A responsible evaluation asks what energy is used, where it comes from, what security it provides, and what alternatives are being compared.
 
-![The educator, beginner learner, and technical learner discuss a tabletop mining unit with a fan and separate power supply.](https://cdn.sanity.io/images/vje9ehw2/production/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)
+![The educator, beginner learner, and technical learner discuss a tabletop mining unit with a fan and separate power supply.](https://cdn.sanity.io/images/vje9ehw2/staging/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)

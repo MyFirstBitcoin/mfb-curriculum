@@ -8,7 +8,7 @@ Proyek ini dimulai dengan kelas-kelas tatap muka kecil di El Salvador pada tahun
 
 Pekerjaan kami bersifat independen, digerakkan oleh komunitas, dan berfokus pada Bitcoin. Kami berfokus pada literasi keuangan, pemikiran yang cermat, dan praktik keamanan - bukan perdagangan, spekulasi, atau promosi token lain. Kami tidak meminta Anda menerima suatu keyakinan. Sebaliknya, kami menyediakan konsep, pertanyaan, dan pengetahuan praktis agar Anda dapat menarik kesimpulan sendiri.
 
-![Pendidik menyambut pemula, peserta didik berusia lanjut, pemilik usaha, peserta didik bidang teknis, dan peserta didik muda ke dalam kelompok belajar bersama.](https://cdn.sanity.io/images/vje9ehw2/production/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
+![Pendidik menyambut pemula, peserta didik berusia lanjut, pemilik usaha, peserta didik bidang teknis, dan peserta didik muda ke dalam kelompok belajar bersama.](https://cdn.sanity.io/images/vje9ehw2/staging/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
 
 ### Misi kami: pendidikan Bitcoin yang independen dan bersumber terbuka
 

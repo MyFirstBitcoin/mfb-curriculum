@@ -34,4 +34,4 @@ Distribua cenários curtos e fictícios pela sala. Em cada estação, os alunos 
 
 Inclua uma mensagem de aparência legítima, sem nenhum erro de ortografia evidente. Não se deve ensinar que os golpes são fáceis de identificar apenas porque parecem amadores.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)

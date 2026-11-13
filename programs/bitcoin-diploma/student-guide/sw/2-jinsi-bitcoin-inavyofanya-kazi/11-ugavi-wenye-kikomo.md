@@ -44,4 +44,4 @@ Kikomo cha milioni 21 kinasimamiwa na [nodi](https://curriculum.myfirstbitcoin.o
 > Ugavi wenye kikomo pia haumaanishi kwamba kila bitcoin inapatikana kwa ajili ya kuuzwa; baadhi zinaweza kushikiliwa kwa muda mrefu au kutofikika kwa sababu funguo zilipotea.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

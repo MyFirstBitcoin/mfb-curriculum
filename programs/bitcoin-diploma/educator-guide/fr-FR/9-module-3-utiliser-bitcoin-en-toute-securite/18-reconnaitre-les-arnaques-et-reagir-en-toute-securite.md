@@ -34,4 +34,4 @@ Disposez de courts scénarios fictifs à différents endroits de la salle. À ch
 
 Incluez un message d’apparence légitime, sans faute d’orthographe évidente. Ne présentez pas les arnaques comme faciles à repérer uniquement parce qu’elles ont une apparence peu professionnelle.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)

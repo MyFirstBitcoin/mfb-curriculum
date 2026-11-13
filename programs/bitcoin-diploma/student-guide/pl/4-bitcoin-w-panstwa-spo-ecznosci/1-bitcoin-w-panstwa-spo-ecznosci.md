@@ -1,6 +1,6 @@
 # 4.1 Bitcoin w Państwa społeczności
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
 
 To etap **Łączenie** w programie Dyplom Bitcoin. Połączą Państwo wady współczesnego systemu pieniężnego i [związane z nim kompromisy](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off), odpowiedź Bitcoina na te problemy oraz odpowiedzialność za bezpieczne korzystanie, omówione w **modułach 1–3**, z lokalną potrzebą lub możliwością, realistyczną alternatywą i bezpiecznym zadaniem praktycznym. Nie oczekuje się od Państwa rozpoczęcia korzystania z Bitcoina ani uznania go za najlepszą opcję w każdej lokalnej sytuacji.
 

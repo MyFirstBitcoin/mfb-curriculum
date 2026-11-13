@@ -1,6 +1,6 @@
 # 2.10 Prueba de trabajo
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
 <!-- card: definition -->
@@ -29,4 +29,4 @@ Cuando un [minero](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) encu
 
 [La prueba de trabajo](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) implica un costo energético real. Sus defensores argumentan que este costo es lo que sustenta la seguridad de Bitcoin y puede generar demanda de energía de uso flexible o que de otro modo no se aprovecharía. Sus críticos cuestionan la cantidad y la procedencia de la energía utilizada. Una evaluación responsable examina qué energía se utiliza, de dónde proviene, qué seguridad proporciona y qué alternativas se están comparando.
 
-![El educador, el estudiante principiante y el estudiante con conocimientos técnicos conversan sobre una unidad de minería de sobremesa con un ventilador y una fuente de alimentación independiente.](https://cdn.sanity.io/images/vje9ehw2/production/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)
+![El educador, el estudiante principiante y el estudiante con conocimientos técnicos conversan sobre una unidad de minería de sobremesa con un ventilador y una fuente de alimentación independiente.](https://cdn.sanity.io/images/vje9ehw2/staging/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)

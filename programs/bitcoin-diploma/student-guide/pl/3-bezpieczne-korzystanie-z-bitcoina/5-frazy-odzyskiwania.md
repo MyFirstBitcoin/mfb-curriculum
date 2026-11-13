@@ -36,4 +36,4 @@ Niektóre portfele wykorzystują dodatkowe hasła, wiele kluczy lub inne systemy
 [Zapisywanie kopii zapasowej frazy odzyskiwania w trzech krokach: ekran portfela wyświetla słowa, następnie przepisują je Państwo ręcznie na papier w tej samej kolejności, a na koniec sprawdzają każde słowo, porównując je z ekranem. Proszę zrobić to na osobności i bez połączenia z internetem.](/micrographics/seed-phrase-paper-backup-01/pl.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)

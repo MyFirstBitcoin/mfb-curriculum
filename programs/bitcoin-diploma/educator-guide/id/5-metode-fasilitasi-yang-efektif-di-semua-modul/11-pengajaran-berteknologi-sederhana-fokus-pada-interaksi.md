@@ -6,4 +6,4 @@ Bahan ajar sederhana dapat mengurangi waktu persiapan dan gangguan, sehingga ter
 
 Semakin banyak alat yang digunakan, semakin rumit pula prosesnya. Tambahkan alat jika alat tersebut membantu peserta didik memahami atau mempraktikkan sesuatu, dan selalu siapkan alternatif yang sederhana. Utamakan kualitas keterlibatan: apakah peserta didik berpartisipasi, mengajukan pertanyaan, menjelaskan pemikiran mereka, dan menunjukkan apa yang mereka pahami? Pilih pendekatan yang mendukung pembelajaran tersebut.
 
-![Pendidik dan peserta didik yang lebih tua menata kartu pembelajaran, sementara peserta didik yang lebih muda ikut berpartisipasi dengan buku catatan.](https://cdn.sanity.io/images/vje9ehw2/production/f062a7d4ca6c0e188b299060e170b244e0ee7acb-1054x1492.png)
+![Pendidik dan peserta didik yang lebih tua menata kartu pembelajaran, sementara peserta didik yang lebih muda ikut berpartisipasi dengan buku catatan.](https://cdn.sanity.io/images/vje9ehw2/staging/f062a7d4ca6c0e188b299060e170b244e0ee7acb-1054x1492.png)

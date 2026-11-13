@@ -26,11 +26,11 @@
 
 ### Приклучете се на заедница за учење
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
 
 Едукативната [мрежа за Биткоин](https://myfirstbitcoin.org/about/network) ги поврзува независните едукатори и локалните заедници за учење. Најдете заедница во Ваша близина или заедница чија работа Ве интересира и контактирајте ја за да прашате како можете да учите, да волонтирате или да придонесете. Учеството е изборно и не влијае врз завршувањето на Дипломата, оценувањето или сертификацијата.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
 
 ### Потсетник за безбедноста
 
@@ -92,13 +92,13 @@
 
 Вашиот најважен резултат не е сертификатот. Тоа е способноста јасно да ги објасните парите и Биткоин, да препознавате ризик, да проверувате пред да постапите и да продолжите самостојно да учите.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
 
 ### Поддржете бесплатно образование за Биткоин
 
 Образовните ресурси на My First Bitcoin се бесплатни и со отворен код. Доброволната поддршка помага во одржувањето на наставната програма, обуката на едукатори и проширувањето на пристапот.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
 
 
 https://donate.myfirstbitcoin.org
@@ -112,4 +112,4 @@ _Поддржете го My First Bitcoin_
 ---
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)

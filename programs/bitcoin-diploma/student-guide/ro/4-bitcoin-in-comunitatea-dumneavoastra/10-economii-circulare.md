@@ -21,7 +21,7 @@ Schițați un circuit local simplu:
 1. Ce se întâmplă când accesul la internet se întrerupe?
 1. Ce riscuri de [custodie](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) și de [preț](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) își asumă fiecare participant?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
 
 O economie circulară sănătoasă depinde de participarea voluntară. Comercianții și lucrătorii ar trebui să poată identifica riscurile asociate plăților, stabilirii prețurilor, [custodiei](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), contabilității și [volatilității](https://curriculum.myfirstbitcoin.org/lexicon/en/#volatility). Cifrele privind adoptarea nu arată, prin ele însele, dacă rețeaua este utilă.
 

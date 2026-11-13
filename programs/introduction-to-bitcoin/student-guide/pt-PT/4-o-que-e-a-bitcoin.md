@@ -20,4 +20,4 @@ Uma nota sobre a grafia: **Bitcoin** com B maiúsculo designa normalmente a rede
 
 O Bitcoin também tem contrapartidas. O seu preço pode mudar rapidamente. Os erros são normalmente permanentes. A aceitação ainda é limitada em muitos lugares, e utilizá-lo com segurança exige alguma aprendizagem. O Bitcoin substitui parte da confiança nas instituições por verificação e responsabilidade pessoal. Não elimina o risco.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

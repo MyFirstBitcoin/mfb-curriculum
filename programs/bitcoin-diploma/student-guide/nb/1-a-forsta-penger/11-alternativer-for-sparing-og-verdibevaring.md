@@ -9,7 +9,7 @@ Folk søker ofte alternativer til å holde kontanter når de tror at kontantene 
 
 En [eiendel](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) er noe en person kan eie eller ha krav på, som kan ha [verdi](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); den oppfyller ikke automatisk alle pengenes funksjoner. En bolig kan bevare [verdi](https://curriculum.myfirstbitcoin.org/lexicon/en/#value), men er ikke praktisk å bruke til å kjøpe mat. En aksje kan være lett å selge i ett land, men utilgjengelig for noen uten en konto hos en aksjemegler. [Gull](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) har fungert som penger gjennom lange perioder av historien, men kan være vanskelig å kontrollere ektheten av eller dele opp ved en liten handel.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 Folk kan også velge utenlandsk [valuta](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency), statlige [obligasjoner](https://curriculum.myfirstbitcoin.org/lexicon/en/#bond), private bedrifter, jord, verktøy, utdanning eller andre [eiendeler](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset). Hvert valg innebærer [alternativkostnad](https://curriculum.myfirstbitcoin.org/lexicon/en/#opportunity-cost) og risiko. Det finnes ingen [eiendel](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) som garanterer [kjøpekraft](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) i alle perioder og situasjoner.
 

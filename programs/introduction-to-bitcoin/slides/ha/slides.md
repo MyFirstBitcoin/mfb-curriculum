@@ -19,7 +19,7 @@ Muna amfani da kuɗi kowace rana, amma ba kasafai muke tambayar yadda yake aiki 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Yawancin Mutane Ba Sa Taɓa Tsayawa Su Yi Tunani Game da Kuɗi
 
@@ -29,7 +29,7 @@ Ba samun shi ba, ba kashe shi ba, sai dai tunani a kan abin da yake da yadda yak
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Tambayoyi Biyar don Farawa
 
@@ -49,7 +49,7 @@ Ba samun shi ba, ba kashe shi ba, sai dai tunani a kan abin da yake da yadda yak
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Gaskiya ko Ra’ayi?
 
@@ -74,7 +74,7 @@ Kuɗi kayan aiki ne na musayar kayayyaki.
 
 Dole ne kowane ɗaya daga cikin mutanen biyu ya buƙaci abin da ɗayan yake da shi, a lokaci guda kuma a adadin da ya dace.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Ku yi amfani da misalin da ke cikin jagorar: kuna noman shinkafa kuma kuna buƙatar takalma, amma mai yin takalman yana son man girki, ba shinkafa ba. Masana tattalin arziki suna kiran wannan daidaituwar buƙatun ɓangarori biyu. -->
 
@@ -96,13 +96,13 @@ Dole ne kowane ɗaya daga cikin mutanen biyu ya buƙaci abin da ɗayan yake da s
 
 Babu wanda yake son kuɗi don kuɗin kawai. Kuɗi suna da amfani domin wasu suna karɓarsu, suna sa ran wasu ma za su karɓe su daga baya.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Takardar kuɗi takarda ce kawai. Kuɗi suna magance matsalar ciniki na canji ta hanyar raba sayarwa da sayayya: kuna sayar da shinkafarku ga mutum ɗaya, sannan ku sayi takalma daga wani. Wannan shi ne abin da ya bambanta kuɗi da ciniki na canji. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Abubuwa Uku da Kuɗi Ke Yi
 
@@ -114,7 +114,7 @@ Babu kuɗin da ke adana ƙima ba tare da wata asara ba, amma wasu nau'o'in kuɗi
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Daga Bawo zuwa Takarda
 
@@ -161,13 +161,13 @@ Idan mutane suka ji kalmar hauhawar farashi, yawanci suna tunanin tashin farashi
 
 ## Hauhawar Farashi da Ƙarfin Saye
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Hauhawar farashi ita ce ci gaba da ƙaruwa a matakin farashin kayayyaki da ayyuka gaba ɗaya. Ɗayan ɓangarenta shi ne ƙarfin saye: yawan abin da raka'a ɗaya ta kuɗi za ta iya saya. Idan farashin kwandon kayan masarufi ya tashi daga raka'a 100 na kuɗi zuwa 110, raka'a 100 ɗin nan ba za su ƙara iya sayen duk abin da ke cikin kwandon ba. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Dalilai da Yawa, Zaɓi Ɗaya
 
@@ -285,7 +285,7 @@ Ana iya raba bitcoin guda ɗaya zuwa ƙananan raka'a 100,000,000 da ake kira sat
 
 ## Wa Ke Sa Bitcoin Ya Ci Gaba da Aiki?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Masu amfani suna aikawa, karɓa, da adana bitcoin; nododi suna tantance kowace mu’amala da kowane tubali bisa ƙa’idoji; masu haƙa suna fafatawa don ƙara sabon tubali a kundin bayanai kusan kowane mintuna goma. Wannan kundin bayanai, wato sarkar tubala, a buɗe yake ga kowa, kuma sake rubuta shi yana da matuƙar tsada. Bayani kan yadda ake rubuta sunan: Bitcoin mai babban harafin B yawanci yana nufin hanyar sadarwa ko tsarin; bitcoin mai ƙaramin harafin b yana nufin kuɗin kansa. -->
 
@@ -330,7 +330,7 @@ Zaɓin hanyar riƙon kuɗi ba gwajin kimarku ba ne. Abin da ke da muhimmanci shi
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Jerin Kalmomin Sirrinku Shi Ne Cikakkiyar Damar Shiga
 
@@ -350,7 +350,7 @@ Jerin kalmomi da aka tsara bisa jeri, yawanci 12 ko 24, waɗanda za a iya amfani
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Kafin Ku Yi Amfani da Kowace Walat
 
@@ -391,7 +391,7 @@ Jerin kalmomi da aka tsara bisa jeri, yawanci 12 ko 24, waɗanda za a iya amfani
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Ku Dakata, Kada Ku Raba Komai, Kada Ku Aika Komai
 
@@ -426,7 +426,7 @@ Wannan mafari ne kawai.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Difloma na Bitcoin
 

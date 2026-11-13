@@ -12,9 +12,9 @@ I roto i te pūnaha whakawhiti rawa, ka whai hua noa te tauhokohoko ina hiahia n
 
 He **ara whakawhiti**: ka whakaae te tangata ki te moni hei utu. He **waeine kaute**: ka whakaaturia ngā utu ki taua waeine, kia taea ai e tātou te whakataurite te uara o ngā mea rerekē. He **pupuri uara** anō hoki: ka kawe i te uara mai i tēnei rā ki anamata. Kāore he momo moni e tino pupuri pai ana i te uara i ngā wā katoa, engari he pōturi ake te heke o te kaha hoko o ētahi momo i ētahi atu.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Mai rā anō, he maha ngā mea kua whakamahia hei moni: ko te angaanga, te tote, te pirepire, te kararehe pāmu, te konukura, te hiriwa me te kōura. I whakamahia whānuitia ngā konganuku utu nui nā te mea he onge, he roa te mau, ā, i whakaaetia whānuitia. Engari he uaua te kawe me te tiaki konganuku, nō reira ka tīmata ngā pēke ki te tuku pepa taunaki e taea ana te whakawhiti mō tētahi rahinga konganuku kua tohua. I raro i ngā momo rerekē o te **paerewa kōura**, i herea ā-ture tētahi waeine moni ki tētahi rahinga kōura. I rerekē ngā ture i tēnā wāhi, i tēnā wāhi, i tēnā wā, i tēnā wā.
 

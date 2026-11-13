@@ -6,7 +6,7 @@ Bitcoins offentlige regler, [peer-to-peer-netværk](https://curriculum.myfirstbi
 
 Disse egenskaber kan give deltagerne større handlekraft, men de pålægger dem også et større ansvar. Uden en central myndighed til at godkende [transaktioner](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), gendanne adgang eller omgøre mange fejl skal hver enkelt person kunne identificere den rolle og de risici, vedkommende påtager sig.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
 
 For en person, der vælger [selvforvaltning](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody), giver kontrol over nøglerne direkte kontrol over bitcoin. Ingen virksomhed kan indefryse en korrekt kontrolleret on-chain-saldo. Ingen virksomhed kan gendanne en mistet [gendannelsesfrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) heller.
 

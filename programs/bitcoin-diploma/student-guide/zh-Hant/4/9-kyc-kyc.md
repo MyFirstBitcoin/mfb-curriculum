@@ -9,7 +9,7 @@
 > 無論是[KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc)還是[無 KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc)，都不必然是最佳選擇。請比較實際的途徑，在規則不明確時參考當地最新的指引，且不要為了追求[隱私](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy)而觸犯當地法律或使自己陷入人身危險。
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
 採用[KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc)的服務可能會要求您提供法定姓名、身分證件、地址、照片、資金來源資訊或其他紀錄。這可能讓該服務得以符合當地規定、與銀行連結、設定較高的額度，或支援帳戶復原。
 

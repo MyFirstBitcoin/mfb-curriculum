@@ -4,7 +4,7 @@
 
 Antarrekan tidak selalu berarti hanya dua komputer yang berkomunikasi secara langsung. Sebuah [transaksi](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) dapat melewati dompet, penyedia layanan internet, dan banyak [simpul jaringan](https://curriculum.myfirstbitcoin.org/lexicon/en/#node). Hal yang penting adalah tidak ada operator pusat Bitcoin yang harus memberikan persetujuan kepada pengirim atau penerima.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
 
 
 <!-- micrographic: peer-to-peer-route-01 -->

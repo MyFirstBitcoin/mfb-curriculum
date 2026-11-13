@@ -34,4 +34,4 @@ Beli papir je objedinio karakteristike potrebne za taj pristup:
 
 Ovaj modul detaljnije objašnjava ove pojmove. Zajedno su pružili praktičan odgovor na [problem dvostruke potrošnje](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): mreža može da odbije drugi pokušaj trošenja istog bitcoina bez oslanjanja na centralni autoritet. Bitcoin je ponudio kombinaciju koja je nedostajala i za kojom se tragalo tokom decenija eksperimenata sa digitalnim novcem.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)

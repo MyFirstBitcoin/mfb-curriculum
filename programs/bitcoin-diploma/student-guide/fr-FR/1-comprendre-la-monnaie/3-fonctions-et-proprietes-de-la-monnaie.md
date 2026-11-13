@@ -30,4 +30,4 @@ Les personnes comparent aussi les monnaies selon leur [**solidité**](https://cu
 
 **Exercez votre esprit critique :** Citez une occasion où vous avez choisi un type de monnaie ou d’[actif](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) plutôt qu’un autre. Quel était votre objectif ? Comparez les propriétés des options que vous auriez pu utiliser. Quelles propriétés comptaient le plus pour vous, et pourquoi ?
 
-![Les six personnages collaborent à une activité pédagogique hors ligne avec des cartes, tandis que la personne qui enseigne guide la discussion.](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![Les six personnages collaborent à une activité pédagogique hors ligne avec des cartes, tandis que la personne qui enseigne guide la discussion.](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)

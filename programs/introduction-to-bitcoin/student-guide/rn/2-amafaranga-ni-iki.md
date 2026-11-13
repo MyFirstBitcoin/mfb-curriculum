@@ -12,9 +12,9 @@ Mu buryo bwo kugurana ibintu ku bindi, uguhanahana gushoboka gusa igihe abantu b
 
 Ni **uburyo bwo guhanahana**: abantu barayemera mu kwishurwa. Ni **igipimo co guharura agaciro**: ibiciro bigaragazwa hakoreshejwe amahera, bigatuma dushobora kugereranya agaciro k'ibintu bitandukanye. Kandi ni **uburyo bwo kubika agaciro**: abika agaciro k'uyu musi kugira kazokoreshwe muri kazoza. Nta mahera abika agaciro ata gahaze, ariko ubwoko bumwebumwe bw'amahera butakaza ubushobozi bwo kugura buhorobuhoro kurusha ubundi.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Kuva kera, ibintu vyinshi vyarakoreshejwe nk'amahera: ibishishwa vy'ibikoko vyo mu mazi, umunyu, amasaro, ibitungwa, umujumpu, ifeza n'inzahabu. Ivyuma vy'agaciro vyaratanguye gukoreshwa cane kubera vyari imbonekarimwe, bikaramba kandi bikemerwa na benshi. Ariko gutwara no gukingira ivyuma biragoye, ni co gituma amabanki yatanguye gutanga impapuro zemeza uburenganzira bwo kuronka urugero rw'icuma rwanditse kuri zo. Mu buryo butandukanye bwa **gahunda yo gushingira agaciro k'amahera ku nzahabu**, igice kimwe c'ifaranga cari gifatanijwe n'urugero rw'inzahabu hakurikijwe amategeko. Amategeko yarahinduka bivanye n'ahantu n'igihe.
 

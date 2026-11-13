@@ -9,7 +9,7 @@ Ihmiset etsivät usein vaihtoehtoja käteisen hallussapidolle, kun he uskovat se
 
 Yksittäinen [omaisuuserä](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) on jotakin, jonka henkilö voi omistaa tai johon hänellä voi olla oikeus ja jolla voi olla [arvoa](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); se ei automaattisesti täytä kaikkia rahan tehtäviä. Asunto voi säilyttää [arvoa](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) mutta ei ole käytännöllinen ruoan ostamiseen. Osake voi olla helppo myydä yhdessä maassa, mutta se ei välttämättä ole sellaisen henkilön saatavilla, jolla ei ole arvopaperitiliä. [Kulta](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) on toiminut rahana pitkinä ajanjaksoina historiassa, mutta sen aitouden varmistaminen tai sen jakaminen osiin voi olla vaikeaa pienessä vaihtokaupassa.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 Ihmiset voivat myös valita ulkomaista [valuuttaa](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency), valtion [joukkovelkakirjoja](https://curriculum.myfirstbitcoin.org/lexicon/en/#bond), yksityisiä yrityksiä, maata, työkaluja, koulutusta tai muita [omaisuuseriä](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset). Jokaiseen valintaan liittyy [vaihtoehtoiskustannus](https://curriculum.myfirstbitcoin.org/lexicon/en/#opportunity-cost) ja riski. Ei ole olemassa [omaisuuserää](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset), joka takaisi [ostovoiman](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) kaikkina aikoina ja kaikissa tilanteissa.
 

@@ -19,7 +19,7 @@ Timagwiritsa ntchito ndalama tsiku lililonse, koma sitimakonda kufunsa kuti zima
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Anthu Ambiri Saimapo Kuti Aganizire za Ndalama
 
@@ -29,7 +29,7 @@ Osati kuipeza, osati kuigwiritsa ntchito, koma kuganizira kuti ndi chiyani koman
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Mafunso Asanu Oyambira
 
@@ -49,7 +49,7 @@ Osati kuipeza, osati kuigwiritsa ntchito, koma kuganizira kuti ndi chiyani koman
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Zoona Kapena Maganizo?
 
@@ -74,7 +74,7 @@ Ndalama ndi chida chosinthanitsira zinthu.
 
 Anthu onse awiri ayenera kufuna chimene winayo ali nacho, pa nthawi imodzi komanso pa kuchuluka koyenera.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Gwiritsani ntchito chitsanzo cha m’bukhu lophunzitsira: mumalima mpunga ndipo mukufuna nsapato, koma wopanga nsapato akufuna mafuta ophikira, osati mpunga. Akatswiri a zachuma amatcha zimenezi kugwirizana kwa zofuna za anthu awiri, pamene aliyense akufuna chimene mnzakeyo ali nacho. -->
 
@@ -96,13 +96,13 @@ Anthu onse awiri ayenera kufuna zimene winayo ali nazo, pa nthawi yomweyo komans
 
 Palibe amene amafuna ndalama chifukwa cha ndalamazo zokha. Ndalama n’zothandiza chifukwa anthu ena amazilandira, poyembekezera kuti enanso adzazilandira m’tsogolo.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Ndalama ya pepala ndi pepala chabe. Ndalama zimathetsa vuto la kusinthanitsa katundu ndi katundu polekanitsa kugulitsa ndi kugula: mumagulitsa mpunga wanu kwa munthu mmodzi n’kugula nsapato kwa munthu wina. Izi n’zimene zimasiyanitsa kugwiritsa ntchito ndalama ndi kusinthanitsa katundu ndi katundu. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Zinthu Zitatu Zimene Ndalama Zimachita
 
@@ -114,7 +114,7 @@ Palibe ndalama zomwe zimasunga mtengo wake mosasinthika, koma mitundu ina ya nda
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Kuchokera ku Zigoba za Nkhono Kupita ku Pepala
 
@@ -161,13 +161,13 @@ Anthu akamva mawu akuti kukwera kwa mitengo, nthawi zambiri amaganiza za mitengo
 
 ## Kukwera kwa Mitengo ndi Mphamvu Yogulira
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Kukwera kwa mitengo ndi kuwonjezeka kosalekeza kwa mitengo ya katundu ndi ntchito pa mlingo wamba. Mbali yake ina ndi mphamvu yogulira: kuchuluka kwa zinthu zimene gawo limodzi la ndalama lingagule. Ngati mtengo wa dengu la zinthu zofunika pa moyo ukwera kuchokera pa magawo 100 a ndalama kufika pa 110, magawo 100 omwewo sangathenso kugula zonse za m’dengulo. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Zifukwa Zambiri, Chisankho Chimodzi
 
@@ -285,7 +285,7 @@ bitcoin imodzi imagawika m'magawo ang'onoang'ono 100,000,000 otchedwa satoshis, 
 
 ## Ndani Amaonetsetsa Kuti Bitcoin Ikugwira Ntchito?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Ogwiritsa ntchito amatumiza, kulandira ndi kusunga bitcoin; ma node amaonetsetsa kuti kutumizirana kulikonse ndi buloko lililonse zikutsatira malamulo; okumba amapikisana kuti awonjezere buloko latsopano pa mbiri pafupifupi mphindi khumi zilizonse. Mbiri imeneyo, yotchedwa blockchain, ndi yoonekera kwa aliyense ndipo kuilembanso kumawononga ndalama zambiri. Mfundo yokhudza kalembedwe: Bitcoin yokhala ndi B wamkulu nthawi zambiri imatanthauza netiweki kapena dongosolo; bitcoin yokhala ndi b wamng’ono imatanthauza ndalamazo zokha. -->
 
@@ -330,7 +330,7 @@ Kusankha njira yosungira si mayeso a kufunika kwanu. Chofunika ndi kudziwa njira
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Mawu Anu Obwezeretsera Amapereka Mwayi Wonse Wolowera
 
@@ -350,7 +350,7 @@ Mndandanda wa mawu otsatizana mwadongosolo, nthawi zambiri 12 kapena 24, womwe u
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Musanagwiritse Ntchito Chikwama Chilichonse
 
@@ -391,7 +391,7 @@ Mndandanda wa mawu otsatizana mwadongosolo, nthawi zambiri 12 kapena 24, womwe u
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Imani, Musagawane Chilichonse, Musatumize Chilichonse
 
@@ -426,7 +426,7 @@ Ichi ndi chiyambi chabe.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Dipuloma ya Bitcoin
 

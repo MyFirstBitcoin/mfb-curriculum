@@ -18,7 +18,7 @@ Pošiljanje zahteva več previdnosti, saj je veljavno Bitcoin [transakcijo](http
 1. Če postopka ne poznate, najprej opravite preizkus z majhnim zneskom.
 1. Plačilo odobrite šele, ko se vse postavke ujemajo; nato preverite rezultat plačila.
 
-![Starejši udeleženec pokaže telefon za vajo, medtem ko začetnik preverja drug telefon, izobraževalec pa vodi primerjavo.](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![Starejši udeleženec pokaže telefon za vajo, medtem ko začetnik preverja drug telefon, izobraževalec pa vodi primerjavo.](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 
 <!-- micrographic: pre-send-checklist-01 -->
@@ -29,4 +29,4 @@ Pri [plačilu v verigi](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-cha
 
 Kaj morate storiti, če se cilj nepričakovano spremeni, zahtevek postane nujen ali kdo zahteva podatke za obnovitev? Ustavite se. Zahtevek neodvisno preverite ali prosite za pomoč, ne da bi razkrili skrivne podatke.
 
-![Izobraževalec vodi začetnika pri primerjanju telefona z napravo lastnika podjetja za prejemanje plačil, preden začetnik odobri plačilo.](https://cdn.sanity.io/images/vje9ehw2/production/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)
+![Izobraževalec vodi začetnika pri primerjanju telefona z napravo lastnika podjetja za prejemanje plačil, preden začetnik odobri plačilo.](https://cdn.sanity.io/images/vje9ehw2/staging/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)

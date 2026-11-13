@@ -36,4 +36,4 @@ Sommige wallets gebruiken extra wachtzinnen, meerdere sleutels of andere back-up
 [Een back-up van een seed phrase maken in drie stappen: het scherm van de Wallet toont de woorden, u schrijft ze met de hand in dezelfde volgorde over op papier en controleert daarna elk woord aan de hand van het scherm. Doe dit in afzondering en offline.](/micrographics/seed-phrase-paper-backup-01/nl.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)

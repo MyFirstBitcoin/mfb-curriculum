@@ -28,4 +28,4 @@ La [descentralización](https://curriculum.myfirstbitcoin.org/lexicon/en/#decent
 
 [La descentralización](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) también genera costos. La coordinación puede ser más lenta. Los usuarios deben verificar la información y asumir más responsabilidad. No existe un servicio central de soporte para la [red Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). Estas [concesiones](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) son parte del diseño, no defectos accidentales que puedan eliminarse sin cambiar el sistema.
 
-![El educador señala una red en una pantalla del aula mientras los estudiantes principiantes y los de perfil técnico conversan sobre ella en un escritorio.](https://cdn.sanity.io/images/vje9ehw2/production/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)
+![El educador señala una red en una pantalla del aula mientras los estudiantes principiantes y los de perfil técnico conversan sobre ella en un escritorio.](https://cdn.sanity.io/images/vje9ehw2/staging/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)

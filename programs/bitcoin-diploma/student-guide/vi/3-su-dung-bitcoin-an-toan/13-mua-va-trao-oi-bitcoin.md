@@ -15,7 +15,7 @@ Mọi người có thể nhận bitcoin thông qua công việc, khoản thanh t
 * **Trao đổi ngang hàng:** Hai người có thể trao đổi [tiền pháp định](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) hoặc hàng hóa để lấy bitcoin trực tiếp hoặc thông qua dịch vụ kết nối. Việc này có thể làm phát sinh rủi ro từ đối tác giao dịch, rủi ro về an toàn thân thể, việc đảo ngược thanh toán và gian lận.
 * **Sàn giao dịch, nhà môi giới, máy ATM hoặc ki-ốt:** Một dịch vụ hoặc máy giao dịch có thể cung cấp phương thức quen thuộc, nhưng có thể đi kèm với phí, việc xác minh danh tính, [lưu ký](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), hạn mức rút tiền hoặc [tỷ giá bất lợi](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
 
 Trước khi so sánh một phương thức, hãy đặt câu hỏi:
 

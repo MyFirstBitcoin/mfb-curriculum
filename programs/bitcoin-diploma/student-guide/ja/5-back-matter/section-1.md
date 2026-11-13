@@ -26,11 +26,11 @@
 
 ### 学習コミュニティに参加する
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
 
 独立した教育者と地域の学習コミュニティをつないでいるのが、[ビットコイン教育ネットワーク](https://myfirstbitcoin.org/about/network)です。お近くのコミュニティや、活動内容に関心のあるコミュニティを見つけ、学習、ボランティア、貢献の方法について問い合わせてみてください。参加は任意であり、ディプロマの修了、評価、認定には影響しません。
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
 
 ### 安全に関する注意事項
 
@@ -92,13 +92,13 @@ Bitcoin Diplomaは、常に更新され続けるオープンソースのカリ�
 
 最も重要な成果は証明書ではありません。お金とビットコインをわかりやすく説明し、リスクを見抜き、行動する前に確認し、自分で学び続けられる力です。
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
 
 ### 無料のビットコイン教育を支援する
 
 My First Bitcoinの教育リソースは無料かつオープンソースです。任意のご支援は、カリキュラムの維持、教育者の育成、そして利用機会の拡大に役立てられます。
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
 
 
 https://donate.myfirstbitcoin.org
@@ -112,4 +112,4 @@ _My First Bitcoinを支援する_
 ---
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)

@@ -8,7 +8,7 @@ Projekt se je začel leta 2021 s poukom v majhnih skupinah v živo v Salvadorju,
 
 Naše delo je neodvisno, vodi ga skupnost in je osredotočeno na Bitcoin. Osredotočamo se na finančno pismenost, premišljeno razmišljanje in praktično varnost – ne na trgovanje, špekulacije ali promocijo drugih žetonov. Od vas ne zahtevamo, da sprejmete neko prepričanje. Namesto tega vam ponujamo pojme, vprašanja in praktično znanje, da si lahko sami oblikujete zaključke.
 
-![Izobraževalec v skupno učno skupino sprejme začetnika, starejšega udeleženca, lastnika podjetja, tehnično usmerjenega udeleženca in mladega udeleženca.](https://cdn.sanity.io/images/vje9ehw2/production/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
+![Izobraževalec v skupno učno skupino sprejme začetnika, starejšega udeleženca, lastnika podjetja, tehnično usmerjenega udeleženca in mladega udeleženca.](https://cdn.sanity.io/images/vje9ehw2/staging/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
 
 ### Naše poslanstvo: neodvisno, odprtokodno izobraževanje o Bitcoinu
 

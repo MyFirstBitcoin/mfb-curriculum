@@ -9,7 +9,7 @@
 > Ei [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) eikä [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) ole automaattisesti paras vaihtoehto. Vertailkaa käytännön menettelyjä, hyödyntäkää ajantasaista paikallista ohjeistusta sääntöjen ollessa epäselviä älkääkä rikkoko paikallista lakia tai altistako itseänne fyysiselle vaaralle tavoitellessanne [yksityisyyttä](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
 Yksittäinen [KYC-vaatimuksia noudattava](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) palvelu voi pyytää virallista nimeä, henkilöllisyystodistusta, osoitetta, valokuvaa, tietoja varojen alkuperästä tai muita asiakirjoja. Näin palvelu voi noudattaa paikallisia sääntöjä, luoda yhteyksiä pankkeihin, asettaa korkeampia käyttörajoja tai tukea tilin palauttamista.
 

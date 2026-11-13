@@ -4,7 +4,7 @@
 
 Rakan ke rakan tidak semestinya bermaksud hanya dua komputer berkomunikasi secara langsung. Sesuatu [transaksi](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) mungkin melalui dompet, penyedia perkhidmatan internet dan banyak [nod](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) rangkaian. Perkara penting ialah tiada pengendali pusat Bitcoin yang perlu meluluskan pengirim atau penerima.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
 
 
 <!-- micrographic: peer-to-peer-route-01 -->

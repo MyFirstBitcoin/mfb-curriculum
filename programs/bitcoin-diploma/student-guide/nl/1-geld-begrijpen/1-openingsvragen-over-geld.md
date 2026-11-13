@@ -10,4 +10,4 @@ Geld bepaalt alledaagse keuzes over voedsel, vervoer, werk, sparen en het helpen
 
 Let er bij het bespreken van deze vragen op wat het verschil is tussen een feit en een mening. ‘Dit bankbiljet wordt geaccepteerd voor belastingen’ is een feit dat kan worden gecontroleerd. ‘Dit is de beste vorm van geld’ is een mening of conclusie waarvoor criteria en bewijs nodig zijn.
 
-![Alle zes personages verzamelen zich rond tafels in het klaslokaal terwijl de docent een gezamenlijke leesronde leidt uit een opengeslagen cursusgids.](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![Alle zes personages verzamelen zich rond tafels in het klaslokaal terwijl de docent een gezamenlijke leesronde leidt uit een opengeslagen cursusgids.](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)

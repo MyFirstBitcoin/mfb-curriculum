@@ -18,7 +18,7 @@ Slanje zahtijeva više opreza jer je valjanu Bitcoin [transakciju](https://curri
 1. Ako vam postupak nije poznat, izvršite probno plaćanje malog iznosa.
 1. Odobrite tek kada se sve stavke podudaraju; zatim provjerite rezultat plaćanja.
 
-![Stariji polaznik pokazuje telefon za vježbu dok početnik provjerava drugi telefon, a predavač vodi usporedbu.](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![Stariji polaznik pokazuje telefon za vježbu dok početnik provjerava drugi telefon, a predavač vodi usporedbu.](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 
 <!-- micrographic: pre-send-checklist-01 -->
@@ -29,4 +29,4 @@ Za [plaćanje na lancu](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-cha
 
 Ako se odredište neočekivano promijeni, zahtjev postane hitan ili netko zatraži podatke za oporavak, što trebate učiniti? Zastanite. Provjerite zahtjev neovisnim putem ili zatražite pomoć bez otkrivanja tajnih podataka.
 
-![Predavač vodi polaznika početnika dok uspoređuju telefon s uređajem vlasnika poduzeća za primanje uplata prije odobravanja plaćanja.](https://cdn.sanity.io/images/vje9ehw2/production/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)
+![Predavač vodi polaznika početnika dok uspoređuju telefon s uređajem vlasnika poduzeća za primanje uplata prije odobravanja plaćanja.](https://cdn.sanity.io/images/vje9ehw2/staging/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)

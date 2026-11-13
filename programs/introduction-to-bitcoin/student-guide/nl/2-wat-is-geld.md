@@ -12,9 +12,9 @@ In een systeem van ruilhandel werkt handel alleen als beide mensen willen wat de
 
 Het is een **ruilmiddel**: mensen accepteren het als betaling. Het is een **rekeneenheid**: prijzen worden erin uitgedrukt, zodat we de waarde van verschillende dingen kunnen vergelijken. En het is een **oppotmiddel**: het brengt waarde over van vandaag naar de toekomst. Geen enkel geld bewaart waarde perfect, maar sommige vormen verliezen hun koopkracht langzamer dan andere.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Door de geschiedenis heen hebben veel dingen als geld gediend: schelpen, zout, kralen, vee, koper, zilver en goud. Edelmetalen werden op grote schaal gebruikt omdat ze schaars, duurzaam en breed geaccepteerd waren. Maar metaal meedragen en beschermen is lastig, dus begonnen banken papieren vorderingen uit te geven die konden worden ingewisseld voor een vastgestelde hoeveelheid metaal. Onder verschillende vormen van een **goudstandaard** was een munteenheid wettelijk gekoppeld aan een hoeveelheid goud. De regels verschilden per plaats en periode.
 

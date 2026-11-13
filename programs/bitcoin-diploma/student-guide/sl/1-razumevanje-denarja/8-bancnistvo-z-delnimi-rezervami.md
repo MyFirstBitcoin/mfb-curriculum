@@ -28,7 +28,7 @@ To ustvarja dve pomembni tveganji:
 [Likvidnostno tveganje: številni vlagatelji danes čakajo v vrsti za dvig denarja, banka pa trenutno nima dovolj gotovine, čeprav bodo njena posojila morda odplačana pozneje. Tveganje plačilne nesposobnosti: posojilojemalci ne odplačujejo stanovanjskih posojil, vrednost sredstev banke pa pade pod višino njenih obveznosti.](/micrographics/liquidity-vs-solvency-01/sl.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
 
 
 

@@ -20,4 +20,4 @@ Nǔ ɖe ɖo nyíkɔ ɔ tɔn wiwlan jí: **Bitcoin** e nɔ jɛ gɔme kpo B ɖaxo 
 
 Bitcoin sɔ ɖo akpa e nyɔ lɛ kpo akpa e ma nyɔ ǎ lɛ kpo. Axɔ etɔn sixu lɛ́ kpakpa. Vodida lɛ nɔ te ɖo hwɛ susu. To fide susu ɔ, mɛ lɛ ma ko nɔ yí é bǐ ǎ, bo zizan é to kudo mɛ nɔ biɔ nǔ kpɔ́nkplɔ́n ɖe. Bitcoin nɔ sɔ nǔ kpɔ́ndo kpo mɛɖésu tɔn azɔ kpo ɖo jidide ɖe e mɛ nɔ ɖo ɖo sɔha lɛ ji tɛn. É ma nɔ ɖé wùnyanya sɔha bǐ ɖa ǎ.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

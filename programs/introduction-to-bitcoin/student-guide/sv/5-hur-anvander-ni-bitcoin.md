@@ -6,7 +6,7 @@ Den första frågan om en plånbok är därför: **vem kontrollerar nycklarna?**
 
 ###### Vem förvarar egentligen era bitcoin?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 Med en **plånbok med egen förvaring** kontrollerar ni nycklarna.
 

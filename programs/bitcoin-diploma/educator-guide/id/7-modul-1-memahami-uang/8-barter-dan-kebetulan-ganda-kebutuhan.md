@@ -25,4 +25,4 @@ Jelaskan bahwa [barter](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter
 
 Jika Anda menggunakan permainan, bahas penyederhanaan yang ada dalam permainan tersebut setelah selesai. Pertukaran dalam kehidupan nyata melibatkan hubungan, kredit, pemberian, kewajiban, tawar-menawar, hukum, dan interaksi yang berulang.
 
-![Pendidik memfasilitasi kegiatan pertukaran langsung antara pemula yang memegang buku catatan dan pemilik usaha yang memegang bahan makanan.](https://cdn.sanity.io/images/vje9ehw2/production/48813fb8d9434061c5c546898f4023f8748e9edd-1054x1492.png)
+![Pendidik memfasilitasi kegiatan pertukaran langsung antara pemula yang memegang buku catatan dan pemilik usaha yang memegang bahan makanan.](https://cdn.sanity.io/images/vje9ehw2/staging/48813fb8d9434061c5c546898f4023f8748e9edd-1054x1492.png)

@@ -22,4 +22,4 @@ To inspect a prepared [transaction](https://curriculum.myfirstbitcoin.org/lexico
 [A transaction waits unconfirmed in the pending pool, then is included in Block N as its first confirmation, and each later block adds one more.](/micrographics/confirmation-timeline-01/en.md)
 
 
-![The educator and older learner discuss a prepared example on a monitor facing the group while the technical learner operates the mouse; the viewer sees the rear casing.](https://cdn.sanity.io/images/vje9ehw2/production/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)
+![The educator and older learner discuss a prepared example on a monitor facing the group while the technical learner operates the mouse; the viewer sees the rear casing.](https://cdn.sanity.io/images/vje9ehw2/staging/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)

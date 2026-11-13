@@ -9,7 +9,7 @@
 > न त [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) न [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) नै स्वतः सर्वोत्तम हुन्छ। वास्तविक मार्गको तुलना गर्नुहोस्, नियमहरू अस्पष्ट हुँदा अद्यावधिक स्थानीय मार्गदर्शन लिनुहोस्, र स्थानीय कानुन उल्लङ्घन गरेर वा आफूलाई शारीरिक खतरामा पारेर नखोज्नुहोस् [गोपनीयता](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy)।
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
 एउटा [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) सेवाले कानुनी नाम, परिचयपत्र, ठेगाना, तस्बिर, रकमको स्रोतसम्बन्धी जानकारी वा अन्य अभिलेख माग्न सक्छ। यसबाट उक्त सेवाले स्थानीय नियमहरू पालना गर्न, बैंकहरूसँग जोडिन, उच्च सीमा तोक्न वा खाता पुनःप्राप्तिमा सहयोग गर्न सक्छ।
 

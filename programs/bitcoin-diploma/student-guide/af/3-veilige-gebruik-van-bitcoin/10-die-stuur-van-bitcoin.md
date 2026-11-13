@@ -18,7 +18,7 @@ Om te stuur verg meer sorg, want op Bitcoin is 'n geldige [transaksie](https://c
 1. Doen 'n klein toets wanneer die proses onbekend is.
 1. Keur slegs goed wanneer elke item ooreenstem; kontroleer dan die betalingsresultaat.
 
-![Die ouer leerder hou 'n oefenfoon voor terwyl die beginner 'n ander foon nagaan en die opvoeder die vergelyking begelei.](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![Die ouer leerder hou 'n oefenfoon voor terwyl die beginner 'n ander foon nagaan en die opvoeder die vergelyking begelei.](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 
 <!-- micrographic: pre-send-checklist-01 -->
@@ -29,4 +29,4 @@ Vir 'n [betaling op die ketting](https://curriculum.myfirstbitcoin.org/lexicon/e
 
 Wat moet u doen indien die bestemming onverwags verander, die versoek dringend word, of iemand vir herstelinligting vra? Stop. Verifieer die versoek onafhanklik, of vra hulp sonder om geheime te deel.
 
-![Die opvoeder begelei die beginnerleerder terwyl hulle 'n foon met die sake-eienaar se ontvangstoestel vergelyk voordat hulle 'n betaling goedkeur.](https://cdn.sanity.io/images/vje9ehw2/production/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)
+![Die opvoeder begelei die beginnerleerder terwyl hulle 'n foon met die sake-eienaar se ontvangstoestel vergelyk voordat hulle 'n betaling goedkeur.](https://cdn.sanity.io/images/vje9ehw2/staging/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)

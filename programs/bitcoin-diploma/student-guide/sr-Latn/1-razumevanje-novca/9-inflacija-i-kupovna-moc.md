@@ -13,7 +13,7 @@
 > [Kupovna moć](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) je količina dobara i usluga koja se može kupiti jednom novčanom jedinicom. Ako cena korpe osnovnih dobara poraste sa 100 jedinica [valute](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) na 110, istih 100 jedinica više nije dovoljno za kupovinu cele korpe. Njihova [kupovna moć](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) u odnosu na tu korpu je opala.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->

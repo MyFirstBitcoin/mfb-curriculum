@@ -13,4 +13,4 @@ Przed dyskusją na forum całej grupy proszę zastosować metodę „pomyśl–p
 
 Proszę poprosić uczestników, aby uzasadniali odpowiedzi pojęciem z kursu i przykładem, a nie sloganem.
 
-![Osoba prowadząca prosi starszego uczestnika o końcowe wyjaśnienie, podczas gdy osoba początkująca i osoba prowadząca firmę słuchają wraz ze swoimi przewodnikami.](https://cdn.sanity.io/images/vje9ehw2/production/294a2f8e8e831a2a0da998cfbc42a40102d4cc74-1054x1493.png)
+![Osoba prowadząca prosi starszego uczestnika o końcowe wyjaśnienie, podczas gdy osoba początkująca i osoba prowadząca firmę słuchają wraz ze swoimi przewodnikami.](https://cdn.sanity.io/images/vje9ehw2/staging/294a2f8e8e831a2a0da998cfbc42a40102d4cc74-1054x1493.png)

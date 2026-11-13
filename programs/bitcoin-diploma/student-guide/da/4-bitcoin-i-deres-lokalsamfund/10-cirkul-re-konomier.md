@@ -21,7 +21,7 @@ Kortlæg et simpelt lokalt kredsløb:
 1. Hvad sker der, når internetforbindelsen svigter?
 1. Hvilke [opbevaringsmæssige](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) og [prismæssige](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) risici påtager hver deltager sig?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
 
 En sund cirkulær økonomi afhænger af frivillig deltagelse. Handlende og arbejdstagere bør kunne identificere betalings-, prisfastsættelses-, [opbevarings-](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), regnskabs- og [volatilitetsrelaterede](https://curriculum.myfirstbitcoin.org/lexicon/en/#volatility) risici. Tal for udbredelsen viser ikke i sig selv, om netværket er nyttigt.
 

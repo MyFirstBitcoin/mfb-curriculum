@@ -28,4 +28,4 @@ Bitcoin's [decentralization](https://curriculum.myfirstbitcoin.org/lexicon/en/#d
 
 [Decentralization](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) also creates costs. Coordination can be slower. Users must verify information and take more responsibility. There is no central support desk for the [Bitcoin network](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). These [trade-offs](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) are part of the design, not accidental defects that can be removed without changing the system.
 
-![The educator points to a network on a classroom screen while the beginner and technical learners discuss it at a desk.](https://cdn.sanity.io/images/vje9ehw2/production/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)
+![The educator points to a network on a classroom screen while the beginner and technical learners discuss it at a desk.](https://cdn.sanity.io/images/vje9ehw2/staging/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)

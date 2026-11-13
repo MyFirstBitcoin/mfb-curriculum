@@ -12,9 +12,9 @@ Dalam sistem barter, pertukaran hanya dapat berlangsung jika kedua pihak menging
 
 Uang merupakan **alat tukar**: orang menerimanya sebagai pembayaran. Uang merupakan **satuan hitung**: harga dinyatakan dalam satuan uang, sehingga kita dapat membandingkan nilai berbagai hal. Uang juga merupakan **penyimpan nilai**: uang membawa nilai dari masa kini ke masa depan. Tidak ada uang yang menyimpan nilai secara sempurna, tetapi beberapa bentuk uang kehilangan daya beli lebih lambat daripada yang lain.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Sepanjang sejarah, banyak benda telah digunakan sebagai uang: kerang, garam, manik-manik, ternak, tembaga, perak, dan emas. Logam mulia digunakan secara luas karena langka, tahan lama, dan diterima secara luas. Namun, membawa dan menjaga logam agar tetap aman itu sulit, sehingga bank mulai menerbitkan surat bukti hak yang dapat ditukarkan dengan sejumlah logam yang tertera. Dalam berbagai versi **standar emas**, satu unit mata uang secara hukum dikaitkan dengan sejumlah emas. Aturannya berbeda-beda menurut tempat dan periode.
 

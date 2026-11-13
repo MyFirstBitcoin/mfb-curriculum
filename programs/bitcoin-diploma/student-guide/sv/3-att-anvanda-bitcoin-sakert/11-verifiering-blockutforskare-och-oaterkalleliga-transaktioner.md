@@ -22,4 +22,4 @@ För att granska en förberedd [transaktion](https://curriculum.myfirstbitcoin.o
 [En transaktion väntar obekräftad i poolen för väntande transaktioner, inkluderas sedan i block N och får därmed sin första bekräftelse, och varje efterföljande block lägger till ytterligare en.](/micrographics/confirmation-timeline-01/sv.md)
 
 
-![Läraren och den äldre kursdeltagaren diskuterar ett förberett exempel på en bildskärm som är vänd mot gruppen medan den teknikkunniga kursdeltagaren använder musen; betraktaren ser skärmens baksida.](https://cdn.sanity.io/images/vje9ehw2/production/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)
+![Läraren och den äldre kursdeltagaren diskuterar ett förberett exempel på en bildskärm som är vänd mot gruppen medan den teknikkunniga kursdeltagaren använder musen; betraktaren ser skärmens baksida.](https://cdn.sanity.io/images/vje9ehw2/staging/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)

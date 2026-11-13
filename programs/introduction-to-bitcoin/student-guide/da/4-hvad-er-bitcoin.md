@@ -20,4 +20,4 @@ En bemærkning om stavemåden: **Bitcoin** med stort B betyder normalt netværke
 
 Bitcoin indebærer også afvejninger. Prisen kan ændre sig hurtigt. Fejl kan som regel ikke gøres om. Mange steder er det stadig kun i begrænset omfang muligt at betale med bitcoin, og det kræver en vis læring at bruge det sikkert. Bitcoin erstatter noget af tilliden til institutioner med verificering og personligt ansvar. Det fjerner ikke risiko.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

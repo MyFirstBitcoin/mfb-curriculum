@@ -20,4 +20,4 @@ Uma observação sobre a grafia: **Bitcoin** com B maiúsculo geralmente se refe
 
 O Bitcoin também tem suas desvantagens. Seu preço pode mudar rapidamente. Erros geralmente são permanentes. A aceitação ainda é limitada em muitos lugares, e usá-lo com segurança exige algum aprendizado. O Bitcoin substitui parte da confiança em instituições por verificação e responsabilidade pessoal. Ele não elimina o risco.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

@@ -9,7 +9,7 @@ Las personas suelen buscar alternativas a mantener dinero en efectivo cuando cre
 
 Un [activo](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) es algo que una persona puede poseer o reclamar y que puede tener [valor](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); no cumple automáticamente todas las funciones del dinero. Una vivienda puede conservar [valor](https://curriculum.myfirstbitcoin.org/lexicon/en/#value), pero no es práctica para comprar alimentos. Una acción puede ser fácil de vender en un país, pero no estar disponible para alguien que no tenga una cuenta de corretaje. [El oro](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) ha servido como dinero durante largos períodos de la historia, pero puede ser difícil verificarlo o dividirlo en un intercambio de poco valor.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 Las personas también pueden optar por [moneda extranjera](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency), [bonos gubernamentales](https://curriculum.myfirstbitcoin.org/lexicon/en/#bond), negocios privados, tierras, herramientas, educación u otros [activos](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset). Cada elección implica un [costo de oportunidad](https://curriculum.myfirstbitcoin.org/lexicon/en/#opportunity-cost) y un riesgo. No existe ningún [activo](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) que garantice el [poder adquisitivo](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) en todos los períodos y situaciones.
 

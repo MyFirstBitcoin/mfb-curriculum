@@ -11,4 +11,4 @@ Cuando un estudiante expresa su desacuerdo:
 
 Corrija los errores de hecho con claridad y respeto. No evite corregirlos en nombre de la neutralidad. Facilitar el aprendizaje de manera neutral significa aplicar criterios justos para evaluar la evidencia, no tratar todas las afirmaciones como si fueran igualmente exactas.
 
-![El educador escucha la pregunta del estudiante principiante mientras el estudiante de mayor edad sigue la conversación con una guía abierta.](https://cdn.sanity.io/images/vje9ehw2/production/53db81849bfb9bca1dba5e2f8d5e8386c01ca3b3-1053x1494.png)
+![El educador escucha la pregunta del estudiante principiante mientras el estudiante de mayor edad sigue la conversación con una guía abierta.](https://cdn.sanity.io/images/vje9ehw2/staging/53db81849bfb9bca1dba5e2f8d5e8386c01ca3b3-1053x1494.png)

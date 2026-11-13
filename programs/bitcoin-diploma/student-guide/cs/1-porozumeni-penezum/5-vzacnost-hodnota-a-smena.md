@@ -11,7 +11,7 @@ Zdroje jsou omezené, zatímco lidská přání nikoli.
 
 Samotná [hodnota](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) statku není obsažena v předmětu samotném. Lidé [oceňují](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) statky podle svých potřeb, preferencí, informací a okolností. To se někdy označuje jako [**subjektivní hodnota**](https://curriculum.myfirstbitcoin.org/lexicon/en/#subjective-value). Čistá voda může být v blízkosti bezpečného veřejného zdroje levná a v době nedostatku nesmírně cenná.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
 
 
 <!-- micrographic: same-water-different-value-01 -->

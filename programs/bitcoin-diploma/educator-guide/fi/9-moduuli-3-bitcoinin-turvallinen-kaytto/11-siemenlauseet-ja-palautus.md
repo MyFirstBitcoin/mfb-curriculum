@@ -15,7 +15,7 @@ Opettakaa seuraukset:
 [Palautuslause on järjestetty sanalista, tässä kaksitoista numeroitua esimerkkisanaa paperille kirjoitettuina. Oikeilla sanoilla oikeassa järjestyksessä voi palauttaa hallinnan yhteensopivassa lompakossa, joten palautuslause pidetään salassa ja verkon ulkopuolella.](/micrographics/seed-phrase-on-paper-01/fi.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
 
 #### Älkää koskaan tehkö näin oppitunnilla
 
@@ -56,4 +56,4 @@ Opettakaa seuraukset:
 
 Perintöjärjestelyt, [moniallekirjoitusratkaisujen](https://curriculum.myfirstbitcoin.org/lexicon/en/#multisignature) suunnittelu, edistyneet salalauseet ja arvoltaan suurten varojen palautuksen suunnittelu voivat edellyttää edistyneitä turvatoimia ja oikeudellisen asiantuntijan neuvontaa. Ne eivät kuulu Bitcoin Diploma -ohjelman pakollisiin osaamisvaatimuksiin.
 
-![Opettaja ohjaa palautusvalmiutta käsittelevää keskustelua samalla, kun vanhempi oppija laittaa tyhjän harjoituskortin kirjekuoreen ja teknisesti suuntautunut oppija seuraa.](https://cdn.sanity.io/images/vje9ehw2/production/23cdb205174fa99b2d0df47ef606b53f8329f152-1054x1492.png)
+![Opettaja ohjaa palautusvalmiutta käsittelevää keskustelua samalla, kun vanhempi oppija laittaa tyhjän harjoituskortin kirjekuoreen ja teknisesti suuntautunut oppija seuraa.](https://cdn.sanity.io/images/vje9ehw2/staging/23cdb205174fa99b2d0df47ef606b53f8329f152-1054x1492.png)

@@ -36,4 +36,4 @@ Alcuni wallet utilizzano passphrase aggiuntive, chiavi multiple o altri sistemi 
 [Scrivere il backup di una seed phrase in tre passaggi: lo schermo del wallet mostra le parole, Lei le copia a mano su carta nello stesso ordine, poi controlla ogni parola confrontandola con lo schermo. Lo faccia in privato e offline.](/micrographics/seed-phrase-paper-backup-01/it.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)

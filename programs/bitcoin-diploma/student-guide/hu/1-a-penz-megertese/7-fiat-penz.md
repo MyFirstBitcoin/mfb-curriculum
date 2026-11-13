@@ -15,7 +15,7 @@ A fiat pénzrendszernek több fő szereplője van:
 [A fiatpénzrendszer szereplői és a köztük zajló folyamatok: a központi bank meghatározza a monetáris politikát és elszámolja a bankok közötti fizetéseket, a kereskedelmi bankok betéteket tartanak, amelyek az ügyfeleikkel szembeni kötelezettségeik, a pénzforgalmi szolgáltatások megbízásokat továbbítanak, az állam adókat szed be és kiadásokat teljesít, az állampolgárok és a vállalkozások pedig fizetnek és kifizetéseket kapnak.](/micrographics/fiat-system-flows-01/hu.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
 <!-- card: light -->

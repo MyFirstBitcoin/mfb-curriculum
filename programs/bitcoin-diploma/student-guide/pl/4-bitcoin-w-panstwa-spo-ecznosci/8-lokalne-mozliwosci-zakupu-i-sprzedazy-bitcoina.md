@@ -1,6 +1,6 @@
 # 4.8 Lokalne możliwości zakupu i sprzedaży bitcoina
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/16d4da9fcdbc76a89acbef6bf760d3199ea7a843-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/16d4da9fcdbc76a89acbef6bf760d3199ea7a843-1536x1024.svg)
 
 Ścieżka [**wejścia**](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-ramp) to sposób zamiany lokalnych pieniędzy, pracy lub innego [aktywa](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) na bitcoiny. Ścieżka [**wyjścia**](https://curriculum.myfirstbitcoin.org/lexicon/en/#off-ramp) to sposób zamiany bitcoinów na lokalne pieniądze, towary lub usługi. Ta sama ścieżka może pełnić obie funkcje.
 
@@ -14,7 +14,7 @@ Lokalne ścieżki mogą obejmować:
 * korzystanie z usługi płatniczej umożliwiającej wymianę bitcoinów na pieniądze fiducjarne i odwrotnie
 * uczestnictwo w lokalnym obiegu gospodarczym
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8ad6c3106c57d796cf1b415d6a8104b043e6a215-776x978.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8ad6c3106c57d796cf1b415d6a8104b043e6a215-776x978.svg)
 
 Proszę porównać **całą ścieżkę**, a nie tylko pierwszą opłatę. Usługodawca może reklamować niską opłatę za zakup, ale stosować niekorzystny [kurs wymiany](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate) lub pobierać opłatę za wypłatę. Ścieżka oparta na bezpośredniej wymianie między osobami może wydawać się prywatna, ale wymagać czasu, zaufania i zadbania o bezpieczeństwo fizyczne.
 

@@ -1,6 +1,6 @@
 # 2.10 Bewys van werk
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
 <!-- card: definition -->
@@ -29,4 +29,4 @@ Wanneer 'n [mynwerker](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) 
 
 [Bewys van werk](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) behels ’n werklike energiekoste. Voorstanders voer aan dat hierdie koste die grondslag van Bitcoin se sekuriteit vorm en ’n vraag kan skep na energie wat buigsaam aangewend kan word of andersins ongebruik sou bly. Kritici bevraagteken die hoeveelheid en bron van die energie wat gebruik word. ’n Verantwoordelike evaluering vra watter energie gebruik word, waar dit vandaan kom, watter sekuriteit dit bied en watter alternatiewe vergelyk word.
 
-![Die opvoeder, beginnerleerder en tegniese leerder bespreek ’n tafelmodel-mynbou-eenheid met ’n waaier en ’n afsonderlike kragtoevoer.](https://cdn.sanity.io/images/vje9ehw2/production/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)
+![Die opvoeder, beginnerleerder en tegniese leerder bespreek ’n tafelmodel-mynbou-eenheid met ’n waaier en ’n afsonderlike kragtoevoer.](https://cdn.sanity.io/images/vje9ehw2/staging/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)

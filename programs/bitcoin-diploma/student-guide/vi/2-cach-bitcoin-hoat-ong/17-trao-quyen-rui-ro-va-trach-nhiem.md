@@ -6,7 +6,7 @@ Các quy tắc công khai của Bitcoin, [mạng ngang hàng](https://curriculum
 
 Những đặc tính này có thể trao quyền cho người tham gia, nhưng cũng đặt lên họ nhiều trách nhiệm hơn. Khi không có cơ quan trung ương để phê duyệt [giao dịch](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), khôi phục quyền truy cập hoặc đảo ngược nhiều sai sót, mỗi người phải có khả năng xác định vai trò và những rủi ro mà mình chấp nhận.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
 
 Đối với người lựa chọn [tự lưu ký](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody), việc kiểm soát các khóa mang lại quyền kiểm soát trực tiếp đối với bitcoin. Không công ty nào có thể đóng băng số dư trên chuỗi khi các khóa được kiểm soát đúng cách. Cũng không công ty nào có thể khôi phục một [cụm từ khôi phục](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) đã bị mất.
 

@@ -13,7 +13,7 @@
 > [El poder adquisitivo](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) es la cantidad de bienes y servicios que una unidad de dinero puede comprar. Si el precio de una canasta de bienes básicos aumenta de 100 unidades de [moneda](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) a 110, las mismas 100 unidades ya no alcanzan para comprar la canasta completa. Su [poder adquisitivo](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) en relación con esa canasta ha disminuido.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->

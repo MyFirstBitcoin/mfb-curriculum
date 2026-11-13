@@ -30,4 +30,4 @@ Mọi người cũng so sánh tiền dựa trên [**tính vững chắc**](https
 
 **Tư duy phản biện:** Hãy kể về một lần quý vị chọn một loại tiền hoặc [tài sản](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) thay vì một loại khác. Mục đích khi đó là gì? Hãy so sánh các đặc tính của những lựa chọn mà quý vị có thể đã sử dụng. Những đặc tính nào quan trọng nhất với quý vị, và vì sao?
 
-![Cả sáu nhân vật cùng tham gia một hoạt động học tập trực tiếp sử dụng thẻ, trong khi người dạy hướng dẫn thảo luận.](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![Cả sáu nhân vật cùng tham gia một hoạt động học tập trực tiếp sử dụng thẻ, trong khi người dạy hướng dẫn thảo luận.](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)

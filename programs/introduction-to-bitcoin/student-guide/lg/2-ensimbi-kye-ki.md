@@ -12,9 +12,9 @@ Mu nkola y'okuwaanyisiganya ebintu butereevu, obusuubuzi busoboka abantu bombi b
 
 Ziba **kikozesebwa mu kuwaanyisiganya**: abantu bazikkiriza nga basasulwa. Ziba **kipimo ky'okubala**: emiwendo giragibwa mu zo, ne kitusobozesa okugeraageranya omuwendo gw'ebintu eby'enjawulo. Era ziba **terekero ly'omuwendo**: zisobozesa okutereka omuwendo okuva leero okutuusa mu biseera eby'omu maaso. Tewali ssente zikuuma mu bujjuvu omuwendo gwazo, naye ezimu zifiirwa obusobozi bwazo obw'okugula mpola okusinga endala.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Mu byafaayo byonna, ebintu bingi bibadde bikozesebwa nga ssente: ensimbi z'omu nnyanja, omunnyo, obulungu, ebisolo ebirundibwa, ekikomo, ffeeza ne zzaabu. Ebyuma eby'omuwendo byatandika okukozesebwa ennyo kubanga byali bya bbula, nga biwangaala era nga bikkirizibwa abantu bangi. Naye okusitula n'okukuuma ebyuma kizibu, kale bbanka ne zitandika okugaba empapula ezikakasa obwannannyini ku bungi bw'ekyuma obwalagibwa, ezaali zisobola okuwaanyisibwamu ekyuma ekyo. Mu ngeri ez'enjawulo ez'**enkola y'omusingi gwa zzaabu**, buli yuniti y'ensimbi yali eyungiddwa mu mateeka ku bungi bwa zzaabu obumu. Amateeka gaali gaawukana okusinziira ku kifo n'ekiseera.
 

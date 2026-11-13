@@ -6,4 +6,4 @@ Basit materyaller hazırlık süresini ve dikkat dağınıklığını azaltarak 
 
 Daha fazla araç, daha fazla karmaşıklık getirebilir. Bir aracı, öğrencilerin bir şeyi anlamasına veya pratik yapmasına yardımcı olduğunda ekleyin ve basit bir alternatifi hazır tutun. Önce katılımın niteliğine odaklanın: Öğrenciler derse katılıyor, soru soruyor, düşüncelerini açıklıyor ve anladıklarını gösteriyor mu? Bu öğrenmeyi destekleyen yaklaşımı seçin.
 
-![Eğitimci ve daha büyük öğrenci öğretim kartlarını düzenlerken küçük öğrenci bir defterle etkinliğe katılıyor.](https://cdn.sanity.io/images/vje9ehw2/production/f062a7d4ca6c0e188b299060e170b244e0ee7acb-1054x1492.png)
+![Eğitimci ve daha büyük öğrenci öğretim kartlarını düzenlerken küçük öğrenci bir defterle etkinliğe katılıyor.](https://cdn.sanity.io/images/vje9ehw2/staging/f062a7d4ca6c0e188b299060e170b244e0ee7acb-1054x1492.png)

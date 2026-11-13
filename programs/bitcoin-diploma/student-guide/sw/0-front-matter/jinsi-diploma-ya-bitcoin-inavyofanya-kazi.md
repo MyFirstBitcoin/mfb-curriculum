@@ -27,7 +27,7 @@ Kila moduli hufuata mpangilio ule ule:
 
 Mtajifunza zaidi kwa kushiriki kuliko kwa kusoma kimya. Baadhi ya maswali hayana jibu moja sahihi. Jambo muhimu ni iwapo mnaweza kueleza hoja zenu, kuchunguza ushahidi, na kurekebisha mtazamo wenu mnapojifunza jambo jipya.
 
-![Mfanyabiashara anaonyesha mchoro rahisi katika mwongozo uliofunguliwa huku mwalimu akiujadili pamoja naye kwenye meza ya darasani.](https://cdn.sanity.io/images/vje9ehw2/production/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
+![Mfanyabiashara anaonyesha mchoro rahisi katika mwongozo uliofunguliwa huku mwalimu akiujadili pamoja naye kwenye meza ya darasani.](https://cdn.sanity.io/images/vje9ehw2/staging/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
 
 ### Matarajio kuhusu majadiliano na faragha
 
@@ -50,7 +50,7 @@ Mwalimu wako ataeleza shughuli zozote za tathmini zinazohitajika. Nadharia hujen
 
 Mwalimu wako anatumia jedwali la tathmini kurekodi matokeo moja kwa kila moja ya umahiri saba ulioorodheshwa hapo juu. `C1`–`C5` hutathminiwa kupitia maelezo na maamuzi yako mwenyewe; `C6`–`C7` huhitaji kuangaliwa moja kwa moja. Kazi ya pochi/stakabadhi na kazi ya utayari wa urejeshaji zote mbili ni sehemu za lazima za `C6`.
 
-![Mwalimu anamjibu mwanafunzi anayeanza aliyenyoosha mkono, huku mwanafunzi mzee akifuatilia akiwa na mwongozo wa kozi ulio wazi.](https://cdn.sanity.io/images/vje9ehw2/production/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
+![Mwalimu anamjibu mwanafunzi anayeanza aliyenyoosha mkono, huku mwanafunzi mzee akifuatilia akiwa na mwongozo wa kozi ulio wazi.](https://cdn.sanity.io/images/vje9ehw2/staging/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
 
 ### Maarifa ya awali yanayohitajika: hakuna
 

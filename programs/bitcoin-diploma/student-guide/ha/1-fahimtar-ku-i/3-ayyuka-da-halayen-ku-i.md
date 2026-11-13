@@ -30,4 +30,4 @@ Mutane kuma suna kwatanta kuɗi bisa [**ƙarfinsu**](https://curriculum.myfirstb
 
 **Ku yi tunani mai zurfi:** Ku faɗi wani lokaci da kuka zaɓi wani nau'in kuɗi ko [kadara](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) maimakon wani. Mene ne manufar? Ku kwatanta halayen zaɓuɓɓukan da kuka iya amfani da su. Waɗanne halaye ne suka fi muhimmanci a gare ku, kuma me ya sa?
 
-![Dukkan jarumai shida suna haɗa kai a wani aikin koyarwa da katuna ba tare da intanet ba, yayin da malamin yake jagorantar tattaunawar.](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![Dukkan jarumai shida suna haɗa kai a wani aikin koyarwa da katuna ba tare da intanet ba, yayin da malamin yake jagorantar tattaunawar.](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)

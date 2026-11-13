@@ -13,7 +13,7 @@ Bitcoin was created to solve this problem with a [peer-to-peer network](https://
 [With a payment company, one organization keeps the ledger and approves each transfer. With Bitcoin, the sender signs a transaction, independent nodes check it and miners add it to one shared ledger, so the receiver depends less on a central authority.](/micrographics/central-ledger-vs-bitcoin-01/en.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)
 
 
 

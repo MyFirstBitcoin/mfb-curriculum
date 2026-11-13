@@ -8,7 +8,7 @@
 
 Hãy hình dung rằng **Amina** có gạo và muốn có giày. **Luis** có giày nhưng muốn có dầu ăn, chứ không phải gạo. **Mei** có dầu ăn và muốn được sửa chữa đồ đạc. Amina có thể cần thực hiện nhiều cuộc trao đổi trước khi có được đôi giày. Mỗi cuộc trao đổi đều tốn thời gian và đòi hỏi sự thống nhất về [giá trị](https://curriculum.myfirstbitcoin.org/lexicon/en/#value).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
 
 
 <!-- micrographic: barter-mismatch-01 -->
@@ -29,7 +29,7 @@ Một loại tiền được chấp nhận rộng rãi giúp tách biệt việc
 
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
 
 <!-- micrographic: sell-then-buy-01 -->

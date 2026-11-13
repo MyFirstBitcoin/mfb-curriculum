@@ -18,7 +18,7 @@ L'invio richiede più attenzione perché, in Bitcoin, una [transazione](https://
 1. Usi un piccolo test quando la procedura non Le è familiare.
 1. Approvi solo quando ogni elemento corrisponde; poi controlli l'esito del pagamento.
 
-![Lo studente più anziano mostra un telefono di esercitazione mentre il principiante controlla un altro telefono e l'educatore guida il confronto.](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![Lo studente più anziano mostra un telefono di esercitazione mentre il principiante controlla un altro telefono e l'educatore guida il confronto.](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 
 <!-- micrographic: pre-send-checklist-01 -->
@@ -29,4 +29,4 @@ Per un [pagamento on-chain](https://curriculum.myfirstbitcoin.org/lexicon/en/#on
 
 Se la destinazione cambia inaspettatamente, la richiesta diventa urgente o qualcuno chiede informazioni di recupero, che cosa dovrebbe fare? Si fermi. Verifichi la richiesta in modo indipendente, oppure chieda aiuto senza condividere segreti.
 
-![L'educatore guida lo studente principiante mentre confronta un telefono con il dispositivo di ricezione del titolare dell'attività prima di approvare un pagamento.](https://cdn.sanity.io/images/vje9ehw2/production/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)
+![L'educatore guida lo studente principiante mentre confronta un telefono con il dispositivo di ricezione del titolare dell'attività prima di approvare un pagamento.](https://cdn.sanity.io/images/vje9ehw2/staging/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)

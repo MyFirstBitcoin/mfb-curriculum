@@ -24,4 +24,4 @@ Arrêtez immédiatement l’activité si :
 [Une situation dangereuse ou inexpliquée entraîne l’arrêt de l’activité. La personne qui enseigne protège les personnes et les secrets et vérifie le problème ; une erreur d’évaluation critique pour la sécurité est consignée comme Pas encore, et la personne qui apprend réinitialise l’environnement, s’entraîne et fait l’objet d’une nouvelle évaluation plus tard.](/micrographics/stop-when-check-fails-01/fr-FR.md)
 
 
-![L’enseignant lève la main, paume ouverte, pour suspendre une activité, tandis que le débutant abaisse son téléphone et que l’apprenant au profil technique referme partiellement son ordinateur portable.](https://cdn.sanity.io/images/vje9ehw2/production/adb5c936fe5622b3c0b62f060349af1097eee5b0-1055x1491.png)
+![L’enseignant lève la main, paume ouverte, pour suspendre une activité, tandis que le débutant abaisse son téléphone et que l’apprenant au profil technique referme partiellement son ordinateur portable.](https://cdn.sanity.io/images/vje9ehw2/staging/adb5c936fe5622b3c0b62f060349af1097eee5b0-1055x1491.png)

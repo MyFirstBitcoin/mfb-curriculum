@@ -4,7 +4,7 @@
 
 Kai-tsaye tsakanin takwarori ba koyaushe yake nufin cewa kwamfutoci biyu ne kawai suke sadarwa kai-tsaye ba. Wata [ma'amala](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) na iya bi ta walat, masu samar da intanet, da ɗimbin [mahaɗan hanyar sadarwa](https://curriculum.myfirstbitcoin.org/lexicon/en/#node). Muhimmin abu shi ne cewa babu wani mai tafiyar da Bitcoin na tsakiya da dole sai ya amince da mai aikawa ko mai karɓa.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
 
 
 <!-- micrographic: peer-to-peer-route-01 -->

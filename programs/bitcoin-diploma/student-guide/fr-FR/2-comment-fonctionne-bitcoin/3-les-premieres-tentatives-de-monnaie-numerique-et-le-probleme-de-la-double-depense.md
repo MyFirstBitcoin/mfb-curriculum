@@ -34,4 +34,4 @@ Le livre blanc réunissait les caractéristiques nécessaires à cette approche�
 
 Ce module explique ces concepts plus en détail. Ensemble, ils ont apporté une réponse concrète au [problème de la double dépense](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending) : le réseau peut rejeter une seconde tentative de dépenser le même bitcoin sans dépendre d’une autorité centrale. Bitcoin a apporté la combinaison manquante que des décennies d’expérimentations en matière de monnaie numérique avaient cherché à mettre au point.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)

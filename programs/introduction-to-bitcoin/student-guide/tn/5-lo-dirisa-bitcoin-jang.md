@@ -6,7 +6,7 @@ Ka jalo potso ya ntlha ka sepatšhe sengwe le sengwe ke gore: **ke mang yo o lao
 
 ###### Tota ke mang yo o tshotseng bitcoin ya lona?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 Ka **sepatšhe se lo ipolokelang dinotlolo tsa sone**, ke lona lo laolang dinotlolo.
 

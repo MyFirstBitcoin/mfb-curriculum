@@ -23,4 +23,4 @@ Vissa personer har flera roller. En [utvinnare](https://curriculum.myfirstbitcoi
 
 **Kontrollfråga:** Varför utför en [nod](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) verifiering av [transaktioner](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction)? Nämn minst en regel som en [nod](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) kontrollerar.
 
-![Läraren vägleder den tekniskt intresserade eleven vid en dator som kör en nod, med bildskärmen vänd mot dem och skärmens baksida synlig för betraktaren.](https://cdn.sanity.io/images/vje9ehw2/production/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)
+![Läraren vägleder den tekniskt intresserade eleven vid en dator som kör en nod, med bildskärmen vänd mot dem och skärmens baksida synlig för betraktaren.](https://cdn.sanity.io/images/vje9ehw2/staging/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)

@@ -23,4 +23,4 @@ Một số người đảm nhiệm nhiều vai trò. Một [thợ đào](https:/
 
 **Câu hỏi nhanh:** Tại sao một [nút](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) xác minh [các giao dịch](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction)? Hãy nêu ít nhất một quy tắc mà một [nút](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) kiểm tra.
 
-![Giảng viên hướng dẫn học viên kỹ thuật tại một máy tính chạy nút, với màn hình hướng về phía họ và phần vỏ phía sau màn hình hiện ra trước mắt người xem.](https://cdn.sanity.io/images/vje9ehw2/production/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)
+![Giảng viên hướng dẫn học viên kỹ thuật tại một máy tính chạy nút, với màn hình hướng về phía họ và phần vỏ phía sau màn hình hiện ra trước mắt người xem.](https://cdn.sanity.io/images/vje9ehw2/staging/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)

@@ -12,9 +12,9 @@ M’dongosolo losinthanitsa katundu ndi katundu, malonda amatheka pokhapokha nga
 
 Ndi **njira yosinthanitsira zinthu**: anthu amazilandira ngati malipiro. Ndi **muyeso wowerengera mtengo**: mitengo imatchulidwa pogwiritsa ntchito ndalama, motero tingayerekezere kufunika kwa zinthu zosiyanasiyana. Ndiponso ndi **chosungira mtengo**: zimasunga mtengo wa lero kuti udzagwiritsidwe ntchito m’tsogolo. Palibe ndalama zimene zimasunga mtengo wake popanda kutayika ngakhale pang’ono, koma mitundu ina imataya mphamvu yogulira zinthu pang’onopang’ono kuposa ina.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 M’mbiri yonse, zinthu zambiri zakhala zikugwiritsidwa ntchito ngati ndalama: zigoba za nkhono, mchere, mikanda, ziweto, mkuwa, siliva ndi golide. Zitsulo zamtengo wapatali zinayamba kugwiritsidwa ntchito kwambiri chifukwa zinali zosowa, zokhalitsa ndiponso zovomerezeka ndi anthu ambiri. Koma kunyamula ndi kuteteza zitsulo n’kovuta, motero mabanki anayamba kupereka zikalata zosonyeza kuti mwiniwake ali ndi ufulu wolandira mlingo wotchulidwa wa chitsulo. M’mitundu yosiyanasiyana ya **dongosolo loyezera ndalama ndi golide**, gawo la ndalama linkalumikizidwa mwalamulo ndi mlingo winawake wa golide. Malamulowo ankasiyana malinga ndi malo ndi nthawi.
 

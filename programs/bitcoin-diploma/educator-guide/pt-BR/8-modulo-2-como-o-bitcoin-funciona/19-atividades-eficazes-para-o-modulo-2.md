@@ -16,4 +16,4 @@ Escolha dois ou três destes exemplos, não todos. Consulte a [Biblioteca de Ati
 
 Use jogos de [consenso](https://curriculum.myfirstbitcoin.org/lexicon/en/#consensus), atividades de hashing, vídeos e dramatizações somente quando seu propósito, momento, contexto dos alunos e discussão final forem sólidos. Uma atividade fornece evidência teórica conduzida pelo educador somente quando é um ponto de contato alinhado à competência, com evidência individual, uma rubrica e um processo de registro. Caso contrário, use-a de forma formativa.
 
-![O dono do negócio explica uma rede de pares enquanto o educador escuta e o jovem aluno acompanha com um caderno.](https://cdn.sanity.io/images/vje9ehw2/production/359b55ce824c4e7e1fb6d3f1e0b5dbc01f7c6db6-1054x1493.png)
+![O dono do negócio explica uma rede de pares enquanto o educador escuta e o jovem aluno acompanha com um caderno.](https://cdn.sanity.io/images/vje9ehw2/staging/359b55ce824c4e7e1fb6d3f1e0b5dbc01f7c6db6-1054x1493.png)

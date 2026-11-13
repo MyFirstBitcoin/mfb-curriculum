@@ -1,6 +1,6 @@
 # 2.10 İş İspatı
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
 <!-- card: definition -->
@@ -29,4 +29,4 @@ Bir [madenci](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner), [geçerl
 
 [İş ispatı](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) gerçek bir enerji maliyeti içerir. Destekçiler, Bitcoin'in güvenliğini sağlamlaştıranın bu maliyet olduğunu ve bunun esnek ya da başka türlü kullanılmayacak enerji için talep yaratabileceğini savunur. Eleştirmenler ise kullanılan enerjinin miktarını ve kaynağını sorgular. Sorumlu bir değerlendirme; hangi enerjinin kullanıldığını, nereden geldiğini, ne tür bir güvenlik sağladığını ve hangi alternatiflerle karşılaştırıldığını sorar.
 
-![Eğitmen, başlangıç düzeyindeki öğrenci ve teknik öğrenci, fanlı ve ayrı güç kaynaklı masaüstü bir madencilik cihazını tartışıyor.](https://cdn.sanity.io/images/vje9ehw2/production/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)
+![Eğitmen, başlangıç düzeyindeki öğrenci ve teknik öğrenci, fanlı ve ayrı güç kaynaklı masaüstü bir madencilik cihazını tartışıyor.](https://cdn.sanity.io/images/vje9ehw2/staging/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)

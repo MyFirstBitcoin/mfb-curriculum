@@ -11,7 +11,7 @@ Viri so omejeni, človeške želje pa niso.
 
 Sama [vrednost](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) dobrine ni vsebovana v samem predmetu. Ljudje [vrednotijo](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) dobrine glede na svoje potrebe, preference, informacije in okoliščine. To včasih imenujemo [**subjektivna vrednost**](https://curriculum.myfirstbitcoin.org/lexicon/en/#subjective-value). Čista voda je lahko v bližini varnega javnega vodnega vira poceni, ob pomanjkanju pa izjemno dragocena.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
 
 
 <!-- micrographic: same-water-different-value-01 -->

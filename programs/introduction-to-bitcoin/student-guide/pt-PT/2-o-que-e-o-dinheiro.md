@@ -12,9 +12,9 @@ Num sistema de troca direta, o comércio só funciona quando ambas as pessoas qu
 
 É um **meio de troca**: as pessoas aceitam-no como pagamento. É uma **unidade de conta**: os preços são expressos nele, o que nos permite comparar o valor de coisas diferentes. E é uma **reserva de valor**: transporta valor do presente para o futuro. Nenhum dinheiro preserva o valor na perfeição, mas algumas formas perdem poder de compra mais lentamente do que outras.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Ao longo da história, muitas coisas serviram de dinheiro: conchas, sal, contas, gado, cobre, prata e ouro. Os metais preciosos passaram a ser amplamente utilizados porque eram escassos, duradouros e amplamente aceites. Mas transportar e proteger metal é difícil, pelo que os bancos começaram a emitir títulos em papel que podiam ser resgatados por uma quantidade determinada de metal. Sob diferentes versões de um **padrão-ouro**, uma unidade monetária estava legalmente associada a uma quantidade de ouro. As regras variavam consoante o local e a época.
 

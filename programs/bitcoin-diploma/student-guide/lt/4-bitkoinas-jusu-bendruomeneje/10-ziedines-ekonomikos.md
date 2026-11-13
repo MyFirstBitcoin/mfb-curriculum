@@ -21,7 +21,7 @@ Nubraižykite paprasto vietinio ciklo schemą:
 1. Kas nutinka sutrikus interneto ryšiui?
 1. Kokią [saugojimo](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) ir [kainos](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) riziką prisiima kiekvienas dalyvis?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
 
 Sklandžiai veikianti žiedinė ekonomika priklauso nuo savanoriško dalyvavimo. Prekybininkai ir darbuotojai turėtų gebėti atpažinti mokėjimų, kainodaros, [saugojimo](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), apskaitos ir [kainų svyravimo](https://curriculum.myfirstbitcoin.org/lexicon/en/#volatility) rizikas. Vien naudojimo masto rodikliai neparodo, ar tinklas yra naudingas.
 

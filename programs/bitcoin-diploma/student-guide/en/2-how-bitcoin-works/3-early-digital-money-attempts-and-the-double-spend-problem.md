@@ -34,4 +34,4 @@ The whitepaper brought together the features needed for that approach:
 
 This module explains these concepts in more detail. Together, they gave a practical answer to the [double-spend problem](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): the network can reject a second attempt to spend the same bitcoin without relying on a central authority. Bitcoin offered the missing combination that decades of digital-money experiments had been seeking.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)

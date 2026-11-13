@@ -26,11 +26,11 @@ Underviserveiledningen hjelper Dem med å forberede undervisning, tilrettelegge 
 
 ### Bli med i et læringsfellesskap
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
 
 Nettverket [Bitcoin Education Network](https://myfirstbitcoin.org/about/network) knytter sammen uavhengige undervisere og lokale læringsfellesskap. Finn et fellesskap i nærheten av Dem, eller et som arbeider med noe De er interessert i, og ta kontakt for å spørre hvordan De kan lære, være frivillig eller bidra. Deltakelse er valgfritt og påvirker ikke fullføring, vurdering eller sertifisering i Bitcoin-diplomet.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
 
 ### En påminnelse om sikkerhet
 
@@ -92,13 +92,13 @@ Hvis underviseren som utsteder beviset, tilbyr en verifiseringsmetode, bruk bare
 
 Det viktigste resultatet Deres er ikke kursbeviset. Det er evnen til å forklare penger og Bitcoin tydelig, gjenkjenne risiko, kontrollere før De handler, og fortsette å lære på egen hånd.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
 
 ### Støtt gratis Bitcoin-opplæring
 
 Læringsressursene fra My First Bitcoin er gratis og har åpen kildekode. Frivillig støtte bidrar til å vedlikeholde læreplanen, lære opp undervisere og gjøre tilbudet tilgjengelig for flere.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
 
 
 https://donate.myfirstbitcoin.org
@@ -112,4 +112,4 @@ Hvis De velger å bidra, bruk den offisielle [donasjonssiden](https://donate.myf
 ---
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)

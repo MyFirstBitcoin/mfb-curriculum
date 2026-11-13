@@ -15,7 +15,7 @@ Das Fiat-System hat mehrere Hauptakteure:
 [Die Akteure in einem Fiat-Geldsystem und was zwischen ihnen fließt: Die Zentralbank legt die Geldpolitik fest und wickelt Zahlungen zwischen Banken ab, Geschäftsbanken halten Einlagen, die ihre Verbindlichkeiten gegenüber den Kunden sind, Zahlungsdienste übermitteln Anweisungen, der Staat erhebt Steuern und tätigt Ausgaben, und Bürger und Unternehmen zahlen und erhalten Zahlungen.](/micrographics/fiat-system-flows-01/de.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
 <!-- card: light -->

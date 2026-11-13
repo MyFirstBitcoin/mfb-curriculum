@@ -11,7 +11,7 @@ Rasilimali zina kikomo, ilhali mahitaji ya binadamu hayana kikomo.
 
 Kuhusu [thamani](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) ya bidhaa, haimo ndani ya kitu chenyewe. Watu [huthamini](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) bidhaa kulingana na mahitaji yao, mapendeleo yao, taarifa walizo nazo, na hali zao. Hili wakati mwingine huitwa [**thamani ya kidhamira**](https://curriculum.myfirstbitcoin.org/lexicon/en/#subjective-value). Maji safi yanaweza kuwa nafuu karibu na chanzo salama cha umma, na kuwa ya thamani kubwa sana wakati wa uhaba.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
 
 
 <!-- micrographic: same-water-different-value-01 -->

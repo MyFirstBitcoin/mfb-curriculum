@@ -44,4 +44,4 @@ Batas 21 juta tersebut ditegakkan oleh [simpul](https://curriculum.myfirstbitcoi
 > Pasokan terbatas juga tidak berarti setiap bitcoin tersedia untuk dijual; sebagian mungkin disimpan untuk jangka panjang atau tidak dapat diakses karena kuncinya hilang.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

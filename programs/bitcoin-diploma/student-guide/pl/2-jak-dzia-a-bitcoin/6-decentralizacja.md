@@ -28,4 +28,4 @@ W Bitcoinie [decentralizacja](https://curriculum.myfirstbitcoin.org/lexicon/en/#
 
 [Decentralizacja](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) wiąże się również z kosztami. Koordynacja może przebiegać wolniej. Użytkownicy muszą weryfikować informacje i brać na siebie większą odpowiedzialność. Nie istnieje centralny dział wsparcia dla [sieci Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). Te [kompromisy](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) są częścią projektu, a nie przypadkowymi wadami, które można usunąć bez zmiany systemu.
 
-![Osoba prowadząca zajęcia wskazuje sieć na ekranie w sali lekcyjnej, podczas gdy przy biurku omawiają ją osoby uczące się — początkująca i zaawansowana technicznie.](https://cdn.sanity.io/images/vje9ehw2/production/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)
+![Osoba prowadząca zajęcia wskazuje sieć na ekranie w sali lekcyjnej, podczas gdy przy biurku omawiają ją osoby uczące się — początkująca i zaawansowana technicznie.](https://cdn.sanity.io/images/vje9ehw2/staging/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)

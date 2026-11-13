@@ -23,7 +23,7 @@ Lorsque vous ouvrez un guide de module, suivez toujours le même ordre :
 
 Les titres sont volontairement répétitifs. Cette répétition aide les enseignants débutants à se repérer ; il ne s’agit pas d’un contenu à mémoriser.
 
-![L’enseignant montre un schéma dans un guide de cours ouvert, tandis que l’apprenant débutant et l’apprenant plus âgé suivent dans leurs propres guides.](https://cdn.sanity.io/images/vje9ehw2/production/f4e6dd8cd876afad89cef117fc6845f0b599f408-1054x1492.png)
+![L’enseignant montre un schéma dans un guide de cours ouvert, tandis que l’apprenant débutant et l’apprenant plus âgé suivent dans leurs propres guides.](https://cdn.sanity.io/images/vje9ehw2/staging/f4e6dd8cd876afad89cef117fc6845f0b599f408-1054x1492.png)
 
 ### Formulations à utiliser en cas d’incertitude
 

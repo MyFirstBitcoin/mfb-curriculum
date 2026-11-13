@@ -21,7 +21,7 @@ Kartlägg ett enkelt lokalt kretslopp:
 1. Vad händer när internetanslutningen slutar fungera?
 1. Vilka [förvarings-](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) och [prisrelaterade](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) risker bär varje deltagare?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
 
 En sund cirkulär ekonomi bygger på frivilligt deltagande. Handlare och arbetstagare bör kunna identifiera betalnings-, prissättnings-, [förvarings-](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), redovisnings- och [volatilitetsrelaterade](https://curriculum.myfirstbitcoin.org/lexicon/en/#volatility) risker. Antalet användare visar inte i sig om nätverket är användbart.
 

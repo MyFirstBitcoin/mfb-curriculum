@@ -36,4 +36,4 @@ Kai kuriose piniginėse naudojamos papildomos slaptafrazės, keli raktai ar kito
 [Atkūrimo frazės atsarginės kopijos užrašymas trimis žingsniais: piniginės ekrane rodomi žodžiai, juos ranka perrašote ant popieriaus ta pačia tvarka, tada kiekvieną žodį palyginate su tekstu ekrane. Darykite tai privačiai ir neprisijungę prie interneto.](/micrographics/seed-phrase-paper-backup-01/lt.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)

@@ -8,7 +8,7 @@ Projektet begyndte med små hold med fysisk fremmøde i El Salvador i 2021, efte
 
 Vores arbejde er uafhængigt, fællesskabsdrevet og fokuseret på Bitcoin. Vi fokuserer på finansiel forståelse, grundig tænkning og praktisk sikkerhed - ikke på handel, spekulation eller promovering af andre tokens. Vi beder Dem ikke om at tilslutte Dem en bestemt overbevisning. I stedet giver vi Dem begreber, spørgsmål og praktisk viden, så De kan drage Deres egne konklusioner.
 
-![Underviseren byder begynderen, den ældre kursist, virksomhedsejeren, den teknisk interesserede kursist og den unge kursist velkommen i en fælles læringsgruppe.](https://cdn.sanity.io/images/vje9ehw2/production/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
+![Underviseren byder begynderen, den ældre kursist, virksomhedsejeren, den teknisk interesserede kursist og den unge kursist velkommen i en fælles læringsgruppe.](https://cdn.sanity.io/images/vje9ehw2/staging/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
 
 ### Vores mission: uafhængig Bitcoin-undervisning med åben licens
 

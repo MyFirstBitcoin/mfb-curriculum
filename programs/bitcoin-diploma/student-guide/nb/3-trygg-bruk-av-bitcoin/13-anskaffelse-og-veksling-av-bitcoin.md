@@ -15,7 +15,7 @@ Folk kan motta bitcoin gjennom arbeid, en betaling i lokalsamfunnet, en handel m
 * **Handel mellom privatpersoner:** To personer kan veksle [fiatpenger](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) eller varer mot bitcoin direkte eller gjennom en tjeneste som kobler kjøpere og selgere. Dette kan medføre motpartsrisiko, risiko for fysisk sikkerhet, risiko for reversering av betalinger og svindelrisiko.
 * **Børs, megler, minibank eller kiosk:** En tjeneste eller automat kan tilby en kjent fremgangsmåte, men kan innebære gebyrer, identitetskontroller, [oppbevaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), uttaksgrenser eller en dårlig [vekslingskurs](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
 
 Før De sammenligner en fremgangsmåte, bør De spørre:
 

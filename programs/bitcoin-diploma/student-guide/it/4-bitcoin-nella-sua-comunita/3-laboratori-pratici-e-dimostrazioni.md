@@ -30,4 +30,4 @@ Prima di qualsiasi dimostrazione dal vivo, si assicuri di sapere:
 
 Il risultato del Suo laboratorio dovrebbe essere una spiegazione o una competenza, non soltanto una [Transazione](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) completata.
 
-![L'educatore e la titolare dell'attività si esercitano insieme con un telefono di prova, guardando entrambi lo schermo rivolto verso di loro.](https://cdn.sanity.io/images/vje9ehw2/production/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)
+![L'educatore e la titolare dell'attività si esercitano insieme con un telefono di prova, guardando entrambi lo schermo rivolto verso di loro.](https://cdn.sanity.io/images/vje9ehw2/staging/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)

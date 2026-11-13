@@ -19,7 +19,7 @@ Codziennie używamy pieniędzy, a jednak rzadko pytamy, jak one działają.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Większość ludzi nigdy nie zastanawia się nad pieniędzmi
 
@@ -29,7 +29,7 @@ Nie chodzi o zarabianie go ani wydawanie, lecz o zastanawianie się, czym jest i
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Pięć pytań na początek
 
@@ -49,7 +49,7 @@ Nie chodzi o zarabianie go ani wydawanie, lecz o zastanawianie się, czym jest i
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Fakt czy opinia?
 
@@ -74,7 +74,7 @@ Pieniądz jest narzędziem wymiany.
 
 Obie osoby muszą chcieć tego, co ma druga osoba, w tym samym czasie i w odpowiednich ilościach.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Proszę posłużyć się przykładem z przewodnika: uprawiają Państwo ryż i potrzebują butów, ale szewc chce oleju spożywczego, a nie ryżu. Ekonomiści nazywają to podwójną zbieżnością potrzeb. -->
 
@@ -96,13 +96,13 @@ Obie osoby muszą chcieć tego, co ma druga osoba, w tym samym czasie i w odpowi
 
 Nikt nie chce pieniędzy dla nich samych. Są użyteczne, ponieważ inni je akceptują, oczekując, że w przyszłości kolejni ludzie również je zaakceptują.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Banknot to tylko kawałek papieru. Pieniądz rozwiązuje problem barteru, oddzielając sprzedaż od kupna: sprzedają Państwo swój ryż jednej osobie, a buty kupują od innej. To właśnie odróżnia pieniądz od barteru. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Trzy funkcje pieniądza
 
@@ -114,7 +114,7 @@ Nikt nie chce pieniędzy dla nich samych. Są użyteczne, ponieważ inni je akce
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Od muszli do papieru
 
@@ -161,13 +161,13 @@ Kiedy ludzie słyszą słowo „inflacja”, zwykle myślą o wzroście cen.
 
 ## Inflacja i siła nabywcza
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Inflacja cen to utrzymujący się wzrost ogólnego poziomu cen. Jej drugą stroną jest siła nabywcza, czyli to, ile można kupić za jednostkę pieniądza. Jeśli cena koszyka podstawowych dóbr wzrasta ze 100 do 110 jednostek waluty, za te same 100 jednostek nie można już kupić całego koszyka. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Wiele powodów, jeden wybór
 
@@ -285,7 +285,7 @@ Jeden bitcoin dzieli się na 100 000 000 mniejszych jednostek zwanych satoshi lu
 
 ## Kto dba o działanie Bitcoina?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Użytkownicy wysyłają, odbierają i przechowują bitcoiny; węzły sprawdzają zgodność każdej transakcji i każdego bloku z regułami; górnicy rywalizują o dodanie nowego bloku do rejestru mniej więcej co dziesięć minut. Ten rejestr, czyli łańcuch bloków, jest publiczny, a zmiana jego historii jest bardzo kosztowna. Uwaga dotycząca pisowni: Bitcoin pisany wielką literą B zwykle oznacza sieć lub system; bitcoin pisany małą literą b oznacza same pieniądze. -->
 
@@ -330,7 +330,7 @@ Wybór sposobu przechowywania nie jest sprawdzianem Państwa wartości. Ważne j
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Państwa fraza odzyskiwania daje pełny dostęp
 
@@ -350,7 +350,7 @@ Uporządkowana lista słów, zwykle 12 lub 24, która pozwala odtworzyć Państw
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Zanim zaczną Państwo korzystać z jakiegokolwiek portfela
 
@@ -391,7 +391,7 @@ Uporządkowana lista słów, zwykle 12 lub 24, która pozwala odtworzyć Państw
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Proszę się zatrzymać, niczego nie udostępniać, niczego nie wysyłać
 
@@ -426,7 +426,7 @@ To dopiero początek.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Dyplom z Bitcoina
 

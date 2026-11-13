@@ -28,7 +28,7 @@ Ciò genera due rischi importanti:
 [Rischio di liquidità: molti depositanti fanno la fila per prelevare oggi e la banca non dispone di contante sufficiente adesso, anche se i suoi prestiti potrebbero essere rimborsati in seguito. Rischio di solvibilità: i mutuatari smettono di pagare i mutui per la casa e le attività della banca finiscono per valere meno di quanto essa deve.](/micrographics/liquidity-vs-solvency-01/it.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
 
 
 

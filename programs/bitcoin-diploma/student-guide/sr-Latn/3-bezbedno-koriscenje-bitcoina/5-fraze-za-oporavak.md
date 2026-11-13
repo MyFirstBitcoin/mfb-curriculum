@@ -36,4 +36,4 @@ Neki novčanici koriste dodatne pristupne fraze, više ključeva ili druge siste
 [Pravljenje rezervne kopije fraze za oporavak u tri koraka: ekran novčanika prikazuje reči, vi ih rukom prepisujete na papir istim redosledom, a zatim proveravate svaku reč prema prikazu na ekranu. Uradite to nasamo i bez povezivanja na internet.](/micrographics/seed-phrase-paper-backup-01/sr-Latn.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)

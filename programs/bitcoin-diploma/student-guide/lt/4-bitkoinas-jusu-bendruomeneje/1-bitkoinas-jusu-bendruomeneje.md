@@ -1,6 +1,6 @@
 # 4.1 Bitkoinas jūsų bendruomenėje
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
 
 Tai **susiejimo** etapas „Bitcoin“ diplomo programoje. Jūs susiesite šiuolaikinės pinigų sistemos trūkumus ir [kompromisus](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off), „Bitcoin“ atsaką į juos ir atsakomybę už saugų naudojimą, aptartus **1–3 moduliuose**, su vietos poreikiu ar galimybe, realia alternatyva ir saugia praktine užduotimi. Iš jūsų nesitikima, kad pradėsite naudoti „Bitcoin“ ar nuspręsite, jog tai geriausias pasirinkimas bet kokiomis vietos aplinkybėmis.
 

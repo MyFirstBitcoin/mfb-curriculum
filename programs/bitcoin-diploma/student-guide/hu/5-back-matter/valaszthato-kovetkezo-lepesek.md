@@ -26,11 +26,11 @@ Az Oktatói útmutató segít az órák előkészítésében, a tevékenységek 
 
 ### Csatlakozzon egy tanulóközösséghez
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
 
 A [Bitcoin Oktatási Hálózat](https://myfirstbitcoin.org/about/network) összeköti a független oktatókat és a helyi tanulóközösségeket. Keressen egy Önhöz közeli közösséget, vagy olyat, amelynek munkája érdekli, és lépjen kapcsolatba vele, hogy megtudja, hogyan tanulhat, önkénteskedhet vagy segítheti a munkájukat. A részvétel választható, és nem befolyásolja a Bitcoin-diploma elvégzését, az értékelést vagy a tanúsítvány megszerzését.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
 
 ### Biztonsági emlékeztető
 
@@ -92,13 +92,13 @@ Ha a kiállító oktató biztosít ellenőrzési módszert, kizárólag a tanús
 
 Az Ön legfontosabb eredménye nem a tanúsítvány. Hanem az a képesség, hogy világosan el tudja magyarázni a pénz és a Bitcoin működését, felismerje a kockázatokat, cselekvés előtt ellenőrizze az információkat, és önállóan folytassa a tanulást.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
 
 ### Támogassa az ingyenes Bitcoin-oktatást
 
 A My First Bitcoin oktatási anyagai ingyenesek és nyílt forráskódúak. Az önkéntes támogatás segít a tanterv fenntartásában, az oktatók képzésében és a hozzáférés bővítésében.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
 
 
 https://donate.myfirstbitcoin.org
@@ -112,4 +112,4 @@ Ha úgy dönt, hogy hozzájárul, használja a hivatalos [adományozási oldalt]
 ---
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)

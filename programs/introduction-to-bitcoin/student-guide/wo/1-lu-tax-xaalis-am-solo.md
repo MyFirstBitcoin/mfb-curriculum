@@ -22,4 +22,4 @@ Téere gindikaay bii dafa sukkandiku ci juróom-benni laaj: lu tax xaalis am sol
 
 Ngir njàng rekk la. Du joxe ay ndigal ci wàllu koppar, dugal xaalis, yoon walla galag, te du leen wax ngeen jënd, jaay walla denc dara.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)

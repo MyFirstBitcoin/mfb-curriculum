@@ -12,9 +12,9 @@ Kha maitele a u tshintshana thundu nga thundu, mbambadzo i shuma fhedzi musi vha
 
 Ndi **tshishumiswa tsha u tshintshana**: vhathu vha i ṱanganedza sa mbadelo. Ndi **yuniti ya u vhalela**: mitengo i sumbedzwa ngayo, zwine zwa ita uri ri kone u vhambedza ndeme ya zwithu zwo fhambanaho. Nahone ndi **tshivhulungi tsha ndeme**: i pfukisela ndeme u bva ṋamusi u ya tshifhingani tshi ḓaho. A hu na tshelede ine ya vhulunga ndeme nga nḓila yo fhelelaho, fhedzi dziṅwe tshaka dza tshelede dzi xelelwa nga maanḓa a u renga nga zwiṱuku nga zwiṱuku u fhira dziṅwe.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Kha ḓivhazwakale yoṱhe, zwithu zwinzhi zwo shumiswa sa tshelede: maganda a khumba, muṋo, vhulungu, zwifuwo, koporo, siliva na musuku. Tsimbi dza ndeme dzo thoma u shumiswa nga vhunzhi ngauri dzo vha dzi tshi konḓa u wanala, dzi tshi dzula tshifhinga tshilapfu nahone dzi tshi ṱanganedzwa nga vhathu vhanzhi. Fhedzi u hwala na u tsireledza tsimbi zwi a konḓa, ngauralo bannga dzo thoma u bvisa maṅwalo a bammbiri e a vha a tshi nga tshintshwa a nṋea muṋe wao tshivhalo tsho bulwaho tsha tsimbi. Kha tshaka dzo fhambanaho dza **maitele a u tikedza tshelede nga musuku**, yuniti ya tshelede yo vha yo ṱumanywa nga mulayo na tshivhalo tsha musuku. Milayo yo vha i tshi fhambana u ya nga fhethu na tshifhinga.
 

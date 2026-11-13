@@ -26,11 +26,11 @@ O Guia do Educador ajuda você a preparar aulas, conduzir atividades, adaptar ex
 
 ### Participe de uma comunidade de aprendizagem
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
 
 A [Rede de Educação Bitcoin](https://myfirstbitcoin.org/about/network) conecta educadores independentes e comunidades locais de aprendizagem. Encontre uma comunidade perto de você, ou uma cujo trabalho lhe interesse, e entre em contato para perguntar como você pode aprender, ser voluntário ou contribuir. A participação é opcional e não afeta a conclusão, a avaliação nem a certificação do Diploma.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
 
 ### Um lembrete de segurança
 
@@ -92,13 +92,13 @@ Se o educador emissor oferecer um método de verificação, use apenas as instru
 
 Seu resultado mais importante não é o certificado. É a capacidade de explicar o dinheiro e o Bitcoin com clareza, reconhecer riscos, verificar antes de agir e continuar aprendendo de forma independente.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
 
 ### Apoie a educação gratuita sobre Bitcoin
 
 Os recursos educacionais da My First Bitcoin são gratuitos e de código aberto. O apoio voluntário ajuda a manter o currículo, formar educadores e ampliar o acesso.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
 
 
 https://donate.myfirstbitcoin.org
@@ -112,4 +112,4 @@ Se você decidir contribuir, use a [página oficial de doações](https://donate
 ---
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)

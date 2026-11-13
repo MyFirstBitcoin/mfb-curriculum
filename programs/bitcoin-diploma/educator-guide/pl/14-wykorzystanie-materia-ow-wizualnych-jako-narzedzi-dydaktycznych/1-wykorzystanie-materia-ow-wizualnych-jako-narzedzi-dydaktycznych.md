@@ -41,4 +41,4 @@ Nigdy nie należy wyświetlać należących do osoby uczącej się rzeczywistych
 
 Nie należy przedstawiać twierdzenia opatrzonego zastrzeżeniami jako bezwarunkowego przekazu wizualnego. Wykres podaży nie może sugerować, że [cena](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) wzrośnie. Mapa [decentralizacji](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) nie może sugerować równego wpływu. Ilustracja portfela nie może sugerować, że bitcoin jest przechowywany wewnątrz urządzenia.
 
-![Edukator objaśnia na tablicy sześć połączonych ze sobą węzłów wszystkim pięciorgu uczniom, w tym młodemu uczniowi w pomarańczowej czapce.](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![Edukator objaśnia na tablicy sześć połączonych ze sobą węzłów wszystkim pięciorgu uczniom, w tym młodemu uczniowi w pomarańczowej czapce.](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)

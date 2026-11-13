@@ -34,4 +34,4 @@ Sách trắng đã tập hợp các tính năng cần thiết cho cách tiếp c
 
 Học phần này giải thích chi tiết hơn về các khái niệm này. Khi kết hợp lại, chúng đã mang đến một giải pháp thiết thực cho [vấn đề chi tiêu hai lần](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): mạng lưới có thể từ chối lần chi tiêu thứ hai đối với cùng một lượng bitcoin mà không cần dựa vào một cơ quan trung ương. Bitcoin đã mang đến sự kết hợp còn thiếu mà các thử nghiệm về tiền kỹ thuật số đã tìm kiếm suốt nhiều thập kỷ.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)

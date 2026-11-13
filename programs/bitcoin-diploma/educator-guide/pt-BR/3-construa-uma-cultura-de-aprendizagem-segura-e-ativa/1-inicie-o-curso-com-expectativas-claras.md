@@ -17,4 +17,4 @@ Estabeleça estes acordos de participação:
 * nunca revelar uma [frase-semente](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), [Chave Privada](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), senha ou esquema de segurança; e
 * interromper a atividade prática quando algo for diferente do processo demonstrado.
 
-![O jovem aluno faz uma pergunta enquanto o educador escuta e os outros quatro alunos acompanham a discussão.](https://cdn.sanity.io/images/vje9ehw2/production/bf1185129657cd98555d2704565cf44deadbe59d-1054x1493.png)
+![O jovem aluno faz uma pergunta enquanto o educador escuta e os outros quatro alunos acompanham a discussão.](https://cdn.sanity.io/images/vje9ehw2/staging/bf1185129657cd98555d2704565cf44deadbe59d-1054x1493.png)

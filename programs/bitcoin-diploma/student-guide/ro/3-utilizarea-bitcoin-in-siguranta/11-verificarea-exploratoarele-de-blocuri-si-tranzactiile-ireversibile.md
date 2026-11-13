@@ -22,4 +22,4 @@ Pentru a examina o [Tranzacție](https://curriculum.myfirstbitcoin.org/lexicon/e
 [O tranzacție așteaptă neconfirmată în grupul de tranzacții în așteptare, apoi este inclusă în Blocul N, primind astfel prima confirmare, iar fiecare bloc ulterior adaugă încă una.](/micrographics/confirmation-timeline-01/ro.md)
 
 
-![Cadrul didactic și cursantul mai în vârstă discută un exemplu pregătit în prealabil, afișat pe un monitor orientat spre grup, în timp ce cursantul cu competențe tehnice manevrează mouse-ul; privitorul vede carcasa din spate a monitorului.](https://cdn.sanity.io/images/vje9ehw2/production/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)
+![Cadrul didactic și cursantul mai în vârstă discută un exemplu pregătit în prealabil, afișat pe un monitor orientat spre grup, în timp ce cursantul cu competențe tehnice manevrează mouse-ul; privitorul vede carcasa din spate a monitorului.](https://cdn.sanity.io/images/vje9ehw2/staging/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)

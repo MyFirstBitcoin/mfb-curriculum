@@ -28,7 +28,7 @@ To vytváří dvě významná rizika:
 [Riziko likvidity: mnoho vkladatelů dnes stojí ve frontě na výběr peněz a banka nyní nemá dostatek hotovosti, přestože její úvěry mohou být splaceny později. Riziko platební neschopnosti: dlužníci nesplácejí úvěry na bydlení a hodnota aktiv banky klesá pod výši jejích závazků.](/micrographics/liquidity-vs-solvency-01/cs.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
 
 
 

@@ -36,4 +36,4 @@ Bazı cüzdanlar ek parolalar, birden fazla anahtar veya başka yedekleme sistem
 [Kurtarma ifadesi yedeğini üç adımda yazmak: cüzdan ekranı kelimeleri gösterir, siz bunları aynı sırayla elle kâğıda kopyalarsınız, ardından her kelimeyi ekranla karşılaştırarak kontrol edersiniz. Bunu kimsenin göremeyeceği bir yerde ve çevrimdışı yapın.](/micrographics/seed-phrase-paper-backup-01/tr.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)

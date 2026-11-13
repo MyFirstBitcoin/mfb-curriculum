@@ -12,9 +12,9 @@ V barterovém systému funguje obchod pouze tehdy, když oba lidé chtějí to, 
 
 Jsou **prostředkem směny**: lidé je přijímají jako platbu. Jsou **účetní jednotkou**: ceny se v nich vyjadřují, takže můžeme porovnávat hodnotu různých věcí. A jsou **uchovatelem hodnoty**: přenášejí hodnotu z dneška do budoucnosti. Žádné peníze neuchovávají hodnotu dokonale, ale některé formy ztrácejí kupní sílu pomaleji než jiné.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 V průběhu dějin sloužilo jako peníze mnoho věcí: mušle, sůl, korálky, dobytek, měď, stříbro a zlato. Drahé kovy se začaly široce používat, protože byly vzácné, trvanlivé a všeobecně přijímané. Přenášet a chránit kov je však obtížné, a proto banky začaly vydávat papírové poukázky, které bylo možné směnit za stanovené množství kovu. V různých podobách **zlatého standardu** byla měnová jednotka ze zákona vázána na určité množství zlata. Pravidla se lišila podle místa a doby.
 

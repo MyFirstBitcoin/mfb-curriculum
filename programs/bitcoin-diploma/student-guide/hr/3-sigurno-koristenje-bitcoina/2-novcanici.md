@@ -8,7 +8,7 @@
 
 Što bi se dogodilo kada bi vaš telefon prestao raditi? Zapis na mreži Bitcoin i dalje bi postojao, ali pristup bi ovisio o ključevima i načinu oporavka koji novčanik upotrebljava. Novčanik pomaže u stvaranju podataka za primanje, prikazu stanja i [transakcijske](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) povijesti te autorizaciji trošenja. To ne uklanja potrebu da razumijete tko kontrolira pristup.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
 
 
 <!-- card: dark -->
@@ -33,4 +33,4 @@ Usporedite [skrbništvo](https://curriculum.myfirstbitcoin.org/lexicon/en/#custo
 > Tijekom programa Diploma možete izraditi novčanik ili zapisati [riječi za oporavak](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) u sklopu vježbe. Učionica je okruženje za učenje: informacije se mogu vidjeti, kopirati, podijeliti ili nenamjerno kompromitirati. Zbog toga bi novčanik za vježbu u pravilu trebao biti prazan ili simuliran te se ne bi smio upotrebljavati za čuvanje znatnih sredstava. Kada je to izvedivo, na kraju programa Diploma zatvara se, vraća na početne postavke ili vraća edukatoru. Vaš edukator može odabrati praktičnu aktivnost sa stvarnim sredstvima male vrijednosti, ali prije sudjelovanja treba objasniti njezinu svrhu i dodatne rizike za privatnost i sigurnost te rizik od gubitka. Novčanik namijenjen čuvanju znatnih sredstava zahtijeva novo postavljanje u privatnom okruženju i nove podatke za oporavak. Vaš edukator može objasniti razliku, ali za završetak programa Diploma nikada niste obvezni postaviti osobni novčanik.
 
 
-![Edukator demonstrira upotrebu telefona za vježbu dok početnik i stariji polaznici pregledavaju vlastite uređaje.](https://cdn.sanity.io/images/vje9ehw2/production/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)
+![Edukator demonstrira upotrebu telefona za vježbu dok početnik i stariji polaznici pregledavaju vlastite uređaje.](https://cdn.sanity.io/images/vje9ehw2/staging/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)

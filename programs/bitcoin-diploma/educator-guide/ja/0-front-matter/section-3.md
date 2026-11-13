@@ -38,7 +38,7 @@
 [コホートを計画するには、学習者の人数に見込まれるサポートと観察の時間を掛け、準備、フィードバック、アクセシビリティへの配慮、再評価のための時間を加えます。教育者に十分な時間がない場合は、学習者を減らす、教育者を増やす、または時間を増やすなど、計画を変更します。](/micrographics/cohort-capacity-check-01/ja.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
 
 ### コンピテンシーと評価根拠の対応表
 

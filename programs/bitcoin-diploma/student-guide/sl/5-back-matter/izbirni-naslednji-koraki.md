@@ -26,11 +26,11 @@ Vodnik za izobraževalce vam pomaga pri pripravi učnih ur, vodenju dejavnosti, 
 
 ### Pridružite se učni skupnosti
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
 
 Ta [mreža za izobraževanje o Bitcoinu](https://myfirstbitcoin.org/about/network) povezuje neodvisne izobraževalce in lokalne učne skupnosti. Poiščite skupnost v svoji bližini ali takšno, katere delo vas zanima, in stopite v stik z njo ter vprašajte, kako se lahko učite, sodelujete kot prostovoljec ali prispevate. Sodelovanje je neobvezno in ne vpliva na dokončanje programa Diploma Bitcoin, ocenjevanje ali pridobitev potrdila.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
 
 ### Varnostni opomnik
 
@@ -92,13 +92,13 @@ Potrdilo je potrditev, ki jo izda navedeni izobraževalec ali njegova organizaci
 
 Vaš najpomembnejši dosežek ni potrdilo. Je sposobnost jasno razložiti denar in Bitcoin, prepoznati tveganje, preverjati pred ukrepanjem in se še naprej samostojno učiti.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
 
 ### Podprite brezplačno izobraževanje o Bitcoinu
 
 Izobraževalna gradiva My First Bitcoin so brezplačna in odprtokodna. Prostovoljna podpora pomaga vzdrževati učni načrt, usposabljati izobraževalce in širiti dostop.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
 
 
 https://donate.myfirstbitcoin.org
@@ -112,4 +112,4 @@ _Podprite My First Bitcoin_
 ---
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)

@@ -41,4 +41,4 @@ Toon nooit een echte [seedphrase](https://curriculum.myfirstbitcoin.org/lexicon/
 
 Maak van een genuanceerde bewering in de tekst geen absolute bewering in beeld. Een grafiek van het aanbod mag geen [prijs](https://curriculum.myfirstbitcoin.org/lexicon/en/#price)stijging suggereren. Een [decentralisatie](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization)kaart mag geen gelijke invloed suggereren. Een afbeelding van een Wallet mag niet suggereren dat bitcoin in het apparaat zelf is opgeslagen.
 
-![De docent legt op een whiteboard zes onderling verbonden peers uit aan alle vijf leerlingen, onder wie de jonge leerling met een oranje muts.](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![De docent legt op een whiteboard zes onderling verbonden peers uit aan alle vijf leerlingen, onder wie de jonge leerling met een oranje muts.](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)

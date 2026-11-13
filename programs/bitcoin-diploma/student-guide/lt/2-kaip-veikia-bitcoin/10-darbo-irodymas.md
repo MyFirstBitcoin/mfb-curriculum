@@ -1,6 +1,6 @@
 # 2.10 Darbo įrodymas
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
 <!-- card: definition -->
@@ -29,4 +29,4 @@ Kai [kasėjas](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) randa [g
 
 [Darbo įrodymas](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) reikalauja realių energijos sąnaudų. Šalininkai teigia, kad būtent šios sąnaudos yra „Bitcoin“ saugumo pagrindas ir gali sukurti lanksčiai tiekiamos ar kitaip nepanaudojamos energijos paklausą. Kritikai kelia klausimus dėl naudojamos energijos kiekio ir šaltinių. Atsakingai vertinant klausiama, kokia energija naudojama, iš kur ji gaunama, kokį saugumą ji užtikrina ir kokios alternatyvos lyginamos.
 
-![Pedagogas, pradedantysis besimokantysis ir techninių žinių turintis besimokantysis aptaria stalinį kasimo įrenginį su ventiliatoriumi ir atskiru maitinimo šaltiniu.](https://cdn.sanity.io/images/vje9ehw2/production/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)
+![Pedagogas, pradedantysis besimokantysis ir techninių žinių turintis besimokantysis aptaria stalinį kasimo įrenginį su ventiliatoriumi ir atskiru maitinimo šaltiniu.](https://cdn.sanity.io/images/vje9ehw2/staging/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)

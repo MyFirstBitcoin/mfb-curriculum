@@ -19,7 +19,7 @@ A máa ń lo owó lójoojúmọ́, síbẹ̀ a kì í sábà béèrè bí ó ṣ
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Ọ̀pọ̀ jù lọ àwọn ènìyàn kì í dúró láti ronú nípa owó
 
@@ -29,7 +29,7 @@ Kì í ṣe ṣíṣiṣẹ́ láti rí i gbà, kì í ṣe níná rẹ̀, bí k
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Ìbéèrè Márùn-ún Láti Bẹ̀rẹ̀
 
@@ -49,7 +49,7 @@ Kì í ṣe ṣíṣiṣẹ́ láti rí i gbà, kì í ṣe níná rẹ̀, bí k
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Òtítọ́ tàbí Èrò?
 
@@ -74,7 +74,7 @@ Owó jẹ́ irinṣẹ́ fún pàṣípààrọ̀.
 
 Àwọn méjèèjì gbọ́dọ̀ fẹ́ ohun tí ẹnì kejì ní, ní àkókò kan náà àti ní iye tó yẹ.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Ẹ lo àpẹẹrẹ inú ìwé ìtọ́sọ́nà náà: ẹ ń gbin ìrẹsì, ẹ sì nílò bàtà, ṣùgbọ́n olùṣe bàtà fẹ́ epo ìdáná, kì í ṣe ìrẹsì. Àwọn onímọ̀ ètò ọrọ̀ ajé ń pe èyí ní ìbámu ìfẹ́ méjèèjì. -->
 
@@ -96,13 +96,13 @@ Owó jẹ́ irinṣẹ́ fún pàṣípààrọ̀.
 
 Kò sí ẹni tó fẹ́ owó nítorí owó fúnra rẹ̀. Ó wúlò nítorí pé àwọn ẹlòmíràn ń gbà á, pẹ̀lú ìrètí pé àwọn mìíràn yóò gbà á nígbà tó bá yá.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Owó bébà jẹ́ ẹyọ bébà lásán. Owó ń yanjú ìṣòro pàṣípààrọ̀ ọjà nípa yíya títà sọ́tọ̀ kúrò nínú ríra: ẹ ta ìrẹsì yín fún ẹnì kan, ẹ sì ra bàtà lọ́wọ́ ẹlòmíràn. Èyí ni ohun tí ó mú kí owó yàtọ̀ sí pàṣípààrọ̀ ọjà. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Ohun Mẹ́ta Tí Owó Ń Ṣe
 
@@ -114,7 +114,7 @@ Kò sí owó tí ó ń pa iye rẹ̀ mọ́ láìlábùkù, ṣùgbọ́n agbár
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Láti Ìkarahun sí Bébà
 
@@ -161,13 +161,13 @@ Nígbà tí àwọn ènìyàn bá gbọ́ ọ̀rọ̀ náà ìfowópamọ́, w�
 
 ## Ìlọsíwájú Iye Ọjà àti Agbára Rírà
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Ìgbéga iye owó jẹ́ ìlọsíwájú tí ó ń bá a lọ nínú ìpele gbogbogbò ti iye owó àwọn ọjà. Apá kejì rẹ̀ ni agbára ìrajà: iye ohun tí ẹyọ owó kan lè rà. Bí iye owó apẹ̀rẹ̀ àwọn ọjà ìpìlẹ̀ kan bá gòkè láti ẹyọ owó 100 sí 110, ẹyọ owó 100 kan náà kò lè ra gbogbo ohun tó wà nínú apẹ̀rẹ̀ náà mọ́. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Ọ̀pọ̀lọpọ̀ Ìdí, Àṣàyàn Kan
 
@@ -285,7 +285,7 @@ A lè pín bitcoin kan sí àwọn ẹyọ kéékèèké 100,000,000 tí a ń p�
 
 ## Ta ló ń jẹ́ kí Bitcoin máa ṣiṣẹ́?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Àwọn olùlò ń fi bitcoin ránṣẹ́, ń gbà á, wọ́n sì ń tọ́jú rẹ̀; àwọn kókó nẹ́tíwọ́ọ̀kì ń ṣàyẹ̀wò gbogbo ìdúnàádúrà àti búlọ́ọ̀kù láti rí i pé wọ́n bá àwọn òfin mu; àwọn awakùsà sì ń díje láti fi búlọ́ọ̀kù tuntun kún àkọsílẹ̀ náà ní nǹkan bí ìṣẹ́jú mẹ́wàá kọ̀ọ̀kan. Àkọsílẹ̀ yẹn, tí a ń pè ní ẹ̀wọ̀n búlọ́ọ̀kù, wà ní gbangba, ó sì náwó púpọ̀ gan-an láti tún un kọ. Àkíyèsí nípa bí a ṣe ń kọ ọ́: Bitcoin tí ó bẹ̀rẹ̀ pẹ̀lú B ńlá sábà máa ń túmọ̀ sí nẹ́tíwọ́ọ̀kì tàbí ètò náà; bitcoin tí ó bẹ̀rẹ̀ pẹ̀lú b kékeré túmọ̀ sí owó náà fúnra rẹ̀. -->
 
@@ -330,7 +330,7 @@ Yíyan irú ìtọ́jú kì í ṣe ohun tí a fi ń díwọ̀n iyì yín. Ohun 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Gbólóhùn Irúgbìn Yín Ni Àṣẹ Ìwọlé Kíkún
 
@@ -350,7 +350,7 @@ Yíyan irú ìtọ́jú kì í ṣe ohun tí a fi ń díwọ̀n iyì yín. Ohun 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Kí Ẹ Tó Lo Àpò Owó Èyíkéyìí
 
@@ -391,7 +391,7 @@ Yíyan irú ìtọ́jú kì í ṣe ohun tí a fi ń díwọ̀n iyì yín. Ohun 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Ẹ Dúró, Ẹ Má Ṣe Pín Ohunkóhun, Ẹ Má Ṣe Fi Ohunkóhun Ránṣẹ́
 
@@ -426,7 +426,7 @@ Yíyan irú ìtọ́jú kì í ṣe ohun tí a fi ń díwọ̀n iyì yín. Ohun 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Ìwé Ẹ̀rí Bitcoin
 

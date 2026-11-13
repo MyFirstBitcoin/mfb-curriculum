@@ -25,4 +25,4 @@ Use afirmação, evidência e trade-off:
 
 Estatísticas detalhadas de energia e a economia da [mineração](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) não são conteúdo obrigatório do Bitcoin Diploma. Use-as somente quando o educador tiver verificado fontes atuais e a discussão contribuir para uma competência.
 
-![O educador e o estudante com perfil técnico indicam dispositivos separados de mineração e de nó, enquanto o estudante mais velho participa com um guia.](https://cdn.sanity.io/images/vje9ehw2/production/c42a629a0dff84d04b37397d56a45bf146f7110b-1054x1492.png)
+![O educador e o estudante com perfil técnico indicam dispositivos separados de mineração e de nó, enquanto o estudante mais velho participa com um guia.](https://cdn.sanity.io/images/vje9ehw2/staging/c42a629a0dff84d04b37397d56a45bf146f7110b-1054x1492.png)

@@ -28,4 +28,4 @@ Pada Bitcoin, [desentralisasi](https://curriculum.myfirstbitcoin.org/lexicon/en/
 
 [Desentralisasi](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) juga menimbulkan biaya. Koordinasi dapat menjadi lebih lambat. Pengguna harus memverifikasi informasi dan memikul tanggung jawab yang lebih besar. Tidak ada pusat bantuan untuk [jaringan Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). Berbagai [kompromi](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) ini merupakan bagian dari rancangan, bukan cacat yang tidak disengaja dan dapat dihilangkan tanpa mengubah sistem.
 
-![Pendidik menunjuk sebuah jaringan pada layar di ruang kelas, sementara peserta didik pemula dan peserta didik berlatar belakang teknis mendiskusikannya di meja.](https://cdn.sanity.io/images/vje9ehw2/production/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)
+![Pendidik menunjuk sebuah jaringan pada layar di ruang kelas, sementara peserta didik pemula dan peserta didik berlatar belakang teknis mendiskusikannya di meja.](https://cdn.sanity.io/images/vje9ehw2/staging/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)

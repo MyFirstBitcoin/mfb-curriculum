@@ -16,4 +16,4 @@ Peer-to-peer neznamená, že spolu přímo komunikují pouze dva počítače neb
 [Uživatelé, uzly, těžaři, vývojáři i služby mají určitou moc v rámci sdílených pravidel a veřejné účetní knihy Bitcoinu, ale nikdo z nich nemůže sám změnit účetní knihu ani pravidla pro všechny.](/micrographics/powers-and-limits-01/cs.md)
 
 
-![Vyučující pomocí ukazovátka vysvětluje síť na prezentační tabuli začátečníkům i technicky zaměřeným studentům.](https://cdn.sanity.io/images/vje9ehw2/production/3999e88f5f80f010b5cd6238a4fe41d1aed8bdb2-1054x1492.png)
+![Vyučující pomocí ukazovátka vysvětluje síť na prezentační tabuli začátečníkům i technicky zaměřeným studentům.](https://cdn.sanity.io/images/vje9ehw2/staging/3999e88f5f80f010b5cd6238a4fe41d1aed8bdb2-1054x1492.png)

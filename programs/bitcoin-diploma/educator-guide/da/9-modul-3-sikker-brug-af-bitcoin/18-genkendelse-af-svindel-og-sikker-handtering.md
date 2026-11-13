@@ -34,4 +34,4 @@ Placér korte, opdigtede scenarier rundt om i lokalet. Ved hver station noterer 
 
 Medtag én besked, der ser legitim ud og ikke har nogen åbenlyse stavefejl. Undervisningen bør ikke fremstille svindel som let at opdage, blot fordi den ser uprofessionel ud.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)

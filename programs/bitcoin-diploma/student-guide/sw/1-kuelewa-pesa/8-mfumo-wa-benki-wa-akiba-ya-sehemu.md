@@ -28,7 +28,7 @@ Hali hii husababisha hatari mbili muhimu:
 [Hatari ya ukwasi: wawekaji wengi wanapanga foleni kutoa pesa zao leo, na benki haina pesa taslimu za kutosha sasa ingawa mikopo yake inaweza kulipwa baadaye. Hatari ya ufilisi: wakopaji wanashindwa kulipa mikopo ya nyumba, na mali za benki zinakuwa na thamani ndogo kuliko kile ambacho benki inadaiwa.](/micrographics/liquidity-vs-solvency-01/sw.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
 
 
 

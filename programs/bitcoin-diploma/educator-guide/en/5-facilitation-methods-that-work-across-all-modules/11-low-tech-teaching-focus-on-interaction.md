@@ -6,4 +6,4 @@ Simple materials can reduce setup time and distractions, leaving more room for c
 
 More tools can bring more complexity. Add a tool when it helps learners understand or practise something, and keep a simple alternative ready. Focus first on the quality of engagement: are learners participating, asking questions, explaining their thinking, and showing what they understand? Choose the approach that supports that learning.
 
-![The educator and older learner arrange teaching cards while the young learner participates with a notebook.](https://cdn.sanity.io/images/vje9ehw2/production/f062a7d4ca6c0e188b299060e170b244e0ee7acb-1054x1492.png)
+![The educator and older learner arrange teaching cards while the young learner participates with a notebook.](https://cdn.sanity.io/images/vje9ehw2/staging/f062a7d4ca6c0e188b299060e170b244e0ee7acb-1054x1492.png)

@@ -23,7 +23,7 @@ Mỗi khi mở tài liệu hướng dẫn mô-đun, hãy làm theo cùng một t
 
 Các tiêu đề được chủ ý lặp lại. Sự lặp lại đó giúp giáo viên mới dễ tìm nội dung, chứ không phải là nội dung cần ghi nhớ.
 
-![Giáo viên chỉ vào một sơ đồ trong tài liệu hướng dẫn khóa học đang mở, trong khi người mới bắt đầu và người học lớn tuổi theo dõi trong tài liệu của riêng mình.](https://cdn.sanity.io/images/vje9ehw2/production/f4e6dd8cd876afad89cef117fc6845f0b599f408-1054x1492.png)
+![Giáo viên chỉ vào một sơ đồ trong tài liệu hướng dẫn khóa học đang mở, trong khi người mới bắt đầu và người học lớn tuổi theo dõi trong tài liệu của riêng mình.](https://cdn.sanity.io/images/vje9ehw2/staging/f4e6dd8cd876afad89cef117fc6845f0b599f408-1054x1492.png)
 
 ### Những câu có thể dùng khi chưa chắc chắn
 

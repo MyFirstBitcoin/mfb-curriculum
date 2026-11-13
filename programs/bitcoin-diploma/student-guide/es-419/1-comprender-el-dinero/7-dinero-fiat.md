@@ -15,7 +15,7 @@ El sistema fíat tiene varios participantes principales:
 [Los actores de un sistema de dinero fíat y lo que circula entre ellos: el banco central establece la política monetaria y liquida los pagos entre bancos, los bancos comerciales mantienen depósitos que constituyen un pasivo frente a sus clientes, los servicios de pago transmiten instrucciones, el gobierno recauda impuestos y realiza gastos, y los ciudadanos y las empresas realizan y reciben pagos.](/micrographics/fiat-system-flows-01/es-419.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
 <!-- card: light -->

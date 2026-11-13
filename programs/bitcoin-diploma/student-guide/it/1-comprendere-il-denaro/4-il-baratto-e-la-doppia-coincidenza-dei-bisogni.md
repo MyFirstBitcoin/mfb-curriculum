@@ -8,7 +8,7 @@
 
 Immagini che **Amina** abbia del riso e voglia delle scarpe. **Luis** ha delle scarpe ma vuole olio da cucina, non riso. **Mei** ha olio da cucina e vuole lavori di riparazione. Amina potrebbe dover fare diversi scambi prima di riuscire a ottenere le scarpe. Ogni scambio richiede tempo e un accordo sul [valore](https://curriculum.myfirstbitcoin.org/lexicon/en/#value).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
 
 
 <!-- micrographic: barter-mismatch-01 -->
@@ -29,7 +29,7 @@ Una moneta comunemente accettata separa la vendita dall'acquisto. Amina può ven
 
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
 
 <!-- micrographic: sell-then-buy-01 -->

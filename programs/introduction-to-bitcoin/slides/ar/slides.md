@@ -19,7 +19,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## معظم الناس لا يتوقفون أبدًا للتفكير في المال
 
@@ -29,7 +29,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## خمسة أسئلة للبدء
 
@@ -49,7 +49,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## حقيقة أم رأي؟
 
@@ -74,7 +74,7 @@ theme: mfb
 
 يجب أن يرغب كلا الشخصين فيما يملكه الآخر، في الوقت نفسه وبكميات مناسبة.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: استخدموا المثال الوارد في الدليل: أنتم تزرعون الأرز وتحتاجون إلى حذاء، لكن صانع الأحذية يريد زيت الطهي، لا الأرز. يُطلق الاقتصاديون على هذا اسم «التوافق المزدوج للرغبات». -->
 
@@ -96,13 +96,13 @@ theme: mfb
 
 لا أحد يريد المال لذاته. فهو مفيد لأن الآخرين يقبلونه، متوقعين أن يقبله غيرهم لاحقًا.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: الورقة النقدية ليست سوى قطعة من الورق. يحلّ المال مشكلة المقايضة بفصل البيع عن الشراء: تبيعون الأرز لشخص وتشترون الأحذية من شخص آخر. وهذا ما يميّز المال عن المقايضة. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## ثلاث وظائف للنقود
 
@@ -114,7 +114,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## من الأصداف إلى النقود الورقية
 
@@ -161,13 +161,13 @@ theme: mfb
 
 ## التضخم والقوة الشرائية
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: تضخم الأسعار هو ارتفاع مستمر في المستوى العام للأسعار. أما وجهه الآخر فهو القوة الشرائية: أي مقدار ما يمكن لوحدة نقدية واحدة شراؤه. فإذا ارتفع سعر سلة من السلع الأساسية من 100 وحدة نقدية إلى 110، فلن تعود الوحدات النقدية الـ100 نفسها كافية لشراء السلة كاملة. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## أسباب عديدة، خيار واحد
 
@@ -285,7 +285,7 @@ theme: mfb
 
 ## من يُبقي بيتكوين قيد التشغيل؟
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: يرسل المستخدمون بيتكوين ويتلقّونها ويحتفظون بها؛ وتتحقّق العُقَد من مطابقة كل معاملة وكل كتلة للقواعد؛ ويتنافس المعدّنون لإضافة كتلة جديدة إلى السجل كل عشر دقائق تقريبًا. وهذا السجل، أي سلسلة الكتل، متاح للجميع، وإعادة كتابته مكلفة للغاية. ملاحظة بشأن الكتابة: يشير لفظ Bitcoin بحرف B كبير عادةً إلى الشبكة أو النظام؛ أما لفظ bitcoin بحرف b صغير فيشير إلى المال نفسه. -->
 
@@ -330,7 +330,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## عبارة الاسترداد الخاصة بكم تمنح الوصول الكامل
 
@@ -350,7 +350,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## قبل استخدام أي محفظة
 
@@ -391,7 +391,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## توقّفوا، لا تشاركوا شيئًا، ولا ترسلوا شيئًا
 
@@ -426,7 +426,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## دبلوم بيتكوين
 

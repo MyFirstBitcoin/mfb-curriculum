@@ -12,7 +12,7 @@ Ta je razlika važna za provjeru. Pravila Bitcoina i ukupnu količinu bitcoina m
 
 U **neskrbničkom** ili **samoskrbničkom** novčaniku VI kontrolirate ključeve. Novčanik potpisuje [transakcije](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) uz vaše ovlaštenje. I dalje mogu postojati ovisnosti o softveru, hardveru, poslužiteljima ili mreži, ali nijedan [skrbnik](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian) ne mora odobriti valjano trošenje na lancu blokova.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 
 <!-- micrographic: who-controls-keys-01 -->

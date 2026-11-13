@@ -21,7 +21,7 @@ Ilarawan ninyo ang isang simpleng lokal na siklo:
 1. Ano ang mangyayari kapag nawalan ng koneksiyon sa internet?
 1. Anong mga panganib sa [pag-iingat ng pondo](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) at [presyo](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) ang kinakaharap ng bawat kalahok?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
 
 Ang isang maayos na sirkular na ekonomiya ay nakasalalay sa kusang-loob na pakikilahok. Dapat kayang tukuyin ng mga mangangalakal at manggagawa ang mga panganib sa pagbabayad, pagpepresyo, [pag-iingat ng pondo](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), pagtutuos, at [pabagu-bagong halaga](https://curriculum.myfirstbitcoin.org/lexicon/en/#volatility). Hindi sapat ang bilang lamang ng mga gumagamit upang masabi kung kapaki-pakinabang ang network.
 

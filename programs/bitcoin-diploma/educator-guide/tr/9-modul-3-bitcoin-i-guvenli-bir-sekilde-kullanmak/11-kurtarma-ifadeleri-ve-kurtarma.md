@@ -15,7 +15,7 @@ Sonuçlarını öğretin:
 [Kurtarma ifadesi (seed phrase), sıralı bir kelime listesidir; burada kâğıda yazılmış, numaralandırılmış on iki örnek kelime görülmektedir. Doğru kelimeler doğru sırayla girildiğinde uyumlu bir cüzdanda kontrol yeniden sağlanabilir; bu nedenle gizli ve çevrimdışı tutulmalıdır.](/micrographics/seed-phrase-on-paper-01/tr.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
 
 #### Sınıfta asla bunları yapmayın
 
@@ -56,4 +56,4 @@ Sonuçlarını öğretin:
 
 Miras, [çoklu imza](https://curriculum.myfirstbitcoin.org/lexicon/en/#multisignature) tasarımı, gelişmiş parola ifadeleri (passphrase) ve yüksek değerli varlıklar için kurtarma planlaması ileri düzey güvenlik bilgisi ve profesyonel hukuki danışmanlık gerektirebilir. Bunlar, Bitcoin Diploma kapsamında zorunlu performans hedeflerinin dışındadır.
 
-![Eğitimci, yaşça büyük öğrenci boş bir eğitim kartını zarfa yerleştirirken ve teknik bilgisi olan öğrenci izlerken bir kurtarmaya hazırlık tartışmasını yönetiyor.](https://cdn.sanity.io/images/vje9ehw2/production/23cdb205174fa99b2d0df47ef606b53f8329f152-1054x1492.png)
+![Eğitimci, yaşça büyük öğrenci boş bir eğitim kartını zarfa yerleştirirken ve teknik bilgisi olan öğrenci izlerken bir kurtarmaya hazırlık tartışmasını yönetiyor.](https://cdn.sanity.io/images/vje9ehw2/staging/23cdb205174fa99b2d0df47ef606b53f8329f152-1054x1492.png)

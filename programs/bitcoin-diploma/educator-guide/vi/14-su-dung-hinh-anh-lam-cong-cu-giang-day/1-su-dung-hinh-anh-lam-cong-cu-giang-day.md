@@ -41,4 +41,4 @@ Tuyệt đối không hiển thị thông tin thật của học viên như [c�
 
 Không biến một nhận định có điều kiện trong văn bản thành hình ảnh mang tính tuyệt đối. Biểu đồ nguồn cung không được ngụ ý rằng [giá](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) sẽ tăng. Bản đồ về [sự phi tập trung](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) không được ngụ ý rằng các bên có ảnh hưởng ngang nhau. Hình ảnh ví không được ngụ ý rằng bitcoin được lưu trữ bên trong thiết bị.
 
-![Giảng viên giải thích về sáu nút ngang hàng được kết nối với nhau trên bảng trắng cho cả năm học viên, bao gồm học viên nhỏ tuổi đội mũ len màu cam.](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![Giảng viên giải thích về sáu nút ngang hàng được kết nối với nhau trên bảng trắng cho cả năm học viên, bao gồm học viên nhỏ tuổi đội mũ len màu cam.](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)

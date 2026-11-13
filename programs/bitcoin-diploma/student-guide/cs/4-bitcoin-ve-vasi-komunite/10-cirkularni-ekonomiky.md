@@ -21,7 +21,7 @@ Zmapujte jednoduchý místní koloběh:
 1. Co se stane při výpadku připojení k internetu?
 1. Jaká [úschovní](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) a [cenová](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) rizika nese každý účastník?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
 
 Zdravá cirkulární ekonomika závisí na dobrovolné účasti. Obchodníci a pracovníci by měli být schopni rozpoznat rizika spojená s platbami, cenotvorbou, [úschovou](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), účetnictvím a [volatilitou](https://curriculum.myfirstbitcoin.org/lexicon/en/#volatility). Samotné počty uživatelů neukazují, zda je síť užitečná.
 

@@ -15,7 +15,7 @@ Enseñe las consecuencias:
 [Una frase semilla es una lista ordenada de palabras; aquí se muestran doce palabras de ejemplo numeradas y escritas en papel. Las palabras correctas en el orden correcto permiten recuperar el control en una billetera compatible, por lo que la frase debe mantenerse en secreto y fuera de línea.](/micrographics/seed-phrase-on-paper-01/es-419.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
 
 #### Nunca haga esto en clase
 
@@ -56,4 +56,4 @@ Enseñe las consecuencias:
 
 La herencia, el diseño [multifirma](https://curriculum.myfirstbitcoin.org/lexicon/en/#multisignature), las frases de contraseña avanzadas y la planificación de recuperación de fondos de alto valor pueden requerir medidas de seguridad avanzadas y asesoría jurídica profesional. Estos temas quedan fuera de las competencias exigidas en el Diplomado en Bitcoin.
 
-![El educador guía una conversación sobre la preparación para la recuperación mientras el estudiante de mayor edad coloca una tarjeta de práctica en blanco en un sobre y el estudiante con conocimientos técnicos observa.](https://cdn.sanity.io/images/vje9ehw2/production/23cdb205174fa99b2d0df47ef606b53f8329f152-1054x1492.png)
+![El educador guía una conversación sobre la preparación para la recuperación mientras el estudiante de mayor edad coloca una tarjeta de práctica en blanco en un sobre y el estudiante con conocimientos técnicos observa.](https://cdn.sanity.io/images/vje9ehw2/staging/23cdb205174fa99b2d0df47ef606b53f8329f152-1054x1492.png)

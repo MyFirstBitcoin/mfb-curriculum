@@ -15,7 +15,7 @@ Watu wanaweza kupokea bitcoin kupitia kazi, malipo ya jamii, ubadilishanaji kati
 * **Ubadilishanaji wa Rika-kwa-Rika (P2P):** Watu wawili wanaweza kubadilishana [pesa fiat](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) au bidhaa kwa bitcoin moja kwa moja au kupitia huduma ya kuwaunganisha. Hii inaweza kuleta hatari zinazohusu upande mwingine wa muamala, usalama wa kimwili, kurejeshwa kwa malipo na ulaghai.
 * **Soko la ubadilishaji, dalali, ATM au kibanda cha huduma:** Huduma au mashine inaweza kutoa njia inayojulikana, lakini inaweza kuhusisha ada, ukaguzi wa utambulisho, [uhifadhi](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), vikomo vya kutoa pesa au [kiwango cha ubadilishaji](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate) kisicho kizuri.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
 
 Kabla ya kulinganisha njia, jiulizeni:
 

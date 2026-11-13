@@ -36,4 +36,4 @@ Một số ví sử dụng thêm mật ngữ, nhiều khóa hoặc các hệ th�
 [Viết bản sao lưu cụm từ khôi phục theo ba bước: màn hình ví hiển thị các từ, quý vị chép tay các từ đó ra giấy theo đúng thứ tự, sau đó đối chiếu từng từ với màn hình. Hãy thực hiện ở nơi riêng tư và khi không kết nối mạng.](/micrographics/seed-phrase-paper-backup-01/vi.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)

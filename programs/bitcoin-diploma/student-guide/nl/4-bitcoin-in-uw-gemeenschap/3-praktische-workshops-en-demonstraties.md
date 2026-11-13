@@ -30,4 +30,4 @@ Zorg er vóór elke live demonstratie voor dat u weet:
 
 Het resultaat van uw workshop moet een uitleg of vaardigheid zijn, niet alleen een voltooide [transactie](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction).
 
-![De docent en de ondernemer oefenen samen met een oefentelefoon en kijken allebei naar het scherm dat naar hen toe is gericht.](https://cdn.sanity.io/images/vje9ehw2/production/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)
+![De docent en de ondernemer oefenen samen met een oefentelefoon en kijken allebei naar het scherm dat naar hen toe is gericht.](https://cdn.sanity.io/images/vje9ehw2/staging/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)

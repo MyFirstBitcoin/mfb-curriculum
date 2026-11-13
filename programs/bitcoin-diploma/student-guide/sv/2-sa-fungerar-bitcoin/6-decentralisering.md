@@ -28,4 +28,4 @@ Bitcoins [decentralisering](https://curriculum.myfirstbitcoin.org/lexicon/en/#de
 
 [Decentralisering](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) medför också kostnader. Samordningen kan gå långsammare. Användare måste verifiera information och ta större ansvar. Det finns ingen central support för [Bitcoin-nätverket](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). Dessa [avvägningar](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) är en del av utformningen, inte oavsiktliga brister som kan tas bort utan att systemet förändras.
 
-![Läraren pekar på ett nätverk på en skärm i klassrummet medan nybörjaren och de tekniskt kunniga kursdeltagarna diskuterar det vid ett bord.](https://cdn.sanity.io/images/vje9ehw2/production/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)
+![Läraren pekar på ett nätverk på en skärm i klassrummet medan nybörjaren och de tekniskt kunniga kursdeltagarna diskuterar det vid ett bord.](https://cdn.sanity.io/images/vje9ehw2/staging/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)

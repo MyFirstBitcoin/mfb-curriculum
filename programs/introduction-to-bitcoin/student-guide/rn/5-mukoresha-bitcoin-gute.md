@@ -6,7 +6,7 @@ Ku bw’ivyo, ikibazo ca mbere ku bijanye n’ikofi iyo ari yo yose ni iki: **ni
 
 ###### Ni nde mu vy’ukuri abitse bitcoin zanyu?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 Mukoresheje **ikofi mwicungera**, ni mwebwe mugenzura impfunguruzo.
 

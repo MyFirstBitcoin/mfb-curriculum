@@ -10,4 +10,4 @@ Novac oblikuje svakodnevne odluke o hrani, prevozu, radu, štednji i pomaganju l
 
 Dok razgovarate o ovim pitanjima, uočite razliku između činjenice i mišljenja. „Ova novčanica se prihvata za plaćanje poreza“ jeste činjenica koja se može proveriti. „Ovo je najbolji oblik novca“ jeste mišljenje ili zaključak za koji su potrebni kriterijumi i dokazi.
 
-![Svih šest likova okuplja se oko stolova u učionici dok predavač vodi zajedničko čitanje iz otvorenog priručnika za kurs.](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![Svih šest likova okuplja se oko stolova u učionici dok predavač vodi zajedničko čitanje iz otvorenog priručnika za kurs.](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)

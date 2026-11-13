@@ -44,4 +44,4 @@ A 21 milliós korlát betartását biztosítják a [csomópontok](https://curric
 > A véges kínálat azt sem jelenti, hogy minden bitcoin eladó; egyes bitcoinokat hosszú távon tarthatnak, mások pedig hozzáférhetetlenné válhatnak az elveszett kulcsok miatt.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

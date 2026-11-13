@@ -38,7 +38,7 @@
 [规划一个学员批次时，将学员人数乘以可能需要的辅导与观察时间，再加上准备工作、反馈、无障碍需求及重新评估所需的时间。如果教育者的时间不够，请调整计划：减少学员人数、增加教育者人数或延长时间。](/micrographics/cohort-capacity-check-01/zh-Hans.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
 
 ### 能力与证据对照表
 

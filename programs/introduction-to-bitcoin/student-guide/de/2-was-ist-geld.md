@@ -12,9 +12,9 @@ In einem Tauschhandelssystem funktioniert der Handel nur, wenn beide Personen da
 
 Es ist ein **Tauschmittel**: Menschen nehmen es als Zahlung an. Es ist eine **Recheneinheit**: Preise werden darin ausgedrückt, sodass wir den Wert verschiedener Dinge vergleichen können. Und es ist ein **Wertaufbewahrungsmittel**: Es überträgt Wert von heute in die Zukunft. Kein Geld bewahrt Wert perfekt auf, aber manche Formen verlieren ihre Kaufkraft langsamer als andere.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Im Laufe der Geschichte haben viele Dinge als Geld gedient: Muscheln, Salz, Perlen, Vieh, Kupfer, Silber und Gold. Edelmetalle setzten sich weit durch, weil sie knapp, langlebig und allgemein akzeptiert waren. Doch Metall zu transportieren und zu schützen ist schwierig, daher begannen Banken, Papierscheine auszugeben, die gegen eine festgelegte Menge Metall eingelöst werden konnten. Unter verschiedenen Ausprägungen eines **Goldstandards** war eine Währungseinheit gesetzlich an eine bestimmte Menge Gold gebunden. Die Regeln unterschieden sich je nach Ort und Zeit.
 

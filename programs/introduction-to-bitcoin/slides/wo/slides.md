@@ -19,7 +19,7 @@ Dañuy jëfandikoo xaalis bés bu nekk, waaye duñu faral di laaj ni muy doxee.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Ñi ëpp ci nit ñi duñu taxaw mukk ngir xalaat ci xaalis
 
@@ -29,7 +29,7 @@ Du ko am ci liggéey, du ko jëndee dara, waaye xalaat ci lan la ak ni muy doxee
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Juróomi laaj ngir tàmbali
 
@@ -49,7 +49,7 @@ Du ko am ci liggéey, du ko jëndee dara, waaye xalaat ci lan la ak ni muy doxee
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Dëgg walla xalaat?
 
@@ -74,7 +74,7 @@ Xaalis ab jumtukaayu weccante la.
 
 Ci ñaari nit ñi, ku nekk war na bëgg li moroomam am, ci benn waxtu te ci ay dayo yu méngoo ak seen soxla.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Jëfandikuleen misaal bi ci téereb gindikaay bi: dangeen di bey ceeb te soxla dàll, waaye defarkatu dàll bi diwlin rekk la bëgg, du ceeb. Boroom xam-xamu koom-koom yi dañuy woowe loolu dëppook soxlay ñaari nit. -->
 
@@ -96,13 +96,13 @@ Nit ñaar ñi, ku nekk war na bëgg li ki ci des am, ci benn jamono te ci ay day
 
 Kenn bëggul xaalis ngir xaalis rekk. Am na njariñ ndax ñeneen nangu nañu ko, di yaakaar ne ñeneen dinañu ko nangu ci kanam.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Biyye xaalis kayit rekk la. Xaalis dafay saafara jàfe-jàfey weccante bi, ci li muy tàggale jaay ak jënd: ngeen jaay seen ceeb ci benn nit, te jënd ay dàll ci keneen. Loolu moo wuuteel xaalis ak weccante. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Ñetti mbir yi xaalis di def
 
@@ -114,7 +114,7 @@ Amul benn xeetu xaalis buy denc solo ci anam gu mat sëkk, waaye am na ay xeet y
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Dale ko ci petax ba ci këyit
 
@@ -161,13 +161,13 @@ Bu nit ñi déggee baatu inflasiyoŋ, dañuy faral di xalaat ne njëg yi dañuy 
 
 ## Yokku njëg yi ak kàttanu jënd
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Yéegug njëg mooy yéeg gu sax ci tolluwaayu njëgi mbir yi ci seen mboolem. Wàllam wi ci des mooy dooley jënd: limu mbir yi benn wàllu xaalis man a jënd. Su njëgu dàmbu mbir yu ñu soxla yéegee, jóge ci 100 wàllu xaalis ba 110, 100 wàllu xaalis yooyu dootuñu man a jënd dàmb bi bépp. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Sabab yu bare, benn tànneef
 
@@ -285,7 +285,7 @@ Benn bitcoin mën nañu ko séddale ci 100 000 000 cér yu gën a ndaw yu ñuy w
 
 ## Kan mooy doxal Bitcoin?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Jëfandikukat yi dañuy yónnee, jot ak denc bitcoin; nod yi di seet ndax bépp toxal ak bépp bolok dëppoo nañu ak sàrt yi; gasukati bitcoin yi di joŋante ngir yokk bolok bu bees ci dencukaayu bind yi lu tollu ci fukki simili yu nekk. Dencukaay boobu, di blockchain bi, ñépp a ko man a gis, te soppali bind yi ci nekk dafay laaj coono ak xaalis lu bare. Benn leeral ci mbind mi: Bitcoin bu tàmbalee ak B bu mag dafa faral di tekki lëkkale gi walla sistem bi; bitcoin bu tàmbalee ak b bu ndaw mooy xaalis bi ci boppam. -->
 
@@ -330,7 +330,7 @@ Tànn anam gu ñuy sàmme seen bitcoin du natt seen njariñ. Li am solo mooy nge
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Seen waxu jiwu mooy sañ-sañu jot ci lépp
 
@@ -350,7 +350,7 @@ Ab limu baat yu tërtoo, yu faral di doon 12 walla 24, te mën a sàkkaat seen c
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Bala ngeen di jëfandikoo benn portefeey
 
@@ -391,7 +391,7 @@ Ab limu baat yu tërtoo, yu faral di doon 12 walla 24, te mën a sàkkaat seen c
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Taxawleen, buleen séddoo dara, buleen yónnee dara
 
@@ -426,7 +426,7 @@ Lii tàmbali bi rekk la.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Diplom bi ci Bitcoin
 

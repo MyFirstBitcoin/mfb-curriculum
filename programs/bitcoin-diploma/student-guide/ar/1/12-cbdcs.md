@@ -10,7 +10,7 @@
 
 ثم اسألوا عما يتيحه التصميم. فبحسب القواعد، قد تتيح [العملة الرقمية للبنك المركزي (CBDC)](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) تسوية أسرع، أو وصولاً أوسع، أو ميزات جديدة للدفع. وقد تمنح المؤسسات أيضاً قدرة أكبر على مراقبة [المعاملات](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction)، أو تطبيق القواعد، أو تقييد الاستخدام، أو ربط الهوية بالمدفوعات مباشرةً. وهذا هو التحكم المركزي: إذ تتولى مؤسسة وضع القواعد المعنية أو تغييرها، بدلاً من أن يتولى ذلك المستخدمون العاديون بصورة مستقلة.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->

@@ -11,7 +11,7 @@ Sumber daya terbatas, sedangkan keinginan manusia tidak terbatas.
 
 Adapun [nilai](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) suatu barang tidak terkandung di dalam barang itu sendiri. Orang [menilai](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) barang berdasarkan kebutuhan, preferensi, informasi, dan keadaan mereka. Hal ini terkadang disebut [**nilai subjektif**](https://curriculum.myfirstbitcoin.org/lexicon/en/#subjective-value). Air bersih mungkin murah di dekat sumber air umum yang aman dan sangat berharga saat terjadi kekurangan air.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
 
 
 <!-- micrographic: same-water-different-value-01 -->

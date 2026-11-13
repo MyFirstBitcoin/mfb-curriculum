@@ -4,7 +4,7 @@
 
 Az egyenrangú felek közötti kapcsolat nem mindig jelenti azt, hogy csak két számítógép kommunikál közvetlenül egymással. Egy [tranzakció](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) haladhat át tárcákon, internetszolgáltatókon és számos hálózati [csomóponton](https://curriculum.myfirstbitcoin.org/lexicon/en/#node). A lényeg az, hogy semmilyen központi Bitcoin-üzemeltetőnek nem kell jóváhagynia a küldőt vagy a címzettet.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
 
 
 <!-- micrographic: peer-to-peer-route-01 -->

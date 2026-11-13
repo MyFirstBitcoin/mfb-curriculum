@@ -25,4 +25,4 @@ Précisez que le [troc](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter
 
 Si vous utilisez un jeu, revenez sur les simplifications qu’il implique. Dans la réalité, les échanges font intervenir des relations, du crédit, des dons, des obligations, des négociations, le droit et des interactions répétées.
 
-![L’enseignant anime une activité d’échange direct entre le débutant qui tient un cahier et le chef d’entreprise qui tient des provisions.](https://cdn.sanity.io/images/vje9ehw2/production/48813fb8d9434061c5c546898f4023f8748e9edd-1054x1492.png)
+![L’enseignant anime une activité d’échange direct entre le débutant qui tient un cahier et le chef d’entreprise qui tient des provisions.](https://cdn.sanity.io/images/vje9ehw2/staging/48813fb8d9434061c5c546898f4023f8748e9edd-1054x1492.png)

@@ -1,6 +1,6 @@
 # 2.10 Dovada muncii
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
 <!-- card: definition -->
@@ -29,4 +29,4 @@ Când un [miner](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) găse�
 
 [Dovada Muncii](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) implică un cost energetic real. Susținătorii afirmă că acest cost stă la baza securității Bitcoin și poate crea cerere pentru energie disponibilă în mod flexibil sau care altfel ar rămâne neutilizată. Criticii pun sub semnul întrebării cantitatea și sursa energiei utilizate. O evaluare responsabilă analizează ce energie este utilizată, de unde provine, ce securitate oferă și ce alternative sunt comparate.
 
-![Cadrul didactic, cursantul începător și cursantul cu pregătire tehnică discută despre un dispozitiv de minerit de masă, cu ventilator și sursă de alimentare separată.](https://cdn.sanity.io/images/vje9ehw2/production/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)
+![Cadrul didactic, cursantul începător și cursantul cu pregătire tehnică discută despre un dispozitiv de minerit de masă, cu ventilator și sursă de alimentare separată.](https://cdn.sanity.io/images/vje9ehw2/staging/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)

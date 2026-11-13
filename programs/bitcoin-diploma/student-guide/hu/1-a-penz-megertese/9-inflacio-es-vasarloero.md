@@ -13,7 +13,7 @@
 > [A vásárlóerő](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) az áruk és szolgáltatások azon mennyisége, amelyet egységnyi pénzért meg lehet vásárolni. Ha egy alapvető árukból álló kosár ára 100 egységnyi [pénzről](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) 110-re emelkedik, ugyanaz a 100 egység már nem elegendő a teljes kosár megvásárlásához. A pénz [vásárlóereje](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) ehhez a kosárhoz viszonyítva csökkent.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->

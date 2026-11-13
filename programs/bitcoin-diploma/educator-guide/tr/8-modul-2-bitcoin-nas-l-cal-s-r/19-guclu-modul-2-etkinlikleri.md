@@ -16,4 +16,4 @@ Bu örneklerin hepsini değil, iki ya da üçünü seçin. Yetkinliğe uyan ek s
 
 Şunları kullanırken seçici olun: [mutabakat](https://curriculum.myfirstbitcoin.org/lexicon/en/#consensus) oyunları, hash etkinlikleri, videolar ve rol yapma çalışmaları; bunları yalnızca amaçları, zamanlamaları, öğrenen bağlamı ve değerlendirme oturumları güçlü olduğunda kullanın. Bir etkinlik, ancak bireysel kanıt, bir değerlendirme ölçütü ve bir kayıt süreci içeren, yetkinlikle uyumlu bir temas noktası olduğunda eğitmen liderliğinde teorik kanıt sağlar. Aksi takdirde, onu biçimlendirici amaçla kullanın.
 
-![İşletme sahibi bir eşler ağını açıklarken eğitmen dinliyor ve genç öğrenen bir defterle takip ediyor.](https://cdn.sanity.io/images/vje9ehw2/production/359b55ce824c4e7e1fb6d3f1e0b5dbc01f7c6db6-1054x1493.png)
+![İşletme sahibi bir eşler ağını açıklarken eğitmen dinliyor ve genç öğrenen bir defterle takip ediyor.](https://cdn.sanity.io/images/vje9ehw2/staging/359b55ce824c4e7e1fb6d3f1e0b5dbc01f7c6db6-1054x1493.png)

@@ -23,4 +23,4 @@ Niektóre osoby pełnią kilka ról. [Górnik](https://curriculum.myfirstbitcoin
 
 **Pytanie kontrolne:** Dlaczego [węzeł](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) weryfikuje [transakcje](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction)? Proszę podać przynajmniej jedną regułę, którą [węzeł](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) sprawdza.
 
-![Osoba prowadząca zajęcia udziela wskazówek osobie uczącej się zagadnień technicznych przy komputerze pełniącym funkcję węzła. Ekran monitora jest zwrócony w ich stronę, a jego tylna obudowa jest widoczna dla oglądającego.](https://cdn.sanity.io/images/vje9ehw2/production/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)
+![Osoba prowadząca zajęcia udziela wskazówek osobie uczącej się zagadnień technicznych przy komputerze pełniącym funkcję węzła. Ekran monitora jest zwrócony w ich stronę, a jego tylna obudowa jest widoczna dla oglądającego.](https://cdn.sanity.io/images/vje9ehw2/staging/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)

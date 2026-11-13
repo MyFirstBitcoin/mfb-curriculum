@@ -1,6 +1,6 @@
 # 4.8 Vietiniai įprastų valiutų keitimo į kriptovaliutas ir atvirkščiai būdai
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/16d4da9fcdbc76a89acbef6bf760d3199ea7a843-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/16d4da9fcdbc76a89acbef6bf760d3199ea7a843-1536x1024.svg)
 
 Vienas [**bitkoinų įsigijimo kanalas**](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-ramp) – tai būdas vietinius pinigus, darbą ar kitą [turtą](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) paversti bitkoinais. [**Bitkoinų iškeitimo kanalas**](https://curriculum.myfirstbitcoin.org/lexicon/en/#off-ramp) – tai būdas bitkoinus iškeisti į vietinius pinigus, prekes ar paslaugas. Tas pats kanalas gali atlikti abi funkcijas.
 
@@ -14,7 +14,7 @@ Vietiniai būdai gali apimti:
 * naudojimąsi mokėjimo paslauga, kuri bitkoinus keičia į dekretinius pinigus ir atvirkščiai
 * dalyvavimą vietinėje žiedinėje ekonomikoje
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8ad6c3106c57d796cf1b415d6a8104b043e6a215-776x978.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8ad6c3106c57d796cf1b415d6a8104b043e6a215-776x978.svg)
 
 Palyginkite **visą procesą**, o ne tik pirmąjį mokestį. Paslaugos teikėjas gali reklamuoti mažą pirkimo mokestį, tačiau taikyti nepalankų [valiutos keitimo kursą](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate) arba imti mokestį už lėšų išvedimą. Tiesioginis keitimasis tarp asmenų gali atrodyti privatus, tačiau jam gali reikėti laiko, pasitikėjimo ir fizinio saugumo užtikrinimo.
 

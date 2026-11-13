@@ -8,7 +8,7 @@ The project began with small in-person classes in El Salvador in 2021, after the
 
 Our work is independent, community-driven, and Bitcoin-focused. We focus on financial literacy, careful thinking, and practical safety - not trading, speculation, or promoting other tokens. We do not ask you to accept a belief. Instead, we provide concepts, questions, and practical knowledge so you can form your own conclusions.
 
-![The educator welcomes the beginner, older learner, business owner, technical learner, and young learner into a shared learning group.](https://cdn.sanity.io/images/vje9ehw2/production/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
+![The educator welcomes the beginner, older learner, business owner, technical learner, and young learner into a shared learning group.](https://cdn.sanity.io/images/vje9ehw2/staging/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
 
 ### Our mission: independent, open-source Bitcoin education
 

@@ -23,4 +23,4 @@ Vannak, akik több szerepet is betöltenek. Egy [bányász](https://curriculum.m
 
 **Ellenőrző kérdés:** Miért végez egy [csomópont](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) ellenőrzést a [tranzakciókon](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction)? Nevezzen meg legalább egy olyan szabályt, amelyet egy [csomópont](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) ellenőriz.
 
-![Az oktató egy csomópontként működő számítógépnél segíti a technikai ismereteket tanuló diákot; a monitor feléjük néz, a néző pedig a monitor hátlapját látja.](https://cdn.sanity.io/images/vje9ehw2/production/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)
+![Az oktató egy csomópontként működő számítógépnél segíti a technikai ismereteket tanuló diákot; a monitor feléjük néz, a néző pedig a monitor hátlapját látja.](https://cdn.sanity.io/images/vje9ehw2/staging/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)

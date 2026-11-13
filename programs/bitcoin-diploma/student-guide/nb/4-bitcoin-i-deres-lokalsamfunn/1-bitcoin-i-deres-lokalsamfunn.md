@@ -1,6 +1,6 @@
 # 4.1 Bitcoin i Deres lokalsamfunn
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
 
 Dette er **Koble sammen** – en fase i Bitcoin-diplomet. De skal knytte svakhetene og [avveiningene](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) i det moderne pengesystemet, Bitcoins svar og ansvaret for trygg bruk fra **modul 1–3** til et lokalt behov eller en lokal mulighet, et realistisk alternativ og en trygg praktisk oppgave. Det forventes ikke at De tar i bruk Bitcoin eller konkluderer med at det er det beste alternativet i enhver lokal situasjon.
 

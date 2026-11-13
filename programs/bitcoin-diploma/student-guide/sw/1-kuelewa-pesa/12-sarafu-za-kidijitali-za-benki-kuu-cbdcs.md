@@ -10,7 +10,7 @@
 
 Kisha ulizeni muundo huo unaruhusu nini. Kulingana na kanuni, [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) inaweza kuruhusu ukamilishaji wa haraka zaidi wa malipo, upatikanaji mpana zaidi, au vipengele vipya vya malipo. Inaweza pia kuzipa taasisi uwezo mkubwa zaidi wa kufuatilia [miamala](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), kutekeleza kanuni, kuzuia matumizi, au kuunganisha utambulisho moja kwa moja na malipo. Huu ni udhibiti wa kati: taasisi, badala ya watumiaji wa kawaida kwa kujitegemea, ndiyo huweka au kubadilisha kanuni husika.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->

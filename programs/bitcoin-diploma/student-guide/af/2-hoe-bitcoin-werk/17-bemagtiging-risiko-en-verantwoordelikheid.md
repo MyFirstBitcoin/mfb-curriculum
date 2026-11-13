@@ -6,7 +6,7 @@ Bitcoin se openbare reëls, [Eweknie (P2P)-Netwerk](https://curriculum.myfirstbi
 
 Hierdie eienskappe kan deelnemers bemagtig, maar plaas ook meer verantwoordelikheid op hulle. Sonder ’n sentrale gesag om [transaksies](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) goed te keur, toegang te herstel of talle foute ongedaan te maak, moet elke persoon die rol en risiko’s wat hulle aanvaar, kan identifiseer.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
 
 Vir iemand wat kies vir [selfbewaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody), bring beheer oor die sleutels direkte beheer oor bitcoin. Geen maatskappy kan ’n korrek beheerde saldo op die ketting vries nie. Geen maatskappy kan ’n verlore [saadfrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) herstel nie.
 

@@ -36,4 +36,4 @@ Algumas carteiras usam senhas adicionais (passphrases), múltiplas chaves ou out
 [Como fazer o backup de uma frase-semente em três passos: a tela da carteira mostra as palavras, você as copia à mão no papel na mesma ordem e, em seguida, confere cada palavra com a tela. Faça isso em local privado e offline.](/micrographics/seed-phrase-paper-backup-01/pt-BR.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)

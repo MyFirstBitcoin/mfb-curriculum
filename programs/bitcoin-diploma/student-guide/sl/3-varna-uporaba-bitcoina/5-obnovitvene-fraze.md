@@ -36,4 +36,4 @@ Nekatere denarnice uporabljajo dodatna gesla, več ključev ali druge sisteme va
 [Zapis varnostne kopije obnovitvene fraze v treh korakih: zaslon denarnice prikaže besede, vi jih v istem vrstnem redu ročno prepišete na papir, nato pa vsako besedo preverite glede na prikaz na zaslonu. To storite na samem in brez povezave.](/micrographics/seed-phrase-paper-backup-01/sl.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)

@@ -10,7 +10,7 @@
 
 Si chieda poi che cosa consente il modello. A seconda delle regole, una [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) può consentire un regolamento più rapido, un accesso più ampio o nuove funzionalità di pagamento. Può anche dare alle istituzioni una maggiore capacità di monitorare le [transazioni](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), applicare regole, limitarne l'uso o collegare direttamente l'identità ai pagamenti. Questo è controllo centralizzato: è un'istituzione, e non gli utenti comuni in modo indipendente, a stabilire o modificare le regole rilevanti.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->

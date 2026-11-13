@@ -23,4 +23,4 @@ May mga taong gumaganap ng ilang tungkulin. Ang isang [minero](https://curriculu
 
 **Maikling tanong:** Bakit ang isang [node](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) ay nagsusuri ng mga [transaksiyon](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction)? Magbigay kayo ng kahit isang tuntunin na sinusuri ng isang [node](https://curriculum.myfirstbitcoin.org/lexicon/en/#node).
 
-![Ginagabayan ng tagapagturo ang mag-aaral ng teknikal na paksa sa isang computer na nagpapatakbo ng node, habang nakaharap sa kanila ang monitor at nakikita ng tumitingin ang likurang kaha nito.](https://cdn.sanity.io/images/vje9ehw2/production/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)
+![Ginagabayan ng tagapagturo ang mag-aaral ng teknikal na paksa sa isang computer na nagpapatakbo ng node, habang nakaharap sa kanila ang monitor at nakikita ng tumitingin ang likurang kaha nito.](https://cdn.sanity.io/images/vje9ehw2/staging/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)

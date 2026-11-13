@@ -11,7 +11,7 @@ Ressourcer er begrænsede, mens menneskers ønsker ikke er det.
 
 Den [værdi](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) en vare har, ligger ikke i selve genstanden. Mennesker [værdsætter](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) varer ud fra deres behov, præferencer, oplysninger og omstændigheder. Dette kaldes undertiden [**subjektiv værdi**](https://curriculum.myfirstbitcoin.org/lexicon/en/#subjective-value). Rent vand kan være billigt i nærheden af en sikker offentlig vandkilde og yderst værdifuldt under vandmangel.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
 
 
 <!-- micrographic: same-water-different-value-01 -->

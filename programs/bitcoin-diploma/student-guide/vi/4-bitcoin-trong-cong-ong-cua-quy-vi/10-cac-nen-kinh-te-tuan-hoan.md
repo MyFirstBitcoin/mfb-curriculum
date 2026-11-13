@@ -21,7 +21,7 @@ Hãy vẽ sơ đồ một chu trình đơn giản tại địa phương:
 1. Điều gì xảy ra khi mất kết nối internet?
 1. Có những rủi ro nào về [lưu ký](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) và [giá cả](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) mà mỗi người tham gia phải chịu?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
 
 Một nền kinh tế tuần hoàn lành mạnh phụ thuộc vào sự tham gia tự nguyện. Người bán hàng và người lao động cần có khả năng nhận diện các rủi ro về thanh toán, định giá, [lưu ký](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), kế toán và [biến động giá](https://curriculum.myfirstbitcoin.org/lexicon/en/#volatility). Chỉ riêng số liệu về mức độ áp dụng không cho thấy mạng lưới có hữu ích hay không.
 

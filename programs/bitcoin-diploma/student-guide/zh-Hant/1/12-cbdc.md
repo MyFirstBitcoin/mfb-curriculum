@@ -10,7 +10,7 @@
 
 接著要問這項設計允許什麼。視規則而定，[CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc)可能帶來更快的結算、更廣泛的使用管道，或新的支付功能。它也可能讓機構更有能力監控[交易](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction)、執行規則、限制使用，或將身分直接與支付連結。這就是中央控制：由某個機構，而非一般使用者自主地，制定或變更相關規則。
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->

@@ -8,7 +8,7 @@
 
 Képzelje el, hogy **Amina** rendelkezik rizzsel, és cipőt szeretne. **Luis** rendelkezik cipővel, de étolajat szeretne, nem rizst. **Mei** rendelkezik étolajjal, és javítási munkát szeretne elvégeztetni. Amina számára több cserére is szükség lehet, mire megszerzi a cipőt. Minden csere időbe telik, és meg kell egyezni az [értékben](https://curriculum.myfirstbitcoin.org/lexicon/en/#value).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
 
 
 <!-- micrographic: barter-mismatch-01 -->
@@ -29,7 +29,7 @@ Egy általánosan elfogadott pénz elválasztja az eladást a vásárlástól. A
 
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
 
 <!-- micrographic: sell-then-buy-01 -->

@@ -22,4 +22,4 @@ Ce guide s’articule autour de six questions : pourquoi la monnaie est importa
 
 Il est destiné uniquement à des fins pédagogiques. Il ne fournit aucun conseil financier, juridique, fiscal ou en matière d’investissement, et ne vous recommande pas d’acheter, de vendre ou de conserver quoi que ce soit.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)

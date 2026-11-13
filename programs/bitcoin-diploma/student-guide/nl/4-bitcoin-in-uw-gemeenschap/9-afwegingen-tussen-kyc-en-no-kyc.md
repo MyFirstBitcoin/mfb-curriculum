@@ -9,7 +9,7 @@
 > Noch [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) noch [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) is automatisch de beste keuze. Vergelijk de daadwerkelijke route, raadpleeg actuele lokale richtlijnen wanneer de regels onduidelijk zijn, en overtreed geen lokale wetgeving en stel uzelf niet bloot aan fysiek gevaar in het streven naar [privacy](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
 Een [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc)-dienst kan vragen om een wettelijke naam, een identiteitsbewijs, een adres, een foto, informatie over de herkomst van middelen of andere gegevens. Hierdoor kan de dienst voldoen aan lokale regels, verbinding maken met banken, hogere limieten instellen of accountherstel ondersteunen.
 

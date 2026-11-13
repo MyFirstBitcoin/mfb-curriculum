@@ -1,6 +1,6 @@
 # 4.1 Bitcoin in Ihrer Gemeinschaft
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
 
 Dies ist die **Verbinden**-Phase des Bitcoin Diploma. Sie verknüpfen die Schwächen und [Zielkonflikte](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) des modernen Geldsystems, die Antwort von Bitcoin darauf und die Verantwortung für eine sichere Nutzung aus **den Modulen 1–3** mit einem lokalen Bedarf oder einer lokalen Chance, einer realistischen Alternative und einer sicheren praktischen Aufgabe. Von Ihnen wird nicht erwartet, Bitcoin zu übernehmen oder zu dem Schluss zu kommen, dass es in jeder lokalen Situation die beste Option ist.
 

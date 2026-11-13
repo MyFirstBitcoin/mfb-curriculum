@@ -41,4 +41,4 @@ Vis aldrig en kursists faktiske [seedfrase](https://curriculum.myfirstbitcoin.or
 
 Omdan ikke en tekstpåstand med forbehold til en kategorisk visuel fremstilling. Et udbudsdiagram må ikke antyde [prismæssig](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) vækst. En [decentralisering](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) vist på et kort må ikke antyde lige stor indflydelse. Et billede af en wallet må ikke antyde, at bitcoin opbevares inde i enheden.
 
-![Underviseren forklarer seks indbyrdes forbundne peers på en whiteboardtavle for alle fem kursister, herunder den unge kursist med en orange strikhue.](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![Underviseren forklarer seks indbyrdes forbundne peers på en whiteboardtavle for alle fem kursister, herunder den unge kursist med en orange strikhue.](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)

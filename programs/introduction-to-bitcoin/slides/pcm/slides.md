@@ -19,7 +19,7 @@ We dey use money every day, but we no dey too ask how e dey work.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Most People No Dey Ever Take Time Think About Money
 
@@ -29,7 +29,7 @@ No be to dey earn am, no be to dey spend am, but to dey think about wetin e be a
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Five Questions to Take Start
 
@@ -49,7 +49,7 @@ No be to dey earn am, no be to dey spend am, but to dey think about wetin e be a
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Na Fact Abi Na Opinion?
 
@@ -74,7 +74,7 @@ Money na tool wey people dey use take exchange things.
 
 The two people must want wetin the other person get, for the same time and for quantity wey suit both of dem.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Use di example wey dey di guide: una dey plant rice and una need shoes, but di shoemaker want cooking oil, no be rice. Economists dey call dis di way wetin two people want must match wetin each one get. -->
 
@@ -96,13 +96,13 @@ Di two people must want wetin di other person get, for di same time and for di r
 
 Nobody want money just to get am. Money dey useful because other people dey accept am, as dem dey expect say other people go accept am later.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Banknote na just piece of paper. Money dey solve di problem of trade-by-barter by separating selling from buying: una fit sell una rice to one person, come buy shoes from another person. Na this dey make money different from trade-by-barter. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Three Things Wey Money Dey Do
 
@@ -114,7 +114,7 @@ No money dey preserve value perfectly, but some kind money dey lose their power 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## From Shell Dem Go Reach Paper
 
@@ -161,13 +161,13 @@ When people hear the word inflation, wetin dem dey usually think na say price of
 
 ## As Prices Dey Rise and Wetin Money Fit Buy
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Price inflation na when the general price level of goods and services dey continue to rise. The other side na purchasing power: how much goods and services one unit of money fit buy. If the price of one basket of basic goods rise from 100 units of currency to 110, the same 100 units no go fit buy the full basket again. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Plenty Reasons, One Choice
 
@@ -285,7 +285,7 @@ One bitcoin fit divide into 100,000,000 smaller units wey dem dey call satoshis,
 
 ## Who Dey Make Bitcoin Dey Work?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: People wey dey use bitcoin dey send am, receive am, and keep am; nodes dey check every transaction and block to make sure say dem follow the rules; miners dey compete to add new block to the record about every ten minutes. That record, wey dem dey call blockchain, dey open for everybody to see, and to rewrite am go cost plenty well-well. Small note about spelling: Bitcoin wey start with capital B usually mean the network or the system; bitcoin wey start with small b mean the money itself. -->
 
@@ -330,7 +330,7 @@ To choose who go keep una bitcoin no be test of una value. Wetin matter na to kn
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Your Seed Phrase Na Full Access
 
@@ -350,7 +350,7 @@ List of words wey dey arranged in order, wey often be 12 or 24 words, wey fit re
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Before Una Use Any Wallet
 
@@ -391,7 +391,7 @@ List of words wey dey arranged in order, wey often be 12 or 24 words, wey fit re
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Stop, No Share Anything, No Send Anything
 
@@ -426,7 +426,7 @@ Na just the beginning be this.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Di Bitcoin Diploma
 

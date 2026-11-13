@@ -32,4 +32,4 @@
 
 **Hãy thử:** Với một khoản thanh toán giả định có giá trị nhỏ và một khoản thanh toán giả định ít thường xuyên hơn, hãy giải thích [sự đánh đổi](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) nào quan trọng hơn. Không chọn công cụ hay số tiền để sử dụng với tiền của chính quý vị.
 
-![Giảng viên giúp những học viên lớn tuổi và những học viên am hiểu kỹ thuật so sánh điện thoại, ví phần cứng và máy tính xách tay.](https://cdn.sanity.io/images/vje9ehw2/production/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)
+![Giảng viên giúp những học viên lớn tuổi và những học viên am hiểu kỹ thuật so sánh điện thoại, ví phần cứng và máy tính xách tay.](https://cdn.sanity.io/images/vje9ehw2/staging/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)

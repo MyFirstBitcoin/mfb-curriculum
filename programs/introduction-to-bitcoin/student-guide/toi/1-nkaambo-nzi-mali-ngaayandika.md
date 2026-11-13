@@ -22,4 +22,4 @@ Bbuku eeli lyakabambwa kwiinda mukwiingula swiiyo zyosanwe acimwi: nkaambo nzi m
 
 Nlyakuyiisya buyo. Talipe lulayo atala a mali, kubikka mali mumulimo kuti avwule, milawo, naa mitelo, alimwi talimwambii kuti muule, muuzye, naa mukoye cintu cili coonse.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)

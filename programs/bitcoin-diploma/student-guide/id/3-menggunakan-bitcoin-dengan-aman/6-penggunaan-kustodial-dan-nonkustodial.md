@@ -12,7 +12,7 @@ Perbedaan ini penting untuk verifikasi. Aturan dan total pasokan Bitcoin dapat d
 
 Dalam dompet **nonkustodial** atau **berkustodi mandiri** tersebut, Anda sendiri yang mengendalikan kunci. Dompet menandatangani [transaksi](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) atas wewenang Anda. Ketergantungan pada perangkat lunak, perangkat keras, server, atau jaringan mungkin masih ada, tetapi tidak ada [kustodian](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian) yang harus menyetujui pembelanjaan yang sah di blockchain.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 
 <!-- micrographic: who-controls-keys-01 -->

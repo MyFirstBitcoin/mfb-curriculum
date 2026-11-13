@@ -11,7 +11,7 @@ Ressourcen sind begrenzt, menschliche Wünsche hingegen nicht.
 
 Der [Wert](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) eines Gutes steckt nicht im Gegenstand selbst. Menschen [bewerten](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) Güter nach ihren Bedürfnissen, Vorlieben, Informationen und Umständen. Dies wird manchmal als [**subjektiver Wert**](https://curriculum.myfirstbitcoin.org/lexicon/en/#subjective-value) bezeichnet. Sauberes Wasser kann in der Nähe einer sicheren öffentlichen Quelle günstig sein und während einer Knappheit äußerst wertvoll.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
 
 
 <!-- micrographic: same-water-different-value-01 -->

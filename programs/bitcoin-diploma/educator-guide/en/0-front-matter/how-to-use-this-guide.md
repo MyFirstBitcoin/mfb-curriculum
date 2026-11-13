@@ -23,7 +23,7 @@ When you open a module guide, follow the same order every time:
 
 The headings are deliberately repetitive. That repetition is a navigation aid for a new teacher, not content that must be memorized.
 
-![The educator points to a diagram in an open course guide as the beginner and older learner follow along in their own guides.](https://cdn.sanity.io/images/vje9ehw2/production/f4e6dd8cd876afad89cef117fc6845f0b599f408-1054x1492.png)
+![The educator points to a diagram in an open course guide as the beginner and older learner follow along in their own guides.](https://cdn.sanity.io/images/vje9ehw2/staging/f4e6dd8cd876afad89cef117fc6845f0b599f408-1054x1492.png)
 
 ### Words you can use when you are unsure
 

@@ -9,7 +9,7 @@
 > Нито [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc), нито [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) е автоматично най-добрият избор. Сравнете конкретния подход, използвайте актуални местни насоки, когато правилата са неясни, и не нарушавайте местното законодателство и не се излагайте на физическа опасност в стремежа си към [поверителност](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
 Дадена [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) услуга може да изисква име по документ за самоличност, документ за самоличност, адрес, снимка, информация за произхода на средствата или други документи. Това може да позволи на услугата да спазва местните правила, да се свързва с банки, да определя по-високи лимити или да подпомага възстановяването на достъпа до акаунта.
 

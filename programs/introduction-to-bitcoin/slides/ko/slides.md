@@ -19,7 +19,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## 대부분의 사람들은 돈에 대해 멈춰 서서 생각해 보지 않아요
 
@@ -29,7 +29,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## 시작을 위한 다섯 가지 질문
 
@@ -49,7 +49,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## 사실일까요, 의견일까요?
 
@@ -74,7 +74,7 @@ theme: mfb
 
 두 사람 모두 상대방이 가진 것을 같은 시점에, 알맞은 양만큼 원해야 해요.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: 가이드의 예시를 사용해 볼게요. 여러분은 쌀을 재배하고 신발이 필요하지만, 신발 장인은 쌀이 아니라 식용유를 원해요. 경제학자들은 이것을 '욕구의 이중 일치'라고 불러요. -->
 
@@ -96,13 +96,13 @@ theme: mfb
 
 돈 그 자체를 원하는 사람은 아무도 없어요. 돈이 쓸모 있는 이유는 다른 사람들이 나중에 또 다른 사람들도 받아 줄 것이라고 기대하면서 돈을 받아 주기 때문이에요.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: 지폐는 그저 종이 한 장일 뿐이에요. 돈은 파는 것과 사는 것을 분리해서 물물교환의 문제를 해결해요. 쌀은 한 사람에게 팔고, 신발은 다른 사람에게서 살 수 있지요. 바로 이것이 돈과 물물교환을 구분 짓는 점이에요. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## 돈이 하는 세 가지 일
 
@@ -114,7 +114,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## 조개껍데기에서 종이까지
 
@@ -161,13 +161,13 @@ theme: mfb
 
 ## 인플레이션과 구매력
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: 인플레이션은 전반적인 물가 수준이 지속적으로 오르는 현상이에요. 그 이면에는 구매력이 있어요. 구매력은 화폐 한 단위로 얼마만큼을 살 수 있는지를 뜻해요. 기본 생필품 한 바구니의 가격이 화폐 100단위에서 110단위로 오르면, 같은 100단위로는 더 이상 바구니 전체를 살 수 없어요. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## 여러 가지 원인, 하나의 선택
 
@@ -285,7 +285,7 @@ theme: mfb
 
 ## 누가 비트코인을 계속 작동하게 하나요?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: 사용자는 비트코인을 보내고, 받고, 보유해요. 노드는 모든 거래와 블록을 규칙에 맞는지 검증해요. 채굴자는 약 10분마다 기록에 새 블록을 추가하기 위해 경쟁해요. 그 기록, 즉 블록체인은 공개되어 있으며 다시 쓰려면 엄청난 비용이 들어요. 표기에 관한 참고: 영어에서 대문자 B로 쓰는 Bitcoin은 보통 네트워크나 시스템을 뜻하고, 소문자 b로 쓰는 bitcoin은 화폐 그 자체를 뜻해요. -->
 
@@ -330,7 +330,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## 여러분의 시드 문구는 곧 전체 접근 권한이에요
 
@@ -350,7 +350,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## 어떤 지갑이든 사용하기 전에
 
@@ -391,7 +391,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## 멈추세요, 아무것도 공유하지 마세요, 아무것도 보내지 마세요
 
@@ -426,7 +426,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## 비트코인 디플로마
 

@@ -28,4 +28,4 @@ U Bitcoinu [decentralizace](https://curriculum.myfirstbitcoin.org/lexicon/en/#de
 
 [Decentralizace](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) s sebou nese i náklady. Koordinace může být pomalejší. Uživatelé musí ověřovat informace a přebírat větší odpovědnost. Neexistuje žádné centrální středisko podpory pro [síť Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). Tyto [kompromisy](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) jsou součástí návrhu, nikoli náhodnými nedostatky, které lze odstranit beze změny systému.
 
-![Vyučující ukazuje na síť na obrazovce ve třídě, zatímco začátečník a technicky zaměření studenti o ní diskutují u stolu.](https://cdn.sanity.io/images/vje9ehw2/production/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)
+![Vyučující ukazuje na síť na obrazovce ve třídě, zatímco začátečník a technicky zaměření studenti o ní diskutují u stolu.](https://cdn.sanity.io/images/vje9ehw2/staging/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)

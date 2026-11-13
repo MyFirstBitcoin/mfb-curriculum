@@ -10,4 +10,4 @@ Pieniądze wpływają na codzienne wybory dotyczące jedzenia, transportu, pracy
 
 Omawiając te pytania, proszę zwrócić uwagę na różnicę między faktem a opinią. „Tym banknotem można opłacać podatki” to fakt, który można sprawdzić. „To najlepsza forma pieniądza” to opinia lub wniosek, który wymaga określenia kryteriów i przedstawienia dowodów.
 
-![Wszystkie sześć postaci gromadzi się wokół stołów w sali lekcyjnej, a osoba prowadząca zajęcia kieruje wspólnym czytaniem otwartego podręcznika kursowego.](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![Wszystkie sześć postaci gromadzi się wokół stołów w sali lekcyjnej, a osoba prowadząca zajęcia kieruje wspólnym czytaniem otwartego podręcznika kursowego.](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)

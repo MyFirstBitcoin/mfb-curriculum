@@ -8,7 +8,7 @@
 
 What would happen if your phone stopped working? The Bitcoin record would still exist, but access would depend on the keys and recovery method the wallet uses. A wallet helps create receiving information, show balances and [transaction](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) history, and authorize spending. It does not remove the need to understand who controls access.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
 
 
 <!-- card: dark -->
@@ -33,4 +33,4 @@ Compare [custody](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), re
 > During the Diploma, you may create a wallet or write down [recovery words](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) as part of practice. A classroom is a learning environment: information can be seen, copied, shared, or compromised by mistake. For this reason, a training wallet should normally be empty or simulated and should not be used to secure meaningful funds. Where practical, it is closed, reset, or returned at the end of the Diploma. Your educator may choose a low-stakes live activity, but should explain its purpose and the added privacy, security, and loss risks before anyone takes part. A wallet intended to secure meaningful funds needs a new, private setup and new recovery information. Your educator can explain the difference, but you are never required to set up a personal wallet to complete the Diploma.
 
 
-![The educator demonstrates a training phone while the beginner and older learners examine their own devices.](https://cdn.sanity.io/images/vje9ehw2/production/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)
+![The educator demonstrates a training phone while the beginner and older learners examine their own devices.](https://cdn.sanity.io/images/vje9ehw2/staging/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)

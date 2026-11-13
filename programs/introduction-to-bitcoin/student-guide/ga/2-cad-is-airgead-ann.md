@@ -12,9 +12,9 @@ I gcóras babhtála, ní éiríonn le trádáil ach amháin nuair a bhíonn a bh
 
 Is **meán malartaithe** é: glacann daoine leis mar íocaíocht. Is **aonad cuntais** é: cuirtear praghsanna in iúl ann, rud a ligeann dúinn luach rudaí éagsúla a chur i gcomparáid lena chéile. Agus is **stór luacha** é: aistríonn sé luach ón lá atá inniu ann go dtí an todhchaí. Ní stórálann aon airgead luach go foirfe, ach cailleann cineálacha áirithe cumhacht ceannaigh níos moille ná cineálacha eile.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Ar feadh na staire, úsáideadh go leor rudaí mar airgead: sliogáin, salann, coirníní, beostoc, copar, airgead geal agus ór. Baineadh úsáid fhorleathan as miotail lómhara toisc go raibh siad gann, marthanach agus go nglactaí leo go forleathan. Ach tá sé deacair miotal a iompar agus a chosaint, agus mar sin thosaigh bainc ag eisiúint éileamh páipéir a d'fhéadfaí a fhuascailt ar mhéid sonraithe miotail. Faoi leaganacha éagsúla de **chaighdeán óir**, bhí aonad airgeadra ceangailte de réir dlí le méid áirithe óir. Bhí na rialacha éagsúil ó áit go háit agus ó thréimhse go tréimhse.
 

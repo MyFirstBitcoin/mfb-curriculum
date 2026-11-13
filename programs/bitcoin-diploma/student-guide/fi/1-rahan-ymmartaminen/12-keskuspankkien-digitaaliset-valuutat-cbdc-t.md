@@ -10,7 +10,7 @@
 
 Kysykää seuraavaksi, mitä ratkaisu mahdollistaa. Säännöistä riippuen [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) voi mahdollistaa nopeamman maksuselvityksen, laajemman saatavuuden tai uusia maksuominaisuuksia. Se voi myös antaa instituutioille paremmat mahdollisuudet valvoa [tapahtumia](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), soveltaa sääntöjä, rajoittaa käyttöä tai yhdistää henkilöllisyyden suoraan maksuihin. Tämä on keskitettyä määräysvaltaa: instituutio asettaa tai muuttaa kyseisiä sääntöjä sen sijaan, että tavalliset käyttäjät tekisivät sen itsenäisesti.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->

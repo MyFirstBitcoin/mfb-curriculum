@@ -10,4 +10,4 @@ Wang membentuk pilihan harian tentang makanan, pengangkutan, pekerjaan, simpanan
 
 Semasa anda membincangkan soalan-soalan ini, perhatikan perbezaan antara fakta dengan pendapat. “Wang kertas ini diterima untuk pembayaran cukai” ialah fakta yang boleh disemak. “Ini ialah bentuk wang yang terbaik” ialah pendapat atau kesimpulan yang memerlukan kriteria dan bukti.
 
-![Keenam-enam watak berkumpul di sekeliling meja di dalam bilik darjah sementara pendidik memimpin bacaan bersama daripada panduan kursus yang terbuka.](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![Keenam-enam watak berkumpul di sekeliling meja di dalam bilik darjah sementara pendidik memimpin bacaan bersama daripada panduan kursus yang terbuka.](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)

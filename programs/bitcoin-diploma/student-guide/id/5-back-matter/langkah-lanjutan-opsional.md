@@ -26,11 +26,11 @@ Panduan Pendidik membantu Anda mempersiapkan pelajaran, memfasilitasi kegiatan, 
 
 ### Bergabunglah dengan komunitas belajar
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
 
 Organisasi [Jaringan Pendidikan Bitcoin](https://myfirstbitcoin.org/about/network) menghubungkan pendidik independen dan komunitas belajar setempat. Temukan komunitas di dekat Anda, atau komunitas yang kegiatannya menarik bagi Anda, lalu hubungi komunitas tersebut untuk menanyakan cara Anda dapat belajar, menjadi relawan, atau berkontribusi. Partisipasi bersifat opsional dan tidak memengaruhi penyelesaian, penilaian, atau sertifikasi Diploma.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
 
 ### Pengingat keamanan
 
@@ -92,13 +92,13 @@ Jika pendidik penerbit sertifikat menyediakan metode verifikasi, gunakan hanya p
 
 Hasil terpenting bagi Anda bukanlah sertifikat, melainkan kemampuan untuk menjelaskan uang dan Bitcoin dengan jelas, mengenali risiko, melakukan verifikasi sebelum bertindak, dan terus belajar secara mandiri.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
 
 ### Dukung pendidikan Bitcoin gratis
 
 Sumber daya pendidikan My First Bitcoin tersedia secara gratis dan bersifat sumber terbuka. Dukungan sukarela membantu memelihara kurikulum, melatih pendidik, dan memperluas akses.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
 
 
 https://donate.myfirstbitcoin.org
@@ -112,4 +112,4 @@ Jika Anda memilih untuk berkontribusi, gunakan [halaman donasi](https://donate.m
 ---
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)

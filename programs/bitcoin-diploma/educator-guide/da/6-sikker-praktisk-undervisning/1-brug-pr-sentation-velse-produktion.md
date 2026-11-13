@@ -11,7 +11,7 @@
 [En praktisk færdighed læres i tre faser, fra venstre mod højre: Præsentation, hvor underviseren viser fremgangsmåden og dens risici, derefter Øvelse, vejledt træning med sikre øvelsesmaterialer, og til sidst Udførelse, hvor den lærende selvstændigt løser en opgave eller forklarer en beslutning.](/micrographics/presentation-practice-production-01/da.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/3d2cf07203a6fd4017e7adbac198e73b190e99cf-1881x836.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/3d2cf07203a6fd4017e7adbac198e73b190e99cf-1881x836.svg)
 
 Afslut med refleksion:
 

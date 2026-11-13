@@ -27,7 +27,7 @@ Elke module volgt hetzelfde ritme:
 
 U leert meer door deel te nemen dan door stil te lezen. Op sommige vragen bestaat niet één juist antwoord. Waar het om gaat, is of u uw redenering kunt uitleggen, bewijs kunt onderzoeken en uw standpunt kunt bijstellen wanneer u iets nieuws leert.
 
-![De ondernemer wijst naar een eenvoudig diagram in een opengeslagen gids, terwijl de docent het met haar bespreekt aan een tafel in het lokaal.](https://cdn.sanity.io/images/vje9ehw2/production/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
+![De ondernemer wijst naar een eenvoudig diagram in een opengeslagen gids, terwijl de docent het met haar bespreekt aan een tafel in het lokaal.](https://cdn.sanity.io/images/vje9ehw2/staging/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
 
 ### Verwachtingen rond discussie en privacy
 
@@ -50,7 +50,7 @@ Uw docent licht eventuele verplichte beoordelingsactiviteiten toe. De theorie wo
 
 Uw docent gebruikt een beoordelingsrooster om voor elk van de zeven bovenstaande competenties één resultaat vast te leggen. `C1`–`C5` worden beoordeeld aan de hand van uw eigen uitleg en beslissingen; `C6`–`C7` vereisen directe observatie. Zowel de Wallet-/ontvangstopdracht als de opdracht over herstelparaatheid zijn verplichte onderdelen van `C6`.
 
-![De docent reageert op de opgestoken hand van de beginnende deelnemer, terwijl de oudere deelnemer meeleest in een opengeslagen cursusgids.](https://cdn.sanity.io/images/vje9ehw2/production/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
+![De docent reageert op de opgestoken hand van de beginnende deelnemer, terwijl de oudere deelnemer meeleest in een opengeslagen cursusgids.](https://cdn.sanity.io/images/vje9ehw2/staging/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
 
 ### Vereiste voorkennis: geen
 

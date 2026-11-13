@@ -30,4 +30,4 @@ Antes de cualquier demostración en vivo, asegúrese de saber:
 
 El resultado de su taller debe ser una explicación o una habilidad, no solo una [transacción](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) completada.
 
-![El educador y el dueño del negocio practican juntos con un celular de capacitación; ambos miran la pantalla orientada hacia ellos.](https://cdn.sanity.io/images/vje9ehw2/production/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)
+![El educador y el dueño del negocio practican juntos con un celular de capacitación; ambos miran la pantalla orientada hacia ellos.](https://cdn.sanity.io/images/vje9ehw2/staging/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)

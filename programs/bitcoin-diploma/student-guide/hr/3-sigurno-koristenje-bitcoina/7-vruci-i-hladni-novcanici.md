@@ -32,4 +32,4 @@
 
 **Isprobajte:** Za malo, zamišljeno plaćanje i rjeđe zamišljeno plaćanje objasnite koji [kompromis](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) ima veću važnost. Nemojte birati alat ni iznos za vlastita sredstva.
 
-![Edukator pomaže starijim polaznicima i polaznicima s tehničkim znanjem usporediti telefon, hardverski novčanik i prijenosno računalo.](https://cdn.sanity.io/images/vje9ehw2/production/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)
+![Edukator pomaže starijim polaznicima i polaznicima s tehničkim znanjem usporediti telefon, hardverski novčanik i prijenosno računalo.](https://cdn.sanity.io/images/vje9ehw2/staging/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)

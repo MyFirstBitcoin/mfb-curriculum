@@ -51,7 +51,7 @@ De koers van Bitcoin kan sterk schommelen. Fouten, oplichting, verloren geheimen
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Inleidende vragen over geld
 
@@ -82,7 +82,7 @@ Geld is een bezitting die mensen accepteren omdat zij verwachten dat anderen het
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Functies van geld
 
@@ -128,15 +128,15 @@ Geen enkele vorm scoort perfect. „**Gezond geld**” is een oordeel: benoem cr
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
 
 ## Schaarste, waarde en ruil
 
@@ -160,7 +160,7 @@ Schaarsheid alleen garandeert geen waarde; ook de vraag speelt een rol.
 
 ## Opportuniteitskosten
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b79c74dedefcf834762da5d2301e0e6dc68ba9ad-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b79c74dedefcf834762da5d2301e0e6dc68ba9ad-1536x1024.svg)
 
 ---
 
@@ -203,7 +203,7 @@ Gemakkelijke betalingen en flexibel krediet brengen afhankelijkheid van instelli
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Onderzoek een lokale betaling
 
@@ -244,11 +244,11 @@ Bankruns kunnen de toegang tot geld onder druk zetten. Depositogarantie en lenin
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 ## Inflatie en koopkracht
 
@@ -351,7 +351,7 @@ Wat maakt uw geld bruikbaar, en welke regels hangen af van instellingen die u ve
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)
 
 ## Waarom Bitcoin werd gecreëerd
 
@@ -387,7 +387,7 @@ Bitcoin vermindert het centrale vertrouwen bij uitgifte en afwikkeling; het neem
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
 
 ## Vroeg digitaal geld en dubbele uitgaven
 
@@ -408,7 +408,7 @@ Dubbel uitgeven (double spending) is een poging om dezelfde digitale eenheid naa
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)
 
 ## Digitale schaarste en verifieerbaar aanbod
 
@@ -438,7 +438,7 @@ Om de geschiedenis te herschrijven moet het werk opnieuw worden gedaan en moet d
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)
 
 ## Decentralisatie
 
@@ -469,7 +469,7 @@ Tussenpersonen blijven optioneel; wie er een kiest, krijgt te maken met de bewaa
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
 [Vier rollen in Bitcoin: gebruikers ontvangen, bewaren en versturen bitcoin, nodes controleren zelfstandig de regels, miners stellen kandidaat-blokken samen met proof of work en ontwikkelaars stellen software voor. Geen enkele rol heeft zeggenschap over het netwerk.](/micrographics/bitcoin-participant-roles-01/nl.md)
@@ -488,7 +488,7 @@ Miners kunnen ongeldige blokken niet aanvaardbaar maken voor eerlijke nodes. Ont
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/fb441d7e082e658fa8496bbeb4a1e764faad208b-1054x1493.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/fb441d7e082e658fa8496bbeb4a1e764faad208b-1054x1493.svg)
 
 ## Proof of Work
 
@@ -502,14 +502,14 @@ Mining beveiligt de volgorde van transacties; het lost geen externe vergelijking
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 <!-- micrographic: proof-of-work-process-01 -->
 [Een miner hasht een voorgesteld blok keer op keer totdat één resultaat onder de doelwaarde van het netwerk ligt, en verspreidt het blok vervolgens. Nodes controleren snel het bewijs en elke regel voordat het blok aan de blockchain wordt toegevoegd: werk is kostbaar om te produceren en eenvoudig te verifiëren.](/micrographics/proof-of-work-process-01/nl.md)
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
 
 ## Beperkt aanbod
 
@@ -535,7 +535,7 @@ Nodes weigeren overmatige uitgifte; de limiet blijft gelden zolang deelnemers di
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/98c8cef9bc6e6d0955458f6fb4a71f1de5ed5225-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/98c8cef9bc6e6d0955458f6fb4a71f1de5ed5225-1536x1024.svg)
 
 ## Satoshi's en eenheidsbias
 
@@ -735,7 +735,7 @@ Deel nooit privé sleutels, seedzinnen, wachtwoorden of herstelcodes. Geen enkel
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Herstelzinnen
 
@@ -771,7 +771,7 @@ Een openbare blockchain kan niet bewijzen wat een dienst aan een bepaalde klant 
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 ---
 
@@ -780,7 +780,7 @@ Een openbare blockchain kan niet bewijzen wat een dienst aan een bepaalde klant 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/57f786b5525418d2bddc36af8cced7b1f0533e70-1054x1492.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/57f786b5525418d2bddc36af8cced7b1f0533e70-1054x1492.svg)
 
 ## Hot en Cold Wallets
 
@@ -822,7 +822,7 @@ Een bericht of schermafbeelding van de verzender is geen bewijs. In behandeling 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/3eaf85ebf51d0327a1221d33b4745a62a44347b2-1055x1491.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/3eaf85ebf51d0327a1221d33b4745a62a44347b2-1055x1491.svg)
 
 ## Bitcoin versturen
 
@@ -857,7 +857,7 @@ Gebruik voorbereide voorbeelden; zoek niet naar het persoonlijke adres of de per
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Veiligheidschecklist
 
@@ -880,7 +880,7 @@ Gebruik voorbereide voorbeelden; zoek niet naar het persoonlijke adres of de per
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
 
 ## Bitcoin verwerven en uitwisselen
 
@@ -1051,7 +1051,7 @@ Welk probleem wordt aangepakt? Is Bitcoin hier beter dan het beschikbare alterna
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/4b62c836617bfcd268b6e464842a61a1f8b4614a-1055x1491.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/4b62c836617bfcd268b6e464842a61a1f8b4614a-1055x1491.svg)
 
 ## Lokaal uitgeven en ontvangen
 
@@ -1129,7 +1129,7 @@ Adoptiecijfers alleen bewijzen niet dat iets nuttig is. Zwakke vraag, gebrekkige
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
 
 ---
 

@@ -36,4 +36,4 @@ Nogle wallets bruger yderligere adgangsfraser, flere nøgler eller andre systeme
 [Sådan skriver De en sikkerhedskopi af en seedfrase i tre trin: Tegnebogens skærm viser ordene, De skriver dem af i hånden på papir i samme rækkefølge og kontrollerer derefter hvert ord mod skærmen. Gør det uforstyrret og offline, uden at andre kan se det.](/micrographics/seed-phrase-paper-backup-01/da.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)

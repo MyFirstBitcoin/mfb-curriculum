@@ -6,7 +6,7 @@ Vì vậy, câu hỏi đầu tiên về bất kỳ ví nào là: **ai kiểm so�
 
 ###### Ai thực sự nắm giữ bitcoin của quý vị?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 Với một **ví tự lưu ký**, quý vị kiểm soát các khóa.
 

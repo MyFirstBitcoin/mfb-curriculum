@@ -34,4 +34,4 @@ Sınıfın çeşitli yerlerine kısa, kurgusal senaryolar yerleştirin. Her ista
 
 Bariz bir yazım hatası içermeyen, meşru görünümlü bir mesaj da ekleyin. Dolandırıcılıklar, yalnızca profesyonellikten uzak göründükleri için kolayca fark edilebilirmiş gibi öğretilmemelidir.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)

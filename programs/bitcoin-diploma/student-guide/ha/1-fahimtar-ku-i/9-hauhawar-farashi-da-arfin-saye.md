@@ -13,7 +13,7 @@
 > [Ƙarfin saye](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) shi ne yawan kayayyaki da ayyukan da raka'a ɗaya ta kuɗi za ta iya saya. Idan farashin kwandon kayayyakin bukatun yau da kullum ya tashi daga raka'a 100 na [kuɗi](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) zuwa 110, raka'a 100 ɗin nan ba za su ƙara iya sayen duk abin da ke cikin kwandon ba. [Ƙarfin sayensu](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) dangane da wannan kwandon ya ragu.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->

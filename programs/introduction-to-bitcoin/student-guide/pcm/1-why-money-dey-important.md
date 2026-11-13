@@ -22,4 +22,4 @@ This guide focus on six questions: why money matter, wetin e be, wetin fit go wr
 
 Na only for learning. E no dey give advice about money matters, investment, law, or tax, and e no dey tell you to buy, sell, or keep anything.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)

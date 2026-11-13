@@ -1,6 +1,6 @@
 # 2.10 Työtodiste
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
 <!-- card: definition -->
@@ -29,4 +29,4 @@ Kun [louhija](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) löytää
 
 [Työtodiste](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) aiheuttaa todellisia energiakustannuksia. Kannattajien mukaan juuri nämä kustannukset muodostavat Bitcoinin turvallisuuden perustan ja voivat luoda kysyntää joustavasti käytettävälle tai muuten käyttämättä jäävälle energialle. Kriitikot kyseenalaistavat käytetyn energian määrän ja alkuperän. Vastuullisessa arvioinnissa kysytään, mitä energiaa käytetään, mistä se tulee, millaista turvallisuutta sillä saadaan aikaan ja mitä vaihtoehtoja vertaillaan.
 
-![Opettaja, aloitteleva oppija ja teknisesti perehtynyt oppija keskustelevat pöydälle sijoitettavasta louhintalaitteesta, jossa on tuuletin ja erillinen virtalähde.](https://cdn.sanity.io/images/vje9ehw2/production/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)
+![Opettaja, aloitteleva oppija ja teknisesti perehtynyt oppija keskustelevat pöydälle sijoitettavasta louhintalaitteesta, jossa on tuuletin ja erillinen virtalähde.](https://cdn.sanity.io/images/vje9ehw2/staging/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)

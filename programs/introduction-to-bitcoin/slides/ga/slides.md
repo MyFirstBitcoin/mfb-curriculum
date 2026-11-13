@@ -19,7 +19,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Ní stadann formhór na ndaoine riamh chun machnamh a dhéanamh ar airgead
 
@@ -29,7 +29,7 @@ Gan é a thuilleamh, gan é a chaitheamh, ach machnamh a dhéanamh ar céard at�
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Cúig Cheist chun Tús a Chur
 
@@ -49,7 +49,7 @@ Gan é a thuilleamh, gan é a chaitheamh, ach machnamh a dhéanamh ar céard at�
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Fíric nó Tuairim?
 
@@ -74,7 +74,7 @@ Is uirlis mhalartaithe é an t-airgead.
 
 Caithfidh gach duine den bheirt a bheith ag iarraidh a bhfuil ag an duine eile, ag an am céanna agus i gcainníochtaí oiriúnacha.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Úsáidigí sampla na treorach: saothraíonn sibh rís agus teastaíonn bróga uaibh, ach teastaíonn ola chócaireachta ón ngréasaí, ní rís. Tugann eacnamaithe comhtharlú dúbailte mianta air seo. -->
 
@@ -96,13 +96,13 @@ Caithfidh gach duine den bheirt a bheith ag iarraidh a bhfuil ag an duine eile, 
 
 Ní bhíonn airgead ag teastáil ó aon duine ar a shon féin. Tá sé úsáideach toisc go nglacann daoine eile leis, agus iad ag súil go nglacfaidh daoine eile leis níos déanaí.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Níl i nóta bainc ach píosa páipéir. Réitíonn airgead fadhb na babhtála tríd an díol a scaradh ón gceannach: díolann sibh bhur rís le duine amháin agus ceannaíonn sibh bróga ó dhuine eile. Is é sin a dhéanann idirdhealú idir airgead agus babhtáil. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Trí rud a dhéanann airgead
 
@@ -114,7 +114,7 @@ Ní stórálann aon airgead luach go foirfe, ach cailleann cineálacha áirithe 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Ó Shliogáin go Páipéar
 
@@ -161,13 +161,13 @@ Nuair a chloiseann daoine an focal boilsciú, is gnách go smaoiníonn siad ar p
 
 ## Boilsciú agus Cumhacht Cheannaigh
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Is éard is boilsciú praghsanna ann ná ardú leanúnach ar leibhéal ginearálta na bpraghsanna. Is í an chumhacht ceannaigh an taobh eile de sin: an méid is féidir le haonad airgid a cheannach. Má ardaíonn praghas ciseáin d’earraí bunúsacha ó 100 aonad airgeadra go 110, ní féidir leis an 100 aonad céanna an ciseán iomlán a cheannach a thuilleadh. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Iomaí Cúis, Rogha Amháin
 
@@ -285,7 +285,7 @@ Is féidir bitcoin amháin a roinnt ina 100,000,000 aonad níos lú ar a dtugtar
 
 ## Cé a choinníonn Bitcoin ag feidhmiú?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Seolann úsáideoirí bitcoin, faigheann siad é agus coinníonn siad é; seiceálann nóid gach idirbheart agus gach bloc de réir na rialacha; bíonn mianadóirí in iomaíocht le chéile chun bloc nua a chur leis an taifead thart ar gach deich nóiméad. Tá an taifead sin, an blocshlabhra, poiblí agus tá sé an-chostasach é a athscríobh. Nóta faoin litriú: is gnách go gciallaíonn Bitcoin le B mór an líonra nó an córas; ciallaíonn bitcoin le b beag an t-airgead féin. -->
 
@@ -330,7 +330,7 @@ Ní tomhas ar bhur bhfiúntas é an cineál coimeádta a roghnaíonn sibh. Is é
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Tugann bhur bhfrása síl rochtain iomlán
 
@@ -350,7 +350,7 @@ Liosta ordaithe focal, 12 nó 24 go minic, lenar féidir bhur n-eochracha a athc
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Sula n-úsáideann sibh aon sparán
 
@@ -391,7 +391,7 @@ Liosta ordaithe focal, 12 nó 24 go minic, lenar féidir bhur n-eochracha a athc
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Stadaigí, ná roinnigí aon rud, ná seolaigí aon rud
 
@@ -426,7 +426,7 @@ Níl anseo ach an tús.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## An Dioplóma Bitcoin
 

@@ -25,4 +25,4 @@ Proszę stosować schemat: twierdzenie, dowody i kompromis:
 
 Szczegółowe statystyki energetyczne oraz [górnicza](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) ekonomika nie należą do wymaganych treści programu Bitcoin Diploma. Proszę je wykorzystywać tylko wtedy, gdy osoba prowadząca zajęcia zweryfikowała aktualne źródła, a dyskusja służy rozwijaniu danej kompetencji.
 
-![Osoba prowadząca zajęcia i osoba ucząca się o profilu technicznym wskazują oddzielne urządzenia do wydobycia i do obsługi węzła, podczas gdy starsza osoba ucząca się uczestniczy w zajęciach, korzystając z przewodnika.](https://cdn.sanity.io/images/vje9ehw2/production/c42a629a0dff84d04b37397d56a45bf146f7110b-1054x1492.png)
+![Osoba prowadząca zajęcia i osoba ucząca się o profilu technicznym wskazują oddzielne urządzenia do wydobycia i do obsługi węzła, podczas gdy starsza osoba ucząca się uczestniczy w zajęciach, korzystając z przewodnika.](https://cdn.sanity.io/images/vje9ehw2/staging/c42a629a0dff84d04b37397d56a45bf146f7110b-1054x1492.png)

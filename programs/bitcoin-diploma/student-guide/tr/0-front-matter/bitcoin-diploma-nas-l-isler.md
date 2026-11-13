@@ -27,7 +27,7 @@ Her modül aynı düzeni izler:
 
 Sessizce okumaktan çok katılım göstererek daha fazla şey öğreneceksiniz. Bazı soruların tek bir doğru cevabı yoktur. Önemli olan, gerekçenizi açıklayabilmeniz, kanıtları inceleyebilmeniz ve yeni bir şey öğrendiğinizde görüşünüzü gözden geçirebilmenizdir.
 
-![İşletme sahibi, açık bir rehberdeki basit bir şemayı gösterirken eğitmen bir sınıf masasında bu şemayı onunla birlikte tartışıyor.](https://cdn.sanity.io/images/vje9ehw2/production/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
+![İşletme sahibi, açık bir rehberdeki basit bir şemayı gösterirken eğitmen bir sınıf masasında bu şemayı onunla birlikte tartışıyor.](https://cdn.sanity.io/images/vje9ehw2/staging/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
 
 ### Tartışma ve gizlilik beklentileri
 
@@ -50,7 +50,7 @@ Eğitmeniniz gerekli tüm değerlendirme etkinliklerini açıklayacaktır. Teori
 
 Eğitmeniniz, yukarıdaki yedi yetkinliğin her biri için bir sonuç kaydetmek üzere bir değerlendirme tablosu kullanır. `C1`–`C5` kendi açıklamalarınız ve kararlarınız aracılığıyla değerlendirilir; `C6`–`C7` ise doğrudan gözlem gerektirir. Hem cüzdan/makbuz görevi hem de kurtarmaya hazırlık görevi, `C6`'nın zorunlu parçalarıdır.
 
-![Eğitmen, yeni başlayan öğrencinin kaldırdığı ele yanıt verirken yaşça büyük öğrenci açık bir kurs kılavuzuyla dersi takip ediyor.](https://cdn.sanity.io/images/vje9ehw2/production/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
+![Eğitmen, yeni başlayan öğrencinin kaldırdığı ele yanıt verirken yaşça büyük öğrenci açık bir kurs kılavuzuyla dersi takip ediyor.](https://cdn.sanity.io/images/vje9ehw2/staging/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
 
 ### Gerekli ön bilgi: yok
 

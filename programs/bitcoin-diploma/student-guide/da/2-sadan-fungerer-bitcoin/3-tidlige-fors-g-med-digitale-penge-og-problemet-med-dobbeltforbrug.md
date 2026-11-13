@@ -34,4 +34,4 @@ Hvidbogen samlede de egenskaber, der var nødvendige for denne tilgang:
 
 Dette modul forklarer disse begreber mere detaljeret. Tilsammen gav de en praktisk løsning på [dobbeltforbrugsproblemet](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): netværket kan afvise et nyt forsøg på at bruge den samme bitcoin uden at være afhængigt af en central myndighed. Bitcoin tilbød den manglende kombination, som årtiers eksperimenter med digitale penge havde søgt efter.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)

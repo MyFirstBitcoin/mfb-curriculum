@@ -23,4 +23,4 @@ Bazı kişiler birden fazla rol üstlenir. Bir [madenci](https://curriculum.myfi
 
 **Anlık soru:** Bir [düğüm](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) neden [işlemleri](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) doğrular? Bir [düğümün](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) kontrol ettiği en az bir kuralı belirtin.
 
-![Eğitmen, bir düğüm bilgisayarının başındaki teknik öğrenciye rehberlik ediyor; monitör onlara dönük, arka kasası ise izleyiciye görünür durumda.](https://cdn.sanity.io/images/vje9ehw2/production/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)
+![Eğitmen, bir düğüm bilgisayarının başındaki teknik öğrenciye rehberlik ediyor; monitör onlara dönük, arka kasası ise izleyiciye görünür durumda.](https://cdn.sanity.io/images/vje9ehw2/staging/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)

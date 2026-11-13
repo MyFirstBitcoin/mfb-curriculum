@@ -25,4 +25,4 @@ Inhalte:
 
 **Nachbesprechung:** Warum ist es unsicher, eine Rückerstattung automatisch an eine vermeintliche ursprüngliche Adresse zu senden? Wer trägt die Verantwortung, wenn sich mehrere Mitarbeitende eine Wallet teilen?
 
-![Die Lehrkraft zeigt auf eine leere Dokumentationskarte, während die Einsteigerin und der Geschäftsinhaber an einer Ladentheke Übungs-Smartphones überprüfen.](https://cdn.sanity.io/images/vje9ehw2/production/7c785fef5d3b3be3d4a60aa9cfa250f74e18d1ec-1054x1493.png)
+![Die Lehrkraft zeigt auf eine leere Dokumentationskarte, während die Einsteigerin und der Geschäftsinhaber an einer Ladentheke Übungs-Smartphones überprüfen.](https://cdn.sanity.io/images/vje9ehw2/staging/7c785fef5d3b3be3d4a60aa9cfa250f74e18d1ec-1054x1493.png)

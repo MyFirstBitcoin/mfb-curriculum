@@ -22,4 +22,4 @@ E hāngai ana tēnei aratohu ki ngā pātai e ono: he aha te moni i whai take ai
 
 Hei mātauranga anake tēnei. Kāore e tuku tohutohu mō te pūtea, te haumi, te ture, te tāke rānei, ā, kāore hoki e tohutohu i a koe kia hoko, kia hoko atu, kia pupuri rānei i tētahi mea.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)

@@ -30,4 +30,4 @@ Prieš bet kokį demonstravimą realiuoju laiku įsitikinkite, kad žinote:
 
 Praktinio užsiėmimo rezultatas turėtų būti paaiškinimas arba įgūdis, o ne vien atlikta [operacija](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction).
 
-![Dėstytojas ir verslo savininkas kartu praktikuojasi naudodami mokomąjį telefoną, abu žiūrėdami į juos atsuktą ekraną.](https://cdn.sanity.io/images/vje9ehw2/production/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)
+![Dėstytojas ir verslo savininkas kartu praktikuojasi naudodami mokomąjį telefoną, abu žiūrėdami į juos atsuktą ekraną.](https://cdn.sanity.io/images/vje9ehw2/staging/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)

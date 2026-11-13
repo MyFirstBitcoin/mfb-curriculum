@@ -22,4 +22,4 @@ Wotu mɔfiame sia ɖe biabia ade dzi: nu si ta ga le vevie ɖo, nu si wònye, nu
 
 Nufiafia ɖeɖeko tae wòle. Memea aɖaŋu ku ɖe ga, gadzadzraɖo hena viɖe, se alo adzɔ ŋuti o, eye megblɔna na mi be miaƒle nane, adzrae alo alé eɖe asi o.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)

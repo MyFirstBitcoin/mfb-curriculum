@@ -16,4 +16,4 @@ Pilih dua atau tiga dari contoh-contoh ini, bukan semuanya. Telusuri [Pustaka Ak
 
 Gunakan [konsensus](https://curriculum.myfirstbitcoin.org/lexicon/en/#consensus) berbasis permainan, aktivitas hashing, video, dan permainan peran hanya jika tujuan, penentuan waktu, konteks peserta didik, serta diskusi reflektifnya dirancang dengan baik. Suatu aktivitas memberikan bukti teoretis yang dipandu pendidik hanya jika aktivitas tersebut merupakan titik interaksi yang selaras dengan kompetensi, disertai bukti individual, rubrik, dan proses pencatatan. Jika tidak, gunakan aktivitas tersebut untuk asesmen formatif.
 
-![Pemilik usaha menjelaskan jaringan antarrekan sementara pendidik menyimak dan peserta didik muda mengikuti penjelasan dengan buku catatan.](https://cdn.sanity.io/images/vje9ehw2/production/359b55ce824c4e7e1fb6d3f1e0b5dbc01f7c6db6-1054x1493.png)
+![Pemilik usaha menjelaskan jaringan antarrekan sementara pendidik menyimak dan peserta didik muda mengikuti penjelasan dengan buku catatan.](https://cdn.sanity.io/images/vje9ehw2/staging/359b55ce824c4e7e1fb6d3f1e0b5dbc01f7c6db6-1054x1493.png)

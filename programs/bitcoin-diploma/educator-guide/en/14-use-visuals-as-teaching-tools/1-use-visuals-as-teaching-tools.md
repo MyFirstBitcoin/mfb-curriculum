@@ -41,4 +41,4 @@ Never display a real learner [seed phrase](https://curriculum.myfirstbitcoin.org
 
 Do not turn a qualified text claim into an absolute visual. A supply chart must not imply [price](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) growth. A [decentralization](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) map must not imply equal influence. A wallet image must not imply bitcoin is stored inside the device.
 
-![The educator explains six interconnected peers on a whiteboard to all five learners, including the young learner in an orange beanie.](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![The educator explains six interconnected peers on a whiteboard to all five learners, including the young learner in an orange beanie.](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)

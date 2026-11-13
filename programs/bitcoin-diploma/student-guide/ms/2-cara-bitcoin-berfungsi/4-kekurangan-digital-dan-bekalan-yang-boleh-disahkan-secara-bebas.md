@@ -18,4 +18,4 @@ Bitcoin mewujudkan secara digital [kelangkaan](https://curriculum.myfirstbitcoin
 [Had bekalan yang ditulis di laman web atau dalam pangkalan data penerbit boleh diubah secara senyap oleh penerbit tersebut. Peraturan bekalan Bitcoin terbuka kepada umum, dan tandatangan, sejarah awam, bukti kerja serta pengesahan nod bersama-sama menghalang syiling baharu daripada dicipta atau bitcoin yang sama daripada dibelanjakan dua kali.](/micrographics/claimed-or-verified-supply-01/ms.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)

@@ -27,7 +27,7 @@ Ogni modulo segue lo stesso ritmo:
 
 Imparerà di più partecipando che leggendo in silenzio. Alcune domande non hanno un'unica risposta corretta. Ciò che conta è che Lei sappia spiegare il Suo ragionamento, esaminare le prove e rivedere il Suo punto di vista quando impara qualcosa di nuovo.
 
-![La titolare dell'attività indica un semplice diagramma in una guida aperta mentre l'educatore ne discute con lei a un tavolo dell'aula.](https://cdn.sanity.io/images/vje9ehw2/production/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
+![La titolare dell'attività indica un semplice diagramma in una guida aperta mentre l'educatore ne discute con lei a un tavolo dell'aula.](https://cdn.sanity.io/images/vje9ehw2/staging/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
 
 ### Aspettative su discussione e privacy
 
@@ -50,7 +50,7 @@ Il Suo educatore Le spiegherà le eventuali attività di valutazione richieste. 
 
 Il Suo educatore utilizza una griglia di valutazione per registrare un risultato per ciascuna delle sette competenze sopra indicate. `C1`–`C5` vengono valutate attraverso le Sue spiegazioni e decisioni; `C6`–`C7` richiedono l'osservazione diretta. Sia l'attività sul wallet e sulla ricevuta sia l'attività sulla preparazione al recupero sono parti obbligatorie della `C6`.
 
-![L'educatore risponde alla mano alzata del discente principiante, mentre il discente più anziano segue con la guida del corso aperta.](https://cdn.sanity.io/images/vje9ehw2/production/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
+![L'educatore risponde alla mano alzata del discente principiante, mentre il discente più anziano segue con la guida del corso aperta.](https://cdn.sanity.io/images/vje9ehw2/staging/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
 
 ### Conoscenze preliminari richieste: nessuna
 

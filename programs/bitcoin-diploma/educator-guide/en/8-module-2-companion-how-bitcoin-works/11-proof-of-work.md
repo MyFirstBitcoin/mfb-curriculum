@@ -25,4 +25,4 @@ Use claim, evidence, and trade-off:
 
 Detailed energy statistics and [mining](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) economics are not required Bitcoin Diploma content. Use them only when the educator has verified current sources and the discussion supports a competency.
 
-![The educator and technical learner indicate separate mining and node devices while the older learner participates with a guide.](https://cdn.sanity.io/images/vje9ehw2/production/c42a629a0dff84d04b37397d56a45bf146f7110b-1054x1492.png)
+![The educator and technical learner indicate separate mining and node devices while the older learner participates with a guide.](https://cdn.sanity.io/images/vje9ehw2/staging/c42a629a0dff84d04b37397d56a45bf146f7110b-1054x1492.png)

@@ -34,4 +34,4 @@ Hvitboken samlet egenskapene som var nødvendige for denne tilnærmingen:
 
 Denne modulen forklarer disse begrepene mer detaljert. Sammen ga de et praktisk svar på [dobbeltforbruksproblemet](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): nettverket kan avvise et nytt forsøk på å bruke de samme bitcoinene uten å være avhengig av en sentral myndighet. Bitcoin tilbød den manglende kombinasjonen som flere tiår med eksperimenter med digitale penger hadde søkt etter.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)

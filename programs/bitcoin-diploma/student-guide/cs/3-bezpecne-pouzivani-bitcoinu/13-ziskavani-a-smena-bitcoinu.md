@@ -15,7 +15,7 @@ Lidé mohou získat bitcoin za práci, prostřednictvím komunitní platby, smě
 * **Směna mezi lidmi:** Dva lidé mohou směnit [fiat peníze](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) nebo zboží za bitcoin přímo nebo prostřednictvím služby, která je propojí. To může přinášet rizika spojená s protistranou, osobní bezpečností, stornováním platby a podvody.
 * **Burza, broker, bankomat nebo kiosek:** Služba nebo automat mohou nabídnout známý způsob, ale mohou s nimi být spojeny poplatky, ověřování totožnosti, [úschova](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), limity výběru nebo nevýhodný [směnný kurz](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
 
 Než začnete jednotlivé cesty porovnávat, položte si tyto otázky:
 

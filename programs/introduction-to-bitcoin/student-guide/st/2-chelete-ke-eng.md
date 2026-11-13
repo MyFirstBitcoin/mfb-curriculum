@@ -12,9 +12,9 @@ Tsamaisong ea phapanyetsano ea thepa ka thepa, khoebo e sebetsa feela ha batho k
 
 Ke **mokhoa oa phapanyetsano**: batho ba e amohela e le tefo. Ke **yuniti ea ho lekanya boleng**: litheko li hlahisoa ka eona, kahoo re ka bapisa boleng ba lintho tse fapaneng. Hape ke **polokelo ea boleng**: e boloka boleng ba kajeno hore bo sebelisoe nakong e tlang. Ha ho chelete e bolokang boleng ka mokhoa o phethahetseng, empa mefuta e meng e lahleheloa ke matla a ho reka butle ho feta e meng.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Ho theosa le nalane, lintho tse ngata li 'nile tsa sebelisoa e le chelete: likhetla, letsoai, lifaha, mehlape, koporo, silevera le khauta. Litšepe tsa bohlokoa li ile tsa sebelisoa haholo hobane li ne li fumaneha ka seoelo, li tšoarella nako e telele ebile li amoheloa hohle. Empa ho jara le ho sireletsa tšepe ho thata, kahoo libanka li ile tsa qala ho fana ka lipampiri tse pakang tokelo ea ho fumana tekanyo e boletsoeng ea tšepe. Tlas'a mefuta e fapaneng ea **tekanyetso ea khauta**, yuniti ea chelete e ne e hokahantsoe ka molao le tekanyo e itseng ea khauta. Melao e ne e fapana ho ea ka sebaka le nako.
 

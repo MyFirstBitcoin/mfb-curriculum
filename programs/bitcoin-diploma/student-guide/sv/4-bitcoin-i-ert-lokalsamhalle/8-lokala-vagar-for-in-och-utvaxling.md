@@ -1,6 +1,6 @@
 # 4.8 Lokala vägar för in- och utväxling
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/16d4da9fcdbc76a89acbef6bf760d3199ea7a843-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/16d4da9fcdbc76a89acbef6bf760d3199ea7a843-1536x1024.svg)
 
 En [**ingång**](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-ramp) är en väg från lokala pengar, arbete eller en annan [tillgång](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) till bitcoin. En [**utgång**](https://curriculum.myfirstbitcoin.org/lexicon/en/#off-ramp) är en väg från bitcoin till lokala pengar, varor eller tjänster. Samma väg kan fylla båda funktionerna.
 
@@ -14,7 +14,7 @@ Lokala vägar kan omfatta att:
 * använda en betaltjänst som växlar mellan bitcoin och fiatpengar
 * delta i en lokal cirkulär ekonomi
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8ad6c3106c57d796cf1b415d6a8104b043e6a215-776x978.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8ad6c3106c57d796cf1b415d6a8104b043e6a215-776x978.svg)
 
 Jämför **hela vägen**, inte bara den första avgiften. En tjänst kan marknadsföra en låg köpavgift men använda en ofördelaktig [växelkurs](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate) eller ta ut en uttagsavgift. En väg direkt mellan privatpersoner kan verka skydda den personliga integriteten men kräva tid, tillit och fysisk säkerhet.
 

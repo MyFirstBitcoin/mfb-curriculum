@@ -20,4 +20,4 @@ Nya aɖe le ŋɔŋlɔ ŋu: **Bitcoin** si ƒe B nye ŋɔŋlɔdzesi gã la fia ka
 
 Viɖe kple kuxi siaa le Bitcoin hã ŋu. Eƒe asixɔxɔ ate ŋu atrɔ kaba. Vodadawo nɔa anyi matrɔmatrɔ zi geɖe. Mele be ame geɖe le teƒe geɖe lɔ̃a eƒe zazã fifia o, eye eƒe zazã le dedienɔnɔ me bia nusɔsrɔ̃ aɖe. Bitcoin tsɔa nyateƒekpɔkpɔ kple ame ŋutɔ ƒe agbanɔamedzi ɖɔli ŋuɖoɖo ɖe habɔbɔwo dzi ƒe akpa aɖe teƒe. Meɖea afɔku ɖa o.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

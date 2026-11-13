@@ -11,4 +11,4 @@ Gdy uczestnik kursu się nie zgadza:
 
 Proszę korygować błędy rzeczowe jasno i z szacunkiem. Proszę nie unikać ich korygowania w imię neutralności. Neutralne prowadzenie zajęć oznacza stosowanie bezstronnych kryteriów oceny dowodów, a nie traktowanie każdej wypowiedzi jako równie trafnej.
 
-![Nauczyciel słucha pytania początkującego uczestnika kursu, podczas gdy starszy uczestnik śledzi rozmowę z otwartym przewodnikiem.](https://cdn.sanity.io/images/vje9ehw2/production/53db81849bfb9bca1dba5e2f8d5e8386c01ca3b3-1053x1494.png)
+![Nauczyciel słucha pytania początkującego uczestnika kursu, podczas gdy starszy uczestnik śledzi rozmowę z otwartym przewodnikiem.](https://cdn.sanity.io/images/vje9ehw2/staging/53db81849bfb9bca1dba5e2f8d5e8386c01ca3b3-1053x1494.png)

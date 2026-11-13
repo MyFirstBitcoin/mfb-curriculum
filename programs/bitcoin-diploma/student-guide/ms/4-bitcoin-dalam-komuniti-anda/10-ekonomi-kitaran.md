@@ -21,7 +21,7 @@ Petakan satu kitaran tempatan yang ringkas:
 1. Apakah yang berlaku apabila akses internet terputus?
 1. Apakah risiko [jagaan](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) dan [harga](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) yang ditanggung oleh setiap peserta?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
 
 Ekonomi kitaran yang sihat bergantung pada penyertaan sukarela. Peniaga dan pekerja seharusnya dapat mengenal pasti risiko pembayaran, penetapan harga, [jagaan](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), perakaunan dan [turun naik harga](https://curriculum.myfirstbitcoin.org/lexicon/en/#volatility). Angka penerimaan penggunaan semata-mata tidak menunjukkan sama ada rangkaian itu berguna.
 

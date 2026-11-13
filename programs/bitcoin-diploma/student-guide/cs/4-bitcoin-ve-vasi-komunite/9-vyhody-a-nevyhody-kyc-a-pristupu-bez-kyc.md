@@ -9,7 +9,7 @@
 > Ani [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc), ani [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) není automaticky nejlepší volbou. Porovnejte konkrétní postup, při nejasných pravidlech se řiďte aktuálními místními doporučeními a ve snaze o ochranu [soukromí](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy) neporušujte místní zákony ani se nevystavujte fyzickému nebezpečí.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
 Služba s [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) může požadovat jméno podle úředních dokladů, doklad totožnosti, adresu, fotografii, informace o původu finančních prostředků nebo jiné záznamy. Díky tomu může služba splňovat místní předpisy, spolupracovat s bankami, nastavovat vyšší limity nebo umožňovat obnovení přístupu k účtu.
 

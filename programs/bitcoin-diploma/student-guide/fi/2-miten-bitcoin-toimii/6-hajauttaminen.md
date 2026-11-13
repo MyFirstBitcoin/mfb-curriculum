@@ -28,4 +28,4 @@ Bitcoinin [hajautuneisuus](https://curriculum.myfirstbitcoin.org/lexicon/en/#dec
 
 [Hajautuneisuus](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) aiheuttaa myös kustannuksia. Koordinointi voi olla hitaampaa. Käyttäjien on tarkistettava tiedot ja otettava enemmän vastuuta. Keskitettyä tukipalvelua ei ole olemassa [Bitcoin-verkolle](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). Nämä [kompromissit](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) ovat osa suunnittelua, eivät tahattomia puutteita, jotka voitaisiin poistaa muuttamatta järjestelmää.
 
-![Opettaja osoittaa luokkahuoneen näytöllä näkyvää verkkoa samalla, kun aloittelijat ja teknisesti perehtyneet opiskelijat keskustelevat siitä pöydän ääressä.](https://cdn.sanity.io/images/vje9ehw2/production/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)
+![Opettaja osoittaa luokkahuoneen näytöllä näkyvää verkkoa samalla, kun aloittelijat ja teknisesti perehtyneet opiskelijat keskustelevat siitä pöydän ääressä.](https://cdn.sanity.io/images/vje9ehw2/staging/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)

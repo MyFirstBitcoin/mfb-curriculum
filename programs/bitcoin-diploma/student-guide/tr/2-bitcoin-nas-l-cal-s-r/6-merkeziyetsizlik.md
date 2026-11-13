@@ -28,4 +28,4 @@ Bitcoin'in [merkeziyetsizliği](https://curriculum.myfirstbitcoin.org/lexicon/en
 
 [Merkeziyetsizlik](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) aynı zamanda maliyetler de doğurur. Koordinasyon daha yavaş olabilir. Kullanıcılar bilgileri doğrulamalı ve daha fazla sorumluluk almalıdır. [Bitcoin ağı](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network) için merkezi bir destek masası yoktur. Bu [ödünleşimler](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) tasarımın bir parçasıdır; sistemi değiştirmeden ortadan kaldırılabilecek tesadüfi kusurlar değildir.
 
-![Eğitmen sınıftaki ekranda bir ağı gösterirken, başlangıç düzeyindeki öğrenci ile teknik öğrenci bir masada bunu tartışıyor.](https://cdn.sanity.io/images/vje9ehw2/production/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)
+![Eğitmen sınıftaki ekranda bir ağı gösterirken, başlangıç düzeyindeki öğrenci ile teknik öğrenci bir masada bunu tartışıyor.](https://cdn.sanity.io/images/vje9ehw2/staging/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)

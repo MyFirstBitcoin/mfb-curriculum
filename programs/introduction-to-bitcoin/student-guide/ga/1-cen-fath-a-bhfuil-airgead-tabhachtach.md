@@ -22,4 +22,4 @@ Tá an treoir seo bunaithe ar shé cheist: cén fáth a bhfuil tábhacht le hair
 
 Is chun críocha oideachais amháin atá sí ann. Ní thugann sí comhairle airgeadais, infheistíochta, dlí ná cánach, agus ní deir sí libh aon rud a cheannach, a dhíol ná a choinneáil.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)

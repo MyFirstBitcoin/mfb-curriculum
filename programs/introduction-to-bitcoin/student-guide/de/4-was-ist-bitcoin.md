@@ -20,4 +20,4 @@ Ein Hinweis zur Schreibweise: **Bitcoin** mit großem B bezeichnet in der Regel 
 
 Bitcoin bringt auch Nachteile mit sich. Sein Preis kann sich schnell ändern. Fehler sind in der Regel endgültig. Die Akzeptanz ist vielerorts noch begrenzt, und die sichere Nutzung erfordert etwas Lernaufwand. Bitcoin ersetzt einen Teil des Vertrauens in Institutionen durch Überprüfung und Eigenverantwortung. Das Risiko beseitigt es nicht.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

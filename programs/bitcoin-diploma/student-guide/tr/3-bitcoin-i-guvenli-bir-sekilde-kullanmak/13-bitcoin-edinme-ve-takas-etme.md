@@ -15,7 +15,7 @@
 * **Kişiden kişiye takas:** İki kişi [itibari parayı](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) veya malları doğrudan ya da bir eşleştirme hizmeti aracılığıyla bitcoin ile takas edebilir. Bu durum karşı taraf, fiziksel güvenlik, ödemenin geri alınması ve dolandırıcılık risklerini beraberinde getirebilir.
 * **Borsa, aracı kurum, ATM veya kiosk:** Bir hizmet veya makine tanıdık bir yol sunabilir; ancak ücretler, kimlik kontrolleri, [saklama](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), para çekme limitleri veya elverişsiz bir [döviz kuru](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate) söz konusu olabilir.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
 
 Bir yolu karşılaştırmadan önce şunları sorun:
 

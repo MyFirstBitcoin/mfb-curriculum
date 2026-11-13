@@ -10,4 +10,4 @@ La monnaie influence les choix quotidiens en matière d’alimentation, de trans
 
 En discutant de ces questions, prêtez attention à la différence entre un fait et une opinion. « Ce billet est accepté pour payer les impôts » est un fait qui peut être vérifié. « C’est la meilleure forme de monnaie » est une opinion ou une conclusion qui nécessite des critères et des preuves.
 
-![Les six personnages se rassemblent autour des tables de la salle de classe tandis que l’enseignant anime une lecture collective à partir d’un guide de cours ouvert.](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![Les six personnages se rassemblent autour des tables de la salle de classe tandis que l’enseignant anime une lecture collective à partir d’un guide de cours ouvert.](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)

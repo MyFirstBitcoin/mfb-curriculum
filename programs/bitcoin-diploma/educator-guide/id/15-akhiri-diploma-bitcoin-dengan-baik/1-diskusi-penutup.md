@@ -13,4 +13,4 @@ Gunakan metode berpikir–berpasangan–berbagi sebelum diskusi seluruh kelompok
 
 Mintalah peserta didik mendukung jawaban dengan konsep dari kursus dan sebuah contoh, bukan slogan.
 
-![Pendidik meminta penjelasan penutup dari peserta didik yang lebih tua, sementara peserta pemula dan pemilik usaha menyimak bersama para pembimbing mereka.](https://cdn.sanity.io/images/vje9ehw2/production/294a2f8e8e831a2a0da998cfbc42a40102d4cc74-1054x1493.png)
+![Pendidik meminta penjelasan penutup dari peserta didik yang lebih tua, sementara peserta pemula dan pemilik usaha menyimak bersama para pembimbing mereka.](https://cdn.sanity.io/images/vje9ehw2/staging/294a2f8e8e831a2a0da998cfbc42a40102d4cc74-1054x1493.png)

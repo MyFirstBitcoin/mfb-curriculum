@@ -1,6 +1,6 @@
 # 2.10 Dokaz o delu
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
 <!-- card: definition -->
@@ -29,4 +29,4 @@ Ko [rudar](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) najde [velja
 
 [Dokaz o delu](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) vključuje dejanske stroške energije. Zagovorniki trdijo, da so ti stroški temelj varnosti Bitcoina in lahko ustvarijo povpraševanje po energiji, katere porabo je mogoče prilagajati, ali po energiji, ki bi sicer ostala neizkoriščena. Kritiki dvomijo o upravičenosti količine in izvora porabljene energije. Odgovorna presoja obravnava vprašanja, katera energija se uporablja, od kod prihaja, kakšno varnost zagotavlja in katere alternative se primerjajo.
 
-![Izobraževalec, udeleženec začetnik in tehnično podkovani udeleženec razpravljajo o namizni rudarski napravi z ventilatorjem in ločenim napajalnikom.](https://cdn.sanity.io/images/vje9ehw2/production/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)
+![Izobraževalec, udeleženec začetnik in tehnično podkovani udeleženec razpravljajo o namizni rudarski napravi z ventilatorjem in ločenim napajalnikom.](https://cdn.sanity.io/images/vje9ehw2/staging/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)

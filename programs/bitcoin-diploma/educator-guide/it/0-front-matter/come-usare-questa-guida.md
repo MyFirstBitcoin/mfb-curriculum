@@ -23,7 +23,7 @@ Quando apre la guida di un modulo, segua ogni volta lo stesso ordine:
 
 I titoli sono volutamente ripetitivi. Questa ripetizione è un aiuto all'orientamento per un nuovo insegnante, non un contenuto da memorizzare.
 
-![L'educatore indica un diagramma in una guida del corso aperta, mentre il principiante e il discente più anziano seguono sulle proprie guide.](https://cdn.sanity.io/images/vje9ehw2/production/f4e6dd8cd876afad89cef117fc6845f0b599f408-1054x1492.png)
+![L'educatore indica un diagramma in una guida del corso aperta, mentre il principiante e il discente più anziano seguono sulle proprie guide.](https://cdn.sanity.io/images/vje9ehw2/staging/f4e6dd8cd876afad89cef117fc6845f0b599f408-1054x1492.png)
 
 ### Frasi che può usare quando non è sicuro
 

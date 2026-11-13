@@ -20,4 +20,4 @@ Eky'okwetegereza ku mpandiika: **Bitcoin** eriko B ennene etera okutegeeza omuku
 
 Bitcoin nayo erina ebirungi n'ebisoomooza. Omuwendo gwayo gusobola okukyuka amangu. Ensobi ezikolebwa zitera obutasoboka kutereezebwa. Okukkirizibwa kwayo kukyali kutono mu bifo bingi, era okugikozesa mu ngeri ey'obukuumi kyetaagisa okuyiga. Bitcoin ekendeeza ku kwesiga ebitongole, n'essa mu kifo kyakwo okukakasa n'obuvunaanyizibwa bw'omuntu yennyini. Temalawo bulabe.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

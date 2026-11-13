@@ -44,4 +44,4 @@ Die limiet van 21 miljoen word afgedwing deur [nodusse](https://curriculum.myfir
 > ’n Eindige aanbod beteken ook nie dat elke bitcoin te koop aangebied word nie; sommige kan oor die lang termyn gehou word of ontoeganklik raak omdat sleutels verlore geraak het.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

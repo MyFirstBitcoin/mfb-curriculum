@@ -4,7 +4,7 @@
 
 Le pair à pair ne signifie pas toujours que seuls deux ordinateurs communiquent directement. Une [transaction](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) peut passer par des portefeuilles, des fournisseurs d’accès à Internet et de nombreux [nœuds du réseau](https://curriculum.myfirstbitcoin.org/lexicon/en/#node). L’essentiel est qu’aucun opérateur central de Bitcoin n’ait à approuver l’expéditeur ou le destinataire.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
 
 
 <!-- micrographic: peer-to-peer-route-01 -->

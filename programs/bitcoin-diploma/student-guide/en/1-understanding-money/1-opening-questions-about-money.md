@@ -10,4 +10,4 @@ Money shapes everyday choices about food, transport, work, saving, and helping p
 
 As you discuss these questions, notice the difference between a fact and an opinion. “This note is accepted for taxes” is a fact that can be checked. “This is the best form of money” is an opinion or conclusion that needs criteria and evidence.
 
-![All six characters gather around classroom tables as the educator leads a shared reading from an open course guide.](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![All six characters gather around classroom tables as the educator leads a shared reading from an open course guide.](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)

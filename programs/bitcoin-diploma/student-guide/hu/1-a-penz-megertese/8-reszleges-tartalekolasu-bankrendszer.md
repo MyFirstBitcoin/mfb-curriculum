@@ -28,7 +28,7 @@ Ez két fontos kockázatot teremt:
 [Likviditási kockázat: sok betétes áll sorban, hogy még ma kivegye a pénzét, és a banknak jelenleg nincs elég készpénze, bár az általa nyújtott hiteleket később még visszafizethetik. Fizetőképességi kockázat: a hitelfelvevők nem törlesztik a lakáshiteleiket, és a bank eszközei kevesebbet érnek, mint amennyivel tartozik.](/micrographics/liquidity-vs-solvency-01/hu.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
 
 
 

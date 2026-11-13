@@ -28,7 +28,7 @@ Isso cria dois riscos importantes:
 [Risco de liquidez: muitos depositantes fazem fila para sacar hoje, e o banco não tem dinheiro suficiente agora, mesmo que seus empréstimos possam ser pagos mais tarde. Risco de solvência: os tomadores deixam de pagar seus financiamentos imobiliários, e os ativos do banco passam a valer menos do que o banco deve.](/micrographics/liquidity-vs-solvency-01/pt-BR.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
 
 
 

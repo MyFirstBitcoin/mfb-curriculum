@@ -19,7 +19,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## بیشتر مردم هرگز درنگ نمی‌کنند تا دربارهٔ پول فکر کنند
 
@@ -29,7 +29,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## پنج پرسش برای شروع
 
@@ -49,7 +49,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## واقعیت یا نظر؟
 
@@ -74,7 +74,7 @@ theme: mfb
 
 هر دو نفر باید هم‌زمان و به مقدار مناسب، خواهان چیزی باشند که دیگری دارد.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: از مثال راهنما استفاده کنید: شما برنج می‌کارید و به کفش نیاز دارید، اما کفاش روغن خوراکی می‌خواهد، نه برنج. اقتصاددانان این وضعیت را «تطابق دوگانهٔ خواسته‌ها» می‌نامند. -->
 
@@ -96,13 +96,13 @@ theme: mfb
 
 هیچ‌کس پول را به‌خاطر خودِ آن نمی‌خواهد. پول مفید است چون دیگران آن را می‌پذیرند، با این انتظار که در آینده دیگران نیز آن را بپذیرند.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: اسکناس فقط یک تکه کاغذ است. پول با جدا کردن فروش از خرید، مشکل مبادلهٔ پایاپای را حل می‌کند: شما برنج خود را به یک نفر می‌فروشید و از فرد دیگری کفش می‌خرید. این همان چیزی است که پول را از مبادلهٔ پایاپای متمایز می‌کند. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## سه کارکرد پول
 
@@ -114,7 +114,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## از صدف تا کاغذ
 
@@ -161,13 +161,13 @@ theme: mfb
 
 ## تورم و قدرت خرید
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: تورم قیمت‌ها به معنای افزایش مستمر سطح عمومی قیمت‌هاست. روی دیگر آن، قدرت خرید است: اینکه با یک واحد پول چه مقدار کالا و خدمات می‌توان خرید. اگر قیمت سبدی از کالاهای اساسی از ۱۰۰ واحد پول به ۱۱۰ واحد برسد، با همان ۱۰۰ واحد دیگر نمی‌توان تمام اقلام آن سبد را خرید. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## دلایل بسیار، یک انتخاب
 
@@ -285,7 +285,7 @@ theme: mfb
 
 ## چه کسانی بیت‌کوین را فعال نگه می‌دارند؟
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: کاربران بیت‌کوین ارسال، دریافت و نگهداری می‌کنند؛ گره‌ها هر تراکنش و بلوک را با قواعد تطبیق می‌دهند؛ استخراج‌کنندگان تقریباً هر ده دقیقه برای افزودن یک بلوک جدید به دفتر ثبت رقابت می‌کنند. این دفتر ثبت، یعنی بلاک‌چین، عمومی است و بازنویسی آن بسیار پرهزینه است. نکته‌ای دربارهٔ شیوهٔ نوشتن: در انگلیسی، Bitcoin با حرف بزرگ B معمولاً به شبکه یا سامانه اشاره دارد؛ bitcoin با حرف کوچک b به خودِ پول اشاره دارد. -->
 
@@ -330,7 +330,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## عبارت بازیابی شما به معنای دسترسی کامل است
 
@@ -350,7 +350,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## پیش از استفاده از هر کیف پولی
 
@@ -391,7 +391,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## توقف کنید، چیزی به اشتراک نگذارید، چیزی ارسال نکنید
 
@@ -426,7 +426,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## دیپلم بیت‌کوین
 

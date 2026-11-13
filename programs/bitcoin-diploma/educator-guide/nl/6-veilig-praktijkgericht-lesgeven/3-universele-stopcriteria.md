@@ -24,4 +24,4 @@ Stop de activiteit onmiddellijk als:
 [Een onveilige of onverklaarbare situatie stopt de activiteit. De docent beschermt mensen en geheimen en controleert het probleem; een veiligheidskritieke beoordelingsfout wordt geregistreerd als Nog niet, en de leerling herstelt de opstelling, oefent en wordt later opnieuw beoordeeld.](/micrographics/stop-when-check-fails-01/nl.md)
 
 
-![De docent steekt een open handpalm op om een activiteit te onderbreken, terwijl de beginner een telefoon laat zakken en de technische deelnemer een laptop half dichtklapt.](https://cdn.sanity.io/images/vje9ehw2/production/adb5c936fe5622b3c0b62f060349af1097eee5b0-1055x1491.png)
+![De docent steekt een open handpalm op om een activiteit te onderbreken, terwijl de beginner een telefoon laat zakken en de technische deelnemer een laptop half dichtklapt.](https://cdn.sanity.io/images/vje9ehw2/staging/adb5c936fe5622b3c0b62f060349af1097eee5b0-1055x1491.png)

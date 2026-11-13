@@ -18,7 +18,7 @@ Kutuma kunahitaji uangalifu zaidi kwa sababu [muamala](https://curriculum.myfirs
 1. Tumia jaribio dogo pale ambapo mchakato si wa kawaida kwako.
 1. Idhinisha tu pale kila kipengele kinapolingana; kisha kagua matokeo ya malipo.
 
-![Mwanafunzi mkubwa anaonyesha simu ya mafunzo huku mwanafunzi anayeanza akikagua simu nyingine na mwalimu akiongoza ulinganishaji.](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![Mwanafunzi mkubwa anaonyesha simu ya mafunzo huku mwanafunzi anayeanza akikagua simu nyingine na mwalimu akiongoza ulinganishaji.](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 
 <!-- micrographic: pre-send-checklist-01 -->
@@ -29,4 +29,4 @@ Kwa [malipo ya on-chain](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-ch
 
 Ikiwa anwani ya mwisho inabadilika bila kutarajiwa, ombi linakuwa la haraka, au mtu yeyote anaomba taarifa za urejeshaji, unapaswa kufanya nini? Simama. Thibitisha ombi hilo kwa njia huru, au omba msaada bila kushiriki siri zako.
 
-![Mwalimu anamwongoza mwanafunzi anayeanza anapolinganisha simu na kifaa cha kupokea cha mmiliki wa biashara kabla ya kuidhinisha malipo.](https://cdn.sanity.io/images/vje9ehw2/production/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)
+![Mwalimu anamwongoza mwanafunzi anayeanza anapolinganisha simu na kifaa cha kupokea cha mmiliki wa biashara kabla ya kuidhinisha malipo.](https://cdn.sanity.io/images/vje9ehw2/staging/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)

@@ -22,4 +22,4 @@ A haziri akwụkwọ nduzi a gburugburu ajụjụ isii: ihe mere ego ji dị mkp
 
 Ọ bụ naanị maka mmụta. Ọ naghị enye ndụmọdụ gbasara ego, itinye ego n’ọrụ, iwu, ma ọ bụ ụtụ isi, ọ naghịkwa agwa unu ka unu zụta, ree, ma ọ bụ jide ihe ọ bụla.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)

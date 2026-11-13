@@ -22,4 +22,4 @@ Um eine vorbereitete [Transaktion](https://curriculum.myfirstbitcoin.org/lexicon
 [Eine Transaktion wartet unbestätigt in der Warteschlange, wird dann in Block N als erste Bestätigung aufgenommen, und jeder weitere Block fügt eine weitere Bestätigung hinzu.](/micrographics/confirmation-timeline-01/de.md)
 
 
-![Die Lehrkraft und ein älterer Lernender besprechen ein vorbereitetes Beispiel auf einem Monitor, der zur Gruppe ausgerichtet ist, während der technikaffine Lernende die Maus bedient; der Betrachter sieht die Rückseite des Gehäuses.](https://cdn.sanity.io/images/vje9ehw2/production/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)
+![Die Lehrkraft und ein älterer Lernender besprechen ein vorbereitetes Beispiel auf einem Monitor, der zur Gruppe ausgerichtet ist, während der technikaffine Lernende die Maus bedient; der Betrachter sieht die Rückseite des Gehäuses.](https://cdn.sanity.io/images/vje9ehw2/staging/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)

@@ -15,7 +15,7 @@ Oamenii pot primi bitcoin prin muncă, o plată comunitară, un schimb direct î
 * **Schimb Peer-to-Peer (P2P):** Două persoane pot schimba [bani fiat](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) sau bunuri pentru bitcoin, direct sau printr-un serviciu de punere în legătură. Acest lucru poate implica riscuri legate de contraparte, siguranța fizică, anularea plăților și fraudă.
 * **Platformă de schimb, broker, bancomat sau chioșc:** Un serviciu sau un aparat poate oferi o modalitate familiară, dar poate implica comisioane, verificări de identitate, [custodie](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), limite de retragere sau condiții nefavorabile privind [Rată de Schimb](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
 
 Înainte de a compara o modalitate, întrebați:
 

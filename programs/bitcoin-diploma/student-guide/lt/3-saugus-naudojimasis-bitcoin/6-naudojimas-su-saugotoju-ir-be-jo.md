@@ -12,7 +12,7 @@ Naudojantis **saugotojo valdoma** paslauga, raktus valdo įmonė arba kitas asmu
 
 Naudojantis **be saugotojo veikiančia** arba **savarankiškai valdoma** pinigine, raktus valdote JŪS. Piniginė pasirašo [sandorius](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) pagal jūsų nurodymus. Vis tiek gali būti priklausomybių nuo programinės ar aparatinės įrangos, serverių arba tinklo, tačiau joks [saugotojas](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian) neprivalo patvirtinti galiojančio lėšų išleidimo blokų grandinėje.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 
 <!-- micrographic: who-controls-keys-01 -->

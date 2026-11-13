@@ -15,7 +15,7 @@ Die fiatstelsel het verskeie hoofdeelnemers:
 [Die rolspelers in ’n fiatstelsel en wat tussen hulle vloei: die sentrale bank bepaal beleid en vereffen betalings tussen banke, handelsbanke hou deposito’s wat hul laste teenoor kliënte is, betaaldienste dra opdragte oor, die regering vorder belasting in en bestee geld, en burgers en ondernemings betaal en ontvang betalings.](/micrographics/fiat-system-flows-01/af.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
 <!-- card: light -->

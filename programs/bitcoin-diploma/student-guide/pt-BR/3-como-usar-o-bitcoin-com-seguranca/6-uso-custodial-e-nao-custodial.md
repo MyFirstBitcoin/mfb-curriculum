@@ -12,7 +12,7 @@ Essa diferença é importante para a verificação. As regras e a oferta total d
 
 Em uma carteira **não custodial** ou **autocustodial**, VOCÊ controla as chaves. A carteira assina [transações](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) sob sua autoridade. Ainda pode haver dependências de software, hardware, servidor ou rede, mas nenhum [custodiante](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian) precisa aprovar um gasto on-chain válido.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 
 <!-- micrographic: who-controls-keys-01 -->

@@ -16,4 +16,4 @@ Vyberte dva nebo tři z těchto příkladů, ne všechny. Projděte si [Knihovnu
 
 Používejte [konsenzuální](https://curriculum.myfirstbitcoin.org/lexicon/en/#consensus) hry, aktivity zaměřené na hashování, videa a hraní rolí pouze tehdy, mají-li jasný účel, vhodné načasování, odpovídají-li situaci studujících a zahrnují-li důkladný závěrečný rozbor. Aktivita poskytuje podklady pro ověření teoretických znalostí vedené vyučujícím pouze tehdy, jde-li o ověřovací bod navázaný na danou kompetenci, který zahrnuje individuální doklady o zvládnutí učiva, hodnoticí rubriku a postup zaznamenávání výsledků. V opačném případě ji využívejte formativně.
 
-![Majitel podniku vysvětluje síť rovnocenných účastníků, zatímco vyučující naslouchá a mladý studující sleduje výklad se zápisníkem.](https://cdn.sanity.io/images/vje9ehw2/production/359b55ce824c4e7e1fb6d3f1e0b5dbc01f7c6db6-1054x1493.png)
+![Majitel podniku vysvětluje síť rovnocenných účastníků, zatímco vyučující naslouchá a mladý studující sleduje výklad se zápisníkem.](https://cdn.sanity.io/images/vje9ehw2/staging/359b55ce824c4e7e1fb6d3f1e0b5dbc01f7c6db6-1054x1493.png)

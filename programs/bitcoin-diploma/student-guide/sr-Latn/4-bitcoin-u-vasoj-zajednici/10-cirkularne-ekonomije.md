@@ -21,7 +21,7 @@ Prikažite jednostavan lokalni ciklus:
 1. Šta se dešava kada pristup internetu prestane da radi?
 1. Kakve [rizike čuvanja sredstava](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) i [cenovne](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) rizike snosi svaki učesnik?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
 
 Zdrava cirkularna ekonomija zavisi od dobrovoljnog učešća. Trgovci i radnici treba da budu u stanju da prepoznaju rizike povezane sa plaćanjem, određivanjem cena, [čuvanjem sredstava](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), računovodstvom i [promenljivošću cena](https://curriculum.myfirstbitcoin.org/lexicon/en/#volatility) kojima su izloženi. Sam broj onih koji su usvojili Bitcoin ne pokazuje da li je mreža korisna.
 

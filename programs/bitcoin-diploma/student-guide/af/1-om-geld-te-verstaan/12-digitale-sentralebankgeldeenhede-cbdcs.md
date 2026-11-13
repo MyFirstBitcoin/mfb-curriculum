@@ -10,7 +10,7 @@
 
 Vra vervolgens wat die ontwerp toelaat. Afhangend van die reëls, kan 'n [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) vinniger vereffening, wyer toegang of nuwe betalingsfunksies moontlik maak. Dit kan instellings ook groter vermoëns gee vir die monitering van [transaksies](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), die toepassing van reëls, die beperking van gebruik of die direkte koppeling van identiteit aan betalings. Dit is gesentraliseerde beheer: 'n instelling, eerder as gewone gebruikers wat onafhanklik optree, stel die betrokke reëls vas of verander dit.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->

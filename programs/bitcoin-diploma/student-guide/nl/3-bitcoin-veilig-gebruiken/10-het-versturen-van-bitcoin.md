@@ -18,7 +18,7 @@ Verzenden vraagt meer zorg, omdat een geldige Bitcoin-[transactie](https://curri
 1. Doe een kleine test als het proces u onbekend is.
 1. Keur alleen goed als elk onderdeel overeenkomt; controleer daarna het resultaat van de betaling.
 
-![De oudere leerling laat een oefentelefoon zien, terwijl de beginner een andere telefoon controleert en de docent de vergelijking begeleidt.](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![De oudere leerling laat een oefentelefoon zien, terwijl de beginner een andere telefoon controleert en de docent de vergelijking begeleidt.](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 
 <!-- micrographic: pre-send-checklist-01 -->
@@ -29,4 +29,4 @@ Bij een [on-chain betaling](https://curriculum.myfirstbitcoin.org/lexicon/en/#on
 
 Wat moet u doen als de bestemming onverwacht verandert, het verzoek ineens dringend wordt of iemand om herstelgegevens vraagt? Stop. Controleer het verzoek zelfstandig of vraag om hulp zonder geheimen te delen.
 
-![De docent begeleidt de beginnende leerling bij het vergelijken van een telefoon met het ontvangstapparaat van de ondernemer, voordat een betaling wordt goedgekeurd.](https://cdn.sanity.io/images/vje9ehw2/production/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)
+![De docent begeleidt de beginnende leerling bij het vergelijken van een telefoon met het ontvangstapparaat van de ondernemer, voordat een betaling wordt goedgekeurd.](https://cdn.sanity.io/images/vje9ehw2/staging/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)

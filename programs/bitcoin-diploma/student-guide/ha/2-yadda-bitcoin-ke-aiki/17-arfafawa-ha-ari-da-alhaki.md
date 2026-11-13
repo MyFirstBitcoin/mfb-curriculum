@@ -6,7 +6,7 @@ Dokokin Bitcoin na bai ɗaya, [cibiyar sadarwa ta tsara-da-tsara](https://curric
 
 Waɗannan halaye za su iya ƙarfafa mahalarta, amma kuma suna ɗora musu ƙarin alhaki. Idan babu wata hukuma ta tsakiya da za ta amince da [ma'amaloli](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), dawo da damar shiga, ko soke sakamakon kurakurai da yawa, dole ne kowane mutum ya iya gane matsayin da yake ɗauka da haɗarin da yake karɓa.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
 
 Ga mutumin da ya zaɓi [riƙe bitcoin da kansa](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody), mallakar ikon maɓallan yana ba shi ikon sarrafa bitcoin kai tsaye. Babu kamfanin da zai iya daskarar da ragowar kuɗin da ke kan sarkar tubala idan ana sarrafa maɓallansa yadda ya kamata. Haka kuma babu kamfanin da zai iya dawo da wata [jimlar kalmomin dawo da walat](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) da ta ɓace.
 

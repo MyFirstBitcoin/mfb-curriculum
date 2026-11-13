@@ -44,4 +44,4 @@ Ang limitasyong 21 milyon ay ipinapatupad ng mga [node](https://curriculum.myfir
 > Ang limitadong suplay ay hindi rin nangangahulugang ang bawat bitcoin ay maaaring mabili; ang ilan ay maaaring itinatabi nang pangmatagalan o hindi na ma-access dahil nawala ang mga susi.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

@@ -6,7 +6,7 @@ A Bitcoin nyilvános szabályai, [egyenrangú hálózata](https://curriculum.myf
 
 Ezek a tulajdonságok nagyobb önállóságot adhatnak a résztvevőknek, de egyben több felelősséget is rónak rájuk. Mivel nincs központi hatóság, amely jóváhagyná a [tranzakciókat](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), helyreállítaná a hozzáférést, vagy számos hiba következményeit visszafordítaná, mindenkinek képesnek kell lennie felismerni, milyen szerepet és kockázatokat vállal.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
 
 Ha valaki úgy dönt, hogy [saját maga kezeli a kulcsait](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody), a kulcsok feletti rendelkezés közvetlen rendelkezést biztosít a bitcoin felett. Egyetlen vállalat sem fagyaszthat be egy megfelelően felügyelt, blokkláncon nyilvántartott egyenleget. Egyetlen vállalat sem tud visszaállítani egy elveszett [helyreállító kifejezést](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) sem.
 

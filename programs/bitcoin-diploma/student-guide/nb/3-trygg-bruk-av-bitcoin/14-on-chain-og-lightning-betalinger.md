@@ -1,6 +1,6 @@
 # 3.14 On-chain- og Lightning-betalinger
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
@@ -30,4 +30,4 @@ Hvilken betalingsvei forventer mottakeren? Bekreft om mottakeren har oppgitt en 
 
 Forestill Dem at et forberedt scenario tilbyr begge betalingsveiene. Hvilken betalingsforespørsel kan den tiltenkte lommeboken bruke, og hva ville De kontrollert før De godkjenner den? Svaret avhenger av betalingsforespørselen fra mottakeren, lommeboken og situasjonen — ikke av en universelt «beste» betalingsvei.
 
-![Underviseren peker på to forskjellige geometriske betalingsveier på en tavle mens nybegynneren og de teknisk kyndige deltakerne vurderer dem.](https://cdn.sanity.io/images/vje9ehw2/production/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)
+![Underviseren peker på to forskjellige geometriske betalingsveier på en tavle mens nybegynneren og de teknisk kyndige deltakerne vurderer dem.](https://cdn.sanity.io/images/vje9ehw2/staging/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)

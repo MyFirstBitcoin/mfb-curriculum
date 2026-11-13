@@ -10,7 +10,7 @@
 
 Następnie proszę zapytać, na co pozwala dana konstrukcja. W zależności od zasad [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) może umożliwiać szybsze rozrachunki, szerszy dostęp lub nowe funkcje płatności. Może również dawać instytucjom większe możliwości monitorowania [transakcji](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), egzekwowania zasad, ograniczania korzystania z waluty lub bezpośredniego powiązania tożsamości z płatnościami. To właśnie centralna kontrola: odpowiednie zasady ustala lub zmienia instytucja, a nie samodzielnie zwykli użytkownicy.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->

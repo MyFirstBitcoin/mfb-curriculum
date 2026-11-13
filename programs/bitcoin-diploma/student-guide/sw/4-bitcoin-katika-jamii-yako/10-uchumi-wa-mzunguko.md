@@ -21,7 +21,7 @@ Chorani mzunguko rahisi wa eneo lenu:
 1. Nini hutokea huduma ya intaneti inapokatika?
 1. Ni hatari gani za [uhifadhi](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) na [bei](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) ambazo kila mshiriki anabeba?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
 
 Uchumi wa mzunguko wenye afya hutegemea ushiriki wa hiari. Wafanyabiashara na wafanyakazi wanapaswa kuweza kutambua hatari zinazohusu malipo, upangaji wa bei, [uhifadhi](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), uhasibu, na [mabadiliko ya bei](https://curriculum.myfirstbitcoin.org/lexicon/en/#volatility). Idadi ya watumiaji pekee haionyeshi kama mtandao una manufaa.
 

@@ -11,7 +11,7 @@ Kaynaklar sınırlıdır, insan istekleri ise sınırsızdır.
 
 Bir malın [değeri](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) nesnenin içinde saklı değildir. İnsanlar mallara [değer](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) biçerken ihtiyaçlarını, tercihlerini, bilgilerini ve koşullarını esas alır. Buna bazen [**öznel değer**](https://curriculum.myfirstbitcoin.org/lexicon/en/#subjective-value) denir. Temiz su, güvenli bir kamu kaynağının yakınında ucuz olabilirken bir kıtlık döneminde son derece değerli hâle gelebilir.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
 
 
 <!-- micrographic: same-water-different-value-01 -->

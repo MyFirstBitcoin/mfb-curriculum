@@ -15,7 +15,7 @@ Leer de gevolgen aan:
 [Een herstelzin is een geordende lijst woorden, hier twaalf genummerde voorbeeldwoorden die op papier zijn geschreven. Met de juiste woorden in de juiste volgorde kan de controle in een compatibele Wallet worden hersteld; daarom blijft de herstelzin geheim en offline.](/micrographics/seed-phrase-on-paper-01/nl.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
 
 #### Doe dit nooit in de klas
 
@@ -56,4 +56,4 @@ Leer de gevolgen aan:
 
 Erfenis, [multisignature](https://curriculum.myfirstbitcoin.org/lexicon/en/#multisignature)-ontwerp, geavanceerde passphrases en herstelplanning voor grote bedragen kunnen geavanceerde beveiliging en professioneel juridisch advies vereisen. Deze vallen buiten de vereiste prestaties van het Bitcoin Diploma.
 
-![De docent begeleidt een gesprek over herstelparaatheid terwijl de oudere leerling een blanco oefenkaart in een envelop stopt en de technische leerling toekijkt.](https://cdn.sanity.io/images/vje9ehw2/production/23cdb205174fa99b2d0df47ef606b53f8329f152-1054x1492.png)
+![De docent begeleidt een gesprek over herstelparaatheid terwijl de oudere leerling een blanco oefenkaart in een envelop stopt en de technische leerling toekijkt.](https://cdn.sanity.io/images/vje9ehw2/staging/23cdb205174fa99b2d0df47ef606b53f8329f152-1054x1492.png)

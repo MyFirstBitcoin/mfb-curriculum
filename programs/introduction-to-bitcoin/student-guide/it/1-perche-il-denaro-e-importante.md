@@ -22,4 +22,4 @@ Questa guida è strutturata attorno a sei domande: perché il denaro è importan
 
 Ha finalità esclusivamente educative. Non fornisce consulenza finanziaria, di investimento, legale o fiscale, e non Le dice di comprare, vendere o detenere alcunché.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)

@@ -1,6 +1,6 @@
 # 4.1 Bitcoin sa Inyong Komunidad
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
 
 Ito ang **Pag-uugnay** na yugto ng Bitcoin Diploma. Iuugnay ninyo ang mga kahinaan at [kompromiso](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) ng makabagong sistema ng salapi, ang tugon ng Bitcoin, at ang pananagutan sa ligtas na paggamit mula sa **Mga Modyul 1–3** sa isang lokal na pangangailangan o oportunidad, isang makatotohanang alternatibo, at isang ligtas na praktikal na gawain. Hindi inaasahang gagamit kayo ng Bitcoin o magpapasyang ito ang pinakamahusay na opsyon sa bawat lokal na sitwasyon.
 

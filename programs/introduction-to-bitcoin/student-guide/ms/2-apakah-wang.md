@@ -12,9 +12,9 @@ Dalam sistem barter, pertukaran hanya dapat berlaku apabila kedua-dua pihak mahu
 
 Wang ialah **alat perantaraan pertukaran**: orang menerimanya sebagai bayaran. Wang ialah **unit akaun**: harga dinyatakan dalam unit ini, jadi kita boleh membandingkan nilai pelbagai perkara. Wang juga ialah **penyimpan nilai**: wang membawa nilai dari hari ini ke masa hadapan. Tiada wang yang menyimpan nilai dengan sempurna, tetapi sesetengah bentuk wang kehilangan kuasa beli dengan lebih perlahan berbanding yang lain.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Sepanjang sejarah, banyak benda telah digunakan sebagai wang: cangkerang, garam, manik, ternakan, tembaga, perak dan emas. Logam berharga mula digunakan secara meluas kerana bekalannya terhad, tahan lama dan diterima ramai. Namun, membawa dan melindungi logam adalah sukar, maka bank mula mengeluarkan dokumen tuntutan kertas yang boleh ditebus dengan sejumlah logam yang dinyatakan. Di bawah pelbagai versi **piawaian emas**, satu unit mata wang dikaitkan dengan sejumlah emas di sisi undang-undang. Peraturannya berbeza mengikut tempat dan zaman.
 

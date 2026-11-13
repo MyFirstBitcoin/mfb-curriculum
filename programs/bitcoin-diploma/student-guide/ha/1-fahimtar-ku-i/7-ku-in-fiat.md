@@ -15,7 +15,7 @@ Tsarin kuɗin fiat yana da manyan masu ruwa da tsaki da dama:
 [Masu ruwa da tsaki a tsarin kuɗin fiat da abin da ke gudana a tsakaninsu: babban banki yana tsara manufofi da kammala biyan kuɗi tsakanin bankuna, bankunan kasuwanci suna riƙe da kuɗaɗen ajiya waɗanda suke bashin abokan hulɗa a kansu, ayyukan biyan kuɗi suna isar da umarni, gwamnati tana karɓar haraji da kashe kuɗi, jama'a da 'yan kasuwa kuma suna biyan kuɗi da karɓar kuɗi.](/micrographics/fiat-system-flows-01/ha.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
 <!-- card: light -->

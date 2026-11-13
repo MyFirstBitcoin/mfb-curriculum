@@ -18,7 +18,7 @@ Penghantaran memerlukan lebih perhatian kerana dalam Bitcoin, [transaksi](https:
 1. Buat ujian dengan jumlah kecil jika anda belum biasa dengan proses tersebut.
 1. Luluskan hanya apabila setiap butiran sepadan; kemudian semak hasil pembayaran.
 
-![Pelajar yang lebih berusia menunjukkan telefon latihan sementara pelajar baharu menyemak telefon lain dan pendidik membimbing perbandingan tersebut.](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![Pelajar yang lebih berusia menunjukkan telefon latihan sementara pelajar baharu menyemak telefon lain dan pendidik membimbing perbandingan tersebut.](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 
 <!-- micrographic: pre-send-checklist-01 -->
@@ -29,4 +29,4 @@ Bagi [pembayaran dalam rantaian](https://curriculum.myfirstbitcoin.org/lexicon/e
 
 Jika destinasi berubah tanpa dijangka, permintaan menjadi mendesak, atau sesiapa meminta maklumat pemulihan, apakah yang patut anda lakukan? Berhenti. Sahkan permintaan itu secara bebas, atau minta bantuan tanpa berkongsi rahsia.
 
-![Pendidik membimbing pelajar baharu semasa mereka membandingkan telefon dengan peranti penerimaan pemilik perniagaan sebelum meluluskan pembayaran.](https://cdn.sanity.io/images/vje9ehw2/production/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)
+![Pendidik membimbing pelajar baharu semasa mereka membandingkan telefon dengan peranti penerimaan pemilik perniagaan sebelum meluluskan pembayaran.](https://cdn.sanity.io/images/vje9ehw2/staging/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)

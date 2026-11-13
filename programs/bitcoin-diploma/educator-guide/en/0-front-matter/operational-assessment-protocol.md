@@ -38,7 +38,7 @@ Choose a practical route that feels safe and manageable for the learners. Record
 [To plan a cohort, multiply the number of learners by the likely support and observation time, then add time for setup, feedback, access needs and reassessment. If the educators do not have enough time, change the plan: fewer learners, more educators or more time.](/micrographics/cohort-capacity-check-01/en.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
 
 ### Competency-to-evidence crosswalk
 

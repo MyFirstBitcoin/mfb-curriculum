@@ -30,4 +30,4 @@ Atelierul dumneavoastră poate include:
 
 Rezultatul atelierului dumneavoastră ar trebui să fie o explicație sau o abilitate, nu doar o [Tranzacție](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) finalizată.
 
-![Cadrul didactic și proprietarul afacerii exersează împreună folosind un telefon de instruire, amândoi privind ecranul orientat spre ei.](https://cdn.sanity.io/images/vje9ehw2/production/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)
+![Cadrul didactic și proprietarul afacerii exersează împreună folosind un telefon de instruire, amândoi privind ecranul orientat spre ei.](https://cdn.sanity.io/images/vje9ehw2/staging/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)

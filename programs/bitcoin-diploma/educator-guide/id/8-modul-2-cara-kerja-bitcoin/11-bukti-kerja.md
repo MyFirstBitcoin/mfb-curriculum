@@ -25,4 +25,4 @@ Gunakan klaim, bukti, dan pertimbangan untung-rugi:
 
 Statistik energi terperinci dan [penambangan](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) dari perspektif ekonomi tidak termasuk materi wajib Bitcoin Diploma. Gunakan keduanya hanya jika pendidik telah memverifikasi sumber terkini dan pembahasannya mendukung suatu kompetensi.
 
-![Pendidik dan peserta didik berlatar belakang teknis menunjuk perangkat penambangan dan perangkat node yang terpisah, sementara peserta didik yang lebih tua berpartisipasi dengan bantuan panduan.](https://cdn.sanity.io/images/vje9ehw2/production/c42a629a0dff84d04b37397d56a45bf146f7110b-1054x1492.png)
+![Pendidik dan peserta didik berlatar belakang teknis menunjuk perangkat penambangan dan perangkat node yang terpisah, sementara peserta didik yang lebih tua berpartisipasi dengan bantuan panduan.](https://cdn.sanity.io/images/vje9ehw2/staging/c42a629a0dff84d04b37397d56a45bf146f7110b-1054x1492.png)

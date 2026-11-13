@@ -10,7 +10,7 @@
 
 Susunod, itanong ninyo kung ano ang pinahihintulutan ng disenyo. Depende sa mga tuntunin, ang isang [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) ay maaaring magpahintulot ng mas mabilis na pag-areglo ng mga bayarin, mas malawak na akses, o mga bagong paraan ng pagbabayad. Maaari rin nitong bigyan ang mga institusyon ng higit na kakayahang subaybayan ang mga [transaksiyon](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), magpatupad ng mga tuntunin, magtakda ng mga limitasyon sa paggamit, o direktang iugnay ang pagkakakilanlan sa mga pagbabayad. Ito ay sentralisadong kontrol: isang institusyon, sa halip na mga karaniwang gumagamit na kumikilos nang malaya, ang nagtatakda o nagbabago ng mga kaugnay na tuntunin.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->

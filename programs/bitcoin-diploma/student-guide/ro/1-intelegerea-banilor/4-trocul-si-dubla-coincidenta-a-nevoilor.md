@@ -8,7 +8,7 @@
 
 Imaginați-vă că **Amina** are orez și dorește încălțăminte. **Luis** are încălțăminte, dar dorește ulei de gătit, nu orez. **Mei** are ulei de gătit și dorește servicii de reparații. Amina ar putea avea nevoie de mai multe schimburi înainte de a putea obține încălțămintea. Fiecare schimb necesită timp și un acord privind [valoarea](https://curriculum.myfirstbitcoin.org/lexicon/en/#value).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
 
 
 <!-- micrographic: barter-mismatch-01 -->
@@ -29,7 +29,7 @@ Banii acceptați pe scară largă separă vânzarea de cumpărare. Amina poate v
 
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
 
 <!-- micrographic: sell-then-buy-01 -->

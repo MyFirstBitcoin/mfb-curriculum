@@ -10,7 +10,7 @@
 
 Demandez-vous ensuite ce que permet le modèle retenu. Selon les règles, une [MNBC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) peut permettre un règlement plus rapide, un accès plus large ou de nouvelles fonctionnalités de paiement. Elle peut aussi donner aux institutions une plus grande capacité à surveiller les [transactions](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), à appliquer des règles, à limiter l’utilisation ou à relier directement l’identité aux paiements. Il s’agit d’un contrôle centralisé : une institution, plutôt que des utilisateurs ordinaires agissant de manière indépendante, fixe ou modifie les règles applicables.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->

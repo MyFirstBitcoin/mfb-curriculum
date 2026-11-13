@@ -32,4 +32,4 @@
 
 **Experimente:** Para um pagamento fictício pequeno e um pagamento fictício menos frequente, explique qual [trade-off](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) importa mais. Não escolha uma ferramenta nem um valor para os seus próprios fundos.
 
-![O educador ajuda os alunos mais velhos e os alunos com perfil técnico a comparar um celular, uma carteira hardware e um notebook.](https://cdn.sanity.io/images/vje9ehw2/production/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)
+![O educador ajuda os alunos mais velhos e os alunos com perfil técnico a comparar um celular, uma carteira hardware e um notebook.](https://cdn.sanity.io/images/vje9ehw2/staging/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)

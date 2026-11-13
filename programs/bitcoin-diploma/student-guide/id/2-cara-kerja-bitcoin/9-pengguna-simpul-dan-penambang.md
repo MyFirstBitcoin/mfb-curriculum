@@ -23,4 +23,4 @@ Sebagian orang menjalankan beberapa peran. Seorang [penambang](https://curriculu
 
 **Pertanyaan singkat:** Mengapa sebuah [simpul](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) memverifikasi [transaksi](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction)? Sebutkan setidaknya satu aturan yang diperiksa oleh sebuah [simpul](https://curriculum.myfirstbitcoin.org/lexicon/en/#node).
 
-![Pendidik membimbing peserta didik yang mempelajari aspek teknis di depan komputer simpul, dengan monitor menghadap keduanya dan bagian belakang monitor terlihat oleh pemirsa.](https://cdn.sanity.io/images/vje9ehw2/production/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)
+![Pendidik membimbing peserta didik yang mempelajari aspek teknis di depan komputer simpul, dengan monitor menghadap keduanya dan bagian belakang monitor terlihat oleh pemirsa.](https://cdn.sanity.io/images/vje9ehw2/staging/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)

@@ -26,11 +26,11 @@ Tài liệu Hướng dẫn dành cho Nhà giáo dục giúp quý vị chuẩn b�
 
 ### Tham gia một cộng đồng học tập
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
 
 Tổ chức [Mạng lưới Giáo dục Bitcoin](https://myfirstbitcoin.org/about/network) kết nối các nhà giáo dục độc lập và cộng đồng học tập địa phương. Hãy tìm một cộng đồng gần quý vị hoặc một cộng đồng có hoạt động mà quý vị quan tâm, rồi liên hệ để hỏi cách tham gia học tập, tình nguyện hoặc đóng góp. Việc tham gia là tùy chọn và không ảnh hưởng đến việc hoàn thành, đánh giá hay cấp chứng nhận của chương trình Bitcoin Diploma.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
 
 ### Lời nhắc về an toàn
 
@@ -92,13 +92,13 @@ Nếu nhà giáo dục cấp chứng nhận cung cấp phương thức xác minh
 
 Kết quả quan trọng nhất của quý vị không phải là chứng nhận. Đó là khả năng giải thích rõ ràng về tiền và Bitcoin, nhận diện rủi ro, xác minh trước khi hành động và tiếp tục tự học.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
 
 ### Ủng hộ giáo dục Bitcoin miễn phí
 
 Các tài nguyên giáo dục của My First Bitcoin được cung cấp miễn phí và có mã nguồn mở. Sự ủng hộ tự nguyện giúp duy trì giáo trình, đào tạo nhà giáo dục và mở rộng khả năng tiếp cận.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
 
 
 https://donate.myfirstbitcoin.org
@@ -112,4 +112,4 @@ Nếu quý vị chọn đóng góp, hãy sử dụng [trang quyên góp chính t
 ---
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)

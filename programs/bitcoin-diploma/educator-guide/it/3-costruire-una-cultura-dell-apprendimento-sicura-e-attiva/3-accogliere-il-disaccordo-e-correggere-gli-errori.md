@@ -11,4 +11,4 @@ Quando un partecipante non è d'accordo:
 
 Corregga gli errori fattuali con chiarezza e rispetto. Non eviti la correzione in nome della neutralità. Facilitare in modo neutrale significa applicare criteri equi di valutazione delle prove, non considerare ogni affermazione ugualmente accurata.
 
-![L'educatore ascolta la domanda del partecipante principiante mentre il partecipante più anziano segue la conversazione con una guida aperta.](https://cdn.sanity.io/images/vje9ehw2/production/53db81849bfb9bca1dba5e2f8d5e8386c01ca3b3-1053x1494.png)
+![L'educatore ascolta la domanda del partecipante principiante mentre il partecipante più anziano segue la conversazione con una guida aperta.](https://cdn.sanity.io/images/vje9ehw2/staging/53db81849bfb9bca1dba5e2f8d5e8386c01ca3b3-1053x1494.png)

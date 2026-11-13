@@ -17,4 +17,4 @@ Stabilisca questi accordi di partecipazione:
 * non rivelare mai una [seed phrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), una [chiave privata](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), una password o le proprie misure di sicurezza; e
 * interrompere l'attività pratica quando qualcosa differisce dalla procedura mostrata.
 
-![La giovane partecipante pone una domanda mentre l'educatore ascolta e gli altri quattro partecipanti seguono la discussione.](https://cdn.sanity.io/images/vje9ehw2/production/bf1185129657cd98555d2704565cf44deadbe59d-1054x1493.png)
+![La giovane partecipante pone una domanda mentre l'educatore ascolta e gli altri quattro partecipanti seguono la discussione.](https://cdn.sanity.io/images/vje9ehw2/staging/bf1185129657cd98555d2704565cf44deadbe59d-1054x1493.png)

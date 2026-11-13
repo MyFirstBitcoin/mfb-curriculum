@@ -9,7 +9,7 @@ Oamenii caută adesea alternative la păstrarea numerarului atunci când cred c�
 
 Un [activ](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) este ceva ce o persoană poate deține sau revendica și care poate avea [valoare](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); acesta nu îndeplinește automat toate funcțiile banilor. O locuință poate păstra [valoare](https://curriculum.myfirstbitcoin.org/lexicon/en/#value), dar nu este practică pentru cumpărarea alimentelor. O acțiune poate fi ușor de vândut într-o țară, dar inaccesibilă unei persoane fără un cont de brokeraj. [Aurul](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) a fost folosit ca bani de-a lungul unor perioade îndelungate din istorie, dar poate fi dificil de verificat sau de divizat în cadrul unui schimb de mică valoare.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 Oamenii pot alege și [valute străine](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency), [obligațiuni de stat](https://curriculum.myfirstbitcoin.org/lexicon/en/#bond), afaceri private, terenuri, unelte, educație sau alte [active](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset). Fiecare alegere implică un [cost de oportunitate](https://curriculum.myfirstbitcoin.org/lexicon/en/#opportunity-cost) și un risc. Nu există niciun [activ](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) care să garanteze [Putere de Cumpărare](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) în orice perioadă și situație.
 

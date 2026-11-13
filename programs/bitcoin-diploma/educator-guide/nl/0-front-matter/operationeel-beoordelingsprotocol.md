@@ -38,7 +38,7 @@ Kies een praktische aanpak die voor de leerlingen veilig en haalbaar aanvoelt. N
 [Om een groep te plannen, vermenigvuldigt u het aantal deelnemers met de verwachte begeleidings- en observatietijd en telt u daar tijd bij op voor voorbereiding, feedback, toegankelijkheidsbehoeften en herbeoordeling. Als de docenten niet genoeg tijd hebben, past u het plan aan: minder deelnemers, meer docenten of meer tijd.](/micrographics/cohort-capacity-check-01/nl.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
 
 ### Overzicht van competenties en bewijs
 

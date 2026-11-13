@@ -28,4 +28,4 @@ Bitcoins [Dezentralisierung](https://curriculum.myfirstbitcoin.org/lexicon/en/#d
 
 [Dezentralisierung](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) verursacht auch Kosten. Die Koordination kann langsamer sein. Nutzer müssen Informationen überprüfen und mehr Verantwortung übernehmen. Es gibt keinen zentralen Kundendienst für das [Bitcoin-Netzwerk](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). Diese [Zielkonflikte](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) sind Teil des Designs und keine zufälligen Mängel, die sich beseitigen ließen, ohne das System zu verändern.
 
-![Die Lehrkraft zeigt auf ein Netzwerk auf einem Bildschirm im Klassenzimmer, während die Anfängerin und der technisch versierte Lernende es an einem Tisch besprechen.](https://cdn.sanity.io/images/vje9ehw2/production/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)
+![Die Lehrkraft zeigt auf ein Netzwerk auf einem Bildschirm im Klassenzimmer, während die Anfängerin und der technisch versierte Lernende es an einem Tisch besprechen.](https://cdn.sanity.io/images/vje9ehw2/staging/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)

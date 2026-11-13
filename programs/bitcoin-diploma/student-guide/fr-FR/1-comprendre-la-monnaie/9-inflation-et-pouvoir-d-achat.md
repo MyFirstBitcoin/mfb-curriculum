@@ -13,7 +13,7 @@
 > [Le pouvoir d’achat](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) est la quantité de biens et services qu’une unité de monnaie permet d’acheter. Si le prix d’un panier de biens de première nécessité passe de 100 unités de [monnaie](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) à 110, les mêmes 100 unités ne permettent plus d’acheter le panier complet. Leur [pouvoir d’achat](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) par rapport à ce panier a diminué.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->

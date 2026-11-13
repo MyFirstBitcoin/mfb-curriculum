@@ -26,11 +26,11 @@
 
 ### Ενταχθείτε σε μια κοινότητα μάθησης
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
 
 Το [Δίκτυο Εκπαίδευσης για το Bitcoin](https://myfirstbitcoin.org/about/network) συνδέει ανεξάρτητους εκπαιδευτικούς και τοπικές κοινότητες μάθησης. Βρείτε μια κοινότητα κοντά σας ή κάποια της οποίας το έργο σάς ενδιαφέρει και επικοινωνήστε μαζί της για να ρωτήσετε πώς μπορείτε να μάθετε, να προσφέρετε εθελοντικά ή να συνεισφέρετε. Η συμμετοχή είναι προαιρετική και δεν επηρεάζει την ολοκλήρωση, την αξιολόγηση ή την πιστοποίηση του Διπλώματος.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
 
 ### Μια υπενθύμιση ασφαλείας
 
@@ -92,13 +92,13 @@
 
 Το σημαντικότερο αποτέλεσμα για εσάς δεν είναι το πιστοποιητικό. Είναι η ικανότητα να εξηγείτε με σαφήνεια το χρήμα και το Bitcoin, να αναγνωρίζετε τον κίνδυνο, να επαληθεύετε πριν ενεργήσετε και να συνεχίζετε να μαθαίνετε ανεξάρτητα.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
 
 ### Υποστηρίξτε τη δωρεάν εκπαίδευση για το Bitcoin
 
 Οι εκπαιδευτικοί πόροι του My First Bitcoin είναι δωρεάν και ανοικτού κώδικα. Η εθελοντική υποστήριξη συμβάλλει στη συντήρηση του προγράμματος σπουδών, στην κατάρτιση εκπαιδευτών και στη διεύρυνση της πρόσβασης.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
 
 
 https://donate.myfirstbitcoin.org
@@ -112,4 +112,4 @@ _Υποστηρίξτε το My First Bitcoin_
 ---
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)

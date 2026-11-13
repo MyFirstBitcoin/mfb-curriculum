@@ -6,4 +6,4 @@ Eenvoudige materialen kunnen de voorbereidingstijd en afleiding beperken, waardo
 
 Meer hulpmiddelen kunnen meer complexiteit met zich meebrengen. Voeg een hulpmiddel toe wanneer het leerlingen helpt iets te begrijpen of te oefenen, en houd een eenvoudig alternatief achter de hand. Richt u eerst op de kwaliteit van de betrokkenheid: doen de leerlingen mee, stellen ze vragen, leggen ze hun denkwijze uit en laten ze zien wat ze begrijpen? Kies de aanpak die dat leerproces ondersteunt.
 
-![De docent en een oudere leerling leggen lesKaartjes neer, terwijl de jonge leerling meedoet met een schrift.](https://cdn.sanity.io/images/vje9ehw2/production/f062a7d4ca6c0e188b299060e170b244e0ee7acb-1054x1492.png)
+![De docent en een oudere leerling leggen lesKaartjes neer, terwijl de jonge leerling meedoet met een schrift.](https://cdn.sanity.io/images/vje9ehw2/staging/f062a7d4ca6c0e188b299060e170b244e0ee7acb-1054x1492.png)

@@ -1,6 +1,6 @@
 # 2.10 Dowód pracy
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
 <!-- card: definition -->
@@ -29,4 +29,4 @@ Gdy [górnik](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) znajdzie 
 
 [Dowód pracy](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) wiąże się z rzeczywistym kosztem energetycznym. Zwolennicy twierdzą, że to właśnie ten koszt stanowi podstawę bezpieczeństwa sieci Bitcoin i może tworzyć popyt na energię, której pobór można elastycznie dostosowywać, lub energię, która w przeciwnym razie pozostałaby niewykorzystana. Krytycy kwestionują ilość i źródła zużywanej energii. Rzetelna ocena wymaga postawienia pytań o to, jaka energia jest wykorzystywana, skąd pochodzi, jakie bezpieczeństwo zapewnia i jakie alternatywy są porównywane.
 
-![Nauczyciel, początkujący uczeń i uczeń o wiedzy technicznej omawiają stołową koparkę z wentylatorem i oddzielnym zasilaczem.](https://cdn.sanity.io/images/vje9ehw2/production/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)
+![Nauczyciel, początkujący uczeń i uczeń o wiedzy technicznej omawiają stołową koparkę z wentylatorem i oddzielnym zasilaczem.](https://cdn.sanity.io/images/vje9ehw2/staging/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)

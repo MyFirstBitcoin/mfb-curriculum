@@ -4,7 +4,7 @@
 
 Likemann-til-likemann betyr ikke alltid at bare to datamaskiner kommuniserer direkte. En [transaksjon](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) kan gå gjennom lommebøker, internettleverandører og mange av nettverkets [noder](https://curriculum.myfirstbitcoin.org/lexicon/en/#node). Det viktige er at ingen sentral Bitcoin-operatør må godkjenne avsenderen eller mottakeren.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
 
 
 <!-- micrographic: peer-to-peer-route-01 -->

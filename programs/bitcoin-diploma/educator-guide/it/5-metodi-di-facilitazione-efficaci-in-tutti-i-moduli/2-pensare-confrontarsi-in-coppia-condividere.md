@@ -7,4 +7,4 @@ Utilizzi questo metodo quando alcuni discenti più sicuri di sé rischierebbero 
 1. Inviti alcune coppie selezionate a esporre il ragionamento, non solo la conclusione.
 1. Riassuma gli schemi emersi e corregga le idee errate.
 
-![L'educatore avvia una discussione mentre il principiante e i discenti più anziani confrontano le guide e la titolare dell'attività dà il suo contributo.](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![L'educatore avvia una discussione mentre il principiante e i discenti più anziani confrontano le guide e la titolare dell'attività dà il suo contributo.](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)

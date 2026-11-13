@@ -1,6 +1,6 @@
 # 3.14 Plăți on-chain și prin Lightning
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
@@ -30,4 +30,4 @@ Ce traseu de plată așteaptă destinatarul să folosiți? Înainte de a plăti,
 
 Imaginați-vă că un scenariu pregătit oferă ambele trasee de plată. Ce cerere poate utiliza Portofelul ales și ce ați verifica înainte de a o aproba? Răspunsul depinde de cererea de primire a plății, de Portofel și de situație — nu de un traseu universal „cel mai bun”.
 
-![Cadrul didactic indică pe o tablă două trasee geometrice diferite de plată, în timp ce cursanții începători și cei cu pregătire tehnică le analizează.](https://cdn.sanity.io/images/vje9ehw2/production/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)
+![Cadrul didactic indică pe o tablă două trasee geometrice diferite de plată, în timp ce cursanții începători și cei cu pregătire tehnică le analizează.](https://cdn.sanity.io/images/vje9ehw2/staging/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)

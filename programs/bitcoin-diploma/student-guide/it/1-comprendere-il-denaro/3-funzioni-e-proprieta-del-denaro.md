@@ -30,4 +30,4 @@ Le persone confrontano il denaro anche in base alla sua [**solidità**](https://
 
 **Pensi in modo critico:** indichi un momento in cui ha scelto un tipo di denaro o di [asset](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) piuttosto che un altro. Qual era lo scopo? Confronti le proprietà delle opzioni che avrebbe potuto utilizzare. Quali proprietà contavano di più per Lei, e perché?
 
-![Tutti e sei i personaggi collaborano a un'attività offline con schede didattiche mentre l'educatore guida la discussione.](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![Tutti e sei i personaggi collaborano a un'attività offline con schede didattiche mentre l'educatore guida la discussione.](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)

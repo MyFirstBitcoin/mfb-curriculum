@@ -26,11 +26,11 @@
 
 ### Приєднайтеся до навчальної спільноти
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
 
 Ця [мережа біткоїн-освіти](https://myfirstbitcoin.org/about/network) об’єднує незалежних викладачів і місцеві навчальні спільноти. Знайдіть спільноту поблизу вас або ту, чия діяльність вас цікавить, і зв’яжіться з нею, щоб дізнатися, як ви можете навчатися, стати волонтером чи зробити свій внесок. Участь є добровільною й не впливає на завершення курсу «Біткоїн-диплом», оцінювання чи отримання сертифіката.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
 
 ### Нагадування про безпеку
 
@@ -92,13 +92,13 @@
 
 Ваш найважливіший результат — не сертифікат. Це здатність зрозуміло пояснювати гроші та Біткоїн, розпізнавати ризики, перевіряти інформацію перед діями й продовжувати вчитися самостійно.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
 
 ### Підтримайте безкоштовну освіту про Біткоїн
 
 Освітні ресурси My First Bitcoin безкоштовні й відкриті. Добровільна підтримка допомагає підтримувати навчальну програму, готувати викладачів і розширювати доступ до навчання.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
 
 
 https://donate.myfirstbitcoin.org
@@ -112,4 +112,4 @@ _Підтримайте My First Bitcoin_
 ---
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)

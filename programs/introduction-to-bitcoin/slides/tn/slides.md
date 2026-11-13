@@ -19,7 +19,7 @@ Re dirisa madi letsatsi le letsatsi, mme ke ka sewelo re botsang gore a dira jan
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Batho ba le Bantsi ga ba ke ba Ipha Nako ya go Akanya ka Madi
 
@@ -29,7 +29,7 @@ E seng go e berekela, e seng go e dirisa, mme go akanya ka gore ke eng le gore e
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Dipotso tse Tlhano tsa go Simolola
 
@@ -49,7 +49,7 @@ E seng go e berekela, e seng go e dirisa, mme go akanya ka gore ke eng le gore e
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Ntlha kgotsa Kakanyo?
 
@@ -74,7 +74,7 @@ Madi ke sediriswa sa kananyo.
 
 Batho ka bobedi ba tshwanetse go batla se yo mongwe a nang le sone, ka nako e le nngwe le ka dilekanyo tse di tshwanetseng.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Dirisang sekai se se mo kaelong: lo lema reisi e bile lo tlhoka ditlhako, mme modiri wa ditlhako o batla leokwane la go apaya, e seng reisi. Baitshokonomi ba bitsa seno go nyalana gabedi ga dikeletso. -->
 
@@ -96,13 +96,13 @@ Batho ka bobedi ba tshwanetse go batla se yo mongwe a nang le sone, ka nako e le
 
 Ga go ope yo o batlang madi fela ka ntlha ya one. A na le mosola ka gonne ba bangwe ba a amogela, ba solofetse gore ba bangwe ba tla a amogela moragonyana.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Nouto ya banka ke pampiri fela. Madi a rarabolola bothata jwa go ananya dithoto ka go kgaoganya go rekisa le go reka: lo rekisetsa motho a le mongwe raese ya lona mme lo reke ditlhako mo go yo mongwe. Seno ke sone se se farologanyang madi le go ananya dithoto. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Dilo tse tharo tse madi a di dirang
 
@@ -114,7 +114,7 @@ Ga go na madi ape a a bolokang boleng ka botlalo, mme mefuta mengwe e latlhegelw
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Go Tswa mo Dikgapetleng go ya mo Pampiring
 
@@ -161,13 +161,13 @@ Fa batho ba utlwa lefoko tlhatlogo ya ditlhwatlhwa, gantsi ba akanya ka ditlhwat
 
 ## Tlhatlogo ya Ditlhwatlhwa le Maatla a go Reka
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Tlhatlogo ya ditlhwatlhwa ke koketsego e e tswelelang mo selekanyong sa kakaretso sa ditlhwatlhwa. Letlhakore le lengwe la yone ke maatla a go reka: selekanyo sa dilo tse yuniti e le nngwe ya madi e ka di rekang. Fa tlhwatlhwa ya seroto sa dithoto tsa motheo e tlhatloga go tswa go diyuniti tsa madi di le 100 go ya go di le 110, diyuniti tseo tse 100 ga di tlhole di kgona go reka seroto seo sotlhe. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Mabaka a Mantsi, Tlhopho e le Nngwe
 
@@ -285,7 +285,7 @@ bitcoin e le nngwe e kgaoganngwa ka diyuniti tse dinnye di le 100 000 000 tse di
 
 ## Ke mang yo o dirang gore Bitcoin e tswelele e dira?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Badirisi ba romela, ba amogela e bile ba boloka bitcoin; dikhomphiutha tse di mo netwekeng di tlhatlhoba tirisano nngwe le nngwe le boloko bongwe le bongwe go netefatsa gore di latela melao; baepi ba gaisanela go tsenya boloko jo bosha mo rekotong mo e ka nnang metsotso mengwe le mengwe e le lesome. Rekoto eo, e leng ketane ya diboloko, e ka bonwa ke mongwe le mongwe mme go e kwala sesha go ja madi a mantsi thata. Tlhokomeliso ka mokwalo: Bitcoin e e simololang ka tlhaka e kgolo ya B gantsi e kaya netweke kgotsa tsamaiso; bitcoin e e simololang ka tlhaka e nnye ya b e kaya madi ka boone. -->
 
@@ -330,7 +330,7 @@ Go tlhopha mokgwa wa go boloka ga se teko ya boleng jwa lona. Se se botlhokwa ke
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Polelwana ya Lona ya Peo ke Phitlhelelo e e Feletseng
 
@@ -350,7 +350,7 @@ Lenaane le le rulagantsweng la mafoko, gantsi a le 12 kgotsa 24, le le ka tlhagi
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Pele ga lo Dirisa Sekgwama Sepe
 
@@ -391,7 +391,7 @@ Lenaane le le rulagantsweng la mafoko, gantsi a le 12 kgotsa 24, le le ka tlhagi
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Emang, lo se ka lwa abelana ka sepe, lo se ka lwa romela sepe
 
@@ -426,7 +426,7 @@ Seno ke tshimologo fela.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Dipoloma ya Bitcoin
 

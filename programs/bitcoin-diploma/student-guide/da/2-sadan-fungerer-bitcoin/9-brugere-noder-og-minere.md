@@ -23,4 +23,4 @@ Nogle personer varetager flere roller. En [miner](https://curriculum.myfirstbitc
 
 **Kontrolspørgsmål:** Hvorfor skal en [node](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) verificere [transaktioner](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction)? Nævn mindst én regel, som en [node](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) kontrollerer.
 
-![Underviseren vejleder den teknisk orienterede kursist ved en nodecomputer, med skærmen vendt mod dem og skærmens bagside synlig for beskueren.](https://cdn.sanity.io/images/vje9ehw2/production/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)
+![Underviseren vejleder den teknisk orienterede kursist ved en nodecomputer, med skærmen vendt mod dem og skærmens bagside synlig for beskueren.](https://cdn.sanity.io/images/vje9ehw2/staging/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)

@@ -32,4 +32,4 @@
 
 **Inténtelo:** Para un pago ficticio pequeño y un pago ficticio menos frecuente, explique qué [equilibrio entre ventajas y desventajas](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) importa más. No elija una herramienta ni un monto para sus propios fondos.
 
-![El educador ayuda a los estudiantes de mayor edad y a los que tienen conocimientos técnicos a comparar un celular, una billetera de hardware y una computadora portátil.](https://cdn.sanity.io/images/vje9ehw2/production/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)
+![El educador ayuda a los estudiantes de mayor edad y a los que tienen conocimientos técnicos a comparar un celular, una billetera de hardware y una computadora portátil.](https://cdn.sanity.io/images/vje9ehw2/staging/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)

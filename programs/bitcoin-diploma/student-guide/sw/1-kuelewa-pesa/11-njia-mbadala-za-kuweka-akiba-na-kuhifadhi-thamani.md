@@ -9,7 +9,7 @@ Mara nyingi watu hutafuta njia mbadala za kushikilia pesa taslimu wanapoamini kw
 
 Kwa ujumla, [mali](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) ni kitu ambacho mtu anaweza kumiliki au kudai, ambacho kinaweza kuwa na [thamani](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); haitekelezi kiotomatiki kila kazi ya pesa. Nyumba inaweza kuhifadhi [thamani](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) lakini haifai kwa kununulia chakula. Hisa inaweza kuwa rahisi kuuza katika nchi moja lakini isipatikane kwa mtu asiye na akaunti ya udalali. [Dhahabu](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) imetumika kama pesa katika vipindi virefu vya historia lakini inaweza kuwa vigumu kuithibitisha au kuigawanya wakati wa ubadilishanaji mdogo.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 Watu wanaweza pia kuchagua [sarafu](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) za kigeni, [hati fungani](https://curriculum.myfirstbitcoin.org/lexicon/en/#bond) za serikali, biashara binafsi, ardhi, zana, elimu, au [mali](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) nyingine. Kila chaguo kinahusisha [gharama ya fursa](https://curriculum.myfirstbitcoin.org/lexicon/en/#opportunity-cost) na hatari. Hakuna [mali](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) inayohakikisha [nguvu ya ununuzi](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) katika kila kipindi na kila hali.
 

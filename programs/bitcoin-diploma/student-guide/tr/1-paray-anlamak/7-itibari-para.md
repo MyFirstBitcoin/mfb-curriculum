@@ -15,7 +15,7 @@
 [İtibari para sistemindeki aktörler ve aralarındaki akışlar: merkez bankası politikayı belirler ve bankalar arası takası sağlar, ticari bankalar müşterilerine karşı yükümlülükleri olan mevduatları tutar, ödeme hizmetleri talimatları iletir, devlet vergi toplar ve harcama yapar, vatandaşlar ve işletmeler ise ödeme yapar ve ödeme alır.](/micrographics/fiat-system-flows-01/tr.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
 <!-- card: light -->

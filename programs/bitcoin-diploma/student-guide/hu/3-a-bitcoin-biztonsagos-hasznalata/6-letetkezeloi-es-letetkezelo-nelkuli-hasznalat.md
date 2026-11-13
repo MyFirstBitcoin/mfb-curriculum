@@ -12,7 +12,7 @@ Ez a különbség fontos az ellenőrzés szempontjából. A Bitcoin szabályai �
 
 Egy **nem letétkezelői** vagy **önálló kulcskezelésű** tárcában ÖN rendelkezik a kulcsokkal. A tárca az Ön felhatalmazása alapján írja alá a [tranzakciókat](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction). Továbbra is fennállhatnak szoftveres, hardveres, szerver- vagy hálózati függőségek, de egyetlen [letétkezelőnek](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian) sem kell jóváhagynia egy érvényes, blokkláncon végrehajtott költést.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 
 <!-- micrographic: who-controls-keys-01 -->

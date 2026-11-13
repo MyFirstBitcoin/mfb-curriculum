@@ -28,7 +28,7 @@ This creates two important risks:
 [Liquidity risk: many depositors queue to withdraw today, and the bank lacks enough cash now even though its loans may be repaid later. Solvency risk: borrowers default on home loans, and the bank's assets become worth less than what it owes.](/micrographics/liquidity-vs-solvency-01/en.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
 
 
 

@@ -10,4 +10,4 @@ Il denaro orienta le scelte quotidiane riguardo al cibo, ai trasporti, al lavoro
 
 Mentre discute queste domande, presti attenzione alla differenza tra un fatto e un'opinione. «Questa banconota è accettata per il pagamento delle tasse» è un fatto che si può verificare. «Questa è la migliore forma di denaro» è un'opinione o una conclusione che richiede criteri e prove.
 
-![Tutti e sei i personaggi si riuniscono intorno ai banchi dell'aula mentre l'educatore guida una lettura condivisa da una guida del corso aperta.](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![Tutti e sei i personaggi si riuniscono intorno ai banchi dell'aula mentre l'educatore guida una lettura condivisa da una guida del corso aperta.](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)

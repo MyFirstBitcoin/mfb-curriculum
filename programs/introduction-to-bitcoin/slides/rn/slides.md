@@ -19,7 +19,7 @@ Dukoresha amahera buri musi, yamara ni gake twibaza ingene akora.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Abantu benshi ntibigera bafata akanya ko kwiyumvira ku mafaranga
 
@@ -29,7 +29,7 @@ Si ukuyikorera, si ukuyikoresha mu kugura, ahubwo ni ukwiyumvira ico ari co n'in
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Ibibazo bitanu vyo gutangura
 
@@ -49,7 +49,7 @@ Si ukuyikorera, si ukuyikoresha mu kugura, ahubwo ni ukwiyumvira ico ari co n'in
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Ukuri canke iciyumviro?
 
@@ -74,7 +74,7 @@ Amahera ni igikoresho co guhanahana.
 
 Umwe wese muri abo bantu babiri ategerezwa kuba ashaka ivyo uwundi afise, mu mwanya umwe kandi mu bwinshi bubereye.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Nimukoreshe akarorero kari mu gitabu c’ubuyobozi: murima umuceri kandi mukeneye ibirato, ariko uwukora ibirato ashaka amavuta yo guteka, ntashaka umuceri. Abahinga mu vy’ubutunzi ivyo bavyita uguhurirana kw’ivyo abantu bipfuza ku mpande zompi. -->
 
@@ -96,13 +96,13 @@ Abo bantu bompi bategerezwa kuba bashaka ivyo uwundi afise, mu gihe kimwe kandi 
 
 Nta muntu yipfuza amahera kugira gusa ayatunge. Afise akamaro kuko abandi bayemera, biteze ko n'abandi bazoyemera mu nyuma.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Inoti y’amahera ni urupapuro gusa. Amahera atorera umuti ingorane zo guhanahana ibidandazwa ku bindi mu gutandukanya kugurisha no kugura: mugurisha umuceri wanyu umuntu umwe, mukagura ibirato ku wundi. Ico ni co gitandukanya amahera n’uguhanahana ibidandazwa ku bindi. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Ibintu Bitatu Amahera Akora
 
@@ -114,7 +114,7 @@ Nta mafaranga azigama agaciro bimwe bitagira agahaze, ariko ubwoko bumwebumwe bw
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Kuva ku bikonoshwa gushika ku mpapuro
 
@@ -161,13 +161,13 @@ Iyo abantu bumvise ijambo ugutakaza agaciro kw'amahera, akenshi baca biyumvira i
 
 ## Iduga ry’ibiciro n’ubushobozi bwo kugura
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Iduga ry’ibiciro ni ukwiyongera kubandanya kw’urugero rusangi rw’ibiciro. Urundi ruhande rwaryo ni ubushobozi bwo kugura: ivyo igipimo kimwe c’amahera gishobora kugura. Iyo ikiguzi c’igiseke c’ibintu vy’ishimikiro kiduze kiva ku bipimo 100 vy’amahera kikaja kuri 110, vya bipimo 100 nyene ntibiba bigishobora kugura ico giseke cose. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Imvo Nyinshi, Ihitamwo Rimwe
 
@@ -285,7 +285,7 @@ bitcoin imwe igaburamwo uduce dutoduto 100 000 000 twitwa satoshis, canke sats.
 
 ## Ni nde atuma Bitcoin ibandanya gukora?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Abakoresha bararungika, bakakira kandi bakabika bitcoin; ibikoresho bihurikiye ku rubuga birasuzuma ko irungikwa ryose n’igice cose c’amakuru vyubahiriza amategeko; abacukuzi barahiganwa kugira bongere igice gishasha c’amakuru ku rutonde rw’ivyanditswe, hafi buri minota cumi. Urwo rutonde, ari rwo ruhererekane rw’ibice vy’amakuru rwitwa blockchain, rurashobora kubonwa na bose kandi kurusubira kwandika bisaba uburyo bwinshi cane. Icitonderwa ku nyandiko: Bitcoin itangurwa na B nkuru akenshi isobanura urubuga canke uburyo bukora; bitcoin itangurwa na b ntoya isobanura amahera ubwayo. -->
 
@@ -330,7 +330,7 @@ Guhitamwo uburyo bwo kubika si ikigeragezo c'agaciro kanyu. Igihambaye ni ukumen
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Amajambo yanyu yo kugarura atanga uburenganzira bwose bwo kwinjira
 
@@ -350,7 +350,7 @@ Urutonde rw'amajambo ashizwe ku murongo, akenshi aba 12 canke 24, rushobora guko
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Imbere y’uko mukoresha ikotomoni iyo ari yo yose
 
@@ -391,7 +391,7 @@ Urutonde rw'amajambo ashizwe ku murongo, akenshi aba 12 canke 24, rushobora guko
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Nimuhagarare, ntimusangize ikintu na kimwe, ntimurungike ikintu na kimwe
 
@@ -426,7 +426,7 @@ Iyi ni intango gusa.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Impamyabumenyi ya Bitcoin
 

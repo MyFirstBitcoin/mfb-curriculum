@@ -23,4 +23,4 @@ Wasu mutane suna gudanar da ayyuka da dama. Wani [mai haƙa](https://curriculum.
 
 **Tambayar nan take:** Me ya sa wani [mahaɗi](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) yake tantance [ma'amaloli](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction)? Ku ambaci aƙalla ƙa'ida ɗaya da wani [mahaɗi](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) yake bincikawa.
 
-![Malamin yana jagorantar ɗalibin fasaha a gaban kwamfutar mahaɗi, yayin da fuskar allon take kallonsu, kuma murfin bayansa yana bayyane ga mai kallon hoton.](https://cdn.sanity.io/images/vje9ehw2/production/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)
+![Malamin yana jagorantar ɗalibin fasaha a gaban kwamfutar mahaɗi, yayin da fuskar allon take kallonsu, kuma murfin bayansa yana bayyane ga mai kallon hoton.](https://cdn.sanity.io/images/vje9ehw2/staging/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)

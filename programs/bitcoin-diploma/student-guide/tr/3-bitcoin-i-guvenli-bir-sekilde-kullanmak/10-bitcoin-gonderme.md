@@ -18,7 +18,7 @@ Gönderme işlemi daha fazla dikkat gerektirir, çünkü geçerli bir Bitcoin [i
 1. Süreç size yabancıysa küçük bir test yapın.
 1. Yalnızca her öğe eşleştiğinde onaylayın; ardından ödeme sonucunu kontrol edin.
 
-![Yaşça büyük öğrenci bir eğitim telefonunu gösterirken yeni başlayan öğrenci başka bir telefonu kontrol ediyor ve eğitmen karşılaştırmaya rehberlik ediyor.](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![Yaşça büyük öğrenci bir eğitim telefonunu gösterirken yeni başlayan öğrenci başka bir telefonu kontrol ediyor ve eğitmen karşılaştırmaya rehberlik ediyor.](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 
 <!-- micrographic: pre-send-checklist-01 -->
@@ -29,4 +29,4 @@ Bir [zincir üstü ödeme](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-
 
 Hedef beklenmedik şekilde değişirse, talep aciliyet kazanırsa veya biri kurtarma bilgilerini isterse ne yapmalısınız? Durun. Talebi bağımsız olarak doğrulayın ya da sırlarınızı paylaşmadan yardım isteyin.
 
-![Eğitmen, yeni başlayan öğrenciye bir ödemeyi onaylamadan önce bir telefonu işletme sahibinin alım cihazıyla karşılaştırırken rehberlik ediyor.](https://cdn.sanity.io/images/vje9ehw2/production/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)
+![Eğitmen, yeni başlayan öğrenciye bir ödemeyi onaylamadan önce bir telefonu işletme sahibinin alım cihazıyla karşılaştırırken rehberlik ediyor.](https://cdn.sanity.io/images/vje9ehw2/staging/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)

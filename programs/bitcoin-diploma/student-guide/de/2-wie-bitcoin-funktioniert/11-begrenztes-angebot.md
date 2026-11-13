@@ -44,4 +44,4 @@ Die Grenze von 21 Millionen wird von [Nodes](https://curriculum.myfirstbitcoin.o
 > Ein begrenztes Angebot bedeutet auch nicht, dass jeder bitcoin zum Verkauf steht; manche werden möglicherweise langfristig gehalten oder sind unzugänglich geworden, weil Schlüssel verloren gegangen sind.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

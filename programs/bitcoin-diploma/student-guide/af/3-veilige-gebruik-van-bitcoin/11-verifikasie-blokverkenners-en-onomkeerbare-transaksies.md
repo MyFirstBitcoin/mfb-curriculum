@@ -22,4 +22,4 @@ Om 'n voorbereide [Transaksie](https://curriculum.myfirstbitcoin.org/lexicon/en/
 [’n Transaksie wag onbevestig in die wagpoel, word dan in Blok N ingesluit vir sy eerste bevestiging, en elke daaropvolgende blok voeg nog een by.](/micrographics/confirmation-timeline-01/af.md)
 
 
-![Die opvoeder en die ouer leerder bespreek 'n voorbereide voorbeeld op 'n monitor wat na die groep wys, terwyl die tegniese leerder die muis hanteer; die kyker sien die agterkant van die monitor se omhulsel.](https://cdn.sanity.io/images/vje9ehw2/production/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)
+![Die opvoeder en die ouer leerder bespreek 'n voorbereide voorbeeld op 'n monitor wat na die groep wys, terwyl die tegniese leerder die muis hanteer; die kyker sien die agterkant van die monitor se omhulsel.](https://cdn.sanity.io/images/vje9ehw2/staging/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)

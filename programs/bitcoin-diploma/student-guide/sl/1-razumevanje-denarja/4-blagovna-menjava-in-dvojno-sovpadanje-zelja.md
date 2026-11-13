@@ -8,7 +8,7 @@
 
 Predstavljajte si, da **Amina** ima riž in želi čevlje. **Luis** ima čevlje, vendar želi jedilno olje, ne riža. **Mei** ima jedilno olje in želi storitev popravila. Amina bo morda potrebovala več izmenjav, preden bo lahko dobila čevlje. Vsaka izmenjava zahteva čas in dogovor o [vrednosti](https://curriculum.myfirstbitcoin.org/lexicon/en/#value).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
 
 
 <!-- micrographic: barter-mismatch-01 -->
@@ -29,7 +29,7 @@ Splošno sprejet denar loči prodajo od nakupa. Amina lahko eni osebi proda riž
 
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
 
 <!-- micrographic: sell-then-buy-01 -->

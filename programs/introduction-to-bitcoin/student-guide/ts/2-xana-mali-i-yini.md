@@ -12,9 +12,9 @@ Eka maendlelo yo cincana hi nhundzu, ku xaviselana ku tirha ntsena loko vanhu ha
 
 I **xitirhisiwa xo cincana**: vanhu va yi amukela loko va hakeriwa. I **yuniti yo hlayela**: minxavo yi kombisiwa hi yona, kutani hi nga pimanisa nkoka wa swilo swo hambana. Naswona i **xihlayiselo xa nkoka**: yi hundzisela nkoka ku suka namuntlha ku ya enkarhini lowu taka. A ku na mali leyi hlayisaka nkoka hi ku hetiseka, kambe tinxaka tin'wana ti lahlekeriwa hi vuswikoti byo xava hi ku nonoka ku feta tin'wana.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Ematin'wini hinkwawu, swilo swo tala swi tirhisiwe tani hi mali: swikamba, munyu, vuhlalu, swifuwo, koporo, silivhere ni nsuku. Tinsimbi ta risima ti sungule ku tirhisiwa ngopfu hikuva a ti kala, ti tiya naswona ti amukeleka etindhawini to tala. Kambe ku rhwala ni ku sirhelela nsimbi swa tika, kutani tibangi ti sungule ku humesa maphepha lama nyikaka n'winyi mfanelo yo kuma mpimo lowu vekiweke wa nsimbi. Eka tinxaka to hambana ta **mpimanyeto wa nsuku**, yuniti ya mali a yi hlanganisiwe hi nawu ni mpimo wo karhi wa nsuku. Milawu a yi hambana hi ku ya hi ndhawu ni nkarhi.
 

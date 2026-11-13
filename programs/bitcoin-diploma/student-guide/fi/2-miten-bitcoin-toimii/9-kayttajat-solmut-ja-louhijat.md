@@ -23,4 +23,4 @@ Jotkut ihmiset toimivat useissa rooleissa. [Louhija](https://curriculum.myfirstb
 
 **Pikakysymys:** Miksi [solmu](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) tarkistaa [transaktioita](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction)? Nimetkää vähintään yksi sääntö, jonka [solmu](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) tarkistaa.
 
-![Opettaja opastaa tekniikkaan perehtyvää opiskelijaa solmutietokoneen ääressä. Näyttö on heitä kohti, ja sen takakotelo näkyy katsojalle.](https://cdn.sanity.io/images/vje9ehw2/production/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)
+![Opettaja opastaa tekniikkaan perehtyvää opiskelijaa solmutietokoneen ääressä. Näyttö on heitä kohti, ja sen takakotelo näkyy katsojalle.](https://cdn.sanity.io/images/vje9ehw2/staging/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)

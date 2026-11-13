@@ -10,7 +10,7 @@
 
 Ezután azt kérdezze meg, mit tesz lehetővé az adott kialakítás. A szabályoktól függően a [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) gyorsabb elszámolást, szélesebb körű hozzáférést vagy új fizetési funkciókat tehet lehetővé. Az intézményeknek nagyobb lehetőséget adhat a [tranzakciók](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) megfigyelésére, szabályok alkalmazására, a használat korlátozására vagy a személyazonosság és a fizetések közvetlen összekapcsolására is. Ez központosított ellenőrzést jelent: a vonatkozó szabályokat egy intézmény határozza meg vagy módosítja, nem pedig a hétköznapi felhasználók önállóan.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->

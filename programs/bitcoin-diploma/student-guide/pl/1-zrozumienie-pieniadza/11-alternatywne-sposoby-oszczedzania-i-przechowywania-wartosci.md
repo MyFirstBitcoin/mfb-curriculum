@@ -9,7 +9,7 @@ Ludzie często szukają alternatyw dla trzymania gotówki, gdy sądzą, że stra
 
 Pojedynczy [składnik aktywów](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) to coś, co dana osoba może posiadać lub do czego może mieć prawo i co może mieć [wartość](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); nie pełni on automatycznie wszystkich funkcji pieniądza. Dom może przechowywać [wartość](https://curriculum.myfirstbitcoin.org/lexicon/en/#value), ale nie jest praktycznym środkiem do kupowania żywności. Akcję może być łatwo sprzedać w jednym kraju, ale może ona być niedostępna dla osoby bez rachunku maklerskiego. [Złoto](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) służyło jako pieniądz przez długie okresy w historii, ale podczas drobnej wymiany trudno może być sprawdzić jego autentyczność lub je podzielić.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 Ludzie mogą również wybrać obcą [walutę](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency), skarbowe [obligacje](https://curriculum.myfirstbitcoin.org/lexicon/en/#bond), prywatne przedsiębiorstwa, ziemię, narzędzia, edukację lub inne [aktywa](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset). Każdy wybór wiąże się z [kosztem alternatywnym](https://curriculum.myfirstbitcoin.org/lexicon/en/#opportunity-cost) i ryzykiem. Nie istnieje [składnik aktywów](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset), który gwarantuje [siłę nabywczą](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) w każdym okresie i każdej sytuacji.
 

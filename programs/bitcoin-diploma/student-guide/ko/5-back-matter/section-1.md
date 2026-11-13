@@ -26,11 +26,11 @@
 
 ### 학습 커뮤니티에 참여하기
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
 
 독립 교육자와 지역 학습 커뮤니티를 연결하는 곳은 [비트코인 교육 네트워크](https://myfirstbitcoin.org/about/network)예요. 가까운 커뮤니티나 관심 있는 활동을 하는 커뮤니티를 찾아 연락하고, 어떻게 배우거나 자원봉사하거나 기여할 수 있는지 문의해 보세요. 참여는 선택 사항이며 디플로마 수료, 평가 또는 인증에 영향을 주지 않아요.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
 
 ### 안전 수칙 다시 보기
 
@@ -92,13 +92,13 @@
 
 가장 중요한 성과는 인증서가 아니에요. 돈과 비트코인을 명확하게 설명하고, 위험을 알아차리고, 행동하기 전에 확인하고, 스스로 계속 배워 나가는 능력이에요.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
 
 ### 무료 비트코인 교육 후원하기
 
 My First Bitcoin의 교육 자료는 무료이며 오픈 소스예요. 자발적인 후원은 커리큘럼을 유지하고, 교육자를 양성하고, 접근성을 넓히는 데 도움이 돼요.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
 
 
 https://donate.myfirstbitcoin.org
@@ -112,4 +112,4 @@ _My First Bitcoin 후원하기_
 ---
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)

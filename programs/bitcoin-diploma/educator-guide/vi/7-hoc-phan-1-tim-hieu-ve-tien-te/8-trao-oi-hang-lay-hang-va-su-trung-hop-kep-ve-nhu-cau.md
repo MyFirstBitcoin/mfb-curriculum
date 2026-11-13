@@ -25,4 +25,4 @@ Làm rõ rằng [trao đổi hàng đổi hàng](https://curriculum.myfirstbitco
 
 Nếu sử dụng trò chơi, hãy cùng thảo luận sau khi chơi để làm rõ những khía cạnh đã được đơn giản hóa. Trao đổi trong thực tế bao gồm các mối quan hệ, tín dụng, quà tặng, nghĩa vụ, thương lượng, pháp luật và sự tương tác lặp lại.
 
-![Giảng viên điều phối một hoạt động trao đổi trực tiếp giữa người mới bắt đầu đang cầm một quyển vở và chủ doanh nghiệp đang cầm thực phẩm.](https://cdn.sanity.io/images/vje9ehw2/production/48813fb8d9434061c5c546898f4023f8748e9edd-1054x1492.png)
+![Giảng viên điều phối một hoạt động trao đổi trực tiếp giữa người mới bắt đầu đang cầm một quyển vở và chủ doanh nghiệp đang cầm thực phẩm.](https://cdn.sanity.io/images/vje9ehw2/staging/48813fb8d9434061c5c546898f4023f8748e9edd-1054x1492.png)

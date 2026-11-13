@@ -38,7 +38,7 @@ Zvolte praktický postup, který studující vnímají jako bezpečný a zvládn
 [Při plánování výuky pro skupinu vynásobte počet studujících předpokládaným časem na podporu a pozorování každého z nich. Poté přidejte čas na přípravu, zpětnou vazbu, zajištění přístupnosti a opakované hodnocení. Pokud vyučující nemají dostatek času, upravte plán: méně studujících, více vyučujících nebo více času.](/micrographics/cohort-capacity-check-01/cs.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
 
 ### Přehled propojení kompetencí s doklady o jejich zvládnutí
 

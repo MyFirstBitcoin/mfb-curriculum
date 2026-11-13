@@ -23,7 +23,7 @@ Kun avaatte moduulin oppaan, noudattakaa joka kerta samaa järjestystä:
 
 Otsikot toistuvat tarkoituksella. Toisto auttaa uutta opettajaa löytämään etsimänsä, eikä se ole ulkoa opeteltavaa sisältöä.
 
-![Opettaja osoittaa kaaviota avoimessa kurssioppaassa samalla kun aloittelija ja vanhempi oppija seuraavat omista oppaistaan.](https://cdn.sanity.io/images/vje9ehw2/production/f4e6dd8cd876afad89cef117fc6845f0b599f408-1054x1492.png)
+![Opettaja osoittaa kaaviota avoimessa kurssioppaassa samalla kun aloittelija ja vanhempi oppija seuraavat omista oppaistaan.](https://cdn.sanity.io/images/vje9ehw2/staging/f4e6dd8cd876afad89cef117fc6845f0b599f408-1054x1492.png)
 
 ### Ilmauksia, joita voitte käyttää ollessanne epävarmoja
 

@@ -28,7 +28,7 @@ Nagdudulot ito ng dalawang mahalagang panganib:
 [Panganib sa likididad: maraming depositor ang pumipila upang mag-withdraw ngayon, at kulang ang salapi ng bangko sa kasalukuyan kahit na maaaring mabayaran pa ang mga pautang nito sa kalaunan. Panganib sa kakayahang magbayad ng utang: hindi nababayaran ng mga nangutang ang kanilang mga pautang sa pabahay, at bumababa ang halaga ng mga ari-arian ng bangko nang mas mababa sa mga obligasyon nito.](/micrographics/liquidity-vs-solvency-01/tl.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
 
 
 

@@ -9,7 +9,7 @@
 > 이름이 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc)든 [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc)든 저절로 최선이 되는 것은 아니에요. 실제 경로를 비교하고, 규칙이 불분명할 때는 최신 현지 지침을 참고하세요. 또한 [프라이버시](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy)를 추구하느라 현지 법을 어기거나 스스로를 신체적 위험에 노출하지 마세요.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
 일반적으로 [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) 서비스는 법적 이름, 신분증, 주소, 사진, 자금 출처 정보 또는 기타 기록을 요구할 수 있어요. 이를 통해 서비스는 현지 규정을 준수하고, 은행과 연결하고, 더 높은 한도를 설정하거나, 계정 복구를 지원할 수 있어요.
 

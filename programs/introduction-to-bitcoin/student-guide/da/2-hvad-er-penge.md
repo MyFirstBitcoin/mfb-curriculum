@@ -12,9 +12,9 @@ I et byttesystem fungerer handel kun, når begge parter ønsker det, den anden h
 
 De er et **betalingsmiddel**: folk accepterer dem som betaling. De er en **regneenhed**: priser udtrykkes i dem, så vi kan sammenligne værdien af forskellige ting. Og de er et **værdiopbevaringsmiddel**: de overfører værdi fra i dag til fremtiden. Ingen penge bevarer værdi perfekt, men nogle former mister købekraft langsommere end andre.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Gennem historien har mange ting fungeret som penge: skaller, salt, perler, husdyr, kobber, sølv og guld. Ædelmetaller blev udbredt, fordi de var knappe, holdbare og bredt accepterede. Men det er vanskeligt at transportere og beskytte metal, så banker begyndte at udstede tilgodebeviser på papir, som kunne indløses til en angivet mængde metal. Under forskellige udgaver af en **guldstandard** var en valutaenhed ved lov knyttet til en mængde guld. Reglerne varierede fra sted til sted og fra periode til periode.
 

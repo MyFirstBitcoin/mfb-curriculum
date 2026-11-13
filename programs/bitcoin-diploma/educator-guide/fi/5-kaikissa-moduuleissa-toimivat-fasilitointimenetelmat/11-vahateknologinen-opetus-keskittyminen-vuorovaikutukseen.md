@@ -6,4 +6,4 @@ Yksinkertaiset materiaalit voivat vähentää valmisteluun kuluvaa aikaa ja häi
 
 Useammat työkalut voivat lisätä monimutkaisuutta. Ottakaa työkalu käyttöön, kun se auttaa oppijoita ymmärtämään tai harjoittelemaan jotakin, ja pitäkää yksinkertainen vaihtoehto valmiina. Keskittykää ensin osallistumisen laatuun: osallistuvatko oppijat, esittävätkö he kysymyksiä, selittävätkö he ajatteluaan ja osoittavatko he, mitä ymmärtävät? Valitkaa lähestymistapa, joka tukee tätä oppimista.
 
-![Opettaja ja vanhempi oppija järjestävät opetuskortteja, kun taas nuori oppija osallistuu muistivihkon kanssa.](https://cdn.sanity.io/images/vje9ehw2/production/f062a7d4ca6c0e188b299060e170b244e0ee7acb-1054x1492.png)
+![Opettaja ja vanhempi oppija järjestävät opetuskortteja, kun taas nuori oppija osallistuu muistivihkon kanssa.](https://cdn.sanity.io/images/vje9ehw2/staging/f062a7d4ca6c0e188b299060e170b244e0ee7acb-1054x1492.png)

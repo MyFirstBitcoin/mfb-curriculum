@@ -1,6 +1,6 @@
 # 4.8 Caminhos locais de entrada e saída (on-ramp e off-ramp)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/16d4da9fcdbc76a89acbef6bf760d3199ea7a843-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/16d4da9fcdbc76a89acbef6bf760d3199ea7a843-1536x1024.svg)
 
 Uma [**rampa de entrada**](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-ramp) é um caminho que leva do dinheiro local, do trabalho ou de outro [ativo](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) para o bitcoin. Uma [**rampa de saída**](https://curriculum.myfirstbitcoin.org/lexicon/en/#off-ramp) é um caminho que leva do bitcoin para o dinheiro local, bens ou serviços. O mesmo caminho pode cumprir as duas funções.
 
@@ -14,7 +14,7 @@ Os caminhos locais podem incluir:
 * usar um serviço de pagamento que faz a conversão entre bitcoin e moeda fiduciária
 * participar de uma economia circular local
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8ad6c3106c57d796cf1b415d6a8104b043e6a215-776x978.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8ad6c3106c57d796cf1b415d6a8104b043e6a215-776x978.svg)
 
 Compare o **trajeto completo**, e não apenas a primeira taxa. Um serviço pode anunciar uma taxa de compra baixa, mas usar uma [taxa de câmbio](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate) desfavorável ou cobrar pelo saque. Um caminho Peer-to-Peer (P2P) pode parecer privado, mas exigir tempo, confiança e segurança física.
 

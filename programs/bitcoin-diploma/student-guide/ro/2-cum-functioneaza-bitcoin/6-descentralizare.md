@@ -28,4 +28,4 @@ Un [Sistem Centralizat](https://curriculum.myfirstbitcoin.org/lexicon/en/#centra
 
 [Decentralizarea](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) generează și costuri. Coordonarea poate fi mai lentă. Utilizatorii trebuie să verifice informațiile și să își asume mai multă responsabilitate. Nu există un serviciu central de asistență pentru [rețeaua Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). Aceste [compromisuri](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) fac parte din proiectarea sistemului, nu sunt defecte accidentale care pot fi eliminate fără a schimba sistemul.
 
-![Cadrul didactic indică o rețea pe un ecran din sala de clasă, în timp ce cursanții începători și cei cu pregătire tehnică discută despre aceasta la o masă.](https://cdn.sanity.io/images/vje9ehw2/production/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)
+![Cadrul didactic indică o rețea pe un ecran din sala de clasă, în timp ce cursanții începători și cei cu pregătire tehnică discută despre aceasta la o masă.](https://cdn.sanity.io/images/vje9ehw2/staging/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)

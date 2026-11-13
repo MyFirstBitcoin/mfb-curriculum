@@ -15,7 +15,7 @@ Fiat-rahajärjestelmässä on useita keskeisiä toimijoita:
 [Fiat-rahajärjestelmän toimijat ja niiden väliset virrat: keskuspankki määrittää rahapolitiikan ja selvittää pankkien väliset maksut, liikepankit pitävät hallussaan talletuksia, jotka ovat niiden velkaa asiakkaille, maksupalvelut välittävät maksuohjeita, valtio kerää veroja ja käyttää varoja, ja kansalaiset ja yritykset maksavat ja saavat maksuja.](/micrographics/fiat-system-flows-01/fi.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
 <!-- card: light -->

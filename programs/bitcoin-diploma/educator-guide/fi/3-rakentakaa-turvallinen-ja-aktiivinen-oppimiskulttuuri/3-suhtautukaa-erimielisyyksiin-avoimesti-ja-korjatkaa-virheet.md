@@ -11,4 +11,4 @@ Kun oppija on eri mieltä:
 
 Korjatkaa asiavirheet selkeästi ja kunnioittavasti. Älkää välttäkö korjaamista puolueettomuuden nimissä. Puolueeton ohjaus tarkoittaa näytön arvioimista tasapuolisin kriteerein, ei kaikkien väitteiden pitämistä yhtä paikkansapitävinä.
 
-![Opettaja kuuntelee aloittelevan oppijan kysymystä, kun taas vanhempi oppija seuraa keskustelua opas avoinna edessään.](https://cdn.sanity.io/images/vje9ehw2/production/53db81849bfb9bca1dba5e2f8d5e8386c01ca3b3-1053x1494.png)
+![Opettaja kuuntelee aloittelevan oppijan kysymystä, kun taas vanhempi oppija seuraa keskustelua opas avoinna edessään.](https://cdn.sanity.io/images/vje9ehw2/staging/53db81849bfb9bca1dba5e2f8d5e8386c01ca3b3-1053x1494.png)

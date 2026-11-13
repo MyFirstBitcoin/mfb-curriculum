@@ -15,7 +15,7 @@ Undervis i konsekvenserne:
 [En seed phrase er en ordnet liste af ord, her tolv nummererede eksempelord skrevet på papir. De rigtige ord i den rigtige rækkefølge kan genoprette kontrollen i en kompatibel wallet, så listen holdes hemmelig og offline.](/micrographics/seed-phrase-on-paper-01/da.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
 
 #### Gør aldrig dette i undervisningen
 
@@ -56,4 +56,4 @@ Undervis i konsekvenserne:
 
 Arv, [multisignatur](https://curriculum.myfirstbitcoin.org/lexicon/en/#multisignature)-design, avancerede adgangsfraser og planlægning af gendannelse af store værdier kan kræve avancerede sikkerhedsforanstaltninger og professionel juridisk rådgivning. De ligger uden for de obligatoriske færdighedskrav i Bitcoin Diploma.
 
-![Underviseren leder en diskussion om gendannelsesberedskab, mens den ældre kursist lægger et blankt øvelseskort i en kuvert, og den teknisk kyndige kursist ser på.](https://cdn.sanity.io/images/vje9ehw2/production/23cdb205174fa99b2d0df47ef606b53f8329f152-1054x1492.png)
+![Underviseren leder en diskussion om gendannelsesberedskab, mens den ældre kursist lægger et blankt øvelseskort i en kuvert, og den teknisk kyndige kursist ser på.](https://cdn.sanity.io/images/vje9ehw2/staging/23cdb205174fa99b2d0df47ef606b53f8329f152-1054x1492.png)

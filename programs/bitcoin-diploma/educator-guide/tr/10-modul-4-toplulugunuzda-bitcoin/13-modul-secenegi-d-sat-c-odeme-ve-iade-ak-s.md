@@ -25,4 +25,4 @@ Ele alınacak konular:
 
 **Değerlendirme:** Bir iadeyi, orijinal olduğu varsayılan bir adrese otomatik olarak göndermek neden güvensizdir? Birden fazla personel tek bir cüzdanı paylaştığında sorumluluk kime geçer?
 
-![Eğitmen boş bir kayıt kartını gösterirken, yeni başlayan kişi ve işyeri sahibi bir satış tezgâhında eğitim telefonlarını kontrol ediyor.](https://cdn.sanity.io/images/vje9ehw2/production/7c785fef5d3b3be3d4a60aa9cfa250f74e18d1ec-1054x1493.png)
+![Eğitmen boş bir kayıt kartını gösterirken, yeni başlayan kişi ve işyeri sahibi bir satış tezgâhında eğitim telefonlarını kontrol ediyor.](https://cdn.sanity.io/images/vje9ehw2/staging/7c785fef5d3b3be3d4a60aa9cfa250f74e18d1ec-1054x1493.png)

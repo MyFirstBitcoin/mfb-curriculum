@@ -30,4 +30,4 @@ Ludzie porównują pieniądz również pod względem jego [**solidności**](http
 
 **Proszę myśleć krytycznie:** Proszę przypomnieć sobie sytuację, w której wybrali Państwo jeden rodzaj pieniądza lub [składnik aktywów](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) zamiast innego. Jaki był cel tego wyboru? Proszę porównać właściwości dostępnych wówczas opcji. Które właściwości były dla Państwa najważniejsze i dlaczego?
 
-![Wszystkie sześć postaci współpracuje podczas ćwiczenia z kartami dydaktycznymi bez użycia internetu, a osoba prowadząca zajęcia kieruje dyskusją.](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![Wszystkie sześć postaci współpracuje podczas ćwiczenia z kartami dydaktycznymi bez użycia internetu, a osoba prowadząca zajęcia kieruje dyskusją.](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)

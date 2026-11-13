@@ -18,4 +18,4 @@ Bitcoin menciptakan bentuk digital dari [kelangkaan](https://curriculum.myfirstb
 [Batas pasokan yang tertulis di situs web atau dalam basis data penerbit dapat diubah secara diam-diam oleh penerbit tersebut. Aturan pasokan Bitcoin terbuka untuk umum, dan tanda tangan, riwayat yang terbuka untuk umum, bukti kerja, serta verifikasi oleh simpul bersama-sama mencegah penciptaan koin baru atau pembelanjaan bitcoin yang sama dua kali.](/micrographics/claimed-or-verified-supply-01/id.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)

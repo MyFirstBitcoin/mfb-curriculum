@@ -15,4 +15,4 @@ Msitumie pochi ya mafunzo wala taarifa zake za urejeshaji kulinda fedha za thama
 
 Lengo si kufanya urejeshaji uonekane rahisi. Ni kuelewa mchakato kabla hitilafu ya kifaa haijasababisha shinikizo.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/424d932ace1728a75636a76182ae9a42621ed91c-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/424d932ace1728a75636a76182ae9a42621ed91c-1536x1024.svg)

@@ -8,7 +8,7 @@
 
 Mi történne, ha az Ön telefonja elromlana? A Bitcoin nyilvántartása továbbra is megmaradna, de a hozzáférés a tárca által használt kulcsoktól és helyreállítási módszertől függne. A tárca segít a fogadáshoz szükséges adatok létrehozásában, az egyenlegek és a [tranzakciós](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) előzmények megjelenítésében, valamint a költés engedélyezésében. Ettől még fontos megérteni, hogy ki rendelkezik a hozzáférés felett.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
 
 
 <!-- card: dark -->
@@ -33,4 +33,4 @@ Hasonlítsa össze a következő szempontokat: [letétkezelés](https://curricul
 > A Diploma képzés során a gyakorlás részeként sor kerülhet tárca létrehozására vagy a következők feljegyzésére: [helyreállító szavak](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase). A tanterem tanulási környezet: az információkat mások is láthatják, lemásolhatják, megoszthatják, vagy azok véletlenül illetéktelen kezekbe kerülhetnek. Ezért a gyakorlótárcának rendszerint üresnek vagy szimuláltnak kell lennie, és nem szabad jelentős pénzösszegek biztonságos tárolására használni. Amennyiben megoldható, a Diploma képzés végén a tárcát lezárják, alaphelyzetbe állítják vagy visszaadják. Az oktató választhat kis téttel járó, valódi tranzakciókat használó gyakorlatot, de mielőtt bárki részt venne benne, ismertetnie kell annak célját, valamint az ezzel járó további adatvédelmi és biztonsági kockázatokat és a veszteség kockázatát. A jelentős pénzösszegek biztonságos tárolására szánt tárcához új, bizalmas körülmények között végzett beállítás és új helyreállítási adatok szükségesek. Az oktató elmagyarázhatja a különbséget, de a Diploma képzés elvégzéséhez Önnek soha nem kötelező személyes tárcát létrehoznia.
 
 
-![Az oktató bemutat egy gyakorlásra használt telefont, miközben a kezdő és az idősebb tanulók a saját eszközeiket vizsgálják.](https://cdn.sanity.io/images/vje9ehw2/production/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)
+![Az oktató bemutat egy gyakorlásra használt telefont, miközben a kezdő és az idősebb tanulók a saját eszközeiket vizsgálják.](https://cdn.sanity.io/images/vje9ehw2/staging/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)

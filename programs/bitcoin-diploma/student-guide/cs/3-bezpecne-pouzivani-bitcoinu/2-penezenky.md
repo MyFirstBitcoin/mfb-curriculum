@@ -8,7 +8,7 @@
 
 Co by se stalo, kdyby váš telefon přestal fungovat? Záznam v síti Bitcoin by stále existoval, ale přístup by závisel na klíčích a způsobu obnovy, který peněženka používá. Peněženka pomáhá vytvářet údaje pro příjem plateb, zobrazovat zůstatky a [transakční](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) historii a autorizovat utrácení. Nezbavuje vás však nutnosti rozumět tomu, kdo přístup ovládá.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
 
 
 <!-- card: dark -->
@@ -33,4 +33,4 @@ Porovnejte [způsob úschovy](https://curriculum.myfirstbitcoin.org/lexicon/en/#
 > Během kurzu Diploma si můžete v rámci procvičování vytvořit peněženku nebo zapsat [slova pro obnovu](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase). Učebna je prostředím pro výuku: informace mohou být omylem spatřeny, zkopírovány, sdíleny nebo vyzrazeny. Proto by výuková peněženka měla být obvykle prázdná nebo simulovaná a neměla by sloužit k zabezpečení významných finančních prostředků. Je-li to proveditelné, na konci kurzu Diploma se uzavře, resetuje nebo vrátí. Vyučující může zvolit praktickou aktivitu se skutečnými prostředky malé hodnoty, ale ještě předtím, než se kdokoli zapojí, by měl vysvětlit její účel i zvýšená rizika pro soukromí, bezpečnost a riziko ztráty. Peněženka určená k zabezpečení významných finančních prostředků vyžaduje nové nastavení provedené v soukromí a nové údaje pro obnovu. Vyučující vám může rozdíl vysvětlit, ale k dokončení kurzu Diploma si nikdy nemusíte zakládat osobní peněženku.
 
 
-![Vyučující předvádí výukový telefon, zatímco začátečník a starší účastníci zkoumají svá vlastní zařízení.](https://cdn.sanity.io/images/vje9ehw2/production/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)
+![Vyučující předvádí výukový telefon, zatímco začátečník a starší účastníci zkoumají svá vlastní zařízení.](https://cdn.sanity.io/images/vje9ehw2/staging/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)

@@ -8,7 +8,7 @@ Projektas prasidėjo 2021 m. nuo nedidelių kontaktinių užsiėmimų Salvadore,
 
 Mūsų veikla yra nepriklausoma, grindžiama bendruomenės iniciatyva ir sutelkta į „Bitcoin“. Daugiausia dėmesio skiriame finansiniam raštingumui, apgalvotam mąstymui ir praktiniam saugumui - ne prekybai, spekuliacijai ar kitų žetonų reklamavimui. Neprašome Jūsų priimti kokio nors įsitikinimo. Vietoj to pateikiame sąvokas, klausimus ir praktines žinias, kad galėtumėte padaryti savo išvadas.
 
-![Pedagogas į bendrą mokymosi grupę priima pradedantįjį, vyresnio amžiaus besimokantįjį, verslo savininką, techninėmis žiniomis besidomintį besimokantįjį ir jauną besimokantįjį.](https://cdn.sanity.io/images/vje9ehw2/production/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
+![Pedagogas į bendrą mokymosi grupę priima pradedantįjį, vyresnio amžiaus besimokantįjį, verslo savininką, techninėmis žiniomis besidomintį besimokantįjį ir jauną besimokantįjį.](https://cdn.sanity.io/images/vje9ehw2/staging/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
 
 ### Mūsų misija: nepriklausomas, atvirojo kodo švietimas apie „Bitcoin“
 

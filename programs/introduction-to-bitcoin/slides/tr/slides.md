@@ -19,7 +19,7 @@ Parayı her gün kullanıyoruz, ancak nasıl işlediğini nadiren sorguluyoruz.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Çoğu İnsan Durup Para Hakkında Hiç Düşünmez
 
@@ -29,7 +29,7 @@ Onu kazanmak ya da harcamak değil; ne olduğunu ve nasıl çalıştığını d�
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Başlamak İçin Beş Soru
 
@@ -49,7 +49,7 @@ Onu kazanmak ya da harcamak değil; ne olduğunu ve nasıl çalıştığını d�
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Gerçek mi, Görüş mü?
 
@@ -74,7 +74,7 @@ Para, bir değişim aracıdır.
 
 Her iki kişi de aynı anda ve uygun miktarlarda, karşı tarafın sahip olduğu şeyi istemelidir.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Rehberdeki örneği kullanın: Siz pirinç yetiştiriyorsunuz ve ayakkabıya ihtiyacınız var, ancak ayakkabıcı pirinç değil, yemeklik yağ istiyor. İktisatçılar buna ihtiyaçların çifte çakışması der. -->
 
@@ -96,13 +96,13 @@ Her iki kişi de aynı anda ve uygun miktarlarda, diğerinin sahip olduğu şeyi
 
 Kimse parayı sırf para olduğu için istemez. Para, başkaları onu daha sonra başkalarının da kabul edeceğini bekleyerek kabul ettiği için işe yarar.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Bir banknot sadece bir kâğıt parçasıdır. Para, satmayı satın almaktan ayırarak takas sorununu çözer: pirincinizi bir kişiye satar, ayakkabıları başka birinden satın alırsınız. Parayı takastan ayıran şey budur. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Paranın Yaptığı Üç Şey
 
@@ -114,7 +114,7 @@ Hiçbir para değeri kusursuz biçimde saklamaz, ancak bazı para türleri satı
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Deniz Kabuklarından Kâğıda
 
@@ -161,13 +161,13 @@ Kurallar yere ve döneme göre farklılık gösteriyordu.
 
 ## Enflasyon ve Satın Alma Gücü
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Fiyat enflasyonu, genel fiyat düzeyinde sürekli bir artıştır. Bunun öbür yüzü ise satın alma gücüdür: bir para biriminin ne kadar şey satın alabildiği. Temel mallardan oluşan bir sepet 100 para biriminden 110'a yükselirse, aynı 100 birim artık sepetin tamamını satın almaya yetmez. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Birçok Neden, Tek Seçim
 
@@ -285,7 +285,7 @@ Bir bitcoin, satoshi veya sats adı verilen 100.000.000 küçük birime bölün�
 
 ## Bitcoin'in Çalışmasını Kim Sağlıyor?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Kullanıcılar bitcoin gönderir, alır ve saklar; düğümler her işlemi ve bloğu kurallara göre denetler; madenciler yaklaşık her on dakikada bir kayda yeni bir blok eklemek için yarışır. Bu kayıt, yani blok zinciri, herkese açıktır ve yeniden yazılması çok maliyetlidir. Yazımla ilgili bir not: Büyük B ile yazılan Bitcoin genellikle ağı ya da sistemi ifade eder; küçük b ile yazılan bitcoin ise paranın kendisini ifade eder. -->
 
@@ -330,7 +330,7 @@ Saklama yöntemi seçimi, kişinin değerini ölçen bir sınav değildir. Önem
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Kurtarma İfadeniz Tam Erişim Demektir
 
@@ -350,7 +350,7 @@ Anahtarlarınızı yeniden oluşturabilen, genellikle 12 veya 24 kelimeden oluş
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Herhangi Bir Cüzdan Kullanmadan Önce
 
@@ -391,7 +391,7 @@ Anahtarlarınızı yeniden oluşturabilen, genellikle 12 veya 24 kelimeden oluş
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Durun, Hiçbir Şey Paylaşmayın, Hiçbir Şey Göndermeyin
 
@@ -426,7 +426,7 @@ Bu daha sadece başlangıç.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Bitcoin Diploması
 

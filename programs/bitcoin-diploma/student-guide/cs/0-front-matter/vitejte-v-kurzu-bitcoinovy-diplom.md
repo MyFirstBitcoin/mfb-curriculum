@@ -8,7 +8,7 @@ Projekt začal v roce 2021 malými prezenčními kurzy v Salvadoru poté, co zem
 
 Naše práce je nezávislá, vychází z komunity a zaměřuje se na Bitcoin. Soustředíme se na finanční gramotnost, pečlivé uvažování a bezpečnost v praxi – nikoli na obchodování, spekulace nebo propagaci jiných tokenů. Nežádáme vás, abyste přijali určité přesvědčení. Místo toho vám nabízíme pojmy, otázky a praktické znalosti, abyste si mohli vytvořit vlastní závěry.
 
-![Vyučující vítá ve společné studijní skupině začátečníka, staršího studenta, majitele firmy, technicky zaměřeného studenta a mladého studenta.](https://cdn.sanity.io/images/vje9ehw2/production/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
+![Vyučující vítá ve společné studijní skupině začátečníka, staršího studenta, majitele firmy, technicky zaměřeného studenta a mladého studenta.](https://cdn.sanity.io/images/vje9ehw2/staging/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
 
 ### Naše poslání: nezávislé vzdělávání o Bitcoinu s otevřenou licencí
 

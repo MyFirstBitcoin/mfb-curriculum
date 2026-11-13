@@ -22,4 +22,4 @@ Aby sprawdzić przygotowaną [transakcję](https://curriculum.myfirstbitcoin.org
 [Niepotwierdzona transakcja czeka w puli transakcji oczekujących, następnie zostaje uwzględniona w bloku N, co stanowi jej pierwsze potwierdzenie, a każdy kolejny blok dodaje jeszcze jedno.](/micrographics/confirmation-timeline-01/pl.md)
 
 
-![Osoba prowadząca zajęcia i starsza osoba ucząca się omawiają przygotowany przykład na monitorze zwróconym w stronę grupy, podczas gdy osoba ucząca się mająca umiejętności techniczne obsługuje mysz; widz widzi tylną część obudowy.](https://cdn.sanity.io/images/vje9ehw2/production/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)
+![Osoba prowadząca zajęcia i starsza osoba ucząca się omawiają przygotowany przykład na monitorze zwróconym w stronę grupy, podczas gdy osoba ucząca się mająca umiejętności techniczne obsługuje mysz; widz widzi tylną część obudowy.](https://cdn.sanity.io/images/vje9ehw2/staging/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)

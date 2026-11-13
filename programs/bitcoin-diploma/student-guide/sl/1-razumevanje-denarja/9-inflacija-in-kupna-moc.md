@@ -13,7 +13,7 @@
 > [Kupna moč](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) je količina blaga in storitev, ki jo lahko kupite z eno denarno enoto. Če se cena košarice osnovnih dobrin zviša s 100 enot [valute](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) na 110, z istimi 100 enotami ne morete več kupiti celotne košarice. Njihova [kupna moč](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) se je v razmerju do te košarice zmanjšala.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->

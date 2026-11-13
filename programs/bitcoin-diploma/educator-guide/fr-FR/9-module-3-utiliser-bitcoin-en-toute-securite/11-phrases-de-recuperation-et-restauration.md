@@ -15,7 +15,7 @@ Enseignez les conséquences :
 [Une phrase de récupération est une liste ordonnée de mots, ici douze mots d’exemple numérotés et écrits sur papier. Les bons mots dans le bon ordre permettent de reprendre le contrôle dans un portefeuille compatible ; cette phrase doit donc rester secrète et hors ligne.](/micrographics/seed-phrase-on-paper-01/fr-FR.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
 
 #### À ne jamais faire en classe
 
@@ -56,4 +56,4 @@ Enseignez les conséquences :
 
 La transmission successorale, la [multisignature](https://curriculum.myfirstbitcoin.org/lexicon/en/#multisignature) dans la conception des portefeuilles, les phrases secrètes avancées et la planification de la récupération de fonds de grande valeur peuvent nécessiter des mesures de sécurité avancées et des conseils juridiques professionnels. Ces sujets dépassent les compétences exigées dans le cadre du Bitcoin Diploma.
 
-![L’enseignant anime une discussion sur la préparation à la récupération tandis que l’apprenant plus âgé place une carte d’entraînement vierge dans une enveloppe et que l’apprenant au profil technique observe.](https://cdn.sanity.io/images/vje9ehw2/production/23cdb205174fa99b2d0df47ef606b53f8329f152-1054x1492.png)
+![L’enseignant anime une discussion sur la préparation à la récupération tandis que l’apprenant plus âgé place une carte d’entraînement vierge dans une enveloppe et que l’apprenant au profil technique observe.](https://cdn.sanity.io/images/vje9ehw2/staging/23cdb205174fa99b2d0df47ef606b53f8329f152-1054x1492.png)

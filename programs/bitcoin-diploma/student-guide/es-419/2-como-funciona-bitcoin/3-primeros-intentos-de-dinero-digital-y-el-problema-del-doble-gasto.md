@@ -34,4 +34,4 @@ El libro blanco reunió las características necesarias para ese enfoque:
 
 Este módulo explica estos conceptos con más detalle. En conjunto, dieron una respuesta práctica al [problema del doble gasto](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): la red puede rechazar un segundo intento de gastar el mismo bitcoin sin depender de una autoridad central. Bitcoin ofreció la combinación que faltaba y que se había buscado durante décadas de experimentos con dinero digital.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)

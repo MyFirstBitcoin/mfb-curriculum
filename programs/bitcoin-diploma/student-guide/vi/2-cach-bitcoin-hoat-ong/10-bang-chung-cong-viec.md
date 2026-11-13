@@ -1,6 +1,6 @@
 # 2.10 Bằng chứng công việc
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
 <!-- card: definition -->
@@ -29,4 +29,4 @@ Khi một [thợ đào](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner)
 
 [Bằng chứng công việc](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) đòi hỏi chi phí năng lượng thực tế. Những người ủng hộ cho rằng chính chi phí này là nền tảng bảo đảm tính bảo mật của Bitcoin và có thể tạo ra nhu cầu đối với các nguồn năng lượng có thể cung ứng linh hoạt hoặc vốn sẽ không được sử dụng. Những người chỉ trích đặt câu hỏi về lượng năng lượng được sử dụng và nguồn gốc của năng lượng đó. Một đánh giá có trách nhiệm cần xem xét loại năng lượng nào được sử dụng, năng lượng đó đến từ đâu, mang lại mức độ bảo mật nào và đang được so sánh với những phương án thay thế nào.
 
-![Giảng viên, học viên mới bắt đầu và học viên chuyên về kỹ thuật thảo luận về một thiết bị khai thác để bàn có quạt và bộ nguồn riêng.](https://cdn.sanity.io/images/vje9ehw2/production/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)
+![Giảng viên, học viên mới bắt đầu và học viên chuyên về kỹ thuật thảo luận về một thiết bị khai thác để bàn có quạt và bộ nguồn riêng.](https://cdn.sanity.io/images/vje9ehw2/staging/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)

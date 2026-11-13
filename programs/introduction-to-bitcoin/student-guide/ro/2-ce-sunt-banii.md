@@ -12,9 +12,9 @@ Acest lucru deosebește banii de troc.
 
 Sunt un **mijloc de schimb**: oamenii îi acceptă ca plată. Sunt o **Unitate de Cont**: prețurile sunt exprimate în bani, astfel încât putem compara valoarea diferitelor lucruri. Și sunt un **mijloc de păstrare a valorii**: transferă valoarea din prezent în viitor. Nicio formă de bani nu păstrează perfect valoarea, dar unele forme pierd din Putere de Cumpărare mai lent decât altele.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 De-a lungul istoriei, multe lucruri au servit drept bani: scoici, sare, mărgele, animale, cupru, argint și aur. Metalele prețioase au ajuns să fie folosite pe scară largă deoarece erau rare, durabile și acceptate pe scară largă. Dar transportul și protejarea metalului sunt dificile, așa că băncile au început să emită înscrisuri pe hârtie care puteau fi preschimbate într-o cantitate specificată de metal. În diferite variante ale unui **etalon aur**, o unitate monetară era legată prin lege de o cantitate de aur. Regulile variau în funcție de loc și de perioadă.
 

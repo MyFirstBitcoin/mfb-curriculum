@@ -4,7 +4,7 @@
 
 Entre pares no siempre significa que solo dos computadoras se comuniquen directamente. Una [transacción](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) puede pasar por billeteras, proveedores de internet y, dentro de la red, por muchos [nodos](https://curriculum.myfirstbitcoin.org/lexicon/en/#node). Lo importante es que ningún operador central de Bitcoin tiene que aprobar al remitente o al destinatario.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
 
 
 <!-- micrographic: peer-to-peer-route-01 -->

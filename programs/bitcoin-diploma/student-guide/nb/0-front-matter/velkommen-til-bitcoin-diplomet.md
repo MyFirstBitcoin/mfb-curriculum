@@ -8,7 +8,7 @@ Prosjektet begynte med små, fysiske undervisningsgrupper i El Salvador i 2021, 
 
 Arbeidet vårt er uavhengig, fellesskapsdrevet og rettet mot Bitcoin. Vi fokuserer på økonomisk forståelse, grundig tenkning og praktisk sikkerhet – ikke trading, spekulasjon eller markedsføring av andre tokener. Vi ber Dem ikke om å godta en overbevisning. I stedet gir vi Dem begreper, spørsmål og praktisk kunnskap, slik at De kan trekke Deres egne konklusjoner.
 
-![Underviseren ønsker nybegynneren, den eldre eleven, bedriftseieren, den teknisk orienterte eleven og den unge eleven velkommen til en felles læringsgruppe.](https://cdn.sanity.io/images/vje9ehw2/production/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
+![Underviseren ønsker nybegynneren, den eldre eleven, bedriftseieren, den teknisk orienterte eleven og den unge eleven velkommen til en felles læringsgruppe.](https://cdn.sanity.io/images/vje9ehw2/staging/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
 
 ### Vårt oppdrag: uavhengig Bitcoin-undervisning med åpen lisens
 

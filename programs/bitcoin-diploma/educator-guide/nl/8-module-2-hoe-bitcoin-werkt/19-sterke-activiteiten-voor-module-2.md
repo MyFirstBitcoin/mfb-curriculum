@@ -16,4 +16,4 @@ Kies twee of drie van deze voorbeelden, niet allemaal. Blader door de [Activitei
 
 Gebruik [consensus](https://curriculum.myfirstbitcoin.org/lexicon/en/#consensus)spellen, hashingactiviteiten, video's en rollenspellen alleen wanneer het doel, de timing, de context van de lerenden en de nabespreking sterk zijn. Een activiteit levert alleen door de docent geleid theoretisch bewijs op wanneer het een op de competentie afgestemd beoordelingsmoment is met individueel bewijs, een rubric en een registratieproces. Gebruik de activiteit anders formatief.
 
-![De ondernemer legt een netwerk van peers uit terwijl de docent luistert en de jonge lerende meeschrijft in een notitieboekje.](https://cdn.sanity.io/images/vje9ehw2/production/359b55ce824c4e7e1fb6d3f1e0b5dbc01f7c6db6-1054x1493.png)
+![De ondernemer legt een netwerk van peers uit terwijl de docent luistert en de jonge lerende meeschrijft in een notitieboekje.](https://cdn.sanity.io/images/vje9ehw2/staging/359b55ce824c4e7e1fb6d3f1e0b5dbc01f7c6db6-1054x1493.png)

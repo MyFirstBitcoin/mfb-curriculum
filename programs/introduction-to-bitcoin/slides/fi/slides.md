@@ -19,7 +19,7 @@ Käytämme rahaa joka päivä, mutta kysymme harvoin, miten se toimii.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Useimmat ihmiset eivät koskaan pysähdy pohtimaan rahaa
 
@@ -29,7 +29,7 @@ Ei sen ansaitsemista eikä kuluttamista, vaan sen pohtimista, mitä se on ja mit
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Viisi kysymystä alkuun
 
@@ -49,7 +49,7 @@ Ei sen ansaitsemista eikä kuluttamista, vaan sen pohtimista, mitä se on ja mit
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Fakta vai mielipide?
 
@@ -74,7 +74,7 @@ Raha on vaihdon väline.
 
 Molempien on haluttava sitä, mitä toisella on, samaan aikaan ja sopivissa määrissä.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Käyttäkää oppaan esimerkkiä: kasvatatte riisiä ja tarvitsette kengät, mutta suutari haluaa ruokaöljyä, ei riisiä. Taloustieteilijät kutsuvat tätä tarpeiden kaksinkertaiseksi yhteensattumaksi. -->
 
@@ -96,13 +96,13 @@ Molempien on haluttava sitä, mitä toisella on, samaan aikaan ja sopivissa mä�
 
 Kukaan ei halua rahaa sen itsensä vuoksi. Raha on hyödyllistä, koska muut hyväksyvät sen ja odottavat muiden hyväksyvän sen myöhemmin.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Seteli on vain pala paperia. Raha ratkaisee vaihtokaupan ongelman erottamalla myymisen ostamisesta: myytte riisinne yhdelle henkilölle ja ostatte kengät toiselta. Juuri tämä erottaa rahan vaihtokaupasta. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Rahan kolme tehtävää
 
@@ -114,7 +114,7 @@ Mikään raha ei säilytä arvoaan täydellisesti, mutta jotkin rahan muodot men
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Simpukankuorista paperiin
 
@@ -161,13 +161,13 @@ Kun ihmiset kuulevat sanan inflaatio, he ajattelevat yleensä hintojen nousua.
 
 ## Inflaatio ja ostovoima
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Hintainflaatio tarkoittaa yleisen hintatason jatkuvaa nousua. Sen kääntöpuoli on ostovoima: kuinka paljon yhdellä rahayksiköllä voi ostaa. Jos perushyödykekorin hinta nousee 100 rahayksiköstä 110 rahayksikköön, samalla 100 rahayksiköllä ei enää saa koko koria. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Monia syitä, yksi valinta
 
@@ -285,7 +285,7 @@ Yksi bitcoin jakautuu 100 000 000 pienempään yksikköön, joita kutsutaan sato
 
 ## Kuka pitää Bitcoinin toiminnassa?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Käyttäjät lähettävät, vastaanottavat ja säilyttävät bitcoinia; solmut tarkistavat, että jokainen siirto ja lohko noudattaa sääntöjä; louhijat kilpailevat uuden lohkon lisäämisestä tapahtumakirjanpitoon noin kymmenen minuutin välein. Tämä kirjanpito eli lohkoketju on julkinen, ja sen uudelleenkirjoittaminen on erittäin kallista. Huomautus kirjoitusasusta: isolla B-kirjaimella kirjoitettu Bitcoin tarkoittaa yleensä verkkoa tai järjestelmää; pienellä b-kirjaimella kirjoitettu bitcoin tarkoittaa itse rahaa. -->
 
@@ -330,7 +330,7 @@ Säilytystavan valinta ei mittaa arvoanne. Tärkeää on tietää, kumpaa säily
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Palautuslauseenne antaa täydet käyttöoikeudet
 
@@ -350,7 +350,7 @@ Järjestetty sanalista, jossa on usein 12 tai 24 sanaa ja jonka avulla voitte pa
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Ennen minkään lompakon käyttöä
 
@@ -391,7 +391,7 @@ Järjestetty sanalista, jossa on usein 12 tai 24 sanaa ja jonka avulla voitte pa
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Pysähtykää, älkää jakako mitään, älkää lähettäkö mitään
 
@@ -426,7 +426,7 @@ Tämä on vasta alkua.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Bitcoin-diplomi
 

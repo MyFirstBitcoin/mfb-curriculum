@@ -20,4 +20,4 @@ Temuso ka muñolelo: **Bitcoin** ye ñozwi ka B ye tuna hañata i talusa netiwek
 
 Bitcoin ni yona i na ni lika ze nde ni ze si nde. Teko ya yona i kona ku cinca kapili. Liphoso hañata ha li koni ku lukiswa. Ku i amuhela ku sa fokola mwa libaka ze ñata, mi ku i sebelisa ka polokeho ku tokwa kuituto. Bitcoin i emisetsa buñwi bwa busepehi mwa mikhatlo ka kutatuba ni buikalabelo bwa mutu ka sibili. Ha i felisi likotsi.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

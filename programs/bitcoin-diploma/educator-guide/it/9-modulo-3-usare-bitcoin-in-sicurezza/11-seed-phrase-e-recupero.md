@@ -15,7 +15,7 @@ Spieghi le conseguenze:
 [Una seed phrase è un elenco ordinato di parole, qui dodici parole di esempio numerate scritte su carta. Le parole giuste nell'ordine giusto possono ripristinare il controllo in un wallet compatibile, perciò deve rimanere segreta e offline.](/micrographics/seed-phrase-on-paper-01/it.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
 
 #### Da non fare mai in classe
 
@@ -56,4 +56,4 @@ Spieghi le conseguenze:
 
 La pianificazione ereditaria, la progettazione di configurazioni [multisignature](https://curriculum.myfirstbitcoin.org/lexicon/en/#multisignature), le passphrase avanzate e la pianificazione del recupero di importi elevati possono richiedere competenze di sicurezza avanzate e una consulenza legale professionale. Esulano dalle competenze richieste dal Bitcoin Diploma.
 
-![L'educatore guida una discussione sulla preparazione al recupero mentre il discente più anziano inserisce una scheda di esercitazione vuota in una busta e il discente esperto di tecnologia osserva.](https://cdn.sanity.io/images/vje9ehw2/production/23cdb205174fa99b2d0df47ef606b53f8329f152-1054x1492.png)
+![L'educatore guida una discussione sulla preparazione al recupero mentre il discente più anziano inserisce una scheda di esercitazione vuota in una busta e il discente esperto di tecnologia osserva.](https://cdn.sanity.io/images/vje9ehw2/staging/23cdb205174fa99b2d0df47ef606b53f8329f152-1054x1492.png)

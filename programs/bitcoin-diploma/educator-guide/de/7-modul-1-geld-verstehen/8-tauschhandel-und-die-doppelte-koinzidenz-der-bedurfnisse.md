@@ -25,4 +25,4 @@ Stellen Sie klar, dass [Tauschhandel](https://curriculum.myfirstbitcoin.org/lexi
 
 Wenn Sie ein Spiel verwenden, besprechen Sie anschließend dessen Vereinfachungen. Realer Austausch umfasst Beziehungen, Kredit, Geschenke, Verpflichtungen, Verhandeln, Recht und wiederholte Interaktion.
 
-![Die Lehrkraft leitet eine Aktivität zum direkten Tausch zwischen der Einsteigerin mit einem Notizbuch und dem Geschäftsinhaber mit Lebensmitteln an.](https://cdn.sanity.io/images/vje9ehw2/production/48813fb8d9434061c5c546898f4023f8748e9edd-1054x1492.png)
+![Die Lehrkraft leitet eine Aktivität zum direkten Tausch zwischen der Einsteigerin mit einem Notizbuch und dem Geschäftsinhaber mit Lebensmitteln an.](https://cdn.sanity.io/images/vje9ehw2/staging/48813fb8d9434061c5c546898f4023f8748e9edd-1054x1492.png)

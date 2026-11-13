@@ -27,7 +27,7 @@ Kowane sashe yana bin tsari iri ɗaya:
 
 Za ku fi koyo ta hanyar shiga a dama da ku fiye da karantawa a shiru. Wasu tambayoyi ba su da amsa guda ɗaya tak da ta dace. Abin da ya fi muhimmanci shi ne ko za ku iya bayyana dalilanku, bincika hujjoji, da sake duba ra'ayinku idan kun koyi sabon abu.
 
-![Mai kasuwancin tana nuna wani zane mai sauƙi a cikin littafin jagora da aka buɗe, yayin da malamin yake tattauna shi da ita a kan teburin aji.](https://cdn.sanity.io/images/vje9ehw2/production/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
+![Mai kasuwancin tana nuna wani zane mai sauƙi a cikin littafin jagora da aka buɗe, yayin da malamin yake tattauna shi da ita a kan teburin aji.](https://cdn.sanity.io/images/vje9ehw2/staging/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
 
 ### Abubuwan da ake sa ran bi game da tattaunawa da sirri
 
@@ -50,7 +50,7 @@ Malamin ku zai bayyana duk ayyukan tantancewa da ake buƙata. Ana gina ilimin ka
 
 Malamin ku yana amfani da jadawalin tantancewa don rubuta sakamako ɗaya ga kowace daga cikin ƙwarewa bakwai da ke sama. `C1`–`C5` ana tantance su ta hanyar bayananku da shawarwarin da kuka yanke; `C6`–`C7` suna buƙatar lura kai tsaye. Aikin walat/rasit da aikin shirin farfaɗowa duk sassa ne da ake buƙata na `C6`.
 
-![Malamin yana amsa wa sabon ɗalibin da ya ɗaga hannu yayin da ɗalibin da ya fi shi shekaru yake bibiyar darasin da buɗaɗɗen littafin jagorar kwas.](https://cdn.sanity.io/images/vje9ehw2/production/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
+![Malamin yana amsa wa sabon ɗalibin da ya ɗaga hannu yayin da ɗalibin da ya fi shi shekaru yake bibiyar darasin da buɗaɗɗen littafin jagorar kwas.](https://cdn.sanity.io/images/vje9ehw2/staging/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
 
 ### Ilimin da ake buƙata tun da farko: babu
 

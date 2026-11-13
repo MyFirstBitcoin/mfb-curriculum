@@ -12,7 +12,7 @@ Tämä ero on tärkeä todentamisen kannalta. Bitcoinin säännöt ja kokonaism�
 
 Kun käytätte **ei-säilytyspalvelullista** eli **itsehallinnoitua** lompakkoa, TE hallitsette avaimia. Lompakko allekirjoittaa [siirrot](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) valtuutuksellanne. Ohjelmistoihin, laitteistoihin, palvelimiin tai verkkoon liittyviä riippuvuuksia voi silti olla, mutta yhdenkään [säilyttäjän](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian) ei tarvitse hyväksyä kelvollista lohkoketjussa tehtävää siirtoa.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 
 <!-- micrographic: who-controls-keys-01 -->

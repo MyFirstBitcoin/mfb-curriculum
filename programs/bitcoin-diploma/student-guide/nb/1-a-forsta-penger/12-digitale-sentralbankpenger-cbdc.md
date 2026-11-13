@@ -10,7 +10,7 @@
 
 Spør deretter hva utformingen tillater. Avhengig av reglene kan en [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) muliggjøre raskere oppgjør, bredere tilgang eller nye betalingsfunksjoner. Den kan også gi institusjoner større mulighet til å overvåke [transaksjoner](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), håndheve regler, begrense bruk eller knytte identitet direkte til betalinger. Dette er sentralisert kontroll: en institusjon fastsetter eller endrer de aktuelle reglene, i stedet for at vanlige brukere gjør det uavhengig.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->

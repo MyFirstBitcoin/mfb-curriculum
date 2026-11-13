@@ -10,7 +10,7 @@
 
 Selanjutnya, tanyakan apa yang dimungkinkan oleh rancangannya. Bergantung pada aturannya, suatu [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) dapat memungkinkan penyelesaian transaksi yang lebih cepat, akses yang lebih luas, atau fitur pembayaran baru. Mata uang ini juga dapat memberi lembaga kemampuan yang lebih besar untuk memantau [transaksi](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), menerapkan aturan, membatasi penggunaan, atau menghubungkan identitas secara langsung dengan pembayaran. Inilah kendali terpusat: suatu lembaga, bukan pengguna biasa secara mandiri, menetapkan atau mengubah aturan yang terkait.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->

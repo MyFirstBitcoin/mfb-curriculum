@@ -15,7 +15,7 @@ As pessoas podem receber bitcoin por meio do trabalho, de um pagamento comunitá
 * **Troca Peer-to-Peer (P2P):** Duas pessoas podem trocar [moeda fiduciária](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) ou bens por bitcoin diretamente ou por meio de um serviço de intermediação. Isso pode trazer riscos de contraparte, de segurança física, de estorno de pagamento e de fraude.
 * **Corretora, intermediário, caixa eletrônico ou quiosque:** Um serviço ou máquina pode oferecer um caminho conhecido, mas pode envolver taxas, verificações de identidade, [custódia](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), limites de saque ou uma [taxa de câmbio](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate) desfavorável.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
 
 Antes de comparar um caminho, pergunte:
 

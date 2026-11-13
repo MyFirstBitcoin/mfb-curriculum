@@ -8,7 +8,7 @@
 
 Hvad ville der ske, hvis Deres telefon holdt op med at virke? Registreringerne på Bitcoin-netværket ville stadig eksistere, men adgangen ville afhænge af de nøgler og den gendannelsesmetode, som walleten bruger. En wallet hjælper med at oprette modtagelsesoplysninger, vise saldi og [transaktionernes](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) historik samt godkende brug af midlerne. Den fjerner ikke behovet for at forstå, hvem der kontrollerer adgangen.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
 
 
 <!-- card: dark -->
@@ -33,4 +33,4 @@ Sammenlign [forvaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody
 > Under diplomforløbet kan De oprette en wallet eller skrive [gendannelsesord](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) ned som en del af øvelserne. Et undervisningslokale er et læringsmiljø: Oplysninger kan blive set, kopieret, delt eller kompromitteret ved en fejl. Derfor bør en øvelseswallet normalt være tom eller simuleret og bør ikke bruges til at sikre midler af væsentlig værdi. Hvor det er praktisk muligt, lukkes, nulstilles eller returneres den ved diplomforløbets afslutning. Deres underviser kan vælge en aktivitet med rigtige midler af beskeden værdi, men bør forklare dens formål og de yderligere risici for privatliv, sikkerhed og tab, før nogen deltager. En wallet, der skal sikre midler af væsentlig værdi, kræver en ny, privat opsætning og nye gendannelsesoplysninger. Deres underviser kan forklare forskellen, men De er aldrig forpligtet til at oprette en personlig wallet for at gennemføre diplomforløbet.
 
 
-![Underviseren demonstrerer en øvelsestelefon, mens begynderen og de ældre kursister undersøger deres egne enheder.](https://cdn.sanity.io/images/vje9ehw2/production/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)
+![Underviseren demonstrerer en øvelsestelefon, mens begynderen og de ældre kursister undersøger deres egne enheder.](https://cdn.sanity.io/images/vje9ehw2/staging/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)

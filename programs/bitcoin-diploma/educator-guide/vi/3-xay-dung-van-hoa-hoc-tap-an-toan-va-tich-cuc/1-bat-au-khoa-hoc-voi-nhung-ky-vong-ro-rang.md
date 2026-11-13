@@ -17,4 +17,4 @@ Hãy thống nhất các nguyên tắc tham gia sau đây:
 * tuyệt đối không tiết lộ [cụm từ khôi phục](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), [khóa riêng tư](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), mật khẩu hoặc cách thức bố trí bảo mật; và
 * dừng thực hành khi có điều gì đó khác với quy trình đã được làm mẫu.
 
-![Người học trẻ tuổi đặt câu hỏi trong khi nhà giáo lắng nghe và bốn người học còn lại theo dõi cuộc thảo luận.](https://cdn.sanity.io/images/vje9ehw2/production/bf1185129657cd98555d2704565cf44deadbe59d-1054x1493.png)
+![Người học trẻ tuổi đặt câu hỏi trong khi nhà giáo lắng nghe và bốn người học còn lại theo dõi cuộc thảo luận.](https://cdn.sanity.io/images/vje9ehw2/staging/bf1185129657cd98555d2704565cf44deadbe59d-1054x1493.png)

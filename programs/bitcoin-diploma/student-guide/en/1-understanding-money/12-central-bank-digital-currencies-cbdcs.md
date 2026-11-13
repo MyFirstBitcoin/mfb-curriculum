@@ -10,7 +10,7 @@
 
 Next ask what the design allows. Depending on the rules, a [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) may allow faster settlement, wider access, or new payment features. It may also give institutions greater ability to monitor [transactions](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), apply rules, limit use, or connect identity directly to payments. This is centralized control: an institution, rather than ordinary users independently, sets or changes the relevant rules.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->

@@ -22,4 +22,4 @@ Para inspecionar uma [transação](https://curriculum.myfirstbitcoin.org/lexicon
 [Uma transação aguarda sem confirmação no pool de pendentes, depois é incluída no Bloco N como sua primeira confirmação, e cada bloco seguinte acrescenta mais uma.](/micrographics/confirmation-timeline-01/pt-BR.md)
 
 
-![O educador e o aluno mais velho discutem um exemplo preparado em um monitor voltado para o grupo, enquanto o aluno com perfil técnico opera o mouse; o observador vê a parte traseira do gabinete.](https://cdn.sanity.io/images/vje9ehw2/production/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)
+![O educador e o aluno mais velho discutem um exemplo preparado em um monitor voltado para o grupo, enquanto o aluno com perfil técnico opera o mouse; o observador vê a parte traseira do gabinete.](https://cdn.sanity.io/images/vje9ehw2/staging/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)

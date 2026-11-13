@@ -18,7 +18,7 @@ A küldés nagyobb körültekintést igényel, mert a Bitcoin rendszerében egy 
 1. Ha nem ismeri a folyamatot, először végezzen kis összegű próbafizetést.
 1. Csak akkor hagyja jóvá a fizetést, ha minden adat egyezik; utána ellenőrizze a fizetés eredményét.
 
-![Az idősebb tanuló bemutat egy gyakorlásra használt telefont, miközben a kezdő egy másik telefont ellenőriz, az oktató pedig irányítja az összehasonlítást.](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![Az idősebb tanuló bemutat egy gyakorlásra használt telefont, miközben a kezdő egy másik telefont ellenőriz, az oktató pedig irányítja az összehasonlítást.](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 
 <!-- micrographic: pre-send-checklist-01 -->
@@ -29,4 +29,4 @@ Egy [láncon belüli fizetés](https://curriculum.myfirstbitcoin.org/lexicon/en/
 
 Mit tegyen, ha a célcím váratlanul megváltozik, a kérés sürgőssé válik, vagy valaki helyreállítási adatokat kér? Álljon meg. Ellenőrizze a kérést független módon, vagy kérjen segítséget anélkül, hogy bizalmas adatokat osztana meg.
 
-![Az oktató irányítja a kezdő tanulót, miközben a fizetés jóváhagyása előtt összehasonlítanak egy telefont a vállalkozás tulajdonosának fizetésfogadó eszközével.](https://cdn.sanity.io/images/vje9ehw2/production/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)
+![Az oktató irányítja a kezdő tanulót, miközben a fizetés jóváhagyása előtt összehasonlítanak egy telefont a vállalkozás tulajdonosának fizetésfogadó eszközével.](https://cdn.sanity.io/images/vje9ehw2/staging/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)

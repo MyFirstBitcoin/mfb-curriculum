@@ -10,7 +10,7 @@
 
 Tiếp theo, hãy đặt câu hỏi thiết kế đó cho phép những gì. Tùy theo các quy tắc, một [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) có thể cho phép quyết toán nhanh hơn, mở rộng khả năng tiếp cận hoặc cung cấp các tính năng thanh toán mới. Nó cũng có thể giúp các tổ chức có nhiều khả năng hơn trong việc giám sát [giao dịch](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), áp dụng các quy tắc, hạn chế việc sử dụng hoặc liên kết trực tiếp danh tính với các khoản thanh toán. Đây là sự kiểm soát tập trung: một tổ chức đặt ra hoặc thay đổi các quy tắc liên quan, thay vì để người dùng thông thường tự làm điều đó một cách độc lập.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->

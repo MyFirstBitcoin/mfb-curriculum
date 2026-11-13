@@ -20,4 +20,4 @@ Kaambo kajatikizya malembedwe: **Bitcoin** iilembedwe a B mupati kanji-kanji yaa
 
 Bitcoin ilijisi zintu zibotu azitali kabotu. Muulo wayo ulakonzya kucinca cakufwambaana. Zilubizyo kanji-kanji tazikonzyi kululamisyigwa. Kutambulwa kwayo kucili kusyoonto mumaanze manji, alimwi kuibelesya cakukwabilila kuyandika kwiiya zimwi zintu. Bitcoin ilabwezya cisyomezyo cimwi cili kubunga akucibikka mukusinizya akulilemeka mulimo. Taigusyi ngozi.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

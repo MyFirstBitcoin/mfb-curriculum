@@ -13,7 +13,7 @@
 > [Poder de Compra](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) é a quantidade de bens e serviços que uma unidade de dinheiro pode comprar. Se uma cesta de bens básicos sobe de 100 unidades de [moeda](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) para 110, as mesmas 100 unidades já não compram a cesta completa. O seu [poder de compra](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) em relação a essa cesta diminuiu.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->

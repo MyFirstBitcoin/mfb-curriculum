@@ -11,4 +11,4 @@ Když studující nesouhlasí:
 
 Opravujte faktické chyby jasně a s respektem. Nevyhýbejte se opravám ve jménu neutrality. Neutrální vedení diskuse znamená uplatňovat spravedlivá měřítka při posuzování důkazů, nikoli považovat všechna tvrzení za stejně přesná.
 
-![Vyučující naslouchá otázce začínajícího studujícího, zatímco starší studující sleduje rozhovor s otevřenou příručkou.](https://cdn.sanity.io/images/vje9ehw2/production/53db81849bfb9bca1dba5e2f8d5e8386c01ca3b3-1053x1494.png)
+![Vyučující naslouchá otázce začínajícího studujícího, zatímco starší studující sleduje rozhovor s otevřenou příručkou.](https://cdn.sanity.io/images/vje9ehw2/staging/53db81849bfb9bca1dba5e2f8d5e8386c01ca3b3-1053x1494.png)

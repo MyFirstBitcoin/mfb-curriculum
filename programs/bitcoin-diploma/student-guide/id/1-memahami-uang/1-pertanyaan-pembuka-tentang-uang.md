@@ -10,4 +10,4 @@ Uang memengaruhi pilihan sehari-hari tentang makanan, transportasi, pekerjaan, m
 
 Saat Anda mendiskusikan pertanyaan-pertanyaan ini, perhatikan perbedaan antara fakta dan opini. “Uang kertas ini diterima untuk pembayaran pajak” adalah fakta yang dapat diperiksa. “Ini adalah bentuk uang terbaik” adalah opini atau kesimpulan yang memerlukan kriteria dan bukti.
 
-![Keenam tokoh berkumpul mengelilingi meja-meja kelas sementara pendidik memandu kegiatan membaca bersama dari buku panduan kursus yang terbuka.](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![Keenam tokoh berkumpul mengelilingi meja-meja kelas sementara pendidik memandu kegiatan membaca bersama dari buku panduan kursus yang terbuka.](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)

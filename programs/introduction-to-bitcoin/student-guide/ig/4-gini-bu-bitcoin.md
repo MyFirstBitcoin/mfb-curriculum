@@ -20,4 +20,4 @@ Nkọwa banyere nsụpe: **Bitcoin** nke ji nnukwu mkpụrụedemede B amalite n
 
 Bitcoin nwekwara uru na ọghọm ndị a ga-atụle. Ọnụahịa ya nwere ike ịgbanwe ngwa ngwa. Njehie na-adịkarịgide, a naghị enwe ike idozi ha. A ka naghị anabata ya nke ukwuu n'ọtụtụ ebe, iji ya n'enweghị nsogbu chọkwara mmụta ụfọdụ. Bitcoin na-eji nyocha na ibu ọrụ nke onye ọ bụla dochie akụkụ ụfọdụ nke ntụkwasị obi n'ụlọ ọrụ. Ọ naghị ewepụ ihe ize ndụ.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

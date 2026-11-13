@@ -30,4 +30,4 @@ Hiçbir para biçimi kusursuz değildir.
 
 **Eleştirel düşünün:** Bir para türünü veya [varlığı](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) diğerine tercih ettiğiniz bir zamanı anlatın. Amaç neydi? Kullanabileceğiniz seçeneklerin özelliklerini karşılaştırın. Sizin için en önemli özellikler hangileriydi ve neden?
 
-![Eğitmen tartışmayı yönlendirirken altı karakterin tümü çevrimdışı bir öğretim kartı etkinliğinde iş birliği yapıyor.](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![Eğitmen tartışmayı yönlendirirken altı karakterin tümü çevrimdışı bir öğretim kartı etkinliğinde iş birliği yapıyor.](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)

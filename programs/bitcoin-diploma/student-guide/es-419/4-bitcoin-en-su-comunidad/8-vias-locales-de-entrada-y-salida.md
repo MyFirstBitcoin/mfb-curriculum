@@ -1,6 +1,6 @@
 # 4.8 Vías locales de entrada y salida
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/16d4da9fcdbc76a89acbef6bf760d3199ea7a843-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/16d4da9fcdbc76a89acbef6bf760d3199ea7a843-1536x1024.svg)
 
 Una [**vía de entrada**](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-ramp) es una vía para pasar del dinero local, el trabajo u otro [activo](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) a bitcoin. Una [**vía de salida**](https://curriculum.myfirstbitcoin.org/lexicon/en/#off-ramp) es una vía para pasar de bitcoin a dinero local, bienes o servicios. La misma vía puede cumplir ambas funciones.
 
@@ -14,7 +14,7 @@ Las vías locales pueden incluir:
 * usar un servicio de pago que convierta entre bitcoin y dinero fíat
 * participar en una economía circular local
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8ad6c3106c57d796cf1b415d6a8104b043e6a215-776x978.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8ad6c3106c57d796cf1b415d6a8104b043e6a215-776x978.svg)
 
 Compare la **ruta completa**, no solo la primera comisión. Un servicio puede anunciar una comisión de compra baja, pero usar un [tipo de cambio](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate) desfavorable o cobrar por el retiro. Una vía de intercambio entre pares puede parecer privada, pero requerir tiempo, confianza y medidas de seguridad física.
 

@@ -25,4 +25,4 @@ Arbeiten Sie mit Behauptung, Beleg und Abwägung:
 
 Detaillierte Energiestatistiken und [Mining](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work)-Ökonomie sind keine Pflichtinhalte des Bitcoin Diploma. Verwenden Sie sie nur, wenn die Lehrkraft aktuelle Quellen überprüft hat und die Diskussion den Erwerb einer Kompetenz unterstützt.
 
-![Die Lehrkraft und die technisch versierte lernende Person zeigen auf getrennte Mining- und Node-Geräte, während die ältere lernende Person mithilfe eines Leitfadens teilnimmt.](https://cdn.sanity.io/images/vje9ehw2/production/c42a629a0dff84d04b37397d56a45bf146f7110b-1054x1492.png)
+![Die Lehrkraft und die technisch versierte lernende Person zeigen auf getrennte Mining- und Node-Geräte, während die ältere lernende Person mithilfe eines Leitfadens teilnimmt.](https://cdn.sanity.io/images/vje9ehw2/staging/c42a629a0dff84d04b37397d56a45bf146f7110b-1054x1492.png)

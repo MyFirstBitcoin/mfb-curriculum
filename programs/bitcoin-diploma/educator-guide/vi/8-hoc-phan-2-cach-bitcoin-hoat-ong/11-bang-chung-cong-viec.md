@@ -25,4 +25,4 @@ Hãy sử dụng luận điểm, bằng chứng và sự đánh đổi:
 
 Các số liệu thống kê chi tiết về năng lượng và [hoạt động đào](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) xét từ góc độ kinh tế không phải là nội dung bắt buộc của Bitcoin Diploma. Chỉ sử dụng những nội dung này khi người dạy đã kiểm chứng các nguồn thông tin hiện hành và cuộc thảo luận giúp phát triển một năng lực.
 
-![Người dạy và người học có kiến thức kỹ thuật chỉ vào các thiết bị đào và thiết bị nút riêng biệt, trong khi người học lớn tuổi hơn tham gia với sự hỗ trợ của tài liệu hướng dẫn.](https://cdn.sanity.io/images/vje9ehw2/production/c42a629a0dff84d04b37397d56a45bf146f7110b-1054x1492.png)
+![Người dạy và người học có kiến thức kỹ thuật chỉ vào các thiết bị đào và thiết bị nút riêng biệt, trong khi người học lớn tuổi hơn tham gia với sự hỗ trợ của tài liệu hướng dẫn.](https://cdn.sanity.io/images/vje9ehw2/staging/c42a629a0dff84d04b37397d56a45bf146f7110b-1054x1492.png)

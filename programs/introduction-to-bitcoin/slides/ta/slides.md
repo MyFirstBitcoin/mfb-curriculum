@@ -19,7 +19,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## பெரும்பாலான மக்கள் பணத்தைப் பற்றிச் சிந்திக்க ஒருபோதும் நேரம் ஒதுக்குவதில்லை
 
@@ -29,7 +29,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## தொடங்குவதற்கு ஐந்து கேள்விகள்
 
@@ -49,7 +49,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## உண்மையா அல்லது கருத்தா?
 
@@ -74,7 +74,7 @@ theme: mfb
 
 இருவரும் ஒருவரிடம் இருப்பதை மற்றவர் ஒரே நேரத்தில், பொருத்தமான அளவுகளில் விரும்ப வேண்டும்.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: வழிகாட்டியில் உள்ள எடுத்துக்காட்டைப் பயன்படுத்துங்கள்: நீங்கள் நெல் பயிரிடுகிறீர்கள், உங்களுக்குக் காலணிகள் தேவைப்படுகின்றன. ஆனால் காலணி தயாரிப்பவருக்குத் தேவைப்படுவது சமையல் எண்ணெய், அரிசி அல்ல. பொருளாதார வல்லுநர்கள் இதைத் தேவைகளின் இரட்டைத் தற்செயல் பொருத்தம் என்று அழைக்கிறார்கள். -->
 
@@ -96,13 +96,13 @@ theme: mfb
 
 பணத்தை வெறுமனே வைத்திருப்பதற்காக யாரும் விரும்புவதில்லை. பிறர் அதை ஏற்றுக்கொள்வார்கள் என்ற எதிர்பார்ப்பில் மற்றவர்கள் அதை ஏற்றுக்கொள்வதால்தான் அது பயனுள்ளதாக இருக்கிறது.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: ஒரு பணத்தாள் என்பது வெறும் காகிதத் துண்டுதான். விற்பதையும் வாங்குவதையும் பிரிப்பதன் மூலம் பண்டமாற்றுச் சிக்கலைப் பணம் தீர்க்கிறது: நீங்கள் உங்கள் அரிசியை ஒருவரிடம் விற்றுவிட்டு, மற்றொருவரிடம் காலணிகளை வாங்குகிறீர்கள். இதுவே பணத்தைப் பண்டமாற்றிலிருந்து வேறுபடுத்துகிறது. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## பணம் செய்யும் மூன்று செயல்கள்
 
@@ -114,7 +114,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## சிப்பிகளிலிருந்து காகிதம் வரை
 
@@ -161,13 +161,13 @@ theme: mfb
 
 ## பணவீக்கமும் வாங்கும் திறனும்
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: விலைப் பணவீக்கம் என்பது பொதுவான விலை மட்டத்தில் ஏற்படும் தொடர்ச்சியான உயர்வாகும். இதன் மறுபக்கம் வாங்கும் திறன்: அதாவது, ஒரு அலகுப் பணத்தைக் கொண்டு எவ்வளவு வாங்க முடியும் என்பதாகும். அடிப்படைப் பொருட்கள் அடங்கிய ஒரு கூடையின் விலை 100 நாணய அலகுகளிலிருந்து 110 ஆக உயர்ந்தால், அதே 100 நாணய அலகுகளைக் கொண்டு இனி அந்தக் கூடையிலுள்ள அனைத்துப் பொருட்களையும் வாங்க முடியாது. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## பல காரணங்கள், ஒரே தேர்வு
 
@@ -285,7 +285,7 @@ theme: mfb
 
 ## பிட்காயினை இயங்கச் செய்வது யார்?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: பயனர்கள் பிட்காயினை அனுப்புகிறார்கள், பெறுகிறார்கள், வைத்திருக்கிறார்கள்; நோடுகள் ஒவ்வொரு பரிவர்த்தனையும் தொகுதியும் விதிகளுக்கு இணங்குகிறதா எனச் சரிபார்க்கின்றன; சுரங்கத் தொழிலாளர்கள் ஏறத்தாழ ஒவ்வொரு பத்து நிமிடங்களுக்கும் பதிவேட்டில் ஒரு புதிய தொகுதியைச் சேர்க்கப் போட்டியிடுகிறார்கள். பிளாக்செயின் எனப்படும் அந்தப் பதிவேடு பொதுவில் உள்ளது; அதை மாற்றி எழுதுவதற்கு மிக அதிகச் செலவாகும். எழுத்துமுறை பற்றிய ஒரு குறிப்பு: ஆங்கிலத்தில் பெரிய B எழுத்துடன் எழுதப்படும் Bitcoin என்பது பொதுவாக வலையமைப்பை அல்லது அமைப்பைக் குறிக்கிறது; சிறிய b எழுத்துடன் எழுதப்படும் bitcoin என்பது பணத்தையே குறிக்கிறது. -->
 
@@ -330,7 +330,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## உங்கள் விதைச் சொற்றொடர் முழு அணுகலை வழங்குகிறது
 
@@ -350,7 +350,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## எந்தவொரு பணப்பையையும் நீங்கள் பயன்படுத்துவதற்கு முன்
 
@@ -391,7 +391,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## நிறுத்துங்கள், எதையும் பகிராதீர்கள், எதையும் அனுப்பாதீர்கள்
 
@@ -426,7 +426,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## பிட்காயின் பட்டயம்
 

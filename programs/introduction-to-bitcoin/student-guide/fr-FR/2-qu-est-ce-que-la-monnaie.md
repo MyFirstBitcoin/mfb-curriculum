@@ -12,9 +12,9 @@ Dans un système de troc, l’échange ne fonctionne que lorsque les deux person
 
 Elle est un **moyen d’échange** : les gens l’acceptent en paiement. Elle est une **unité de compte** : les prix sont exprimés dans cette unité, ce qui permet de comparer la valeur de différentes choses. Et elle est une **réserve de valeur** : elle permet de conserver de la valeur pour l’avenir. Aucune monnaie ne conserve parfaitement la valeur, mais certaines formes de monnaie perdent leur pouvoir d’achat plus lentement que d’autres.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Au cours de l’histoire, de nombreuses choses ont servi de monnaie : des coquillages, du sel, des perles, du bétail, du cuivre, de l’argent et de l’or. Les métaux précieux se sont largement imposés parce qu’ils étaient rares, durables et largement acceptés. Mais transporter et protéger du métal est difficile. Les banques ont donc commencé à émettre des titres papier échangeables contre une quantité déterminée de métal. Dans les différentes versions de l’**étalon-or**, une unité monétaire était légalement liée à une quantité d’or. Les règles variaient selon les lieux et les époques.
 

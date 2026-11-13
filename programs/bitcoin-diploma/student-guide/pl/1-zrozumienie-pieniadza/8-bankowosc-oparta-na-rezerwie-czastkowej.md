@@ -28,7 +28,7 @@ Wiąże się to z dwoma istotnymi rodzajami ryzyka:
 [Ryzyko płynności: wielu deponentów ustawia się w kolejce, by wypłacić pieniądze dzisiaj, a bank nie ma obecnie wystarczającej ilości gotówki, choć udzielone przez niego kredyty mogą zostać spłacone później. Ryzyko niewypłacalności: kredytobiorcy przestają spłacać kredyty mieszkaniowe, a wartość aktywów banku spada poniżej jego zobowiązań.](/micrographics/liquidity-vs-solvency-01/pl.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
 
 
 

@@ -25,4 +25,4 @@ Gennemgå:
 
 **Opsamling:** Hvorfor er det usikkert automatisk at sende en tilbagebetaling til en adresse, der antages at være den oprindelige? Hvem får ansvaret, når flere medarbejdere deler én wallet?
 
-![Underviseren peger på et tomt registreringskort, mens begynderen og virksomhedsejeren tjekker øvelsestelefoner ved en butiksdisk.](https://cdn.sanity.io/images/vje9ehw2/production/7c785fef5d3b3be3d4a60aa9cfa250f74e18d1ec-1054x1493.png)
+![Underviseren peger på et tomt registreringskort, mens begynderen og virksomhedsejeren tjekker øvelsestelefoner ved en butiksdisk.](https://cdn.sanity.io/images/vje9ehw2/staging/7c785fef5d3b3be3d4a60aa9cfa250f74e18d1ec-1054x1493.png)

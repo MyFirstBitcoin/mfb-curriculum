@@ -12,9 +12,9 @@ N’usoro ịgbanwere ngwongwo na ngwongwo, azụmahịa na-aga nke ọma naan�
 
 Ọ bụ **ngwa mgbanwe**: ndị mmadụ na-anabata ya maka ịkwụ ụgwọ. Ọ bụ **otu e ji atụ ọnụ ahịa**: a na-eji ya egosipụta ọnụ ahịa, ya mere anyị nwere ike iji ya tụnyere uru ihe dị iche iche bara. Ọ bụkwa **ụzọ e si echekwa uru**: ọ na-ebufe uru site taa gaa n’ọdịnihu. Ọ dịghị ego na-echekwa uru n’ụzọ zuru oke, ma ụfọdụ ụdị ego na-efunahụ ikike ịzụta ihe nwayọọ karịa ndị ọzọ.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Kemgbe ụwa, e jirila ọtụtụ ihe rụọ ọrụ ego: mkpụkọrọ, nnu, chaplet, anụ ụlọ, ọla kọpa, ọla ọcha, na ọla edo. A malitere iji ọla ndị dị oké ọnụ ahịa eme ihe n’ebe niile n’ihi na ha dị ụkọ, na-adịte aka, ndị mmadụ n’ebe dị iche iche na-anabatakwa ha. Ma iburu ọla na ichebe ya siri ike, ya mere ụlọ akụ malitere inye akwụkwọ na-egosi ikike mmadụ nwere ịnata ọla a kapịrị ọnụ. N’okpuru ụdị dị iche iche nke **usoro ịdabere ego n’ọla edo**, iwu jikọtara otu ego na ọnụọgụ ọla edo a kapịrị ọnụ. Iwu ndị ahụ dị iche iche dabere n’ebe na oge.
 

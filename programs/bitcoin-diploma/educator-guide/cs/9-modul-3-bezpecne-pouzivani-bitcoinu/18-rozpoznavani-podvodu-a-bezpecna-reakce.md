@@ -34,4 +34,4 @@ Rozmístěte po místnosti krátké smyšlené scénáře. Na každém stanoviš
 
 Zařaďte jednu zprávu, která působí důvěryhodně a neobsahuje žádnou zjevnou pravopisnou chybu. Při výuce nevyvolávejte dojem, že podvody lze snadno rozpoznat jen podle toho, že působí neprofesionálně.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)

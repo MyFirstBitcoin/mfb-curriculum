@@ -32,4 +32,4 @@
 
 **Prøv selv:** For en liten, fiktiv betaling og en sjeldnere fiktiv betaling, forklar hvilken [avveining](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) som er viktigst. Ikke velg et verktøy eller beløp for Deres egne midler.
 
-![Underviseren hjelper de eldre og teknisk kyndige deltakerne med å sammenligne en telefon, en maskinvarelommebok og en bærbar datamaskin.](https://cdn.sanity.io/images/vje9ehw2/production/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)
+![Underviseren hjelper de eldre og teknisk kyndige deltakerne med å sammenligne en telefon, en maskinvarelommebok og en bærbar datamaskin.](https://cdn.sanity.io/images/vje9ehw2/staging/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)

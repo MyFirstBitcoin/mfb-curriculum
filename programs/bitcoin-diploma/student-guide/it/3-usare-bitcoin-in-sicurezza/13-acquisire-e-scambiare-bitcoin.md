@@ -15,7 +15,7 @@ Le persone possono ricevere bitcoin tramite il lavoro, un pagamento comunitario,
 * **Scambio Peer-to-Peer (P2P):** due persone possono scambiare [moneta fiat](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) o beni con bitcoin direttamente o tramite un servizio di abbinamento. Ciò può comportare rischi legati alla controparte, alla sicurezza fisica, allo storno dei pagamenti e alle frodi.
 * **Exchange, broker, ATM o chiosco:** un servizio o una macchina può offrire un percorso familiare, ma può comportare commissioni, verifiche dell'identità, [custodia](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), limiti di prelievo o un [Exchange Rate](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate) sfavorevole.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
 
 Prima di confrontare un percorso, si chieda:
 

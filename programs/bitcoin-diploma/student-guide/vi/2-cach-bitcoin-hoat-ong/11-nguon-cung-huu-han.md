@@ -44,4 +44,4 @@ Giới hạn 21 triệu được thực thi bởi [các nút](https://curriculum
 > Nguồn cung hữu hạn cũng không có nghĩa là mọi bitcoin đều sẵn có để bán; một phần có thể được nắm giữ dài hạn hoặc trở nên không thể truy cập do khóa đã bị mất.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

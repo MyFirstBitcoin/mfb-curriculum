@@ -20,4 +20,4 @@ Peteĩ marandu jehai rehegua: **Bitcoin** B tuicháva reheve heʼise jepi ñandu
 
 Bitcoin oguereko avei mbaʼe porã ha mbaʼe hasýva. Hepy ikatu iñambue pyaʼe. Javykuéra ndikatúi jepi oñemyatyrõ. Heta hendápe saʼi gueteri oñemoneĩ, ha ojepuru hag̃ua kyhyjeʼỹme tekotevẽ oñeikuaaʼimi. Bitcoin omyengovia peteĩ vore jerovia atykuéra rehe oĩva jehechajey ha peteĩteĩ tembiaporã ñemoañete rupive. Nombojeíri mbaʼevai ojehu rekuaa.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

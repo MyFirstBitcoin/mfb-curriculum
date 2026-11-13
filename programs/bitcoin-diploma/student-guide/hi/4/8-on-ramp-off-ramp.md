@@ -1,6 +1,6 @@
 # 4.8 स्थानीय on-ramp और off-ramp के मार्ग
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/16d4da9fcdbc76a89acbef6bf760d3199ea7a843-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/16d4da9fcdbc76a89acbef6bf760d3199ea7a843-1536x1024.svg)
 
 एक [**ऑन-रैंप**](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-ramp) स्थानीय मुद्रा, काम या किसी अन्य [संपत्ति](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) से बिटकॉइन में प्रवेश का मार्ग है। एक [**ऑफ-रैंप**](https://curriculum.myfirstbitcoin.org/lexicon/en/#off-ramp) बिटकॉइन से स्थानीय मुद्रा, वस्तुओं या सेवाओं तक पहुँचने का मार्ग है। एक ही मार्ग दोनों भूमिकाएँ निभा सकता है।
 
@@ -14,7 +14,7 @@
 * ऐसी भुगतान सेवा का उपयोग करना जो बिटकॉइन और फ़िएट मुद्रा के बीच रूपांतरण करती हो
 * स्थानीय चक्रीय अर्थव्यवस्था में भाग लेना
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8ad6c3106c57d796cf1b415d6a8104b043e6a215-776x978.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8ad6c3106c57d796cf1b415d6a8104b043e6a215-776x978.svg)
 
 तुलना करें **पूरे मार्ग की**, केवल शुरुआती शुल्क की नहीं। कोई सेवा खरीद पर कम शुल्क का विज्ञापन कर सकती है, लेकिन प्रतिकूल [विनिमय दर](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate) लागू कर सकती है या निकासी के लिए शुल्क ले सकती है। व्यक्ति-से-व्यक्ति लेन-देन का मार्ग गोपनीय लग सकता है, लेकिन उसमें समय, भरोसे और शारीरिक सुरक्षा की आवश्यकता हो सकती है।
 

@@ -28,7 +28,7 @@ Dit skep twee belangrike risiko's:
 [Likiditeitsrisiko: baie deposante staan vandag tou om geld te onttrek, en die bank het nou nie genoeg kontant nie, al kan sy lenings later terugbetaal word. Solvensierisiko: leners versuim om hul huislenings terug te betaal, en die bank se bates word minder werd as wat hy skuld.](/micrographics/liquidity-vs-solvency-01/af.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
 
 
 

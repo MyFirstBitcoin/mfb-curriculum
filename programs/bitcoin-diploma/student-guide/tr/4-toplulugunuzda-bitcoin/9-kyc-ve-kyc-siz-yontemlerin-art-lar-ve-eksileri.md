@@ -9,7 +9,7 @@
 > Ne [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) ne de [KYC'siz](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) yol kendiliğinden en iyisidir. Gerçek yolu karşılaştırın, kurallar belirsiz olduğunda güncel yerel rehberliğe başvurun ve [gizlilik](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy) uğruna yerel yasaları çiğnemeyin veya kendinizi fiziksel tehlikeye atmayın.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
 Bir [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) gerektiren hizmet; yasal adınızı, kimlik belgenizi, adresinizi, fotoğrafınızı, fon kaynağı bilgilerinizi veya başka kayıtları talep edebilir. Bu, hizmetin yerel kurallara uymasını, bankalarla bağlantı kurmasını, daha yüksek limitler belirlemesini veya hesap kurtarmayı desteklemesini sağlayabilir.
 

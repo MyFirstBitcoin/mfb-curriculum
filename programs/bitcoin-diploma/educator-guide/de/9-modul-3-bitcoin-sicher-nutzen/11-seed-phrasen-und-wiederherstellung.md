@@ -15,7 +15,7 @@ Vermitteln Sie die Konsequenzen:
 [Eine Seed-Phrase ist eine geordnete Liste von Wörtern, hier zwölf nummerierte Beispielwörter, auf Papier geschrieben. Die richtigen Wörter in der richtigen Reihenfolge können in einer kompatiblen Wallet die Kontrolle wiederherstellen, deshalb bleibt sie geheim und offline.](/micrographics/seed-phrase-on-paper-01/de.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
 
 #### Tun Sie dies niemals im Unterricht
 
@@ -56,4 +56,4 @@ Vermitteln Sie die Konsequenzen:
 
 Erbschaft, [Multisignatur](https://curriculum.myfirstbitcoin.org/lexicon/en/#multisignature)-Design, fortgeschrittene Passphrasen und die Wiederherstellungsplanung für hohe Werte können fortgeschrittene Sicherheitskenntnisse und professionelle Rechtsberatung erfordern. Sie gehören nicht zu den geforderten Leistungen des Bitcoin Diploma.
 
-![Die Lehrkraft leitet eine Diskussion über Wiederherstellungsbereitschaft, während die ältere Lernende eine leere Übungskarte in einen Umschlag steckt und der technisch versierte Lernende zusieht.](https://cdn.sanity.io/images/vje9ehw2/production/23cdb205174fa99b2d0df47ef606b53f8329f152-1054x1492.png)
+![Die Lehrkraft leitet eine Diskussion über Wiederherstellungsbereitschaft, während die ältere Lernende eine leere Übungskarte in einen Umschlag steckt und der technisch versierte Lernende zusieht.](https://cdn.sanity.io/images/vje9ehw2/staging/23cdb205174fa99b2d0df47ef606b53f8329f152-1054x1492.png)

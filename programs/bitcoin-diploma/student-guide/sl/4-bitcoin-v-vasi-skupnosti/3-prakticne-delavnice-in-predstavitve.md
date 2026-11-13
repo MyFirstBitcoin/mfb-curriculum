@@ -30,4 +30,4 @@ Pred vsakim prikazom v živo se prepričajte, da veste:
 
 Rezultat vaše delavnice naj bo pojasnilo ali usvojena spretnost, ne le opravljena [transakcija](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction).
 
-![Izobraževalec in lastnik podjetja skupaj vadita s telefonom za usposabljanje, pri čemer oba gledata zaslon, obrnjen proti njima.](https://cdn.sanity.io/images/vje9ehw2/production/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)
+![Izobraževalec in lastnik podjetja skupaj vadita s telefonom za usposabljanje, pri čemer oba gledata zaslon, obrnjen proti njima.](https://cdn.sanity.io/images/vje9ehw2/staging/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)

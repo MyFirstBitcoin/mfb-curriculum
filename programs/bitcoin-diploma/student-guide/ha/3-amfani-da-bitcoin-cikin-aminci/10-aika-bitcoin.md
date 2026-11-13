@@ -18,7 +18,7 @@ Aika kuɗi yana buƙatar ƙarin kulawa domin a Bitcoin, ingantacciyar [mu'amala]
 1. Ku gwada da ƙaramin adadi idan ba ku saba da tsarin ba.
 1. Ku amince ne kawai idan kowane abu ya yi daidai; sannan ku duba sakamakon biyan kuɗin.
 
-![Ɗalibi mai shekaru yana nuna wayar horo yayin da sabon ɗalibi yake duba wata wayar, kuma malami yana jagorantar kwatantawar.](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![Ɗalibi mai shekaru yana nuna wayar horo yayin da sabon ɗalibi yake duba wata wayar, kuma malami yana jagorantar kwatantawar.](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 
 <!-- micrographic: pre-send-checklist-01 -->
@@ -29,4 +29,4 @@ Don [biyan kuɗi a kan sarkar](https://curriculum.myfirstbitcoin.org/lexicon/en/
 
 Idan inda za a aika kuɗin ya canza ba zato ba tsammani, aka fara matsa a biya da gaggawa, ko wani ya nemi bayanan dawo da walat, me ya kamata ku yi? Ku dakata. Ku tabbatar da buƙatar ta wata hanya mai zaman kanta, ko ku nemi taimako ba tare da bayyana bayanan sirri ba.
 
-![Malami yana jagorantar sabon ɗalibi yayin da suke kwatanta waya da na'urar karɓar kuɗi ta mai kasuwancin kafin su amince da biyan kuɗi.](https://cdn.sanity.io/images/vje9ehw2/production/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)
+![Malami yana jagorantar sabon ɗalibi yayin da suke kwatanta waya da na'urar karɓar kuɗi ta mai kasuwancin kafin su amince da biyan kuɗi.](https://cdn.sanity.io/images/vje9ehw2/staging/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)

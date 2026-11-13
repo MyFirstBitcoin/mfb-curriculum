@@ -8,7 +8,7 @@
 
 Ano ang mangyayari kung tumigil sa paggana ang inyong telepono? Mananatili pa rin ang tala ng Bitcoin, ngunit ang pag-access ay nakadepende sa mga susi at paraan ng pagbawi na ginagamit ng wallet. Tumutulong ang wallet sa paglikha ng impormasyon para sa pagtanggap, pagpapakita ng mga balanse at [transaksiyon](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) sa mga nakaraang tala, at pagpapahintulot sa paggastos. Hindi nito inaalis ang pangangailangang maunawaan kung sino ang kumokontrol sa pag-access.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
 
 
 <!-- card: dark -->
@@ -33,4 +33,4 @@ Ihambing ang [pangangalaga sa mga pondo](https://curriculum.myfirstbitcoin.org/l
 > Sa panahon ng Diploma, maaari kayong gumawa ng wallet o isulat ang mga [salita para sa pagbawi](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) bilang bahagi ng pagsasanay. Ang silid-aralan ay isang kapaligiran para sa pag-aaral: maaaring makita, makopya, maibahagi, o malagay sa panganib ang impormasyon nang hindi sinasadya. Dahil dito, ang wallet para sa pagsasanay ay karaniwang dapat walang laman o isang simulasyon lamang at hindi dapat gamitin upang pangalagaan ang pondong may makabuluhang halaga. Kung praktikal, isinasara, nire-reset, o ibinabalik ito sa pagtatapos ng Diploma. Maaaring pumili ang inyong tagapagturo ng aktuwal na gawaing maliit lamang ang nakataya, ngunit dapat niyang ipaliwanag ang layunin nito at ang mga karagdagang panganib sa pagkapribado, seguridad, at pagkawala bago makilahok ang sinuman. Ang wallet na nilalayong mangalaga sa pondong may makabuluhang halaga ay nangangailangan ng bago at pribadong pag-setup at bagong impormasyon para sa pagbawi. Maaaring ipaliwanag ng inyong tagapagturo ang pagkakaiba, ngunit hindi kayo kailanman kinakailangang mag-set up ng personal na wallet upang makumpleto ang Diploma.
 
 
-![Ipinapakita ng tagapagturo kung paano gamitin ang isang teleponong para sa pagsasanay habang sinusuri ng baguhan at ng mga nakatatandang mag-aaral ang kani-kanilang mga aparato.](https://cdn.sanity.io/images/vje9ehw2/production/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)
+![Ipinapakita ng tagapagturo kung paano gamitin ang isang teleponong para sa pagsasanay habang sinusuri ng baguhan at ng mga nakatatandang mag-aaral ang kani-kanilang mga aparato.](https://cdn.sanity.io/images/vje9ehw2/staging/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)

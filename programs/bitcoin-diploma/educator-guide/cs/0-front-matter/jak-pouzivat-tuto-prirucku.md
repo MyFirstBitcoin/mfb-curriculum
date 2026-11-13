@@ -23,7 +23,7 @@ Když otevřete příručku k modulu, postupujte pokaždé ve stejném pořadí:
 
 Nadpisy se záměrně opakují. Toto opakování pomáhá novému vyučujícímu v orientaci; nejde o obsah, který je nutné si zapamatovat.
 
-![Vyučující ukazuje na schéma v otevřené příručce ke kurzu, zatímco začátečník a starší účastník sledují výklad ve svých příručkách.](https://cdn.sanity.io/images/vje9ehw2/production/f4e6dd8cd876afad89cef117fc6845f0b599f408-1054x1492.png)
+![Vyučující ukazuje na schéma v otevřené příručce ke kurzu, zatímco začátečník a starší účastník sledují výklad ve svých příručkách.](https://cdn.sanity.io/images/vje9ehw2/staging/f4e6dd8cd876afad89cef117fc6845f0b599f408-1054x1492.png)
 
 ### Co můžete říct, když si nejste jistí
 

@@ -24,4 +24,4 @@ Es handelt sich nicht um Noten. Beide Teile müssen abgeschlossen sein, und jede
 [Die theoretischen Kompetenzen C1 bis C5 und die praktischen Kompetenzen C6 und C7 müssen jeweils ein Ja erhalten, bevor das Abschlusszertifikat ausgestellt wird. „Noch nicht“ bedeutet mehr Übung und eine erneute Beurteilung; Anwesenheit und Reflexion ersetzen keine der beiden Prüfstufen.](/micrographics/two-completion-gates-01/de.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2783871f5851cf80c2e6e2a93eeb911607939507-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2783871f5851cf80c2e6e2a93eeb911607939507-1536x1024.svg)

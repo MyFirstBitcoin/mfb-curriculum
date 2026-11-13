@@ -23,4 +23,4 @@ Kai kurie žmonės atlieka kelis vaidmenis. [Kasėjas](https://curriculum.myfirs
 
 **Trumpas klausimas:** Kodėl [mazgas](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) tikrina [sandorius](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction)? Įvardykite bent vieną taisyklę, kurios laikymąsi [mazgas](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) tikrina.
 
-![Mokytojas padeda techninių dalykų besimokančiam dalyviui prie mazgo kompiuterio; monitorius atsuktas į juos, o žiūrovui matoma galinė jo korpuso dalis.](https://cdn.sanity.io/images/vje9ehw2/production/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)
+![Mokytojas padeda techninių dalykų besimokančiam dalyviui prie mazgo kompiuterio; monitorius atsuktas į juos, o žiūrovui matoma galinė jo korpuso dalis.](https://cdn.sanity.io/images/vje9ehw2/staging/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)

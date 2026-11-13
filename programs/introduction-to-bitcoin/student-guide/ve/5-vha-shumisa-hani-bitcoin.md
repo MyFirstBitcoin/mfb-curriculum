@@ -6,7 +6,7 @@ Ngauralo mbudziso ya u thoma nga ha tshikwama tshiṅwe na tshiṅwe ndi ya uri:
 
 ###### Ndi nnyi ane zwa vhukuma a fara bitcoin yavho?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 Nga **tshikwama tshine vha tshi langa vhone vhaṋe**, ndi vhone vhane vha langa khii.
 

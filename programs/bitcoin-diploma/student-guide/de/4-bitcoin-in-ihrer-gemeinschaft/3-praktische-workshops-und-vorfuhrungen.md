@@ -30,4 +30,4 @@ Vergewissern Sie sich vor jeder Live-Demonstration, dass Sie Folgendes wissen:
 
 Das Ergebnis Ihres Workshops sollte eine Erklärung oder eine Fähigkeit sein, nicht nur eine abgeschlossene [Transaktion](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction).
 
-![Die Lehrkraft und die Geschäftsinhaberin üben gemeinsam mit einem Übungshandy und schauen beide auf den Bildschirm, der ihnen zugewandt ist.](https://cdn.sanity.io/images/vje9ehw2/production/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)
+![Die Lehrkraft und die Geschäftsinhaberin üben gemeinsam mit einem Übungshandy und schauen beide auf den Bildschirm, der ihnen zugewandt ist.](https://cdn.sanity.io/images/vje9ehw2/staging/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)

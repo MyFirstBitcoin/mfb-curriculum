@@ -1,6 +1,6 @@
 # 3.14 Plaćanja na lancu i putem Lightning mreže
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
@@ -30,4 +30,4 @@ Koju putanju primalac očekuje? Pre plaćanja proverite da li je dostavio adresu
 
 Zamislite da pripremljeni scenario nudi obe putanje plaćanja. Koji zahtev predviđeni novčanik može da koristi i šta biste proverili pre nego što odobrite plaćanje? Odgovor zavisi od zahteva za prijem uplate, novčanika i situacije — a ne od neke univerzalno „najbolje“ putanje.
 
-![Predavač pokazuje dve različite geometrijske putanje plaćanja na tabli, dok ih polaznici početnici i polaznici sa tehničkim predznanjem razmatraju.](https://cdn.sanity.io/images/vje9ehw2/production/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)
+![Predavač pokazuje dve različite geometrijske putanje plaćanja na tabli, dok ih polaznici početnici i polaznici sa tehničkim predznanjem razmatraju.](https://cdn.sanity.io/images/vje9ehw2/staging/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)

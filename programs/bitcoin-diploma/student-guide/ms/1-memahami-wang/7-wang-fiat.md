@@ -15,7 +15,7 @@ Sistem fiat mempunyai beberapa peserta utama:
 [Pihak yang terlibat dalam sistem fiat dan perkara yang mengalir antara mereka: bank pusat menetapkan dasar dan menyelesaikan pembayaran antara bank, bank perdagangan memegang deposit yang menjadi liabiliti mereka kepada pelanggan, perkhidmatan pembayaran menyampaikan arahan, kerajaan mengutip cukai dan membuat perbelanjaan, manakala rakyat dan perniagaan membuat dan menerima bayaran.](/micrographics/fiat-system-flows-01/ms.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
 <!-- card: light -->

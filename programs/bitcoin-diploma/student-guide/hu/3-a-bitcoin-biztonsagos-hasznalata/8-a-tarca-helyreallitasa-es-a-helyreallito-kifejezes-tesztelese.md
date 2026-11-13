@@ -15,4 +15,4 @@ A Diploma elvégzése után ne használjon gyakorlótárcát vagy annak helyreá
 
 A cél nem az, hogy a helyreállítás könnyűnek tűnjön, hanem az, hogy megértse a folyamatot, mielőtt egy eszköz meghibásodása nyomást gyakorolna Önre.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/424d932ace1728a75636a76182ae9a42621ed91c-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/424d932ace1728a75636a76182ae9a42621ed91c-1536x1024.svg)

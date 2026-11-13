@@ -10,4 +10,4 @@ Przy każdym ćwiczeniu należy określić, czy jest to:
 
 Ćwiczenia z [Biblioteki ćwiczeń](https://curriculum.myfirstbitcoin.org/activities/en/) mogą wspierać naukę, praktykę i ocenę. Ich wykorzystanie nie oznacza, że każde ćwiczenie służy ocenie. Gdy wykorzystują Państwo ćwiczenie jako dowód, należy upewnić się, że daje ono każdej osobie uczącej się sprawiedliwą szansę wykazania się daną kompetencją, zachowuje jasno określone granice bezpieczeństwa i pozwala odnotować wynik: **Tak** lub **Jeszcze nie**. Nie muszą Państwo tworzyć obszernej dokumentacji dowodowej ani osobnego testu.
 
-![Edukator wspiera właściciela firmy i młodą osobę uczącą się podczas porównywania pustych kart dydaktycznych przy stole.](https://cdn.sanity.io/images/vje9ehw2/production/c7d2456d121e7dfd1f41cb2d3925208ba19bc52c-1054x1493.png)
+![Edukator wspiera właściciela firmy i młodą osobę uczącą się podczas porównywania pustych kart dydaktycznych przy stole.](https://cdn.sanity.io/images/vje9ehw2/staging/c7d2456d121e7dfd1f41cb2d3925208ba19bc52c-1054x1493.png)

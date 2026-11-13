@@ -36,4 +36,4 @@ Vissa plånböcker använder ytterligare lösenfraser, flera nycklar eller andra
 [Säkerhetskopiera en återställningsfras skriftligt i tre steg: plånbokens skärm visar orden, ni skriver av dem för hand på papper i samma ordning och kontrollerar sedan varje ord mot skärmen. Gör det i avskildhet och offline.](/micrographics/seed-phrase-paper-backup-01/sv.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)

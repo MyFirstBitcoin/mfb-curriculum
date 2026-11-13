@@ -15,7 +15,7 @@ Il sistema fiat ha diversi partecipanti principali:
 [Gli attori di un sistema fiat e ciò che passa tra di loro: la banca centrale definisce la politica monetaria e regola i pagamenti tra le banche, le banche commerciali detengono depositi che costituiscono una loro passività verso i clienti, i servizi di pagamento trasmettono le istruzioni, lo Stato riscuote le imposte e spende, e cittadini e imprese pagano e ricevono pagamenti.](/micrographics/fiat-system-flows-01/it.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
 <!-- card: light -->

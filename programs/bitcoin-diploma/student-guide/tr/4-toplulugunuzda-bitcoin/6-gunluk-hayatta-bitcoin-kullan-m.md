@@ -1,6 +1,6 @@
 # 4.6 Günlük Hayatta Bitcoin Kullanımı
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b86058296c3087bf7e2280da71b62bd19050e17b-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b86058296c3087bf7e2280da71b62bd19050e17b-1536x1024.svg)
 
 
 <!-- micrographic: daily-bitcoin-uses-01 -->

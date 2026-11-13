@@ -12,9 +12,9 @@ In un sistema di baratto, lo scambio funziona solo quando entrambe le persone de
 
 È un **mezzo di scambio**: le persone lo accettano come pagamento. È un'**unità di conto**: i prezzi sono espressi in esso, così possiamo confrontare il valore di cose diverse. Ed è una **riserva di valore**: trasferisce valore dal presente al futuro. Nessuna moneta conserva il valore in modo perfetto, ma alcune forme perdono potere d'acquisto più lentamente di altre.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Nel corso della storia, molte cose hanno svolto la funzione di denaro: conchiglie, sale, perline, bestiame, rame, argento e oro. I metalli preziosi si diffusero ampiamente perché erano scarsi, durevoli e largamente accettati. Ma trasportare e proteggere il metallo è difficile, così le banche iniziarono a emettere titoli cartacei che potevano essere convertiti in una quantità stabilita di metallo. Nelle diverse versioni del **gold standard**, un'unità monetaria era legata per legge a una quantità di oro. Le regole variavano a seconda del luogo e del periodo.
 

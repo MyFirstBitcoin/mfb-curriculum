@@ -9,7 +9,7 @@
 > Verken [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) eller [fravær av KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) er automatisk best. Sammenlign den faktiske fremgangsmåten, søk oppdatert lokal veiledning når reglene er uklare, og ikke bryt lokal lovgivning eller utsett Dem for fysisk fare i jakten på [personvern](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
 En [KYC-basert](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) tjeneste kan be om juridisk navn, identitetsdokument, adresse, fotografi, opplysninger om midlenes opprinnelse eller annen dokumentasjon. Dette kan gjøre det mulig for tjenesten å overholde lokale regler, knytte seg til banker, fastsette høyere grenser eller tilby gjenoppretting av kontoer.
 

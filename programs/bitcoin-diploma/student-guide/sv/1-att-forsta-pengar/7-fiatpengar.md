@@ -15,7 +15,7 @@ Fiatsystemet har flera huvudaktörer:
 [Aktörerna i ett fiatbaserat system och vad som förmedlas mellan dem: centralbanken fastställer penningpolitiken och avvecklar betalningar mellan banker, affärsbankerna tar emot insättningar som är deras skulder till kunderna, betaltjänsterna förmedlar instruktioner, staten tar ut skatt och gör utbetalningar, och medborgare och företag betalar och får betalt.](/micrographics/fiat-system-flows-01/sv.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
 <!-- card: light -->

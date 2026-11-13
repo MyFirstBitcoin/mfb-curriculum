@@ -20,4 +20,4 @@ Tlhokomeliso mabapi le mopeleto: **Bitcoin** e nang le B e kholo hangata e bolel
 
 Bitcoin le eona e na le melemo le mefokolo. Theko ea eona e ka fetoha ka potlako. Hangata liphoso ha li lokisehe. Libakeng tse ngata, kamohelo ea eona e ntse e lekanyelitsoe, 'me ho e sebelisa ka mokhoa o sireletsehileng ho hloka ho ithuta ho itseng. Bitcoin e nkela karolo e itseng ea ho tšepa mekhatlo sebaka ka ho netefatsa le ho jara boikarabelo ba motho ka mong. Ha e felise kotsi.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

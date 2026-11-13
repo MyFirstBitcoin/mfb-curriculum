@@ -15,7 +15,7 @@ Mensen kunnen bitcoin ontvangen via werk, een gemeenschapsbetaling, een uitwisse
 * **Peer-to-Peer-uitwisseling:** Twee personen kunnen [fiatgeld](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) of goederen rechtstreeks of via een koppelingsdienst ruilen voor bitcoin. Dit kan risico's met zich meebrengen op het gebied van de tegenpartij, fysieke veiligheid, het terugdraaien van betalingen en fraude.
 * **Exchange, broker, geldautomaat of kiosk:** Een dienst of apparaat kan een vertrouwde route bieden, maar kan gepaard gaan met kosten, identiteitscontroles, [bewaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), opnamelimieten of een ongunstige [Exchange Rate](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
 
 Stel uzelf de volgende vragen voordat u een route vergelijkt:
 

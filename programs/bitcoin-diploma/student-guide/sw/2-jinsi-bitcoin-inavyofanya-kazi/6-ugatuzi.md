@@ -28,4 +28,4 @@ Kwa Bitcoin, [ugatuaji](https://curriculum.myfirstbitcoin.org/lexicon/en/#decent
 
 [Ugatuaji](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) pia huleta gharama. Uratibu unaweza kuwa wa polepole zaidi. Watumiaji lazima wathibitishe taarifa na kubeba wajibu zaidi. Hakuna dawati kuu la usaidizi kwa [mtandao wa Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). [Mabadilishano haya ya faida na hasara](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) ni sehemu ya muundo, si kasoro za bahati mbaya zinazoweza kuondolewa bila kubadilisha mfumo.
 
-![Mwalimu anaelekeza kwenye mtandao ulio kwenye skrini ya darasa huku mwanafunzi anayeanza na mwanafunzi wa kiufundi wakiujadili mezani.](https://cdn.sanity.io/images/vje9ehw2/production/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)
+![Mwalimu anaelekeza kwenye mtandao ulio kwenye skrini ya darasa huku mwanafunzi anayeanza na mwanafunzi wa kiufundi wakiujadili mezani.](https://cdn.sanity.io/images/vje9ehw2/staging/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)

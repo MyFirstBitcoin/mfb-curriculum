@@ -1,6 +1,6 @@
 # 3.14 Biyan kuɗi a kan sarka da na Lightning
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
@@ -30,4 +30,4 @@ Wace hanya mai karɓa yake tsammani? Ku tabbatar ko ya bayar da adireshin karɓa
 
 Ku yi tunanin cewa wani yanayi da aka shirya yana ba da hanyoyin biyan kuɗi biyu. Wace buƙata walat ɗin da ake son amfani da shi zai iya biya, kuma me za ku bincika kafin ku amince da ita? Amsar ta dogara da buƙatar karɓar kuɗin, da walat ɗin, da kuma yanayin — ba da wata hanya guda da ta fi kowace hanya a kowane yanayi ba.
 
-![Malamin yana nuna hanyoyin biyan kuɗi guda biyu masu siffofin lissafi daban-daban a kan allo yayin da ɗalibai masu farawa da masu ilimin fasaha suke nazarinsu.](https://cdn.sanity.io/images/vje9ehw2/production/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)
+![Malamin yana nuna hanyoyin biyan kuɗi guda biyu masu siffofin lissafi daban-daban a kan allo yayin da ɗalibai masu farawa da masu ilimin fasaha suke nazarinsu.](https://cdn.sanity.io/images/vje9ehw2/staging/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)

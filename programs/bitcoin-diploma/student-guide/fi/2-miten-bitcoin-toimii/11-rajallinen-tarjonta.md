@@ -44,4 +44,4 @@ Lohkotuki oli aluksi 50 BTC lohkoa kohden. Se puolittuu toistuvasti, kunnes se o
 > Rajallinen tarjonta ei myöskään tarkoita, että jokainen bitcoin olisi myytävänä; joitakin saatetaan pitää hallussa pitkään, ja toisiin voidaan menettää pääsy avainten katoamisen vuoksi.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

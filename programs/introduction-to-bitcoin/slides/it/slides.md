@@ -19,7 +19,7 @@ Usiamo il denaro ogni giorno, eppure raramente ci chiediamo come funzioni.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## La maggior parte delle persone non si ferma mai a riflettere sul denaro
 
@@ -29,7 +29,7 @@ Non guadagnarlo, non spenderlo, ma riflettere su che cosa sia e su come funzioni
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Cinque domande per iniziare
 
@@ -49,7 +49,7 @@ Non guadagnarlo, non spenderlo, ma riflettere su che cosa sia e su come funzioni
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Fatto o opinione?
 
@@ -74,7 +74,7 @@ Il denaro è uno strumento di scambio.
 
 Entrambe le persone devono desiderare ciò che l'altra possiede, nello stesso momento e in quantità adeguate.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Utilizzi l'esempio della guida: Lei coltiva riso e ha bisogno di scarpe, ma il calzolaio vuole olio da cucina, non riso. Gli economisti chiamano questo fenomeno doppia coincidenza dei bisogni. -->
 
@@ -96,13 +96,13 @@ Entrambe le persone devono desiderare ciò che l'altra possiede, nello stesso mo
 
 Nessuno desidera il denaro fine a sé stesso. È utile perché gli altri lo accettano, aspettandosi che altri ancora lo accettino in futuro.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Una banconota è solo un pezzo di carta. Il denaro risolve il problema del baratto separando la vendita dall'acquisto: Lei vende il Suo riso a una persona e compra scarpe da un'altra. È questo che distingue il denaro dal baratto. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Tre funzioni del denaro
 
@@ -114,7 +114,7 @@ Nessuna moneta conserva il valore in modo perfetto, ma alcune forme perdono pote
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Dalle conchiglie alla carta
 
@@ -161,13 +161,13 @@ Quando le persone sentono la parola inflazione, di solito pensano all'aumento de
 
 ## Inflazione e potere d'acquisto
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: L'inflazione dei prezzi è un aumento persistente del livello generale dei prezzi. Il suo rovescio è il potere d'acquisto: quanto si può acquistare con un'unità di moneta. Se un paniere di beni di prima necessità passa da 100 a 110 unità di valuta, le stesse 100 unità non bastano più per acquistare l'intero paniere. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Molte cause, una sola scelta
 
@@ -285,7 +285,7 @@ Un bitcoin si divide in 100.000.000 di unità più piccole chiamate satoshi, o s
 
 ## Chi mantiene in funzione Bitcoin?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Gli utenti inviano, ricevono e detengono bitcoin; i nodi verificano ogni transazione e ogni blocco rispetto alle regole; i miner competono per aggiungere un nuovo blocco al registro circa ogni dieci minuti. Quel registro, la blockchain, è pubblico e molto costoso da riscrivere. Una nota sulla grafia: Bitcoin con la B maiuscola indica di solito la rete o il sistema; bitcoin con la b minuscola indica la moneta stessa. -->
 
@@ -330,7 +330,7 @@ Scegliere la custodia non è una prova di valore personale. Ciò che conta è sa
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## La Sua seed phrase dà accesso completo
 
@@ -350,7 +350,7 @@ Un elenco ordinato di parole, spesso 12 o 24, che può ricreare le Sue chiavi. C
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Prima di usare qualsiasi wallet
 
@@ -391,7 +391,7 @@ Un elenco ordinato di parole, spesso 12 o 24, che può ricreare le Sue chiavi. C
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Si fermi, non condivida nulla, non invii nulla
 
@@ -426,7 +426,7 @@ Questo è solo l'inizio.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Il Diploma Bitcoin
 

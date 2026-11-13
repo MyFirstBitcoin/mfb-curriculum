@@ -30,4 +30,4 @@ People also compare money by its [**soundness**](https://curriculum.myfirstbitco
 
 **Think critically:** Name a time when you chose one type of money or [asset](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) over another. What was the purpose? Compare the properties of the options you could have used. Which properties mattered most to you, and why?
 
-![All six characters collaborate on an offline teaching-card activity while the educator guides the discussion.](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![All six characters collaborate on an offline teaching-card activity while the educator guides the discussion.](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)

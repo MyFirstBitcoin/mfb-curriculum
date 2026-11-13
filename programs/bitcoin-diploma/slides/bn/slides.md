@@ -51,7 +51,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## অর্থ সম্পর্কে প্রাথমিক প্রশ্ন
 
@@ -82,7 +82,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## অর্থের কার্যাবলি
 
@@ -128,15 +128,15 @@ theme: mfb
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
 
 ## দুষ্প্রাপ্যতা, মূল্য ও বিনিময়
 
@@ -160,7 +160,7 @@ theme: mfb
 
 ## সুযোগ ব্যয়
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b79c74dedefcf834762da5d2301e0e6dc68ba9ad-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b79c74dedefcf834762da5d2301e0e6dc68ba9ad-1536x1024.svg)
 
 ---
 
@@ -203,7 +203,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## একটি স্থানীয় অর্থপ্রদান পর্যালোচনা করুন
 
@@ -244,11 +244,11 @@ theme: mfb
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 ## মুদ্রাস্ফীতি ও ক্রয়ক্ষমতা
 
@@ -351,7 +351,7 @@ CBDC হলো কেন্দ্রীয় ব্যাংকের দায
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)
 
 ## বিটকয়েন কেন তৈরি করা হয়েছিল
 
@@ -387,7 +387,7 @@ CBDC হলো কেন্দ্রীয় ব্যাংকের দায
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
 
 ## প্রাথমিক ডিজিটাল অর্থ ও দ্বৈত ব্যয়
 
@@ -408,7 +408,7 @@ CBDC হলো কেন্দ্রীয় ব্যাংকের দায
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)
 
 ## ডিজিটাল দুষ্প্রাপ্যতা ও যাচাইযোগ্য সরবরাহ
 
@@ -438,7 +438,7 @@ CBDC হলো কেন্দ্রীয় ব্যাংকের দায
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)
 
 ## বিকেন্দ্রীকরণ
 
@@ -469,7 +469,7 @@ CBDC হলো কেন্দ্রীয় ব্যাংকের দায
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
 [বিটকয়েনে চারটি ভূমিকা: ব্যবহারকারীরা বিটকয়েন গ্রহণ করেন, সংরক্ষণ করেন এবং পাঠান, নোডগুলো স্বাধীনভাবে নিয়মগুলো যাচাই করে, মাইনাররা কাজের প্রমাণের মাধ্যমে সম্ভাব্য ব্লক তৈরি করেন এবং ডেভেলপাররা সফটওয়্যার প্রস্তাব করেন। কোনো একটি ভূমিকা এককভাবে নেটওয়ার্ক নিয়ন্ত্রণ করে না।](/micrographics/bitcoin-participant-roles-01/bn.md)
@@ -488,7 +488,7 @@ CBDC হলো কেন্দ্রীয় ব্যাংকের দায
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/fb441d7e082e658fa8496bbeb4a1e764faad208b-1054x1493.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/fb441d7e082e658fa8496bbeb4a1e764faad208b-1054x1493.svg)
 
 ## কাজের প্রমাণ
 
@@ -502,14 +502,14 @@ CBDC হলো কেন্দ্রীয় ব্যাংকের দায
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 <!-- micrographic: proof-of-work-process-01 -->
 [একজন মাইনার একটি প্রস্তাবিত ব্লকের হ্যাশ বারবার গণনা করে, যতক্ষণ না কোনো একটি ফলাফল নেটওয়ার্কের নির্ধারিত লক্ষ্যের নিচে আসে, তারপর ব্লকটি সম্প্রচার করে। ব্লকটি ব্লকচেইনে যুক্ত হওয়ার আগে নোডগুলো দ্রুত প্রমাণটি যাচাই করে এবং প্রতিটি নিয়ম মানা হয়েছে কি না পরীক্ষা করে: কাজটি সম্পন্ন করা ব্যয়বহুল, কিন্তু যাচাই করা সহজ।](/micrographics/proof-of-work-process-01/bn.md)
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
 
 ## সীমিত সরবরাহ
 
@@ -535,7 +535,7 @@ CBDC হলো কেন্দ্রীয় ব্যাংকের দায
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/98c8cef9bc6e6d0955458f6fb4a71f1de5ed5225-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/98c8cef9bc6e6d0955458f6fb4a71f1de5ed5225-1536x1024.svg)
 
 ## সাতোশি এবং একক পক্ষপাত
 
@@ -735,7 +735,7 @@ Satoshi Nakamoto একটি ছদ্মনাম; এর স্রষ্ট�
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## সিড ফ্রেজসমূহ
 
@@ -771,7 +771,7 @@ Satoshi Nakamoto একটি ছদ্মনাম; এর স্রষ্ট�
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 ---
 
@@ -780,7 +780,7 @@ Satoshi Nakamoto একটি ছদ্মনাম; এর স্রষ্ট�
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/57f786b5525418d2bddc36af8cced7b1f0533e70-1054x1492.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/57f786b5525418d2bddc36af8cced7b1f0533e70-1054x1492.svg)
 
 ## হট ও কোল্ড ওয়ালেট
 
@@ -822,7 +822,7 @@ Satoshi Nakamoto একটি ছদ্মনাম; এর স্রষ্ট�
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/3eaf85ebf51d0327a1221d33b4745a62a44347b2-1055x1491.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/3eaf85ebf51d0327a1221d33b4745a62a44347b2-1055x1491.svg)
 
 ## বিটকয়েন পাঠানো
 
@@ -857,7 +857,7 @@ Satoshi Nakamoto একটি ছদ্মনাম; এর স্রষ্ট�
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## নিরাপত্তা যাচাইতালিকা
 
@@ -880,7 +880,7 @@ Satoshi Nakamoto একটি ছদ্মনাম; এর স্রষ্ট�
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
 
 ## বিটকয়েন অর্জন ও বিনিময়
 
@@ -1051,7 +1051,7 @@ Satoshi Nakamoto একটি ছদ্মনাম; এর স্রষ্ট�
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/4b62c836617bfcd268b6e464842a61a1f8b4614a-1055x1491.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/4b62c836617bfcd268b6e464842a61a1f8b4614a-1055x1491.svg)
 
 ## স্থানীয়ভাবে খরচ করা ও গ্রহণ করা
 
@@ -1129,7 +1129,7 @@ Satoshi Nakamoto একটি ছদ্মনাম; এর স্রষ্ট�
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
 
 ---
 

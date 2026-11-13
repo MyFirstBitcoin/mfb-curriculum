@@ -20,4 +20,4 @@ Ab leeral ci mbind mi: **Bitcoin** bu am B bu mag, lu ëpp, dafay tekki lëkkalo
 
 Bitcoin itam am na ay ngëneel ak ay ñàkk. Njëgam mën na soppeeku ci lu gaaw. Njuumte yi, lu ëpp, duñu leen mën a jubbanti. Fi ñuy nangoo fey ak moom dafa néew ba tey ci barab yu bare, te jëfandikoo ko ci kaaraange dafay laaj ab njàng. Bitcoin dafay wuutal genn wóolu gu ñu am ci këri doxalin yi ak saytu ak warugaru ku nekk. Dindiwul risk yi.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

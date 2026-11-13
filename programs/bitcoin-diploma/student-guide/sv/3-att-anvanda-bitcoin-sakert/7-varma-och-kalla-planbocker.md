@@ -32,4 +32,4 @@
 
 **Prova själv:** Förklara vilken [avvägning](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) som väger tyngst för en liten, fiktiv betalning respektive en mer sällan förekommande fiktiv betalning. Välj inte något verktyg eller belopp för era egna medel.
 
-![Läraren hjälper de äldre och teknikkunniga deltagarna att jämföra en telefon, en hårdvaruplånbok och en bärbar dator.](https://cdn.sanity.io/images/vje9ehw2/production/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)
+![Läraren hjälper de äldre och teknikkunniga deltagarna att jämföra en telefon, en hårdvaruplånbok och en bärbar dator.](https://cdn.sanity.io/images/vje9ehw2/staging/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)

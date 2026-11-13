@@ -17,4 +17,4 @@ Maak de volgende afspraken over deelname:
 * nooit een [seedphrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), [privé sleutel](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), wachtwoord of beveiligingsregeling prijsgeven; en
 * praktisch werk stoppen wanneer iets afwijkt van het gedemonstreerde proces.
 
-![De jonge deelnemer stelt een vraag terwijl de docent luistert en de andere vier deelnemers het gesprek volgen.](https://cdn.sanity.io/images/vje9ehw2/production/bf1185129657cd98555d2704565cf44deadbe59d-1054x1493.png)
+![De jonge deelnemer stelt een vraag terwijl de docent luistert en de andere vier deelnemers het gesprek volgen.](https://cdn.sanity.io/images/vje9ehw2/staging/bf1185129657cd98555d2704565cf44deadbe59d-1054x1493.png)

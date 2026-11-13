@@ -30,4 +30,4 @@ Ihmiset vertailevat rahaa myös sen [**vakauden perusteella**](https://curriculu
 
 **Ajatelkaa kriittisesti:** Kertokaa tilanteesta, jossa valitsitte tietyn rahamuodon tai [varallisuuserän](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) jonkin toisen sijaan. Mikä oli käyttötarkoitus? Vertailkaa käytettävissänne olleiden vaihtoehtojen ominaisuuksia. Mitkä ominaisuudet olivat teille tärkeimpiä ja miksi?
 
-![Kaikki kuusi hahmoa työskentelevät yhdessä ilman verkkoyhteyttä tehtävän opetuskorttiharjoituksen parissa opettajan ohjatessa keskustelua.](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![Kaikki kuusi hahmoa työskentelevät yhdessä ilman verkkoyhteyttä tehtävän opetuskorttiharjoituksen parissa opettajan ohjatessa keskustelua.](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)

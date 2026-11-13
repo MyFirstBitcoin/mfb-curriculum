@@ -22,4 +22,4 @@ Untuk memeriksa [transaksi](https://curriculum.myfirstbitcoin.org/lexicon/en/#tr
 [Sebuah transaksi menunggu tanpa konfirmasi di kumpulan transaksi tertunda, lalu dimasukkan ke dalam Blok N sebagai konfirmasi pertamanya, dan setiap blok berikutnya menambahkan satu konfirmasi lagi.](/micrographics/confirmation-timeline-01/id.md)
 
 
-![Pendidik dan peserta didik yang lebih tua mendiskusikan contoh yang telah disiapkan pada monitor yang menghadap ke kelompok, sementara peserta didik yang memahami teknologi mengoperasikan tetikus; penonton melihat penutup belakang monitor.](https://cdn.sanity.io/images/vje9ehw2/production/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)
+![Pendidik dan peserta didik yang lebih tua mendiskusikan contoh yang telah disiapkan pada monitor yang menghadap ke kelompok, sementara peserta didik yang memahami teknologi mengoperasikan tetikus; penonton melihat penutup belakang monitor.](https://cdn.sanity.io/images/vje9ehw2/staging/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)

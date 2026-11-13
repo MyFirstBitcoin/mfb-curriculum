@@ -6,7 +6,7 @@ Ensimmäinen kysymys mistä tahansa lompakosta on siis: **kuka hallitsee avaimia
 
 ###### Kenen hallussa bitcoininne oikeastaan ovat?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 Kun käytätte **itse hallinnoitua lompakkoa**, hallitsette avaimia itse.
 

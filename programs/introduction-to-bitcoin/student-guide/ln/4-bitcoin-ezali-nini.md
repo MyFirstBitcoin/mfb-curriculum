@@ -20,4 +20,4 @@ Liyebisi mpo na lolenge ya kokoma: **Bitcoin** oyo ebandi na B ya monene elakisa
 
 Bitcoin ezali mpe na matomba mpe makambo oyo esɛngi kondima. Ntalo na yango ekoki kobongwana nokinoki. Mbala mingi, mabunga ekoki kobongisama lisusu te. Bisika oyo endimamaka ezali naino mingi te na bisika mingi, mpe kosalela yango na bokɛngi esɛngaka koyekola mwa makambo. Bitcoin elongolaka ndambo ya kotyela bibongiseli motema mpe etyaka na esika na yango kotala soki makambo ezali solo mpe mokumba ya moto ye moko. Elongolaka likama te.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

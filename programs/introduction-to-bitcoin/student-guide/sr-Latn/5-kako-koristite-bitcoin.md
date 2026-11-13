@@ -6,7 +6,7 @@ Zato je prvo pitanje o svakom novčaniku: **ko kontroliše ključeve?**
 
 ###### Ko zapravo čuva vaš bitcoin?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 Uz **novčanik sa samostalnim čuvanjem ključeva**, vi kontrolišete ključeve.
 

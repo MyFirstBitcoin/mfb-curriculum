@@ -6,7 +6,7 @@ Peraturan awam Bitcoin, [rangkaian rakan ke rakan](https://curriculum.myfirstbit
 
 Ciri-ciri ini boleh memperkasakan peserta, tetapi turut meletakkan tanggungjawab yang lebih besar pada mereka. Tanpa pihak berkuasa pusat untuk meluluskan [transaksi](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), memulihkan akses, atau membatalkan pelbagai kesilapan, setiap orang mesti dapat mengenal pasti peranan dan risiko yang mereka terima.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
 
 Bagi seseorang yang memilih [penjagaan kendiri](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody), kawalan ke atas kunci memberikan kawalan langsung ke atas bitcoin. Tiada syarikat boleh membekukan baki dalam rantaian yang dikawal dengan betul. Tiada syarikat boleh memulihkan [frasa benih](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) yang hilang juga.
 

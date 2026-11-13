@@ -22,4 +22,4 @@ Bí ẹ ṣe ń kà á, ẹ kíyè sí ìyàtọ̀ láàárín òtítọ́ àti 
 
 Ó jẹ́ fún ète ẹ̀kọ́ nìkan. Kò pèsè ìmọ̀ràn nípa ìnáwó, ìdókòwò, òfin tàbí owó orí, kò sì sọ fún yín pé kí ẹ ra, tà tàbí di ohunkóhun mú.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)

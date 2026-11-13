@@ -1,6 +1,6 @@
 # 4.1 Bitcoin yhteisössänne
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
 
 Tämä on **Yhdistämisen** vaihe Bitcoin Diploma -koulutuksessa. Yhdistätte nykyaikaisen rahajärjestelmän puutteet ja [kompromissit](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off), Bitcoinin vastauksen sekä vastuun turvallisesta käytöstä **moduuleista 1–3** paikalliseen tarpeeseen tai mahdollisuuteen, realistiseen vaihtoehtoon ja turvalliseen käytännön tehtävään. Teidän ei odoteta ottavan Bitcoinia käyttöön tai päätyvän siihen, että se on paras vaihtoehto kaikissa paikallisissa tilanteissa.
 

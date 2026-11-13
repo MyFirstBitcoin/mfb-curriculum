@@ -25,4 +25,4 @@ Brug påstande, belæg og afvejninger:
 
 Detaljerede energistatistikker og [minedriftens](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) økonomi er ikke obligatorisk indhold i Bitcoin Diploma. Brug kun disse emner, når underviseren har verificeret aktuelle kilder, og diskussionen understøtter en kompetence.
 
-![Underviseren og den teknisk kyndige kursist udpeger separate enheder til minedrift og nodedrift, mens den ældre kursist deltager med en vejledning.](https://cdn.sanity.io/images/vje9ehw2/production/c42a629a0dff84d04b37397d56a45bf146f7110b-1054x1492.png)
+![Underviseren og den teknisk kyndige kursist udpeger separate enheder til minedrift og nodedrift, mens den ældre kursist deltager med en vejledning.](https://cdn.sanity.io/images/vje9ehw2/staging/c42a629a0dff84d04b37397d56a45bf146f7110b-1054x1492.png)

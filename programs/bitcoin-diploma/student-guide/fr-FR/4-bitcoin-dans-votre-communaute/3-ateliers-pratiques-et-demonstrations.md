@@ -30,4 +30,4 @@ Avant toute démonstration en direct, assurez-vous de savoir :
 
 Le résultat de votre atelier doit être une explication ou une compétence, et pas seulement une [transaction](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) effectuée.
 
-![Le formateur et le propriétaire du commerce s’exercent ensemble avec un téléphone de formation, tous deux regardant l’écran tourné vers eux.](https://cdn.sanity.io/images/vje9ehw2/production/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)
+![Le formateur et le propriétaire du commerce s’exercent ensemble avec un téléphone de formation, tous deux regardant l’écran tourné vers eux.](https://cdn.sanity.io/images/vje9ehw2/staging/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)

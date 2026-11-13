@@ -10,4 +10,4 @@ Pinigai lemia kasdienius pasirinkimus, susijusius su maistu, transportu, darbu, 
 
 Aptardami šiuos klausimus, atkreipkite dėmesį į skirtumą tarp fakto ir nuomonės. „Šis banknotas priimamas mokesčiams sumokėti“ yra faktas, kurį galima patikrinti. „Tai geriausia pinigų forma“ yra nuomonė arba išvada, kuriai pagrįsti reikia kriterijų ir įrodymų.
 
-![Visi šeši veikėjai susiburia prie stalų klasėje, o mokytojas vadovauja bendram skaitymui iš atversto kurso vadovo.](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![Visi šeši veikėjai susiburia prie stalų klasėje, o mokytojas vadovauja bendram skaitymui iš atversto kurso vadovo.](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)

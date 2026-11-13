@@ -13,7 +13,7 @@
 > [Köpkraft](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) är den mängd varor och tjänster som en penningenhet kan köpa. Om priset på en korg med basvaror stiger från 100 enheter av en [valuta](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) till 110, räcker samma 100 enheter inte längre till hela korgen. Deras [köpkraft](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) i förhållande till den korgen har minskat.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->

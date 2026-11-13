@@ -1,6 +1,6 @@
 # 3.14 Mga Pagbabayad sa On-chain at Lightning
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
@@ -30,4 +30,4 @@ Aling paraan ang inaasahan ng tatanggap? Tiyakin kung nagbigay sila ng isang on-
 
 Isipin ninyo na ang isang inihandang senaryo ay nag-aalok ng parehong paraan ng pagbabayad. Aling kahilingan ang maaaring gamitin ng wallet na balak ninyong gamitin, at ano ang susuriin ninyo bago ito aprubahan? Nakadepende ang sagot sa kahilingan ng tatanggap, sa wallet, at sa sitwasyon — hindi sa isang “pinakamahusay” na paraan para sa lahat.
 
-![Itinuturo ng tagapagturo ang dalawang magkaibang heometrikong landas ng pagbabayad sa isang pisara habang pinag-iisipan ang mga ito ng mga baguhan at mga mag-aaral na may kaalamang teknikal.](https://cdn.sanity.io/images/vje9ehw2/production/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)
+![Itinuturo ng tagapagturo ang dalawang magkaibang heometrikong landas ng pagbabayad sa isang pisara habang pinag-iisipan ang mga ito ng mga baguhan at mga mag-aaral na may kaalamang teknikal.](https://cdn.sanity.io/images/vje9ehw2/staging/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)

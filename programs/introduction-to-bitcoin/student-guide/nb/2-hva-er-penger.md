@@ -12,9 +12,9 @@ I et system med byttehandel fungerer handel bare når begge parter ønsker det d
 
 De er et **byttemiddel**: folk tar imot dem som betaling. De er en **regneenhet**: priser uttrykkes i penger, slik at vi kan sammenligne verdien av ulike ting. Og de er et **verdioppbevaringsmiddel**: de overfører verdi fra i dag til fremtiden. Ingen form for penger bevarer verdi perfekt, men noen former taper kjøpekraft saktere enn andre.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Gjennom historien har mange ting fungert som penger: skjell, salt, perler, husdyr, kobber, sølv og gull. Edelmetaller ble mye brukt fordi de var sjeldne, holdbare og allment akseptert. Men det er vanskelig å frakte og beskytte metall, så banker begynte å utstede papirbevis som kunne løses inn mot en angitt mengde metall. Under ulike varianter av en **gullstandard** var en valutaenhet ved lov knyttet til en mengde gull. Reglene varierte fra sted til sted og fra periode til periode.
 

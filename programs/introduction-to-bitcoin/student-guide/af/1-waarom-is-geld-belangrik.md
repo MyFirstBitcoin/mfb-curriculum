@@ -22,4 +22,4 @@ Hierdie gids is rondom ses vrae opgebou: waarom geld saak maak, wat dit is, wat 
 
 Dit is slegs vir opvoedkundige doeleindes. Dit verskaf nie finansiële, beleggings-, regs- of belastingadvies nie, en dit sê nie vir u om enigiets te koop, te verkoop of te behou nie.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)

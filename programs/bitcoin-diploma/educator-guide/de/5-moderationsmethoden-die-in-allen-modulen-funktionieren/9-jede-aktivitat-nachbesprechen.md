@@ -9,4 +9,4 @@ Eine Aktivität erklärt sich nicht von selbst. Führen Sie die Nachbesprechung 
 
 Korrigieren Sie irreführende Eindrücke, die durch die Aktivität entstanden sind. Ein [Bank-Run](https://curriculum.myfirstbitcoin.org/lexicon/en/#bank-run)-Spiel mit Spielmarken bildet beispielsweise weder eine echte Bankbilanz noch die lokale Regulierung ab. Ein Rollenspiel mit Minern und Nodes simuliert nicht die vollständige technische Funktionsweise des Netzwerks.
 
-![Der ältere Lernende teilt eine Überlegung mit, während die Lehrkraft und die anderen vier Lernenden an einem Klassentisch zuhören.](https://cdn.sanity.io/images/vje9ehw2/production/d3105150b0f302dd2293202fb5d66c5c422d08ac-1054x1493.png)
+![Der ältere Lernende teilt eine Überlegung mit, während die Lehrkraft und die anderen vier Lernenden an einem Klassentisch zuhören.](https://cdn.sanity.io/images/vje9ehw2/staging/d3105150b0f302dd2293202fb5d66c5c422d08ac-1054x1493.png)

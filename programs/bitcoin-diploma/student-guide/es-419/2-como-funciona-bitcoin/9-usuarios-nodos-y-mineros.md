@@ -23,4 +23,4 @@ Algunas personas desempeñan varios roles. Un [minero](https://curriculum.myfirs
 
 **Pregunta puntual:** ¿Por qué un [nodo](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) verifica [transacciones](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction)? Nombre al menos una regla que un [nodo](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) comprueba.
 
-![El educador guía al estudiante técnico frente a una computadora que ejecuta un nodo, con el monitor orientado hacia ambos y su carcasa trasera visible para el espectador.](https://cdn.sanity.io/images/vje9ehw2/production/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)
+![El educador guía al estudiante técnico frente a una computadora que ejecuta un nodo, con el monitor orientado hacia ambos y su carcasa trasera visible para el espectador.](https://cdn.sanity.io/images/vje9ehw2/staging/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)

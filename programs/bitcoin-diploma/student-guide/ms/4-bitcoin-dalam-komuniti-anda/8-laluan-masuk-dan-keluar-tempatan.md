@@ -1,6 +1,6 @@
 # 4.8 Laluan Masuk dan Keluar Tempatan
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/16d4da9fcdbc76a89acbef6bf760d3199ea7a843-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/16d4da9fcdbc76a89acbef6bf760d3199ea7a843-1536x1024.svg)
 
 Satu [**laluan masuk**](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-ramp) ialah laluan daripada wang tempatan, kerja, atau [aset](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) lain kepada bitcoin. Satu [**laluan keluar**](https://curriculum.myfirstbitcoin.org/lexicon/en/#off-ramp) ialah laluan daripada bitcoin kepada wang tempatan, barangan, atau perkhidmatan. Laluan yang sama boleh memainkan kedua-dua peranan.
 
@@ -14,7 +14,7 @@ Laluan tempatan boleh merangkumi:
 * menggunakan perkhidmatan pembayaran yang menukar antara bitcoin dengan wang fiat
 * menyertai ekonomi kitaran tempatan
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8ad6c3106c57d796cf1b415d6a8104b043e6a215-776x978.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8ad6c3106c57d796cf1b415d6a8104b043e6a215-776x978.svg)
 
 Bandingkan **keseluruhan laluan**, bukan hanya fi awal. Sesuatu perkhidmatan mungkin mengiklankan fi pembelian yang rendah tetapi menggunakan [kadar pertukaran](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate) yang tidak menguntungkan atau mengenakan caj pengeluaran. Laluan rakan ke rakan mungkin kelihatan menjaga privasi tetapi memerlukan masa, kepercayaan, dan keselamatan fizikal.
 

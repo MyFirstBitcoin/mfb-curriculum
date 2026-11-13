@@ -36,4 +36,4 @@ Noen lommebøker bruker ekstra passfraser, flere nøkler eller andre systemer fo
 [Sikkerhetskopiering av en gjenopprettingsfrase i tre trinn: Lommebokens skjerm viser ordene, De skriver dem av for hånd på papir i samme rekkefølge, og kontrollerer deretter hvert ord mot skjermen. Gjør dette uten innsyn fra andre og uten nettilkobling.](/micrographics/seed-phrase-paper-backup-01/nb.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)

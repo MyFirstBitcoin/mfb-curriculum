@@ -18,7 +18,7 @@ Enviar requiere más cuidado porque, si es válida, en Bitcoin una [transacción
 1. Haga una prueba con un monto pequeño cuando no esté familiarizado con el proceso.
 1. Apruebe solo cuando todos los elementos coincidan; luego verifique el resultado del pago.
 
-![El estudiante de mayor edad muestra un celular de práctica mientras el principiante revisa otro celular y el educador guía la comparación.](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![El estudiante de mayor edad muestra un celular de práctica mientras el principiante revisa otro celular y el educador guía la comparación.](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 
 <!-- micrographic: pre-send-checklist-01 -->
@@ -29,4 +29,4 @@ En un [pago en cadena](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chai
 
 Si el destino cambia inesperadamente, la solicitud se vuelve urgente o alguien le pide información de recuperación, ¿qué debe hacer? Deténgase. Verifique la solicitud por su cuenta o pida ayuda sin compartir información secreta.
 
-![El educador guía al estudiante principiante mientras comparan un celular con el dispositivo de recepción del propietario del negocio antes de aprobar un pago.](https://cdn.sanity.io/images/vje9ehw2/production/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)
+![El educador guía al estudiante principiante mientras comparan un celular con el dispositivo de recepción del propietario del negocio antes de aprobar un pago.](https://cdn.sanity.io/images/vje9ehw2/staging/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)

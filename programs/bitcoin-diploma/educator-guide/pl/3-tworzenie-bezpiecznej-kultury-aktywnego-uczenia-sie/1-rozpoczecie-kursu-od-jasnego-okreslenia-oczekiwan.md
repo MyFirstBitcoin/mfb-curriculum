@@ -17,4 +17,4 @@ Proszę ustalić następujące zasady uczestnictwa:
 * nigdy nie ujawniać [frazy odzyskiwania](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), [klucza prywatnego](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), hasła ani stosowanych zabezpieczeń; oraz
 * przerwać ćwiczenia praktyczne, gdy coś odbiega od zademonstrowanego przebiegu.
 
-![Młoda osoba ucząca się zadaje pytanie, a osoba prowadząca słucha i pozostałe cztery osoby uczące się śledzą dyskusję.](https://cdn.sanity.io/images/vje9ehw2/production/bf1185129657cd98555d2704565cf44deadbe59d-1054x1493.png)
+![Młoda osoba ucząca się zadaje pytanie, a osoba prowadząca słucha i pozostałe cztery osoby uczące się śledzą dyskusję.](https://cdn.sanity.io/images/vje9ehw2/staging/bf1185129657cd98555d2704565cf44deadbe59d-1054x1493.png)

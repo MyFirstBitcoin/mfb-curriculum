@@ -16,4 +16,4 @@ Elija dos o tres de estos ejemplos, no todos. Consulte la [Biblioteca de activid
 
 Use [juegos de consenso](https://curriculum.myfirstbitcoin.org/lexicon/en/#consensus), actividades de hashing, videos y juegos de roles solo cuando su propósito, el momento de aplicación, el contexto de los estudiantes y la reflexión posterior estén bien fundamentados. Una actividad aporta evidencia teórica guiada por el educador únicamente cuando constituye una instancia alineada con la competencia y cuenta con evidencia individual, una rúbrica y un proceso de registro. De lo contrario, úsela con fines formativos.
 
-![El dueño del negocio explica una red de pares mientras el educador escucha y el joven estudiante sigue la explicación con un cuaderno.](https://cdn.sanity.io/images/vje9ehw2/production/359b55ce824c4e7e1fb6d3f1e0b5dbc01f7c6db6-1054x1493.png)
+![El dueño del negocio explica una red de pares mientras el educador escucha y el joven estudiante sigue la explicación con un cuaderno.](https://cdn.sanity.io/images/vje9ehw2/staging/359b55ce824c4e7e1fb6d3f1e0b5dbc01f7c6db6-1054x1493.png)

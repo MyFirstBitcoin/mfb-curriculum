@@ -8,7 +8,7 @@
 
 Stel u voor dat **Amina** rys het en skoene wil hê. **Luis** het skoene maar wil kookolie hê, nie rys nie. **Mei** het kookolie en wil herstelwerk laat doen. Amina moet dalk verskeie ruiltransaksies aangaan voordat sy die skoene kan bekom. Elke ruiltransaksie neem tyd en vereis ooreenstemming oor [waarde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
 
 
 <!-- micrographic: barter-mismatch-01 -->
@@ -29,7 +29,7 @@ Vir [ruilhandel](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) om di
 
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
 
 <!-- micrographic: sell-then-buy-01 -->

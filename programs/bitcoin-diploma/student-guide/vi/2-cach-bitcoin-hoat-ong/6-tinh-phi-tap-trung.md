@@ -28,4 +28,4 @@ Bitcoin có tính [phi tập trung](https://curriculum.myfirstbitcoin.org/lexico
 
 [Tính phi tập trung](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) cũng đi kèm với những cái giá phải trả. Việc phối hợp có thể chậm hơn. Người dùng phải xác minh thông tin và chịu trách nhiệm nhiều hơn. Không có bộ phận hỗ trợ trung tâm cho [mạng Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). Những [sự đánh đổi](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) này là một phần của thiết kế, chứ không phải những khiếm khuyết ngẫu nhiên có thể loại bỏ mà không làm thay đổi hệ thống.
 
-![Giảng viên chỉ vào một mạng lưới trên màn hình lớp học, trong khi người mới bắt đầu và những học viên có kiến thức kỹ thuật thảo luận về mạng lưới đó tại bàn.](https://cdn.sanity.io/images/vje9ehw2/production/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)
+![Giảng viên chỉ vào một mạng lưới trên màn hình lớp học, trong khi người mới bắt đầu và những học viên có kiến thức kỹ thuật thảo luận về mạng lưới đó tại bàn.](https://cdn.sanity.io/images/vje9ehw2/staging/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)

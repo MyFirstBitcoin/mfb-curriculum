@@ -9,7 +9,7 @@ Az emberek gyakran keresnek alternatívákat a készpénztartásra, ha úgy vél
 
 Egy [eszköz](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) olyasmi, amit valaki birtokolhat, vagy amire igényt tarthat, és aminek lehet [értéke](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); ettől azonban még nem tölti be automatikusan a pénz minden funkcióját. Egy otthon őrizhet [értéket](https://curriculum.myfirstbitcoin.org/lexicon/en/#value), de élelmiszervásárlásra nem praktikus. Egy részvényt az egyik országban könnyű lehet eladni, míg egy brókerszámlával nem rendelkező személy számára elérhetetlen lehet. [Az arany](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) a történelem hosszú időszakain át pénzként szolgált, de egy kisebb csereügylet során nehéz lehet ellenőrizni a valódiságát vagy kisebb részekre osztani.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 Az emberek választhatnak külföldi [valutát](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency), állami [kötvényeket](https://curriculum.myfirstbitcoin.org/lexicon/en/#bond), magánvállalkozásokat, földet, szerszámokat, oktatást vagy más [eszközöket](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) is. Minden választás [alternatív költséggel](https://curriculum.myfirstbitcoin.org/lexicon/en/#opportunity-cost) és kockázattal jár. Nincs olyan [eszköz](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset), amely garantálná a [vásárlóerőt](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) minden időszakban és helyzetben.
 

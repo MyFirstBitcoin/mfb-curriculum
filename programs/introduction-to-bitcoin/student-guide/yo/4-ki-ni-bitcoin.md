@@ -20,4 +20,4 @@ Nẹ́tíwọ́ọ̀kì náà gbára lé onírúurú olùkópa: **àwọn aṣà
 
 Bitcoin tún ní àwọn àǹfààní àti àléébù. Iye owó rẹ̀ lè yí padà kíákíá. Àṣìṣe kì í sábà ṣeé tún ṣe. Gbigbà á gẹ́gẹ́ bí owó ṣì ní ààlà ní ọ̀pọ̀ ibi, lílò ó láìléwu sì nílò kí a kọ́ àwọn nǹkan kan. Bitcoin ń fi ìṣàyẹ̀wò àti ojúṣe ara ẹni rọ́pò díẹ̀ lára ìgbẹ́kẹ̀lé nínú àwọn àjọ. Kò mú ewu kúrò.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

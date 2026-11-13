@@ -27,7 +27,7 @@ Jokainen moduuli noudattaa samaa rytmiä:
 
 Opitte enemmän osallistumalla kuin lukemalla hiljaa. Joihinkin kysymyksiin ei ole yhtä oikeaa vastausta. Olennaista on, osaatteko perustella näkemyksenne, tarkastella näyttöä ja muuttaa näkemystänne oppiessanne jotakin uutta.
 
-![Yrittäjä osoittaa avoimessa oppaassa olevaa yksinkertaista kaaviota, ja opettaja keskustelee siitä hänen kanssaan luokkahuoneen pöydän ääressä.](https://cdn.sanity.io/images/vje9ehw2/production/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
+![Yrittäjä osoittaa avoimessa oppaassa olevaa yksinkertaista kaaviota, ja opettaja keskustelee siitä hänen kanssaan luokkahuoneen pöydän ääressä.](https://cdn.sanity.io/images/vje9ehw2/staging/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
 
 ### Keskustelua ja yksityisyyttä koskevat odotukset
 
@@ -50,7 +50,7 @@ Opettajanne selittää kaikki vaaditut arviointitehtävät. Teoreettista osaamis
 
 Opettajanne kirjaa arviointitaulukkoon yhden tuloksen kustakin edellä mainitusta seitsemästä osaamisalueesta. `C1`–`C5` arvioidaan omien selitystenne ja päätöstenne perusteella; `C6`–`C7` edellyttävät suoraa havainnointia. Sekä lompakko- ja vastaanottotehtävä että palautusvalmiustehtävä ovat pakollisia osia osaamisalueessa `C6`.
 
-![Opettaja vastaa aloittelevan oppijan viittaukseen samalla, kun vanhempi oppija seuraa mukana avoimesta kurssioppaasta.](https://cdn.sanity.io/images/vje9ehw2/production/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
+![Opettaja vastaa aloittelevan oppijan viittaukseen samalla, kun vanhempi oppija seuraa mukana avoimesta kurssioppaasta.](https://cdn.sanity.io/images/vje9ehw2/staging/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
 
 ### Vaadittavat ennakkotiedot: ei mitään
 

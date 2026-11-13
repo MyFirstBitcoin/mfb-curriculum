@@ -41,4 +41,4 @@ Jangan pernah menampilkan data asli peserta didik berupa [frasa seed](https://cu
 
 Jangan mengubah klaim dalam teks yang disertai batasan menjadi visual yang bersifat mutlak. Grafik pasokan tidak boleh menyiratkan kenaikan [harga](https://curriculum.myfirstbitcoin.org/lexicon/en/#price). Peta [desentralisasi](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) tidak boleh menyiratkan pengaruh yang setara. Gambar dompet tidak boleh menyiratkan bahwa bitcoin disimpan di dalam perangkat.
 
-![Pendidik menjelaskan enam simpul sejawat yang saling terhubung di papan tulis kepada kelima peserta didik, termasuk peserta didik muda yang mengenakan kupluk oranye.](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![Pendidik menjelaskan enam simpul sejawat yang saling terhubung di papan tulis kepada kelima peserta didik, termasuk peserta didik muda yang mengenakan kupluk oranye.](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)

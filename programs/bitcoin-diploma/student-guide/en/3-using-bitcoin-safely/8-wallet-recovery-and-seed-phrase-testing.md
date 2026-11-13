@@ -15,4 +15,4 @@ Do not use a training wallet or its recovery information to secure meaningful fu
 
 The point is not to make recovery feel easy. It is to understand the process before a device failure creates pressure.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/424d932ace1728a75636a76182ae9a42621ed91c-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/424d932ace1728a75636a76182ae9a42621ed91c-1536x1024.svg)

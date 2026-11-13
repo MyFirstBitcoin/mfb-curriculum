@@ -21,7 +21,7 @@ Kartlegg et enkelt lokalt kretsløp:
 1. Hva skjer når internettilgangen svikter?
 1. Hvilke [oppbevaringsrisikoer](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) og [prisrelaterte](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) risikoer bærer hver deltaker?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
 
 En sunn sirkulærøkonomi er avhengig av frivillig deltakelse. Næringsdrivende og arbeidstakere bør kunne identifisere betalings-, prisings-, [oppbevarings-](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), regnskaps- og [volatilitetsrelaterte](https://curriculum.myfirstbitcoin.org/lexicon/en/#volatility) risikoer. Tall på utbredelse alene viser ikke om nettverket er nyttig.
 

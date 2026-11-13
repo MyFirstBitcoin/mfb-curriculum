@@ -25,4 +25,4 @@ Matematiği değil, ilişkiyi öğretin:
 
 Ayrıntılı enerji istatistikleri ve [madencilik](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) ekonomisi, Bitcoin Diploma'nın zorunlu içeriği değildir. Bunları yalnızca eğitmen güncel kaynakları doğruladığında ve tartışma bir yetkinliği desteklediğinde kullanın.
 
-![Eğitmen ve teknik öğrenci ayrı madencilik ve düğüm cihazlarını gösterirken yaşça büyük öğrenci bir rehber eşliğinde etkinliğe katılıyor.](https://cdn.sanity.io/images/vje9ehw2/production/c42a629a0dff84d04b37397d56a45bf146f7110b-1054x1492.png)
+![Eğitmen ve teknik öğrenci ayrı madencilik ve düğüm cihazlarını gösterirken yaşça büyük öğrenci bir rehber eşliğinde etkinliğe katılıyor.](https://cdn.sanity.io/images/vje9ehw2/staging/c42a629a0dff84d04b37397d56a45bf146f7110b-1054x1492.png)

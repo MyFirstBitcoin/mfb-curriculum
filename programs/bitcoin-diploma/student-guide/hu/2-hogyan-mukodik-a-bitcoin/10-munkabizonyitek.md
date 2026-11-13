@@ -1,6 +1,6 @@
 # 2.10 Munkabizonyíték
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
 <!-- card: definition -->
@@ -29,4 +29,4 @@ Amikor egy [bányász](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) 
 
 [A munkavégzés igazolása](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) valós energiaköltséggel jár. Támogatói szerint ez a költség alapozza meg a Bitcoin biztonságát, és keresletet teremthet a rugalmasan rendelkezésre álló vagy egyébként kihasználatlan energia iránt. Kritikusai a felhasznált energia mennyiségét és forrását kérdőjelezik meg. A felelős értékelés azt vizsgálja, hogy milyen energiát használnak fel, honnan származik, milyen biztonságot nyújt, és milyen alternatívákkal vetik össze.
 
-![Az oktató, a kezdő tanuló és a műszaki érdeklődésű tanuló egy ventilátorral és külön tápegységgel rendelkező asztali bányászeszközről beszélget.](https://cdn.sanity.io/images/vje9ehw2/production/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)
+![Az oktató, a kezdő tanuló és a műszaki érdeklődésű tanuló egy ventilátorral és külön tápegységgel rendelkező asztali bányászeszközről beszélget.](https://cdn.sanity.io/images/vje9ehw2/staging/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)

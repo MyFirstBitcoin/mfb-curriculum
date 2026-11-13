@@ -6,7 +6,7 @@ Bitcoins offentliga regler, [peer-to-peer-nätverk](https://curriculum.myfirstbi
 
 Dessa egenskaper kan ge deltagarna större handlingsfrihet, men de lägger också ett större ansvar på dem. Utan en central instans som kan godkänna [transaktioner](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), återställa åtkomst eller rätta till många typer av fel måste varje person kunna identifiera den roll och de risker som personen accepterar.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
 
 För en person som väljer [egenförvaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) ger kontroll över nycklarna direkt kontroll över bitcoin. Inget företag kan frysa ett saldo på blockkedjan när nycklarna hanteras korrekt. Inget företag kan återställa en förlorad [återställningsfras](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) heller.
 

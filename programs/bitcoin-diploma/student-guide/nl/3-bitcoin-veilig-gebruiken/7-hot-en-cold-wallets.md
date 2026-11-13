@@ -32,4 +32,4 @@
 
 **Probeer het:** Leg voor een kleine, fictieve betaling en voor een minder frequente fictieve betaling uit welke [afweging](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) zwaarder weegt. Kies geen tool of bedrag voor uw eigen geld.
 
-![De docent helpt de oudere en technische cursisten een telefoon, een hardware wallet en een laptop met elkaar te vergelijken.](https://cdn.sanity.io/images/vje9ehw2/production/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)
+![De docent helpt de oudere en technische cursisten een telefoon, een hardware wallet en een laptop met elkaar te vergelijken.](https://cdn.sanity.io/images/vje9ehw2/staging/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)

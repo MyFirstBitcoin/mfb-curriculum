@@ -4,7 +4,7 @@
 
 Peer-to-peer betyder ikke altid, at kun to computere kommunikerer direkte. En [transaktion](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) kan passere gennem wallets, internetudbydere og mange af netværkets [noder](https://curriculum.myfirstbitcoin.org/lexicon/en/#node). Det væsentlige er, at ingen central Bitcoin-operatør skal godkende afsenderen eller modtageren.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
 
 
 <!-- micrographic: peer-to-peer-route-01 -->

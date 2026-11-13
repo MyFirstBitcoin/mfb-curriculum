@@ -30,4 +30,4 @@ Människor jämför också pengar utifrån deras [**sundhet**](https://curriculu
 
 **Tänk kritiskt:** Beskriv ett tillfälle då ni valde en typ av pengar eller [tillgång](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) framför en annan. Vad var syftet? Jämför egenskaperna hos de alternativ ni kunde ha använt. Vilka egenskaper var viktigast för er, och varför?
 
-![Alla sex karaktärerna samarbetar i en aktivitet med undervisningskort utan internetuppkoppling medan läraren leder diskussionen.](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![Alla sex karaktärerna samarbetar i en aktivitet med undervisningskort utan internetuppkoppling medan läraren leder diskussionen.](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)

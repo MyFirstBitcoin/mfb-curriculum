@@ -1,6 +1,6 @@
 # 4.1 Bitcoin a Cikin Al’ummarku
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
 
 Wannan shi ne matakin **Haɗawa** na Difloma ta Bitcoin. Za ku haɗa matsalolin tsarin kuɗi na zamani da [abubuwan da ake samu da waɗanda ake rasa](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off), da yadda Bitcoin ke magance su, da alhakin yin amfani da shi cikin aminci daga **Sassa na 1–3** da wata buƙata ko dama a yankinku, da wani zaɓi mai yiwuwa a zahiri, da kuma wani aikin gwaji mai aminci. Ba a sa ran ku fara amfani da Bitcoin ko ku yanke hukuncin cewa shi ne zaɓi mafi kyau a kowane yanayi a yankinku ba.
 

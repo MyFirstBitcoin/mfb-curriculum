@@ -15,7 +15,7 @@ Il est possible de recevoir du bitcoin par le travail, un paiement communautaire
 * **Échange de pair à pair :** Deux personnes peuvent échanger de la [monnaie fiduciaire](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) ou des biens contre du bitcoin, directement ou par l’intermédiaire d’un service de mise en relation. Cela peut entraîner des risques de contrepartie, de sécurité physique, d’annulation de paiement et de fraude.
 * **Plateforme d’échange, courtier, distributeur automatique ou borne :** Un service ou une machine peut offrir une voie familière, mais peut impliquer des frais, des vérifications d’identité, la [garde](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), des limites de retrait ou un mauvais [taux de change](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
 
 Avant de comparer une voie, posez-vous les questions suivantes :
 

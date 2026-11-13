@@ -13,7 +13,7 @@
 > [Kjøpekraft](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) er mengden varer og tjenester én pengeenhet kan kjøpe. Hvis prisen på en kurv med grunnleggende varer stiger fra 100 enheter av en [valuta](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) til 110, kan de samme 100 enhetene ikke lenger kjøpe hele kurven. Deres [kjøpekraft](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) i forhold til denne kurven har falt.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->

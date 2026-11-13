@@ -18,4 +18,4 @@ Bitcoin, dijital [kıtlığı](https://curriculum.myfirstbitcoin.org/lexicon/en/
 [Bir web sitesinde veya bir ihraççının veritabanında yazılı bir arz sınırı, o ihraççı tarafından sessizce değiştirilebilir. Bitcoin'in arz kuralı herkese açıktır; imzalar, herkese açık bir geçmiş, iş ispatı ve düğüm doğrulaması birlikte yeni coinlerin uydurulmasını veya aynı bitcoinin iki kez harcanmasını engeller.](/micrographics/claimed-or-verified-supply-01/tr.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)

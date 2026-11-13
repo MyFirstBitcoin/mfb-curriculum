@@ -15,7 +15,7 @@ Maaaring makatanggap ang mga tao ng bitcoin mula sa trabaho, bayad mula sa komun
 * **Pakikipagpalitan sa kapwa:** Maaaring ipagpalit ng dalawang tao ang [salaping fiat](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) o mga produkto para sa bitcoin nang direkta o sa pamamagitan ng serbisyong nag-uugnay sa mga nais makipagpalitan. Maaari itong magdulot ng mga panganib kaugnay ng kabilang panig, pisikal na kaligtasan, pagbawi ng bayad, at pandaraya.
 * **Palitan, broker, ATM, o kiosk:** Maaaring magbigay ang isang serbisyo o makina ng pamilyar na paraan, ngunit maaari itong may kasamang mga bayarin, pagsusuri ng pagkakakilanlan, [pag-iingat ng pondo](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), mga limitasyon sa pag-withdraw, o hindi kanais-nais na [halaga ng palitan](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
 
 Bago maghambing ng paraan, itanong:
 

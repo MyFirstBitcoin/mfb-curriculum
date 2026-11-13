@@ -30,4 +30,4 @@ Man vergleicht Geld auch nach seiner [**Solidität**](https://curriculum.myfirst
 
 **Denken Sie kritisch nach:** Nennen Sie eine Situation, in der Sie eine Art von Geld oder einen [Vermögenswert](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) einem anderen vorgezogen haben. Was war der Zweck? Vergleichen Sie die Eigenschaften der Optionen, die Sie hätten nutzen können. Welche Eigenschaften waren Ihnen am wichtigsten, und warum?
 
-![Alle sechs Figuren arbeiten gemeinsam an einer Offline-Aktivität mit Lernkarten, während die Lehrkraft die Diskussion leitet.](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![Alle sechs Figuren arbeiten gemeinsam an einer Offline-Aktivität mit Lernkarten, während die Lehrkraft die Diskussion leitet.](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)

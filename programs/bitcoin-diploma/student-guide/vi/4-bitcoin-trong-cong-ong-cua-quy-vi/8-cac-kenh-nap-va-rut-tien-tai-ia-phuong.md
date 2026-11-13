@@ -1,6 +1,6 @@
 # 4.8 Các kênh nạp và rút tiền tại địa phương
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/16d4da9fcdbc76a89acbef6bf760d3199ea7a843-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/16d4da9fcdbc76a89acbef6bf760d3199ea7a843-1536x1024.svg)
 
 Một [**kênh chuyển vào**](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-ramp) là con đường chuyển từ tiền địa phương, công sức lao động hoặc một loại [tài sản](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) sang bitcoin. Một [**kênh chuyển ra**](https://curriculum.myfirstbitcoin.org/lexicon/en/#off-ramp) là con đường chuyển từ bitcoin sang tiền địa phương, hàng hóa hoặc dịch vụ. Cùng một con đường có thể đảm nhiệm cả hai vai trò.
 
@@ -14,7 +14,7 @@ Các con đường tại địa phương có thể bao gồm:
 * sử dụng dịch vụ thanh toán có chức năng chuyển đổi giữa bitcoin và tiền pháp định
 * tham gia nền kinh tế tuần hoàn tại địa phương
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8ad6c3106c57d796cf1b415d6a8104b043e6a215-776x978.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8ad6c3106c57d796cf1b415d6a8104b043e6a215-776x978.svg)
 
 Hãy so sánh **toàn bộ lộ trình**, chứ không chỉ khoản phí ban đầu. Một dịch vụ có thể quảng cáo phí mua thấp nhưng áp dụng [tỷ giá hối đoái](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate) bất lợi hoặc thu phí rút tiền. Một con đường giao dịch ngang hàng có vẻ riêng tư nhưng đòi hỏi thời gian, sự tin tưởng và việc bảo đảm an toàn cá nhân.
 

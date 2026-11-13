@@ -21,7 +21,7 @@ Map a simple local cycle:
 1. What happens when internet access fails?
 1. What [custody](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) and [price](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) risks does each participant carry?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
 
 A healthy circular economy depends on voluntary participation. Merchants and workers should be able to identify the payment, pricing, [custody](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), accounting, and [volatility](https://curriculum.myfirstbitcoin.org/lexicon/en/#volatility) risks. Adoption numbers alone do not show whether the network is useful.
 

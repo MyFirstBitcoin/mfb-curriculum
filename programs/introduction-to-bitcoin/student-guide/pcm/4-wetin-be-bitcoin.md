@@ -20,4 +20,4 @@ Small note about spelling: **Bitcoin** wey start with capital B normally mean th
 
 Bitcoin still get advantages and disadvantages wey person need to weigh. Its price fit change quick. Normally, mistake wey person make no fit reverse. Plenty places never dey accept am well, and to use am safely, person need to learn some things. Bitcoin replace some of the trust wey people put for institutions with checking to confirm things and taking personal responsibility. E no remove risk.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

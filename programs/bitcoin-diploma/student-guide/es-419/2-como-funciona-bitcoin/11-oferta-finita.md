@@ -44,4 +44,4 @@ El límite de 21 millones lo hacen cumplir los [nodos](https://curriculum.myfirs
 > Una oferta finita tampoco significa que todos los bitcoin estén disponibles para la venta; algunos pueden mantenerse a largo plazo o volverse inaccesibles porque se perdieron las claves.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

@@ -19,7 +19,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## বেছিভাগ মানুহেই কেতিয়াও থমকি ৰৈ ধনৰ বিষয়ে চিন্তা নকৰে
 
@@ -29,7 +29,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## আৰম্ভণিৰ বাবে পাঁচটা প্ৰশ্ন
 
@@ -49,7 +49,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## তথ্য নে মতামত?
 
@@ -74,7 +74,7 @@ theme: mfb
 
 দুয়োগৰাকী ব্যক্তিয়ে একে সময়তে আৰু উপযুক্ত পৰিমাণত পৰস্পৰৰ হাতত থকা বস্তু বিচাৰিব লাগিব।
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: নিৰ্দেশিকাখনৰ উদাহৰণটো লওক: আপুনি ধান খেতি কৰে আৰু আপোনাক জোতা লাগে, কিন্তু জোতা নিৰ্মাতাক চাউল নহয়, ৰন্ধন তেলহে লাগে। অৰ্থনীতিবিদসকলে ইয়াক অভাৱৰ দ্বৈত সংগতিসাধন বুলি কয়। -->
 
@@ -96,13 +96,13 @@ theme: mfb
 
 কেৱল ধন থকাৰ বাবেই কোনেও ধন নিবিচাৰে। ই উপযোগী কাৰণ আনসকলে ইয়াক গ্ৰহণ কৰে, এই আশাৰে যে পিছত আন লোকেও ইয়াক গ্ৰহণ কৰিব।
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: এখন বেংকনোট কেৱল এটুকুৰা কাগজ। মুদ্ৰাই বিক্ৰী আৰু ক্ৰয়ক পৃথক কৰি পণ্য বিনিময়ৰ সমস্যাৰ সমাধান কৰে: আপুনি এজন ব্যক্তিক আপোনাৰ চাউল বিক্ৰী কৰে আৰু আন এজনৰ পৰা জোতা কিনে। এই বৈশিষ্ট্যই মুদ্ৰাক পণ্য বিনিময়ৰ পৰা পৃথক কৰে। -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## ধনে কৰা তিনিটা কাম
 
@@ -114,7 +114,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## শামুকৰ খোলাৰ পৰা কাগজলৈ
 
@@ -161,13 +161,13 @@ theme: mfb
 
 ## মুদ্ৰাস্ফীতি আৰু ক্ৰয় ক্ষমতা
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: মূল্যস্ফীতি হৈছে সামগ্ৰিক মূল্যস্তৰৰ এক অবিৰত বৃদ্ধি। ইয়াৰ আনটো দিশ হৈছে ক্ৰয়ক্ষমতা: মুদ্ৰাৰ এটা এককে কিমান সামগ্ৰী কিনিব পাৰে। যদি মৌলিক সামগ্ৰীৰ এটা সমষ্টিৰ দাম মুদ্ৰাৰ 100 এককৰ পৰা 110 এককলৈ বৃদ্ধি পায়, তেন্তে একেখিনি 100 এককেৰে আৰু সেই সমষ্টিৰ সকলো সামগ্ৰী কিনিব নোৱাৰি। -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## বহু কাৰণ, এক বাছনি
 
@@ -285,7 +285,7 @@ theme: mfb
 
 ## বিটকইন কোনে চলাই ৰাখে?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: ব্যৱহাৰকাৰীসকলে বিটকইন পঠিয়ায়, গ্ৰহণ কৰে আৰু নিজৰ হাতত ৰাখে; ন’ডসমূহে প্ৰতিটো লেনদেন আৰু ব্লকে নিয়মসমূহ মানি চলিছে নে নাই পৰীক্ষা কৰে; মাইনাৰসকলে প্ৰায় প্ৰতি দহ মিনিটৰ মূৰে মূৰে অভিলেখত এটা নতুন ব্লক যোগ কৰিবলৈ প্ৰতিযোগিতা কৰে। ব্লকচেইন নামৰ সেই অভিলেখ ৰাজহুৱা, আৰু ইয়াক পুনৰ লিখাটো অতি ব্যয়বহুল। বানান সম্পৰ্কে এটা কথা: ডাঙৰ হাতৰ B-ৰে লিখা Bitcoin-এ সাধাৰণতে নেটৱৰ্ক বা ব্যৱস্থাটোক বুজায়; সৰু হাতৰ b-ৰে লিখা bitcoin-এ মুদ্ৰাটোকেই বুজায়। -->
 
@@ -330,7 +330,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## আপোনাৰ ছীড ফ্ৰেজ মানেই সম্পূৰ্ণ প্ৰৱেশাধিকাৰ
 
@@ -350,7 +350,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## যিকোনো ৱালেট ব্যৱহাৰ কৰাৰ আগতে
 
@@ -391,7 +391,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## ৰওক, একো শ্বেয়াৰ নকৰিব, একো নপঠাব
 
@@ -426,7 +426,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## বিটকইন ডিপ্লোমা
 

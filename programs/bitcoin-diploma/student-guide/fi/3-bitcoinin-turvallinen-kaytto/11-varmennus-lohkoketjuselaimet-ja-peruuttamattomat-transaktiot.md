@@ -22,4 +22,4 @@ Tarkastellaksenne valmiiksi valmisteltua [siirtoa](https://curriculum.myfirstbit
 [Siirto odottaa vahvistamattomana odottavien siirtojen varannossa, minkä jälkeen se sisällytetään lohkoon N ja saa ensimmäisen vahvistuksensa. Jokainen myöhempi lohko lisää yhden vahvistuksen.](/micrographics/confirmation-timeline-01/fi.md)
 
 
-![Opettaja ja iäkkäämpi oppija keskustelevat valmiiksi laaditusta esimerkistä, joka näkyy ryhmään päin suunnatulla näytöllä, samalla kun tekniikkaan perehtynyt oppija käyttää hiirtä; katsojalle näkyy näytön takakuori.](https://cdn.sanity.io/images/vje9ehw2/production/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)
+![Opettaja ja iäkkäämpi oppija keskustelevat valmiiksi laaditusta esimerkistä, joka näkyy ryhmään päin suunnatulla näytöllä, samalla kun tekniikkaan perehtynyt oppija käyttää hiirtä; katsojalle näkyy näytön takakuori.](https://cdn.sanity.io/images/vje9ehw2/staging/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)

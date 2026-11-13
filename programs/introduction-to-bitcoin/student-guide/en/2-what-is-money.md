@@ -12,9 +12,9 @@ In a barter system, trading only works when both people want what the other has,
 
 It is a **medium of exchange**: people accept it in payment. It is a **unit of account**: prices are expressed in it, so we can compare the value of different things. And it is a **store of value**: it moves value from today into the future. No money stores value perfectly, but some forms lose purchasing power more slowly than others.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Throughout history, many things have served as money: shells, salt, beads, livestock, copper, silver, and gold. Precious metals became widely used because they were scarce, durable, and widely accepted. But carrying and protecting metal is difficult, so banks began issuing paper claims that could be redeemed for a stated amount of metal. Under different versions of a **gold standard**, a currency unit was legally linked to an amount of gold. The rules varied by place and period.
 

@@ -30,4 +30,4 @@ Folk sammenligner også penger ut fra deres [**soliditet**](https://curriculum.m
 
 **Tenk kritisk:** Nevn en gang De valgte én type penger eller [eiendel](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) fremfor en annen. Hva var formålet? Sammenlign egenskapene til alternativene De kunne ha brukt. Hvilke egenskaper var viktigst for Dem, og hvorfor?
 
-![Alle de seks figurene samarbeider om en aktivitet med undervisningskort uten nettilkobling, mens læreren leder diskusjonen.](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![Alle de seks figurene samarbeider om en aktivitet med undervisningskort uten nettilkobling, mens læreren leder diskusjonen.](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)

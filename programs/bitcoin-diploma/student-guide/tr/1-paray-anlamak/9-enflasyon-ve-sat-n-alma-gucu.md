@@ -13,7 +13,7 @@
 > [Satın alma gücü](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power), bir birim paranın satın alabileceği mal ve hizmet miktarıdır. Temel mallardan oluşan bir sepetin fiyatı, [para birimi](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) cinsinden 100 birimden 110 birime yükselirse, aynı 100 birim artık sepetin tamamını satın almaya yetmez. Paranın [satın alma gücü](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) o sepete göre düşmüştür.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->

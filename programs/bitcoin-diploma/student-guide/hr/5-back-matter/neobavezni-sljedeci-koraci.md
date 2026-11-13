@@ -26,11 +26,11 @@ Vodič za edukatore pomaže vam pripremiti nastavne sate, voditi aktivnosti, pri
 
 ### Pridružite se zajednici za učenje
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
 
 Ta [mreža za obrazovanje o Bitcoinu](https://myfirstbitcoin.org/about/network) povezuje neovisne edukatore i lokalne zajednice za učenje. Pronađite zajednicu u svojoj blizini ili onu čiji vas rad zanima pa joj se obratite kako biste saznali kako možete učiti, volontirati ili doprinijeti. Sudjelovanje je neobavezno i ne utječe na završetak Bitcoin diplome, ocjenjivanje ni certificiranje.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
 
 ### Sigurnosni podsjetnik
 
@@ -92,13 +92,13 @@ Ako edukator koji izdaje potvrdu pruža način provjere, koristite se samo uputa
 
 Vaš najvažniji rezultat nije potvrda. To je sposobnost da jasno objasnite novac i Bitcoin, prepoznate rizik, provjerite informacije prije djelovanja i nastavite samostalno učiti.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
 
 ### Podržite besplatno obrazovanje o Bitcoinu
 
 Obrazovni materijali organizacije My First Bitcoin besplatni su i otvorenog koda. Dobrovoljna podrška pomaže u održavanju kurikuluma, osposobljavanju edukatora i širenju pristupa obrazovanju.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
 
 
 https://donate.myfirstbitcoin.org
@@ -112,4 +112,4 @@ Ako odlučite doprinijeti, koristite se službenom [stranicom za donacije](https
 ---
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)

@@ -19,7 +19,7 @@ We gebruiken elke dag geld, maar vragen ons zelden af hoe het werkt.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## De meeste mensen staan nooit stil bij geld
 
@@ -29,7 +29,7 @@ Niet het verdienen, niet het uitgeven, maar nadenken over wat het is en hoe het 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Vijf vragen om mee te beginnen
 
@@ -49,7 +49,7 @@ Niet het verdienen, niet het uitgeven, maar nadenken over wat het is en hoe het 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Feit of mening?
 
@@ -74,7 +74,7 @@ Geld is een middel om te ruilen.
 
 Beide personen moeten willen wat de ander heeft, op hetzelfde moment en in geschikte hoeveelheden.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Gebruik het voorbeeld uit de gids: u verbouwt rijst en hebt schoenen nodig, maar de schoenmaker wil bakolie, geen rijst. Economen noemen dit de dubbele coïncidentie van behoeften. -->
 
@@ -96,13 +96,13 @@ Beide personen moeten willen wat de ander heeft, op hetzelfde moment en in passe
 
 Niemand wil geld om het geld zelf. Het is nuttig omdat anderen het accepteren, in de verwachting dat weer anderen het later zullen accepteren.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Een bankbiljet is slechts een stuk papier. Geld lost het ruilprobleem op door verkopen en kopen van elkaar te scheiden: u verkoopt uw rijst aan de ene persoon en koopt schoenen van een ander. Dit is wat geld onderscheidt van ruilhandel. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Drie functies van geld
 
@@ -114,7 +114,7 @@ Geen enkele vorm van geld bewaart waarde perfect, maar sommige vormen verliezen 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Van schelpen tot papier
 
@@ -161,13 +161,13 @@ Wanneer mensen het woord inflatie horen, denken ze meestal aan stijgende prijzen
 
 ## Inflatie en koopkracht
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Prijsinflatie is een aanhoudende stijging van het algemene prijsniveau. De keerzijde ervan is koopkracht: hoeveel er met een eenheid geld gekocht kan worden. Als een mandje basisgoederen stijgt van 100 munteenheden naar 110, kunt u met dezelfde 100 eenheden niet langer het volledige mandje kopen. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Vele oorzaken, één keuze
 
@@ -285,7 +285,7 @@ Eén bitcoin is onderverdeeld in 100.000.000 kleinere eenheden, satoshi's of sat
 
 ## Wie houdt Bitcoin draaiende?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Gebruikers verzenden, ontvangen en bewaren bitcoin; nodes controleren elke transactie en elk blok aan de hand van de regels; miners wedijveren om ongeveer elke tien minuten een nieuw blok aan het register toe te voegen. Dat register, de blockchain, is openbaar en zeer kostbaar om te herschrijven. Een opmerking over de spelling: Bitcoin met een hoofdletter B verwijst meestal naar het netwerk of het systeem; bitcoin met een kleine letter b verwijst naar het geld zelf. -->
 
@@ -330,7 +330,7 @@ De keuze voor een vorm van bewaring zegt niets over uw kunde. Waar het om gaat, 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Uw seedphrase geeft volledige toegang
 
@@ -350,7 +350,7 @@ Een geordende lijst van woorden, vaak 12 of 24, waarmee uw sleutels opnieuw kunn
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Voordat u welke Wallet dan ook gebruikt
 
@@ -391,7 +391,7 @@ Een geordende lijst van woorden, vaak 12 of 24, waarmee uw sleutels opnieuw kunn
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Stop, deel niets, verstuur niets
 
@@ -426,7 +426,7 @@ Dit is pas het begin.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Het Bitcoin-diploma
 

@@ -12,9 +12,9 @@ Le nuwo tɔtrɔ ga manɔ eme ƒe ɖoɖo me la, asitsatsa ate ŋu adze edzi ne am
 
 Enye **nuwo tɔtrɔ ƒe mɔnu**: amewo xɔnɛ abe fexexe ene. Enye **akɔntabubu ƒe dzidzemɔnu**: wotsɔa ga ɖea asiwo fia, eya ta míate ŋu atsɔ nu vovovowo ƒe asixɔxɔ asɔ kple wo nɔewo. Eye enye **asixɔxɔ dzraɖoƒe**: ekɔa asixɔxɔ tso egbe yi etsɔme. Ga aɖeke medzraa asixɔxɔ ɖo bliboe o, gake ga ƒomevi aɖewo ƒe nuƒeƒleŋusẽ doa ɖe megbe blewu wu bubuwo tɔ.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Le amegbetɔƒomea ƒe ŋutinya katã me la, wozã nu geɖewo abe ga ene: ƒudɔmenulawo ƒe akpakpawo, edze, dzonuwo, lãnyinyɔwo, akɔbli, klosalo kple sika. Wozã gayibɔ xɔasiwo le teƒe geɖewo elabena womenɔ bɔbɔe o, wohea ɣeyiɣi didi eye amewo xɔ wo le teƒe geɖewo. Gake gayibɔ ƒe kɔkɔ kple edzi kpɔkpɔ sesẽ, eya ta gadzraɖoƒewo dze agbalẽɖaseɖiwo nana gɔme, siwo woate ŋu atsɔ axe gayibɔ agbɔsɔsɔ aɖe si woɖo ɖi. Le **sika-nuti gaɖoɖo** ƒe ɖoɖo vovovowo me la, se bla ga ƒe dzidzemɔnu aɖe ɖe sika agbɔsɔsɔ aɖe ŋu. Seawo nɔ vovovom ɖe teƒe kple ɣeyiɣi nu.
 

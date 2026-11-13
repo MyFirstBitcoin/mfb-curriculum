@@ -10,4 +10,4 @@ Raha muovaa arjen valintoja, jotka liittyvät ruokaan, liikkumiseen, työhön, s
 
 Kun keskustelette näistä kysymyksistä, kiinnittäkää huomiota tosiasian ja mielipiteen eroon. ”Tämä seteli hyväksytään verojen maksuun” on tosiasia, jonka voi tarkistaa. ”Tämä on paras rahan muoto” on mielipide tai johtopäätös, joka vaatii kriteerejä ja näyttöä.
 
-![Kaikki kuusi hahmoa kokoontuvat luokkahuoneen pöytien ympärille, kun opettaja ohjaa yhteistä lukemista avoinna olevasta kurssioppaasta.](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![Kaikki kuusi hahmoa kokoontuvat luokkahuoneen pöytien ympärille, kun opettaja ohjaa yhteistä lukemista avoinna olevasta kurssioppaasta.](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)

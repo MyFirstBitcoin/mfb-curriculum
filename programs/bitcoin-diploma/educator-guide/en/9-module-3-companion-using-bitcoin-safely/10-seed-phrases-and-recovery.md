@@ -15,7 +15,7 @@ Teach the consequences:
 [A seed phrase is an ordered list of words, here twelve numbered sample words written on paper. The right words in the right order can restore control in a compatible wallet, so it stays secret and offline.](/micrographics/seed-phrase-on-paper-01/en.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
 
 #### Never do this in class
 
@@ -56,4 +56,4 @@ Teach the consequences:
 
 Inheritance, [multisignature](https://curriculum.myfirstbitcoin.org/lexicon/en/#multisignature) design, advanced passphrases, and high-value recovery planning may require advanced security and professional legal advice. They are outside required Bitcoin Diploma performance.
 
-![The educator guides a recovery-readiness discussion as the older learner places a blank training card in an envelope and the technical learner watches.](https://cdn.sanity.io/images/vje9ehw2/production/23cdb205174fa99b2d0df47ef606b53f8329f152-1054x1492.png)
+![The educator guides a recovery-readiness discussion as the older learner places a blank training card in an envelope and the technical learner watches.](https://cdn.sanity.io/images/vje9ehw2/staging/23cdb205174fa99b2d0df47ef606b53f8329f152-1054x1492.png)

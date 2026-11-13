@@ -36,4 +36,4 @@ Některé peněženky používají dodatečné přístupové fráze, více klí�
 [Zapsání zálohy obnovovací fráze ve třech krocích: na obrazovce peněženky se zobrazí slova, ručně je opíšete na papír ve stejném pořadí a poté každé slovo porovnáte s obrazovkou. Udělejte to v soukromí a bez připojení k internetu.](/micrographics/seed-phrase-paper-backup-01/cs.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)

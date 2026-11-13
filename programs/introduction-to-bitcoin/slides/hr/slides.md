@@ -19,7 +19,7 @@ Novac koristimo svaki dan, no rijetko se pitamo kako funkcionira.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Većina ljudi nikada ne zastane kako bi razmislila o novcu
 
@@ -29,7 +29,7 @@ Ne zarađivati ga, ne trošiti ga, već razmišljati o tome što je i kako funkc
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Pet pitanja za početak
 
@@ -49,7 +49,7 @@ Ne zarađivati ga, ne trošiti ga, već razmišljati o tome što je i kako funkc
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Činjenica ili mišljenje?
 
@@ -74,7 +74,7 @@ Novac je sredstvo razmjene.
 
 Obje osobe moraju željeti ono što druga ima, u isto vrijeme i u odgovarajućim količinama.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Poslužite se primjerom iz vodiča: uzgajate rižu i trebaju vam cipele, ali postolar želi jestivo ulje, a ne rižu. Ekonomisti to nazivaju dvostrukom podudarnošću želja. -->
 
@@ -96,13 +96,13 @@ Obje osobe moraju željeti ono što druga ima, u isto vrijeme i u odgovarajućim
 
 Nitko ne želi novac radi njega samoga. Koristan je jer ga drugi prihvaćaju, očekujući da će ga i drugi kasnije prihvatiti.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Novčanica je samo komad papira. Novac rješava problem trampe odvajanjem prodaje od kupnje: prodajete svoju rižu jednoj osobi, a cipele kupujete od druge. To je ono što razlikuje novac od trampe. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Tri funkcije novca
 
@@ -114,7 +114,7 @@ Nijedan oblik novca ne čuva vrijednost savršeno, ali neki oblici gube kupovnu 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Od školjki do papira
 
@@ -161,13 +161,13 @@ Kad ljudi čuju riječ inflacija, obično pomisle na rast cijena.
 
 ## Inflacija i kupovna moć
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Inflacija cijena jest trajan rast opće razine cijena. Njezina je druga strana kupovna moć: koliko se može kupiti jednom novčanom jedinicom. Ako cijena košarice osnovnih dobara poraste sa 100 novčanih jedinica na 110, istih 100 jedinica više nije dovoljno za kupnju cijele košarice. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Mnogo uzroka, jedan izbor
 
@@ -285,7 +285,7 @@ Jedan bitcoin dijeli se na 100.000.000 manjih jedinica koje se nazivaju satošij
 
 ## Tko održava Bitcoin u radu?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Korisnici šalju, primaju i čuvaju bitcoin; čvorovi provjeravaju je li svaka transakcija i svaki blok u skladu s pravilima; rudari se natječu kako bi otprilike svakih deset minuta dodali novi blok u evidenciju. Ta je evidencija, lanac blokova, javna, a njezino je naknadno mijenjanje vrlo skupo. Napomena o pisanju: Bitcoin s velikim početnim slovom B obično označava mrežu ili sustav; bitcoin s malim početnim slovom b označava sam novac. -->
 
@@ -330,7 +330,7 @@ Odabir načina skrbništva nije mjerilo vaše vrijednosti. Važno je znati koju 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Vaša fraza za oporavak omogućuje potpuni pristup
 
@@ -350,7 +350,7 @@ Uređeni popis riječi, obično 12 ili 24, pomoću kojeg možete obnoviti svoje 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Prije nego što upotrijebite bilo koji novčanik
 
@@ -391,7 +391,7 @@ Uređeni popis riječi, obično 12 ili 24, pomoću kojeg možete obnoviti svoje 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Stanite, ništa ne dijelite, ništa ne šaljite
 
@@ -426,7 +426,7 @@ Ovo je tek početak.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Bitcoin diploma
 

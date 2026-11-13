@@ -34,4 +34,4 @@ De whitepaper bracht de kenmerken samen die voor die aanpak nodig waren:
 
 Deze module legt deze concepten uitgebreider uit. Samen boden ze een praktisch antwoord op het [Double Spend-probleem](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): het netwerk kan een tweede poging om dezelfde bitcoin uit te geven afwijzen zonder afhankelijk te zijn van een centrale autoriteit. Bitcoin bood de ontbrekende combinatie waarnaar decennia aan experimenten met digitaal geld op zoek waren geweest.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)

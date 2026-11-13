@@ -30,4 +30,4 @@ Antes de qualquer demonstração ao vivo, certifique-se de saber:
 
 O resultado da sua oficina deve ser uma explicação ou uma habilidade, e não apenas uma [transação](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) concluída.
 
-![O educador e o dono do negócio praticam juntos com um celular de treinamento, ambos olhando para a tela voltada para eles.](https://cdn.sanity.io/images/vje9ehw2/production/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)
+![O educador e o dono do negócio praticam juntos com um celular de treinamento, ambos olhando para a tela voltada para eles.](https://cdn.sanity.io/images/vje9ehw2/staging/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)

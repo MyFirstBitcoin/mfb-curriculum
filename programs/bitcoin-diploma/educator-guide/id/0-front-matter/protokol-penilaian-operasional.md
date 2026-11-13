@@ -38,7 +38,7 @@ Pilih alur praktik yang dirasa aman dan dapat dijalankan oleh peserta didik. Cat
 [Untuk merencanakan kegiatan kelompok, kalikan jumlah peserta didik dengan perkiraan waktu pendampingan dan pengamatan, lalu tambahkan waktu untuk persiapan, umpan balik, kebutuhan akses, dan penilaian ulang. Jika para pendidik tidak memiliki cukup waktu, ubah rencana: kurangi jumlah peserta didik, tambah jumlah pendidik, atau tambah waktu.](/micrographics/cohort-capacity-check-01/id.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
 
 ### Pemetaan kompetensi terhadap bukti
 

@@ -15,7 +15,7 @@ Ihmiset voivat saada bitcoinia työstä, yhteisön maksuna, vertaisvaihdossa, au
 * **Vertaisvaihto:** Kaksi ihmistä voi vaihtaa [fiat-rahaa](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) tai tavaroita bitcoiniin suoraan tai osapuolet yhteen tuovan palvelun kautta. Tähän voi liittyä vastapuoleen, fyysiseen turvallisuuteen, maksujen peruuttamiseen ja petoksiin liittyviä riskejä.
 * **Vaihtopalvelu, välittäjä, automaatti tai kioski:** Palvelu tai automaatti voi tarjota tutun tavan, mutta siihen voi liittyä maksuja, henkilöllisyyden tarkistuksia, [säilytysjärjestelyjä](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), nostorajoja tai huono [vaihtokurssi](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
 
 Ennen kuin vertaatte jotakin tapaa, kysykää:
 

@@ -30,4 +30,4 @@ Trước bất kỳ buổi trình diễn trực tiếp nào, hãy bảo đảm q
 
 Kết quả của buổi thực hành nên là khả năng giải thích hoặc một kỹ năng, chứ không chỉ là việc hoàn tất một [giao dịch](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction).
 
-![Giảng viên và chủ doanh nghiệp cùng thực hành trên một chiếc điện thoại dùng cho thực hành, cả hai đều nhìn vào màn hình đang hướng về phía mình.](https://cdn.sanity.io/images/vje9ehw2/production/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)
+![Giảng viên và chủ doanh nghiệp cùng thực hành trên một chiếc điện thoại dùng cho thực hành, cả hai đều nhìn vào màn hình đang hướng về phía mình.](https://cdn.sanity.io/images/vje9ehw2/staging/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)

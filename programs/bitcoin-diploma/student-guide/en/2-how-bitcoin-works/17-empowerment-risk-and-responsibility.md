@@ -6,7 +6,7 @@ Bitcoin's public rules, [peer-to-peer network](https://curriculum.myfirstbitcoin
 
 These properties can empower participants, but they also place more responsibility on them. Without a central authority to approve [transactions](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), recover access, or reverse many errors, each person must be able to identify the role and risks they accept.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
 
 For a person who chooses [self-custody](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody), control of the keys brings direct control of bitcoin. No company can freeze a correctly controlled on-chain balance. No company can restore a lost [seed phrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) either.
 

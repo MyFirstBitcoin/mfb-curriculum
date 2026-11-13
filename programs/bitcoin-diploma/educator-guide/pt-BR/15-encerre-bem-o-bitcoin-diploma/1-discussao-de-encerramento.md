@@ -13,4 +13,4 @@ Use a estratégia pensar–compartilhar em pares–socializar antes da discussã
 
 Peça aos alunos que fundamentem suas respostas com um conceito do curso e um exemplo, e não com um slogan.
 
-![O educador convida o aluno mais velho a dar uma explicação final, enquanto o iniciante e a empreendedora escutam com seus guias em mãos.](https://cdn.sanity.io/images/vje9ehw2/production/294a2f8e8e831a2a0da998cfbc42a40102d4cc74-1054x1493.png)
+![O educador convida o aluno mais velho a dar uma explicação final, enquanto o iniciante e a empreendedora escutam com seus guias em mãos.](https://cdn.sanity.io/images/vje9ehw2/staging/294a2f8e8e831a2a0da998cfbc42a40102d4cc74-1054x1493.png)

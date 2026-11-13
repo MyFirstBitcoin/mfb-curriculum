@@ -8,7 +8,7 @@
 
 Šta bi se dogodilo kada bi vaš telefon prestao da radi? Zapis o Bitcoin transakcijama bi i dalje postojao, ali bi pristup zavisio od ključeva i načina oporavka koji novčanik koristi. Novčanik pomaže da se kreiraju podaci za primanje, prikažu stanja i [transakciona](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) istorija i odobri trošenje. To ne uklanja potrebu da razumete ko kontroliše pristup.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
 
 
 <!-- card: dark -->
@@ -33,4 +33,4 @@ Uporedite [način čuvanja sredstava](https://curriculum.myfirstbitcoin.org/lexi
 > Tokom programa Diploma, možete napraviti novčanik ili zapisati [reči za oporavak](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) u okviru vežbe. Učionica je okruženje za učenje: informacije mogu biti viđene, kopirane, podeljene ili nenamerno kompromitovane. Zbog toga bi novčanik za vežbu po pravilu trebalo da bude prazan ili simuliran i ne bi trebalo da se koristi za čuvanje značajnih sredstava. Kada je to izvodljivo, na kraju programa Diploma on se zatvara, resetuje ili vraća. Vaš predavač može izabrati praktičnu aktivnost sa stvarnim sredstvima male vrednosti, ali bi pre bilo čijeg učešća trebalo da objasni njenu svrhu i dodatne rizike po privatnost i bezbednost, kao i rizik od gubitka. Novčanik namenjen čuvanju značajnih sredstava zahteva novo podešavanje u privatnom okruženju i nove podatke za oporavak. Vaš predavač može objasniti razliku, ali nikada niste u obavezi da podesite lični novčanik kako biste završili program Diploma.
 
 
-![Predavač demonstrira korišćenje telefona za vežbu dok početnik i stariji polaznici pregledaju sopstvene uređaje.](https://cdn.sanity.io/images/vje9ehw2/production/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)
+![Predavač demonstrira korišćenje telefona za vežbu dok početnik i stariji polaznici pregledaju sopstvene uređaje.](https://cdn.sanity.io/images/vje9ehw2/staging/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)

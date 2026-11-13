@@ -44,4 +44,4 @@ Grensen på 21 millioner håndheves av [noder](https://curriculum.myfirstbitcoin
 > En begrenset pengemengde betyr heller ikke at hver bitcoin er tilgjengelig for salg; noen kan beholdes over lang tid eller bli utilgjengelige fordi nøkler har gått tapt.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

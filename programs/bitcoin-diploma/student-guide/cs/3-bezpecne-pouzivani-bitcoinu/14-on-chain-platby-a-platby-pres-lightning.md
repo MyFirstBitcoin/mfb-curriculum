@@ -1,6 +1,6 @@
 # 3.14 On-chain platby a platby přes Lightning
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
@@ -30,4 +30,4 @@ Jaký způsob platby příjemce očekává? Před zaplacením si ověřte, zda p
 
 Představte si, že připravený scénář nabízí oba způsoby platby. Který požadavek lze v zamýšlené peněžence použít a co byste před schválením platby zkontrolovali? Odpověď závisí na platebním požadavku příjemce, peněžence a situaci — nikoli na nějakém univerzálně „nejlepším“ způsobu platby.
 
-![Vyučující ukazuje na tabuli dvě různé geometricky znázorněné platební cesty, zatímco je začátečníci a technicky zaměření studenti zvažují.](https://cdn.sanity.io/images/vje9ehw2/production/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)
+![Vyučující ukazuje na tabuli dvě různé geometricky znázorněné platební cesty, zatímco je začátečníci a technicky zaměření studenti zvažují.](https://cdn.sanity.io/images/vje9ehw2/staging/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)

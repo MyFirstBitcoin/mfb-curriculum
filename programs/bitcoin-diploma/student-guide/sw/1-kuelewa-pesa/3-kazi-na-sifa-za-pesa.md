@@ -30,4 +30,4 @@ Watu pia hulinganisha pesa kwa [**uimara wake**](https://curriculum.myfirstbitco
 
 **Fikirini kwa kina:** Tajeni wakati mlipochagua aina moja ya pesa au [mali](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) badala ya nyingine. Lengo lilikuwa nini? Linganisheni sifa za chaguo ambazo mngeweza kutumia. Ni sifa zipi zilikuwa muhimu zaidi kwenu, na kwa nini?
 
-![Wahusika wote sita wanashirikiana katika shughuli ya kadi za kufundishia bila mtandao huku mwalimu akiongoza mjadala.](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![Wahusika wote sita wanashirikiana katika shughuli ya kadi za kufundishia bila mtandao huku mwalimu akiongoza mjadala.](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)

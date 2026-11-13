@@ -19,7 +19,7 @@ Hi tirhisa mali siku ni siku, kambe a hi tali ku vutisa leswaku yi tirha hi ndle
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Vanhu vo tala a va tshuki va yima va anakanya hi mali
 
@@ -29,7 +29,7 @@ A hi ku yi tirhela, a hi ku yi tirhisa, kambe i ku anakanya hi leswi yi nga swon
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Swivutiso swa Ntlhanu swo Sungula
 
@@ -49,7 +49,7 @@ A hi ku yi tirhela, a hi ku yi tirhisa, kambe i ku anakanya hi leswi yi nga swon
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Ntiyiso kumbe Mavonelo?
 
@@ -74,7 +74,7 @@ Mali i xitirhisiwa xo cincana.
 
 Vanhu havambirhi va fanele ku lava leswi lowun'wana a nga na swona, hi nkarhi wun'we ni hi mimpimo leyi faneleke.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Tirhisani xikombiso xa buku ya nkongomiso: mi byala rhayisi naswona mi lava tintangu, kambe muendli wa tintangu u lava mafurha yo sweka, ku nga ri rhayisi. Vativi va ikhonomi va vula leswi ku fambelana ka swilaveko swa matlhelo mambirhi. -->
 
@@ -96,13 +96,13 @@ Vanhu havambirhi va fanele va lava leswi loyi un’wana a nga na swona, hi nkarh
 
 A ku na munhu loyi a lavaka mali ntsena hi ku lava ku va na yona. Ya pfuna hikuva van'wana va yi amukela, va ri karhi va langutela leswaku van'wana va ta yi amukela endzhaku.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Noti ya mali i xiphemu xa phepha ntsena. Mali yi tlhantlha xiphiqo xa ku cincana hi nhundzu hi ku hambanisa ku xavisa ni ku xava: mi xavisa rhayisi ya n'wina eka munhu un'we kutani mi xava tintangu eka un'wana. Hi leswi swi hambanisaka mali ni ku cincana hi nhundzu. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Swilo swinharhu leswi mali yi swi endlaka
 
@@ -114,7 +114,7 @@ A ku na mali leyi hlayisaka nkoka hi ku hetiseka, kambe tinxaka tin’wana ti la
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Ku suka eka swikamba ku ya eka phepha
 
@@ -161,13 +161,13 @@ Loko vanhu va twa rito leri nge infulexini, hakanyingi va ehleketa hi ku tlakuka
 
 ## Ku tlakuka ka minxavo ni Matimba yo Xava
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Infulexini ya minxavo i ku tlakuka loku yaka mahlweni ka mpimo wa minxavo hi ku angarhela. Tlhelo ra yona lerin’wana i ntamu wo xava: nhlayo ya swilo leswi yuniti yin’we ya mali yi nga swi xavaka. Loko nxavo wa basikiti ra swilo swa xisekelo wu tlakuka ku suka eka 100 wa tiyuniti ta mali ku ya eka 110, tiyuniti teto ta 100 a ta ha swi koti ku xava basikiti hinkwaro. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Swivangelo Swo Tala, Nhlawulo Wun'we
 
@@ -285,7 +285,7 @@ bitcoin yin’we yi avanyisiwa yi va 100 000 000 wa tiyuniti letitsongo leti vur
 
 ## I mani la endlaka leswaku Bitcoin yi ya mahlweni yi tirha?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Vatirhisi va rhumela, va amukela ni ku hlayisa bitcoin; tinodi ti kambela nxaviselano wun’wana ni wun’wana ni buloko yin’wana ni yin’wana hi ku landza milawu; vayini va phikizana ku engetela buloko leyintshwa eka rhekhodo kwalomu ka khume ra timinete tin’wana ni tin’wana. Rhekhodo yoleyo, ku nga blockchain, yi le rivaleni naswona ku tlhela yi tsariwa swi durha swinene. Xitsundzuxo malunghana ni matsalelo: Bitcoin leyi sungulaka hi B leyikulu hi ntolovelo yi vula netiweke kumbe sisiteme; bitcoin leyi sungulaka hi b leyitsongo yi vula mali hi yoxe. -->
 
@@ -330,7 +330,7 @@ Ku hlawula ndlela yo hlayisa a hi xikambelo xa nkoka wa n'wina. Xa nkoka i ku ti
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Xivulwana xa n'wina xa mbewu i mfikelelo lowu heleleke
 
@@ -350,7 +350,7 @@ Nxaxamelo wa marito lama landzelelanisiweke, hakanyingi 12 kumbe 24, lowu nga tl
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Loko Mi Nga Si Tirhisa Xipachi Xihi Na Xihi
 
@@ -391,7 +391,7 @@ Nxaxamelo wa marito lama landzelelanisiweke, hakanyingi 12 kumbe 24, lowu nga tl
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Yimani, Mi Nga Aveli Nchumu, Mi Nga Rhumeli Nchumu
 
@@ -426,7 +426,7 @@ Lawa ko va masungulo ntsena.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Diploma ya Bitcoin
 

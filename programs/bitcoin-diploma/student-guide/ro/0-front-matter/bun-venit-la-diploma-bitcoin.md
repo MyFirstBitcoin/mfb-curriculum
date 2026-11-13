@@ -8,7 +8,7 @@ Proiectul a început în 2021, cu cursuri în grupuri mici, desfășurate în pe
 
 Activitatea noastră este independentă, susținută de comunitate și axată pe Bitcoin. Ne concentrăm pe educație financiară, gândire atentă și măsuri practice de siguranță - nu pe tranzacționare, speculații sau promovarea altor tokenuri. Nu vă cerem să adoptați o convingere. În schimb, vă oferim concepte, întrebări și cunoștințe practice, astfel încât să vă puteți forma propriile concluzii.
 
-![Cadrul didactic îi întâmpină pe începător, pe cursantul mai în vârstă, pe proprietarul unei afaceri, pe cursantul cu profil tehnic și pe cursantul tânăr într-un grup comun de învățare.](https://cdn.sanity.io/images/vje9ehw2/production/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
+![Cadrul didactic îi întâmpină pe începător, pe cursantul mai în vârstă, pe proprietarul unei afaceri, pe cursantul cu profil tehnic și pe cursantul tânăr într-un grup comun de învățare.](https://cdn.sanity.io/images/vje9ehw2/staging/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
 
 ### Misiunea noastră: educație independentă, cu sursă deschisă, despre Bitcoin
 

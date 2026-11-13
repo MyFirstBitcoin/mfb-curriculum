@@ -38,7 +38,7 @@ Elija un recorrido práctico que los estudiantes perciban como seguro y manejabl
 [Para planificar el trabajo con un grupo, multiplique el número de estudiantes por el tiempo estimado de apoyo y observación; luego, agregue tiempo para la preparación, la retroalimentación, las necesidades de accesibilidad y la reevaluación. Si los educadores no tienen suficiente tiempo, cambie el plan: menos estudiantes, más educadores o más tiempo.](/micrographics/cohort-capacity-check-01/es-419.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
 
 ### Tabla de correspondencia entre competencias y evidencias
 

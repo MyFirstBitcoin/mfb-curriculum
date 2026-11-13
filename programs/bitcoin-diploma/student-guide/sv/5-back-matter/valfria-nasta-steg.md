@@ -26,11 +26,11 @@ Lärarhandledningen hjälper er att förbereda lektioner, leda aktiviteter, anpa
 
 ### Gå med i en lärgemenskap
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
 
 Nätverket [Bitcoin Education Network](https://myfirstbitcoin.org/about/network) sammanför oberoende lärare och lokala lärgemenskaper. Hitta en gemenskap nära er, eller en vars arbete intresserar er, och kontakta den för att fråga hur ni kan lära er, arbeta som volontär eller bidra. Deltagandet är frivilligt och påverkar inte slutförandet av diplomet, bedömningen eller certifieringen.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
 
 ### En säkerhetspåminnelse
 
@@ -92,13 +92,13 @@ Om den utfärdande utbildaren tillhandahåller en verifieringsmetod, använd end
 
 Ert viktigaste resultat är inte intyget. Det är förmågan att förklara pengar och Bitcoin tydligt, känna igen risker, verifiera innan Ni agerar och fortsätta lära Er på egen hand.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
 
 ### Stöd kostnadsfri utbildning om Bitcoin
 
 My First Bitcoins utbildningsresurser är kostnadsfria och har öppen källkod. Frivilligt stöd bidrar till att underhålla läroplanen, utbilda utbildare och bredda tillgången.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
 
 
 https://donate.myfirstbitcoin.org
@@ -112,4 +112,4 @@ Om Ni väljer att bidra, använd den officiella [donationssidan](https://donate.
 ---
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)

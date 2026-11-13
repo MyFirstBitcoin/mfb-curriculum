@@ -13,7 +13,7 @@
 > [Kuasa beli](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) ialah jumlah barangan dan perkhidmatan yang dapat dibeli dengan satu unit wang. Jika harga sebakul barangan asas meningkat daripada 100 unit [mata wang](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) kepada 110, 100 unit yang sama tidak lagi dapat membeli keseluruhan bakul tersebut. [Kuasa belinya](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) berbanding bakul tersebut telah menurun.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->

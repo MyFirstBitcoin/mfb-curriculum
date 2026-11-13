@@ -12,9 +12,9 @@ Muburyo bwakusanduluzya zintu azintu zimwi, kusambala kulacitika buyo kuti bantu
 
 Mali ndi **nzila yakusanduluzya zintu**: bantu balazumina kwaatambula mbubonya bwakubbadelwa. Alimwi ndi **cipimo cakubalila mitengo**: mitengo ilatalikwa mumali, eelyo tulakonzya kweezyanisya bulemu bwazintu zyaandeene. Alimwi ndi **nzila yakubamba bulemu**: alanyaamuna bulemu kuzwa sunu kuya kumbele. Kunyina mali aabamba bulemu cakumaninina, pele misyo imwi yamali ilaluza nguzu zyakugula asyoonto-asyoonto kwiinda imwi.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Kufumbwa mucaano, zintu zinji zyakabelesegwa mbuli mali: zikumba, munyo, bulungu, banyama bakumunzi, mukuba, siliva, angolida. Zisyano ziyandikana zyakatalika kubelesegwa mumasena manji nkaambo zyakasyoonto, zyakali kukkala ciindi cilamfwu, alimwi zyakali kuzuminwa abantu banji. Pele kunyamuna akukwabilila zisyano kulayuma, aboobo mabbanki akatalika kupa mapepa aapa nguzu zyakutambula mweelwe wazisyano uutalidwe. Mumisyo yaandeene ya **nzila yakuswaanganya mali angolida**, cipimo camali cakali kuswaanganyizyigwa amweelwe wangolida kweelana amulawo. Milawo yakali kwaambana kweelana abusena aciindi.
 

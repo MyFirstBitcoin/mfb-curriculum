@@ -10,4 +10,4 @@ A pénz alakítja az étkezéssel, a közlekedéssel, a munkával, a megtakarít
 
 A kérdések megvitatása során figyeljen a tény és a vélemény közötti különbségre. Az, hogy „Ezt a bankjegyet elfogadják adófizetésre”, ellenőrizhető tény. Az, hogy „Ez a pénz legjobb formája”, olyan vélemény vagy következtetés, amelyhez szempontokra és bizonyítékokra van szükség.
 
-![Mind a hat szereplő a tantermi asztalok köré gyűlik, miközben az oktató egy nyitott tananyagból vezeti a közös olvasást.](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![Mind a hat szereplő a tantermi asztalok köré gyűlik, miközben az oktató egy nyitott tananyagból vezeti a közös olvasást.](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)

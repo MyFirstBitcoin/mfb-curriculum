@@ -9,7 +9,7 @@
 > Hindi ang [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) o ang [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) ang awtomatikong pinakamahusay. Ihambing po ninyo ang aktuwal na paraan, gumamit ng napapanahong lokal na gabay kapag hindi malinaw ang mga tuntunin, at huwag labagin ang lokal na batas o ilagay ang inyong sarili sa pisikal na panganib sa paghahangad ng [pagkapribado](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
 Ang isang [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) na serbisyo ay maaaring humingi ng legal na pangalan, dokumentong nagpapatunay ng pagkakakilanlan, tirahan, litrato, impormasyon tungkol sa pinagmulan ng pondo, o iba pang mga tala. Maaari nitong bigyang-daan ang serbisyo na sumunod sa mga lokal na tuntunin, makipag-ugnayan sa mga bangko, magtakda ng mas matataas na limitasyon, o tumulong sa pagbawi ng account.
 

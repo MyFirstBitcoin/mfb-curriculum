@@ -30,4 +30,4 @@ Las personas también comparan el dinero según su [**solidez**](https://curricu
 
 **Piense de manera crítica:** Mencione una ocasión en la que eligió un tipo de dinero o [activo](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) en lugar de otro. ¿Cuál era el propósito? Compare las propiedades de las opciones que podría haber utilizado. ¿Qué propiedades fueron más importantes para usted y por qué?
 
-![Los seis personajes colaboran en una actividad sin conexión con tarjetas didácticas mientras el educador guía la discusión.](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![Los seis personajes colaboran en una actividad sin conexión con tarjetas didácticas mientras el educador guía la discusión.](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)

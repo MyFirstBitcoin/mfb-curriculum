@@ -6,7 +6,7 @@ Eya ta biabia gbã tso gakotoku ɖe sia ɖe ŋu nye: **ame kae le safuiwo dzi ɖ
 
 ###### Ame kae lé miaƒe bitcoin ɖe asi le nyateƒe me?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 Ne miezã **gakotoku si ƒe safuiwo le miawo ŋutɔ si** la, miawoe ɖua safuiwo dzi.
 

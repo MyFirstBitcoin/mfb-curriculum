@@ -1,6 +1,6 @@
 # 3.14 Betalings op die blokketting en via Lightning
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
@@ -30,4 +30,4 @@ Watter roete verwag die ontvanger? Bevestig voordat u betaal of die ontvanger �
 
 Stel u voor dat ’n voorbereide scenario albei betalingsroetes bied. Watter versoek kan die beoogde Beursie gebruik, en wat sou u nagaan voordat u dit goedkeur? Die antwoord hang af van die ontvanger se versoek, die Beursie en die situasie — nie van ’n universele “beste” roete nie.
 
-![Die opvoeder wys na twee verskillende geometriese betalingsroetes op ’n bord terwyl die beginner- en tegniese leerders dit oorweeg.](https://cdn.sanity.io/images/vje9ehw2/production/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)
+![Die opvoeder wys na twee verskillende geometriese betalingsroetes op ’n bord terwyl die beginner- en tegniese leerders dit oorweeg.](https://cdn.sanity.io/images/vje9ehw2/staging/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)

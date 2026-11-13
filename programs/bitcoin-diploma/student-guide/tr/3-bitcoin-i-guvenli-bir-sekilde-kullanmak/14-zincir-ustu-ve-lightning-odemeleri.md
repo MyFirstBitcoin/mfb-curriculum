@@ -1,6 +1,6 @@
 # 3.14 Zincir üstü ve Lightning ödemeleri
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
@@ -30,4 +30,4 @@ Alıcı hangi yolu bekliyor? Ödeme yapmadan önce size bir zincir üstü adres 
 
 Hazırlanmış bir senaryonun her iki ödeme yolunu da sunduğunu düşünün. Kullanmayı planladığınız cüzdan hangi talebi kullanabilir ve onaylamadan önce neleri kontrol edersiniz? Yanıt, alınan ödeme talebine, cüzdana ve duruma bağlıdır; evrensel bir “en iyi” yola değil.
 
-![Eğitmen, tahtadaki iki farklı geometrik ödeme yolunu gösterirken başlangıç düzeyindeki ve teknik öğrenciler bunları değerlendiriyor.](https://cdn.sanity.io/images/vje9ehw2/production/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)
+![Eğitmen, tahtadaki iki farklı geometrik ödeme yolunu gösterirken başlangıç düzeyindeki ve teknik öğrenciler bunları değerlendiriyor.](https://cdn.sanity.io/images/vje9ehw2/staging/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)

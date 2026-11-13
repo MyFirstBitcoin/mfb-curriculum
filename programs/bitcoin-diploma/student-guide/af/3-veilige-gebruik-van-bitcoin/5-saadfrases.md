@@ -36,4 +36,4 @@ Sommige beursies gebruik bykomende wagfrases, veelvuldige sleutels of ander rugs
 [Skryf ’n rugsteunkopie van ’n saadfrase in drie stappe neer: die beursieskerm wys die woorde, u skryf hulle met die hand in dieselfde volgorde op papier oor en kontroleer dan elke woord teen die skerm. Doen dit privaat en vanlyn.](/micrographics/seed-phrase-paper-backup-01/af.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)

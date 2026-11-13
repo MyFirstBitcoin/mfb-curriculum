@@ -18,7 +18,7 @@ Việc gửi cần được thực hiện cẩn thận hơn vì trên Bitcoin, m
 1. Hãy thử gửi một khoản nhỏ khi chưa quen với quy trình.
 1. Chỉ phê duyệt khi mọi mục đều khớp; sau đó kiểm tra kết quả thanh toán.
 
-![Học viên lớn tuổi đưa ra một chiếc điện thoại dùng để thực hành, trong khi người mới học kiểm tra một chiếc điện thoại khác và giảng viên hướng dẫn việc đối chiếu.](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![Học viên lớn tuổi đưa ra một chiếc điện thoại dùng để thực hành, trong khi người mới học kiểm tra một chiếc điện thoại khác và giảng viên hướng dẫn việc đối chiếu.](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 
 <!-- micrographic: pre-send-checklist-01 -->
@@ -29,4 +29,4 @@ Việc gửi cần được thực hiện cẩn thận hơn vì trên Bitcoin, m
 
 Nếu đích đến thay đổi bất ngờ, yêu cầu trở nên cấp bách, hoặc có người yêu cầu thông tin khôi phục, quý vị nên làm gì? Hãy dừng lại. Xác minh yêu cầu một cách độc lập, hoặc nhờ trợ giúp mà không chia sẻ thông tin bí mật.
 
-![Giảng viên hướng dẫn người mới học đối chiếu điện thoại với thiết bị nhận tiền của chủ cơ sở kinh doanh trước khi phê duyệt một khoản thanh toán.](https://cdn.sanity.io/images/vje9ehw2/production/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)
+![Giảng viên hướng dẫn người mới học đối chiếu điện thoại với thiết bị nhận tiền của chủ cơ sở kinh doanh trước khi phê duyệt một khoản thanh toán.](https://cdn.sanity.io/images/vje9ehw2/staging/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)

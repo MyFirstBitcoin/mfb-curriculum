@@ -51,7 +51,7 @@ Bei ya Bitcoin inaweza kubadilika kwa kasi kubwa. Makosa, ulaghai, siri zilizopo
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Maswali ya Mwanzo Kuhusu Pesa
 
@@ -82,7 +82,7 @@ Pesa ni rasilimali ambayo watu huikubali kwa sababu wanatarajia wengine kuikubal
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Kazi za Pesa
 
@@ -128,15 +128,15 @@ Hakuna aina inayopata alama kamili. “**Pesa imara**” ni uamuzi wa tathmini: 
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
 
 ## Uhaba, Thamani na Ubadilishanaji
 
@@ -160,7 +160,7 @@ Uhaba pekee hauhakikishi thamani; mahitaji pia ni muhimu.
 
 ## Gharama ya Fursa
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b79c74dedefcf834762da5d2301e0e6dc68ba9ad-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b79c74dedefcf834762da5d2301e0e6dc68ba9ad-1536x1024.svg)
 
 ---
 
@@ -203,7 +203,7 @@ Malipo rahisi na mikopo inayonyumbulika huleta utegemezi kwa taasisi. Ugavi, upa
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Chunguza Malipo ya Ndani
 
@@ -244,11 +244,11 @@ Mikimbio ya benki inaweza kuathiri upatikanaji wa fedha. Bima na mikopo ya benki
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 ## Mfumuko wa Bei na Uwezo wa Kununua
 
@@ -351,7 +351,7 @@ Ni nini kinachoifanya pesa yenu kuwa na manufaa, na ni sheria zipi zinazotegemea
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)
 
 ## Kwa Nini Bitcoin Iliundwa
 
@@ -387,7 +387,7 @@ Bitcoin hupunguza utegemezi wa uaminifu wa kati katika utoaji na ukamilishaji wa
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
 
 ## Pesa za Kidijitali za Mwanzo na Matumizi Mara Mbili
 
@@ -408,7 +408,7 @@ Matumizi maradufu ni jaribio la kutuma kipimo kilekile cha kidijitali kwa wapoke
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)
 
 ## Uhaba wa Kidijitali na Ugavi Unaoweza Kuthibitishwa
 
@@ -438,7 +438,7 @@ Kuandika upya historia kunahitaji kurudia kazi na kuufikia mnyororo mkuu. Ni gha
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)
 
 ## Ugatuzi
 
@@ -469,7 +469,7 @@ Huduma za kati zinabaki kuwa za hiari; kuchagua mojawapo huongeza kanuni zake za
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
 [Majukumu manne katika Bitcoin: watumiaji hupokea, huhifadhi na kutuma bitcoin, nodi huthibitisha kanuni kwa kujitegemea, wachimbaji huunda bloku pendekezwa kwa uthibitisho wa kazi, na wasanidi programu hupendekeza programu. Hakuna jukumu moja linalodhibiti mtandao.](/micrographics/bitcoin-participant-roles-01/sw.md)
@@ -488,7 +488,7 @@ Wachimbaji hawawezi kufanya bloku batili zikubalike na nodi waaminifu. Wasanidi 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/fb441d7e082e658fa8496bbeb4a1e764faad208b-1054x1493.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/fb441d7e082e658fa8496bbeb4a1e764faad208b-1054x1493.svg)
 
 ## Uthibitisho wa Kazi
 
@@ -502,14 +502,14 @@ Uchimbaji hulinda mpangilio wa miamala; hautatui milinganyo ya nje. Tathmini cha
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 <!-- micrographic: proof-of-work-process-01 -->
 [Mchimbaji anafanya hashi ya bloku linalopendekezwa tena na tena hadi tokeo moja liwe chini ya lengo la mtandao, kisha analitangaza bloku hilo. Nodi zinakagua uthibitisho na kila sheria haraka kabla bloku halijaunganishwa kwenye blockchain: kazi ni ghali kuzalisha na rahisi kuthibitisha.](/micrographics/proof-of-work-process-01/sw.md)
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
 
 ## Ugavi Wenye Kikomo
 
@@ -535,7 +535,7 @@ Nodi hukataa utoaji unaozidi kiwango; kikomo hudumu maadamu washiriki wanakiteke
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/98c8cef9bc6e6d0955458f6fb4a71f1de5ed5225-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/98c8cef9bc6e6d0955458f6fb4a71f1de5ed5225-1536x1024.svg)
 
 ## Satoshi na Upendeleo wa Kizio
 
@@ -735,7 +735,7 @@ Kamwe msishiriki funguo za kibinafsi, maneno ya kurejesha (seed phrases), nywila
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Virai vya Mbegu
 
@@ -771,7 +771,7 @@ Blockchain ya umma haiwezi kuthibitisha kile ambacho huduma inadaiwa na mteja fu
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 ---
 
@@ -780,7 +780,7 @@ Blockchain ya umma haiwezi kuthibitisha kile ambacho huduma inadaiwa na mteja fu
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/57f786b5525418d2bddc36af8cced7b1f0533e70-1054x1492.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/57f786b5525418d2bddc36af8cced7b1f0533e70-1054x1492.svg)
 
 ## Pochi za Moto na Pochi Baridi
 
@@ -822,7 +822,7 @@ Ujumbe au picha ya skrini kutoka kwa mtumaji si uthibitisho. Inayosubiri ni tofa
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/3eaf85ebf51d0327a1221d33b4745a62a44347b2-1055x1491.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/3eaf85ebf51d0327a1221d33b4745a62a44347b2-1055x1491.svg)
 
 ## Kutuma Bitcoin
 
@@ -857,7 +857,7 @@ Tumieni mifano iliyoandaliwa; msitafute anwani au muamala binafsi wa mwanafunzi.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Orodha ya Ukaguzi wa Usalama
 
@@ -880,7 +880,7 @@ Tumieni mifano iliyoandaliwa; msitafute anwani au muamala binafsi wa mwanafunzi.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
 
 ## Kupata na Kubadilishana Bitcoin
 
@@ -1051,7 +1051,7 @@ Ni tatizo gani linalotatuliwa? Je, Bitcoin ni bora kuliko njia mbadala iliyopo h
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/4b62c836617bfcd268b6e464842a61a1f8b4614a-1055x1491.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/4b62c836617bfcd268b6e464842a61a1f8b4614a-1055x1491.svg)
 
 ## Kutumia na Kupokea Malipo Katika Jamii ya Karibu
 
@@ -1129,7 +1129,7 @@ Idadi ya watumiaji pekee haithibitishi manufaa. Mahitaji, zana, elimu au usalama
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
 
 ---
 

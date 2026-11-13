@@ -25,4 +25,4 @@ Argomenti:
 
 **Discussione finale:** Perché inviare automaticamente un rimborso a un presunto indirizzo originale non è sicuro? Chi diventa responsabile quando più membri del personale condividono un unico wallet?
 
-![L'educatore indica una scheda di registrazione vuota mentre il principiante e il titolare dell'attività controllano i telefoni di prova al bancone di un esercizio commerciale.](https://cdn.sanity.io/images/vje9ehw2/production/7c785fef5d3b3be3d4a60aa9cfa250f74e18d1ec-1054x1493.png)
+![L'educatore indica una scheda di registrazione vuota mentre il principiante e il titolare dell'attività controllano i telefoni di prova al bancone di un esercizio commerciale.](https://cdn.sanity.io/images/vje9ehw2/staging/7c785fef5d3b3be3d4a60aa9cfa250f74e18d1ec-1054x1493.png)

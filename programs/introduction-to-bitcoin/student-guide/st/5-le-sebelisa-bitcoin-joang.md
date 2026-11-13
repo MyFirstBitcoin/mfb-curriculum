@@ -6,7 +6,7 @@ Kahoo potso ya pele ka sepache leha e le sefe ke ena: **ke mang ya laolang dinot
 
 ###### Ha e le hantle, ke mang ya tshwereng bitcoin ya lona?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 Ka **sepache seo le ipolokelang dinotlolo ho sona**, ke lona ba laolang dinotlolo.
 

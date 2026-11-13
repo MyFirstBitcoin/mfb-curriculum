@@ -19,7 +19,7 @@ Vi använder pengar varje dag, men frågar oss sällan hur de fungerar.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## De flesta stannar aldrig upp för att tänka på pengar
 
@@ -29,7 +29,7 @@ Inte att tjäna det, inte att spendera det, utan att fundera över vad det är o
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Fem frågor att börja med
 
@@ -49,7 +49,7 @@ Inte att tjäna det, inte att spendera det, utan att fundera över vad det är o
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Fakta eller åsikt?
 
@@ -74,7 +74,7 @@ Pengar är ett verktyg för utbyte.
 
 Båda personerna måste vilja ha det som den andra har, vid samma tidpunkt och i lämpliga mängder.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Använd exemplet i handledningen: ni odlar ris och behöver skor, men skomakaren vill ha matolja, inte ris. Ekonomer kallar detta dubbel behovsöverensstämmelse. -->
 
@@ -96,13 +96,13 @@ Båda personerna måste vilja ha det som den andra har, vid samma tidpunkt och i
 
 Ingen vill ha pengar för pengarnas egen skull. De är användbara eftersom andra accepterar dem och förväntar sig att andra i sin tur kommer att acceptera dem senare.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: En sedel är bara en bit papper. Pengar löser byteshandelns problem genom att skilja försäljning från köp: ni säljer ert ris till en person och köper skor av en annan. Det är detta som skiljer pengar från byteshandel. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Pengars tre funktioner
 
@@ -114,7 +114,7 @@ Inga pengar bevarar värde perfekt, men vissa former förlorar köpkraft långsa
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Från snäckor till papper
 
@@ -161,13 +161,13 @@ När människor hör ordet inflation tänker de vanligtvis på att priserna stig
 
 ## Inflation och köpkraft
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Prisinflation är en varaktig ökning av den allmänna prisnivån. Dess andra sida är köpkraften: hur mycket en penningenhet kan köpa. Om priset på en korg med basvaror stiger från 100 valutaenheter till 110, räcker samma 100 valutaenheter inte längre till hela korgen. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Många orsaker, ett val
 
@@ -285,7 +285,7 @@ En bitcoin kan delas upp i 100 000 000 mindre enheter som kallas satoshis, eller
 
 ## Vem håller Bitcoin igång?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Användare skickar, tar emot och innehar bitcoin; noder kontrollerar varje transaktion och block mot reglerna; utvinnare tävlar om att lägga till ett nytt block i registret ungefär var tionde minut. Detta register, blockkedjan, är offentligt och mycket kostsamt att skriva om. En anmärkning om stavningen: Bitcoin med stort B avser vanligtvis nätverket eller systemet; bitcoin med litet b avser själva pengarna. -->
 
@@ -330,7 +330,7 @@ Valet av förvaringsform är inte ett mått på ert värde. Det viktiga är att 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Er återställningsfras ger full åtkomst
 
@@ -350,7 +350,7 @@ En ordnad lista med ord, ofta 12 eller 24, som kan återskapa Era nycklar. Alla 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Innan ni använder någon plånbok
 
@@ -391,7 +391,7 @@ En ordnad lista med ord, ofta 12 eller 24, som kan återskapa Era nycklar. Alla 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Stanna upp, dela ingenting, skicka ingenting
 
@@ -426,7 +426,7 @@ Det här är bara början.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Bitcoindiplomet
 

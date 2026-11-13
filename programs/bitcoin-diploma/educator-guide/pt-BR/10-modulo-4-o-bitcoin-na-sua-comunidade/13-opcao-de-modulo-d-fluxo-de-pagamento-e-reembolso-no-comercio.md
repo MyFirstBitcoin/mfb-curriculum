@@ -25,4 +25,4 @@ Abordar:
 
 **Discussão final:** Por que enviar um reembolso automaticamente para um suposto endereço original não é seguro? Quem se torna responsável quando vários funcionários compartilham uma mesma carteira?
 
-![O educador aponta para uma ficha de registro em branco enquanto o iniciante e o dono do negócio verificam celulares de treinamento no balcão de um estabelecimento comercial.](https://cdn.sanity.io/images/vje9ehw2/production/7c785fef5d3b3be3d4a60aa9cfa250f74e18d1ec-1054x1493.png)
+![O educador aponta para uma ficha de registro em branco enquanto o iniciante e o dono do negócio verificam celulares de treinamento no balcão de um estabelecimento comercial.](https://cdn.sanity.io/images/vje9ehw2/staging/7c785fef5d3b3be3d4a60aa9cfa250f74e18d1ec-1054x1493.png)

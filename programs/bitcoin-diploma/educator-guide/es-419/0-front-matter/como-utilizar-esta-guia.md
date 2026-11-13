@@ -23,7 +23,7 @@ Cuando abra la guía de un módulo, siga siempre el mismo orden:
 
 Los encabezados se repiten deliberadamente. Esa repetición ayuda a un docente nuevo a orientarse; no es contenido que deba memorizarse.
 
-![El educador señala un diagrama en una guía del curso abierta mientras el estudiante principiante y el estudiante de mayor edad siguen la explicación en sus propias guías.](https://cdn.sanity.io/images/vje9ehw2/production/f4e6dd8cd876afad89cef117fc6845f0b599f408-1054x1492.png)
+![El educador señala un diagrama en una guía del curso abierta mientras el estudiante principiante y el estudiante de mayor edad siguen la explicación en sus propias guías.](https://cdn.sanity.io/images/vje9ehw2/staging/f4e6dd8cd876afad89cef117fc6845f0b599f408-1054x1492.png)
 
 ### Frases que puede usar cuando tenga dudas
 

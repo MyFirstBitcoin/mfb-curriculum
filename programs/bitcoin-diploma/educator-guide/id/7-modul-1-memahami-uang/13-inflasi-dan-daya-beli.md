@@ -7,7 +7,7 @@ Ajarkan [inflasi harga](https://curriculum.myfirstbitcoin.org/lexicon/en/#inflat
 [Dengan 100 unit uang yang sama, Anda dapat membeli seluruh isi keranjang kebutuhan pokok saat harganya 100, tetapi tidak saat harga keranjang yang sama menjadi 110. Tingkat harga telah naik dan daya beli uang telah turun.](/micrographics/same-money-smaller-basket-01/id.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 Mintalah peserta didik mengidentifikasi kemungkinan penyebab suatu [harga](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) berubah:
 

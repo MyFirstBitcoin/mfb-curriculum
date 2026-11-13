@@ -12,7 +12,7 @@ Această diferență este importantă pentru verificare. Regulile Bitcoin și of
 
 Într-un portofel **fără custodie** sau **cu autocustodie**, DUMNEAVOASTRĂ controlați cheile. Portofelul semnează [tranzacțiile](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) sub autoritatea dumneavoastră. Pot exista în continuare dependențe de software, hardware, servere sau rețea, dar niciun [custode](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian) nu trebuie să aprobe o cheltuire validă pe Blockchain.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 
 <!-- micrographic: who-controls-keys-01 -->

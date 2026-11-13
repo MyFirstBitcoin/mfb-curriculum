@@ -4,7 +4,7 @@
 
 Peer-to-Peer betekent niet altijd dat slechts twee computers rechtstreeks met elkaar communiceren. Een [transactie](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) kan via Wallets, internetproviders en vele netwerk-[Nodes](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) gaan. Het belangrijkste is dat geen enkele centrale Bitcoin-beheerder de verzender of ontvanger hoeft goed te keuren.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
 
 
 <!-- micrographic: peer-to-peer-route-01 -->

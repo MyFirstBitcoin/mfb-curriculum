@@ -18,7 +18,7 @@ Sending krever større varsomhet fordi en gyldig [Bitcoin-transaksjon](https://c
 1. Gjør en test med et lite beløp når fremgangsmåten er ukjent.
 1. Godkjenn bare når alle punktene stemmer; kontroller deretter betalingsresultatet.
 
-![Den eldre deltakeren viser frem en øvingstelefon mens nybegynneren kontrollerer en annen telefon og underviseren veileder sammenligningen.](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![Den eldre deltakeren viser frem en øvingstelefon mens nybegynneren kontrollerer en annen telefon og underviseren veileder sammenligningen.](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 
 <!-- micrographic: pre-send-checklist-01 -->
@@ -29,4 +29,4 @@ Ved en [betaling på kjeden](https://curriculum.myfirstbitcoin.org/lexicon/en/#o
 
 Hva bør De gjøre hvis destinasjonen endres uventet, forespørselen blir hastende, eller noen ber om gjenopprettingsinformasjon? Stopp. Kontroller forespørselen gjennom en uavhengig kanal, eller be om hjelp uten å dele hemmeligheter.
 
-![Underviseren veileder nybegynneren mens de sammenligner en telefon med bedriftseierens mottaksenhet før en betaling godkjennes.](https://cdn.sanity.io/images/vje9ehw2/production/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)
+![Underviseren veileder nybegynneren mens de sammenligner en telefon med bedriftseierens mottaksenhet før en betaling godkjennes.](https://cdn.sanity.io/images/vje9ehw2/staging/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)

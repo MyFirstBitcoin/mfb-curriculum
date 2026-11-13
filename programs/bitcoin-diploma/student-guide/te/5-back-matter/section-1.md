@@ -26,11 +26,11 @@
 
 ### ఒక అభ్యసన సంఘంలో చేరండి
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
 
 ఈ [బిట్‌కాయిన్ విద్యా నెట్‌వర్క్](https://myfirstbitcoin.org/about/network) స్వతంత్ర విద్యాబోధకులను, స్థానిక అభ్యసన సంఘాలను అనుసంధానిస్తుంది. మీకు సమీపంలో ఉన్న సంఘాన్ని లేదా మీకు ఆసక్తి కలిగించే పని చేస్తున్న సంఘాన్ని కనుగొని, మీరు ఎలా నేర్చుకోవచ్చు, స్వచ్ఛందంగా సేవ చేయవచ్చు లేదా తోడ్పడవచ్చు అని అడగడానికి దానిని సంప్రదించండి. పాల్గొనడం ఐచ్ఛికం; ఇది డిప్లొమా పూర్తి చేయడం, మూల్యాంకనం లేదా ధ్రువీకరణపై ప్రభావం చూపదు.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
 
 ### భద్రతకు సంబంధించిన ఒక జ్ఞాపిక
 
@@ -92,13 +92,13 @@
 
 మీరు సాధించే అత్యంత ముఖ్యమైన ఫలితం ధ్రువపత్రం కాదు. డబ్బు, బిట్‌కాయిన్ గురించి స్పష్టంగా వివరించడం, ప్రమాదాన్ని గుర్తించడం, చర్య తీసుకునే ముందు ధృవీకరించడం, స్వతంత్రంగా నేర్చుకోవడం కొనసాగించడం వంటి సామర్థ్యాలే ముఖ్యమైన ఫలితం.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
 
 ### ఉచిత బిట్‌కాయిన్ విద్యకు మద్దతు ఇవ్వండి
 
 My First Bitcoin విద్యా వనరులు ఉచితం, ఓపెన్ సోర్స్‌లో అందుబాటులో ఉన్నాయి. స్వచ్ఛంద మద్దతు పాఠ్యప్రణాళికను నిర్వహించడానికి, బోధకులకు శిక్షణ ఇవ్వడానికి, మరింత మందికి అందుబాటులోకి తేవడానికి సహాయపడుతుంది.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
 
 
 https://donate.myfirstbitcoin.org
@@ -112,4 +112,4 @@ _My First Bitcoinకు మద్దతు ఇవ్వండి_
 ---
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)

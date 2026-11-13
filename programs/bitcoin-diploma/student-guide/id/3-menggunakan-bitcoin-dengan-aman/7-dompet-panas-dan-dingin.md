@@ -32,4 +32,4 @@
 
 **Cobalah:** Untuk sebuah pembayaran fiktif bernilai kecil dan sebuah pembayaran fiktif yang lebih jarang dilakukan, jelaskan [kompromi](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) mana yang lebih penting. Jangan memilih alat atau jumlah untuk dana Anda sendiri.
 
-![Pendidik membantu peserta didik yang lebih tua dan peserta didik yang memiliki pengetahuan teknis membandingkan ponsel, dompet perangkat keras, dan laptop.](https://cdn.sanity.io/images/vje9ehw2/production/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)
+![Pendidik membantu peserta didik yang lebih tua dan peserta didik yang memiliki pengetahuan teknis membandingkan ponsel, dompet perangkat keras, dan laptop.](https://cdn.sanity.io/images/vje9ehw2/staging/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)

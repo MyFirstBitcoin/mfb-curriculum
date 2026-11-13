@@ -15,7 +15,7 @@ Fiat sustav ima nekoliko glavnih sudionika:
 [Sudionici u sustavu fiat novca i ono što se među njima razmjenjuje: središnja banka određuje monetarnu politiku i provodi namiru među bankama, poslovne banke drže depozite koji su njihove obveze prema klijentima, platne usluge prenose naloge, država prikuplja poreze i troši, a građani i poduzeća plaćaju i primaju uplate.](/micrographics/fiat-system-flows-01/hr.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
 <!-- card: light -->

@@ -12,7 +12,7 @@ Ta razlika je pomembna za preverjanje. Pravila Bitcoina in njegovo skupno ponudb
 
 V **neskrbniški** ali **samoskrbniški** denarnici ključe nadzorujete VI. Denarnica podpisuje [transakcije](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) po vašem pooblastilu. Še vedno lahko obstaja odvisnost od programske ali strojne opreme, strežnikov ali omrežja, vendar nobenemu [skrbniku](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian) ni treba odobriti veljavne porabe v verigi blokov.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 
 <!-- micrographic: who-controls-keys-01 -->

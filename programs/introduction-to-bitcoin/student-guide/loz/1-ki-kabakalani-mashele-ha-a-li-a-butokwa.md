@@ -22,4 +22,4 @@ Buka ye ya kaelo i theilwe fa lipuzo ze silezi: libaka leo mali a li a butokwa, 
 
 Ki ya tuto feela. Ha i fani ka likelezo za mali, za ku beeza mali, za mulao, kapa za mitelo, mi ha i mi bolelezi ku leka, ku lekisa, kapa ku boloka nto ifi kapa ifi.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)

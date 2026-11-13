@@ -13,4 +13,4 @@ Use think–pair–share before whole-group discussion:
 
 Ask learners to support answers with a course concept and an example, not a slogan.
 
-![The educator invites a final explanation from the older learner while the beginner and business owner listen with their guides.](https://cdn.sanity.io/images/vje9ehw2/production/294a2f8e8e831a2a0da998cfbc42a40102d4cc74-1054x1493.png)
+![The educator invites a final explanation from the older learner while the beginner and business owner listen with their guides.](https://cdn.sanity.io/images/vje9ehw2/staging/294a2f8e8e831a2a0da998cfbc42a40102d4cc74-1054x1493.png)

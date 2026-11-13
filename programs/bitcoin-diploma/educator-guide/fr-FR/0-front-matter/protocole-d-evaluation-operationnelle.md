@@ -38,7 +38,7 @@ Choisissez un parcours pratique dans lequel les apprenants se sentent en sécuri
 [Pour organiser la formation d’un groupe, multipliez le nombre d’apprenants par le temps d’accompagnement et d’observation prévu, puis ajoutez du temps pour la mise en place, les retours, les besoins d’accessibilité et la réévaluation. Si l’équipe pédagogique ne dispose pas de suffisamment de temps, modifiez le programme : moins d’apprenants, plus de membres dans l’équipe pédagogique ou plus de temps.](/micrographics/cohort-capacity-check-01/fr-FR.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
 
 ### Tableau de correspondance entre compétences et éléments probants
 

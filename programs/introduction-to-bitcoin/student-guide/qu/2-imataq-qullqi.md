@@ -12,9 +12,9 @@ Chhalaypiqa iskaynin runakuna hukninpa kaqninta munaptillankum, kikin pachapi hi
 
 Kayqa **rantiqanakunapaq llamk'ana**: runakunaqa paywan pagasqa kayta chaskinku. Kayqa **yupanapaq tupu**: chaninkunaqa paywanmi willakun, chayrayku imaymana kaqkunapa chaninta tupachiyta atinchik. Hinallataq kayqa **chani waqaychana**: chanita kunanmanta hamuq pachaman apan. Manam mayqin qullqipas chanita mana imapas pisiyaspa waqaychanchu, ichaqa wakin qullqikunaqa rantiy atiyninkuta hukkunamanta aswan allillamanta chinkachinku.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Ñawpa pachakunamantapacham achka imakuna qullqi hina karqanku: ch'uru qarakuna, kachi, mullu, uywakuna, anta, qullqi q'illay, quripas. Chaniyuq q'illaykunaqa tukuy hinantinpi llamk'achisqa karqanku pisi kasqankurayku, unaypaq kasqankurayku, achka runakuna chaskisqankuraykupas. Ichaqa q'illayta apaypas waqaychaypas sasam, chayrayku qullqi wasikunaqa huk nisqa tupu q'illaywan kutichiy atina raphikunata quyta qallarirqanku. Imaymana **quri kamachiynin** kasqanman hina, huk qullqi tupuqa kamachiyman hina huk tupu quriwan watasqa karqan. Kamachiykunaqa llaqtaman pachaman hinam hukniray karqanku.
 

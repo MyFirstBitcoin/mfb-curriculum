@@ -1,6 +1,6 @@
 # 4.8 Lokale kanaler for kjøp og salg
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/16d4da9fcdbc76a89acbef6bf760d3199ea7a843-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/16d4da9fcdbc76a89acbef6bf760d3199ea7a843-1536x1024.svg)
 
 En [**inngangsvei**](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-ramp) er en vei fra lokale penger, arbeid eller en annen [eiendel](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) til bitcoin. En [**utgangsvei**](https://curriculum.myfirstbitcoin.org/lexicon/en/#off-ramp) er en vei fra bitcoin til lokale penger, varer eller tjenester. Den samme veien kan fylle begge rollene.
 
@@ -14,7 +14,7 @@ Lokale muligheter kan omfatte:
 * å bruke en betalingstjeneste som veksler mellom bitcoin og fiatpenger
 * å delta i en lokal sirkulær økonomi
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8ad6c3106c57d796cf1b415d6a8104b043e6a215-776x978.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8ad6c3106c57d796cf1b415d6a8104b043e6a215-776x978.svg)
 
 Sammenlign **hele veien**, ikke bare det første gebyret. En tjeneste kan reklamere med et lavt kjøpsgebyr, men bruke en ugunstig [vekslingskurs](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate) eller ta gebyr for uttak. En vei direkte mellom personer kan virke privat, men kreve tid, tillit og fysisk sikkerhet.
 

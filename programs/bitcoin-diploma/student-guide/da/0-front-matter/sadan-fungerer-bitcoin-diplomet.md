@@ -27,7 +27,7 @@ Hvert modul følger den samme rytme:
 
 De vil lære mere ved at deltage end ved at læse i stilhed. Nogle spørgsmål har ikke ét korrekt svar. Det afgørende er, om De kan forklare Deres ræsonnement, undersøge dokumentation og revidere Deres synspunkt, når De lærer noget nyt.
 
-![Virksomhedsejeren peger på et enkelt diagram i en opslået vejledning, mens underviseren drøfter det med hende ved et bord i undervisningslokalet.](https://cdn.sanity.io/images/vje9ehw2/production/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
+![Virksomhedsejeren peger på et enkelt diagram i en opslået vejledning, mens underviseren drøfter det med hende ved et bord i undervisningslokalet.](https://cdn.sanity.io/images/vje9ehw2/staging/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
 
 ### Forventninger til diskussion og privatliv
 
@@ -50,7 +50,7 @@ Deres underviser vil forklare alle obligatoriske bedømmelsesaktiviteter. Teoret
 
 Deres underviser bruger et bedømmelsesskema til at registrere ét resultat for hver af de syv ovenstående kompetencer. `C1`–`C5` bedømmes ud fra Deres egne forklaringer og beslutninger; `C6`–`C7` kræver direkte observation. Både opgaven med wallet/modtagelse og opgaven om parathed til gendannelse er obligatoriske dele af `C6`.
 
-![Underviseren reagerer på begynderens oprakte hånd, mens den ældre kursist følger med i en åben kursusvejledning.](https://cdn.sanity.io/images/vje9ehw2/production/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
+![Underviseren reagerer på begynderens oprakte hånd, mens den ældre kursist følger med i en åben kursusvejledning.](https://cdn.sanity.io/images/vje9ehw2/staging/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
 
 ### Nødvendige forkundskaber: ingen
 

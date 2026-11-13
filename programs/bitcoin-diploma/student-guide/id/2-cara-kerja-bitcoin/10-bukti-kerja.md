@@ -1,6 +1,6 @@
 # 2.10 Bukti Kerja
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
 <!-- card: definition -->
@@ -29,4 +29,4 @@ Ketika seorang [penambang](https://curriculum.myfirstbitcoin.org/lexicon/en/#min
 
 [Bukti kerja](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) melibatkan biaya energi yang nyata. Para pendukung berpendapat bahwa biaya inilah yang menjadi landasan keamanan Bitcoin dan dapat menciptakan permintaan akan energi yang penggunaannya dapat disesuaikan atau yang jika tidak digunakan untuk penambangan akan terbuang. Para pengkritik mempertanyakan jumlah dan sumber energi yang digunakan. Evaluasi yang bertanggung jawab menanyakan energi apa yang digunakan, dari mana asalnya, keamanan seperti apa yang dihasilkannya, dan alternatif apa saja yang dibandingkan.
 
-![Pendidik, peserta didik pemula, dan peserta didik teknis mendiskusikan sebuah unit penambangan di atas meja yang dilengkapi kipas dan catu daya terpisah.](https://cdn.sanity.io/images/vje9ehw2/production/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)
+![Pendidik, peserta didik pemula, dan peserta didik teknis mendiskusikan sebuah unit penambangan di atas meja yang dilengkapi kipas dan catu daya terpisah.](https://cdn.sanity.io/images/vje9ehw2/staging/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)

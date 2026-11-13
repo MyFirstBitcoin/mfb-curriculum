@@ -23,7 +23,7 @@ Følg den samme rækkefølge hver gang, De åbner en modulvejledning:
 
 Overskrifterne gentages med vilje. Gentagelsen er en hjælp til at finde rundt for en ny underviser, ikke indhold, der skal læres udenad.
 
-![Underviseren peger på et diagram i en åben kursusvejledning, mens begynderen og den ældre kursist følger med i deres egne vejledninger.](https://cdn.sanity.io/images/vje9ehw2/production/f4e6dd8cd876afad89cef117fc6845f0b599f408-1054x1492.png)
+![Underviseren peger på et diagram i en åben kursusvejledning, mens begynderen og den ældre kursist følger med i deres egne vejledninger.](https://cdn.sanity.io/images/vje9ehw2/staging/f4e6dd8cd876afad89cef117fc6845f0b599f408-1054x1492.png)
 
 ### Formuleringer, De kan bruge, når De er usikker
 

@@ -44,4 +44,4 @@ Pradinė subsidija buvo 50 BTC už bloką. Ji pakartotinai mažinama perpus, kol
 > Ribota pasiūla taip pat nereiškia, kad kiekvienas bitkoinas siūlomas parduoti; kai kurie gali būti laikomi ilgą laiką arba tapti neprieinami dėl prarastų raktų.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

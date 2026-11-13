@@ -15,7 +15,7 @@ Las personas pueden recibir bitcoin por su trabajo, mediante un pago comunitario
 * **Intercambio entre pares:** Dos personas pueden intercambiar [dinero fíat](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) o bienes por bitcoin directamente o mediante un servicio que las ponga en contacto. Esto puede generar riesgos de contraparte, de seguridad física, de reversión de pagos y de fraude.
 * **Plataforma de intercambio, intermediario, cajero automático o quiosco:** Un servicio o una máquina puede ofrecer una vía conocida, pero puede implicar comisiones, verificaciones de identidad, [custodia](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), límites de retiro o un [tipo de cambio](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate) desfavorable.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
 
 Antes de comparar una vía, pregunte:
 

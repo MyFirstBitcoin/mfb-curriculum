@@ -23,4 +23,4 @@ Sommige mense vervul verskeie rolle. 'n [delwer](https://curriculum.myfirstbitco
 
 **Kitsvraag:** Waarom doen 'n [Nodus](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) verifikasie van [transaksies](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction)? Noem ten minste een reël wat 'n [Nodus](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) nagaan.
 
-![Die opvoeder lei die tegniese leerder by 'n Nodus-rekenaar, met die monitor na hulle gerig en die agterkant van die monitor se omhulsel sigbaar vir die kyker.](https://cdn.sanity.io/images/vje9ehw2/production/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)
+![Die opvoeder lei die tegniese leerder by 'n Nodus-rekenaar, met die monitor na hulle gerig en die agterkant van die monitor se omhulsel sigbaar vir die kyker.](https://cdn.sanity.io/images/vje9ehw2/staging/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)

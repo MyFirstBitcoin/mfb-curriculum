@@ -16,4 +16,4 @@ Valitkaa näistä esimerkeistä kaksi tai kolme, älkää kaikkia. Selatkaa [teh
 
 Käyttäkää [yhteisymmärrykseen perustuvia](https://curriculum.myfirstbitcoin.org/lexicon/en/#consensus) pelejä, tiivistämistehtäviä, videoita ja roolipelejä vain silloin, kun niiden tarkoitus, ajoitus, soveltuvuus oppijoiden tilanteeseen ja purkukeskustelu ovat hyvin suunniteltuja. Tehtävä tuottaa opettajan ohjaamaa näyttöä teoriaosaamisesta vain silloin, kun se on osaamistavoitteen mukainen arviointitilanne, johon sisältyvät yksilöllinen näyttö, arviointimatriisi ja kirjaamismenettely. Muussa tapauksessa käyttäkää sitä oppimista tukevana harjoituksena.
 
-![Yrittäjä selittää vertaisverkkoa, samalla kun opettaja kuuntelee ja nuori oppija seuraa muistikirja mukanaan.](https://cdn.sanity.io/images/vje9ehw2/production/359b55ce824c4e7e1fb6d3f1e0b5dbc01f7c6db6-1054x1493.png)
+![Yrittäjä selittää vertaisverkkoa, samalla kun opettaja kuuntelee ja nuori oppija seuraa muistikirja mukanaan.](https://cdn.sanity.io/images/vje9ehw2/staging/359b55ce824c4e7e1fb6d3f1e0b5dbc01f7c6db6-1054x1493.png)

@@ -23,7 +23,7 @@ Bir modül rehberini açtığınızda her seferinde aynı sırayı izleyin:
 
 Başlıklar bilinçli olarak tekrarlanmaktadır. Bu tekrar, yeni bir eğitmen için bir yol gösterme aracıdır; ezberlenmesi gereken bir içerik değildir.
 
-![Eğitmen, açık bir kurs rehberindeki bir şemayı gösterirken yeni başlayan ve yaşça büyük öğrenen kendi rehberlerinden takip ediyor.](https://cdn.sanity.io/images/vje9ehw2/production/f4e6dd8cd876afad89cef117fc6845f0b599f408-1054x1492.png)
+![Eğitmen, açık bir kurs rehberindeki bir şemayı gösterirken yeni başlayan ve yaşça büyük öğrenen kendi rehberlerinden takip ediyor.](https://cdn.sanity.io/images/vje9ehw2/staging/f4e6dd8cd876afad89cef117fc6845f0b599f408-1054x1492.png)
 
 ### Emin olmadığınızda kullanabileceğiniz ifadeler
 

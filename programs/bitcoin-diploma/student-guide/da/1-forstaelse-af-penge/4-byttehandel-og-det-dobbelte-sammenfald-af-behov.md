@@ -8,7 +8,7 @@
 
 Forestil Dem, at **Amina** har ris og ønsker sko. **Luis** har sko, men ønsker madolie, ikke ris. **Mei** har madolie og ønsker at få udført reparationsarbejde. Amina kan være nødt til at foretage flere byttehandler, før hun kan få skoene. Hver byttehandel tager tid og kræver enighed om [værdi](https://curriculum.myfirstbitcoin.org/lexicon/en/#value).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
 
 
 <!-- micrographic: barter-mismatch-01 -->
@@ -29,7 +29,7 @@ Et almindeligt accepteret betalingsmiddel adskiller salg fra køb. Amina kan sæ
 
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
 
 <!-- micrographic: sell-then-buy-01 -->

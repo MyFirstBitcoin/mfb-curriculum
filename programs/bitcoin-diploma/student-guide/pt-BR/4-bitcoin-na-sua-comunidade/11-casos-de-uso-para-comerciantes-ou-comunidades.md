@@ -1,6 +1,6 @@
 # 4.11 Casos de uso para comerciantes ou comunidades
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/9fd6b8ca04a295f860a0ab150d8f05823cbcea16-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/9fd6b8ca04a295f860a0ab150d8f05823cbcea16-1536x1024.svg)
 
 
 <!-- micrographic: merchant-payment-operations-01 -->

@@ -22,4 +22,4 @@ Per esaminare una [transazione](https://curriculum.myfirstbitcoin.org/lexicon/en
 [Una transazione attende senza conferma nel pool delle transazioni in attesa, poi viene inclusa nel Blocco N come prima conferma, e ogni blocco successivo ne aggiunge un'altra.](/micrographics/confirmation-timeline-01/it.md)
 
 
-![L'educatore e lo studente più anziano discutono un esempio preparato su un monitor rivolto verso il gruppo, mentre lo studente esperto di tecnologia usa il mouse; chi osserva vede il retro del monitor.](https://cdn.sanity.io/images/vje9ehw2/production/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)
+![L'educatore e lo studente più anziano discutono un esempio preparato su un monitor rivolto verso il gruppo, mentre lo studente esperto di tecnologia usa il mouse; chi osserva vede il retro del monitor.](https://cdn.sanity.io/images/vje9ehw2/staging/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)

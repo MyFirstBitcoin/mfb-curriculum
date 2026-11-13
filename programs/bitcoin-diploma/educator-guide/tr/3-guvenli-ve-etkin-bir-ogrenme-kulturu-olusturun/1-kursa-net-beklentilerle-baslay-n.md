@@ -17,4 +17,4 @@ Bitcoin Diploma'nın eğitim amaçlı olduğunu açıklayın. Program bitcoin al
 * hiçbir zaman [tohum ifadenizi](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), [özel anahtarınızı](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), parolanızı veya güvenlik düzenlemelerinizi açıklamayın; ve
 * bir şey gösterilen süreçten farklı ilerlediğinde uygulamalı çalışmayı durdurun.
 
-![Genç öğrenci bir soru soruyor; eğitmen dinliyor, diğer dört öğrenci de tartışmayı takip ediyor.](https://cdn.sanity.io/images/vje9ehw2/production/bf1185129657cd98555d2704565cf44deadbe59d-1054x1493.png)
+![Genç öğrenci bir soru soruyor; eğitmen dinliyor, diğer dört öğrenci de tartışmayı takip ediyor.](https://cdn.sanity.io/images/vje9ehw2/staging/bf1185129657cd98555d2704565cf44deadbe59d-1054x1493.png)

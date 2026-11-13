@@ -22,4 +22,4 @@ Ili kukagua [muamala](https://curriculum.myfirstbitcoin.org/lexicon/en/#transact
 [Muamala unasubiri bila kuthibitishwa katika hifadhi ya miamala inayosubiri, kisha unajumuishwa katika Bloku N kama uthibitisho wake wa kwanza, na kila bloku inayofuata huongeza uthibitisho mmoja zaidi.](/micrographics/confirmation-timeline-01/sw.md)
 
 
-![Mwalimu na mwanafunzi mzee wanajadili mfano ulioandaliwa kwenye skrini inayoelekea kikundi, huku mwanafunzi mwenye ujuzi wa kiufundi akiendesha kipanya; mtazamaji anaona sehemu ya nyuma ya kasha la skrini.](https://cdn.sanity.io/images/vje9ehw2/production/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)
+![Mwalimu na mwanafunzi mzee wanajadili mfano ulioandaliwa kwenye skrini inayoelekea kikundi, huku mwanafunzi mwenye ujuzi wa kiufundi akiendesha kipanya; mtazamaji anaona sehemu ya nyuma ya kasha la skrini.](https://cdn.sanity.io/images/vje9ehw2/staging/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)

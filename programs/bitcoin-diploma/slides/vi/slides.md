@@ -51,7 +51,7 @@ Giá Bitcoin có thể biến động mạnh. Sai sót, lừa đảo, mất thô
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Câu hỏi mở đầu về tiền tệ
 
@@ -82,7 +82,7 @@ Tiền là một tài sản được mọi người chấp nhận vì họ kỳ 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Các chức năng của tiền tệ
 
@@ -128,15 +128,15 @@ Không hình thức nào đạt điểm tuyệt đối. “**Tiền lành mạnh
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
 
 ## Sự khan hiếm, giá trị và trao đổi
 
@@ -160,7 +160,7 @@ Chỉ riêng sự khan hiếm không đảm bảo giá trị; nhu cầu cũng qu
 
 ## Chi phí cơ hội
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b79c74dedefcf834762da5d2301e0e6dc68ba9ad-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b79c74dedefcf834762da5d2301e0e6dc68ba9ad-1536x1024.svg)
 
 ---
 
@@ -203,7 +203,7 @@ Thanh toán thuận tiện và tín dụng linh hoạt đi kèm với sự phụ
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Xem xét một khoản thanh toán tại địa phương
 
@@ -244,11 +244,11 @@ Việc rút tiền hàng loạt có thể gây khó khăn cho việc tiếp cậ
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 ## Lạm phát và sức mua
 
@@ -351,7 +351,7 @@ Các thiết kế có sự khác biệt. Dạng kỹ thuật số không tự đ
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)
 
 ## Vì sao Bitcoin được tạo ra
 
@@ -387,7 +387,7 @@ Bitcoin giảm sự phụ thuộc vào niềm tin ở bên trung tâm trong vi�
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
 
 ## Tiền kỹ thuật số thời kỳ đầu và vấn đề chi tiêu hai lần
 
@@ -408,7 +408,7 @@ Chi tiêu hai lần là hành vi cố gắng gửi cùng một đơn vị tiền
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)
 
 ## Sự khan hiếm kỹ thuật số và nguồn cung có thể kiểm chứng
 
@@ -438,7 +438,7 @@ Việc viết lại lịch sử đòi hỏi phải thực hiện lại công vi�
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)
 
 ## Tính phi tập trung
 
@@ -469,7 +469,7 @@ Dịch vụ trung gian vẫn là lựa chọn không bắt buộc; việc chọn
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
 [Bốn vai trò trong Bitcoin: người dùng nhận, nắm giữ và gửi bitcoin, các nút độc lập xác minh việc tuân thủ các quy tắc, thợ đào xây dựng các khối ứng viên bằng bằng chứng công việc, và nhà phát triển đề xuất phần mềm. Không một vai trò riêng lẻ nào kiểm soát mạng lưới.](/micrographics/bitcoin-participant-roles-01/vi.md)
@@ -488,7 +488,7 @@ Thợ đào không thể khiến các nút trung thực chấp nhận các khố
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/fb441d7e082e658fa8496bbeb4a1e764faad208b-1054x1493.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/fb441d7e082e658fa8496bbeb4a1e764faad208b-1054x1493.svg)
 
 ## Bằng chứng công việc
 
@@ -502,14 +502,14 @@ Hoạt động đào bảo đảm thứ tự giao dịch; hoạt động này kh
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 <!-- micrographic: proof-of-work-process-01 -->
 [Thợ đào băm một khối được đề xuất liên tục cho đến khi một kết quả thấp hơn ngưỡng mục tiêu của mạng lưới, rồi phát tán khối đó. Các nút nhanh chóng kiểm tra bằng chứng và việc tuân thủ mọi quy tắc trước khi khối được đưa vào chuỗi khối: việc tạo ra bằng chứng công việc rất tốn kém, nhưng xác minh lại dễ dàng.](/micrographics/proof-of-work-process-01/vi.md)
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
 
 ## Nguồn cung hữu hạn
 
@@ -535,7 +535,7 @@ Các nút từ chối việc phát hành vượt mức; giới hạn vẫn đư�
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/98c8cef9bc6e6d0955458f6fb4a71f1de5ed5225-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/98c8cef9bc6e6d0955458f6fb4a71f1de5ed5225-1536x1024.svg)
 
 ## Satoshi và thiên kiến đơn vị
 
@@ -735,7 +735,7 @@ Không bao giờ chia sẻ khóa riêng tư, cụm từ khôi phục, mật kh�
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Cụm từ khôi phục
 
@@ -771,7 +771,7 @@ Một chuỗi khối công khai không thể chứng minh bên cung cấp dịch
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 ---
 
@@ -780,7 +780,7 @@ Một chuỗi khối công khai không thể chứng minh bên cung cấp dịch
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/57f786b5525418d2bddc36af8cced7b1f0533e70-1054x1492.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/57f786b5525418d2bddc36af8cced7b1f0533e70-1054x1492.svg)
 
 ## Ví nóng và ví lạnh
 
@@ -822,7 +822,7 @@ Tin nhắn hoặc ảnh chụp màn hình của người gửi không phải là
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/3eaf85ebf51d0327a1221d33b4745a62a44347b2-1055x1491.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/3eaf85ebf51d0327a1221d33b4745a62a44347b2-1055x1491.svg)
 
 ## Gửi Bitcoin
 
@@ -857,7 +857,7 @@ Hãy sử dụng các ví dụ đã chuẩn bị sẵn; không tra cứu địa 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Danh sách kiểm tra an toàn
 
@@ -880,7 +880,7 @@ Hãy sử dụng các ví dụ đã chuẩn bị sẵn; không tra cứu địa 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
 
 ## Mua và trao đổi Bitcoin
 
@@ -1051,7 +1051,7 @@ Vấn đề nào được giải quyết? Trong trường hợp này, Bitcoin c�
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/4b62c836617bfcd268b6e464842a61a1f8b4614a-1055x1491.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/4b62c836617bfcd268b6e464842a61a1f8b4614a-1055x1491.svg)
 
 ## Chi tiêu và nhận tiền tại địa phương
 
@@ -1129,7 +1129,7 @@ Chỉ riêng số liệu về mức độ sử dụng không chứng minh đư�
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
 
 ---
 

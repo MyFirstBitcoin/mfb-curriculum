@@ -4,7 +4,7 @@
 
 Peer-to-peer neznamená vždy, že spolu přímo komunikují pouze dva počítače. [Transakce](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) může procházet peněženkami, poskytovateli internetového připojení a mnoha síťovými [uzly](https://curriculum.myfirstbitcoin.org/lexicon/en/#node). Důležité je, že odesílatele ani příjemce nemusí schvalovat žádný centrální provozovatel Bitcoinové sítě.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
 
 
 <!-- micrographic: peer-to-peer-route-01 -->

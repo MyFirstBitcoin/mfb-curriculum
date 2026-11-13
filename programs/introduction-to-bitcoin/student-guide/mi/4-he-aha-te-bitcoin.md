@@ -20,4 +20,4 @@ He kōrero mō te tuhi kupu: **Bitcoin** me te B pūmatua, ko tōna tikanga i te
 
 He painga, he ngoikoretanga anō hoki tō Bitcoin. Ka tere te panoni o tōna utu. I te nuinga o te wā, kāore e taea te whakatika ngā hapa. He iti tonu ngā wāhi e whakaae ana ki te whakamahi, ā, me ako ētahi āhuatanga kia haumaru ai te whakamahi. Ka whakakapi a Bitcoin i tētahi wāhanga o te whakawhirinaki ki ngā whakahaere ki te manatoko me te kawenga whaiaro. Kāore e whakakore i te tūraru.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

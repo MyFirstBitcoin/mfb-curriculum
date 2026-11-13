@@ -12,9 +12,9 @@ U sustavu trampe trgovina funkcionira samo kada obje osobe žele ono što druga 
 
 On je **sredstvo razmjene**: ljudi ga prihvaćaju kao plaćanje. On je **obračunska jedinica**: cijene se izražavaju u njemu, pa možemo uspoređivati vrijednost različitih stvari. A ujedno je i **sredstvo očuvanja vrijednosti**: prenosi vrijednost iz sadašnjosti u budućnost. Nijedan novac ne čuva vrijednost savršeno, ali neki oblici gube kupovnu moć sporije od drugih.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Tijekom povijesti mnoge su stvari služile kao novac: školjke, sol, perle, stoka, bakar, srebro i zlato. Plemeniti metali ušli su u široku uporabu jer su bili rijetki, trajni i široko prihvaćeni. No nositi i čuvati metal nije lako, pa su banke počele izdavati papirnate potvrde koje su se mogle zamijeniti za navedenu količinu metala. U različitim inačicama **zlatnog standarda**, novčana jedinica bila je zakonski vezana uz određenu količinu zlata. Pravila su se razlikovala ovisno o mjestu i razdoblju.
 

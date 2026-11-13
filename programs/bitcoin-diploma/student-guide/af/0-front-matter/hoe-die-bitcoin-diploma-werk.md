@@ -27,7 +27,7 @@ Elke module volg dieselfde ritme:
 
 U sal meer leer deur deel te neem as deur stil te lees. Sommige vrae het nie net een korrekte antwoord nie. Wat saak maak, is of u u redenasie kan verduidelik, bewyse kan ondersoek en u siening kan hersien wanneer u iets nuuts leer.
 
-![Die sake-eienaar wys na 'n eenvoudige diagram in 'n oop gids terwyl die onderriggewer dit met haar by 'n klaskamertafel bespreek.](https://cdn.sanity.io/images/vje9ehw2/production/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
+![Die sake-eienaar wys na 'n eenvoudige diagram in 'n oop gids terwyl die onderriggewer dit met haar by 'n klaskamertafel bespreek.](https://cdn.sanity.io/images/vje9ehw2/staging/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
 
 ### Verwagtinge oor bespreking en privaatheid
 
@@ -50,7 +50,7 @@ U opvoeder sal enige vereiste assesseringsaktiwiteite verduidelik. Teorie word h
 
 U opvoeder gebruik 'n assesseringsrooster om een resultaat vir elk van die sewe bogenoemde bekwaamhede aan te teken. `C1`–`C5` word deur u eie verduidelikings en besluite geassesseer; `C6`–`C7` vereis direkte waarneming. Beide die beursie-/ontvangstaak en die taak oor gereedheid vir herstel is vereiste dele van `C6`.
 
-![Die opvoeder reageer op die beginnerleerder se opgesteekte hand terwyl die ouer leerder met 'n oop kursusgids volg.](https://cdn.sanity.io/images/vje9ehw2/production/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
+![Die opvoeder reageer op die beginnerleerder se opgesteekte hand terwyl die ouer leerder met 'n oop kursusgids volg.](https://cdn.sanity.io/images/vje9ehw2/staging/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
 
 ### Vereiste voorkennis: geen
 

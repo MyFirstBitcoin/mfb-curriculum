@@ -18,4 +18,4 @@ Lumilikha ang Bitcoin ng digital na [kakapusan](https://curriculum.myfirstbitcoi
 [Ang limitasyon sa suplay na nakasulat sa isang website o sa database ng tagapag-isyu ay maaaring baguhin ng tagapag-isyu nang walang nakaaalam. Pampubliko ang tuntunin sa suplay ng Bitcoin, at sama-samang pinipigilan ng mga lagda, pampublikong kasaysayan, patunay ng trabaho, at pagberipika ng mga node ang pag-imbento ng mga bagong barya o ang paggastos ng parehong bitcoin nang dalawang beses.](/micrographics/claimed-or-verified-supply-01/tl.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)

@@ -18,7 +18,7 @@ Slanje zahteva više pažnje jer je važeću Bitcoin [transakciju](https://curri
 1. Kada vam postupak nije poznat, prvo obavite probno plaćanje malog iznosa.
 1. Odobrite plaćanje tek kada se sve stavke podudaraju; zatim proverite ishod plaćanja.
 
-![Stariji polaznik pokazuje telefon za obuku dok početnik proverava drugi telefon, a edukator usmerava upoređivanje.](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![Stariji polaznik pokazuje telefon za obuku dok početnik proverava drugi telefon, a edukator usmerava upoređivanje.](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 
 <!-- micrographic: pre-send-checklist-01 -->
@@ -29,4 +29,4 @@ Za [plaćanje na lancu](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-cha
 
 Ako se odredište neočekivano promeni, zahtev postane hitan ili bilo ko zatraži podatke za oporavak, šta treba da uradite? Zastanite. Proverite zahtev nezavisnim putem ili zatražite pomoć bez deljenja tajnih podataka.
 
-![Edukator usmerava polaznika početnika dok zajedno upoređuju telefon sa uređajem vlasnika preduzeća za prijem uplata, pre nego što odobre plaćanje.](https://cdn.sanity.io/images/vje9ehw2/production/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)
+![Edukator usmerava polaznika početnika dok zajedno upoređuju telefon sa uređajem vlasnika preduzeća za prijem uplata, pre nego što odobre plaćanje.](https://cdn.sanity.io/images/vje9ehw2/staging/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)

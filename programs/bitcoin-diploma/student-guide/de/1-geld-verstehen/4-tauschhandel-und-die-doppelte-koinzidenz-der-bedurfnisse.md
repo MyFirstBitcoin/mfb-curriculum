@@ -8,7 +8,7 @@
 
 Stellen Sie sich vor, **Amina** hat Reis und möchte Schuhe. **Luis** hat Schuhe, möchte aber Speiseöl, keinen Reis. **Mei** hat Speiseöl und möchte Reparaturarbeiten. Amina braucht möglicherweise mehrere Tauschvorgänge, bevor sie die Schuhe bekommen kann. Jeder Tausch kostet Zeit und erfordert eine Einigung über den [Wert](https://curriculum.myfirstbitcoin.org/lexicon/en/#value).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
 
 
 <!-- micrographic: barter-mismatch-01 -->
@@ -29,7 +29,7 @@ Ein allgemein akzeptiertes Geld trennt das Verkaufen vom Kaufen. Amina kann Reis
 
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
 
 <!-- micrographic: sell-then-buy-01 -->

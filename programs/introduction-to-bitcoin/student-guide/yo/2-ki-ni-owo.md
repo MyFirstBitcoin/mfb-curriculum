@@ -12,9 +12,9 @@ Nínú ètò pàṣípààrọ̀ ọjà, òwò máa ń ṣeé ṣe kìkì nígb�
 
 Ó jẹ́ **ọ̀nà pàṣípààrọ̀**: àwọn ènìyàn ń gbà á gẹ́gẹ́ bí ìsanwó. Ó jẹ́ **ẹyọ ìṣirò**: a fi ń sọ iye owó àwọn nǹkan, kí a lè fi iye àwọn nǹkan ọ̀tọ̀ọ̀tọ̀ wé ara wọn. Ó sì jẹ́ **ohun ìpamọ́ iye**: ó ń gbé iye láti òní lọ sí ọjọ́ iwájú. Kò sí owó tó ń pa iye mọ́ lọ́nà pípé, ṣùgbọ́n agbára ìrajà àwọn irú owó kan máa ń dín kù díẹ̀díẹ̀ ju ti àwọn mìíràn lọ.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Jálẹ̀ ìtàn, ọ̀pọ̀ nǹkan ni a ti lò gẹ́gẹ́ bí owó: ìkarahun, iyọ̀, ilẹ̀kẹ̀, ẹran ọ̀sìn, bàbà, fàdákà, àti wúrà. Lílo àwọn irin iyebíye gbilẹ̀ nítorí pé wọ́n ṣọ̀wọ́n, wọ́n ń pẹ́, ọ̀pọ̀ ènìyàn sì ń gbà wọ́n. Ṣùgbọ́n gbígbé irin àti dídáàbò bò ó ṣòro, nítorí náà àwọn ilé ìfowópamọ́ bẹ̀rẹ̀ sí í fúnni ní ìwé ẹ̀rí ẹ̀tọ́ sí irin, tí a lè fi gba ìwọ̀n irin kan tí a sọ pàtó. Lábẹ́ onírúurú àyípadà ti **ètò ìfìwúrà ṣe ìpìlẹ̀ owó**, òfin so ẹyọ owó kan mọ́ ìwọ̀n wúrà kan. Àwọn òfin náà yàtọ̀ síra láti ibì kan sí òmíràn àti láti àkókò kan sí òmíràn.
 

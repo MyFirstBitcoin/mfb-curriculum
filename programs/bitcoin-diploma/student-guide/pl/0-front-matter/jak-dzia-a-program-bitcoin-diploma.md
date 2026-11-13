@@ -27,7 +27,7 @@ Każdy moduł ma ten sam rytm:
 
 Więcej nauczą się Państwo poprzez aktywny udział niż przez ciche czytanie. Niektóre pytania nie mają jednej poprawnej odpowiedzi. Ważne jest to, czy potrafią Państwo wyjaśnić swój tok rozumowania, przeanalizować dowody i zmienić pogląd, gdy dowiedzą się Państwo czegoś nowego.
 
-![Właścicielka firmy wskazuje prosty schemat w otwartym przewodniku, a osoba prowadząca zajęcia omawia go z nią przy stole w sali lekcyjnej.](https://cdn.sanity.io/images/vje9ehw2/production/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
+![Właścicielka firmy wskazuje prosty schemat w otwartym przewodniku, a osoba prowadząca zajęcia omawia go z nią przy stole w sali lekcyjnej.](https://cdn.sanity.io/images/vje9ehw2/staging/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
 
 ### Oczekiwania dotyczące dyskusji i prywatności
 
@@ -50,7 +50,7 @@ Osoba prowadząca wyjaśni wszystkie wymagane zadania podlegające ocenie. Wiedz
 
 Osoba prowadząca korzysta z arkusza oceny, aby zapisać jeden wynik dla każdej z siedmiu powyższych kompetencji. `C1`–`C5` są oceniane na podstawie Państwa własnych wyjaśnień i decyzji; `C6`–`C7` wymagają bezpośredniej obserwacji. Zarówno zadanie dotyczące portfela i potwierdzenia odbioru, jak i zadanie dotyczące gotowości do odzyskania dostępu są wymaganymi elementami `C6`.
 
-![Osoba prowadząca reaguje na podniesioną rękę początkującego uczestnika, podczas gdy starszy uczestnik śledzi omawiany materiał w otwartym podręczniku kursu.](https://cdn.sanity.io/images/vje9ehw2/production/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
+![Osoba prowadząca reaguje na podniesioną rękę początkującego uczestnika, podczas gdy starszy uczestnik śledzi omawiany materiał w otwartym podręczniku kursu.](https://cdn.sanity.io/images/vje9ehw2/staging/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
 
 ### Wymagana wiedza wstępna: brak
 

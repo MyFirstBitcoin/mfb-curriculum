@@ -26,11 +26,11 @@
 
 ### ਸਿੱਖਣ ਵਾਲੇ ਕਿਸੇ ਭਾਈਚਾਰੇ ਨਾਲ ਜੁੜੋ
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
 
 ਇਹ [ਬਿਟਕੋਇਨ ਸਿੱਖਿਆ ਨੈੱਟਵਰਕ](https://myfirstbitcoin.org/about/network) ਸੁਤੰਤਰ ਸਿੱਖਿਅਕਾਂ ਅਤੇ ਸਥਾਨਕ ਸਿੱਖਣ ਵਾਲੇ ਭਾਈਚਾਰਿਆਂ ਨੂੰ ਜੋੜਦਾ ਹੈ। ਆਪਣੇ ਨੇੜੇ ਕੋਈ ਭਾਈਚਾਰਾ ਲੱਭੋ ਜਾਂ ਕੋਈ ਅਜਿਹਾ ਭਾਈਚਾਰਾ ਲੱਭੋ ਜਿਸ ਦੇ ਕੰਮ ਵਿੱਚ ਤੁਹਾਡੀ ਦਿਲਚਸਪੀ ਹੋਵੇ, ਅਤੇ ਉਸ ਨਾਲ ਸੰਪਰਕ ਕਰਕੇ ਪੁੱਛੋ ਕਿ ਤੁਸੀਂ ਕਿਵੇਂ ਸਿੱਖ ਸਕਦੇ ਹੋ, ਵਲੰਟੀਅਰ ਬਣ ਸਕਦੇ ਹੋ ਜਾਂ ਯੋਗਦਾਨ ਪਾ ਸਕਦੇ ਹੋ। ਭਾਗੀਦਾਰੀ ਵਿਕਲਪਿਕ ਹੈ ਅਤੇ ਇਸ ਨਾਲ ਡਿਪਲੋਮਾ ਪੂਰਾ ਕਰਨ, ਮੁਲਾਂਕਣ ਜਾਂ ਪ੍ਰਮਾਣੀਕਰਨ ’ਤੇ ਕੋਈ ਅਸਰ ਨਹੀਂ ਪੈਂਦਾ।
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
 
 ### ਸੁਰੱਖਿਆ ਬਾਰੇ ਇੱਕ ਯਾਦ-ਦਹਾਨੀ
 
@@ -92,13 +92,13 @@
 
 ਤੁਹਾਡੀ ਸਭ ਤੋਂ ਅਹਿਮ ਪ੍ਰਾਪਤੀ ਸਰਟੀਫਿਕੇਟ ਨਹੀਂ ਹੈ। ਇਹ ਪੈਸੇ ਅਤੇ ਬਿਟਕੋਇਨ ਨੂੰ ਸਪਸ਼ਟ ਤੌਰ ’ਤੇ ਸਮਝਾਉਣ, ਜੋਖਮ ਪਛਾਣਨ, ਕਦਮ ਚੁੱਕਣ ਤੋਂ ਪਹਿਲਾਂ ਪੁਸ਼ਟੀ ਕਰਨ ਅਤੇ ਸੁਤੰਤਰ ਤੌਰ ’ਤੇ ਸਿੱਖਦੇ ਰਹਿਣ ਦੀ ਯੋਗਤਾ ਹੈ।
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
 
 ### ਮੁਫ਼ਤ ਬਿਟਕੋਇਨ ਸਿੱਖਿਆ ਲਈ ਸਹਿਯੋਗ ਦਿਓ
 
 My First Bitcoin ਦੇ ਵਿਦਿਅਕ ਸਰੋਤ ਮੁਫ਼ਤ ਅਤੇ ਓਪਨ ਸੋਰਸ ਹਨ। ਸਵੈਇੱਛਕ ਸਹਿਯੋਗ ਪਾਠਕ੍ਰਮ ਨੂੰ ਕਾਇਮ ਰੱਖਣ, ਸਿੱਖਿਅਕਾਂ ਨੂੰ ਸਿਖਲਾਈ ਦੇਣ ਅਤੇ ਪਹੁੰਚ ਵਧਾਉਣ ਵਿੱਚ ਮਦਦ ਕਰਦਾ ਹੈ।
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
 
 
 https://donate.myfirstbitcoin.org
@@ -112,4 +112,4 @@ _My First Bitcoin ਨੂੰ ਸਹਿਯੋਗ ਦਿਓ_
 ---
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)

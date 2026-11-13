@@ -44,4 +44,4 @@ Limita de 21 de milioane este impusă de [noduri](https://curriculum.myfirstbitc
 > De asemenea, o ofertă finită nu înseamnă că fiecare bitcoin este disponibil pentru vânzare; unii pot fi păstrați pe termen lung sau pot deveni inaccesibili din cauza pierderii cheilor.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

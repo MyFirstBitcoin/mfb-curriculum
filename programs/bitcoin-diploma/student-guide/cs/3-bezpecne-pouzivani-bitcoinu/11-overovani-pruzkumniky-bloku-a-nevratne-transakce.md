@@ -22,4 +22,4 @@ Chcete-li zkontrolovat připravenou [transakci](https://curriculum.myfirstbitcoi
 [Transakce čeká nepotvrzená ve fondu čekajících transakcí, poté je zahrnuta do bloku N, čímž získá první potvrzení, a každý další blok přidává jedno další.](/micrographics/confirmation-timeline-01/cs.md)
 
 
-![Vyučující a starší účastník kurzu diskutují o připraveném příkladu na monitoru natočeném ke skupině, zatímco technicky zdatný účastník ovládá myš; divák vidí zadní kryt monitoru.](https://cdn.sanity.io/images/vje9ehw2/production/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)
+![Vyučující a starší účastník kurzu diskutují o připraveném příkladu na monitoru natočeném ke skupině, zatímco technicky zdatný účastník ovládá myš; divák vidí zadní kryt monitoru.](https://cdn.sanity.io/images/vje9ehw2/staging/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)

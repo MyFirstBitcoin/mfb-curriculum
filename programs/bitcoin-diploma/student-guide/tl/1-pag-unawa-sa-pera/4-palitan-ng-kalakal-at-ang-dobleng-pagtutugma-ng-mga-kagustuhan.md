@@ -8,7 +8,7 @@
 
 Isipin po ninyo na si **Amina** ay may bigas at nais ng sapatos. **Si Luis** ay may sapatos ngunit mantika ang nais niya, hindi bigas. **Si Mei** ay may mantika at nais magpagawa ng pagkukumpuni. Maaaring kailanganin ni Amina ang ilang palitan bago niya makuha ang sapatos. Ang bawat palitan ay nangangailangan ng oras at pagkakasundo tungkol sa [halaga](https://curriculum.myfirstbitcoin.org/lexicon/en/#value).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
 
 
 <!-- micrographic: barter-mismatch-01 -->
@@ -29,7 +29,7 @@ Ang salaping karaniwang tinatanggap ay naghihiwalay sa pagbebenta at pagbili. Ma
 
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
 
 <!-- micrographic: sell-then-buy-01 -->

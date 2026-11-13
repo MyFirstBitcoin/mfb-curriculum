@@ -16,4 +16,4 @@ Scelga due o tre di questi esempi, non tutti. Consulti la [Biblioteca delle atti
 
 Utilizzi giochi sul [consenso](https://curriculum.myfirstbitcoin.org/lexicon/en/#consensus), attività di hashing, video e giochi di ruolo solo quando scopo, tempistica, contesto dei discenti e debriefing sono solidi. Un'attività fornisce evidenze teoriche guidate dall'educatore solo quando è un punto di contatto allineato alla competenza, con evidenze individuali, una rubrica di valutazione e un processo di registrazione. Altrimenti, la utilizzi a scopo formativo.
 
-![Il titolare dell'attività spiega una rete di pari mentre l'educatore ascolta e il giovane discente segue con un quaderno.](https://cdn.sanity.io/images/vje9ehw2/production/359b55ce824c4e7e1fb6d3f1e0b5dbc01f7c6db6-1054x1493.png)
+![Il titolare dell'attività spiega una rete di pari mentre l'educatore ascolta e il giovane discente segue con un quaderno.](https://cdn.sanity.io/images/vje9ehw2/staging/359b55ce824c4e7e1fb6d3f1e0b5dbc01f7c6db6-1054x1493.png)

@@ -1,6 +1,6 @@
 # 4.1 Bitcoin en su comunidad
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
 
 Esta es la etapa de **Conexión** del Diplomado en Bitcoin. Usted relacionará las fallas del sistema monetario moderno y sus [ventajas y desventajas](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off), la respuesta de Bitcoin y la responsabilidad de usarlo de manera segura, abordadas en los **Módulos 1–3**, con una necesidad u oportunidad local, una alternativa realista y una tarea práctica segura. No se espera que usted adopte Bitcoin ni que concluya que es la mejor opción en todas las situaciones locales.
 

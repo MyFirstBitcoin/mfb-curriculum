@@ -7,4 +7,4 @@ Use this when a few confident learners may otherwise dominate.
 1. Invite selected pairs to report the reasoning, not only the conclusion.
 1. Summarize the patterns and correct misconceptions.
 
-![The educator invites a discussion while the beginner and older learners compare guides and the business owner contributes.](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![The educator invites a discussion while the beginner and older learners compare guides and the business owner contributes.](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)

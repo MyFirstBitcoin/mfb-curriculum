@@ -25,4 +25,4 @@ Gør det klart, at [byttehandel](https://curriculum.myfirstbitcoin.org/lexicon/e
 
 Hvis der bruges et spil, så drøft efterfølgende de forenklinger, det bygger på. Virkelige udvekslinger omfatter relationer, kredit, gaver, forpligtelser, forhandling, lovgivning og gentagen interaktion.
 
-![Underviseren faciliterer en aktivitet med direkte byttehandel mellem begynderen, der holder en notesbog, og virksomhedsejeren, der holder dagligvarer.](https://cdn.sanity.io/images/vje9ehw2/production/48813fb8d9434061c5c546898f4023f8748e9edd-1054x1492.png)
+![Underviseren faciliterer en aktivitet med direkte byttehandel mellem begynderen, der holder en notesbog, og virksomhedsejeren, der holder dagligvarer.](https://cdn.sanity.io/images/vje9ehw2/staging/48813fb8d9434061c5c546898f4023f8748e9edd-1054x1492.png)

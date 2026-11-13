@@ -20,4 +20,4 @@ O precizare privind scrierea: **Bitcoin** cu B mare desemnează, de obicei, reț
 
 Bitcoin implică și compromisuri. Prețul său se poate schimba rapid. Greșelile sunt, de obicei, ireversibile. Acceptarea sa este încă limitată în multe locuri, iar utilizarea în siguranță necesită un anumit efort de învățare. Bitcoin înlocuiește o parte din încrederea în instituții cu verificarea și responsabilitatea personală. Nu elimină riscul.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

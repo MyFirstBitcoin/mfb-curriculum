@@ -25,4 +25,4 @@ Pracujte s tvrzeními, důkazy a kompromisy:
 
 Podrobné energetické statistiky a [těžební](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) ekonomika nejsou povinnou součástí programu Bitcoinový diplom. Používejte je pouze tehdy, když vyučující ověřil aktuální zdroje a diskuse podporuje rozvoj některé z kompetencí.
 
-![Vyučující a technicky zaměřený studující ukazují na samostatná zařízení pro těžbu a provoz uzlu, zatímco starší studující se zapojuje za pomoci průvodce.](https://cdn.sanity.io/images/vje9ehw2/production/c42a629a0dff84d04b37397d56a45bf146f7110b-1054x1492.png)
+![Vyučující a technicky zaměřený studující ukazují na samostatná zařízení pro těžbu a provoz uzlu, zatímco starší studující se zapojuje za pomoci průvodce.](https://cdn.sanity.io/images/vje9ehw2/staging/c42a629a0dff84d04b37397d56a45bf146f7110b-1054x1492.png)

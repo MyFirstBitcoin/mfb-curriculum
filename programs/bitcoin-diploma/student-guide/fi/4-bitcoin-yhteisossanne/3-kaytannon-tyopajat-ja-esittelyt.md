@@ -30,4 +30,4 @@ Varmistakaa ennen jokaista oikeassa käyttötilanteessa tehtävää esittelyä, 
 
 Työpajanne tuloksena tulisi syntyä selitys tai taito, ei pelkästään suoritettu [tapahtuma](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction).
 
-![Opettaja ja yrityksen omistaja harjoittelevat yhdessä harjoituspuhelimella ja katsovat molemmat heihin päin olevaa näyttöä.](https://cdn.sanity.io/images/vje9ehw2/production/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)
+![Opettaja ja yrityksen omistaja harjoittelevat yhdessä harjoituspuhelimella ja katsovat molemmat heihin päin olevaa näyttöä.](https://cdn.sanity.io/images/vje9ehw2/staging/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)

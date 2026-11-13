@@ -15,7 +15,7 @@ System pieniądza fiducjarnego ma kilku głównych uczestników:
 [Uczestnicy systemu pieniądza fiducjarnego i przepływy między nimi: bank centralny ustala politykę pieniężną i prowadzi rozrachunki między bankami, banki komercyjne przechowują depozyty stanowiące ich zobowiązania wobec klientów, usługi płatnicze przekazują zlecenia, państwo pobiera podatki i dokonuje wydatków, a obywatele i przedsiębiorstwa płacą i otrzymują płatności.](/micrographics/fiat-system-flows-01/pl.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
 <!-- card: light -->

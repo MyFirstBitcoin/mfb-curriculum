@@ -16,4 +16,4 @@ Wählen Sie zwei oder drei dieser Beispiele aus, nicht alle. Durchsuchen Sie die
 
 Setzen Sie [Konsens](https://curriculum.myfirstbitcoin.org/lexicon/en/#consensus)spiele, Hashing-Aktivitäten, Videos und Rollenspiele nur ein, wenn Zweck, Zeitpunkt, Lernkontext und Nachbesprechung überzeugend sind. Eine Aktivität liefert nur dann lehrkraftgeleitete theoretische Nachweise, wenn sie ein kompetenzorientierter Prüfpunkt mit individuellen Nachweisen, einem Bewertungsraster und einem Dokumentationsverfahren ist. Andernfalls setzen Sie sie formativ ein.
 
-![Der Geschäftsinhaber erklärt ein Netzwerk von Peers, während die Lehrkraft zuhört und der junge Lernende mit einem Notizbuch mitverfolgt.](https://cdn.sanity.io/images/vje9ehw2/production/359b55ce824c4e7e1fb6d3f1e0b5dbc01f7c6db6-1054x1493.png)
+![Der Geschäftsinhaber erklärt ein Netzwerk von Peers, während die Lehrkraft zuhört und der junge Lernende mit einem Notizbuch mitverfolgt.](https://cdn.sanity.io/images/vje9ehw2/staging/359b55ce824c4e7e1fb6d3f1e0b5dbc01f7c6db6-1054x1493.png)

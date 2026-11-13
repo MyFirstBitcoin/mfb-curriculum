@@ -13,7 +13,7 @@
 > [Koopkracht](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) is de hoeveelheid goederen en diensten die met één geldeenheid gekocht kan worden. Als een mandje basisgoederen in prijs stijgt van 100 eenheden [valuta](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) naar 110, kunt u met dezelfde 100 eenheden niet langer het volledige mandje kopen. De [koopkracht](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) ten opzichte van dat mandje is gedaald.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->

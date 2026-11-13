@@ -8,7 +8,7 @@
 
 Stel u voor dat **Amina** rijst heeft en schoenen wil. **Luis** heeft schoenen, maar wil bakolie, geen rijst. **Mei** heeft bakolie en wil dat er iets voor haar wordt gerepareerd. Amina heeft mogelijk meerdere ruiltransacties nodig voordat ze de schoenen kan krijgen. Elke ruil kost tijd en vereist overeenstemming over de [waarde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
 
 
 <!-- micrographic: barter-mismatch-01 -->
@@ -29,7 +29,7 @@ Algemeen geaccepteerd geld maakt verkopen los van kopen. Amina kan rijst aan de 
 
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
 
 <!-- micrographic: sell-then-buy-01 -->

@@ -9,7 +9,7 @@
 > 无论是[KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc)还是[无KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc)，都不是天然的最佳选择。请比较实际的途径，在规则不明确时参考当地最新的指导意见，切勿为了追求[隐私](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy)而违反当地法律或使自己面临人身危险。
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
 某项[KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc)服务可能会要求您提供法定姓名、身份证件、地址、照片、资金来源信息或其他记录。这可能使该服务能够符合当地规定、与银行对接、设定更高的限额，或支持账户恢复。
 

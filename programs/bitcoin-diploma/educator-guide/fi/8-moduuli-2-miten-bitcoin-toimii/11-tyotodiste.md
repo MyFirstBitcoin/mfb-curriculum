@@ -25,4 +25,4 @@ Käyttäkää väitteitä, näyttöä ja hyötyjen ja haittojen punnintaa:
 
 Yksityiskohtaiset energiatilastot ja [louhinnan](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) talous eivät ole Bitcoin Diploma -kurssin pakollista sisältöä. Käyttäkää niitä vain, kun opettaja on tarkistanut ajantasaiset lähteet ja keskustelu tukee jonkin osaamistavoitteen saavuttamista.
 
-![Opettaja ja teknisesti suuntautunut oppija osoittavat erillisiä louhinta- ja solmulaitteita, kun taas iäkkäämpi oppija osallistuu oppaan avulla.](https://cdn.sanity.io/images/vje9ehw2/production/c42a629a0dff84d04b37397d56a45bf146f7110b-1054x1492.png)
+![Opettaja ja teknisesti suuntautunut oppija osoittavat erillisiä louhinta- ja solmulaitteita, kun taas iäkkäämpi oppija osallistuu oppaan avulla.](https://cdn.sanity.io/images/vje9ehw2/staging/c42a629a0dff84d04b37397d56a45bf146f7110b-1054x1492.png)

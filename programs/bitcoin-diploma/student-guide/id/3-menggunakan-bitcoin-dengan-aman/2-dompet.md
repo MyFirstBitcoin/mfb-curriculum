@@ -8,7 +8,7 @@
 
 Apa yang akan terjadi jika ponsel Anda berhenti berfungsi? Catatan Bitcoin akan tetap ada, tetapi aksesnya akan bergantung pada kunci dan metode pemulihan yang digunakan dompet tersebut. Dompet membantu membuat informasi penerimaan, menampilkan saldo dan riwayat [transaksi](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), serta mengotorisasi pembelanjaan. Hal ini tidak menghilangkan perlunya memahami siapa yang mengendalikan akses.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
 
 
 <!-- card: dark -->
@@ -33,4 +33,4 @@ Bandingkan [kustodi](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody),
 > Selama program Diploma, Anda mungkin membuat dompet atau mencatat [kata-kata pemulihan](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) sebagai bagian dari latihan. Ruang kelas adalah lingkungan pembelajaran: informasi dapat terlihat, disalin, dibagikan, atau terekspos secara tidak sengaja. Karena alasan ini, dompet latihan pada umumnya harus kosong atau berupa simulasi dan tidak boleh digunakan untuk mengamankan dana dalam jumlah yang berarti. Jika memungkinkan, dompet tersebut ditutup, diatur ulang, atau dikembalikan pada akhir program Diploma. Pendidik Anda dapat memilih kegiatan praktik langsung dengan risiko kerugian kecil, tetapi harus menjelaskan tujuannya serta risiko tambahan terkait privasi, keamanan, dan kehilangan dana sebelum siapa pun berpartisipasi. Dompet yang dimaksudkan untuk mengamankan dana dalam jumlah yang berarti memerlukan penyiapan baru yang dilakukan secara privat serta informasi pemulihan baru. Pendidik Anda dapat menjelaskan perbedaannya, tetapi Anda tidak pernah diwajibkan menyiapkan dompet pribadi untuk menyelesaikan program Diploma.
 
 
-![Pendidik memperagakan penggunaan ponsel latihan sementara peserta pemula dan peserta yang lebih tua memeriksa perangkat mereka masing-masing.](https://cdn.sanity.io/images/vje9ehw2/production/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)
+![Pendidik memperagakan penggunaan ponsel latihan sementara peserta pemula dan peserta yang lebih tua memeriksa perangkat mereka masing-masing.](https://cdn.sanity.io/images/vje9ehw2/staging/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)

@@ -21,7 +21,7 @@ Trace un ciclo local sencillo:
 1. ¿Qué sucede cuando falla el acceso a internet?
 1. ¿Qué riesgos de [custodia](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) y [precio](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) asume cada participante?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
 
 Una economía circular saludable depende de la participación voluntaria. Los comerciantes y trabajadores deberían poder identificar los riesgos de pago, fijación de precios, [custodia](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), contabilidad y [volatilidad](https://curriculum.myfirstbitcoin.org/lexicon/en/#volatility). Las cifras de adopción por sí solas no demuestran si la red es útil.
 

@@ -18,7 +18,7 @@ Pengiriman memerlukan kehati-hatian lebih karena suatu [transaksi](https://curri
 1. Lakukan uji coba dengan jumlah kecil jika Anda belum terbiasa dengan prosesnya.
 1. Berikan persetujuan hanya jika semua butir sesuai; lalu periksa hasil pembayaran.
 
-![Peserta didik yang lebih tua menunjukkan ponsel latihan sementara peserta pemula memeriksa ponsel lain dan pendidik memandu perbandingan tersebut.](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![Peserta didik yang lebih tua menunjukkan ponsel latihan sementara peserta pemula memeriksa ponsel lain dan pendidik memandu perbandingan tersebut.](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 
 <!-- micrographic: pre-send-checklist-01 -->
@@ -29,4 +29,4 @@ Untuk [pembayaran on-chain](https://curriculum.myfirstbitcoin.org/lexicon/en/#on
 
 Jika tujuan pembayaran berubah secara tidak terduga, permintaan menjadi mendesak, atau seseorang meminta informasi pemulihan, apa yang harus Anda lakukan? Berhenti. Verifikasi permintaan tersebut secara independen, atau mintalah bantuan tanpa membagikan informasi rahasia.
 
-![Pendidik memandu peserta didik pemula saat membandingkan ponsel dengan perangkat penerima milik pemilik usaha sebelum menyetujui pembayaran.](https://cdn.sanity.io/images/vje9ehw2/production/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)
+![Pendidik memandu peserta didik pemula saat membandingkan ponsel dengan perangkat penerima milik pemilik usaha sebelum menyetujui pembayaran.](https://cdn.sanity.io/images/vje9ehw2/staging/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)

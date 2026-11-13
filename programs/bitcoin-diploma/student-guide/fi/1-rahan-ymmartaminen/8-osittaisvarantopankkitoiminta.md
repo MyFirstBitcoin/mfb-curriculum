@@ -28,7 +28,7 @@ Tästä syntyy kaksi merkittävää riskiä:
 [Maksuvalmiusriski: monet tallettajat jonottavat nostaakseen rahansa tänään, eikä pankilla ole nyt riittävästi käteistä, vaikka sen myöntämät lainat saatetaan maksaa takaisin myöhemmin. Vakavaraisuusriski: lainanottajat jättävät asuntolainansa maksamatta, ja pankin varojen arvo laskee sen velkojen määrää pienemmäksi.](/micrographics/liquidity-vs-solvency-01/fi.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
 
 
 

@@ -41,4 +41,4 @@ Nunca exiba uma [frase-semente](https://curriculum.myfirstbitcoin.org/lexicon/en
 
 Não transforme uma afirmação textual com ressalvas em um recurso visual absoluto. Um gráfico de oferta não deve sugerir crescimento de [preço](https://curriculum.myfirstbitcoin.org/lexicon/en/#price). Um mapa de [descentralização](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) não deve sugerir influência igual. Uma imagem de carteira não deve sugerir que o bitcoin fica armazenado dentro do dispositivo.
 
-![O educador explica, em um quadro branco, seis pares interconectados para os cinco alunos, incluindo o aluno mais jovem de gorro laranja.](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![O educador explica, em um quadro branco, seis pares interconectados para os cinco alunos, incluindo o aluno mais jovem de gorro laranja.](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)

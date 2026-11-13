@@ -41,4 +41,4 @@ Opettajalle hyödyllisiä havainnollistettavia aiheita ovat:
 
 Älkää muuttako tekstissä varauksin esitettyä väitettä ehdottomaksi kuvalliseksi esitykseksi. Tarjontakaavio ei saa antaa vaikutelmaa [hinnan](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) noususta. [Hajauttamista](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) kuvaava kartta ei saa antaa vaikutelmaa tasavertaisesta vaikutusvallasta. Lompakon kuva ei saa antaa ymmärtää, että bitcoinia säilytetään laitteen sisällä.
 
-![Opettaja havainnollistaa valkotaululla kuutta toisiinsa yhteydessä olevaa vertaissolmua kaikille viidelle oppijalle, mukaan lukien nuori oppija, jolla on oranssi pipo.](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![Opettaja havainnollistaa valkotaululla kuutta toisiinsa yhteydessä olevaa vertaissolmua kaikille viidelle oppijalle, mukaan lukien nuori oppija, jolla on oranssi pipo.](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)

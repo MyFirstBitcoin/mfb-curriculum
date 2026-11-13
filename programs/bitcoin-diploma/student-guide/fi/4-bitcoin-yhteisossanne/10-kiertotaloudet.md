@@ -21,7 +21,7 @@ Kartoittakaa yksinkertainen paikallinen kierto:
 1. Mitä tapahtuu, kun internetyhteys katkeaa?
 1. Mitä [säilytys-](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) ja [hinta](https://curriculum.myfirstbitcoin.org/lexicon/en/#price)riskejä kukin osallistuja kantaa?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
 
 Terve kiertotalous perustuu vapaaehtoiseen osallistumiseen. Kauppiaiden ja työntekijöiden tulisi pystyä tunnistamaan maksamiseen, hinnoitteluun, [säilytykseen](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), kirjanpitoon ja [hintavaihteluun](https://curriculum.myfirstbitcoin.org/lexicon/en/#volatility) liittyvät riskit. Pelkät käyttöönottoa kuvaavat luvut eivät osoita, onko verkosto hyödyllinen.
 

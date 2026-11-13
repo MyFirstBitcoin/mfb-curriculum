@@ -9,7 +9,7 @@
 > Nóg [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) nóg [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) is outomaties die beste. Vergelyk die werklike benadering, gebruik bygewerkte plaaslike riglyne wanneer reëls onduidelik is, en moenie plaaslike wetgewing oortree of uself aan fisieke gevaar blootstel in u strewe na [privaatheid](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
 'n [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) diens kan 'n wettige naam, identiteitsdokument, adres, foto, inligting oor die bron van fondse of ander rekords aanvra. Dit kan die diens in staat stel om aan plaaslike reëls te voldoen, by banke aan te sluit, hoër perke te stel of rekeningherstel te ondersteun.
 

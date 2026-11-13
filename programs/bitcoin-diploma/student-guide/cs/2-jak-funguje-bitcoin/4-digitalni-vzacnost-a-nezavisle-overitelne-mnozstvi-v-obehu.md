@@ -18,4 +18,4 @@ Bitcoin vytváří digitální [vzácnost](https://curriculum.myfirstbitcoin.org
 [Limit množství v oběhu uvedený na webu nebo v databázi vydavatele může tento vydavatel potají změnit. Pravidlo Bitcoinu pro množství v oběhu je veřejné a podpisy, veřejná historie, důkaz prací a ověřování uzly společně brání svévolnému vytváření nových mincí i tomu, aby byl tentýž bitcoin utracen dvakrát.](/micrographics/claimed-or-verified-supply-01/cs.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)

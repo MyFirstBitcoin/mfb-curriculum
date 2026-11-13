@@ -13,4 +13,4 @@ Před diskusí v celé skupině použijte metodu přemýšlení–diskuse ve dvo
 
 Požádejte studenty, aby své odpovědi podložili pojmem z kurzu a příkladem, nikoli sloganem.
 
-![Vyučující vyzývá staršího studenta k závěrečnému vysvětlení, zatímco začátečník a majitel firmy naslouchají se svými průvodci.](https://cdn.sanity.io/images/vje9ehw2/production/294a2f8e8e831a2a0da998cfbc42a40102d4cc74-1054x1493.png)
+![Vyučující vyzývá staršího studenta k závěrečnému vysvětlení, zatímco začátečník a majitel firmy naslouchají se svými průvodci.](https://cdn.sanity.io/images/vje9ehw2/staging/294a2f8e8e831a2a0da998cfbc42a40102d4cc74-1054x1493.png)

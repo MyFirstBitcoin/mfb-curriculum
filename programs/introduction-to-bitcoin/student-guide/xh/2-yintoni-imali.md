@@ -12,9 +12,9 @@ Kwinkqubo yotshintshiselwano lweempahla, ukurhweba kusebenza kuphela xa abantu b
 
 Yona **sisixhobo sotshintshiselwano**: abantu bayayamkela njengentlawulo. Kwakhona, yona **yiyunithi yokubala**: amaxabiso achazwa ngayo, ngoko sinokuthelekisa ixabiso lezinto ezahlukeneyo. Kwaye yona **yindawo yokugcina ixabiso**: idlulisela ixabiso lanamhlanje kwixesha elizayo. Akukho mali igcina ixabiso ngokugqibeleleyo, kodwa ezinye iintlobo zemali ziphulukana namandla okuthenga ngokucotha ngakumbi kunezinye.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Ukutyhubela imbali, izinto ezininzi ziye zasetyenziswa njengemali: amaqokobhe, ityuwa, amaso, imfuyo, ubhedu, isilivere negolide. Izinyithi ezixabisekileyo zasetyenziswa ngokubanzi kuba zazinqabile, zihlala ixesha elide yaye zamkelwa ngokubanzi. Kodwa ukuthwala nokukhusela izinyithi kunzima, ngoko iibhanki zaqalisa ukukhupha amaxwebhu ephepha awayenokutshintshwa ngesixa sesinyithi esichaziweyo. Phantsi kweentlobo ezahlukeneyo **zenkqubo yomgangatho wegolide**, iyunithi yemali yayinxulunyaniswa ngokusemthethweni nesixa esithile segolide. Imithetho yayisahluka ngokwendawo nangokwexesha.
 

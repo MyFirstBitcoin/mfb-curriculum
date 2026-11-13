@@ -1,6 +1,6 @@
 # 3.14 Pembayaran dalam Rantaian dan Lightning
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
@@ -30,4 +30,4 @@ Laluan manakah yang dijangkakan oleh penerima? Sahkan sama ada mereka telah memb
 
 Bayangkan bahawa suatu senario yang disediakan menawarkan kedua-dua laluan pembayaran. Permintaan manakah yang boleh digunakan oleh dompet yang dimaksudkan, dan apakah yang akan anda semak sebelum meluluskannya? Jawapannya bergantung pada permintaan penerima, dompet dan situasi — bukan pada satu laluan “terbaik” untuk semua keadaan.
 
-![Pendidik menunjuk ke arah dua laluan pembayaran berbentuk geometri yang berbeza pada papan sementara pelajar pemula dan pelajar teknikal menelitinya.](https://cdn.sanity.io/images/vje9ehw2/production/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)
+![Pendidik menunjuk ke arah dua laluan pembayaran berbentuk geometri yang berbeza pada papan sementara pelajar pemula dan pelajar teknikal menelitinya.](https://cdn.sanity.io/images/vje9ehw2/staging/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)

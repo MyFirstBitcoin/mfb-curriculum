@@ -1,6 +1,6 @@
 # 3.14 Plačila v verigi blokov in prek omrežja Lightning
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
@@ -30,4 +30,4 @@ Katero pot pričakuje prejemnik? Pred plačilom preverite, ali je posredoval nas
 
 Predstavljajte si, da pripravljeni scenarij ponuja obe plačilni poti. Kateri zahtevek lahko uporabite s predvideno denarnico in kaj bi preverili pred njegovo odobritvijo? Odgovor je odvisen od zahtevka za prejem plačila, denarnice in okoliščin — ne od ene same »najboljše« poti za vse primere.
 
-![Izobraževalec na tabli kaže dve različni geometrijsko prikazani plačilni poti, medtem ko o njiju razmišljajo začetnik in tehnično podkovani udeleženci.](https://cdn.sanity.io/images/vje9ehw2/production/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)
+![Izobraževalec na tabli kaže dve različni geometrijsko prikazani plačilni poti, medtem ko o njiju razmišljajo začetnik in tehnično podkovani udeleženci.](https://cdn.sanity.io/images/vje9ehw2/staging/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)

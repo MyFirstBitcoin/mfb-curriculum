@@ -21,7 +21,7 @@ Basit bir yerel döngünün haritasını çıkarın:
 1. İnternet erişimi kesildiğinde ne olur?
 1. Her katılımcı hangi [saklama](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) ve [fiyat](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) risklerini taşıyor?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
 
 Sağlıklı bir döngüsel ekonomi gönüllü katılıma dayanır. Esnaf ve çalışanlar ödeme, fiyatlandırma, [saklama](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), muhasebe ve [oynaklık](https://curriculum.myfirstbitcoin.org/lexicon/en/#volatility) risklerini belirleyebilmelidir. Benimsenme rakamları tek başına ağın faydalı olup olmadığını göstermez.
 

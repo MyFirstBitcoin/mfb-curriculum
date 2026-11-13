@@ -9,7 +9,7 @@ Spesso le persone cercano alternative al denaro contante quando ritengono che pe
 
 Un [asset](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) è qualcosa che una persona può possedere o rivendicare e che può avere [valore](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); non svolge automaticamente tutte le funzioni della moneta. Una casa può conservare [valore](https://curriculum.myfirstbitcoin.org/lexicon/en/#value), ma non è pratica per comprare cibo. Un'azione può essere facile da vendere in un Paese, ma inaccessibile a chi non dispone di un conto presso un intermediario finanziario. [L'oro](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) è stato usato come moneta per lunghi periodi della storia, ma può essere difficile da verificare o da dividere durante un piccolo scambio.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 Le persone possono anche scegliere [valuta](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) estera, [obbligazioni](https://curriculum.myfirstbitcoin.org/lexicon/en/#bond) governative, imprese private, terreni, attrezzi, istruzione o altri [asset](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset). Ogni scelta comporta un [costo opportunità](https://curriculum.myfirstbitcoin.org/lexicon/en/#opportunity-cost) e un rischio. Non esiste alcun [asset](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) che garantisca il [potere d'acquisto](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) in ogni periodo e in ogni situazione.
 

@@ -13,4 +13,4 @@ Utilisez la méthode « réflexion individuelle, échange en binôme, partage 
 
 Demandez aux apprenants d’étayer leurs réponses par un concept du cours et un exemple, et non par un slogan.
 
-![L’enseignant invite l’apprenant plus âgé à donner une dernière explication, tandis que le débutant et le chef d’entreprise écoutent avec leurs guides.](https://cdn.sanity.io/images/vje9ehw2/production/294a2f8e8e831a2a0da998cfbc42a40102d4cc74-1054x1493.png)
+![L’enseignant invite l’apprenant plus âgé à donner une dernière explication, tandis que le débutant et le chef d’entreprise écoutent avec leurs guides.](https://cdn.sanity.io/images/vje9ehw2/staging/294a2f8e8e831a2a0da998cfbc42a40102d4cc74-1054x1493.png)

@@ -9,7 +9,7 @@
 > ไม่ว่าจะเป็น [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) หรือ [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) ก็ไม่ได้เป็นทางเลือกที่ดีที่สุดเสมอไป โปรดเปรียบเทียบแนวทางที่ใช้จริง อ้างอิงคำแนะนำในท้องถิ่นที่เป็นปัจจุบันเมื่อกฎเกณฑ์ไม่ชัดเจน และอย่าฝ่าฝืนกฎหมายท้องถิ่นหรือทำให้ตนเองตกอยู่ในอันตรายทางร่างกายเพื่อแสวงหา [ความเป็นส่วนตัว](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
 บริการแบบ [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) อาจขอชื่อจริงตามกฎหมาย เอกสารยืนยันตัวตน ที่อยู่ รูปถ่าย ข้อมูลแหล่งที่มาของเงิน หรือบันทึกอื่น ๆ ซึ่งอาจช่วยให้ผู้ให้บริการปฏิบัติตามกฎเกณฑ์ท้องถิ่น เชื่อมต่อกับธนาคาร กำหนดวงเงินที่สูงขึ้น หรือรองรับการกู้คืนบัญชีได้
 

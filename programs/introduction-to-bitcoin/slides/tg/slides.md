@@ -19,7 +19,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Аксари одамон ҳеҷ гоҳ барои андеша кардан дар бораи пул таваққуф намекунанд
 
@@ -29,7 +29,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Панҷ савол барои оғоз
 
@@ -49,7 +49,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Далел ё андеша?
 
@@ -74,7 +74,7 @@ theme: mfb
 
 Ҳар ду нафар бояд он чизеро, ки дигарӣ дорад, дар як вақт ва ба миқдори муносиб хоҳанд.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Аз мисоли дастур истифода баред: шумо биринҷ мекоред ва ба пойафзол ниёз доред, аммо пойафзолдӯз равғани пухтупаз мехоҳад, на биринҷ. Иқтисоддонҳо инро мувофиқати дуҷонибаи хоҳишҳо меноманд. -->
 
@@ -96,13 +96,13 @@ theme: mfb
 
 Ҳеҷ кас пулро танҳо ба хотири худи пул намехоҳад. Пул аз он ҷиҳат муфид аст, ки дигарон онро бо умеди он қабул мекунанд, ки баъдтар дигарон низ онро қабул хоҳанд кард.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Банкнота танҳо як пора коғаз аст. Пул мушкили мубодилаи мол ба молро бо ҷудо кардани фурӯш аз харид ҳал мекунад: шумо биринҷи худро ба як кас мефурӯшед ва аз каси дигар пойафзол мехаред. Маҳз ҳамин пулро аз мубодилаи мол ба мол фарқ мекунад. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Се вазифаи пул
 
@@ -114,7 +114,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Аз садафҳо то коғаз
 
@@ -161,13 +161,13 @@ theme: mfb
 
 ## Таваррум ва қобилияти харидорӣ
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Таварруми нархҳо афзоиши пайвастаи сатҳи умумии нархҳо мебошад. Ҷанбаи дигари он қобилияти харидорӣ аст: бо як воҳиди пул чӣ қадар мол харидан мумкин аст. Агар нархи сабади молҳои асосӣ аз 100 воҳиди пулӣ ба 110 расад, бо ҳамон 100 воҳиди пулӣ дигар тамоми сабадро харидан имкон надорад. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Сабабҳои зиёд, як интихоб
 
@@ -285,7 +285,7 @@ theme: mfb
 
 ## Кӣ фаъолияти Биткоинро таъмин мекунад?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Корбарон биткоинро мефиристанд, қабул мекунанд ва нигоҳ медоранд; гиреҳҳо ҳар як муомила ва блокро аз рӯйи қоидаҳо месанҷанд; майнерҳо барои тақрибан ҳар даҳ дақиқа ба сабт илова кардани блоки нав рақобат мекунанд. Ин сабт, яъне блокчейн, барои ҳамагон дастрас аст ва аз нав навиштани он хароҷоти хеле зиёдро талаб мекунад. Эзоҳ дар бораи имло: Биткоин бо ҳарфи калони «Б» одатан маънои шабака ё низомро дорад; биткоин бо ҳарфи хурди «б» маънои худи пулро дорад. -->
 
@@ -330,7 +330,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Ибораи барқарорсозии шумо дастрасии пурра медиҳад
 
@@ -350,7 +350,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Пеш аз истифодаи ҳар гуна ҳамён
 
@@ -391,7 +391,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Истед, ҳеҷ чизро мубодила накунед, ҳеҷ чизро нафиристед
 
@@ -426,7 +426,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Дипломи Биткоин
 

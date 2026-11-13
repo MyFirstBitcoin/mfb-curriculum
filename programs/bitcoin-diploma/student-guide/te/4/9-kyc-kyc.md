@@ -9,7 +9,7 @@
 > అటు [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) గానీ ఇటు [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) గానీ స్వతహాగా ఉత్తమమైనది కాదు. వాస్తవ మార్గాన్ని పోల్చి చూడండి, నియమాలు అస్పష్టంగా ఉన్నప్పుడు ప్రస్తుత స్థానిక మార్గదర్శకాలను అనుసరించండి, స్థానిక చట్టాలను ఉల్లంఘించకండి లేదా మిమ్మల్ని మీరు శారీరక ప్రమాదంలోకి నెట్టుకోకండి—మీరు సాధించాలనుకుంటున్నది [గోప్యత](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
 ఒక [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) సేవ చట్టబద్ధమైన పేరు, గుర్తింపు పత్రం, చిరునామా, ఫొటో, నిధుల మూలానికి సంబంధించిన సమాచారం లేదా ఇతర రికార్డులను కోరవచ్చు. దీనివల్ల ఆ సేవ స్థానిక నియమాలను పాటించడం, బ్యాంకులతో అనుసంధానం కావడం, అధిక పరిమితులను నిర్ణయించడం లేదా ఖాతా పునరుద్ధరణకు సహాయపడడం సాధ్యమవవచ్చు.
 

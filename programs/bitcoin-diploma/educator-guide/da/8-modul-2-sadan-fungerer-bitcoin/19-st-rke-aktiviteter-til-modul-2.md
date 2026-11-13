@@ -16,4 +16,4 @@ Vælg to eller tre af disse eksempler, ikke alle. Gennemse [aktivitetsbiblioteke
 
 Brug [konsensus](https://curriculum.myfirstbitcoin.org/lexicon/en/#consensus)spil, hashingaktiviteter, videoer og rollespil kun, når deres formål, tidsmæssige placering, læringskontekst og efterfølgende refleksion er velgennemtænkte. En aktivitet giver kun underviserledet dokumentation for teoretisk forståelse, når den er et kompetencetilpasset vurderingspunkt med individuel dokumentation, en vurderingsrubrik og en registreringsproces. Brug den ellers formativt.
 
-![Virksomhedsejeren forklarer et netværk af ligestillede deltagere, mens underviseren lytter, og den unge kursist følger med med en notesbog.](https://cdn.sanity.io/images/vje9ehw2/production/359b55ce824c4e7e1fb6d3f1e0b5dbc01f7c6db6-1054x1493.png)
+![Virksomhedsejeren forklarer et netværk af ligestillede deltagere, mens underviseren lytter, og den unge kursist følger med med en notesbog.](https://cdn.sanity.io/images/vje9ehw2/staging/359b55ce824c4e7e1fb6d3f1e0b5dbc01f7c6db6-1054x1493.png)

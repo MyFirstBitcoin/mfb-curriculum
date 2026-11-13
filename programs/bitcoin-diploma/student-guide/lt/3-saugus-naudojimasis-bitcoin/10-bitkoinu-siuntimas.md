@@ -18,7 +18,7 @@ Siunčiant reikia daugiau atidumo, nes galiojantį „Bitcoin“ [sandorį](http
 1. Jei procesas nepažįstamas, atlikite bandomąjį mokėjimą maža suma.
 1. Patvirtinkite tik tada, kai visi duomenys sutampa; tada patikrinkite mokėjimo rezultatą.
 
-![Vyresnio amžiaus besimokantysis rodo mokomąjį telefoną, o pradedantysis tikrina kitą telefoną ir mokytojas padeda juos palyginti.](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![Vyresnio amžiaus besimokantysis rodo mokomąjį telefoną, o pradedantysis tikrina kitą telefoną ir mokytojas padeda juos palyginti.](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 
 <!-- micrographic: pre-send-checklist-01 -->
@@ -29,4 +29,4 @@ Atliekant [mokėjimą blokų grandinėje](https://curriculum.myfirstbitcoin.org/
 
 Ką turėtumėte daryti, jei gavėjo adresas netikėtai pasikeičia, prašymas tampa skubus arba kas nors prašo atkūrimo duomenų? Sustokite. Patikrinkite prašymą savarankiškai arba paprašykite pagalbos neatskleisdami slaptos informacijos.
 
-![Mokytojas padeda pradedančiajam besimokančiajam palyginti telefoną su verslo savininko mokėjimų gavimo įrenginiu prieš patvirtinant mokėjimą.](https://cdn.sanity.io/images/vje9ehw2/production/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)
+![Mokytojas padeda pradedančiajam besimokančiajam palyginti telefoną su verslo savininko mokėjimų gavimo įrenginiu prieš patvirtinant mokėjimą.](https://cdn.sanity.io/images/vje9ehw2/staging/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)

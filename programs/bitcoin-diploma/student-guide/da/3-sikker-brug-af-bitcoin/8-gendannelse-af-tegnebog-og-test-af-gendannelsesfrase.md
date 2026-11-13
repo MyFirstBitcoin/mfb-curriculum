@@ -15,4 +15,4 @@ Brug ikke en øvelseswallet eller dens gendannelsesoplysninger til at sikre væs
 
 Formålet er ikke at få gendannelse til at føles let. Det er at forstå processen, før et enhedssvigt skaber pres.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/424d932ace1728a75636a76182ae9a42621ed91c-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/424d932ace1728a75636a76182ae9a42621ed91c-1536x1024.svg)

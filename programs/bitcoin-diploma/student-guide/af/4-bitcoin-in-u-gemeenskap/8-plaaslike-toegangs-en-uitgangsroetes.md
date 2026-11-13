@@ -1,6 +1,6 @@
 # 4.8 Plaaslike toegangs- en uitgangsroetes
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/16d4da9fcdbc76a89acbef6bf760d3199ea7a843-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/16d4da9fcdbc76a89acbef6bf760d3199ea7a843-1536x1024.svg)
 
 'n [**toegangsroete**](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-ramp) is 'n roete vanaf plaaslike geld, werk of 'n ander [bate](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) na bitcoin. 'n [**uitgangsroete**](https://curriculum.myfirstbitcoin.org/lexicon/en/#off-ramp) is 'n roete vanaf bitcoin na plaaslike geld, goedere of dienste. Dieselfde roete kan albei rolle vervul.
 
@@ -14,7 +14,7 @@ Plaaslike roetes kan die volgende insluit:
 * 'n betaaldiens te gebruik wat tussen bitcoin en fiatgeld omskakel
 * aan 'n plaaslike sirkulêre ekonomie deel te neem
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8ad6c3106c57d796cf1b415d6a8104b043e6a215-776x978.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8ad6c3106c57d796cf1b415d6a8104b043e6a215-776x978.svg)
 
 Vergelyk die **volledige roete**, nie net die eerste fooi nie. 'n Diens kan 'n lae aankoopfooi adverteer, maar 'n swak [Wisselkoers](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate) gebruik of 'n onttrekkingsfooi hef. 'n Eweknie (P2P)-roete kan privaat voorkom, maar tyd, vertroue en fisieke veiligheid vereis.
 

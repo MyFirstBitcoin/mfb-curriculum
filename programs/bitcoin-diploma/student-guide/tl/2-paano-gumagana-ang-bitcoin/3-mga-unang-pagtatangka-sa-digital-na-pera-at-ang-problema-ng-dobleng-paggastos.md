@@ -34,4 +34,4 @@ Pinagsama-sama ng whitepaper ang mga katangiang kailangan para sa pamamaraang iy
 
 Ipinapaliwanag ng modyul na ito ang mga konseptong ito nang mas detalyado. Sama-sama, nagbigay ang mga ito ng praktikal na sagot sa [problema ng dobleng paggastos](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): maaaring tanggihan ng network ang ikalawang pagtatangkang gastusin ang parehong bitcoin nang hindi umaasa sa isang sentral na awtoridad. Inialok ng Bitcoin ang nawawalang kombinasyon na ilang dekada nang hinahanap sa mga eksperimento sa digital na pera.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)

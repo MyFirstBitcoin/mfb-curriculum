@@ -11,7 +11,7 @@ Az erőforrások korlátozottak, az emberi vágyak viszont nem.
 
 Az [érték](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) nem magában a jószágban rejlik. Az emberek [értékelik](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) a javakat szükségleteik, preferenciáik, ismereteik és körülményeik szerint. Ezt nevezik olykor [**szubjektív értéknek**](https://curriculum.myfirstbitcoin.org/lexicon/en/#subjective-value). A tiszta víz olcsó lehet egy biztonságos, nyilvánosan hozzáférhető vízforrás közelében, vízhiány idején viszont rendkívül értékes.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
 
 
 <!-- micrographic: same-water-different-value-01 -->

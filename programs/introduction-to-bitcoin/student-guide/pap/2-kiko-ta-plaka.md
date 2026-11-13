@@ -12,9 +12,9 @@ Den un sistema di truke, kambio ta funshoná solamente ora ambos persona ke loke
 
 E ta un **medio di interkambio**: hende ta aseptá e komo pago. E ta un **unidat di kuenta**: preisnan ta wòrdu ekspresá den dje, pues nos por kompará e balor di diferente kos. I e ta un **reserva di balor**: e ta transferí balor di awe pa futuro. Ningun plaka no ta warda balor perfektamente, pero algun forma ta pèrdè nan poder di kompra mas despasio ku otro.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Den kurso di historia, hopi kos a sirbi komo plaka: skèlpi, salu, kral, bestia, koper, plata i oro. Metalnan presioso a bira hopi usá pasobra nan tabata skars, duradero i ampliamente aseptá. Pero karga i protehá metal ta difísil, p'esei bankonan a kuminsá emití sertifikado di papel ku por a wòrdu kambiá pa un kantidat spesífiko di metal. Bou di diferente version di un **patron di oro**, un unidat di moneda tabata legalmente vinkulá na un kantidat di oro. E reglanan tabata varia segun lugá i époka.
 

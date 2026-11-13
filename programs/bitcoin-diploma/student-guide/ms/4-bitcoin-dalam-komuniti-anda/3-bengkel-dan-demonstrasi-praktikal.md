@@ -30,4 +30,4 @@ Sebelum sebarang demonstrasi langsung, pastikan anda tahu:
 
 Hasil bengkel anda sepatutnya berupa penjelasan atau kemahiran, bukan sekadar penyelesaian [transaksi](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction).
 
-![Pendidik dan pemilik perniagaan berlatih bersama menggunakan telefon latihan, kedua-duanya melihat skrin yang menghadap mereka.](https://cdn.sanity.io/images/vje9ehw2/production/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)
+![Pendidik dan pemilik perniagaan berlatih bersama menggunakan telefon latihan, kedua-duanya melihat skrin yang menghadap mereka.](https://cdn.sanity.io/images/vje9ehw2/staging/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)

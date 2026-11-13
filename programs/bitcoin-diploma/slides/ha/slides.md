@@ -51,7 +51,7 @@ Farashin Bitcoin na iya sauyawa ƙwarai cikin sauri. Kurakurai, zamba, ɓacewar 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Tambayoyin Gabatarwa Game da Kuɗi
 
@@ -82,7 +82,7 @@ Kuɗi dukiya ce da mutane ke karɓa saboda suna sa ran wasu za su karɓe ta daga
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Ayyukan Kuɗi
 
@@ -128,15 +128,15 @@ Babu wani nau'i da ya cika dukkan sharuɗɗa. “**Kuɗi masu inganci**” hukun
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
 
 ## Ƙaranci, Ƙima, da Musaya
 
@@ -160,7 +160,7 @@ Babu wani nau'i da ya cika dukkan sharuɗɗa. “**Kuɗi masu inganci**” hukun
 
 ## Farashin Damar da Aka Rasa
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b79c74dedefcf834762da5d2301e0e6dc68ba9ad-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b79c74dedefcf834762da5d2301e0e6dc68ba9ad-1536x1024.svg)
 
 ---
 
@@ -203,7 +203,7 @@ Sauƙin biyan kuɗi da sassaucin samun rance suna kawo dogaro ga cibiyoyi. Yawan
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Ku Yi Nazarin Biyan Kuɗi na Cikin Gida
 
@@ -244,11 +244,11 @@ Tururuwar masu ajiya don cire kuɗinsu daga banki na iya sa samun kuɗin ya yi w
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 ## Hauhawar Farashi da Ƙarfin Saye
 
@@ -351,7 +351,7 @@ Me ke sa kuɗinku su kasance masu amfani, kuma waɗanne ƙa'idoji ne suka dogara
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)
 
 ## Dalilin da Ya Sa Aka Ƙirƙiri Bitcoin
 
@@ -387,7 +387,7 @@ Bitcoin yana rage dogaro ga hukuma ta tsakiya wajen fitar da kuɗi da kammala bi
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
 
 ## Kuɗin Dijital na Farko da Kashe Kuɗi Sau Biyu
 
@@ -408,7 +408,7 @@ Kashe kuɗi sau biyu yunƙuri ne na aika raka'ar kuɗin dijital guda ɗaya ga ma
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)
 
 ## Ƙarancin Dijital da Adadin da ke Akwai da Za a Iya Tabbatarwa
 
@@ -438,7 +438,7 @@ Sake rubuta tarihi yana buƙatar sake yin aikin da kuma cim ma na gaba. Hakan ya
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)
 
 ## Rarraba Iko
 
@@ -469,7 +469,7 @@ Amfani da ayyukan masu shiga tsakani na zaɓi ne; zaɓar ɗaya yana ƙara ƙa'id
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
 [Matsayin mahalarta iri huɗu a Bitcoin: masu amfani suna karɓa, suna ajiyewa kuma suna aika bitcoin, ƙullai suna tabbatar da bin ƙa’idoji da kansu, masu haƙowa suna gina tubalan da ake neman amincewa da su ta hanyar tabbacin aiki, kuma masu haɓaka manhaja suna ba da shawarwari kan manhaja. Babu wani matsayi guda ɗaya da yake sarrafa hanyar sadarwar.](/micrographics/bitcoin-participant-roles-01/ha.md)
@@ -488,7 +488,7 @@ Masu haƙar ma’adinai ba za su iya sa mahaɗan da ke bin ƙa’ida su karɓi t
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/fb441d7e082e658fa8496bbeb4a1e764faad208b-1054x1493.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/fb441d7e082e658fa8496bbeb4a1e764faad208b-1054x1493.svg)
 
 ## Tabbacin Aiki
 
@@ -502,14 +502,14 @@ Haƙar ma'adinai tana tabbatar da tsaron jerin ma'amaloli; ba ta warware ma'auna
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 <!-- micrographic: proof-of-work-process-01 -->
 [Mai haƙa yana lissafin hash na tubalin da aka gabatar akai-akai har sai wani sakamako ya yi ƙasa da iyakar da cibiyar sadarwa ta ƙayyade, sannan ya watsa tubalin. Kullin sadarwa suna bincika hujjar da kowace ƙa'ida cikin sauri kafin tubalin ya shiga sarkar tubalai: yin aikin yana da tsada, amma tabbatar da shi yana da sauƙi.](/micrographics/proof-of-work-process-01/ha.md)
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
 
 ## Wadata Mai Iyaka
 
@@ -535,7 +535,7 @@ Na'urorin sadarwar suna ƙin karɓar kuɗaɗen da aka fitar fiye da ƙa'ida; iya
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/98c8cef9bc6e6d0955458f6fb4a71f1de5ed5225-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/98c8cef9bc6e6d0955458f6fb4a71f1de5ed5225-1536x1024.svg)
 
 ## Satoshi da Son Zuciya ga Raka'a
 
@@ -735,7 +735,7 @@ Kada ku taɓa raba maɓallan sirri, jimlolin farfaɗowa, kalmomin sirri, ko lamb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Jimlolin Iri
 
@@ -771,7 +771,7 @@ Sarkar bayanai ta jama'a ba za ta iya tabbatar da abin da mai ba da sabis yake d
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 ---
 
@@ -780,7 +780,7 @@ Sarkar bayanai ta jama'a ba za ta iya tabbatar da abin da mai ba da sabis yake d
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/57f786b5525418d2bddc36af8cced7b1f0533e70-1054x1492.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/57f786b5525418d2bddc36af8cced7b1f0533e70-1054x1492.svg)
 
 ## Jakunkunan Kuɗi Masu Zafi da Masu Sanyi
 
@@ -822,7 +822,7 @@ Saƙon mai aikawa ko hoton allo ba hujja ba ne. Ma'amalar da ke jiran tabbatarwa
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/3eaf85ebf51d0327a1221d33b4745a62a44347b2-1055x1491.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/3eaf85ebf51d0327a1221d33b4745a62a44347b2-1055x1491.svg)
 
 ## Aika Bitcoin
 
@@ -857,7 +857,7 @@ Ku yi amfani da misalan da aka riga aka shirya; kada ku bincika adireshin ɗalib
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Jerin Abubuwan Dubawa don Tsaro
 
@@ -880,7 +880,7 @@ Ku yi amfani da misalan da aka riga aka shirya; kada ku bincika adireshin ɗalib
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
 
 ## Samun Bitcoin da Musayarsa
 
@@ -1051,7 +1051,7 @@ Wace matsala ake magancewa? Shin Bitcoin ya fi wata hanyar da ake da ita a nan? 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/4b62c836617bfcd268b6e464842a61a1f8b4614a-1055x1491.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/4b62c836617bfcd268b6e464842a61a1f8b4614a-1055x1491.svg)
 
 ## Kashe Kuɗi da Karɓar Kuɗi a Yanki
 
@@ -1129,7 +1129,7 @@ Yawan masu amfani kaɗai ba ya tabbatar da amfaninsa. Rauni a buƙata, kayan aik
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
 
 ---
 

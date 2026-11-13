@@ -8,7 +8,7 @@ Dự án khởi đầu với các lớp học trực tiếp quy mô nhỏ tại 
 
 Hoạt động của chúng tôi mang tính độc lập, do cộng đồng dẫn dắt và tập trung vào Bitcoin. Chúng tôi chú trọng kiến thức tài chính, tư duy thận trọng và an toàn trong thực hành - không phải giao dịch, đầu cơ hay quảng bá các token khác. Chúng tôi không yêu cầu quý vị chấp nhận một niềm tin. Thay vào đó, chúng tôi cung cấp các khái niệm, câu hỏi và kiến thức thực tiễn để quý vị có thể tự rút ra kết luận.
 
-![Nhà giáo dục chào đón người mới bắt đầu, người học lớn tuổi, chủ doanh nghiệp, người học về kỹ thuật và người học trẻ tuổi vào một nhóm học tập chung.](https://cdn.sanity.io/images/vje9ehw2/production/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
+![Nhà giáo dục chào đón người mới bắt đầu, người học lớn tuổi, chủ doanh nghiệp, người học về kỹ thuật và người học trẻ tuổi vào một nhóm học tập chung.](https://cdn.sanity.io/images/vje9ehw2/staging/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
 
 ### Sứ mệnh của chúng tôi: giáo dục về Bitcoin độc lập, có mã nguồn mở
 

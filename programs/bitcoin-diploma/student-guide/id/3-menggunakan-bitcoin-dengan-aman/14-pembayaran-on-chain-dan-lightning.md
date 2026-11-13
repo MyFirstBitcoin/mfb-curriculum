@@ -1,6 +1,6 @@
 # 3.14 Pembayaran On-chain dan Lightning
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
@@ -30,4 +30,4 @@ Jalur mana yang diharapkan oleh penerima? Sebelum membayar, pastikan apakah pene
 
 Bayangkan sebuah skenario yang telah disiapkan menawarkan kedua jalur pembayaran. Permintaan pembayaran mana yang dapat digunakan oleh dompet yang dimaksud, dan apa yang akan Anda periksa sebelum menyetujuinya? Jawabannya bergantung pada permintaan pembayaran dari penerima, dompet, dan situasinya — bukan pada satu jalur “terbaik” yang berlaku secara universal.
 
-![Pendidik menunjuk dua jalur pembayaran berbentuk geometris yang berbeda pada papan, sementara peserta didik pemula dan peserta didik berlatar belakang teknis mempertimbangkan keduanya.](https://cdn.sanity.io/images/vje9ehw2/production/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)
+![Pendidik menunjuk dua jalur pembayaran berbentuk geometris yang berbeda pada papan, sementara peserta didik pemula dan peserta didik berlatar belakang teknis mempertimbangkan keduanya.](https://cdn.sanity.io/images/vje9ehw2/staging/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)

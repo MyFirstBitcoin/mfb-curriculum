@@ -22,4 +22,4 @@ Thông tin công khai này có thể và không thể cho biết những gì? N�
 [Một giao dịch chưa được xác nhận nằm trong vùng chờ, sau đó được đưa vào Khối N để nhận lượt xác nhận đầu tiên, và mỗi khối tiếp theo bổ sung thêm một lượt xác nhận.](/micrographics/confirmation-timeline-01/vi.md)
 
 
-![Giáo viên và học viên lớn tuổi thảo luận về một ví dụ đã chuẩn bị sẵn trên màn hình hướng về phía nhóm, trong khi học viên am hiểu kỹ thuật thao tác chuột; người xem nhìn thấy mặt sau của màn hình.](https://cdn.sanity.io/images/vje9ehw2/production/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)
+![Giáo viên và học viên lớn tuổi thảo luận về một ví dụ đã chuẩn bị sẵn trên màn hình hướng về phía nhóm, trong khi học viên am hiểu kỹ thuật thao tác chuột; người xem nhìn thấy mặt sau của màn hình.](https://cdn.sanity.io/images/vje9ehw2/staging/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)

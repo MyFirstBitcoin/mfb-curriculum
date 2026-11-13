@@ -12,7 +12,7 @@ Denna skillnad är viktig för verifiering. Bitcoins regler och totala utbud kan
 
 I en **icke-depåbaserad** eller **självförvaltad** plånbok kontrollerar NI nycklarna. Plånboken signerar [transaktioner](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) på ert uppdrag. Det kan fortfarande finnas beroenden av programvara, hårdvara, servrar eller nätverk, men ingen [förvarare](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian) behöver godkänna en giltig överföring på kedjan.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 
 <!-- micrographic: who-controls-keys-01 -->

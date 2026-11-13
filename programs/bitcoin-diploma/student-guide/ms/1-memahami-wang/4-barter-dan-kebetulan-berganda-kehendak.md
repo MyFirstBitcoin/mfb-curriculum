@@ -8,7 +8,7 @@
 
 Bayangkan bahawa **Amina** mempunyai beras dan mahukan kasut. **Luis** mempunyai kasut tetapi mahukan minyak masak, bukan beras. **Mei** mempunyai minyak masak dan mahukan perkhidmatan pembaikan. Amina mungkin perlu melakukan beberapa pertukaran sebelum dapat memperoleh kasut tersebut. Setiap pertukaran mengambil masa dan memerlukan persetujuan tentang [nilai](https://curriculum.myfirstbitcoin.org/lexicon/en/#value).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
 
 
 <!-- micrographic: barter-mismatch-01 -->
@@ -29,7 +29,7 @@ Wang yang diterima umum memisahkan urusan menjual daripada membeli. Amina boleh 
 
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
 
 <!-- micrographic: sell-then-buy-01 -->

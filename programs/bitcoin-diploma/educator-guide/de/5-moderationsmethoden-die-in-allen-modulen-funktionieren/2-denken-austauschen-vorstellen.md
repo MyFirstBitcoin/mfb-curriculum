@@ -7,4 +7,4 @@ Setzen Sie diese Methode ein, wenn sonst einige wenige selbstbewusste Lernende d
 1. Laden Sie ausgewählte Paare ein, ihre Überlegungen vorzustellen, nicht nur ihr Ergebnis.
 1. Fassen Sie die erkennbaren Muster zusammen und korrigieren Sie Missverständnisse.
 
-![Die Lehrkraft regt eine Diskussion an, während die Einsteigerin und die älteren Lernenden ihre Leitfäden vergleichen und der Geschäftsinhaber sich einbringt.](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![Die Lehrkraft regt eine Diskussion an, während die Einsteigerin und die älteren Lernenden ihre Leitfäden vergleichen und der Geschäftsinhaber sich einbringt.](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)

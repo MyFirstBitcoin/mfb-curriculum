@@ -12,9 +12,9 @@ Mbaʼe ñembohekovia teépe, ñemu ikatu mokõive tapicha oipotáramo añoite pe
 
 Haʼe peteĩ **tembiporu ñembohekoviarã**: tapichakuéra omoneĩ ojepaga hag̃ua chupekuéra hese. Haʼe peteĩ **tepy papaha**: ipype ojehechauka mbaʼerepy, upéicha ikatu ñambojoja opaichagua mbaʼe repy. Ha haʼe peteĩ **tepy ñongatuha**: ogueraha tepy koʼágagui tenonderãme. Ndaipóri viru oñongatúva hepy hekoitépe, hákatu oĩ viru omokangy mbeguevéva ambuégui pe ikatuha jajogua hese.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Tembiasakue pukukue, heta mbaʼe ojeporu virúrõ: jatyta pire, juky, mboʼy raʼỹi, mymba ñemongakuaa, kuarepoti pytã, kuarepoti morotĩ ha itaju. Kuarepoti hepyetáva ojeporu heta ndahetáigui, hiʼare ha hetaiterei tapicha omoneĩgui. Hákatu hasy ojegueraha ha oñeñangareko kuarepotíre, upévare viruróga oñepyrũ omeʼẽ kuatia ikatúva oñembohekovia peteĩ kuarepoti hetakue ojeʼévare. Opaichagua **itaju rehegua tekorã** rupive, peteĩ viru vore ojoaju léi rupive peteĩ itaju hetakuére. Umi tekorã iñambue tenda ha ára rupi.
 

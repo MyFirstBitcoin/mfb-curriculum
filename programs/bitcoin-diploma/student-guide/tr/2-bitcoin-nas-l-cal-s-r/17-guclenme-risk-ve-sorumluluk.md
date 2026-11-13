@@ -6,7 +6,7 @@ Bitcoin'in herkese açık kuralları, [eşler arası ağı](https://curriculum.m
 
 Bu özellikler katılımcıları güçlendirebilir, ancak onlara daha fazla sorumluluk da yükler. [İşlemleri](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) onaylayacak, erişimi geri kazandıracak veya birçok hatayı geri alacak merkezi bir otorite olmadığından, her kişi üstlendiği rolü ve riskleri belirleyebilmelidir.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
 
 Bir kişi [kendi kendine saklamayı](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) seçtiğinde, anahtarların kontrolü bitcoin'in doğrudan kontrolünü sağlar. Hiçbir şirket, doğru şekilde kontrol edilen zincir üstü bir bakiyeyi donduramaz. Hiçbir şirket kaybolmuş bir [tohum ifadesini (seed phrase)](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) de geri getiremez.
 

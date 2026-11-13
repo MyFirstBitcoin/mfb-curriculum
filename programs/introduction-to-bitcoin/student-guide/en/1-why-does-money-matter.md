@@ -22,4 +22,4 @@ This guide is built around six questions: why money matters, what it is, what ca
 
 It is for education only. It does not provide financial, investment, legal, or tax advice, and it does not tell you to buy, sell, or hold anything.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)

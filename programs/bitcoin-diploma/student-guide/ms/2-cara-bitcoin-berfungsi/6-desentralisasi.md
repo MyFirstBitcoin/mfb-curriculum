@@ -28,4 +28,4 @@ Bitcoin mempunyai [pendesentralisasian](https://curriculum.myfirstbitcoin.org/le
 
 [Pendesentralisasian](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) juga menimbulkan kos. Penyelarasan boleh menjadi lebih perlahan. Pengguna mesti mengesahkan maklumat dan memikul tanggungjawab yang lebih besar. Tiada pusat sokongan untuk [rangkaian Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). Segala [tolak ansur](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) ini merupakan sebahagian daripada reka bentuk, bukannya kecacatan tidak disengajakan yang boleh dihapuskan tanpa mengubah sistem.
 
-![Pendidik menunjuk ke arah sebuah rangkaian pada skrin di bilik darjah sementara pelajar pemula dan pelajar teknikal membincangkannya di sebuah meja.](https://cdn.sanity.io/images/vje9ehw2/production/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)
+![Pendidik menunjuk ke arah sebuah rangkaian pada skrin di bilik darjah sementara pelajar pemula dan pelajar teknikal membincangkannya di sebuah meja.](https://cdn.sanity.io/images/vje9ehw2/staging/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)

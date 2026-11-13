@@ -15,7 +15,7 @@ Fiat sistem ima več glavnih udeležencev:
 [Udeleženci v sistemu fiat denarja in kaj se prenaša med njimi: centralna banka določa denarno politiko in izvaja poravnave med bankami, poslovne banke hranijo vloge, ki so njihova obveznost do strank, plačilne storitve prenašajo naloge, država pobira davke in porablja sredstva, državljani in podjetja pa plačujejo in prejemajo plačila.](/micrographics/fiat-system-flows-01/sl.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
 <!-- card: light -->

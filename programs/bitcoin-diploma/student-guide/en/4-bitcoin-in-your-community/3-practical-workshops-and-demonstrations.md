@@ -30,4 +30,4 @@ Before any live demonstration, make sure you know:
 
 The result of your workshop should be an explanation or skill, not only a completed [transaction](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction).
 
-![The educator and business owner practise with a training phone together, both looking at the screen facing them.](https://cdn.sanity.io/images/vje9ehw2/production/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)
+![The educator and business owner practise with a training phone together, both looking at the screen facing them.](https://cdn.sanity.io/images/vje9ehw2/staging/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)

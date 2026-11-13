@@ -13,7 +13,7 @@
 > [Nguvu ya ununuzi](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) ni kiasi cha bidhaa na huduma ambacho kipimo kimoja cha pesa kinaweza kununua. Ikiwa bei ya kikapu cha bidhaa za msingi inapanda kutoka vipimo 100 vya [sarafu](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) hadi 110, vipimo vilevile 100 havinunui tena kikapu kizima. [Nguvu ya ununuzi](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) yake ikilinganishwa na kikapu hicho imeshuka.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->

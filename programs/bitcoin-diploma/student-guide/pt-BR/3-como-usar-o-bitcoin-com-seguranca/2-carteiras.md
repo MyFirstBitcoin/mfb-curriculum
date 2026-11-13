@@ -8,7 +8,7 @@
 
 O que aconteceria se o seu celular parasse de funcionar? O registro no Bitcoin continuaria existindo, mas o acesso dependeria das chaves e do método de recuperação que a carteira utiliza. Uma carteira ajuda a criar informações de recebimento, mostrar saldos e o histórico de [transações](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) e autorizar gastos. Ela não elimina a necessidade de entender quem controla o acesso.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
 
 
 <!-- card: dark -->
@@ -33,4 +33,4 @@ Compare [custódia](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), 
 > Durante o Diploma, você poderá criar uma carteira ou anotar [palavras de recuperação](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) como parte da prática. Uma sala de aula é um ambiente de aprendizado: as informações podem ser vistas, copiadas, compartilhadas ou comprometidas por engano. Por esse motivo, uma carteira de treinamento normalmente deve estar vazia ou ser simulada e não deve ser usada para proteger fundos significativos. Sempre que possível, ela é encerrada, redefinida ou devolvida ao final do Diploma. Seu educador pode escolher uma atividade real de baixo risco, mas deve explicar o objetivo dela e os riscos adicionais de privacidade, segurança e perda antes que alguém participe. Uma carteira destinada a proteger fundos significativos precisa de uma configuração nova e privada e de novas informações de recuperação. Seu educador pode explicar a diferença, mas você nunca é obrigado a configurar uma carteira pessoal para concluir o Diploma.
 
 
-![O educador demonstra um celular de treinamento enquanto o aluno iniciante e os alunos mais velhos examinam seus próprios dispositivos.](https://cdn.sanity.io/images/vje9ehw2/production/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)
+![O educador demonstra um celular de treinamento enquanto o aluno iniciante e os alunos mais velhos examinam seus próprios dispositivos.](https://cdn.sanity.io/images/vje9ehw2/staging/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)

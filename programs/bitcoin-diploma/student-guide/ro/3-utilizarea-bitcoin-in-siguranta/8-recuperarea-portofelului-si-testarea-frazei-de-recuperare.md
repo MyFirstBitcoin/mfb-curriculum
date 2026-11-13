@@ -15,4 +15,4 @@ Nu folosiți un portofel de instruire sau informațiile sale de recuperare pentr
 
 Scopul nu este ca recuperarea să pară ușoară, ci să înțelegeți procesul înainte ca defectarea unui dispozitiv să creeze presiune.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/424d932ace1728a75636a76182ae9a42621ed91c-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/424d932ace1728a75636a76182ae9a42621ed91c-1536x1024.svg)

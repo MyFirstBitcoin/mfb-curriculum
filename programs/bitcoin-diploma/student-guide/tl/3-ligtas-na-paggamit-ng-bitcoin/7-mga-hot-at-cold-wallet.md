@@ -32,4 +32,4 @@
 
 **Subukan ninyo:** Para sa isang maliit na kathang-isip na pagbabayad at isang mas madalang na kathang-isip na pagbabayad, ipaliwanag ninyo kung aling [pagtitimbang ng pakinabang at kapalit](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) ang mas mahalaga. Huwag kayong pumili ng kasangkapan o halaga para sa inyong sariling pondo.
 
-![Tinutulungan ng guro ang mga mag-aaral na mas nakatatanda at ang mga may kaalamang teknikal na paghambingin ang isang telepono, isang hardware wallet, at isang laptop.](https://cdn.sanity.io/images/vje9ehw2/production/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)
+![Tinutulungan ng guro ang mga mag-aaral na mas nakatatanda at ang mga may kaalamang teknikal na paghambingin ang isang telepono, isang hardware wallet, at isang laptop.](https://cdn.sanity.io/images/vje9ehw2/staging/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)

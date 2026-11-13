@@ -8,7 +8,7 @@ Nagsimula ang proyekto sa maliliit na harapang klase sa El Salvador noong 2021, 
 
 Ang aming gawain ay independiyente, pinangungunahan ng komunidad, at nakatuon sa Bitcoin. Nakatuon kami sa kaalamang pinansiyal, maingat na pag-iisip, at praktikal na kaligtasan - hindi sa pangangalakal, espekulasyon, o pagtataguyod ng iba pang token. Hindi namin hinihiling na tanggapin ninyo ang isang paniniwala. Sa halip, nagbibigay kami ng mga konsepto, tanong, at praktikal na kaalaman upang makabuo kayo ng sarili ninyong mga konklusyon.
 
-![Tinatanggap ng tagapagturo ang baguhan, nakatatandang mag-aaral, may-ari ng negosyo, mag-aaral na nakatuon sa teknolohiya, at batang mag-aaral sa iisang pangkat ng pag-aaral.](https://cdn.sanity.io/images/vje9ehw2/production/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
+![Tinatanggap ng tagapagturo ang baguhan, nakatatandang mag-aaral, may-ari ng negosyo, mag-aaral na nakatuon sa teknolohiya, at batang mag-aaral sa iisang pangkat ng pag-aaral.](https://cdn.sanity.io/images/vje9ehw2/staging/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
 
 ### Ang aming misyon: independiyente at bukas-sa-pinagmulan na edukasyon tungkol sa Bitcoin
 

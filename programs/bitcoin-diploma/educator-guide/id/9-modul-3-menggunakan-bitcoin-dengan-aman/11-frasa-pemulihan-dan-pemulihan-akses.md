@@ -15,7 +15,7 @@ Ajarkan konsekuensinya:
 [Frasa pemulihan adalah daftar kata yang tersusun secara berurutan, di sini berupa dua belas kata contoh bernomor yang ditulis di atas kertas. Kata-kata yang tepat dalam urutan yang benar dapat memulihkan kendali atas dompet yang kompatibel, sehingga frasa ini harus tetap dirahasiakan dan disimpan secara luring.](/micrographics/seed-phrase-on-paper-01/id.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
 
 #### Jangan pernah melakukan hal-hal ini di kelas
 
@@ -56,4 +56,4 @@ Ajarkan konsekuensinya:
 
 Pewarisan, [rancangan multitanda tangan](https://curriculum.myfirstbitcoin.org/lexicon/en/#multisignature), frasa sandi tingkat lanjut, dan perencanaan pemulihan dana bernilai tinggi mungkin memerlukan keamanan tingkat lanjut dan nasihat hukum profesional. Hal-hal tersebut berada di luar kompetensi wajib Bitcoin Diploma.
 
-![Pendidik memandu diskusi tentang kesiapan pemulihan sementara peserta didik yang lebih tua memasukkan kartu latihan kosong ke dalam amplop dan peserta didik yang menguasai bidang teknis mengamati.](https://cdn.sanity.io/images/vje9ehw2/production/23cdb205174fa99b2d0df47ef606b53f8329f152-1054x1492.png)
+![Pendidik memandu diskusi tentang kesiapan pemulihan sementara peserta didik yang lebih tua memasukkan kartu latihan kosong ke dalam amplop dan peserta didik yang menguasai bidang teknis mengamati.](https://cdn.sanity.io/images/vje9ehw2/staging/23cdb205174fa99b2d0df47ef606b53f8329f152-1054x1492.png)

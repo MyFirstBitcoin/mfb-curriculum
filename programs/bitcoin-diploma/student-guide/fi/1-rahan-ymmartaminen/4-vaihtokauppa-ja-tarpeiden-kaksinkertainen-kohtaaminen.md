@@ -8,7 +8,7 @@
 
 Kuvitelkaa, että **Amina** omistaa riisiä ja haluaa kengät. **Luis** omistaa kengät mutta haluaa ruokaöljyä, ei riisiä. **Mei** omistaa ruokaöljyä ja haluaa korjaustyötä. Amina saattaa tarvita useita vaihtokauppoja ennen kuin hän saa kengät. Jokainen vaihtokauppa vie aikaa ja edellyttää sopimista [arvosta](https://curriculum.myfirstbitcoin.org/lexicon/en/#value).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
 
 
 <!-- micrographic: barter-mismatch-01 -->
@@ -29,7 +29,7 @@ Yleisesti hyväksytty raha erottaa myymisen ostamisesta. Amina voi myydä riisi�
 
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
 
 <!-- micrographic: sell-then-buy-01 -->

@@ -25,4 +25,4 @@ Aclare que el [trueque](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter
 
 Si utiliza un juego, analice al finalizar las simplificaciones que presenta. El intercambio real incluye relaciones, crédito, regalos, obligaciones, negociación, leyes e interacciones repetidas.
 
-![El educador facilita una actividad de intercambio directo entre el principiante que sostiene un cuaderno y el propietario de un negocio que sostiene alimentos.](https://cdn.sanity.io/images/vje9ehw2/production/48813fb8d9434061c5c546898f4023f8748e9edd-1054x1492.png)
+![El educador facilita una actividad de intercambio directo entre el principiante que sostiene un cuaderno y el propietario de un negocio que sostiene alimentos.](https://cdn.sanity.io/images/vje9ehw2/staging/48813fb8d9434061c5c546898f4023f8748e9edd-1054x1492.png)

@@ -20,4 +20,4 @@ Netiweke i ḓitika nga vhashelamulenzhe vho fhambanaho: **vhashumisi** vhane vh
 
 Bitcoin i dovha ya vha na zwivhuya na zwi si zwavhuḓi. Mutengo wayo u nga shanduka nga u ṱavhanya. Vhukhakhi kanzhi a vhu kone u lulamiswa. A i athu ṱanganedzwa nga vhunzhi fhethu hunzhi, nahone u i shumisa nga nḓila yo tsireledzeaho zwi ṱoḓa u guda zwiṅwe zwithu. Bitcoin i dzhiela vhudzulo vhuṅwe ha u fulufhela zwiimiswa nga u khwaṱhisedza na vhuḓifhinduleli ha muthu nga eṱhe. A i fhelisi khombo.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

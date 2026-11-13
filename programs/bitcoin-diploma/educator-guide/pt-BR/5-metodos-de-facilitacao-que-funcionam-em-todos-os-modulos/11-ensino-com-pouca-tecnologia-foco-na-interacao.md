@@ -6,4 +6,4 @@ Materiais simples podem reduzir o tempo de preparação e as distrações, deixa
 
 Mais ferramentas podem trazer mais complexidade. Adicione uma ferramenta quando ela ajudar os alunos a entender ou praticar algo, e mantenha uma alternativa simples à mão. Concentre-se primeiro na qualidade do engajamento: os alunos estão participando, fazendo perguntas, explicando seu raciocínio e mostrando o que entenderam? Escolha a abordagem que favoreça esse aprendizado.
 
-![O educador e o aluno mais velho organizam cartões didáticos enquanto o aluno mais novo participa com um caderno.](https://cdn.sanity.io/images/vje9ehw2/production/f062a7d4ca6c0e188b299060e170b244e0ee7acb-1054x1492.png)
+![O educador e o aluno mais velho organizam cartões didáticos enquanto o aluno mais novo participa com um caderno.](https://cdn.sanity.io/images/vje9ehw2/staging/f062a7d4ca6c0e188b299060e170b244e0ee7acb-1054x1492.png)

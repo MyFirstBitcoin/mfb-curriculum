@@ -28,7 +28,7 @@ Hal ini menimbulkan dua risiko penting:
 [Risiko likuiditas: banyak nasabah mengantre untuk menarik simpanan hari ini, dan bank tidak memiliki cukup uang tunai saat ini meskipun pinjaman yang diberikannya mungkin akan dilunasi nanti. Risiko solvabilitas: peminjam gagal membayar kredit rumah, dan nilai aset bank menjadi lebih rendah daripada kewajibannya.](/micrographics/liquidity-vs-solvency-01/id.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
 
 
 

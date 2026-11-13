@@ -38,7 +38,7 @@ Scelga un percorso pratico che risulti sicuro e gestibile per i discenti. Annoti
 [Per pianificare un gruppo, moltiplichi il numero di partecipanti per il tempo di supporto e osservazione previsto, poi aggiunga tempo per la preparazione, il feedback, le esigenze di accessibilità e le rivalutazioni. Se gli educatori non hanno tempo a sufficienza, modifichi il piano: meno partecipanti, più educatori o più tempo.](/micrographics/cohort-capacity-check-01/it.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
 
 ### Tabella di corrispondenza tra competenze ed evidenze
 
