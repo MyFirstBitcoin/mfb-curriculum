@@ -34,4 +34,4 @@ Biała księga połączyła cechy niezbędne do zastosowania tego podejścia:
 
 Ten moduł wyjaśnia te pojęcia bardziej szczegółowo. Razem dały one praktyczne rozwiązanie [problemu podwójnego wydawania](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): sieć może odrzucić drugą próbę wydania tego samego bitcoina bez polegania na centralnym organie. Bitcoin zaoferował brakujące połączenie rozwiązań, którego poszukiwano przez dziesięciolecia eksperymentów z pieniądzem cyfrowym.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)

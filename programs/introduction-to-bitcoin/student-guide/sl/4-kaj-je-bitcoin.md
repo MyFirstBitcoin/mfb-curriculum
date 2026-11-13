@@ -20,4 +20,4 @@ Opomba o zapisu: **Bitcoin** z veliko začetnico B običajno pomeni omrežje ali
 
 Tudi Bitcoin zahteva določene kompromise. Njegova cena se lahko hitro spremeni. Napake imajo običajno trajne posledice. Marsikje ga še vedno sprejemajo le v omejenem obsegu, za varno uporabo pa se je treba nekaj naučiti. Bitcoin del zaupanja v institucije nadomešča s preverjanjem in osebno odgovornostjo. Tveganja pa ne odpravlja.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

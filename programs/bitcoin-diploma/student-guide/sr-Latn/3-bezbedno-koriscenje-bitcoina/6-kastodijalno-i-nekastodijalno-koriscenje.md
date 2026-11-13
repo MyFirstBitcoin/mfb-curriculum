@@ -12,7 +12,7 @@ Ova razlika je važna za proveru. Pravila Bitcoin mreže i ukupna količina bitc
 
 U **nekastodijalnom** ili **samostalno kontrolisanom** novčaniku, vi kontrolišete ključeve. Novčanik potpisuje [transakcije](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) po vašem ovlašćenju. I dalje može postojati zavisnost od softvera, hardvera, servera ili mreže, ali nijedan [čuvar sredstava](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian) ne mora da odobri validno trošenje na blokčejnu.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 
 <!-- micrographic: who-controls-keys-01 -->

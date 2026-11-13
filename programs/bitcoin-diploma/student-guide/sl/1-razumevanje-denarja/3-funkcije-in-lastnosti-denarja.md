@@ -30,4 +30,4 @@ Ljudje denar primerjajo tudi po njegovi [**trdnosti**](https://curriculum.myfirs
 
 **Razmišljajte kritično:** Opišite primer, ko ste eni vrsti denarja ali [premoženjskega sredstva](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) dali prednost pred drugo. Kakšen je bil namen? Primerjajte lastnosti možnosti, ki bi jih lahko uporabili. Katere lastnosti so bile za vas najpomembnejše in zakaj?
 
-![Vseh šest likov sodeluje pri dejavnosti z učnimi karticami brez povezave, medtem ko izobraževalec usmerja razpravo.](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![Vseh šest likov sodeluje pri dejavnosti z učnimi karticami brez povezave, medtem ko izobraževalec usmerja razpravo.](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)

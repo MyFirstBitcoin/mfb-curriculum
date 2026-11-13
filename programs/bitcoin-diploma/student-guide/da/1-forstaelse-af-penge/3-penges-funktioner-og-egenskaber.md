@@ -30,4 +30,4 @@ Folk sammenligner også penge ud fra deres [**soliditet**](https://curriculum.my
 
 **Tænk kritisk:** Nævn en situation, hvor De valgte én type penge eller [aktiv](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) frem for en anden. Hvad var formålet? Sammenlign egenskaberne ved de muligheder, De kunne have benyttet. Hvilke egenskaber betød mest for Dem, og hvorfor?
 
-![Alle seks figurer samarbejder om en offlineaktivitet med undervisningskort, mens underviseren leder diskussionen.](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![Alle seks figurer samarbejder om en offlineaktivitet med undervisningskort, mens underviseren leder diskussionen.](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)

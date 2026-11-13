@@ -30,4 +30,4 @@ Før en demonstrasjon med reelle verktøy må De forsikre Dem om at De vet:
 
 Resultatet av workshopen Deres bør være en forklaring eller en ferdighet, ikke bare en gjennomført [transaksjon](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction).
 
-![Underviseren og bedriftseieren øver sammen med en øvingstelefon. Begge ser på skjermen, som vender mot dem.](https://cdn.sanity.io/images/vje9ehw2/production/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)
+![Underviseren og bedriftseieren øver sammen med en øvingstelefon. Begge ser på skjermen, som vender mot dem.](https://cdn.sanity.io/images/vje9ehw2/staging/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)

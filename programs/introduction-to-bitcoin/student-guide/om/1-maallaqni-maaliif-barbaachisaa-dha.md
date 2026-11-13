@@ -22,4 +22,4 @@ Qajeelfamni kun gaaffilee ja'a irratti hundaa'a: maallaqni maaliif barbaachisaa 
 
 Kaayyoon isaa barnoota qofaaf. Gorsa faayinaansii, invastimantii, seeraa yookaan gibiraa hin kennu; akkasumas waan tokko akka bittan, gurgurtan yookaan qabattanii tursiiftan isinitti hin himu.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)

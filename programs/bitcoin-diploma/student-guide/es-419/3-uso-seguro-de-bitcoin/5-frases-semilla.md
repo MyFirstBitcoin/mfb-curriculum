@@ -36,4 +36,4 @@ Algunas billeteras usan frases de contraseña adicionales, múltiples claves u o
 [Cómo escribir una copia de seguridad de una frase semilla en tres pasos: la pantalla de la billetera muestra las palabras, usted las copia a mano en papel en el mismo orden y luego compara cada palabra con lo que aparece en la pantalla. Hágalo en privado y sin conexión.](/micrographics/seed-phrase-paper-backup-01/es-419.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)

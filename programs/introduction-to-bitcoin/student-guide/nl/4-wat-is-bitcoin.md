@@ -20,4 +20,4 @@ Een opmerking over de spelling: **Bitcoin** met een hoofdletter B verwijst meest
 
 Bitcoin heeft ook nadelen. De prijs kan snel veranderen. Fouten zijn meestal onherroepelijk. De acceptatie is op veel plaatsen nog beperkt, en het veilig gebruiken ervan vergt enige kennis. Bitcoin vervangt een deel van het vertrouwen in instellingen door verificatie en persoonlijke verantwoordelijkheid. Het neemt risico niet weg.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

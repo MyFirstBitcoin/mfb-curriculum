@@ -17,4 +17,4 @@ Establish these participation agreements:
 * never reveal a [seed phrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), [private key](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), password, or security arrangement; and
 * stop practical work when something differs from the demonstrated process.
 
-![The young learner asks a question while the educator listens and the other four learners follow the discussion.](https://cdn.sanity.io/images/vje9ehw2/production/bf1185129657cd98555d2704565cf44deadbe59d-1054x1493.png)
+![The young learner asks a question while the educator listens and the other four learners follow the discussion.](https://cdn.sanity.io/images/vje9ehw2/staging/bf1185129657cd98555d2704565cf44deadbe59d-1054x1493.png)

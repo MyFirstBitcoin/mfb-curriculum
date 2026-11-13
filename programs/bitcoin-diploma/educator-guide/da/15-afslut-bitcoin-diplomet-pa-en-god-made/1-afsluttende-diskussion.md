@@ -13,4 +13,4 @@ Brug tænk–par–del før diskussionen i plenum:
 
 Bed kursisterne om at underbygge deres svar med et begreb fra kurset og et eksempel, ikke et slogan.
 
-![Underviseren beder den ældre kursist om en afsluttende forklaring, mens begynderen og virksomhedsejeren lytter med deres vejledninger.](https://cdn.sanity.io/images/vje9ehw2/production/294a2f8e8e831a2a0da998cfbc42a40102d4cc74-1054x1493.png)
+![Underviseren beder den ældre kursist om en afsluttende forklaring, mens begynderen og virksomhedsejeren lytter med deres vejledninger.](https://cdn.sanity.io/images/vje9ehw2/staging/294a2f8e8e831a2a0da998cfbc42a40102d4cc74-1054x1493.png)

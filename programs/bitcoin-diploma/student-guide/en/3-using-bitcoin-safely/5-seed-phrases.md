@@ -36,4 +36,4 @@ Some wallets use additional passphrases, multiple keys, or other backup systems.
 [Writing a seed phrase backup in three steps: the wallet screen shows the words, you copy them by hand onto paper in the same order, then check every word against the screen. Do it privately and offline.](/micrographics/seed-phrase-paper-backup-01/en.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)

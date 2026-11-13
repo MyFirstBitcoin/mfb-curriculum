@@ -1,6 +1,6 @@
 # 2.10 Důkaz prací
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
 <!-- card: definition -->
@@ -29,4 +29,4 @@ Když [těžař](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) najde 
 
 [Důkaz prací](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) s sebou nese skutečné energetické náklady. Zastánci tvrdí, že právě tyto náklady jsou základem bezpečnosti Bitcoinu a mohou vytvářet poptávku po energii z flexibilních zdrojů nebo po energii, která by jinak zůstala nevyužitá. Kritici zpochybňují množství a původ spotřebované energie. Odpovědné posouzení zkoumá, jaká energie se využívá, odkud pochází, jakou bezpečnost zajišťuje a jaké alternativy se porovnávají.
 
-![Vyučující, začínající studující a technicky zaměřený studující diskutují o stolním těžebním zařízení s ventilátorem a samostatným napájecím zdrojem.](https://cdn.sanity.io/images/vje9ehw2/production/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)
+![Vyučující, začínající studující a technicky zaměřený studující diskutují o stolním těžebním zařízení s ventilátorem a samostatným napájecím zdrojem.](https://cdn.sanity.io/images/vje9ehw2/staging/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)

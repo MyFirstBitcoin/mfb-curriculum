@@ -25,4 +25,4 @@ Bahas:
 
 **Refleksi:** Mengapa mengirim pengembalian dana secara otomatis ke alamat yang diasumsikan sebagai alamat asal tidak aman? Siapa yang bertanggung jawab ketika beberapa staf menggunakan satu dompet bersama?
 
-![Pendidik menunjuk kartu pencatatan kosong sementara peserta pemula dan pemilik usaha memeriksa ponsel latihan di konter pedagang.](https://cdn.sanity.io/images/vje9ehw2/production/7c785fef5d3b3be3d4a60aa9cfa250f74e18d1ec-1054x1493.png)
+![Pendidik menunjuk kartu pencatatan kosong sementara peserta pemula dan pemilik usaha memeriksa ponsel latihan di konter pedagang.](https://cdn.sanity.io/images/vje9ehw2/staging/7c785fef5d3b3be3d4a60aa9cfa250f74e18d1ec-1054x1493.png)

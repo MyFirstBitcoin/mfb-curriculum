@@ -11,7 +11,7 @@ Los recursos son limitados, mientras que los deseos humanos no lo son.
 
 El [valor](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) de un bien no está contenido en el objeto. Las personas [valoran](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) los bienes según sus necesidades, preferencias, información y circunstancias. A esto a veces se le llama [**valor subjetivo**](https://curriculum.myfirstbitcoin.org/lexicon/en/#subjective-value). El agua limpia puede ser económica cerca de una fuente pública segura y extremadamente valiosa durante una escasez.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
 
 
 <!-- micrographic: same-water-different-value-01 -->

@@ -12,7 +12,7 @@ Perbezaan ini penting untuk pengesahan. Peraturan dan jumlah bekalan Bitcoin bol
 
 Dalam dompet **bukan kustodial** atau **jagaan kendiri** ini, ANDA mengawal kunci. Dompet tersebut menandatangani [transaksi](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) di bawah kuasa anda. Kebergantungan pada perisian, perkakasan, pelayan atau rangkaian mungkin masih wujud, tetapi tiada [kustodian](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian) yang perlu meluluskan perbelanjaan dalam rantaian yang sah.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 
 <!-- micrographic: who-controls-keys-01 -->

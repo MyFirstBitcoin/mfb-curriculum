@@ -20,4 +20,4 @@ Una nota sull'ortografia: **Bitcoin** con la B maiuscola indica di solito la ret
 
 Bitcoin comporta anche dei compromessi. Il suo prezzo può cambiare rapidamente. Gli errori sono di solito permanenti. L'accettazione è ancora limitata in molti luoghi, e usarlo in modo sicuro richiede un certo apprendimento. Bitcoin sostituisce parte della fiducia nelle istituzioni con la verifica e la responsabilità personale. Non elimina il rischio.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

@@ -8,7 +8,7 @@
 
 Co by się stało, gdyby Państwa telefon przestał działać? Zapis w sieci Bitcoin nadal by istniał, ale dostęp zależałby od kluczy i metody odzyskiwania używanej przez portfel. Portfel pomaga tworzyć dane do odbierania płatności, wyświetlać salda i [transakcyjną](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) historię oraz autoryzować wydawanie środków. Nie zwalnia to z potrzeby zrozumienia, kto kontroluje dostęp.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
 
 
 <!-- card: dark -->
@@ -33,4 +33,4 @@ Proszę porównać [sposób sprawowania pieczy nad środkami](https://curriculum
 > Podczas kursu dyplomowego mogą Państwo utworzyć portfel lub zapisać [słowa odzyskiwania](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) w ramach ćwiczeń. Sala lekcyjna jest środowiskiem nauki: informacje mogą zostać przez pomyłkę ujawnione, skopiowane, udostępnione lub naruszone. Z tego powodu portfel szkoleniowy powinien zazwyczaj być pusty lub symulowany i nie powinien służyć do zabezpieczania znacznych środków. Jeśli jest to wykonalne, na zakończenie kursu dyplomowego jest on zamykany, resetowany lub zwracany. Osoba prowadząca zajęcia może wybrać ćwiczenie z użyciem niewielkich rzeczywistych środków, ale zanim ktokolwiek weźmie w nim udział, powinna wyjaśnić jego cel oraz dodatkowe zagrożenia dla prywatności i bezpieczeństwa, a także ryzyko utraty środków. Portfel przeznaczony do zabezpieczania znacznych środków wymaga nowej, prywatnej konfiguracji i nowych danych odzyskiwania. Osoba prowadząca zajęcia może wyjaśnić tę różnicę, ale założenie osobistego portfela nigdy nie jest warunkiem ukończenia kursu dyplomowego.
 
 
-![Osoba prowadząca zajęcia demonstruje telefon szkoleniowy, podczas gdy osoba początkująca i starsi uczestnicy przyglądają się własnym urządzeniom.](https://cdn.sanity.io/images/vje9ehw2/production/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)
+![Osoba prowadząca zajęcia demonstruje telefon szkoleniowy, podczas gdy osoba początkująca i starsi uczestnicy przyglądają się własnym urządzeniom.](https://cdn.sanity.io/images/vje9ehw2/staging/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)

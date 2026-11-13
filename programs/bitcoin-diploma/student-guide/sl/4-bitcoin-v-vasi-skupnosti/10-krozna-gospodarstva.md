@@ -21,7 +21,7 @@ Začrtajte preprost lokalni krog:
 1. Kaj se zgodi, ko dostop do interneta odpove?
 1. Kakšna [skrbniška](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) in [cenovna](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) tveganja prevzema vsak udeleženec?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
 
 Zdravo krožno gospodarstvo temelji na prostovoljnem sodelovanju. Trgovci in delavci bi morali znati prepoznati tveganja, povezana s plačevanjem, določanjem cen, [hrambo](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), računovodstvom in [nihanjem vrednosti](https://curriculum.myfirstbitcoin.org/lexicon/en/#volatility). Zgolj število uporabnikov ne pokaže, ali je omrežje koristno.
 

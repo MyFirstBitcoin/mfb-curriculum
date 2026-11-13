@@ -9,7 +9,7 @@
 
 Bir [varlık](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset), bir kişinin sahip olabileceği veya üzerinde hak iddia edebileceği ve [değeri](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) olabilecek bir şeydir; paranın her işlevini kendiliğinden yerine getirmez. Bir ev [değer](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) saklayabilir, ancak yiyecek satın almak için pratik değildir. Bir hisse senedi bir ülkede kolayca satılabilir, ancak aracı kurum hesabı olmayan biri için erişilemez olabilir. [Altın](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) tarihin uzun dönemleri boyunca para işlevi görmüştür, ancak küçük bir alışverişte doğrulanması veya bölünmesi zor olabilir.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 İnsanlar ayrıca yabancı [para birimi](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency), devlet [tahvilleri](https://curriculum.myfirstbitcoin.org/lexicon/en/#bond), özel işletmeler, arazi, aletler, eğitim veya diğer [varlıkları](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) de tercih edebilir. Her tercih [fırsat maliyeti](https://curriculum.myfirstbitcoin.org/lexicon/en/#opportunity-cost) ve risk içerir. Hiçbir [varlık](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset), [satın alma gücünü](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) her dönemde ve her durumda garanti etmez.
 

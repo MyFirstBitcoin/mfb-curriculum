@@ -1,6 +1,6 @@
 # 4.1 Bitcoin ve vaší komunitě
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
 
 Toto je **Propojení** – fáze programu Bitcoinový diplom. Propojíte nedostatky moderního peněžního systému a [související kompromisy](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off), reakci Bitcoinu na ně a odpovědnost za bezpečné používání z **modulů 1–3** s místní potřebou či příležitostí, realistickou alternativou a bezpečným praktickým úkolem. Neočekává se od vás, že začnete používat Bitcoin nebo dojdete k závěru, že je nejlepší volbou v každé místní situaci.
 

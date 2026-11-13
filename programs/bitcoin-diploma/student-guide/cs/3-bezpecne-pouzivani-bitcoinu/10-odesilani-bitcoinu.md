@@ -18,7 +18,7 @@ Odesílání vyžaduje větší opatrnost, protože v síti Bitcoin platnou [tra
 1. Pokud postup neznáte, vyzkoušejte nejprve platbu malou částkou.
 1. Platbu schvalte, pouze pokud všechny položky souhlasí; poté zkontrolujte výsledek platby.
 
-![Starší účastník ukazuje cvičný telefon, zatímco začátečník kontroluje druhý telefon a vyučující je vede při porovnávání.](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![Starší účastník ukazuje cvičný telefon, zatímco začátečník kontroluje druhý telefon a vyučující je vede při porovnávání.](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 
 <!-- micrographic: pre-send-checklist-01 -->
@@ -29,4 +29,4 @@ U [on-chain platby](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-chain-p
 
 Co byste měli udělat, pokud se cíl platby nečekaně změní, požadavek se stane naléhavým nebo někdo požádá o údaje pro obnovení peněženky? Zastavte se. Nezávisle ověřte požadavek nebo požádejte o pomoc, aniž byste sdíleli tajné údaje.
 
-![Vyučující vede začátečníka při porovnávání telefonu se zařízením majitele podniku pro příjem plateb, než platbu schválí.](https://cdn.sanity.io/images/vje9ehw2/production/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)
+![Vyučující vede začátečníka při porovnávání telefonu se zařízením majitele podniku pro příjem plateb, než platbu schválí.](https://cdn.sanity.io/images/vje9ehw2/staging/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)

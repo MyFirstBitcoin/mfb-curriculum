@@ -20,4 +20,4 @@ Un nota tokante ortografia: **Bitcoin** ku un B kapital generalmente ta referí 
 
 Bitcoin tambe tin su ventaha i desventaha. Su preis por kambia lihé. Eror generalmente ta permanente. Aseptashon ainda ta limitá na hopi luga, i pa us'é na un manera sigur ta rekerí un tiki siñamentu. Bitcoin ta reemplasá un parti di e konfiansa den institushon ku verifikashon i responsabilidat personal. E no ta eliminá riesgo.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

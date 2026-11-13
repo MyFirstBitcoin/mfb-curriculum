@@ -6,7 +6,7 @@ Die öffentlichen Regeln von Bitcoin, sein [Peer-to-Peer-Netzwerk (P2P)](https:/
 
 Diese Eigenschaften können die Teilnehmenden stärken, legen ihnen aber auch mehr Verantwortung auf. Ohne eine zentrale Instanz, die [Transaktionen](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) genehmigt, den Zugang wiederherstellt oder viele Fehler rückgängig macht, muss jede Person in der Lage sein, die Rolle und die Risiken zu erkennen, die sie übernimmt.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
 
 Für eine Person, die sich für [Selbstverwahrung](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody) entscheidet, bedeutet die Kontrolle über die Schlüssel direkte Kontrolle über ihre bitcoin. Kein Unternehmen kann ein korrekt kontrolliertes On-Chain-Guthaben einfrieren. Ebenso wenig kann ein Unternehmen eine verlorene [Seed-Phrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) wiederherstellen.
 

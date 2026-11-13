@@ -24,4 +24,4 @@ Segera hentikan aktivitas jika:
 [Kondisi yang tidak aman atau tidak dapat dijelaskan mengharuskan kegiatan dihentikan. Pendidik melindungi semua orang dan informasi rahasia serta memverifikasi masalah; kesalahan dalam asesmen yang berdampak kritis pada keselamatan dicatat sebagai Belum, lalu peserta didik mengatur ulang situasi, berlatih, dan menjalani asesmen ulang di lain waktu.](/micrographics/stop-when-check-fails-01/id.md)
 
 
-![Pendidik mengangkat telapak tangan terbuka untuk menjeda aktivitas, sementara peserta pemula menurunkan ponsel dan peserta yang memiliki pemahaman teknis menutup sebagian layar laptop.](https://cdn.sanity.io/images/vje9ehw2/production/adb5c936fe5622b3c0b62f060349af1097eee5b0-1055x1491.png)
+![Pendidik mengangkat telapak tangan terbuka untuk menjeda aktivitas, sementara peserta pemula menurunkan ponsel dan peserta yang memiliki pemahaman teknis menutup sebagian layar laptop.](https://cdn.sanity.io/images/vje9ehw2/staging/adb5c936fe5622b3c0b62f060349af1097eee5b0-1055x1491.png)

@@ -26,11 +26,11 @@ La Guía para educadores le ayuda a preparar lecciones, facilitar actividades, a
 
 ### Únase a una comunidad de aprendizaje
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
 
 La [Red de educación sobre Bitcoin](https://myfirstbitcoin.org/about/network) conecta a educadores independientes y comunidades locales de aprendizaje. Busque una comunidad cercana a usted, o una cuyo trabajo le interese, y póngase en contacto con ella para preguntar cómo puede aprender, participar como voluntario o contribuir. La participación es opcional y no afecta la finalización, la evaluación ni la certificación del Diplomado.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
 
 ### Un recordatorio de seguridad
 
@@ -92,13 +92,13 @@ Si el educador que emite el certificado proporciona un método de verificación,
 
 Su resultado más importante no es el certificado. Es la capacidad de explicar con claridad el dinero y Bitcoin, reconocer los riesgos, verificar antes de actuar y seguir aprendiendo de manera independiente.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
 
 ### Apoye la educación gratuita sobre Bitcoin
 
 Los recursos educativos de My First Bitcoin son gratuitos y de código abierto. El apoyo voluntario ayuda a mantener el plan de estudios, formar educadores y ampliar el acceso.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
 
 
 https://donate.myfirstbitcoin.org
@@ -112,4 +112,4 @@ Si decide contribuir, use la [página oficial de donaciones](https://donate.myfi
 ---
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)

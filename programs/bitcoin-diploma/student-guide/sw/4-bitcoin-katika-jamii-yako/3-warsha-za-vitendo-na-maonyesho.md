@@ -30,4 +30,4 @@ Kabla ya maonyesho yoyote ya moja kwa moja, hakikisheni mnajua:
 
 Matokeo ya warsha yenu yanapaswa kuwa maelezo au ujuzi, si tu [muamala](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) uliokamilika.
 
-![Mwalimu na mmiliki wa biashara wanafanya mazoezi pamoja kwa simu ya mafunzo, wote wakitazama skrini iliyoelekezwa kwao.](https://cdn.sanity.io/images/vje9ehw2/production/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)
+![Mwalimu na mmiliki wa biashara wanafanya mazoezi pamoja kwa simu ya mafunzo, wote wakitazama skrini iliyoelekezwa kwao.](https://cdn.sanity.io/images/vje9ehw2/staging/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)

@@ -30,4 +30,4 @@ Før enhver demonstration med rigtige værktøjer skal De sikre Dem, at De ved:
 
 Resultatet af Deres workshop bør være en forklaring eller en færdighed, ikke blot en gennemført [transaktion](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction).
 
-![Underviseren og virksomhedsejeren øver sig sammen med en øvelsestelefon, mens de begge ser på skærmen, der vender mod dem.](https://cdn.sanity.io/images/vje9ehw2/production/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)
+![Underviseren og virksomhedsejeren øver sig sammen med en øvelsestelefon, mens de begge ser på skærmen, der vender mod dem.](https://cdn.sanity.io/images/vje9ehw2/staging/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)

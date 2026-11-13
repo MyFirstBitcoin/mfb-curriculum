@@ -10,7 +10,7 @@
 
 Na gaba, ku tambayi abin da tsarin ya ba da dama a yi. Dangane da ƙa'idojin, [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) na iya ba da damar kammala biyan kuɗi cikin sauri, samun damar amfani ga mutane da yawa, ko sabbin fasalolin biyan kuɗi. Haka kuma yana iya ƙara wa cibiyoyi ikon sa ido kan [ma'amaloli](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), aiwatar da ƙa'idoji, takaita amfani, ko haɗa bayanan shaidar mutum kai tsaye da biyan kuɗi. Wannan iko ne da yake hannun hukuma ta tsakiya: wata cibiya ce take kafa ko sauya ƙa'idojin da suka shafi hakan, maimakon masu amfani na yau da kullum su yi hakan da kansu.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->

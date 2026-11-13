@@ -6,7 +6,7 @@ Ya mere, ajụjụ mbụ gbasara akpa ego ọ bụla bụ: **onye na-achịkwa i
 
 ###### Ònye ji bitcoin unu n'ezie?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 Site n'iji **akpa ego unu na-elekọta n'onwe unu**, unu na-achịkwa igodo ndị ahụ.
 

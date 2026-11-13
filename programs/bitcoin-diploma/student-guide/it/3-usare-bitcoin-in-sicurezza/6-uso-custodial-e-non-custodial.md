@@ -12,7 +12,7 @@ Questa differenza è importante per la verifica. Le regole e l'offerta totale di
 
 In un wallet **non-custodial** o **in autocustodia**, è LEI a controllare le chiavi. Il wallet firma le [transazioni](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) sotto la Sua autorità. Possono comunque esserci dipendenze da software, hardware, server o rete, ma nessun [custode](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian) deve approvare una spesa on-chain valida.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 
 <!-- micrographic: who-controls-keys-01 -->

@@ -22,4 +22,4 @@ Iyi nyendedzi yo ḓisendeka nga mbudziso dza rathi: ndi ngani tshelede i ya nde
 
 Ndi ya pfunzo fhedzi. A i ṋei ngeletshedzo ya zwa masheleni, vhubindudzi, mulayo kana mithelo, nahone a i vha vhudzi uri vha renge, vha rengise kana vha vhulunge tshithu naho tshi tshifhio.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)

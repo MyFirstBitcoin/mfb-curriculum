@@ -10,4 +10,4 @@ Penge former hverdagens valg om mad, transport, arbejde, opsparing og hjælp til
 
 Når De drøfter disse spørgsmål, så læg mærke til forskellen mellem en kendsgerning og en holdning. »Denne pengeseddel accepteres til betaling af skat« er en kendsgerning, der kan efterprøves. »Dette er den bedste form for penge« er en holdning eller konklusion, som kræver kriterier og belæg.
 
-![Alle seks personer samles omkring borde i klasseværelset, mens underviseren leder en fælles læsning fra en opslået kursusvejledning.](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![Alle seks personer samles omkring borde i klasseværelset, mens underviseren leder en fælles læsning fra en opslået kursusvejledning.](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)

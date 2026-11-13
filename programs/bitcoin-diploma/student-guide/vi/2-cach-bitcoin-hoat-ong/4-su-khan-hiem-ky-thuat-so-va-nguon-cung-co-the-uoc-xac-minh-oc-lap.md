@@ -18,4 +18,4 @@ Bitcoin tạo ra trong môi trường kỹ thuật số [sự khan hiếm](https
 [Giới hạn nguồn cung được ghi trên trang web hoặc trong cơ sở dữ liệu của một tổ chức phát hành có thể bị chính tổ chức đó âm thầm thay đổi. Quy tắc nguồn cung của Bitcoin là công khai; chữ ký, lịch sử công khai, bằng chứng công việc và hoạt động xác minh của các nút cùng nhau ngăn chặn việc tự ý tạo ra những đồng tiền mới hoặc chi tiêu cùng một bitcoin hai lần.](/micrographics/claimed-or-verified-supply-01/vi.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)

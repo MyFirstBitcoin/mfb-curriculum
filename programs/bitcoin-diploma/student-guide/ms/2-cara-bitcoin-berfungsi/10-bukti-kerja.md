@@ -1,6 +1,6 @@
 # 2.10 Bukti kerja
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
 <!-- card: definition -->
@@ -29,4 +29,4 @@ Apabila seorang [pelombong](https://curriculum.myfirstbitcoin.org/lexicon/en/#mi
 
 [Bukti kerja](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) melibatkan kos tenaga yang nyata. Penyokong berpendapat bahawa kos inilah yang menjadi asas keselamatan Bitcoin dan boleh mewujudkan permintaan untuk tenaga yang penggunaannya boleh dilaraskan atau yang jika tidak digunakan akan terbiar. Pengkritik mempersoalkan jumlah dan sumber tenaga yang digunakan. Penilaian yang bertanggungjawab meneliti tenaga yang digunakan, sumbernya, keselamatan yang disediakannya, serta alternatif yang dibandingkan.
 
-![Pendidik, pelajar pemula dan pelajar teknikal membincangkan sebuah unit perlombongan atas meja yang dilengkapi kipas dan bekalan kuasa berasingan.](https://cdn.sanity.io/images/vje9ehw2/production/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)
+![Pendidik, pelajar pemula dan pelajar teknikal membincangkan sebuah unit perlombongan atas meja yang dilengkapi kipas dan bekalan kuasa berasingan.](https://cdn.sanity.io/images/vje9ehw2/staging/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)

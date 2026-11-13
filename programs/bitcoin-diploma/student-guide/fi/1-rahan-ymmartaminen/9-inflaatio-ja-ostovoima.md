@@ -13,7 +13,7 @@
 > [Ostovoima](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) tarkoittaa tavaroiden ja palvelujen määrää, jonka yhdellä rahayksiköllä voi ostaa. Jos perushyödykekorin hinta nousee 100 yksiköstä [valuuttaa](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) 110 yksikköön, samoilla 100 yksiköllä ei enää saa koko koria. Niiden [ostovoima](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) suhteessa kyseiseen koriin on heikentynyt.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->

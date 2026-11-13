@@ -28,7 +28,7 @@ Esto genera dos riesgos importantes:
 [Riesgo de liquidez: muchos depositantes hacen fila para retirar su dinero hoy, y el banco no tiene suficiente efectivo ahora, aunque sus préstamos podrían pagarse más adelante. Riesgo de solvencia: los prestatarios dejan de pagar sus préstamos hipotecarios, y los activos del banco pasan a valer menos de lo que debe.](/micrographics/liquidity-vs-solvency-01/es-419.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
 
 
 

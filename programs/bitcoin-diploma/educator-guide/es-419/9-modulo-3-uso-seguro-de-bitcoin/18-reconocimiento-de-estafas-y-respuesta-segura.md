@@ -34,4 +34,4 @@ Coloque breves situaciones ficticias en distintos puntos del salón. En cada est
 
 Incluya un mensaje que parezca legítimo y no tenga errores ortográficos evidentes. No enseñe que las estafas son fáciles de detectar solo porque tienen una apariencia poco profesional.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)

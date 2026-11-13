@@ -30,4 +30,4 @@ Az emberek a pénzeket aszerint is összehasonlítják, hogy mekkora a [**szilá
 
 **Gondolkodjon kritikusan:** Idézzen fel egy alkalmat, amikor az egyik pénzfajtát vagy [eszközt](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) választotta egy másik helyett. Mi volt a célja? Hasonlítsa össze a rendelkezésére álló lehetőségek tulajdonságait. Mely tulajdonságok voltak Önnek a legfontosabbak, és miért?
 
-![Mind a hat szereplő közösen vesz részt egy offline oktatókártyás feladatban, miközben az oktató irányítja a beszélgetést.](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![Mind a hat szereplő közösen vesz részt egy offline oktatókártyás feladatban, miközben az oktató irányítja a beszélgetést.](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)

@@ -23,7 +23,7 @@ Po otwarciu przewodnika do modułu proszę zawsze postępować w tej samej kolej
 
 Nagłówki celowo się powtarzają. To powtórzenie ułatwia początkującej osobie prowadzącej poruszanie się po przewodniku — nie jest treścią do zapamiętania.
 
-![Osoba prowadząca wskazuje diagram w otwartym przewodniku kursu, a osoba początkująca i starsza osoba ucząca się śledzą go we własnych przewodnikach.](https://cdn.sanity.io/images/vje9ehw2/production/f4e6dd8cd876afad89cef117fc6845f0b599f408-1054x1492.png)
+![Osoba prowadząca wskazuje diagram w otwartym przewodniku kursu, a osoba początkująca i starsza osoba ucząca się śledzą go we własnych przewodnikach.](https://cdn.sanity.io/images/vje9ehw2/staging/f4e6dd8cd876afad89cef117fc6845f0b599f408-1054x1492.png)
 
 ### Sformułowania, których można użyć w razie niepewności
 

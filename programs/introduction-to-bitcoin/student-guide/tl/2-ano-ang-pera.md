@@ -12,9 +12,9 @@ Sa sistemang barter, nagaganap lamang ang palitan kapag parehong gusto ng dalawa
 
 Isa itong **midyum ng palitan**: tinatanggap ito ng mga tao bilang bayad. Isa itong **yunit ng pagtutuos**: dito ipinapahayag ang mga presyo, kaya naihahambing natin ang halaga ng iba't ibang bagay. At isa itong **imbakan ng halaga**: naipapasa nito ang halaga mula sa kasalukuyan patungo sa hinaharap. Walang salaping ganap na nakapagpapanatili ng halaga, ngunit mas mabagal mawalan ng kakayahang bumili ang ilang anyo nito kaysa sa iba.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Sa buong kasaysayan, maraming bagay ang nagsilbing salapi: mga kabibe, asin, mga butil na palamuti, mga alagang hayop, tanso, pilak, at ginto. Naging malawakan ang paggamit ng mahahalagang metal dahil kakaunti ang mga ito, matibay, at malawakang tinatanggap. Ngunit mahirap magdala at mag-ingat ng metal, kaya nagsimulang maglabas ang mga bangko ng mga katibayang papel na maaaring ipalit sa isang nakasaad na dami ng metal. Sa ilalim ng iba't ibang bersiyon ng **pamantayang ginto**, ang isang yunit ng salapi ay nakaugnay sa isang dami ng ginto ayon sa batas. Nagkakaiba ang mga tuntunin depende sa lugar at panahon.
 

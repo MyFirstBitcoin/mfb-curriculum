@@ -22,4 +22,4 @@ Norėdami patikrinti paruoštą [sandorį](https://curriculum.myfirstbitcoin.org
 [Nepatvirtinta operacija laukia laukiančių operacijų telkinyje, tada įtraukiama į bloką N ir taip gauna pirmąjį patvirtinimą, o kiekvienas vėlesnis blokas prideda dar vieną.](/micrographics/confirmation-timeline-01/lt.md)
 
 
-![Dėstytojas ir vyresnio amžiaus besimokantysis aptaria parengtą pavyzdį į grupę atsuktame monitoriuje, o techninių žinių turintis besimokantysis valdo pelę; žiūrovas mato monitoriaus korpuso galinę dalį.](https://cdn.sanity.io/images/vje9ehw2/production/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)
+![Dėstytojas ir vyresnio amžiaus besimokantysis aptaria parengtą pavyzdį į grupę atsuktame monitoriuje, o techninių žinių turintis besimokantysis valdo pelę; žiūrovas mato monitoriaus korpuso galinę dalį.](https://cdn.sanity.io/images/vje9ehw2/staging/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)

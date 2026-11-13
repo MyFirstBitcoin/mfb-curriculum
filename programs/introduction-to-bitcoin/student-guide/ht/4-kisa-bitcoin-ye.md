@@ -20,4 +20,4 @@ Yon nòt sou òtograf: **Bitcoin** ak yon B majiskil anjeneral vle di rezo a osw
 
 Bitcoin gen dezavantaj tou. Pri li ka chanje rapidman. Erè yo souvan pèmanan. Nan anpil kote, moun poko aksepte l anpil, e pou itilize l an sekirite, fòk ou aprann kèk bagay. Bitcoin ranplase yon pati nan konfyans nan enstitisyon yo ak verifikasyon ak responsablite pèsonèl. Li pa elimine risk.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

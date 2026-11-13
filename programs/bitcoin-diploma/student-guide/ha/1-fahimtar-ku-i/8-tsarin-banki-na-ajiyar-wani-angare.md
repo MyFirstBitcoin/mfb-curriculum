@@ -28,7 +28,7 @@ Wannan yana haifar da muhimman haɗari guda biyu:
 [Haɗarin ƙarancin kuɗin hannu: masu ajiya da yawa sun yi layi don cire kuɗi yau, kuma bankin ba shi da isassun kuɗin hannu yanzu duk da cewa ana iya biyan bashin da ya bayar daga baya. Haɗarin kasa biyan basussuka: masu karɓar bashi sun kasa biyan bashin gidajensu, kuma ƙimar kadarorin bankin ta yi ƙasa da bashin da ake binsa.](/micrographics/liquidity-vs-solvency-01/ha.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
 
 
 

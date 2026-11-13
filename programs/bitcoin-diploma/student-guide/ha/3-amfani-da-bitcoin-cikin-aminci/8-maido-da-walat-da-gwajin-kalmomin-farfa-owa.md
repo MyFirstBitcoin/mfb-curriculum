@@ -15,4 +15,4 @@ Kada ku yi amfani da walat ɗin horo ko bayanan dawo da shi don adana kuɗi masu
 
 Manufar ba ita ce a sa dawo da walat ya zama kamar abu mai sauƙi ba. Ita ce ku fahimci yadda ake yin sa kafin lalacewar na'ura ta jefa ku cikin matsin lamba.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/424d932ace1728a75636a76182ae9a42621ed91c-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/424d932ace1728a75636a76182ae9a42621ed91c-1536x1024.svg)

@@ -12,7 +12,7 @@ Dit verschil is belangrijk voor verificatie. De regels en de totale voorraad van
 
 Bij een **non-custodial** of **self-custodial** Wallet beheert U de sleutels. De Wallet ondertekent [transacties](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) onder uw gezag. Er kunnen nog steeds afhankelijkheden zijn van software, hardware, servers of het netwerk, maar geen enkele [bewaarder](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian) hoeft een geldige on-chain uitgave goed te keuren.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 
 <!-- micrographic: who-controls-keys-01 -->

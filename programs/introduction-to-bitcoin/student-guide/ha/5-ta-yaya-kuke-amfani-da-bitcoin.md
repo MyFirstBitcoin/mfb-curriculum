@@ -6,7 +6,7 @@ Don haka tambaya ta farko game da kowane walat ita ce: **wa ke iko da maɓallan?
 
 ###### Wa ke riƙe da bitcoin ɗinku a zahiri?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 Da **walat na riƙon kai**, ku ne ke iko da maɓallan.
 

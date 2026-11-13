@@ -44,4 +44,4 @@ Ana tabbatar da bin iyakar miliyan 21 ta hanyar [na'urorin cibiyar sadarwa](http
 > Wadatar da ke da iyaka kuma ba tana nufin kowane bitcoin yana nan don sayarwa ba; ana iya riƙe wasu na dogon lokaci ko kuma a kasa samun damar amfani da su saboda an rasa maɓallansu.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

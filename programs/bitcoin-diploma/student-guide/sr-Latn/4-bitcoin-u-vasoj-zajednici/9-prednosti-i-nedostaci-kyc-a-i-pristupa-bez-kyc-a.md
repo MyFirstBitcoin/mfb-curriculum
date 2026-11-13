@@ -9,7 +9,7 @@
 > Ni [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) ni [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) nije automatski najbolji izbor. Uporedite konkretne pristupe, oslonite se na aktuelne lokalne smernice kada pravila nisu jasna i nemojte kršiti lokalne zakone niti se izlagati fizičkoj opasnosti u težnji ka [privatnosti](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
 Jedna [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) usluga može zahtevati ime i prezime iz zvaničnih dokumenata, lični dokument, adresu, fotografiju, informacije o poreklu sredstava ili druge podatke. To može omogućiti pružaocu usluge da ispuni lokalne propise, poveže se sa bankama, postavi više limite ili podrži oporavak naloga.
 

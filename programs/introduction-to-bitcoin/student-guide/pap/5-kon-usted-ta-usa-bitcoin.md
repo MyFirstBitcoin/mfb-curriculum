@@ -6,7 +6,7 @@ Pues e promé pregunta tokante kualke cartera ta: **ken ta kontrolá e yabinan?*
 
 ###### Ken realmente tin su bitcoin?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 Ku un **cartera di outokustodia**, Usted ta kontrolá e yabinan.
 

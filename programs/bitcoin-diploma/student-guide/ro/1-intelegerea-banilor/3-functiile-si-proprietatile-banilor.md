@@ -30,4 +30,4 @@ Oamenii compară banii și în funcție de [**soliditatea lor**](https://curricu
 
 **Gândiți critic:** Dați un exemplu de situație în care ați ales un tip de bani sau un [activ](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) în locul altuia. Care a fost scopul? Comparați proprietățile opțiunilor pe care le-ați fi putut folosi. Care proprietăți au contat cel mai mult pentru dumneavoastră și de ce?
 
-![Toate cele șase personaje colaborează la o activitate fără conexiune la internet, folosind cartonașe didactice, în timp ce cadrul didactic îndrumă discuția.](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![Toate cele șase personaje colaborează la o activitate fără conexiune la internet, folosind cartonașe didactice, în timp ce cadrul didactic îndrumă discuția.](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)

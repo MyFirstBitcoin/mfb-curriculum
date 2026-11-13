@@ -6,7 +6,7 @@ Ang mga pampublikong tuntunin ng Bitcoin, [network na peer-to-peer](https://curr
 
 Maaaring magbigay ng kapangyarihan sa mga kalahok ang mga katangiang ito, ngunit nag-aatang din ang mga ito ng higit na pananagutan sa kanila. Dahil walang sentral na awtoridad na mag-aapruba ng [mga transaksiyon](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), magpapanumbalik ng access, o magpapawalang-bisa sa maraming pagkakamali, kailangang matukoy ng bawat tao ang papel at mga panganib na tinatanggap niya.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
 
 Para sa isang taong pumipili ng [sariling pangangalaga](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody), ang pagkontrol sa mga susi ay nagbibigay ng direktang kontrol sa bitcoin. Walang kompanyang makakapag-freeze ng balanseng nasa blockchain na wastong kinokontrol. Wala ring kompanyang makapagpapanumbalik ng nawalang [seed phrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase).
 

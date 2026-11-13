@@ -7,4 +7,4 @@ Käyttäkää tätä menetelmää, kun muutama itsevarma oppija saattaisi muuten
 1. Pyytäkää valittuja pareja kertomaan perustelunsa, ei pelkästään johtopäätöstään.
 1. Tehkää yhteenveto esiin nousseista yhtäläisyyksistä ja korjatkaa väärinkäsitykset.
 
-![Opettaja kutsuu keskusteluun, kun aloittelija ja vanhemmat oppijat vertailevat oppaita ja yrittäjä osallistuu keskusteluun.](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![Opettaja kutsuu keskusteluun, kun aloittelija ja vanhemmat oppijat vertailevat oppaita ja yrittäjä osallistuu keskusteluun.](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)

@@ -38,7 +38,7 @@ Valitkaa käytännön toteutustapa, joka tuntuu oppijoista turvalliselta ja hall
 [Kun suunnittelette ryhmän toimintaa, kertokaa oppijoiden määrä arvioidulla oppijakohtaisella tukeen ja havainnointiin tarvittavalla ajalla. Lisätkää sitten aikaa valmisteluihin, palautteeseen, saavutettavuustarpeiden huomioimiseen ja uudelleenarviointiin. Jos opettajilla ei ole riittävästi aikaa, muuttakaa suunnitelmaa: vähemmän oppijoita, enemmän opettajia tai enemmän aikaa.](/micrographics/cohort-capacity-check-01/fi.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
 
 ### Osaamisen ja sitä osoittavan näytön vastaavuustaulukko
 

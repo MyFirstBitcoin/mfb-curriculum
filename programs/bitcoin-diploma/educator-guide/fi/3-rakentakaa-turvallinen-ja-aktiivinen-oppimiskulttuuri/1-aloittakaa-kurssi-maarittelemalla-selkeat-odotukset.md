@@ -17,4 +17,4 @@ Sopikaa seuraavista osallistumisen pelisäännöistä:
 * älkää koskaan paljastako [palautuslausetta](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), [yksityistä avainta](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), salasanaa tai turvajärjestelyä; ja
 * keskeyttäkää käytännön työskentely, kun jokin poikkeaa esitetystä toimintatavasta.
 
-![Nuori oppija esittää kysymyksen samalla, kun opettaja kuuntelee ja neljä muuta oppijaa seuraa keskustelua.](https://cdn.sanity.io/images/vje9ehw2/production/bf1185129657cd98555d2704565cf44deadbe59d-1054x1493.png)
+![Nuori oppija esittää kysymyksen samalla, kun opettaja kuuntelee ja neljä muuta oppijaa seuraa keskustelua.](https://cdn.sanity.io/images/vje9ehw2/staging/bf1185129657cd98555d2704565cf44deadbe59d-1054x1493.png)

@@ -19,7 +19,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Οι περισσότεροι άνθρωποι δεν σταματούν ποτέ για να σκεφτούν το χρήμα
 
@@ -29,7 +29,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Πέντε ερωτήσεις για αρχή
 
@@ -49,7 +49,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Γεγονός ή άποψη;
 
@@ -74,7 +74,7 @@ theme: mfb
 
 Και οι δύο πρέπει να θέλουν αυτό που έχει ο άλλος, την ίδια στιγμή και σε κατάλληλες ποσότητες.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Χρησιμοποιήστε το παράδειγμα του οδηγού: καλλιεργείτε ρύζι και χρειάζεστε παπούτσια, αλλά ο υποδηματοποιός θέλει μαγειρικό λάδι, όχι ρύζι. Οι οικονομολόγοι αποκαλούν αυτό το φαινόμενο διπλή σύμπτωση αναγκών. -->
 
@@ -96,13 +96,13 @@ theme: mfb
 
 Κανείς δεν θέλει χρήματα μόνο και μόνο για να τα έχει. Είναι χρήσιμα επειδή οι άλλοι τα αποδέχονται, προσδοκώντας ότι και άλλοι θα τα αποδεχτούν αργότερα.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Ένα χαρτονόμισμα είναι απλώς ένα κομμάτι χαρτί. Το χρήμα λύνει το πρόβλημα του αντιπραγματισμού διαχωρίζοντας την πώληση από την αγορά: πουλάτε το ρύζι σας σε ένα άτομο και αγοράζετε παπούτσια από κάποιο άλλο. Αυτό είναι που διακρίνει το χρήμα από τον αντιπραγματισμό. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Οι τρεις λειτουργίες του χρήματος
 
@@ -114,7 +114,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Από τα κοχύλια στο χαρτί
 
@@ -161,13 +161,13 @@ theme: mfb
 
 ## Πληθωρισμός και αγοραστική δύναμη
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Ο πληθωρισμός των τιμών είναι μια διαρκής άνοδος του γενικού επιπέδου των τιμών. Η άλλη του όψη είναι η αγοραστική δύναμη: πόσα αγαθά μπορεί να αγοράσει μια νομισματική μονάδα. Αν το κόστος ενός καλαθιού βασικών αγαθών αυξηθεί από 100 νομισματικές μονάδες σε 110, οι ίδιες 100 μονάδες δεν αρκούν πλέον για την αγορά ολόκληρου του καλαθιού. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Πολλές αιτίες, μία επιλογή
 
@@ -285,7 +285,7 @@ theme: mfb
 
 ## Ποιος διατηρεί το Bitcoin σε λειτουργία;
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Οι χρήστες στέλνουν, λαμβάνουν και διακρατούν bitcoin· οι κόμβοι ελέγχουν κάθε συναλλαγή και κάθε μπλοκ ως προς τη συμμόρφωσή τους με τους κανόνες· οι εξορύκτες ανταγωνίζονται για να προσθέσουν ένα νέο μπλοκ στο αρχείο καταγραφής περίπου κάθε δέκα λεπτά. Αυτό το αρχείο, η αλυσίδα μπλοκ, είναι δημόσιο και η επανεγγραφή του έχει πολύ υψηλό κόστος. Μια σημείωση για την ορθογραφία: το Bitcoin με κεφαλαίο B συνήθως αναφέρεται στο δίκτυο ή στο σύστημα· το bitcoin με πεζό b αναφέρεται στο ίδιο το χρήμα. -->
 
@@ -330,7 +330,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Η φράση ανάκτησής σας παρέχει πλήρη πρόσβαση
 
@@ -350,7 +350,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Πριν χρησιμοποιήσετε οποιοδήποτε πορτοφόλι
 
@@ -391,7 +391,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Σταματήστε, μην κοινοποιήσετε τίποτα, μη στείλετε τίποτα
 
@@ -426,7 +426,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Το Δίπλωμα Bitcoin
 

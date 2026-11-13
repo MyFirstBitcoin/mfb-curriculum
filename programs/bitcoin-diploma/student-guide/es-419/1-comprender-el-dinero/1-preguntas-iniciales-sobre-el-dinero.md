@@ -10,4 +10,4 @@ El dinero influye en las decisiones cotidianas sobre la alimentación, el transp
 
 Al dialogar sobre estas preguntas, observe la diferencia entre un hecho y una opinión. “Este billete se acepta para pagar impuestos” es un hecho que se puede comprobar. “Esta es la mejor forma de dinero” es una opinión o conclusión que requiere criterios y evidencia.
 
-![Los seis personajes se reúnen alrededor de las mesas del aula mientras el docente dirige una lectura compartida de una guía del curso abierta.](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![Los seis personajes se reúnen alrededor de las mesas del aula mientras el docente dirige una lectura compartida de una guía del curso abierta.](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)

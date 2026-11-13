@@ -1,6 +1,6 @@
 # 3.14 On-chain- en Lightning-betalingen
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
@@ -30,4 +30,4 @@ Welk pad verwacht de ontvanger? Controleer vóór het betalen of hij of zij een 
 
 Stelt u zich voor dat een voorbereid scenario beide betaalpaden aanbiedt. Welk verzoek kan de beoogde Wallet gebruiken, en wat zou u controleren voordat u het goedkeurt? Het antwoord hangt af van het ontvangstverzoek, de Wallet en de situatie — niet van een universeel „beste” pad.
 
-![De docent wijst op een bord twee verschillende geometrische betaalpaden aan, terwijl de beginnende en de technische leerlingen ze overwegen.](https://cdn.sanity.io/images/vje9ehw2/production/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)
+![De docent wijst op een bord twee verschillende geometrische betaalpaden aan, terwijl de beginnende en de technische leerlingen ze overwegen.](https://cdn.sanity.io/images/vje9ehw2/staging/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)

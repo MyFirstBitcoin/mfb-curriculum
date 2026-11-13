@@ -32,4 +32,4 @@
 
 **Jaribu:** Kwa malipo madogo ya kubuni na malipo ya kubuni yasiyofanyika mara kwa mara, tafadhali eleza ni [uwiano wa faida na hasara](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) upi una umuhimu zaidi. Tafadhali usichague zana wala kiasi kwa ajili ya fedha zako mwenyewe.
 
-![Mwalimu anawasaidia wanafunzi wazee na wale wenye ujuzi wa kiufundi kulinganisha simu, pochi ya maunzi na kompyuta mpakato.](https://cdn.sanity.io/images/vje9ehw2/production/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)
+![Mwalimu anawasaidia wanafunzi wazee na wale wenye ujuzi wa kiufundi kulinganisha simu, pochi ya maunzi na kompyuta mpakato.](https://cdn.sanity.io/images/vje9ehw2/staging/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)

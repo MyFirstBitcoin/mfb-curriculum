@@ -10,4 +10,4 @@ Banii influențează alegerile de zi cu zi privind hrana, transportul, munca, ec
 
 Pe măsură ce discutați aceste întrebări, observați diferența dintre un fapt și o opinie. „Această bancnotă este acceptată pentru plata impozitelor” este un fapt care poate fi verificat. „Aceasta este cea mai bună formă de bani” este o opinie sau o concluzie care necesită criterii și dovezi.
 
-![Toate cele șase personaje se adună în jurul meselor din sala de curs, în timp ce cadrul didactic coordonează lectura în comun dintr-un ghid de curs deschis.](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![Toate cele șase personaje se adună în jurul meselor din sala de curs, în timp ce cadrul didactic coordonează lectura în comun dintr-un ghid de curs deschis.](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)

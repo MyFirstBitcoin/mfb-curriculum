@@ -15,7 +15,7 @@ Należy omówić konsekwencje:
 [Fraza odzyskiwania to uporządkowana lista słów — tutaj dwanaście ponumerowanych przykładowych słów zapisanych na papierze. Właściwe słowa we właściwej kolejności pozwalają odzyskać kontrolę w kompatybilnym portfelu, dlatego fraza musi pozostać tajna i być przechowywana offline.](/micrographics/seed-phrase-on-paper-01/pl.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
 
 #### Tego nigdy nie należy robić na zajęciach
 
@@ -56,4 +56,4 @@ Należy omówić konsekwencje:
 
 Dziedziczenie, [wielopodpisowa](https://curriculum.myfirstbitcoin.org/lexicon/en/#multisignature) konstrukcja portfela, zaawansowane dodatkowe hasła oraz planowanie odzyskiwania dostępu do środków o dużej wartości mogą wymagać zaawansowanych zabezpieczeń i profesjonalnej porady prawnej. Wykraczają one poza wymagane umiejętności w ramach Bitcoin Diploma.
 
-![Osoba prowadząca zajęcia moderuje dyskusję o gotowości do odzyskiwania dostępu, podczas gdy starsza osoba ucząca się wkłada pustą kartę szkoleniową do koperty, a osoba ucząca się o profilu technicznym obserwuje.](https://cdn.sanity.io/images/vje9ehw2/production/23cdb205174fa99b2d0df47ef606b53f8329f152-1054x1492.png)
+![Osoba prowadząca zajęcia moderuje dyskusję o gotowości do odzyskiwania dostępu, podczas gdy starsza osoba ucząca się wkłada pustą kartę szkoleniową do koperty, a osoba ucząca się o profilu technicznym obserwuje.](https://cdn.sanity.io/images/vje9ehw2/staging/23cdb205174fa99b2d0df47ef606b53f8329f152-1054x1492.png)

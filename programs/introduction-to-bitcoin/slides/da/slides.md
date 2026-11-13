@@ -19,7 +19,7 @@ Vi bruger penge hver dag, men spørger sjældent, hvordan de fungerer.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## De fleste mennesker stopper aldrig op for at tænke over penge
 
@@ -29,7 +29,7 @@ Ikke at tjene dem, ikke at bruge dem, men at tænke over, hvad penge er, og hvor
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Fem spørgsmål til at begynde med
 
@@ -49,7 +49,7 @@ Ikke at tjene dem, ikke at bruge dem, men at tænke over, hvad penge er, og hvor
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Fakta eller holdning?
 
@@ -74,7 +74,7 @@ Penge er et middel til udveksling.
 
 Begge personer skal ønske det, den anden har, på samme tid og i passende mængder.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Brug vejledningens eksempel: De dyrker ris og har brug for sko, men skomageren vil have madolie, ikke ris. Økonomer kalder dette det dobbelte sammenfald af behov. -->
 
@@ -96,13 +96,13 @@ Begge personer skal ønske det, den anden har, på samme tid og i passende mæng
 
 Ingen ønsker penge for pengenes egen skyld. De er nyttige, fordi andre accepterer dem i forventning om, at andre også vil acceptere dem senere.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: En pengeseddel er blot et stykke papir. Penge løser problemet med byttehandel ved at adskille salg fra køb: De sælger Deres ris til én person og køber sko af en anden. Det er det, der adskiller penge fra byttehandel. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Penges tre funktioner
 
@@ -114,7 +114,7 @@ Ingen penge bevarer værdi perfekt, men nogle former mister købekraft langsomme
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Fra skaller til papir
 
@@ -161,13 +161,13 @@ Når folk hører ordet inflation, tænker de som regel på stigende priser.
 
 ## Inflation og købekraft
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Prisinflation er en vedvarende stigning i det generelle prisniveau. Bagsiden er købekraften: hvor meget man kan købe for en pengeenhed. Hvis prisen på en kurv med basale varer stiger fra 100 valutaenheder til 110, kan man ikke længere købe hele kurven for de samme 100 enheder. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Mange årsager, ét valg
 
@@ -285,7 +285,7 @@ Ingen virksomhed kan indefryse bitcoin, som De selv kontrollerer. Bagsiden af de
 
 ## Hvem holder Bitcoin kørende?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Brugere sender, modtager og opbevarer bitcoin; noder kontrollerer, at hver transaktion og hver blok overholder reglerne; minere konkurrerer om at føje en ny blok til registret cirka hvert tiende minut. Dette register, blockchainen, er offentligt og meget dyrt at omskrive. En bemærkning om stavemåden: Bitcoin med stort B betyder normalt netværket eller systemet; bitcoin med lille b betyder selve pengene. -->
 
@@ -330,7 +330,7 @@ Valget af opbevaringsform siger intet om Deres værd. Det afgørende er at vide,
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Deres seedfrase giver fuld adgang
 
@@ -350,7 +350,7 @@ En ordnet liste over ord, ofte 12 eller 24, som kan genskabe Deres nøgler. Enhv
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Før De tager en tegnebog i brug
 
@@ -391,7 +391,7 @@ En ordnet liste over ord, ofte 12 eller 24, som kan genskabe Deres nøgler. Enhv
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Stop, del intet, send intet
 
@@ -426,7 +426,7 @@ Dette er kun begyndelsen.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Bitcoin-diplomet
 

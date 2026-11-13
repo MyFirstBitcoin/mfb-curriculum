@@ -8,7 +8,7 @@
 
 Imagine que **Amina** tem arroz e quer sapatos. **Luis** tem sapatos, mas quer óleo de cozinha, não arroz. **Mei** tem óleo de cozinha e quer um serviço de conserto. Amina pode precisar fazer várias trocas antes de conseguir os sapatos. Cada troca leva tempo e exige um acordo sobre o [valor](https://curriculum.myfirstbitcoin.org/lexicon/en/#value).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
 
 
 <!-- micrographic: barter-mismatch-01 -->
@@ -29,7 +29,7 @@ Um dinheiro amplamente aceito separa a venda da compra. Amina pode vender arroz 
 
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
 
 <!-- micrographic: sell-then-buy-01 -->

@@ -19,7 +19,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## অধিকাংশ মানুষ কখনো থেমে অর্থ নিয়ে ভাবেন না
 
@@ -29,7 +29,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## শুরু করার জন্য পাঁচটি প্রশ্ন
 
@@ -49,7 +49,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## তথ্য নাকি মতামত?
 
@@ -74,7 +74,7 @@ theme: mfb
 
 উভয় ব্যক্তিকেই একই সময়ে এবং উপযুক্ত পরিমাণে অপরের কাছে থাকা জিনিসটি পেতে চাইতে হবে।
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: নির্দেশিকার উদাহরণটি ব্যবহার করুন: আপনি ধান চাষ করেন এবং আপনার জুতা দরকার, কিন্তু মুচি চাল চান না, রান্নার তেল চান। অর্থনীতিবিদেরা একে চাহিদার দ্বৈত সমাপতন বলেন। -->
 
@@ -96,13 +96,13 @@ theme: mfb
 
 কেউ শুধু টাকার জন্যই টাকা চায় না। টাকা কাজে লাগে কারণ অন্যরা তা গ্রহণ করে, এই প্রত্যাশায় যে পরবর্তী সময়ে আরও অন্যরাও তা গ্রহণ করবে।
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: একটি ব্যাংকনোট কেবল এক টুকরো কাগজ। বিক্রয় ও ক্রয়কে আলাদা করে অর্থ পণ্য বিনিময় প্রথার সমস্যার সমাধান করে: আপনি একজনের কাছে আপনার চাল বিক্রি করেন এবং অন্যজনের কাছ থেকে জুতা কেনেন। এটাই অর্থকে পণ্য বিনিময় প্রথা থেকে আলাদা করে। -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## অর্থের তিনটি কাজ
 
@@ -114,7 +114,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## কড়ি থেকে কাগজ পর্যন্ত
 
@@ -161,13 +161,13 @@ theme: mfb
 
 ## মুদ্রাস্ফীতি ও ক্রয়ক্ষমতা
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: মূল্যস্ফীতি হলো পণ্যমূল্যের সাধারণ স্তরের ধারাবাহিক বৃদ্ধি। এর অন্য দিক হলো ক্রয়ক্ষমতা: অর্থের এক একক দিয়ে কতটা কেনা যায়। যদি মৌলিক পণ্যের একটি ঝুড়ির দাম 100 মুদ্রা একক থেকে বেড়ে 110 হয়, তাহলে একই 100 একক দিয়ে আর পুরো ঝুড়ির পণ্য কেনা যায় না। -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## অনেক কারণ, একটিই পছন্দ
 
@@ -285,7 +285,7 @@ theme: mfb
 
 ## বিটকয়েন সচল রাখে কারা?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: ব্যবহারকারীরা বিটকয়েন পাঠান, গ্রহণ করেন এবং সংরক্ষণ করেন; নোডগুলো প্রতিটি লেনদেন ও ব্লক নিয়ম মেনে চলছে কি না তা যাচাই করে; মাইনাররা প্রায় প্রতি দশ মিনিটে রেকর্ডে একটি নতুন ব্লক যোগ করার জন্য প্রতিযোগিতা করেন। এই রেকর্ড, অর্থাৎ ব্লকচেইন, সবার জন্য উন্মুক্ত এবং এটি নতুন করে লেখা অত্যন্ত ব্যয়বহুল। বানান সম্পর্কে একটি কথা: ইংরেজিতে বড় হাতের B দিয়ে লেখা Bitcoin সাধারণত নেটওয়ার্ক বা ব্যবস্থাকে বোঝায়; ছোট হাতের b দিয়ে লেখা bitcoin বলতে মুদ্রাটিকেই বোঝায়। -->
 
@@ -330,7 +330,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## আপনার সিড ফ্রেজ মানেই সম্পূর্ণ প্রবেশাধিকার
 
@@ -350,7 +350,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## যেকোনো ওয়ালেট ব্যবহার করার আগে
 
@@ -391,7 +391,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## থামুন, কিছু শেয়ার করবেন না, কিছু পাঠাবেন না
 
@@ -426,7 +426,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## বিটকয়েন ডিপ্লোমা
 

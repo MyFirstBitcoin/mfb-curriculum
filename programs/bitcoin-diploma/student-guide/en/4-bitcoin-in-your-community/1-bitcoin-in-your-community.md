@@ -1,6 +1,6 @@
 # 4.1 Bitcoin in Your Community
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
 
 This is the **Connect** stage of the Bitcoin Diploma. You will connect the modern money-system flaws and [trade-offs](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off), Bitcoin's response, and safe-use responsibility from **Modules 1–3** to a local need or opportunity, a realistic alternative, and a safe practical task. You are not expected to adopt Bitcoin or conclude that it is the best option in every local situation.
 

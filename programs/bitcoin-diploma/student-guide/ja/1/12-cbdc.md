@@ -10,7 +10,7 @@
 
 次に、その設計が何を可能にするのかを問いましょう。ルール次第で、[CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc)は、より迅速な決済、より幅広い利用機会、あるいは新しい支払い機能を可能にするかもしれません。また、機関が[取引](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction)を監視したり、ルールを適用したり、利用を制限したり、身元情報を支払いに直接結びつけたりする能力を強める可能性もあります。これが中央集権的な管理です。つまり、一般の利用者が独自に決めるのではなく、機関が関連するルールを定めたり変更したりするのです。
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->

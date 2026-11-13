@@ -12,9 +12,9 @@ Takas sisteminde ticaret, ancak her iki taraf da diğerinin elindekini aynı and
 
 Para bir **değişim aracıdır**: insanlar onu ödeme olarak kabul eder. Aynı zamanda bir **hesap birimidir**: fiyatlar onunla ifade edilir, böylece farklı şeylerin değerini karşılaştırabiliriz. Ve bir **değer saklama aracıdır**: değeri bugünden geleceğe taşır. Hiçbir para değeri kusursuz biçimde saklamaz, ancak bazı biçimleri satın alma gücünü diğerlerinden daha yavaş kaybeder.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Tarih boyunca pek çok şey para olarak kullanılmıştır: deniz kabukları, tuz, boncuklar, hayvanlar, bakır, gümüş ve altın. Değerli metaller kıt, dayanıklı ve yaygın olarak kabul gören şeyler oldukları için geniş çapta kullanılmaya başlandı. Ancak metali taşımak ve korumak zordur; bu nedenle bankalar, belirli bir miktar metal karşılığında bozdurulabilen kâğıt senetler çıkarmaya başladı. Farklı **altın standardı** uygulamalarında, bir para birimi yasal olarak belirli bir miktar altına bağlanıyordu. Kurallar yere ve döneme göre değişiyordu.
 

@@ -36,4 +36,4 @@ Jotkin lompakot käyttävät ylimääräisiä tunnuslauseita, useita avaimia tai
 [Palautuslauseen varmuuskopion kirjoittaminen kolmessa vaiheessa: lompakon näyttö näyttää sanat, kopioitte ne käsin paperille samassa järjestyksessä ja tarkistatte sitten jokaisen sanan näytöltä. Tehkää tämä muiden näkemättä ja ilman verkkoyhteyttä.](/micrographics/seed-phrase-paper-backup-01/fi.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)

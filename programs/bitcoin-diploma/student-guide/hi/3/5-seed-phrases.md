@@ -36,4 +36,4 @@
 [तीन चरणों में सीड फ़्रेज़ का बैकअप लिखना: वॉलेट की स्क्रीन पर शब्द दिखाई देते हैं, आप उन्हें उसी क्रम में हाथ से कागज़ पर लिखते हैं, फिर हर शब्द का स्क्रीन से मिलान करते हैं। यह काम निजी तौर पर और ऑफ़लाइन करें।](/micrographics/seed-phrase-paper-backup-01/hi.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)

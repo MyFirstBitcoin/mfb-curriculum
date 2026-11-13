@@ -12,7 +12,7 @@ Wannan bambanci yana da muhimmanci wajen tabbatarwa. Ana iya bincika ƙa'idojin 
 
 A cikin **tsarin da babu mai riƙon maɓallai a madadin mai amfani** ko **tsarin riƙon maɓallai da kai** na walat, KU NE ke sarrafa maɓallan. Walat ɗin yana sanya wa [ma'amaloli](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) hannu bisa izinin ku. Har yanzu ana iya dogaro da manhaja, kayan aiki, sabar, ko hanyar sadarwa, amma babu wani [mai riƙon maɓallai](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian) da ake buƙatar amincewarsa don ingantacciyar ma'amalar kashe kuɗi a kan sarkar bulok.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 
 <!-- micrographic: who-controls-keys-01 -->

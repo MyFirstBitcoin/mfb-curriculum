@@ -12,9 +12,9 @@ I ett system med byteshandel fungerar handel bara när båda parter vill ha det 
 
 De är ett **bytesmedel**: människor accepterar dem som betalning. De är en **räkneenhet**: priser uttrycks i pengar, så att vi kan jämföra värdet på olika saker. Och de är en **värdebevarare**: de för över värde från i dag till framtiden. Inga pengar bevarar värde perfekt, men vissa former förlorar köpkraft långsammare än andra.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Genom historien har många saker fungerat som pengar: snäckskal, salt, pärlor, boskap, koppar, silver och guld. Ädelmetaller fick stor spridning eftersom de var sällsynta, hållbara och allmänt accepterade. Men det är svårt att transportera och skydda metall, så banker började ge ut fordringsbevis i pappersform som kunde lösas in mot en angiven mängd metall. Under olika varianter av en **guldmyntfot** var en valutaenhet enligt lag knuten till en mängd guld. Reglerna varierade mellan olika platser och tidsperioder.
 

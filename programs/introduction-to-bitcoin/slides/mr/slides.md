@@ -19,7 +19,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## बहुतेक लोक पैशाबद्दल विचार करण्यासाठी कधीच थांबत नाहीत
 
@@ -29,7 +29,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## सुरुवातीसाठी पाच प्रश्न
 
@@ -49,7 +49,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## तथ्य की मत?
 
@@ -74,7 +74,7 @@ theme: mfb
 
 दोन्ही व्यक्तींना एकाच वेळी आणि योग्य प्रमाणात एकमेकांकडे असलेल्या गोष्टी हव्या असल्या पाहिजेत.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: मार्गदर्शिकेतील उदाहरण घ्या: आपण तांदूळ पिकवता आणि आपल्याला बुटांची गरज आहे, पण बूट बनवणाऱ्याला तांदूळ नव्हे, तर स्वयंपाकाचे तेल हवे आहे. अर्थशास्त्रज्ञ याला गरजांचा दुहेरी योगायोग म्हणतात. -->
 
@@ -96,13 +96,13 @@ theme: mfb
 
 केवळ पैसा बाळगण्यासाठी कोणालाही पैसा नको असतो. तो उपयुक्त असतो कारण इतर लोक नंतर तो स्वीकारतील या अपेक्षेने लोक तो स्वीकारतात.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: नोट म्हणजे केवळ कागदाचा एक तुकडा. विक्री आणि खरेदी या वेगवेगळ्या करून पैसा वस्तुविनिमयाची समस्या सोडवतो: आपण आपला तांदूळ एका व्यक्तीला विकता आणि दुसऱ्या व्यक्तीकडून बूट खरेदी करता. यामुळेच पैसा वस्तुविनिमयापेक्षा वेगळा ठरतो. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## पैशाची तीन कार्ये
 
@@ -114,7 +114,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## शिंपल्यांपासून कागदापर्यंत
 
@@ -161,13 +161,13 @@ theme: mfb
 
 ## महागाई आणि क्रयशक्ती
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: किमतींच्या सर्वसाधारण पातळीत सातत्याने होणारी वाढ म्हणजे महागाई. तिची दुसरी बाजू म्हणजे क्रयशक्ती: पैशाच्या एका एककाने किती वस्तू खरेदी करता येतात. मूलभूत गरजेच्या वस्तूंच्या एका संचाची किंमत चलनाच्या 100 एककांवरून 110 एककांपर्यंत वाढल्यास, त्याच 100 एककांत आता संपूर्ण संच खरेदी करता येत नाही. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## अनेक कारणे, एक निवड
 
@@ -285,7 +285,7 @@ theme: mfb
 
 ## बिटकॉइनचे कार्य कोण सुरू ठेवते?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: वापरकर्ते बिटकॉइन पाठवतात, स्वीकारतात आणि बाळगतात; नोड्स प्रत्येक व्यवहार आणि ब्लॉक नियमांनुसार आहे की नाही हे तपासतात; मायनर्स साधारणपणे दर दहा मिनिटांनी नोंदवहीत नवीन ब्लॉक जोडण्यासाठी स्पर्धा करतात. ही नोंदवही, म्हणजेच ब्लॉकचेन, सार्वजनिक असते आणि ती पुन्हा लिहिणे अत्यंत खर्चिक असते. शब्दलेखनाविषयी एक टीप: इंग्रजीत मोठ्या B ने सुरू होणारा Bitcoin हा शब्द सहसा नेटवर्क किंवा प्रणाली दर्शवतो; लहान b ने सुरू होणारा bitcoin हा शब्द प्रत्यक्ष चलन दर्शवतो. -->
 
@@ -330,7 +330,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## आपला सीड फ्रेज म्हणजे संपूर्ण प्रवेश
 
@@ -350,7 +350,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## कोणतेही वॉलेट वापरण्यापूर्वी
 
@@ -391,7 +391,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## थांबा, काहीही सामायिक करू नका, काहीही पाठवू नका
 
@@ -426,7 +426,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## बिटकॉइन पदविका
 

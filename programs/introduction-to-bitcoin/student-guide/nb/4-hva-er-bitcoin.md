@@ -20,4 +20,4 @@ En merknad om skrivemåten: **Bitcoin** med stor B betyr vanligvis nettverket el
 
 Bitcoin innebærer også avveininger. Prisen kan endre seg raskt. Feil kan vanligvis ikke rettes opp. Aksepten er fortsatt begrenset mange steder, og trygg bruk krever en viss opplæring. Bitcoin erstatter noe av tilliten til institusjoner med verifisering og personlig ansvar. Det fjerner ikke risiko.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

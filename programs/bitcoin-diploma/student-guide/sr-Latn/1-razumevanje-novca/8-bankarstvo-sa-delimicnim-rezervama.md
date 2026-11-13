@@ -28,7 +28,7 @@ To stvara dva važna rizika:
 [Rizik likvidnosti: mnogi deponenti danas čekaju u redu da podignu novac, a banka trenutno nema dovoljno gotovine iako njeni krediti mogu biti otplaćeni kasnije. Rizik solventnosti: dužnici ne otplaćuju stambene kredite, a imovina banke postaje manje vredna od njenih dugovanja.](/micrographics/liquidity-vs-solvency-01/sr-Latn.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
 
 
 

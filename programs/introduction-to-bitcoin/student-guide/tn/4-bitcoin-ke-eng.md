@@ -20,4 +20,4 @@ Ntlha ka mopeleto: **Bitcoin** e e nang le tlhaka e kgolo ya B gantsi e raya net
 
 Bitcoin le yone e na le melemo e e tsamaisanang le ditlamorago dingwe tse di sa eletsegeng. Tlhwatlhwa ya yone e ka fetoga ka bonako. Gantsi diphoso ga di kgone go baakanngwa. Go amogelwa ga yone go sa ntse go lekanyeditswe mo mafelong a le mantsi, mme go e dirisa ka pabalesego go tlhoka gore motho a ithute go le gonnye. Bitcoin e emisetsa karolo ya go ikanya ditheo ka go tlhomamisa le go rwala maikarabelo ka bowena. Ga e tlose kotsi.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

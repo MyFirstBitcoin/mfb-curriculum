@@ -23,4 +23,4 @@ Sesetengah orang menjalankan beberapa peranan. Seorang [pelombong](https://curri
 
 **Soalan spontan:** Mengapakah sebuah [nod](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) mengesahkan [transaksi](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction)? Nyatakan sekurang-kurangnya satu peraturan yang diperiksa oleh sebuah [nod](https://curriculum.myfirstbitcoin.org/lexicon/en/#node).
 
-![Pendidik membimbing pelajar teknikal di sebuah komputer nod, dengan monitor menghadap mereka dan bahagian belakang monitor kelihatan kepada pemerhati.](https://cdn.sanity.io/images/vje9ehw2/production/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)
+![Pendidik membimbing pelajar teknikal di sebuah komputer nod, dengan monitor menghadap mereka dan bahagian belakang monitor kelihatan kepada pemerhati.](https://cdn.sanity.io/images/vje9ehw2/staging/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)

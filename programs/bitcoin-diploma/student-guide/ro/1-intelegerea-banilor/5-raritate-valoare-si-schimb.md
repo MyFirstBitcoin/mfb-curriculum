@@ -11,7 +11,7 @@ Resursele sunt limitate, în timp ce dorințele oamenilor nu sunt.
 
 Însăși [valoarea](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) unui bun nu se află în obiectul în sine. Oamenii [apreciază](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) bunurile în funcție de nevoile, preferințele, informațiile și circumstanțele lor. Acest lucru este numit uneori [**valoare subiectivă**](https://curriculum.myfirstbitcoin.org/lexicon/en/#subjective-value). Apa potabilă poate fi ieftină în apropierea unei surse publice sigure și extrem de valoroasă în timpul unei penurii.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
 
 
 <!-- micrographic: same-water-different-value-01 -->

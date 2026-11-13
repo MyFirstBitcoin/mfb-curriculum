@@ -19,7 +19,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## زیادہ تر لوگ کبھی رک کر پیسے کے بارے میں نہیں سوچتے
 
@@ -29,7 +29,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## آغاز کے لیے پانچ سوالات
 
@@ -49,7 +49,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## حقیقت یا رائے؟
 
@@ -74,7 +74,7 @@ theme: mfb
 
 دونوں افراد کو ایک ہی وقت میں اور مناسب مقدار میں وہ چیز درکار ہونی چاہیے جو دوسرے کے پاس ہو۔
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: رہنما کتاب کی مثال لیجیے: آپ چاول اُگاتے ہیں اور آپ کو جوتوں کی ضرورت ہے، لیکن جوتے بنانے والے کو چاول نہیں بلکہ کھانا پکانے کا تیل چاہیے۔ ماہرینِ معاشیات اسے ضروریات کا دو طرفہ اتفاق کہتے ہیں۔ -->
 
@@ -96,13 +96,13 @@ theme: mfb
 
 کوئی بھی پیسے کو محض پیسے کی خاطر نہیں چاہتا۔ یہ اس لیے مفید ہے کہ دوسرے اسے اس توقع پر قبول کرتے ہیں کہ بعد میں دیگر لوگ بھی اسے قبول کریں گے۔
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: بینک نوٹ محض کاغذ کا ایک ٹکڑا ہے۔ پیسہ خرید و فروخت کو الگ کر کے اشیا کے براہِ راست تبادلے کا مسئلہ حل کرتا ہے: آپ اپنے چاول ایک شخص کو بیچتے ہیں اور جوتے کسی دوسرے سے خریدتے ہیں۔ یہی بات پیسے کو اشیا کے براہِ راست تبادلے سے ممتاز کرتی ہے۔ -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## پیسے کے تین کام
 
@@ -114,7 +114,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## سیپیوں سے کاغذ تک
 
@@ -161,13 +161,13 @@ theme: mfb
 
 ## افراطِ زر اور قوتِ خرید
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: قیمتوں میں افراطِ زر سے مراد قیمتوں کی عمومی سطح میں مسلسل اضافہ ہے۔ اس کا دوسرا پہلو قوتِ خرید ہے: یعنی پیسے کی ایک اکائی سے کتنی چیزیں خریدی جا سکتی ہیں۔ اگر بنیادی اشیا کی ایک ٹوکری کی قیمت کرنسی کی 100 اکائیوں سے بڑھ کر 110 ہو جائے، تو وہی 100 اکائیاں اب پوری ٹوکری خریدنے کے لیے کافی نہیں رہتیں۔ -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## کئی اسباب، ایک انتخاب
 
@@ -285,7 +285,7 @@ theme: mfb
 
 ## بٹ کوائن کو کون چلاتا ہے؟
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: صارفین بٹ کوائن بھیجتے، وصول کرتے اور اپنے پاس رکھتے ہیں؛ نوڈز ہر لین دین اور بلاک کو قواعد کے مطابق جانچتے ہیں؛ مائنرز تقریباً ہر دس منٹ میں ریکارڈ میں ایک نیا بلاک شامل کرنے کے لیے مقابلہ کرتے ہیں۔ یہ ریکارڈ، یعنی بلاک چین، سب کے لیے کھلا ہے اور اسے دوبارہ لکھنا بہت مہنگا پڑتا ہے۔ ہجوں کے بارے میں ایک وضاحت: انگریزی میں بڑے حرف B سے لکھا گیا بٹ کوائن عموماً نیٹ ورک یا نظام کو ظاہر کرتا ہے؛ چھوٹے حرف b سے لکھا گیا بٹ کوائن خود رقم کو ظاہر کرتا ہے۔ -->
 
@@ -330,7 +330,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## آپ کا سیڈ فریز مکمل رسائی کی کلید ہے
 
@@ -350,7 +350,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## کسی بھی والیٹ کو استعمال کرنے سے پہلے
 
@@ -391,7 +391,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## رکیں، کچھ بھی شیئر نہ کریں، کچھ بھی نہ بھیجیں
 
@@ -426,7 +426,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## بٹ کوائن ڈپلوما
 

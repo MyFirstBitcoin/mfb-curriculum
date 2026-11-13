@@ -8,7 +8,7 @@
 
 Was würde passieren, wenn Ihr Telefon nicht mehr funktioniert? Die Bitcoin-Aufzeichnung würde weiterhin existieren, aber der Zugang hinge von den Schlüsseln und der Wiederherstellungsmethode ab, die die Wallet verwendet. Eine Wallet hilft dabei, Empfangsinformationen zu erstellen, Guthaben und [Transaktions](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction)historie anzuzeigen und Ausgaben zu autorisieren. Sie entbindet Sie nicht davon, zu verstehen, wer den Zugang kontrolliert.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
 
 
 <!-- card: dark -->
@@ -33,4 +33,4 @@ Vergleichen Sie [Verwahrung](https://curriculum.myfirstbitcoin.org/lexicon/en/#c
 > Während des Diploms erstellen Sie möglicherweise im Rahmen von Übungen eine Wallet oder notieren [Wiederherstellungswörter](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase). Ein Klassenzimmer ist eine Lernumgebung: Informationen können versehentlich gesehen, kopiert, weitergegeben oder kompromittiert werden. Aus diesem Grund sollte eine Übungs-Wallet in der Regel leer oder simuliert sein und nicht zur Sicherung nennenswerter Guthaben verwendet werden. Wo es praktikabel ist, wird sie am Ende des Diploms geschlossen, zurückgesetzt oder zurückgegeben. Ihre Lehrkraft kann eine Live-Aktivität mit geringem Einsatz wählen, sollte jedoch deren Zweck sowie die zusätzlichen Risiken für Privatsphäre, Sicherheit und Verlust erklären, bevor jemand teilnimmt. Eine Wallet, die nennenswerte Guthaben sichern soll, benötigt eine neue, private Einrichtung und neue Wiederherstellungsinformationen. Ihre Lehrkraft kann Ihnen den Unterschied erklären, doch Sie sind niemals verpflichtet, eine persönliche Wallet einzurichten, um das Diplom abzuschließen.
 
 
-![Die Lehrkraft führt ein Übungstelefon vor, während die Anfängerin und ältere Lernende ihre eigenen Geräte untersuchen.](https://cdn.sanity.io/images/vje9ehw2/production/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)
+![Die Lehrkraft führt ein Übungstelefon vor, während die Anfängerin und ältere Lernende ihre eigenen Geräte untersuchen.](https://cdn.sanity.io/images/vje9ehw2/staging/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)

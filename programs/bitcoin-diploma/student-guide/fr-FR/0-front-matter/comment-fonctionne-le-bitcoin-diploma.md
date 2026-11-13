@@ -27,7 +27,7 @@ Chaque module suit le même rythme :
 
 Vous apprendrez davantage en participant qu’en lisant en silence. Certaines questions n’ont pas de réponse correcte unique. Ce qui compte, c’est votre capacité à expliquer votre raisonnement, à examiner les éléments de preuve et à revoir votre point de vue lorsque vous apprenez quelque chose de nouveau.
 
-![La cheffe d’entreprise montre un schéma simple dans un guide ouvert tandis que l’enseignant en discute avec elle à une table de la salle de classe.](https://cdn.sanity.io/images/vje9ehw2/production/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
+![La cheffe d’entreprise montre un schéma simple dans un guide ouvert tandis que l’enseignant en discute avec elle à une table de la salle de classe.](https://cdn.sanity.io/images/vje9ehw2/staging/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
 
 ### Attentes en matière de discussion et de respect de la vie privée
 
@@ -50,7 +50,7 @@ Votre formateur vous expliquera toutes les activités d’évaluation requises. 
 
 Votre formateur utilise une grille d’évaluation pour consigner un résultat pour chacune des sept compétences ci-dessus. `C1`–`C5` sont évaluées à partir de vos propres explications et décisions ; `C6`–`C7` nécessitent une observation directe. La tâche portant sur le portefeuille et la réception ainsi que celle portant sur la préparation à la restauration sont toutes deux des éléments obligatoires de `C6`.
 
-![Le formateur répond à l’apprenant débutant qui lève la main, tandis que l’apprenant plus âgé suit avec un guide de cours ouvert.](https://cdn.sanity.io/images/vje9ehw2/production/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
+![Le formateur répond à l’apprenant débutant qui lève la main, tandis que l’apprenant plus âgé suit avec un guide de cours ouvert.](https://cdn.sanity.io/images/vje9ehw2/staging/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
 
 ### Prérequis : aucun
 

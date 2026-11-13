@@ -11,4 +11,4 @@ Når en kursist er uenig:
 
 Ret faktuelle fejl tydeligt og respektfuldt. Undlad ikke at rette fejl i neutralitetens navn. Neutral facilitering betyder at anvende rimelige krav til dokumentation, ikke at behandle alle udsagn som lige korrekte.
 
-![Underviseren lytter til begynderkursistens spørgsmål, mens den ældre kursist følger samtalen med en opslået vejledning.](https://cdn.sanity.io/images/vje9ehw2/production/53db81849bfb9bca1dba5e2f8d5e8386c01ca3b3-1053x1494.png)
+![Underviseren lytter til begynderkursistens spørgsmål, mens den ældre kursist følger samtalen med en opslået vejledning.](https://cdn.sanity.io/images/vje9ehw2/staging/53db81849bfb9bca1dba5e2f8d5e8386c01ca3b3-1053x1494.png)

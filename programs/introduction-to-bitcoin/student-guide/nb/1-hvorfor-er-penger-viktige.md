@@ -22,4 +22,4 @@ Denne veiledningen er bygd opp rundt seks spørsmål: hvorfor penger er viktige,
 
 Den er kun ment for opplæring. Den gir ikke økonomiske råd, investeringsråd, juridiske råd eller skatteråd, og den oppfordrer Dem ikke til å kjøpe, selge eller beholde noe.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)

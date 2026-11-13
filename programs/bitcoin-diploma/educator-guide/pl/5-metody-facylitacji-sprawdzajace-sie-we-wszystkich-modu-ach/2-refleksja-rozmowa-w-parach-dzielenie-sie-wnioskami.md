@@ -7,4 +7,4 @@ Proszę stosować tę metodę, gdy kilkoro pewnych siebie uczestników mogłoby 
 1. Proszę zaprosić wybrane pary do przedstawienia toku rozumowania, a nie tylko wniosku.
 1. Proszę podsumować powtarzające się wątki i skorygować błędne przekonania.
 
-![Osoba prowadząca zachęca do dyskusji, podczas gdy początkujący uczestnik i starsi uczestnicy porównują przewodniki, a właściciel firmy zabiera głos.](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![Osoba prowadząca zachęca do dyskusji, podczas gdy początkujący uczestnik i starsi uczestnicy porównują przewodniki, a właściciel firmy zabiera głos.](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)

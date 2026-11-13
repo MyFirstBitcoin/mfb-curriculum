@@ -8,7 +8,7 @@ Het project begon in 2021 met kleine klassikale lessen in El Salvador, nadat het
 
 Ons werk is onafhankelijk, gedragen door de gemeenschap en gericht op Bitcoin. Wij richten ons op financiële geletterdheid, zorgvuldig denken en praktische veiligheid – niet op trading, speculatie of het promoten van andere tokens. Wij vragen u niet om een overtuiging aan te nemen. In plaats daarvan bieden wij concepten, vragen en praktische kennis, zodat u uw eigen conclusies kunt trekken.
 
-![De docent verwelkomt de beginner, de oudere lerende, de ondernemer, de technisch onderlegde lerende en de jonge lerende in een gezamenlijke leergroep.](https://cdn.sanity.io/images/vje9ehw2/production/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
+![De docent verwelkomt de beginner, de oudere lerende, de ondernemer, de technisch onderlegde lerende en de jonge lerende in een gezamenlijke leergroep.](https://cdn.sanity.io/images/vje9ehw2/staging/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
 
 ### Onze missie: onafhankelijk, open-source Bitcoin-onderwijs
 

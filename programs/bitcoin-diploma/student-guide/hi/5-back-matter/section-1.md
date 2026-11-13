@@ -26,11 +26,11 @@
 
 ### किसी शिक्षण समुदाय से जुड़ें
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
 
 यह [बिटकॉइन शिक्षा नेटवर्क](https://myfirstbitcoin.org/about/network) स्वतंत्र शिक्षकों और स्थानीय शिक्षण समुदायों को जोड़ता है। अपने आस-पास कोई समुदाय खोजें, या ऐसा समुदाय खोजें जिसके काम में आपकी रुचि हो, और उससे संपर्क करके पूछें कि आप कैसे सीख सकते हैं, स्वयंसेवा कर सकते हैं या योगदान दे सकते हैं। भागीदारी वैकल्पिक है और इससे डिप्लोमा पूरा करने, मूल्यांकन या प्रमाणन पर कोई प्रभाव नहीं पड़ता।
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
 
 ### सुरक्षा के बारे में एक याद दिलाने वाली बात
 
@@ -92,13 +92,13 @@
 
 आपकी सबसे महत्वपूर्ण उपलब्धि प्रमाणपत्र नहीं है। वह है पैसे और बिटकॉइन को स्पष्ट रूप से समझाने, जोखिम पहचानने, कोई कदम उठाने से पहले पुष्टि करने और स्वतंत्र रूप से सीखते रहने की क्षमता।
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
 
 ### निःशुल्क बिटकॉइन शिक्षा का समर्थन करें
 
 My First Bitcoin के शैक्षिक संसाधन निःशुल्क और ओपन-सोर्स हैं। स्वैच्छिक सहयोग पाठ्यक्रम को बनाए रखने, शिक्षकों को प्रशिक्षित करने और अधिक लोगों तक पहुँच बनाने में मदद करता है।
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
 
 
 https://donate.myfirstbitcoin.org
@@ -112,4 +112,4 @@ _My First Bitcoin का समर्थन करें_
 ---
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)

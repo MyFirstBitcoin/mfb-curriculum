@@ -19,7 +19,7 @@ Míezãa ga gbe sia gbe, gake zi ʋɛ aɖewo koe míebiaa ale si wòwɔa dɔe.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Ame akpa gãtɔwo metɔa be yewoabu ga ŋu gbeɖe o
 
@@ -29,7 +29,7 @@ Menye be miakpɔe abe fetu ene alo miazãe o, ke boŋ be miabu nu si wònye kple
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Biabia atɔ̃ siwo míatsɔ adze egɔme
 
@@ -49,7 +49,7 @@ Menye be miakpɔe abe fetu ene alo miazãe o, ke boŋ be miabu nu si wònye kple
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Nyateƒe alo nukpɔsusu?
 
@@ -74,7 +74,7 @@ Ga nye nu si wozãna hena nuwo tɔtrɔ.
 
 Ele be ame eveawo siaa nadi nu si le ame evelia si, le ɣeyiɣi ɖeka me eye le agbɔsɔsɔ siwo sɔ me.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Mizã kpɔɖeŋu si le mɔfiamegbalẽ la me: miedoa mɔli eye miehiã afɔkpa, gake afɔkpadzala la hiã nuɖaami, menye mɔli o. Ganyawo ŋuti nunyalawo yɔa esia be ame eve ƒe nuhiahiãwo ƒe ɖekpekpe. -->
 
@@ -96,13 +96,13 @@ Ele be ame eveawo siaa nadi nu si le ame bubu la si, le ɣeyiɣi ɖeka me eye le
 
 Ame aɖeke medi ga ɖe eya ŋutɔ ta o. Viɖe le eŋu elabena ame bubuwo xɔnɛ, eye wokpɔa mɔ be ame bubuwo hã axɔe emegbe.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Gaƒe lãdzẽ nye agbalẽ kakɛ aɖe ko. Ga kpɔa nuɖeɖe ɖe nu me ƒe kuxi gbɔ to nudzadzra kple nuƒeƒle mama me: miedzraa miaƒe mɔlu na ame aɖe eye mieƒlea afɔkpa le ame bubu gbɔ. Esiae wɔa vovototo le ga kple nuɖeɖe ɖe nu me dome. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Nu Etɔ̃ Siwo Ga Wɔna
 
@@ -114,7 +114,7 @@ Ga aɖeke mete ŋu dzraa asixɔxɔ ɖo bliboe o, gake ga ƒomevi aɖewo ƒe ŋus
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Tso Hotsuiwo gbɔ yi Agbalẽ gbɔ
 
@@ -161,13 +161,13 @@ Ne amewo se nya si nye ga ƒe asixɔxɔ ƒe ɖeɖi la, zi geɖe la wosusuna be n
 
 ## Asidzidede kple Nuƒleŋusẽ
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Asixɔxɔ ƒe dzidzeme nye nuwo ƒe asiwo katã ƒe dzidzeme si yi edzi ɖaa. Eƒe akpa bubu enye nuƒleŋusẽ: nu didi si ga ƒe dzidzenu ɖeka ate ŋu aƒle. Ne nu veviwo ƒe kusi ɖeka ƒe asi dzi tso ga ƒe dzidzenu 100 yi 110 la, ga ƒe dzidzenu 100 ma ke magate ŋu aƒle nu siwo katã le kusi la me o. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Susu Geɖewo, Tiatia Ɖeka
 
@@ -285,7 +285,7 @@ Woate ŋu ama bitcoin ɖeka ɖe akpa sue 100,000,000 siwo woyɔna be satoshis al
 
 ## Ame ka naa Bitcoin wɔa dɔ?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Ezãlawo ɖoa bitcoin ɖa, xɔnɛ, eye wokpɔnɛ ɖe asi; node-wo léa ŋku ɖe gaɖoɖo ɖe sia ɖe kple block ɖe sia ɖe ŋu be woawɔ ɖe seawo nu; bitcoin kulawo doa ɖe wo nɔewo ŋu be woatsɔ block yeye akpe ɖe nuŋlɔɖia ŋu le miniti ewo ɖe sia ɖe me kloe. Ame sia ame ate ŋu akpɔ nuŋlɔɖi ma, si nye blockchain, eye egahi geɖe ŋutɔ be woagbugbɔ ae aŋlɔ. Nuxlɔɖi ŋuti nya aɖe: Bitcoin si wotsɔ ŋɔŋlɔdzesi gã B ŋlɔna la fia kadodomɔa alo ɖoɖoa zi geɖe; bitcoin si wotsɔ ŋɔŋlɔdzesi sue b ŋlɔna la fia ga la ŋutɔ. -->
 
@@ -330,7 +330,7 @@ Dzikpɔkpɔ ƒomevi si miatia la menye miaƒe asixɔxɔ ƒe dodokpɔ o. Nu vevit
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Miaƒe Nuku Nyagbe Na Mɔɖeɖe Blibo
 
@@ -350,7 +350,7 @@ Nyawo ƒe ɖoɖo aɖe, si me nya 12 alo 24 le zi geɖe la, si ate ŋu awɔ miaƒ
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Hafi miazã akotoku aɖe sia aɖe
 
@@ -391,7 +391,7 @@ Nyawo ƒe ɖoɖo aɖe, si me nya 12 alo 24 le zi geɖe la, si ate ŋu awɔ miaƒ
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Midzudzɔ, migama naneke o, migadɔ naneke ɖa o
 
@@ -426,7 +426,7 @@ Esia nye gɔmedzedze koe.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Bitcoin ƒe Agbalẽdzesi
 

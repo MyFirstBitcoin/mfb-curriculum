@@ -8,7 +8,7 @@
 
 Que se passerait-il si votre téléphone cessait de fonctionner ? Les données enregistrées sur Bitcoin existeraient toujours, mais l’accès dépendrait des clés et de la méthode de récupération utilisées par le portefeuille. Un portefeuille permet de créer les informations nécessaires pour recevoir des paiements, d’afficher les soldes et l’historique des [transactions](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), et d’autoriser les dépenses. Il ne dispense pas de comprendre qui contrôle l’accès.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
 
 
 <!-- card: dark -->
@@ -33,4 +33,4 @@ Comparez [les modalités de garde](https://curriculum.myfirstbitcoin.org/lexicon
 > Pendant le Diplôme, vous pourrez créer un portefeuille ou noter des [mots de récupération](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) dans le cadre d’exercices pratiques. Une salle de classe est un environnement d’apprentissage : des informations peuvent être vues, copiées, partagées ou compromises par erreur. C’est pourquoi un portefeuille d’entraînement doit normalement être vide ou simulé et ne doit pas servir à sécuriser des fonds d’un montant important. Lorsque cela est possible, il est fermé, réinitialisé ou restitué à la fin du Diplôme. Votre enseignant peut choisir une activité en conditions réelles avec des montants limités, mais doit en expliquer l’objectif ainsi que les risques supplémentaires en matière de confidentialité, de sécurité et de perte avant toute participation. Un portefeuille destiné à sécuriser des fonds d’un montant important nécessite une nouvelle configuration effectuée en privé et de nouvelles informations de récupération. Votre enseignant peut vous expliquer la différence, mais vous n’êtes jamais tenu de configurer un portefeuille personnel pour terminer le Diplôme.
 
 
-![L’enseignant fait une démonstration sur un téléphone d’entraînement pendant que l’apprenant débutant et les apprenants plus âgés examinent leurs propres appareils.](https://cdn.sanity.io/images/vje9ehw2/production/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)
+![L’enseignant fait une démonstration sur un téléphone d’entraînement pendant que l’apprenant débutant et les apprenants plus âgés examinent leurs propres appareils.](https://cdn.sanity.io/images/vje9ehw2/staging/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)

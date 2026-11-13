@@ -28,4 +28,4 @@ Bitcoin [decentralizaciją](https://curriculum.myfirstbitcoin.org/lexicon/en/#de
 
 [Decentralizacija](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) taip pat turi savo kainą. Veiksmų derinimas gali užtrukti ilgiau. Naudotojai turi tikrinti informaciją ir prisiimti daugiau atsakomybės. Nėra centrinės pagalbos tarnybos, skirtos [Bitcoin tinklui](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). Šie [kompromisai](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) yra sistemos sandaros dalis, o ne atsitiktiniai trūkumai, kuriuos galima pašalinti nepakeitus pačios sistemos.
 
-![Mokytojas rodo į tinklą klasės ekrane, o pradedantysis ir techninių žinių turintys besimokantieji jį aptaria prie stalo.](https://cdn.sanity.io/images/vje9ehw2/production/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)
+![Mokytojas rodo į tinklą klasės ekrane, o pradedantysis ir techninių žinių turintys besimokantieji jį aptaria prie stalo.](https://cdn.sanity.io/images/vje9ehw2/staging/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)

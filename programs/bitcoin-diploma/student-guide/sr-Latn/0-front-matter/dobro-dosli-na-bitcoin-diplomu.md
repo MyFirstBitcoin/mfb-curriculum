@@ -8,7 +8,7 @@ Projekat je započeo malim grupama na časovima uživo u državi El Salvador 202
 
 Naš rad je nezavisan, vođen zajednicom i usmeren na Bitcoin. Usredsređeni smo na finansijsku pismenost, promišljeno razmišljanje i bezbednost u praksi - a ne na trgovanje, špekulacije ili promovisanje drugih tokena. Ne tražimo od vas da prihvatite neko uverenje. Umesto toga, pružamo vam pojmove, pitanja i praktična znanja kako biste mogli da donesete sopstvene zaključke.
 
-![Edukator dočekuje početnika, starijeg polaznika, vlasnika preduzeća, polaznika zainteresovanog za tehničke teme i mladog polaznika u zajedničkoj grupi za učenje.](https://cdn.sanity.io/images/vje9ehw2/production/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
+![Edukator dočekuje početnika, starijeg polaznika, vlasnika preduzeća, polaznika zainteresovanog za tehničke teme i mladog polaznika u zajedničkoj grupi za učenje.](https://cdn.sanity.io/images/vje9ehw2/staging/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
 
 ### Naša misija: nezavisno obrazovanje o Bitcoin-u otvorenog koda
 

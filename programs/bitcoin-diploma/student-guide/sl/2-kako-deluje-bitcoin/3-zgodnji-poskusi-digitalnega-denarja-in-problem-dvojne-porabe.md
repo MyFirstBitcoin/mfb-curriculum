@@ -34,4 +34,4 @@ Bela knjiga je združila značilnosti, potrebne za ta pristop:
 
 Ta modul podrobneje pojasnjuje te koncepte. Skupaj so ponudili praktično rešitev za [problem dvojne porabe](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): omrežje lahko zavrne drugi poskus porabe istega bitcoina, ne da bi se zanašalo na osrednjo avtoriteto. Bitcoin je ponudil manjkajočo kombinacijo, ki so jo desetletja iskali s poskusi ustvarjanja digitalnega denarja.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)

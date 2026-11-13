@@ -27,7 +27,7 @@ Vsak modul sledi istemu ritmu:
 
 S sodelovanjem se boste naučili več kot s tihim branjem. Nekatera vprašanja nimajo enega samega pravilnega odgovora. Pomembno je, ali znate pojasniti svoje razmišljanje, preučiti dokaze in spremeniti svoje stališče, ko izveste kaj novega.
 
-![Lastnica podjetja kaže na preprost diagram v odprtem priročniku, medtem ko se izobraževalec z njo o njem pogovarja za mizo v učilnici.](https://cdn.sanity.io/images/vje9ehw2/production/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
+![Lastnica podjetja kaže na preprost diagram v odprtem priročniku, medtem ko se izobraževalec z njo o njem pogovarja za mizo v učilnici.](https://cdn.sanity.io/images/vje9ehw2/staging/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
 
 ### Pričakovanja glede razprave in zasebnosti
 
@@ -50,7 +50,7 @@ Vaš izobraževalec bo pojasnil vse zahtevane dejavnosti ocenjevanja. Teoretičn
 
 Vaš izobraževalec z ocenjevalno preglednico zabeleži po en rezultat za vsako od zgornjih sedmih kompetenc. `C1`–`C5` se ocenjujejo na podlagi vaših lastnih razlag in odločitev; `C6`–`C7` zahtevata neposredno opazovanje. Tako naloga z denarnico in prejemom kot naloga pripravljenosti na obnovitev sta obvezna dela kompetence `C6`.
 
-![Izobraževalec se odzove na dvignjeno roko udeleženca začetnika, medtem ko starejši udeleženec sledi razlagi z odprtim priročnikom za tečaj.](https://cdn.sanity.io/images/vje9ehw2/production/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
+![Izobraževalec se odzove na dvignjeno roko udeleženca začetnika, medtem ko starejši udeleženec sledi razlagi z odprtim priročnikom za tečaj.](https://cdn.sanity.io/images/vje9ehw2/staging/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
 
 ### Potrebno predznanje: ni potrebno
 

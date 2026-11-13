@@ -28,4 +28,4 @@ Bitcoin se [desentralisasie](https://curriculum.myfirstbitcoin.org/lexicon/en/#d
 
 [Desentralisasie](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) bring ook koste mee. Koördinering kan stadiger wees. Gebruikers moet inligting verifieer en meer verantwoordelikheid aanvaar. Daar is geen sentrale hulptoonbank vir die [Bitcoin-netwerk](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). Hierdie [kompromieë](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) is deel van die ontwerp, nie toevallige gebreke wat reggestel kan word sonder om die stelsel te verander nie.
 
-![Die opvoeder wys na ’n netwerk op ’n skerm in die klaskamer terwyl die beginner en die tegniese leerders dit by ’n lessenaar bespreek.](https://cdn.sanity.io/images/vje9ehw2/production/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)
+![Die opvoeder wys na ’n netwerk op ’n skerm in die klaskamer terwyl die beginner en die tegniese leerders dit by ’n lessenaar bespreek.](https://cdn.sanity.io/images/vje9ehw2/staging/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)

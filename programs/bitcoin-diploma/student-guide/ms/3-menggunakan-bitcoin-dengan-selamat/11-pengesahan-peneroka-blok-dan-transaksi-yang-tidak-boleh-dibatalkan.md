@@ -22,4 +22,4 @@ Untuk memeriksa [transaksi yang telah disediakan](https://curriculum.myfirstbitc
 [Satu transaksi menunggu tanpa pengesahan dalam kumpulan transaksi tertunda, kemudian dimasukkan ke dalam Blok N sebagai pengesahan pertamanya, dan setiap blok seterusnya menambah satu lagi pengesahan.](/micrographics/confirmation-timeline-01/ms.md)
 
 
-![Pendidik dan pelajar yang lebih berusia membincangkan contoh yang telah disediakan pada monitor yang menghadap kumpulan, sementara pelajar yang berkemahiran teknikal mengendalikan tetikus; penonton melihat bahagian belakang monitor.](https://cdn.sanity.io/images/vje9ehw2/production/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)
+![Pendidik dan pelajar yang lebih berusia membincangkan contoh yang telah disediakan pada monitor yang menghadap kumpulan, sementara pelajar yang berkemahiran teknikal mengendalikan tetikus; penonton melihat bahagian belakang monitor.](https://cdn.sanity.io/images/vje9ehw2/staging/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)

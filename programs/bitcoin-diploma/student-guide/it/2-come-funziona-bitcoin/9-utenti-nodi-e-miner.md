@@ -23,4 +23,4 @@ Alcune persone svolgono più ruoli. Un [miner](https://curriculum.myfirstbitcoin
 
 **Domanda flash:** Perché un [nodo](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) verifica le [transazioni](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction)? Indichi almeno una regola che un [nodo](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) controlla.
 
-![L'educatore guida lo studente con competenze tecniche davanti a un computer che funge da nodo, con il monitor rivolto verso di loro e il retro dell'involucro visibile all'osservatore.](https://cdn.sanity.io/images/vje9ehw2/production/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)
+![L'educatore guida lo studente con competenze tecniche davanti a un computer che funge da nodo, con il monitor rivolto verso di loro e il retro dell'involucro visibile all'osservatore.](https://cdn.sanity.io/images/vje9ehw2/staging/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)

@@ -28,7 +28,7 @@ Daraus ergeben sich zwei wichtige Risiken:
 [Liquiditätsrisiko: Viele Einleger stehen Schlange, um heute Geld abzuheben, und der Bank fehlt jetzt genug Bargeld, obwohl ihre Kredite später womöglich zurückgezahlt werden. Solvenzrisiko: Kreditnehmer zahlen ihre Immobilienkredite nicht mehr zurück, und die Vermögenswerte der Bank sind weniger wert als ihre Verbindlichkeiten.](/micrographics/liquidity-vs-solvency-01/de.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
 
 
 

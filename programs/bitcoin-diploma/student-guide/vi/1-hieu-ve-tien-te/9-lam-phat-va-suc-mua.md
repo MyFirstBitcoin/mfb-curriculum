@@ -13,7 +13,7 @@
 > [Sức mua](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) là lượng hàng hóa và dịch vụ mà một đơn vị tiền có thể mua được. Nếu giá một giỏ hàng hóa cơ bản tăng từ 100 đơn vị [tiền tệ](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) lên 110, thì cùng 100 đơn vị đó không còn mua được toàn bộ giỏ hàng. [Sức mua](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) của số tiền đó đối với giỏ hàng này đã giảm.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->

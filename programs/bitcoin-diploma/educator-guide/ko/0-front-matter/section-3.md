@@ -38,7 +38,7 @@
 [코호트를 계획하려면 학습자 수에 예상되는 지원 및 관찰 시간을 곱한 다음, 준비, 피드백, 접근성 요구 사항, 재평가에 필요한 시간을 더해요. 교육자들에게 시간이 충분하지 않다면 학습자 수를 줄이거나, 교육자를 늘리거나, 시간을 더 확보하는 방식으로 계획을 바꿔요.](/micrographics/cohort-capacity-check-01/ko.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
 
 ### 역량-증거 대조표
 

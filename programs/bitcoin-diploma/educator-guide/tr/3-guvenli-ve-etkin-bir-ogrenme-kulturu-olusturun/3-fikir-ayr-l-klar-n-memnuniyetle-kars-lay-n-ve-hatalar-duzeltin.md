@@ -11,4 +11,4 @@ Bir öğrenci farklı düşündüğünde:
 
 Olgusal hataları açık ve saygılı bir şekilde düzeltin. Tarafsızlık adına düzeltme yapmaktan kaçınmayın. Tarafsız kolaylaştırıcılık, her ifadeyi eşit derecede doğru kabul etmek değil, adil kanıt standartları uygulamak demektir.
 
-![Eğitimci, yeni başlayan öğrencinin sorusunu dinlerken daha yaşlı öğrenci elinde açık bir rehberle konuşmayı takip ediyor.](https://cdn.sanity.io/images/vje9ehw2/production/53db81849bfb9bca1dba5e2f8d5e8386c01ca3b3-1053x1494.png)
+![Eğitimci, yeni başlayan öğrencinin sorusunu dinlerken daha yaşlı öğrenci elinde açık bir rehberle konuşmayı takip ediyor.](https://cdn.sanity.io/images/vje9ehw2/staging/53db81849bfb9bca1dba5e2f8d5e8386c01ca3b3-1053x1494.png)

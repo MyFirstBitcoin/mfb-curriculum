@@ -21,7 +21,7 @@ Tracci la mappa di un semplice ciclo locale:
 1. Cosa succede quando l'accesso a internet viene a mancare?
 1. Quali rischi di [custodia](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) e di [prezzo](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) sostiene ciascun partecipante?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
 
 Un'economia circolare sana si basa sulla partecipazione volontaria. Commercianti e lavoratori dovrebbero essere in grado di individuare i rischi legati a pagamenti, prezzi, [custodia](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), contabilità e [volatilità](https://curriculum.myfirstbitcoin.org/lexicon/en/#volatility). I soli numeri sull'adozione non dimostrano se la rete sia utile.
 

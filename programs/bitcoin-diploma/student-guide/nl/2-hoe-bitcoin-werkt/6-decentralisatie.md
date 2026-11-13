@@ -28,4 +28,4 @@ De [decentralisatie](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentral
 
 [Decentralisatie](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) brengt ook kosten met zich mee. Coördinatie kan trager verlopen. Gebruikers moeten informatie verifiëren en meer verantwoordelijkheid nemen. Er is geen centrale helpdesk voor het [Bitcoin-netwerk](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). Deze [afwegingen](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) maken deel uit van het ontwerp; het zijn geen toevallige gebreken die kunnen worden verwijderd zonder het systeem te veranderen.
 
-![De docent wijst naar een netwerk op een scherm in het klaslokaal, terwijl de beginnende en de technische leerlingen het aan een tafel bespreken.](https://cdn.sanity.io/images/vje9ehw2/production/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)
+![De docent wijst naar een netwerk op een scherm in het klaslokaal, terwijl de beginnende en de technische leerlingen het aan een tafel bespreken.](https://cdn.sanity.io/images/vje9ehw2/staging/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)

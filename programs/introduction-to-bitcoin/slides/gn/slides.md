@@ -19,7 +19,7 @@ Jaiporu pirapire ára ha ára, hákatu saʼi ñañeporandu mbaʼéichapa ombaʼa
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Tapichakuéra hetavéva arakaʼeve ndopytái ojepyʼamongeta hag̃ua virúre
 
@@ -29,7 +29,7 @@ Ndahaʼéi rehupyty térã reiporu hag̃ua, ha katu reñepyʼamongeta hag̃ua mb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Po porandu ñepyrũrã
 
@@ -49,7 +49,7 @@ Ndahaʼéi rehupyty térã reiporu hag̃ua, ha katu reñepyʼamongeta hag̃ua mb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Añetegua térã temimoʼã?
 
@@ -74,7 +74,7 @@ Pirapire haʼe peteĩ tembiporu ñemurã.
 
 Mokõive tapicha oipota vaʼerã pe ambue oguerekóva, upe javetépe ha hetakue hekopetépe.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Peiporu techapyrã oĩva ñemboʼerãme: peẽ peñotỹ arro ha peikotevẽ sapatu, ha katu sapatu apoha oipota ñandyry oñembojy hag̃ua, ndahaʼéi arro. Mbaʼerepyrekokuaahára ombohéra kóva tembipota joaju kõi. -->
 
@@ -96,13 +96,13 @@ Mokõive tapicha oipota vaʼerã ambue oguerekóva, upe javete ha hetakue oĩpor
 
 Avave ndoipotái viru viru haguérente. Oporopytyvõ ambue tapichakuéra omoneĩgui, ohaʼarõvo ambuekuéra omoneĩtaha avei upe rire.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Viru kuatia haʼe kuatia pehẽnguénte. Viru ombohovái mbaʼerepy ñembohekovia apañuãi ombojaʼóvo ñemu jejoguágui: pemeʼẽ pende arro peteĩ tapichápe virúre ha pejogua pyao ambue tapichágui. Kóva hína ombojoavýva viru mbaʼerepy ñembohekoviágui. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Mbohapy mbaʼe viru ojapóva
 
@@ -114,7 +114,7 @@ Ndaipóri viru oñongatúva hepykue hekopete, ha katu oĩ viru imbaʼejogua puʼ
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Itãgui kuatiápe
 
@@ -161,13 +161,13 @@ Tapichakuéra ohendúvo ñeʼẽ «viru repy guejy», jepive oimoʼã mbaʼerepy
 
 ## Tepykuéra jejupi ha mbaʼejogua puʼaka
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Tepykuéra ñembohetave niko mbaʼerepy repykuéra jeupi opaveʼỹva. Upéva ambue hova haʼe mbaʼejogua puʼaka: mboy mbaʼépa ikatu ojejogua peteĩ viru vorépe. Peteĩ ajaka mbaʼerepy tekotevẽvéva repykue ojupíramo 100 viru vorégui 110 peve, umi 100 viru vore ndohupytyvéima ojejogua hag̃ua opa mbaʼe oĩva pe ajakápe. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Heta mbaʼére, peteĩ jeporavo
 
@@ -285,7 +285,7 @@ Peteĩ bitcoin oñembojaʼo 100.000.000 vore michĩvévape, hérava satoshi tér
 
 ## Máva omombaʼapo meme Bitcoin?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Puruhára omondo, ohupyty ha oñongatu bitcoin; ñanduti joajuhakuéra ohechajey peteĩteĩ ñembohasa ha aty oñemoĩpa tekorãme; itajoʼoharakuéra oñombohovái omoĩ hag̃ua peteĩ aty pyahu jehaipýpe, amo pa aravoʼi ohasávo. Upe jehaipy, atyjoaju, opavave ohechakuaa ha hepyeterei ojehai jey hag̃ua. Peteĩ marandu jehai rehegua: Bitcoin, B tuichávandi, heʼise jepi ñanduti térã ñemohenda; bitcoin, b michĩvandi, heʼise viru voi. -->
 
@@ -330,7 +330,7 @@ Reiporavóvo mbaʼéichapa oñeñangarekóta ne viru rehe, ndahaʼéi rehechauk�
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Ne ñeʼẽjoaju raʼỹi omeʼẽ jeike opa mbaʼépe
 
@@ -350,7 +350,7 @@ Peteĩ ñeʼẽ rysýi oñemohendáva peteĩteĩ hendápe, jepive 12 térã 24 �
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Oimeraẽ viru ryru reiporu mboyve
 
@@ -391,7 +391,7 @@ Peteĩ ñeʼẽ rysýi oñemohendáva peteĩteĩ hendápe, jepive 12 térã 24 �
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Epyta, ani emombeʼu mbaʼeve, ani emondo mbaʼeve
 
@@ -426,7 +426,7 @@ Kóva niko ñepyrũnte.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Bitcoin rehegua kuatiaʼatã
 

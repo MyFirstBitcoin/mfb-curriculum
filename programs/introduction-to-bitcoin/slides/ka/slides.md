@@ -19,7 +19,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## ადამიანების უმეტესობა არასდროს უთმობს დროს ფულზე დაფიქრებას
 
@@ -29,7 +29,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## ხუთი კითხვა დასაწყისისთვის
 
@@ -49,7 +49,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## ფაქტი თუ მოსაზრება?
 
@@ -74,7 +74,7 @@ theme: mfb
 
 ორივე ადამიანს ერთსა და იმავე დროს და სათანადო რაოდენობით უნდა სურდეს ის, რაც მეორეს აქვს.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: გამოიყენეთ სახელმძღვანელოში მოყვანილი მაგალითი: თქვენ ბრინჯი მოგყავთ და ფეხსაცმელი გჭირდებათ, მაგრამ მეწაღეს ბრინჯი კი არა, საკვები ზეთი სურს. ეკონომისტები ამას სურვილების ორმაგ თანხვედრას უწოდებენ. -->
 
@@ -96,13 +96,13 @@ theme: mfb
 
 ფული არავის სურს მხოლოდ ფულის ქონისთვის. ის სასარგებლოა, რადგან სხვები მას იღებენ იმ მოლოდინით, რომ მოგვიანებით მას სხვებიც მიიღებენ.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: ბანკნოტი მხოლოდ ქაღალდის ნაჭერია. ფული ბარტერის პრობლემას გაყიდვისა და ყიდვის ერთმანეთისგან გამიჯვნით წყვეტს: თქვენ ბრინჯს ერთ ადამიანს მიჰყიდით, ფეხსაცმელს კი მეორისგან იყიდით. სწორედ ეს განასხვავებს ფულს ბარტერისგან. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## ფულის სამი ფუნქცია
 
@@ -114,7 +114,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## ნიჟარებიდან ქაღალდამდე
 
@@ -161,13 +161,13 @@ theme: mfb
 
 ## ინფლაცია და მსყიდველუნარიანობა
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: ფასების ინფლაცია ფასების საერთო დონის მდგრადი ზრდაა. მისი მეორე მხარე მსყიდველობითი უნარია: რამდენი რამის შეძენა შეიძლება ფულის ერთი ერთეულით. თუ ძირითადი საქონლის კალათის ფასი 100 ფულადი ერთეულიდან 110-მდე იზრდება, იმავე 100 ერთეულით სრული კალათის შეძენა აღარ არის შესაძლებელი. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## მრავალი მიზეზი, ერთი არჩევანი
 
@@ -285,7 +285,7 @@ theme: mfb
 
 ## ვინ უზრუნველყოფს ბიტკოინის მუშაობას?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: მომხმარებლები აგზავნიან, იღებენ და ინახავენ ბიტკოინს; კვანძები ამოწმებენ თითოეული ტრანზაქციისა და ბლოკის შესაბამისობას წესებთან; მაინერები ერთმანეთს ეჯიბრებიან, რათა დაახლოებით ყოველ ათ წუთში ჩანაწერს ახალი ბლოკი დაამატონ. ეს ჩანაწერი — ბლოკჩეინი — საჯაროა და მისი გადაწერა ძალიან ძვირი ჯდება. შენიშვნა მართლწერის შესახებ: ინგლისურად დიდი B-თი დაწერილი Bitcoin ჩვეულებრივ ქსელს ან სისტემას ნიშნავს, ხოლო პატარა b-თი დაწერილი bitcoin — თავად ფულს. -->
 
@@ -330,7 +330,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## თქვენი აღდგენის ფრაზა სრულ წვდომას ნიშნავს
 
@@ -350,7 +350,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## სანამ რომელიმე საფულეს გამოიყენებთ
 
@@ -391,7 +391,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## შეჩერდით, არაფერი გააზიაროთ, არაფერი გააგზავნოთ
 
@@ -426,7 +426,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## ბიტკოინის დიპლომი
 

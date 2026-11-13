@@ -21,7 +21,7 @@ Skizzieren Sie einen einfachen lokalen Kreislauf:
 1. Was passiert, wenn der Internetzugang ausfällt?
 1. Welche [Verwahrungs-](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) und [Preis](https://curriculum.myfirstbitcoin.org/lexicon/en/#price)risiken trägt jeder Beteiligte?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
 
 Eine gesunde Kreislaufwirtschaft beruht auf freiwilliger Teilnahme. Händler und Arbeitskräfte sollten die Zahlungs-, Preisgestaltungs-, [Verwahrungs-](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), Buchhaltungs- und [Volatilitäts](https://curriculum.myfirstbitcoin.org/lexicon/en/#volatility)risiken erkennen können. Nutzerzahlen allein zeigen nicht, ob das Netzwerk nützlich ist.
 

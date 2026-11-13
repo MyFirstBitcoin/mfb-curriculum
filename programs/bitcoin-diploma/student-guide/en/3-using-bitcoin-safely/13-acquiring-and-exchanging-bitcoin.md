@@ -15,7 +15,7 @@ People may receive bitcoin through work, a community payment, a peer exchange, a
 * **Peer-to-peer exchange:** Two people may exchange [fiat money](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) or goods for bitcoin directly or through a matching service. This can introduce counterparty, physical-safety, payment-reversal, and fraud risks.
 * **Exchange, broker, ATM, or kiosk:** A service or machine may provide a familiar route, but may involve fees, identity checks, [custody](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), withdrawal limits, or a poor [exchange rate](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
 
 Before comparing a path, ask:
 

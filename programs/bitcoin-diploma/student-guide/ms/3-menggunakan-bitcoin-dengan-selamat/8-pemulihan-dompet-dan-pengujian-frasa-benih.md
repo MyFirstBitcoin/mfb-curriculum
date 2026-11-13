@@ -15,4 +15,4 @@ Jangan gunakan dompet latihan atau maklumat pemulihannya untuk menyimpan dana ya
 
 Tujuannya bukan untuk membuatkan pemulihan terasa mudah, tetapi untuk memahami prosesnya sebelum kerosakan peranti menimbulkan tekanan.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/424d932ace1728a75636a76182ae9a42621ed91c-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/424d932ace1728a75636a76182ae9a42621ed91c-1536x1024.svg)

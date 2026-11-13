@@ -27,7 +27,7 @@ Setiap modul mengikuti pola yang sama:
 
 Anda akan belajar lebih banyak dengan mengambil bahagian berbanding membaca secara senyap. Sesetengah soalan tidak mempunyai hanya satu jawapan yang betul. Yang penting ialah sama ada anda dapat menerangkan alasan anda, meneliti bukti, dan menyemak semula pandangan anda apabila mempelajari sesuatu yang baharu.
 
-![Pemilik perniagaan itu menunjuk ke arah gambar rajah ringkas dalam buku panduan yang terbuka sementara pendidik membincangkannya dengannya di sebuah meja dalam bilik darjah.](https://cdn.sanity.io/images/vje9ehw2/production/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
+![Pemilik perniagaan itu menunjuk ke arah gambar rajah ringkas dalam buku panduan yang terbuka sementara pendidik membincangkannya dengannya di sebuah meja dalam bilik darjah.](https://cdn.sanity.io/images/vje9ehw2/staging/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
 
 ### Jangkaan berkaitan perbincangan dan privasi
 
@@ -50,7 +50,7 @@ Pendidik anda akan menerangkan sebarang aktiviti penilaian yang diperlukan. Peng
 
 Pendidik anda menggunakan grid penilaian untuk merekodkan satu keputusan bagi setiap satu daripada tujuh kompetensi di atas. `C1`–`C5` dinilai melalui penjelasan dan keputusan anda sendiri; `C6`–`C7` memerlukan pemerhatian secara langsung. Kedua-dua tugasan dompet/resit dan tugasan kesiapsiagaan pemulihan merupakan komponen wajib bagi `C6`.
 
-![Pendidik memberikan respons kepada pelajar baharu yang mengangkat tangan, sementara pelajar yang lebih berusia mengikuti pembelajaran dengan panduan kursus yang terbuka.](https://cdn.sanity.io/images/vje9ehw2/production/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
+![Pendidik memberikan respons kepada pelajar baharu yang mengangkat tangan, sementara pelajar yang lebih berusia mengikuti pembelajaran dengan panduan kursus yang terbuka.](https://cdn.sanity.io/images/vje9ehw2/staging/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
 
 ### Pengetahuan sedia ada yang diperlukan: tiada
 

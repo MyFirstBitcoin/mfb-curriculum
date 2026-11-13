@@ -32,4 +32,4 @@
 
 **Probeer dit:** Verduidelik vir 'n klein, denkbeeldige betaling en 'n minder gereelde denkbeeldige betaling watter [afweging](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) belangriker is. Moenie 'n hulpmiddel of bedrag vir u eie fondse kies nie.
 
-![Die opvoeder help die ouer en tegnies georiënteerde leerders om 'n foon, 'n Hardeware beursie en 'n skootrekenaar te vergelyk.](https://cdn.sanity.io/images/vje9ehw2/production/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)
+![Die opvoeder help die ouer en tegnies georiënteerde leerders om 'n foon, 'n Hardeware beursie en 'n skootrekenaar te vergelyk.](https://cdn.sanity.io/images/vje9ehw2/staging/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)

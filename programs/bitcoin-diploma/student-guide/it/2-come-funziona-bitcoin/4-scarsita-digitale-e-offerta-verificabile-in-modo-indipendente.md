@@ -18,4 +18,4 @@ Bitcoin crea, in forma digitale, la [scarsità](https://curriculum.myfirstbitcoi
 [Un limite all'offerta scritto su un sito web o nel database di un emittente può essere modificato di nascosto da quell'emittente. La regola sull'offerta di Bitcoin è pubblica, e firme, uno storico pubblico, la proof of work e la verifica dei nodi impediscono insieme che vengano create nuove monete dal nulla o che lo stesso bitcoin venga speso due volte.](/micrographics/claimed-or-verified-supply-01/it.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)

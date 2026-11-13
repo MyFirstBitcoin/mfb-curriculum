@@ -11,7 +11,7 @@ Resurserna är begränsade, medan människors önskemål inte är det.
 
 Det [värde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) som en vara har finns inte inuti själva föremålet. Människor [värderar](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) varor utifrån sina behov, preferenser, sin information och sina omständigheter. Detta kallas ibland [**subjektivt värde**](https://curriculum.myfirstbitcoin.org/lexicon/en/#subjective-value). Rent vatten kan vara billigt nära en säker allmän vattenkälla och oerhört värdefullt vid vattenbrist.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
 
 
 <!-- micrographic: same-water-different-value-01 -->

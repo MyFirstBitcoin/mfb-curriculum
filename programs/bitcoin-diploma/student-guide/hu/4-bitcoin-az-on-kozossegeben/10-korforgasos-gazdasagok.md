@@ -21,7 +21,7 @@ Térképezzen fel egy egyszerű helyi körforgást:
 1. Mi történik, ha megszűnik az internet-hozzáférés?
 1. Milyen [letétkezeléshez](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) és [árfolyamhoz](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) kapcsolódó kockázatokat viselnek az egyes résztvevők?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
 
 Az egészséges körforgásos gazdaság az önkéntes részvételen alapul. A kereskedőknek és a munkavállalóknak képesnek kell lenniük felismerni a fizetéssel, árazással, [letétkezeléssel](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), könyveléssel és [árfolyam-ingadozással](https://curriculum.myfirstbitcoin.org/lexicon/en/#volatility) járó kockázatokat. Az elterjedtségi adatok önmagukban nem mutatják meg, hogy a hálózat hasznos-e.
 

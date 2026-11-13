@@ -22,4 +22,4 @@ Domin bincika shiryayyiyar [mu'amala](https://curriculum.myfirstbitcoin.org/lexi
 [Mu'amala tana jira ba tare da tabbatarwa ba a rumbun mu'amalolin da ke jira, sannan a haɗa ta cikin Tubali N a matsayin tabbatarwarta ta farko, kuma kowane tubali na gaba yana ƙara tabbatarwa ɗaya.](/micrographics/confirmation-timeline-01/ha.md)
 
 
-![Malami da ɗalibi mai yawan shekaru suna tattauna wani misali da aka shirya a kan allon kwamfuta da ke fuskantar rukunin, yayin da ɗalibi mai ƙwarewar fasaha yake amfani da linzamin kwamfuta; mai kallo yana ganin bayan allon.](https://cdn.sanity.io/images/vje9ehw2/production/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)
+![Malami da ɗalibi mai yawan shekaru suna tattauna wani misali da aka shirya a kan allon kwamfuta da ke fuskantar rukunin, yayin da ɗalibi mai ƙwarewar fasaha yake amfani da linzamin kwamfuta; mai kallo yana ganin bayan allon.](https://cdn.sanity.io/images/vje9ehw2/staging/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)

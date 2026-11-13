@@ -10,7 +10,7 @@
 
 ત્યારબાદ પૂછો કે તેની રચના શું કરવાની છૂટ આપે છે. નિયમોના આધારે, એક [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) વધુ ઝડપી પતાવટ, વધુ વ્યાપક સુલભતા અથવા ચુકવણીની નવી સુવિધાઓ આપી શકે છે. તે સંસ્થાઓને વધુ ક્ષમતા પણ આપી શકે છે દેખરેખ રાખવાની [વ્યવહારો](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) પર, નિયમો લાગુ કરવાની, ઉપયોગ મર્યાદિત કરવાની અથવા ઓળખને સીધી ચુકવણીઓ સાથે જોડવાની. આ કેન્દ્રીકૃત નિયંત્રણ છે: સામાન્ય વપરાશકર્તાઓ સ્વતંત્ર રીતે સંબંધિત નિયમો નક્કી કરે કે બદલે તેને બદલે એક સંસ્થા તેમ કરે છે.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->

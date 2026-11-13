@@ -44,4 +44,4 @@ Omejitev na 21 milijonov uveljavljajo [vozlišča](https://curriculum.myfirstbit
 > Omejena ponudba tudi ne pomeni, da je vsak bitcoin na voljo za prodajo; nekateri se lahko hranijo dolgoročno ali postanejo nedostopni zaradi izgubljenih ključev.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

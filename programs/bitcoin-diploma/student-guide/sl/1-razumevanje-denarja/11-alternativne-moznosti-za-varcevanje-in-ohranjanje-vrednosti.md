@@ -9,7 +9,7 @@ Ljudje pogosto iščejo alternative hranjenju gotovine, kadar menijo, da bo izgu
 
 Premoženjsko [sredstvo](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) je nekaj, kar ima oseba lahko v lasti ali do česar ima pravico in kar ima lahko [vrednost](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); samo po sebi ne opravlja vseh funkcij denarja. Dom lahko ohranja [vrednost](https://curriculum.myfirstbitcoin.org/lexicon/en/#value), vendar ni praktičen za nakupovanje hrane. Delnico je v eni državi morda preprosto prodati, vendar je lahko nedostopna nekomu brez trgovalnega računa. [Zlato](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) je skozi dolga zgodovinska obdobja služilo kot denar, vendar je pri manjši menjavi lahko težko preveriti njegovo pristnost ali ga razdeliti.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 Ljudje lahko izberejo tudi tujo [valuto](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency), državne [obveznice](https://curriculum.myfirstbitcoin.org/lexicon/en/#bond), zasebna podjetja, zemljišča, orodja, izobraževanje ali druga [sredstva](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset). Vsaka izbira vključuje [oportunitetne stroške](https://curriculum.myfirstbitcoin.org/lexicon/en/#opportunity-cost) in tveganje. Ni [sredstva](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset), ki bi zagotavljalo [kupno moč](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) v vsakem obdobju in vseh okoliščinah.
 

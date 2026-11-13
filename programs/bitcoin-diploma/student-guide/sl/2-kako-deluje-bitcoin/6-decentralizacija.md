@@ -28,4 +28,4 @@ Bitcoinova [decentralizacija](https://curriculum.myfirstbitcoin.org/lexicon/en/#
 
 [Decentralizacija](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) prinaša tudi stroške. Usklajevanje je lahko počasnejše. Uporabniki morajo preverjati informacije in prevzeti več odgovornosti. Osrednja služba za podporo ne obstaja za [omrežje Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). Ti [kompromisi](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) so del zasnove, ne pa naključne pomanjkljivosti, ki bi jih bilo mogoče odpraviti brez spreminjanja sistema.
 
-![Izobraževalec kaže na omrežje na zaslonu v učilnici, medtem ko začetniki in tehnično podkovani udeleženci o njem razpravljajo za mizo.](https://cdn.sanity.io/images/vje9ehw2/production/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)
+![Izobraževalec kaže na omrežje na zaslonu v učilnici, medtem ko začetniki in tehnično podkovani udeleženci o njem razpravljajo za mizo.](https://cdn.sanity.io/images/vje9ehw2/staging/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)

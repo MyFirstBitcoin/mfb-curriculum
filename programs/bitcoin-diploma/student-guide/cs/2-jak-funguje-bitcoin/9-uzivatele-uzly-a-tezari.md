@@ -23,4 +23,4 @@ Někteří lidé zastávají několik rolí. [Těžař](https://curriculum.myfir
 
 **Kontrolní otázka:** Proč [uzel](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) ověřuje [transakce](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction)? Uveďte alespoň jedno pravidlo, které [uzel](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) kontroluje.
 
-![Vyučující vede technicky zaměřeného studenta u počítače, na kterém běží uzel. Monitor je otočený k nim a divák vidí jeho zadní kryt.](https://cdn.sanity.io/images/vje9ehw2/production/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)
+![Vyučující vede technicky zaměřeného studenta u počítače, na kterém běží uzel. Monitor je otočený k nim a divák vidí jeho zadní kryt.](https://cdn.sanity.io/images/vje9ehw2/staging/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)

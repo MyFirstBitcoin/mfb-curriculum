@@ -6,7 +6,7 @@ Nǔ ɖe ɖǒ nyí **Bitcoin akwɛ́zín** nyí azɔ̌wànú, é nɔ́ nyí aplik
 
 ###### Mɛ̌ wɛ̀ kpé mì sín bitcoin ɖó nugbó?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 Dó **akwɛ́zín ɖě mì ɖésú nɔ́ kpé ɖó** jí, mì wɛ̀ ɖò sáfí lɛ́ sín acɛ̌ mɛ̀.
 

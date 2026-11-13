@@ -18,7 +18,7 @@ Afsendelse kræver større omhu, fordi en gyldig [Bitcoin-transaktion](https://c
 1. Foretag en lille testbetaling, når fremgangsmåden er ukendt.
 1. Godkend kun, når alle punkter stemmer overens; kontrollér derefter betalingsresultatet.
 
-![Den ældre kursist viser en øvelsestelefon frem, mens begynderen kontrollerer en anden telefon, og underviseren vejleder i sammenligningen.](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![Den ældre kursist viser en øvelsestelefon frem, mens begynderen kontrollerer en anden telefon, og underviseren vejleder i sammenligningen.](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 
 <!-- micrographic: pre-send-checklist-01 -->
@@ -29,4 +29,4 @@ Ved en [on-chain-betaling](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-
 
 Hvis destinationen ændres uventet, anmodningen pludselig haster, eller nogen beder om gendannelsesoplysninger, hvad skal De så gøre? Stop op. Verificér anmodningen ad uafhængig vej, eller bed om hjælp uden at dele hemmelige oplysninger.
 
-![Underviseren vejleder begynderen, mens de sammenligner en telefon med virksomhedsejerens modtagerenhed, før en betaling godkendes.](https://cdn.sanity.io/images/vje9ehw2/production/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)
+![Underviseren vejleder begynderen, mens de sammenligner en telefon med virksomhedsejerens modtagerenhed, før en betaling godkendes.](https://cdn.sanity.io/images/vje9ehw2/staging/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)

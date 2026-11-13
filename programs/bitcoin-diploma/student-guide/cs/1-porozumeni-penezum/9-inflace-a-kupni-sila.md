@@ -13,7 +13,7 @@
 > [Kupní síla](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) je množství zboží a služeb, které lze koupit za jednotku peněz. Pokud cena koše základního zboží vzroste ze 100 jednotek [měny](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) na 110, za stejných 100 jednotek již nelze koupit celý koš. Jejich [kupní síla](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) ve vztahu k tomuto koši klesla.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->

@@ -34,4 +34,4 @@ Kertas putih itu menghimpunkan ciri-ciri yang diperlukan untuk pendekatan terseb
 
 Modul ini menerangkan konsep-konsep ini dengan lebih terperinci. Secara bersama, konsep-konsep ini memberikan penyelesaian praktikal kepada [masalah perbelanjaan berganda](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): rangkaian boleh menolak percubaan kedua untuk membelanjakan bitcoin yang sama tanpa bergantung pada pihak berkuasa pusat. Bitcoin menawarkan gabungan yang selama ini belum ditemui dan telah dicari melalui eksperimen wang digital selama beberapa dekad.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)

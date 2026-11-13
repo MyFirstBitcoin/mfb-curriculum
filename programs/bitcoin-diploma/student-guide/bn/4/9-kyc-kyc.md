@@ -9,7 +9,7 @@
 > না [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) না [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc)—কোনোটিই আপনা-আপনি সেরা নয়। বাস্তব পথটি তুলনা করুন, নিয়ম অস্পষ্ট হলে হালনাগাদ স্থানীয় নির্দেশনা অনুসরণ করুন, এবং স্থানীয় আইন ভেঙে বা নিজেকে শারীরিক বিপদের মুখে ফেলে অর্জন করতে যাবেন না [গোপনীয়তা](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy)।
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
 একটি [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) পরিষেবা আইনগত নাম, পরিচয়পত্র, ঠিকানা, ছবি, অর্থের উৎসের তথ্য বা অন্যান্য নথি চাইতে পারে। এর ফলে পরিষেবাটি স্থানীয় নিয়ম মেনে চলতে, ব্যাংকের সঙ্গে সংযুক্ত হতে, উচ্চতর সীমা নির্ধারণ করতে বা অ্যাকাউন্ট পুনরুদ্ধারে সহায়তা করতে পারে।
 

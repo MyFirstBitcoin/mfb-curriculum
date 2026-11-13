@@ -18,4 +18,4 @@ Bitcoin luo digitaalista [niukkuutta](https://curriculum.myfirstbitcoin.org/lexi
 [Liikkeeseenlaskija voi muuttaa verkkosivustolle tai omaan tietokantaansa kirjattua tarjonnan enimmäismäärää huomaamatta. Bitcoinin tarjontasääntö on julkinen, ja allekirjoitukset, julkinen historia, työntodiste ja solmujen tekemä tarkistus estävät yhdessä uusien kolikoiden luomisen tyhjästä tai saman bitcoinin käyttämisen kahdesti.](/micrographics/claimed-or-verified-supply-01/fi.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)

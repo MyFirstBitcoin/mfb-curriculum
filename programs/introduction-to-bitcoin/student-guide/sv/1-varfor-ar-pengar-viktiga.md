@@ -22,4 +22,4 @@ Den här guiden är uppbyggd kring sex frågor: varför pengar är viktiga, vad 
 
 Den är enbart avsedd för utbildning. Den ger inte finansiell rådgivning, investeringsrådgivning, juridisk rådgivning eller skatterådgivning, och den uppmanar er inte att köpa, sälja eller behålla något.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)

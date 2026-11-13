@@ -22,4 +22,4 @@ E guia aki ta construi rond di seis pregunta: pakico placa ta importante, kico e
 
 E ta solamente pa educacion. E no ta duna conseho financiero, di inversion, legal ni di impuesto, y e no ta bisa Usted pa cumpra, bende of tene nada.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)

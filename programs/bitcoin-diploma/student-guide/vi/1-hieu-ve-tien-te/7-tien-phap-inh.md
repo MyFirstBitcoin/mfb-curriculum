@@ -15,7 +15,7 @@ Hệ thống tiền pháp định có một số thành phần tham gia chính:
 [Các chủ thể trong hệ thống tiền pháp định và những gì được chuyển giao giữa họ: ngân hàng trung ương hoạch định chính sách và thực hiện quyết toán giữa các ngân hàng, ngân hàng thương mại giữ tiền gửi là khoản nợ phải trả cho khách hàng, dịch vụ thanh toán truyền các lệnh thanh toán, chính phủ thu thuế và chi tiêu, còn người dân và doanh nghiệp thanh toán và nhận thanh toán.](/micrographics/fiat-system-flows-01/vi.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
 <!-- card: light -->

@@ -51,7 +51,7 @@ Maaaring magbago nang malaki ang presyo ng Bitcoin. Ang mga pagkakamali, panlolo
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Mga Pambungad na Tanong Tungkol sa Pera
 
@@ -82,7 +82,7 @@ Ang pera ay isang ari-ariang tinatanggap ng mga tao dahil inaasahan nilang tatan
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Mga Gampanin ng Pera
 
@@ -128,15 +128,15 @@ Walang anyong nakakakuha ng perpektong marka. Ang “**Matatag na salapi**” ay
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
 
 ## Kakapusan, Halaga, at Palitan
 
@@ -160,7 +160,7 @@ Hindi sapat ang kakapusan lamang upang matiyak ang halaga; mahalaga rin ang dema
 
 ## Gastos sa Oportunidad
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b79c74dedefcf834762da5d2301e0e6dc68ba9ad-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b79c74dedefcf834762da5d2301e0e6dc68ba9ad-1536x1024.svg)
 
 ---
 
@@ -203,7 +203,7 @@ Ang maginhawang pagbabayad at naiaangkop na pagpapautang ay nagdudulot ng pagdep
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Suriin ang Isang Lokal na Pagbabayad
 
@@ -244,11 +244,11 @@ Ang sabayang pag-withdraw ng maraming depositor ay maaaring magpahirap sa pagkuh
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 ## Implasyon at Kakayahang Bumili
 
@@ -351,7 +351,7 @@ Ano ang dahilan kung bakit kapaki-pakinabang ang inyong pera, at aling mga tuntu
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)
 
 ## Bakit Nilikha ang Bitcoin
 
@@ -387,7 +387,7 @@ Binabawasan ng Bitcoin ang pag-asa sa isang sentral na awtoridad sa pag-isyu at 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
 
 ## Mga Unang Digital na Pera at Dobleng Paggastos
 
@@ -408,7 +408,7 @@ Ang dobleng paggastos ay pagtatangkang ipadala ang iisang digital na yunit sa da
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)
 
 ## Digital na Kakapusan at Suplay na Maaaring Beripikahin
 
@@ -438,7 +438,7 @@ Ang muling pagsulat ng kasaysayan ay nangangailangan ng pag-uulit ng trabaho at 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)
 
 ## Desentralisasyon
 
@@ -469,7 +469,7 @@ Opsyonal pa rin ang mga serbisyo ng tagapamagitan; ang pagpili ng isa ay nagdara
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
 [Apat na papel sa Bitcoin: ang mga gumagamit ay tumatanggap, nag-iingat at nagpapadala ng bitcoin, ang mga node ay nagsasariling nagbeberipika ng pagsunod sa mga tuntunin, ang mga minero ay bumubuo ng mga kandidatong bloke gamit ang patunay ng trabaho, at ang mga developer ay nagmumungkahi ng software. Walang iisang papel ang kumokontrol sa network.](/micrographics/bitcoin-participant-roles-01/tl.md)
@@ -488,7 +488,7 @@ Hindi kayang gawing katanggap-tanggap ng mga minero ang mga di-wastong bloke sa 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/fb441d7e082e658fa8496bbeb4a1e764faad208b-1054x1493.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/fb441d7e082e658fa8496bbeb4a1e764faad208b-1054x1493.svg)
 
 ## Patunay ng Trabaho
 
@@ -502,14 +502,14 @@ Pinoprotektahan ng pagmimina ang pagkakasunod-sunod ng mga transaksiyon; hindi i
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 <!-- micrographic: proof-of-work-process-01 -->
 [Paulit-ulit na gumagawa ng hash ang isang minero para sa isang iminungkahing bloke hanggang sa ang isang resulta ay mas mababa sa target ng network, saka ipinapadala ang bloke sa buong network. Mabilis na sinusuri ng mga node ang patunay at bawat tuntunin bago mapabilang ang bloke sa blockchain: magastos gawin ang trabaho ngunit madaling beripikahin.](/micrographics/proof-of-work-process-01/tl.md)
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
 
 ## Limitadong Suplay
 
@@ -535,7 +535,7 @@ Tinatanggihan ng mga node ang paglikha ng bitcoin na lampas sa itinakdang dami; 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/98c8cef9bc6e6d0955458f6fb4a71f1de5ed5225-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/98c8cef9bc6e6d0955458f6fb4a71f1de5ed5225-1536x1024.svg)
 
 ## Mga Satoshi at Pagkiling sa Yunit
 
@@ -735,7 +735,7 @@ Huwag ninyong ibahagi kailanman ang mga pribadong susi, seed phrase, password, o
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Mga Pariralang Binhi
 
@@ -771,7 +771,7 @@ Hindi mapatutunayan ng isang pampublikong blockchain kung magkano ang utang ng i
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 ---
 
@@ -780,7 +780,7 @@ Hindi mapatutunayan ng isang pampublikong blockchain kung magkano ang utang ng i
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/57f786b5525418d2bddc36af8cced7b1f0533e70-1054x1492.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/57f786b5525418d2bddc36af8cced7b1f0533e70-1054x1492.svg)
 
 ## Mga Hot at Cold Wallet
 
@@ -822,7 +822,7 @@ Hindi patunay ang mensahe o screenshot ng nagpadala. Ang nakabinbin ay iba sa na
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/3eaf85ebf51d0327a1221d33b4745a62a44347b2-1055x1491.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/3eaf85ebf51d0327a1221d33b4745a62a44347b2-1055x1491.svg)
 
 ## Pagpapadala ng Bitcoin
 
@@ -857,7 +857,7 @@ Gumamit po ng mga inihandang halimbawa; huwag pong hanapin ang personal na addre
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Listahan ng mga Dapat Suriin para sa Kaligtasan
 
@@ -880,7 +880,7 @@ Gumamit po ng mga inihandang halimbawa; huwag pong hanapin ang personal na addre
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
 
 ## Pagkuha at Pagpapalitan ng Bitcoin
 
@@ -1051,7 +1051,7 @@ Anong problema ang tinutugunan? Mas mahusay ba ang Bitcoin kaysa sa magagamit na
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/4b62c836617bfcd268b6e464842a61a1f8b4614a-1055x1491.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/4b62c836617bfcd268b6e464842a61a1f8b4614a-1055x1491.svg)
 
 ## Lokal na Paggastos at Pagtanggap
 
@@ -1129,7 +1129,7 @@ Ang bilang lamang ng mga gumagamit ay hindi patunay ng pakinabang. Maaaring mapu
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
 
 ---
 

@@ -30,4 +30,4 @@ Nė viena pinigų forma nėra tobula pagal visus kriterijus.
 
 **Mąstykite kritiškai:** Prisiminkite atvejį, kai pasirinkote vienos rūšies pinigus ar [turtą](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) vietoj kitos rūšies. Koks buvo tikslas? Palyginkite galimų pasirinkimų savybes. Kurios savybės Jums buvo svarbiausios ir kodėl?
 
-![Visi šeši veikėjai kartu atlieka užduotį su mokomosiomis kortelėmis be interneto ryšio, o pedagogas veda diskusiją.](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![Visi šeši veikėjai kartu atlieka užduotį su mokomosiomis kortelėmis be interneto ryšio, o pedagogas veda diskusiją.](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)

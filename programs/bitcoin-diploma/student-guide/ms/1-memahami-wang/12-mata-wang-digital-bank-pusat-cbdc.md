@@ -10,7 +10,7 @@
 
 Seterusnya, tanyakan apa yang dibenarkan oleh reka bentuk tersebut. Bergantung pada peraturannya, suatu [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) mungkin membolehkan penyelesaian yang lebih pantas, akses yang lebih luas, atau ciri pembayaran baharu. Ia juga mungkin memberikan institusi keupayaan yang lebih besar untuk memantau [transaksi](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), melaksanakan peraturan, mengehadkan penggunaan, atau menghubungkan identiti secara langsung dengan pembayaran. Inilah kawalan berpusat: sebuah institusi, bukannya pengguna biasa secara bebas, menetapkan atau mengubah peraturan yang berkaitan.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->

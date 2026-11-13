@@ -19,7 +19,7 @@ Peníze používáme každý den, přesto se málokdy ptáme, jak fungují.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Většina lidí se nikdy nezastaví, aby se zamyslela nad penězi
 
@@ -29,7 +29,7 @@ Ne ho vydělávat, ne ho utrácet, ale přemýšlet o tom, co to je a jak to fun
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Pět otázek na úvod
 
@@ -49,7 +49,7 @@ Ne ho vydělávat, ne ho utrácet, ale přemýšlet o tom, co to je a jak to fun
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Fakt, nebo názor?
 
@@ -74,7 +74,7 @@ Peníze jsou nástrojem směny.
 
 Oba lidé musí chtít to, co má ten druhý, a to ve stejnou dobu a ve vhodném množství.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Použijte příklad z příručky: pěstujete rýži a potřebujete boty, ale švec chce olej na vaření, nikoli rýži. Ekonomové tomu říkají dvojí shoda potřeb. -->
 
@@ -96,13 +96,13 @@ Oba lidé musí chtít to, co má ten druhý, a to ve stejnou dobu a ve vhodném
 
 Nikdo nechce peníze jen pro ně samotné. Jsou užitečné, protože je ostatní přijímají s očekáváním, že je později přijmou i další.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Bankovka je jen kus papíru. Peníze řeší problém směnného obchodu tím, že oddělují prodej od nákupu: prodáte svou rýži jednomu člověku a koupíte si boty od jiného. Právě to odlišuje peníze od směnného obchodu. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Tři funkce peněz
 
@@ -114,7 +114,7 @@ Nikdo nechce peníze jen pro ně samotné. Jsou užitečné, protože je ostatn�
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Od mušlí k papíru
 
@@ -161,13 +161,13 @@ Když lidé slyší slovo inflace, obvykle si představí růst cen.
 
 ## Inflace a kupní síla
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Cenová inflace je trvalý růst celkové cenové hladiny. Její druhou stranou je kupní síla: kolik si lze za jednotku peněz koupit. Pokud cena koše základního zboží vzroste ze 100 měnových jednotek na 110, za stejných 100 jednotek si již celý koš nekoupíte. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Mnoho příčin, jedna volba
 
@@ -285,7 +285,7 @@ Jeden bitcoin se dělí na 100 000 000 menších jednotek zvaných satoshi, zkr�
 
 ## Kdo udržuje Bitcoin v chodu?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Uživatelé posílají, přijímají a uchovávají bitcoin; uzly kontrolují, zda každá transakce a každý blok splňují pravidla; těžaři soutěží o přidání nového bloku do záznamu přibližně každých deset minut. Tento záznam, blockchain, je veřejný a jeho přepsání je velmi nákladné. Poznámka k pravopisu: Bitcoin s velkým B obvykle označuje síť nebo systém; bitcoin s malým b označuje samotné peníze. -->
 
@@ -330,7 +330,7 @@ Volba způsobu úschovy není měřítkem vaší hodnoty. Důležité je vědět
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Vaše obnovovací fráze poskytuje plný přístup
 
@@ -350,7 +350,7 @@ Uspořádaný seznam slov, často 12 nebo 24, pomocí kterého lze obnovit vaše
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Než začnete používat jakoukoli peněženku
 
@@ -391,7 +391,7 @@ Uspořádaný seznam slov, často 12 nebo 24, pomocí kterého lze obnovit vaše
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Zastavte se, nic nesdílejte, nic neposílejte
 
@@ -426,7 +426,7 @@ To je teprve začátek.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Diplom Bitcoin
 

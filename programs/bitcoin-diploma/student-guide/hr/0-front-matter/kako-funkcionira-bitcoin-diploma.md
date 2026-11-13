@@ -27,7 +27,7 @@ Svaki modul slijedi isti ritam:
 
 Više ćete naučiti sudjelovanjem nego čitanjem u tišini. Na neka pitanja ne postoji samo jedan točan odgovor. Važno je možete li objasniti svoje razmišljanje, razmotriti dokaze i preispitati svoje stajalište kada naučite nešto novo.
 
-![Vlasnica poduzeća pokazuje jednostavan dijagram u otvorenom priručniku dok nastavnik s njom o njemu razgovara za stolom u učionici.](https://cdn.sanity.io/images/vje9ehw2/production/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
+![Vlasnica poduzeća pokazuje jednostavan dijagram u otvorenom priručniku dok nastavnik s njom o njemu razgovara za stolom u učionici.](https://cdn.sanity.io/images/vje9ehw2/staging/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
 
 ### Očekivanja u vezi s raspravom i privatnošću
 
@@ -50,7 +50,7 @@ Vaš će vam edukator objasniti sve obvezne aktivnosti vrednovanja. Teorijsko zn
 
 Vaš edukator koristi tablicu za vrednovanje kako bi zabilježio po jedan rezultat za svaku od sedam prethodno navedenih kompetencija. `C1`–`C5` vrednuju se na temelju vaših vlastitih objašnjenja i odluka; `C6`–`C7` zahtijevaju izravno promatranje. I zadatak s novčanikom i potvrdom o primitku i zadatak provjere spremnosti za oporavak obvezni su dijelovi kompetencije `C6`.
 
-![Edukator odgovara polazniku početniku koji je podigao ruku, dok stariji polaznik prati uz otvoreni priručnik za tečaj.](https://cdn.sanity.io/images/vje9ehw2/production/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
+![Edukator odgovara polazniku početniku koji je podigao ruku, dok stariji polaznik prati uz otvoreni priručnik za tečaj.](https://cdn.sanity.io/images/vje9ehw2/staging/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
 
 ### Potrebno predznanje: nije potrebno
 

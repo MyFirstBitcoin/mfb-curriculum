@@ -34,4 +34,4 @@ Tekninen kuvaus kokosi yhteen tämän lähestymistavan edellyttämät ominaisuud
 
 Tässä moduulissa näitä käsitteitä selitetään tarkemmin. Yhdessä ne tarjosivat käytännön ratkaisun [kaksoiskulutusongelmaan](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): verkko voi hylätä toisen yrityksen käyttää sama bitcoin turvautumatta keskitettyyn tahoon. Bitcoin tarjosi puuttuvan yhdistelmän, jota vuosikymmenten digitaalisen rahan kokeiluissa oli etsitty.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)

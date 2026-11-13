@@ -8,7 +8,7 @@
 
 Föreställ er att **Amina** har ris och vill ha skor. **Luis** har skor men vill ha matolja, inte ris. **Mei** har matolja och vill få reparationsarbete utfört. Amina kan behöva göra flera byten innan hon kan få skorna. Varje byte tar tid och kräver att man kommer överens om [värdet](https://curriculum.myfirstbitcoin.org/lexicon/en/#value).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
 
 
 <!-- micrographic: barter-mismatch-01 -->
@@ -29,7 +29,7 @@ Ett allmänt accepterat betalningsmedel skiljer försäljning från köp. Amina 
 
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
 
 <!-- micrographic: sell-then-buy-01 -->

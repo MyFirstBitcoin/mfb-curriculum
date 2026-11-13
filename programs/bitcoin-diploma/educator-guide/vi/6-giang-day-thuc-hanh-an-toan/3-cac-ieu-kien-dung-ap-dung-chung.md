@@ -24,4 +24,4 @@ Dừng hoạt động ngay lập tức nếu:
 [Một tình huống không an toàn hoặc không thể giải thích được khiến hoạt động phải dừng lại. Người dạy bảo vệ mọi người, giữ kín thông tin bí mật và xác minh vấn đề; lỗi trong phần đánh giá có ảnh hưởng nghiêm trọng đến an toàn được ghi nhận là Chưa đạt, và người học thiết lập lại môi trường, thực hành và được đánh giá lại sau.](/micrographics/stop-when-check-fails-01/vi.md)
 
 
-![Nhà giáo giơ bàn tay mở để tạm dừng hoạt động, trong khi người mới bắt đầu hạ điện thoại xuống và người học am hiểu kỹ thuật khép bớt màn hình máy tính xách tay.](https://cdn.sanity.io/images/vje9ehw2/production/adb5c936fe5622b3c0b62f060349af1097eee5b0-1055x1491.png)
+![Nhà giáo giơ bàn tay mở để tạm dừng hoạt động, trong khi người mới bắt đầu hạ điện thoại xuống và người học am hiểu kỹ thuật khép bớt màn hình máy tính xách tay.](https://cdn.sanity.io/images/vje9ehw2/staging/adb5c936fe5622b3c0b62f060349af1097eee5b0-1055x1491.png)

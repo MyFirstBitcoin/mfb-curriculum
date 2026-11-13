@@ -6,7 +6,7 @@ Publiczne zasady Bitcoina, [sieć peer-to-peer](https://curriculum.myfirstbitcoi
 
 Te właściwości mogą zwiększać sprawczość uczestników, ale nakładają też na nich większą odpowiedzialność. Bez centralnego organu, który zatwierdzałby [transakcje](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), przywracał dostęp lub cofał skutki wielu błędów, każda osoba musi umieć rozpoznać rolę, którą przyjmuje, i ryzyko, które akceptuje.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
 
 Dla osoby, która wybiera [samodzielne przechowywanie środków](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody), kontrola nad kluczami oznacza bezpośrednią kontrolę nad bitcoinami. Żadna firma nie może zamrozić salda zapisanego w łańcuchu bloków, jeśli jest ono pod prawidłową kontrolą właściciela. Żadna firma nie może odtworzyć utraconej [frazy odzyskiwania](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) — to również niemożliwe.
 

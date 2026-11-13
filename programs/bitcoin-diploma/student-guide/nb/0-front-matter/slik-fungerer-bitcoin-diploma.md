@@ -27,7 +27,7 @@ Hver modul følger samme rytme:
 
 De vil lære mer ved å delta enn ved å lese stille. Noen spørsmål har ikke ett riktig svar. Det som betyr noe, er om De kan forklare resonnementet Deres, undersøke belegg og revurdere synet Deres når De lærer noe nytt.
 
-![Bedriftseieren peker på et enkelt diagram i en åpen veiledning mens underviseren diskuterer det med henne ved et bord i klasserommet.](https://cdn.sanity.io/images/vje9ehw2/production/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
+![Bedriftseieren peker på et enkelt diagram i en åpen veiledning mens underviseren diskuterer det med henne ved et bord i klasserommet.](https://cdn.sanity.io/images/vje9ehw2/staging/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
 
 ### Forventninger til diskusjon og personvern
 
@@ -50,7 +50,7 @@ Underviseren Deres vil forklare eventuelle obligatoriske vurderingsaktiviteter. 
 
 Underviseren Deres bruker et vurderingsskjema for å registrere ett resultat for hver av de sju kompetansene ovenfor. `C1`–`C5` vurderes gjennom Deres egne forklaringer og beslutninger; `C6`–`C7` krever direkte observasjon. Både lommebok-/kvitteringsoppgaven og oppgaven om beredskap for gjenoppretting er obligatoriske deler av `C6`.
 
-![Underviseren henvender seg til nybegynneren som har hånden i været, mens den eldre deltakeren følger med i en åpen kursbok.](https://cdn.sanity.io/images/vje9ehw2/production/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
+![Underviseren henvender seg til nybegynneren som har hånden i været, mens den eldre deltakeren følger med i en åpen kursbok.](https://cdn.sanity.io/images/vje9ehw2/staging/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
 
 ### Nødvendige forkunnskaper: ingen
 

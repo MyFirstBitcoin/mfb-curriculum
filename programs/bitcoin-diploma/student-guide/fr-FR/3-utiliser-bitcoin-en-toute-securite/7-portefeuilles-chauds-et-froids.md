@@ -32,4 +32,4 @@
 
 **À vous de jouer :** Pour un petit paiement fictif et un paiement fictif moins fréquent, expliquez quel [compromis](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) compte le plus. Ne choisissez ni outil ni montant pour vos propres fonds.
 
-![L’enseignant aide les apprenants plus âgés et ceux ayant des compétences techniques à comparer un téléphone, un portefeuille matériel et un ordinateur portable.](https://cdn.sanity.io/images/vje9ehw2/production/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)
+![L’enseignant aide les apprenants plus âgés et ceux ayant des compétences techniques à comparer un téléphone, un portefeuille matériel et un ordinateur portable.](https://cdn.sanity.io/images/vje9ehw2/staging/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)

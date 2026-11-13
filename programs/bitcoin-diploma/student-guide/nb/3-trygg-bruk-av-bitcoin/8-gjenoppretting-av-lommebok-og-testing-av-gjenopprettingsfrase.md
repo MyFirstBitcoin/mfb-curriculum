@@ -15,4 +15,4 @@ Ikke bruk en øvingslommebok eller den tilhørende gjenopprettingsinformasjonen 
 
 Poenget er ikke å få gjenoppretting til å virke enkelt. Det er å forstå prosessen før en enhetssvikt skaper press.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/424d932ace1728a75636a76182ae9a42621ed91c-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/424d932ace1728a75636a76182ae9a42621ed91c-1536x1024.svg)

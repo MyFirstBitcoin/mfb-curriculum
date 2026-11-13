@@ -19,7 +19,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## คนส่วนใหญ่ไม่เคยหยุดคิดเรื่องเงิน
 
@@ -29,7 +29,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## ห้าคำถามเพื่อเริ่มต้น
 
@@ -49,7 +49,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## ข้อเท็จจริงหรือความคิดเห็น?
 
@@ -74,7 +74,7 @@ theme: mfb
 
 ทั้งสองฝ่ายต้องต้องการสิ่งที่อีกฝ่ายมีในเวลาเดียวกันและในปริมาณที่เหมาะสม
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: ลองใช้ตัวอย่างในคู่มือ: คุณปลูกข้าวและต้องการรองเท้า แต่ช่างทำรองเท้าต้องการน้ำมันปรุงอาหาร ไม่ใช่ข้าว นักเศรษฐศาสตร์เรียกสิ่งนี้ว่า ความต้องการที่ตรงกันของทั้งสองฝ่าย -->
 
@@ -96,13 +96,13 @@ theme: mfb
 
 ไม่มีใครต้องการเงินเพียงเพื่อมีเงิน เงินมีประโยชน์เพราะผู้อื่นยอมรับมัน โดยคาดหวังว่าคนอื่น ๆ จะยอมรับมันต่อไปในภายหลัง
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: ธนบัตรเป็นเพียงกระดาษแผ่นหนึ่ง เงินแก้ปัญหาของการแลกเปลี่ยนสิ่งของโดยแยกการขายออกจากการซื้อ กล่าวคือ ท่านขายข้าวให้คนหนึ่ง แล้วซื้อรองเท้าจากอีกคนหนึ่ง นี่คือสิ่งที่ทำให้เงินแตกต่างจากการแลกเปลี่ยนสิ่งของ -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## หน้าที่สามประการของเงิน
 
@@ -114,7 +114,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## จากเปลือกหอยสู่ธนบัตร
 
@@ -161,13 +161,13 @@ theme: mfb
 
 ## เงินเฟ้อและอำนาจซื้อ
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: เงินเฟ้อด้านราคาคือการเพิ่มขึ้นอย่างต่อเนื่องของระดับราคาสินค้าและบริการโดยทั่วไป อีกด้านหนึ่งของเงินเฟ้อคืออำนาจซื้อ ซึ่งหมายถึงเงินหนึ่งหน่วยสามารถซื้อสิ่งของได้มากเพียงใด หากราคาสินค้าจำเป็นหนึ่งตะกร้าเพิ่มขึ้นจาก 100 หน่วยเงินเป็น 110 หน่วยเงิน เงินจำนวนเดิม 100 หน่วยจะไม่สามารถซื้อสินค้าทั้งตะกร้านั้นได้อีกต่อไป -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## หลากหลายเหตุผล หนึ่งทางเลือก
 
@@ -285,7 +285,7 @@ theme: mfb
 
 ## ใครทำให้บิตคอยน์ทำงานต่อไปได้?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: ผู้ใช้ส่ง รับ และถือครองบิตคอยน์ โหนดตรวจสอบทุกธุรกรรมและทุกบล็อกว่าตรงตามกฎหรือไม่ ส่วนนักขุดแข่งขันกันเพื่อเพิ่มบล็อกใหม่ลงในบันทึกประมาณทุกสิบนาที บันทึกดังกล่าวเรียกว่าบล็อกเชน ซึ่งเปิดเผยต่อสาธารณะและมีต้นทุนสูงมากในการเขียนแก้ไขย้อนหลัง ข้อสังเกตเรื่องการสะกด: Bitcoin ที่ขึ้นต้นด้วย B ตัวใหญ่มักหมายถึงเครือข่ายหรือระบบ ส่วน bitcoin ที่ขึ้นต้นด้วย b ตัวเล็กหมายถึงตัวเงินเอง -->
 
@@ -330,7 +330,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## วลีช่วยจำของคุณให้สิทธิ์เข้าถึงอย่างเต็มรูปแบบ
 
@@ -350,7 +350,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## ก่อนที่คุณจะใช้กระเป๋าเงินใด ๆ
 
@@ -391,7 +391,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## หยุด อย่าแชร์สิ่งใด อย่าส่งสิ่งใด
 
@@ -426,7 +426,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## หลักสูตรประกาศนียบัตรบิตคอยน์
 

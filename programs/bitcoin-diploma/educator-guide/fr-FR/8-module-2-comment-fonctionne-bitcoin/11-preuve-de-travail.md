@@ -25,4 +25,4 @@ Structurez la discussion autour des affirmations, des preuves et des compromis 
 
 Les statistiques détaillées sur l’énergie et les aspects économiques du [minage](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) ne font pas partie du contenu obligatoire du Bitcoin Diploma. Utilisez-les uniquement lorsque l’enseignant a vérifié des sources à jour et que la discussion contribue au développement d’une compétence.
 
-![L’enseignant et l’apprenant au profil technique désignent des appareils distincts dédiés au minage et au fonctionnement d’un nœud, tandis que l’apprenant plus âgé participe avec l’aide d’un guide.](https://cdn.sanity.io/images/vje9ehw2/production/c42a629a0dff84d04b37397d56a45bf146f7110b-1054x1492.png)
+![L’enseignant et l’apprenant au profil technique désignent des appareils distincts dédiés au minage et au fonctionnement d’un nœud, tandis que l’apprenant plus âgé participe avec l’aide d’un guide.](https://cdn.sanity.io/images/vje9ehw2/staging/c42a629a0dff84d04b37397d56a45bf146f7110b-1054x1492.png)

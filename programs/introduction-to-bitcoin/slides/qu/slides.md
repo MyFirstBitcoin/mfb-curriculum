@@ -19,7 +19,7 @@ Sapa p'unchaw qullqita llamk'achinchik, ichaqa imayna llamk'asqantaqa ancha pisi
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Aswan achka runakuna qullqimanta yuyaymananankupaq mana hayk'aqpas sayarinkuchu
 
@@ -29,7 +29,7 @@ Mana chayta ganaspachu, mana gastaspachu, aswanpas ima kasqanmanta, imayna llamk
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Qallarinapaq pichqa tapukuy
 
@@ -49,7 +49,7 @@ Mana chayta ganaspachu, mana gastaspachu, aswanpas ima kasqanmanta, imayna llamk
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Chiqaqchu icha yuyayllachu?
 
@@ -74,7 +74,7 @@ Qullqiqa chhalanakunapaq huk llamk'anam.
 
 Iskaynin runakunaqa hukninpa kaqninta munananku tiyan, kikin pachallapi hinaspa tupaq achkaykunapi.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Pusaq qillqap qhawarichisqanta llamk'achiychik: arrusta tarpuychik, sapatukunatañataq munankichik, ichaqa sapatu ruwaqqa yanukunapaq wirata munan, manam arrustachu. Qullqi yachaymanta yachaqkunaqa kayta «munasqakunap iskay kuti tinkuynin» nispa sutichanku. -->
 
@@ -96,13 +96,13 @@ Iskaynin runakunaqa hukninpa kaqninta munananku tiyan, kikin pachallapi hinallat
 
 Mana pipas qullqita qullqi kasqanraykullachu munan. Qullqiqa yanapakunmi, huk runakuna chaskikusqankurayku, paykunapas qhipaman huk runakuna chaskikunankuta suyaspa.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Huk qullqi raphiqa huk raphillam. Qullqiqa chhalanakuy sasachakuyta allichan, rantikuyta rantiymanta t'aqaspa: arusniykita huk runaman rantikunki, huk runamantataq sapatukunata rantinki. Chaymi qullqita chhalanakuymanta t'aqan. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Qullqipa kimsa rurasqan
 
@@ -114,7 +114,7 @@ Mana ima qullqipas chanita hunt'asqata waqaychanchu, ichaqa wakin rikch'aykunaqa
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Ch'urukunamanta raphikama
 
@@ -161,13 +161,13 @@ Runakuna «qullqip chanin pisiyaynin» nisqa simita uyarispa, aswanqa chaninkuna
 
 ## Chaninkunap wichariynin hinaspa rantiy atiy
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Chaninkunap mirayninqa llapan rantinakunap chanin mana sayaspa wicharisqanmi. Chaypa huk uyantaqmi qullqip rantiy atiynin: huk tupu qullqiwan hayk'a rantiy atikun. Sichus huk isanka aswan muchusqa rantinakunap chanin 100 qullqi tupumanta 110 qullqi tupukama wicharin, chay kikin 100 qullqi tupuwanqa manañam hunt'a isankata rantiy atikunchu. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Achka raykukuna, huk akllay
 
@@ -285,7 +285,7 @@ Huk bitcoin nisqaqa satoshis utaq sats sutiyuq 100 000 000 aswan huch'uy tupukun
 
 ## Pikunataq Bitcoin llamk'achinku?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Llamk'achiqkunaqa bitcointa apachinku, chaskinku, waqaychankutaq; t'inkikunaqa sapa qullqi apachiytawan sapa bluqitawan kamachiykunaman hina chiqaqchanku; minaqkunañataq sapa chunka minutupi yaqa huk musuq bluquita qillqasqaman yapaypaq atipanakunku. Chay qillqasqa, bluqikunap waskhanqa, llapa runap qhawanapaqmi, musuqmanta qillqanapaqtaq ancha chaninniyuqmi. Qillqaymanta huk yuyachiy: hatun B-wan qillqasqa Bitcoin nisqaqa llikata utaq llank'ay llikata sapa kuti niyta munan; huch'uy b-wan qillqasqa bitcoin nisqaqa qullqi kikintam niyta munan. -->
 
@@ -330,7 +330,7 @@ Pim waqaychanqa chayta akllayqa manam chaninniykita tupunchu. Aswan chaninniyuqq
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Muyu rimayniykiqa hunt'a yaykuymi
 
@@ -350,7 +350,7 @@ Pim waqaychanqa chayta akllayqa manam chaninniykita tupunchu. Aswan chaninniyuqq
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Ima qullqi waqaychanatapas manaraq llamk'achkaspa
 
@@ -391,7 +391,7 @@ Pim waqaychanqa chayta akllayqa manam chaninniykita tupunchu. Aswan chaninniyuqq
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Sayay, Ama Imatapas Rakiychu, Ama Imatapas Apachiychu
 
@@ -426,7 +426,7 @@ Kayqa qallariyllam.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Bitcoin Dipluma
 

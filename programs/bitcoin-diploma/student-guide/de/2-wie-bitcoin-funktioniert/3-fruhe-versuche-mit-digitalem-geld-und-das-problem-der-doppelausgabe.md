@@ -34,4 +34,4 @@ Das Whitepaper vereinte die für diesen Ansatz erforderlichen Merkmale:
 
 Dieses Modul erklärt diese Konzepte ausführlicher. Gemeinsam lieferten sie eine praktische Antwort auf das [Double-Spend-Problem](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): Das Netzwerk kann einen zweiten Versuch, denselben bitcoin auszugeben, ablehnen, ohne auf eine zentrale Instanz angewiesen zu sein. Bitcoin bot die fehlende Kombination, nach der jahrzehntelange Experimente mit digitalem Geld gesucht hatten.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)

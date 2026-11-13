@@ -6,7 +6,7 @@ První otázka u každé peněženky tedy zní: **kdo má klíče pod kontrolou?
 
 ###### Kdo skutečně drží vaše bitcoiny?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 V případě **peněženky s vlastní správou** máte klíče pod kontrolou vy.
 

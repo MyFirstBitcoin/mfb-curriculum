@@ -30,4 +30,4 @@ Lidé peníze porovnávají také podle jejich [**zdravosti**](https://curriculu
 
 **Přemýšlejte kriticky:** Uveďte situaci, kdy jste dali přednost jednomu druhu peněz nebo [aktiva](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) před jiným. Jaký byl váš účel? Porovnejte vlastnosti možností, které jste mohli využít. Které vlastnosti pro vás byly nejdůležitější a proč?
 
-![Všech šest postav spolupracuje při aktivitě s výukovými kartami bez připojení k internetu, zatímco vyučující vede diskusi.](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![Všech šest postav spolupracuje při aktivitě s výukovými kartami bez připojení k internetu, zatímco vyučující vede diskusi.](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)

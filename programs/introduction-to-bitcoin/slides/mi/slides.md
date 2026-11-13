@@ -19,7 +19,7 @@ Ka whakamahi tātou i te moni i ia rā, engari he ruarua noa ngā wā ka ui tāt
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## E kore te nuinga o ngā tāngata e āta whakaaro mō te moni
 
@@ -29,7 +29,7 @@ Ehara i te whiwhi i taua mea, ehara i te whakapau i taua mea, engari ko te whaka
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## E rima ngā pātai hei tīmatanga
 
@@ -49,7 +49,7 @@ Ehara i te whiwhi i taua mea, ehara i te whakapau i taua mea, engari ko te whaka
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## He meka, he whakaaro rānei?
 
@@ -74,7 +74,7 @@ He taputapu te moni mō te whakawhitiwhiti.
 
 Me hiahia ngā tāngata tokorua ki ngā mea kei tērā atu, i te wā kotahi, ā, kia tika hoki ngā rahinga.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Whakamahia te tauira o te aratohu: e whakatipu raihi ana koe, ā, me whai hū koe, engari ko tā te kaihanga hū e hiahia ana he hinu tunu kai, ehara i te raihi. Ka kīia tēnei e ngā mātanga ohaoha ko te ōritenga takirua o ngā hiahia. -->
 
@@ -96,13 +96,13 @@ Me hiahia tēnā tangata, tēnā tangata ki ngā mea kei tērā atu, i te wā ko
 
 Kāore he tangata e hiahia ana ki te moni mō te moni noa iho. He whaihua te moni nā te mea ka whakaae ētahi atu ki te tango i taua moni, i runga i te tūmanako ka whakaae anō ētahi atu ki te tango ā muri ake nei.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: He pepa noa iho te moni pepa. Ka whakatau te moni i te raruraru o te tauhokohoko whakawhiti taonga mā te wehe i te hoko atu i te hoko mai: ka hoko atu koutou i tā koutou raihi ki tētahi tangata, ā, ka hoko mai koutou i ngā hū i tētahi atu. Koinei te mea e wehe ai te moni i te tauhokohoko whakawhiti taonga. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Ngā Mahi e Toru a te Moni
 
@@ -114,7 +114,7 @@ Kāore he moni e pupuri tino pai ana i tōna uara, engari he pōturi ake te heke
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Mai i ngā Anga ki te Pepa
 
@@ -161,13 +161,13 @@ Ina rongo te tangata i te kupu pikinga utu, i te nuinga o te wā ka whakaaro ia 
 
 ## Te Pikinga Utu me te Mana Hoko
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Ko te pikinga utu he pikinga mauroa o te taumata whānui o ngā utu. Ko tērā atu taha o tēnei ko te mana hoko: arā, te nui o ngā mea ka taea te hoko ki te waeine moni kotahi. Ki te piki te utu o tētahi kete taonga taketake mai i te 100 waeine moni ki te 110, kua kore e taea te kete katoa te hoko ki aua 100 waeine moni anō. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## He maha ngā take, kotahi te kōwhiringa
 
@@ -285,7 +285,7 @@ Ka wehea te bitcoin kotahi ki ngā waeine iti ake e 100,000,000, e kīia nei he 
 
 ## Ko wai e whakahaere tonu ana i a Bitcoin?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Ka tuku, ka whiwhi, ka pupuri ngā kaiwhakamahi i te bitcoin; ka arowhai ngā kōpuku i ia tauwhitinga me ia poraka kia ū ki ngā ture; ka whakataetae ngā kaikeri ki te tāpiri poraka hou ki te pūkete i ia tekau meneti pea. E tuwhera ana taua pūkete, arā, te mekameka poraka, ki te marea, ā, he nui rawa te utu ki te tuhi anō. He tuhipoka mō te tuhi kupu: ko te Bitcoin me te pūmatua B e tohu ana i te nuinga o te wā ki te whatunga, ki te pūnaha rānei; ko te bitcoin me te pūriki b e tohu ana ki te moni ake. -->
 
@@ -330,7 +330,7 @@ Ehara te kōwhiri i te momo tiaki i te whakamātautau i tō mana. Ko te mea nui 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Ko tō kīanga kākano te urunga katoa
 
@@ -350,7 +350,7 @@ He rārangi kupu kua whakaraupapatia, he 12, he 24 rānei ngā kupu i te nuinga 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## I mua i tō whakamahi i tētahi pūkoro
 
@@ -391,7 +391,7 @@ He rārangi kupu kua whakaraupapatia, he 12, he 24 rānei ngā kupu i te nuinga 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Kāti, kaua e tiritiri i tētahi mea, kaua e tuku i tētahi mea
 
@@ -426,7 +426,7 @@ He tīmatanga noa iho tēnei.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Te Pōkairua Bitcoin
 

@@ -26,11 +26,11 @@
 
 ### सिकाइ समुदायमा आबद्ध हुनुहोस्
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
 
 उक्त [बिटक्वाइन शिक्षा सञ्जाल](https://myfirstbitcoin.org/about/network) ले स्वतन्त्र शिक्षकहरू र स्थानीय सिकाइ समुदायहरूलाई जोड्छ। आफ्नो नजिकको वा आफूलाई काम चाखलाग्दो लागेको समुदाय खोज्नुहोस् र तपाईंले कसरी सिक्न, स्वयंसेवा गर्न वा योगदान दिन सक्नुहुन्छ भनेर सोध्न त्यससँग सम्पर्क गर्नुहोस्। सहभागिता ऐच्छिक हो र यसले डिप्लोमा समापन, मूल्याङ्कन वा प्रमाणीकरणमा असर गर्दैन।
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
 
 ### सुरक्षासम्बन्धी सम्झना
 
@@ -92,13 +92,13 @@
 
 तपाईंको सबैभन्दा महत्त्वपूर्ण उपलब्धि प्रमाणपत्र होइन। पैसा र बिटकोइनबारे स्पष्ट रूपमा व्याख्या गर्न सक्नु, जोखिम पहिचान गर्नु, कदम चाल्नुअघि जाँच गर्नु र स्वतन्त्र रूपमा सिकाइ जारी राख्न सक्नु नै त्यो उपलब्धि हो।
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
 
 ### निःशुल्क बिटकोइन शिक्षालाई सहयोग गर्नुहोस्
 
 My First Bitcoin का शैक्षिक स्रोतहरू निःशुल्क र खुला-स्रोत छन्। स्वैच्छिक सहयोगले पाठ्यक्रम अद्यावधिक राख्न, शिक्षकहरूलाई तालिम दिन र पहुँच विस्तार गर्न मद्दत गर्छ।
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
 
 
 https://donate.myfirstbitcoin.org
@@ -112,4 +112,4 @@ _My First Bitcoin लाई सहयोग गर्नुहोस्_
 ---
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)

@@ -1,6 +1,6 @@
 # 3.14 Płatności on-chain i Lightning
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
@@ -30,4 +30,4 @@ Jakiego sposobu płatności oczekuje odbiorca? Przed dokonaniem płatności pros
 
 Proszę sobie wyobrazić, że przygotowany scenariusz oferuje oba sposoby płatności. Które żądanie płatności może obsłużyć wybrany portfel i co sprawdziliby Państwo przed jego zatwierdzeniem? Odpowiedź zależy od żądania płatności wystawionego przez odbiorcę, portfela i sytuacji — nie od uniwersalnego „najlepszego” sposobu płatności.
 
-![Osoba prowadząca zajęcia wskazuje na tablicy dwie różne geometryczne ścieżki płatności, a osoby początkujące i osoby o przygotowaniu technicznym je analizują.](https://cdn.sanity.io/images/vje9ehw2/production/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)
+![Osoba prowadząca zajęcia wskazuje na tablicy dwie różne geometryczne ścieżki płatności, a osoby początkujące i osoby o przygotowaniu technicznym je analizują.](https://cdn.sanity.io/images/vje9ehw2/staging/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)

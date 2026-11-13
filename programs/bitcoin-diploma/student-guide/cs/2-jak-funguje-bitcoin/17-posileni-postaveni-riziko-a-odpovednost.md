@@ -6,7 +6,7 @@ Veřejná pravidla Bitcoinu, [síť typu peer-to-peer](https://curriculum.myfirs
 
 Tyto vlastnosti mohou účastníkům poskytnout větší samostatnost, ale zároveň na ně kladou větší odpovědnost. Bez centrální autority, která by schvalovala [transakce](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), obnovovala přístup nebo napravovala mnohé chyby, musí každý dokázat rozpoznat roli a rizika, které přijímá.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
 
 Pro člověka, který si zvolí [vlastní správu](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody), znamená kontrola nad klíči přímou kontrolu nad bitcoinem. Žádná společnost nemůže zmrazit řádně spravovaný zůstatek v blockchainu. Žádná společnost však nemůže obnovit ani ztracenou [seedovou frázi](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase).
 

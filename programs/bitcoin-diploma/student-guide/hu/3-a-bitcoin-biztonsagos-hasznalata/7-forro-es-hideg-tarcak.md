@@ -32,4 +32,4 @@
 
 **Próbálja ki:** Egy kis összegű, képzeletbeli fizetés és egy ritkábban előforduló, képzeletbeli fizetés esetében magyarázza el, melyik [kompromisszum](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) számít többet. Ne válasszon eszközt vagy összeget a saját pénzeszközeihez.
 
-![Az oktató segít az idősebb és a műszaki ismeretekkel rendelkező tanulóknak összehasonlítani egy telefont, egy hardvertárcát és egy laptopot.](https://cdn.sanity.io/images/vje9ehw2/production/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)
+![Az oktató segít az idősebb és a műszaki ismeretekkel rendelkező tanulóknak összehasonlítani egy telefont, egy hardvertárcát és egy laptopot.](https://cdn.sanity.io/images/vje9ehw2/staging/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)

@@ -21,7 +21,7 @@ Skets 'n eenvoudige plaaslike kringloop:
 1. Wat gebeur wanneer internettoegang onderbreek word?
 1. Watter [bewaringsverwante](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) en [prysverwante](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) risiko’s dra elke deelnemer?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
 
 'n Gesonde kringloopekonomie berus op vrywillige deelname. Handelaars en werkers behoort die risiko’s verbonde aan betaling, prysbepaling, [bewaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), boekhouding en [Wisselvalligheid](https://curriculum.myfirstbitcoin.org/lexicon/en/#volatility) te kan identifiseer. Aanvaardingsyfers alleen toon nie of die Netwerk nuttig is nie.
 

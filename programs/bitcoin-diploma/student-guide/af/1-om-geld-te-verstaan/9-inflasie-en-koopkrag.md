@@ -13,7 +13,7 @@
 > [Koopkrag](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) is die hoeveelheid goedere en dienste wat 'n geldeenheid kan koop. As die koste van 'n mandjie basiese goedere styg van 100 eenhede van 'n [geldeenheid](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) tot 110, koop dieselfde 100 eenhede nie meer die volle mandjie nie. Die mandjie is nou duurder in verhouding tot die geld se [koopkrag](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) wat ten opsigte van daardie mandjie afgeneem het.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->

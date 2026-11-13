@@ -25,4 +25,4 @@ Esclareça que o [escambo](https://curriculum.myfirstbitcoin.org/lexicon/en/#bar
 
 Se usar um jogo, discuta depois as simplificações dele. A troca real envolve relacionamentos, crédito, presentes, obrigações, negociação, leis e interações repetidas.
 
-![O educador conduz uma atividade de troca direta entre a iniciante que segura um caderno e o dono de um negócio que segura mantimentos.](https://cdn.sanity.io/images/vje9ehw2/production/48813fb8d9434061c5c546898f4023f8748e9edd-1054x1492.png)
+![O educador conduz uma atividade de troca direta entre a iniciante que segura um caderno e o dono de um negócio que segura mantimentos.](https://cdn.sanity.io/images/vje9ehw2/staging/48813fb8d9434061c5c546898f4023f8748e9edd-1054x1492.png)

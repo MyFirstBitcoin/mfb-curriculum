@@ -7,4 +7,4 @@ Sử dụng phương pháp này khi một vài học viên tự tin có thể l�
 1. Mời các cặp được chọn trình bày lập luận, chứ không chỉ kết luận.
 1. Tóm tắt những điểm chung và đính chính những quan niệm sai lầm.
 
-![Giảng viên gợi mở thảo luận trong khi người mới bắt đầu và các học viên lớn tuổi so sánh các tài liệu hướng dẫn, còn chủ doanh nghiệp đóng góp ý kiến.](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![Giảng viên gợi mở thảo luận trong khi người mới bắt đầu và các học viên lớn tuổi so sánh các tài liệu hướng dẫn, còn chủ doanh nghiệp đóng góp ý kiến.](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)

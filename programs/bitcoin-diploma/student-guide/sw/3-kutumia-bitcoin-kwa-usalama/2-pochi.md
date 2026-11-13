@@ -8,7 +8,7 @@
 
 Nini kingetokea iwapo simu yako ingeacha kufanya kazi? Rekodi ya Bitcoin bado ingekuwepo, lakini ufikiaji ungetegemea funguo na njia ya urejeshaji ambayo pochi inatumia. Pochi husaidia kutengeneza taarifa za kupokea, kuonyesha salio na historia ya [miamala](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), na kuidhinisha matumizi. Haiondoi haja ya kuelewa ni nani anayedhibiti ufikiaji.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
 
 
 <!-- card: dark -->
@@ -33,4 +33,4 @@ Linganisha [uhifadhi](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody)
 > Wakati wa Diploma, unaweza kutengeneza pochi au kuandika [maneno ya urejeshaji](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) kama sehemu ya mazoezi. Darasa ni mazingira ya kujifunzia: taarifa zinaweza kuonekana, kunakiliwa, kushirikiwa, au kuhatarishwa kwa bahati mbaya. Kwa sababu hii, pochi ya mafunzo kwa kawaida inapaswa kuwa tupu au ya kuigiza na haipaswi kutumiwa kulinda fedha zenye thamani. Pale inapowezekana, hufungwa, huwekwa upya, au hurudishwa mwishoni mwa Diploma. Mwalimu wako anaweza kuchagua shughuli halisi yenye hatari ndogo, lakini anapaswa kueleza madhumuni yake na hatari za ziada za faragha, usalama, na upotevu kabla ya mtu yeyote kushiriki. Pochi inayokusudiwa kulinda fedha zenye thamani inahitaji usanidi mpya wa faragha na taarifa mpya za urejeshaji. Mwalimu wako anaweza kueleza tofauti hii, lakini hulazimiki kamwe kusanidi pochi binafsi ili kukamilisha Diploma.
 
 
-![Mwalimu anaonyesha simu ya mafunzo huku mwanafunzi anayeanza na wanafunzi wazee wakichunguza vifaa vyao wenyewe.](https://cdn.sanity.io/images/vje9ehw2/production/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)
+![Mwalimu anaonyesha simu ya mafunzo huku mwanafunzi anayeanza na wanafunzi wazee wakichunguza vifaa vyao wenyewe.](https://cdn.sanity.io/images/vje9ehw2/staging/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)

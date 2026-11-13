@@ -1,6 +1,6 @@
 # 4.8 Local on-ramp and off-ramp pathways
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/16d4da9fcdbc76a89acbef6bf760d3199ea7a843-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/16d4da9fcdbc76a89acbef6bf760d3199ea7a843-1536x1024.svg)
 
 An [**on-ramp**](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-ramp) is a path from local money, work, or another [asset](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) into bitcoin. An [**off-ramp**](https://curriculum.myfirstbitcoin.org/lexicon/en/#off-ramp) is a path from bitcoin into local money, goods, or services. The same pathway may perform both roles.
 
@@ -14,7 +14,7 @@ Local pathways may include:
 * using a payment service that converts between bitcoin and fiat
 * participating in a local circular economy
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8ad6c3106c57d796cf1b415d6a8104b043e6a215-776x978.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8ad6c3106c57d796cf1b415d6a8104b043e6a215-776x978.svg)
 
 Compare the **complete route**, not only the first fee. A service may advertise a low purchase fee but use a poor [exchange rate](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate) or charge for withdrawal. A peer-to-peer path may appear private but require time, trust, and physical safety.
 

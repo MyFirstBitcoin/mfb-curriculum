@@ -9,7 +9,7 @@ Ljudi često traže alternative držanju gotovine kada veruju da će ona izgubit
 
 Jedno [sredstvo](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) je nešto što osoba može posedovati ili na šta može polagati pravo, a što može imati [vrednost](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); ono ne obavlja automatski sve funkcije novca. Kuća može čuvati [vrednost](https://curriculum.myfirstbitcoin.org/lexicon/en/#value), ali nije praktična za kupovinu hrane. Akciju je možda lako prodati u jednoj zemlji, ali ona može biti nedostupna nekome ko nema brokerski račun. [Zlato](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) je služilo kao novac tokom dugih istorijskih razdoblja, ali može biti teško proveriti njegovu autentičnost ili ga podeliti prilikom razmene male vrednosti.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 Ljudi takođe mogu izabrati stranu [valutu](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency), državne [obveznice](https://curriculum.myfirstbitcoin.org/lexicon/en/#bond), privatna preduzeća, zemljište, alate, obrazovanje ili druga [sredstva](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset). Svaki izbor uključuje [oportunitetni trošak](https://curriculum.myfirstbitcoin.org/lexicon/en/#opportunity-cost) i rizik. Ne postoji [sredstvo](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) koje garantuje [kupovnu moć](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) u svakom razdoblju i svakoj situaciji.
 

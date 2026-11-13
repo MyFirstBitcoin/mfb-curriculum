@@ -34,4 +34,4 @@ Plaats korte, verzonnen scenario's verspreid door het lokaal. Bij elk station no
 
 Neem één legitiem ogend bericht op zonder duidelijke spelfouten. Oplichting mag niet worden aangeleerd als iets dat alleen makkelijk te herkennen is omdat het er onprofessioneel uitziet.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)

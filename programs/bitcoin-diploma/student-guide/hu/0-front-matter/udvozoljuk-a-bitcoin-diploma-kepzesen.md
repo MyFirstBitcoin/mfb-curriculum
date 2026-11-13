@@ -8,7 +8,7 @@ A projekt 2021-ben indult Salvadorban, kis létszámú, személyes jelenlétű �
 
 Munkánk független, közösségi irányítású és Bitcoin-központú. A pénzügyi tudatosságra, az alapos gondolkodásra és a gyakorlati biztonságra összpontosítunk – nem a kereskedésre, a spekulációra vagy más tokenek népszerűsítésére. Nem kérjük Öntől, hogy fogadjon el egy meggyőződést. Ehelyett fogalmakat, kérdéseket és gyakorlati tudást kínálunk, hogy saját következtetéseket vonhasson le.
 
-![Az oktató egy közös tanulócsoportban üdvözli a kezdőt, az idősebb tanulót, a vállalkozót, a műszaki érdeklődésű tanulót és a fiatal tanulót.](https://cdn.sanity.io/images/vje9ehw2/production/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
+![Az oktató egy közös tanulócsoportban üdvözli a kezdőt, az idősebb tanulót, a vállalkozót, a műszaki érdeklődésű tanulót és a fiatal tanulót.](https://cdn.sanity.io/images/vje9ehw2/staging/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
 
 ### Küldetésünk: független, nyílt forráskódú Bitcoin-oktatás
 

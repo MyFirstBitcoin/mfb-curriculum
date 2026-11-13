@@ -11,7 +11,7 @@ Les ressources sont limitées, tandis que les désirs humains ne le sont pas.
 
 La [valeur](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) d’un bien n’est pas contenue dans l’objet lui-même. Les individus [évaluent](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) les biens en fonction de leurs besoins, de leurs préférences, des informations dont ils disposent et de leur situation. C’est ce que l’on appelle parfois la [**valeur subjective**](https://curriculum.myfirstbitcoin.org/lexicon/en/#subjective-value). L’eau potable peut être peu coûteuse à proximité d’un point d’eau public sûr et extrêmement précieuse en période de pénurie.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
 
 
 <!-- micrographic: same-water-different-value-01 -->

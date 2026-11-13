@@ -8,7 +8,7 @@
 
 Me zai faru idan wayarku ta daina aiki? Bayanan Bitcoin za su ci gaba da kasancewa, amma samun damar amfani da shi zai dogara ne da maɓallan da kuma hanyar dawo da damar da jakar take amfani da ita. Jaka tana taimakawa wajen samar da bayanan karɓa, nuna ragowar kuɗi da bayanan [ma'amala](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) na baya, da ba da izinin kashe kuɗi. Ba ta kawar da buƙatar fahimtar wanda ke da ikon ba da damar amfani ba.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
 
 
 <!-- card: dark -->
@@ -33,4 +33,4 @@ Ku kwatanta [wanda ke riƙe da iko da maɓallan](https://curriculum.myfirstbitco
 > A lokacin karatun Diploma, kuna iya ƙirƙirar jaka ko rubuta [kalmomin dawo da damar amfani](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) a matsayin wani ɓangare na atisaye. Aji wuri ne na koyo: ana iya ganin bayanai, kwafe su, raba su, ko a kuskura a fallasa su. Saboda haka, a al'ada ya kamata jakar horo ta kasance babu komai a cikinta ko kuma ta kwaikwayo, kuma bai kamata a yi amfani da ita wajen kiyaye kuɗi masu yawa ko muhimmanci ba. Inda zai yiwu, ana rufe ta, a sake saita ta, ko a mayar da ita a ƙarshen Diploma. Malaminku na iya zaɓar wani atisaye na gaske da haɗarin asararsa ba shi da yawa, amma ya kamata ya bayyana manufarsa da ƙarin haɗarin da ke tattare da shi ga sirri, tsaro, da asarar kuɗi kafin kowa ya shiga. Jakar da aka nufa don kiyaye kuɗi masu yawa ko muhimmanci tana buƙatar sabon saiti da aka yi a keɓance da sabbin bayanan dawo da damar amfani. Malaminku zai iya bayyana bambancin, amma ba a taɓa wajabta muku saita jakar amfani ta kanku don kammala Diploma ba.
 
 
-![Malamin yana nuna yadda ake amfani da wayar horo yayin da sabon ɗalibi da ɗaliban da suka fi shi shekaru suke duba na'urorinsu.](https://cdn.sanity.io/images/vje9ehw2/production/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)
+![Malamin yana nuna yadda ake amfani da wayar horo yayin da sabon ɗalibi da ɗaliban da suka fi shi shekaru suke duba na'urorinsu.](https://cdn.sanity.io/images/vje9ehw2/staging/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)

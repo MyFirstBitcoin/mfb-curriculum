@@ -19,7 +19,7 @@ Usamos dinheiro todos os dias, mas raramente nos perguntamos como funciona.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## A maioria das pessoas nunca se detém a pensar no dinheiro
 
@@ -29,7 +29,7 @@ Não a ganhar, nem a gastar, mas a pensar no que é e como funciona.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Cinco Perguntas para Começar
 
@@ -49,7 +49,7 @@ Não a ganhar, nem a gastar, mas a pensar no que é e como funciona.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Facto ou opinião?
 
@@ -74,7 +74,7 @@ O dinheiro é uma ferramenta de troca.
 
 Ambas as pessoas têm de querer o que a outra tem, ao mesmo tempo e em quantidades adequadas.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Use o exemplo do guia: cultiva arroz e precisa de sapatos, mas o sapateiro quer óleo de cozinha, não arroz. Os economistas chamam a isto a dupla coincidência de desejos. -->
 
@@ -96,13 +96,13 @@ Ambas as pessoas têm de querer o que a outra tem, ao mesmo tempo e em quantidad
 
 Ninguém quer dinheiro por si só. Este é útil porque os outros o aceitam, contando que outros o aceitem mais tarde.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Uma nota é apenas um pedaço de papel. O dinheiro resolve o problema da troca direta ao separar a venda da compra: vende o seu arroz a uma pessoa e compra sapatos a outra. É isto que distingue o dinheiro da troca direta. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Três coisas que o dinheiro faz
 
@@ -114,7 +114,7 @@ Nenhum dinheiro preserva o valor na perfeição, mas algumas formas perdem poder
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Das conchas ao papel
 
@@ -161,13 +161,13 @@ Quando as pessoas ouvem a palavra inflação, normalmente pensam na subida dos p
 
 ## Inflação e Poder de Compra
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: A inflação de preços é uma subida sustentada do nível geral de preços. A sua outra face é o poder de compra: o quanto uma unidade de moeda consegue comprar. Se um cabaz de bens essenciais passar de 100 unidades monetárias para 110, as mesmas 100 unidades já não chegam para comprar o cabaz completo. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Muitas causas, uma escolha
 
@@ -285,7 +285,7 @@ Um bitcoin divide-se em 100 000 000 de unidades mais pequenas, chamadas satoshis
 
 ## Quem mantém a Bitcoin a funcionar?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Os utilizadores enviam, recebem e guardam bitcoin; os nós verificam cada transação e cada bloco segundo as regras; os mineradores competem para acrescentar um novo bloco ao registo aproximadamente a cada dez minutos. Esse registo, a blockchain, é público e muito dispendioso de reescrever. Uma nota sobre a grafia: Bitcoin com B maiúsculo designa normalmente a rede ou o sistema; bitcoin com b minúsculo designa o próprio dinheiro. -->
 
@@ -330,7 +330,7 @@ Optar pela custódia por terceiros não é uma prova de valor pessoal. O que imp
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## A sua frase-semente dá acesso total
 
@@ -350,7 +350,7 @@ Uma lista ordenada de palavras, normalmente 12 ou 24, que permite recriar as sua
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Antes de utilizar qualquer carteira
 
@@ -391,7 +391,7 @@ Uma lista ordenada de palavras, normalmente 12 ou 24, que permite recriar as sua
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Pare, não partilhe nada, não envie nada
 
@@ -426,7 +426,7 @@ Isto é apenas o começo.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## O Diploma Bitcoin
 

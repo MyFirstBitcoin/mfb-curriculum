@@ -23,4 +23,4 @@ Algumas pessoas desempenham vários papéis. Um [minerador](https://curriculum.m
 
 **Pergunta rápida:** Por que um [nó](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) verifica [transações](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction)? Cite pelo menos uma regra que um [nó](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) verifica.
 
-![O educador orienta o aluno técnico diante de um computador que funciona como nó, com o monitor voltado para eles e a parte traseira do gabinete visível para o observador.](https://cdn.sanity.io/images/vje9ehw2/production/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)
+![O educador orienta o aluno técnico diante de um computador que funciona como nó, com o monitor voltado para eles e a parte traseira do gabinete visível para o observador.](https://cdn.sanity.io/images/vje9ehw2/staging/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)

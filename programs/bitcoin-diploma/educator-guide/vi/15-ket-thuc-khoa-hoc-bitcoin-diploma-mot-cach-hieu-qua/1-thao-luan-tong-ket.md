@@ -13,4 +13,4 @@ Sử dụng phương pháp suy nghĩ–trao đổi theo cặp–chia sẻ trư�
 
 Yêu cầu học viên dùng một khái niệm trong khóa học và một ví dụ để củng cố câu trả lời, thay vì dùng khẩu hiệu.
 
-![Giảng viên mời học viên lớn tuổi đưa ra lời giải thích cuối cùng, trong khi người mới bắt đầu và chủ doanh nghiệp cùng những người hướng dẫn của họ lắng nghe.](https://cdn.sanity.io/images/vje9ehw2/production/294a2f8e8e831a2a0da998cfbc42a40102d4cc74-1054x1493.png)
+![Giảng viên mời học viên lớn tuổi đưa ra lời giải thích cuối cùng, trong khi người mới bắt đầu và chủ doanh nghiệp cùng những người hướng dẫn của họ lắng nghe.](https://cdn.sanity.io/images/vje9ehw2/staging/294a2f8e8e831a2a0da998cfbc42a40102d4cc74-1054x1493.png)

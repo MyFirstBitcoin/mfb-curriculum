@@ -16,4 +16,4 @@ Eşler arası, yalnızca iki bilgisayarın doğrudan iletişim kurduğu ya da hi
 [Kullanıcılar, düğümler, madenciler, geliştiriciler ve hizmetlerin her biri, Bitcoin'in ortak kuralları ve herkese açık defteri üzerinde belirli bir güce sahiptir; ancak hiçbiri defteri ya da kuralları herkes için tek başına değiştiremez.](/micrographics/powers-and-limits-01/tr.md)
 
 
-![Eğitmen, başlangıç düzeyindeki ve teknik bilgiye sahip öğrencilere sunum panosundaki bir ağı bir işaret çubuğuyla açıklıyor.](https://cdn.sanity.io/images/vje9ehw2/production/3999e88f5f80f010b5cd6238a4fe41d1aed8bdb2-1054x1492.png)
+![Eğitmen, başlangıç düzeyindeki ve teknik bilgiye sahip öğrencilere sunum panosundaki bir ağı bir işaret çubuğuyla açıklıyor.](https://cdn.sanity.io/images/vje9ehw2/staging/3999e88f5f80f010b5cd6238a4fe41d1aed8bdb2-1054x1492.png)

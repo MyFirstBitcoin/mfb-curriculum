@@ -22,4 +22,4 @@ Este guia está estruturado em torno de seis perguntas: por que o dinheiro impor
 
 Ele tem finalidade exclusivamente educacional. Não oferece aconselhamento financeiro, de investimento, jurídico ou tributário, e não recomenda que você compre, venda ou mantenha nenhum ativo.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)

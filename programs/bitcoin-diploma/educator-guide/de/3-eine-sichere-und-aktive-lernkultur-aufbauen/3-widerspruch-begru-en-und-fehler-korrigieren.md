@@ -11,4 +11,4 @@ Wenn ein Lernender widerspricht:
 
 Korrigieren Sie sachliche Fehler klar und respektvoll. Verzichten Sie nicht im Namen der Neutralität auf eine Korrektur. Neutrale Moderation bedeutet, faire Maßstäbe an Belege anzulegen, und nicht, jede Aussage als gleichermaßen zutreffend zu behandeln.
 
-![Die Lehrkraft hört sich die Frage des Anfängers an, während der ältere Lernende dem Gespräch mit einem aufgeschlagenen Leitfaden folgt.](https://cdn.sanity.io/images/vje9ehw2/production/53db81849bfb9bca1dba5e2f8d5e8386c01ca3b3-1053x1494.png)
+![Die Lehrkraft hört sich die Frage des Anfängers an, während der ältere Lernende dem Gespräch mit einem aufgeschlagenen Leitfaden folgt.](https://cdn.sanity.io/images/vje9ehw2/staging/53db81849bfb9bca1dba5e2f8d5e8386c01ca3b3-1053x1494.png)

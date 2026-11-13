@@ -30,4 +30,4 @@ Przed każdą demonstracją na żywo proszę upewnić się, że wiedzą Państwo
 
 Efektem warsztatów powinna być umiejętność wyjaśnienia danego zagadnienia lub wykonania danej czynności, a nie tylko zrealizowana [transakcja](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction).
 
-![Osoba prowadząca i właściciel firmy wspólnie ćwiczą z użyciem telefonu szkoleniowego, patrząc na ekran zwrócony w ich stronę.](https://cdn.sanity.io/images/vje9ehw2/production/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)
+![Osoba prowadząca i właściciel firmy wspólnie ćwiczą z użyciem telefonu szkoleniowego, patrząc na ekran zwrócony w ich stronę.](https://cdn.sanity.io/images/vje9ehw2/staging/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)

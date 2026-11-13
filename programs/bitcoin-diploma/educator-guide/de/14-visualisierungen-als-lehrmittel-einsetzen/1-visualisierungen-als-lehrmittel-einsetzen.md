@@ -41,4 +41,4 @@ Zeigen Sie niemals echte Daten von Lernenden: keine [Seed-Phrase](https://curric
 
 Machen Sie aus einer eingeschränkten Textaussage keine absolute visuelle Darstellung. Ein Angebotsdiagramm darf kein [Preis](https://curriculum.myfirstbitcoin.org/lexicon/en/#price)wachstum suggerieren. Eine [Dezentralisierungs](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization)karte darf keinen gleichen Einfluss suggerieren. Ein Wallet-Bild darf nicht suggerieren, dass bitcoin im Gerät gespeichert ist.
 
-![Die Lehrkraft erklärt allen fünf Lernenden, darunter der jungen lernenden Person mit orangefarbener Mütze, an einem Whiteboard sechs miteinander verbundene Peers.](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![Die Lehrkraft erklärt allen fünf Lernenden, darunter der jungen lernenden Person mit orangefarbener Mütze, an einem Whiteboard sechs miteinander verbundene Peers.](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)

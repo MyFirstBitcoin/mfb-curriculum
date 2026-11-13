@@ -28,7 +28,7 @@ Cela crée deux risques importants :
 [Risque de liquidité : de nombreux déposants font la queue pour retirer leurs fonds aujourd’hui, et la banque manque de liquidités à présent, même si les prêts qu’elle a accordés peuvent être remboursés plus tard. Risque d’insolvabilité : les emprunteurs ne remboursent plus leurs prêts immobiliers, et la valeur des actifs de la banque devient inférieure à ce qu’elle doit.](/micrographics/liquidity-vs-solvency-01/fr-FR.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
 
 
 

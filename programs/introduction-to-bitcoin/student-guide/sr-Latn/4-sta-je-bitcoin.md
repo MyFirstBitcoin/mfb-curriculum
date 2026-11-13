@@ -20,4 +20,4 @@ Napomena o pisanju: **Bitcoin** sa velikim slovom B obično označava mrežu ili
 
 Bitcoin takođe podrazumeva kompromise. Njegova cena može brzo da se menja. Greške obično imaju trajne posledice. Prihvatanje je na mnogim mestima i dalje ograničeno, a za bezbedno korišćenje potrebno je nešto naučiti. Bitcoin deo poverenja u institucije zamenjuje proverom i ličnom odgovornošću. On ne uklanja rizik.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

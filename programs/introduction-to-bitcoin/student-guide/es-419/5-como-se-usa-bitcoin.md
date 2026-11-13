@@ -6,7 +6,7 @@ Por eso, la primera pregunta sobre cualquier billetera es: **¿quién controla l
 
 ###### ¿Quién tiene realmente la custodia de su bitcoin?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 Con una **billetera de autocustodia**, usted controla las claves.
 

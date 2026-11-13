@@ -30,4 +30,4 @@ Orang juga membandingkan uang berdasarkan [**kesehatannya**](https://curriculum.
 
 **Berpikirlah secara kritis:** Ceritakan suatu saat ketika Anda memilih satu jenis uang atau [aset](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) dibandingkan yang lain. Apa tujuannya? Bandingkan sifat-sifat dari pilihan yang dapat Anda gunakan saat itu. Sifat apa yang paling penting bagi Anda, dan mengapa?
 
-![Keenam tokoh bekerja sama dalam kegiatan pembelajaran menggunakan kartu secara luring, sementara pendidik memandu diskusi.](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![Keenam tokoh bekerja sama dalam kegiatan pembelajaran menggunakan kartu secara luring, sementara pendidik memandu diskusi.](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)

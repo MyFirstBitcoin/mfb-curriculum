@@ -19,7 +19,7 @@ Gumagamit tayo ng pera araw-araw, ngunit bihira nating itanong kung paano ito gu
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Karamihan sa mga Tao ay Hindi Kailanman Humihinto upang Pag-isipan ang Pera
 
@@ -29,7 +29,7 @@ Hindi ang pagkita nito, hindi ang paggastos nito, kundi ang pag-iisip kung ano i
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Limang Tanong Bilang Panimula
 
@@ -49,7 +49,7 @@ Hindi ang pagkita nito, hindi ang paggastos nito, kundi ang pag-iisip kung ano i
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Katotohanan o Opinyon?
 
@@ -74,7 +74,7 @@ Ang pera ay isang kasangkapan sa palitan.
 
 Dapat parehong gusto ng dalawang tao ang mayroon ang isa't isa, sa parehong oras at sa angkop na dami.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Gamitin po ninyo ang halimbawa sa gabay: nagtatanim kayo ng palay at nangangailangan ng sapatos, ngunit langis na panluto ang gusto ng sapatero, hindi palay. Tinatawag ito ng mga ekonomista na dobleng pagtutugma ng mga pangangailangan. -->
 
@@ -96,13 +96,13 @@ Kailangang gusto ng bawat isa ang mayroon ang isa pa, sa parehong oras at sa ang
 
 Walang sinumang naghahangad ng pera para lamang magkaroon nito. Kapaki-pakinabang ito dahil tinatanggap ito ng iba, sa pag-asang tatanggapin din ito ng iba sa kalaunan.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Ang perang papel ay isang piraso lamang ng papel. Nilulutas ng pera ang problema sa barter sa pamamagitan ng paghihiwalay ng pagbebenta at pagbili: ibinebenta ninyo ang inyong bigas sa isang tao at bumibili kayo ng sapatos sa iba. Ito ang pagkakaiba ng pera at barter. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Tatlong Bagay na Ginagawa ng Pera
 
@@ -114,7 +114,7 @@ Walang salaping ganap na nakapagpapanatili ng halaga, ngunit mas mabagal mawalan
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Mula sa mga Kabibe hanggang sa Papel
 
@@ -161,13 +161,13 @@ Kapag naririnig ng mga tao ang salitang implasyon, karaniwan nilang naiisip ang 
 
 ## Implasyon at Kakayahang Bumili
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Ang implasyon ng presyo ay ang patuloy na pagtaas ng pangkalahatang antas ng mga presyo. Ang kabilang panig nito ay ang kakayahang bumili: kung gaano karami ang mabibili ng isang yunit ng pera. Kung ang presyo ng isang basket ng mga pangunahing bilihin ay tumaas mula 100 yunit ng pera tungo sa 110, hindi na mabibili ng parehong 100 yunit ang lahat ng laman ng basket. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Maraming Dahilan, Isang Pagpili
 
@@ -285,7 +285,7 @@ Ang isang bitcoin ay nahahati sa 100,000,000 mas maliliit na yunit na tinatawag 
 
 ## Sino ang Nagpapanatiling Gumagana ang Bitcoin?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Nagpapadala, tumatanggap, at nag-iimbak ng bitcoin ang mga gumagamit; sinusuri ng mga node ang bawat transaksiyon at bloke ayon sa mga tuntunin; nag-uunahan ang mga minero na magdagdag ng bagong bloke sa talaan humigit-kumulang bawat sampung minuto. Ang talaang iyon, ang blockchain, ay bukas sa publiko at napakamahal baguhin. Isang paalala sa pagbaybay: ang Bitcoin na may malaking B ay karaniwang tumutukoy sa network o sa sistema; ang bitcoin na may maliit na b ay tumutukoy sa mismong pera. -->
 
@@ -330,7 +330,7 @@ Ang pagpili ng paraan ng pag-iingat ay hindi sukatan ng inyong halaga. Ang mahal
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Nagbibigay ng Ganap na Akses ang Inyong Seed Phrase
 
@@ -350,7 +350,7 @@ Isang nakaayos na listahan ng mga salita, karaniwang 12 o 24, na magagamit upang
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Bago Ninyo Gamitin ang Anumang Wallet
 
@@ -391,7 +391,7 @@ Isang nakaayos na listahan ng mga salita, karaniwang 12 o 24, na magagamit upang
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Huminto Kayo, Huwag Kayong Magbahagi ng Anuman, Huwag Kayong Magpadala ng Anuman
 
@@ -426,7 +426,7 @@ Simula pa lamang ito.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Ang Diploma sa Bitcoin
 

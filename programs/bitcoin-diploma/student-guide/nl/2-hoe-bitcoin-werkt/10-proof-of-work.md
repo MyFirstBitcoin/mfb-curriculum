@@ -1,6 +1,6 @@
 # 2.10 Proof of work
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
 <!-- card: definition -->
@@ -29,4 +29,4 @@ Wanneer een [miner](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) een
 
 [Proof-of-Work](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) brengt echte energiekosten met zich mee. Voorstanders stellen dat deze kosten de veiligheid van Bitcoin verankeren en vraag kunnen creëren naar flexibele of anderszins onbenutte energie. Critici plaatsen vraagtekens bij de hoeveelheid en de herkomst van de gebruikte energie. Een verantwoorde beoordeling vraagt welke energie wordt gebruikt, waar die vandaan komt, welke veiligheid die biedt en met welke alternatieven wordt vergeleken.
 
-![De docent, de beginnende leerling en de technische leerling bespreken een Mining-apparaat op tafelformaat met een ventilator en een aparte voeding.](https://cdn.sanity.io/images/vje9ehw2/production/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)
+![De docent, de beginnende leerling en de technische leerling bespreken een Mining-apparaat op tafelformaat met een ventilator en een aparte voeding.](https://cdn.sanity.io/images/vje9ehw2/staging/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)

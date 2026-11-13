@@ -26,11 +26,11 @@
 
 ### کسی تعلیمی برادری میں شامل ہوں
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
 
 یہ [بٹ کوائن ایجوکیشن نیٹ ورک](https://myfirstbitcoin.org/about/network) آزادانہ طور پر کام کرنے والے اساتذہ اور مقامی تعلیمی برادریوں کو آپس میں جوڑتا ہے۔ اپنے قریب یا ایسی کسی برادری کو تلاش کریں جس کے کام میں آپ کی دلچسپی ہو، اور اس سے رابطہ کر کے پوچھیں کہ آپ کس طرح سیکھ سکتے ہیں، رضاکارانہ خدمات انجام دے سکتے ہیں یا اپنا حصہ ڈال سکتے ہیں۔ شرکت اختیاری ہے اور اس سے ڈپلوما کی تکمیل، جانچ یا سند کے حصول پر کوئی اثر نہیں پڑتا۔
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
 
 ### حفاظت سے متعلق ایک یاد دہانی
 
@@ -92,13 +92,13 @@
 
 آپ کا سب سے اہم حاصل سرٹیفکیٹ نہیں ہے۔ یہ اس قابل ہونا ہے کہ آپ پیسے اور بٹ کوائن کو واضح طور پر سمجھا سکیں، خطرے کو پہچان سکیں، کوئی قدم اٹھانے سے پہلے تصدیق کر سکیں، اور آزادانہ طور پر سیکھنا جاری رکھ سکیں۔
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
 
 ### بٹ کوائن کی مفت تعلیم کی حمایت کریں
 
 My First Bitcoin کے تعلیمی وسائل مفت اور اوپن سورس ہیں۔ رضاکارانہ تعاون نصاب کی دیکھ بھال، معلمین کی تربیت اور رسائی بڑھانے میں مدد دیتا ہے۔
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
 
 
 https://donate.myfirstbitcoin.org
@@ -112,4 +112,4 @@ _My First Bitcoin کی حمایت کریں_
 ---
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)

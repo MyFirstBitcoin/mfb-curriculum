@@ -4,7 +4,7 @@
 
 Rika-kwa-Rika (P2P) haimaanishi kila mara kwamba kompyuta mbili pekee ndizo huwasiliana moja kwa moja. [Muamala](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) unaweza kupitia pochi, watoa huduma za intaneti, na [nodi](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) nyingi za mtandao. Jambo muhimu ni kwamba hakuna mwendeshaji mkuu wa Bitcoin anayepaswa kumwidhinisha mtumaji au mpokeaji.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
 
 
 <!-- micrographic: peer-to-peer-route-01 -->

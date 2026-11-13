@@ -34,4 +34,4 @@ Karatasi nyeupe iliunganisha vipengele vilivyohitajika kwa mbinu hiyo:
 
 Moduli hii inaeleza dhana hizi kwa undani zaidi. Kwa pamoja, dhana hizi zilitoa jibu la vitendo kwa [tatizo la matumizi mara mbili](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): mtandao unaweza kukataa jaribio la pili la kutumia bitcoin ileile bila kutegemea mamlaka kuu. Bitcoin ilitoa mchanganyiko uliokosekana ambao majaribio ya pesa za kidijitali ya miongo kadhaa yalikuwa yakiutafuta.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)

@@ -22,4 +22,4 @@ Ovaj vodič je zasnovan na šest pitanja: zašto je novac važan, šta je novac,
 
 Namenjen je isključivo obrazovanju. Ne pruža finansijske, investicione, pravne ni poreske savete i ne govori vam da bilo šta kupujete, prodajete ili zadržavate.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)

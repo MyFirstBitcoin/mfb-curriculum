@@ -32,4 +32,4 @@
 
 **Cuba:** Bagi satu pembayaran rekaan bernilai kecil dan satu pembayaran rekaan yang kurang kerap dilakukan, jelaskan [pertimbangan untung rugi](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) yang lebih penting. Jangan pilih alat atau jumlah untuk dana anda sendiri.
 
-![Pendidik membantu pelajar yang lebih berusia dan pelajar berlatar belakang teknikal membandingkan telefon, dompet perkakasan dan komputer riba.](https://cdn.sanity.io/images/vje9ehw2/production/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)
+![Pendidik membantu pelajar yang lebih berusia dan pelajar berlatar belakang teknikal membandingkan telefon, dompet perkakasan dan komputer riba.](https://cdn.sanity.io/images/vje9ehw2/staging/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)

@@ -8,7 +8,7 @@
 
 Apakah yang akan berlaku jika telefon anda tidak lagi berfungsi? Rekod Bitcoin masih wujud, tetapi akses bergantung pada kunci dan kaedah pemulihan yang digunakan oleh dompet tersebut. Dompet membantu menjana maklumat penerimaan, memaparkan baki dan sejarah [transaksi](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), serta membenarkan perbelanjaan. Ini tidak menghapuskan keperluan untuk memahami siapa yang mengawal akses.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
 
 
 <!-- card: dark -->
@@ -33,4 +33,4 @@ Bandingkan [penjagaan aset](https://curriculum.myfirstbitcoin.org/lexicon/en/#cu
 > Sepanjang Diploma, anda mungkin mencipta dompet atau mencatat [perkataan pemulihan](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) sebagai sebahagian daripada latihan. Bilik darjah ialah persekitaran pembelajaran: maklumat boleh dilihat, disalin, dikongsi, atau terdedah secara tidak sengaja. Oleh sebab itu, dompet latihan biasanya hendaklah kosong atau berbentuk simulasi dan tidak boleh digunakan untuk melindungi dana yang bernilai besar. Jika praktikal, dompet itu ditutup, ditetapkan semula, atau dipulangkan pada akhir Diploma. Pendidik anda mungkin memilih aktiviti sebenar yang melibatkan nilai yang kecil, tetapi hendaklah menjelaskan tujuannya serta risiko tambahan terhadap privasi, keselamatan, dan kehilangan sebelum sesiapa mengambil bahagian. Dompet yang bertujuan melindungi dana yang bernilai besar memerlukan persediaan baharu yang dilakukan secara peribadi serta maklumat pemulihan baharu. Pendidik anda boleh menjelaskan perbezaannya, tetapi anda tidak pernah diwajibkan menyediakan dompet peribadi untuk melengkapkan Diploma.
 
 
-![Pendidik membuat demonstrasi menggunakan telefon latihan sementara pelajar pemula dan pelajar yang lebih berusia memeriksa peranti masing-masing.](https://cdn.sanity.io/images/vje9ehw2/production/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)
+![Pendidik membuat demonstrasi menggunakan telefon latihan sementara pelajar pemula dan pelajar yang lebih berusia memeriksa peranti masing-masing.](https://cdn.sanity.io/images/vje9ehw2/staging/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)

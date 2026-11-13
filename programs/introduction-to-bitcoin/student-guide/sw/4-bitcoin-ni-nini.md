@@ -20,4 +20,4 @@ Maelezo kuhusu tahajia: **Bitcoin** yenye herufi kubwa B kwa kawaida humaanisha 
 
 Bitcoin pia ina mapungufu yake. Bei yake inaweza kubadilika haraka. Makosa kwa kawaida ni ya kudumu. Ukubalikaji wake bado ni mdogo katika maeneo mengi, na kuitumia kwa usalama kunahitaji kujifunza kiasi fulani. Bitcoin inachukua nafasi ya sehemu ya imani kwa taasisi kwa uhakiki na uwajibikaji binafsi. Haiondoi hatari.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

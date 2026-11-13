@@ -36,4 +36,4 @@ Gumagamit ang ilang wallet ng mga karagdagang pariralang panseguridad, maraming 
 [Pagsulat ng backup ng seed phrase sa tatlong hakbang: ipinapakita ng screen ng wallet ang mga salita, kinokopya ninyo ang mga ito sa papel sa pamamagitan ng sulat-kamay sa parehong pagkakasunod-sunod, at pagkatapos ay sinusuri ninyo ang bawat salita kung tugma sa nasa screen. Gawin ito nang pribado at offline.](/micrographics/seed-phrase-paper-backup-01/tl.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)

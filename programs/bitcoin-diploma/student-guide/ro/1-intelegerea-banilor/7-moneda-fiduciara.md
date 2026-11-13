@@ -15,7 +15,7 @@ Sistemul fiat are mai mulți participanți principali:
 [Actorii dintr-un sistem monetar fiat și ceea ce circulă între ei: banca centrală stabilește politica monetară și decontează plățile dintre bănci, băncile comerciale dețin depozite care reprezintă datorii față de clienți, serviciile de plată transmit instrucțiuni, guvernul colectează impozite și efectuează cheltuieli, iar cetățenii și întreprinderile efectuează și încasează plăți.](/micrographics/fiat-system-flows-01/ro.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
 <!-- card: light -->

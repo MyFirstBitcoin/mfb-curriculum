@@ -1,6 +1,6 @@
 # 3.14 On-chain- og Lightning-betalinger
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
@@ -30,4 +30,4 @@ Hvilken betalingsvej forventer modtageren? Bekræft, om modtageren har angivet e
 
 Forestil Dem, at et forberedt scenarie tilbyder begge betalingsveje. Hvilken anmodning kan den påtænkte wallet bruge, og hvad ville De kontrollere, før De godkender den? Svaret afhænger af modtagerens betalingsanmodning, den anvendte wallet og situationen — ikke af en universel »bedste« betalingsvej.
 
-![Underviseren peger på to forskellige geometriske betalingsveje på en tavle, mens begynderen og de teknisk kyndige kursister overvejer dem.](https://cdn.sanity.io/images/vje9ehw2/production/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)
+![Underviseren peger på to forskellige geometriske betalingsveje på en tavle, mens begynderen og de teknisk kyndige kursister overvejer dem.](https://cdn.sanity.io/images/vje9ehw2/staging/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)

@@ -32,4 +32,4 @@
 
 **Ku gwada:** Don wani ɗan ƙaramin biyan kuɗi na ƙirƙira da kuma wani biyan kuɗi na ƙirƙira da ba a yawan yi, ku bayyana wace [daidaitawa tsakanin fa'ida da rashin amfani](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) ta fi muhimmanci. Kada ku zaɓi kayan aiki ko adadin kuɗi don kuɗaɗenku na kanku.
 
-![Malamin yana taimaka wa ɗalibai masu shekaru da waɗanda suka ƙware a fasaha su kwatanta waya, jakar kuɗi ta na'ura, da kwamfutar tafi-da-gidanka.](https://cdn.sanity.io/images/vje9ehw2/production/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)
+![Malamin yana taimaka wa ɗalibai masu shekaru da waɗanda suka ƙware a fasaha su kwatanta waya, jakar kuɗi ta na'ura, da kwamfutar tafi-da-gidanka.](https://cdn.sanity.io/images/vje9ehw2/staging/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)

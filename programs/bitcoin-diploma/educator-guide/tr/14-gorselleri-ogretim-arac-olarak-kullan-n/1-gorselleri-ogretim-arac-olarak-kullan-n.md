@@ -41,4 +41,4 @@ Gerçek bir öğrencinin [kurtarma ifadesini (seed phrase)](https://curriculum.m
 
 Koşullu bir metin ifadesini mutlak bir görsele dönüştürmeyin. Bir arz grafiği [fiyat](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) artışı ima etmemelidir. Bir [merkeziyetsizlik](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) haritası eşit etki ima etmemelidir. Bir cüzdan görseli, bitcoin'in cihazın içinde saklandığını ima etmemelidir.
 
-![Eğitmen, beyaz tahtada birbirine bağlı altı eşi, turuncu bereli genç öğrenci de dahil olmak üzere beş öğrencinin tamamına anlatıyor.](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![Eğitmen, beyaz tahtada birbirine bağlı altı eşi, turuncu bereli genç öğrenci de dahil olmak üzere beş öğrencinin tamamına anlatıyor.](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)

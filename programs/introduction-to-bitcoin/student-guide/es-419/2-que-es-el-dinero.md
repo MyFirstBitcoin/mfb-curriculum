@@ -12,9 +12,9 @@ En un sistema de trueque, el intercambio solo funciona cuando ambas personas qui
 
 Es un **medio de intercambio**: las personas lo aceptan como pago. Es una **unidad de cuenta**: los precios se expresan en ella, por lo que podemos comparar el valor de distintas cosas. Y es una **reserva de valor**: permite trasladar valor del presente al futuro. Ninguna forma de dinero conserva el valor a la perfección, pero algunas pierden poder adquisitivo más lentamente que otras.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 A lo largo de la historia, muchas cosas han servido como dinero: conchas, sal, cuentas, ganado, cobre, plata y oro. Los metales preciosos se usaron ampliamente porque eran escasos, duraderos y ampliamente aceptados. Pero transportar y proteger el metal es difícil, así que los bancos comenzaron a emitir documentos en papel que podían canjearse por una cantidad determinada de metal. Bajo distintas versiones de un **patrón oro**, una unidad monetaria estaba vinculada por ley a una cantidad de oro. Las reglas variaban según el lugar y la época.
 

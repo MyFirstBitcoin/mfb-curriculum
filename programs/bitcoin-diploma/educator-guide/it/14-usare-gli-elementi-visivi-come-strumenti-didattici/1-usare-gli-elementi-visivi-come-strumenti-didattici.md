@@ -41,4 +41,4 @@ Non mostri mai una [seed phrase](https://curriculum.myfirstbitcoin.org/lexicon/e
 
 Non trasformi un'affermazione testuale sfumata in un'immagine assoluta. Un grafico dell'offerta non deve suggerire una crescita del [prezzo](https://curriculum.myfirstbitcoin.org/lexicon/en/#price). Una mappa della [decentralizzazione](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) non deve suggerire un'influenza uguale per tutti. L'immagine di un wallet non deve suggerire che i bitcoin siano conservati all'interno del dispositivo.
 
-![L'educatore spiega su una lavagna sei peer interconnessi a tutti e cinque i discenti, compreso il giovane discente con un berretto arancione.](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![L'educatore spiega su una lavagna sei peer interconnessi a tutti e cinque i discenti, compreso il giovane discente con un berretto arancione.](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)

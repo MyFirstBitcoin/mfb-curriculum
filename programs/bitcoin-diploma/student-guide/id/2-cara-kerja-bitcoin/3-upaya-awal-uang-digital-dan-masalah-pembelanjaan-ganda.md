@@ -34,4 +34,4 @@ Makalah putih tersebut menyatukan fitur-fitur yang diperlukan untuk pendekatan i
 
 Modul ini menjelaskan konsep-konsep tersebut secara lebih terperinci. Secara bersama-sama, konsep-konsep ini memberikan jawaban praktis untuk [masalah pembelanjaan ganda](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): jaringan dapat menolak upaya kedua untuk membelanjakan bitcoin yang sama tanpa bergantung pada otoritas pusat. Bitcoin menawarkan kombinasi yang selama ini belum ditemukan dan telah dicari melalui eksperimen uang digital selama puluhan tahun.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)

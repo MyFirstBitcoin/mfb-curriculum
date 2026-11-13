@@ -30,4 +30,4 @@ Sebelum peragaan langsung apa pun, pastikan Anda mengetahui:
 
 Hasil lokakarya Anda seharusnya berupa penjelasan atau keterampilan, bukan sekadar penyelesaian sebuah [transaksi](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction).
 
-![Pendidik dan pemilik usaha berlatih bersama menggunakan ponsel pelatihan, keduanya melihat layar yang menghadap ke arah mereka.](https://cdn.sanity.io/images/vje9ehw2/production/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)
+![Pendidik dan pemilik usaha berlatih bersama menggunakan ponsel pelatihan, keduanya melihat layar yang menghadap ke arah mereka.](https://cdn.sanity.io/images/vje9ehw2/staging/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)

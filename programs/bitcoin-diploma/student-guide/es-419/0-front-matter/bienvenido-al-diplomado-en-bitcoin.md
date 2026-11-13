@@ -8,7 +8,7 @@ El proyecto comenzó con pequeñas clases presenciales en El Salvador en 2021, d
 
 Nuestro trabajo es independiente, impulsado por la comunidad y centrado en Bitcoin. Nos enfocamos en la educación financiera, la reflexión cuidadosa y la seguridad práctica, no en el trading, la especulación ni la promoción de otros tokens. No le pedimos que acepte una creencia. En cambio, brindamos conceptos, preguntas y conocimientos prácticos para que usted pueda sacar sus propias conclusiones.
 
-![El educador da la bienvenida a un principiante, un estudiante mayor, un propietario de negocio, un estudiante con conocimientos técnicos y un estudiante joven a un grupo de aprendizaje compartido.](https://cdn.sanity.io/images/vje9ehw2/production/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
+![El educador da la bienvenida a un principiante, un estudiante mayor, un propietario de negocio, un estudiante con conocimientos técnicos y un estudiante joven a un grupo de aprendizaje compartido.](https://cdn.sanity.io/images/vje9ehw2/staging/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
 
 ### Nuestra misión: educación sobre Bitcoin independiente y de código abierto
 

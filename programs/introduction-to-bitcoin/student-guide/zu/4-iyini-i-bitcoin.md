@@ -20,4 +20,4 @@ Okuphathelene nokubhala: **Bitcoin** ebhalwa ngo-B omkhulu ngokuvamile isho inet
 
 I-Bitcoin nayo inezinzuzo ezihambisana nokulahlekelwa okuthile. Intengo yayo ingashintsha ngokushesha. Ngokuvamile amaphutha awalungiseki. Ukwamukelwa kwayo kusalinganiselwe ezindaweni eziningi, futhi ukuyisebenzisa ngokuphepha kudinga ukufunda okuthile. I-Bitcoin ithatha indawo yokunye ukwethemba izikhungo ngokuqinisekisa nangokuzibophezela komuntu siqu. Ayibuqedi ubungozi.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

@@ -32,4 +32,4 @@
 
 **Try it:** For a small, fictional payment and a less-frequent fictional payment, explain which [trade-off](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) matters more. Do not choose a tool or amount for your own funds.
 
-![The educator helps the older and technical learners compare a phone, a hardware wallet, and a laptop.](https://cdn.sanity.io/images/vje9ehw2/production/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)
+![The educator helps the older and technical learners compare a phone, a hardware wallet, and a laptop.](https://cdn.sanity.io/images/vje9ehw2/staging/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)

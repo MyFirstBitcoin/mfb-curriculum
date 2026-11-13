@@ -19,7 +19,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## መብዛሕትኦም ሰባት ብዛዕባ ገንዘብ ደው ኢሎም ፈጺሞም ኣይሓስቡን
 
@@ -29,7 +29,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## ንመጀመሪ ሓሙሽተ ሕቶታት
 
@@ -49,7 +49,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## ሓቂ ወይስ ርእይቶ?
 
@@ -74,7 +74,7 @@ theme: mfb
 
 ክልቲኦም ሰባት፡ ነፍሲ ወከፎም ነቲ እቲ ካልእ ዘለዎ፡ ኣብ ሓደ እዋንን ብዝሰማማዕ መጠንን ክደልይዎ ኣለዎም።
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: ኣብቲ መምርሒ ዘሎ ኣብነት ተጠቐሙ፦ ሩዝ ተፍርዩ ኢኹም፣ ጫማ ድማ የድልየኩም፤ እቲ ሰራሕ ጫማ ግን ዘድልዮ ናይ ምግቢ ዘይቲ እዩ፣ ሩዝ ኣይኮነን። ክኢላታት ቁጠባ ነዚ ድርብ ምግጥጣም ድሌታት ይብልዎ። -->
 
@@ -96,13 +96,13 @@ theme: mfb
 
 ገንዘብ ንገንዘብነቱ ጥራይ ዝደልዮ ሰብ የለን። ጠቓሚ ዝኸውን፡ ካልኦት ሰባት ኣብ መጻኢ ካልኦት እውን ከም ዝቕበልዎ ትጽቢት ብምግባር ስለ ዝቕበልዎ እዩ።
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: ናይ ገንዘብ ኖት ሓንቲ ወረቐት ጥራይ እያ። ገንዘብ፡ ምሻጥ ካብ ምዕዳግ ብምፍላይ፡ ንጸገም ቀጥታዊ ልውውጥ ኣቑሑ ይፈትሖ፦ ሩዝኩም ንሓደ ሰብ ትሸጡ፡ ካብ ካልእ ድማ ጫማ ትዕድጉ። ንገንዘብ ካብ ቀጥታዊ ልውውጥ ኣቑሑ ዝፈልዮ እዚ እዩ። -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## ገንዘብ ዝገብሮም ሰለስተ ነገራት
 
@@ -114,7 +114,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## ካብ ዛዕጎላት ናብ ወረቐት
 
@@ -161,13 +161,13 @@ theme: mfb
 
 ## ዝቕባበን ዓቕሚ ምዕዳግን
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: ዝቕባበ ዋጋ ማለት ኣብ ሓፈሻዊ ደረጃ ዋጋታት ዘጋጥም ቀጻሊ ወሰኽ እዩ። እቲ ካልእ ገጹ ድማ ዓቕሚ ምዕዳግ እዩ፦ ሓደ ኣሃዱ ገንዘብ ክንደይ ክገዝእ ከም ዝኽእል። ዋጋ ሓደ ዘንቢል መሰረታዊ ኣቑሑት ካብ 100 ኣሃዱታት ገንዘብ ናብ 110 እንተ ወሲኹ፣ እቶም ተመሳሰልቲ 100 ኣሃዱታት ደጊም ነቲ ምሉእ ዘንቢል ክገዝኡ ኣይክእሉን። -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## ብዙሓት ምኽንያታት፣ ሓደ ምርጫ
 
@@ -285,7 +285,7 @@ theme: mfb
 
 ## ቢትኮይን ብቐጻሊ ክሰርሕ ዝገብር መን እዩ?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: ተጠቀምቲ ቢትኮይን ይሰዱ፣ ይቕበሉን ይዕቅቡን፤ ኖድታት ነፍሲ ወከፍ ልውውጥን ብሎክን ምስ ሕግታት ዝሰማማዕ ምዃኑ የረጋግጹ፤ ኣውጻእቲ ቢትኮይን ድማ ኣብ ከባቢ ነፍሲ ወከፍ ዓሰርተ ደቓይቕ ሓድሽ ብሎክ ኣብቲ መዝገብ ንምውሳኽ ይወዳደሩ። እቲ ብሎክቸይን ዝበሃል መዝገብ ንህዝቢ ክፉት እዩ፣ ዳግማይ ምጽሓፉ ድማ ኣዝዩ ብዙሕ ወጻኢ ይሓትት። ብዛዕባ ኣጸሓሕፋ ሓደ መዘኻኸሪ፦ Bitcoin ብዓቢ B ክጽሓፍ ከሎ፣ መብዛሕትኡ ግዜ ነቲ መርበብ ወይ ስርዓት የመልክት፤ bitcoin ብንእሽቶ b ክጽሓፍ ከሎ ድማ፣ ነቲ ገንዘብ ባዕሉ የመልክት። -->
 
@@ -330,7 +330,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## ናይ ዘርኢ ሓረግኩም ምሉእ መሰል ምእታው እዩ
 
@@ -350,7 +350,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## ዝኾነ ይኹን ቦርሳ ቅድሚ ምጥቃምኩም
 
@@ -391,7 +391,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## ደው በሉ፣ ዋላ ሓንቲ ኣይተካፍሉ፣ ዋላ ሓንቲ ኣይትልኣኹ
 
@@ -426,7 +426,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## ዲፕሎማ ቢትኮይን
 

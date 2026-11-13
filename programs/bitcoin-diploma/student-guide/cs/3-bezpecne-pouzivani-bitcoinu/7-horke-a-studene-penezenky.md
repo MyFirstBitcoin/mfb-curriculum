@@ -32,4 +32,4 @@
 
 **Vyzkoušejte si:** U malé fiktivní platby a u méně časté fiktivní platby vysvětlete, který [kompromis](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) je důležitější. Nevybírejte nástroj ani částku pro své vlastní prostředky.
 
-![Vyučující pomáhá starším a technicky zaměřeným účastníkům porovnat telefon, hardwarovou peněženku a notebook.](https://cdn.sanity.io/images/vje9ehw2/production/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)
+![Vyučující pomáhá starším a technicky zaměřeným účastníkům porovnat telefon, hardwarovou peněženku a notebook.](https://cdn.sanity.io/images/vje9ehw2/staging/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)

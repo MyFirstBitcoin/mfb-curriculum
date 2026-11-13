@@ -20,4 +20,4 @@ Qillqanamanta huk willakuy: **Bitcoin** hatun B sanampawanqa aswanta llikata uta
 
 Bitcoin nisqapas allin kaqkunawan kuska mana allin kaqkunayuqmi. Chaniqa utqayllam tikrakunman. Pantasqakunaqa aswantaqa wiñaypaqmi. Achka kitikunapiraqmi chaskikuyninqa pisilla, hinaspa mana sasachakuypi llamk'achinapaqqa yachakuna kan. Bitcoin nisqaqa tantanakuykunapi wakin iñiyta chiqaqchaywan, kikin ruwasqanmanta kutichiywan ima rantichin. Manam sasachakuypi kaytaqa chinkachinchu.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

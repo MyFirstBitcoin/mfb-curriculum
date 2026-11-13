@@ -19,7 +19,7 @@ Kita menggunakan wang setiap hari, namun jarang bertanya bagaimana wang berfungs
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Kebanyakan Orang Tidak Pernah Meluangkan Masa untuk Memikirkan Wang
 
@@ -29,7 +29,7 @@ Bukan memperolehnya, bukan membelanjakannya, tetapi memikirkan apakah wang itu d
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Lima Soalan untuk Bermula
 
@@ -49,7 +49,7 @@ Bukan memperolehnya, bukan membelanjakannya, tetapi memikirkan apakah wang itu d
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Fakta atau Pendapat?
 
@@ -74,7 +74,7 @@ Wang ialah alat pertukaran.
 
 Kedua-dua orang mesti menginginkan apa yang dimiliki oleh satu sama lain, pada masa yang sama dan dalam kuantiti yang sesuai.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Gunakan contoh dalam panduan ini: anda menanam padi dan memerlukan kasut, tetapi pembuat kasut mahukan minyak masak, bukan beras. Ahli ekonomi menamakan keadaan ini sebagai kebetulan berganda kehendak. -->
 
@@ -96,13 +96,13 @@ Kedua-dua orang mesti menginginkan apa yang dimiliki oleh satu sama lain, pada m
 
 Tiada siapa yang mahukan wang semata-mata untuk memilikinya. Wang berguna kerana orang lain menerimanya, dengan jangkaan bahawa orang lain juga akan menerimanya kemudian.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Wang kertas hanyalah sehelai kertas. Wang menyelesaikan masalah barter dengan memisahkan urusan menjual daripada urusan membeli: anda menjual beras anda kepada seseorang dan membeli kasut daripada orang lain. Inilah yang membezakan wang daripada barter. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Tiga Fungsi Wang
 
@@ -114,7 +114,7 @@ Tiada wang yang menyimpan nilai dengan sempurna, tetapi sesetengah bentuk wang k
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Daripada Cangkerang kepada Wang Kertas
 
@@ -161,13 +161,13 @@ Apabila orang mendengar perkataan inflasi, mereka biasanya terfikir tentang kena
 
 ## Inflasi dan Kuasa Beli
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Inflasi harga ialah kenaikan berterusan dalam paras harga umum. Sisi lainnya ialah kuasa beli: berapa banyak yang boleh dibeli dengan satu unit wang. Jika harga sebakul barangan asas meningkat daripada 100 unit mata wang kepada 110, 100 unit yang sama tidak lagi dapat membeli keseluruhan bakul barangan tersebut. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Pelbagai Sebab, Satu Pilihan
 
@@ -285,7 +285,7 @@ Satu bitcoin boleh dibahagikan kepada 100,000,000 unit yang lebih kecil yang dip
 
 ## Siapakah yang Memastikan Bitcoin Terus Beroperasi?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Pengguna menghantar, menerima dan menyimpan bitcoin; nod menyemak setiap transaksi dan blok berdasarkan peraturan; pelombong bersaing untuk menambah blok baharu pada rekod kira-kira setiap sepuluh minit. Rekod itu, iaitu rantaian blok, terbuka kepada umum dan amat mahal untuk ditulis semula. Nota tentang ejaan: Bitcoin dengan huruf besar B biasanya merujuk kepada rangkaian atau sistem; bitcoin dengan huruf kecil b merujuk kepada wang itu sendiri. -->
 
@@ -330,7 +330,7 @@ Memilih jenis jagaan bukanlah ukuran nilai diri. Yang penting ialah mengetahui j
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Frasa Benih Anda Memberikan Akses Penuh
 
@@ -350,7 +350,7 @@ Senarai perkataan yang tersusun, biasanya 12 atau 24 perkataan, yang boleh menci
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Sebelum Anda Menggunakan Sebarang Dompet
 
@@ -391,7 +391,7 @@ Senarai perkataan yang tersusun, biasanya 12 atau 24 perkataan, yang boleh menci
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Berhenti, Jangan Kongsi Apa-apa, Jangan Hantar Apa-apa
 
@@ -426,7 +426,7 @@ Ini hanyalah permulaan.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Diploma Bitcoin
 

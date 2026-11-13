@@ -9,7 +9,7 @@
 > Ba [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) ko [rashin KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) ne ya fi dacewa kai tsaye ba. Ku kwatanta ainihin hanyar, ku yi amfani da jagororin yankinku na yanzu idan ƙa'idoji ba su bayyana ba, kuma kada ku karya dokar yankinku ko ku jefa kanku cikin haɗari na jiki domin neman [sirri](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
 Wani [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) sabis na iya buƙatar suna na doka, takardar shaida, adireshi, hoto, bayanin tushen kuɗi, ko wasu bayanai. Wannan na iya ba sabis ɗin damar bin ƙa'idojin yankin, haɗuwa da bankuna, ƙara iyakokin mu'amala, ko taimakawa wajen dawo da damar shiga asusu.
 

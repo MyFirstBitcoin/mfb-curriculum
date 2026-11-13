@@ -21,7 +21,7 @@ Breng een eenvoudige lokale kringloop in kaart:
 1. Wat gebeurt er als de internettoegang uitvalt?
 1. Welke risico's op het gebied van [bewaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) en [prijs](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) draagt elke deelnemer?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
 
 Een gezonde circulaire economie is afhankelijk van vrijwillige deelname. Handelaren en werknemers moeten de risico's op het gebied van betaling, prijsstelling, [bewaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), boekhouding en [volatiliteit](https://curriculum.myfirstbitcoin.org/lexicon/en/#volatility) kunnen herkennen. Adoptiecijfers alleen laten niet zien of het netwerk nuttig is.
 

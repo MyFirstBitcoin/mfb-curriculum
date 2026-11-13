@@ -12,9 +12,9 @@ Ini wan sistema pe sma e froisi sani nanga sani, a froisi kan waka nomo te ala t
 
 A na wan **middel fu froisi**: sma e teki en leki pai. A na wan **enheid fu reken**: den e taki omeni sani e kosti ini a enheid disi, meki wi kan weri a warti fu difrenti sani nanga makandra. Èn a na wan **fasi fu kibri warti**: a e tyari warti fu tide go na a ten di e kon. No wan sortu moni e kibri warti sondro fu lasi wan pisi, ma son sortu e lasi den krakti fu bai moro safri leki tra sortu.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Doro a heri historie, sma ben gebroiki furu sani leki moni: skropu, sowtu, krara, kweki meti, kopro, sorfu nanga gowtu. Sma ben bigin gebroiki diri metali na furu presi, bika den no ben de furu, den ben kan tan bun langa èn furu sma ben e teki den. Ma fu tyari metali èn fu kibri en bun na wan tranga sani. Dati meki banki ben bigin gi papira di ben gi a sma a reti fu froisi en fu wan taki how furu metali. Na ondro difrenti sortu fu wan **gowtustandarti**, wan enheid fu moni ben de fasi na wan how furu gowtu doro wèt. Den wèt ben difrenti fu presi go na presi èn fu ten go na ten.
 

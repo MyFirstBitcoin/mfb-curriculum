@@ -32,4 +32,4 @@
 
 **Probajte:** Za jedno malo, izmišljeno plaćanje i jedno ređe izmišljeno plaćanje objasnite koji [kompromis](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) ima veći značaj. Nemojte birati alat niti iznos za sopstvena sredstva.
 
-![Predavač pomaže starijim polaznicima i polaznicima sa tehničkim znanjem da uporede telefon, hardverski novčanik i laptop.](https://cdn.sanity.io/images/vje9ehw2/production/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)
+![Predavač pomaže starijim polaznicima i polaznicima sa tehničkim znanjem da uporede telefon, hardverski novčanik i laptop.](https://cdn.sanity.io/images/vje9ehw2/staging/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)

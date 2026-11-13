@@ -27,7 +27,7 @@ Sinusunod ng bawat modyul ang iisang daloy:
 
 Mas marami kayong matututuhan sa pakikilahok kaysa sa tahimik na pagbabasa. Ang ilang tanong ay walang iisang tamang sagot. Ang mahalaga ay kung maipapaliwanag ninyo ang inyong pangangatwiran, masusuri ang ebidensiya, at mababago ang inyong pananaw kapag may natutuhan kayong bago.
 
-![Itinuturo ng may-ari ng negosyo ang isang simpleng dayagram sa isang nakabukas na gabay habang tinatalakay ito sa kaniya ng tagapagturo sa isang mesa sa silid-aralan.](https://cdn.sanity.io/images/vje9ehw2/production/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
+![Itinuturo ng may-ari ng negosyo ang isang simpleng dayagram sa isang nakabukas na gabay habang tinatalakay ito sa kaniya ng tagapagturo sa isang mesa sa silid-aralan.](https://cdn.sanity.io/images/vje9ehw2/staging/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
 
 ### Mga inaasahan sa talakayan at pagkapribado
 
@@ -50,7 +50,7 @@ Ipapaliwanag ng inyong tagapagturo ang anumang kinakailangang gawain sa pagtatas
 
 Gumagamit ang inyong tagapagturo ng talahanayan ng pagtatasa upang magtala ng isang resulta para sa bawat isa sa pitong kakayahang nakasaad sa itaas. `C1`–`C5` ay tinatasa sa pamamagitan ng inyong sariling mga paliwanag at pasiya; `C6`–`C7` ay nangangailangan ng direktang obserbasyon. Kapwa ang gawain sa wallet/resibo at ang gawain sa paghahanda para sa pagbawi ay mga kinakailangang bahagi ng `C6`.
 
-![Tinutugunan ng tagapagturo ang baguhang mag-aaral na nakataas ang kamay habang sumasabay sa aralin ang mas nakatatandang mag-aaral gamit ang nakabukas na gabay sa kurso.](https://cdn.sanity.io/images/vje9ehw2/production/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
+![Tinutugunan ng tagapagturo ang baguhang mag-aaral na nakataas ang kamay habang sumasabay sa aralin ang mas nakatatandang mag-aaral gamit ang nakabukas na gabay sa kurso.](https://cdn.sanity.io/images/vje9ehw2/staging/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
 
 ### Kinakailangang paunang kaalaman: wala
 

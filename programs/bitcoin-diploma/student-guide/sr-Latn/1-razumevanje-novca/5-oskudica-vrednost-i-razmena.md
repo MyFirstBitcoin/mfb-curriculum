@@ -11,7 +11,7 @@ Resursi su ograničeni, dok ljudske želje nisu.
 
 Sama [vrednost](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) nekog dobra nije sadržana u samom predmetu. Ljudi [vrednuju](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) dobra prema svojim potrebama, sklonostima, informacijama i okolnostima. To se ponekad naziva [**subjektivnom vrednošću**](https://curriculum.myfirstbitcoin.org/lexicon/en/#subjective-value). Čista voda može biti jeftina u blizini bezbednog javnog izvora i izuzetno vredna tokom nestašice.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
 
 
 <!-- micrographic: same-water-different-value-01 -->

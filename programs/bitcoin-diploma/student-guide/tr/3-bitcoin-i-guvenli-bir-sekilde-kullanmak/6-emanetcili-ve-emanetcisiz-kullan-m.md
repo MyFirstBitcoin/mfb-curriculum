@@ -12,7 +12,7 @@ Bu fark, doğrulama açısından önemlidir. Bitcoin'in kuralları ve toplam arz
 
 Bir **emanetçisiz** veya **öz saklamalı** cüzdanda anahtarları SİZ kontrol edersiniz. Cüzdan, [işlemleri](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) sizin yetkiniz altında imzalar. Yine de yazılım, donanım, sunucu veya ağ bağımlılıkları olabilir; ancak hiçbir [emanetçinin](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian) geçerli bir zincir üstü harcamayı onaylaması gerekmez.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 
 <!-- micrographic: who-controls-keys-01 -->

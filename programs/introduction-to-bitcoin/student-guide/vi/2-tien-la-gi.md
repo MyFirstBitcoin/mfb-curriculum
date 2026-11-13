@@ -12,9 +12,9 @@ Trong một hệ thống trao đổi hàng lấy hàng, việc trao đổi chỉ
 
 Tiền là một **phương tiện trao đổi**: mọi người chấp nhận tiền để thanh toán. Tiền là một **đơn vị tính toán**: giá cả được biểu thị bằng tiền, nhờ đó chúng ta có thể so sánh giá trị của những thứ khác nhau. Và tiền là một **phương tiện lưu trữ giá trị**: tiền chuyển giá trị từ hiện tại sang tương lai. Không loại tiền nào lưu trữ giá trị một cách hoàn hảo, nhưng một số dạng tiền mất sức mua chậm hơn những dạng khác.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Trong suốt lịch sử, nhiều thứ đã được dùng làm tiền: vỏ sò, muối, hạt cườm, gia súc, đồng, bạc và vàng. Kim loại quý được sử dụng rộng rãi vì chúng khan hiếm, bền và được chấp nhận rộng rãi. Nhưng việc mang theo và bảo vệ kim loại rất khó khăn, nên các ngân hàng bắt đầu phát hành giấy chứng nhận quyền đổi lấy một lượng kim loại được ghi rõ. Theo các hình thức khác nhau của **chế độ bản vị vàng**, một đơn vị tiền tệ được pháp luật quy định gắn với một lượng vàng. Các quy tắc khác nhau tùy theo địa điểm và thời kỳ.
 

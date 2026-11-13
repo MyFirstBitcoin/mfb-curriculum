@@ -18,4 +18,4 @@ A Bitcoin megteremti a digitális [szűkösséget](https://curriculum.myfirstbit
 [A weboldalon vagy a kibocsátó adatbázisában rögzített kínálati korlátot a kibocsátó észrevétlenül megváltoztathatja. A Bitcoin kínálati szabálya nyilvános, és az aláírások, a nyilvános tranzakciótörténet, a munkabizonyíték és a csomópontok általi ellenőrzés együttesen megakadályozzák, hogy új érméket hozzanak létre önkényesen, vagy ugyanazt a bitcoint kétszer költsék el.](/micrographics/claimed-or-verified-supply-01/hu.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)

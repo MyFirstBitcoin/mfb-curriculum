@@ -22,4 +22,4 @@ Egy előkészített [tranzakció](https://curriculum.myfirstbitcoin.org/lexicon/
 [Egy tranzakció megerősítés nélkül várakozik a függő tranzakciók gyűjtőhelyén, majd bekerül az N. blokkba, ami az első megerősítését jelenti, és minden későbbi blokk további egy megerősítést ad hozzá.](/micrographics/confirmation-timeline-01/hu.md)
 
 
-![Az oktató és az idősebb tanuló egy előre elkészített példát beszél meg a csoport felé fordított monitoron, miközben a műszaki ismeretekkel rendelkező tanuló kezeli az egeret; a néző a monitor hátlapját látja.](https://cdn.sanity.io/images/vje9ehw2/production/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)
+![Az oktató és az idősebb tanuló egy előre elkészített példát beszél meg a csoport felé fordított monitoron, miközben a műszaki ismeretekkel rendelkező tanuló kezeli az egeret; a néző a monitor hátlapját látja.](https://cdn.sanity.io/images/vje9ehw2/staging/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)

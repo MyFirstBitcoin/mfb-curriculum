@@ -34,4 +34,4 @@ Farar takardar ta haɗa fasalolin da ake buƙata don wannan hanya:
 
 Wannan sashe yana bayyana waɗannan ra'ayoyi dalla-dalla. A tare, sun samar da mafita mai amfani ga [matsalar kashe kuɗi ɗaya sau biyu](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): hanyar sadarwar za ta iya ƙin amincewa da yunƙurin kashe bitcoin ɗaya a karo na biyu ba tare da dogaro da wata hukuma ta tsakiya ba. Bitcoin ya samar da haɗin abubuwan da aka rasa, wanda gwaje-gwajen kuɗin dijital suka shafe shekaru da dama suna nema.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)

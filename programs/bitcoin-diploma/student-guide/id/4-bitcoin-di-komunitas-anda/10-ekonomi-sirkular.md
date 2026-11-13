@@ -21,7 +21,7 @@ Petakan siklus lokal sederhana:
 1. Apa yang terjadi ketika akses internet terputus?
 1. Risiko [kustodi](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) dan [harga](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) apa yang ditanggung setiap peserta?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
 
 Ekonomi sirkular yang sehat bergantung pada partisipasi sukarela. Pedagang dan pekerja harus mampu mengidentifikasi risiko pembayaran, penetapan harga, [kustodi](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), akuntansi, dan [volatilitas](https://curriculum.myfirstbitcoin.org/lexicon/en/#volatility). Angka adopsi saja tidak menunjukkan apakah jaringan tersebut bermanfaat.
 

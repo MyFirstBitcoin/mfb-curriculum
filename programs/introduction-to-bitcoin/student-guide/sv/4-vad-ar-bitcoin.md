@@ -20,4 +20,4 @@ En anmärkning om stavningen: **Bitcoin** med stort B avser vanligtvis nätverke
 
 Bitcoin innebär också avvägningar. Priset kan förändras snabbt. Misstag går vanligtvis inte att rätta till. På många håll accepteras bitcoin fortfarande i begränsad utsträckning, och det krävs viss inlärning för att använda det säkert. Bitcoin ersätter en del av tilliten till institutioner med verifiering och personligt ansvar. Det tar inte bort riskerna.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

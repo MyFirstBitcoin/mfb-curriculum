@@ -1,6 +1,6 @@
 # 2.10 Uthibitisho wa Kazi
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
 <!-- card: definition -->
@@ -29,4 +29,4 @@ Wakati [mchimbaji](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) anap
 
 [Proof-of-Work](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) inahusisha gharama halisi ya nishati. Wafuasi wanadai kwamba gharama hii ndiyo inayoimarisha usalama wa Bitcoin na inaweza kuzalisha mahitaji ya nishati inayonyumbulika au ambayo vinginevyo isingetumika. Wakosoaji wanahoji kiasi na chanzo cha nishati inayotumika. Tathmini ya kuwajibika huuliza ni nishati gani inayotumika, inatoka wapi, inatoa usalama gani, na ni njia mbadala zipi zinazolinganishwa.
 
-![Mwalimu, mwanafunzi anayeanza, na mwanafunzi wa kiufundi wanajadili kifaa kidogo cha uchimbaji kilichowekwa mezani, chenye feni na kifaa tofauti cha kusambaza umeme.](https://cdn.sanity.io/images/vje9ehw2/production/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)
+![Mwalimu, mwanafunzi anayeanza, na mwanafunzi wa kiufundi wanajadili kifaa kidogo cha uchimbaji kilichowekwa mezani, chenye feni na kifaa tofauti cha kusambaza umeme.](https://cdn.sanity.io/images/vje9ehw2/staging/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)

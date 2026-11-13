@@ -34,4 +34,4 @@ Verteilen Sie kurze, erfundene Szenarien im Raum. An jeder Station notieren die 
 
 Nehmen Sie eine seriös wirkende Nachricht ohne offensichtliche Rechtschreibfehler auf. Betrug sollte nicht so vermittelt werden, als sei er nur deshalb leicht zu erkennen, weil er unprofessionell wirkt.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)

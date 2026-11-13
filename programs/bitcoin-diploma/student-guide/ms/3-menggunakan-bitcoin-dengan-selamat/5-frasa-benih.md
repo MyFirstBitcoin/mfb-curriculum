@@ -36,4 +36,4 @@ Sesetengah dompet menggunakan frasa laluan tambahan, berbilang kunci, atau siste
 [Menulis salinan sandaran frasa benih dalam tiga langkah: skrin dompet memaparkan perkataan, anda menyalinnya dengan tangan di atas kertas mengikut urutan yang sama, kemudian menyemak setiap perkataan dengan yang tertera pada skrin. Lakukan secara tertutup dan di luar talian.](/micrographics/seed-phrase-paper-backup-01/ms.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)

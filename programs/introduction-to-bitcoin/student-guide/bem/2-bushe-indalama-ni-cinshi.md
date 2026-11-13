@@ -12,9 +12,9 @@ Mu musango wa kusanshishanya ifintu ku fintu, ukusanshishanya kulacitika fye nga
 
 Ni **nshila ya kusanshishanya ifintu**: abantu balashipokelela mu kulipilwa. Ni **cipimo ca kupendelamo umutengo**: imitengo ilalandwa mu ndalama, e co kuti twapashanya imitengo ya fintu ifyapusana. Kabili ni **busungilo bwa mutengo**: shilasunga umutengo ukufuma lelo ukufika kuntanshi. Takwaba indalama ishasunga umutengo mu nshila iyapwililika, lelo imisango imo iya ndalama ilaluza amaka ya kushita panono panono ukucila imbi.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Ukufuma kale, ifintu ifingi fyalebomfiwa nga ndalama: ifikolopwa, umucele, ubulungu, ifitekwa, umukuba, siliva, na golide. Ifyela fya mutengo fyalishile bomfiwa ku ncende ishingi pantu fyali ifyakusanga mu bwafya, fyalekokola ukwisaonaika, kabili fyalepokelelwa na bantu abengi. Lelo ukusenda no kucingilila ifyela kwaliba ukwayafya, e co amabanki yatendeke ukufumya amapeepala ayaleiminina ubusokololo bwa kupokelela ubwingi bwa fyela ubwalembelwepo. Mu misango iyapusana iya **ndinganizo ya ndalama na golide**, icipimo ca ndalama calekakanishiwa ku bwingi bwa golide ukulingana ne funde. Amafunde yalepusana ukulingana ne ncende ne nshita.
 

@@ -10,7 +10,7 @@
 
 Apoi, întrebați-vă ce permite modelul respectiv. În funcție de reguli, o [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) poate permite o decontare mai rapidă, un acces mai larg sau funcționalități noi pentru plăți. De asemenea, poate oferi instituțiilor o capacitate sporită de a monitoriza [tranzacțiile](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), de a aplica reguli, de a limita utilizarea sau de a asocia identitatea direct cu plățile. Acesta este controlul centralizat: o instituție stabilește sau modifică regulile relevante, nu utilizatorii obișnuiți în mod independent.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->

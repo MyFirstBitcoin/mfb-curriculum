@@ -15,7 +15,7 @@ Orang dapat menerima bitcoin melalui pekerjaan, pembayaran komunitas, pertukaran
 * **Pertukaran antarindividu:** Dua orang dapat menukarkan [uang fiat](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) atau barang dengan bitcoin secara langsung atau melalui layanan pencocokan. Hal ini dapat menimbulkan risiko terkait pihak lawan transaksi, keselamatan fisik, pembatalan pembayaran, dan penipuan.
 * **Bursa, pialang, ATM, atau kios:** Layanan atau mesin dapat menyediakan jalur yang sudah dikenal, tetapi mungkin melibatkan biaya, pemeriksaan identitas, [kustodi](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), batas penarikan, atau [nilai tukar yang kurang menguntungkan](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
 
 Sebelum membandingkan suatu jalur, ajukan pertanyaan:
 

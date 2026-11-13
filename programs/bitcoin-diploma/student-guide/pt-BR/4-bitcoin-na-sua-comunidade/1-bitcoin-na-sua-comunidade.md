@@ -1,6 +1,6 @@
 # 4.1 Bitcoin na sua comunidade
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
 
 Esta é a etapa **Conectar** do Bitcoin Diploma. Você vai conectar as falhas do sistema monetário moderno e as [contrapartidas](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off), a resposta do Bitcoin e a responsabilidade pelo uso seguro, vistas nos **Módulos 1 a 3**, a uma necessidade ou oportunidade local, a uma alternativa realista e a uma tarefa prática segura. Não se espera que você adote o Bitcoin nem que conclua que ele é a melhor opção em todas as situações locais.
 

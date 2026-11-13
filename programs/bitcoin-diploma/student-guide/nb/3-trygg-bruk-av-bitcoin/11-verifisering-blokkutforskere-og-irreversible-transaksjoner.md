@@ -22,4 +22,4 @@ For å undersøke en klargjort [transaksjon](https://curriculum.myfirstbitcoin.o
 [En transaksjon venter ubekreftet i transaksjonskøen, blir deretter inkludert i blokk N og får sin første bekreftelse, og hver påfølgende blokk legger til én bekreftelse til.](/micrographics/confirmation-timeline-01/nb.md)
 
 
-![Læreren og den eldre deltakeren diskuterer et forberedt eksempel på en skjerm som vender mot gruppen, mens den teknisk kyndige deltakeren bruker musen; betrakteren ser baksiden av skjermen.](https://cdn.sanity.io/images/vje9ehw2/production/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)
+![Læreren og den eldre deltakeren diskuterer et forberedt eksempel på en skjerm som vender mot gruppen, mens den teknisk kyndige deltakeren bruker musen; betrakteren ser baksiden av skjermen.](https://cdn.sanity.io/images/vje9ehw2/staging/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)

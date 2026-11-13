@@ -9,7 +9,7 @@
 > Neither [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) nor [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) is automatically best. Compare the actual pathway, use current local guidance when rules are unclear, and do not break local law or expose yourself to physical danger in pursuit of [privacy](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
 A [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) service may request a legal name, identity document, address, photograph, source-of-funds information, or other records. This may allow the service to meet local rules, connect to banks, set higher limits, or support account recovery.
 

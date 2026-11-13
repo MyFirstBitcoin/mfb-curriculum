@@ -15,7 +15,7 @@ Hãy giảng giải các hệ quả:
 [Cụm từ khôi phục là một danh sách các từ theo thứ tự, ở đây là mười hai từ mẫu được đánh số và viết trên giấy. Các từ chính xác theo đúng thứ tự có thể khôi phục quyền kiểm soát trong một ví tương thích, vì vậy cụm từ này cần được giữ bí mật và lưu trữ ngoại tuyến.](/micrographics/seed-phrase-on-paper-01/vi.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
 
 #### Tuyệt đối không làm những việc sau trong lớp
 
@@ -56,4 +56,4 @@ Hãy giảng giải các hệ quả:
 
 Việc thừa kế, [đa chữ ký](https://curriculum.myfirstbitcoin.org/lexicon/en/#multisignature) trong thiết kế ví, các cụm mật khẩu nâng cao và việc lập kế hoạch khôi phục tài sản giá trị lớn có thể đòi hỏi biện pháp bảo mật nâng cao và tư vấn pháp lý chuyên nghiệp. Những nội dung này nằm ngoài yêu cầu thực hành bắt buộc của Bitcoin Diploma.
 
-![Giảng viên hướng dẫn cuộc thảo luận về mức độ sẵn sàng khôi phục trong khi học viên lớn tuổi đặt một thẻ thực hành trống vào phong bì, còn học viên am hiểu kỹ thuật quan sát.](https://cdn.sanity.io/images/vje9ehw2/production/23cdb205174fa99b2d0df47ef606b53f8329f152-1054x1492.png)
+![Giảng viên hướng dẫn cuộc thảo luận về mức độ sẵn sàng khôi phục trong khi học viên lớn tuổi đặt một thẻ thực hành trống vào phong bì, còn học viên am hiểu kỹ thuật quan sát.](https://cdn.sanity.io/images/vje9ehw2/staging/23cdb205174fa99b2d0df47ef606b53f8329f152-1054x1492.png)

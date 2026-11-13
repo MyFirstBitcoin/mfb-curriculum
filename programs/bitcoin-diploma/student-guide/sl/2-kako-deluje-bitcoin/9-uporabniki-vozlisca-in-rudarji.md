@@ -23,4 +23,4 @@ Nekateri ljudje opravljajo več vlog. Posamezen [rudar](https://curriculum.myfir
 
 **Kratko vprašanje:** Zakaj posamezno [vozlišče](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) preverja [transakcije](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction)? Navedite vsaj eno pravilo, ki ga [vozlišče](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) preverja.
 
-![Izobraževalec usmerja tehnično usmerjenega udeleženca pri računalniku, na katerem deluje vozlišče; zaslon je obrnjen proti njima, gledalec pa vidi zadnjo stran njegovega ohišja.](https://cdn.sanity.io/images/vje9ehw2/production/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)
+![Izobraževalec usmerja tehnično usmerjenega udeleženca pri računalniku, na katerem deluje vozlišče; zaslon je obrnjen proti njima, gledalec pa vidi zadnjo stran njegovega ohišja.](https://cdn.sanity.io/images/vje9ehw2/staging/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)

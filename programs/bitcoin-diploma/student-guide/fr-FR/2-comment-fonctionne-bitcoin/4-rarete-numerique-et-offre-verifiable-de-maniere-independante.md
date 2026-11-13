@@ -18,4 +18,4 @@ Bitcoin crée une forme numérique de [rareté](https://curriculum.myfirstbitcoi
 [Une limite de l’offre inscrite sur un site web ou dans la base de données d’un émetteur peut être modifiée discrètement par cet émetteur. La règle de Bitcoin sur l’offre est publique, et les signatures, l’historique public, la preuve de travail et la vérification par les nœuds empêchent ensemble la création d’unités de monnaie non autorisées ou la dépense du même bitcoin deux fois.](/micrographics/claimed-or-verified-supply-01/fr-FR.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)

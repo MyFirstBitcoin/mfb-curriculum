@@ -12,9 +12,9 @@ Mwa mukwa wa kucincana linto ka linto, kucincana ku kona kueziwa feela ha batu b
 
 Ki **sisebeliso sa kucincana**: batu ba a amuhela mwa kulipelwa. Ki **muyelo wa kubalela**: litheko li boniswa ka ona, cwale lu kona kuswanisa butokwa bwa linto ze shutana. Mi ki **mukwa wa kubuluka butokwa**: a fetisa butokwa ku zwa kwa lizazi la kacenu ku isa kwa nako ya kwapili. Hakuna masheleñi a buluka butokwa ka ku tala, kono mifuta ye miñwi i latehelwa ki maata a kuleka ka bunya ku fita ye miñwi.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Mwa litaba za kwamulaho, linto ze ñata ne li sebelisizwe sina masheleñi: likolopata za mwa mezi, muŵa, lifaha, lifolofolo ze luilwe, kopolo, silivela ni gauda. Mitale ya butokwa ne i kalile kusebeliswa hahulu kakuli ne i sa fumanehi bunolo, ne i tiile mi ne i amuhelwa ki batu babañata. Kono kuwala ni kusileleza mitale ku thata, ki fo libanka ne li kalile kufa lipampili ze ne li fa bañi ba zona swanelo ya kufumana bungi bwa mutale bo bu ng'ozwi. Mwa mifuta ye shutana ya **mukwa wa kueza gauda muyelo wa masheleñi**, yuniti ya masheleñi ne i tamiwa ka mulao ku bungi bo bu beilwe bwa gauda. Melao ne i shutana ku ya ka sibaka ni nako.
 

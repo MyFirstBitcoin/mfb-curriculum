@@ -15,7 +15,7 @@ Mense kan bitcoin ontvang deur werk, 'n gemeenskapsbetaling, 'n eweknie-uitruili
 * **Eweknie (P2P)-uitruiling:** Twee mense kan [fiatgeld](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) of goedere direk of deur 'n bemiddelingsdiens vir bitcoin ruil. Dit kan risiko's rakende die teenparty, fisieke veiligheid, betalingsomkering en bedrog meebring.
 * **Beurs, makelaar, OTM of kiosk:** 'n Diens of masjien kan 'n bekende roete bied, maar kan fooie, identiteitskontroles, [bewaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), onttrekkingsperke of 'n swak [Wisselkoers](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate) behels.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
 
 Vra die volgende voordat u 'n roete vergelyk:
 

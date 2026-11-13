@@ -24,4 +24,4 @@ Detenga la actividad de inmediato si:
 [Una condición insegura o sin explicación detiene la actividad. El educador protege a las personas y la información secreta y verifica el problema; un error de evaluación que compromete la seguridad se registra como Aún no, y el estudiante restablece las condiciones, practica y vuelve a ser evaluado más adelante.](/micrographics/stop-when-check-fails-01/es-419.md)
 
 
-![El educador levanta la mano con la palma abierta para pausar una actividad mientras el principiante baja un celular y el estudiante con conocimientos técnicos cierra parcialmente una computadora portátil.](https://cdn.sanity.io/images/vje9ehw2/production/adb5c936fe5622b3c0b62f060349af1097eee5b0-1055x1491.png)
+![El educador levanta la mano con la palma abierta para pausar una actividad mientras el principiante baja un celular y el estudiante con conocimientos técnicos cierra parcialmente una computadora portátil.](https://cdn.sanity.io/images/vje9ehw2/staging/adb5c936fe5622b3c0b62f060349af1097eee5b0-1055x1491.png)

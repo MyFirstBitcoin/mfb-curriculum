@@ -15,7 +15,7 @@ Man kan modtage bitcoin gennem arbejde, en betaling i et fællesskab, en udveksl
 * **Udveksling mellem privatpersoner:** To personer kan udveksle [fiatpenge](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) eller varer mod bitcoin direkte eller gennem en formidlingstjeneste. Dette kan medføre risici vedrørende modparten, fysisk sikkerhed, tilbageførsel af betalinger og svindel.
 * **Børs, mægler, automat eller kiosk:** En tjeneste eller maskine kan tilbyde en velkendt fremgangsmåde, men kan indebære gebyrer, identitetskontrol, [opbevaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), udbetalingsgrænser eller en dårlig [vekselkurs](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
 
 Før De sammenligner en fremgangsmåde, skal De spørge:
 

@@ -16,4 +16,4 @@ Chọn hai hoặc ba ví dụ sau, không chọn tất cả. Duyệt qua [Thư v
 
 Sử dụng các trò chơi [đồng thuận](https://curriculum.myfirstbitcoin.org/lexicon/en/#consensus), hoạt động băm, video và hoạt động nhập vai chỉ khi mục đích, thời điểm, bối cảnh người học và phần thảo luận tổng kết đều được bảo đảm tốt. Một hoạt động chỉ cung cấp minh chứng lý thuyết do nhà giáo dục hướng dẫn khi đó là một điểm tiếp xúc học tập phù hợp với năng lực, có minh chứng cá nhân, bảng tiêu chí đánh giá và quy trình ghi nhận. Nếu không, hãy sử dụng hoạt động đó để đánh giá trong quá trình học.
 
-![Chủ doanh nghiệp giải thích về một mạng lưới các bên ngang hàng trong khi nhà giáo dục lắng nghe và người học trẻ tuổi theo dõi với một cuốn sổ ghi chép.](https://cdn.sanity.io/images/vje9ehw2/production/359b55ce824c4e7e1fb6d3f1e0b5dbc01f7c6db6-1054x1493.png)
+![Chủ doanh nghiệp giải thích về một mạng lưới các bên ngang hàng trong khi nhà giáo dục lắng nghe và người học trẻ tuổi theo dõi với một cuốn sổ ghi chép.](https://cdn.sanity.io/images/vje9ehw2/staging/359b55ce824c4e7e1fb6d3f1e0b5dbc01f7c6db6-1054x1493.png)

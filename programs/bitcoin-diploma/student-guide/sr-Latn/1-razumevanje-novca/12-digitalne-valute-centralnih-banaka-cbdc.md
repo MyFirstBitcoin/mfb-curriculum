@@ -10,7 +10,7 @@
 
 Zatim se zapitajte šta dato rešenje omogućava. U zavisnosti od pravila, [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) može omogućiti brže poravnanje, širi pristup ili nove funkcije plaćanja. Takođe može institucijama pružiti veće mogućnosti da prate [transakcije](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), primenjuju pravila, ograničavaju upotrebu ili direktno povezuju identitet sa plaćanjima. To je centralizovana kontrola: institucija, a ne obični korisnici samostalno, određuje ili menja relevantna pravila.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->

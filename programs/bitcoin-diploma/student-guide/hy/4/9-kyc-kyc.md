@@ -9,7 +9,7 @@
 > Ո՛չ [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc), ո՛չ էլ [առանց KYC-ի](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) ուղին ինքնաբերաբար լավագույնը չէ։ Համեմատեք իրական ուղին, օգտվեք տեղական արդի խորհրդատվությունից, երբ կանոնները հստակ չեն, և մի՛ խախտեք տեղական օրենքները կամ Ձեզ ֆիզիկական վտանգի ենթարկեք հանուն [գաղտնիության](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy)։
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
 Մի [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) ծառայություն կարող է պահանջել պաշտոնական անունը, անձը հաստատող փաստաթուղթ, հասցե, լուսանկար, միջոցների ծագման մասին տեղեկություններ կամ այլ տվյալներ։ Դա կարող է ծառայությանը հնարավորություն տալ պահպանելու տեղական կանոնները, կապ հաստատելու բանկերի հետ, սահմանելու ավելի բարձր սահմանաչափեր կամ աջակցելու հաշվի վերականգնմանը։
 

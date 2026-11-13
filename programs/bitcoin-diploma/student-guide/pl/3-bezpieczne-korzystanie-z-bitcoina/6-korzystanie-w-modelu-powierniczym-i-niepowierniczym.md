@@ -12,7 +12,7 @@ Ta różnica jest istotna dla weryfikacji. Zasady Bitcoina i jego całkowitą po
 
 W **niepowierniczym** lub **samodzielnie zarządzanym** portfelu to PAŃSTWO kontrolują klucze. Portfel podpisuje [transakcje](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) z Państwa upoważnienia. Nadal mogą występować zależności od oprogramowania, sprzętu, serwera lub sieci, ale żaden [powiernik](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian) nie musi zatwierdzać prawidłowego wydania środków w łańcuchu bloków.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 
 <!-- micrographic: who-controls-keys-01 -->

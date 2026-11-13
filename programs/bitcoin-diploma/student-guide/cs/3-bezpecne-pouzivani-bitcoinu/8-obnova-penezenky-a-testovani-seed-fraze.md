@@ -15,4 +15,4 @@ Po absolvování programu Bitcoin Diploma nepoužívejte cvičnou peněženku an
 
 Cílem není vyvolat dojem, že obnova je snadná. Jde o to porozumět postupu dříve, než vás selhání zařízení dostane pod tlak.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/424d932ace1728a75636a76182ae9a42621ed91c-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/424d932ace1728a75636a76182ae9a42621ed91c-1536x1024.svg)

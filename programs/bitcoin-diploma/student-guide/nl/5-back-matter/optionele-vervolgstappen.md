@@ -26,11 +26,11 @@ De Docentengids helpt u lessen voor te bereiden, activiteiten te begeleiden, voo
 
 ### Sluit u aan bij een leergemeenschap
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
 
 Het [Bitcoin Education Network](https://myfirstbitcoin.org/about/network) verbindt onafhankelijke docenten en lokale leergemeenschappen. Zoek een gemeenschap bij u in de buurt, of een gemeenschap waarvan het werk u interesseert, en neem contact op om te vragen hoe u kunt leren, vrijwilligerswerk kunt doen of kunt bijdragen. Deelname is optioneel en heeft geen invloed op het behalen van het Diploma, de beoordeling of de certificering.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
 
 ### Een veiligheidsherinnering
 
@@ -92,13 +92,13 @@ Als de uitgevende docent een verificatiemethode aanbiedt, gebruik dan uitsluiten
 
 Uw belangrijkste resultaat is niet het certificaat. Het is het vermogen om geld en Bitcoin helder uit te leggen, risico's te herkennen, te controleren voordat u handelt en zelfstandig te blijven leren.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
 
 ### Steun gratis Bitcoin-educatie
 
 De educatieve materialen van My First Bitcoin zijn gratis en Open-source. Vrijwillige steun helpt het curriculum te onderhouden, docenten op te leiden en de toegankelijkheid te vergroten.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
 
 
 https://donate.myfirstbitcoin.org
@@ -112,4 +112,4 @@ Als u ervoor kiest om bij te dragen, gebruik dan de officiële [donatiepagina](h
 ---
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)

@@ -1,6 +1,6 @@
 # 4.1 Bitcoin az Ön közösségében
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
 
 Ez a **Kapcsolódás** szakasz a Bitcoin Diploma képzésben. Ön a modern pénzrendszer hibáit és [kompromisszumait](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off), a Bitcoin válaszát és a biztonságos használattal járó felelősséget kapcsolja össze az **1–3. modulból** kiindulva egy helyi igénnyel vagy lehetőséggel, egy reális alternatívával és egy biztonságos gyakorlati feladattal. Nem elvárás, hogy Ön elkezdje használni a Bitcoint, vagy arra a következtetésre jusson, hogy minden helyi helyzetben ez a legjobb megoldás.
 

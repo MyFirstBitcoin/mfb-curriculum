@@ -15,7 +15,7 @@ Mfumo wa fiat una washiriki kadhaa wakuu:
 [Wahusika katika mfumo wa pesa za fiat na kinachopita kati yao: benki kuu huweka sera na kukamilisha malipo kati ya benki, benki za biashara hushikilia amana ambazo ni dhima yao kwa wateja, huduma za malipo hubeba maagizo, serikali hukusanya kodi na kutumia fedha, na wananchi na biashara hulipa na hulipwa.](/micrographics/fiat-system-flows-01/sw.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
 <!-- card: light -->

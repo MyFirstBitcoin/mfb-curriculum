@@ -4,7 +4,7 @@
 
 Ang peer-to-peer ay hindi laging nangangahulugang dalawang computer lamang ang direktang nag-uugnayan. Ang isang [transaksiyon](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) ay maaaring dumaan sa mga wallet, internet provider, at maraming network [node](https://curriculum.myfirstbitcoin.org/lexicon/en/#node). Ang mahalagang punto ay walang sentral na operator ng Bitcoin na kailangang mag-apruba sa nagpapadala o tatanggap.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
 
 
 <!-- micrographic: peer-to-peer-route-01 -->

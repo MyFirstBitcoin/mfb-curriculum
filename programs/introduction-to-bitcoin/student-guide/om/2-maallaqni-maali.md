@@ -12,9 +12,9 @@ Sirna waljijjiirraa meeshaa meeshaadhaan keessatti, daldalli kan milkaaʼu namoo
 
 Inni **giddugaleessa waljijjiirraa** dha: namoonni kaffaltiidhaaf isa fudhatu. Inni **yuunitii herregaa** dha: gatiin ittiin ibsama; kanaaf gatii wantoota adda addaa walbira qabnee ilaaluu dandeenya. Akkasumas inni **kuusaa gatii** dha: gatii harʼaa gara fuulduraatti dabarsa. Maallaqni kamiyyuu gatii guutummaatti hin kuusu; garuu gosoonni tokko tokko humna bittaa isaanii kanneen biroo caalaa suuta dhabu.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Seenaa keessatti wantoonni hedduun akka maallaqaatti tajaajilaniiru: qola bineensota bishaanii, soogidda, callee, beeylada, sibiila diimaa, meetii fi warqee. Sibiilonni gatii guddaa qaban muraasa, yeroo dheeraa kan turanii fi balʼinaan fudhatama kan qaban waan taʼaniif itti fayyadamni isaanii babalʼate. Garuu sibiila baachuu fi eeguun rakkisaa waan taʼeef, baankonni waraqaa hamma sibiilaa murtaaʼe tokko ittiin gaafachuun argachuun dandaʼamu kennuu jalqaban. Gosoota adda addaa **istaandaardii warqee** jalatti, yuunitiin maallaqaa hamma warqee tokko waliin seeraan walqabsiifamee ture. Seerotni akka bakkaatii fi yeroo adda addaatti garaagarummaa qabu turan.
 

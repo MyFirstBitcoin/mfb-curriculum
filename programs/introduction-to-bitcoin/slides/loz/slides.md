@@ -19,7 +19,7 @@ Lu sebelisa masheleñi zazi ni zazi, kono ha se hangata ha lu buza kuli a sebeza
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Batu ba Bañata ha ba ke ba Yema ku Nahana za Masheleñi
 
@@ -29,7 +29,7 @@ Haisi ku i sebeletsa, haisi ku i sebelisa, kono ki ku nahana ka seo ili sona ni 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Lipuzo ze Ketalizo za ku Kala
 
@@ -49,7 +49,7 @@ Haisi ku i sebeletsa, haisi ku i sebelisa, kono ki ku nahana ka seo ili sona ni 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Taba ya Niti kapa Maikutlo?
 
@@ -74,7 +74,7 @@ Masheleni ki situsiso sa ku cincana.
 
 Batu bababeli ba swanela ku bata seo yo muñwi a na ni sona, ka nako ye swana ni ka bupalo bo buswanela.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Musebelise mutala wa buka ya tataiso: mulima mupunga mi mutoka likatulo, kono muezi wa likatulo ubata oli ya ku apehela, isi mupunga. Litibi za ikonomi libiza taba ye kuli ki kukopana kwa litakazo za batu bababeli. -->
 
@@ -96,13 +96,13 @@ Batu bababeli ba swanela ku bata se yo muñwi a na ni sona, ka nako i le ñwi ni
 
 Ha kuna mutu ya bata mali ka baka la ona feela. A na ni tuso kakuli babañwi ba a amuhela, ba libelela kuli babañwi ba ka a amuhela hamulaho.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Pampili ya mali ki kalulo feela ya pampili. Mali a tatulula butata bwa kucincana lika ka kuhaukanya kulekisa ni kuleka: mu lekisa laisi ya mina ku mutu ali muñwi mi mu leka lieta ku yo muñwi. Se ki sona sesifapanya mali ni kucincana lika. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Lika Ze Talu Ze Mali A Eza
 
@@ -114,7 +114,7 @@ Ha kuna masheleñi abuluka butokwa ka mo ku felelezi, kono mifuta ye miñwi i la
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Ku Zwa ku Likapi ku Ya ku Pampili
 
@@ -161,13 +161,13 @@ Ha batu bautwa linzwi la kuoketseha kwa litheko, hangata banahana ka litheko ze 
 
 ## Kukwela kwa Litheko ni Maata a Kuleka
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Ku nyuka kwa litheko ki ku nyuka kwa nako ye telele kwa litheko za linto ka ku angareza. Libali la kona le liñwi ki maata a ku leka: buñata bwa linto ze kalulo iliñwi ya masheleñi i kona ku leka. Ha teko ya siselo sa linto za butokwa i nyuka ku zwa ku likalulo ze 100 za masheleñi ku ya ku 110, likalulo ze swana ze 100 ha li sa kona ku leka siselo seo kaufela. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Mabaka a Mañata, Keto i li Ñwi
 
@@ -285,7 +285,7 @@ bitcoin iliñwi i aulwa mwa likarolo ze nyinyani ze 100,000,000 ze bizwa satoshi
 
 ## Ki bomañi baba eza kuli Bitcoin i zwelepili ku sebeza?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Baitusisi ba tumela, ba amuhela ni ku buluka bitcoin; linode li nyakisisa litengiselano kaufela ni buloko kaufela ku bona kuli li latelela milao; baepi ba nyakisanya ku ekeza buloko ye nca ku rekoto ka ku lekana mizuzu ye lishumi. Rekoto yeo, ye bizwa blockchain, i bulehile ku mutu ni mutu, mi ku i ñola hape ku lopa masheleñi a mañata hahulu. Taba ya muñolelo: Bitcoin ye ñozwi ka B ye tuna hañata i talusa netiweke kamba sisitemu; bitcoin ye ñozwi ka b ye nyinyani i talusa mali ka ona. -->
 
@@ -330,7 +330,7 @@ Ku keta mukwa wa ku pabalela mali ha ki teko ya butokwa bwa mutu. Sa butokwa ki 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Manzwi a Mina a Peu Ki Tumelelo ya ku Kena ka ku Tala
 
@@ -350,7 +350,7 @@ Mutelelo wa manzwi a beilwe ka tatelano, hañata 12 kapa 24, o kona ku bupa hape
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Pili Musika Sebelisa Sikwama Sifi Kapa Sifi
 
@@ -391,7 +391,7 @@ Mutelelo wa manzwi a beilwe ka tatelano, hañata 12 kapa 24, o kona ku bupa hape
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Emani, Mu Si Ke Mwa Abelana Nto, Mu Si Ke Mwa Lumela Nto
 
@@ -426,7 +426,7 @@ Se ki makalelo feela.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Diploma ya Bitcoin
 

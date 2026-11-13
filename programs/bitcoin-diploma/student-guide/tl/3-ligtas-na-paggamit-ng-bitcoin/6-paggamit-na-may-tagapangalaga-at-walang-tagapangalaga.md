@@ -12,7 +12,7 @@ Mahalaga ang pagkakaibang ito para sa pagberipika. Maaaring suriin nang malaya a
 
 Sa isang **walang tagapangalaga** o **may sariling pangangalaga** na wallet, KAYO ang may kontrol sa mga susi. Nilalagdaan ng wallet ang mga [transaksyon](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) sa ilalim ng inyong awtoridad. Maaaring may pagdepende pa rin sa software, hardware, server, o network, ngunit walang [tagapangalaga](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian) na kailangang mag-apruba sa isang wastong paggastos sa blockchain.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 
 <!-- micrographic: who-controls-keys-01 -->

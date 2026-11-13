@@ -13,7 +13,7 @@
 > [Kakayahang bumili](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) ang dami ng mga kalakal at serbisyong mabibili ng isang yunit ng pera. Kung ang presyo ng isang basket ng mga pangunahing bilihin ay tumaas mula 100 yunit ng [salapi](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) tungong 110, hindi na mabibili ng parehong 100 yunit ang buong basket. Ang taglay nitong [kakayahang bumili](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) kaugnay ng basket na iyon ay bumaba.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->

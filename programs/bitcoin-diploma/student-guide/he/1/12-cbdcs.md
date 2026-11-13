@@ -10,7 +10,7 @@
 
 לאחר מכן שאלו מה התכנון מאפשר. בהתאם לכללים, [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) עשוי לאפשר סליקה מהירה יותר, גישה רחבה יותר או תכונות תשלום חדשות. הוא עשוי גם להעניק למוסדות יכולת רבה יותר לנטר [עסקאות](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), להחיל כללים, להגביל שימוש או לקשר זהות ישירות לתשלומים. זוהי שליטה ריכוזית: מוסד הוא שקובע או משנה את הכללים הרלוונטיים, ולא משתמשים מן השורה הפועלים באופן עצמאי.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->

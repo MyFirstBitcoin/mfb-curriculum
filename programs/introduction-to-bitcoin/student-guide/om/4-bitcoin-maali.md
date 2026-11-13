@@ -20,4 +20,4 @@ Yaadannoo qubee irratti: **Bitcoin** qubee guddaa B tiin barreeffamu yeroo baay�
 
 Bitcoin faayidaa isaa wajjin hanqinootas qaba. Gatiin isaa saffisaan jijjiiramuu danda’a. Dogoggoroonni yeroo baay’ee dhaabbataa dha. Bakkeewwan hedduutti fudhatamni isaa ammas daangeffamaa dha; haala nageenya qabuun itti fayyadamuunis hamma tokko barachuu gaafata. Bitcoin amantaa dhaabbilee irratti kaa’amu keessaa muraasa mirkaneessuu fi itti gaafatamummaa dhuunfaatiin bakka buusa. Balaa garuu hin balleessu.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

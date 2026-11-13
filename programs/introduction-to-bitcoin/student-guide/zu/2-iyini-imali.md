@@ -12,9 +12,9 @@ Ohlelweni lokuhwebelana ngezimpahla, ukuhweba kusebenza kuphela lapho bobabili a
 
 Iyona **ndlela yokushintshiselana**: abantu bayayamukela njengenkokhelo. Iphinde ibe **iyunithi yokubala**: amanani entengo abekwa ngayo, ukuze sikwazi ukuqhathanisa inani lezinto ezahlukene. Futhi iyona **ndawo yokugcina inani**: idlulisa inani lisuke namuhla liye esikhathini esizayo. Ayikho imali egcina inani ngokuphelele, kodwa ezinye izinhlobo zilahlekelwa amandla okuthenga kancane kunezinye.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Kuwo wonke umlando, izinto eziningi ziye zasebenza njengemali: amagobolondo, usawoti, ubuhlalu, imfuyo, ithusi, isiliva negolide. Izinsimbi eziyigugu zaqala ukusetshenziswa kabanzi ngoba zaziyivelakancane, zihlala isikhathi eside futhi zamukelwa kabanzi. Kodwa ukuthwala nokuvikela insimbi kunzima, ngakho amabhange aqala ukukhipha amaphepha ayenikeza umnikazi ilungelo lokuwashintsha athole inani elishiwo lensimbi. Kwakunezinhlobo ezahlukene zalolu **hlelo lokusekela imali ngegolide**, lapho iyunithi yemali yayixhunyaniswe ngokomthetho nenani elithile legolide. Imithetho yayehluka ngokwendawo nangenkathi.
 

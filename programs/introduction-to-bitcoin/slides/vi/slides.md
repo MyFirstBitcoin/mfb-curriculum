@@ -19,7 +19,7 @@ Chúng ta sử dụng tiền mỗi ngày, nhưng hiếm khi tự hỏi tiền ho
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Hầu hết mọi người không bao giờ dừng lại để suy nghĩ về tiền bạc
 
@@ -29,7 +29,7 @@ Không phải kiếm tiền, cũng không phải tiêu tiền, mà là suy nghĩ
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Năm câu hỏi để bắt đầu
 
@@ -49,7 +49,7 @@ Không phải kiếm tiền, cũng không phải tiêu tiền, mà là suy nghĩ
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Sự thật hay ý kiến?
 
@@ -74,7 +74,7 @@ Tiền là một công cụ để trao đổi.
 
 Cả hai người đều phải muốn thứ mà người kia có, vào cùng một thời điểm và với số lượng phù hợp.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Hãy sử dụng ví dụ trong tài liệu hướng dẫn: quý vị trồng lúa và cần giày, nhưng người thợ đóng giày muốn dầu ăn chứ không phải gạo. Các nhà kinh tế học gọi đây là sự trùng khớp kép về nhu cầu. -->
 
@@ -96,13 +96,13 @@ Cả hai người đều phải muốn thứ mà người kia có, vào cùng m�
 
 Không ai muốn có tiền chỉ vì bản thân nó. Tiền hữu ích vì mọi người chấp nhận nó và kỳ vọng rằng những người khác cũng sẽ chấp nhận nó sau này.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Tờ tiền chỉ là một mảnh giấy. Tiền giải quyết vấn đề của việc hàng đổi hàng bằng cách tách việc bán khỏi việc mua: quý vị bán gạo của mình cho một người và mua giày từ một người khác. Đây chính là điểm khác biệt giữa việc dùng tiền và việc hàng đổi hàng. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Ba chức năng của tiền
 
@@ -114,7 +114,7 @@ Không loại tiền nào lưu trữ giá trị một cách hoàn hảo, nhưng 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Từ vỏ sò đến tiền giấy
 
@@ -161,13 +161,13 @@ Khi nghe đến từ lạm phát, mọi người thường nghĩ đến việc g
 
 ## Lạm phát và sức mua
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Lạm phát giá cả là sự gia tăng kéo dài của mặt bằng giá chung. Mặt còn lại của hiện tượng này là sức mua: lượng hàng hóa và dịch vụ mà một đơn vị tiền tệ có thể mua được. Nếu giá một giỏ hàng hóa thiết yếu tăng từ 100 đơn vị tiền tệ lên 110, thì cùng 100 đơn vị tiền tệ đó không còn mua được toàn bộ giỏ hàng. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Nhiều nguyên nhân, một lựa chọn
 
@@ -285,7 +285,7 @@ Một bitcoin được chia thành 100.000.000 đơn vị nhỏ hơn gọi là s
 
 ## Ai duy trì hoạt động của Bitcoin?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Người dùng gửi, nhận và nắm giữ bitcoin; các nút kiểm tra mọi giao dịch và khối theo các quy tắc; thợ đào cạnh tranh để thêm một khối mới vào sổ ghi chép khoảng mười phút một lần. Sổ ghi chép đó, tức chuỗi khối, được công khai và rất tốn kém để viết lại. Lưu ý về cách viết: Bitcoin với chữ B viết hoa thường chỉ mạng lưới hoặc hệ thống; bitcoin với chữ b viết thường chỉ bản thân đồng tiền. -->
 
@@ -330,7 +330,7 @@ Lựa chọn hình thức lưu ký không phải là thước đo giá trị c�
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Cụm từ khôi phục của quý vị cho phép toàn quyền truy cập
 
@@ -350,7 +350,7 @@ Một danh sách các từ theo thứ tự, thường gồm 12 hoặc 24 từ, c
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Trước khi quý vị sử dụng bất kỳ ví nào
 
@@ -391,7 +391,7 @@ Một danh sách các từ theo thứ tự, thường gồm 12 hoặc 24 từ, c
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Dừng lại, không chia sẻ gì, không gửi gì
 
@@ -426,7 +426,7 @@ Hãy dừng lại nếu ai đó tạo cảm giác cấp bách hoặc yêu cầu 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Chứng chỉ Bitcoin
 

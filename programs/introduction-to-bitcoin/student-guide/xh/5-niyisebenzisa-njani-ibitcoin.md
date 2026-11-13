@@ -6,7 +6,7 @@ Ngoko umbuzo wokuqala ngayo nayiphi na iwalethi ngulo: **ngubani olawula izitshi
 
 ###### Ngubani kanye kanye ogcina i-bitcoin yenu?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 Xa nisebenzisa **iwalethi enizigcinela ngokwenu izitshixo zayo**, nini abalawula izitshixo.
 

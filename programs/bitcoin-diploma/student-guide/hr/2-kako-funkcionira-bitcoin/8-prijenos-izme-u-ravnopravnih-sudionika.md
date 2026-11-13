@@ -4,7 +4,7 @@
 
 Povezivanje ravnopravnih sudionika ne znači uvijek da samo dva računala izravno komuniciraju. [Transakcija](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) može proći kroz novčanike, pružatelje internetskih usluga i brojne mrežne [čvorove](https://curriculum.myfirstbitcoin.org/lexicon/en/#node). Važno je da nijedan središnji operator Bitcoina ne mora odobriti pošiljatelja ili primatelja.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
 
 
 <!-- micrographic: peer-to-peer-route-01 -->

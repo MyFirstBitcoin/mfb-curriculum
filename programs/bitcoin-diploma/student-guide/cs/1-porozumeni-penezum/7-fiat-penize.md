@@ -15,7 +15,7 @@ Systém fiat peněz má několik hlavních účastníků:
 [Účastníci systému nekrytých peněz a to, co mezi nimi proudí: centrální banka určuje měnovou politiku a vypořádává platby mezi bankami, komerční banky vedou vklady, které jsou jejich závazkem vůči klientům, platební služby přenášejí příkazy, stát vybírá daně a vynakládá prostředky a občané a podniky platí a přijímají platby.](/micrographics/fiat-system-flows-01/cs.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
 <!-- card: light -->

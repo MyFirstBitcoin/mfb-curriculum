@@ -23,4 +23,4 @@ Sommige mensen vervullen meerdere rollen. Een [miner](https://curriculum.myfirst
 
 **Controlevraag:** Waarom controleert een [node](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) de [transacties](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction)? Noem ten minste één regel die een [node](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) controleert.
 
-![De docent begeleidt de technisch onderlegde leerling bij een node-computer; de monitor is naar hen toe gericht en de achterkant van de behuizing is zichtbaar voor de kijker.](https://cdn.sanity.io/images/vje9ehw2/production/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)
+![De docent begeleidt de technisch onderlegde leerling bij een node-computer; de monitor is naar hen toe gericht en de achterkant van de behuizing is zichtbaar voor de kijker.](https://cdn.sanity.io/images/vje9ehw2/staging/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)

@@ -34,4 +34,4 @@ Sijoittakaa eri puolille huonetta lyhyitä, keksittyjä esimerkkitilanteita. Kul
 
 Ottakaa mukaan yksi aidolta näyttävä viesti, jossa ei ole ilmeisiä kirjoitusvirheitä. Huijauksia ei pidä opettaa tunnistamaan helposti vain niiden epäammattimaisen ulkoasun perusteella.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)

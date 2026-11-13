@@ -7,7 +7,7 @@
 [Aynı 100 birimlik para, temel ürünlerden oluşan sepetin fiyatı 100 olduğunda sepetin tamamını satın almaya yeter, ancak aynı sepetin fiyatı 110 olduğunda yetmez. Fiyat düzeyi yükselmiş, paranın satın alma gücü ise düşmüştür.](/micrographics/same-money-smaller-basket-01/tr.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 Öğrencilerden bir [fiyat](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) değişikliğinin olası nedenlerini belirlemelerini isteyin:
 

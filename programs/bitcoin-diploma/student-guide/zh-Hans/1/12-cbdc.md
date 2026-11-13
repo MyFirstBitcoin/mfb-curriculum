@@ -10,7 +10,7 @@
 
 接下来要问该设计允许什么。根据具体规则，[CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc)可能实现更快的结算、更广泛的使用渠道或新的支付功能。它也可能使机构拥有更大的能力来监控[交易](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction)、执行规则、限制使用，或将身份信息直接与支付关联。这就是中心化控制：由某个机构，而非普通用户独立地，来设定或更改相关规则。
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->

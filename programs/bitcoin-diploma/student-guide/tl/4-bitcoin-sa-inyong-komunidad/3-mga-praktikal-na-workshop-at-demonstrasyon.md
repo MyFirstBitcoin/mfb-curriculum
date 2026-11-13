@@ -30,4 +30,4 @@ Bago ang anumang aktuwal na demonstrasyon, tiyaking alam ninyo:
 
 Ang bunga ng inyong workshop ay dapat na isang paliwanag o kasanayan, hindi lamang isang nakumpletong [transaksiyon](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction).
 
-![Magkasamang nagsasanay ang guro at ang may-ari ng negosyo gamit ang isang teleponong para sa pagsasanay, kapwa nakatingin sa screen na nakaharap sa kanila.](https://cdn.sanity.io/images/vje9ehw2/production/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)
+![Magkasamang nagsasanay ang guro at ang may-ari ng negosyo gamit ang isang teleponong para sa pagsasanay, kapwa nakatingin sa screen na nakaharap sa kanila.](https://cdn.sanity.io/images/vje9ehw2/staging/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)

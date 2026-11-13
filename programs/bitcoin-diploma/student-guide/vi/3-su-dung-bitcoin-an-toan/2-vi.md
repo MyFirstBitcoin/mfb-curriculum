@@ -8,7 +8,7 @@
 
 Điều gì sẽ xảy ra nếu điện thoại của quý vị ngừng hoạt động? Dữ liệu ghi nhận Bitcoin vẫn tồn tại, nhưng khả năng truy cập sẽ phụ thuộc vào các khóa và phương thức khôi phục mà ví sử dụng. Ví giúp tạo thông tin nhận tiền, hiển thị số dư và lịch sử [giao dịch](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), đồng thời phê duyệt việc chi tiêu. Việc sử dụng ví không có nghĩa là quý vị không cần hiểu ai kiểm soát quyền truy cập.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
 
 
 <!-- card: dark -->
@@ -33,4 +33,4 @@ Hãy so sánh [cơ chế lưu ký](https://curriculum.myfirstbitcoin.org/lexicon
 > Trong khóa học Diploma, quý vị có thể tạo ví hoặc ghi lại [các từ khôi phục](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) để thực hành. Lớp học là môi trường học tập: thông tin có thể vô tình bị nhìn thấy, sao chép, chia sẻ hoặc bị lộ. Vì lý do này, ví thực hành thông thường nên để trống hoặc chỉ là ví mô phỏng, và không nên được dùng để bảo vệ khoản tiền có giá trị đáng kể. Khi điều kiện cho phép, ví này sẽ được đóng, đặt lại hoặc trả lại khi kết thúc khóa học Diploma. Giảng viên có thể chọn một hoạt động thực tế với số tiền nhỏ, nhưng cần giải thích mục đích và những rủi ro phát sinh về quyền riêng tư, bảo mật và mất tiền trước khi bất kỳ ai tham gia. Ví dùng để bảo vệ khoản tiền có giá trị đáng kể cần được thiết lập mới một cách riêng tư và có thông tin khôi phục mới. Giảng viên có thể giải thích sự khác biệt, nhưng quý vị không bao giờ bị yêu cầu phải thiết lập ví cá nhân để hoàn thành khóa học Diploma.
 
 
-![Giảng viên minh họa bằng một chiếc điện thoại dùng để thực hành, trong khi người mới bắt đầu và những học viên lớn tuổi xem xét thiết bị của mình.](https://cdn.sanity.io/images/vje9ehw2/production/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)
+![Giảng viên minh họa bằng một chiếc điện thoại dùng để thực hành, trong khi người mới bắt đầu và những học viên lớn tuổi xem xét thiết bị của mình.](https://cdn.sanity.io/images/vje9ehw2/staging/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)

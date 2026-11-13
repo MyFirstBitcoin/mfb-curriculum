@@ -9,7 +9,7 @@ Människor söker ofta alternativ till att hålla kontanter när de tror att kon
 
 En [tillgång](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) är något som en person kan äga eller göra anspråk på och som kan ha ett [värde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); den fyller inte automatiskt alla pengars funktioner. En bostad kan bevara [värde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) men är inte praktisk att använda för att köpa mat. En aktie kan vara lätt att sälja i ett land men otillgänglig för någon utan en värdepappersdepå. [Guld](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) har fungerat som pengar under långa perioder av historien men kan vara svårt att äkthetskontrollera eller dela upp vid en mindre transaktion.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 Människor kan också välja utländsk [valuta](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency), statliga [obligationer](https://curriculum.myfirstbitcoin.org/lexicon/en/#bond), privata företag, mark, verktyg, utbildning eller andra [tillgångar](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset). Varje val innebär [alternativkostnad](https://curriculum.myfirstbitcoin.org/lexicon/en/#opportunity-cost) och risk. Det finns ingen [tillgång](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) som garanterar [köpkraft](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) under alla tidsperioder och i alla situationer.
 

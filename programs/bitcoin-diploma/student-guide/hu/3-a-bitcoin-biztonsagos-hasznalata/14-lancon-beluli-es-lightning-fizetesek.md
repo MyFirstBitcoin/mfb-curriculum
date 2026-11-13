@@ -1,6 +1,6 @@
 # 3.14 Láncon belüli és Lightning-fizetések
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
@@ -30,4 +30,4 @@ Melyik útvonalat várja a címzett? Ellenőrizze fizetés előtt, hogy on-chain
 
 Képzelje el, hogy egy előre elkészített forgatókönyv mindkét fizetési útvonalat felkínálja. Melyik kérelmet tudja használni a kiválasztott tárca, és mit ellenőrizne a jóváhagyás előtt? A válasz a fogadáshoz megadott kérelemtől, a tárcától és a helyzettől függ — nem egy általánosan „legjobb” útvonaltól.
 
-![Az oktató két különböző, geometriai alakzatokkal ábrázolt fizetési útvonalra mutat a táblán, miközben a kezdő és a műszaki beállítottságú tanulók ezeket mérlegelik.](https://cdn.sanity.io/images/vje9ehw2/production/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)
+![Az oktató két különböző, geometriai alakzatokkal ábrázolt fizetési útvonalra mutat a táblán, miközben a kezdő és a műszaki beállítottságú tanulók ezeket mérlegelik.](https://cdn.sanity.io/images/vje9ehw2/staging/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)

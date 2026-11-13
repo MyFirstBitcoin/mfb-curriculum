@@ -20,4 +20,4 @@ Bayani kan rubutun suna: **Bitcoin** mai babban harafin B yawanci yana nufin cib
 
 Bitcoin ma yana da abubuwan da ake sadaukarwa domin samun fa'idodinsa. Farashinsa na iya canjawa da sauri. Yawanci ba a iya gyara kurakurai. Har yanzu karɓuwarsa tana da iyaka a wurare da yawa, kuma amfani da shi cikin aminci yana buƙatar ɗan koyo. Bitcoin yana maye gurbin wani ɓangare na dogaro ga hukumomi da tabbatar da sahihanci da ɗaukar alhakin kai. Ba ya kawar da haɗari.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

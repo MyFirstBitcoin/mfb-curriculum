@@ -19,7 +19,7 @@ Yɛde sika di dwuma da biara, nanso yɛntaa mmisa sɛdeɛ ɛyɛ adwuma.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Nnipa Dodow No Ara Ntɔ Wɔn Bo Ase Nnwene Sika Ho Da
 
@@ -29,7 +29,7 @@ Yɛde sika di dwuma da biara, nanso yɛntaa mmisa sɛdeɛ ɛyɛ adwuma.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Nsɛmmisa Num a Yɛde Bɛhyɛ Ase
 
@@ -49,7 +49,7 @@ Yɛde sika di dwuma da biara, nanso yɛntaa mmisa sɛdeɛ ɛyɛ adwuma.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Nokwasɛm anaa Adwene?
 
@@ -74,7 +74,7 @@ Sika yɛ adwinnadeɛ a wɔde sesa nneɛma.
 
 Ɛsɛ sɛ nnipa baanu no mu biara pɛ nea ɔfoforo no wɔ, wɔ berɛ koro no ara mu ne dodow a ɛfata mu.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Momfa akwankyerɛ nhoma no mu nhwɛsoɔ no nni dwuma: modua ɛmo na mohia mpaboa, nanso nea ɔyɛ mpaboa no pɛ aduannoa ngo, na ɛnyɛ ɛmo. Sikasɛm ho animdefoɔ frɛ wei ahiadeɛ mmienu a ɛhyia. -->
 
@@ -96,13 +96,13 @@ Sika yɛ adwinnadeɛ a wɔde sesa nneɛma.
 
 Obiara mpɛ sika sɛ ɔbɛnya sika kɛkɛ. Ɛho wɔ mfasoɔ ɛfiri sɛ afoforɔ gye tom, na wɔhwɛ kwan sɛ afoforɔ nso bɛgye atom akyiri yi.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Sika krataa yɛ krataa bi kɛkɛ. Sika di ade a wɔde sesa ade ho haw ho dwuma denam adetɔn ne adetɔ a ɛma ɛtetew mu no so: motɔn mo ɛmo ma obi, na motɔ mpaboa fi obi foforɔ hɔ. Eyi na ɛma sika yɛ soronko wɔ ade a wɔde sesa ade ho. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Nneɛma Mmiɛnsa a Sika Yɛ
 
@@ -114,7 +114,7 @@ Sika biara ntumi nkora boɔ so pɛpɛɛpɛ, nanso tumi a sika ahodoɔ bi wɔ de 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Efi Sedie So Kɔ Krataa So
 
@@ -161,13 +161,13 @@ Sɛ nkurɔfoɔ te asɛmfua nneɛma boɔ mmasoɔ a, wɔtaa dwene nneɛma boɔ a �
 
 ## Nneɛma Boɔ a Ɛkɔ Soro ne Adetɔ Tumi
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Nneɛma boɔ kɔsorɔ yɛ nneɛma boɔ nyinaa a ɛkɔ soro na ɛtoa so saa. N’afa foforɔ ne adetɔ tumi: nneɛma dodoɔ a sika susudua baako bɛtumi atɔ. Sɛ nneɛma atitire a ɛwɔ kɛntɛn bi mu boɔ kɔ soro firi sika susudua 100 kɔ 110 a, saa sika susudua 100 no ara rentumi ntɔ nneɛma a ɛwɔ kɛntɛn no mu nyinaa bio. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Nnyinasoɔ Pii, Ɔpaw Baako
 
@@ -285,7 +285,7 @@ Wɔtumi kyɛ bitcoin baako mu afã nketewa 100,000,000 a wɔfrɛ no satoshis, an
 
 ## Hwan na ɔma Bitcoin kɔ so yɛ adwuma?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Wɔn a wɔde bitcoin di dwuma no de mena, wɔgye, na wɔkora so; node ahodoɔ no hwɛ sɛ nkitahodie ne blɔk biara di mmara no so; wɔn a wɔtu bitcoin no si akan sɛ wɔde blɔk foforɔ bɛka abakɔsɛm a wɔakora so no ho bɛyɛ simma du biara. Saa abakɔsɛm a wɔakora so no, a wɔfrɛ no blɔkkyɛn no, obiara tumi hwɛ mu, na ɛho ka yɛ kɛseɛ paa sɛ wɔbɛsan atwerɛ no. Nkyerɛkyerɛmu fa atwerɛ ho: Bitcoin a wɔde B kɛseɛ na ɛhyɛ aseɛ no taa kyerɛ nkitahodie nhyehyɛeɛ no anaa nhyehyɛeɛ no nyinaa; bitcoin a wɔde b ketewa na ɛhyɛ aseɛ no kyerɛ sika no ankasa. -->
 
@@ -330,7 +330,7 @@ Sika sohwɛ kwan a mopaw no nyɛ mo boɔ a wɔsɔ hwɛ. Deɛ ɛho hia ne sɛ mob
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Mo Aba Nsɛmfua No Ma Mo Biribiara Ho Kwan
 
@@ -350,7 +350,7 @@ Nsɛmfua a wɔahyehyɛ no nnidiso nnidiso, a ɛtaa yɛ 12 anaa 24, a wɔtumi de 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Ansa na mode sika kotoku biara adi dwuma
 
@@ -391,7 +391,7 @@ Nsɛmfua a wɔahyehyɛ no nnidiso nnidiso, a ɛtaa yɛ 12 anaa 24, a wɔtumi de 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Mongyae, Monnkyɛ Biribiara, Mommane Biribiara
 
@@ -426,7 +426,7 @@ Wei yɛ mfitiaseɛ ara kwa.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Bitcoin Abodin Krataa
 

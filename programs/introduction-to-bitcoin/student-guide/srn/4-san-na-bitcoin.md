@@ -20,4 +20,4 @@ Wan noti abra a skrifi fasi: **Bitcoin** nanga wan bigi B wani taki a netwerk no
 
 Bitcoin abi bun sei nanga takru sei tu. En preis kan kenki esi. Fowtu di yu meki no man kisi seti alamen. Na furu presi den no e teki en ete, èn fu gebroiki en na wan seifi fasi yu mus leri wantu sani. Bitcoin e teki a presi fu wan pisi fu a fertrouw ini organisâsi nanga kontroli èn a plicht fu teki zorgu fu yu eigi sani. A no e puru riski.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

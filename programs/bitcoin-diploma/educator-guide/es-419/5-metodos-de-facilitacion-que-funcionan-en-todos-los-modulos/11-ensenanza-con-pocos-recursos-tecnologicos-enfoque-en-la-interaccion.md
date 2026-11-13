@@ -6,4 +6,4 @@ Los materiales sencillos pueden reducir el tiempo de preparación y las distracc
 
 Más herramientas pueden traer más complejidad. Incorpore una herramienta cuando ayude a los estudiantes a comprender o practicar algo, y tenga lista una alternativa sencilla. Céntrese primero en la calidad de la participación: ¿los estudiantes participan, hacen preguntas, explican su razonamiento y demuestran lo que comprenden? Elija el enfoque que favorezca ese aprendizaje.
 
-![El educador y el estudiante de mayor edad organizan tarjetas didácticas mientras el estudiante más joven participa con un cuaderno.](https://cdn.sanity.io/images/vje9ehw2/production/f062a7d4ca6c0e188b299060e170b244e0ee7acb-1054x1492.png)
+![El educador y el estudiante de mayor edad organizan tarjetas didácticas mientras el estudiante más joven participa con un cuaderno.](https://cdn.sanity.io/images/vje9ehw2/staging/f062a7d4ca6c0e188b299060e170b244e0ee7acb-1054x1492.png)

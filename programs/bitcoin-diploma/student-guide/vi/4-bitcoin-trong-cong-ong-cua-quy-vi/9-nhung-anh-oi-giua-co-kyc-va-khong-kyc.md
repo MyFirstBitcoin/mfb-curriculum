@@ -9,7 +9,7 @@
 > Cả [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) lẫn [không KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) đều không mặc nhiên là lựa chọn tốt nhất. Hãy so sánh phương thức thực tế, tham khảo hướng dẫn hiện hành tại địa phương khi quy định chưa rõ ràng, và đừng vi phạm luật pháp địa phương hoặc đặt bản thân vào nguy hiểm về thể chất để theo đuổi [quyền riêng tư](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
 Một dịch vụ [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) có thể yêu cầu họ tên theo pháp luật, giấy tờ tùy thân, địa chỉ, ảnh, thông tin về nguồn tiền hoặc các hồ sơ khác. Điều này có thể giúp dịch vụ đáp ứng quy định địa phương, kết nối với ngân hàng, đặt hạn mức cao hơn hoặc hỗ trợ khôi phục tài khoản.
 

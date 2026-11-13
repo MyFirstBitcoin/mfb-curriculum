@@ -1,6 +1,6 @@
 # 4.1 Bitcoin in u gemeenskap
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
 
 Dit is die **Verbind** stadium van die Bitcoin-diploma. U sal die gebreke en [afwegings](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) van die moderne geldstelsel, Bitcoin se antwoord daarop en die verantwoordelikheid vir veilige gebruik uit **Modules 1–3** verbind met ’n plaaslike behoefte of geleentheid, ’n realistiese alternatief en ’n veilige praktiese taak. Daar word nie van u verwag om Bitcoin te begin gebruik of tot die gevolgtrekking te kom dat dit in elke plaaslike situasie die beste opsie is nie.
 

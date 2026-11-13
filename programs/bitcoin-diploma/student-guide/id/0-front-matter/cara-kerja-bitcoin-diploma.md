@@ -27,7 +27,7 @@ Setiap modul mengikuti pola yang sama:
 
 Anda akan belajar lebih banyak dengan berpartisipasi daripada hanya membaca dalam hati. Beberapa pertanyaan tidak memiliki satu jawaban yang benar. Yang penting adalah apakah Anda dapat menjelaskan penalaran Anda, menelaah bukti, dan memperbarui pandangan Anda ketika mempelajari sesuatu yang baru.
 
-![Pemilik usaha menunjuk diagram sederhana dalam buku panduan yang terbuka, sementara pendidik membahasnya bersama perempuan tersebut di meja ruang kelas.](https://cdn.sanity.io/images/vje9ehw2/production/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
+![Pemilik usaha menunjuk diagram sederhana dalam buku panduan yang terbuka, sementara pendidik membahasnya bersama perempuan tersebut di meja ruang kelas.](https://cdn.sanity.io/images/vje9ehw2/staging/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
 
 ### Harapan terkait diskusi dan privasi
 
@@ -50,7 +50,7 @@ Pendidik Anda akan menjelaskan setiap kegiatan penilaian yang diwajibkan. Pemaha
 
 Pendidik Anda menggunakan kisi-kisi penilaian untuk mencatat satu hasil bagi masing-masing dari tujuh kompetensi di atas. `C1`–`C5` dinilai melalui penjelasan dan keputusan Anda sendiri; `C6`–`C7` memerlukan pengamatan langsung. Baik tugas dompet/bukti penerimaan maupun tugas kesiapan pemulihan merupakan bagian wajib dari `C6`.
 
-![Pendidik menanggapi peserta didik pemula yang mengangkat tangan, sementara peserta didik yang lebih tua mengikuti pembelajaran dengan panduan kursus yang terbuka.](https://cdn.sanity.io/images/vje9ehw2/production/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
+![Pendidik menanggapi peserta didik pemula yang mengangkat tangan, sementara peserta didik yang lebih tua mengikuti pembelajaran dengan panduan kursus yang terbuka.](https://cdn.sanity.io/images/vje9ehw2/staging/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
 
 ### Pengetahuan awal yang diperlukan: tidak ada
 

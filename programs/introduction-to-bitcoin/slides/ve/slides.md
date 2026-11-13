@@ -19,7 +19,7 @@ Ri shumisa tshelede ḓuvha ḽiṅwe na ḽiṅwe, fhedzi a ri anzeli u vhudzis
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Vhathu vhanzhi a vha vhuya vha ima vha humbula nga ha tshelede
 
@@ -29,7 +29,7 @@ Hu si u i hola, hu si u i shumisa, fhedzi u humbula nga ha uri ndi mini na uri i
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Mbudziso ṱhanu dza u thoma
 
@@ -49,7 +49,7 @@ Hu si u i hola, hu si u i shumisa, fhedzi u humbula nga ha uri ndi mini na uri i
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Mbuno kana Muhumbulo?
 
@@ -74,7 +74,7 @@ Tshelede ndi tshishumiswa tsha u tshintshana.
 
 Muṅwe na muṅwe wa vhathu vhavhili u tea u ṱoḓa zwine muṅwe a vha nazwo, nga tshifhinga tshithihi na nga zwivhalo zwo teaho.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Shumisani tsumbo i re kha nyendedzi: ni lima raḽisi nahone ni ṱoḓa zwienda, fhedzi muiti wa zwienda u ṱoḓa mapfura a u bika, hu si raḽisi. Vhaḓivhi vha ikonomi vha vhidza hezwi u anana ha ṱhoḓea dza vhathu vhavhili. -->
 
@@ -96,13 +96,13 @@ Vhathu vhoṱhe vhavhili vha tea u ṱoḓa zwine muṅwe a vha nazwo, nga tshif
 
 A hu na ane a ṱoḓa tshelede nga ṅwambo wa yone ine fhedzi. I a thusa ngauri vhaṅwe vha a i ṱanganedza, vha tshi lavhelela uri vhaṅwe vha ḓo i ṱanganedza nga murahu.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Bammbiri ḽa tshelede ndi tshipiḓa tsha bammbiri fhedzi. Tshelede i tandulula thaidzo ya u tshintshana thundu nga u fhandekanya u rengisa na u renga: vha rengisa raisi yavho kha muthu muthihi vha renga zwienda kha muṅwe. Hezwi ndi zwone zwine zwa fhambanya tshelede na u tshintshana thundu. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Zwithu Zwiraru Zwine Tshelede Ya Zwi Ita
 
@@ -114,7 +114,7 @@ A hu na tshelede ine ya vhulunga ndeme nga nḓila yo fhelelaho, fhedzi dziṅwe
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## U Bva kha Magwangwa u Ya kha Bammbiri
 
@@ -161,13 +161,13 @@ Musi vhathu vha tshi pfa ipfi infḽeisheni, kanzhi vha humbula nga ha u gonya h
 
 ## U Gonya ha Mitengo na Maanḓa a u Renga
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Infuleisheni ya mitengo ndi u gonya hu bvelaho phanḓa ha mitengo nga u angaredza. Ḽiṅwe sia ḽayo ndi maanḓa a u renga: uri yuniti nthihi ya tshelede i nga renga zwithu zwingafhani. Arali mutengo wa baskete ya thundu dza ndeme wa gonya u bva kha yuniti dza tshelede dza 100 wa ya kha 110, yuniti dzenedzo dza 100 a dzi tsha kona u renga baskete yoṱhe. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Zwivhangi Zwinzhi, Khetho Nthihi
 
@@ -285,7 +285,7 @@ bitcoin nthihi i khethekanywa ya vha zwipiḓa zwiṱuku zwa 100 000 000 zwine z
 
 ## Ndi nnyi ane a ita uri Bitcoin i dzule i tshi shuma?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Vhashumisi vha rumela, vha ṱanganedza na u vhulunga bitcoin; dzi-node dzi ṱola thengiselano iṅwe na iṅwe na buloko iṅwe na iṅwe uri zwi tevhela milayo; vhagodi vha a ṱaṱisana u engedza buloko ntswa kha rekhodo hu ṱoḓaho u vha minete miṅwe na miṅwe ya fumi. Rekhodo iyo, ine ya vhidzwa blockchain, i vhonwa nga muṅwe na muṅwe nahone zwi ḓura vhukuma u i ṅwala hafhu. Ṱhalutshedzo nga ha mapeleṱele: Bitcoin ine ya thoma nga B khulwane kanzhi i amba netiweke kana sisṱeme; bitcoin ine ya thoma nga b ṱhukhu i amba tshelede yone iṋe. -->
 
@@ -330,7 +330,7 @@ U khetha nḓila ya u vhulunga a si mulingo wa ndeme ya muthu. Tsha ndeme ndi u 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Ḽifurase ḽaṋu ḽa mbeu ndi tswikelelo yo fhelelaho
 
@@ -350,7 +350,7 @@ Mutevhe wo dzudzanywaho wa maipfi, ane kanzhi a vha 12 kana 24, une wa nga dovha
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Musi ni sa athu u shumisa tshikwama tshiṅwe na tshiṅwe
 
@@ -391,7 +391,7 @@ Mutevhe wo dzudzanywaho wa maipfi, ane kanzhi a vha 12 kana 24, une wa nga dovha
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Imani, Ni Songo Kovhana Tshithu, Ni Songo Rumela Tshithu
 
@@ -426,7 +426,7 @@ Hezwi ndi mathomo fhedzi.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Dipuḽoma ya Bitcoin
 

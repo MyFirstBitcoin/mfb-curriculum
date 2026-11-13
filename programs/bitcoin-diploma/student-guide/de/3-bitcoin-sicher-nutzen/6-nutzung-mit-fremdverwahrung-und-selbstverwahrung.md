@@ -12,7 +12,7 @@ Dieser Unterschied ist für die Überprüfung wichtig. Die Regeln und die Gesamt
 
 Bei einer **nicht verwahrenden** oder **selbstverwahrten** Wallet kontrollieren SIE die Schlüssel. Die Wallet signiert [Transaktionen](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) in Ihrem Auftrag. Es kann weiterhin Abhängigkeiten von Software, Hardware, Servern oder dem Netzwerk geben, aber kein [Verwahrer](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian) muss eine gültige On-Chain-Ausgabe genehmigen.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 
 <!-- micrographic: who-controls-keys-01 -->

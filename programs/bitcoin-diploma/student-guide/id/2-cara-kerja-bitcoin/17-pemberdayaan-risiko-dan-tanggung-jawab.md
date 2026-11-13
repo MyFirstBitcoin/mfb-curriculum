@@ -6,7 +6,7 @@ Aturan publik Bitcoin, [jaringan antarrekan](https://curriculum.myfirstbitcoin.o
 
 Sifat-sifat ini dapat memberdayakan peserta, tetapi juga membebankan tanggung jawab yang lebih besar kepada mereka. Tanpa otoritas pusat untuk menyetujui [transaksi](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), memulihkan akses, atau membatalkan berbagai kesalahan, setiap orang harus mampu mengenali peran dan risiko yang mereka terima.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
 
 Bagi seseorang yang memilih [penyimpanan mandiri](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody), kendali atas kunci memberikan kendali langsung atas bitcoin. Tidak ada perusahaan yang dapat membekukan saldo pada rantai blok yang kuncinya dikendalikan dengan benar. Tidak ada perusahaan yang dapat memulihkan [frasa pemulihan](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) yang hilang pula.
 

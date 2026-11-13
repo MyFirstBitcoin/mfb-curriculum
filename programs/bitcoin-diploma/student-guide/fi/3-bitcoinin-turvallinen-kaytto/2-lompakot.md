@@ -8,7 +8,7 @@
 
 Mitä tapahtuisi, jos puhelimenne lakkaisi toimimasta? Bitcoinin kirjanpito olisi yhä olemassa, mutta pääsy varoihin riippuisi lompakon käyttämistä avaimista ja palautusmenetelmästä. Lompakko auttaa luomaan vastaanottotietoja, näyttämään saldot ja [siirtojen](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) historian sekä hyväksymään varojen käytön. Se ei poista tarvetta ymmärtää, kuka hallitsee pääsyä varoihin.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
 
 
 <!-- card: dark -->
@@ -33,4 +33,4 @@ Vertailkaa [varojen hallintaa](https://curriculum.myfirstbitcoin.org/lexicon/en/
 > Diploma-kurssin aikana saatatte luoda lompakon tai kirjoittaa muistiin [palautussanat](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) osana harjoittelua. Luokkahuone on oppimisympäristö: tietoja voidaan vahingossa nähdä, kopioida tai jakaa, tai niiden turvallisuus voi vaarantua. Siksi harjoittelulompakon tulisi tavallisesti olla tyhjä tai simuloitu, eikä sitä tulisi käyttää merkittävien varojen turvaamiseen. Mahdollisuuksien mukaan se suljetaan, nollataan tai palautetaan Diploma-kurssin päättyessä. Opettajanne voi valita oikeilla varoilla tehtävän harjoituksen, jossa mahdollinen menetys on pieni, mutta hänen tulisi selittää sen tarkoitus sekä siihen liittyvät yksityisyyttä, turvallisuutta ja varojen menettämistä koskevat lisäriskit ennen kenenkään osallistumista. Merkittävien varojen turvaamiseen tarkoitettu lompakko on otettava käyttöön alusta asti yksityisesti, ja sitä varten tarvitaan uudet palautustiedot. Opettajanne voi selittää eron, mutta henkilökohtaisen lompakon käyttöönottoa ei koskaan edellytetä Diploma-kurssin suorittamiseksi.
 
 
-![Opettaja esittelee harjoittelupuhelinta samalla, kun aloittelija ja vanhemmat oppijat tutkivat omia laitteitaan.](https://cdn.sanity.io/images/vje9ehw2/production/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)
+![Opettaja esittelee harjoittelupuhelinta samalla, kun aloittelija ja vanhemmat oppijat tutkivat omia laitteitaan.](https://cdn.sanity.io/images/vje9ehw2/staging/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)

@@ -23,4 +23,4 @@ Some people perform several roles. A [miner](https://curriculum.myfirstbitcoin.o
 
 **Spot question:** Why does a [node](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) verify [transactions](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction)? Name at least one rule that a [node](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) checks.
 
-![The educator guides the technical learner at a node computer, with the monitor facing them and its rear casing visible to the viewer.](https://cdn.sanity.io/images/vje9ehw2/production/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)
+![The educator guides the technical learner at a node computer, with the monitor facing them and its rear casing visible to the viewer.](https://cdn.sanity.io/images/vje9ehw2/staging/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)

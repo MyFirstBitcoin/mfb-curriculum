@@ -18,7 +18,7 @@ Sending needs more care because a valid Bitcoin [transaction](https://curriculum
 1. Use a small test when the process is unfamiliar.
 1. Approve only when every item matches; then check the payment result.
 
-![The older learner presents a training phone while the beginner checks another phone and the educator guides the comparison.](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![The older learner presents a training phone while the beginner checks another phone and the educator guides the comparison.](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 
 <!-- micrographic: pre-send-checklist-01 -->
@@ -29,4 +29,4 @@ For an [on-chain payment](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-c
 
 If the destination changes unexpectedly, the request becomes urgent, or anyone asks for recovery information, what should you do? Stop. Verify the request independently, or ask for help without sharing secrets.
 
-![The educator guides the beginner learner as they compare a phone with the business owner's receiving device before approving a payment.](https://cdn.sanity.io/images/vje9ehw2/production/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)
+![The educator guides the beginner learner as they compare a phone with the business owner's receiving device before approving a payment.](https://cdn.sanity.io/images/vje9ehw2/staging/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)

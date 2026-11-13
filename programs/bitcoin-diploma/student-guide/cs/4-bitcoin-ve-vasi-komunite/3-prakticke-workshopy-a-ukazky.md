@@ -30,4 +30,4 @@ Před každou živou ukázkou se ujistěte, že víte:
 
 Výsledkem vašeho workshopu by mělo být vysvětlení nebo dovednost, nikoli pouze dokončená [transakce](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction).
 
-![Vyučující a majitel podniku společně procvičují práci s cvičným telefonem a oba se dívají na obrazovku otočenou směrem k nim.](https://cdn.sanity.io/images/vje9ehw2/production/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)
+![Vyučující a majitel podniku společně procvičují práci s cvičným telefonem a oba se dívají na obrazovku otočenou směrem k nim.](https://cdn.sanity.io/images/vje9ehw2/staging/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)

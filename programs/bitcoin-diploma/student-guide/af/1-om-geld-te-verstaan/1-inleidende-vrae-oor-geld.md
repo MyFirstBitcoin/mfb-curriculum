@@ -10,4 +10,4 @@ Geld beïnvloed alledaagse keuses oor kos, vervoer, werk, spaar en hulp aan mens
 
 Let op die verskil tussen 'n feit en 'n mening terwyl u hierdie vrae bespreek. “Hierdie banknoot word vir belastingbetalings aanvaar” is 'n feit wat nagegaan kan word. “Dit is die beste vorm van geld” is 'n mening of gevolgtrekking wat kriteria en bewyse vereis.
 
-![Al ses karakters kom om klaskamertafels bymekaar terwyl die opvoeder 'n gesamentlike leessessie uit 'n oop kursusgids lei.](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![Al ses karakters kom om klaskamertafels bymekaar terwyl die opvoeder 'n gesamentlike leessessie uit 'n oop kursusgids lei.](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)

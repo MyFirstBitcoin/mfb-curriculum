@@ -27,7 +27,7 @@ Each module follows the same rhythm:
 
 You will learn more by participating than by reading silently. Some questions do not have one correct answer. What matters is whether you can explain your reasoning, examine evidence, and revise your view when you learn something new.
 
-![The business owner points to a simple diagram in an open guide while the educator discusses it with her at a classroom table.](https://cdn.sanity.io/images/vje9ehw2/production/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
+![The business owner points to a simple diagram in an open guide while the educator discusses it with her at a classroom table.](https://cdn.sanity.io/images/vje9ehw2/staging/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
 
 ### Discussion and privacy expectations
 
@@ -50,7 +50,7 @@ Your educator will explain any required assessment activities. Theory is mainly 
 
 Your educator uses an assessment grid to record one result for each of the seven competencies above. `C1`–`C5` are assessed through your own explanations and decisions; `C6`–`C7` require direct observation. Both the wallet/receipt task and the recovery-readiness task are required parts of `C6`.
 
-![The educator responds to the beginner learner's raised hand while the older learner follows along with an open course guide.](https://cdn.sanity.io/images/vje9ehw2/production/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
+![The educator responds to the beginner learner's raised hand while the older learner follows along with an open course guide.](https://cdn.sanity.io/images/vje9ehw2/staging/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
 
 ### Required prior knowledge: none
 

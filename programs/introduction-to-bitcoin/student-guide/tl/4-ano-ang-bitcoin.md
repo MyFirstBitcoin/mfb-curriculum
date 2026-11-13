@@ -20,4 +20,4 @@ Isang paalala tungkol sa pagbabaybay: **Bitcoin** na may malaking B ay karaniwan
 
 May mga kapalit ding kahinaan ang mga bentahe ng Bitcoin. Maaaring mabilis na magbago ang presyo nito. Karaniwang permanente ang mga pagkakamali. Limitado pa rin ang pagtanggap dito sa maraming lugar, at kailangan ng kaunting pag-aaral upang magamit ito nang ligtas. Pinapalitan ng Bitcoin ang ilang bahagi ng pagtitiwala sa mga institusyon ng pagberipika at personal na responsibilidad. Hindi nito inaalis ang panganib.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

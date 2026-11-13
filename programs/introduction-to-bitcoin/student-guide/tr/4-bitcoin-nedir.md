@@ -20,4 +20,4 @@ Yazım hakkında bir not: **Bitcoin**, büyük B ile yazıldığında genellikle
 
 Bitcoin'in bazı ödünleşimleri de vardır. Fiyatı hızla değişebilir. Hatalar genellikle kalıcıdır. Kabul görmesi pek çok yerde hâlâ sınırlıdır ve onu güvenli bir şekilde kullanmak biraz öğrenme gerektirir. Bitcoin, kurumlara duyulan güvenin bir kısmının yerine doğrulamayı ve kişisel sorumluluğu koyar. Riski ortadan kaldırmaz.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

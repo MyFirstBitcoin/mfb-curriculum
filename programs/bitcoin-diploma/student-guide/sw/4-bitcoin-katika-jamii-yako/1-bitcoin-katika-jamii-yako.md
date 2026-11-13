@@ -1,6 +1,6 @@
 # 4.1 Bitcoin katika Jamii Yako
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
 
 Hii ni hatua ya **Kuunganisha** ya Bitcoin Diploma. Mtaunganisha kasoro za mfumo wa kisasa wa pesa na [maafikiano yake](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off), jibu la Bitcoin, na wajibu wa matumizi salama kutoka **Moduli 1–3** na hitaji au fursa ya kienyeji, mbadala halisi, na kazi ya vitendo iliyo salama. Hamtarajiwi kuikubali Bitcoin au kuhitimisha kwamba ndiyo chaguo bora katika kila hali ya kienyeji.
 

@@ -28,4 +28,4 @@ A [descentralização](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentr
 
 [A descentralização](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) também gera custos. A coordenação pode ser mais lenta. Os usuários precisam verificar informações e assumir mais responsabilidade. Não existe uma central de suporte para a [rede Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). Essas [compensações](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) fazem parte do projeto, e não são defeitos acidentais que possam ser eliminados sem alterar o sistema.
 
-![O educador aponta para uma rede em uma tela da sala de aula enquanto os alunos iniciante e técnico conversam sobre ela em uma mesa.](https://cdn.sanity.io/images/vje9ehw2/production/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)
+![O educador aponta para uma rede em uma tela da sala de aula enquanto os alunos iniciante e técnico conversam sobre ela em uma mesa.](https://cdn.sanity.io/images/vje9ehw2/staging/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)

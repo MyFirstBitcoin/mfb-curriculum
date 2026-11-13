@@ -11,7 +11,7 @@ Zasoby są ograniczone, natomiast ludzkie pragnienia nie.
 
 Ta [wartość](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) dobra nie tkwi w samym przedmiocie. Ludzie [wyceniają](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) dobra zgodnie ze swoimi potrzebami, preferencjami, posiadanymi informacjami i okolicznościami. Nazywa się to czasem [**wartością subiektywną**](https://curriculum.myfirstbitcoin.org/lexicon/en/#subjective-value). Czysta woda może być tania w pobliżu bezpiecznego ogólnodostępnego źródła, a niezwykle cenna w czasie niedoboru.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
 
 
 <!-- micrographic: same-water-different-value-01 -->

@@ -23,4 +23,4 @@ Certaines personnes remplissent plusieurs rôles. Un [mineur](https://curriculum
 
 **Question rapide :** Pourquoi un [nœud](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) vérifie-t-il les [transactions](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) ? Citez au moins une règle qu’un [nœud](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) vérifie.
 
-![L’enseignant guide l’apprenant au profil technique devant un ordinateur exécutant un nœud, avec l’écran tourné vers eux et son boîtier arrière visible pour l’observateur.](https://cdn.sanity.io/images/vje9ehw2/production/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)
+![L’enseignant guide l’apprenant au profil technique devant un ordinateur exécutant un nœud, avec l’écran tourné vers eux et son boîtier arrière visible pour l’observateur.](https://cdn.sanity.io/images/vje9ehw2/staging/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)

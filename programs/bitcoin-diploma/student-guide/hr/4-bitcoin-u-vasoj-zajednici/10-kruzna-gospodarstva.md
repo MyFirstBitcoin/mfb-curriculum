@@ -21,7 +21,7 @@ Prikažite jednostavan lokalni ciklus:
 1. Što se događa kada se izgubi pristup internetu?
 1. Kojim je [skrbničkim](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) i [cjenovnim](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) rizicima izložen svaki sudionik?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
 
 Zdrava kružna ekonomija ovisi o dobrovoljnom sudjelovanju. Trgovci i radnici trebali bi moći prepoznati rizike povezane s plaćanjem, određivanjem cijena, [skrbništvom](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), računovodstvom i [volatilnošću](https://curriculum.myfirstbitcoin.org/lexicon/en/#volatility). Same brojke o prihvaćanju ne pokazuju je li mreža korisna.
 

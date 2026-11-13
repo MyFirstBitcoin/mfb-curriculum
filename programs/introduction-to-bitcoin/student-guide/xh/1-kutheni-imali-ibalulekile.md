@@ -22,4 +22,4 @@ Esi sikhokelo sisekelwe kwimibuzo emithandathu: kutheni imali ibalulekile, iyint
 
 Senzelwe ukufundisa kuphela. Asiniki ngcebiso ngezemali, ngotyalo-mali, ngezomthetho okanye ngerhafu, yaye asinixeleli ukuba nithenge, nithengise okanye nigcine nantoni na.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)

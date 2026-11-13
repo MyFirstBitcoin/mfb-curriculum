@@ -38,7 +38,7 @@ Proszę wybrać praktyczny sposób realizacji, który osoby uczące się uznają
 [Aby zaplanować pracę z grupą, należy pomnożyć liczbę osób uczących się przez przewidywany czas wsparcia i obserwacji, a następnie doliczyć czas na przygotowanie, przekazanie informacji zwrotnej, zaspokojenie potrzeb w zakresie dostępności i ponowną ocenę. Jeśli osoby prowadzące ocenę nie mają wystarczająco dużo czasu, należy zmienić plan: mniej osób uczących się, więcej osób prowadzących ocenę lub więcej czasu.](/micrographics/cohort-capacity-check-01/pl.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
 
 ### Zestawienie kompetencji i dowodów ich opanowania
 

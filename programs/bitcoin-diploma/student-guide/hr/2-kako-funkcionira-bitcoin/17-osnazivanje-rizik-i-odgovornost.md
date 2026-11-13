@@ -6,7 +6,7 @@ Javna pravila Bitcoina, [mreža ravnopravnih sudionika](https://curriculum.myfir
 
 Ta svojstva mogu osnažiti sudionike, ali im donose i veću odgovornost. Bez središnjeg tijela koje bi odobravalo [transakcije](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), vraćalo pristup ili ispravljalo brojne pogreške, svaka osoba mora moći prepoznati ulogu i rizike koje prihvaća.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
 
 Za osobu koja odabere [samostalno skrbništvo](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody), kontrola nad ključevima donosi izravnu kontrolu nad bitcoinom. Nijedna tvrtka ne može zamrznuti stanje na lancu blokova nad kojim se pravilno održava kontrola. Nijedna tvrtka ne može vratiti izgubljenu [frazu za oporavak](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) također.
 

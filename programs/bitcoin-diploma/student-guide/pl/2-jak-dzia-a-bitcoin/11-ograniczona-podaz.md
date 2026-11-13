@@ -44,4 +44,4 @@ Limit 21 milionów jest egzekwowany przez [węzły](https://curriculum.myfirstbi
 > Skończona podaż nie oznacza też, że każdy bitcoin jest dostępny na sprzedaż; niektóre mogą być przechowywane długoterminowo lub stać się niedostępne z powodu utraty kluczy.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

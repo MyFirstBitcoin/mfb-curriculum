@@ -4,7 +4,7 @@
 
 Peer-to-peer does not always mean that only two computers communicate directly. A [transaction](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) may pass through wallets, internet providers, and many network [nodes](https://curriculum.myfirstbitcoin.org/lexicon/en/#node). The important point is that no central Bitcoin operator must approve the sender or recipient.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
 
 
 <!-- micrographic: peer-to-peer-route-01 -->

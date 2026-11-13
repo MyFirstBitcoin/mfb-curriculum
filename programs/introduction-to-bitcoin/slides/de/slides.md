@@ -19,7 +19,7 @@ Wir verwenden jeden Tag Geld, fragen uns aber selten, wie es funktioniert.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Die meisten Menschen denken nie wirklich über Geld nach
 
@@ -29,7 +29,7 @@ Nicht es verdienen, nicht es ausgeben, sondern darüber nachdenken, was es ist u
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Fünf Fragen zum Einstieg
 
@@ -49,7 +49,7 @@ Nicht es verdienen, nicht es ausgeben, sondern darüber nachdenken, was es ist u
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Fakt oder Meinung?
 
@@ -74,7 +74,7 @@ Geld ist ein Werkzeug für den Austausch.
 
 Beide Personen müssen das haben wollen, was die jeweils andere besitzt, und zwar zur gleichen Zeit und in passenden Mengen.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Nehmen Sie das Beispiel aus dem Leitfaden: Sie bauen Reis an und brauchen Schuhe, aber der Schuhmacher möchte Speiseöl, keinen Reis. Ökonomen nennen dies die doppelte Koinzidenz der Bedürfnisse. -->
 
@@ -96,13 +96,13 @@ Beide Personen müssen das wollen, was die jeweils andere hat, und zwar zur selb
 
 Niemand will Geld um seiner selbst willen. Es ist nützlich, weil andere es annehmen – in der Erwartung, dass wiederum andere es später annehmen.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Eine Banknote ist nur ein Stück Papier. Geld löst das Problem des Tauschhandels, indem es Verkaufen und Kaufen voneinander trennt: Sie verkaufen Ihren Reis an eine Person und kaufen Schuhe von einer anderen. Das ist es, was Geld vom Tauschhandel unterscheidet. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Drei Funktionen des Geldes
 
@@ -114,7 +114,7 @@ Kein Geld bewahrt Wert perfekt auf, aber manche Formen verlieren ihre Kaufkraft 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Von Muscheln zu Papier
 
@@ -161,13 +161,13 @@ Wenn Menschen das Wort Inflation hören, denken sie meist an steigende Preise.
 
 ## Inflation und Kaufkraft
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Preisinflation ist ein anhaltender Anstieg des allgemeinen Preisniveaus. Ihre Kehrseite ist die Kaufkraft: wie viel man mit einer Geldeinheit kaufen kann. Steigt der Preis eines Korbs grundlegender Güter von 100 Währungseinheiten auf 110, reichen dieselben 100 Einheiten nicht mehr für den vollständigen Korb. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Viele Ursachen, eine Entscheidung
 
@@ -285,7 +285,7 @@ Ein bitcoin lässt sich in 100.000.000 kleinere Einheiten teilen, die Satoshis o
 
 ## Wer hält Bitcoin am Laufen?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Nutzer senden, empfangen und halten bitcoin; Nodes prüfen jede Transaktion und jeden Block anhand der Regeln; Miner konkurrieren darum, etwa alle zehn Minuten einen neuen Block zum Register hinzuzufügen. Dieses Register, die Blockchain, ist öffentlich und nur mit sehr hohem Aufwand umzuschreiben. Ein Hinweis zur Schreibweise: Bitcoin mit großem B bezeichnet in der Regel das Netzwerk oder das System; bitcoin mit kleinem b bezeichnet das Geld selbst. -->
 
@@ -330,7 +330,7 @@ Die Wahl der Verwahrung ist kein Maßstab für Ihren Wert. Entscheidend ist, zu 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Ihre Seed-Phrase bedeutet vollen Zugriff
 
@@ -350,7 +350,7 @@ Eine geordnete Liste von Wörtern, meist 12 oder 24, mit der sich Ihre Schlüsse
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Bevor Sie irgendeine Wallet verwenden
 
@@ -391,7 +391,7 @@ Eine geordnete Liste von Wörtern, meist 12 oder 24, mit der sich Ihre Schlüsse
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Innehalten, nichts teilen, nichts senden
 
@@ -426,7 +426,7 @@ Dies ist erst der Anfang.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Das Bitcoin-Diplom
 

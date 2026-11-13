@@ -15,7 +15,7 @@ Sistem fiat memiliki beberapa pihak utama yang terlibat:
 [Para pelaku dalam sistem fiat dan aliran di antara mereka: bank sentral menetapkan kebijakan dan menyelesaikan transaksi antarbank, bank umum menyimpan dana yang menjadi kewajiban mereka kepada nasabah, layanan pembayaran meneruskan instruksi, pemerintah memungut pajak dan membelanjakan dana, serta warga dan pelaku usaha melakukan dan menerima pembayaran.](/micrographics/fiat-system-flows-01/id.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
 <!-- card: light -->

@@ -30,4 +30,4 @@ Prije svake demonstracije uživo provjerite znate li:
 
 Rezultat Vaše radionice trebao bi biti objašnjenje ili vještina, a ne samo dovršena [transakcija](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction).
 
-![Edukator i vlasnik poduzeća zajedno vježbaju na telefonu za obuku, oboje gledajući u zaslon okrenut prema njima.](https://cdn.sanity.io/images/vje9ehw2/production/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)
+![Edukator i vlasnik poduzeća zajedno vježbaju na telefonu za obuku, oboje gledajući u zaslon okrenut prema njima.](https://cdn.sanity.io/images/vje9ehw2/staging/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)

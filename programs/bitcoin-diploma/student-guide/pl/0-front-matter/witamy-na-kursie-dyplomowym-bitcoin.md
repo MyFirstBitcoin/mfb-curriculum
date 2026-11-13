@@ -8,7 +8,7 @@ Projekt rozpoczął się w 2021 roku od zajęć stacjonarnych w małych grupach 
 
 Nasza działalność jest niezależna, oparta na zaangażowaniu społeczności i skoncentrowana na Bitcoinie. Skupiamy się na wiedzy finansowej, uważnym myśleniu i bezpieczeństwie w praktyce - nie na handlu, spekulacji ani promowaniu innych tokenów. Nie prosimy Państwa o przyjmowanie czegokolwiek na wiarę. Zamiast tego przedstawiamy pojęcia, pytania i praktyczną wiedzę, aby mogli Państwo wyciągać własne wnioski.
 
-![Edukator wita we wspólnej grupie początkującą osobę, starszego uczestnika, osobę prowadzącą firmę, osobę zainteresowaną zagadnieniami technicznymi i młodego uczestnika.](https://cdn.sanity.io/images/vje9ehw2/production/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
+![Edukator wita we wspólnej grupie początkującą osobę, starszego uczestnika, osobę prowadzącą firmę, osobę zainteresowaną zagadnieniami technicznymi i młodego uczestnika.](https://cdn.sanity.io/images/vje9ehw2/staging/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
 
 ### Nasza misja: niezależna edukacja o Bitcoinie na otwartej licencji
 

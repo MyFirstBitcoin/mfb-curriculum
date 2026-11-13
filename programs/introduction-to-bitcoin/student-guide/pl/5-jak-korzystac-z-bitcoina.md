@@ -6,7 +6,7 @@ Pierwsze pytanie dotyczące każdego portfela brzmi więc: **kto kontroluje kluc
 
 ###### Kto tak naprawdę ma pieczę nad Państwa bitcoinami?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 W przypadku **portfela niepowierniczego**, to Państwo kontrolują klucze.
 

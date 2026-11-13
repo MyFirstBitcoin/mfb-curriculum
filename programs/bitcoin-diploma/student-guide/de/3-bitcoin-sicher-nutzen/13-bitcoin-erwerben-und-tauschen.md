@@ -15,7 +15,7 @@ Menschen können bitcoin durch Arbeit, eine Gemeinschaftszahlung, einen Tausch u
 * **Peer-to-Peer (P2P)-Tausch:** Zwei Personen können [Fiatgeld](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) oder Waren direkt oder über einen Vermittlungsdienst gegen bitcoin tauschen. Dies kann Risiken in Bezug auf die Gegenpartei, die körperliche Sicherheit, die Rückbuchung von Zahlungen sowie Betrugsrisiken mit sich bringen.
 * **Börse, Broker, Geldautomat oder Kiosk:** Ein Dienst oder ein Automat kann einen vertrauten Weg bieten, ist aber möglicherweise verbunden mit Gebühren, Identitätsprüfungen, [Verwahrung](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), Auszahlungslimits oder einem ungünstigen [Wechselkurs](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
 
 Bevor Sie einen Weg vergleichen, fragen Sie sich:
 

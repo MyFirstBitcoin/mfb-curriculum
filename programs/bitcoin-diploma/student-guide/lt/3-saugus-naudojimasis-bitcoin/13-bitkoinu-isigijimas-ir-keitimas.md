@@ -15,7 +15,7 @@
 * **Tiesioginiai mainai tarp asmenų:** Du žmonės gali keisti [dekretinius pinigus](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) arba prekes į bitkoinus tiesiogiai arba naudodamiesi mainų partnerių paieškos paslauga. Tai gali kelti su sandorio šalimi, fiziniu saugumu, mokėjimo atšaukimu ir sukčiavimu susijusią riziką.
 * **Keitykla, brokeris, bankomatas arba kioskas:** Paslauga ar įrenginys gali suteikti įprastą būdą, tačiau gali būti taikomi mokesčiai, tapatybės patikros, [lėšų saugojimas](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), lėšų išėmimo limitai arba nepalankus [valiutos keitimo kursas](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
 
 Prieš lygindami būdą, paklauskite:
 

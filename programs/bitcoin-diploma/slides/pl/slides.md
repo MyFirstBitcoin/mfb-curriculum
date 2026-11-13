@@ -51,7 +51,7 @@ Cena Bitcoina może gwałtownie się zmieniać. Błędy, oszustwa, utrata poufny
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Pytania wprowadzające dotyczące pieniądza
 
@@ -82,7 +82,7 @@ Pieniądz jest aktywem, które ludzie akceptują, ponieważ oczekują, że inni 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Funkcje pieniądza
 
@@ -128,15 +128,15 @@ Jedna forma pieniądza może spełniać daną funkcję lepiej niż inna. Każda 
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
 
 ## Rzadkość, wartość i wymiana
 
@@ -160,7 +160,7 @@ Sama rzadkość nie gwarantuje wartości; popyt też ma znaczenie.
 
 ## Koszt alternatywny
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b79c74dedefcf834762da5d2301e0e6dc68ba9ad-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b79c74dedefcf834762da5d2301e0e6dc68ba9ad-1536x1024.svg)
 
 ---
 
@@ -203,7 +203,7 @@ Wygodne płatności i elastyczny dostęp do kredytu wiążą się z zależności
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Analiza lokalnej płatności
 
@@ -244,11 +244,11 @@ Masowe wycofywanie depozytów z banków może utrudniać dostęp do środków. U
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 ## Inflacja i siła nabywcza
 
@@ -351,7 +351,7 @@ Co sprawia, że Państwa pieniądze są użyteczne, i które zasady zależą od 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/ff5854ad760ecdb1b1cdb024b46098be0212f47e-1536x1024.svg)
 
 ## Dlaczego powstał Bitcoin
 
@@ -387,7 +387,7 @@ Bitcoin zmniejsza potrzebę zaufania do centralnego podmiotu w zakresie emisji i
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
 
 ## Wczesne formy pieniądza cyfrowego i podwójne wydawanie
 
@@ -408,7 +408,7 @@ Podwójne wydatkowanie to próba wysłania tej samej jednostki cyfrowej do dwóc
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)
 
 ## Cyfrowa rzadkość i weryfikowalna podaż
 
@@ -438,7 +438,7 @@ Zmiana historii wymaga ponownego wykonania pracy i nadrobienia zaległości. Jes
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)
 
 ## Decentralizacja
 
@@ -469,7 +469,7 @@ Korzystanie z usług pośredników pozostaje opcjonalne; wybór takiej usługi w
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- micrographic: bitcoin-participant-roles-01 -->
 [Cztery role w sieci Bitcoin: użytkownicy odbierają, przechowują i wysyłają bitcoin, węzły niezależnie sprawdzają zgodność z regułami, górnicy tworzą bloki kandydujące z dowodem pracy, a programiści proponują oprogramowanie. Żadna pojedyncza rola nie kontroluje sieci.](/micrographics/bitcoin-participant-roles-01/pl.md)
@@ -488,7 +488,7 @@ Górnicy nie mogą sprawić, by uczciwe węzły akceptowały nieprawidłowe blok
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/fb441d7e082e658fa8496bbeb4a1e764faad208b-1054x1493.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/fb441d7e082e658fa8496bbeb4a1e764faad208b-1054x1493.svg)
 
 ## Dowód pracy
 
@@ -502,14 +502,14 @@ Wydobywanie zabezpiecza kolejność transakcji; nie służy do rozwiązywania r�
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 <!-- micrographic: proof-of-work-process-01 -->
 [Górnik wielokrotnie oblicza skrót proponowanego bloku, aż jeden z wyników będzie niższy od wartości docelowej sieci, a następnie rozsyła blok. Węzły szybko sprawdzają dowód i zgodność z każdą regułą, zanim blok dołączy do łańcucha bloków: wykonanie pracy jest kosztowne, a jej weryfikacja — łatwa.](/micrographics/proof-of-work-process-01/pl.md)
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
 
 ## Ograniczona podaż
 
@@ -535,7 +535,7 @@ Węzły odrzucają nadmierną emisję; limit obowiązuje, dopóki uczestnicy go 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/98c8cef9bc6e6d0955458f6fb4a71f1de5ed5225-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/98c8cef9bc6e6d0955458f6fb4a71f1de5ed5225-1536x1024.svg)
 
 ## Satoshi i błąd poznawczy jednostki
 
@@ -735,7 +735,7 @@ Nigdy nie należy udostępniać kluczy prywatnych, fraz odzyskiwania, haseł ani
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Frazy odzyskiwania
 
@@ -771,7 +771,7 @@ Publiczny łańcuch bloków nie pozwala udowodnić, ile usługodawca jest winien
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 ---
 
@@ -780,7 +780,7 @@ Publiczny łańcuch bloków nie pozwala udowodnić, ile usługodawca jest winien
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/57f786b5525418d2bddc36af8cced7b1f0533e70-1054x1492.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/57f786b5525418d2bddc36af8cced7b1f0533e70-1054x1492.svg)
 
 ## Portfele gorące i zimne
 
@@ -822,7 +822,7 @@ Wiadomość ani zrzut ekranu od nadawcy nie stanowią dowodu. Status „oczekuj�
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/3eaf85ebf51d0327a1221d33b4745a62a44347b2-1055x1491.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/3eaf85ebf51d0327a1221d33b4745a62a44347b2-1055x1491.svg)
 
 ## Wysyłanie Bitcoina
 
@@ -857,7 +857,7 @@ Proszę korzystać z przygotowanych przykładów; nie należy wyszukiwać osobis
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Lista kontrolna bezpieczeństwa
 
@@ -880,7 +880,7 @@ Proszę korzystać z przygotowanych przykładów; nie należy wyszukiwać osobis
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
 
 ## Nabywanie i wymiana Bitcoina
 
@@ -1051,7 +1051,7 @@ Jaki problem jest rozwiązywany? Czy Bitcoin jest tu lepszy od dostępnej altern
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/4b62c836617bfcd268b6e464842a61a1f8b4614a-1055x1491.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/4b62c836617bfcd268b6e464842a61a1f8b4614a-1055x1491.svg)
 
 ## Wydawanie i otrzymywanie środków lokalnie
 
@@ -1129,7 +1129,7 @@ Same statystyki adopcji nie dowodzą użyteczności. Niedostateczny popyt, niedo
 
 ---
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
 
 ---
 

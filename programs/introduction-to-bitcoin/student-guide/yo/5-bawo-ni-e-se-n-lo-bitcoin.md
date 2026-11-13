@@ -6,7 +6,7 @@ Nítorí náà, ìbéèrè àkọ́kọ́ nípa àpamọ́ èyíkéyìí ni pé:
 
 ###### Ta ni ó di bitcoin yín mú gan-an?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 Pẹ̀lú **àpamọ́ tí ẹ̀yin fúnra yín ń tọ́jú**, ẹ̀yin ni ẹ ń ṣàkóso àwọn kọ́kọ́rọ́ náà.
 

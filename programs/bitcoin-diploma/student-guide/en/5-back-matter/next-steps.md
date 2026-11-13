@@ -26,11 +26,11 @@ The Educator Guide helps you prepare lessons, facilitate activities, adapt examp
 
 ### Join a learning community
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
 
 The [Bitcoin Education Network](https://myfirstbitcoin.org/about/network) connects independent educators and local learning communities. Find a community near you, or one whose work interests you, and contact it to ask how you can learn, volunteer, or contribute. Participation is optional and does not affect Diploma completion, assessment, or certification.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
 
 ### A safety reminder
 
@@ -92,13 +92,13 @@ If the issuing educator provides a verification method, use only the instruction
 
 Your most important result is not the certificate. It is the ability to explain money and Bitcoin clearly, recognize risk, verify before acting, and continue learning independently.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
 
 ### Support free Bitcoin education
 
 My First Bitcoin's educational resources are free and open source. Voluntary support helps maintain the curriculum, train educators, and expand access.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
 
 
 https://donate.myfirstbitcoin.org
@@ -112,4 +112,4 @@ If you choose to contribute, use the official [donation page](https://donate.myf
 ---
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)

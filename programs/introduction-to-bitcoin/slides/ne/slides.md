@@ -19,7 +19,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## अधिकांश मानिसहरू कहिल्यै एकछिन रोकिएर पैसाबारे सोच्दैनन्
 
@@ -29,7 +29,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## सुरु गर्नका लागि पाँच प्रश्नहरू
 
@@ -49,7 +49,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## तथ्य वा विचार?
 
@@ -74,7 +74,7 @@ theme: mfb
 
 दुवै व्यक्तिलाई एकै समयमा र उपयुक्त परिमाणमा एकअर्कासँग भएको वस्तु चाहिएको हुनुपर्छ।
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: मार्गदर्शिकाको उदाहरण लिनुहोस्: तपाईं धान फलाउनुहुन्छ र तपाईंलाई जुत्ता चाहिन्छ, तर जुत्ता बनाउने व्यक्तिलाई धान होइन, खाने तेल चाहिन्छ। अर्थशास्त्रीहरू यसलाई आवश्यकताहरूको दोहोरो संयोग भन्छन्। -->
 
@@ -96,13 +96,13 @@ theme: mfb
 
 कसैले पनि पैसालाई पैसाकै लागि चाहँदैन। यो उपयोगी छ किनभने अरूले यसलाई स्वीकार गर्छन् र पछि अरूले पनि यसलाई स्वीकार गर्ने अपेक्षा राख्छन्।
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: बैंकनोट कागजको एउटा टुक्रा मात्र हो। पैसाले बेच्ने र किन्ने कार्यलाई अलग गरेर वस्तु विनिमयको समस्या समाधान गर्छ: तपाईंले एक व्यक्तिलाई आफ्नो चामल बेच्नुहुन्छ र अर्को व्यक्तिबाट जुत्ता किन्नुहुन्छ। यही कुराले पैसालाई वस्तु विनिमयबाट अलग बनाउँछ। -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## पैसाले गर्ने तीन काम
 
@@ -114,7 +114,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## कौडीदेखि कागजसम्म
 
@@ -161,13 +161,13 @@ theme: mfb
 
 ## मुद्रास्फीति र क्रयशक्ति
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: मूल्य मुद्रास्फीति भनेको मूल्यहरूको सामान्य स्तरमा निरन्तर हुने वृद्धि हो। यसको अर्को पाटो क्रयशक्ति हो: मुद्राको एक एकाइले कति वस्तु वा सेवा किन्न सक्छ भन्ने कुरा। यदि आधारभूत वस्तुहरूको एउटा टोकरीको मूल्य मुद्राको १०० एकाइबाट बढेर ११० पुग्छ भने, त्यही १०० एकाइले अब पूरै टोकरी किन्न सकिँदैन। -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## अनेक कारण, एउटै रोजाइ
 
@@ -285,7 +285,7 @@ theme: mfb
 
 ## बिटक्वाइनलाई कसले सञ्चालनमा राख्छ?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: प्रयोगकर्ताहरूले बिटकोइन पठाउँछन्, प्राप्त गर्छन् र राख्छन्; नोडहरूले प्रत्येक कारोबार र ब्लक नियमअनुसार छ कि छैन भनेर जाँच गर्छन्; माइनरहरू करिब हरेक दस मिनेटमा अभिलेखमा नयाँ ब्लक थप्न प्रतिस्पर्धा गर्छन्। ब्लकचेन भनिने त्यो अभिलेख सार्वजनिक हुन्छ र त्यसलाई पुनर्लेखन गर्न निकै ठूलो खर्च लाग्छ। हिज्जेबारे एउटा टिप्पणी: ठूलो अक्षर B बाट सुरु हुने Bitcoin ले सामान्यतया सञ्जाल वा प्रणालीलाई जनाउँछ; सानो अक्षर b बाट सुरु हुने bitcoin ले पैसालाई नै जनाउँछ। -->
 
@@ -330,7 +330,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## तपाईंको सीड फ्रेजले पूर्ण पहुँच दिन्छ
 
@@ -350,7 +350,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## कुनै पनि वालेट प्रयोग गर्नुअघि
 
@@ -391,7 +391,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## रोकिनुहोस्, केही पनि साझा नगर्नुहोस्, केही पनि नपठाउनुहोस्
 
@@ -426,7 +426,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## बिटकोइन डिप्लोमा
 

@@ -4,7 +4,7 @@
 
 Eşler arası olması, her zaman yalnızca iki bilgisayarın doğrudan iletişim kurduğu anlamına gelmez. Bir [işlem](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction); cüzdanlardan, internet sağlayıcılarından ve birçok ağ [düğümünden](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) geçebilir. Önemli olan, hiçbir merkezi Bitcoin operatörünün göndereni veya alıcıyı onaylamak zorunda olmamasıdır.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
 
 
 <!-- micrographic: peer-to-peer-route-01 -->

@@ -6,7 +6,7 @@ Sheria za umma za Bitcoin, [mtandao wa Rika-kwa-Rika (P2P)](https://curriculum.m
 
 Sifa hizi zinaweza kuwawezesha washiriki, lakini pia zinawatwika jukumu kubwa zaidi. Bila mamlaka kuu ya kuidhinisha [miamala](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), kurejesha ufikiaji, au kubatilisha makosa mengi, kila mtu lazima aweze kutambua jukumu na hatari anazokubali.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
 
 Kwa mtu anayechagua [kujihifadhia mwenyewe](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody), udhibiti wa funguo huleta udhibiti wa moja kwa moja wa bitcoin. Hakuna kampuni inayoweza kuzuia salio lililo kwenye mnyororo linalodhibitiwa ipasavyo. Wala hakuna kampuni inayoweza kurejesha [maneno ya mbegu (seed phrase)](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) yaliyopotea.
 

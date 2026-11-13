@@ -12,7 +12,7 @@ Tofauti hii ni muhimu kwa uthibitishaji. Sheria za Bitcoin na jumla ya ugavi wak
 
 Katika pochi **isiyo ya uhifadhi** au **ya uhifadhi binafsi**, NINYI ndio mnaodhibiti funguo. Pochi husaini [miamala](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) chini ya mamlaka yenu. Bado kunaweza kuwa na utegemezi wa programu, vifaa, seva au mtandao, lakini hakuna [mhifadhi](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian) anayepaswa kuidhinisha matumizi halali kwenye blockchain.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 
 <!-- micrographic: who-controls-keys-01 -->

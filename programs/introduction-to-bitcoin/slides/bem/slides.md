@@ -19,7 +19,7 @@ Tubomfya indalama cila bushiku, lelo tatupusha ilingi ifyo shibomba.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Abantu Abengi Tabatala Baiminina Kuti Batontonkanye pa Ndalama
 
@@ -29,7 +29,7 @@ Te kuisangila, te kuibomfya mu kushita ifintu, lelo kutontonkanya pa co ili na f
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Amepusho Yasano ya Kutendekelapo
 
@@ -49,7 +49,7 @@ Te kuisangila, te kuibomfya mu kushita ifintu, lelo kutontonkanya pa co ili na f
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Icishinka nangu Amatontonkanyo?
 
@@ -74,7 +74,7 @@ Indalama ni cibombelo ca kucinjishanya.
 
 Abantu bonse babili bafwile ukufwaya ifyo umunabo akwete, pa nshita imo ine kabili mu bwingi ubulingile.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Bomfyeni icilangililo ca mu buku lya kutungulula: mulima umupunga kabili mulefwaya insapato, lelo kapanga wa nsapato afwaya amafuta ya kwipikila, te mupunga iyo. Abasambilila pa fyacuma baita ici ukwampana kwa fyo abantu babili bafwaya. -->
 
@@ -96,13 +96,13 @@ Abantu bonse babili bafwile ukufwaya ifyo umunabo akwete, pa nshita imo ine kabi
 
 Takuli uufwaya indalama pa mulandu wa kuti ni ndalama fye. Shalakwafwa pantu abantu bambi balashipokelela, balasubila ukuti bambi nabo bakashipokelela kuntanshi.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Inoti ya ndalama ni ciputulwa fye ca pepala. Indalama shilapwisha ubwafya bwa kukabushanya ifintu ukupitila mu kulekanya ukushitisha no kushita: mulashitisha umupunga wenu ku muntu umo no kushita insapato ku muntu umbi. Ici e cilekanya indalama no kukabushanya ifintu. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Ifintu Fitatu Ifyo Indalama Shicita
 
@@ -114,7 +114,7 @@ Takuli ndalama shisunga umutengo mu buryo bwafikapo, lelo imisango imo iya ndala
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Ukufuma ku Fipapa Ukuya ku Mapepala
 
@@ -161,13 +161,13 @@ Nga abantu baumfwa ishiwi lyakuti ukupwa kwa maka ya ndalama, ilingi batontonkan
 
 ## Ukukwela kwa Mitengo na Maka ya Kushita
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Ukukwela kwa mitengo ni kukwela ukutwalilila kwa mitengo ya fintu mu cilinganyo. Ulubali lumbi lwa ici ni maka ya ndalama aya kushita: ubwingi bwa fintu ifyo iciputulwa cimo ca ndalama cingashita. Nga umutengo wa luseke lwa fintu ifikankala wakwela ukufuma pa fiputulwa 100 fya ndalama ukuya pa 110, ifiputulwa 100 fimo fine tafingashita na kabili ifintu fyonse ifili mu luseke. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Imilandu Iingi, Ukusala Kumo
 
@@ -285,7 +285,7 @@ bitcoin imo ilapatululwa mu tupimfya tunono 100,000,000 utwitwa satoshis, nangu 
 
 ## Ni Bani Abalenga Bitcoin Ukutwalilila Ukubomba?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Ababomfya bitcoin balaituma, balaipokelela, no kuisunga; amanodi yasuzuma ukutumya konse ukwa ndalama ne buloko lyonse nga filekonka amafunde; abakwimba bitcoin balapikisana pa kulundapo ibuloko lipya ku fyabikwa mu mbila pa numa ya mineti ikumi. Ifyo ifyabikwa mu mbila, ifiitwa blockchain, umuntu onse kuti afimona, kabili ukufilembulula kufwaya indalama ishingi sana. Ishiwi pa myandikile: Bitcoin uulembwa na B mukalamba ilingi ilola ku mulumikizano nangu ku musango uwabombelamo; bitcoin uulembwa na b munono ilola ku ndalama ishine. -->
 
@@ -330,7 +330,7 @@ Ukusala umusango wa kusungilamo bitcoin te kupima ubucindami bwenu. Icacindama n
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Amashiwi Yenu ya Mbuto Yapela Insambu Shonse sha Kwingila
 
@@ -350,7 +350,7 @@ Ulundanda lwa mashiwi ayabikwa mu kulondana, ilingi 12 nangu 24, ayengapanga imf
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Ilyo Tamulabomfya Icikwama Icili Conse
 
@@ -391,7 +391,7 @@ Ulundanda lwa mashiwi ayabikwa mu kulondana, ilingi 12 nangu 24, ayengapanga imf
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Imilileni, Mwilaakana Nangu Cimo, Mwilatuma Nangu Cimo
 
@@ -426,7 +426,7 @@ Uku ni kutendeka fye.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Idipuloma ya Bitcoin
 

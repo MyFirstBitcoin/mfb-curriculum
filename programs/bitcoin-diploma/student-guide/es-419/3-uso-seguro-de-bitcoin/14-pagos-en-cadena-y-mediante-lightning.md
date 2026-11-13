@@ -1,6 +1,6 @@
 # 3.14 Pagos en cadena y mediante Lightning
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
@@ -30,4 +30,4 @@
 
 Imagine que un escenario preparado ofrece ambas vías de pago. ¿Qué solicitud puede utilizar la billetera prevista y qué verificaría usted antes de aprobarla? La respuesta depende de la solicitud de cobro, de la billetera y de la situación, y no de una vía universalmente «mejor».
 
-![El educador señala dos vías de pago geométricas diferentes en una pizarra mientras los estudiantes principiantes y los de perfil técnico las analizan.](https://cdn.sanity.io/images/vje9ehw2/production/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)
+![El educador señala dos vías de pago geométricas diferentes en una pizarra mientras los estudiantes principiantes y los de perfil técnico las analizan.](https://cdn.sanity.io/images/vje9ehw2/staging/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)

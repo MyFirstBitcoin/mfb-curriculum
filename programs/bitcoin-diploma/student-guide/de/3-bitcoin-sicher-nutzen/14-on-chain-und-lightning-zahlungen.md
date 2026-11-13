@@ -1,6 +1,6 @@
 # 3.14 On-Chain- und Lightning-Zahlungen
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
@@ -30,4 +30,4 @@ Welchen Weg erwartet der Empfänger? Vergewissern Sie sich vor dem Bezahlen, ob 
 
 Stellen Sie sich vor, ein vorbereitetes Szenario bietet beide Zahlungswege an. Welche Anforderung kann die vorgesehene Wallet verwenden, und was würden Sie prüfen, bevor Sie sie bestätigen? Die Antwort hängt von der empfangenden Anforderung, der Wallet und der Situation ab – nicht von einem allgemeingültigen „besten“ Weg.
 
-![Die Lehrkraft zeigt auf einer Tafel auf zwei unterschiedliche geometrische Zahlungswege, während die Einsteigerin und der technisch versierte Lernende sie betrachten.](https://cdn.sanity.io/images/vje9ehw2/production/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)
+![Die Lehrkraft zeigt auf einer Tafel auf zwei unterschiedliche geometrische Zahlungswege, während die Einsteigerin und der technisch versierte Lernende sie betrachten.](https://cdn.sanity.io/images/vje9ehw2/staging/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)

@@ -23,4 +23,4 @@ Neki ljudi obavljaju više uloga. Jedan [rudar](https://curriculum.myfirstbitcoi
 
 **Kratko pitanje:** Zašto [čvor](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) provjerava [transakcije](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction)? Navedite barem jedno pravilo koje [čvor](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) provjerava.
 
-![Edukator vodi polaznika tehničkog usmjerenja za računalom na kojem je pokrenut čvor, pri čemu je monitor okrenut prema njima, a gledatelju je vidljiva stražnja strana njegova kućišta.](https://cdn.sanity.io/images/vje9ehw2/production/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)
+![Edukator vodi polaznika tehničkog usmjerenja za računalom na kojem je pokrenut čvor, pri čemu je monitor okrenut prema njima, a gledatelju je vidljiva stražnja strana njegova kućišta.](https://cdn.sanity.io/images/vje9ehw2/staging/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)

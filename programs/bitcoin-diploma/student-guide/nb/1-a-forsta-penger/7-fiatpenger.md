@@ -15,7 +15,7 @@ Fiatsystemet har flere hovedaktører:
 [Aktørene i et fiatpengesystem og det som utveksles mellom dem: Sentralbanken fastsetter pengepolitikken og gjør opp betalinger mellom banker, forretningsbanker holder innskudd som er deres forpliktelser overfor kundene, betalingstjenester formidler instrukser, staten krever inn skatter og bruker penger, og innbyggere og bedrifter betaler og mottar betalinger.](/micrographics/fiat-system-flows-01/nb.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
 <!-- card: light -->

@@ -9,7 +9,7 @@
 > არც [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) და არც [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) არ არის ავტომატურად საუკეთესო არჩევანი. შეადარეთ კონკრეტული გზები, თუ წესები გაურკვეველია, იხელმძღვანელეთ მოქმედი ადგილობრივი რეკომენდაციებით და ნუ დაარღვევთ ადგილობრივ კანონმდებლობას ან ნუ ჩაიგდებთ თავს ფიზიკურ საფრთხეში, მაშინაც კი, თუ თქვენი მიზანია [კონფიდენციალურობის დაცვა](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
 ერთმა [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) სერვისმა შეიძლება მოითხოვოს ოფიციალური სახელი და გვარი, პირადობის დამადასტურებელი დოკუმენტი, მისამართი, ფოტოსურათი, ინფორმაცია თანხების წარმომავლობის შესახებ ან სხვა ჩანაწერები. ეს შეიძლება სერვისს დაეხმაროს ადგილობრივი წესების დაცვაში, ბანკებთან დაკავშირებაში, უფრო მაღალი ლიმიტების დაწესებაში ან ანგარიშის აღდგენის უზრუნველყოფაში.
 

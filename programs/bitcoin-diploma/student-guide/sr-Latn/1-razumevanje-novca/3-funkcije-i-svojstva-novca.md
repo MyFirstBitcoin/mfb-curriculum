@@ -30,4 +30,4 @@ Ljudi takođe upoređuju novac prema njegovoj [**pouzdanosti**](https://curricul
 
 **Razmišljajte kritički:** Navedite situaciju u kojoj ste izabrali jednu vrstu novca ili [imovine](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) umesto druge. Koja je bila svrha? Uporedite svojstva opcija koje ste mogli da koristite. Koja svojstva su vam bila najvažnija i zašto?
 
-![Svih šest likova zajedno učestvuje u aktivnosti sa nastavnim karticama bez korišćenja interneta, dok edukator vodi diskusiju.](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![Svih šest likova zajedno učestvuje u aktivnosti sa nastavnim karticama bez korišćenja interneta, dok edukator vodi diskusiju.](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)

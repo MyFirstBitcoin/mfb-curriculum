@@ -41,4 +41,4 @@ N’affichez jamais de véritables données d’un apprenant : [phrase de récu
 
 Ne transformez pas une affirmation nuancée du texte en une représentation visuelle catégorique. Un graphique de l’offre ne doit pas suggérer une hausse du [prix](https://curriculum.myfirstbitcoin.org/lexicon/en/#price). Une carte de la [décentralisation](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) ne doit pas suggérer une influence égale. Une image de portefeuille ne doit pas suggérer que le bitcoin est stocké à l’intérieur de l’appareil.
 
-![L’enseignant explique, à l’aide d’un tableau blanc, le fonctionnement de six pairs interconnectés aux cinq apprenants, dont le jeune apprenant portant un bonnet orange.](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![L’enseignant explique, à l’aide d’un tableau blanc, le fonctionnement de six pairs interconnectés aux cinq apprenants, dont le jeune apprenant portant un bonnet orange.](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)

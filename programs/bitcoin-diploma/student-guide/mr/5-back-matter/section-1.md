@@ -26,11 +26,11 @@
 
 ### शिक्षण समुदायात सहभागी व्हा
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
 
 हे [बिटकॉइन शिक्षण नेटवर्क](https://myfirstbitcoin.org/about/network) स्वतंत्र शिक्षक आणि स्थानिक शिक्षण समुदायांना जोडते. आपल्या जवळचा किंवा ज्याचे कार्य आपल्याला रुचते असा समुदाय शोधा आणि आपण कसे शिकू शकता, स्वयंसेवा करू शकता किंवा योगदान देऊ शकता हे विचारण्यासाठी त्याच्याशी संपर्क साधा. सहभाग ऐच्छिक आहे आणि त्याचा डिप्लोमा पूर्ण करणे, मूल्यमापन किंवा प्रमाणपत्र मिळवणे यांवर परिणाम होत नाही.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
 
 ### सुरक्षिततेची आठवण
 
@@ -92,13 +92,13 @@
 
 आपल्या शिक्षणाचा सर्वात महत्त्वाचा परिणाम प्रमाणपत्र नाही. पैसा आणि बिटकॉइन यांबद्दल स्पष्टपणे समजावून सांगणे, जोखीम ओळखणे, कृती करण्यापूर्वी पडताळणी करणे आणि स्वतंत्रपणे शिकत राहणे ही क्षमता हा सर्वात महत्त्वाचा परिणाम आहे.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
 
 ### मोफत बिटकॉइन शिक्षणाला पाठिंबा द्या
 
 My First Bitcoin ची शैक्षणिक साधने मोफत आणि मुक्त-स्रोत आहेत. स्वेच्छेने दिलेल्या पाठिंब्यामुळे अभ्यासक्रम अद्ययावत ठेवणे, शिक्षकांना प्रशिक्षण देणे आणि शिक्षणाची उपलब्धता वाढवणे शक्य होते.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
 
 
 https://donate.myfirstbitcoin.org
@@ -112,4 +112,4 @@ _My First Bitcoin ला पाठिंबा द्या_
 ---
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)

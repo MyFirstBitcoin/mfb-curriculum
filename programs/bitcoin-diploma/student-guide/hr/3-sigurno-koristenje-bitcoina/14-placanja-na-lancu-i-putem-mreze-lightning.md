@@ -1,6 +1,6 @@
 # 3.14 Plaćanja na lancu i putem mreže Lightning
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
@@ -30,4 +30,4 @@ Koji način plaćanja primatelj očekuje? Prije plaćanja provjerite je li dosta
 
 Zamislite da pripremljeni scenarij nudi oba načina plaćanja. Koji zahtjev može upotrijebiti predviđeni novčanik i što biste provjerili prije nego što ga odobrite? Odgovor ovisi o zahtjevu za primanje uplate, novčaniku i situaciji — a ne o univerzalno „najboljem” načinu plaćanja.
 
-![Predavač na ploči pokazuje dvije različite geometrijske putanje plaćanja dok ih polaznik početnik i tehnički potkovani polaznici razmatraju.](https://cdn.sanity.io/images/vje9ehw2/production/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)
+![Predavač na ploči pokazuje dvije različite geometrijske putanje plaćanja dok ih polaznik početnik i tehnički potkovani polaznici razmatraju.](https://cdn.sanity.io/images/vje9ehw2/staging/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)

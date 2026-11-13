@@ -8,7 +8,7 @@ Hanke alkoi pienillä lähiopetusryhmillä El Salvadorissa vuonna 2021 sen jälk
 
 Työmme on riippumatonta, yhteisölähtöistä ja Bitcoiniin keskittyvää. Keskitymme talouslukutaitoon, harkittuun ajatteluun ja käytännön turvallisuuteen - emme kaupankäyntiin, keinotteluun tai muiden tokenien edistämiseen. Emme pyydä teitä omaksumaan mitään uskomusta. Sen sijaan tarjoamme käsitteitä, kysymyksiä ja käytännön tietoa, jotta voitte muodostaa omat johtopäätöksenne.
 
-![Opettaja toivottaa aloittelijan, iäkkäämmän oppijan, yrittäjän, teknisesti suuntautuneen oppijan ja nuoren oppijan tervetulleiksi yhteiseen oppimisryhmään.](https://cdn.sanity.io/images/vje9ehw2/production/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
+![Opettaja toivottaa aloittelijan, iäkkäämmän oppijan, yrittäjän, teknisesti suuntautuneen oppijan ja nuoren oppijan tervetulleiksi yhteiseen oppimisryhmään.](https://cdn.sanity.io/images/vje9ehw2/staging/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
 
 ### Tehtävämme: riippumaton, avoimeen lähdekoodiin perustuva Bitcoin-koulutus
 

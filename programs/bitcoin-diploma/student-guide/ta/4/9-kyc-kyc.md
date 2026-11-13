@@ -9,7 +9,7 @@
 > எதுவும் — [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) அல்லது [KYC இல்லாத வழிமுறை](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) — தானாகவே சிறந்ததாகிவிடாது. நடைமுறையில் உள்ள வழிமுறையை ஒப்பிடுங்கள்; விதிகள் தெளிவாக இல்லாதபோது தற்போதைய உள்ளூர் வழிகாட்டுதலைப் பயன்படுத்துங்கள்; உள்ளூர் சட்டத்தை மீறவோ உங்களை உடல்ரீதியான ஆபத்துக்கு உள்ளாக்கிக்கொள்ளவோ வேண்டாம் — நீங்கள் நாடுவது [தனியுரிமையாக இருந்தாலும்](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
 ஒரு [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) சேவை, சட்டப்பூர்வமான பெயர், அடையாள ஆவணம், முகவரி, புகைப்படம், நிதி எங்கிருந்து வந்தது என்பது பற்றிய தகவல் அல்லது பிற பதிவுகளைக் கோரலாம். இதன் மூலம் அந்தச் சேவையால் உள்ளூர் விதிகளைப் பின்பற்றவும், வங்கிகளுடன் இணைக்கவும், அதிக வரம்புகளை நிர்ணயிக்கவும் அல்லது கணக்கை மீட்டெடுக்க உதவவும் முடியலாம்.
 

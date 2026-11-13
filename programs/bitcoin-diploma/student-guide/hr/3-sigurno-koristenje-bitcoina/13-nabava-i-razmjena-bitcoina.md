@@ -15,7 +15,7 @@ Ljudi mogu primiti bitcoin za rad, kroz plaćanje unutar zajednice, razmjenom s 
 * **Razmjena među pojedincima:** Dvije osobe mogu razmijeniti [fiat novac](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) ili robu za bitcoin izravno ili putem usluge koja povezuje sudionike razmjene. To može donijeti rizike povezane s drugom ugovornom stranom, fizičkom sigurnošću, poništenjem plaćanja i prijevarama.
 * **Burza, broker, bankomat ili kiosk:** Usluga ili uređaj mogu ponuditi poznat način, ali mogu uključivati naknade, provjere identiteta, [skrbništvo](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), ograničenja povlačenja sredstava ili nepovoljan [tečaj](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
 
 Prije usporedbe načina zapitajte se:
 

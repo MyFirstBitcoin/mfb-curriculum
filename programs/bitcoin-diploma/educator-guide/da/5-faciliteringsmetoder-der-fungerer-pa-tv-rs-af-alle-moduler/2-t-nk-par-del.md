@@ -7,4 +7,4 @@ Brug dette, når nogle få selvsikre kursister ellers kan komme til at dominere.
 1. Bed udvalgte par om at fremlægge deres ræsonnement, ikke kun konklusionen.
 1. Opsummér mønstrene, og ret misforståelser.
 
-![Underviseren lægger op til en diskussion, mens begynderen og de ældre kursister sammenligner vejledninger, og virksomhedsejeren bidrager.](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![Underviseren lægger op til en diskussion, mens begynderen og de ældre kursister sammenligner vejledninger, og virksomhedsejeren bidrager.](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)

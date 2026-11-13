@@ -22,4 +22,4 @@ Upang suriin ang isang inihandang [transaksyon](https://curriculum.myfirstbitcoi
 [Naghihintay ang isang transaksiyon na wala pang kumpirmasyon sa kalipunan ng mga nakabinbing transaksiyon, pagkatapos ay isinasama ito sa Bloke N bilang unang kumpirmasyon nito, at bawat kasunod na bloke ay nagdaragdag ng isa pang kumpirmasyon.](/micrographics/confirmation-timeline-01/tl.md)
 
 
-![Tinatalakay ng tagapagturo at ng mas nakatatandang mag-aaral ang isang inihandang halimbawa sa monitor na nakaharap sa grupo habang ginagamit ng mag-aaral na may kaalamang teknikal ang mouse; nakikita ng tumitingin ang likurang kaha ng monitor.](https://cdn.sanity.io/images/vje9ehw2/production/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)
+![Tinatalakay ng tagapagturo at ng mas nakatatandang mag-aaral ang isang inihandang halimbawa sa monitor na nakaharap sa grupo habang ginagamit ng mag-aaral na may kaalamang teknikal ang mouse; nakikita ng tumitingin ang likurang kaha ng monitor.](https://cdn.sanity.io/images/vje9ehw2/staging/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)

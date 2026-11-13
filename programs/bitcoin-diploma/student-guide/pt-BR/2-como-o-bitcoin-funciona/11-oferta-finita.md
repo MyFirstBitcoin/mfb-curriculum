@@ -44,4 +44,4 @@ O limite de 21 milhões é aplicado pelos [nós](https://curriculum.myfirstbitco
 > Oferta finita também não significa que todo bitcoin esteja disponível para venda; alguns podem ser mantidos a longo prazo ou se tornar inacessíveis porque as chaves foram perdidas.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

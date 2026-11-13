@@ -19,7 +19,7 @@ Anyị na-eji ego eme ihe kwa ụbọchị, ma anyị anaghị ajụkarị otú 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Ọtụtụ ndị mmadụ anaghị ewepụtatụ oge iche echiche banyere ego
 
@@ -29,7 +29,7 @@ Anyị na-eji ego eme ihe kwa ụbọchị, ma anyị anaghị ajụkarị otú 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Ajụjụ Ise Iji Malite
 
@@ -49,7 +49,7 @@ Anyị na-eji ego eme ihe kwa ụbọchị, ma anyị anaghị ajụkarị otú 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Eziokwu ka ọ bụ Echiche?
 
@@ -74,7 +74,7 @@ Ego bụ ngwá ọrụ maka mgbanwe.
 
 Mmadụ abụọ ahụ aghaghị ịchọ ihe onye nke ọzọ nwere, n'otu oge nakwa n'oke kwesịrị ekwesị.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Jirinụ ihe atụ dị n’akwụkwọ ntuziaka ahụ: unu na-akọ osikapa, akpụkpọ ụkwụ dịkwa unu mkpa, ma onye na-akpụ akpụkpọ ụkwụ chọrọ mmanụ esi nri, ọ bụghị osikapa. Ndị ọkà mmụta akụ na ụba na-akpọ nke a ndakọrịta ọchịchọ nke akụkụ abụọ. -->
 
@@ -96,13 +96,13 @@ Mmadụ abụọ ahụ ga-achọrịrị ihe ibe ha nwere, n'otu oge nakwa n'ọ
 
 Ọ dịghị onye chọrọ ego naanị n'ihi ego n'onwe ya. Ọ bara uru n'ihi na ndị ọzọ na-anabata ya, na-atụ anya na ndị ọzọ ga-anabatakwa ya ma e mesịa.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Akwụkwọ ego bụ naanị mpempe akwụkwọ. Ego na-edozi nsogbu ịgbanwere ngwongwo na ngwongwo site n’ikewa ire ihe na ịzụ ihe: unu na-eresị otu onye osikapa unu ma zụta akpụkpọ ụkwụ n’aka onye ọzọ. Nke a bụ ihe dị iche n’etiti iji ego na ịgbanwere ngwongwo na ngwongwo. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Ihe Atọ Ego Na-eme
 
@@ -114,7 +114,7 @@ Mmadụ abụọ ahụ ga-achọrịrị ihe ibe ha nwere, n'otu oge nakwa n'ọ
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Site n’Akịrịkọ ruo n’Akwụkwọ
 
@@ -161,13 +161,13 @@ Mgbe ndị mmadụ nụrụ okwu ọnụ oriri, ha na-echekarị banyere ọnụ
 
 ## Ọrịrị Ọnụ Ahịa na Ike Ịzụta Ihe
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Mmụba ọnụahịa bụ ịrị elu na-aga n’ihu n’ọkwa ọnụahịa n’ozuzu ya. Akụkụ nke ọzọ ya bụ ike ịzụta ihe: ókè ihe otu nkeji ego nwere ike ịzụta. Ọ bụrụ na ọnụahịa otu nkata ngwongwo ndị dị mkpa arịgoro site na nkeji ego 100 ruo 110, otu nkeji ego 100 ahụ agaghịzi azụta nkata ahụ n’uju. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Ọtụtụ Ihe Kpatara Ya, Otu Nhọrọ
 
@@ -285,7 +285,7 @@ A na-ekewa otu bitcoin ka ọ bụrụ obere nkeji 100,000,000 a na-akpọ satos
 
 ## Ònye Na-eme Ka Bitcoin Na-arụ Ọrụ?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Ndị ọrụ na-eziga, na-anata ma na-echekwa bitcoin; ọnụ njikọ netwọk na-enyocha azụmahịa na blọkụ ọ bụla iji hụ na ha kwekọrọ n’iwu; ndị na-egwupụta bitcoin na-asọ mpi itinye blọkụ ọhụrụ na ndekọ ihe dị ka nkeji iri ọ bụla. Ndekọ ahụ, bụ́ yinye blọkụ, dịịrị ọha na eze, ọ na-erikwa nnukwu ego idegharị ya. Ihe a ga-arịba ama banyere mkpoputa: Bitcoin nke e ji nnukwu B malite na-apụtakarị netwọk ma ọ bụ usoro ahụ; bitcoin nke e ji obere b malite na-apụta ego ahụ n’onwe ya. -->
 
@@ -330,7 +330,7 @@ Ajụjụ mbụ banyere akpa ego ọ bụla: ònye na-achịkwa igodo ya?
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Ahịrịokwu Mkpụrụ Unu Bụ Ikike Nnweta Zuru Ezu
 
@@ -350,7 +350,7 @@ Ndepụta okwu a haziri n'usoro, nke na-abụkarị 12 ma ọ bụ 24, nke nwere
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Tupu Unu Ejiri Akpa Ego Ọ Bụla
 
@@ -391,7 +391,7 @@ Ndepụta okwu a haziri n'usoro, nke na-abụkarị 12 ma ọ bụ 24, nke nwere
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Kwụsịnụ, Unu Ekekọrịtala Ihe Ọ Bụla, Unu Ezigala Ihe Ọ Bụla
 
@@ -426,7 +426,7 @@ Nke a bụ naanị mmalite.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Diplọma Bitcoin
 

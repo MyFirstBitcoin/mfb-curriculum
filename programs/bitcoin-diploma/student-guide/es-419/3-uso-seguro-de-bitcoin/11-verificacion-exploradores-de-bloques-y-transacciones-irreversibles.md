@@ -22,4 +22,4 @@ Para revisar una [transacción](https://curriculum.myfirstbitcoin.org/lexicon/en
 [Una transacción espera sin confirmar en el grupo de transacciones pendientes; luego se incluye en el bloque N, lo que constituye su primera confirmación, y cada bloque posterior añade una más.](/micrographics/confirmation-timeline-01/es-419.md)
 
 
-![El educador y el estudiante de mayor edad comentan un ejemplo preparado en un monitor orientado hacia el grupo, mientras el estudiante con conocimientos técnicos maneja el mouse; el observador ve la carcasa trasera.](https://cdn.sanity.io/images/vje9ehw2/production/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)
+![El educador y el estudiante de mayor edad comentan un ejemplo preparado en un monitor orientado hacia el grupo, mientras el estudiante con conocimientos técnicos maneja el mouse; el observador ve la carcasa trasera.](https://cdn.sanity.io/images/vje9ehw2/staging/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)

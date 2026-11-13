@@ -12,7 +12,7 @@ Denne forskel er vigtig for verificering. Bitcoins regler og samlede udbud kan k
 
 I en **ikke-depotbaseret** eller **selvforvaltet** wallet kontrollerer DE nøglerne. Walleten underskriver [transaktioner](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) med Deres bemyndigelse. Der kan stadig være afhængigheder af software, hardware, servere eller netværk, men ingen [depotudbyder](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian) skal godkende en gyldig anvendelse af midler på blockchainen.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 
 <!-- micrographic: who-controls-keys-01 -->

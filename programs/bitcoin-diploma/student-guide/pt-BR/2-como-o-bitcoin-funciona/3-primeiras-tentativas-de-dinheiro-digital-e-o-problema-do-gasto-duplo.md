@@ -34,4 +34,4 @@ O whitepaper reuniu os recursos necessários para essa abordagem:
 
 Este módulo explica esses conceitos com mais detalhes. Juntos, eles deram uma resposta prática ao [problema do Gasto Duplo](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): a rede pode rejeitar uma segunda tentativa de gastar o mesmo bitcoin sem depender de uma autoridade central. O Bitcoin ofereceu a combinação que faltava e que décadas de experimentos com dinheiro digital vinham buscando.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)

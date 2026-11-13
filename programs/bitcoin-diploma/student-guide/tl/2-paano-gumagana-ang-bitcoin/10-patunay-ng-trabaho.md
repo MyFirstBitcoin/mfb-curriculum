@@ -1,6 +1,6 @@
 # 2.10 Patunay ng trabaho
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
 <!-- card: definition -->
@@ -29,4 +29,4 @@ Kapag ang isang [minero](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner
 
 [Ang patunay ng trabaho](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) ay may tunay na gastos sa enerhiya. Iginigiit ng mga tagasuporta na ang gastos na ito ang nagsisilbing pundasyon ng seguridad ng Bitcoin at maaaring lumikha ng pangangailangan para sa enerhiyang naiaangkop ang paggamit o hindi sana magagamit. Kinukuwestiyon ng mga kritiko ang dami at pinagmumulan ng enerhiyang ginagamit. Sa isang responsableng pagsusuri, itinatanong kung anong enerhiya ang ginagamit, saan ito nagmumula, anong seguridad ang naibibigay nito, at anong mga alternatibo ang pinaghahambing.
 
-![Tinatalakay ng tagapagturo, ng baguhang mag-aaral, at ng mag-aaral na may kaalamang teknikal ang isang kagamitang pangmina na nakapatong sa mesa, na may bentilador at hiwalay na suplay ng kuryente.](https://cdn.sanity.io/images/vje9ehw2/production/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)
+![Tinatalakay ng tagapagturo, ng baguhang mag-aaral, at ng mag-aaral na may kaalamang teknikal ang isang kagamitang pangmina na nakapatong sa mesa, na may bentilador at hiwalay na suplay ng kuryente.](https://cdn.sanity.io/images/vje9ehw2/staging/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)

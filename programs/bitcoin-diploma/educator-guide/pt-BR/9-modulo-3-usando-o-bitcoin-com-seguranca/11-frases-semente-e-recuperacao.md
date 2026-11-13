@@ -15,7 +15,7 @@ Ensine as consequências:
 [Uma frase-semente é uma lista ordenada de palavras, aqui doze palavras de exemplo numeradas e escritas em papel. As palavras certas na ordem certa podem restaurar o controle em uma carteira compatível, por isso ela deve permanecer secreta e offline.](/micrographics/seed-phrase-on-paper-01/pt-BR.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
 
 #### Nunca faça isso em aula
 
@@ -56,4 +56,4 @@ Ensine as consequências:
 
 Herança, projeto de [multiassinatura](https://curriculum.myfirstbitcoin.org/lexicon/en/#multisignature), passphrases avançadas e planejamento de recuperação de alto valor podem exigir segurança avançada e aconselhamento jurídico profissional. Esses temas estão fora do desempenho exigido no Bitcoin Diploma.
 
-![O educador conduz uma discussão sobre preparo para recuperação enquanto o aluno mais velho coloca um cartão de treinamento em branco em um envelope e o aluno com perfil técnico observa.](https://cdn.sanity.io/images/vje9ehw2/production/23cdb205174fa99b2d0df47ef606b53f8329f152-1054x1492.png)
+![O educador conduz uma discussão sobre preparo para recuperação enquanto o aluno mais velho coloca um cartão de treinamento em branco em um envelope e o aluno com perfil técnico observa.](https://cdn.sanity.io/images/vje9ehw2/staging/23cdb205174fa99b2d0df47ef606b53f8329f152-1054x1492.png)

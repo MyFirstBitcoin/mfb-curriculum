@@ -8,7 +8,7 @@ An fara aikin da ƙananan azuzuwan karatu na ido-da-ido a El Salvador a 2021, ba
 
 Aikinmu mai zaman kansa ne, al'umma ce ke jagorantarsa, kuma ya mayar da hankali kan Bitcoin. Muna mai da hankali kan fahimtar harkokin kuɗi, tunani cikin tsanaki, da matakan tsaro na aikace - ba cinikayya, caca kan sauyin farashi, ko tallata wasu token ba. Ba ma neman ku amince da wata akida. Maimakon haka, muna samar da ra'ayoyi, tambayoyi, da ilimin aikace domin ku iya cimma naku matsayar.
 
-![Malamin yana maraba da sabon ɗalibi, ɗalibi mai shekaru, mai kasuwanci, ɗalibin fasaha, da matashin ɗalibi cikin rukunin koyo na bai ɗaya.](https://cdn.sanity.io/images/vje9ehw2/production/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
+![Malamin yana maraba da sabon ɗalibi, ɗalibi mai shekaru, mai kasuwanci, ɗalibin fasaha, da matashin ɗalibi cikin rukunin koyo na bai ɗaya.](https://cdn.sanity.io/images/vje9ehw2/staging/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
 
 ### Manufarmu: ilimin Bitcoin mai zaman kansa da buɗaɗɗen tushe
 

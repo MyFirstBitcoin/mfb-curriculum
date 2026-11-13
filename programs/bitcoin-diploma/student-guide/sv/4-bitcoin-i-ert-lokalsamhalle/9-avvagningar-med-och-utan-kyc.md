@@ -9,7 +9,7 @@
 > Varken [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) eller [icke-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) är automatiskt bäst. Jämför det faktiska tillvägagångssättet, sök aktuell lokal vägledning när reglerna är oklara och bryt inte mot lokal lagstiftning eller utsätt Er för fysisk fara i strävan efter [integritet](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
 En [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc)-tjänst kan begära ett juridiskt namn, en identitetshandling, en adress, ett fotografi, uppgifter om medlens ursprung eller andra handlingar. Detta kan göra det möjligt för tjänsten att följa lokala regler, ansluta till banker, erbjuda högre beloppsgränser eller stödja kontoåterställning.
 

@@ -20,4 +20,4 @@ Nhlamuselo ya mapeletelo: **Bitcoin** leyi nga ni B leyikulu hakanyingi yi vula 
 
 Bitcoin na yona yi ni swipfuno ni swiphiqo leswi fambisanaka. Nxavo wa yona wu nga cinca hi ku hatlisa. Swihoxo hakanyingi a swi koteki ku lulamisiwa. Ya ha amukeleka etindhawini leti nga talangiki, naswona ku yi tirhisa hi ndlela leyi hlayisekeke swi lava ku dyondza swo karhi. Bitcoin yi siva ku tshemba ko karhi loku vanhu va nga na kona eka minhlangano hi ku tiyisisa ni vutihlamuleri bya munhu hi yexe. A yi susi khombo.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

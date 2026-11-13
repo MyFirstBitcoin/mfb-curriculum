@@ -12,9 +12,9 @@ W systemie barterowym wymiana jest możliwa tylko wtedy, gdy obie osoby chcą te
 
 Jest **środkiem wymiany**: ludzie przyjmują go jako zapłatę. Jest **jednostką rozrachunkową**: ceny są w nim wyrażane, dzięki czemu możemy porównywać wartość różnych rzeczy. Jest też **środkiem przechowywania wartości**: przenosi wartość z teraźniejszości w przyszłość. Żaden pieniądz nie przechowuje wartości idealnie, ale niektóre jego formy tracą siłę nabywczą wolniej niż inne.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Na przestrzeni dziejów wiele rzeczy służyło jako pieniądz: muszle, sól, koraliki, zwierzęta gospodarskie, miedź, srebro i złoto. Metale szlachetne weszły do powszechnego użytku, ponieważ były rzadkie, trwałe i powszechnie akceptowane. Jednak transport i zabezpieczanie metalu są trudne, dlatego banki zaczęły wydawać papierowe dokumenty, które można było wymienić na określoną ilość metalu. W różnych odmianach **standardu złota** jednostka waluty była prawnie powiązana z określoną ilością złota. Zasady różniły się w zależności od miejsca i okresu.
 

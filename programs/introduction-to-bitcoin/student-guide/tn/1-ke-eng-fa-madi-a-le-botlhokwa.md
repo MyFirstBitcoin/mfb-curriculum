@@ -22,4 +22,4 @@ Kaedi eno e ikaegile ka dipotso di le thataro: gore ke eng fa madi a le botlhokw
 
 Ke ya thuto fela. Ga e neelane ka kgakololo ya tsa madi, dipeeletso, molao kgotsa makgetho, e bile ga e lo laele go reka, go rekisa kgotsa go boloka sepe.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)

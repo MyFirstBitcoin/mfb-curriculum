@@ -30,4 +30,4 @@ Maak voor enige regstreekse demonstrasie seker dat u weet:
 
 Die resultaat van u werkswinkel behoort ’n verduideliking of vaardigheid te wees, nie net ’n voltooide [Transaksie](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction).
 
-![Die opvoeder en sake-eienaar oefen saam met ’n opleidingsfoon terwyl albei na die skerm kyk wat na hulle toe wys.](https://cdn.sanity.io/images/vje9ehw2/production/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)
+![Die opvoeder en sake-eienaar oefen saam met ’n opleidingsfoon terwyl albei na die skerm kyk wat na hulle toe wys.](https://cdn.sanity.io/images/vje9ehw2/staging/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)

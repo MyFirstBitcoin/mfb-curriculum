@@ -36,4 +36,4 @@ Egyes tárcák további jelmondatokat, több kulcsot vagy más biztonsági ment�
 [A helyreállító kifejezés biztonsági másolatának elkészítése három lépésben: a tárca képernyőjén megjelennek a szavak, Ön kézzel, ugyanabban a sorrendben papírra másolja őket, majd minden szót összevet a képernyőn láthatóval. Ezt mások tekintetétől védve és offline végezze.](/micrographics/seed-phrase-paper-backup-01/hu.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)

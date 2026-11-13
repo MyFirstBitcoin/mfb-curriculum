@@ -15,7 +15,7 @@ O sistema fiduciário tem vários participantes principais:
 [Os agentes de um sistema fiduciário e o que circula entre eles: o banco central define a política e realiza a liquidação entre os bancos, os bancos comerciais mantêm depósitos que são um passivo deles perante os clientes, os serviços de pagamento transmitem instruções, o governo arrecada impostos e realiza gastos, e os cidadãos e as empresas pagam e recebem pagamentos.](/micrographics/fiat-system-flows-01/pt-BR.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
 <!-- card: light -->

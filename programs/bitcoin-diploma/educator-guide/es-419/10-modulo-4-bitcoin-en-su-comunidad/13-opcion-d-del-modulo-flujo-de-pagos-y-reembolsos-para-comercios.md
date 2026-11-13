@@ -25,4 +25,4 @@ Temas a tratar:
 
 **Reflexión final:** ¿Por qué es inseguro enviar un reembolso automáticamente a una dirección que se supone que es la original? ¿Quién asume la responsabilidad cuando varios miembros del personal comparten una billetera?
 
-![El educador señala una ficha de registro en blanco mientras el principiante y el dueño del negocio revisan celulares de práctica en el mostrador de un comercio.](https://cdn.sanity.io/images/vje9ehw2/production/7c785fef5d3b3be3d4a60aa9cfa250f74e18d1ec-1054x1493.png)
+![El educador señala una ficha de registro en blanco mientras el principiante y el dueño del negocio revisan celulares de práctica en el mostrador de un comercio.](https://cdn.sanity.io/images/vje9ehw2/staging/7c785fef5d3b3be3d4a60aa9cfa250f74e18d1ec-1054x1493.png)

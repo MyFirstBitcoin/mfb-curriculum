@@ -10,4 +10,4 @@ Para; yiyecek, ulaşım, iş, birikim ve değer verdiğimiz insanlara yardım et
 
 Bu soruları tartışırken bir olgu ile bir görüş arasındaki farka dikkat edin. “Bu banknot vergi ödemelerinde kabul edilir” ifadesi doğrulanabilen bir olgudur. “Bu, paranın en iyi biçimidir” ifadesi ise ölçütler ve kanıtlar gerektiren bir görüş ya da sonuçtur.
 
-![Eğitmen, açık bir ders kılavuzundan ortak bir okuma yürütürken altı karakterin tamamı sınıftaki masaların etrafında toplanmıştır.](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![Eğitmen, açık bir ders kılavuzundan ortak bir okuma yürütürken altı karakterin tamamı sınıftaki masaların etrafında toplanmıştır.](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)

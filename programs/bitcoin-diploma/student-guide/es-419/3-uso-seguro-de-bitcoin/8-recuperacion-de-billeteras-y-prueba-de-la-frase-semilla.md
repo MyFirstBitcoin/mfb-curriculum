@@ -15,4 +15,4 @@ No utilice una billetera de práctica ni su información de recuperación para r
 
 El objetivo no es hacer que la recuperación parezca fácil. Es comprender el proceso antes de que una falla del dispositivo genere presión.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/424d932ace1728a75636a76182ae9a42621ed91c-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/424d932ace1728a75636a76182ae9a42621ed91c-1536x1024.svg)

@@ -1,6 +1,6 @@
 # 4.1 Topluluğunuzda Bitcoin
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
 
 Bu, Bitcoin Diploması'nın **Bağlantı Kurma** aşamasıdır. Bu aşamada modern para sistemindeki kusurları ve [ödünleşimleri](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off), Bitcoin'in bunlara verdiği yanıtı ve güvenli kullanım sorumluluğunu ele alan **1–3. Modüllerdeki** konuları yerel bir ihtiyaç veya fırsatla, gerçekçi bir alternatifle ve güvenli bir uygulamalı görevle ilişkilendireceksiniz. Bitcoin'i benimsemeniz ya da onun her yerel durumda en iyi seçenek olduğu sonucuna varmanız beklenmemektedir.
 

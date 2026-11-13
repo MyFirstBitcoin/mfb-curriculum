@@ -12,9 +12,9 @@ Nan yon sistèm troke, komès la mache sèlman lè chak moun vle sa lòt la geny
 
 Li se yon **mwayen echanj**: moun aksepte l kòm peman. Li se yon **inite kont**: nou eksprime pri yo avè l, konsa nou ka konpare valè diferan bagay. Epi li se yon **rezèv valè**: li transpòte valè depi jodi a rive nan lavni. Pa gen okenn lajan ki konsève valè yon fason pafè, men gen kèk fòm ki pèdi pouvwa dachta yo pi dousman pase lòt.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Atravè listwa, anpil bagay te sèvi kòm lajan: koki, sèl, grenn chaplèt, bèt, kwiv, ajan ak lò. Metal presye yo te vin itilize anpil paske yo te ra, yo te dirab epi anpil moun te aksepte yo. Men, li difisil pou pote metal epi pou pwoteje l, kidonk bank yo te kòmanse bay papye ki se reklamasyon moun te ka chanje kont yon kantite metal ki presize. Anba diferan vèsyon yon **etalon lò**, yon inite lajan te lye legalman ak yon kantite lò. Règ yo te varye selon kote ak epòk.
 

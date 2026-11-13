@@ -4,7 +4,7 @@
 
 Peer-to-Peer (P2P) nu înseamnă întotdeauna că doar două calculatoare comunică direct. O [tranzacție](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) poate trece prin portofele, furnizori de internet și numeroase [noduri de rețea](https://curriculum.myfirstbitcoin.org/lexicon/en/#node). Important este că niciun operator central al Bitcoin nu trebuie să aprobe expeditorul sau destinatarul.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
 
 
 <!-- micrographic: peer-to-peer-route-01 -->

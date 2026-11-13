@@ -1,6 +1,6 @@
 # 4.1 Bitcoin in uw gemeenschap
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
 
 Dit is de fase **Verbinden** van het Bitcoin Diploma. U verbindt de tekortkomingen en [afwegingen](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) van het moderne geldsysteem, het antwoord van Bitcoin en de verantwoordelijkheid voor veilig gebruik uit **Modules 1–3** met een lokale behoefte of kans, een realistisch alternatief en een veilige praktische opdracht. Er wordt niet van u verwacht dat u Bitcoin gaat gebruiken of concludeert dat het in elke lokale situatie de beste optie is.
 

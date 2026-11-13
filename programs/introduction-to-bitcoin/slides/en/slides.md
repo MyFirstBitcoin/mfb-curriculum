@@ -19,7 +19,7 @@ We use money every day, yet rarely ask how it works.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Most People Never Stop to Think About Money
 
@@ -29,7 +29,7 @@ Not earning it, not spending it, but thinking about what it is and how it works.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Five Questions to Start
 
@@ -49,7 +49,7 @@ Not earning it, not spending it, but thinking about what it is and how it works.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Fact or Opinion?
 
@@ -74,7 +74,7 @@ Money is a tool for exchange.
 
 Both people must want what the other has, at the same time and in suitable amounts.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Use the guide's example: you grow rice and need shoes, but the shoemaker wants cooking oil, not rice. Economists call this the double coincidence of wants. -->
 
@@ -96,13 +96,13 @@ Both people must want what the other has, at the same time and in suitable amoun
 
 Nobody wants money for its own sake. It is useful because others accept it, expecting others to accept it later.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: A banknote is just a piece of paper. Money solves the barter problem by separating selling from buying: you sell your rice to one person and buy shoes from another. This is what separates money from barter. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Three Things Money Does
 
@@ -114,7 +114,7 @@ No money stores value perfectly, but some forms lose purchasing power more slowl
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## From Shells to Paper
 
@@ -161,13 +161,13 @@ When people hear the word inflation, they usually think of prices going up.
 
 ## Inflation and Purchasing Power
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Price inflation is a sustained rise in the general level of prices. Its other side is purchasing power: how much a unit of money can buy. If a basket of basic goods rises from 100 units of currency to 110, the same 100 units no longer buy the full basket. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Many Causes, One Choice
 
@@ -285,7 +285,7 @@ One bitcoin divides into 100,000,000 smaller units called satoshis, or sats.
 
 ## Who Keeps Bitcoin Running?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Users send, receive, and hold bitcoin; nodes check every transaction and block against the rules; miners compete to add a new block to the record about every ten minutes. That record, the blockchain, is public and very costly to rewrite. A note on spelling: Bitcoin with a capital B usually means the network or the system; bitcoin with a lowercase b means the money itself. -->
 
@@ -330,7 +330,7 @@ Choosing custody is not a test of worth. What matters is knowing which kind you 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Your Seed Phrase Is Full Access
 
@@ -350,7 +350,7 @@ An ordered list of words, often 12 or 24, that can recreate your keys. Anyone wh
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Before You Use Any Wallet
 
@@ -391,7 +391,7 @@ An ordered list of words, often 12 or 24, that can recreate your keys. Anyone wh
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Stop, Share Nothing, Send Nothing
 
@@ -426,7 +426,7 @@ This is just the beginning.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## The Bitcoin Diploma
 

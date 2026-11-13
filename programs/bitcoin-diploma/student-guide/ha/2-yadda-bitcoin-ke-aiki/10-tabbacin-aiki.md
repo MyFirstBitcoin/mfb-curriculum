@@ -1,6 +1,6 @@
 # 2.10 Tabbacin aiki
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
 <!-- card: definition -->
@@ -29,4 +29,4 @@ Lokacin da wani [mai haƙa](https://curriculum.myfirstbitcoin.org/lexicon/en/#mi
 
 [Tabbacin aiki](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) yana buƙatar kashe makamashi na gaske. Magoya bayansa suna cewa wannan kashe makamashi ne ke kafa tushen tsaron Bitcoin, kuma yana iya haifar da buƙatar makamashin da za a iya daidaita amfani da shi ko wanda da ba haka ba zai kasance ba a amfani da shi. Masu suka suna tambayar yawan makamashin da ake amfani da shi da kuma tushensa. Tantancewa cikin alhaki tana tambayar wane makamashi ake amfani da shi, daga ina yake fitowa, wane irin tsaro yake samarwa, da kuma waɗanne hanyoyin madadin ake kwatantawa.
 
-![Malami, ɗalibi mai farawa, da ɗalibi mai ilimin fasaha suna tattaunawa game da wata na'urar haƙar ma'adinai da ake ɗorawa a kan tebur, mai fanka da na'urar samar da wutar lantarki dabam.](https://cdn.sanity.io/images/vje9ehw2/production/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)
+![Malami, ɗalibi mai farawa, da ɗalibi mai ilimin fasaha suna tattaunawa game da wata na'urar haƙar ma'adinai da ake ɗorawa a kan tebur, mai fanka da na'urar samar da wutar lantarki dabam.](https://cdn.sanity.io/images/vje9ehw2/staging/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)

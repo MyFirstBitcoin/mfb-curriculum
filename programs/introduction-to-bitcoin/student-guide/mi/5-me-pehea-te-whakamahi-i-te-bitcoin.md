@@ -6,7 +6,7 @@ Nō reira, ko te pātai tuatahi mō tētahi pūkoro: **mā wai ngā kī e whakah
 
 ###### Ko wai tonu e pupuri ana i ō bitcoin?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 Mā te whakamahi i tētahi **pūkoro māu anō e tiaki**, māu ngā kī e whakahaere.
 

@@ -1,6 +1,6 @@
 # 4.1 Bitcoin în comunitatea dumneavoastră
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
 
 Aceasta este **„Conectare”**, etapa din programul Bitcoin Diploma. Veți corela deficiențele sistemului monetar modern și [compromisurile](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off), răspunsul oferit de Bitcoin și responsabilitatea utilizării în siguranță, prezentate în **Modulele 1–3**, cu o nevoie sau o oportunitate locală, o alternativă realistă și o sarcină practică sigură. Nu se așteaptă de la dumneavoastră să adoptați Bitcoin sau să concluzionați că este cea mai bună opțiune în orice situație locală.
 

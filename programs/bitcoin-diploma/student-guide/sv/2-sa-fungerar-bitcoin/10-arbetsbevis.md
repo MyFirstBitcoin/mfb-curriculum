@@ -1,6 +1,6 @@
 # 2.10 Arbetsbevis
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
 <!-- card: definition -->
@@ -29,4 +29,4 @@ När en [utvinnare](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) hit
 
 [Arbetsbevis](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) innebär en faktisk energikostnad. Förespråkare menar att denna kostnad utgör grunden för Bitcoins säkerhet och kan skapa efterfrågan på energi som är flexibelt tillgänglig eller annars skulle förbli oanvänd. Kritiker ifrågasätter mängden energi som används och varifrån den kommer. En ansvarsfull utvärdering undersöker vilken energi som används, varifrån den kommer, vilken säkerhet den ger och vilka alternativ som jämförs.
 
-![Läraren, nybörjaren och den tekniskt kunniga eleven diskuterar en utvinningsenhet för bordsplacering med en fläkt och separat strömförsörjning.](https://cdn.sanity.io/images/vje9ehw2/production/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)
+![Läraren, nybörjaren och den tekniskt kunniga eleven diskuterar en utvinningsenhet för bordsplacering med en fläkt och separat strömförsörjning.](https://cdn.sanity.io/images/vje9ehw2/staging/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)

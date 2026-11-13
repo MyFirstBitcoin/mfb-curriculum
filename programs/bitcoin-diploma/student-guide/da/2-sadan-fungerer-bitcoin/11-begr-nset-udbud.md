@@ -44,4 +44,4 @@ Grænsen på 21 millioner håndhæves af [noder](https://curriculum.myfirstbitco
 > Et begrænset udbud betyder heller ikke, at alle bitcoin er tilgængelige til salg; nogle kan blive beholdt på lang sigt eller blive utilgængelige, fordi nøgler er gået tabt.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

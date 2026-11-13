@@ -17,4 +17,4 @@ Tetapkan kesepakatan partisipasi berikut:
 * jangan pernah mengungkapkan [frasa pemulihan](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), [kunci privat](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), kata sandi, atau pengaturan keamanan; dan
 * hentikan kegiatan praktik jika ada sesuatu yang berbeda dari proses yang diperagakan.
 
-![Peserta didik muda mengajukan pertanyaan sementara pendidik menyimak dan empat peserta didik lainnya mengikuti diskusi.](https://cdn.sanity.io/images/vje9ehw2/production/bf1185129657cd98555d2704565cf44deadbe59d-1054x1493.png)
+![Peserta didik muda mengajukan pertanyaan sementara pendidik menyimak dan empat peserta didik lainnya mengikuti diskusi.](https://cdn.sanity.io/images/vje9ehw2/staging/bf1185129657cd98555d2704565cf44deadbe59d-1054x1493.png)

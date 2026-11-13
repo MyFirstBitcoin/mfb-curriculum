@@ -19,7 +19,7 @@ Tunatumia pesa kila siku, lakini mara chache tunajiuliza jinsi inavyofanya kazi.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Watu Wengi Hawajawahi Kutafakari Kuhusu Pesa
 
@@ -29,7 +29,7 @@ Si kuipata, si kuitumia, bali kutafakari ni nini na jinsi inavyofanya kazi.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Maswali Matano ya Kuanzia
 
@@ -49,7 +49,7 @@ Si kuipata, si kuitumia, bali kutafakari ni nini na jinsi inavyofanya kazi.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Ukweli au Maoni?
 
@@ -74,7 +74,7 @@ Pesa ni chombo cha kubadilishana.
 
 Watu wote wawili lazima wataka kile ambacho mwenzake anacho, kwa wakati mmoja na kwa kiasi kinachofaa.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Tumia mfano wa mwongozo: unalima mpunga na unahitaji viatu, lakini fundi viatu anataka mafuta ya kupikia, si mpunga. Wanauchumi huita hali hii sadfa maradufu ya mahitaji. -->
 
@@ -96,13 +96,13 @@ Watu wote wawili lazima watake kile ambacho mwenzake anacho, kwa wakati mmoja na
 
 Hakuna anayetaka pesa kwa ajili ya pesa yenyewe. Ina manufaa kwa sababu wengine huikubali, wakitarajia kwamba wengine nao wataikubali baadaye.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Noti ya benki ni kipande cha karatasi tu. Pesa hutatua tatizo la kubadilishana bidhaa kwa kutenganisha kuuza na kununua: mnauza mchele wenu kwa mtu mmoja na kununua viatu kutoka kwa mwingine. Hiki ndicho kinachotofautisha pesa na kubadilishana bidhaa. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Mambo Matatu Ambayo Pesa Hufanya
 
@@ -114,7 +114,7 @@ Hakuna pesa inayohifadhi thamani kikamilifu, lakini baadhi ya aina za pesa hupot
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Kutoka Makombe hadi Karatasi
 
@@ -161,13 +161,13 @@ Watu wanaposikia neno mfumuko wa bei, kwa kawaida hufikiria kupanda kwa bei.
 
 ## Mfumuko wa Bei na Uwezo wa Kununua
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Mfumuko wa bei ni ongezeko endelevu la kiwango cha jumla cha bei. Upande wake mwingine ni uwezo wa kununua: kiasi ambacho kipimo kimoja cha pesa kinaweza kununua. Ikiwa kikapu cha bidhaa za msingi kinapanda kutoka vipimo 100 vya sarafu hadi 110, vipimo vile vile 100 havinunui tena kikapu kizima. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Sababu Nyingi, Chaguo Moja
 
@@ -285,7 +285,7 @@ Kila bitcoin moja hugawanyika katika vipimo vidogo 100,000,000 vinavyoitwa satos
 
 ## Nani Huendesha Bitcoin?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Watumiaji hutuma, hupokea na kuhifadhi bitcoin; nodi hukagua kila muamala na kila bloku dhidi ya kanuni; wachimbaji hushindana kuongeza bloku mpya kwenye rekodi takriban kila dakika kumi. Rekodi hiyo, yaani blockchain, ni ya umma na ni ghali sana kuiandika upya. Dokezo kuhusu tahajia: Bitcoin yenye herufi kubwa B kwa kawaida humaanisha mtandao au mfumo; bitcoin yenye herufi ndogo b humaanisha pesa yenyewe. -->
 
@@ -330,7 +330,7 @@ Kuchagua kuhifadhiwa na mtoa huduma si kipimo cha thamani yenu. Jambo muhimu ni 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Maneno Yako ya Mbegu Ndiyo Ufikiaji Kamili
 
@@ -350,7 +350,7 @@ Orodha ya maneno yaliyopangwa kwa mfuatano, mara nyingi 12 au 24, inayoweza kuun
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Kabla ya Kutumia Pochi Yoyote
 
@@ -391,7 +391,7 @@ Orodha ya maneno yaliyopangwa kwa mfuatano, mara nyingi 12 au 24, inayoweza kuun
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Simama, Usishiriki Chochote, Usitume Chochote
 
@@ -426,7 +426,7 @@ Huu ni mwanzo tu.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Stashahada ya Bitcoin
 

@@ -18,4 +18,4 @@ Bitcoin stvara digitalnu [oskudnost](https://curriculum.myfirstbitcoin.org/lexic
 [Ograničenje ponude zapisano na mrežnoj stranici ili u bazi podataka izdavatelja taj izdavatelj može neprimjetno promijeniti. Pravilo o ponudi Bitcoina javno je, a potpisi, javna povijest, dokaz rada i provjera koju provode čvorovi zajedno sprječavaju stvaranje novih kovanica mimo pravila ili trošenje istog bitcoina dvaput.](/micrographics/claimed-or-verified-supply-01/hr.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)

@@ -9,7 +9,7 @@
 > نه [احراز هویت](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) و نه [عدم احراز هویت](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) به‌خودی‌خود بهترین گزینه نیستند. مسیر واقعی را مقایسه کنید، هنگام روشن نبودن مقررات از راهنمایی‌های محلیِ به‌روز استفاده کنید و برای دستیابی به [حریم خصوصی](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy)، قوانین محلی را نقض نکنید یا خود را در معرض خطر جسمی قرار ندهید.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
 یک سرویس [احراز هویت](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) ممکن است نام قانونی، مدرک شناسایی، نشانی، عکس، اطلاعات مربوط به منشأ وجوه یا سوابق دیگری را درخواست کند. این کار ممکن است به سرویس امکان دهد مقررات محلی را رعایت کند، به بانک‌ها متصل شود، سقف‌های بالاتری تعیین کند یا از بازیابی حساب پشتیبانی کند.
 

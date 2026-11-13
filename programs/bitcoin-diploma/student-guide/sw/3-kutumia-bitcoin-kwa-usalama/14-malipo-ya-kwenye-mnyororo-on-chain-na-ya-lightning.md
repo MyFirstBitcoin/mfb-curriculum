@@ -1,6 +1,6 @@
 # 3.14 Malipo ya kwenye mnyororo (on-chain) na ya Lightning
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
@@ -30,4 +30,4 @@ Mpokeaji anatarajia njia ipi? Thibitisheni kama amewapa anwani ya on-chain au [a
 
 Fikirieni kwamba hali iliyoandaliwa inatoa njia zote mbili za malipo. Ni ombi lipi ambalo pochi iliyokusudiwa inaweza kutumia, na mngekagua nini kabla ya kuliidhinisha? Jibu linategemea ombi la kupokea, pochi, na hali husika — si njia moja “bora” inayofaa kila mahali.
 
-![Mwalimu anaonyesha njia mbili tofauti za malipo zenye maumbo ya kijiometri kwenye ubao huku wanafunzi wanaoanza na wale wa kiufundi wakizitafakari.](https://cdn.sanity.io/images/vje9ehw2/production/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)
+![Mwalimu anaonyesha njia mbili tofauti za malipo zenye maumbo ya kijiometri kwenye ubao huku wanafunzi wanaoanza na wale wa kiufundi wakizitafakari.](https://cdn.sanity.io/images/vje9ehw2/staging/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)

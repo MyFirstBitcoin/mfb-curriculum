@@ -10,7 +10,7 @@
 
 Nato se vprašajte, kaj omogoča zasnova. Glede na pravila lahko [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) omogoča hitrejšo poravnavo, širši dostop ali nove plačilne funkcije. Institucijam lahko omogoči tudi večji nadzor nad [transakcijami](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), uveljavljanje pravil, omejevanje uporabe ali neposredno povezovanje identitete s plačili. To je centraliziran nadzor: ustrezna pravila določa ali spreminja institucija, ne pa običajni uporabniki neodvisno.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->

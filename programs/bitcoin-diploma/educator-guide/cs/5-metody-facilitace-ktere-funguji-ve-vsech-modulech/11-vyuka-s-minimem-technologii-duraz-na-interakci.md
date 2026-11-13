@@ -6,4 +6,4 @@ Jednoduché pomůcky mohou zkrátit čas potřebný na přípravu a omezit ruši
 
 Více nástrojů může přinést více složitostí. Další nástroj zařaďte tehdy, když studujícím pomůže něco pochopit nebo procvičit, a mějte připravenou jednoduchou alternativu. Zaměřte se především na kvalitu zapojení: účastní se studující aktivně, kladou otázky, vysvětlují své uvažování a ukazují, čemu rozumějí? Zvolte přístup, který takové učení podporuje.
 
-![Vyučující a starší studující uspořádávají výukové kartičky, zatímco mladší studující se zapojuje se zápisníkem.](https://cdn.sanity.io/images/vje9ehw2/production/f062a7d4ca6c0e188b299060e170b244e0ee7acb-1054x1492.png)
+![Vyučující a starší studující uspořádávají výukové kartičky, zatímco mladší studující se zapojuje se zápisníkem.](https://cdn.sanity.io/images/vje9ehw2/staging/f062a7d4ca6c0e188b299060e170b244e0ee7acb-1054x1492.png)

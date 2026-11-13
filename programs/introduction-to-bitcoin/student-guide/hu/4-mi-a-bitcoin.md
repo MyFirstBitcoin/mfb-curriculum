@@ -20,4 +20,4 @@ Megjegyzés a helyesíráshoz: a **Bitcoin** nagy B-vel írva általában a hál
 
 A Bitcoin használata kompromisszumokkal is jár. Az árfolyama gyorsan változhat. A hibák általában visszafordíthatatlanok. Az elfogadottsága sok helyen még korlátozott, biztonságos használata pedig némi tanulást igényel. A Bitcoin az intézményekbe vetett bizalom egy részét ellenőrzéssel és személyes felelősséggel váltja fel. A kockázatot nem szünteti meg.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

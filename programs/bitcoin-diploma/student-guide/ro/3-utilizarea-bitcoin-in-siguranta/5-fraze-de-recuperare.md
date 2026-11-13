@@ -36,4 +36,4 @@ Unele Portofele folosesc fraze de acces suplimentare, chei multiple sau alte sis
 [Notarea unei copii de siguranță a frazei de recuperare în trei pași: ecranul portofelului afișează cuvintele, le copiați de mână pe hârtie în aceeași ordine, apoi verificați fiecare cuvânt comparându-l cu cel de pe ecran. Faceți acest lucru în privat și fără conexiune la internet.](/micrographics/seed-phrase-paper-backup-01/ro.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)

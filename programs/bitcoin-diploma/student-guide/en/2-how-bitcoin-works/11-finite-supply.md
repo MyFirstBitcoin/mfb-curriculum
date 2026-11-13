@@ -44,4 +44,4 @@ The 21 million limit is enforced by [nodes](https://curriculum.myfirstbitcoin.or
 > Finite supply also does not mean every bitcoin is available for sale; some may be held long term or become inaccessible because keys were lost.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

@@ -12,9 +12,9 @@ A tsarin cinikin musayar kaya, ciniki yana yiwuwa ne kawai idan kowane ɓangare 
 
 Kuɗi su ne **hanyar musaya**: mutane suna karɓar su a matsayin biyan kuɗi. Su ne kuma **ma'aunin lissafi**: ana bayyana farashi da su, don haka za mu iya kwatanta darajar abubuwa daban-daban. Haka kuma su ne **hanyar adana daraja**: suna riƙe darajar yau har zuwa nan gaba. Babu wani nau'in kuɗi da yake adana daraja ba tare da wata asara ba, amma wasu nau'o'in suna rasa ƙarfin sayayyarsu a hankali fiye da wasu.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 A tsawon tarihi, an yi amfani da abubuwa da yawa a matsayin kuɗi: bawon ƙananan halittun ruwa, gishiri, ƙoraye, dabbobin kiwo, jan ƙarfe, azurfa, da zinariya. An fara amfani da karafa masu daraja sosai saboda ba su da yawa, suna da ɗorewa, kuma mutane da yawa suna karɓar su. Amma ɗaukar karafa da kare su yana da wahala, don haka bankuna suka fara bayar da takardun shaidar haƙƙin karɓar wani adadin ƙarfe da aka ayyana. A ƙarƙashin nau'o'i daban-daban na **tsarin ma'aunin zinariya**, doka ta danganta kowace raka'ar kuɗi da wani adadin zinariya. Ƙa'idojin sun bambanta daga wuri zuwa wuri da kuma zamani zuwa zamani.
 

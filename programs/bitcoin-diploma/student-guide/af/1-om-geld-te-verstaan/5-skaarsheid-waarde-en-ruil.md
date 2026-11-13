@@ -11,7 +11,7 @@ Hulpbronne is beperk, terwyl menslike begeertes nie beperk is nie.
 
 Die [waarde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) van 'n goed is nie in die voorwerp self vervat nie. Mense [waardeer](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) goedere volgens hul behoeftes, voorkeure, inligting en omstandighede. Dit word soms [**subjektiewe waarde**](https://curriculum.myfirstbitcoin.org/lexicon/en/#subjective-value) genoem. Skoon water kan goedkoop wees naby 'n veilige openbare waterbron en uiters waardevol wees tydens 'n tekort.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
 
 
 <!-- micrographic: same-water-different-value-01 -->

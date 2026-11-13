@@ -6,7 +6,7 @@ Choncho funso loyamba lokhudza chikwama chilichonse ndi lakuti: **ndani amalamul
 
 ###### Kodi ndani kwenikweni amasunga bitcoin yanu?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 Mukamagwiritsa ntchito **chikwama chodzisungira nokha**, ndinu amene mumalamulira makiyi.
 

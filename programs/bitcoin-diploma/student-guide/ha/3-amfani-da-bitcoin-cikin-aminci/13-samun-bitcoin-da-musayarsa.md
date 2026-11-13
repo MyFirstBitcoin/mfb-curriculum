@@ -15,7 +15,7 @@ Mutane na iya karɓar bitcoin ta hanyar aiki, biyan kuɗi a cikin al'umma, musay
 * **Musayar mutum-da-mutum:** Mutane biyu na iya musanya [kuɗin hukuma](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) ko kaya da bitcoin kai tsaye ko ta hanyar sabis da ke haɗa masu son yin musaya. Wannan na iya kawo haɗarin ɗayan ɓangaren mu'amala, cutarwar jiki, soke biyan kuɗi, da zamba.
 * **Dandalin musaya, dillali, ATM, ko rumfar sabis:** Wani sabis ko na'ura na iya samar da hanyar da aka saba da ita, amma tana iya haɗawa da caji, tantance shaida, [riƙon kadarori](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), iyakokin cire kuɗi, ko rashin dacewar [farashin musaya](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
 
 Kafin ku kwatanta wata hanya, ku tambaya:
 

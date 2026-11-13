@@ -8,7 +8,7 @@ Das Projekt begann 2021 mit kleinen Präsenzkursen in El Salvador, nachdem das L
 
 Unsere Arbeit ist unabhängig, gemeinschaftlich getragen und auf Bitcoin ausgerichtet. Wir konzentrieren uns auf Finanzkompetenz, sorgfältiges Denken und praktische Sicherheit – nicht auf Trading, Spekulation oder die Bewerbung anderer Token. Wir verlangen nicht von Ihnen, eine Überzeugung zu übernehmen. Stattdessen vermitteln wir Konzepte, Fragen und praktisches Wissen, damit Sie Ihre eigenen Schlussfolgerungen ziehen können.
 
-![Die Lehrkraft heißt die Einsteigerin, den älteren Lernenden, die Geschäftsinhaberin, den technisch interessierten Lernenden und die junge Lernende in einer gemeinsamen Lerngruppe willkommen.](https://cdn.sanity.io/images/vje9ehw2/production/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
+![Die Lehrkraft heißt die Einsteigerin, den älteren Lernenden, die Geschäftsinhaberin, den technisch interessierten Lernenden und die junge Lernende in einer gemeinsamen Lerngruppe willkommen.](https://cdn.sanity.io/images/vje9ehw2/staging/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
 
 ### Unsere Mission: unabhängige, quelloffene Bitcoin-Bildung
 

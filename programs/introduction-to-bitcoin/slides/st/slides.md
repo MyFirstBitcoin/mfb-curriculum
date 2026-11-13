@@ -19,7 +19,7 @@ Re sebelisa chelete letsatsi le leng le le leng, empa ke ka seoelo re botsang ho
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Batho ba bangata ha ho mohla ba iphang nako ea ho nahana ka chelete
 
@@ -29,7 +29,7 @@ Eseng ho e fumana ka ho sebetsa, eseng ho e sebelisa ho reka, empa ho nahana ka 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Lipotso tse Hlano tsa ho Qala
 
@@ -49,7 +49,7 @@ Eseng ho e fumana ka ho sebetsa, eseng ho e sebelisa ho reka, empa ho nahana ka 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## ’Nete kapa Maikutlo?
 
@@ -74,7 +74,7 @@ Chelete ke sesebelisoa sa phapanyetsano.
 
 Batho ka bobeli ba tlameha ho batla seo e mong a nang le sona, ka nako e le 'ngoe le ka bongata bo loketseng.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Sebelisang mohlala o tataisong: le lema raese ’me le hloka lieta, empa moetsi oa lieta o batla oli ea ho pheha, eseng raese. Litsebi tsa moruo li bitsa sena ho tsamaellana habeli ha litlhoko. -->
 
@@ -96,13 +96,13 @@ Batho ka bobeli ba tlameha ho batla seo e mong a nang le sona, ka nako e tšoana
 
 Ha ho motho ea batlang chelete ka lebaka la eona feela. E na le molemo hobane ba bang baa e amohela, ba lebeletse hore ba bang ba tla e amohela hamorao.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Chelete ea pampiri ke sekhechana sa pampiri feela. Chelete e rarolla bothata ba phapanyetsano ea thepa ka ho arola ho rekisa le ho reka: le rekisetsa motho e mong raese ea lona ebe le reka lieta ho e mong. Sena ke sona se khethollang chelete ho phapanyetsano ea thepa. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Lintho tse tharo tseo chelete e li etsang
 
@@ -114,7 +114,7 @@ Ha ho chelete e bolokang boleng ka mokhoa o phethahetseng, empa mefuta e meng e 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Ho tloha likhetleng ho ea pampiring
 
@@ -161,13 +161,13 @@ Ha batho ba utloa lentsoe infleishene, hangata ba nahana ka ho phahama ha lithek
 
 ## Ho Phahama ha Litheko le Matla a ho Reka
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Ho nyoloha ha litheko ke keketseho e tsoelang pele ea boemo bo akaretsang ba litheko. Lehlakore le leng la hona ke matla a ho reka: hore na yuniti e le ’ngoe ea chelete e ka reka lintho tse kae. Haeba theko ea seroto sa thepa ea mantlha e nyoloha ho tloha ho liyuniti tse 100 tsa chelete ho ea ho tse 110, liyuniti tsona tseo tse 100 ha li sa khona ho reka seroto seo kaofela. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Lisosa tse ngata, khetho e le 'ngoe
 
@@ -285,7 +285,7 @@ bitcoin e le 'ngoe e aroloa ka likarolo tse nyenyane tse 100 000 000 tse bitsoan
 
 ## Ke Mang ea Bolokang Bitcoin e Sebetsa?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Basebedisi ba romela, ba amohela le ho boloka bitcoin; di-node di hlahloba kgwebisano e nngwe le e nngwe le boloko bo bong le bo bong ho netefatsa hore di latela melao; basebetsi ba morafong ba qothisana lehlokoa ho kenya boloko bo botjha rekotong hoo e ka bang metsotso e meng le e meng e leshome. Rekoto eo, e leng blockchain, e ka bonwa ke bohle mme ho e ngola botjha ho bitsa tjhelete e ngata haholo. Tlhokomeliso mabapi le mopeleto: Bitcoin e nang le B e kgolo hangata e bolela marangrang kapa tsamaiso; bitcoin e nang le b e nyane e bolela tjhelete ka boyona. -->
 
@@ -330,7 +330,7 @@ Ho khetha mokhoa oa poloko ha ho lekanye boleng ba lona. Ntho ea bohlokoa ke ho 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Polelo ea Lona ea Peo e Fana ka Phihlello e Feletseng
 
@@ -350,7 +350,7 @@ Lethathamo la mantsoe a hlophisitsoeng ka tatellano, hangata a 12 kapa a 24, le 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Pele le sebelisa sepache sefe kapa sefe
 
@@ -391,7 +391,7 @@ Lethathamo la mantsoe a hlophisitsoeng ka tatellano, hangata a 12 kapa a 24, le 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Emang, le se ke la arolelana letho, le se ke la romela letho
 
@@ -426,7 +426,7 @@ Ena ke qalo feela.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Diploma ea Bitcoin
 

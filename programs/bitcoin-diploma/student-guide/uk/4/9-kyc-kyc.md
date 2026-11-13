@@ -9,7 +9,7 @@
 > Ні [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc), ні [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) не є автоматично найкращим варіантом. Порівнюйте конкретні способи дій, користуйтеся актуальними місцевими рекомендаціями, коли правила незрозумілі, і не порушуйте місцевого законодавства та не наражайте себе на фізичну небезпеку заради [приватності](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
 Сервіс із [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) може запитувати офіційне ім’я, документ, що посвідчує особу, адресу, фотографію, відомості про джерело коштів або інші дані. Це може давати сервісу змогу дотримуватися місцевих правил, взаємодіяти з банками, встановлювати вищі ліміти або забезпечувати відновлення доступу до облікового запису.
 

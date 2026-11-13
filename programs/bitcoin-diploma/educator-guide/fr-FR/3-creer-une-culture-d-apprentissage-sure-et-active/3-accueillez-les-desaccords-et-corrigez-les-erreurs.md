@@ -11,4 +11,4 @@ Lorsqu’un apprenant exprime un désaccord :
 
 Corrigez les erreurs factuelles avec clarté et respect. Ne renoncez pas à les corriger au nom de la neutralité. Animer les échanges de manière neutre consiste à appliquer des critères de preuve équitables, et non à considérer toutes les affirmations comme également exactes.
 
-![L’enseignant écoute la question de l’apprenant débutant tandis que l’apprenant plus âgé suit la conversation, un guide ouvert devant lui.](https://cdn.sanity.io/images/vje9ehw2/production/53db81849bfb9bca1dba5e2f8d5e8386c01ca3b3-1053x1494.png)
+![L’enseignant écoute la question de l’apprenant débutant tandis que l’apprenant plus âgé suit la conversation, un guide ouvert devant lui.](https://cdn.sanity.io/images/vje9ehw2/staging/53db81849bfb9bca1dba5e2f8d5e8386c01ca3b3-1053x1494.png)

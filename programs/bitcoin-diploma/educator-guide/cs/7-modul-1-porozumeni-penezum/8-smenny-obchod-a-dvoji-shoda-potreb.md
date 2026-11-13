@@ -25,4 +25,4 @@ Vysvětlete, že [barter](https://curriculum.myfirstbitcoin.org/lexicon/en/#bart
 
 Pokud používáte hru, při následné reflexi proberte její zjednodušení. Skutečná směna zahrnuje vztahy, úvěr, dary, závazky, vyjednávání, právo a opakované interakce.
 
-![Vyučující vede aktivitu zaměřenou na přímou směnu mezi začátečníkem, který drží sešit, a majitelem podniku, který drží potraviny.](https://cdn.sanity.io/images/vje9ehw2/production/48813fb8d9434061c5c546898f4023f8748e9edd-1054x1492.png)
+![Vyučující vede aktivitu zaměřenou na přímou směnu mezi začátečníkem, který drží sešit, a majitelem podniku, který drží potraviny.](https://cdn.sanity.io/images/vje9ehw2/staging/48813fb8d9434061c5c546898f4023f8748e9edd-1054x1492.png)

@@ -22,4 +22,4 @@ Om een voorbereide [transactie](https://curriculum.myfirstbitcoin.org/lexicon/en
 [Een transactie wacht onbevestigd in de pool met wachtende transacties, wordt vervolgens opgenomen in Blok N als haar eerste bevestiging, en elk volgend blok voegt er één bevestiging aan toe.](/micrographics/confirmation-timeline-01/nl.md)
 
 
-![De docent en een oudere leerling bespreken een voorbereid voorbeeld op een monitor die naar de groep is gericht, terwijl de technische leerling de muis bedient; de kijker ziet de achterkant van de behuizing.](https://cdn.sanity.io/images/vje9ehw2/production/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)
+![De docent en een oudere leerling bespreken een voorbereid voorbeeld op een monitor die naar de groep is gericht, terwijl de technische leerling de muis bedient; de kijker ziet de achterkant van de behuizing.](https://cdn.sanity.io/images/vje9ehw2/staging/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)

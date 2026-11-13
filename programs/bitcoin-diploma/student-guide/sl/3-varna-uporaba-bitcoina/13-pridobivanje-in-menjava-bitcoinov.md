@@ -15,7 +15,7 @@ Ljudje lahko bitcoin prejmejo za delo, s plačilom v skupnosti, z medsebojno men
 * **Medsebojna menjava:** Dve osebi lahko zamenjata [fiat denar](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) ali blago za bitcoin neposredno ali prek storitve za povezovanje strank. To lahko prinese tveganja, povezana z nasprotno stranko, fizično varnostjo, razveljavitvijo plačila in goljufijami.
 * **Menjalnica, posrednik, bankomat ali kiosk:** Storitev ali naprava lahko ponuja znano pot, vendar lahko vključuje provizije, preverjanje identitete, [skrbništvo](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), omejitve dvigov ali neugoden [menjalni tečaj](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
 
 Preden primerjate posamezno pot, se vprašajte:
 

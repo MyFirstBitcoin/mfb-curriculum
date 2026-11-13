@@ -18,4 +18,4 @@ Bitcoin ustvarja digitalno [redkost](https://curriculum.myfirstbitcoin.org/lexic
 [Omejitev ponudbe, zapisana na spletni strani ali v izdajateljevi podatkovni zbirki, se lahko po volji izdajatelja neopazno spremeni. Bitcoinovo pravilo o ponudbi je javno, podpisi, javna zgodovina, dokaz o delu in preverjanje v vozliščih pa skupaj preprečujejo ustvarjanje novih kovancev mimo pravil ali dvakratno porabo istega bitcoina.](/micrographics/claimed-or-verified-supply-01/sl.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)

@@ -9,7 +9,7 @@
 > Ani [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) ani [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) nie jest automatycznie najlepszym rozwiązaniem. Proszę porównać konkretną ścieżkę, korzystać z aktualnych lokalnych wytycznych, gdy przepisy są niejasne, i nie łamać lokalnego prawa ani nie narażać się na niebezpieczeństwo fizyczne w dążeniu do [prywatności](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
 Usługa [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) może wymagać podania imienia i nazwiska zgodnych z dokumentami, dokumentu tożsamości, adresu, zdjęcia, informacji o źródle środków lub innych danych. Może to umożliwić usługodawcy przestrzeganie lokalnych przepisów, współpracę z bankami, ustalanie wyższych limitów lub pomoc w odzyskiwaniu dostępu do konta.
 

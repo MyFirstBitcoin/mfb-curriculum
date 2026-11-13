@@ -25,4 +25,4 @@ Points à aborder :
 
 **Bilan :** Pourquoi est-il dangereux d’envoyer automatiquement un remboursement à une adresse supposée être celle d’origine ? Qui devient responsable lorsque plusieurs membres du personnel partagent un même portefeuille ?
 
-![L’enseignant montre une fiche de suivi vierge tandis que le débutant et le propriétaire du commerce vérifient des téléphones de formation au comptoir d’un commerçant.](https://cdn.sanity.io/images/vje9ehw2/production/7c785fef5d3b3be3d4a60aa9cfa250f74e18d1ec-1054x1493.png)
+![L’enseignant montre une fiche de suivi vierge tandis que le débutant et le propriétaire du commerce vérifient des téléphones de formation au comptoir d’un commerçant.](https://cdn.sanity.io/images/vje9ehw2/staging/7c785fef5d3b3be3d4a60aa9cfa250f74e18d1ec-1054x1493.png)

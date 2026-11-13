@@ -25,4 +25,4 @@ Clarify that [barter](https://curriculum.myfirstbitcoin.org/lexicon/en/#barter) 
 
 If using a game, debrief its simplifications. Real exchange includes relationships, credit, gifts, obligations, bargaining, law, and repeated interaction.
 
-![The educator facilitates a direct-exchange activity between the beginner holding a notebook and the business owner holding groceries.](https://cdn.sanity.io/images/vje9ehw2/production/48813fb8d9434061c5c546898f4023f8748e9edd-1054x1492.png)
+![The educator facilitates a direct-exchange activity between the beginner holding a notebook and the business owner holding groceries.](https://cdn.sanity.io/images/vje9ehw2/staging/48813fb8d9434061c5c546898f4023f8748e9edd-1054x1492.png)

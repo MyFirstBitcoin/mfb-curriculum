@@ -9,7 +9,7 @@
 > לא מסלול [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) ולא מסלול [ללא KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) הם בהכרח האפשרות הטובה ביותר. השוו את המסלולים בפועל, היעזרו בהנחיות מקומיות עדכניות כאשר הכללים אינם ברורים, ואל תפרו את החוק המקומי או תחשפו את עצמכם לסכנה פיזית במאמץ לשמור על [פרטיות](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
 שירות [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) עשוי לבקש שם רשמי, מסמך מזהה, כתובת, תצלום, מידע על מקור הכספים או רשומות אחרות. הדבר עשוי לאפשר לשירות לעמוד בכללים המקומיים, להתחבר לבנקים, לקבוע תקרות גבוהות יותר או לתמוך בשחזור הגישה לחשבון.
 

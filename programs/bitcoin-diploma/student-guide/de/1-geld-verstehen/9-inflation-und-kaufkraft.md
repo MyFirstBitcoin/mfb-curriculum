@@ -13,7 +13,7 @@
 > [Kaufkraft](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) ist die Menge an Waren und Dienstleistungen, die man mit einer Geldeinheit kaufen kann. Steigt der Preis eines Korbs mit Grundgütern von 100 Einheiten der [Währung](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) auf 110, reichen dieselben 100 Einheiten nicht mehr für den ganzen Korb. Deren [Kaufkraft](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) in Bezug auf diesen Korb ist gesunken.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->

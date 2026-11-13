@@ -27,7 +27,7 @@ Cada módulo sigue el mismo ritmo:
 
 Usted aprenderá más participando que leyendo en silencio. Algunas preguntas no tienen una única respuesta correcta. Lo importante es que pueda explicar su razonamiento, examinar la evidencia y revisar su punto de vista cuando aprenda algo nuevo.
 
-![La dueña del negocio señala un diagrama sencillo en una guía abierta mientras el educador lo analiza con ella en una mesa del aula.](https://cdn.sanity.io/images/vje9ehw2/production/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
+![La dueña del negocio señala un diagrama sencillo en una guía abierta mientras el educador lo analiza con ella en una mesa del aula.](https://cdn.sanity.io/images/vje9ehw2/staging/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
 
 ### Expectativas sobre el debate y la privacidad
 
@@ -50,7 +50,7 @@ Su educador explicará las actividades de evaluación requeridas. La teoría se 
 
 Su educador utiliza una matriz de evaluación para registrar un resultado para cada una de las siete competencias anteriores. `C1`–`C5` se evalúan mediante sus propias explicaciones y decisiones; `C6`–`C7` requieren observación directa. Tanto la tarea de billetera/recepción como la tarea de preparación para la recuperación son partes obligatorias de `C6`.
 
-![El educador atiende al estudiante principiante que tiene la mano levantada, mientras el estudiante de mayor edad sigue la explicación con una guía del curso abierta.](https://cdn.sanity.io/images/vje9ehw2/production/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
+![El educador atiende al estudiante principiante que tiene la mano levantada, mientras el estudiante de mayor edad sigue la explicación con una guía del curso abierta.](https://cdn.sanity.io/images/vje9ehw2/staging/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
 
 ### Conocimientos previos requeridos: ninguno
 

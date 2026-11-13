@@ -21,7 +21,7 @@ Schématisez un cycle local simple :
 1. Que se passe-t-il en cas de coupure d’accès à Internet ?
 1. En matière de [garde](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) et de [prix](https://curriculum.myfirstbitcoin.org/lexicon/en/#price), quels risques chaque participant assume-t-il ?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
 
 Une économie circulaire saine repose sur une participation volontaire. Les commerçants et les travailleurs doivent être en mesure d’identifier les risques liés aux paiements, à la tarification, à la [garde](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), à la comptabilité et à la [volatilité](https://curriculum.myfirstbitcoin.org/lexicon/en/#volatility). Les seuls chiffres de l’adoption ne permettent pas de savoir si le réseau est utile.
 

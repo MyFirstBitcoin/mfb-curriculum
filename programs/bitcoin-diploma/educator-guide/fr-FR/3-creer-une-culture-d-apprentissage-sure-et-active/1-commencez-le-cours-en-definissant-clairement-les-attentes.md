@@ -17,4 +17,4 @@ Expliquez que le diplôme Bitcoin a une vocation pédagogique. Il ne recommande 
 * ne révélez jamais une [phrase de récupération](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), [clé privée](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), un mot de passe ou un dispositif de sécurité ; et
 * interrompez les travaux pratiques dès que quelque chose s’écarte de la procédure présentée.
 
-![Le jeune apprenant pose une question tandis que l’enseignant écoute et que les quatre autres apprenants suivent la discussion.](https://cdn.sanity.io/images/vje9ehw2/production/bf1185129657cd98555d2704565cf44deadbe59d-1054x1493.png)
+![Le jeune apprenant pose une question tandis que l’enseignant écoute et que les quatre autres apprenants suivent la discussion.](https://cdn.sanity.io/images/vje9ehw2/staging/bf1185129657cd98555d2704565cf44deadbe59d-1054x1493.png)

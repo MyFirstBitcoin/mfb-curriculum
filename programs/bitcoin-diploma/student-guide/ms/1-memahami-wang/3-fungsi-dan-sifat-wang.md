@@ -30,4 +30,4 @@ Orang ramai juga membandingkan wang berdasarkan [**kekukuhannya**](https://curri
 
 **Fikir secara kritis:** Nyatakan satu ketika anda memilih satu jenis wang atau [aset](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) berbanding yang lain. Apakah tujuannya? Bandingkan ciri-ciri pilihan yang boleh anda gunakan. Ciri manakah yang paling penting bagi anda, dan mengapa?
 
-![Keenam-enam watak bekerjasama dalam aktiviti kad pengajaran luar talian sementara pendidik membimbing perbincangan.](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![Keenam-enam watak bekerjasama dalam aktiviti kad pengajaran luar talian sementara pendidik membimbing perbincangan.](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)

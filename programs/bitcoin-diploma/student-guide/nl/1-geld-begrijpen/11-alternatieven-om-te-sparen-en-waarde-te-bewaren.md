@@ -9,7 +9,7 @@ Mensen zoeken vaak alternatieven voor het aanhouden van contant geld wanneer zij
 
 Een [bezit](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) is iets wat iemand kan hebben of waarop iemand aanspraak kan maken en dat [waarde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) kan hebben; het vervult niet automatisch elke functie van geld. Een woning kan [waarde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) bewaren, maar is niet praktisch om voedsel mee te kopen. Een aandeel kan in het ene land gemakkelijk te verkopen zijn, maar onbereikbaar voor iemand zonder beleggingsrekening. [Goud](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) heeft gedurende lange perioden in de geschiedenis als geld gediend, maar kan bij een kleine ruil moeilijk te controleren of te verdelen zijn.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 Mensen kunnen ook kiezen voor buitenlandse [valuta](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency), [obligaties](https://curriculum.myfirstbitcoin.org/lexicon/en/#bond) van de overheid, particuliere bedrijven, grond, gereedschap, onderwijs of andere [bezittingen](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset). Elke keuze brengt [opportuniteitskosten](https://curriculum.myfirstbitcoin.org/lexicon/en/#opportunity-cost) en risico met zich mee. Er bestaat geen [bezit](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) dat [koopkracht](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) garandeert in elke periode en elke situatie.
 

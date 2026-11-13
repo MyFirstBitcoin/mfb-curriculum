@@ -6,7 +6,7 @@ La première question à poser au sujet de tout portefeuille est donc : **qui c
 
 ###### Qui détient réellement vos bitcoins ?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 Avec un **portefeuille en garde autonome**, vous contrôlez les clés.
 

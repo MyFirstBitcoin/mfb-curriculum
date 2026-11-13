@@ -9,7 +9,7 @@ Menschen suchen oft nach Alternativen zum Halten von Bargeld, wenn sie glauben, 
 
 Ein [Vermögenswert](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) ist etwas, das eine Person besitzen oder beanspruchen kann und das [Wert](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) haben kann; er erfüllt nicht automatisch jede Funktion von Geld. Ein Haus kann [Wert](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) speichern, ist aber nicht praktisch, um Lebensmittel zu kaufen. Eine Aktie lässt sich in einem Land vielleicht leicht verkaufen, ist aber für jemanden ohne Depotkonto nicht zugänglich. [Gold](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) hat über lange Zeiträume der Geschichte als Geld gedient, kann aber bei einem kleinen Tausch schwer zu prüfen oder zu teilen sein.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 Menschen können sich auch für ausländische [Währung](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency), staatliche [Anleihen](https://curriculum.myfirstbitcoin.org/lexicon/en/#bond), private Unternehmen, Land, Werkzeuge, Bildung oder andere [Vermögenswerte](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) entscheiden. Jede Entscheidung bringt [Opportunitätskosten](https://curriculum.myfirstbitcoin.org/lexicon/en/#opportunity-cost) und Risiken mit sich. Es gibt keinen [Vermögenswert](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset), der [Kaufkraft](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) in jeder Zeit und jeder Situation garantiert.
 

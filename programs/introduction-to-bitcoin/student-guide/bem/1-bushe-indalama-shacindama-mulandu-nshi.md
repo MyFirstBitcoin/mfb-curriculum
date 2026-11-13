@@ -22,4 +22,4 @@ Ubu bulondoloshi bwashintilila pa mepusho mutanda: umulandu impiya shacindamila,
 
 Bwa kusambilila fye. Tabupele mafunde ya pa mpiya, pa kubika impiya mu fyuma, pa mafunde ya calo, nangu pa misonkho, kabili tabumweba ukushita, ukushitisha, nangu ukusunga icintu conse.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)

@@ -9,7 +9,7 @@ Mense soek dikwels alternatiewe vir die aanhou van kontant wanneer hulle 'n verl
 
 'n [bate](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) is iets wat 'n persoon kan besit of opeis en wat moontlik beskik oor [waarde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); dit vervul nie outomaties elke funksie van geld nie. 'n Woning kan dien as 'n bewaarplek vir [waarde](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) maar is nie prakties om kos mee te koop nie. 'n Aandeel kan in een land maklik verkoop word, maar ontoeganklik wees vir iemand sonder 'n makelaarsrekening. [Goud](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) het oor lang tydperke in die geskiedenis as geld gedien, maar kan moeilik wees om tydens 'n klein ruiltransaksie te verifieer of te verdeel.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 Mense kan ook kies vir buitelandse [valuta](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency), staatsuitgereikte [effekte](https://curriculum.myfirstbitcoin.org/lexicon/en/#bond), private ondernemings, grond, gereedskap, onderwys of ander [bates](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset). Elke keuse behels [geleentheidskoste](https://curriculum.myfirstbitcoin.org/lexicon/en/#opportunity-cost) en risiko. Daar is geen [bate](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) wat 'n waarborg bied van [Koopkrag](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) in elke tydperk en situasie nie.
 

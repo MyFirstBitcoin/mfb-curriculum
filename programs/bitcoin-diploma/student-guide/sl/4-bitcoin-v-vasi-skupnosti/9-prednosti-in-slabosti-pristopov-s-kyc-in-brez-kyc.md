@@ -9,7 +9,7 @@
 > Niti [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) niti [pristop brez KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) ni samodejno najboljša izbira. Primerjajte konkretno pot, ob nejasnih pravilih upoštevajte aktualne lokalne smernice ter ne kršite lokalne zakonodaje in se ne izpostavljajte telesni nevarnosti v prizadevanju za [zasebnost](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
 Storitev [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) lahko zahteva uradno ime in priimek, osebni dokument, naslov, fotografijo, podatke o izvoru sredstev ali drugo dokumentacijo. To lahko storitvi omogoči izpolnjevanje lokalnih predpisov, povezovanje z bankami, določanje višjih omejitev ali podporo pri obnovitvi dostopa do računa.
 

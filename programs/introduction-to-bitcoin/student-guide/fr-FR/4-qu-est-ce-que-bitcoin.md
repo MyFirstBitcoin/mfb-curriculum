@@ -20,4 +20,4 @@ Une remarque sur l’orthographe : **Bitcoin** avec un B majuscule désigne gén
 
 Bitcoin implique aussi des compromis. Son prix peut varier rapidement. Les erreurs sont généralement irréversibles. Son acceptation reste limitée dans de nombreux endroits, et son utilisation en toute sécurité nécessite un certain apprentissage. Bitcoin remplace une partie de la confiance accordée aux institutions par la vérification et la responsabilité personnelle. Il ne supprime pas le risque.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

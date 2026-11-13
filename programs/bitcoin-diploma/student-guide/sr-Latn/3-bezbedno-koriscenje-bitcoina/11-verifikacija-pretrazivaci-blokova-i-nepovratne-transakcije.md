@@ -22,4 +22,4 @@ Da biste pregledali pripremljenu [transakciju](https://curriculum.myfirstbitcoin
 [Transakcija čeka nepotvrđena u skupu transakcija na čekanju, zatim se uključuje u blok N i time dobija prvu potvrdu, a svaki naredni blok dodaje još jednu.](/micrographics/confirmation-timeline-01/sr-Latn.md)
 
 
-![Edukator i stariji polaznik razgovaraju o pripremljenom primeru na monitoru okrenutom ka grupi, dok tehnički potkovani polaznik upravlja mišem; posmatrač vidi zadnju stranu kućišta monitora.](https://cdn.sanity.io/images/vje9ehw2/production/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)
+![Edukator i stariji polaznik razgovaraju o pripremljenom primeru na monitoru okrenutom ka grupi, dok tehnički potkovani polaznik upravlja mišem; posmatrač vidi zadnju stranu kućišta monitora.](https://cdn.sanity.io/images/vje9ehw2/staging/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)

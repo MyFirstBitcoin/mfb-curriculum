@@ -1,6 +1,6 @@
 # 4.1 Bitcoin i ert lokalsamhälle
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
 
 Detta är **Koppla samman**-steget i Bitcoindiplomet. Ni kommer att koppla samman det moderna penningsystemets brister och [avvägningar](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off), Bitcoins svar och ansvaret för säker användning från **modul 1–3** med ett lokalt behov eller en lokal möjlighet, ett realistiskt alternativ och en säker praktisk uppgift. Ni förväntas inte börja använda Bitcoin eller dra slutsatsen att det är det bästa alternativet i varje lokal situation.
 

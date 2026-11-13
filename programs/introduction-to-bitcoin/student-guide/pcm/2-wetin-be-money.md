@@ -12,9 +12,9 @@ For trade by barter, trading dey work only when both people want wetin the other
 
 E na **wetin people dey use for exchange**: people dey accept am as payment. E na **unit wey people dey use measure value**: dem dey state prices with am, so we fit compare the value of different things. And e na **wetin people dey use store value**: e dey carry value from today enter future. No money dey store value perfectly, but the buying power of some kinds of money dey reduce more slowly than others.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Throughout history, plenty things don serve as money: shells, salt, beads, farm animals, copper, silver, and gold. People begin use precious metals for plenty places because dem scarce, dem dey last, and plenty people dey accept dem. But to carry and protect metal hard, so banks begin issue papers wey give the holder right to collect one stated quantity of metal. Under different versions of **sistem wey tie money value to gold**, law tie one unit of currency to one quantity of gold. The rules differ from place to place and from one period to another.
 

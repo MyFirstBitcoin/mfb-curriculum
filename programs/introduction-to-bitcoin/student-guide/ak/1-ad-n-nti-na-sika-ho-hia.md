@@ -22,4 +22,4 @@ Nsɛmmisa nsia na akwankyerɛ nwoma yi gyina so: adɛn nti na sika ho hia, deɛ 
 
 Ɛyɛ adesua nko ara. Ɛmma sikasɛm, sikatoɔ, mmara anaa toɔ ho afotuo, na ɛnka nkyerɛ mo sɛ montɔ, montɔn anaa monkora biribiara so.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)

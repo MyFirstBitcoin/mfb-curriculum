@@ -20,4 +20,4 @@ Nkyerɛkyerɛmu fa atwerɛ ho: **Bitcoin** a wɔde B kɛseɛ atwerɛ no taa kyer
 
 Bitcoin nso wɔ nneɛma a ɛsɛ sɛ wɔgye to mu de nya ne mfasoɔ. Ne boɔ tumi sesa ntɛmntɛm. Mpɛn pii no, mfomsoɔ a wɔdi no ntumi nsesa. Nnipa a wɔgye tom da so ara sua wɔ mmeaeɛ pii, na sɛ wɔde bɛdi dwuma dwoodwoo a, ɛhia sɛ wɔsua ho adeɛ kakra. Bitcoin de nokorɛ a wɔhwehwɛ mu ne obiara ankasa asɛdeɛ si ahotosoɔ a wɔde to ahyehyɛdeɛ so no bi ananmu. Ɛnyi asiane mfiri hɔ.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

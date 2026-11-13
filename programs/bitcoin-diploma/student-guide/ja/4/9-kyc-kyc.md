@@ -9,7 +9,7 @@
 > 「[KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc)あり」と「[KYCなし](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc)」のどちらかが自動的に最善というわけではありません。実際の経路を比較し、ルールが不明確な場合は最新の地域のガイダンスを参照してください。また、[プライバシー](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy)を求めるあまり、地域の法律に違反したり、身体的な危険に身をさらしたりしないでください。
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
 一般に、[KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc)ありのサービスでは、法的な氏名、身分証明書、住所、写真、資金源に関する情報、その他の記録の提出を求められることがあります。これにより、サービスは地域のルールを満たしたり、銀行と接続したり、より高い利用限度額を設定したり、アカウントの復旧を支援したりできる場合があります。
 

@@ -8,7 +8,7 @@
 
 Zamislite da **Amina** ima pirinač i želi cipele. **Luis** ima cipele, ali želi ulje za kuvanje, a ne pirinač. **Mei** ima ulje za kuvanje i želi uslugu popravke. Amina će možda morati da obavi nekoliko razmena pre nego što dođe do cipela. Svaka razmena zahteva vreme i dogovor o [vrednosti](https://curriculum.myfirstbitcoin.org/lexicon/en/#value).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
 
 
 <!-- micrographic: barter-mismatch-01 -->
@@ -29,7 +29,7 @@ Opšteprihvaćeni novac razdvaja prodaju od kupovine. Amina može jednoj osobi p
 
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
 
 <!-- micrographic: sell-then-buy-01 -->

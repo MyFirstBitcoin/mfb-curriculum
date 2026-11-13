@@ -28,7 +28,7 @@ Acest lucru creează două riscuri importante:
 [Riscul de lichiditate: mulți deponenți stau la coadă pentru a retrage bani astăzi, iar banca nu dispune de suficient numerar în prezent, deși creditele acordate de aceasta pot fi rambursate mai târziu. Riscul de insolvabilitate: debitorii nu își mai plătesc creditele ipotecare, iar valoarea activelor băncii scade sub nivelul datoriilor sale.](/micrographics/liquidity-vs-solvency-01/ro.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
 
 
 

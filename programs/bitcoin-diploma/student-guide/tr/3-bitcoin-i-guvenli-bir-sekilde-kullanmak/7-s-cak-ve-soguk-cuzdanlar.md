@@ -32,4 +32,4 @@
 
 **Deneyin:** Küçük, kurgusal bir ödeme ve daha seyrek yapılan kurgusal bir ödeme için hangi [ödünleşimin](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) daha önemli olduğunu açıklayın. Kendi fonlarınız için bir araç veya tutar seçmeyin.
 
-![Eğitmen, yaşça büyük ve teknik bilgiye sahip öğrencilerin bir telefonu, bir donanım cüzdanını ve bir dizüstü bilgisayarı karşılaştırmasına yardımcı oluyor.](https://cdn.sanity.io/images/vje9ehw2/production/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)
+![Eğitmen, yaşça büyük ve teknik bilgiye sahip öğrencilerin bir telefonu, bir donanım cüzdanını ve bir dizüstü bilgisayarı karşılaştırmasına yardımcı oluyor.](https://cdn.sanity.io/images/vje9ehw2/staging/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)

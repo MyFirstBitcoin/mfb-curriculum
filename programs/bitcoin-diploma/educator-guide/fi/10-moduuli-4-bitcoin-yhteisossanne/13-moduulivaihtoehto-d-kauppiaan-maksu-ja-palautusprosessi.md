@@ -25,4 +25,4 @@ Käsiteltävät aiheet:
 
 **Jälkipuinti:** Miksi maksunpalautuksen lähettäminen automaattisesti oletettuun alkuperäiseen osoitteeseen on turvatonta? Kuka on vastuussa, kun useat työntekijät käyttävät samaa lompakkoa?
 
-![Kouluttaja osoittaa tyhjää kirjauskorttia samalla, kun aloittelija ja yrittäjä tarkistavat harjoituspuhelimia myyntitiskillä.](https://cdn.sanity.io/images/vje9ehw2/production/7c785fef5d3b3be3d4a60aa9cfa250f74e18d1ec-1054x1493.png)
+![Kouluttaja osoittaa tyhjää kirjauskorttia samalla, kun aloittelija ja yrittäjä tarkistavat harjoituspuhelimia myyntitiskillä.](https://cdn.sanity.io/images/vje9ehw2/staging/7c785fef5d3b3be3d4a60aa9cfa250f74e18d1ec-1054x1493.png)

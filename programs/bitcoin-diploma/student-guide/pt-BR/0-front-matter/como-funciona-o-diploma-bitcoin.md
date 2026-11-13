@@ -27,7 +27,7 @@ Cada módulo segue o mesmo ritmo:
 
 Você aprenderá mais participando do que lendo em silêncio. Algumas perguntas não têm uma única resposta correta. O que importa é se você consegue explicar seu raciocínio, examinar evidências e rever sua opinião quando aprende algo novo.
 
-![A empresária aponta para um diagrama simples em um guia aberto enquanto a educadora conversa com ela sobre ele em uma mesa da sala de aula.](https://cdn.sanity.io/images/vje9ehw2/production/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
+![A empresária aponta para um diagrama simples em um guia aberto enquanto a educadora conversa com ela sobre ele em uma mesa da sala de aula.](https://cdn.sanity.io/images/vje9ehw2/staging/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
 
 ### Expectativas sobre discussão e privacidade
 
@@ -50,7 +50,7 @@ Seu educador explicará todas as atividades de avaliação obrigatórias. A teor
 
 Seu educador usa uma grade de avaliação para registrar um resultado para cada uma das sete competências acima. `C1`–`C5` são avaliadas por meio de suas próprias explicações e decisões; `C6`–`C7` exigem observação direta. Tanto a tarefa de carteira/recebimento quanto a tarefa de preparação para recuperação são partes obrigatórias da `C6`.
 
-![O educador responde à mão levantada do aluno iniciante, enquanto o aluno mais velho acompanha com um guia do curso aberto.](https://cdn.sanity.io/images/vje9ehw2/production/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
+![O educador responde à mão levantada do aluno iniciante, enquanto o aluno mais velho acompanha com um guia do curso aberto.](https://cdn.sanity.io/images/vje9ehw2/staging/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
 
 ### Conhecimento prévio exigido: nenhum
 

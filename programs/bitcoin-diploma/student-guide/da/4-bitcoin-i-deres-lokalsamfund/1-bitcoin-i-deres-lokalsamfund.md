@@ -1,6 +1,6 @@
 # 4.1 Bitcoin i Deres lokalsamfund
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
 
 Dette er **Forbind** – en fase i Bitcoin Diploma. De vil forbinde det moderne pengesystems mangler og [afvejninger](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off), Bitcoins svar og ansvaret for sikker brug fra **modul 1–3** med et lokalt behov eller en lokal mulighed, et realistisk alternativ og en sikker praktisk opgave. Det forventes ikke, at De tager Bitcoin i brug eller konkluderer, at det er den bedste løsning i enhver lokal situation.
 

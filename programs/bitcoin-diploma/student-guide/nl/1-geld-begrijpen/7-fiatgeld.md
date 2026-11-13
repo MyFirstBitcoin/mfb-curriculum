@@ -15,7 +15,7 @@ Het fiatsysteem kent verschillende hoofdrolspelers:
 [De actoren in een fiatsysteem en wat er tussen hen wordt uitgewisseld: de centrale bank bepaalt het beleid en verzorgt de afwikkeling tussen banken, commerciële banken beheren tegoeden die een verplichting zijn tegenover hun klanten, betaaldiensten brengen opdrachten over, de overheid heft belastingen en doet uitgaven, en burgers en bedrijven betalen en worden betaald.](/micrographics/fiat-system-flows-01/nl.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
 <!-- card: light -->

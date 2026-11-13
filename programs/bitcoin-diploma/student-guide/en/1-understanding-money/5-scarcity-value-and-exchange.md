@@ -11,7 +11,7 @@ Resources are limited, while human wants are not.
 
 The [value](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) of a good is not contained inside the object. People [value](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) goods according to their needs, preferences, information, and circumstances. This is sometimes called [**subjective value**](https://curriculum.myfirstbitcoin.org/lexicon/en/#subjective-value). Clean water may be inexpensive near a safe public source and extremely valuable during a shortage.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
 
 
 <!-- micrographic: same-water-different-value-01 -->

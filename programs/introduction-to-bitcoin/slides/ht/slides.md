@@ -19,7 +19,7 @@ Nou sèvi ak lajan chak jou, men nou raman mande kijan li fonksyone.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Pifò Moun Pa Janm Pran Tan pou Reflechi sou Lajan
 
@@ -29,7 +29,7 @@ Pa pou fè lajan ak li, pa pou depanse li, men pou reflechi sou sa li ye ak faso
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Senk kesyon pou kòmanse
 
@@ -49,7 +49,7 @@ Pa pou fè lajan ak li, pa pou depanse li, men pou reflechi sou sa li ye ak faso
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Reyalite oswa Opinyon?
 
@@ -74,7 +74,7 @@ Lajan se yon zouti pou fè echanj.
 
 Toude moun yo dwe vle sa lòt la genyen, an menm tan epi nan kantite ki apwopriye.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Sèvi ak egzanp gid la: ou plante diri epi ou bezwen soulye, men kòdonye a vle lwil pou kwit manje, li pa vle diri. Ekonomis yo rele sa doub koyensidans bezwen. -->
 
@@ -96,13 +96,13 @@ Toude moun yo dwe vle sa lòt la genyen, an menm tan epi nan kantite ki apwopriy
 
 Pèsonn pa vle lajan pou lajan an menm. Li itil paske lòt moun aksepte l, nan espwa lòt moun ap aksepte l pita.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Yon biyè lajan se senpleman yon moso papye. Lajan rezoud pwoblèm troke a paske li separe vann ak achte: ou vann diri ou bay yon moun, epi ou achte soulye nan men yon lòt moun. Se sa ki fè diferans ant lajan ak troke. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Twa Bagay Lajan Fè
 
@@ -114,7 +114,7 @@ Pa gen okenn lajan ki konsève valè yon fason pafè, men gen kèk fòm ki pèdi
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Soti nan kokiy rive nan papye
 
@@ -161,13 +161,13 @@ Lè moun tande mo enflasyon an, yo konn panse a pri k ap monte.
 
 ## Enflasyon ak pouvwa acha
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Enflasyon pri se yon ogmantasyon ki dire nan nivo jeneral pri yo. Lòt bò meday la se pouvwa dachta: konbyen bagay yon inite lajan ka achte. Si yon panyen machandiz debaz monte soti 100 inite lajan pou rive 110, menm 100 inite yo pa ka achte tout panyen an ankò. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Anpil Kòz, Yon Sèl Chwa
 
@@ -285,7 +285,7 @@ Yon bitcoin divize an 100 000 000 inite ki pi piti, yo rele yo satoshi, oswa sat
 
 ## Kiyès ki kenbe Bitcoin ap mache?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Itilizatè yo voye, resevwa epi kenbe bitcoin; nòd yo verifye chak tranzaksyon ak chak blòk pou wè si yo respekte règ yo; minè yo fè konpetisyon pou ajoute yon nouvo blòk nan rejis la apeprè chak dis minit. Rejis sa a, blockchain nan, piblik, epi li koute anpil chè pou reekri l. Yon remak sou fason pou ekri mo a: Bitcoin ak yon B majiskil anjeneral vle di rezo a oswa sistèm nan; bitcoin ak yon b miniskil vle di lajan an limenm. -->
 
@@ -330,7 +330,7 @@ Chwazi ki kalite gad ou vle a pa yon egzamen ki mezire valè ou. Sa ki enpòtan,
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Fraz Semans Ou a Bay Aksè Total
 
@@ -350,7 +350,7 @@ Yon lis mo ki nan yon lòd presi, souvan 12 oswa 24 mo, ki ka rekreye kle ou yo.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Anvan Ou Itilize Okenn Bous
 
@@ -391,7 +391,7 @@ Yon lis mo ki nan yon lòd presi, souvan 12 oswa 24 mo, ki ka rekreye kle ou yo.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Rete, Pa Pataje Anyen, Pa Voye Anyen
 
@@ -426,7 +426,7 @@ Se jis kòmansman an sa ye.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Diplòm Bitcoin an
 

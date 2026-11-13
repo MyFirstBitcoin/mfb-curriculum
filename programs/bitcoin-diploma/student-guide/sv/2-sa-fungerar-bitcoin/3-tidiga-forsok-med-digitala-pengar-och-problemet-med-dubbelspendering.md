@@ -34,4 +34,4 @@ Vitboken sammanförde de funktioner som behövdes för detta tillvägagångssät
 
 Den här modulen förklarar dessa begrepp mer ingående. Tillsammans gav de en praktisk lösning på [dubbelspenderingsproblemet](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): nätverket kan avvisa ett andra försök att spendera samma bitcoin utan att förlita sig på en central instans. Bitcoin erbjöd den kombination som saknades och som årtionden av experiment med digitala pengar hade sökt efter.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)

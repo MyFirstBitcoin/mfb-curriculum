@@ -6,7 +6,7 @@ E ico, icipusho ca kubalilapo pa cikwama conse ni ici: **nani atungulula imfungu
 
 ###### Ni nani uwasunga bitcoin yenu mu cine?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 Nga mulebomfya **icikwama ca kuisungila**, ni mwe mutungulula imfungulo.
 

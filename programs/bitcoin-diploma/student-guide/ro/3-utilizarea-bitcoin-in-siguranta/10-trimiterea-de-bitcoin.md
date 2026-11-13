@@ -18,7 +18,7 @@ Trimiterea necesită mai multă atenție, deoarece, în Bitcoin, o [tranzacție]
 1. Efectuați un test cu o sumă mică atunci când procedura nu vă este familiară.
 1. Aprobați doar când toate elementele corespund; apoi verificați rezultatul plății.
 
-![Cursantul mai în vârstă prezintă un telefon folosit pentru instruire, în timp ce începătorul verifică un alt telefon, iar educatorul îndrumă comparația.](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![Cursantul mai în vârstă prezintă un telefon folosit pentru instruire, în timp ce începătorul verifică un alt telefon, iar educatorul îndrumă comparația.](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 
 <!-- micrographic: pre-send-checklist-01 -->
@@ -29,4 +29,4 @@ Pentru o [plată on-chain](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-
 
 Dacă destinația se schimbă pe neașteptate, cererea devine urgentă sau cineva vă cere informații de recuperare, ce ar trebui să faceți? Opriți-vă. Verificați cererea independent sau cereți ajutor fără a divulga informații secrete.
 
-![Educatorul îndrumă cursantul începător în timp ce compară un telefon cu dispozitivul de primire al proprietarului afacerii, înainte de a aproba o plată.](https://cdn.sanity.io/images/vje9ehw2/production/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)
+![Educatorul îndrumă cursantul începător în timp ce compară un telefon cu dispozitivul de primire al proprietarului afacerii, înainte de a aproba o plată.](https://cdn.sanity.io/images/vje9ehw2/staging/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)

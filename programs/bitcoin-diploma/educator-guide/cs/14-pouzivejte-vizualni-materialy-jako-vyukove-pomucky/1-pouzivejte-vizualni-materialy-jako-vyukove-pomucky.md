@@ -41,4 +41,4 @@ Nikdy nezobrazujte skutečnou [obnovovací frázi](https://curriculum.myfirstbit
 
 Nepřevádějte tvrzení v textu platné jen za určitých podmínek na bezvýhradné vizuální sdělení. Graf nabídky nesmí naznačovat [cenový](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) růst. [Decentralizační](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) mapa nesmí naznačovat stejný vliv. Obrázek peněženky nesmí naznačovat, že bitcoin je uložen uvnitř zařízení.
 
-![Vyučující na tabuli vysvětluje propojení šesti rovnocenných uzlů všem pěti studujícím, včetně mladého studujícího v oranžové pletené čepici.](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![Vyučující na tabuli vysvětluje propojení šesti rovnocenných uzlů všem pěti studujícím, včetně mladého studujícího v oranžové pletené čepici.](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)

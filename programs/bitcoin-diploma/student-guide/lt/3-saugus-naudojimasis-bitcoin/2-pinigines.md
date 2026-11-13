@@ -8,7 +8,7 @@
 
 Kas nutiktų, jei Jūsų telefonas nustotų veikti? Bitcoin įrašas vis tiek išliktų, tačiau prieiga priklausytų nuo raktų ir piniginėje naudojamo atkūrimo būdo. Piniginė padeda sukurti lėšoms gauti reikalingą informaciją, rodyti likučius bei [operacijų](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) istoriją ir patvirtinti lėšų leidimą. Ji nepanaikina būtinybės suprasti, kas kontroliuoja prieigą.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
 
 
 <!-- card: dark -->
@@ -33,4 +33,4 @@ Palyginkite [lėšų saugojimo ir kontrolės modelį](https://curriculum.myfirst
 > Diplomo kurso metu atlikdami praktines užduotis galite sukurti piniginę arba užsirašyti [atkūrimo žodžius](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase). Klasė yra mokymosi aplinka: informaciją galima pamatyti, nukopijuoti, ja pasidalyti arba netyčia pažeisti jos saugumą. Dėl šios priežasties mokomoji piniginė paprastai turėtų būti tuščia arba imituojama ir neturėtų būti naudojama reikšmingoms lėšoms saugoti. Jei praktiškai įmanoma, pasibaigus Diplomo kursui ji uždaroma, atkuriami jos pradiniai nustatymai arba ji grąžinama. Mokytojas gali pasirinkti praktinę veiklą su nedidelėmis tikromis sumomis, tačiau prieš kam nors pradedant joje dalyvauti turėtų paaiškinti jos tikslą ir papildomą riziką privatumui, saugumui bei lėšų praradimo riziką. Piniginei, skirtai reikšmingoms lėšoms saugoti, reikia naujo, privataus paruošimo ir naujos atkūrimo informacijos. Mokytojas gali paaiškinti šį skirtumą, tačiau norint baigti Diplomo kursą niekada neprivaloma susikurti asmeninės piniginės.
 
 
-![Mokytojas demonstruoja mokomąjį telefoną, o pradedantysis ir vyresni besimokantieji apžiūri savo įrenginius.](https://cdn.sanity.io/images/vje9ehw2/production/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)
+![Mokytojas demonstruoja mokomąjį telefoną, o pradedantysis ir vyresni besimokantieji apžiūri savo įrenginius.](https://cdn.sanity.io/images/vje9ehw2/staging/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)

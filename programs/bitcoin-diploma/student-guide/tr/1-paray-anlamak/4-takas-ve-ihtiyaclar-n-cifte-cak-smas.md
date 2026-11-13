@@ -8,7 +8,7 @@
 
 Diyelim ki **Amina**'nın pirinci var ve ayakkabı istiyor. **Luis**'in ayakkabısı var, ancak pirinç değil, yemeklik yağ istiyor. **Mei**'nin yemeklik yağı var ve tamir işi yaptırmak istiyor. Amina, ayakkabıları elde edebilmek için birkaç takas yapmak zorunda kalabilir. Her takas zaman alır ve [değer](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) konusunda anlaşma gerektirir.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
 
 
 <!-- micrographic: barter-mismatch-01 -->
@@ -29,7 +29,7 @@ Genel kabul görmüş bir para, satış ile satın almayı birbirinden ayırır.
 
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
 
 <!-- micrographic: sell-then-buy-01 -->

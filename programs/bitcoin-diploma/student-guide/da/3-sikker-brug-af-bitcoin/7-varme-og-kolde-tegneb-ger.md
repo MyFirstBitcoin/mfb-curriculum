@@ -32,4 +32,4 @@
 
 **Prøv selv:** Forklar for en lille, fiktiv betaling og en mindre hyppig fiktiv betaling, hvilket [kompromis](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) der vejer tungest. Vælg ikke et værktøj eller et beløb til Deres egne midler.
 
-![Underviseren hjælper de ældre og teknisk kyndige kursister med at sammenligne en telefon, en hardware-wallet og en bærbar computer.](https://cdn.sanity.io/images/vje9ehw2/production/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)
+![Underviseren hjælper de ældre og teknisk kyndige kursister med at sammenligne en telefon, en hardware-wallet og en bærbar computer.](https://cdn.sanity.io/images/vje9ehw2/staging/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)

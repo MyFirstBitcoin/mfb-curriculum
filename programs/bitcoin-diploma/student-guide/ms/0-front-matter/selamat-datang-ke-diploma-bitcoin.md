@@ -8,7 +8,7 @@ Projek ini bermula dengan kelas bersemuka berskala kecil di El Salvador pada tah
 
 Usaha kami bersifat bebas, dipacu komuniti dan berfokus pada Bitcoin. Kami menumpukan pada celik kewangan, pemikiran yang teliti dan keselamatan praktikal - bukan perdagangan, spekulasi atau promosi token lain. Kami tidak meminta anda menerima sesuatu kepercayaan. Sebaliknya, kami menyediakan konsep, soalan dan pengetahuan praktikal supaya anda dapat membuat kesimpulan sendiri.
 
-![Pendidik mengalu-alukan pelajar baharu, pelajar yang lebih berusia, pemilik perniagaan, pelajar bidang teknikal dan pelajar muda ke dalam satu kumpulan pembelajaran bersama.](https://cdn.sanity.io/images/vje9ehw2/production/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
+![Pendidik mengalu-alukan pelajar baharu, pelajar yang lebih berusia, pemilik perniagaan, pelajar bidang teknikal dan pelajar muda ke dalam satu kumpulan pembelajaran bersama.](https://cdn.sanity.io/images/vje9ehw2/staging/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
 
 ### Misi kami: pendidikan Bitcoin yang bebas dan bersumber terbuka
 

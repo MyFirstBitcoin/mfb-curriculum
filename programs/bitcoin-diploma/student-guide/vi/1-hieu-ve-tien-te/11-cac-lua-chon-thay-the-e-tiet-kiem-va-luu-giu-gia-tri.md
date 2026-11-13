@@ -9,7 +9,7 @@ Mọi người thường tìm các phương án thay thế cho việc giữ ti�
 
 Một [tài sản](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) là thứ mà một người có thể sở hữu hoặc có quyền yêu cầu và có thể mang [giá trị](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); nó không tự động thực hiện mọi chức năng của tiền. Một ngôi nhà có thể lưu giữ [giá trị](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) nhưng không thuận tiện để dùng mua thực phẩm. Một cổ phiếu có thể dễ bán ở một quốc gia nhưng lại nằm ngoài tầm tiếp cận của người không có tài khoản môi giới chứng khoán. [Vàng](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) đã được dùng làm tiền trong những giai đoạn dài của lịch sử nhưng có thể khó kiểm định hoặc chia nhỏ trong một giao dịch có giá trị nhỏ.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 Mọi người cũng có thể chọn ngoại [tệ](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency), trái phiếu [chính phủ](https://curriculum.myfirstbitcoin.org/lexicon/en/#bond), doanh nghiệp tư nhân, đất đai, công cụ, giáo dục hoặc các [tài sản](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) khác. Mỗi lựa chọn đều đi kèm với [chi phí cơ hội](https://curriculum.myfirstbitcoin.org/lexicon/en/#opportunity-cost) và rủi ro. Không có [tài sản](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) nào bảo đảm [sức mua](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) trong mọi thời kỳ và hoàn cảnh.
 

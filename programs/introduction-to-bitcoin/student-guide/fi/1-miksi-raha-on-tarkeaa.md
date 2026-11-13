@@ -22,4 +22,4 @@ Tämä opas rakentuu kuuden kysymyksen ympärille: miksi raha on tärkeää, mit
 
 Opas on tarkoitettu vain opetuskäyttöön. Se ei sisällä talous-, sijoitus-, laki- tai veroneuvontaa eikä kehota teitä ostamaan, myymään tai pitämään hallussanne mitään.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)

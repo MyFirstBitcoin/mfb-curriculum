@@ -12,9 +12,9 @@ Na ebongiseli ya kosombitana biloko na biloko, kosombitana ekoki kosalema kaka s
 
 Ezali **esaleli ya kosombitana**: bato bandimaka yango lokola lifuti. Ezali **emekeli ya motuya**: ntalo ya biloko elakisamaka na yango, yango wana tokoki kokokanisa motuya ya biloko ndenge na ndenge. Mpe ezali **ebombelo ya motuya**: ebatelaka motuya ya lelo mpo na mikolo ezali koya. Mbongo moko te ebatelaka motuya na ndenge ya kokoka, kasi ndenge mosusu ya mbongo ebungisaka makoki na yango ya kosomba malɛmbɛ koleka mosusu.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Na boumeli ya lisolo ya bato, biloko mingi esalelamaki lokola mbongo: mbɛmbɛ, mungwa, mayaka, bibwɛlɛ, motako, palata mpe wolo. Bibende ya motuya ekómaki kosalelama mingi mpo ezalaki mingi te, ezalaki koumela mpe bato mingi bazalaki kondima yango. Kasi komema mpe kobatela bibende ezali mpasi, yango wana babanki ebandaki kobimisa mikanda oyo ezalaki kopesa mokóló na yango lotomo ya kozwa motángo moko ya bibende oyo elakisamaki. Na lolenge ndenge na ndenge ya **ebongiseli ya mbongo oyo etongami na wolo**, eteni ya moboko ya mbongo ezalaki kokangisama na motángo moko ya wolo na kolanda mibeko. Mibeko yango ezalaki kokesana na kolanda esika mpe eleko.
 

@@ -15,7 +15,7 @@ The fiat system has several main participants:
 [The actors in a fiat system and what passes between them: the central bank sets policy and settles banks, commercial banks hold deposits that are their liability to customers, payment services carry instructions, the government taxes and spends, and citizens and businesses pay and get paid.](/micrographics/fiat-system-flows-01/en.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
 <!-- card: light -->

@@ -13,4 +13,4 @@ Gebruik denken–delen–uitwisselen vóór de groepsdiscussie:
 
 Vraag deelnemers hun antwoorden te onderbouwen met een begrip uit de cursus en een voorbeeld, niet met een slogan.
 
-![De docent nodigt de oudere deelnemer uit voor een laatste toelichting, terwijl de beginner en de ondernemer met hun begeleiders luisteren.](https://cdn.sanity.io/images/vje9ehw2/production/294a2f8e8e831a2a0da998cfbc42a40102d4cc74-1054x1493.png)
+![De docent nodigt de oudere deelnemer uit voor een laatste toelichting, terwijl de beginner en de ondernemer met hun begeleiders luisteren.](https://cdn.sanity.io/images/vje9ehw2/staging/294a2f8e8e831a2a0da998cfbc42a40102d4cc74-1054x1493.png)

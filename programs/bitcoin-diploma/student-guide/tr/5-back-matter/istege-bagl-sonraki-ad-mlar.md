@@ -26,11 +26,11 @@ Eğitmen Rehberi; dersleri hazırlamanıza, etkinlikleri yürütmenize, örnekle
 
 ### Bir öğrenme topluluğuna katılın
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
 
 Bağımsız eğitmenler ve yerel öğrenme toplulukları, [Bitcoin Eğitim Ağı](https://myfirstbitcoin.org/about/network) aracılığıyla birbirine bağlanır. Size yakın bir topluluk ya da çalışmaları ilginizi çeken bir topluluk bulun ve nasıl öğrenebileceğinizi, gönüllü olabileceğinizi veya katkıda bulunabileceğinizi sormak için onlarla iletişime geçin. Katılım isteğe bağlıdır ve Diploma'nın tamamlanmasını, değerlendirmeyi veya sertifikalandırmayı etkilemez.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
 
 ### Bir güvenlik hatırlatması
 
@@ -92,13 +92,13 @@ Sertifikayı düzenleyen eğitmen bir doğrulama yöntemi sunuyorsa yalnızca se
 
 En önemli kazanımınız sertifika değildir. Asıl kazanım; parayı ve Bitcoin'i açıkça anlatabilme, riski fark edebilme, harekete geçmeden önce doğrulama yapabilme ve bağımsız olarak öğrenmeye devam edebilme becerisidir.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
 
 ### Ücretsiz Bitcoin eğitimini destekleyin
 
 My First Bitcoin'in eğitim kaynakları ücretsiz ve açık kaynaklıdır. Gönüllü destek; müfredatın sürdürülmesine, eğitmenlerin yetiştirilmesine ve erişimin genişletilmesine yardımcı olur.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
 
 
 https://donate.myfirstbitcoin.org
@@ -112,4 +112,4 @@ Katkıda bulunmayı seçerseniz resmi [bağış sayfasını](https://donate.myfi
 ---
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)

@@ -6,7 +6,7 @@ Viešosios „Bitcoin“ taisyklės, [lygiaverčių dalyvių tinklas](https://cu
 
 Šios savybės gali suteikti dalyviams daugiau galimybių veikti savarankiškai, tačiau kartu jiems tenka ir daugiau atsakomybės. Kai nėra centrinės institucijos, kuri patvirtintų [sandorius](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), atkurtų prieigą ar ištaisytų daugelį klaidų, kiekvienas žmogus turi gebėti suprasti, kokį vaidmenį ir kokią riziką prisiima.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
 
 Žmogui, kuris pasirenka [savarankišką saugojimą](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody), raktų kontrolė suteikia tiesioginę bitkoinų kontrolę. Nė viena įmonė negali įšaldyti tinkamai valdomo blokų grandinėje esančio likučio. Nė viena įmonė negali atkurti ir prarastos [atkūrimo frazės](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase).
 

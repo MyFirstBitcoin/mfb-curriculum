@@ -12,7 +12,7 @@ Hierdie verskil is belangrik vir verifikasie. Bitcoin se reëls en totale voorra
 
 In 'n **niebewarende** of **selfbewarende** beursie beheer U die sleutels. Die beursie onderteken [transaksies](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) onder u gesag. Daar kan steeds afhanklikhede van sagteware, hardeware, bedieners of netwerke wees, maar geen [bewaarder](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian) hoef 'n geldige besteding op die ketting goed te keur nie.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 
 <!-- micrographic: who-controls-keys-01 -->

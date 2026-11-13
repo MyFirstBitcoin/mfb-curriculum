@@ -19,7 +19,7 @@ Sisebenzisa imali yonke imihla, kodwa asifane sibuze ukuba isebenza njani.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Uninzi lwabantu aluze luziphe ixesha lokucinga ngemali
 
@@ -29,7 +29,7 @@ Asikokuyirhola, asikokuyichitha, kodwa kukucinga ngokuba iyintoni na nokuba iseb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Imibuzo emihlanu yokuqalisa
 
@@ -49,7 +49,7 @@ Asikokuyirhola, asikokuyichitha, kodwa kukucinga ngokuba iyintoni na nokuba iseb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Inyaniso okanye uluvo?
 
@@ -74,7 +74,7 @@ Imali sisixhobo sokutshintshiselana.
 
 Bobabini abantu kufuneka bafune oko omnye anako, ngexesha elinye nangemilinganiselo efanelekileyo.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Sebenzisani umzekelo okwisikhokelo: nilima irayisi kwaye nifuna izihlangu, kodwa umenzi wezihlangu ufuna ioli yokupheka, hayi irayisi. Iingcali zezoqoqosho zikubiza oku ngokuba kukungqamana kabini kweemfuno. -->
 
@@ -96,13 +96,13 @@ Abantu bobabini kufuneka bafune oko omnye anako, ngaxeshanye nangobungakanani ob
 
 Akukho mntu ufuna imali ngenxa yayo nje. Iluncedo kuba abanye bayayamkela, belindele ukuba nabanye baya kuyamkela kamva.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Imali eliphepha sisiqwenga nje sephepha. Imali isombulula ingxaki yokunaniselana ngokwahlula ukuthengisa ekuthengeni: nithengisa irayisi yenu komnye umntu nize nithenge izihlangu komnye. Yile nto eyahlula imali ekunaniselaneni. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Izinto Ezintathu Ezenziwa Yimali
 
@@ -114,7 +114,7 @@ Akukho mali igcina ixabiso ngokugqibeleleyo, kodwa ezinye iintlobo zemali ziphul
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Ukusuka kumaqokobhe ukuya ephepheni
 
@@ -161,13 +161,13 @@ Xa abantu besiva igama elithi ukunyuka kwamaxabiso, badla ngokucinga ngamaxabiso
 
 ## Ukunyuka kwamaxabiso namandla okuthenga
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Ukunyuka kwamaxabiso kukunyuka okuqhubekayo kwinqanaba lamaxabiso ngokubanzi. Elinye icala lako ngamandla okuthenga: ubungakanani bezinto ezinokuthengwa yiyunithi enye yemali. Ukuba ixabiso lebhaskithi yeempahla ezisisiseko linyuka lisuka kwiiyunithi ezili-100 zemali liye kwezili-110, kwaezo yunithi zili-100 azisakwazi ukuthenga yonke loo bhaskithi. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Izizathu Ezininzi, Ukhetho Olunye
 
@@ -285,7 +285,7 @@ I-bitcoin enye yahlulahlulwa ibe ziiyunithi ezincinane eziyi-100 000 000 ezibizw
 
 ## Ngubani ogcina i-Bitcoin isebenza?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Abasebenzisi bathumela, bamkele baze bagcine i-bitcoin; iindawo zothungelwano zihlola intengiselwano nganye nebhloko nganye ukuqinisekisa ukuba ziyahambelana nemithetho; abembi bakhuphisana ngokongeza ibhloko entsha kwirekhodi malunga nemizuzu elishumi nganye. Loo rekhodi, ikhonkco leebhloko, iyafumaneka esidlangalaleni yaye kubiza kakhulu ukuyibhala ngokutsha. Ingcaciso ngopelo: i-Bitcoin eno-B omkhulu idla ngokuthetha uthungelwano okanye inkqubo; i-bitcoin eno-b omncinane ithetha imali ngokwayo. -->
 
@@ -330,7 +330,7 @@ Ukukhetha indlela yokugcina akulovavanyo lokufaneleka kwenu. Okubalulekileyo kuk
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Ibinzana Lenu Lembewu Linika Ufikelelo Olupheleleyo
 
@@ -350,7 +350,7 @@ Uluhlu lwamagama alandelelanayo, adla ngokuba li-12 okanye angama-24, olunokuphi
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Ngaphambi kokuba nisebenzise nasiphi na isipaji
 
@@ -391,7 +391,7 @@ Uluhlu lwamagama alandelelanayo, adla ngokuba li-12 okanye angama-24, olunokuphi
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Yimani, Ningabelani Nganto, Ningathumeli Nto
 
@@ -426,7 +426,7 @@ Esi sisiqalo nje.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## IDiploma yeBitcoin
 

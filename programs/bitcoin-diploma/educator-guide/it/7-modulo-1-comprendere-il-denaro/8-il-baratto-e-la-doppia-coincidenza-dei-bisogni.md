@@ -25,4 +25,4 @@ Chiarisca che il [baratto](https://curriculum.myfirstbitcoin.org/lexicon/en/#bar
 
 Se utilizza un gioco, ne discuta le semplificazioni durante il debriefing. Lo scambio reale comprende relazioni, credito, doni, obblighi, contrattazione, leggi e interazioni ripetute.
 
-![L'educatore guida un'attività di scambio diretto tra il principiante che tiene un quaderno e la titolare di un'attività che tiene della spesa alimentare.](https://cdn.sanity.io/images/vje9ehw2/production/48813fb8d9434061c5c546898f4023f8748e9edd-1054x1492.png)
+![L'educatore guida un'attività di scambio diretto tra il principiante che tiene un quaderno e la titolare di un'attività che tiene della spesa alimentare.](https://cdn.sanity.io/images/vje9ehw2/staging/48813fb8d9434061c5c546898f4023f8748e9edd-1054x1492.png)

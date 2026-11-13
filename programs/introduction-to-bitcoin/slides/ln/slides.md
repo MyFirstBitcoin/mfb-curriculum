@@ -19,7 +19,7 @@ Tosalelaka mbongo mokolo na mokolo, kasi tomitunaka mbala mingi te ndenge esalak
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Bato mingi bazwaka ata ntango te ya kokanisa na ntina ya mbongo
 
@@ -29,7 +29,7 @@ Kozwa yango na mosala te, kobimisa yango te, kasi kokanisa na ntina na yango: ez
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Mituna mitano mpo na kobanda
 
@@ -49,7 +49,7 @@ Kozwa yango na mosala te, kobimisa yango te, kasi kokanisa na ntina na yango: ez
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Likambo ya solo to likanisi?
 
@@ -74,7 +74,7 @@ Mbongo ezali esaleli ya kosombitana.
 
 Bato nyonso mibale basengeli kozala na mposa ya eloko oyo mosusu azali na yango, na ntango moko mpe na motango oyo ebongi.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Bosalela ndakisa ya buku ya malako: bolonaka loso mpe bozali na mposa ya sapato, kasi mosali ya sapato alingi mafuta ya kolamba, kasi loso te. Bato ya mayele na makambo ya nkita babengaka yango bokokani ya bamposa ya ngámbo mibale. -->
 
@@ -96,13 +96,13 @@ Bato yango mibale basengeli kolinga biloko oyo mosusu azali na yango, na ntango 
 
 Moto moko te alingaka mbongo kaka mpo na mbongo yango moko. Ezali na ntina mpo bato mosusu bandimaka yango, na elikya ete bato mosusu bakondima yango na nsima.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Mbongo ya lokasa ezali kaka eteni ya papye. Mbongo esilisaka mokakatano ya kosombitana biloko na kokabola kotɛka ná kosomba: botɛkaka loso na bino epai ya moto moko mpe bosombaka sapato epai ya moto mosusu. Yango nde ekesenisaka kosalela mbongo ná kosombitana biloko. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Makambo misato oyo mbongo esalaka
 
@@ -114,7 +114,7 @@ Mbongo moko te ebombaka motuya na ndenge ya kokoka, kasi mitindo mosusu ya mbong
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Banda na mbɛmbɛ tii na papye
 
@@ -161,13 +161,13 @@ Ntango bato bayokaka liloba inflation, mbala mingi bakanisaka ete bantalo ezali 
 
 ## Bomatami ya ntalo mpe nguya ya kosomba
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Inflation ya ntalo ezali bomati ya ntalo ya biloko na mobimba oyo ezali kokoba. Ngámbo na yango mosusu ezali makoki ya kosomba: motángo ya biloko oyo unité moko ya mbongo ekoki kosomba. Soki ntalo ya kitunga ya biloko ya ntina emati longwa na ba unité 100 ya mbongo kino na 110, ba unité 100 yango ekoki lisusu te kosomba kitunga yango mobimba. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Bantina mingi, boponi moko
 
@@ -285,7 +285,7 @@ bitcoin moko ekabolamaka na biteni ya mike 100 000 000 oyo babengaka satoshis, t
 
 ## Nani asalaka ete Bitcoin ekoba kosala?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Basaleli batindaka, bayambaka mpe babombaka bitcoin; banœud etalaka soki tranzaksyon nyonso mpe blɔkɛ nyonso ezali kolanda mibeko; bamineur bawelanaka mpo na kobakisa blɔkɛ ya sika na buku ya mikomá pene na nsima ya miniti zomi nyonso. Buku yango ya mikomá, oyo babengaka blockchain, ezali polele mpo na bato nyonso, mpe kokoma yango lisusu esɛngaka mbongo mingi mpenza. Liyebisi na ntina ya ndenge ya kokoma: Bitcoin oyo ebandi na B ya monɛnɛ elakisaka mbala mingi réseau to ebongiseli; bitcoin oyo ebandi na b ya moke elakisaka mbongo yango moko. -->
 
@@ -330,7 +330,7 @@ Kopona lolenge ya bobateli ezali te komeka motuya na bino. Oyo ezali na ntina ez
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Maloba na bino ya mboto epesaka nzela ya kokɔta na nyonso
 
@@ -350,7 +350,7 @@ Liste ya maloba oyo etyami na molɔngɔ, mbala mingi 12 to 24, oyo ekoki kosala 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Liboso ete bósalela pɔtɔmɔnɛ nyonso
 
@@ -391,7 +391,7 @@ Liste ya maloba oyo etyami na molɔngɔ, mbala mingi 12 to 24, oyo ekoki kosala 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Botɛlɛma, bokabola eloko moko te, botinda eloko moko te
 
@@ -426,7 +426,7 @@ Oyo ezali kaka ebandeli.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Diplome ya Bitcoin
 

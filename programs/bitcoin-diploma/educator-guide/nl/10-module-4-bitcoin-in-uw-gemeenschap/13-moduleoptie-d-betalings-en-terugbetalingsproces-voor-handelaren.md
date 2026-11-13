@@ -25,4 +25,4 @@ Behandel:
 
 **Nabespreking:** Waarom is het onveilig om een terugbetaling automatisch naar een verondersteld oorspronkelijk adres te sturen? Wie wordt verantwoordelijk wanneer meerdere medewerkers één Wallet delen?
 
-![De docent wijst naar een lege registratiekaart terwijl de beginner en de ondernemer aan een winkeltoonbank oefentelefoons controleren.](https://cdn.sanity.io/images/vje9ehw2/production/7c785fef5d3b3be3d4a60aa9cfa250f74e18d1ec-1054x1493.png)
+![De docent wijst naar een lege registratiekaart terwijl de beginner en de ondernemer aan een winkeltoonbank oefentelefoons controleren.](https://cdn.sanity.io/images/vje9ehw2/staging/7c785fef5d3b3be3d4a60aa9cfa250f74e18d1ec-1054x1493.png)

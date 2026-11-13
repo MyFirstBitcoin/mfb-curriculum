@@ -12,9 +12,9 @@ In 'n ruilhandelstelsel werk handel slegs wanneer albei mense wil hê wat die an
 
 Dit is 'n **ruilmiddel**: mense aanvaar dit as betaling. Dit is 'n **rekeneenheid**: pryse word daarin uitgedruk, sodat ons die waarde van verskillende dinge kan vergelyk. En dit is 'n **waardestoor**: dit dra waarde van vandag na die toekoms oor. Geen geld bewaar waarde volmaak nie, maar sommige vorme verloor Koopkrag stadiger as ander.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Deur die geskiedenis heen het baie dinge as geld gedien: skulpe, sout, krale, vee, koper, silwer en goud. Edelmetale is wyd gebruik omdat hulle skaars en duursaam was en algemeen aanvaar is. Maar dit is moeilik om metaal te vervoer en te beskerm, en daarom het banke papierbewyse begin uitreik wat vir 'n bepaalde hoeveelheid metaal ingeruil kon word. Onder verskillende weergawes van 'n **goudstandaard** is 'n geldeenheid wetlik aan 'n hoeveelheid goud gekoppel. Die reëls het van plek tot plek en van tydperk tot tydperk verskil.
 

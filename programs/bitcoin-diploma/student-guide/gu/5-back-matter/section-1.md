@@ -26,11 +26,11 @@
 
 ### અભ્યાસ સમુદાયમાં જોડાઓ
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
 
 આ [બિટકોઇન શિક્ષણ નેટવર્ક](https://myfirstbitcoin.org/about/network) સ્વતંત્ર શિક્ષકો અને સ્થાનિક અભ્યાસ સમુદાયોને જોડે છે. તમારી નજીકનો અથવા જેના કાર્યમાં તમને રસ હોય તેવો સમુદાય શોધો અને તમે કેવી રીતે શીખી શકો, સ્વયંસેવા કરી શકો અથવા યોગદાન આપી શકો તે પૂછવા માટે તેનો સંપર્ક કરો. ભાગ લેવો વૈકલ્પિક છે અને તે ડિપ્લોમાની પૂર્ણતા, મૂલ્યાંકન કે પ્રમાણપત્રને અસર કરતું નથી.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
 
 ### સુરક્ષા અંગે એક યાદ
 
@@ -92,13 +92,13 @@
 
 તમારું સૌથી મહત્ત્વનું પરિણામ પ્રમાણપત્ર નથી. તે છે નાણાં અને બિટકોઇનને સ્પષ્ટ રીતે સમજાવવાની, જોખમ ઓળખવાની, પગલું લેતાં પહેલાં ચકાસણી કરવાની અને સ્વતંત્ર રીતે શીખવાનું ચાલુ રાખવાની ક્ષમતા.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
 
 ### નિઃશુલ્ક બિટકોઇન શિક્ષણને સમર્થન આપો
 
 My First Bitcoin નાં શૈક્ષણિક સંસાધનો નિઃશુલ્ક અને ઓપન સોર્સ છે. સ્વૈચ્છિક સહાય અભ્યાસક્રમ જાળવવામાં, શિક્ષકોને તાલીમ આપવામાં અને વધુ લોકો સુધી તેની પહોંચ વધારવામાં મદદ કરે છે.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
 
 
 https://donate.myfirstbitcoin.org
@@ -112,4 +112,4 @@ _My First Bitcoin ને સમર્થન આપો_
 ---
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)

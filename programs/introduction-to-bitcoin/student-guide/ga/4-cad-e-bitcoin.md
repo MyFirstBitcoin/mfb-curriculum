@@ -20,4 +20,4 @@ Nóta faoin litriú: **Bitcoin** le B mór: is é an líonra nó an córas a bh�
 
 Tá míbhuntáistí ag gabháil le buntáistí Bitcoin freisin. Is féidir lena phraghas athrú go tapa. De ghnáth, ní féidir botúin a chur ina gceart. Is teoranta fós a ghlactar leis in go leor áiteanna, agus ní mór roinnt foghlama a dhéanamh chun é a úsáid go sábháilte. Cuireann Bitcoin fíorú agus freagracht phearsanta in áit cuid den mhuinín a chuirtear in institiúidí. Ní chuireann sé deireadh le riosca.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

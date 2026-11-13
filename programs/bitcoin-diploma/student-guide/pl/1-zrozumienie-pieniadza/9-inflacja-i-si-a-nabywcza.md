@@ -13,7 +13,7 @@
 > [Siła nabywcza](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) to ilość towarów i usług, które można kupić za jednostkę pieniądza. Jeśli cena koszyka podstawowych towarów wzrośnie ze 100 jednostek [waluty](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) do 110, za te same 100 jednostek nie można już kupić całego koszyka. Ich [siła nabywcza](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) w odniesieniu do tego koszyka spadła.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->

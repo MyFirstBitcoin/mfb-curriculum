@@ -6,7 +6,7 @@ Quindi la prima domanda da porsi su qualsiasi wallet è: **chi controlla le chia
 
 ###### Chi detiene davvero i Suoi bitcoin?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 Con un **wallet in autocustodia**, è Lei a controllare le chiavi.
 

@@ -44,4 +44,4 @@ Gränsen på 21 miljoner upprätthålls av [noder](https://curriculum.myfirstbit
 > Ett begränsat utbud innebär inte heller att varje bitcoin är tillgänglig för försäljning; vissa kan behållas långsiktigt eller bli oåtkomliga på grund av att nycklar har gått förlorade.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

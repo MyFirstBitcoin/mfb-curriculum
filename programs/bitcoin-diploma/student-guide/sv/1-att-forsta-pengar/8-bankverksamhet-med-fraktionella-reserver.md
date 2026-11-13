@@ -28,7 +28,7 @@ Detta skapar två viktiga risker:
 [Likviditetsrisk: många insättare köar för att ta ut pengar i dag, och banken har inte tillräckligt med kontanter just nu trots att dess lån kan återbetalas senare. Solvensrisk: låntagare slutar betala sina bolån, och bankens tillgångar blir värda mindre än dess skulder.](/micrographics/liquidity-vs-solvency-01/sv.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
 
 
 

@@ -18,7 +18,7 @@ Wysyłanie wymaga większej ostrożności, ponieważ poprawnie zrealizowana w si
 1. Jeśli procedura jest Państwu nieznana, proszę wykonać próbę z niewielką kwotą.
 1. Proszę zatwierdzić płatność dopiero wtedy, gdy wszystkie elementy się zgadzają, a następnie sprawdzić jej wynik.
 
-![Starszy uczestnik pokazuje telefon szkoleniowy, podczas gdy początkujący uczestnik sprawdza drugi telefon, a osoba prowadząca zajęcia pomaga w porównaniu.](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![Starszy uczestnik pokazuje telefon szkoleniowy, podczas gdy początkujący uczestnik sprawdza drugi telefon, a osoba prowadząca zajęcia pomaga w porównaniu.](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 
 <!-- micrographic: pre-send-checklist-01 -->
@@ -29,4 +29,4 @@ W przypadku [płatności on-chain](https://curriculum.myfirstbitcoin.org/lexicon
 
 Co powinni Państwo zrobić, jeśli adres docelowy niespodziewanie się zmieni, pojawi się presja na pilną realizację płatności lub ktoś poprosi o dane do odzyskiwania portfela? Proszę się zatrzymać. Proszę niezależnie zweryfikować prośbę o płatność lub poprosić o pomoc, nie ujawniając poufnych danych.
 
-![Osoba prowadząca zajęcia pomaga początkującemu uczestnikowi porównać dane na telefonie z danymi na urządzeniu właściciela firmy służącym do odbierania płatności przed zatwierdzeniem płatności.](https://cdn.sanity.io/images/vje9ehw2/production/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)
+![Osoba prowadząca zajęcia pomaga początkującemu uczestnikowi porównać dane na telefonie z danymi na urządzeniu właściciela firmy służącym do odbierania płatności przed zatwierdzeniem płatności.](https://cdn.sanity.io/images/vje9ehw2/staging/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)

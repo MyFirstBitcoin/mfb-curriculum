@@ -12,7 +12,7 @@ Esta diferencia es importante para la verificación. Las reglas y la oferta tota
 
 En una billetera **sin custodia** o **de autocustodia**, USTED controla las claves. La billetera firma [transacciones](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) bajo su autoridad. Aun así, puede haber dependencias de software, hardware, servidores o redes, pero ningún [custodio](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian) tiene que aprobar un gasto válido en la cadena de bloques.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 
 <!-- micrographic: who-controls-keys-01 -->

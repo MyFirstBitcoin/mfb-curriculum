@@ -10,7 +10,7 @@
 
 Toliau paklauskite, kokias galimybes suteikia pasirinktas modelis. Priklausomai nuo taisyklių, [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) gali sudaryti sąlygas greitesniems atsiskaitymams, platesnei prieigai ar naujoms mokėjimo funkcijoms. Ji taip pat gali suteikti institucijoms daugiau galimybių stebėti [sandorius](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), taikyti taisykles, riboti naudojimą ar tiesiogiai susieti tapatybę su mokėjimais. Tai yra centralizuota kontrolė: atitinkamas taisykles nustato ar keičia institucija, o ne savarankiškai veikiantys paprasti naudotojai.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->

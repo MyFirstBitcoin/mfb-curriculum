@@ -20,4 +20,4 @@ Huomautus kirjoitusasusta: **Bitcoin** isolla B-kirjaimella tarkoittaa yleensä 
 
 Bitcoiniin liittyy myös kompromisseja. Sen hinta voi muuttua nopeasti. Virheet ovat yleensä peruuttamattomia. Monissa paikoissa sen hyväksyminen maksuvälineenä on yhä rajallista, ja sen turvallinen käyttö vaatii jonkin verran opettelua. Bitcoin korvaa osan instituutioihin kohdistuvasta luottamuksesta todentamisella ja henkilökohtaisella vastuulla. Se ei poista riskejä.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

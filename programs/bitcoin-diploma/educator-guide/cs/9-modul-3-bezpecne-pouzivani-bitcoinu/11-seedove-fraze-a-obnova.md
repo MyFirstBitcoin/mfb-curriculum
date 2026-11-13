@@ -15,7 +15,7 @@ Vysvětlete důsledky:
 [Obnovovací fráze je uspořádaný seznam slov, zde dvanáct očíslovaných ukázkových slov napsaných na papíře. Správná slova ve správném pořadí umožňují obnovit kontrolu nad prostředky v kompatibilní peněžence, proto se fráze uchovává v tajnosti a offline.](/micrographics/seed-phrase-on-paper-01/cs.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d437a5edfbe870f7dba8fd565d33ea6a3622a90d-1536x1024.svg)
 
 #### Toto při výuce nikdy nedělejte
 
@@ -56,4 +56,4 @@ Vysvětlete důsledky:
 
 Dědictví, [vícepodpisové](https://curriculum.myfirstbitcoin.org/lexicon/en/#multisignature) uspořádání, pokročilé přístupové fráze a plánování obnovy prostředků vysoké hodnoty mohou vyžadovat pokročilá bezpečnostní opatření a odborné právní poradenství. Nejsou součástí požadovaných dovedností v programu Bitcoin Diploma.
 
-![Vyučující vede diskusi o připravenosti na obnovu, zatímco starší studující vkládá prázdnou cvičnou kartičku do obálky a technicky zdatný studující přihlíží.](https://cdn.sanity.io/images/vje9ehw2/production/23cdb205174fa99b2d0df47ef606b53f8329f152-1054x1492.png)
+![Vyučující vede diskusi o připravenosti na obnovu, zatímco starší studující vkládá prázdnou cvičnou kartičku do obálky a technicky zdatný studující přihlíží.](https://cdn.sanity.io/images/vje9ehw2/staging/23cdb205174fa99b2d0df47ef606b53f8329f152-1054x1492.png)

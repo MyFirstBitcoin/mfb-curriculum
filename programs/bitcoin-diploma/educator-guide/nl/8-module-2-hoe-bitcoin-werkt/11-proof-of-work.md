@@ -25,4 +25,4 @@ Werk met bewering, bewijs en afweging:
 
 Gedetailleerde energiestatistieken en de economie van [mining](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) zijn geen verplichte inhoud van het Bitcoin Diploma. Gebruik ze alleen wanneer de docent actuele bronnen heeft gecontroleerd en de discussie bijdraagt aan een competentie.
 
-![De docent en de technisch onderlegde leerling wijzen afzonderlijke mining- en node-apparaten aan, terwijl de oudere leerling met behulp van een gids meedoet.](https://cdn.sanity.io/images/vje9ehw2/production/c42a629a0dff84d04b37397d56a45bf146f7110b-1054x1492.png)
+![De docent en de technisch onderlegde leerling wijzen afzonderlijke mining- en node-apparaten aan, terwijl de oudere leerling met behulp van een gids meedoet.](https://cdn.sanity.io/images/vje9ehw2/staging/c42a629a0dff84d04b37397d56a45bf146f7110b-1054x1492.png)

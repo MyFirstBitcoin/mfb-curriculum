@@ -9,7 +9,7 @@ Orang sering mencari alternatif selain menyimpan uang tunai ketika mereka yakin 
 
 Suatu [aset](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) adalah sesuatu yang dapat dimiliki atau diklaim oleh seseorang dan mungkin memiliki [nilai](https://curriculum.myfirstbitcoin.org/lexicon/en/#value); aset tidak serta-merta menjalankan semua fungsi uang. Rumah dapat menyimpan [nilai](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) tetapi tidak praktis untuk membeli makanan. Saham mungkin mudah dijual di suatu negara, tetapi tidak dapat diakses oleh seseorang yang tidak memiliki rekening pada perusahaan pialang. [Emas](https://curriculum.myfirstbitcoin.org/lexicon/en/#gold) telah digunakan sebagai uang sepanjang berbagai periode panjang dalam sejarah, tetapi keasliannya bisa sulit diverifikasi atau emas itu sendiri sulit dibagi dalam transaksi bernilai kecil.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 Orang juga dapat memilih [mata uang asing](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency), [obligasi](https://curriculum.myfirstbitcoin.org/lexicon/en/#bond) pemerintah, usaha swasta, tanah, peralatan, pendidikan, atau [aset](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) lainnya. Setiap pilihan mengandung [biaya peluang](https://curriculum.myfirstbitcoin.org/lexicon/en/#opportunity-cost) dan risiko. Tidak ada [aset](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) yang menjamin [daya beli](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) pada setiap masa dan situasi.
 

@@ -10,4 +10,4 @@ Pengar formar vardagens val kring mat, transport, arbete, sparande och att hjäl
 
 När ni diskuterar dessa frågor, lägg märke till skillnaden mellan ett faktum och en åsikt. ”Den här sedeln accepteras som betalning av skatt” är ett faktum som går att kontrollera. ”Det här är den bästa formen av pengar” är en åsikt eller slutsats som kräver kriterier och belägg.
 
-![Alla sex personerna samlas runt klassrummets bord medan läraren leder en gemensam läsning ur en uppslagen kursguide.](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![Alla sex personerna samlas runt klassrummets bord medan läraren leder en gemensam läsning ur en uppslagen kursguide.](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)

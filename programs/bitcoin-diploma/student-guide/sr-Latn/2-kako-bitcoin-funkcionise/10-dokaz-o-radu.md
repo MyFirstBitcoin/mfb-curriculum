@@ -1,6 +1,6 @@
 # 2.10 Dokaz o radu
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
 <!-- card: definition -->
@@ -29,4 +29,4 @@ Kada [rudar](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) pronađe [
 
 [Dokaz o radu](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) podrazumeva stvarni energetski trošak. Pristalice tvrde da upravo taj trošak predstavlja temelj bezbednosti Bitcoin mreže i može stvoriti potražnju za fleksibilno dostupnom energijom ili energijom koja bi inače ostala neiskorišćena. Kritičari dovode u pitanje količinu i poreklo utrošene energije. Odgovorna procena razmatra koja se energija koristi, odakle dolazi, kakvu bezbednost obezbeđuje i koje se alternative porede.
 
-![Predavač, polaznik početnik i polaznik sa tehničkim predznanjem razgovaraju o stonom uređaju za rudarenje sa ventilatorom i zasebnim napajanjem.](https://cdn.sanity.io/images/vje9ehw2/production/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)
+![Predavač, polaznik početnik i polaznik sa tehničkim predznanjem razgovaraju o stonom uređaju za rudarenje sa ventilatorom i zasebnim napajanjem.](https://cdn.sanity.io/images/vje9ehw2/staging/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)

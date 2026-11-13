@@ -11,7 +11,7 @@ Resurssit ovat rajallisia, mutta ihmisten halut eivät.
 
 Hyödykkeen [arvo](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) ei sisälly esineeseen itseensä. Ihmiset [arvostavat](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) hyödykkeitä tarpeidensa, mieltymystensä, tietojensa ja olosuhteidensa mukaan. Tätä kutsutaan toisinaan [**subjektiiviseksi arvoksi**](https://curriculum.myfirstbitcoin.org/lexicon/en/#subjective-value). Puhdas vesi voi olla edullista turvallisen julkisen vesipisteen lähellä ja erittäin arvokasta vesipulan aikana.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
 
 
 <!-- micrographic: same-water-different-value-01 -->

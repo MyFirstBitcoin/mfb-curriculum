@@ -20,4 +20,4 @@ A note on spelling: **Bitcoin** with a capital B usually means the network or th
 
 Bitcoin also has trade-offs. Its price can change quickly. Mistakes are usually permanent. Acceptance is still limited in many places, and using it safely takes some learning. Bitcoin replaces some trust in institutions with verification and personal responsibility. It does not remove risk.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

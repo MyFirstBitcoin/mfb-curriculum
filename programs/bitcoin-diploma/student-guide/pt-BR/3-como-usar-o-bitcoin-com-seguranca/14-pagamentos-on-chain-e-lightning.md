@@ -1,6 +1,6 @@
 # 3.14 Pagamentos on-chain e Lightning
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
@@ -30,4 +30,4 @@ Qual caminho o destinatário espera? Antes de pagar, confirme se ele forneceu um
 
 Imagine que um cenário preparado ofereça os dois caminhos de pagamento. Qual solicitação a carteira pretendida pode usar, e o que você verificaria antes de aprová-la? A resposta depende da solicitação de recebimento, da carteira e da situação — não de um caminho “melhor” universal.
 
-![O educador aponta para dois caminhos de pagamento geométricos diferentes em um quadro, enquanto os alunos iniciante e técnico os analisam.](https://cdn.sanity.io/images/vje9ehw2/production/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)
+![O educador aponta para dois caminhos de pagamento geométricos diferentes em um quadro, enquanto os alunos iniciante e técnico os analisam.](https://cdn.sanity.io/images/vje9ehw2/staging/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)

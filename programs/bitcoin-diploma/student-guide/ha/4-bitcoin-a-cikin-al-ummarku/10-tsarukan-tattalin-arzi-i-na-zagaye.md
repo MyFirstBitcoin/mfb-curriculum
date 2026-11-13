@@ -21,7 +21,7 @@ Ku zana taswirar zagayawa mai sauƙi a yankinku:
 1. Me ke faruwa idan haɗin intanet ya katse?
 1. Waɗanne haɗurran [riƙon kuɗi](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) da [farashi](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) ne kowane mai shiga yake fuskanta?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
 
 Ingantaccen tsarin tattalin arziki mai zagayawa ya dogara ne da shiga bisa son rai. Ya kamata 'yan kasuwa da ma'aikata su iya gane haɗurran biyan kuɗi, kayyade farashi, [riƙon kuɗi](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), lissafin kuɗi, da [sauyin farashi](https://curriculum.myfirstbitcoin.org/lexicon/en/#volatility). Adadin masu fara amfani da tsarin kaɗai ba ya nuna ko hanyar sadarwar tana da amfani.
 

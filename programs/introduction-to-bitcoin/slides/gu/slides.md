@@ -19,7 +19,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## મોટાભાગના લોકો પૈસા વિશે વિચારવા ક્યારેય થોભતા નથી
 
@@ -29,7 +29,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## શરૂઆત કરવા માટે પાંચ પ્રશ્નો
 
@@ -49,7 +49,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## હકીકત કે અભિપ્રાય?
 
@@ -74,7 +74,7 @@ theme: mfb
 
 બંને વ્યક્તિઓને એક જ સમયે અને યોગ્ય જથ્થામાં એકબીજા પાસે રહેલી વસ્તુની જરૂર હોવી જોઈએ.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: માર્ગદર્શિકાનું ઉદાહરણ લો: તમે ચોખા ઉગાડો છો અને તમને જૂતાની જરૂર છે, પરંતુ મોચીને ચોખા નહીં, રસોઈનું તેલ જોઈએ છે. અર્થશાસ્ત્રીઓ આને જરૂરિયાતોના બેવડા સંયોગ તરીકે ઓળખાવે છે. -->
 
@@ -96,13 +96,13 @@ theme: mfb
 
 કોઈને માત્ર પૈસા હોવા ખાતર પૈસા જોઈતા નથી. તે ઉપયોગી છે કારણ કે લોકો તેને એ અપેક્ષાએ સ્વીકારે છે કે આગળ જતાં બીજા લોકો પણ તેને સ્વીકારશે.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: ચલણી નોટ માત્ર કાગળનો એક ટુકડો છે. નાણાં વેચાણને ખરીદીથી અલગ કરીને વસ્તુવિનિમયની સમસ્યાનો ઉકેલ લાવે છે: તમે એક વ્યક્તિને તમારા ચોખા વેચો છો અને બીજી વ્યક્તિ પાસેથી પગરખાં ખરીદો છો. આ જ બાબત નાણાંને વસ્તુવિનિમયથી અલગ પાડે છે. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## નાણાંનાં ત્રણ કાર્યો
 
@@ -114,7 +114,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## કોડીઓથી કાગળ સુધી
 
@@ -161,13 +161,13 @@ theme: mfb
 
 ## ફુગાવો અને ખરીદશક્તિ
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: ભાવ ફુગાવો એટલે ભાવોના સામાન્ય સ્તરમાં થતો સતત વધારો. તેની બીજી બાજુ ખરીદશક્તિ છે: નાણાંના એક એકમથી કેટલું ખરીદી શકાય છે. જો મૂળભૂત ચીજવસ્તુઓની એક ટોપલીની કિંમત ચલણના 100 એકમથી વધીને 110 થાય, તો એ જ 100 એકમથી હવે આખી ટોપલી ખરીદી શકાતી નથી. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## અનેક કારણો, એક પસંદગી
 
@@ -285,7 +285,7 @@ theme: mfb
 
 ## બિટકોઇનને કાર્યરત કોણ રાખે છે?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: વપરાશકર્તાઓ બિટકોઇન મોકલે છે, મેળવે છે અને પોતાની પાસે રાખે છે; નોડ્સ દરેક વ્યવહાર અને બ્લોક નિયમો અનુસાર છે કે નહીં તે તપાસે છે; માઇનર્સ લગભગ દર દસ મિનિટે રેકોર્ડમાં નવો બ્લોક ઉમેરવા માટે સ્પર્ધા કરે છે. આ રેકોર્ડ, એટલે કે બ્લોકચેઇન, જાહેર છે અને તેને ફરીથી લખવો ખૂબ ખર્ચાળ છે. જોડણી અંગે એક નોંધ: અંગ્રેજીમાં મોટા B સાથે લખાયેલું Bitcoin સામાન્ય રીતે નેટવર્ક અથવા સિસ્ટમ દર્શાવે છે; નાના b સાથે લખાયેલું bitcoin નાણાંને જ દર્શાવે છે. -->
 
@@ -330,7 +330,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## તમારો સીડ ફ્રેઝ એટલે સંપૂર્ણ પ્રવેશાધિકાર
 
@@ -350,7 +350,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## કોઈપણ વૉલેટનો ઉપયોગ કરતા પહેલાં
 
@@ -391,7 +391,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## થોભો, કંઈપણ શેર ન કરો, કંઈપણ મોકલશો નહીં
 
@@ -426,7 +426,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## બિટકોઇન ડિપ્લોમા
 

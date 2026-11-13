@@ -11,7 +11,7 @@ Albarkatu suna da iyaka, amma buƙatun ɗan Adam ba su da iyaka.
 
 Ita [ƙimar](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) kaya ba ta cikin abin kansa. Mutane suna [kimanta](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) kaya gwargwadon buƙatunsu, abubuwan da suka fi so, bayanan da suke da su, da yanayinsu. Wani lokaci ana kiran wannan [**ƙima ta ra'ayin mutum**](https://curriculum.myfirstbitcoin.org/lexicon/en/#subjective-value). Ruwa mai tsabta na iya zama mai arha a kusa da amintaccen wurin samun ruwan jama'a, amma ya zama mai matuƙar daraja a lokacin ƙaranci.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
 
 
 <!-- micrographic: same-water-different-value-01 -->

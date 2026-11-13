@@ -1,6 +1,6 @@
 # 2.10 Arbejdsbevis
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
 <!-- card: definition -->
@@ -29,4 +29,4 @@ Når en [miner](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) finder 
 
 [Arbejdsbevis](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) indebærer et reelt energiforbrug. Tilhængere hævder, at dette forbrug er grundlaget for Bitcoins sikkerhed og kan skabe efterspørgsel efter fleksibel eller ellers uudnyttet energi. Kritikere sætter spørgsmålstegn ved mængden af energi, der bruges, og hvor den kommer fra. En ansvarlig vurdering undersøger, hvilken energi der bruges, hvor den kommer fra, hvilken sikkerhed den giver, og hvilke alternativer der sammenlignes med.
 
-![Underviseren, begynderen og den teknisk kyndige kursist diskuterer en mining-enhed til bordbrug med en blæser og en separat strømforsyning.](https://cdn.sanity.io/images/vje9ehw2/production/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)
+![Underviseren, begynderen og den teknisk kyndige kursist diskuterer en mining-enhed til bordbrug med en blæser og en separat strømforsyning.](https://cdn.sanity.io/images/vje9ehw2/staging/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)

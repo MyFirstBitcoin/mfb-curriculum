@@ -6,7 +6,7 @@ De eerste vraag bij elke wallet is dus: **wie beheert de sleutels?**
 
 ###### Wie heeft uw bitcoin eigenlijk in handen?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 Met een **self-custodial wallet** beheert u zelf de sleutels.
 

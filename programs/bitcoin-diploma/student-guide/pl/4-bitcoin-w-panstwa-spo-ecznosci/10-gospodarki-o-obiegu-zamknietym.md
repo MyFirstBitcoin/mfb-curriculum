@@ -21,7 +21,7 @@ Proszę przedstawić schemat prostego lokalnego obiegu:
 1. Co się dzieje, gdy zabraknie dostępu do internetu?
 1. Jakie ryzyko związane z [przechowywaniem środków](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody) i [ceną](https://curriculum.myfirstbitcoin.org/lexicon/en/#price) ponosi każdy uczestnik?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/79370421e2d7dc74bd87d0f58ebe565a96a96d52-1536x1024.svg)
 
 Zdrowa gospodarka obiegu zamkniętego opiera się na dobrowolnym uczestnictwie. Sprzedawcy i pracownicy powinni umieć rozpoznawać ryzyko związane z płatnościami, ustalaniem cen, [przechowywaniem środków](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), księgowością i [zmiennością cen](https://curriculum.myfirstbitcoin.org/lexicon/en/#volatility). Same liczby dotyczące adopcji nie pokazują, czy sieć jest użyteczna.
 

@@ -23,7 +23,7 @@ Ao abrir o guia de um módulo, siga sempre a mesma ordem:
 
 Os títulos são repetitivos de propósito. Essa repetição é um recurso de navegação para o educador iniciante, não um conteúdo que precise ser memorizado.
 
-![O educador aponta para um diagrama em um guia do curso aberto enquanto o aluno iniciante e o aluno mais velho acompanham em seus próprios guias.](https://cdn.sanity.io/images/vje9ehw2/production/f4e6dd8cd876afad89cef117fc6845f0b599f408-1054x1492.png)
+![O educador aponta para um diagrama em um guia do curso aberto enquanto o aluno iniciante e o aluno mais velho acompanham em seus próprios guias.](https://cdn.sanity.io/images/vje9ehw2/staging/f4e6dd8cd876afad89cef117fc6845f0b599f408-1054x1492.png)
 
 ### Frases que você pode usar quando não tiver certeza
 

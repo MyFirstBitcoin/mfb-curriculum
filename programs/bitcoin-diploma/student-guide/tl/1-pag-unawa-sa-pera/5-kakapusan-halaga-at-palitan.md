@@ -11,7 +11,7 @@ Limitado ang mga yaman, samantalang walang hanggan ang mga kagustuhan ng tao.
 
 Ang [halaga](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) ng isang kalakal ay hindi likas na nakapaloob sa bagay mismo. Ang mga tao ay [nagpapahalaga sa](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) mga kalakal ayon sa kanilang mga pangangailangan, kagustuhan, impormasyon, at kalagayan. Tinatawag ito kung minsan na [**subhetibong halaga**](https://curriculum.myfirstbitcoin.org/lexicon/en/#subjective-value). Maaaring mura ang malinis na tubig malapit sa isang ligtas na pampublikong pinagkukunan at napakahalaga naman nito sa panahon ng kakulangan.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
 
 
 <!-- micrographic: same-water-different-value-01 -->

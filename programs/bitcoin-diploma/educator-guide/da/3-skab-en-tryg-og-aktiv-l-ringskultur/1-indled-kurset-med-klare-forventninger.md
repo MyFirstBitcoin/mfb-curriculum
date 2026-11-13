@@ -17,4 +17,4 @@ Aftal disse regler for deltagelse:
 * afslør aldrig en [seed-frase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), [privat nøgle](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), adgangskode eller sikkerhedsforanstaltning; og
 * stop det praktiske arbejde, når noget afviger fra den demonstrerede fremgangsmåde.
 
-![Den unge kursist stiller et spørgsmål, mens underviseren lytter, og de fire andre kursister følger diskussionen.](https://cdn.sanity.io/images/vje9ehw2/production/bf1185129657cd98555d2704565cf44deadbe59d-1054x1493.png)
+![Den unge kursist stiller et spørgsmål, mens underviseren lytter, og de fire andre kursister følger diskussionen.](https://cdn.sanity.io/images/vje9ehw2/staging/bf1185129657cd98555d2704565cf44deadbe59d-1054x1493.png)

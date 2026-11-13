@@ -1,6 +1,6 @@
 # 4.1 Bitcoin trong cộng đồng của quý vị
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
 
 Đây là giai đoạn **Kết nối** của chương trình Bitcoin Diploma. Quý vị sẽ liên hệ những khiếm khuyết và [sự đánh đổi](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) của hệ thống tiền tệ hiện đại, cách Bitcoin giải quyết những vấn đề đó và trách nhiệm sử dụng an toàn đã học trong **Mô-đun 1–3** với một nhu cầu hoặc cơ hội tại địa phương, một phương án thay thế thực tế và một nhiệm vụ thực hành an toàn. Quý vị không bắt buộc phải sử dụng Bitcoin hay kết luận rằng đây là lựa chọn tốt nhất trong mọi tình huống tại địa phương.
 

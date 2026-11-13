@@ -10,4 +10,4 @@ Pesa huathiri maamuzi ya kila siku kuhusu chakula, usafiri, kazi, kuweka akiba, 
 
 Mnapojadili maswali haya, zingatieni tofauti kati ya ukweli na maoni. “Noti hii inakubalika kwa kulipa kodi” ni ukweli unaoweza kuthibitishwa. “Huu ndio mfumo bora zaidi wa pesa” ni maoni au hitimisho linalohitaji vigezo na ushahidi.
 
-![Wahusika wote sita wamekusanyika kuzunguka meza za darasani huku mwalimu akiongoza usomaji wa pamoja kutoka kwenye mwongozo wa kozi uliofunguliwa.](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![Wahusika wote sita wamekusanyika kuzunguka meza za darasani huku mwalimu akiongoza usomaji wa pamoja kutoka kwenye mwongozo wa kozi uliofunguliwa.](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)

@@ -22,4 +22,4 @@ Tato příručka je postavena na šesti otázkách: proč jsou peníze důležit
 
 Slouží pouze ke vzdělávání. Neposkytuje finanční, investiční, právní ani daňové poradenství a neříká vám, abyste cokoli kupovali, prodávali nebo drželi.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)

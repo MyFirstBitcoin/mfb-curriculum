@@ -20,4 +20,4 @@ Die netwerk maak staat op verskillende deelnemers: **gebruikers** wat bitcoin st
 
 Bitcoin het ook nadele wat teen die voordele opgeweeg moet word. Die prys daarvan kan vinnig verander. Foute is gewoonlik permanent. Aanvaarding is op baie plekke steeds beperk, en om dit veilig te gebruik, verg 'n mate van leer. Bitcoin vervang 'n deel van die vertroue in instellings met verifikasie en persoonlike verantwoordelikheid. Dit skakel nie risiko uit nie.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

@@ -12,7 +12,7 @@ Tento rozdíl je důležitý pro ověřování. Pravidla Bitcoinu a celkové mno
 
 V **nesprávcovské** neboli **uživatelem spravované** peněžence ovládáte klíče VY. Peněženka podepisuje [transakce](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) z vašeho pověření. Stále mohou existovat závislosti na softwaru, hardwaru, serverech či síti, ale žádný [správce](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian) nemusí schvalovat platné utracení prostředků přímo na blockchainu.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 
 <!-- micrographic: who-controls-keys-01 -->

@@ -6,4 +6,4 @@ Những học liệu đơn giản có thể giảm thời gian chuẩn bị và 
 
 Thêm công cụ có thể làm tăng độ phức tạp. Hãy bổ sung một công cụ khi công cụ đó giúp người học hiểu hoặc thực hành điều gì đó, đồng thời luôn chuẩn bị sẵn một phương án thay thế đơn giản. Trước hết, hãy tập trung vào chất lượng tham gia học tập: người học có đang tham gia, đặt câu hỏi, giải thích suy nghĩ và thể hiện những gì họ hiểu không? Hãy chọn cách tiếp cận hỗ trợ việc học đó.
 
-![Nhà giáo dục và người học lớn tuổi hơn sắp xếp các thẻ giảng dạy, trong khi người học nhỏ tuổi tham gia với một cuốn vở.](https://cdn.sanity.io/images/vje9ehw2/production/f062a7d4ca6c0e188b299060e170b244e0ee7acb-1054x1492.png)
+![Nhà giáo dục và người học lớn tuổi hơn sắp xếp các thẻ giảng dạy, trong khi người học nhỏ tuổi tham gia với một cuốn vở.](https://cdn.sanity.io/images/vje9ehw2/staging/f062a7d4ca6c0e188b299060e170b244e0ee7acb-1054x1492.png)

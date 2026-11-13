@@ -9,7 +9,7 @@
 > ન તો [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) ન તો [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) આપમેળે શ્રેષ્ઠ છે. વાસ્તવિક માર્ગની તુલના કરો, નિયમો અસ્પષ્ટ હોય ત્યારે હાલનું સ્થાનિક માર્ગદર્શન લો, અને સ્થાનિક કાયદો ન તોડો કે પોતાને શારીરિક જોખમમાં ન મૂકો, ભલે તમારો હેતુ હોય [ગોપનીયતા](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
 એક [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) સેવા કાનૂની નામ, ઓળખ દસ્તાવેજ, સરનામું, ફોટોગ્રાફ, ભંડોળના સ્ત્રોતની માહિતી અથવા અન્ય રેકોર્ડ માગી શકે છે. આનાથી સેવા સ્થાનિક નિયમોનું પાલન કરી શકે છે, બેંકો સાથે જોડાઈ શકે છે, વધુ ઊંચી મર્યાદાઓ નક્કી કરી શકે છે અથવા ખાતું પુનઃપ્રાપ્ત કરવામાં સહાય કરી શકે છે.
 

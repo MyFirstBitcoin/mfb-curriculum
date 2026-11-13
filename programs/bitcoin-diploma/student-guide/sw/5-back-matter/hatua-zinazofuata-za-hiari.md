@@ -26,11 +26,11 @@ Mwongozo wa Mwalimu unakusaidia kuandaa masomo, kuwezesha shughuli, kurekebisha 
 
 ### Jiunge na jumuiya ya kujifunza
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
 
 Kupitia [Mtandao wa Elimu ya Bitcoin](https://myfirstbitcoin.org/about/network), walimu huru na jumuiya za kujifunza za mahali husika huunganishwa. Tafuta jumuiya iliyo karibu nawe, au ambayo kazi yake inakuvutia, kisha uwasiliane nayo ili kuuliza jinsi unavyoweza kujifunza, kujitolea, au kuchangia. Kushiriki ni hiari na hakuathiri ukamilishaji wa Diploma, tathmini, wala utoaji wa cheti.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
 
 ### Ukumbusho kuhusu usalama
 
@@ -92,13 +92,13 @@ Ikiwa mwalimu anayetoa cheti anatoa njia ya uthibitishaji, tumia tu maelekezo ya
 
 Matokeo yako muhimu zaidi si cheti. Ni uwezo wa kueleza pesa na Bitcoin kwa uwazi, kutambua hatari, kuthibitisha kabla ya kuchukua hatua, na kuendelea kujifunza kwa kujitegemea.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
 
 ### Saidia elimu ya bure ya Bitcoin
 
 Rasilimali za kielimu za My First Bitcoin ni za bure na za chanzo huria. Usaidizi wa hiari husaidia kudumisha mtaala, kuwafunza walimu na kupanua ufikiaji.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
 
 
 https://donate.myfirstbitcoin.org
@@ -112,4 +112,4 @@ Ukiamua kuchangia, tumia [ukurasa wa michango](https://donate.myfirstbitcoin.org
 ---
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)

@@ -13,7 +13,7 @@
 > [Purchasing power](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) is the amount of goods and services a unit of money can buy. If a basket of basic goods rises from 100 units of [currency](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) to 110, the same 100 units no longer buy the full basket. Its [purchasing power](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) in relation to that basket has fallen.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->

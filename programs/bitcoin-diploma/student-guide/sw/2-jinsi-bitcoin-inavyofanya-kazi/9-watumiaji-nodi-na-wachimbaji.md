@@ -23,4 +23,4 @@ Baadhi ya watu hutekeleza majukumu kadhaa. [Mchimbaji](https://curriculum.myfirs
 
 **Swali la papo hapo:** Kwa nini [nodi](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) huthibitisha [miamala](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction)? Taja angalau sheria moja ambayo [nodi](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) huikagua.
 
-![Mwalimu anamwongoza mwanafunzi wa kiufundi kwenye kompyuta ya nodi, huku skrini ikiwaelekea na sehemu yake ya nyuma ikionekana kwa mtazamaji.](https://cdn.sanity.io/images/vje9ehw2/production/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)
+![Mwalimu anamwongoza mwanafunzi wa kiufundi kwenye kompyuta ya nodi, huku skrini ikiwaelekea na sehemu yake ya nyuma ikionekana kwa mtazamaji.](https://cdn.sanity.io/images/vje9ehw2/staging/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)

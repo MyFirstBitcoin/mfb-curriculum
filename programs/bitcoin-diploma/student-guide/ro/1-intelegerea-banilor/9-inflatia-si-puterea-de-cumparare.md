@@ -13,7 +13,7 @@
 > [Puterea de Cumpărare](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) reprezintă cantitatea de bunuri și servicii pe care o poate cumpăra o unitate monetară. Dacă prețul unui coș de bunuri de bază crește de la 100 de unități de [monedă](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) la 110, aceleași 100 de unități nu mai sunt suficiente pentru a cumpăra întregul coș. [Puterea de Cumpărare](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) a acestei sume în raport cu acel coș a scăzut.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->

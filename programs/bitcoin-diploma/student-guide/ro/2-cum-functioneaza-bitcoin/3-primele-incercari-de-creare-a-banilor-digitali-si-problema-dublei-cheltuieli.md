@@ -34,4 +34,4 @@ Whitepaper-ul a reunit caracteristicile necesare pentru această abordare:
 
 Acest modul explică aceste concepte mai detaliat. Împreună, ele au oferit un răspuns practic la [problema de Cheltuială Dublă](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): rețeaua poate respinge o a doua încercare de a cheltui același bitcoin fără a se baza pe o autoritate centrală. Bitcoin a oferit combinația lipsă pe care decenii de experimente cu bani digitali încercaseră să o găsească.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)

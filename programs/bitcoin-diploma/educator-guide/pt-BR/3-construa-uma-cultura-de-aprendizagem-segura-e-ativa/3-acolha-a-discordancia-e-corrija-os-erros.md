@@ -11,4 +11,4 @@ Quando um aluno discordar:
 
 Corrija erros factuais de forma clara e respeitosa. Não deixe de corrigir em nome da neutralidade. Uma mediação neutra significa aplicar critérios justos de evidência, e não tratar todas as afirmações como igualmente corretas.
 
-![O educador ouve a pergunta do aluno iniciante enquanto o aluno mais velho acompanha a conversa com um guia aberto.](https://cdn.sanity.io/images/vje9ehw2/production/53db81849bfb9bca1dba5e2f8d5e8386c01ca3b3-1053x1494.png)
+![O educador ouve a pergunta do aluno iniciante enquanto o aluno mais velho acompanha a conversa com um guia aberto.](https://cdn.sanity.io/images/vje9ehw2/staging/53db81849bfb9bca1dba5e2f8d5e8386c01ca3b3-1053x1494.png)

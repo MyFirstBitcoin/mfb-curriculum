@@ -1,6 +1,6 @@
 # 3.14 Thanh toán trên chuỗi và qua Lightning
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
@@ -30,4 +30,4 @@ Người nhận muốn nhận thanh toán theo phương thức nào? Trước kh
 
 Hãy tưởng tượng một tình huống được chuẩn bị sẵn cho phép thanh toán theo cả hai phương thức. Ví dự định sử dụng có thể xử lý yêu cầu nào, và quý vị sẽ kiểm tra điều gì trước khi phê duyệt thanh toán? Câu trả lời phụ thuộc vào yêu cầu nhận thanh toán, ví và tình huống — chứ không phụ thuộc vào một phương thức “tốt nhất” cho mọi trường hợp.
 
-![Giảng viên chỉ vào hai lộ trình thanh toán có dạng hình học khác nhau trên bảng, trong khi người mới học và người học có kiến thức kỹ thuật cùng xem xét.](https://cdn.sanity.io/images/vje9ehw2/production/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)
+![Giảng viên chỉ vào hai lộ trình thanh toán có dạng hình học khác nhau trên bảng, trong khi người mới học và người học có kiến thức kỹ thuật cùng xem xét.](https://cdn.sanity.io/images/vje9ehw2/staging/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)

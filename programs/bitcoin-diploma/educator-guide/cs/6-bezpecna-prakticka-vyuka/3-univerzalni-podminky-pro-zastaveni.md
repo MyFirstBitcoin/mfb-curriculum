@@ -24,4 +24,4 @@ Aktivitu okamžitě zastavte, pokud:
 [Nebezpečný nebo nevysvětlený stav vede k zastavení činnosti. Vyučující chrání lidi a tajné údaje a prověřuje problém; chyba při hodnocení, která zásadně ohrožuje bezpečnost, se zaznamená jako Zatím ne a studující obnoví výchozí podmínky, procvičuje a později je znovu hodnocen.](/micrographics/stop-when-check-fails-01/cs.md)
 
 
-![Vyučující zvedá otevřenou dlaň, aby aktivitu pozastavil, zatímco začátečník spouští telefon a technicky zdatný studující částečně zavírá notebook.](https://cdn.sanity.io/images/vje9ehw2/production/adb5c936fe5622b3c0b62f060349af1097eee5b0-1055x1491.png)
+![Vyučující zvedá otevřenou dlaň, aby aktivitu pozastavil, zatímco začátečník spouští telefon a technicky zdatný studující částečně zavírá notebook.](https://cdn.sanity.io/images/vje9ehw2/staging/adb5c936fe5622b3c0b62f060349af1097eee5b0-1055x1491.png)

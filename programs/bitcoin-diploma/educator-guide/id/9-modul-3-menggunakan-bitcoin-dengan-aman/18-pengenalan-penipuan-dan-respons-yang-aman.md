@@ -34,4 +34,4 @@ Tempatkan skenario rekaan singkat di berbagai titik di ruangan. Di setiap pos, p
 
 Sertakan satu pesan yang tampak sah tanpa kesalahan ejaan yang mencolok. Jangan mengajarkan bahwa penipuan mudah dikenali hanya karena tampilannya tidak profesional.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)

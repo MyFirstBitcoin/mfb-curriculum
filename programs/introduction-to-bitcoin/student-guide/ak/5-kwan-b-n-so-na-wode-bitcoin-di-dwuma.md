@@ -6,7 +6,7 @@ Enti asɛmmisa a ɛdi kan fa sika kotoku biara ho ne sɛ: **hwan na ɔwɔ safoa 
 
 ###### Hwan na ɔkura mo bitcoin ankasa?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 Sɛ mode **sika kotoku a mo ara mokura safoa no** di dwuma a, mo na mowɔ safoa no so tumi.
 

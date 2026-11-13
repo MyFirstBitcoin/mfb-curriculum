@@ -34,4 +34,4 @@ Disponga brevi scenari inventati nell'aula. A ogni postazione, i partecipanti an
 
 Includa un messaggio dall'aspetto legittimo, senza evidenti errori di ortografia. Le truffe non devono essere presentate come facili da individuare solo perché sembrano poco professionali.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)

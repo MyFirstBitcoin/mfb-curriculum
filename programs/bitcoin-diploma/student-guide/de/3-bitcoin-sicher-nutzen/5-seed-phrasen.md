@@ -36,4 +36,4 @@ Manche Wallets verwenden zusätzliche Passphrasen, mehrere Schlüssel oder ander
 [Eine Sicherung der Seed-Phrase in drei Schritten aufschreiben: Der Wallet-Bildschirm zeigt die Wörter an, Sie schreiben sie in derselben Reihenfolge von Hand auf Papier ab und prüfen dann jedes Wort anhand des Bildschirms. Tun Sie dies ungestört und offline.](/micrographics/seed-phrase-paper-backup-01/de.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)

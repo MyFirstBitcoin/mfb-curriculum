@@ -11,4 +11,4 @@ Ketika seorang peserta didik tidak setuju:
 
 Koreksi kesalahan faktual dengan jelas dan penuh hormat. Jangan menghindari koreksi atas nama netralitas. Fasilitasi yang netral berarti menerapkan standar pembuktian yang adil, bukan menganggap setiap pernyataan sama akuratnya.
 
-![Pendidik menyimak pertanyaan peserta didik pemula, sementara peserta didik yang lebih tua mengikuti percakapan dengan buku panduan terbuka.](https://cdn.sanity.io/images/vje9ehw2/production/53db81849bfb9bca1dba5e2f8d5e8386c01ca3b3-1053x1494.png)
+![Pendidik menyimak pertanyaan peserta didik pemula, sementara peserta didik yang lebih tua mengikuti percakapan dengan buku panduan terbuka.](https://cdn.sanity.io/images/vje9ehw2/staging/53db81849bfb9bca1dba5e2f8d5e8386c01ca3b3-1053x1494.png)

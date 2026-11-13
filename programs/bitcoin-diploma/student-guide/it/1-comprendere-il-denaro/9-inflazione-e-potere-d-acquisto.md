@@ -13,7 +13,7 @@
 > [Il potere d'acquisto](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) è la quantità di beni e servizi che un'unità di moneta può acquistare. Se un paniere di beni di base passa da 100 unità di [valuta](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) a 110, le stesse 100 unità non bastano più per acquistare l'intero paniere. Il loro [potere d'acquisto](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) rispetto a quel paniere è diminuito.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->

@@ -27,7 +27,7 @@ Mỗi học phần đều theo cùng một nhịp học:
 
 Quý vị sẽ học được nhiều hơn khi tham gia hoạt động thay vì chỉ đọc thầm. Một số câu hỏi không có một đáp án đúng duy nhất. Điều quan trọng là quý vị có thể giải thích lập luận của mình, xem xét bằng chứng và điều chỉnh quan điểm khi học được điều mới hay không.
 
-![Nữ chủ doanh nghiệp chỉ vào một sơ đồ đơn giản trong cuốn tài liệu hướng dẫn đang mở, trong khi giảng viên trao đổi với cô về sơ đồ đó tại một bàn trong lớp học.](https://cdn.sanity.io/images/vje9ehw2/production/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
+![Nữ chủ doanh nghiệp chỉ vào một sơ đồ đơn giản trong cuốn tài liệu hướng dẫn đang mở, trong khi giảng viên trao đổi với cô về sơ đồ đó tại một bàn trong lớp học.](https://cdn.sanity.io/images/vje9ehw2/staging/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
 
 ### Yêu cầu về thảo luận và quyền riêng tư
 
@@ -50,7 +50,7 @@ Giảng viên sẽ giải thích mọi hoạt động đánh giá bắt buộc. 
 
 Giảng viên sử dụng bảng đánh giá để ghi lại một kết quả cho từng năng lực trong bảy năng lực nêu trên. `C1`–`C5` được đánh giá thông qua phần giải thích và các quyết định của chính quý vị; `C6`–`C7` yêu cầu quan sát trực tiếp. Cả nhiệm vụ về ví/biên nhận và nhiệm vụ chuẩn bị sẵn sàng khôi phục đều là những phần bắt buộc của `C6`.
 
-![Giảng viên phản hồi học viên mới đang giơ tay, trong khi học viên lớn tuổi hơn theo dõi với cuốn tài liệu hướng dẫn khóa học đang mở.](https://cdn.sanity.io/images/vje9ehw2/production/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
+![Giảng viên phản hồi học viên mới đang giơ tay, trong khi học viên lớn tuổi hơn theo dõi với cuốn tài liệu hướng dẫn khóa học đang mở.](https://cdn.sanity.io/images/vje9ehw2/staging/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
 
 ### Kiến thức nền tảng bắt buộc: không có
 

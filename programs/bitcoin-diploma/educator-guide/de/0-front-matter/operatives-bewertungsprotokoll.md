@@ -38,7 +38,7 @@ Wählen Sie einen praktischen Ablauf, der sich für die Lernenden sicher und bew
 [Um eine Gruppe zu planen, multiplizieren Sie die Zahl der Lernenden mit der voraussichtlichen Betreuungs- und Beobachtungszeit und rechnen Sie dann Zeit für Vorbereitung, Feedback, besondere Bedürfnisse und Wiederholungsprüfungen hinzu. Wenn die Lehrkräfte nicht genügend Zeit haben, ändern Sie den Plan: weniger Lernende, mehr Lehrkräfte oder mehr Zeit.](/micrographics/cohort-capacity-check-01/de.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
 
 ### Zuordnung von Kompetenzen zu Nachweisen
 

@@ -25,4 +25,4 @@ Cover:
 
 **Debrief:** Why is sending a refund automatically to an assumed original address unsafe? Who becomes responsible when several staff share one wallet?
 
-![The educator points to a blank record card while the beginner and business owner check training phones at a merchant counter.](https://cdn.sanity.io/images/vje9ehw2/production/7c785fef5d3b3be3d4a60aa9cfa250f74e18d1ec-1054x1493.png)
+![The educator points to a blank record card while the beginner and business owner check training phones at a merchant counter.](https://cdn.sanity.io/images/vje9ehw2/staging/7c785fef5d3b3be3d4a60aa9cfa250f74e18d1ec-1054x1493.png)

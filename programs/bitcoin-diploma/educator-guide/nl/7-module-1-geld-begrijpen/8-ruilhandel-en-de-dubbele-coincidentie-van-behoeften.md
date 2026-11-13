@@ -25,4 +25,4 @@ Maak duidelijk dat [ruilhandel](https://curriculum.myfirstbitcoin.org/lexicon/en
 
 Als u een spel gebruikt, bespreek dan achteraf de vereenvoudigingen ervan. Echte uitwisseling omvat relaties, krediet, geschenken, verplichtingen, onderhandelen, recht en herhaalde interactie.
 
-![De docent begeleidt een activiteit van rechtstreekse ruil tussen de beginner met een notitieboek en de ondernemer met boodschappen.](https://cdn.sanity.io/images/vje9ehw2/production/48813fb8d9434061c5c546898f4023f8748e9edd-1054x1492.png)
+![De docent begeleidt een activiteit van rechtstreekse ruil tussen de beginner met een notitieboek en de ondernemer met boodschappen.](https://cdn.sanity.io/images/vje9ehw2/staging/48813fb8d9434061c5c546898f4023f8748e9edd-1054x1492.png)

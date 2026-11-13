@@ -1,6 +1,6 @@
 # 3.14 Betalningar på kedjan och via Lightning
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
@@ -30,4 +30,4 @@ Vilken betalningsväg förväntar sig mottagaren? Kontrollera om mottagaren har 
 
 Föreställ er att ett förberett scenario erbjuder båda betalningsvägarna. Vilken betalningsbegäran kan den avsedda plånboken använda, och vad skulle ni kontrollera innan ni godkänner den? Svaret beror på mottagarens betalningsbegäran, plånboken och situationen – inte på en universellt ”bästa” betalningsväg.
 
-![Läraren pekar på två olika geometriska betalningsvägar på en tavla medan nybörjaren och de tekniskt kunniga deltagarna funderar över dem.](https://cdn.sanity.io/images/vje9ehw2/production/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)
+![Läraren pekar på två olika geometriska betalningsvägar på en tavla medan nybörjaren och de tekniskt kunniga deltagarna funderar över dem.](https://cdn.sanity.io/images/vje9ehw2/staging/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)

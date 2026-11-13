@@ -18,4 +18,4 @@ Bitcoin creates digital [scarcity](https://curriculum.myfirstbitcoin.org/lexicon
 [A supply limit written on a website or in an issuer's database can be changed quietly by that issuer. Bitcoin's supply rule is public, and signatures, a public history, proof of work and node verification together stop new coins from being invented or the same bitcoin from being spent twice.](/micrographics/claimed-or-verified-supply-01/en.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)

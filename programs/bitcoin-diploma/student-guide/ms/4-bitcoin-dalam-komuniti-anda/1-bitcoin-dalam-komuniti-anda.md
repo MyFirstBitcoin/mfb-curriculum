@@ -1,6 +1,6 @@
 # 4.1 Bitcoin dalam Komuniti Anda
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
 
 Ini ialah peringkat **Menghubungkan** dalam Diploma Bitcoin. Anda akan menghubungkan kelemahan sistem wang moden dan [komprominya](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off), tindak balas Bitcoin, serta tanggungjawab penggunaan yang selamat daripada **Modul 1–3** dengan keperluan atau peluang setempat, alternatif yang realistik, dan tugasan amali yang selamat. Anda tidak diharapkan untuk menerima pakai Bitcoin atau membuat kesimpulan bahawa Bitcoin ialah pilihan terbaik dalam setiap situasi setempat.
 

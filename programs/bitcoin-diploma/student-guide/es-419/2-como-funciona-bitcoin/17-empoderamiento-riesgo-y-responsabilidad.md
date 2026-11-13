@@ -6,7 +6,7 @@ Las reglas públicas de Bitcoin, [la red entre pares](https://curriculum.myfirst
 
 Estas propiedades pueden empoderar a los participantes, pero también les atribuyen una mayor responsabilidad. Sin una autoridad central que apruebe [transacciones](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), recupere el acceso o revierta muchos errores, cada persona debe ser capaz de identificar la función y los riesgos que acepta.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
 
 Para una persona que opta por [la autocustodia](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody), el control de las claves brinda control directo sobre bitcoin. Ninguna empresa puede congelar un saldo en la cadena que esté correctamente bajo su control. Ninguna empresa puede restaurar, en caso de pérdida, una [frase semilla](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) tampoco.
 

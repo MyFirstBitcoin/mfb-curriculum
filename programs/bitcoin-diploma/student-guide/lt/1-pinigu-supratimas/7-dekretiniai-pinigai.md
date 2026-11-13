@@ -15,7 +15,7 @@ Dekretinių pinigų sistemoje yra keli pagrindiniai dalyviai:
 [Dekretinių pinigų sistemos dalyviai ir tai, kas tarp jų perduodama: centrinis bankas nustato pinigų politiką ir vykdo tarpbankinius atsiskaitymus, komerciniai bankai laiko indėlius, kurie yra jų įsipareigojimai klientams, mokėjimo paslaugų teikėjai perduoda nurodymus, valdžia renka mokesčius ir leidžia lėšas, o gyventojai ir įmonės moka ir gauna mokėjimus.](/micrographics/fiat-system-flows-01/lt.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
 <!-- card: light -->

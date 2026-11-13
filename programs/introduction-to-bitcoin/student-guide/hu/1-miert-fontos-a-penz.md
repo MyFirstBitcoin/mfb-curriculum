@@ -22,4 +22,4 @@ Ez az útmutató hat kérdés köré épül: miért fontos a pénz, mi a pénz, 
 
 Kizárólag oktatási célokat szolgál. Nem nyújt pénzügyi, befektetési, jogi vagy adózási tanácsot, és nem javasolja Önnek, hogy bármit vásároljon, eladjon vagy tartson meg.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)

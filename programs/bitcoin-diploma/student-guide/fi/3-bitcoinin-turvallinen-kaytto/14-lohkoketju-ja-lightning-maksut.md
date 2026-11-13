@@ -1,6 +1,6 @@
 # 3.14 Lohkoketju- ja Lightning-maksut
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
@@ -30,4 +30,4 @@ Mitä maksureittiä vastaanottaja odottaa käytettävän? Varmistakaa ennen maks
 
 Kuvitelkaa, että valmiiksi laaditussa esimerkkitilanteessa on tarjolla molemmat maksureitit. Kumpaa maksupyyntöä käytettäväksi tarkoitettu lompakko pystyy hyödyntämään, ja mitä tarkistaisitte ennen maksun hyväksymistä? Vastaus riippuu vastaanottajan maksupyynnöstä, lompakosta ja tilanteesta — ei yleispätevästä ”parhaasta” maksureitistä.
 
-![Opettaja osoittaa taululla kahta erilaista geometrista maksureittiä, joita aloittelija ja teknisesti suuntautuneet oppijat pohtivat.](https://cdn.sanity.io/images/vje9ehw2/production/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)
+![Opettaja osoittaa taululla kahta erilaista geometrista maksureittiä, joita aloittelija ja teknisesti suuntautuneet oppijat pohtivat.](https://cdn.sanity.io/images/vje9ehw2/staging/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)

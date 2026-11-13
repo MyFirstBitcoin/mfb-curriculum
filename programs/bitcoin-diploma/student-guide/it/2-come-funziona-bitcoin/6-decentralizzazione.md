@@ -28,4 +28,4 @@ La [decentralizzazione](https://curriculum.myfirstbitcoin.org/lexicon/en/#decent
 
 [La decentralizzazione](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) comporta anche dei costi. Il coordinamento può essere più lento. Gli utenti devono verificare le informazioni e assumersi maggiori responsabilità. Non esiste un servizio di assistenza centrale per la [rete Bitcoin](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). Questi [compromessi](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) fanno parte del progetto, non sono difetti accidentali che si possano eliminare senza cambiare il sistema.
 
-![L'educatore indica una rete su uno schermo in aula mentre lo studente principiante e quello tecnico ne discutono seduti a un banco.](https://cdn.sanity.io/images/vje9ehw2/production/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)
+![L'educatore indica una rete su uno schermo in aula mentre lo studente principiante e quello tecnico ne discutono seduti a un banco.](https://cdn.sanity.io/images/vje9ehw2/staging/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)

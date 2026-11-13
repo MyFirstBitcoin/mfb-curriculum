@@ -18,7 +18,7 @@ Enviar exige mais cuidado porque uma [transação](https://curriculum.myfirstbit
 1. Faça um pequeno teste quando o processo não for familiar.
 1. Aprove somente quando todos os itens coincidirem; depois, confira o resultado do pagamento.
 
-![O aprendiz mais velho mostra um celular de treinamento enquanto o iniciante confere outro celular e o educador orienta a comparação.](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![O aprendiz mais velho mostra um celular de treinamento enquanto o iniciante confere outro celular e o educador orienta a comparação.](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 
 <!-- micrographic: pre-send-checklist-01 -->
@@ -29,4 +29,4 @@ Em um [pagamento on-chain](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-
 
 Se o destino mudar inesperadamente, a solicitação se tornar urgente ou alguém pedir informações de recuperação, o que você deve fazer? Pare. Verifique a solicitação de forma independente ou peça ajuda sem compartilhar segredos.
 
-![O educador orienta o aprendiz iniciante enquanto ele compara um celular com o dispositivo de recebimento do dono do negócio antes de aprovar um pagamento.](https://cdn.sanity.io/images/vje9ehw2/production/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)
+![O educador orienta o aprendiz iniciante enquanto ele compara um celular com o dispositivo de recebimento do dono do negócio antes de aprovar um pagamento.](https://cdn.sanity.io/images/vje9ehw2/staging/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)

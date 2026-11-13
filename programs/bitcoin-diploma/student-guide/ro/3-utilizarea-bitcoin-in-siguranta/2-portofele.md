@@ -8,7 +8,7 @@
 
 Ce s-ar întâmpla dacă telefonul dumneavoastră nu ar mai funcționa? Înregistrările Bitcoin ar exista în continuare, dar accesul ar depinde de cheile și de metoda de recuperare folosite de portofel. Un portofel ajută la crearea informațiilor pentru primire, la afișarea soldurilor și a [tranzacțiilor](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) din istoric, precum și la autorizarea cheltuirii fondurilor. Acesta nu elimină necesitatea de a înțelege cine controlează accesul.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
 
 
 <!-- card: dark -->
@@ -33,4 +33,4 @@ Comparați [custodia](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody)
 > Pe parcursul programului de diplomă, puteți crea un portofel sau puteți nota [cuvinte de recuperare](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) ca parte a exercițiilor practice. Sala de clasă este un mediu de învățare: informațiile pot fi văzute, copiate, partajate sau compromise din greșeală. Din acest motiv, un portofel de exersare ar trebui, în mod normal, să fie gol sau simulat și nu ar trebui folosit pentru a păstra în siguranță fonduri semnificative. Atunci când este practic posibil, acesta este închis, resetat sau returnat la sfârșitul programului de diplomă. Cadrul didactic poate alege o activitate cu fonduri reale de valoare mică, dar ar trebui să explice scopul acesteia și riscurile suplimentare privind confidențialitatea, securitatea și pierderea fondurilor înainte ca cineva să participe. Un portofel destinat păstrării în siguranță a unor fonduri semnificative necesită o configurare nouă, realizată în privat, și informații de recuperare noi. Cadrul didactic vă poate explica diferența, dar nu aveți niciodată obligația de a configura un portofel personal pentru a finaliza programul de diplomă.
 
 
-![Cadrul didactic face o demonstrație pe un telefon de exersare, în timp ce cursantul începător și cursanții mai în vârstă își examinează propriile dispozitive.](https://cdn.sanity.io/images/vje9ehw2/production/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)
+![Cadrul didactic face o demonstrație pe un telefon de exersare, în timp ce cursantul începător și cursanții mai în vârstă își examinează propriile dispozitive.](https://cdn.sanity.io/images/vje9ehw2/staging/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)

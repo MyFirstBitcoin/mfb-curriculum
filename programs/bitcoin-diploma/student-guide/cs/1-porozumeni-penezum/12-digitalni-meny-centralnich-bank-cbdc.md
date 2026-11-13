@@ -10,7 +10,7 @@
 
 Dále se ptejte, co daný návrh umožňuje. V závislosti na pravidlech může [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) umožnit rychlejší vypořádání, širší přístup nebo nové platební funkce. Může také institucím poskytnout větší možnosti sledovat [transakce](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), uplatňovat pravidla, omezovat používání nebo přímo propojovat totožnost s platbami. To je centralizovaná kontrola: příslušná pravidla stanovuje nebo mění instituce, nikoli běžní uživatelé nezávisle na ní.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->

@@ -10,4 +10,4 @@ Denar oblikuje vsakodnevne odločitve o hrani, prevozu, delu, varčevanju in pom
 
 Ko razpravljate o teh vprašanjih, bodite pozorni na razliko med dejstvom in mnenjem. »Ta bankovec se sprejema za plačilo davkov« je dejstvo, ki ga je mogoče preveriti. »To je najboljša oblika denarja« je mnenje ali sklep, ki zahteva merila in dokaze.
 
-![Vseh šest oseb se zbere okoli miz v učilnici, medtem ko učitelj vodi skupno branje iz odprtega priročnika za tečaj.](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![Vseh šest oseb se zbere okoli miz v učilnici, medtem ko učitelj vodi skupno branje iz odprtega priročnika za tečaj.](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)

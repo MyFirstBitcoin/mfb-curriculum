@@ -25,4 +25,4 @@ Utilice afirmaciones, evidencia y un análisis de ventajas y desventajas:
 
 Las estadísticas detalladas sobre energía y la [minería](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) en sus aspectos económicos no son contenidos obligatorios del Diplomado en Bitcoin. Utilice estos temas solo cuando el educador haya verificado fuentes actuales y la discusión contribuya al desarrollo de una competencia.
 
-![El educador y el estudiante con conocimientos técnicos señalan dispositivos separados para la minería y el nodo, mientras que el estudiante de mayor edad participa con una guía.](https://cdn.sanity.io/images/vje9ehw2/production/c42a629a0dff84d04b37397d56a45bf146f7110b-1054x1492.png)
+![El educador y el estudiante con conocimientos técnicos señalan dispositivos separados para la minería y el nodo, mientras que el estudiante de mayor edad participa con una guía.](https://cdn.sanity.io/images/vje9ehw2/staging/c42a629a0dff84d04b37397d56a45bf146f7110b-1054x1492.png)

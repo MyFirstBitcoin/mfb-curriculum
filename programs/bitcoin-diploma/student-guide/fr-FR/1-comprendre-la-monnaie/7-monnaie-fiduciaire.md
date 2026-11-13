@@ -15,7 +15,7 @@ Le système de monnaie fiat compte plusieurs acteurs principaux :
 [Les acteurs d’un système de monnaie fiduciaire et les échanges entre eux : la banque centrale définit la politique monétaire et assure le règlement entre banques, les banques commerciales détiennent des dépôts qui constituent leurs dettes envers leurs clients, les services de paiement transmettent les instructions, l’État perçoit des impôts et effectue des dépenses, et les citoyens et les entreprises effectuent et reçoivent des paiements.](/micrographics/fiat-system-flows-01/fr-FR.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 
 <!-- card: light -->

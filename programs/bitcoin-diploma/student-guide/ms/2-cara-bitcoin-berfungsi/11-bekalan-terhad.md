@@ -44,4 +44,4 @@ Had 21 juta dikuatkuasakan oleh [nod](https://curriculum.myfirstbitcoin.org/lexi
 > Bekalan terhingga juga tidak bermakna setiap bitcoin tersedia untuk dijual; sesetengahnya mungkin disimpan untuk jangka panjang atau tidak lagi dapat diakses kerana kunci telah hilang.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

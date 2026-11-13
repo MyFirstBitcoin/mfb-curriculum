@@ -28,7 +28,7 @@ Dette skaper to viktige risikoer:
 [Likviditetsrisiko: mange innskytere står i kø for å ta ut penger i dag, og banken har ikke nok kontanter nå, selv om lånene kan bli tilbakebetalt senere. Solvensrisiko: låntakere misligholder boliglån, og bankens eiendeler blir verdt mindre enn det banken skylder.](/micrographics/liquidity-vs-solvency-01/nb.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
 
 
 

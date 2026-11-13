@@ -24,4 +24,4 @@ Interrompa immediatamente l'attività se:
 [Una condizione non sicura o inspiegabile interrompe l'attività. L'educatore protegge le persone e i segreti e verifica il problema; un errore di valutazione critico per la sicurezza viene registrato come Non ancora, e il discente ripristina l'ambiente, si esercita e viene rivalutato in seguito.](/micrographics/stop-when-check-fails-01/it.md)
 
 
-![L'educatore alza il palmo aperto per sospendere un'attività, mentre il principiante abbassa il telefono e il partecipante esperto di tecnologia chiude parzialmente un laptop.](https://cdn.sanity.io/images/vje9ehw2/production/adb5c936fe5622b3c0b62f060349af1097eee5b0-1055x1491.png)
+![L'educatore alza il palmo aperto per sospendere un'attività, mentre il principiante abbassa il telefono e il partecipante esperto di tecnologia chiude parzialmente un laptop.](https://cdn.sanity.io/images/vje9ehw2/staging/adb5c936fe5622b3c0b62f060349af1097eee5b0-1055x1491.png)

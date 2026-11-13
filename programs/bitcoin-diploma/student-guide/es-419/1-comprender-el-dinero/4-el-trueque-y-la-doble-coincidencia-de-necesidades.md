@@ -8,7 +8,7 @@
 
 Imagine que **Amina** tiene arroz y quiere zapatos. **Luis** tiene zapatos, pero quiere aceite de cocina, no arroz. **Mei** tiene aceite de cocina y quiere servicios de reparación. Amina puede necesitar varios intercambios antes de conseguir los zapatos. Cada intercambio toma tiempo y requiere un acuerdo sobre el [valor](https://curriculum.myfirstbitcoin.org/lexicon/en/#value).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
 
 
 <!-- micrographic: barter-mismatch-01 -->
@@ -29,7 +29,7 @@ Un dinero de aceptación general separa la venta de la compra. Amina puede vende
 
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
 
 <!-- micrographic: sell-then-buy-01 -->

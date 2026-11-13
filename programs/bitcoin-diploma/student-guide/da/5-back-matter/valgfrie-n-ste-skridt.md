@@ -26,11 +26,11 @@ Underviservejledningen hjælper Dem med at forberede lektioner, lede aktiviteter
 
 ### Bliv en del af et læringsfællesskab
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
 
 Netværket [Bitcoin Education Network](https://myfirstbitcoin.org/about/network) forbinder uafhængige undervisere og lokale læringsfællesskaber. Find et fællesskab i nærheden af Dem, eller et, hvis arbejde interesserer Dem, og kontakt det for at høre, hvordan De kan lære, arbejde frivilligt eller bidrage. Deltagelse er frivillig og påvirker ikke gennemførelsen af diplomet, bedømmelsen eller certificeringen.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
 
 ### En påmindelse om sikkerhed
 
@@ -92,13 +92,13 @@ Hvis den udstedende underviser tilbyder en verifikationsmetode, skal De kun brug
 
 Deres vigtigste resultat er ikke beviset. Det er evnen til at forklare penge og Bitcoin klart, genkende risici, kontrollere oplysninger før De handler og fortsætte med at lære selvstændigt.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
 
 ### Støt gratis undervisning i Bitcoin
 
 My First Bitcoins undervisningsressourcer er gratis og open source. Frivillig støtte bidrager til at vedligeholde læseplanen, uddanne undervisere og give flere adgang.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
 
 
 https://donate.myfirstbitcoin.org
@@ -112,4 +112,4 @@ Hvis De vælger at bidrage, skal De bruge den officielle [donationsside](https:/
 ---
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)

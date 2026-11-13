@@ -18,4 +18,4 @@ Bitcoin huunda [uhaba](https://curriculum.myfirstbitcoin.org/lexicon/en/#scarcit
 [Kikomo cha ugavi kilichoandikwa kwenye tovuti au katika hifadhidata ya mtoaji kinaweza kubadilishwa kimyakimya na mtoaji huyo. Kanuni ya ugavi ya Bitcoin iko wazi kwa umma, na sahihi, historia iliyo wazi kwa umma, uthibitisho wa kazi na uhakiki wa nodi kwa pamoja huzuia sarafu mpya kubuniwa au bitcoin ileile kutumiwa mara mbili.](/micrographics/claimed-or-verified-supply-01/sw.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)

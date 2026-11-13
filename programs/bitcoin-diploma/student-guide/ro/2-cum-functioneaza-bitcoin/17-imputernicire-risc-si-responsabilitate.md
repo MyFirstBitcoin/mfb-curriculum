@@ -6,7 +6,7 @@ Regulile publice ale Bitcoin, [rețeaua Peer-to-Peer (P2P)](https://curriculum.m
 
 Aceste proprietăți le pot oferi participanților mai multă autonomie, dar le impun și mai multă responsabilitate. Fără o autoritate centrală care să aprobe [tranzacțiile](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), să restabilească accesul sau să anuleze multe dintre erori, fiecare persoană trebuie să poată identifica rolul și riscurile pe care și le asumă.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
 
 Pentru o persoană care alege [autocustodia](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody), controlul asupra cheilor oferă control direct asupra bitcoin. Nicio companie nu poate îngheța un sold de pe blockchain controlat în mod corect. Nicio companie nu poate recupera, în caz de pierdere, o [frază de recuperare](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) nici ea.
 

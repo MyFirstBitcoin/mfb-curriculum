@@ -26,11 +26,11 @@ La Guida per l'educatore La aiuta a preparare le lezioni, a facilitare le attivi
 
 ### Si unisca a una comunità di apprendimento
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
 
 La [Bitcoin Education Network](https://myfirstbitcoin.org/about/network) mette in contatto educatori indipendenti e comunità di apprendimento locali. Trovi una comunità vicina a Lei, o una il cui lavoro La interessi, e la contatti per chiedere come può imparare, fare volontariato o contribuire. La partecipazione è facoltativa e non influisce sul completamento del Diploma, sulla valutazione o sulla certificazione.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
 
 ### Un promemoria sulla sicurezza
 
@@ -92,13 +92,13 @@ Se l'educatore emittente fornisce un metodo di verifica, utilizzi soltanto le is
 
 Il risultato più importante non è il certificato. È la capacità di spiegare con chiarezza il denaro e Bitcoin, riconoscere i rischi, verificare prima di agire e continuare a imparare in autonomia.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
 
 ### Sostenga l'educazione gratuita su Bitcoin
 
 Le risorse educative di My First Bitcoin sono gratuite e open source. Il sostegno volontario aiuta a mantenere il programma, formare gli educatori e ampliare l'accesso.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
 
 
 https://donate.myfirstbitcoin.org
@@ -112,4 +112,4 @@ Se sceglie di contribuire, utilizzi la [pagina ufficiale per le donazioni](https
 ---
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)

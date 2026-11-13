@@ -30,4 +30,4 @@ Kafin duk wani nuni na aikace kai tsaye, ku tabbatar kun san:
 
 Sakamakon taron bitarku ya kamata ya zama bayani ko ƙwarewa, ba kawai kammala [ma'amala](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) ba.
 
-![Malamin da mai kasuwancin suna atisaye tare da wayar horo, dukansu suna kallon allon da ke fuskantarsu.](https://cdn.sanity.io/images/vje9ehw2/production/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)
+![Malamin da mai kasuwancin suna atisaye tare da wayar horo, dukansu suna kallon allon da ke fuskantarsu.](https://cdn.sanity.io/images/vje9ehw2/staging/10c29bc7f63247a9487ad46dd17f81098542d916-1054x1493.png)

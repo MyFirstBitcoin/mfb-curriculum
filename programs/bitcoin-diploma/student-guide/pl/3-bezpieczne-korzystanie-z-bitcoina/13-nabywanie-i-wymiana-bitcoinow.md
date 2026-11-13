@@ -15,7 +15,7 @@ Ludzie mogą otrzymywać bitcoiny za pracę, w ramach płatności wewnątrz spo�
 * **Wymiana między osobami:** Dwie osoby mogą wymieniać [pieniądz fiducjarny](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) lub towary na bitcoiny bezpośrednio lub za pośrednictwem usługi kojarzącej strony transakcji. Może to wiązać się z ryzykiem dotyczącym kontrahenta, bezpieczeństwa fizycznego, cofnięcia płatności i oszustwa.
 * **Giełda, broker, bankomat lub kiosk:** Usługa lub urządzenie mogą oferować znajomy sposób działania, ale mogą też wiązać się z opłatami, weryfikacją tożsamości, [przechowywaniem środków przez usługodawcę](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), limitami wypłat lub niekorzystnym [kursem wymiany](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
 
 Przed porównaniem danej ścieżki proszę zadać pytania:
 

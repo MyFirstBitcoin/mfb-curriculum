@@ -12,9 +12,9 @@ Natūrinių mainų sistemoje mainai įvyksta tik tada, kai abu žmonės tuo pač
 
 Jie yra **mainų priemonė**: žmonės juos priima kaip mokėjimą. Jie yra **apskaitos vienetas**: jais išreiškiamos kainos, todėl galime palyginti skirtingų dalykų vertę. Be to, jie yra **vertės kaupimo priemonė**: jie perkelia vertę iš dabarties į ateitį. Jokie pinigai neišsaugo vertės tobulai, tačiau kai kurios jų formos perkamąją galią praranda lėčiau nei kitos.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Per visą istoriją pinigų vaidmenį atliko daugybė dalykų: kriauklės, druska, karoliukai, gyvuliai, varis, sidabras ir auksas. Taurieji metalai buvo pradėti plačiai naudoti, nes buvo reti, patvarūs ir plačiai priimami. Tačiau metalą gabenti ir saugoti sunku, todėl bankai pradėjo išduoti popierinius reikalavimo dokumentus, kuriuos buvo galima iškeisti į nurodytą metalo kiekį. Taikant skirtingus **aukso standartus**, valiutos vienetas buvo teisiškai susietas su tam tikru aukso kiekiu. Taisyklės skyrėsi priklausomai nuo vietos ir laikotarpio.
 

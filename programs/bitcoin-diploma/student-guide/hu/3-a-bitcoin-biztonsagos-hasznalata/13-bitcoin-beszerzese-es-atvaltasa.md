@@ -15,7 +15,7 @@ Az emberek munkáért, közösségi kifizetésként, magánszemélyek közötti 
 * **Személyek közötti váltás:** Két személy válthat [fiat pénzt](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) vagy árukat bitcoinra közvetlenül vagy egy párosító szolgáltatáson keresztül. Ez a másik féllel, a fizikai biztonsággal, a fizetés visszafordításával és a csalással kapcsolatos kockázatokkal járhat.
 * **Tőzsde, bróker, ATM vagy kioszk:** Egy szolgáltatás vagy automata ismerős megoldást kínálhat, de felmerülhetnek díjak, személyazonosság-ellenőrzés, [letétkezelés](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), pénzkivételi korlátok vagy kedvezőtlen [átváltási árfolyam](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
 
 Mielőtt összehasonlítana egy lehetőséget, tegye fel a következő kérdéseket:
 

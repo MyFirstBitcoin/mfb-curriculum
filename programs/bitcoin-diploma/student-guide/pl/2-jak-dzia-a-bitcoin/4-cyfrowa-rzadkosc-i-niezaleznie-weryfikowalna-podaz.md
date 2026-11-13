@@ -18,4 +18,4 @@ Bitcoin tworzy cyfrową [rzadkość](https://curriculum.myfirstbitcoin.org/lexic
 [Limit podaży zapisany na stronie internetowej lub w bazie danych emitenta może zostać przez niego po cichu zmieniony. Reguła podaży Bitcoina jest publiczna, a podpisy, publiczna historia, dowód pracy i weryfikacja przez węzły wspólnie zapobiegają tworzeniu monet niezgodnie z regułami oraz dwukrotnemu wydaniu tego samego bitcoina.](/micrographics/claimed-or-verified-supply-01/pl.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6e676ec9bed118a2f915d92da2bf77e3732219ab-1536x1024.svg)

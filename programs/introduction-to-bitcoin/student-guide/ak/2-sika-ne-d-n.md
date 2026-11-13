@@ -12,9 +12,9 @@ Wɔ nneɛma a wɔde sesa nneɛma nhyehyɛeɛ mu no, aguadiɛ tumi kɔ so berɛ a
 
 Ɛyɛ **nneɛma sesa kwan**: nnipa gye de tua ka. Ɛyɛ **akontaabu susudeɛ**: wɔde kyerɛ nneɛma boɔ, enti yɛtumi de nneɛma ahodoɔ boɔ toto ho. Na ɛyɛ **boɔ akoraeɛ**: ɛkora ɛnnɛ boɔ so kɔ daakye. Sika biara nni hɔ a ɛkora boɔ so pɛpɛɛpɛ, nanso sika ahodoɔ bi tɔ tumi so nkakrankakra sene afoforɔ.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Abakɔsɛm mu nyinaa no, wɔde nneɛma pii ayɛ sika: ɛpo mu mmoa akoradeɛ, nkyene, nhene, nyɛmmoa, kɔbere, dwetɛ ne sikakɔkɔɔ. Nnipa pii bɛfirii aseɛ de dadeɛ a ɛsom bo dii dwuma ɛfiri sɛ na ɛho yɛ na, ɛkyɛ, na nnipa pii gye tom. Nanso dadeɛ a wɔsoa na wɔbɔ ho ban yɛ den, enti sikakorabea firii aseɛ de nkrataa a ɛma obi tumi kɔgye dadeɛ dodoɔ bi a wɔakyerɛ maeɛ. Wɔ **sikakɔkɔɔ gyinapɛn nhyehyɛeɛ** ahodoɔ mu no, na mmara de sika susudeɛ bi bata sikakɔkɔɔ dodoɔ bi ho. Na ɛho mmara gu ahodoɔ wɔ mmeaeɛ ne mmerɛ ahodoɔ mu.
 

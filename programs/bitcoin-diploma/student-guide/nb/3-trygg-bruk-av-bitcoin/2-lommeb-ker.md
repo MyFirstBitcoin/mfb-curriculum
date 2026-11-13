@@ -8,7 +8,7 @@
 
 Hva ville skje hvis telefonen Deres sluttet å fungere? Bitcoin-oppføringene ville fortsatt finnes, men tilgangen ville avhenge av nøklene og gjenopprettingsmetoden som lommeboken bruker. En lommebok hjelper med å opprette mottaksinformasjon, vise saldoer og [transaksjoner](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) med historikk og godkjenne bruk av midler. Den fjerner ikke behovet for å forstå hvem som kontrollerer tilgangen.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/887310fc77a85254db64aa7a92458a7aaf228b13-1536x1024.svg)
 
 
 <!-- card: dark -->
@@ -33,4 +33,4 @@ Sammenlign [nøkkelforvaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#
 > I løpet av diplomkurset kan De opprette en lommebok eller skrive ned [gjenopprettingsord](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) som en del av øvingen. Et klasserom er et læringsmiljø: Informasjon kan bli sett, kopiert, delt eller komme på avveie ved et uhell. Derfor bør en øvingslommebok normalt være tom eller simulert og ikke brukes til å sikre betydelige midler. Der det er praktisk mulig, blir den lukket, tilbakestilt eller levert tilbake ved slutten av diplomkurset. Underviseren Deres kan velge en praktisk aktivitet med reelle, men små beløp, men bør forklare formålet og den økte risikoen knyttet til personvern, sikkerhet og tap før noen deltar. En lommebok som skal sikre betydelige midler, trenger et nytt, privat oppsett og ny gjenopprettingsinformasjon. Underviseren Deres kan forklare forskjellen, men De er aldri pålagt å opprette en personlig lommebok for å fullføre diplomkurset.
 
 
-![Underviseren demonstrerer en øvingstelefon mens nybegynneren og de eldre deltakerne undersøker sine egne enheter.](https://cdn.sanity.io/images/vje9ehw2/production/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)
+![Underviseren demonstrerer en øvingstelefon mens nybegynneren og de eldre deltakerne undersøker sine egne enheter.](https://cdn.sanity.io/images/vje9ehw2/staging/229bbb2a2acdd2c137c9789d90e246381a660e22-1054x1492.png)

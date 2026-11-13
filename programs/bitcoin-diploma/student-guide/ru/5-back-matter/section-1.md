@@ -26,11 +26,11 @@
 
 ### Присоединитесь к учебному сообществу
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
 
 Эта [сеть биткоин-образования](https://myfirstbitcoin.org/about/network) объединяет независимых преподавателей и местные учебные сообщества. Найдите сообщество рядом с вами или то, чья работа вам интересна, и свяжитесь с ним, чтобы узнать, как вы можете учиться, стать волонтёром или внести свой вклад. Участие необязательно и не влияет на завершение курса «Биткоин-диплом», оценку результатов или получение сертификата.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
 
 ### Напоминание о безопасности
 
@@ -92,13 +92,13 @@
 
 Ваш главный результат — не сертификат. Это умение понятно объяснять, что такое деньги и биткоин, распознавать риски, проверять информацию перед действием и продолжать учиться самостоятельно.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
 
 ### Поддержите бесплатное обучение биткоину
 
 Образовательные ресурсы My First Bitcoin бесплатны и имеют открытый исходный код. Добровольная поддержка помогает поддерживать учебную программу в актуальном состоянии, готовить преподавателей и расширять доступ к обучению.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
 
 
 https://donate.myfirstbitcoin.org
@@ -112,4 +112,4 @@ _Поддержите My First Bitcoin_
 ---
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)

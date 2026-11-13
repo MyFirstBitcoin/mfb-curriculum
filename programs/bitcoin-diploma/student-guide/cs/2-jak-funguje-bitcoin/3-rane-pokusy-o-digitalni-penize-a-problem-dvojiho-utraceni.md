@@ -34,4 +34,4 @@ Whitepaper spojil vlastnosti potřebné pro tento přístup:
 
 Tento modul vysvětluje tyto pojmy podrobněji. Společně přinesly praktické řešení [problému dvojího utrácení](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending): síť může odmítnout druhý pokus utratit tentýž bitcoin, aniž by se spoléhala na centrální autoritu. Bitcoin nabídl chybějící kombinaci, kterou se po desetiletí snažily najít experimenty s digitálními penězi.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)

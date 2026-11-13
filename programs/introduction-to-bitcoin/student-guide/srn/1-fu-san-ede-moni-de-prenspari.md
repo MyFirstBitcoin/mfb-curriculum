@@ -22,4 +22,4 @@ Disi buku e drai om siksi aksi: fu sanede moni de prenspari, san a de, san kan g
 
 A de fu leri nomo. A no e gi rai abra moni, abra fu poti moni fu wini moro moni, abra wet noso abra belasting, èn a no e taigi un fu bai, seri noso kibri noti.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)

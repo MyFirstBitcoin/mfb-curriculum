@@ -18,7 +18,7 @@ L’envoi exige davantage de précautions, car sur Bitcoin, une [transaction](ht
 1. Faites un test avec un petit montant si la procédure ne vous est pas familière.
 1. Ne validez que lorsque tous les éléments correspondent ; vérifiez ensuite le résultat du paiement.
 
-![L’apprenant plus âgé présente un téléphone de formation tandis que le débutant vérifie un autre téléphone et que la personne chargée de la formation guide la comparaison.](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![L’apprenant plus âgé présente un téléphone de formation tandis que le débutant vérifie un autre téléphone et que la personne chargée de la formation guide la comparaison.](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 
 <!-- micrographic: pre-send-checklist-01 -->
@@ -29,4 +29,4 @@ Pour un [paiement on-chain](https://curriculum.myfirstbitcoin.org/lexicon/en/#on
 
 Si la destination change de manière inattendue, si la demande devient urgente ou si quelqu’un vous demande des informations de récupération, que devez-vous faire ? Arrêtez-vous. Vérifiez la demande de manière indépendante ou demandez de l’aide sans partager d’informations secrètes.
 
-![La personne chargée de la formation guide l’apprenant débutant dans la comparaison entre un téléphone et l’appareil de réception du propriétaire du commerce avant de valider un paiement.](https://cdn.sanity.io/images/vje9ehw2/production/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)
+![La personne chargée de la formation guide l’apprenant débutant dans la comparaison entre un téléphone et l’appareil de réception du propriétaire du commerce avant de valider un paiement.](https://cdn.sanity.io/images/vje9ehw2/staging/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)

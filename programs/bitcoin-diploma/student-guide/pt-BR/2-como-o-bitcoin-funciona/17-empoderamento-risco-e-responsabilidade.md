@@ -6,7 +6,7 @@ As regras públicas do Bitcoin, a [rede Peer-to-Peer (P2P)](https://curriculum.m
 
 Essas propriedades podem empoderar os participantes, mas também lhes atribuem mais responsabilidade. Sem uma autoridade central para aprovar [transações](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), recuperar o acesso ou reverter muitos erros, cada pessoa precisa ser capaz de identificar o papel e os riscos que aceita.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
 
 Para quem escolhe a [autocustódia](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody), o controle das chaves traz o controle direto dos bitcoins. Nenhuma empresa pode congelar um saldo on-chain controlado corretamente. Mas nenhuma empresa pode restaurar uma [frase-semente](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) perdida.
 

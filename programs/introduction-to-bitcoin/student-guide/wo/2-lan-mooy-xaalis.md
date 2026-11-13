@@ -12,9 +12,9 @@ Ci doxalinu weccante alal ak alal, weccante bi manul am lu dul su ñaar ñépp b
 
 Mooy **jumtukaayu weccante**: nit ñi dañu koy nangu ci pey. Mooy **bennalub xayma**: ci moom lañuy waxe njëg yi, ba nu man a méngale dayob mbir yu wuute. Te mooy **dencukaayu dayo**: dafay jàllale dayo jóge ci tey jëm ci ëllëg. Amul xaalis buy denc dayo ci anam wu mat sëkk, waaye am na ay xeetam yu seen kàttanu jënd di wàññiku ndànk lu ëpp ñeneen.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Ci jaar-jaaru doomu Aadama, mbir yu bare jëfee nañu ni xaalis: xorom, xol yu jóge ci géej, per, jur, xànjar, xaalis bu weex ak wurus. Metaal yu am solo yi dañu leen daan jëfandikoo fu nekk ndax dañoo jafe a gis, yàgg te ñu bare nangu leen. Waaye yóbbu ak aar metaal dafa jafe, moo tax bànk yi tàmbalee joxe ay kayit yu dëggal sañ-sañu jot ci dayob metaal bu ñu tëral. Ci ay xeeti **doxalinu xaalis bu sukkandiku ci wurus**, yoon dafa lëkkale woon bennalub xaalis ak dayob wurus. Sàrt yi dañu daan wuute ci barab ak jamono.
 

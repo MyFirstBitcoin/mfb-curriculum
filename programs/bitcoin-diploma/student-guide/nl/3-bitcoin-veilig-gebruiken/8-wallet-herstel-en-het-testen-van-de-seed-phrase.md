@@ -15,4 +15,4 @@ Gebruik een oefen-Wallet of de bijbehorende herstelgegevens na het Diploma niet 
 
 Het doel is niet om herstel makkelijk te laten lijken. Het doel is om het proces te begrijpen voordat een defect apparaat u onder druk zet.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/424d932ace1728a75636a76182ae9a42621ed91c-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/424d932ace1728a75636a76182ae9a42621ed91c-1536x1024.svg)

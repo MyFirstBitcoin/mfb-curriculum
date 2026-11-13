@@ -36,4 +36,4 @@ Certains portefeuilles utilisent des phrases secrètes supplémentaires, plusieu
 [Sauvegarde d’une phrase de récupération sur papier en trois étapes : l’écran du portefeuille affiche les mots, vous les recopiez à la main sur papier dans le même ordre, puis vous vérifiez chaque mot en le comparant à l’écran. Faites-le à l’abri des regards et hors ligne.](/micrographics/seed-phrase-paper-backup-01/fr-FR.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)

@@ -19,7 +19,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## చాలామంది డబ్బు గురించి ఎప్పుడూ ఆగి ఆలోచించరు
 
@@ -29,7 +29,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## ప్రారంభించడానికి ఐదు ప్రశ్నలు
 
@@ -49,7 +49,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## వాస్తవమా లేదా అభిప్రాయమా?
 
@@ -74,7 +74,7 @@ theme: mfb
 
 ఇద్దరూ ఒకరి వద్ద ఉన్నది మరొకరు ఒకే సమయంలో, తగిన పరిమాణాల్లో కోరుకోవాలి.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: మార్గదర్శినిలోని ఉదాహరణను తీసుకోండి: మీరు వరి పండిస్తారు, మీకు బూట్లు కావాలి. కానీ బూట్లు తయారుచేసే వ్యక్తికి వంటనూనె కావాలి, బియ్యం కాదు. ఆర్థికవేత్తలు దీనిని కోరికల ద్వంద్వ యాదృచ్ఛిక సమన్వయం అంటారు. -->
 
@@ -96,13 +96,13 @@ theme: mfb
 
 ఎవరూ డబ్బును కేవలం దాని కోసమే కోరుకోరు. తర్వాత మరికొందరు దాన్ని స్వీకరిస్తారనే నమ్మకంతో ఇతరులు దాన్ని స్వీకరిస్తారు కాబట్టి అది ఉపయోగకరంగా ఉంటుంది.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: బ్యాంకు నోటు కేవలం ఒక కాగితం ముక్క మాత్రమే. అమ్మకాన్ని కొనుగోలు నుంచి వేరు చేయడం ద్వారా డబ్బు వస్తుమార్పిడి సమస్యను పరిష్కరిస్తుంది: మీరు మీ బియ్యాన్ని ఒకరికి అమ్మి, మరొకరి నుంచి బూట్లు కొంటారు. డబ్బును వస్తుమార్పిడి నుంచి వేరు చేసేది ఇదే. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## డబ్బు చేసే మూడు పనులు
 
@@ -114,7 +114,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## గవ్వల నుంచి కాగితం వరకు
 
@@ -161,13 +161,13 @@ theme: mfb
 
 ## ద్రవ్యోల్బణం మరియు కొనుగోలు శక్తి
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: ధరల ద్రవ్యోల్బణం అంటే సాధారణ ధరల స్థాయి నిరంతరంగా పెరగడం. దీనికి మరో పార్శ్వం కొనుగోలు శక్తి: ఒక యూనిట్ డబ్బుతో ఎంత కొనగలమనేది. ప్రాథమిక వస్తువుల బుట్ట ధర 100 కరెన్సీ యూనిట్ల నుంచి 110కి పెరిగితే, అదే 100 యూనిట్లతో ఇక ఆ బుట్టలోని వస్తువులన్నింటినీ కొనలేరు. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## అనేక కారణాలు, ఒకే ఎంపిక
 
@@ -285,7 +285,7 @@ theme: mfb
 
 ## బిట్‌కాయిన్‌ను నడిపించేది ఎవరు?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: వినియోగదారులు బిట్‌కాయిన్‌ను పంపుతారు, స్వీకరిస్తారు, నిల్వ ఉంచుకుంటారు; నోడ్‌లు ప్రతి లావాదేవీని, ప్రతి బ్లాక్‌ను నియమాలకు అనుగుణంగా ఉన్నాయో లేదో తనిఖీ చేస్తాయి; మైనర్లు దాదాపు ప్రతి పది నిమిషాలకు రికార్డులో ఒక కొత్త బ్లాక్‌ను చేర్చడానికి పోటీ పడతారు. బ్లాక్‌చెయిన్‌ అని పిలిచే ఆ రికార్డు అందరికీ అందుబాటులో ఉంటుంది; దాన్ని తిరగరాయడం చాలా ఖర్చుతో కూడుకున్న పని. అక్షరరూపం గురించి ఒక గమనిక: ఆంగ్లంలో పెద్ద అక్షరం Bతో రాసే Bitcoin సాధారణంగా నెట్‌వర్క్‌ను లేదా వ్యవస్థను సూచిస్తుంది; చిన్న అక్షరం bతో రాసే bitcoin ఆ డబ్బునే సూచిస్తుంది. -->
 
@@ -330,7 +330,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## మీ సీడ్ ఫ్రేజ్ అంటే పూర్తి ప్రాప్యత
 
@@ -350,7 +350,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## మీరు ఏదైనా వాలెట్‌ను ఉపయోగించే ముందు
 
@@ -391,7 +391,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## ఆగండి, ఏమీ పంచుకోవద్దు, ఏమీ పంపవద్దు
 
@@ -426,7 +426,7 @@ theme: mfb
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## బిట్‌కాయిన్ డిప్లొమా
 

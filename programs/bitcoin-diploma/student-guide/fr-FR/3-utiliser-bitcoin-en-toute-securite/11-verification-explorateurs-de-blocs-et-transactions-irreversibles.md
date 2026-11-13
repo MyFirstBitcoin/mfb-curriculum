@@ -22,4 +22,4 @@ Pour examiner une [transaction](https://curriculum.myfirstbitcoin.org/lexicon/en
 [Une transaction non confirmée reste dans la file d’attente, puis est incluse dans le bloc N, ce qui constitue sa première confirmation. Chaque bloc suivant ajoute une confirmation supplémentaire.](/micrographics/confirmation-timeline-01/fr-FR.md)
 
 
-![L’enseignant et l’apprenant plus âgé discutent d’un exemple préparé sur un écran tourné vers le groupe tandis que l’apprenant au profil technique manipule la souris ; l’écran est vu de dos.](https://cdn.sanity.io/images/vje9ehw2/production/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)
+![L’enseignant et l’apprenant plus âgé discutent d’un exemple préparé sur un écran tourné vers le groupe tandis que l’apprenant au profil technique manipule la souris ; l’écran est vu de dos.](https://cdn.sanity.io/images/vje9ehw2/staging/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)

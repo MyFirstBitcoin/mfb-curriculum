@@ -13,7 +13,7 @@
 > [Daya beli](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) adalah jumlah barang dan jasa yang dapat dibeli dengan satu unit uang. Jika harga sekeranjang barang kebutuhan pokok naik dari 100 unit [mata uang](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) menjadi 110, 100 unit yang sama tidak lagi cukup untuk membeli seluruh isi keranjang tersebut. [Daya beli](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) uang tersebut terhadap keranjang itu telah menurun.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->

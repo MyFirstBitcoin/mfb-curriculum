@@ -28,7 +28,7 @@ Bu durum iki önemli risk yaratır:
 [Likidite riski: birçok mevduat sahibi bugün para çekmek için sıraya giriyor ve verdiği krediler ileride geri ödenebilecek olsa da bankanın şu anda yeterli nakdi yok. Ödeme gücü riski: borçlular konut kredilerini ödeyemiyor ve bankanın varlıklarının değeri, borçlarından daha az hâle geliyor.](/micrographics/liquidity-vs-solvency-01/tr.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
 
 
 

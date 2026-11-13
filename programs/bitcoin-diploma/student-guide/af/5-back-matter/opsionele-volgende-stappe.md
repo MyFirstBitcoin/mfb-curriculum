@@ -26,11 +26,11 @@ Die Opvoedersgids help u om lesse voor te berei, aktiwiteite te fasiliteer, voor
 
 ### Sluit by 'n leergemeenskap aan
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
 
 Die [Bitcoin-onderwysnetwerk](https://myfirstbitcoin.org/about/network) verbind onafhanklike opvoeders en plaaslike leergemeenskappe. Vind 'n gemeenskap naby u, of een wie se werk u interesseer, en kontak hulle om te vra hoe u kan leer, vrywilligerswerk kan doen of kan bydra. Deelname is opsioneel en beïnvloed nie die voltooiing van die diploma, assessering of sertifisering nie.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
 
 ### 'n Veiligheidsherinnering
 
@@ -92,13 +92,13 @@ Indien die opvoeder wat die sertifikaat uitreik 'n verifikasiemetode verskaf, ge
 
 U belangrikste uitkoms is nie die sertifikaat nie. Dit is die vermoë om geld en Bitcoin duidelik te verduidelik, risiko te herken, inligting te verifieer voordat u optree, en onafhanklik verder te leer.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
 
 ### Ondersteun gratis Bitcoin-opvoeding
 
 My First Bitcoin se opvoedkundige hulpbronne is gratis en oopbron. Vrywillige ondersteuning help om die kurrikulum in stand te hou, opvoeders op te lei en toegang uit te brei.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
 
 
 https://donate.myfirstbitcoin.org
@@ -112,4 +112,4 @@ Indien u kies om by te dra, gebruik die amptelike [skenkingsblad](https://donate
 ---
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)

@@ -27,7 +27,7 @@ Varje modul följer samma upplägg:
 
 Ni lär er mer genom att delta än genom att läsa tyst. Vissa frågor har inte ett enda rätt svar. Det viktiga är att ni kan förklara ert resonemang, granska belägg och ompröva er uppfattning när ni lär er något nytt.
 
-![Företagaren pekar på ett enkelt diagram i en uppslagen handledning medan läraren diskuterar det med henne vid ett bord i klassrummet.](https://cdn.sanity.io/images/vje9ehw2/production/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
+![Företagaren pekar på ett enkelt diagram i en uppslagen handledning medan läraren diskuterar det med henne vid ett bord i klassrummet.](https://cdn.sanity.io/images/vje9ehw2/staging/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
 
 ### Förväntningar kring diskussion och personlig integritet
 
@@ -50,7 +50,7 @@ Er utbildare förklarar vilka obligatoriska bedömningsaktiviteter som ingår. T
 
 Er utbildare använder en bedömningsmatris för att registrera ett resultat för var och en av de sju kompetenserna ovan. `C1`–`C5` bedöms utifrån era egna förklaringar och beslut; `C6`–`C7` kräver direkt observation. Både plånboks-/kvittouppgiften och uppgiften om beredskap för återställning är obligatoriska delar av `C6`.
 
-![Utbildaren uppmärksammar nybörjardeltagarens uppräckta hand medan den äldre deltagaren följer med i en öppen kursbok.](https://cdn.sanity.io/images/vje9ehw2/production/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
+![Utbildaren uppmärksammar nybörjardeltagarens uppräckta hand medan den äldre deltagaren följer med i en öppen kursbok.](https://cdn.sanity.io/images/vje9ehw2/staging/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
 
 ### Förkunskapskrav: inga
 

@@ -41,4 +41,4 @@ Nunca muestre datos reales de un estudiante, como su [frase semilla](https://cur
 
 No convierta una afirmación con matices en el texto en una representación visual absoluta. Un gráfico de oferta no debe dar a entender un aumento del [precio](https://curriculum.myfirstbitcoin.org/lexicon/en/#price). Un mapa de [descentralización](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) no debe dar a entender que todos tienen la misma influencia. La imagen de una billetera no debe dar a entender que los bitcoin se almacenan dentro del dispositivo.
 
-![El educador explica en una pizarra cómo se interconectan seis pares a los cinco estudiantes, incluido el joven que lleva un gorro naranja.](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![El educador explica en una pizarra cómo se interconectan seis pares a los cinco estudiantes, incluido el joven que lleva un gorro naranja.](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)

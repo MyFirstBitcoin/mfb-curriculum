@@ -1,6 +1,6 @@
 # 4.8 Modalități locale de cumpărare și vânzare
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/16d4da9fcdbc76a89acbef6bf760d3199ea7a843-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/16d4da9fcdbc76a89acbef6bf760d3199ea7a843-1536x1024.svg)
 
 O [**rampă de intrare**](https://curriculum.myfirstbitcoin.org/lexicon/en/#on-ramp) este o cale de la bani locali, muncă sau un alt [activ](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) către bitcoin. O [**rampă de ieșire**](https://curriculum.myfirstbitcoin.org/lexicon/en/#off-ramp) este o cale de la bitcoin către bani locali, bunuri sau servicii. Aceeași cale poate îndeplini ambele roluri.
 
@@ -14,7 +14,7 @@ Căile locale pot include:
 * utilizarea unui serviciu de plăți care face conversii între bitcoin și bani fiat
 * participarea la o economie circulară locală
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8ad6c3106c57d796cf1b415d6a8104b043e6a215-776x978.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8ad6c3106c57d796cf1b415d6a8104b043e6a215-776x978.svg)
 
 Comparați **întregul traseu**, nu doar primul comision. Un serviciu poate promova un comision mic de cumpărare, dar poate folosi o proastă [Rată de Schimb](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate) sau poate percepe un comision de retragere. O cale Peer-to-Peer (P2P) poate părea că protejează confidențialitatea, dar poate necesita timp, încredere și măsuri de siguranță fizică.
 

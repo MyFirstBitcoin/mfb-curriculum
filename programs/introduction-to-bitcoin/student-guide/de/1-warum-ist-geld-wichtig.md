@@ -22,4 +22,4 @@ Dieser Leitfaden ist um sechs Fragen herum aufgebaut: warum Geld wichtig ist, wa
 
 Er dient ausschließlich Bildungszwecken. Er stellt keine Finanz-, Anlage-, Rechts- oder Steuerberatung dar und fordert Sie nicht auf, etwas zu kaufen, zu verkaufen oder zu halten.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)

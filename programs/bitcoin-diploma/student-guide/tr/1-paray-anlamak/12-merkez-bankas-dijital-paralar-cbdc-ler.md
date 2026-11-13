@@ -10,7 +10,7 @@
 
 Ardından tasarımın neye izin verdiğini sorun. Kurallara bağlı olarak bir [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) daha hızlı mutabakat, daha geniş erişim veya yeni ödeme özellikleri sağlayabilir. Ayrıca kurumlara [işlemleri](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) izleme, kural uygulama, kullanımı sınırlama veya kimliği doğrudan ödemelere bağlama konusunda daha fazla imkân tanıyabilir. Bu, merkezi kontroldür: ilgili kuralları sıradan kullanıcılar bağımsız olarak değil, bir kurum belirler ya da değiştirir.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->

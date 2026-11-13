@@ -32,4 +32,4 @@
 
 **Încercați:** Pentru o plată fictivă de valoare mică și o plată fictivă mai puțin frecventă, explicați ce [compromis](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) contează mai mult. Nu alegeți un instrument sau o sumă pentru fondurile dumneavoastră.
 
-![Cadrul didactic îi ajută pe cursanții mai în vârstă și pe cei cu cunoștințe tehnice să compare un telefon, un Portofel Hardware și un laptop.](https://cdn.sanity.io/images/vje9ehw2/production/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)
+![Cadrul didactic îi ajută pe cursanții mai în vârstă și pe cei cu cunoștințe tehnice să compare un telefon, un Portofel Hardware și un laptop.](https://cdn.sanity.io/images/vje9ehw2/staging/055f9ac5157de9c44f21db6998a3f9e46d3dd54c-1054x1492.png)

@@ -8,7 +8,7 @@ Proje, 2021 yılında El Salvador'un bitcoin'i yasal ödeme aracı yapan bir yas
 
 Çalışmalarımız bağımsız, topluluk odaklı ve Bitcoin merkezlidir. Alım satım, spekülasyon veya başka tokenların tanıtımına değil; finansal okuryazarlığa, dikkatli düşünmeye ve pratik güvenliğe odaklanıyoruz. Sizden bir inancı benimsemenizi istemiyoruz. Bunun yerine, kendi sonuçlarınıza ulaşabilmeniz için kavramlar, sorular ve pratik bilgiler sunuyoruz.
 
-![Eğitmen; yeni başlayanı, yaşça büyük öğreneni, işletme sahibini, teknik bilgiye sahip öğreneni ve genç öğreneni ortak bir öğrenme grubuna davet ediyor.](https://cdn.sanity.io/images/vje9ehw2/production/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
+![Eğitmen; yeni başlayanı, yaşça büyük öğreneni, işletme sahibini, teknik bilgiye sahip öğreneni ve genç öğreneni ortak bir öğrenme grubuna davet ediyor.](https://cdn.sanity.io/images/vje9ehw2/staging/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
 
 ### Misyonumuz: bağımsız, açık kaynaklı Bitcoin eğitimi
 

@@ -6,7 +6,7 @@ Mar sin, is í an chéad cheist faoi aon sparán ná: **cé a rialaíonn na heoc
 
 ###### Cé a choinníonn bhur gcuid bitcoin i ndáiríre?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 Le **sparán féinchoimeádta**, is sibhse a rialaíonn na heochracha.
 

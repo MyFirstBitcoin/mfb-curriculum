@@ -12,7 +12,7 @@ This difference is important for verification. Bitcoin's rules and total supply 
 
 In a **non-custodial** or **self-custodial** wallet, YOU control the keys. The wallet signs [transactions](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) under your authority. There may still be software, hardware, server, or network dependencies, but no [custodian](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian) must approve a valid on-chain spend.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 
 <!-- micrographic: who-controls-keys-01 -->

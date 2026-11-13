@@ -23,7 +23,7 @@ Setiap kali Anda membuka panduan modul, ikuti urutan yang sama:
 
 Judul-judul bagian sengaja dibuat berulang. Pengulangan tersebut merupakan alat bantu navigasi bagi pengajar baru, bukan materi yang harus dihafalkan.
 
-![Pendidik menunjuk diagram dalam panduan kursus yang terbuka, sementara peserta didik pemula dan peserta didik yang lebih tua mengikuti penjelasan melalui panduan mereka masing-masing.](https://cdn.sanity.io/images/vje9ehw2/production/f4e6dd8cd876afad89cef117fc6845f0b599f408-1054x1492.png)
+![Pendidik menunjuk diagram dalam panduan kursus yang terbuka, sementara peserta didik pemula dan peserta didik yang lebih tua mengikuti penjelasan melalui panduan mereka masing-masing.](https://cdn.sanity.io/images/vje9ehw2/staging/f4e6dd8cd876afad89cef117fc6845f0b599f408-1054x1492.png)
 
 ### Kalimat yang dapat Anda gunakan saat Anda tidak yakin
 

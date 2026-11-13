@@ -12,9 +12,9 @@ Mɛɖé ma jló akwɛ ɖò éɖé wutu ǎ. Nǔ e é sixu xɔ lɛ wutu wɛ mí jl
 
 É nyí **nǔɖyɔɖyɔ sín azɔ̌wanu**: mɛ lɛ nɔ kplɔn é ɖò akwɛsú mɛ. É nyí **nǔxlɛxlɛ sín tɛnmɛnu**: akwɛjí lɛ nɔ ɖiɖe ɖò é mɛ, bɔ mí sixu sɔ nǔ voovo lɛ sín nujɔnu ɖɔ nɔvi. Bo é nyí **nujɔnu sín nǔbɛtɛnu**: é nɔ bɛ nujɔnu tɛ sɔ jɛ egbe ɖò nukɔn. Akwɛ ɖé ma nɔ bɛ nujɔnu tɛ mlɛmlɛ ǎ, amɔ̌ akwɛ tito ɖé lɛ sín nǔxɔxɔ huhlɔn nɔ kpɔtɔ blewu hú ɖevo lɛ tɔn.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Ɖò hwenu xoxo lɛ mɛ, nǔ susu ko wà akwɛ sín azɔ̌: ahan, jɛ, jɛwɛ, kanlin e mɛ nɔ hɛn lɛ, gan vɔvɔ, gan wé kpo sika kpo. Gan xɔ akwɛ lɛ sín zánzán gbayí ɖó yě ma sɔgbɛ ǎ, yě nɔ tɛ hwenu kpikpɛ, bo mɛ susu nɔ kplɔn yě. Amɔ̌ gan sín hinhɛn kpo kpɔ́kpɔ́ kpo vɛwù, énɛwutu akwɛxɔ lɛ jɛ wémà tɔn jí, bɔ mɛ sixu sɔ wémà enɛ lɛ ɖyɔ gan agbasa ɖé e yě ɖɔ ɖai. Ɖò **akwɛ kpo sika kpo sín kàn** sín tito voovo lɛ mɛ, sɛ́n nɔ kàn akwɛ tɛnmɛnu ɖokpo ɖó sika agbasa ɖé. Sɛ́n enɛ lɛ nɔ vó ɖò fífí kpo hwenu kpo jí.
 

@@ -19,7 +19,7 @@ Ons gebruik elke dag geld, maar vra selde hoe dit werk.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Die meeste mense staan nooit stil om oor geld na te dink nie
 
@@ -29,7 +29,7 @@ Nie om dit te verdien of dit te bestee nie, maar om na te dink oor wat dit is en
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Vyf vrae om mee te begin
 
@@ -49,7 +49,7 @@ Nie om dit te verdien of dit te bestee nie, maar om na te dink oor wat dit is en
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Feit of mening?
 
@@ -74,7 +74,7 @@ Geld is 'n hulpmiddel vir ruil.
 
 Albei mense moet wat die ander het, op dieselfde tyd en in geskikte hoeveelhede wil hê.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Gebruik die voorbeeld in die gids: u verbou rys en het skoene nodig, maar die skoenmaker wil kookolie hê, nie rys nie. Ekonome noem dit die dubbele ooreenstemming van behoeftes. -->
 
@@ -96,13 +96,13 @@ Albei persone moet terselfdertyd en in gepaste hoeveelhede wil hê wat die ander
 
 Niemand wil geld bloot ter wille van geld hê nie. Dit is nuttig omdat ander dit aanvaar in die verwagting dat ander dit later sal aanvaar.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: ’n Banknoot is net ’n stuk papier. Geld los die probleem van ruilhandel op deur verkoop van koop te skei: u verkoop u rys aan een persoon en koop skoene by ’n ander. Dit is wat geld van ruilhandel onderskei. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Drie dinge wat geld doen
 
@@ -114,7 +114,7 @@ Geen geld behou waarde volmaak nie, maar sommige vorme verloor Koopkrag stadiger
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Van skulpe tot papier
 
@@ -161,13 +161,13 @@ Wanneer mense die woord inflasie hoor, dink hulle gewoonlik aan pryse wat styg.
 
 ## Inflasie en koopkrag
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Prysinflasie is ’n volgehoue styging in die algemene prysvlak. Die keersy daarvan is koopkrag: hoeveel ’n geldeenheid kan koop. As die prys van ’n mandjie basiese goedere van 100 geldeenhede tot 110 styg, kan dieselfde 100 geldeenhede nie meer die volle mandjie koop nie. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Baie oorsake, een keuse
 
@@ -285,7 +285,7 @@ Een bitcoin kan verdeel word in 100 000 000 kleiner eenhede wat satoshis, of sat
 
 ## Wie hou Bitcoin aan die gang?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Gebruikers stuur, ontvang en hou bitcoin; nodusse toets elke transaksie en blok aan die reëls; mynwerkers ding mee om ongeveer elke tien minute ’n nuwe blok by die rekord te voeg. Daardie rekord, die blokketting, is openbaar en baie duur om te herskryf. ’n Nota oor spelling: Bitcoin met ’n hoofletter-B beteken gewoonlik die netwerk of die stelsel; bitcoin met ’n kleinletter-b beteken die geld self. -->
 
@@ -330,7 +330,7 @@ Die keuse van 'n bewaringsvorm is nie 'n maatstaf van u waarde nie. Wat saak maa
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## U saadfrase verleen volle toegang
 
@@ -350,7 +350,7 @@ Die keuse van 'n bewaringsvorm is nie 'n maatstaf van u waarde nie. Wat saak maa
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Voordat u enige beursie gebruik
 
@@ -391,7 +391,7 @@ Die keuse van 'n bewaringsvorm is nie 'n maatstaf van u waarde nie. Wat saak maa
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Stop, deel niks, stuur niks
 
@@ -426,7 +426,7 @@ Dit is net die begin.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Die Bitcoin-diploma
 

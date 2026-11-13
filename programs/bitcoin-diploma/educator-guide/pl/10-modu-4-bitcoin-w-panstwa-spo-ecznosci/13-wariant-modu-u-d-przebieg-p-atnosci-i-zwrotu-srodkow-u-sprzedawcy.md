@@ -25,4 +25,4 @@ Należy omówić:
 
 **Omówienie:** Dlaczego automatyczne wysłanie zwrotu na adres uznany za pierwotny jest niebezpieczne? Kto ponosi odpowiedzialność, gdy kilka osób z personelu korzysta z jednego portfela?
 
-![Osoba prowadząca zajęcia wskazuje pustą kartę ewidencyjną, podczas gdy osoba początkująca i właściciel firmy sprawdzają telefony szkoleniowe przy ladzie sprzedawcy.](https://cdn.sanity.io/images/vje9ehw2/production/7c785fef5d3b3be3d4a60aa9cfa250f74e18d1ec-1054x1493.png)
+![Osoba prowadząca zajęcia wskazuje pustą kartę ewidencyjną, podczas gdy osoba początkująca i właściciel firmy sprawdzają telefony szkoleniowe przy ladzie sprzedawcy.](https://cdn.sanity.io/images/vje9ehw2/staging/7c785fef5d3b3be3d4a60aa9cfa250f74e18d1ec-1054x1493.png)

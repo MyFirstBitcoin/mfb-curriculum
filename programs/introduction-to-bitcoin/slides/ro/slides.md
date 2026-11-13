@@ -19,7 +19,7 @@ Folosim banii în fiecare zi, dar rareori ne întrebăm cum funcționează.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Majoritatea oamenilor nu se opresc niciodată să reflecteze asupra banilor
 
@@ -29,7 +29,7 @@ Nu câștigându-l, nu cheltuindu-l, ci gândindu-vă la ce este și cum funcți
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Cinci întrebări pentru început
 
@@ -49,7 +49,7 @@ Nu câștigându-l, nu cheltuindu-l, ci gândindu-vă la ce este și cum funcți
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Fapt sau opinie?
 
@@ -74,7 +74,7 @@ Banii sunt un instrument de schimb.
 
 Ambele persoane trebuie să își dorească ceea ce are cealaltă, în același timp și în cantități potrivite.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Folosiți exemplul din ghid: cultivați orez și aveți nevoie de pantofi, dar cizmarul dorește ulei de gătit, nu orez. Economiștii numesc această situație dubla coincidență a nevoilor. -->
 
@@ -96,13 +96,13 @@ Ambele persoane trebuie să își dorească ceea ce are cealaltă, în același 
 
 Nimeni nu își dorește bani de dragul banilor. Banii sunt utili deoarece ceilalți îi acceptă, așteptându-se ca și alții să îi accepte mai târziu.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: O bancnotă este doar o bucată de hârtie. Banii rezolvă problema trocului prin separarea vânzării de cumpărare: vă vindeți orezul unei persoane și cumpărați pantofi de la alta. Aceasta este diferența dintre bani și troc. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Trei funcții ale banilor
 
@@ -114,7 +114,7 @@ Nicio formă de bani nu păstrează perfect valoarea, dar unele forme pierd din 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## De la scoici la hârtie
 
@@ -161,13 +161,13 @@ Când oamenii aud cuvântul inflație, se gândesc de obicei la creșterea preț
 
 ## Inflația și puterea de cumpărare
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Inflația prețurilor reprezintă o creștere susținută a nivelului general al prețurilor. Cealaltă față a acesteia este puterea de cumpărare: cât se poate cumpăra cu o unitate monetară. Dacă prețul unui coș de bunuri de bază crește de la 100 de unități monetare la 110, aceleași 100 de unități nu mai sunt suficiente pentru a cumpăra întregul coș. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Multe cauze, o singură alegere
 
@@ -285,7 +285,7 @@ Un bitcoin se împarte în 100.000.000 de unități mai mici numite satoshi sau 
 
 ## Cine menține Bitcoin în funcțiune?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Utilizatorii trimit, primesc și dețin bitcoin; nodurile verifică fiecare tranzacție și fiecare bloc pentru a se asigura că respectă regulile; minerii concurează pentru a adăuga un nou bloc în registru aproximativ la fiecare zece minute. Acest registru, numit blockchain, este public și foarte costisitor de rescris. O precizare privind scrierea: Bitcoin cu B mare desemnează de obicei rețeaua sau sistemul; bitcoin cu b mic desemnează banii în sine. -->
 
@@ -330,7 +330,7 @@ Alegerea formei de custodie nu este un test al valorii personale. Ceea ce contea
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Fraza dumneavoastră de recuperare oferă acces deplin
 
@@ -350,7 +350,7 @@ O listă ordonată de cuvinte, adesea 12 sau 24, care vă permite să vă recrea
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Înainte de a utiliza orice portofel
 
@@ -391,7 +391,7 @@ O listă ordonată de cuvinte, adesea 12 sau 24, care vă permite să vă recrea
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Opriți-vă, nu divulgați nimic, nu trimiteți nimic
 
@@ -426,7 +426,7 @@ Acesta este doar începutul.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Diploma Bitcoin
 

@@ -12,9 +12,9 @@ Mo tsamaisong ya go ananya dithoto, kgwebo e kgonega fela fa batho ka bobedi ba 
 
 Ke **sedirisiwa sa kananyo**: batho ba a amogela e le tuelo. Ke **yuniti ya go bala boleng**: ditlhwatlhwa di tlhalosiwa ka one, gore re kgone go bapisa boleng jwa dilo tse di farologaneng. Mme ke **bobolokelo jwa boleng**: a fetisetsa boleng go tswa mo letsatsing la gompieno go ya kwa isagweng. Ga go mofuta ope wa madi o o bolokang boleng ka botlalo, mme mefuta mengwe e latlhegelwa ke bokgoni jwa go reka ka bonya go feta e mengwe.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Mo hisitoring yotlhe, dilo di le dintsi di kile tsa dirisiwa e le madi: dikgopa tsa lewatle, letswai, dibaga, diruiwa, kgotlho, selefera le gouta. Dimetale tse di tlhwatlhwakgolo di ne tsa dirisiwa thata ka gonne di ne di sa bonwe motlhofo, di sa senyege motlhofo e bile di amogelwa ke batho ba le bantsi. Mme go rwala le go sireletsa metale go thata, ka jalo dibanka di ne tsa simolola go ntsha dipampiri tse di neng di naya mong wa tsone tshwanelo ya go di ananya ka selekanyo se se kailweng sa metale. Mo mefuteng e e farologaneng ya **tsamaiso ya go ikaega ka gouta**, yuniti ya madi e ne e golagantswe ka molao le selekanyo se se rileng sa gouta. Melao e ne e farologana go ya ka lefelo le motlha.
 

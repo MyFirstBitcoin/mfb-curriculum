@@ -12,9 +12,9 @@ A cserekereskedelemben az üzlet csak akkor jön létre, ha mindkét fél azt ak
 
 A pénz **csereeszköz**: az emberek elfogadják fizetésként. Emellett **elszámolási egység**: az árakat ebben fejezzük ki, így össze tudjuk hasonlítani a különböző dolgok értékét. Továbbá **értékőrző**: átviszi az értéket a jelenből a jövőbe. Egyetlen pénz sem őrzi meg tökéletesen az értékét, de egyes pénzformák lassabban veszítik el vásárlóerejüket, mint mások.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 A történelem során sok minden szolgált pénzként: kagyló, só, gyöngy, haszonállat, réz, ezüst és arany. A nemesfémek azért terjedtek el széles körben, mert ritkák, tartósak és széles körben elfogadottak voltak. A fém szállítása és védelme azonban nehéz, ezért a bankok papíralapú követeléseket kezdtek kibocsátani, amelyeket meghatározott mennyiségű fémre lehetett beváltani. Az eltérő változatokban alkalmazott **aranystandard** keretében a pénzegységet jogilag meghatározott mennyiségű aranyhoz kötötték. A szabályok helyenként és korszakonként eltértek.
 

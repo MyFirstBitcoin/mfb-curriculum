@@ -9,7 +9,7 @@
 > Nei [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) nei [no-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) savaime nėra geriausias pasirinkimas. Palyginkite konkretų būdą, kai taisyklės neaiškios, vadovaukitės naujausiomis vietinėmis rekomendacijomis ir nepažeiskite vietos įstatymų bei nekelkite sau fizinio pavojaus siekdami [privatumo](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
 Tam tikra [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) paslauga gali reikalauti pateikti oficialų vardą ir pavardę, asmens tapatybės dokumentą, adresą, nuotrauką, informaciją apie lėšų kilmę ar kitus dokumentus. Tai gali leisti paslaugos teikėjui laikytis vietos taisyklių, bendradarbiauti su bankais, nustatyti didesnius limitus ar padėti atkurti prieigą prie paskyros.
 

@@ -23,4 +23,4 @@ Noen personer har flere roller. En [utvinner](https://curriculum.myfirstbitcoin.
 
 **Kontrollspørsmål:** Hvorfor utfører en [node](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) verifisering av [transaksjoner](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction)? Oppgi minst én regel som en [node](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) kontrollerer.
 
-![Læreren veileder den teknisk orienterte eleven ved en datamaskin som kjører en node, med skjermen vendt mot dem og baksiden av skjermen synlig for betrakteren.](https://cdn.sanity.io/images/vje9ehw2/production/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)
+![Læreren veileder den teknisk orienterte eleven ved en datamaskin som kjører en node, med skjermen vendt mot dem og baksiden av skjermen synlig for betrakteren.](https://cdn.sanity.io/images/vje9ehw2/staging/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)

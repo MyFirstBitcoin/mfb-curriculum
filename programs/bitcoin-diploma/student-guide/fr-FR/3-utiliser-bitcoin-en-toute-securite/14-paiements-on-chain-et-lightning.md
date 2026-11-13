@@ -1,6 +1,6 @@
 # 3.14 Paiements on-chain et Lightning
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
@@ -30,4 +30,4 @@ Quelle voie de paiement le destinataire attend-il ? Avant de payer, vérifiez s
 
 Imaginez qu’un scénario préparé propose les deux voies de paiement. Quelle demande le portefeuille prévu peut-il utiliser, et que vérifieriez-vous avant de l’approuver ? La réponse dépend de la demande de paiement du destinataire, du portefeuille et de la situation — et non d’une voie universellement « meilleure ».
 
-![L’enseignant montre sur un tableau deux voies de paiement représentées par des tracés géométriques différents, tandis que les apprenants débutants et techniques les examinent.](https://cdn.sanity.io/images/vje9ehw2/production/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)
+![L’enseignant montre sur un tableau deux voies de paiement représentées par des tracés géométriques différents, tandis que les apprenants débutants et techniques les examinent.](https://cdn.sanity.io/images/vje9ehw2/staging/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)

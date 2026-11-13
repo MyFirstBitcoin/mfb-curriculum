@@ -20,4 +20,4 @@ Icitonderwa ku nyandiko: **Bitcoin** yanditswe na B nkuru akenshi isobanura umuh
 
 Bitcoin na yo ifise ivyiza n'ibibi bijana. Igiciro cayo kirashobora guhinduka ningoga. Amakosa akenshi ntashobora gukosorwa. Ahantu henshi iracemerwa n'abantu bake gusa, kandi kuyikoresha ata nkomanzi bisaba kwiga bimwe. Bitcoin isubiriza igice c'ukwizigira inzego n'ukugenzura hamwe n'ukwiyitwararika kw'umuntu ku giti ciwe. Ntikuraho ingorane zo guhomba.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

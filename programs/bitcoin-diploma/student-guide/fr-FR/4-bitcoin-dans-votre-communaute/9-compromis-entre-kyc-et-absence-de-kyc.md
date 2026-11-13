@@ -9,7 +9,7 @@
 > Ni le parcours [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) ni le parcours [sans KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) n’est automatiquement préférable. Comparez le parcours réel, consultez des recommandations locales à jour lorsque les règles manquent de clarté, et n’enfreignez pas la législation locale ni ne vous exposez à un danger physique pour protéger votre [vie privée](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
 Un service [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) peut demander un nom légal, une pièce d’identité, une adresse, une photographie, des informations sur l’origine des fonds ou d’autres documents. Cela peut lui permettre de respecter les règles locales, de se connecter aux banques, de fixer des plafonds plus élevés ou de faciliter la récupération d’un compte.
 

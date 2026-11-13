@@ -22,4 +22,4 @@ Tài liệu hướng dẫn này được xây dựng xoay quanh sáu câu hỏi:
 
 Tài liệu này chỉ phục vụ mục đích giáo dục. Tài liệu không cung cấp lời khuyên về tài chính, đầu tư, pháp lý hay thuế, cũng không khuyên quý vị mua, bán hoặc nắm giữ bất cứ thứ gì.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)

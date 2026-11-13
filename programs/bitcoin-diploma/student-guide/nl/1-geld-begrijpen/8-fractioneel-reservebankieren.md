@@ -28,7 +28,7 @@ Dit brengt twee belangrijke risico's met zich mee:
 [Liquiditeitsrisico: veel spaarders staan vandaag in de rij om geld op te nemen, en de bank heeft nu onvoldoende contant geld, ook al kunnen haar leningen later worden terugbetaald. Solvabiliteitsrisico: leners lossen hun hypotheek niet meer af, en de activa van de bank worden minder waard dan wat zij verschuldigd is.](/micrographics/liquidity-vs-solvency-01/nl.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f5f7999af936541b5928421cac58b3e5c7abd428-1536x1024.svg)
 
 
 

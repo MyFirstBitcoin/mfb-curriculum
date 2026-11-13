@@ -36,4 +36,4 @@ Neki novčanici upotrebljavaju dodatne zaporke, više ključeva ili druge sustav
 [Zapisivanje sigurnosne kopije fraze za oporavak u tri koraka: zaslon novčanika prikazuje riječi, vi ih rukom prepisujete na papir istim redoslijedom, a zatim provjeravate svaku riječ prema prikazu na zaslonu. Učinite to u privatnosti i bez internetske veze.](/micrographics/seed-phrase-paper-backup-01/hr.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)

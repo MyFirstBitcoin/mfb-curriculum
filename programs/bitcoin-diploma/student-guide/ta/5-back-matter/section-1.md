@@ -26,11 +26,11 @@
 
 ### ஒரு கற்றல் சமூகத்தில் இணையுங்கள்
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
 
 இந்த [பிட்காயின் கல்வி வலையமைப்பு](https://myfirstbitcoin.org/about/network) சுயாதீனக் கல்வியாளர்களையும் உள்ளூர் கற்றல் சமூகங்களையும் இணைக்கிறது. உங்களுக்கு அருகிலுள்ள ஒரு சமூகத்தை அல்லது அதன் பணிகள் உங்களுக்கு ஆர்வமூட்டும் ஒரு சமூகத்தைக் கண்டறிந்து, நீங்கள் எவ்வாறு கற்கலாம், தன்னார்வலராகப் பணியாற்றலாம் அல்லது பங்களிக்கலாம் என்று கேட்க அதைத் தொடர்புகொள்ளுங்கள். பங்கேற்பது விருப்பத்திற்குரியது; அது பட்டயப் படிப்பை முடிப்பதையோ, மதிப்பீட்டையோ, சான்றிதழ் பெறுவதையோ பாதிக்காது.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
 
 ### ஒரு பாதுகாப்பு நினைவூட்டல்
 
@@ -92,13 +92,13 @@
 
 நீங்கள் பெறும் மிக முக்கியமான பயன் சான்றிதழ் அல்ல. பணத்தையும் பிட்காயினையும் தெளிவாக விளக்குவது, இடரை அடையாளம் காண்பது, செயல்படுவதற்கு முன் சரிபார்ப்பது, தொடர்ந்து சுயமாகக் கற்றுக்கொள்வது ஆகிய திறன்களே மிக முக்கியமான பயனாகும்.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
 
 ### இலவச பிட்காயின் கல்விக்கு ஆதரவளியுங்கள்
 
 My First Bitcoin வழங்கும் கல்வி வளங்கள் இலவசமானவை, திறந்த மூலமானவை. தன்னார்வ ஆதரவு, பாடத்திட்டத்தைப் பராமரிக்கவும், கல்வியாளர்களுக்குப் பயிற்சியளிக்கவும், மேலும் பலர் அணுக வழிவகுக்கவும் உதவுகிறது.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
 
 
 https://donate.myfirstbitcoin.org
@@ -112,4 +112,4 @@ _My First Bitcoin-க்கு ஆதரவளியுங்கள்_
 ---
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)

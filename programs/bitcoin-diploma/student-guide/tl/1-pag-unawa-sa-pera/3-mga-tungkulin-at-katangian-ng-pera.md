@@ -30,4 +30,4 @@ Inihahambing din ng mga tao ang pera batay sa [**katatagan nito**](https://curri
 
 **Mag-isip nang mapanuri:** Magbanggit ng isang pagkakataon na pinili ninyo ang isang uri ng pera o [ari-arian](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) kaysa sa iba. Ano ang layunin ninyo? Ihambing ang mga katangian ng mga opsyong maaari sana ninyong gamitin. Aling mga katangian ang pinakamahalaga sa inyo, at bakit?
 
-![Nagtutulungan ang lahat ng anim na tauhan sa isang aktibidad na gumagamit ng mga kard na panturo at hindi nangangailangan ng internet habang ginagabayan ng tagapagturo ang talakayan.](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![Nagtutulungan ang lahat ng anim na tauhan sa isang aktibidad na gumagamit ng mga kard na panturo at hindi nangangailangan ng internet habang ginagabayan ng tagapagturo ang talakayan.](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)

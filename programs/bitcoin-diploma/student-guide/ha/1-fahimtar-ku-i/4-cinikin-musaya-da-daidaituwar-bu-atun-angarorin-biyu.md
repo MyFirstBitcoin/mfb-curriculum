@@ -8,7 +8,7 @@
 
 Ku yi tunanin cewa **Amina** tana da shinkafa kuma tana son takalma. **Luis** yana da takalma amma yana son man girki, ba shinkafa ba. **Mei** tana da man girki kuma tana son a yi mata aikin gyara. Amina na iya buƙatar yin musaya sau da yawa kafin ta samu takalman. Kowace musaya tana ɗaukar lokaci kuma tana buƙatar cimma yarjejeniya kan [daraja](https://curriculum.myfirstbitcoin.org/lexicon/en/#value).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/97c7128f6006e5e626371bb483f5707ed03d9cdc-1536x1024.svg)
 
 
 <!-- micrographic: barter-mismatch-01 -->
@@ -29,7 +29,7 @@ Kuɗin da aka amince da su a ko'ina suna raba sayarwa da saye. Amina za ta iya s
 
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
 
 <!-- micrographic: sell-then-buy-01 -->

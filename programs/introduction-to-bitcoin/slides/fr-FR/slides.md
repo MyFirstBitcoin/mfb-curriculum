@@ -19,7 +19,7 @@ Nous utilisons la monnaie tous les jours, mais nous nous demandons rarement comm
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## La plupart des gens ne prennent jamais le temps de réfléchir à la monnaie
 
@@ -29,7 +29,7 @@ Non pas la gagner ni la dépenser, mais réfléchir à ce qu’elle est et à la
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Cinq questions pour commencer
 
@@ -49,7 +49,7 @@ Non pas la gagner ni la dépenser, mais réfléchir à ce qu’elle est et à la
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Fait ou opinion ?
 
@@ -74,7 +74,7 @@ La monnaie est un outil d’échange.
 
 Les deux personnes doivent vouloir ce que l’autre possède, au même moment et dans des quantités appropriées.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Utilisez l’exemple du guide : vous cultivez du riz et avez besoin de chaussures, mais le cordonnier veut de l’huile de cuisson, pas du riz. Les économistes appellent cela la double coïncidence des besoins. -->
 
@@ -96,13 +96,13 @@ Les deux personnes doivent vouloir ce que l’autre possède, au même moment et
 
 Personne ne désire la monnaie pour elle-même. Elle est utile parce que d’autres l’acceptent, s’attendant à ce que d’autres l’acceptent à leur tour.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Un billet de banque n’est qu’un morceau de papier. La monnaie résout le problème du troc en séparant la vente de l’achat : vous vendez votre riz à une personne et achetez des chaussures à une autre. C’est ce qui distingue la monnaie du troc. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Les trois fonctions de la monnaie
 
@@ -114,7 +114,7 @@ Aucune monnaie ne conserve parfaitement sa valeur, mais certaines formes de monn
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Des coquillages au papier
 
@@ -161,13 +161,13 @@ Quand les gens entendent le mot inflation, ils pensent généralement à la haus
 
 ## Inflation et pouvoir d’achat
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: L’inflation des prix est une hausse durable du niveau général des prix. Son autre facette est le pouvoir d’achat : ce qu’une unité de monnaie permet d’acheter. Si le prix d’un panier de produits de base passe de 100 unités de monnaie à 110, les mêmes 100 unités ne permettent plus d’acheter le panier complet. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## De nombreuses causes, un seul choix
 
@@ -285,7 +285,7 @@ Un bitcoin se divise en 100 000 000 d’unités plus petites appelées satoshis,
 
 ## Qui fait fonctionner Bitcoin ?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Les utilisateurs envoient, reçoivent et détiennent des bitcoins ; les nœuds vérifient que chaque transaction et chaque bloc respectent les règles ; les mineurs sont en concurrence pour ajouter un nouveau bloc au registre toutes les dix minutes environ. Ce registre, la blockchain, est public et très coûteux à réécrire. Une remarque sur l’orthographe : Bitcoin avec un B majuscule désigne généralement le réseau ou le système ; bitcoin avec un b minuscule désigne la monnaie elle-même. -->
 
@@ -330,7 +330,7 @@ Le choix du mode de garde n’est pas un jugement sur votre valeur. L’essentie
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Votre phrase de récupération donne un accès complet
 
@@ -350,7 +350,7 @@ Une liste ordonnée de mots, souvent 12 ou 24, qui permet de reconstituer vos cl
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Avant d’utiliser un portefeuille
 
@@ -391,7 +391,7 @@ Une liste ordonnée de mots, souvent 12 ou 24, qui permet de reconstituer vos cl
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Arrêtez-vous, ne partagez rien, n’envoyez rien
 
@@ -426,7 +426,7 @@ Ce n’est que le début.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## Le diplôme Bitcoin
 

@@ -18,7 +18,7 @@ Beim Senden ist mehr Sorgfalt nötig, weil eine gültige Bitcoin-[Transaktion](h
 1. Führen Sie einen kleinen Test durch, wenn Ihnen der Ablauf nicht vertraut ist.
 1. Bestätigen Sie nur, wenn alle Punkte übereinstimmen; prüfen Sie anschließend das Ergebnis der Zahlung.
 
-![Der ältere Lernende zeigt ein Übungstelefon, während der Anfänger ein anderes Telefon prüft und die Lehrkraft den Vergleich anleitet.](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![Der ältere Lernende zeigt ein Übungstelefon, während der Anfänger ein anderes Telefon prüft und die Lehrkraft den Vergleich anleitet.](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 
 <!-- micrographic: pre-send-checklist-01 -->
@@ -29,4 +29,4 @@ Bei einer [On-Chain-Zahlung](https://curriculum.myfirstbitcoin.org/lexicon/en/#o
 
 Was sollten Sie tun, wenn sich das Ziel unerwartet ändert, die Anfrage plötzlich dringend wird oder jemand nach Wiederherstellungsinformationen fragt? Halten Sie an. Prüfen Sie die Anfrage unabhängig nach oder bitten Sie um Hilfe, ohne Geheimnisse preiszugeben.
 
-![Die Lehrkraft leitet den Anfänger an, während er vor der Bestätigung einer Zahlung ein Telefon mit dem Empfangsgerät des Geschäftsinhabers vergleicht.](https://cdn.sanity.io/images/vje9ehw2/production/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)
+![Die Lehrkraft leitet den Anfänger an, während er vor der Bestätigung einer Zahlung ein Telefon mit dem Empfangsgerät des Geschäftsinhabers vergleicht.](https://cdn.sanity.io/images/vje9ehw2/staging/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)

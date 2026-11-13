@@ -12,7 +12,7 @@ Sự khác biệt này rất quan trọng đối với việc xác minh. Các qu
 
 Trong một ví **không lưu ký** hoặc **tự lưu ký**, QUÝ VỊ kiểm soát các khóa. Ví ký các [giao dịch](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) theo sự cho phép của quý vị. Vẫn có thể có những phụ thuộc vào phần mềm, phần cứng, máy chủ hoặc mạng, nhưng không cần bất kỳ [bên lưu ký](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian) nào phê duyệt một giao dịch chi tiêu hợp lệ trên chuỗi.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 
 <!-- micrographic: who-controls-keys-01 -->

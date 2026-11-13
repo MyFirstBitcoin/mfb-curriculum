@@ -1,6 +1,6 @@
 # 4.7 Scénarios de dépenses et de réception de paiements au niveau local
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/fa265ee4b78004e155781ac30066875cd39cc983-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/fa265ee4b78004e155781ac30066875cd39cc983-1536x1024.svg)
 
 
 <!-- micrographic: coffee-shop-payment-01 -->

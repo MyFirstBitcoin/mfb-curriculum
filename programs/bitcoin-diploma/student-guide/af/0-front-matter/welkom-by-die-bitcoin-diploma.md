@@ -8,7 +8,7 @@ Die projek het in 2021 met klein kontantklasse in El Salvador begin, nadat die l
 
 Ons werk is onafhanklik, gemeenskapsgedrewe en op Bitcoin toegespits. Ons fokus op finansiële geletterdheid, sorgvuldige denke en praktiese veiligheid - nie op handel, spekulasie of die bevordering van ander tokens nie. Ons vra u nie om 'n oortuiging te aanvaar nie. Ons bied eerder begrippe, vrae en praktiese kennis sodat u u eie gevolgtrekkings kan maak.
 
-![Die opvoeder verwelkom die beginner, ouer leerder, sake-eienaar, tegniese leerder en jong leerder in 'n gesamentlike leergroep.](https://cdn.sanity.io/images/vje9ehw2/production/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
+![Die opvoeder verwelkom die beginner, ouer leerder, sake-eienaar, tegniese leerder en jong leerder in 'n gesamentlike leergroep.](https://cdn.sanity.io/images/vje9ehw2/staging/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
 
 ### Ons missie: onafhanklike oopbrononderrig oor Bitcoin
 

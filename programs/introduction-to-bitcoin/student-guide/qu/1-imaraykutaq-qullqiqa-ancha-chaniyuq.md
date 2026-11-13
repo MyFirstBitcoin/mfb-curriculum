@@ -22,4 +22,4 @@ Kay pusariq qillqaqa suqta tapukuymanhinam wakichisqa kachkan: imaraykutaq qullq
 
 Yachachinallapaqmi. Manam qullqi apaykachanamanta, wiñachinapaq qullqi churaymanta, kamachikunamanta, nitaq qullqi haywaykunamantapas yuyaychaykunata qunchu; manataqmi imatapas rantiychik, qhatuychik utaq waqaychaychik nispa ninchu.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)

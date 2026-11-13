@@ -36,4 +36,4 @@ Baadhi ya pochi hutumia kaulisiri za ziada, funguo nyingi, au mifumo mingine ya 
 [Kuandika nakala rudufu ya kirai cha mbegu kwa hatua tatu: skrini ya pochi inaonyesha maneno, mnayanakili kwa mkono kwenye karatasi kwa mpangilio uleule, kisha mnahakiki kila neno dhidi ya skrini. Fanyeni hivyo faraghani na bila mtandao.](/micrographics/seed-phrase-paper-backup-01/sw.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)

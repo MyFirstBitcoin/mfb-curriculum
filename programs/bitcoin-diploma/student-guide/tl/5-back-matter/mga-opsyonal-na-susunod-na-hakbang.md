@@ -26,11 +26,11 @@ Tinutulungan kayo ng Gabay para sa mga Tagapagturo na maghanda ng mga aralin, ma
 
 ### Sumali sa isang komunidad sa pag-aaral
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
 
 Ang [Network para sa Edukasyon tungkol sa Bitcoin](https://myfirstbitcoin.org/about/network) ay nag-uugnay sa mga independiyenteng tagapagturo at mga lokal na komunidad sa pag-aaral. Maghanap ng komunidad na malapit sa inyo, o komunidad na may mga gawaing interesado kayo, at makipag-ugnayan dito upang itanong kung paano kayo maaaring matuto, magboluntaryo, o mag-ambag. Opsiyonal ang paglahok at hindi ito nakakaapekto sa pagkumpleto ng Diploma, pagtatasa, o sertipikasyon.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
 
 ### Isang paalala sa kaligtasan
 
@@ -92,13 +92,13 @@ Kung nagbibigay ng paraan ng beripikasyon ang tagapagturong nag-isyu, gamitin la
 
 Ang pinakamahalagang resulta para sa inyo ay hindi ang sertipiko. Ito ay ang kakayahang malinaw na ipaliwanag ang pera at Bitcoin, kilalanin ang panganib, magberipika bago kumilos, at patuloy na matuto nang nakapag-iisa.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
 
 ### Suportahan ang libreng edukasyon tungkol sa Bitcoin
 
 Libre at open source ang mga materyal na pang-edukasyon ng My First Bitcoin. Nakakatulong ang boluntaryong suporta sa pagpapanatili ng kurikulum, pagsasanay sa mga tagapagturo, at pagpapalawak ng access.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
 
 
 https://donate.myfirstbitcoin.org
@@ -112,4 +112,4 @@ Kung pipiliin ninyong mag-ambag, gamitin ang opisyal na [pahina para sa donasyon
 ---
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)

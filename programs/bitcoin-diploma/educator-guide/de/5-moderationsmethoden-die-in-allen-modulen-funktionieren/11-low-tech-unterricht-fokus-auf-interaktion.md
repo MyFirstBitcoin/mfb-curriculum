@@ -6,4 +6,4 @@ Einfache Materialien können den Vorbereitungsaufwand und Ablenkungen verringern
 
 Mehr Hilfsmittel können mehr Komplexität mit sich bringen. Setzen Sie ein Hilfsmittel ein, wenn es den Lernenden hilft, etwas zu verstehen oder zu üben, und halten Sie eine einfache Alternative bereit. Achten Sie zuerst auf die Qualität der Beteiligung: Machen die Lernenden mit, stellen sie Fragen, erklären sie ihre Überlegungen und zeigen sie, was sie verstanden haben? Wählen Sie den Ansatz, der dieses Lernen unterstützt.
 
-![Die Lehrkraft und ein älterer Lernender ordnen Lernkarten, während der junge Lernende mit einem Notizbuch mitarbeitet.](https://cdn.sanity.io/images/vje9ehw2/production/f062a7d4ca6c0e188b299060e170b244e0ee7acb-1054x1492.png)
+![Die Lehrkraft und ein älterer Lernender ordnen Lernkarten, während der junge Lernende mit einem Notizbuch mitarbeitet.](https://cdn.sanity.io/images/vje9ehw2/staging/f062a7d4ca6c0e188b299060e170b244e0ee7acb-1054x1492.png)

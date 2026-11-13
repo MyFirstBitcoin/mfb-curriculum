@@ -13,4 +13,4 @@ Use la dinámica de pensar, conversar en parejas y compartir antes de la discusi
 
 Pida a los estudiantes que fundamenten sus respuestas con un concepto del curso y un ejemplo, no con un eslogan.
 
-![El educador invita al estudiante de mayor edad a dar una explicación final, mientras el principiante y el dueño del negocio escuchan con sus guías.](https://cdn.sanity.io/images/vje9ehw2/production/294a2f8e8e831a2a0da998cfbc42a40102d4cc74-1054x1493.png)
+![El educador invita al estudiante de mayor edad a dar una explicación final, mientras el principiante y el dueño del negocio escuchan con sus guías.](https://cdn.sanity.io/images/vje9ehw2/staging/294a2f8e8e831a2a0da998cfbc42a40102d4cc74-1054x1493.png)

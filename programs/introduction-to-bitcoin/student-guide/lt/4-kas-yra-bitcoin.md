@@ -20,4 +20,4 @@ Pastaba dėl rašybos: **Bitcoin** iš didžiosios B paprastai reiškia tinklą 
 
 Bitcoin taip pat turi trūkumų. Jo kaina gali greitai keistis. Klaidų pasekmės paprastai yra negrįžtamos. Daugelyje vietų atsiskaitymas bitkoinais vis dar ribotas, o norint jais naudotis saugiai reikia šiek tiek pasimokyti. Bitcoin dalį pasitikėjimo institucijomis pakeičia tikrinimu ir asmenine atsakomybe. Tačiau rizikos jis nepanaikina.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

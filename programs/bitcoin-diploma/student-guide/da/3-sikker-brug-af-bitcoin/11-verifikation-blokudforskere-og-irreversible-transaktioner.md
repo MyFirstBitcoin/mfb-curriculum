@@ -22,4 +22,4 @@ For at undersøge en på forhånd klargjort [transaktion](https://curriculum.myf
 [En transaktion venter ubekræftet i puljen med afventende transaktioner og inkluderes derefter i blok N, hvilket giver den første bekræftelse. Hver efterfølgende blok tilføjer endnu en bekræftelse.](/micrographics/confirmation-timeline-01/da.md)
 
 
-![Underviseren og den ældre kursist diskuterer et forberedt eksempel på en skærm, der vender mod gruppen, mens den teknisk kyndige kursist betjener musen; beskueren ser skærmens bagside.](https://cdn.sanity.io/images/vje9ehw2/production/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)
+![Underviseren og den ældre kursist diskuterer et forberedt eksempel på en skærm, der vender mod gruppen, mens den teknisk kyndige kursist betjener musen; beskueren ser skærmens bagside.](https://cdn.sanity.io/images/vje9ehw2/staging/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)

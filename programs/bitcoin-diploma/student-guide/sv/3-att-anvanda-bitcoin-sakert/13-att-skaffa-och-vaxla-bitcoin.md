@@ -15,7 +15,7 @@ Människor kan få bitcoin genom arbete, en betalning inom en gemenskap, ett dir
 * **Utbyte mellan privatpersoner:** Två personer kan byta [fiatpengar](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) eller varor mot bitcoin direkt eller genom en matchningstjänst. Detta kan medföra motpartsrisker, risker för den fysiska säkerheten samt risker för återförda betalningar och bedrägerier.
 * **Börs, mäklare, uttagsautomat eller kiosk:** En tjänst eller automat kan erbjuda en välbekant väg, men kan innebära avgifter, identitetskontroller, [förvaring](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), uttagsgränser eller en ofördelaktig [växelkurs](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
 
 Ställ följande frågor innan ni jämför en väg:
 

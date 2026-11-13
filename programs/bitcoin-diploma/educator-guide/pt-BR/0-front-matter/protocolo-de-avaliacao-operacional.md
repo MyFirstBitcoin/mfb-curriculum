@@ -38,7 +38,7 @@ Escolha um percurso prático que pareça seguro e viável para os alunos. Regist
 [Para planejar uma turma, multiplique o número de alunos pelo tempo provável de suporte e observação e, em seguida, acrescente tempo para preparação, feedback, necessidades de acessibilidade e reavaliação. Se os educadores não tiverem tempo suficiente, mude o plano: menos alunos, mais educadores ou mais tempo.](/micrographics/cohort-capacity-check-01/pt-BR.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
 
 ### Correspondência entre competências e evidências
 

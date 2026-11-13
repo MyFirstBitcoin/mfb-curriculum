@@ -30,4 +30,4 @@ Mense vergelyk geld ook op grond van die [**deugdelikheid daarvan**](https://cur
 
 **Dink krities:** Noem 'n keer toe u een soort geld of [bate](https://curriculum.myfirstbitcoin.org/lexicon/en/#asset) bo 'n ander gekies het. Wat was die doel? Vergelyk die eienskappe van die opsies wat u kon gebruik het. Watter eienskappe was vir u die belangrikste, en waarom?
 
-![Al ses karakters werk saam aan 'n onderrigkaartaktiwiteit sonder internetverbinding terwyl die opvoeder die bespreking lei.](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![Al ses karakters werk saam aan 'n onderrigkaartaktiwiteit sonder internetverbinding terwyl die opvoeder die bespreking lei.](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)

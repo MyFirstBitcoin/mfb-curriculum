@@ -22,4 +22,4 @@ Wema elɔ sin ɖo kanbyɔ ayizɛn ji: etɛwutu akwɛ tindo nujɔnu, nu e nyi, nu
 
 E tin na nukplɔnkplɔn kɛɖɛ. E ma nɔ na aɖaŋu le akwɛzizan, akwɛdido, sɛ́n alo takisi ji a, bo ma nɔ ɖɔ na mi ɖɔ mi ni xɔ, sa alo hɛn nu ɖebǔ ɖo a.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)

@@ -9,7 +9,7 @@
 > Baik [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) maupun [non-KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) tidak otomatis menjadi pilihan terbaik. Bandingkan jalur yang sebenarnya, gunakan panduan setempat yang terkini ketika aturannya tidak jelas, dan jangan melanggar hukum setempat atau membahayakan keselamatan fisik Anda demi [privasi](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
 Layanan [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) dapat meminta nama resmi, dokumen identitas, alamat, foto, informasi sumber dana, atau catatan lainnya. Hal ini dapat memungkinkan layanan tersebut untuk mematuhi aturan setempat, terhubung dengan bank, menetapkan batas yang lebih tinggi, atau mendukung pemulihan akun.
 

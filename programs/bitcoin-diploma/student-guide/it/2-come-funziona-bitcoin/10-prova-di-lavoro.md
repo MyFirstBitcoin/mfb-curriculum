@@ -1,6 +1,6 @@
 # 2.10 Prova di lavoro
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
 <!-- card: definition -->
@@ -29,4 +29,4 @@ Quando un [miner](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) trova
 
 [La Proof of Work (PoW)](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) comporta un costo energetico reale. I sostenitori affermano che proprio questo costo ancora la sicurezza di Bitcoin e può creare domanda di energia flessibile o altrimenti inutilizzata. I critici mettono in discussione la quantità e la provenienza dell'energia impiegata. Una valutazione responsabile si chiede quale energia venga utilizzata, da dove provenga, quale sicurezza offra e con quali alternative venga confrontata.
 
-![L'educatore, lo studente principiante e lo studente tecnico discutono di un'unità di mining da tavolo con una ventola e un alimentatore separato.](https://cdn.sanity.io/images/vje9ehw2/production/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)
+![L'educatore, lo studente principiante e lo studente tecnico discutono di un'unità di mining da tavolo con una ventola e un alimentatore separato.](https://cdn.sanity.io/images/vje9ehw2/staging/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)

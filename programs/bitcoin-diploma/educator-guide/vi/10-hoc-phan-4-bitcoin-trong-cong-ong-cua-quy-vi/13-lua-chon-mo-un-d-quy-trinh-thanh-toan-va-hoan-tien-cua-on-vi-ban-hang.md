@@ -25,4 +25,4 @@ Nội dung cần đề cập:
 
 **Thảo luận tổng kết:** Vì sao việc tự động gửi tiền hoàn trả đến một địa chỉ được cho là địa chỉ ban đầu lại không an toàn? Ai sẽ chịu trách nhiệm khi nhiều nhân viên dùng chung một ví?
 
-![Giảng viên chỉ vào một phiếu ghi chép còn trống trong khi người mới học và chủ cơ sở kinh doanh kiểm tra các điện thoại dùng để thực hành tại quầy thanh toán.](https://cdn.sanity.io/images/vje9ehw2/production/7c785fef5d3b3be3d4a60aa9cfa250f74e18d1ec-1054x1493.png)
+![Giảng viên chỉ vào một phiếu ghi chép còn trống trong khi người mới học và chủ cơ sở kinh doanh kiểm tra các điện thoại dùng để thực hành tại quầy thanh toán.](https://cdn.sanity.io/images/vje9ehw2/staging/7c785fef5d3b3be3d4a60aa9cfa250f74e18d1ec-1054x1493.png)

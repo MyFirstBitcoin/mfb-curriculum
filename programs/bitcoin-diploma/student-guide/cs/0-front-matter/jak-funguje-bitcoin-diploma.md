@@ -27,7 +27,7 @@ Každý modul má stejný průběh:
 
 Aktivním zapojením se naučíte více než tichým čtením. Některé otázky nemají jedinou správnou odpověď. Důležité je, zda dokážete vysvětlit své uvažování, zkoumat důkazy a přehodnotit svůj názor, když se dozvíte něco nového.
 
-![Majitelka firmy ukazuje na jednoduché schéma v otevřené příručce, zatímco s ní o něm vyučující diskutuje u stolu v učebně.](https://cdn.sanity.io/images/vje9ehw2/production/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
+![Majitelka firmy ukazuje na jednoduché schéma v otevřené příručce, zatímco s ní o něm vyučující diskutuje u stolu v učebně.](https://cdn.sanity.io/images/vje9ehw2/staging/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
 
 ### Očekávání ohledně diskuse a soukromí
 
@@ -50,7 +50,7 @@ Váš vyučující vám vysvětlí všechny požadované hodnoticí aktivity. Te
 
 Váš vyučující používá hodnoticí tabulku, do níž zaznamenává jeden výsledek pro každou ze sedmi výše uvedených kompetencí. `C1`–`C5` se hodnotí na základě vašich vlastních vysvětlení a rozhodnutí; `C6`–`C7` vyžadují přímé pozorování. Úkol s peněženkou a přijetím platby i úkol ověřující připravenost na obnovu jsou povinnými součástmi `C6`.
 
-![Vyučující reaguje na zdviženou ruku začínajícího studenta, zatímco starší student sleduje výklad s otevřenou učebnicí kurzu.](https://cdn.sanity.io/images/vje9ehw2/production/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
+![Vyučující reaguje na zdviženou ruku začínajícího studenta, zatímco starší student sleduje výklad s otevřenou učebnicí kurzu.](https://cdn.sanity.io/images/vje9ehw2/staging/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
 
 ### Požadované vstupní znalosti: žádné
 

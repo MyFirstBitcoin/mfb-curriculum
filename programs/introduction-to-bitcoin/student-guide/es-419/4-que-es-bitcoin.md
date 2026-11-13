@@ -20,4 +20,4 @@ Una nota sobre la escritura: **Bitcoin** con B mayúscula suele referirse a la r
 
 Bitcoin también implica ventajas y desventajas. Su precio puede cambiar rápidamente. Los errores suelen ser permanentes. Su aceptación sigue siendo limitada en muchos lugares, y usarlo de forma segura requiere cierto aprendizaje. Bitcoin sustituye parte de la confianza en las instituciones por la verificación y la responsabilidad personal. No elimina el riesgo.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

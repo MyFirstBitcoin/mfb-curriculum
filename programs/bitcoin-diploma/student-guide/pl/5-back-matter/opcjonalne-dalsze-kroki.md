@@ -26,11 +26,11 @@ Przewodnik dla nauczycieli pomaga Państwu przygotowywać lekcje, prowadzić ćw
 
 ### Proszę dołączyć do społeczności edukacyjnej
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
 
 Sieć [Edukacji Bitcoin](https://myfirstbitcoin.org/about/network) łączy niezależnych nauczycieli i lokalne społeczności edukacyjne. Proszę znaleźć społeczność w swojej okolicy lub taką, której działalność Państwa interesuje, i skontaktować się z nią, aby zapytać o możliwości nauki, wolontariatu lub innego wsparcia. Uczestnictwo jest opcjonalne i nie wpływa na ukończenie Dyplomu, ocenę ani uzyskanie certyfikatu.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
 
 ### Przypomnienie o bezpieczeństwie
 
@@ -92,13 +92,13 @@ Jeśli edukator wystawiający certyfikat udostępnia metodę weryfikacji, prosz�
 
 Najważniejszym rezultatem Państwa nauki nie jest certyfikat. Jest nim umiejętność jasnego wyjaśniania, czym są pieniądz i Bitcoin, rozpoznawania ryzyka, weryfikowania informacji przed podjęciem działania oraz dalszego samodzielnego uczenia się.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
 
 ### Wsparcie bezpłatnej edukacji o Bitcoinie
 
 Materiały edukacyjne My First Bitcoin są bezpłatne i udostępniane na otwartej licencji. Dobrowolne wsparcie pomaga utrzymywać program nauczania, szkolić edukatorów i poszerzać dostęp.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
 
 
 https://donate.myfirstbitcoin.org
@@ -112,4 +112,4 @@ Jeśli zdecydują się Państwo przekazać wsparcie, proszę skorzystać z oficj
 ---
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)

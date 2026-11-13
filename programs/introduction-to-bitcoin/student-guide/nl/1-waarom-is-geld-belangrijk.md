@@ -22,4 +22,4 @@ Deze gids is opgebouwd rond zes vragen: waarom geld ertoe doet, wat het is, wat 
 
 Deze gids is uitsluitend bedoeld voor educatieve doeleinden. Hij biedt geen financieel, beleggings-, juridisch of fiscaal advies en zegt u niet dat u iets moet kopen, verkopen of aanhouden.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)

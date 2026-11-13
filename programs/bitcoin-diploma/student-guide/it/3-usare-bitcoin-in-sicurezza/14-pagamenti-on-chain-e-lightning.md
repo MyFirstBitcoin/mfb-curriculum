@@ -1,6 +1,6 @@
 # 3.14 Pagamenti on-chain e Lightning
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/db0a9af04f26c001f101dab84bb68faf11c8f1eb-1536x1024.svg)
 
 
 <!-- micrographic: on-chain-and-lightning-01 -->
@@ -30,4 +30,4 @@ Quale percorso si aspetta il destinatario? Prima di pagare, verifichi se Le ha f
 
 Immagini che uno scenario predisposto offra entrambi i percorsi di pagamento. Quale richiesta può utilizzare il wallet previsto, e che cosa verificherebbe prima di approvarla? La risposta dipende dalla richiesta di ricezione, dal wallet e dalla situazione, non da un percorso “migliore” universale.
 
-![L'educatore indica su una lavagna due diversi percorsi di pagamento geometrici, mentre lo studente principiante e quello con competenze tecniche li esaminano.](https://cdn.sanity.io/images/vje9ehw2/production/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)
+![L'educatore indica su una lavagna due diversi percorsi di pagamento geometrici, mentre lo studente principiante e quello con competenze tecniche li esaminano.](https://cdn.sanity.io/images/vje9ehw2/staging/88a814c8d03b3b08fbffc1adcec1767df8735759-1055x1491.png)

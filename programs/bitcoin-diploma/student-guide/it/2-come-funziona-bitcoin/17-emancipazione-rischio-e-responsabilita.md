@@ -6,7 +6,7 @@ Le regole pubbliche di Bitcoin, [la rete Peer-to-Peer (P2P)](https://curriculum.
 
 Queste caratteristiche possono dare maggiore autonomia ai partecipanti, ma attribuiscono loro anche una maggiore responsabilità. In assenza di un'autorità centrale che approvi le [transazioni](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), recuperi l'accesso o annulli molti errori, ciascuno deve essere in grado di individuare il ruolo che assume e i rischi che accetta.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
 
 Per chi sceglie l'[autocustodia](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody), il controllo delle chiavi comporta il controllo diretto dei bitcoin. Nessuna azienda può congelare un saldo on-chain controllato correttamente. Ma nessuna azienda può nemmeno ripristinare una [seed phrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) smarrita.
 

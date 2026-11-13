@@ -12,7 +12,7 @@ Cette différence est importante pour la vérification. Les règles de Bitcoin e
 
 Dans le cadre d’une utilisation **sans garde par un tiers** ou **en autogarde** d’un portefeuille, VOUS contrôlez les clés. Le portefeuille signe les [transactions](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) sous votre autorité. Il peut subsister des dépendances à des logiciels, à du matériel, à des serveurs ou au réseau, mais aucun [dépositaire](https://curriculum.myfirstbitcoin.org/lexicon/en/#custodian) n’a à approuver une dépense valide sur la blockchain.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f93df0cc4a2ad82b3410a9ad4c3273d1b760f8ea-1774x887.svg)
 
 
 <!-- micrographic: who-controls-keys-01 -->

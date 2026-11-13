@@ -1,6 +1,6 @@
 # 3.16 Repaso: ¿Qué significa la responsabilidad de la autocustodia?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/f599a01df427d0910353059595fa7e6e16401eab-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/f599a01df427d0910353059595fa7e6e16401eab-1536x1024.svg)
 
 
 <!-- micrographic: self-custody-responsibilities-01 -->

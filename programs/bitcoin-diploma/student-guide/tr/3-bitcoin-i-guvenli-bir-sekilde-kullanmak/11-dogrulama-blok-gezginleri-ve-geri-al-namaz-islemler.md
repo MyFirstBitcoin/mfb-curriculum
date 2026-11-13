@@ -22,4 +22,4 @@ Hazırlanmış bir [işlemi](https://curriculum.myfirstbitcoin.org/lexicon/en/#t
 [Bir işlem, bekleyen havuzda onaylanmamış olarak bekler, ardından ilk onayı olarak Blok N'ye dahil edilir ve sonraki her blok bir onay daha ekler.](/micrographics/confirmation-timeline-01/tr.md)
 
 
-![Eğitmen ve yaşça büyük öğrenci, gruba dönük bir monitördeki hazırlanmış bir örneği tartışırken teknik bilgisi olan öğrenci fareyi kullanıyor; izleyici monitörün arka kasasını görüyor.](https://cdn.sanity.io/images/vje9ehw2/production/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)
+![Eğitmen ve yaşça büyük öğrenci, gruba dönük bir monitördeki hazırlanmış bir örneği tartışırken teknik bilgisi olan öğrenci fareyi kullanıyor; izleyici monitörün arka kasasını görüyor.](https://cdn.sanity.io/images/vje9ehw2/staging/ea8be6a16be3446fba57b195026c0ce1041b3081-1054x1492.png)

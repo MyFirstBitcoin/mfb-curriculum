@@ -10,7 +10,7 @@
 
 다음으로 그 설계가 무엇을 허용하는지 물어보세요. 규칙에 따라 [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc)는 더 빠른 결제, 더 넓은 접근성, 또는 새로운 결제 기능을 가능하게 할 수 있어요. 또한 기관이 [거래](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction)를 감시하고, 규칙을 적용하고, 사용을 제한하거나, 신원을 결제에 직접 연결할 수 있는 능력을 더 크게 갖게 될 수도 있어요. 이것이 바로 중앙집중식 통제예요. 일반 사용자가 독자적으로 정하는 것이 아니라 기관이 관련 규칙을 정하거나 바꾸는 거예요.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->

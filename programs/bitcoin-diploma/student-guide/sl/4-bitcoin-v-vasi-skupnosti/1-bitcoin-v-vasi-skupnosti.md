@@ -1,6 +1,6 @@
 # 4.1 Bitcoin v vaši skupnosti
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/119ea5325cea83e0cdbf15651f5a19becfb07cdf-1536x1024.svg)
 
 To je faza **povezovanja** v programu Bitcoin diploma. Pomanjkljivosti sodobnega denarnega sistema in [kompromise](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off), odziv Bitcoina in odgovornost za varno uporabo iz **modulov 1–3** boste povezali z lokalno potrebo ali priložnostjo, realistično alternativo in varno praktično nalogo. Od vas se ne pričakuje, da boste sprejeli Bitcoin ali sklenili, da je najboljša možnost v vseh lokalnih okoliščinah.
 

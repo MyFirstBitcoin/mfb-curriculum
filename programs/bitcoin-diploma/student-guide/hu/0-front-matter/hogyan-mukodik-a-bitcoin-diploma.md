@@ -27,7 +27,7 @@ Minden modul ugyanazt a menetet követi:
 
 Aktív részvétellel többet fog tanulni, mint csendes olvasással. Egyes kérdésekre nincs egyetlen helyes válasz. Az számít, hogy el tudja-e magyarázni az érvelését, meg tudja-e vizsgálni a bizonyítékokat, és képes-e felülvizsgálni az álláspontját, amikor valami újat tanul.
 
-![A vállalkozás tulajdonosa egy nyitott útmutató egyszerű ábrájára mutat, miközben az oktató egy tantermi asztalnál megbeszéli vele az ábrát.](https://cdn.sanity.io/images/vje9ehw2/production/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
+![A vállalkozás tulajdonosa egy nyitott útmutató egyszerű ábrájára mutat, miközben az oktató egy tantermi asztalnál megbeszéli vele az ábrát.](https://cdn.sanity.io/images/vje9ehw2/staging/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
 
 ### A megbeszélésekkel és a magánszféra védelmével kapcsolatos elvárások
 
@@ -50,7 +50,7 @@ Oktatója ismerteti a szükséges értékelési feladatokat. Az elméleti tudás
 
 Oktatója egy értékelési táblázatban rögzít egy-egy eredményt a fenti hét kompetencia mindegyikéhez. `C1`–`C5` értékelése az Ön saját magyarázatain és döntésein alapul; `C6`–`C7` közvetlen megfigyelést igényel. Mind a tárcával és a fogadással kapcsolatos feladat, mind a helyreállításra való felkészültséget ellenőrző feladat kötelező része a következő kompetenciának: `C6`.
 
-![Az oktató reagál a kezdő tanuló jelentkezésére, miközben az idősebb tanuló egy nyitott tanfolyami útmutató segítségével követi az elhangzottakat.](https://cdn.sanity.io/images/vje9ehw2/production/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
+![Az oktató reagál a kezdő tanuló jelentkezésére, miközben az idősebb tanuló egy nyitott tanfolyami útmutató segítségével követi az elhangzottakat.](https://cdn.sanity.io/images/vje9ehw2/staging/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
 
 ### Szükséges előismeretek: nincsenek
 

@@ -9,7 +9,7 @@
 > A [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) és a [KYC nélküli](https://curriculum.myfirstbitcoin.org/lexicon/en/#no-kyc) megoldás közül egyik sem automatikusan a legjobb választás. Hasonlítsa össze a tényleges megoldásokat, támaszkodjon naprakész helyi útmutatásra, ha a szabályok nem egyértelműek, és ne sértse meg a helyi jogszabályokat, illetve ne tegye ki magát fizikai veszélynek a [magánszféra védelméért](https://curriculum.myfirstbitcoin.org/lexicon/en/#privacy).
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/7af8a2eb79ede0b36361dc0d1d6fe8f7ff404da2-1536x1024.svg)
 
 A [KYC](https://curriculum.myfirstbitcoin.org/lexicon/en/#kyc) szolgáltató kérheti a hivatalos nevét, személyazonosító okmányát, lakcímét, fényképét, a pénzeszközei eredetére vonatkozó információkat vagy más dokumentumokat. Ez lehetővé teheti a szolgáltató számára, hogy megfeleljen a helyi szabályoknak, banki kapcsolatokat alakítson ki, magasabb limiteket állapítson meg, vagy támogassa a fiókhoz való hozzáférés helyreállítását.
 

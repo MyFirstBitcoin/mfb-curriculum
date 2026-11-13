@@ -1,6 +1,6 @@
 # 2.10 Arbeidsbevis
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
 <!-- card: definition -->
@@ -29,4 +29,4 @@ Når en [utvinner](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) finn
 
 [Arbeidsbevis](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) innebærer en reell energikostnad. Tilhengere hevder at denne kostnaden er grunnlaget for Bitcoins sikkerhet og kan skape etterspørsel etter fleksibel energi eller energi som ellers ikke ville blitt brukt. Kritikere stiller spørsmål ved hvor mye energi som brukes, og hvor den kommer fra. En ansvarlig vurdering undersøker hvilken energi som brukes, hvor den kommer fra, hvilken sikkerhet den gir, og hvilke alternativer som sammenlignes.
 
-![Underviseren, nybegynneren og den teknisk interesserte kursdeltakeren diskuterer en bordplassert utvinningsenhet med vifte og separat strømforsyning.](https://cdn.sanity.io/images/vje9ehw2/production/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)
+![Underviseren, nybegynneren og den teknisk interesserte kursdeltakeren diskuterer en bordplassert utvinningsenhet med vifte og separat strømforsyning.](https://cdn.sanity.io/images/vje9ehw2/staging/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)

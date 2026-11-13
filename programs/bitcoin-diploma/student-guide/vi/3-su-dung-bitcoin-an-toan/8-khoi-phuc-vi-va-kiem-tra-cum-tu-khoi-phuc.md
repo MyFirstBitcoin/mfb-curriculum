@@ -15,4 +15,4 @@ Không sử dụng ví thực hành hoặc thông tin khôi phục của ví đ�
 
 Mục đích không phải là khiến việc khôi phục có vẻ dễ dàng, mà là hiểu rõ quy trình trước khi sự cố thiết bị gây ra áp lực.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/424d932ace1728a75636a76182ae9a42621ed91c-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/424d932ace1728a75636a76182ae9a42621ed91c-1536x1024.svg)

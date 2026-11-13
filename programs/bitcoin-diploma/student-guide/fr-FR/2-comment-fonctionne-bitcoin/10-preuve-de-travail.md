@@ -1,6 +1,6 @@
 # 2.10 Preuve de travail
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/45335cc0b3fa7d780ac9afb46b371566868dd2df-1536x1024.svg)
 
 
 <!-- card: definition -->
@@ -29,4 +29,4 @@ Lorsqu’un [mineur](https://curriculum.myfirstbitcoin.org/lexicon/en/#miner) tr
 
 [La preuve de travail](https://curriculum.myfirstbitcoin.org/lexicon/en/#proof-of-work) implique un coût énergétique réel. Ses partisans soutiennent que ce coût constitue le fondement de la sécurité de Bitcoin et peut créer une demande d’énergie dont la consommation peut être modulée ou qui resterait autrement inutilisée. Ses détracteurs remettent en question la quantité et la provenance de l’énergie utilisée. Une évaluation responsable consiste à se demander quelle énergie est utilisée, d’où elle provient, quelle sécurité elle assure et quelles solutions alternatives sont comparées.
 
-![La personne qui enseigne, la personne qui débute et la personne au profil technique discutent d’un appareil de minage posé sur une table, doté d’un ventilateur et d’une alimentation séparée.](https://cdn.sanity.io/images/vje9ehw2/production/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)
+![La personne qui enseigne, la personne qui débute et la personne au profil technique discutent d’un appareil de minage posé sur une table, doté d’un ventilateur et d’une alimentation séparée.](https://cdn.sanity.io/images/vje9ehw2/staging/697bc6224bf2a1b1e59538d3ed7fbd6bc34fb2ac-1054x1493.png)

@@ -13,7 +13,7 @@
 > [Perkamoji galia](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) yra prekių ir paslaugų kiekis, kurį galima nusipirkti už vieną piniginį vienetą. Jei pagrindinių prekių krepšelio kaina pakyla nuo 100 [valiutos](https://curriculum.myfirstbitcoin.org/lexicon/en/#currency) vienetų iki 110, už tuos pačius 100 vienetų viso krepšelio nusipirkti nebegalima. Šios sumos [perkamoji galia](https://curriculum.myfirstbitcoin.org/lexicon/en/#purchasing-power) šio krepšelio atžvilgiu sumažėjo.
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 
 <!-- micrographic: same-money-smaller-basket-01 -->

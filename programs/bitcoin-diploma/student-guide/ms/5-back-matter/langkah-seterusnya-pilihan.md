@@ -26,11 +26,11 @@ Panduan Pendidik membantu anda menyediakan pelajaran, memudah cara aktiviti, men
 
 ### Sertai komuniti pembelajaran
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/8f3937993daec592440695eb585bf63089a75772-1840x722.png)
 
 Pihak [Rangkaian Pendidikan Bitcoin](https://myfirstbitcoin.org/about/network) menghubungkan pendidik bebas dan komuniti pembelajaran setempat. Cari komuniti berhampiran anda atau komuniti yang kegiatannya menarik minat anda, dan hubungi komuniti tersebut untuk bertanya tentang cara anda boleh belajar, menjadi sukarelawan atau menyumbang. Penyertaan adalah pilihan dan tidak menjejaskan pelengkapan, penilaian atau pensijilan Diploma.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d95856a1fdc7bcafa0066c952e0d258a694ec5c3-1536x1024.svg)
 
 ### Peringatan keselamatan
 
@@ -92,13 +92,13 @@ Jika pendidik yang mengeluarkan sijil menyediakan kaedah pengesahan, gunakan han
 
 Hasil terpenting bagi anda bukanlah sijil. Sebaliknya, hasil itu ialah keupayaan untuk menerangkan wang dan Bitcoin dengan jelas, mengenali risiko, membuat pengesahan sebelum bertindak, dan terus belajar secara kendiri.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/b213ce1e7cd23f6708258dd59643b8f059013f31-1536x1024.svg)
 
 ### Sokong pendidikan Bitcoin percuma
 
 Sumber pendidikan My First Bitcoin adalah percuma dan bersumber terbuka. Sokongan sukarela membantu menyelenggara kurikulum, melatih pendidik, dan memperluas akses.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/bbef440039a9c31ee7df9f19d0f2bfc2ea4e1525-1536x1024.svg)
 
 
 https://donate.myfirstbitcoin.org
@@ -112,4 +112,4 @@ Jika anda memilih untuk menyumbang, gunakan [halaman derma rasmi](https://donate
 ---
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/64f457e32e83c14e02d7360ec3e2ce6c7ba1b7ef-1054x1492.svg)

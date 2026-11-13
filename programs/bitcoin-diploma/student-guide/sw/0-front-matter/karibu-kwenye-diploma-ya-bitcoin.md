@@ -8,7 +8,7 @@ Mradi ulianza kwa madarasa madogo ya ana kwa ana nchini El Salvador mwaka 2021, 
 
 Kazi yetu ni huru, inaongozwa na jamii, na inaangazia Bitcoin. Tunazingatia ujuzi wa kifedha, kufikiri kwa makini na usalama wa vitendo - si biashara ya kununua na kuuza, ubashiri, wala kutangaza tokeni nyingine. Hatukuombi ukubali imani fulani. Badala yake, tunatoa dhana, maswali na maarifa ya vitendo ili uweze kufikia hitimisho lako mwenyewe.
 
-![Mwelimishaji anamkaribisha mwanzilishi, mwanafunzi mzee, mfanyabiashara, mwanafunzi wa kiufundi na mwanafunzi kijana katika kikundi kimoja cha kujifunza.](https://cdn.sanity.io/images/vje9ehw2/production/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
+![Mwelimishaji anamkaribisha mwanzilishi, mwanafunzi mzee, mfanyabiashara, mwanafunzi wa kiufundi na mwanafunzi kijana katika kikundi kimoja cha kujifunza.](https://cdn.sanity.io/images/vje9ehw2/staging/aacd04e51600f653e2b98617e51bd9d41f8cd1e9-1054x1492.png)
 
 ### Dhamira yetu: elimu ya Bitcoin iliyo huru na ya chanzo huria
 

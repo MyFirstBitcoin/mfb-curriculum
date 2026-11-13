@@ -25,4 +25,4 @@ Selventäkää, että [vaihtokauppa](https://curriculum.myfirstbitcoin.org/lexic
 
 Jos käytätte peliä, käsitelkää jälkikeskustelussa sen yksinkertaistuksia. Todelliseen vaihdantaan liittyy ihmissuhteita, luottoa, lahjoja, velvoitteita, tinkimistä, lainsäädäntöä ja toistuvaa vuorovaikutusta.
 
-![Opettaja ohjaa suoran vaihdon harjoitusta, jossa osapuolina ovat muistikirjaa pitelevä aloittelija ja ruokaostoksia pitelevä yrityksen omistaja.](https://cdn.sanity.io/images/vje9ehw2/production/48813fb8d9434061c5c546898f4023f8748e9edd-1054x1492.png)
+![Opettaja ohjaa suoran vaihdon harjoitusta, jossa osapuolina ovat muistikirjaa pitelevä aloittelija ja ruokaostoksia pitelevä yrityksen omistaja.](https://cdn.sanity.io/images/vje9ehw2/staging/48813fb8d9434061c5c546898f4023f8748e9edd-1054x1492.png)

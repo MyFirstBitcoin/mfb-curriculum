@@ -28,4 +28,4 @@ Bitcoinova [decentralizacija](https://curriculum.myfirstbitcoin.org/lexicon/en/#
 
 [Decentralizacija](https://curriculum.myfirstbitcoin.org/lexicon/en/#decentralization) takođe stvara troškove. Koordinacija može biti sporija. Korisnici moraju da proveravaju informacije i preuzmu veću odgovornost. Ne postoji centralna služba podrške za [Bitcoin mrežu](https://curriculum.myfirstbitcoin.org/lexicon/en/#bitcoin-network). Ovi [kompromisi](https://curriculum.myfirstbitcoin.org/lexicon/en/#trade-off) su deo načina na koji je sistem osmišljen, a ne slučajni nedostaci koji se mogu ukloniti bez promene sistema.
 
-![Predavač pokazuje na mrežu na ekranu u učionici, dok polaznik početnik i polaznici sa tehničkim znanjem za stolom razgovaraju o njoj.](https://cdn.sanity.io/images/vje9ehw2/production/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)
+![Predavač pokazuje na mrežu na ekranu u učionici, dok polaznik početnik i polaznici sa tehničkim znanjem za stolom razgovaraju o njoj.](https://cdn.sanity.io/images/vje9ehw2/staging/84b4c969349dcae2bba0c6398af16577833aa994-1054x1492.png)

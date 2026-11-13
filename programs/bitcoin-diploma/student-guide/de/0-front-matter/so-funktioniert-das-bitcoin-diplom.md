@@ -27,7 +27,7 @@ Jedes Modul folgt demselben Rhythmus:
 
 Sie lernen mehr, wenn Sie sich beteiligen, als wenn Sie still lesen. Manche Fragen haben keine eindeutig richtige Antwort. Entscheidend ist, ob Sie Ihre Überlegungen erklären, Belege prüfen und Ihre Sichtweise anpassen können, wenn Sie etwas Neues lernen.
 
-![Die Geschäftsinhaberin zeigt auf ein einfaches Diagramm in einem aufgeschlagenen Leitfaden, während die Lehrkraft es mit ihr an einem Tisch im Klassenzimmer bespricht.](https://cdn.sanity.io/images/vje9ehw2/production/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
+![Die Geschäftsinhaberin zeigt auf ein einfaches Diagramm in einem aufgeschlagenen Leitfaden, während die Lehrkraft es mit ihr an einem Tisch im Klassenzimmer bespricht.](https://cdn.sanity.io/images/vje9ehw2/staging/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
 
 ### Erwartungen an Diskussion und Privatsphäre
 
@@ -50,7 +50,7 @@ Ihre Lehrkraft erläutert Ihnen alle erforderlichen Prüfungsaktivitäten. Die T
 
 Ihre Lehrkraft verwendet einen Bewertungsbogen, um für jede der sieben oben genannten Kompetenzen ein Ergebnis festzuhalten. `C1`–`C5` werden anhand Ihrer eigenen Erklärungen und Entscheidungen bewertet; `C6`–`C7` erfordern direkte Beobachtung. Sowohl die Wallet-/Empfangsaufgabe als auch die Aufgabe zur Wiederherstellungsbereitschaft sind verpflichtende Bestandteile von `C6`.
 
-![Die Lehrkraft reagiert auf die erhobene Hand der Anfängerin, während die ältere Teilnehmerin mit einem aufgeschlagenen Kursleitfaden mitliest.](https://cdn.sanity.io/images/vje9ehw2/production/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
+![Die Lehrkraft reagiert auf die erhobene Hand der Anfängerin, während die ältere Teilnehmerin mit einem aufgeschlagenen Kursleitfaden mitliest.](https://cdn.sanity.io/images/vje9ehw2/staging/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
 
 ### Erforderliche Vorkenntnisse: keine
 

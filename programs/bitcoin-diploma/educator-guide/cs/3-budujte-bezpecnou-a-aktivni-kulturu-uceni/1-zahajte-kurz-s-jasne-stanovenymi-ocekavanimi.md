@@ -17,4 +17,4 @@ Dohodněte se na těchto pravidlech účasti:
 * nikdy neprozrazujte [obnovovací frázi](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), [soukromý klíč](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), heslo ani nastavení zabezpečení; a
 * přerušte praktickou práci, pokud se něco liší od předvedeného postupu.
 
-![Mladý studující klade otázku, zatímco vyučující naslouchá a ostatní čtyři studující sledují diskusi.](https://cdn.sanity.io/images/vje9ehw2/production/bf1185129657cd98555d2704565cf44deadbe59d-1054x1493.png)
+![Mladý studující klade otázku, zatímco vyučující naslouchá a ostatní čtyři studující sledují diskusi.](https://cdn.sanity.io/images/vje9ehw2/staging/bf1185129657cd98555d2704565cf44deadbe59d-1054x1493.png)

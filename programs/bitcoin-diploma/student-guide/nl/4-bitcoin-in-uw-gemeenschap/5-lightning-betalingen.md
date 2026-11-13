@@ -1,6 +1,6 @@
 # 4.5 Lightning-betalingen
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6885723fcdb1a7ee8121a9139daa7714cf5bbd05-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6885723fcdb1a7ee8121a9139daa7714cf5bbd05-1536x1024.svg)
 
 
 <!-- micrographic: lightning-phone-payment-01 -->

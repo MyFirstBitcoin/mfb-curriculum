@@ -6,7 +6,7 @@ Les règles publiques de Bitcoin, [son réseau pair à pair](https://curriculum.
 
 Ces propriétés peuvent donner davantage de pouvoir aux participants, mais elles leur imposent aussi davantage de responsabilités. Sans autorité centrale pour approuver les [transactions](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction), rétablir l’accès ou corriger de nombreuses erreurs, chaque personne doit être en mesure de cerner le rôle et les risques qu’elle accepte.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/046836e98fde3a839b4969cfce7f63bfaf59b23f-1536x1024.svg)
 
 Pour une personne qui choisit [l’autogarde](https://curriculum.myfirstbitcoin.org/lexicon/en/#self-custody), la maîtrise des clés donne un contrôle direct sur ses bitcoins. Aucune entreprise ne peut geler un solde détenu sur la blockchain dont les clés sont correctement maîtrisées. Aucune entreprise ne peut non plus restaurer une [phrase de récupération](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase) perdue.
 

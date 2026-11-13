@@ -23,7 +23,7 @@ Wanneer u een modulegids opent, volgt u elke keer dezelfde volgorde:
 
 De kopjes zijn bewust herhalend. Die herhaling is een navigatiehulpmiddel voor een nieuwe docent, geen inhoud die uit het hoofd geleerd moet worden.
 
-![De docent wijst naar een diagram in een opengeslagen cursusgids, terwijl de beginner en de oudere cursist meelezen in hun eigen gids.](https://cdn.sanity.io/images/vje9ehw2/production/f4e6dd8cd876afad89cef117fc6845f0b599f408-1054x1492.png)
+![De docent wijst naar een diagram in een opengeslagen cursusgids, terwijl de beginner en de oudere cursist meelezen in hun eigen gids.](https://cdn.sanity.io/images/vje9ehw2/staging/f4e6dd8cd876afad89cef117fc6845f0b599f408-1054x1492.png)
 
 ### Woorden die u kunt gebruiken wanneer u twijfelt
 

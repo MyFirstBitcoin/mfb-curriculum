@@ -23,7 +23,7 @@ Wenn Sie einen Modulleitfaden öffnen, folgen Sie jedes Mal derselben Reihenfolg
 
 Die Überschriften wiederholen sich bewusst. Diese Wiederholung ist eine Orientierungshilfe für neue Lehrende, kein Inhalt, der auswendig gelernt werden muss.
 
-![Die Lehrperson zeigt auf ein Diagramm in einem aufgeschlagenen Kursleitfaden, während die Anfängerin und der ältere Lernende in ihren eigenen Leitfäden mitlesen.](https://cdn.sanity.io/images/vje9ehw2/production/f4e6dd8cd876afad89cef117fc6845f0b599f408-1054x1492.png)
+![Die Lehrperson zeigt auf ein Diagramm in einem aufgeschlagenen Kursleitfaden, während die Anfängerin und der ältere Lernende in ihren eigenen Leitfäden mitlesen.](https://cdn.sanity.io/images/vje9ehw2/staging/f4e6dd8cd876afad89cef117fc6845f0b599f408-1054x1492.png)
 
 ### Formulierungen für Momente der Unsicherheit
 

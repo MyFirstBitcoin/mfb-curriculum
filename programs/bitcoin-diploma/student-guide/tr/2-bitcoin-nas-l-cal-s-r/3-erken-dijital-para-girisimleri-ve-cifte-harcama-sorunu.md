@@ -34,4 +34,4 @@ Makale, bu yaklaşım için gereken özellikleri bir araya getirdi:
 
 Bu modül bu kavramları daha ayrıntılı açıklamaktadır. Bunlar bir arada, [çifte harcama sorununa](https://curriculum.myfirstbitcoin.org/lexicon/en/#double-spending) pratik bir yanıt getirdi: ağ, merkezi bir otoriteye dayanmadan aynı bitcoin'i ikinci kez harcama girişimini reddedebilir. Bitcoin, onlarca yıldır süren dijital para deneylerinin aradığı eksik bileşimi sundu.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a3edf811f6b40ec4111cb8b7ccd1280c057ac572-1536x1024.svg)

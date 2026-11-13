@@ -27,7 +27,7 @@ Kiekvienas modulis vyksta tuo pačiu ritmu:
 
 Dalyvaudami išmoksite daugiau nei tyliai skaitydami. Kai kurie klausimai neturi vieno teisingo atsakymo. Svarbu tai, ar gebate paaiškinti savo samprotavimus, nagrinėti įrodymus ir pakeisti savo požiūrį, kai sužinote ką nors naujo.
 
-![Verslo savininkė rodo į paprastą schemą atverstame vadove, o mokytojas ją aptaria su savininke prie klasės stalo.](https://cdn.sanity.io/images/vje9ehw2/production/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
+![Verslo savininkė rodo į paprastą schemą atverstame vadove, o mokytojas ją aptaria su savininke prie klasės stalo.](https://cdn.sanity.io/images/vje9ehw2/staging/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
 
 ### Diskusijų ir privatumo lūkesčiai
 
@@ -50,7 +50,7 @@ Jūsų mokytojas paaiškins visas privalomas vertinimo užduotis. Teorinės žin
 
 Jūsų mokytojas vertinimo lentelėje įrašo po vieną kiekvienos iš septynių pirmiau nurodytų kompetencijų rezultatą. `C1`–`C5` vertinamos pagal Jūsų pačių paaiškinimus ir sprendimus; `C6`–`C7` būtinas tiesioginis stebėjimas. Tiek piniginės ir lėšų gavimo užduotis, tiek pasirengimo atkurti piniginę užduotis yra privalomos `C6`.
 
-![Mokytojas reaguoja į pradedančiojo mokinio pakeltą ranką, o vyresnis mokinys seka pamoką atsivertęs kurso vadovą.](https://cdn.sanity.io/images/vje9ehw2/production/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
+![Mokytojas reaguoja į pradedančiojo mokinio pakeltą ranką, o vyresnis mokinys seka pamoką atsivertęs kurso vadovą.](https://cdn.sanity.io/images/vje9ehw2/staging/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
 
 ### Būtinos išankstinės žinios: nereikalingos
 

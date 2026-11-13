@@ -18,7 +18,7 @@ Att skicka med Bitcoin kräver större försiktighet eftersom en giltig [transak
 1. Gör en liten testbetalning när förfarandet är obekant.
 1. Godkänn först när alla uppgifter stämmer; kontrollera sedan betalningsresultatet.
 
-![Den äldre kursdeltagaren visar upp en övningstelefon medan nybörjaren kontrollerar en annan telefon och läraren vägleder jämförelsen.](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![Den äldre kursdeltagaren visar upp en övningstelefon medan nybörjaren kontrollerar en annan telefon och läraren vägleder jämförelsen.](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 
 <!-- micrographic: pre-send-checklist-01 -->
@@ -29,4 +29,4 @@ För en [betalning på kedjan](https://curriculum.myfirstbitcoin.org/lexicon/en/
 
 Vad bör ni göra om destinationen ändras oväntat, betalningsbegäran blir brådskande eller någon ber om återställningsuppgifter? Stanna upp. Verifiera begäran via en oberoende källa eller be om hjälp utan att dela hemliga uppgifter.
 
-![Läraren vägleder nybörjaren när de jämför en telefon med företagarens mottagande enhet innan en betalning godkänns.](https://cdn.sanity.io/images/vje9ehw2/production/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)
+![Läraren vägleder nybörjaren när de jämför en telefon med företagarens mottagande enhet innan en betalning godkänns.](https://cdn.sanity.io/images/vje9ehw2/staging/2a3f35ea865512968fcaeb22e3c6fd06985394c5-1055x1491.png)

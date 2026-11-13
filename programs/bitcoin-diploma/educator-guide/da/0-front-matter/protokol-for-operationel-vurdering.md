@@ -38,7 +38,7 @@ Vælg et praktisk forløb, som føles trygt og overskueligt for kursisterne. Not
 [Planlæg forløbet for et hold ved at gange antallet af deltagere med den forventede tid til støtte og observation, og læg derefter tid til klargøring, feedback, tilgængelighedsbehov og fornyet vurdering til. Hvis underviserne ikke har tid nok, skal planen ændres: færre deltagere, flere undervisere eller mere tid.](/micrographics/cohort-capacity-check-01/da.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
 
 ### Oversigt over sammenhængen mellem kompetencer og dokumentation
 

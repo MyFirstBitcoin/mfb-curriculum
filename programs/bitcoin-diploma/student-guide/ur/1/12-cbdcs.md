@@ -10,7 +10,7 @@
 
 اس کے بعد پوچھیے کہ ڈیزائن کس چیز کی اجازت دیتا ہے۔ قواعد کے لحاظ سے، ایک [CBDC](https://curriculum.myfirstbitcoin.org/lexicon/en/#cbdc) زیادہ تیز تصفیے، وسیع تر رسائی، یا ادائیگی کی نئی سہولتوں کی اجازت دے سکتی ہے۔ یہ اداروں کو زیادہ صلاحیت بھی دے سکتی ہے نگرانی کرنے کی [لین دین کی](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction)، قواعد نافذ کرنے، استعمال محدود کرنے، یا شناخت کو براہِ راست ادائیگیوں سے منسلک کرنے کی۔ یہی مرکزی کنٹرول ہے: عام صارفین آزادانہ طور پر متعلقہ قواعد طے یا تبدیل نہیں کرتے، بلکہ ایک ادارہ ایسا کرتا ہے۔
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6171d569570864221093ac065898303ea3c20838-1536x1024.svg)
 
 
 <!-- micrographic: cbdc-comparison-table-01 -->

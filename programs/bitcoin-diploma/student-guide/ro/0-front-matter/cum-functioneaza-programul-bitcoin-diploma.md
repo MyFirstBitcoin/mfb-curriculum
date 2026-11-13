@@ -27,7 +27,7 @@ Fiecare modul urmează același ritm:
 
 Veți învăța mai mult participând decât citind în liniște. Unele întrebări nu au un singur răspuns corect. Ceea ce contează este dacă vă puteți explica raționamentul, examina dovezile și revizui punctul de vedere atunci când învățați ceva nou.
 
-![Proprietara afacerii indică o diagramă simplă dintr-un ghid deschis, în timp ce cadrul didactic o discută cu ea la o masă din sala de curs.](https://cdn.sanity.io/images/vje9ehw2/production/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
+![Proprietara afacerii indică o diagramă simplă dintr-un ghid deschis, în timp ce cadrul didactic o discută cu ea la o masă din sala de curs.](https://cdn.sanity.io/images/vje9ehw2/staging/f4b8374277fdbc313ae58593452d4ad3a5435402-1054x1493.png)
 
 ### Așteptări privind discuțiile și confidențialitatea
 
@@ -50,7 +50,7 @@ Cadrul didactic vă va explica toate activitățile de evaluare necesare. Cunoș
 
 Cadrul didactic folosește o grilă de evaluare pentru a înregistra câte un rezultat pentru fiecare dintre cele șapte competențe de mai sus. `C1`–`C5` sunt evaluate pe baza propriilor explicații și decizii; `C6`–`C7` necesită observare directă. Atât sarcina privind portofelul/confirmarea de primire, cât și sarcina privind pregătirea pentru recuperare sunt componente obligatorii ale `C6`.
 
-![Cadrul didactic răspunde cursantului începător care a ridicat mâna, în timp ce cursantul mai în vârstă urmărește explicațiile cu ghidul de curs deschis.](https://cdn.sanity.io/images/vje9ehw2/production/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
+![Cadrul didactic răspunde cursantului începător care a ridicat mâna, în timp ce cursantul mai în vârstă urmărește explicațiile cu ghidul de curs deschis.](https://cdn.sanity.io/images/vje9ehw2/staging/4463c2ad9f21f2f7b12b0ab39cee152deb7cb6a3-1054x1492.png)
 
 ### Cunoștințe prealabile necesare: niciuna
 

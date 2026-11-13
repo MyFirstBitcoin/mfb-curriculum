@@ -11,7 +11,7 @@ Nguồn lực có hạn, trong khi mong muốn của con người là vô hạn.
 
 Bản thân [giá trị](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) của một hàng hóa không nằm sẵn trong vật đó. Con người [định giá](https://curriculum.myfirstbitcoin.org/lexicon/en/#value) hàng hóa theo nhu cầu, sở thích, thông tin và hoàn cảnh của mình. Điều này đôi khi được gọi là [**giá trị chủ quan**](https://curriculum.myfirstbitcoin.org/lexicon/en/#subjective-value). Nước sạch có thể có giá thấp ở gần một nguồn nước công cộng an toàn, nhưng lại vô cùng quý giá khi xảy ra tình trạng thiếu nước.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/13d6e6214a08489288dab12be6c469885a3446fe-1536x1024.svg)
 
 
 <!-- micrographic: same-water-different-value-01 -->

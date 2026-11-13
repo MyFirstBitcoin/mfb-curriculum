@@ -4,7 +4,7 @@
 
 Povezovanje med enakovrednimi udeleženci ne pomeni vedno, da neposredno komunicirata le dva računalnika. Posamezna [transakcija](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction) lahko potuje prek denarnic, ponudnikov internetnih storitev in številnih omrežnih [vozlišč](https://curriculum.myfirstbitcoin.org/lexicon/en/#node). Pomembno je, da pošiljatelja ali prejemnika ni treba odobriti nobenemu osrednjemu upravljavcu Bitcoina.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/e3eda58fdbbb7b916f831adec473e8c8f81f1856-1536x1024.svg)
 
 
 <!-- micrographic: peer-to-peer-route-01 -->

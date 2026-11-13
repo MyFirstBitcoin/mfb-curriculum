@@ -23,4 +23,4 @@ Unele persoane îndeplinesc mai multe roluri. Un [miner](https://curriculum.myfi
 
 **Întrebare rapidă:** De ce un [nod](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) verifică [tranzacțiile](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction)? Numiți cel puțin o regulă pe care un [nod](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) o verifică.
 
-![Cadrul didactic îndrumă cursantul cu profil tehnic la un calculator care rulează un nod, cu monitorul orientat spre ei și cu partea din spate a carcasei vizibilă pentru privitor.](https://cdn.sanity.io/images/vje9ehw2/production/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)
+![Cadrul didactic îndrumă cursantul cu profil tehnic la un calculator care rulează un nod, cu monitorul orientat spre ei și cu partea din spate a carcasei vizibilă pentru privitor.](https://cdn.sanity.io/images/vje9ehw2/staging/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)

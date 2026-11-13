@@ -23,4 +23,4 @@ Manche Menschen übernehmen mehrere Rollen. Ein [Miner](https://curriculum.myfir
 
 **Kurzfrage:** Warum verifiziert ein [Node](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) die [Transaktionen](https://curriculum.myfirstbitcoin.org/lexicon/en/#transaction)? Nennen Sie mindestens eine Regel, die ein [Node](https://curriculum.myfirstbitcoin.org/lexicon/en/#node) überprüft.
 
-![Die Lehrkraft leitet den technisch interessierten Lernenden an einem Node-Computer an; der Monitor ist ihnen zugewandt, sodass der Betrachter die Rückseite des Gehäuses sieht.](https://cdn.sanity.io/images/vje9ehw2/production/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)
+![Die Lehrkraft leitet den technisch interessierten Lernenden an einem Node-Computer an; der Monitor ist ihnen zugewandt, sodass der Betrachter die Rückseite des Gehäuses sieht.](https://cdn.sanity.io/images/vje9ehw2/staging/78294f6c55abe9c667acb9b6c7e3aea1b0fd6f5b-1054x1492.png)

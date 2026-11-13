@@ -24,4 +24,4 @@ Stop the activity immediately if:
 [An unsafe or unexplained condition stops the activity. The educator protects people and secrets and verifies the issue; a safety-critical assessment error is logged as Not yet, and the learner resets, practises and is reassessed later.](/micrographics/stop-when-check-fails-01/en.md)
 
 
-![The educator raises an open palm to pause an activity while the beginner lowers a phone and the technical learner partly closes a laptop.](https://cdn.sanity.io/images/vje9ehw2/production/adb5c936fe5622b3c0b62f060349af1097eee5b0-1055x1491.png)
+![The educator raises an open palm to pause an activity while the beginner lowers a phone and the technical learner partly closes a laptop.](https://cdn.sanity.io/images/vje9ehw2/staging/adb5c936fe5622b3c0b62f060349af1097eee5b0-1055x1491.png)

@@ -17,4 +17,4 @@ Vereinbaren Sie folgende Regeln für die Teilnahme:
 * niemals eine [Seed-Phrase](https://curriculum.myfirstbitcoin.org/lexicon/en/#recovery-phrase), [einen privaten Schlüssel](https://curriculum.myfirstbitcoin.org/lexicon/en/#private-key), ein Passwort oder Sicherheitsvorkehrungen preisgeben; und
 * die praktische Arbeit unterbrechen, wenn etwas vom vorgeführten Ablauf abweicht.
 
-![Die junge Lernende stellt eine Frage, während die Lehrkraft zuhört und die anderen vier Lernenden der Diskussion folgen.](https://cdn.sanity.io/images/vje9ehw2/production/bf1185129657cd98555d2704565cf44deadbe59d-1054x1493.png)
+![Die junge Lernende stellt eine Frage, während die Lehrkraft zuhört und die anderen vier Lernenden der Diskussion folgen.](https://cdn.sanity.io/images/vje9ehw2/staging/bf1185129657cd98555d2704565cf44deadbe59d-1054x1493.png)

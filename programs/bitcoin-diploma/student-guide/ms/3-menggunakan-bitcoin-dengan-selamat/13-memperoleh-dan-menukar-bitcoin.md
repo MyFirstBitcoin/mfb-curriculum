@@ -15,7 +15,7 @@ Orang ramai boleh menerima bitcoin melalui pekerjaan, bayaran komuniti, pertukar
 * **Pertukaran sesama individu:** Dua orang boleh menukarkan [wang fiat](https://curriculum.myfirstbitcoin.org/lexicon/en/#fiat-money) atau barangan dengan bitcoin secara langsung atau melalui perkhidmatan pemadanan. Ini boleh menimbulkan risiko berkaitan pihak satu lagi dalam urus niaga, keselamatan fizikal, pembalikan pembayaran dan penipuan.
 * **Bursa, broker, ATM atau kiosk:** Perkhidmatan atau mesin mungkin menyediakan kaedah yang biasa digunakan, tetapi mungkin melibatkan yuran, semakan identiti, [penjagaan aset](https://curriculum.myfirstbitcoin.org/lexicon/en/#custody), had pengeluaran atau [kadar pertukaran yang tidak menguntungkan](https://curriculum.myfirstbitcoin.org/lexicon/en/#exchange-rate).
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5039ecd840b622234b0b4a114130d01362f5a730-1774x887.svg)
 
 Sebelum membandingkan sesuatu kaedah, tanyakan:
 

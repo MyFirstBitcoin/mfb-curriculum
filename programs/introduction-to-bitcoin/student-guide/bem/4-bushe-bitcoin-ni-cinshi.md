@@ -20,4 +20,4 @@ Icakwishiba pa kulemba: **Bitcoin** iyalembwa na B mukalamba ilingi line ipilibu
 
 Bitcoin nayo ilikwata ifisuma ne fyakosa. Umutengo wayo kuti wapilibuka bwangu. Ifilubo ilingi line tafilungamikwa. Ukwipokelela kukali ukwacepa mu ncende ishingi, kabili ukuyibomfya mu mutende kufwaya ukusambilila. Mu ncende ya kushintilila pa mabungwe mu fintu fimo, Bitcoin ibomfya ukusuzuma no kusenda ubwasuko bwa mwine. Taifumyapo ubusanso.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/04f25cd9a85bf20081aaefaf24cb8b6da98f5332-1536x1024.svg)

@@ -19,7 +19,7 @@ Pinigus naudojame kasdien, tačiau retai klausiame, kaip jie veikia.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/73bd09407fd1c7ac48ccf9725918a1227c355533-1536x1024.svg)
 
 ## Dauguma žmonių niekada nesusimąsto apie pinigus
 
@@ -29,7 +29,7 @@ Ne jį uždirbant, ne jį leidžiant, o galvojant apie tai, kas tai yra ir kaip 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/d0f6eb17d2dfe8e26570a5862b808462560c3454-1054x1493.png)
 
 ## Penki klausimai pradžiai
 
@@ -49,7 +49,7 @@ Ne jį uždirbant, ne jį leidžiant, o galvojant apie tai, kas tai yra ir kaip 
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/5c006f7f87582ead9ce41489df4c1f0272f838a6-1054x1492.png)
 
 ## Faktas ar nuomonė?
 
@@ -74,7 +74,7 @@ Pinigai yra mainų priemonė.
 
 Abu žmonės turi tuo pačiu metu norėti tinkamo kiekio to, ką turi kitas.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6eedd2de3dec377a7a5d06337b0c6079772956ac-1536x1024.svg)
 
 <!-- notes: Pasinaudokite vadove pateiktu pavyzdžiu: auginate ryžius ir Jums reikia batų, tačiau batsiuvys nori maistinio aliejaus, o ne ryžių. Ekonomistai tai vadina dvigubu poreikių sutapimu. -->
 
@@ -96,13 +96,13 @@ Abu žmonės turi norėti to, ką turi kitas, tuo pačiu metu ir tinkamais kieki
 
 Niekas nenori pinigų vien dėl jų pačių. Pinigai naudingi todėl, kad kiti juos priima, tikėdamiesi, jog vėliau juos priims ir kiti.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/11c8ef017ba2a817db5029a4902751e0814b4558-1774x887.svg)
 
 <!-- notes: Banknotas tėra popieriaus lapelis. Pinigai išsprendžia natūrinių mainų problemą, atskirdami pardavimą nuo pirkimo: Jūs parduodate savo ryžius vienam žmogui, o batus perkate iš kito. Būtent tai skiria pinigus nuo natūrinių mainų. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/608140649b513680f20281ddc9a3b2f28b0f8883-1054x1493.png)
 
 ## Trys pinigų funkcijos
 
@@ -114,7 +114,7 @@ Jokie pinigai neišsaugo vertės tobulai, tačiau kai kurios pinigų formos prar
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 ## Nuo kriauklių iki popieriaus
 
@@ -161,13 +161,13 @@ Išgirdę žodį „infliacija“, žmonės paprastai pagalvoja apie kylančias 
 
 ## Infliacija ir perkamoji galia
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/d902723f7edfff4fd988bdde9804115f6ce72793-1536x1024.svg)
 
 <!-- notes: Kainų infliacija – tai nuolatinis bendro kainų lygio kilimas. Kita jos pusė – perkamoji galia: kiek galima nusipirkti už vieną piniginį vienetą. Jei pagrindinių prekių krepšelio kaina pakyla nuo 100 iki 110 piniginių vienetų, už tuos pačius 100 vienetų viso krepšelio įsigyti nebegalima. -->
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/c8f2d8632b7c9ba802c75a5e0163c07911d399cf-1536x1024.svg)
 
 ## Daug priežasčių, vienas pasirinkimas
 
@@ -285,7 +285,7 @@ Vienas bitkoinas dalijamas į 100 000 000 mažesnių vienetų, vadinamų satoši
 
 ## Kas užtikrina Bitcoin veikimą?
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/2a9488bba58af05efebf6d54d44b5905944b49fe-1536x1024.svg)
 
 <!-- notes: Naudotojai siunčia, gauna ir laiko bitkoinus; mazgai tikrina, ar kiekviena operacija ir blokas atitinka taisykles; kasėjai varžosi, kas maždaug kas dešimt minučių į registrą įtrauks naują bloką. Šis registras, vadinamas blokų grandine, yra viešas, o jį perrašyti labai brangu. Pastaba dėl rašybos: „Bitkoinas“ iš didžiosios B paprastai reiškia tinklą arba sistemą, o „bitkoinas“ iš mažosios b – pačius pinigus. -->
 
@@ -330,7 +330,7 @@ Saugojimo būdo pasirinkimas nėra jūsų vertės matas. Svarbu žinoti, kokį b
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8e2d6e494c02d0a8b9deae4a9cd45594ae2052c1-1536x1024.svg)
 
 ## Jūsų atkūrimo frazė suteikia visišką prieigą
 
@@ -350,7 +350,7 @@ Nustatyta tvarka išdėstytų žodžių sąrašas, dažniausiai sudarytas iš 12
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/8ce88167dc1b3c490b69bd8e045d32add1ce975d-1054x1492.png)
 
 ## Prieš naudodamiesi bet kuria pinigine
 
@@ -391,7 +391,7 @@ Nustatyta tvarka išdėstytų žodžių sąrašas, dažniausiai sudarytas iš 12
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/46f6e0e0e87b9ae2348baffea34d42e3ffb74c60-1536x1024.svg)
 
 ## Sustokite, niekuo nesidalykite, nieko nesiųskite
 
@@ -426,7 +426,7 @@ Tai tik pradžia.
 
 ---
 
-![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/production/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
+![bg right:40%](https://cdn.sanity.io/images/vje9ehw2/staging/95bffe22d4969b72618547f0f8d4be059cdc7191-1054x1492.png)
 
 ## „Bitcoin“ diplomas
 

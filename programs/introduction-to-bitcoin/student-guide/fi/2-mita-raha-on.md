@@ -12,9 +12,9 @@ Vaihtokaupassa kaupankäynti onnistuu vain, kun molemmat osapuolet haluavat sit�
 
 Se on **vaihdannan väline**: ihmiset hyväksyvät sen maksuksi. Se on **laskentayksikkö**: hinnat ilmaistaan sen avulla, joten voimme vertailla eri asioiden arvoa. Lisäksi se on **arvon säilyttäjä**: se siirtää arvoa nykyhetkestä tulevaisuuteen. Mikään raha ei säilytä arvoa täydellisesti, mutta jotkin rahamuodot menettävät ostovoimaansa hitaammin kuin toiset.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Historian saatossa monet asiat ovat toimineet rahana: simpukankuoret, suola, helmet, karja, kupari, hopea ja kulta. Jalometallit yleistyivät käytössä, koska ne olivat niukkoja, kestäviä ja laajalti hyväksyttyjä. Metallin kuljettaminen ja suojaaminen on kuitenkin vaikeaa, joten pankit alkoivat laskea liikkeeseen paperisia saamistodistuksia, jotka voitiin lunastaa määrättyä metallimäärää vastaan. Erilaisissa **kultakantajärjestelmissä** rahayksikkö oli lailla sidottu tiettyyn kultamäärään. Säännöt vaihtelivat paikan ja aikakauden mukaan.
 

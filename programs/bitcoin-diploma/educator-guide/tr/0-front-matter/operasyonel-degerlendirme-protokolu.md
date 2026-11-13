@@ -38,7 +38,7 @@ Hazırlık, sorun giderme, geri bildirim, erişilebilirlik düzenlemeleri ve yen
 [Bir grubu planlamak için öğrenci sayısını tahmini destek ve gözlem süresiyle çarpın, ardından hazırlık, geri bildirim, erişim ihtiyaçları ve yeniden değerlendirme için süre ekleyin. Eğitmenlerin yeterli zamanı yoksa planı değiştirin: daha az öğrenci, daha fazla eğitmen ya da daha fazla süre.](/micrographics/cohort-capacity-check-01/tr.md)
 
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/6f0ef0bc5390bc852b32e75eefa8fe3029500c47-1536x1024.svg)
 
 ### Yetkinlik-kanıt eşleştirme tablosu
 

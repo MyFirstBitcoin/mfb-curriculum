@@ -12,9 +12,9 @@ Katika mfumo wa kubadilishana bidhaa, biashara hufanikiwa tu pale ambapo watu wo
 
 Ni **njia ya kubadilishana**: watu huikubali kama malipo. Ni **kipimo cha thamani**: bei huelezwa kwa kutumia pesa, hivyo tunaweza kulinganisha thamani ya vitu tofauti. Na ni **hifadhi ya thamani**: huhamisha thamani kutoka leo hadi siku zijazo. Hakuna pesa inayohifadhi thamani kikamilifu, lakini baadhi ya aina hupoteza nguvu ya ununuzi polepole zaidi kuliko nyingine.
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/5ff39ecb1fcf52b1979a7b2276cc13af7ecd9650-1774x887.svg)
 
-![](https://cdn.sanity.io/images/vje9ehw2/production/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
+![](https://cdn.sanity.io/images/vje9ehw2/staging/a9efb037f62e6bfc928c9192ce4e5178d285dc26-1942x809.svg)
 
 Katika historia yote, vitu vingi vimetumika kama pesa: makombe, chumvi, shanga, mifugo, shaba, fedha na dhahabu. Madini ya thamani yalianza kutumika kwa wingi kwa sababu yalikuwa adimu, ya kudumu na yalikubalika na wengi. Lakini kubeba na kulinda madini ni vigumu, hivyo benki zilianza kutoa hati za karatasi ambazo zingeweza kukombolewa kwa kiasi kilichotajwa cha madini. Chini ya matoleo mbalimbali ya **kiwango cha dhahabu**, kipimo cha sarafu kiliunganishwa kisheria na kiasi fulani cha dhahabu. Kanuni zilitofautiana kulingana na mahali na kipindi.
 
