@@ -48,6 +48,16 @@ This repository follows a **continuous update** model.
 - Releases represent stable versions of the curriculum used in classes, partnerships, or public distribution.
 - Each release has a Git tag (`26.04`, `26.10`…), and **[CHANGELOG.md](CHANGELOG.md)** says what changed in it, for translators and educators.
 
+### Past editions
+
+Every past edition we still have stays available:
+
+- **2022 to 2026** (before this repository's current layout): the published PDFs are attached to the [GitHub releases](https://github.com/MyFirstBitcoin/mfb-curriculum/releases) `2022`, `2023`, `2024`, `2025` and `2026`. Only `2026` also has Markdown (its tag holds the English text); the earlier editions predate this repository.
+- **26.04 onwards:** each edition has a release too, and its Markdown is in its tag (for example [`26.04`](https://github.com/MyFirstBitcoin/mfb-curriculum/tree/26.04)). The latest release is the current edition.
+- **All editions as PDFs, in every language we have them:** the [Archive page](https://curriculum.myfirstbitcoin.org/archive/).
+
+Some past editions or languages were not found; they are listed on the issue that tracks this archive.
+
 
 ## 🤝 Contributing
 
