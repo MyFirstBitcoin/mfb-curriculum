@@ -46,6 +46,7 @@ This repository follows a **continuous update** model.
 
 - Content is updated continuously on `main`.
 - Releases represent stable versions of the curriculum used in classes, partnerships, or public distribution.
+- Each release has a Git tag (`26.04`, `26.10`…), and **[CHANGELOG.md](CHANGELOG.md)** says what changed in it, for translators and educators.
 
 
 ## 🤝 Contributing
