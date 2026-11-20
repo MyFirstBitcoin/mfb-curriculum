@@ -1,6 +1,6 @@
 # Bagaimana Anda Menggunakan Bitcoin?
 
-Sebuah **dompet Bitcoin** adalah alat, biasanya berupa aplikasi, yang memungkinkan Anda menerima, memeriksa, dan mengirim bitcoin. Bitcoin Anda tidak disimpan di dalam ponsel Anda: bitcoin tersebut tercatat di blockchain. Dompet mengelola **kunci** yang memungkinkan Anda membuktikan bahwa bitcoin tersebut milik Anda dan mengotorisasi pembayaran.
+Sebuah **dompet Bitcoin** adalah alat, biasanya berupa aplikasi, yang memungkinkan Anda menerima, memeriksa, dan mengirim bitcoin. Bitcoin Anda tidak disimpan di dalam ponsel Anda: bitcoin tersebut tercatat di blockchain. Dompet mengelola **kunci** yang memungkinkan Anda membuktikan bahwa Bitcoin tersebut milik Anda dan mengotorisasi pembayaran.
 
 Jadi, pertanyaan pertama tentang dompet apa pun adalah: **siapa yang mengendalikan kuncinya?**
 
@@ -10,7 +10,7 @@ Jadi, pertanyaan pertama tentang dompet apa pun adalah: **siapa yang mengendalik
 
 Dengan **dompet kustodi mandiri**, Anda mengendalikan kuncinya.
 
-Saat Anda menyiapkannya, dompet tersebut menampilkan **frasa benih** (juga disebut frasa pemulihan): daftar kata yang berurutan, biasanya terdiri dari 12 atau 24 kata. Frasa ini dapat membuat ulang kunci Anda di perangkat lain. Siapa pun yang memilikinya dapat mengambil bitcoin Anda. Frasa benih bukan sekadar cadangan: frasa ini memberikan akses penuh.
+Saat Anda menyiapkannya, dompet tersebut menampilkan **frasa benih** (juga disebut frasa pemulihan): daftar kata yang berurutan, biasanya terdiri dari 12 atau 24 kata. Frasa ini dapat membuat ulang kunci Anda di perangkat lain. Siapa pun yang memilikinya dapat mengambil Bitcoin Anda. Frasa benih bukan sekadar cadangan: frasa ini memberikan akses penuh.
 
 Lindungi frasa tersebut:
 
